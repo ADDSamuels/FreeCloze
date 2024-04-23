@@ -11,6 +11,40 @@ def PrintLogo():
     print("██╔══╝░░██╔══██╗██╔══╝░░██╔══╝░░██║░░██╗██║░░░░░██║░░██║██╔══╝░░██╔══╝░░")
     print("██║░░░░░██║░░██║███████╗███████╗╚█████╔╝███████╗╚█████╔╝███████╗███████╗")
     print("╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚══════╝░╚════╝░╚══════╝░╚════╝░╚══════╝╚══════╝")
+def heapify(a, b, n, i):
+    # Find largest among root and children
+    largest = i
+    l = 2 * i + 1
+    r = 2 * i + 2
+
+    if l < n and a[i] < a[l]:
+        largest = l
+
+    if r < n and a[largest] < a[r]:
+        largest = r
+
+    # If root is not largest, swap with largest and continue heapifying
+    if largest != i:
+        a[i], a[largest] = a[largest], a[i]
+        b[i], b[largest] = b[largest] , b[i]
+        a,b = heapify(a, b, n, largest)
+    return a, b
+
+
+def heapSort(a, b):
+    n = len(a)
+
+    # Build max heap
+    for i in range(n//2, -1, -1):
+        heapify(a, b, n, i)
+
+    for i in range(n-1, 0, -1):
+        # Swap
+        a[i], a[0] = a[0], a[i]
+        b[i], b[0] = b[0], b[i]
+        # Heapify root element
+        a, b = heapify(a, b, i, 0)
+    return a, b
 def EnterWordCount(outLang, lineCount):
     print("The language, "+outLang+", has "+str(lineCount)+" unique words")    
     if lineCount > 50000:
@@ -59,7 +93,7 @@ def GetListOfWords(freqName, lineCount):
         for line in f:
             i += 1
             #print(i)
-            if i % 20000 == 0:
+            if i % 80000 == 0:
                 print(str(100 * i / lineCount)+"% complete [part 1]")
             if len(line) > 0:
                 line = line.split()
@@ -73,7 +107,7 @@ def GetListOfWords(freqName, lineCount):
 def GetTSVList(outLang, inLang):
     i = 0
     tsvList = []
-    tsvName = "Tatoeba//" + outLang + "-" + inLang + ".tsv"
+    tsvName = "tatoeba//" + outLang + "-" + inLang + ".tsv"
     with open(tsvName, encoding='utf-8') as file:#UFT-8 is not automatic on Windows
         rd = csv.reader(file, delimiter="\t", quotechar='"')
         for line in rd:
@@ -83,44 +117,60 @@ def GetTSVList(outLang, inLang):
                 print(f"please wait [part 2] Item:({i})")
     return i, tsvList
 def SplitTSVList(tsvList, tsvLineCount, lowerOk):
-    outLangWords, outLangWordsi, popList = [], [], []
+    outLangWords, outLangWordsi = [], []
     outLangWordsCount = 0
     for i in range(tsvLineCount):
         temp = str(tsvList[i][0])[2:-2]
+        #print(temp)
         if len(temp) != 0:
             #print(temp)
-            temp = re.sub("([@„“*^%$€§\´¿¡·—£!¬¦|~#():;,.+=_><¦`…}{?\\|«»]+)", "", temp)
+            temp = re.sub(r"([@„“*^%$€§\´¿¡·—£!¬¦|~#():;,.+=_><¦`…}{?\\|«»]+)", "", temp)
+            temp = re.sub('"', '', temp)
             temp = temp.replace("'", "' ")
+            if lowerOk:
+                temp = temp.lower()
             tempList = temp.split()
             length = len(tempList)
-            j = 0
-            while j < length:
-                #tempList[j] = re.sub("([@„“*^%$€§\´¿¡·—£!¬¦|~#():;,.+=_><¦`…}{?\\|«»]+)", "", tempList[j])
-                if len(tempList[j]) == 0:
-                    popList.append(j)
-                elif lowerOk:
-                    tempList[j] = tempList[j].lower()
-                j += 1
-            if len(popList) > 0: #reversing the List, if I pop off the item 1, I have to adjust the rest of the list, for the rest of the pops
-                popList.sort(reverse=True)
-                print("↓"+str(i))
-                print(tempList)
-                print(popList)
-                for k in popList:
-                    tempList.pop(k)
-                print(tempList)
-                print("↑")
-            length -= len(popList)
-            outLangWords = outLangWords.copy() + tempList
-            outLangWordsi = outLangWordsi.copy() + [j]*length
+            for x in tempList:
+                outLangWords.append(x)
+            for j in range(length):
+                outLangWordsi.append(i)
             outLangWordsCount += length
-            #print(".")
-            popList = []
+        if i % 2000 == 0:
+            print(str(round(100*i/tsvLineCount, 2))+"% complete [part 3]")
     return outLangWords, outLangWordsi, outLangWordsCount
 def WriteListToFile(fileList, fileName):
+    print(fileName)
+    print("fi"+str(len(fileList)))
     with open(f'{fileName}.txt', 'w', encoding='utf-8') as file:
         for fileLine in fileList:
             file.write(f"{fileLine}\n")
+def BinarySearch(searchTerm, searchList, searchListLength):
+    left = 0
+    right = searchListLength
+    while left <= right:
+        mid = (left + right) // 2
+        if searchList[mid] == searchTerm:
+            return mid
+        elif searchList[mid] < searchTerm:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1
+def CreateFinalList(desiredWords, outLangWords, outLangWordsi, listOfWords, lowerOk, outLangWordsCount, tsvList):
+    finalList = []
+    for i in range(desiredWords):
+        if lowerOk:
+            testWord = (str((listOfWords[i][0]))[2:-2]).lower()
+        else:
+            testWord = str((listOfWords[i][0]))[2:-2]
+        binarySearch = BinarySearch(testWord, outLangWords, outLangWordsCount)
+        if binarySearch != -1:
+            j = outLangWordsi[binarySearch]
+            finalList.append(f"{tsvList[j][0]}\t{tsvList[j][1]}\t{str((listOfWords[i][0]))[2:-2]}")
+        if i % 20000 == 0:
+            print(str(100*i/desiredWords)+"% complete [part 3]")
+    return finalList
 def NewLang():
     lowerOk = True
     inLang = input("What language do you speak?, Type the two letter code: ")#no error checking
@@ -129,9 +179,10 @@ def NewLang():
     else:
         print("More languages will be added!")
     outLang = input("What language do you want to learn?, Type the two letter code: ")#no error checking
-    if outLang == 'de' or outLang[:2] == 'de':
+    if len(outLang) < 4: #== 'de' or outLang[:2] == 'de':
         print("Great!")
-        lowerOk = True
+        if outLang == "de":
+            lowerOk = True
     else:
         print("More languages will be added")
     print("Please wait")
@@ -145,68 +196,16 @@ def NewLang():
     #print(listOfWords)
     tsvLineCount, tsvList = GetTSVList(outLang, inLang)
     outLangWords, outLangWordsi, outLangWordsCount = SplitTSVList(tsvList, tsvLineCount, lowerOk)
-    WriteListToFile(outLangWords, "outlangwords")
-    WriteListToFile(outLangWordsi, "outlangwords")
-    WriteListToFile(outLangWordsCount, "outLangWordsCount")
-    #print(tsvList)
-    #print(tsvList[0:3])
-    print(f"Length of TSV list={len(tsvList)}")
-    skippedWordList = []
-    i=0
-    #print(listOfWords[0][0])
-    #print(listOfWords[1][0])
-    #print(listOfWords[2][0])
-    finalList = []
-    for i in range(desiredWords):
-        if i % 50 == 0:
-            print(str(100*i/desiredWords)+"% complete [part 3]")
-        if hardMode:
-            print("Hard mode doesn't work!")
-        else:
-            j = 0
-            loopPass = 0
-            if lowerOk:
-                testWord = (str((listOfWords[i][0]))[2:-2]).lower()
-            else:
-                testWord = str((listOfWords[i][0]))[2:-2]
-            while j < tsvLineCount and loopPass == 0:
-                try:
-                    test = str(tsvList[j][0])[2:-2]
-                    if len(test) == 0:
-                        print("len of test is 0!")
-                    test = test.replace("'", "' ")
-                    test = test.split()
-                    length = len(test)
-                    k = 0
-                    while k < length:
-                        if lowerOk:
-                            test[k] = re.sub("([@*^%$€§\´¿¡·—£!¬¦|~#():;,.+=_><¦`…}{?\\|«»]+)", "", test[k]).lower()
-                        else:
-                            test[k] = re.sub("([@*^%$€§\´¿¡·—£!¬¦|~#():;,.+=_><¦`…}{?\\|«»]+)", "", test[k])
-                        k += 1
-                    if testWord in test:
-                        loopPass = 1
-                        finalList.append(f"{tsvList[j][0]}\t{tsvList[j][1]}\t{str((listOfWords[i][0]))[2:-2]}")
-                    else:
-                        j += 1
-                except:
-                    print(f"{test}\ntestword:{testWord}\ni:{i}\nj:{j}")
-                    print("\nERROR!!\n")
-                    j += 1
-                    loopPass = 1
-            if j == tsvLineCount:
-                skippedWordList.append(testWord)
-        i += 1
-        if tsvLineCount > j:
-            pass
-        else:
-            print(f"Error! j={j}")
-        #print("i:"+str(i))
-    print("Skipped words="+str(skippedWordList))
-    with open(f'{outLang}-{inLang}-{desiredWords}.txt', 'w', encoding='utf-8') as file:
-        for line in finalList:
-            file.write(f"{line}\n")
-
+    #WriteListToFile(outLangWords, "outlangwords")
+    #WriteListToFile(outLangWordsi, "outlangwordsi")
+    #print(outLangWordsCount)
+    print("Loading heapsort")
+    outLangWords, outLangWordsi = heapSort(outLangWords, outLangWordsi)
+    print("Finishing heapsort")
+    #WriteListToFile(outLangWords, "outlangwords2")
+    #WriteListToFile(outLangWordsi, "outlangwordsi2")
+    finalList = CreateFinalList(desiredWords, outLangWords, outLangWordsi, listOfWords, lowerOk, outLangWordsCount, tsvList)
+    WriteListToFile(finalList, f"{outLang}-{inLang}")
 PrintLogo()
 print("V0.1 Made by REAL NAME: type credits for credits; help for help")
 print("Please note words may contain profanity and/or inappropiate references. Please don't give this program to children.")
@@ -216,26 +215,4 @@ if not os.path.exists("Saves"):
 else:
     print("Welcome back to FreeCloze!")
 NewLang()
-
-#assuming unsaved, and have selected German to learn
-#assumed learning from English
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 a=input('\nProgram finished')
