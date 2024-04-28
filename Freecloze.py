@@ -3,6 +3,8 @@
 import os
 import re
 import csv
+import tkinter as tk
+from tkinter import ttk
 #camelCase for variables PascalCase for functions ☺
 def PrintLogo():
     print("███████╗██████╗░███████╗███████╗░█████╗░██╗░░░░░░█████╗░███████╗███████╗")
@@ -206,13 +208,70 @@ def NewLang():
     #WriteListToFile(outLangWordsi, "outlangwordsi2")
     finalList = CreateFinalList(desiredWords, outLangWords, outLangWordsi, listOfWords, lowerOk, outLangWordsCount, tsvList)
     WriteListToFile(finalList, f"{outLang}-{inLang}")
+def TkSelectLanguage():
+    selectedLanguage = menuVar.get()
+    if selectedLanguage[0] in ["C","L"]:
+        selectedLanguageList = selectedLanguage.split()
+        if selectedLanguage[0] == "L":
+            pass
+        TkHideMenuInterface()
+
+
+def TkBack():
+    menuLabel.pack(pady="4px")
+    menuCombobox.pack(pady="4px")
+    confirmButton.pack(pady="4px")
+    messageLabel.config(text="")
+    backButton.pack_forget()
+
+def TkHideMenuInterface():
+    menuLabel.pack_forget()
+    menuCombobox.pack_forget()
+    confirmButton.pack_forget()
+    backButton.pack()
+
+def TkGetDirectoryFileNames():
+    additionalFiles = []
+    if not os.path.exists("Saves"):
+        os.mkdir('saves')
+        print("create saves directory")
+    else:
+        with os.scandir("saves/") as directory:
+            for entry in directory:
+                if entry.name.endswith(".txt") and entry.is_file():
+                    entryName = entry.name[:-4]
+                    if entryName.find("-") != -1:
+                        entryName = entryName.split("-")
+                        for i in range(2):
+                            if entryName[i] in languagesAbbreviations:
+                                entryName[i] = languages[languagesAbbreviations.index(entryName[i])]
+                            else:
+                                entryName[i] = "error"
+                        additionalFiles.append(f"Continue learning {entryName[0]} from {entryName[1]}")
+    return additionalFiles
 PrintLogo()
 print("V0.1 Made by REAL NAME: type credits for credits; help for help")
 print("Please note words may contain profanity and/or inappropiate references. Please don't give this program to children.")
-if not os.path.exists("Saves"):
-    os.mkdir('saves')
-    print("Welcome to FreeCloze! This is a free software")
-else:
-    print("Welcome back to FreeCloze!")
-NewLang()
-a=input('\nProgram finished')
+root = tk.Tk()
+root.title("FreeCloze")
+languages = ["English", "French", "German", "Italian", "Spanish", "Portuguese", "Polish", "Russian"]
+languageExpressions = [f"Learn {y} from {x}" for x in languages for y in languages if x != y]
+languagesAbbreviations = ["en", "fr", "de", "it", "es", "pt", "pl", "ru"]
+additionalFiles = TkGetDirectoryFileNames()
+if len(additionalFiles) > 0:
+    languageExpressions = additionalFiles.copy() + ["--------------------------------------"] + languageExpressions.copy()
+menuLabel = ttk.Label(root, text="Select Language:", font=("Arial", 14))
+menuVar = tk.StringVar()
+widthChars = int(root.winfo_screenwidth() * 0.25 / 10)  # Assuming average character width is 10 pixels
+menuCombobox = ttk.Combobox(root, width=widthChars, font=("Arial", 12), textvariable=menuVar, values=languageExpressions, state="readonly")
+menuCombobox.current(0)
+confirmButton = ttk.Button(root, text="Confirm", command=TkSelectLanguage)
+backButton = ttk.Button(root, text="Back", command=TkBack)
+messageLabel = ttk.Label(root, text="")
+menuLabel.pack(pady="4px")
+menuCombobox.pack(pady="4px")
+confirmButton.pack(pady="4px")
+messageLabel.pack(pady="4px")
+backButton.pack_forget()  # Initially hide the back button
+
+root.mainloop()
