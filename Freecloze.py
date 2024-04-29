@@ -96,13 +96,14 @@ def GetListOfWords(freqName, lineCount):
             i += 1
             #print(i)
             if i % 80000 == 0:
-                print(str(100 * i / lineCount)+"% complete [part 1]")
+                menuTitle.config(text=f"{100 * i / lineCount}% complete [part 1]")
+                root.update()
             if len(line) > 0:
                 line = line.split()
                 if len(line) == 2:
                     listOfWords.append([[line[0]], [line[1]], [i]])
                 else:
-                    print("Error: Line error by splitting. Found "+str(len (line.split()))+" pieces instead of 2!")
+                    print(f"Error: Line error by splitting. Found {len(line.split())} pieces instead of 2!")
             else:
                 print("Potential error. Line was blank!")
     return listOfWords
@@ -116,7 +117,8 @@ def GetTSVList(outLang, inLang):
             tsvList.append([[line[1]],[line[3]]])
             i += 1
             if i % 20000 == 0:
-                print(f"please wait [part 2] Item:({i})")
+                menuTitle.config(text=f"please wait [part 2] Item:({i})")
+                root.update()
     return i, tsvList
 def SplitTSVList(tsvList, tsvLineCount, lowerOk):
     outLangWords, outLangWordsi = [], []
@@ -139,7 +141,8 @@ def SplitTSVList(tsvList, tsvLineCount, lowerOk):
                 outLangWordsi.append(i)
             outLangWordsCount += length
         if i % 2000 == 0:
-            print(str(round(100*i/tsvLineCount, 2))+"% complete [part 3]")
+            menuTitle.config(text=str(round(100*i/tsvLineCount, 2))+"% complete [part 3]")
+            root.update()
     return outLangWords, outLangWordsi, outLangWordsCount
 def WriteListToFile(fileList, fileName):
     print(fileName)
@@ -169,63 +172,132 @@ def CreateFinalList(desiredWords, outLangWords, outLangWordsi, listOfWords, lowe
         binarySearch = BinarySearch(testWord, outLangWords, outLangWordsCount)
         if binarySearch != -1:
             j = outLangWordsi[binarySearch]
-            finalList.append(f"{tsvList[j][0]}\t{tsvList[j][1]}\t{str((listOfWords[i][0]))[2:-2]}")
+            finalList.append(f"{tsvList[j][0]}\t{tsvList[j][1]}\t{str((listOfWords[i][0]))[2:-2]}\t0\t0")
         if i % 20000 == 0:
-            print(str(100*i/desiredWords)+"% complete [part 3]")
+            pass#menuTitle.config(text=f"{100*i/desiredWords}% complete [part 3]")
     return finalList
-def NewLang():
-    lowerOk = True
-    inLang = input("What language do you speak?, Type the two letter code: ")#no error checking
-    if inLang == 'en' or inLang[:2] == 'en':
-        print("Great!")
-    else:
-        print("More languages will be added!")
-    outLang = input("What language do you want to learn?, Type the two letter code: ")#no error checking
-    if len(outLang) < 4: #== 'de' or outLang[:2] == 'de':
-        print("Great!")
-        if outLang == "de":
-            lowerOk = True
-    else:
-        print("More languages will be added")
-    print("Please wait")
-    freqName = 'FrequencyWords-master//content//2018//'+outLang+'//'+outLang+'_full.txt'
-    if not os.path.exists(freqName):
-        print(f"\n\nUnfortunately such file {freqName}doesn't exist\n\n")
-    lineCount = CountLines(freqName)
-    desiredWords = EnterWordCount(outLang, lineCount)
-    hardMode = EnterHardMode()
-    listOfWords = GetListOfWords(freqName, lineCount)
-    #print(listOfWords)
-    tsvLineCount, tsvList = GetTSVList(outLang, inLang)
-    outLangWords, outLangWordsi, outLangWordsCount = SplitTSVList(tsvList, tsvLineCount, lowerOk)
-    #WriteListToFile(outLangWords, "outlangwords")
-    #WriteListToFile(outLangWordsi, "outlangwordsi")
-    #print(outLangWordsCount)
-    print("Loading heapsort")
-    outLangWords, outLangWordsi = heapSort(outLangWords, outLangWordsi)
-    print("Finishing heapsort")
-    #WriteListToFile(outLangWords, "outlangwords2")
-    #WriteListToFile(outLangWordsi, "outlangwordsi2")
-    finalList = CreateFinalList(desiredWords, outLangWords, outLangWordsi, listOfWords, lowerOk, outLangWordsCount, tsvList)
-    WriteListToFile(finalList, f"{outLang}-{inLang}")
+# def NewLang():
+#     lowerOk = True
+#     inLang = input("What language do you speak?, Type the two letter code: ")#no error checking
+#     if inLang == 'en' or inLang[:2] == 'en':
+#         print("Great!")
+#     else:
+#         print("More languages will be added!")
+#     outLang = input("What language do you want to learn?, Type the two letter code: ")#no error checking
+#     if len(outLang) < 4: #== 'de' or outLang[:2] == 'de':
+#         print("Great!")
+#         if outLang == "de":
+#             lowerOk = True
+#     else:
+#         print("More languages will be added")
+#     print("Please wait")
+#     freqName = 'FrequencyWords-master//content//2018//'+outLang+'//'+outLang+'_full.txt'
+#     if not os.path.exists(freqName):
+#         print(f"\n\nUnfortunately such file {freqName}doesn't exist\n\n")
+#     lineCount = CountLines(freqName)
+#     desiredWords = EnterWordCount(outLang, lineCount)
+#     hardMode = EnterHardMode()
+#     listOfWords = GetListOfWords(freqName, lineCount)
+#     #print(listOfWords)
+#     tsvLineCount, tsvList = GetTSVList(outLang, inLang)
+#     outLangWords, outLangWordsi, outLangWordsCount = SplitTSVList(tsvList, tsvLineCount, lowerOk)
+#     #WriteListToFile(outLangWords, "outlangwords")
+#     #WriteListToFile(outLangWordsi, "outlangwordsi")
+#     #print(outLangWordsCount)
+#     menuTitle.config(text="Loading heapsort")
+#     outLangWords, outLangWordsi = heapSort(outLangWords, outLangWordsi)
+#     menuTitle.config(text="Finishing heapsort")
+#     #WriteListToFile(outLangWords, "outlangwords2")
+#     #WriteListToFile(outLangWordsi, "outlangwordsi2")
+#     finalList = CreateFinalList(desiredWords, outLangWords, outLangWordsi, listOfWords, lowerOk, outLangWordsCount, tsvList)
+#     WriteListToFile(finalList, f"{outLang}-{inLang}")
 def TkSelectLanguage():
     selectedLanguage = menuVar.get()
     if selectedLanguage[0] in ["C","L"]:
         selectedLanguageList = selectedLanguage.split()
         if selectedLanguage[0] == "L":
-            pass
-        TkHideMenuInterface()
-
+            print(selectedLanguageList[1])
+            print(selectedLanguageList[3])
+            outLang = languagesAbbreviations[languages.index(selectedLanguageList[1])]
+            inLang = languagesAbbreviations[languages.index(selectedLanguageList[3])]
+            outLangFull = selectedLanguageList[1]
+            print(outLang + "|" + inLang)
+            TkScoreInterface(outLang, inLang, selectedLanguage, outLangFull)
+            
+def TkNewLang():
+    selectedLanguage = menuVar.get()
+    selectedLanguageList = selectedLanguage.split()
+    outLang = languagesAbbreviations[languages.index(selectedLanguageList[1])]
+    inLang = languagesAbbreviations[languages.index(selectedLanguageList[3])]
+    menuTitle.config(text="Please Wait")
+    root.update()
+    desiredWordCount = (desiredWordCountBox.get()).replace(",", "")
+    print(desiredWordCount)
+    if len(desiredWordCount) == 0:
+        desiredWordCount = 1
+    else:
+        desiredWordCount = int(desiredWordCount)
+    freqName = 'FrequencyWords-master//content//2018//'+outLang+'//'+outLang+'_full.txt'
+    lineCount = CountLines(freqName)
+    if lineCount >= desiredWordCount:
+        #cosmetic
+        desiredWordCountBox.pack_forget()
+        confirmButton.pack_forget()
+        backButton.pack_forget()
+        root.update()
+        lowerOk = True
+        if outLang == "de":
+            lowerOk = False
+        if not os.path.exists(freqName):
+            print(f"\n\nUnfortunately such file {freqName}doesn't exist\n\n")
+        else:
+            listOfWords = GetListOfWords(freqName, lineCount)
+            tsvLineCount, tsvList = GetTSVList(outLang, inLang)
+            outLangWords, outLangWordsi, outLangWordsCount = SplitTSVList(tsvList, tsvLineCount, lowerOk)
+            menuTitle.config(text="Loading heapsort, this may take a few minutes, please leave the program alone.")
+            print("Loading heapsort")
+            root.update()
+            outLangWords, outLangWordsi = heapSort(outLangWords, outLangWordsi)
+            menuTitle.config(text="Finishing heapsort")
+            print("Finishing heapsort")
+            root.update()
+            finalList = CreateFinalList(desiredWordCount, outLangWords, outLangWordsi, listOfWords, lowerOk, outLangWordsCount, tsvList)
+            WriteListToFile(finalList, f"{outLang}-{inLang}")
+    menuTitle.config(text="Finished")
+    backButton.pack()
+        
 
 def TkBack():
-    menuLabel.pack(pady="4px")
+    menuTitle.config(text="Select Language:")
+    menuTitle.pack(pady="4px")
     menuCombobox.pack(pady="4px")
+    desiredWordCountBox.pack_forget()
+    confirmButton.pack_forget()
+    confirmButton.config(command=TkSelectLanguage, text="Confirm language")
     confirmButton.pack(pady="4px")
-    messageLabel.config(text="")
     backButton.pack_forget()
+def TkScoreInterface(outLang, inLang, selectedLanguage, outLangFull):
+    desiredWordCountBox.pack()
+    #backButton.pack()
+    confirmButton.pack_forget()
+    confirmButton.config(command=TkNewLang, text=f"Start learning {outLangFull}")
+    backButton.pack()
+    confirmButton.pack()
+    freqName = 'FrequencyWords-master//content//2018//'+outLang+'//'+outLang+'_full.txt'
+    lineCount = CountLines(freqName)
+    #desiredWords = EnterWordCount(outLang, lineCount)
+    if lineCount > 50000:
+        menuTitle.config(text=f"Learning {selectedLanguage[6:]} is great, since the program has {lineCount} unique words.\nType '50000' for a comprehensive fluency.")
+    elif lineCount > 20000:
+        menuTitle.config(text=f"Learning {selectedLanguage[6:]} is good, since the program has {(lineCount)} unique words\nType 20000 or {lineCount}.")
+    else:
+        menuTitle.config(text=f"This language doesn't have too many words.\nTry typing {lineCount}.")
+    selectedLanguage = selectedLanguage + "\n" + "lol"
+    menuCombobox.pack_forget()
+    #menuTitle.config(text=selectedLanguage)
 
 def TkHideMenuInterface():
-    menuLabel.pack_forget()
+    menuTitle.pack_forget()
     menuCombobox.pack_forget()
     confirmButton.pack_forget()
     backButton.pack()
@@ -260,18 +332,18 @@ languagesAbbreviations = ["en", "fr", "de", "it", "es", "pt", "pl", "ru"]
 additionalFiles = TkGetDirectoryFileNames()
 if len(additionalFiles) > 0:
     languageExpressions = additionalFiles.copy() + ["--------------------------------------"] + languageExpressions.copy()
-menuLabel = ttk.Label(root, text="Select Language:", font=("Arial", 14))
+menuTitle = ttk.Label(root, text="Select Language:", font=("Arial", 14))
 menuVar = tk.StringVar()
 widthChars = int(root.winfo_screenwidth() * 0.25 / 10)  # Assuming average character width is 10 pixels
 menuCombobox = ttk.Combobox(root, width=widthChars, font=("Arial", 12), textvariable=menuVar, values=languageExpressions, state="readonly")
 menuCombobox.current(0)
-confirmButton = ttk.Button(root, text="Confirm", command=TkSelectLanguage)
+confirmButton = ttk.Button(root, text="Confirm language", command=TkSelectLanguage)
 backButton = ttk.Button(root, text="Back", command=TkBack)
-messageLabel = ttk.Label(root, text="")
-menuLabel.pack(pady="4px")
+desiredWordCountBox = ttk.Entry(root)
+menuTitle.pack(pady="4px")
 menuCombobox.pack(pady="4px")
+desiredWordCountBox.pack_forget()
 confirmButton.pack(pady="4px")
-messageLabel.pack(pady="4px")
 backButton.pack_forget()  # Initially hide the back button
 
 root.mainloop()
