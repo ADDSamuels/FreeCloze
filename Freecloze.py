@@ -176,41 +176,24 @@ def CreateFinalList(desiredWords, outLangWords, outLangWordsi, listOfWords, lowe
         if i % 20000 == 0:
             pass#menuTitle.config(text=f"{100*i/desiredWords}% complete [part 3]")
     return finalList
-# def NewLang():
-#     lowerOk = True
-#     inLang = input("What language do you speak?, Type the two letter code: ")#no error checking
-#     if inLang == 'en' or inLang[:2] == 'en':
-#         print("Great!")
-#     else:
-#         print("More languages will be added!")
-#     outLang = input("What language do you want to learn?, Type the two letter code: ")#no error checking
-#     if len(outLang) < 4: #== 'de' or outLang[:2] == 'de':
-#         print("Great!")
-#         if outLang == "de":
-#             lowerOk = True
-#     else:
-#         print("More languages will be added")
-#     print("Please wait")
-#     freqName = 'FrequencyWords-master//content//2018//'+outLang+'//'+outLang+'_full.txt'
-#     if not os.path.exists(freqName):
-#         print(f"\n\nUnfortunately such file {freqName}doesn't exist\n\n")
-#     lineCount = CountLines(freqName)
-#     desiredWords = EnterWordCount(outLang, lineCount)
-#     hardMode = EnterHardMode()
-#     listOfWords = GetListOfWords(freqName, lineCount)
-#     #print(listOfWords)
-#     tsvLineCount, tsvList = GetTSVList(outLang, inLang)
-#     outLangWords, outLangWordsi, outLangWordsCount = SplitTSVList(tsvList, tsvLineCount, lowerOk)
-#     #WriteListToFile(outLangWords, "outlangwords")
-#     #WriteListToFile(outLangWordsi, "outlangwordsi")
-#     #print(outLangWordsCount)
-#     menuTitle.config(text="Loading heapsort")
-#     outLangWords, outLangWordsi = heapSort(outLangWords, outLangWordsi)
-#     menuTitle.config(text="Finishing heapsort")
-#     #WriteListToFile(outLangWords, "outlangwords2")
-#     #WriteListToFile(outLangWordsi, "outlangwordsi2")
-#     finalList = CreateFinalList(desiredWords, outLangWords, outLangWordsi, listOfWords, lowerOk, outLangWordsCount, tsvList)
-#     WriteListToFile(finalList, f"{outLang}-{inLang}")
+def TkEnterTypeMode():
+    global inTypeMode
+    inTypeMode = 1
+    outLangText1.pack()
+    outLangEntry.pack()
+    outLangText2.pack(side=tk.LEFT)
+    inLangText.pack()
+    root.update()
+def refreshTypeMode(event=None):
+    #print("refresh")
+    if inTypeMode == 1:
+        print("refresh1")
+        outLangText1.pack()
+        outLangEntry.pack()
+        outLangText2.pack(side=tk.LEFT)
+        inLangText.pack()
+        root.update()
+
 def TkSelectLanguage():
     selectedLanguage = menuVar.get()
     if selectedLanguage[0] in ["C","L"]:
@@ -223,6 +206,19 @@ def TkSelectLanguage():
             outLangFull = selectedLanguageList[1]
             print(outLang + "|" + inLang)
             TkScoreInterface(outLang, inLang, selectedLanguage, outLangFull)
+        if selectedLanguage[0] == "C":
+            outLang = languagesAbbreviations[languages.index(selectedLanguageList[2])]
+            inLang = languagesAbbreviations[languages.index(selectedLanguageList[4])]
+            print(outLang + "|" + inLang)
+            TkHideAllMenuButtons()
+            TkEnterTypeMode()
+def TkHideAllMenuButtons():
+    menuTitle.pack_forget()
+    menuCombobox.pack_forget()
+    confirmButton.pack_forget()
+    desiredWordCountBox.pack_forget()
+    backButton.pack_forget()
+
             
 def TkNewLang():
     selectedLanguage = menuVar.get()
@@ -278,6 +274,7 @@ def TkBack():
     backButton.pack_forget()
 def TkScoreInterface(outLang, inLang, selectedLanguage, outLangFull):
     desiredWordCountBox.pack()
+    desiredWordCountBox.focus()
     #backButton.pack()
     confirmButton.pack_forget()
     confirmButton.config(command=TkNewLang, text=f"Start learning {outLangFull}")
@@ -344,6 +341,17 @@ menuTitle.pack(pady="4px")
 menuCombobox.pack(pady="4px")
 desiredWordCountBox.pack_forget()
 confirmButton.pack(pady="4px")
+inTypeMode = 0
 backButton.pack_forget()  # Initially hide the back button
-
+outLangText1 = ttk.Label(root, text="outLangText1", font=("Arial", 14))
+outLangEntry = ttk.Entry(root)
+fakeLabel = tk.Label(root, text="123123123") #just a test atm
+outLangText2 = ttk.Label(root, text="outLangText2", font=("Arial", 14))
+inLangText = ttk.Label(root, text="inLangText", font=("Arial", 14))
+outLangText1.pack_forget()
+outLangEntry.pack_forget()
+outLangText2.pack_forget()
+inLangText.pack_forget()
+fakeLabel.pack_forget()
+root.bind("<Configure>", refreshTypeMode)
 root.mainloop()
