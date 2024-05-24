@@ -1,5 +1,6 @@
 import tkinter as tk
 import tkinter.font as tkFont
+import time
 
 def wrapText(text, mainFont, max_width):
     words = text.split()
@@ -23,14 +24,20 @@ def wrapText(text, mainFont, max_width):
 
     return lines
 
-def check_input(event, correct_word="would"):
-    entry = event.widget
-    text = entry.get()
+def check_input(entry_var, correct_word="would"):
+    text = entry_var.get()
+    print("Entered text:", text)
     
-    if correct_word.startswith(text) and len(text) <= len(correct_word):
-        entry.config(fg="#00ff00")
-    else:
-        entry.config(fg="red")
+    for i, char in enumerate(text):
+        if i >= len(correct_word) or char != correct_word[i]:
+            entry_var.widget.config(fg="red")
+            print("Color: red")
+            return
+    entry_var.widget.config(fg="#00ff00")
+    print("Color: green")
+
+def on_modified(entry_var, correct_word="would"):
+    check_input(entry_var, correct_word)
 
 def create_widgets_for_text(root, text, mainFont, max_width):
     lines = wrapText(text, mainFont, max_width)
@@ -51,13 +58,15 @@ def create_widgets_for_text(root, text, mainFont, max_width):
                 label.place(x=x_pos, y=y_pos)
 
                 # Create the Entry widget on top of the Label widget
-                entry = tk.Entry(root, bg="white", font=mainFont, borderwidth=0)
+                entry_var = tk.StringVar()
+                entry = tk.Entry(root, textvariable=entry_var, bg="white", font=mainFont, borderwidth=0, fg="black")
                 entry.place(x=x_pos, y=y_pos, width=label.winfo_reqwidth())
+                entry_var.widget = entry  # Add a reference to the entry widget in the StringVar
                 entry_widgets.append(entry)
                 entry.focus_set()
 
-                # Bind the entry widget to check input and update color
-                entry.bind("<KeyRelease>", check_input)
+                # Bind the StringVar to trigger on_modified when the value changes
+                entry_var.trace_add("write", lambda name, index, mode, sv=entry_var: on_modified(sv, correct_word="would"))
             else:
                 label = tk.Label(root, text=word, font=mainFont, bg=root.cget('bg'), borderwidth=0)
                 label.place(x=x_pos, y=y_pos)
@@ -91,7 +100,7 @@ def startLacunaGUI(event=None):
 
 # Create the main window
 root = tk.Tk()
-screen_width, screen_height= root.winfo_screenwidth(), root.winfo_screenheight()
+screen_width, screen_height = root.winfo_screenwidth(), root.winfo_screenheight()
 # Set the geometry of the root window to match the screen size
 root.geometry(f"{screen_width}x{screen_height}")
 root.update_idletasks()
