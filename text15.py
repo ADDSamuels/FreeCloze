@@ -23,6 +23,15 @@ def wrapText(text, mainFont, max_width):
 
     return lines
 
+def check_input(event, correct_word="would"):
+    entry = event.widget
+    text = entry.get()
+    
+    if correct_word.startswith(text) and len(text) <= len(correct_word):
+        entry.config(fg="#00ff00")
+    else:
+        entry.config(fg="red")
+
 def create_widgets_for_text(root, text, mainFont, max_width):
     lines = wrapText(text, mainFont, max_width)
     entry_widgets = []  # Store entry widgets
@@ -46,6 +55,9 @@ def create_widgets_for_text(root, text, mainFont, max_width):
                 entry.place(x=x_pos, y=y_pos, width=label.winfo_reqwidth())
                 entry_widgets.append(entry)
                 entry.focus_set()
+
+                # Bind the entry widget to check input and update color
+                entry.bind("<KeyRelease>", check_input)
             else:
                 label = tk.Label(root, text=word, font=mainFont, bg=root.cget('bg'), borderwidth=0)
                 label.place(x=x_pos, y=y_pos)
@@ -65,7 +77,6 @@ def startLacunaGUI(event=None):
     minFont = tkFont.Font(family="Arial", size=15)
     text = "This would be an example sentence that I wrote to show how the wrap works. I have changed the sentence so that it should be understandable and also to test if the wrapping is working correctly. Thank you."
     max_width = root.winfo_width() / 2  # Maximum width for the container
-    print(max_width)
     x_offset, y_pos = create_widgets_for_text(root, text, mainFont, max_width)
     root.update_idletasks()
     window_width = root.winfo_width()
@@ -83,6 +94,7 @@ root = tk.Tk()
 screen_width, screen_height= root.winfo_screenwidth(), root.winfo_screenheight()
 # Set the geometry of the root window to match the screen size
 root.geometry(f"{screen_width}x{screen_height}")
+root.update_idletasks()
 startLacunaGUI()
 
 # Track previous dimensions
