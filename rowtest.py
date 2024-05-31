@@ -1,7 +1,7 @@
 import tkinter as tk
 import tkinter.font as tkFont
 
-def addCharButtons(root, windowWidth, charList, yPos):
+def buttonsAddChar(root, windowWidth, charList, yPos):
     mainFont = tkFont.Font(family="Arial", size=25)
     xStart = 0
     buttons = []
@@ -17,7 +17,7 @@ def addCharButtons(root, windowWidth, charList, yPos):
 
     return buttons
 
-def change_button_text():
+def buttonsChangeText():
     for button in buttons:
         if shift_pressed:
             #check if text of char is ß (sharp-s), since before 2017
@@ -33,24 +33,22 @@ def change_button_text():
 def on_shift_press(event):
     global shift_pressed
     shift_pressed = True
-    change_button_text()
+    buttonsChangeText()
 
 # Define the function to detect Shift key release
 def on_shift_release(event):
     global shift_pressed
     shift_pressed = False
-    change_button_text()
+    buttonsChangeText()
 
 root = tk.Tk()
 screen_width, screen_height = root.winfo_screenwidth(), root.winfo_screenheight()
 # Set the geometry of the root window to match the screen size
 root.geometry(f"{screen_width}x{screen_height}")
 root.update_idletasks()
-windowWidth = root.winfo_width()
-print(windowWidth)
 
 # Add character buttons and store them in a list
-buttons = addCharButtons(root, windowWidth, "abcdeféßйяæœùč̈ëÿäðζ", 100)
+buttons = buttonsAddChar(root, root.winfo_width(), "abcdeféßйяæœùč̈ëÿäðζ", 100)
 
 # Initialize the shift_pressed variable
 shift_pressed = False
