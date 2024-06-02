@@ -1,7 +1,9 @@
 import tkinter as tk
 import tkinter.font as tkFont
 import time
-
+""" import win32api 
+def check_caps_lock_status():
+   return win32api.GetKeyState(0x14) & 1 == 1 """
 def wrapText(text, mainFont, max_width):
     words = text.split()
     lines = []
@@ -40,6 +42,7 @@ def on_modified(entry_var, correct_word="would"):
     check_input(entry_var, correct_word)
 
 def create_widgets_for_text(root, text, mainFont, max_width):
+    global entry
     lines = wrapText(text, mainFont, max_width)
     entry_widgets = []  # Store entry widgets
 
@@ -58,8 +61,10 @@ def create_widgets_for_text(root, text, mainFont, max_width):
                 label.place(x=x_pos, y=y_pos)
 
                 # Create the Entry widget on top of the Label widget
-                entry_var = tk.StringVar()
-                entry = tk.Entry(root, textvariable=entry_var, bg="white", font=mainFont, borderwidth=0, fg="black")
+                #entry_var = tk.StringVar()
+                entry = tk.Entry(root, textvariable=entry_var, bg="white", font=mainFont, borderwidth=0, fg="black", insertbackground="white")
+
+                #entry = tk.Entry(root, textvariable=entry_var, bg="white", font=mainFont, borderwidth=0, fg="black")
                 entry.place(x=x_pos, y=y_pos, width=label.winfo_reqwidth())
                 entry_var.widget = entry  # Add a reference to the entry widget in the StringVar
                 entry_widgets.append(entry)
@@ -77,7 +82,21 @@ def create_widgets_for_text(root, text, mainFont, max_width):
     for entry in entry_widgets:
         entry.lift()
     return x_offset, y_pos
-def buttonsAddChar(root, windowWidth, charList, yPos):
+def buttonsAddChar(char):
+    if shift_pressed:
+        if char == "ß":
+            char = "ẞ" #instead of ss
+        else:
+            char = char.upper()
+    print(f"Chartobeaddedtest:\t{char}")
+    # Get the current content of the entry
+    current_text = entry_var.get()
+    # Append the new character
+    new_text = current_text + char
+    # Update the entry with the new text
+    entry_var.set(new_text)
+    entry.icursor(tk.END)
+def buttonsInitChar(root, windowWidth, charList, yPos):
     mainFont = tkFont.Font(family="Arial", size=25)
     xStart = 0
     buttons = []
@@ -86,7 +105,7 @@ def buttonsAddChar(root, windowWidth, charList, yPos):
     else:
         xStart = windowWidth / 2 - (len(charList) * 45) / 2 #even
     for i, char in enumerate(charList):
-        charButton = tk.Button(root, text=char, font=mainFont)
+        charButton = tk.Button(root, text=char, font=mainFont, command=lambda char2=char: buttonsAddChar(char2))# need to set it to char2, since otherwise tk.Button will just set it to the last letter of char2
         x = xStart + 45 * (i - 1)
         charButton.place(x=x, y=yPos, width=40, height=40)
         buttons.append(charButton)
@@ -95,7 +114,7 @@ def buttonsAddChar(root, windowWidth, charList, yPos):
 
 def buttonsChangeText():
     for button in buttons:
-        if shift_pressed:
+        if shift_pressed:# is not check_caps_lock_status(): #just if shift_pressed in non-windows version
             #check if text of char is ß (sharp-s), since before 2017
             #the upper case of ß was SS. SS is still allowed, but I changed it to ẞ for style and functionality.
             if button["text"] == "ß":
@@ -118,6 +137,7 @@ def on_shift_release(event):
 
 def startLacunaGUI():
     global buttons
+    
     for widget in root.winfo_children():
         if isinstance(widget, tk.Label) or isinstance(widget, tk.Entry) or isinstance(widget, tk.Button):
             widget.destroy()
@@ -131,13 +151,16 @@ def startLacunaGUI():
     window_height = root.winfo_height()
     screen_width = root.winfo_screenwidth()
     screen_height = root.winfo_screenheight()
-    buttons = buttonsAddChar(root, root.winfo_width(), "abcdeféßйяæœùč̈ëÿäðζ", y_pos+20)
+    underLabel = tk.Label(root, text="This would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining text", font=minFont, wraplength=max_width, justify='left', anchor='nw')
+    underLabel.place(x=x_offset, y=y_pos+5)#20 + 45 for buttons
+    root.update_idletasks()  # Ensure all pending events are processed
+    #underLabel = underLabel.winfo_height()  # Get the height of the label
+    buttons = buttonsInitChar(root, root.winfo_width(), "wouldæœùîфю", y_pos+5+underLabel.winfo_height())
     root.update_idletasks() #potentially not needed
     x = (screen_width - window_width) // 2
     y = (screen_height - window_height) // 2
     root.geometry('{}x{}+{}+{}'.format(window_width, window_height, x, y))
-    underLabel = tk.Label(root, text="This would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining text", font=minFont, wraplength=max_width, justify='left', anchor='nw')
-    underLabel.place(x=x_offset, y=y_pos+65)#20 + 45 for buttons
+    
     root.update_idletasks()
 
     
@@ -148,8 +171,10 @@ screen_width, screen_height = root.winfo_screenwidth(), root.winfo_screenheight(
 # Set the geometry of the root window to match the screen size
 root.geometry(f"{screen_width}x{screen_height}")
 root.update_idletasks()
+entry_var = tk.StringVar()
 startLacunaGUI()
 root.update_idletasks()
+
 # Initialize the shift_pressed variable
 shift_pressed = False
 
