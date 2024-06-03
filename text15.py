@@ -1,8 +1,6 @@
 import tkinter as tk
 import tkinter.font as tkFont
-""" import win32api 
-def check_caps_lock_status():
-   return win32api.GetKeyState(0x14) & 1 == 1 """
+
 def LacunaWrapText(text, mainFont, max_width):
     words = text.split()
     lines = []
@@ -33,23 +31,18 @@ def LacunaCheckInput(entry_var, correct_word="would"):
         if i >= len(correct_word) or char != correct_word[i]:
             entry_var.widget.config(fg="red")
             print("Color: red")
-            return 1
+            return
     entry_var.widget.config(fg="#00ff00")
     print("Color: green")
-    return
 
-def LacunaOnModified(entry_var, correct_word="would"):
+def LacunaOnModified(*args, entry_var, correct_word="would"):
     LacunaCheckInput(entry_var, correct_word)
 
-def LacunaCreateTextWidges(root, text, mainFont, max_width):
-    global entry
+def LacunaCreateTextWidgets(root, text, mainFont, max_width, entry_var):
     lines = LacunaWrapText(text, mainFont, max_width)
-    entry_widgets = []  # Store entry widgets
+    entry_widgets = []
 
-    # Calculate the total width of the longest line
     max_line_width = max(sum(mainFont.measure(word) for word in line) + (len(line) - 1) * mainFont.measure(" ") for line in lines)
-    
-    # Calculate the starting x position to center the text block horizontally
     x_offset = (root.winfo_width() - max_line_width) // 2
 
     y_pos = 0
@@ -60,53 +53,45 @@ def LacunaCreateTextWidges(root, text, mainFont, max_width):
                 label = tk.Label(root, text=word, font=mainFont, bg=root.cget('bg'), borderwidth=0)
                 label.place(x=x_pos, y=y_pos)
 
-                # Create the Entry widget on top of the Label widget
-                #entry_var = tk.StringVar()
                 entry = tk.Entry(root, textvariable=entry_var, bg="white", font=mainFont, borderwidth=0, fg="black", insertbackground="white")
-
-                #entry = tk.Entry(root, textvariable=entry_var, bg="white", font=mainFont, borderwidth=0, fg="black")
                 entry.place(x=x_pos, y=y_pos, width=label.winfo_reqwidth())
-                entry_var.widget = entry  # Add a reference to the entry widget in the StringVar
+                entry_var.widget = entry
                 entry_widgets.append(entry)
                 entry.focus_set()
 
-                # Bind the StringVar to trigger LacunaOnModified when the value changes
-                entry_var.trace_add("write", lambda name, index, mode, sv=entry_var: LacunaOnModified(sv, correct_word="would"))
+                entry_var.trace_add("write", lambda name, index, mode, sv=entry_var: LacunaOnModified(name, index, mode, entry_var=sv, correct_word="would"))
             else:
                 label = tk.Label(root, text=word, font=mainFont, bg=root.cget('bg'), borderwidth=0)
                 label.place(x=x_pos, y=y_pos)
             x_pos += mainFont.measure(word) + mainFont.measure(" ")
         y_pos += mainFont.metrics("linespace")
 
-    # Lift entry widgets to the top
     for entry in entry_widgets:
         entry.lift()
     return x_offset, y_pos
-def ButtonsAddChar(char):
+
+def ButtonsAddChar(char, entry_var):
     if shift_pressed:
         if char == "ß":
-            char = "ẞ" #instead of ss
+            char = "ẞ"
         else:
             char = char.upper()
     print(f"Chartobeaddedtest:\t{char}")
-    # Get the current content of the entry
     current_text = entry_var.get()
-    # Append the new character
     new_text = current_text + char
-    # Update the entry with the new text
     entry_var.set(new_text)
-    entry.icursor(tk.END)
-def ButtonsInitChar(root, windowWidth, charList, yPos):
+    entry_var.widget.icursor(tk.END)
+
+def ButtonsInitChar(root, windowWidth, charList, yPos, entry_var):
     mainFont = tkFont.Font(family="Arial", size=25)
-    xStart = 0
     buttons = []
     if len(charList) % 2 == 1:
-        xStart = windowWidth / 2 - (((len(charList) - 1) * 45) - 5) / 2 #odd
+        xStart = windowWidth / 2 - (((len(charList) - 1) * 45) - 5) / 2
     else:
-        xStart = windowWidth / 2 - (len(charList) * 45) / 2 #even
+        xStart = windowWidth / 2 - (len(charList) * 45) / 2
     for i, char in enumerate(charList):
-        charButton = tk.Button(root, text=char, font=mainFont, command=lambda char2=char: ButtonsAddChar(char2))# need to set it to char2, since otherwise tk.Button will just set it to the last letter of char2
-        x = xStart + 45 * (i - 1)
+        charButton = tk.Button(root, text=char, font=mainFont, command=lambda char2=char: ButtonsAddChar(char2, entry_var))
+        x = xStart + 45 * i
         charButton.place(x=x, y=yPos, width=40, height=40)
         buttons.append(charButton)
 
@@ -114,55 +99,46 @@ def ButtonsInitChar(root, windowWidth, charList, yPos):
 
 def ButtonsChangeText():
     for button in buttons:
-        if shift_pressed:# is not check_caps_lock_status(): #just if shift_pressed in non-windows version
-            #check if text of char is ß (sharp-s), since before 2017
-            #the upper case of ß was SS. SS is still allowed, but I changed it to ẞ for style and functionality.
+        if shift_pressed:
             if button["text"] == "ß":
                 button.config(text="ẞ")
             else:
                 button.config(text=button["text"].upper())
         else:
             button.config(text=button["text"].lower())
-# Define the function to detect Shift key press
+
 def LacunaOnShiftPress(event):
     global shift_pressed
     shift_pressed = True
     ButtonsChangeText()
 
-# Define the function to detect Shift key release
 def LacunaOnShiftRelease(event):
     global shift_pressed
     shift_pressed = False
     ButtonsChangeText()
 
-def LacunaStartGui():
-    global buttons
-    
+def LacunaStartGui(root, entry_var):
     for widget in root.winfo_children():
         if isinstance(widget, tk.Label) or isinstance(widget, tk.Entry) or isinstance(widget, tk.Button):
             widget.destroy()
+    
     mainFont = tkFont.Font(family="Arial", size=20)
     minFont = tkFont.Font(family="Arial", size=15)
     text = "This would be an example sentence that I wrote to show how the wrap works. I have changed the sentence so that it should be understandable and also to test if the wrapping is working correctly. Thank you."
-    max_width = root.winfo_width() / 2  # Maximum width for the container
-    x_offset, y_pos = LacunaCreateTextWidges(root, text, mainFont, max_width)
-    root.update_idletasks()
-    window_width = root.winfo_width()
-    window_height = root.winfo_height()
-    screen_width = root.winfo_screenwidth()
-    screen_height = root.winfo_screenheight()
-    underLabel = tk.Label(root, text="This would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining textThis would be the underlining text", font=minFont, wraplength=max_width, justify='left', anchor='nw')
-    underLabel.place(x=x_offset, y=y_pos+5)#20 + 45 for buttons
-    root.update_idletasks()  # Ensure all pending events are processed
-    #underLabel = underLabel.winfo_height()  # Get the height of the label
-    buttons = ButtonsInitChar(root, root.winfo_width(), "wouldæœùîфю", y_pos+5+underLabel.winfo_height())
-    root.update_idletasks() #potentially not needed
-    x = (screen_width - window_width) // 2
-    y = (screen_height - window_height) // 2
-    root.geometry('{}x{}+{}+{}'.format(window_width, window_height, x, y))
+    max_width = root.winfo_width() / 2
     
+    x_offset, y_pos = LacunaCreateTextWidgets(root, text, mainFont, max_width, entry_var)
     root.update_idletasks()
-def LacunaOnConfigure(event):
+    
+    underLabel = tk.Label(root, text="This would be the underlining text", font=minFont, wraplength=max_width, justify='left', anchor='nw')
+    underLabel.place(x=x_offset, y=y_pos + 5)
+    root.update_idletasks()
+    
+    global buttons
+    buttons = ButtonsInitChar(root, root.winfo_width(), "wouldæœùîфю", y_pos + 5 + underLabel.winfo_height(), entry_var)
+    root.update_idletasks()
+
+def LacunaOnConfigure(event, root, entry_var):
     global previous_width, previous_height
     current_width = root.winfo_width()
     current_height = root.winfo_height()
@@ -170,46 +146,43 @@ def LacunaOnConfigure(event):
     if current_width != previous_width or current_height != previous_height:
         previous_width = current_width
         previous_height = current_height
-        LacunaDebouncedStartGui()
+        LacunaDebouncedStartGui(root, entry_var)
 
-# Debounce mechanism
 def LacunaDebounce(func, delay):
     def LacunaDebouncedFunc(*args, **kwargs):
         if hasattr(LacunaDebouncedFunc, 'after_id'):
             root.after_cancel(LacunaDebouncedFunc.after_id)
         LacunaDebouncedFunc.after_id = root.after(delay, lambda: func(*args, **kwargs))
     return LacunaDebouncedFunc
+
 def LacunaMain():
     global root
     global shift_pressed
-    global entry_var
-    global LacunaDebouncedStartGui
     global previous_height
     global previous_width
-    # Create the main window
+
     root = tk.Tk()
     screen_width, screen_height = root.winfo_screenwidth(), root.winfo_screenheight()
-    # Set the geometry of the root window to match the screen size
     root.geometry(f"{screen_width}x{screen_height}")
     root.update_idletasks()
+    
     entry_var = tk.StringVar()
-    LacunaStartGui()
+    LacunaStartGui(root, entry_var)
     root.update_idletasks()
-
-    # Initialize the shift_pressed variable
+    
     shift_pressed = False
 
-
-    # Track previous dimensions
     previous_width = root.winfo_width()
     previous_height = root.winfo_height()
 
-    LacunaDebouncedStartGui = LacunaDebounce(LacunaStartGui, 200)  # 200 milliseconds delay
+    global LacunaDebouncedStartGui
+    LacunaDebouncedStartGui = LacunaDebounce(LacunaStartGui, 200)
 
-    root.bind('<Configure>', LacunaOnConfigure)
+    root.bind('<Configure>', lambda event: LacunaOnConfigure(event, root, entry_var))
     root.bind('<Shift_L>', LacunaOnShiftPress)
     root.bind('<KeyRelease-Shift_L>', LacunaOnShiftRelease)
     root.bind('<Shift_R>', LacunaOnShiftPress)
     root.bind('<KeyRelease-Shift_R>', LacunaOnShiftRelease)
     root.mainloop()
+
 LacunaMain()
