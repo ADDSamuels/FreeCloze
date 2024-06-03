@@ -1,10 +1,9 @@
 import tkinter as tk
 import tkinter.font as tkFont
-import time
 """ import win32api 
 def check_caps_lock_status():
    return win32api.GetKeyState(0x14) & 1 == 1 """
-def wrapText(text, mainFont, max_width):
+def LacunaWrapText(text, mainFont, max_width):
     words = text.split()
     lines = []
     current_line = []
@@ -26,7 +25,7 @@ def wrapText(text, mainFont, max_width):
 
     return lines
 
-def check_input(entry_var, correct_word="would"):
+def LacunaCheckInput(entry_var, correct_word="would"):
     text = entry_var.get()
     print("Entered text:", text)
     
@@ -38,12 +37,12 @@ def check_input(entry_var, correct_word="would"):
     entry_var.widget.config(fg="#00ff00")
     print("Color: green")
 
-def on_modified(entry_var, correct_word="would"):
-    check_input(entry_var, correct_word)
+def LacunaOnModified(entry_var, correct_word="would"):
+    LacunaCheckInput(entry_var, correct_word)
 
-def create_widgets_for_text(root, text, mainFont, max_width):
+def LacunaCreateTextWidges(root, text, mainFont, max_width):
     global entry
-    lines = wrapText(text, mainFont, max_width)
+    lines = LacunaWrapText(text, mainFont, max_width)
     entry_widgets = []  # Store entry widgets
 
     # Calculate the total width of the longest line
@@ -70,8 +69,8 @@ def create_widgets_for_text(root, text, mainFont, max_width):
                 entry_widgets.append(entry)
                 entry.focus_set()
 
-                # Bind the StringVar to trigger on_modified when the value changes
-                entry_var.trace_add("write", lambda name, index, mode, sv=entry_var: on_modified(sv, correct_word="would"))
+                # Bind the StringVar to trigger LacunaOnModified when the value changes
+                entry_var.trace_add("write", lambda name, index, mode, sv=entry_var: LacunaOnModified(sv, correct_word="would"))
             else:
                 label = tk.Label(root, text=word, font=mainFont, bg=root.cget('bg'), borderwidth=0)
                 label.place(x=x_pos, y=y_pos)
@@ -82,7 +81,7 @@ def create_widgets_for_text(root, text, mainFont, max_width):
     for entry in entry_widgets:
         entry.lift()
     return x_offset, y_pos
-def buttonsAddChar(char):
+def ButtonsAddChar(char):
     if shift_pressed:
         if char == "ß":
             char = "ẞ" #instead of ss
@@ -96,7 +95,7 @@ def buttonsAddChar(char):
     # Update the entry with the new text
     entry_var.set(new_text)
     entry.icursor(tk.END)
-def buttonsInitChar(root, windowWidth, charList, yPos):
+def ButtonsInitChar(root, windowWidth, charList, yPos):
     mainFont = tkFont.Font(family="Arial", size=25)
     xStart = 0
     buttons = []
@@ -105,14 +104,14 @@ def buttonsInitChar(root, windowWidth, charList, yPos):
     else:
         xStart = windowWidth / 2 - (len(charList) * 45) / 2 #even
     for i, char in enumerate(charList):
-        charButton = tk.Button(root, text=char, font=mainFont, command=lambda char2=char: buttonsAddChar(char2))# need to set it to char2, since otherwise tk.Button will just set it to the last letter of char2
+        charButton = tk.Button(root, text=char, font=mainFont, command=lambda char2=char: ButtonsAddChar(char2))# need to set it to char2, since otherwise tk.Button will just set it to the last letter of char2
         x = xStart + 45 * (i - 1)
         charButton.place(x=x, y=yPos, width=40, height=40)
         buttons.append(charButton)
 
     return buttons
 
-def buttonsChangeText():
+def ButtonsChangeText():
     for button in buttons:
         if shift_pressed:# is not check_caps_lock_status(): #just if shift_pressed in non-windows version
             #check if text of char is ß (sharp-s), since before 2017
@@ -124,18 +123,18 @@ def buttonsChangeText():
         else:
             button.config(text=button["text"].lower())
 # Define the function to detect Shift key press
-def on_shift_press(event):
+def LacunaOnShiftPress(event):
     global shift_pressed
     shift_pressed = True
-    buttonsChangeText()
+    ButtonsChangeText()
 
 # Define the function to detect Shift key release
-def on_shift_release(event):
+def LacunaOnShiftRelease(event):
     global shift_pressed
     shift_pressed = False
-    buttonsChangeText()
+    ButtonsChangeText()
 
-def startLacunaGUI():
+def LacunaStartGui():
     global buttons
     
     for widget in root.winfo_children():
@@ -145,7 +144,7 @@ def startLacunaGUI():
     minFont = tkFont.Font(family="Arial", size=15)
     text = "This would be an example sentence that I wrote to show how the wrap works. I have changed the sentence so that it should be understandable and also to test if the wrapping is working correctly. Thank you."
     max_width = root.winfo_width() / 2  # Maximum width for the container
-    x_offset, y_pos = create_widgets_for_text(root, text, mainFont, max_width)
+    x_offset, y_pos = LacunaCreateTextWidges(root, text, mainFont, max_width)
     root.update_idletasks()
     window_width = root.winfo_width()
     window_height = root.winfo_height()
@@ -155,7 +154,7 @@ def startLacunaGUI():
     underLabel.place(x=x_offset, y=y_pos+5)#20 + 45 for buttons
     root.update_idletasks()  # Ensure all pending events are processed
     #underLabel = underLabel.winfo_height()  # Get the height of the label
-    buttons = buttonsInitChar(root, root.winfo_width(), "wouldæœùîфю", y_pos+5+underLabel.winfo_height())
+    buttons = ButtonsInitChar(root, root.winfo_width(), "wouldæœùîфю", y_pos+5+underLabel.winfo_height())
     root.update_idletasks() #potentially not needed
     x = (screen_width - window_width) // 2
     y = (screen_height - window_height) // 2
@@ -172,7 +171,7 @@ screen_width, screen_height = root.winfo_screenwidth(), root.winfo_screenheight(
 root.geometry(f"{screen_width}x{screen_height}")
 root.update_idletasks()
 entry_var = tk.StringVar()
-startLacunaGUI()
+LacunaStartGui()
 root.update_idletasks()
 
 # Initialize the shift_pressed variable
@@ -183,7 +182,7 @@ shift_pressed = False
 previous_width = root.winfo_width()
 previous_height = root.winfo_height()
 
-def on_configure(event):
+def LacunaOnConfigure(event):
     global previous_width, previous_height
     current_width = root.winfo_width()
     current_height = root.winfo_height()
@@ -191,21 +190,21 @@ def on_configure(event):
     if current_width != previous_width or current_height != previous_height:
         previous_width = current_width
         previous_height = current_height
-        debounced_startLacunaGUI()
+        LacunaDebouncedStartGui()
 
 # Debounce mechanism
-def debounce(func, delay):
-    def debounced_func(*args, **kwargs):
-        if hasattr(debounced_func, 'after_id'):
-            root.after_cancel(debounced_func.after_id)
-        debounced_func.after_id = root.after(delay, lambda: func(*args, **kwargs))
-    return debounced_func
+def LacunaDebounce(func, delay):
+    def LacunaDebouncedFunc(*args, **kwargs):
+        if hasattr(LacunaDebouncedFunc, 'after_id'):
+            root.after_cancel(LacunaDebouncedFunc.after_id)
+        LacunaDebouncedFunc.after_id = root.after(delay, lambda: func(*args, **kwargs))
+    return LacunaDebouncedFunc
 
-debounced_startLacunaGUI = debounce(startLacunaGUI, 200)  # 200 milliseconds delay
+LacunaDebouncedStartGui = LacunaDebounce(LacunaStartGui, 200)  # 200 milliseconds delay
 
-root.bind('<Configure>', on_configure)
-root.bind('<Shift_L>', on_shift_press)
-root.bind('<KeyRelease-Shift_L>', on_shift_release)
-root.bind('<Shift_R>', on_shift_press)
-root.bind('<KeyRelease-Shift_R>', on_shift_release)
+root.bind('<Configure>', LacunaOnConfigure)
+root.bind('<Shift_L>', LacunaOnShiftPress)
+root.bind('<KeyRelease-Shift_L>', LacunaOnShiftRelease)
+root.bind('<Shift_R>', LacunaOnShiftPress)
+root.bind('<KeyRelease-Shift_R>', LacunaOnShiftRelease)
 root.mainloop()
