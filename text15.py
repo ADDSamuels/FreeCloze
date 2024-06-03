@@ -33,9 +33,10 @@ def LacunaCheckInput(entry_var, correct_word="would"):
         if i >= len(correct_word) or char != correct_word[i]:
             entry_var.widget.config(fg="red")
             print("Color: red")
-            return
+            return 1
     entry_var.widget.config(fg="#00ff00")
     print("Color: green")
+    return
 
 def LacunaOnModified(entry_var, correct_word="would"):
     LacunaCheckInput(entry_var, correct_word)
@@ -161,27 +162,6 @@ def LacunaStartGui():
     root.geometry('{}x{}+{}+{}'.format(window_width, window_height, x, y))
     
     root.update_idletasks()
-
-    
-
-# Create the main window
-root = tk.Tk()
-screen_width, screen_height = root.winfo_screenwidth(), root.winfo_screenheight()
-# Set the geometry of the root window to match the screen size
-root.geometry(f"{screen_width}x{screen_height}")
-root.update_idletasks()
-entry_var = tk.StringVar()
-LacunaStartGui()
-root.update_idletasks()
-
-# Initialize the shift_pressed variable
-shift_pressed = False
-
-
-# Track previous dimensions
-previous_width = root.winfo_width()
-previous_height = root.winfo_height()
-
 def LacunaOnConfigure(event):
     global previous_width, previous_height
     current_width = root.winfo_width()
@@ -199,12 +179,37 @@ def LacunaDebounce(func, delay):
             root.after_cancel(LacunaDebouncedFunc.after_id)
         LacunaDebouncedFunc.after_id = root.after(delay, lambda: func(*args, **kwargs))
     return LacunaDebouncedFunc
+def LacunaMain():
+    global root
+    global shift_pressed
+    global entry_var
+    global LacunaDebouncedStartGui
+    global previous_height
+    global previous_width
+    # Create the main window
+    root = tk.Tk()
+    screen_width, screen_height = root.winfo_screenwidth(), root.winfo_screenheight()
+    # Set the geometry of the root window to match the screen size
+    root.geometry(f"{screen_width}x{screen_height}")
+    root.update_idletasks()
+    entry_var = tk.StringVar()
+    LacunaStartGui()
+    root.update_idletasks()
 
-LacunaDebouncedStartGui = LacunaDebounce(LacunaStartGui, 200)  # 200 milliseconds delay
+    # Initialize the shift_pressed variable
+    shift_pressed = False
 
-root.bind('<Configure>', LacunaOnConfigure)
-root.bind('<Shift_L>', LacunaOnShiftPress)
-root.bind('<KeyRelease-Shift_L>', LacunaOnShiftRelease)
-root.bind('<Shift_R>', LacunaOnShiftPress)
-root.bind('<KeyRelease-Shift_R>', LacunaOnShiftRelease)
-root.mainloop()
+
+    # Track previous dimensions
+    previous_width = root.winfo_width()
+    previous_height = root.winfo_height()
+
+    LacunaDebouncedStartGui = LacunaDebounce(LacunaStartGui, 200)  # 200 milliseconds delay
+
+    root.bind('<Configure>', LacunaOnConfigure)
+    root.bind('<Shift_L>', LacunaOnShiftPress)
+    root.bind('<KeyRelease-Shift_L>', LacunaOnShiftRelease)
+    root.bind('<Shift_R>', LacunaOnShiftPress)
+    root.bind('<KeyRelease-Shift_R>', LacunaOnShiftRelease)
+    root.mainloop()
+LacunaMain()
