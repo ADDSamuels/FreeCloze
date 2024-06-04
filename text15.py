@@ -1,9 +1,6 @@
 import tkinter as tk
 import tkinter.font as tkFont
 
-# Dictionary to map StringVar to Entry widget
-entry_widgets_map = {}
-
 def LacunaWrapText(text, mainFont, max_width):
     words = text.split()
     lines = []
@@ -32,10 +29,10 @@ def LacunaCheckInput(entry_var, correct_word="would"):
     
     for i, char in enumerate(text):
         if i >= len(correct_word) or char != correct_word[i]:
-            entry_widgets_map[entry_var].config(fg="red")
+            entry_var.widget.config(fg="red")
             print("Color: red")
             return
-    entry_widgets_map[entry_var].config(fg="#00ff00")
+    entry_var.widget.config(fg="#00ff00")
     print("Color: green")
 
 def LacunaOnModified(*args, entry_var, correct_word="would"):
@@ -66,7 +63,7 @@ def LacunaCreateTextWidgets(root, text, mainFont, max_width, entry_values=None):
 
                 entry = tk.Entry(root, textvariable=entry_var, bg="white", font=mainFont, borderwidth=0, fg="black", insertbackground="white")
                 entry.place(x=x_pos, y=y_pos, width=label.winfo_reqwidth())
-                entry_widgets_map[entry_var] = entry  # Store the mapping
+                entry_var.widget = entry
                 entry_widgets.append(entry)
                 entry.focus_set()
 
@@ -96,7 +93,7 @@ def ButtonsAddChar(char):
     current_text = current_entry_var.get()
     new_text = current_text + char
     current_entry_var.set(new_text)
-    entry_widgets_map[current_entry_var].icursor(tk.END)
+    current_entry_var.widget.icursor(tk.END)
 
 def ButtonsInitChar(root, windowWidth, charList, yPos):
     mainFont = tkFont.Font(family="Arial", size=25)
