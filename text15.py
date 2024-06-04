@@ -26,14 +26,16 @@ def LacunaWrapText(text, mainFont, max_width):
 def LacunaCheckInput(entry_var, correct_word="would"):
     text = entry_var.get()
     print("Entered text:", text)
-    
-    for i, char in enumerate(text):
-        if i >= len(correct_word) or char != correct_word[i]:
-            entry_var.widget.config(fg="red")
-            print("Color: red")
-            return
-    entry_var.widget.config(fg="#00ff00")
-    print("Color: green")
+    if hasattr(entry_var, 'widget'):
+        for i, char in enumerate(text):
+            if i >= len(correct_word) or char != correct_word[i]:
+                entry_var.widget.config(fg="red")
+                print("Color: red")
+                return
+        entry_var.widget.config(fg="#00ff00")
+        print("Color: green")
+    else:
+        print("Widget does not exist!")
 
 def LacunaOnModified(*args, entry_var, correct_word="would"):
     LacunaCheckInput(entry_var, correct_word)
@@ -150,6 +152,7 @@ def LacunaStartGui(root, entry_values=None):
     global buttons
     buttons = ButtonsInitChar(root, root.winfo_width(), "wouldæœùîфю", y_pos + 5 + underLabel.winfo_height())
     root.update_idletasks()
+    LacunaCheckInput(current_entry_var, "would")
 
 def LacunaOnConfigure(event, root):
     global previous_width, previous_height
