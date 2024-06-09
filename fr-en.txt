@@ -1,0 +1,10 @@
+['Tom a lancé une canette de bière vide à Mary.']	['Tom threw an empty beer can at Mary.']	de	0	0
+['Je reste.']	["I'm staying."]	je	0	0
+["C'est une vraie surprise."]	['This is a real surprise.']	est	0	0
+["Ce n'est pas tellement une surprise, non\u202f?"]	["It's not much of a surprise, is it?"]	pas	0	0
+['Je suis le chef de cette équipe.']	['I am the leader of this team.']	le	0	0
+["J'espère que tu es bien reposée."]	["I hope you're well rested."]	que	0	0
+['Je ne commettrai pas la même erreur la prochaine fois.']	["I won't make the same mistake next time."]	la	0	0
+['Il vous faut être plus organisé.']	['You gotta get more organized.']	vous	0	0
+['Tu as regardé dans le placard\xa0?']	['Did you look in the cupboard?']	tu	0	0
+['Un bruit soudain détourna leur attention du jeu.']	['A sudden noise abstracted their attention from the game.']	un	0	0

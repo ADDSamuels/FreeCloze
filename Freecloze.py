@@ -45,7 +45,8 @@ def LacunaCheckInput(entry_var, correct_word="would"):
 
 def LacunaOnModified(*args, entry_var, correct_word="would"):
     LacunaCheckInput(entry_var, correct_word)
-
+def LacunaOnEnter():
+    print("pressed enter")
 def LacunaCreateTextWidgets(root, text, mainFont, max_width, entry_values=None):
     lines = LacunaWrapText(text, mainFont, max_width)
     entry_widgets = []
@@ -74,6 +75,7 @@ def LacunaCreateTextWidgets(root, text, mainFont, max_width, entry_values=None):
                 entry_var.widget = entry
                 entry_widgets.append(entry)
                 entry.focus_set()
+                entry.bind(LacunaOnEnter)
 
                 global current_entry_var
                 current_entry_var = entry_var
@@ -181,14 +183,12 @@ def LacunaDebounce(func, delay):
         LacunaDebouncedFunc.after_id = root.after(delay, lambda: func(*args, **kwargs))
     return LacunaDebouncedFunc
 
-def LacunaMain():
-    #global root
+def LacunaMain(outLang, inLang):
     global shift_pressed
     global previous_height
     global previous_width
     global current_entry_var
-
-    #root = tk.Tk()
+    print(outLang)
     screen_width, screen_height = root.winfo_screenwidth(), root.winfo_screenheight()
     root.geometry(f"{screen_width}x{screen_height}")
     root.update_idletasks()
@@ -384,7 +384,7 @@ def CreateFinalList(desiredWords, outLangWords, outLangWordsi, listOfWords, lowe
         if i % 20000 == 0:
             pass#menuTitle.config(text=f"{100*i/desiredWords}% complete [part 3]")
     return finalList
-def TkEnterTypeMode():
+def TkEnterTypeMode(outLang, inLang):
     global inTypeMode
     inTypeMode = 1
     """ outLangText1.pack()
@@ -392,7 +392,7 @@ def TkEnterTypeMode():
     outLangText2.pack(side=tk.LEFT)
     inLangText.pack() """
     #root.update()
-    LacunaMain()
+    LacunaMain(outLang, inLang)
 def refreshTypeMode(event=None):
     #print("refresh")
     if inTypeMode == 1:
@@ -420,7 +420,7 @@ def TkSelectLanguage():
             inLang = languagesAbbreviations[languages.index(selectedLanguageList[4])]
             print(outLang + "|" + inLang)
             TkHideAllMenuButtons()
-            TkEnterTypeMode()
+            TkEnterTypeMode(outLang, inLang)
 def TkHideAllMenuButtons():
     menuTitle.pack_forget()
     menuCombobox.pack_forget()
