@@ -5,6 +5,8 @@ import re
 import csv
 import tkinter as tk
 from tkinter import ttk
+import codecs
+
 import tkinter.font as tkFont
 #camelCase for variables PascalCase for functions ☺
 def LacunaWrapText(text, mainFont, max_width):
@@ -139,7 +141,17 @@ def LacunaOnShiftRelease(event):
     global shift_pressed
     shift_pressed = False
     ButtonsChangeText()
+def LacunaRoundStart(outLang, inLang):
+    global OutLangTexts
+    global InLangTexts
+    global RoundCount
+    with open(f'saves//{outLang}-{inLang}.txt', 'r', encoding='utf-8') as file:#
+        for line in file:
+            line.rstrip()
 
+
+
+    
 def LacunaStartGui(root, entry_values=None):
     for widget in root.winfo_children():
         if isinstance(widget, tk.Label) or isinstance(widget, tk.Entry) or isinstance(widget, tk.Button):
@@ -189,6 +201,8 @@ def LacunaMain(outLang, inLang):
     global previous_width
     global current_entry_var
     print(outLang)
+    print(inLang)
+    LacunaRoundStart(outLang, inLang)
     screen_width, screen_height = root.winfo_screenwidth(), root.winfo_screenheight()
     root.geometry(f"{screen_width}x{screen_height}")
     root.update_idletasks()
@@ -320,13 +334,25 @@ def GetTSVList(outLang, inLang):
     tsvList = []
     tsvName = "tatoeba//" + outLang + "-" + inLang + ".tsv"
     with open(tsvName, encoding='utf-8') as file:#UFT-8 is not automatic on Windows
-        rd = csv.reader(file, delimiter="\t", quotechar='"')
-        for line in rd:
+        for line in file:
+            line = line.rstrip()  # Removes trailing whitespace characters from the line
+            #print(line)
+
+            line = line.split("\t")  # Splits the line into columns using the tab character as delimiter
+            #print(line)
             tsvList.append([[line[1]],[line[3]]])
+            
             i += 1
             if i % 20000 == 0:
                 menuTitle.config(text=f"please wait [part 2] Item:({i})")
                 root.update()
+        # rd = csv.reader(file, delimiter="\t", quotechar='"')
+        # for line in rd:
+        #     tsvList.append([[line[1]],[line[3]]])
+        #     i += 1
+        #     if i % 20000 == 0:
+        #         menuTitle.config(text=f"please wait [part 2] Item:({i})")
+        #         root.update()
     return i, tsvList
 def SplitTSVList(tsvList, tsvLineCount, lowerOk):
     outLangWords, outLangWordsi = [], []
@@ -358,6 +384,43 @@ def WriteListToFile(fileList, fileName):
     with open(f'{fileName}.txt', 'w', encoding='utf-8') as file:
         for fileLine in fileList:
             file.write(f"{fileLine}\n")
+def WriteListToFile2(fileList, fileName):
+    with open(f'{fileName}.txt', 'w', encoding='utf-8') as file:
+        for fileLine in fileList:
+            line_str = "\t".join([str(item) for sublist in fileLine for item in sublist])
+            file.write(f"{line_str}\n")
+            
+
+def unescape_unicode(text):
+    """
+    Convert Unicode escape sequences to proper Unicode characters.
+    """
+    # Replace escaped single quotes with single quotes
+    text = text.replace("\\'", "'")
+    # Convert \xa0 to non-breaking space
+    text = text.replace("\\xa0", "\u00a0")
+    # Convert other escaped Unicode sequences to proper Unicode characters
+    text = re.sub(r'\\u([0-9a-fA-F]{4})', lambda m: chr(int(m.group(1), 16)), text)
+    return text
+
+def WriteTabListToFile(fileList, fileName):
+    with open(f'{fileName}.txt', 'w', encoding='utf-8') as file:
+        for fileLine in fileList:
+            # Convert only escaped Unicode escape sequences to proper Unicode characters
+            unescaped_parts = [unescape_unicode(part) for part in fileLine.split("\t")]
+            unescaped_line = "\t".join(unescaped_parts)
+            file.write(f"{unescaped_line}\n")
+
+# Example usage
+finalList = [
+    "Essayons quelqu\\u00e9 chose\\u202f!\tLet\\'s try something.\tword\t0\t0",
+    "Bonjour le monde\tHello world\tword\t0\t0"
+]
+
+WriteTabListToFile(finalList, "unescaped_unicode_output")
+
+
+
 def BinarySearch(searchTerm, searchList, searchListLength):
     left = 0
     right = searchListLength
@@ -380,7 +443,8 @@ def CreateFinalList(desiredWords, outLangWords, outLangWordsi, listOfWords, lowe
         binarySearch = BinarySearch(testWord, outLangWords, outLangWordsCount)
         if binarySearch != -1:
             j = outLangWordsi[binarySearch]
-            finalList.append(f"{tsvList[j][0]}\t{tsvList[j][1]}\t{str((listOfWords[i][0]))[2:-2]}\t0\t0")
+            #finalList.append(f"{(tsvList[j][0])[2:-2]}\t{(tsvList[j][1])[2:-2]}\t{str((listOfWords[i][0]))[2:-2]}\t0\t0")
+            finalList.append(str(tsvList[j][0])[2:-2] + "\t" + str(tsvList[j][1])[2:-2] + "\t" + str(listOfWords[i][0])[2:-2] + "\t0\t0")
         if i % 20000 == 0:
             pass#menuTitle.config(text=f"{100*i/desiredWords}% complete [part 3]")
     return finalList
@@ -458,6 +522,8 @@ def TkNewLang():
         else:
             listOfWords = GetListOfWords(freqName, lineCount)
             tsvLineCount, tsvList = GetTSVList(outLang, inLang)
+            print(tsvList[:40])
+            WriteListToFile2(tsvList, f"TSV-{outLang}-{inLang}")
             outLangWords, outLangWordsi, outLangWordsCount = SplitTSVList(tsvList, tsvLineCount, lowerOk)
             menuTitle.config(text="Loading heapsort, this may take a few minutes, please leave the program alone.")
             print("Loading heapsort")
@@ -467,7 +533,7 @@ def TkNewLang():
             print("Finishing heapsort")
             root.update()
             finalList = CreateFinalList(desiredWordCount, outLangWords, outLangWordsi, listOfWords, lowerOk, outLangWordsCount, tsvList)
-            WriteListToFile(finalList, f"{outLang}-{inLang}")
+            WriteTabListToFile(finalList, f"saves/{outLang}-{inLang}")
     menuTitle.config(text="Finished")
     backButton.pack()
         
