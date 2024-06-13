@@ -1,13 +1,9 @@
-#import sys
-#input(sys.getdefaultencoding())
 import os
 import re
-import csv
 import tkinter as tk
 from tkinter import ttk
-import codecs
-
 import tkinter.font as tkFont
+import random
 #camelCase for variables PascalCase for functions ☺
 def LacunaWrapText(text, mainFont, max_width):
     words = text.split()
@@ -142,12 +138,39 @@ def LacunaOnShiftRelease(event):
     shift_pressed = False
     ButtonsChangeText()
 def LacunaRoundStart(outLang, inLang):
-    global OutLangTexts
-    global InLangTexts
-    global RoundCount
+    global outLangTexts
+    global inLangTexts
+    global lacunaTexts
+    global progressInts
+    global dayInts
+    outLangTexts = []
+    inLangTexts = []
+    lacunaTexts = []
+    progressInts = []
+    dayInts = []
+    global roundCount
+    global roundList
     with open(f'saves//{outLang}-{inLang}.txt', 'r', encoding='utf-8') as file:#
+        i = 0
         for line in file:
             line.rstrip()
+            lineSplit = line.split("\t")
+            if len(lineSplit) == 5:
+                if int(lineSplit[3]) == int(lineSplit[4]) == 0:
+                    if len(outLangTexts) < 10:
+                        outLangTexts.append(lineSplit[0])
+                        inLangTexts.append(lineSplit[1])
+                        lacunaTexts.append(lineSplit[2])
+                        progressInts.append(lineSplit[3])
+                        dayInts.append(lineSplit[4])
+
+            else:
+                print("Lacuna Error:")
+                print(line)
+            i += 1
+    roundList = [i for i in range(0, 10)]
+    random.shuffle(roundList)
+    
 
 
 
@@ -203,6 +226,8 @@ def LacunaMain(outLang, inLang):
     print(outLang)
     print(inLang)
     LacunaRoundStart(outLang, inLang)
+    print(outLangTexts)
+    print(roundList)
     screen_width, screen_height = root.winfo_screenwidth(), root.winfo_screenheight()
     root.geometry(f"{screen_width}x{screen_height}")
     root.update_idletasks()
@@ -346,13 +371,6 @@ def GetTSVList(outLang, inLang):
             if i % 20000 == 0:
                 menuTitle.config(text=f"please wait [part 2] Item:({i})")
                 root.update()
-        # rd = csv.reader(file, delimiter="\t", quotechar='"')
-        # for line in rd:
-        #     tsvList.append([[line[1]],[line[3]]])
-        #     i += 1
-        #     if i % 20000 == 0:
-        #         menuTitle.config(text=f"please wait [part 2] Item:({i})")
-        #         root.update()
     return i, tsvList
 def SplitTSVList(tsvList, tsvLineCount, lowerOk):
     outLangWords, outLangWordsi = [], []
