@@ -384,11 +384,7 @@ def WriteListToFile(fileList, fileName):
     with open(f'{fileName}.txt', 'w', encoding='utf-8') as file:
         for fileLine in fileList:
             file.write(f"{fileLine}\n")
-def WriteListToFile2(fileList, fileName):
-    with open(f'{fileName}.txt', 'w', encoding='utf-8') as file:
-        for fileLine in fileList:
-            line_str = "\t".join([str(item) for sublist in fileLine for item in sublist])
-            file.write(f"{line_str}\n")
+
             
 def unescape_unicode(text):
     """
@@ -509,8 +505,6 @@ def TkNewLang():
         else:
             listOfWords = GetListOfWords(freqName, lineCount)
             tsvLineCount, tsvList = GetTSVList(outLang, inLang)
-            print(tsvList[:40])
-            WriteListToFile2(tsvList, f"TSV-{outLang}-{inLang}")
             outLangWords, outLangWordsi, outLangWordsCount = SplitTSVList(tsvList, tsvLineCount, lowerOk)
             menuTitle.config(text="Loading heapsort, this may take a few minutes, please leave the program alone.")
             print("Loading heapsort")
