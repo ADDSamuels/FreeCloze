@@ -390,7 +390,6 @@ def WriteListToFile2(fileList, fileName):
             line_str = "\t".join([str(item) for sublist in fileLine for item in sublist])
             file.write(f"{line_str}\n")
             
-
 def unescape_unicode(text):
     """
     Convert Unicode escape sequences to proper Unicode characters.
@@ -402,7 +401,6 @@ def unescape_unicode(text):
     # Convert other escaped Unicode sequences to proper Unicode characters
     text = re.sub(r'\\u([0-9a-fA-F]{4})', lambda m: chr(int(m.group(1), 16)), text)
     return text
-
 def WriteTabListToFile(fileList, fileName):
     with open(f'{fileName}.txt', 'w', encoding='utf-8') as file:
         for fileLine in fileList:
@@ -410,17 +408,6 @@ def WriteTabListToFile(fileList, fileName):
             unescaped_parts = [unescape_unicode(part) for part in fileLine.split("\t")]
             unescaped_line = "\t".join(unescaped_parts)
             file.write(f"{unescaped_line}\n")
-
-# Example usage
-finalList = [
-    "Essayons quelqu\\u00e9 chose\\u202f!\tLet\\'s try something.\tword\t0\t0",
-    "Bonjour le monde\tHello world\tword\t0\t0"
-]
-
-WriteTabListToFile(finalList, "unescaped_unicode_output")
-
-
-
 def BinarySearch(searchTerm, searchList, searchListLength):
     left = 0
     right = searchListLength
