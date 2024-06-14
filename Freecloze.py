@@ -45,7 +45,7 @@ def LacunaOnModified(*args, entry_var, correct_word="would"):
     LacunaCheckInput(entry_var, correct_word)
 def LacunaOnEnter():
     print("pressed enter")
-def LacunaCreateTextWidgets(root, text, mainFont, max_width, entry_values=None):
+def LacunaCreateTextWidgets(root, text, missingWord, mainFont, max_width, entry_values=None):
     lines = LacunaWrapText(text, mainFont, max_width)
     entry_widgets = []
 
@@ -57,7 +57,7 @@ def LacunaCreateTextWidgets(root, text, mainFont, max_width, entry_values=None):
     for line in lines:
         x_pos = x_offset
         for word in line:
-            if word == "would":
+            if word == missingWord:
                 entry_var = tk.StringVar()
                 entry_var.trace_add("write", lambda name, index, mode, sv=entry_var: LacunaOnModified(name, index, mode, entry_var=sv, correct_word="would"))
 
@@ -182,13 +182,22 @@ def LacunaStartGui(root, entry_values=None):
     
     mainFont = tkFont.Font(family="Arial", size=20)
     minFont = tkFont.Font(family="Arial", size=15)
-    text = "This would be an example sentence that I wrote to show how the wrap works. I have changed the sentence so that it should be understandable and also to test if the wrapping is working correctly. Thank you."
+    #text = "This would be an example sentence that I wrote to show how the wrap works. I have changed the sentence so that it should be understandable and also to test if the wrapping is working correctly. Thank you."
+    text = outLangTexts[roundList[0]]
     max_width = root.winfo_width() / 2
-    
-    x_offset, y_pos = LacunaCreateTextWidgets(root, text, mainFont, max_width, entry_values)
+    missingWord = lacunaTexts[roundList[0]]
+    if missingWord not in text:
+        if missingWord.title() in text:
+            missingWord = missingWord.title()
+            print("Missing word is 'titled'")
+        else:
+            print(f"Missing Word {missingWord} not in text")
+    else:
+        print(missingWord)
+    x_offset, y_pos = LacunaCreateTextWidgets(root, text, missingWord, mainFont, max_width, entry_values)
     root.update_idletasks()
     
-    underLabel = tk.Label(root, text="This would be the underlining text", font=minFont, wraplength=max_width, justify='left', anchor='nw')
+    underLabel = tk.Label(root, text = inLangTexts[roundList[0]], font=minFont, wraplength=max_width, justify='left', anchor='nw')
     underLabel.place(x=x_offset, y=y_pos + 5)
     root.update_idletasks()
     
