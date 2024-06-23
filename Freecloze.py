@@ -5,29 +5,51 @@ from tkinter import ttk
 import tkinter.font as tkFont
 import random
 #camelCase for variables PascalCase for functions ☺
-def LacunaWrapText(text, mainFont, max_width):
-    words = text.split()
+def LacunaWrapText(textSplit, mainFont, max_width, indexList):
     lines = []
     current_line = []
     current_width = 0
     space_width = mainFont.measure(" ")
+    i = 0  # Initialize the counter
 
-    for word in words:
+    while i < len(textSplit):
+        word = textSplit[i]
         word_width = mainFont.measure(word)
-        if current_width + word_width + (space_width if current_line else 0) <= max_width:
+
+        # Determine the spacing to be used
+        if i < len(indexList) and (indexList[i] == 1 or indexList[i] == 12):
+            spacing = 0
+        else:
+            spacing = space_width
+
+        # Check up to two characters ahead
+        if i + 1 < len(indexList) and (indexList[i + 1] == 1 or indexList[i + 1] == 12):
+            spacing_next = 0
+        else:
+            spacing_next = space_width
+        
+        if i + 2 < len(indexList) and (indexList[i + 2] == 1 or indexList[i + 2] == 12):
+            spacing_next_next = 0
+        else:
+            spacing_next_next = space_width
+
+        if current_width + word_width + (spacing if current_line else 0) <= max_width:
             current_line.append(word)
-            current_width += word_width + (space_width if current_line else 0)
+            current_width += word_width + (spacing if current_line else 0)
         else:
             lines.append(current_line)
             current_line = [word]
             current_width = word_width
 
+        # Move to the next word
+        i += 1
+
     if current_line:
         lines.append(current_line)
-
+        
     return lines
 
-def LacunaCheckInput(entry_var, correct_word="would"):
+def LacunaCheckInput(entry_var):
     text = entry_var.get()
     print("Entered text:", text)
     if hasattr(entry_var, 'widget'):
@@ -41,25 +63,36 @@ def LacunaCheckInput(entry_var, correct_word="would"):
     else:
         print("Widget does not exist!")
 
-def LacunaOnModified(*args, entry_var, correct_word="would"):
-    LacunaCheckInput(entry_var, correct_word)
-def LacunaOnEnter():
-    print("pressed enter")
-def LacunaCreateTextWidgets(root, text, missingWord, mainFont, max_width, entry_values=None):
-    lines = LacunaWrapText(text, mainFont, max_width)
+def LacunaOnModified(*args, entry_var):
+    LacunaCheckInput(entry_var)
+def LacunaOnEnter(event, entry):
+    if event.keysym == 'Return':
+        roundList.pop(0)
+        print("on enter")
+        if correct_word == entry.get():
+            print("Answer: Correct")
+        else:
+            print("Answer: Incorrect")
+        root.update_idletasks()
+        LacunaStartGui(root)
+def LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, max_width, entry_values=None):
+    lines = LacunaWrapText(textSplit, mainFont, max_width, indexList)
     entry_widgets = []
 
     max_line_width = max(sum(mainFont.measure(word) for word in line) + (len(line) - 1) * mainFont.measure(" ") for line in lines)
     x_offset = (root.winfo_width() - max_line_width) // 2
-
+    print(f"missingWordI:{missingWordI} ergo {textSplit[missingWordI]}")
+    global correct_word
+    correct_word = textSplit[missingWordI]
     y_pos = 0
     entry_count = 0
+    i = 0
     for line in lines:
         x_pos = x_offset
         for word in line:
-            if word == missingWord:
+            if i == missingWordI:
                 entry_var = tk.StringVar()
-                entry_var.trace_add("write", lambda name, index, mode, sv=entry_var: LacunaOnModified(name, index, mode, entry_var=sv, correct_word="would"))
+                entry_var.trace_add("write", lambda name, index, mode, sv=entry_var: LacunaOnModified(name, index, mode, entry_var=sv))
 
                 if entry_values and entry_count < len(entry_values):
                     entry_var.set(entry_values[entry_count])
@@ -73,7 +106,7 @@ def LacunaCreateTextWidgets(root, text, missingWord, mainFont, max_width, entry_
                 entry_var.widget = entry
                 entry_widgets.append(entry)
                 entry.focus_set()
-                entry.bind(LacunaOnEnter)
+                entry.bind('<Return>', lambda event: LacunaOnEnter(event, entry))
 
                 global current_entry_var
                 current_entry_var = entry_var
@@ -81,6 +114,7 @@ def LacunaCreateTextWidgets(root, text, missingWord, mainFont, max_width, entry_
                 label = tk.Label(root, text=word, font=mainFont, bg=root.cget('bg'), borderwidth=0)
                 label.place(x=x_pos, y=y_pos)
             x_pos += mainFont.measure(word) + mainFont.measure(" ")
+            i += 1
         y_pos += mainFont.metrics("linespace")
 
     for entry in entry_widgets:
@@ -173,8 +207,77 @@ def LacunaRoundStart(outLang, inLang):
     
 
 
+def LacunaPunctuationSorting(word, word2, i, textSplit):
+    #word2 = "".join(e for e in word if e.isalnum())
+    indexList = [0] * len(textSplit)
+    if word.find(word2) > 0:
+        print("ping1")
+        textSplit[i] = word[word.find(word2):]
+        textSplit.insert(i, word[:word.find(word2)])
+        indexList.append(0)
+        i += 1
+        indexList[i] = 12 
+        word = word[word.find(word2):]
+    if len(word) - len(word2) > 0:
+        textSplit[i] = word[len(word2):]
+        textSplit.insert(i, word[:len(word2)])
+        indexList.append(0)
+        if indexList[i] != 12:
+            indexList[i] = 1
+        indexList[i+1] = 2
+    return textSplit, i, indexList
+def LacunaReturnIndexList(textSplit, missingWord):
+    indexList = [0] * len(textSplit)
+    i = textSplit.index(missingWord)
+    indexList[i] = 1
+    return textSplit, i, indexList
+def LacunaFindIndex(text, missingWord):
+    print(f"text={text},missingWord={missingWord}")
+    textSplit = text.split()
+    print(textSplit)
+    missingWordCap = missingWord[0].upper() + missingWord[1:]
+    if missingWord in textSplit:
+        return LacunaReturnIndexList(textSplit, missingWord)
+    if missingWordCap in textSplit:
+        return LacunaReturnIndexList(textSplit, missingWordCap)
+    i = 0
+    for word in textSplit:
+        word2 = "".join(e for e in word if e.isalnum())
+        if word2 == missingWord or word2 == missingWordCap:
+            return LacunaPunctuationSorting(word, word2, i, textSplit)
+        i += 1
+    i = 0
+    # do same but for apostrophe's 
+    for word in textSplit:
+        word2 = "".join(e for e in word if e.isalnum() or e=="'") # maybe also e=="-"
+        if word2 == missingWord or word2 == missingWordCap:
+            return LacunaPunctuationSorting(word, word2, i, textSplit)
+        i += 1
+    print("Error! Can't find a place!")
+    return "There is an error! Please help!".split(), 0, [0,0,0,0,0,0]
+
+                    
+"""
+a = "don't" 
+b= "don'"
+print(b in a)
+print(a.find(b))
+print(len(a))
+print(len(b))
+if a.find(b) == 0:
+	print(f"b: ({b}), at start of a ({a})")
+elif len(b)+a.find(b)==len(a):
+	print(f"b: ({b}), at end of a ({a})") """
+
+"""             for word in textSplit:
 
     
+
+    #elif (missingWord[0].upper() + missingWord[1:] ) in textSplit
+    if text.find("'") >= 0:
+        textSplit = text.split()
+    else:
+        textSplit = text.split() """
 def LacunaStartGui(root, entry_values=None):
     for widget in root.winfo_children():
         if isinstance(widget, tk.Label) or isinstance(widget, tk.Entry) or isinstance(widget, tk.Button):
@@ -184,8 +287,11 @@ def LacunaStartGui(root, entry_values=None):
     minFont = tkFont.Font(family="Arial", size=15)
     #text = "This would be an example sentence that I wrote to show how the wrap works. I have changed the sentence so that it should be understandable and also to test if the wrapping is working correctly. Thank you."
     text = outLangTexts[roundList[0]]
-    max_width = root.winfo_width() / 2
     missingWord = lacunaTexts[roundList[0]]
+    textSplit, missingWordI, indexList = LacunaFindIndex(text, missingWord)
+    print(textSplit)
+    max_width = root.winfo_width() / 2
+
     if missingWord not in text:
         if missingWord.title() in text:
             missingWord = missingWord.title()
@@ -194,7 +300,7 @@ def LacunaStartGui(root, entry_values=None):
             print(f"Missing Word {missingWord} not in text")
     else:
         print(missingWord)
-    x_offset, y_pos = LacunaCreateTextWidgets(root, text, missingWord, mainFont, max_width, entry_values)
+    x_offset, y_pos = LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, max_width, entry_values)
     root.update_idletasks()
     
     underLabel = tk.Label(root, text = inLangTexts[roundList[0]], font=minFont, wraplength=max_width, justify='left', anchor='nw')
@@ -204,7 +310,7 @@ def LacunaStartGui(root, entry_values=None):
     global buttons
     buttons = ButtonsInitChar(root, root.winfo_width(), "wouldæœùîфю", y_pos + 5 + underLabel.winfo_height())
     root.update_idletasks()
-    LacunaCheckInput(current_entry_var, "would")
+    LacunaCheckInput(current_entry_var)
 
 def LacunaOnConfigure(event, root):
     global previous_width, previous_height
