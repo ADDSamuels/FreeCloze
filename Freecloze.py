@@ -4,6 +4,7 @@ import tkinter as tk
 from tkinter import ttk
 import tkinter.font as tkFont
 import random
+import time
 #camelCase for variables PascalCase for functions ☺
 def LacunaWrapText(textSplit, mainFont, max_width, indexList):
     lines = []
@@ -67,14 +68,26 @@ def LacunaOnModified(*args, entry_var):
     LacunaCheckInput(entry_var)
 def LacunaOnEnter(event, entry):
     if event.keysym == 'Return':
-        roundList.pop(0)
         print("on enter")
+        i = roundList[0]
         if correct_word == entry.get():
             print("Answer: Correct")
+            if progressInts[i] != "4":
+                print("++")
+                progressInts[i] == str(int(progressInts[i]) + 1)
+            daysCalc = [1,10,30,180,180]
+            secondsInts[i] = str(int(time.time()) + daysCalc[int(progressInts[i])] * 86400) # 24hr x 60m x 60s= 86400 seconds q.d 
         else:
             print("Answer: Incorrect")
+            progressInts[i] = "0"
+            secondsInts[i] = "0"
+
         root.update_idletasks()
-        LacunaStartGui(root)
+        roundList.pop(0)
+        if len(roundList) == 0:
+            LacunaUpdateGui()
+        else:
+            LacunaStartGui(root)
 def LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, max_width, entry_values=None):
     lines = LacunaWrapText(textSplit, mainFont, max_width, indexList)
     entry_widgets = []
@@ -171,20 +184,44 @@ def LacunaOnShiftRelease(event):
     global shift_pressed
     shift_pressed = False
     ButtonsChangeText()
-def LacunaRoundStart(outLang, inLang):
+def LacunaUpdateGui():
+    filePath = f'saves//{outLang2}-{inLang2}.txt'
+    tempFilePath = 'saves//temp_file.txt'
+
+    with open(filePath, 'r', encoding='utf-8') as originalFile, open(tempFilePath, "w", encoding="utf-8") as tempFile:#
+        i = 0
+        for line in originalFile:
+            if i in lacunaI:
+                j = lacunaI.index(i)
+                j2 = lacunaI[lacunaI.index(i)]
+                t = "\t"
+                print(f"j = {j}, j2 ={j2}{t}lacunaI ={ lacunaI}{t}i = {i}")
+                tempFile.write(outLangTexts[j] + t + inLangTexts[j] + t + lacunaTexts[j] + t + progressInts[j] + t + secondsInts[j] + "\n")
+                #lacunaI.pop(j)
+            else:
+                tempFile.write(line)
+            i += 1
+    os.replace(tempFilePath, filePath)
+    print("Updated")
+    LacunaRoundStart()
+
+
+def LacunaRoundStart():
     global outLangTexts
     global inLangTexts
     global lacunaTexts
+    global lacunaI
     global progressInts
-    global dayInts
+    global secondsInts
     outLangTexts = []
     inLangTexts = []
     lacunaTexts = []
-    progressInts = []
-    dayInts = []
+    progressInts = [] # Progress ints is a number from 0 -5, 0 means 0%, 1 means 25% 2=50% 3=75% and 4 = 100%
+    secondsInts = []
+    lacunaI = []
     global roundCount
     global roundList
-    with open(f'saves//{outLang}-{inLang}.txt', 'r', encoding='utf-8') as file:#
+    with open(f'saves//{outLang2}-{inLang2}.txt', 'r', encoding='utf-8') as file:#
         i = 0
         for line in file:
             line.rstrip()
@@ -196,7 +233,8 @@ def LacunaRoundStart(outLang, inLang):
                         inLangTexts.append(lineSplit[1])
                         lacunaTexts.append(lineSplit[2])
                         progressInts.append(lineSplit[3])
-                        dayInts.append(lineSplit[4])
+                        secondsInts.append(lineSplit[4])
+                        lacunaI.append(i)
 
             else:
                 print("Lacuna Error:")
@@ -333,14 +371,14 @@ def LacunaDebounce(func, delay):
         LacunaDebouncedFunc.after_id = root.after(delay, lambda: func(*args, **kwargs))
     return LacunaDebouncedFunc
 
-def LacunaMain(outLang, inLang):
+def LacunaMain():
     global shift_pressed
     global previous_height
     global previous_width
     global current_entry_var
-    print(outLang)
-    print(inLang)
-    LacunaRoundStart(outLang, inLang)
+    print(outLang2)
+    print(inLang2)
+    LacunaRoundStart()
     print(outLangTexts)
     print(roundList)
     screen_width, screen_height = root.winfo_screenwidth(), root.winfo_screenheight()
@@ -566,13 +604,17 @@ def CreateFinalList(desiredWords, outLangWords, outLangWordsi, listOfWords, lowe
     return finalList
 def TkEnterTypeMode(outLang, inLang):
     global inTypeMode
+    global outLang2
+    global inLang2
+    outLang2 = outLang
+    inLang2 = inLang
     inTypeMode = 1
     """ outLangText1.pack()
     outLangEntry.pack()
     outLangText2.pack(side=tk.LEFT)
     inLangText.pack() """
     #root.update()
-    LacunaMain(outLang, inLang)
+    LacunaMain()
 def refreshTypeMode(event=None):
     #print("refresh")
     if inTypeMode == 1:
