@@ -691,6 +691,7 @@ def TkNewLang():
             finalList = CreateFinalList(desiredWordCount, outLangWords, outLangWordsi, listOfWords, lowerOk, outLangWordsCount, tsvList)
             WriteTabListToFile(finalList, f"saves/{outLang}-{inLang}")
     menuTitle.config(text="Finished")
+    root.bell()
     backButton.pack()
         
 
