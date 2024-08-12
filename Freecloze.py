@@ -264,6 +264,15 @@ def LacunaPunctuationSorting(word, word2, i, textSplit):
             indexList[i] = 1
         indexList[i+1] = 2
     return textSplit, i, indexList
+# def LacunaPunctuationSorting2(word, word2, i, textSplit, ifBefore):
+#     indexList = [0] * len(textSplit)
+#     if ifBefore == 0:
+
+#     else:
+
+#     return 0
+
+
 def LacunaReturnIndexList(textSplit, missingWord):
     indexList = [0] * len(textSplit)
     i = textSplit.index(missingWord)
@@ -319,12 +328,29 @@ def LacunaFindIndex(text, missingWord):
             return LacunaPunctuationSorting(word, word2, i, textSplit)
         i += 1
     i = 0
-    # do same but for apostrophe's 
-    for word in textSplit:
+    # do same but for special characters  
+    """ for word in textSplit:
         word2 = "".join(e for e in word if e.isalnum() or e=="-") # maybe also e=="-"
         if word2 == missingWord or word2 == missingWordCap:
             return LacunaPunctuationSorting(word, word2, i, textSplit)
+        i += 1 """
+    #for apostrophes
+    for word in textSplit:
+        word2 = "".join(e for e in word if e.isalnum() or e=="'") #maybe also e=="-"
+        j = word2.find("'")
+        if j > -1:
+            wordA = word2[:j+1]
+            wordB = word2[j+1:]
+            if wordA == missingWord or wordA == missingWordCap:
+                print("wordA")
+                return LacunaPunctuationSorting(word, wordA, i, textSplit)
+            if wordB == missingWord or wordB == missingWordCap:
+                print("wordB")
+                return LacunaPunctuationSorting(word, wordB, i, textSplit)
         i += 1
+
+
+
     print("Error! Can't find a place!")
     return "There is an error! Please help!".split(), 0, [0,0,0,0,0,0] 
 
