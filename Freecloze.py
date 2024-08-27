@@ -66,7 +66,15 @@ def LacunaCheckInput(entry_var):
 
 def LacunaOnModified(*args, entry_var):
     LacunaCheckInput(entry_var)
-def LacunaOnEnter(event, entry):
+def LacunaContinue():
+    print("continue")
+    root.update_idletasks()
+    if len(roundList) == 0:
+        LacunaUpdateGui()
+    else:
+        LacunaStartGui(root)
+
+def LacunaOnEnter(event, entry, mainFont):
     if event.keysym == 'Return':
         print("on enter")
         i = roundList[0]
@@ -76,32 +84,50 @@ def LacunaOnEnter(event, entry):
                 print("++")
                 progressInts[i] == str(int(progressInts[i]) + 1)
             daysCalc = [1,10,30,180,180]
-            secondsInts[i] = str(int(time.time()) + daysCalc[int(progressInts[i])] * 86400) # 24hr x 60m x 60s= 86400 seconds q.d 
+            secondsInts[i] = str(int(time.time()) + daysCalc[int(progressInts[i])] * 86400) # 24hr x 60m x 60s= 86400 seconds q.d
+            print(roundList)
+            #pop 1st element of roundList
+            roundList.pop(0)
+            print(roundList) 
         else:
             print("Answer: Incorrect")
             progressInts[i] = "0"
             secondsInts[i] = "0"
+            print(roundList)
+            #move 1st element of roundList to the back
+            roundList.append(roundList[0])
+            roundList.pop(0)
+            print(roundList)
+            current_entry_var.set(correct_word)
+            current_entry_var.widget.icursor(tk.END)
+            current_entry_var.widget.config(fg="black")
+        current_entry_var.bind('<Return>', command=LacunaContinue)
+        print("Color: green")
+        print("sleep")
+        root.update_idletasks()
+        time.sleep(0)
+        print("finished sleeping!")
+        forwardButton = tk.Button(root, text="Next", font=mainFont, command=LacunaContinue)
+        forwardButton.place(x=xOffset,y = yPos + 40)
 
         root.update_idletasks()
-        roundList.pop(0)
-        if len(roundList) == 0:
-            LacunaUpdateGui()
-        else:
-            LacunaStartGui(root)
+        
 def LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, max_width, entry_values=None):
     lines = LacunaWrapText(textSplit, mainFont, max_width, indexList)
     entry_widgets = []
 
     max_line_width = max(sum(mainFont.measure(word) for word in line) + (len(line) - 1) * mainFont.measure(" ") for line in lines)
-    x_offset = (root.winfo_width() - max_line_width) // 2
+    global xOffset
+    xOffset = (root.winfo_width() - max_line_width) // 2
     print(f"missingWordI:{missingWordI} ergo {textSplit[missingWordI]}")
     global correct_word
     correct_word = textSplit[missingWordI]
-    y_pos = 0
+    global yPos 
+    yPos = 0
     entry_count = 0
     i = 0
     for line in lines:
-        x_pos = x_offset
+        xPos = xOffset
         for word in line:
             if i == missingWordI:
                 entry_var = tk.StringVar()
@@ -112,27 +138,27 @@ def LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, 
                 entry_count += 1
 
                 label = tk.Label(root, text=word, font=mainFont, bg=root.cget('bg'), borderwidth=0)
-                label.place(x=x_pos, y=y_pos)
+                label.place(x=xPos, y=yPos)
 
                 entry = tk.Entry(root, textvariable=entry_var, bg="white", font=mainFont, borderwidth=0, fg="black", insertbackground="white")
-                entry.place(x=x_pos, y=y_pos, width=label.winfo_reqwidth())
+                entry.place(x=xPos, y=yPos, width=label.winfo_reqwidth())
                 entry_var.widget = entry
                 entry_widgets.append(entry)
                 entry.focus_set()
-                entry.bind('<Return>', lambda event: LacunaOnEnter(event, entry))
+                entry.bind('<Return>', lambda event: LacunaOnEnter(event, entry, mainFont))
 
                 global current_entry_var
                 current_entry_var = entry_var
             else:
                 label = tk.Label(root, text=word, font=mainFont, bg=root.cget('bg'), borderwidth=0)
-                label.place(x=x_pos, y=y_pos)
-            x_pos += mainFont.measure(word) + mainFont.measure(" ")
+                label.place(x=xPos, y=yPos)
+            xPos += mainFont.measure(word) + mainFont.measure(" ")
             i += 1
-        y_pos += mainFont.metrics("linespace")
-
+        yPos += mainFont.metrics("linespace")
+    
     for entry in entry_widgets:
         entry.lift()
-    return x_offset, y_pos
+    return yPos, xOffset
 
 def ButtonsAddChar(char):
     global current_entry_var
@@ -150,7 +176,7 @@ def ButtonsAddChar(char):
     current_entry_var.set(new_text)
     current_entry_var.widget.icursor(tk.END)
 
-def ButtonsInitChar(root, windowWidth, charList, yPos):
+def ButtonsInitChar(root, windowWidth, charList):
     mainFont = tkFont.Font(family="Arial", size=25)
     buttons = []
     if len(charList) % 2 == 1:
@@ -398,15 +424,17 @@ def LacunaStartGui(root, entry_values=None):
             print(f"Missing Word {missingWord} not in text")
     else:
         print(missingWord)
-    x_offset, y_pos = LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, max_width, entry_values)
+    global yPos
+    yPos, xOffset = LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, max_width, entry_values)
     root.update_idletasks()
     
     underLabel = tk.Label(root, text = inLangTexts[roundList[0]], font=minFont, wraplength=max_width, justify='left', anchor='nw')
-    underLabel.place(x=x_offset, y=y_pos + 5)
+    yPos += 5
+    underLabel.place(x=xOffset, y=yPos)
     root.update_idletasks()
-    
+    yPos += underLabel.winfo_height() 
     global buttons
-    buttons = ButtonsInitChar(root, root.winfo_width(), "wouldæœùîфю", y_pos + 5 + underLabel.winfo_height())
+    buttons = ButtonsInitChar(root, root.winfo_width(), "wouldæœùîфю")
     root.update_idletasks()
     LacunaCheckInput(current_entry_var)
 
