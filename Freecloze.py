@@ -101,7 +101,7 @@ def LacunaOnEnter(event, entry, mainFont):
             current_entry_var.set(correct_word)
             current_entry_var.widget.icursor(tk.END)
             current_entry_var.widget.config(fg="black")
-        current_entry_var.bind('<Return>', command=LacunaContinue)
+        #current_entry_var.bind('<Return>', command=LacunaContinue)
         print("Color: green")
         print("sleep")
         root.update_idletasks()
