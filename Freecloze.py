@@ -6,6 +6,7 @@ import tkinter.font as tkFont
 import random
 import time
 #camelCase for variables PascalCase for functions ☺
+textEntry = None
 def LacunaWrapText(textSplit, mainFont, max_width, indexList):
     lines = []
     current_line = []
@@ -66,7 +67,6 @@ def LacunaCheckInput(entry_var):
 
 def LacunaOnModified(*args, entry_var):
     LacunaCheckInput(entry_var)
-def LacunaContinue():
     print("continue")
     root.update_idletasks()
     if len(roundList) == 0:
@@ -76,9 +76,11 @@ def LacunaContinue():
 
 def LacunaOnEnter(event, entry, mainFont):
     if event.keysym == 'Return':
+        textEntry.config(bg=root.cget('bg'))
+        textEntry.config(state="readonly")
         print("on enter")
         i = roundList[0]
-        if correct_word == entry.get():
+        if correct_word == textEntry.get():
             print("Answer: Correct")
             if progressInts[i] != "4":
                 print("++")
@@ -88,7 +90,8 @@ def LacunaOnEnter(event, entry, mainFont):
             print(roundList)
             #pop 1st element of roundList
             roundList.pop(0)
-            print(roundList) 
+            print(roundList)
+            text = "Correct!" 
         else:
             print("Answer: Incorrect")
             progressInts[i] = "0"
@@ -101,13 +104,14 @@ def LacunaOnEnter(event, entry, mainFont):
             current_entry_var.set(correct_word)
             current_entry_var.widget.icursor(tk.END)
             current_entry_var.widget.config(fg="black")
-        #current_entry_var.bind('<Return>', command=LacunaContinue)
+            text = "Incorrect!"
+        textEntry.bind('<Return>', LacunaContinue) #.bind doesn't require command= since it is normally binding to a function anyway by default
         print("Color: green")
         print("sleep")
         root.update_idletasks()
         time.sleep(0)
         print("finished sleeping!")
-        forwardButton = tk.Button(root, text="Next", font=mainFont, command=LacunaContinue)
+        forwardButton = tk.Button(root, text=text, font=mainFont, command=LacunaContinue)
         forwardButton.place(x=xOffset,y = yPos + 40)
 
         root.update_idletasks()
@@ -139,13 +143,13 @@ def LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, 
 
                 label = tk.Label(root, text=word, font=mainFont, bg=root.cget('bg'), borderwidth=0)
                 label.place(x=xPos, y=yPos)
-
-                entry = tk.Entry(root, textvariable=entry_var, bg="white", font=mainFont, borderwidth=0, fg="black", insertbackground="white")
-                entry.place(x=xPos, y=yPos, width=label.winfo_reqwidth())
-                entry_var.widget = entry
-                entry_widgets.append(entry)
-                entry.focus_set()
-                entry.bind('<Return>', lambda event: LacunaOnEnter(event, entry, mainFont))
+                global textEntry
+                textEntry = tk.Entry(root, textvariable=entry_var, bg="white", font=mainFont, borderwidth=0, fg="black", insertbackground="white")
+                textEntry.place(x=xPos, y=yPos, width=label.winfo_reqwidth())
+                entry_var.widget = textEntry
+                entry_widgets.append(textEntry)
+                textEntry.focus_set()
+                textEntry.bind('<Return>', lambda event: LacunaOnEnter(event, mainFont))
 
                 global current_entry_var
                 current_entry_var = entry_var
@@ -156,8 +160,8 @@ def LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, 
             i += 1
         yPos += mainFont.metrics("linespace")
     
-    for entry in entry_widgets:
-        entry.lift()
+    for entries in entry_widgets:
+        entries.lift()
     return yPos, xOffset
 
 def ButtonsAddChar(char):
@@ -447,8 +451,8 @@ def LacunaOnConfigure(event, root):
         previous_width = current_width
         previous_height = current_height
         
-        # Save current entry values
-        entry_values = [entry.get() for entry in root.winfo_children() if isinstance(entry, tk.Entry)]
+        # Save current values of entries
+        entry_values = [entries.get() for entries in root.winfo_children() if isinstance(entries, tk.Entry)]
         
         LacunaDebouncedStartGui(root, entry_values)
 
@@ -826,9 +830,9 @@ def TkGetDirectoryFileNames():
         print("create saves directory")
     else:
         with os.scandir("saves/") as directory:
-            for entry in directory:
-                if entry.name.endswith(".txt") and entry.is_file():
-                    entryName = entry.name[:-4]
+            for entries in directory:
+                if entries.name.endswith(".txt") and entries.is_file():
+                    entryName = entries.name[:-4]
                     if entryName.find("-") != -1:
                         entryName = entryName.split("-")
                         for i in range(2):
