@@ -5,8 +5,43 @@ from tkinter import ttk
 import tkinter.font as tkFont
 import random
 import time
+from multiprocessing import Process, Event
+from playsound import playsound
+# Global event for stopping the process
+
 #camelCase for variables PascalCase for functions ☺
 textEntry = None
+stop_event = Event()
+sound_process = None
+sound_duration = 1  # Duration to play sound (in seconds)
+
+# Function to play sound
+def SoundPlay(file, stop_event):
+    start_time = time.time()
+    while not stop_event.is_set():
+        if time.time() - start_time >= sound_duration:
+            break
+        playsound(file)  # playsound is blocking; it will wait until the sound finishes
+        time.sleep(0.1)  # Add a small sleep to prevent tight looping
+
+# Function to start the sound process
+def SoundStartProcess():
+    if __name__ == "__main__":
+        global sound_process
+        if sound_process is not None and sound_process.is_alive():
+            print("Sound process is already running.")
+            return
+        stop_event.clear()  # Ensure the stop event is cleared before starting a new process
+        sound_process = Process(target=SoundPlay, args=(r'Freude.mp3', stop_event))
+        sound_process.start()
+
+# Function to stop the sound process
+def SoundStopProcess():
+    if sound_process is not None:
+        stop_event.set()  # Signal the process to stop
+        if sound_process.is_alive():
+            sound_process.terminate()  # Forcefully terminate the process
+            sound_process.join()  # Ensure the process has fully stopped
 def LacunaWrapText(textSplit, mainFont, max_width, indexList):
     lines = []
     current_line = []
@@ -69,6 +104,7 @@ def LacunaOnModified(*args, entry_var):
     LacunaCheckInput(entry_var)
 def LacunaContinue(event=None): # bind() method passes the event object to it, but button doesn't give event var object, so event=None so it's optional
     print("continue")
+    SoundStopProcess()
     root.update_idletasks()
     if len(roundList) == 0:
         LacunaUpdateGui()
@@ -93,7 +129,7 @@ def LacunaOnEnter(event, mainFont):# event, entry, mainfont
             #pop 1st element of roundList
             roundList.pop(0)
             print(roundList)
-            text = "Correct!" 
+            text = "Correct" 
         else:
             print("Answer: Incorrect")
             progressInts[i] = "0"
@@ -105,15 +141,18 @@ def LacunaOnEnter(event, mainFont):# event, entry, mainfont
             print(roundList)
             current_entry_var.set(correct_word)
             current_entry_var.widget.icursor(tk.END)
-            current_entry_var.widget.config(fg="black")
-            text = "Incorrect!"
+            current_entry_var.widget.config(fg="black")#
+            text = "Incorrect"
+        # Playing sound
+        if __name__ == "__main__": #On windows, when using the multiprocessing module, the process that spawns other processes must protect the entry point of the program using the if __name__ == '__main__': idiom.
+            SoundStartProcess()
         textEntry.bind('<Return>', LacunaContinue) #.bind doesn't require command= since it is normally binding to a function anyway by default
         print("Color: green")
         print("sleep")
         root.update_idletasks()
         time.sleep(0)
         print("finished sleeping!")
-        forwardButton = tk.Button(root, text=text, font=mainFont, command=LacunaContinue)
+        forwardButton = tk.Button(root, text=text+"!", font=mainFont, command=LacunaContinue)
         forwardButton.place(x=xOffset,y = yPos + 40)
 
         root.update_idletasks()
@@ -844,43 +883,44 @@ def TkGetDirectoryFileNames():
                                 entryName[i] = "error"
                         additionalFiles.append(f"Continue learning {entryName[0]} from {entryName[1]}")
     return additionalFiles
-PrintLogo()
-print("V0.1 Made by REAL NAME: type credits for credits; help for help")
-print("Please note words may contain profanity and/or inappropiate references. Please don't give this program to children.")
-root = tk.Tk()
-root.title("FreeCloze")
-languages = ["English", "French", "German", "Italian", "Spanish", "Portuguese", "Polish", "Russian"]
-languageExpressions = [f"Learn {y} from {x}" for x in languages for y in languages if x != y]
-languagesAbbreviations = ["en", "fr", "de", "it", "es", "pt", "pl", "ru"]
-additionalFiles = TkGetDirectoryFileNames()
-if len(additionalFiles) > 0:
-    languageExpressions = additionalFiles.copy() + ["--------------------------------------"] + languageExpressions.copy()
-menuTitle = ttk.Label(root, text="Select Language:", font=("Arial", 14))
-menuVar = tk.StringVar()
-widthChars = int(root.winfo_screenwidth() * 0.25 / 10)  # Assuming average character width is 10 pixels
-menuCombobox = ttk.Combobox(root, width=widthChars, font=("Arial", 12), textvariable=menuVar, values=languageExpressions, state="readonly")
-menuCombobox.current(0)
-confirmButton = ttk.Button(root, text="Confirm language", command=TkSelectLanguage)
-backButton = ttk.Button(root, text="Back", command=TkBack)
-desiredWordCountBox = ttk.Entry(root)
-menuTitle.pack(pady="4px")
-menuCombobox.pack(pady="4px")
-desiredWordCountBox.pack_forget()
-confirmButton.pack(pady="4px")
-inTypeMode = 0
-backButton.pack_forget()  # Initially hide the back button
-outLangText1 = ttk.Label(root, text="outLangText1", font=("Arial", 14))
-outLangEntry = ttk.Entry(root)
-fakeLabel = tk.Label(root, text="123123123") #just a test atm
-outLangText2 = ttk.Label(root, text="outLangText2", font=("Arial", 14))
-inLangText = ttk.Label(root, text="inLangText", font=("Arial", 14))
-outLangText1.pack_forget()
-outLangEntry.pack_forget()
-outLangText2.pack_forget()
-inLangText.pack_forget()
-fakeLabel.pack_forget()
-""" if inTypeMode == 1:
-    root.bind("<Configure>", refreshTypeMode)
-else:
-    print(inTypeMode) """
-root.mainloop()
+if __name__ == '__main__':
+    PrintLogo()
+    print("V0.1 Made by REAL NAME: type credits for credits; help for help")
+    print("Please note words may contain profanity and/or inappropiate references. Please don't give this program to children.")
+    root = tk.Tk()
+    root.title("FreeCloze")
+    languages = ["English", "French", "German", "Italian", "Spanish", "Portuguese", "Polish", "Russian"]
+    languageExpressions = [f"Learn {y} from {x}" for x in languages for y in languages if x != y]
+    languagesAbbreviations = ["en", "fr", "de", "it", "es", "pt", "pl", "ru"]
+    additionalFiles = TkGetDirectoryFileNames()
+    if len(additionalFiles) > 0:
+        languageExpressions = additionalFiles.copy() + ["--------------------------------------"] + languageExpressions.copy()
+    menuTitle = ttk.Label(root, text="Select Language:", font=("Arial", 14))
+    menuVar = tk.StringVar()
+    widthChars = int(root.winfo_screenwidth() * 0.25 / 10)  # Assuming average character width is 10 pixels
+    menuCombobox = ttk.Combobox(root, width=widthChars, font=("Arial", 12), textvariable=menuVar, values=languageExpressions, state="readonly")
+    menuCombobox.current(0)
+    confirmButton = ttk.Button(root, text="Confirm language", command=TkSelectLanguage)
+    backButton = ttk.Button(root, text="Back", command=TkBack)
+    desiredWordCountBox = ttk.Entry(root)
+    menuTitle.pack(pady="4px")
+    menuCombobox.pack(pady="4px")
+    desiredWordCountBox.pack_forget()
+    confirmButton.pack(pady="4px")
+    inTypeMode = 0
+    backButton.pack_forget()  # Initially hide the back button
+    outLangText1 = ttk.Label(root, text="outLangText1", font=("Arial", 14))
+    outLangEntry = ttk.Entry(root)
+    fakeLabel = tk.Label(root, text="123123123") #just a test atm
+    outLangText2 = ttk.Label(root, text="outLangText2", font=("Arial", 14))
+    inLangText = ttk.Label(root, text="inLangText", font=("Arial", 14))
+    outLangText1.pack_forget()
+    outLangEntry.pack_forget()
+    outLangText2.pack_forget()
+    inLangText.pack_forget()
+    fakeLabel.pack_forget()
+    """ if inTypeMode == 1:
+        root.bind("<Configure>", refreshTypeMode)
+    else:
+        print(inTypeMode) """
+    root.mainloop()
