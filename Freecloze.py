@@ -67,6 +67,7 @@ def LacunaCheckInput(entry_var):
 
 def LacunaOnModified(*args, entry_var):
     LacunaCheckInput(entry_var)
+def LacunaContinue(event=None): # bind() method passes the event object to it, but button doesn't give event var object, so event=None so it's optional
     print("continue")
     root.update_idletasks()
     if len(roundList) == 0:
@@ -74,7 +75,8 @@ def LacunaOnModified(*args, entry_var):
     else:
         LacunaStartGui(root)
 
-def LacunaOnEnter(event, entry, mainFont):
+def LacunaOnEnter(event, mainFont):# event, entry, mainfont
+    global textEntry
     if event.keysym == 'Return':
         textEntry.config(bg=root.cget('bg'))
         textEntry.config(state="readonly")
