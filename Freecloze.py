@@ -13,7 +13,7 @@ from playsound import playsound
 textEntry = None
 stop_event = Event()
 sound_process = None
-sound_duration = 1  # Duration to play sound (in seconds)
+sound_duration = 0.5  # Duration to play sound (in seconds)
 
 # Function to play sound
 def SoundPlay(file, stop_event):
@@ -25,14 +25,15 @@ def SoundPlay(file, stop_event):
         time.sleep(0.1)  # Add a small sleep to prevent tight looping
 
 # Function to start the sound process
-def SoundStartProcess():
+def SoundStartProcess(name):
     if __name__ == "__main__":
         global sound_process
         if sound_process is not None and sound_process.is_alive():
             print("Sound process is already running.")
             return
         stop_event.clear()  # Ensure the stop event is cleared before starting a new process
-        sound_process = Process(target=SoundPlay, args=(r'Freude.mp3', stop_event))
+        print(f"name={name}")
+        sound_process = Process(target=SoundPlay, args=(f'{name}.mp3', stop_event))
         sound_process.start()
 
 # Function to stop the sound process
@@ -114,11 +115,17 @@ def LacunaContinue(event=None): # bind() method passes the event object to it, b
 def LacunaOnEnter(event, mainFont):# event, entry, mainfont
     global textEntry
     if event.keysym == 'Return':
+        if correct_word == textEntry.get():
+            text = "Correct" 
+        else:
+            text = "Incorrect"
+        # Playing sound
+        if __name__ == "__main__": #On windows, when using the multiprocessing module, the process that spawns other processes must protect the entry point of the program using the if __name__ == '__main__': idiom.
+            SoundStartProcess(text)
+        i = roundList[0]
         textEntry.config(bg=root.cget('bg'))
         textEntry.config(state="readonly")
-        print("on enter")
-        i = roundList[0]
-        if correct_word == textEntry.get():
+        if text=="Correct":
             print("Answer: Correct")
             if progressInts[i] != "4":
                 print("++")
@@ -129,7 +136,6 @@ def LacunaOnEnter(event, mainFont):# event, entry, mainfont
             #pop 1st element of roundList
             roundList.pop(0)
             print(roundList)
-            text = "Correct" 
         else:
             print("Answer: Incorrect")
             progressInts[i] = "0"
@@ -142,10 +148,8 @@ def LacunaOnEnter(event, mainFont):# event, entry, mainfont
             current_entry_var.set(correct_word)
             current_entry_var.widget.icursor(tk.END)
             current_entry_var.widget.config(fg="black")#
-            text = "Incorrect"
-        # Playing sound
-        if __name__ == "__main__": #On windows, when using the multiprocessing module, the process that spawns other processes must protect the entry point of the program using the if __name__ == '__main__': idiom.
-            SoundStartProcess()
+        
+
         textEntry.bind('<Return>', LacunaContinue) #.bind doesn't require command= since it is normally binding to a function anyway by default
         print("Color: green")
         print("sleep")
