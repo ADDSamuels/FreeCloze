@@ -7,6 +7,7 @@ import random
 import time
 from multiprocessing import Process, Event
 from playsound import playsound
+from gtts import gTTS
 # Global event for stopping the process
 
 #camelCase for variables PascalCase for functions ☺
@@ -14,7 +15,8 @@ textEntry = None
 stop_event = Event()
 sound_process = None
 sound_duration = 0.5  # Duration to play sound (in seconds)
-
+def play_sound(disc):
+    playsound(disc)
 # Function to play sound
 def SoundPlay(file, stop_event):
     start_time = time.time()
@@ -120,11 +122,12 @@ def LacunaOnEnter(event, mainFont):# event, entry, mainfont
         else:
             text = "Incorrect"
         # Playing sound
-        if __name__ == "__main__": #On windows, when using the multiprocessing module, the process that spawns other processes must protect the entry point of the program using the if __name__ == '__main__': idiom.
-            SoundStartProcess(text)
+        #if __name__ == "__main__": #On windows, when using the multiprocessing module, the process that spawns other processes must protect the entry point of the program using the if __name__ == '__main__': idiom.
+        
         i = roundList[0]
         textEntry.config(bg=root.cget('bg'))
         textEntry.config(state="readonly")
+        speakText = outLangTexts[roundList[0]]
         if text=="Correct":
             print("Answer: Correct")
             if progressInts[i] != "4":
@@ -158,8 +161,14 @@ def LacunaOnEnter(event, mainFont):# event, entry, mainfont
         print("finished sleeping!")
         forwardButton = tk.Button(root, text=text+"!", font=mainFont, command=LacunaContinue)
         forwardButton.place(x=xOffset,y = yPos + 40)
-
+        
         root.update_idletasks()
+        ping = Process(target=play_sound, args=(text+".mp3",))
+        ping.start()
+        myobj = gTTS(text=speakText, lang=outLang2, slow=False)
+        myobj.save("test.mp3")
+        SoundStartProcess("test")
+
         
 def LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, max_width, entry_values=None):
     lines = LacunaWrapText(textSplit, mainFont, max_width, indexList)
