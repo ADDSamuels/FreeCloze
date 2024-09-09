@@ -106,12 +106,14 @@ def LacunaCheckInput(entry_var):
 def LacunaOnModified(*args, entry_var):
     LacunaCheckInput(entry_var)
 def LacunaContinue(event=None): # bind() method passes the event object to it, but button doesn't give event var object, so event=None so it's optional
-    print("continue")
+    print("continue 0")
     SoundStopProcess()
     root.update_idletasks()
     if len(roundList) == 0:
+        print("Continue 1")
         LacunaUpdateGui()
     else:
+        print("Continue 2")
         LacunaStartGui(root)
 
 def LacunaOnEnter(event, mainFont):# event, entry, mainfont
@@ -155,13 +157,8 @@ def LacunaOnEnter(event, mainFont):# event, entry, mainfont
 
         textEntry.bind('<Return>', LacunaContinue) #.bind doesn't require command= since it is normally binding to a function anyway by default
         print("Color: green")
-        print("sleep")
-        root.update_idletasks()
-        time.sleep(0)
-        print("finished sleeping!")
         forwardButton = tk.Button(root, text=text+"!", font=mainFont, command=LacunaContinue)
         forwardButton.place(x=xOffset,y = yPos + 40)
-        
         root.update_idletasks()
         ping = Process(target=play_sound, args=(text+".mp3",))
         ping.start()
@@ -287,6 +284,7 @@ def LacunaUpdateGui():
             i += 1
     os.replace(tempFilePath, filePath)
     print("Updated")
+    
     LacunaRoundStart()
 
 
@@ -838,7 +836,8 @@ def TkNewLang():
             WriteTabListToFile(finalList, f"saves/{outLang}-{inLang}")
     menuTitle.config(text="Finished")
     root.bell()
-    backButton.pack()
+    TkHideAllMenuButtons()
+    TkEnterTypeMode(outLang, inLang)
         
 
 def TkBack():
