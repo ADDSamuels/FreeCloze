@@ -94,7 +94,7 @@ def LacunaCheckInput(entry_var):
     print("Entered text:", text)
     if hasattr(entry_var, 'widget'):
         for i, char in enumerate(text):
-            if i >= len(correct_word) or char != correct_word[i]:
+            if i >= len(correct_word) or char.lower() != correct_word[i].lower():
                 entry_var.widget.config(fg="red")
                 print("Color: red")
                 return
@@ -116,11 +116,14 @@ def LacunaContinue(event=None): # bind() method passes the event object to it, b
         print("Continue 2")
         LacunaStartGui(root)
 
-def LacunaOnEnter(event, mainFont):# event, entry, mainfont
+def LacunaOnEnter(event, mainFont, entry_var):# event, entry, mainfont
     global textEntry
     if event.keysym == 'Return':
         if correct_word == textEntry.get():
-            text = "Correct" 
+            text = "Correct"
+        elif correct_word.lower() == textEntry.get().lower():
+            text = "Correct"
+            entry_var.set(correct_word)
         else:
             text = "Incorrect"
         # Playing sound
@@ -200,7 +203,7 @@ def LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, 
                 entry_var.widget = textEntry
                 entry_widgets.append(textEntry)
                 textEntry.focus_set()
-                textEntry.bind('<Return>', lambda event: LacunaOnEnter(event, mainFont))
+                textEntry.bind('<Return>', lambda event: LacunaOnEnter(event, mainFont, entry_var))
 
                 global current_entry_var
                 current_entry_var = entry_var
