@@ -112,6 +112,7 @@ def LacunaContinue(event=None): # bind() method passes the event object to it, b
     if len(roundList) == 0:
         print("Continue 1")
         LacunaUpdateGui()
+        LacunaStartGui(root)
     else:
         print("Continue 2")
         LacunaStartGui(root)
@@ -137,7 +138,7 @@ def LacunaOnEnter(event, mainFont, entry_var):# event, entry, mainfont
             print("Answer: Correct")
             if progressInts[i] != "4":
                 print("++")
-                progressInts[i] == str(int(progressInts[i]) + 1)
+                progressInts[i] = str(int(progressInts[i]) + 1)
             daysCalc = [1,10,30,180,180]
             secondsInts[i] = str(int(time.time()) + daysCalc[int(progressInts[i])] * 86400) # 24hr x 60m x 60s= 86400 seconds q.d
             print(roundList)
