@@ -5,16 +5,20 @@ from tkinter import ttk
 import tkinter.font as tkFont
 import random
 import time
-from multiprocessing import Process, Event
+import sys
+from multiprocessing import Process, Event,freeze_support
 from playsound import playsound
 from gtts import gTTS
 # Global event for stopping the process
-
+import threading
 #camelCase for variables PascalCase for functions ☺
 textEntry = None
 stop_event = Event()
 sound_process = None
-sound_duration = 0.5  # Duration to play sound (in seconds)
+sound_duration = 0.2  # Duration to play sound (in seconds)
+
+os.chdir(os.path.dirname(os.path.abspath(sys.argv[0]))) # Change working directory to the directory of the script
+
 def play_sound(disc):
     playsound(disc)
 # Function to play sound
@@ -28,15 +32,22 @@ def SoundPlay(file, stop_event):
 
 # Function to start the sound process
 def SoundStartProcess(name):
-    if __name__ == "__main__":
-        global sound_process
-        if sound_process is not None and sound_process.is_alive():
-            print("Sound process is already running.")
-            return
-        stop_event.clear()  # Ensure the stop event is cleared before starting a new process
-        print(f"name={name}")
-        sound_process = Process(target=SoundPlay, args=(f'{name}.mp3', stop_event))
-        sound_process.start()
+    global sound_process
+    if sound_process is not None and sound_process.is_alive():
+        print("Sound process is already running.")
+        return
+    stop_event.clear()
+    print(f"name={name}")
+    sound_process = Process(target=SoundPlay, args=(f"{name}.mp3", stop_event))
+    sound_process.start()
+
+
+def async_tts_and_play(text, filename="test"):
+    def task():
+        tts = gTTS(text=text, lang=outLang2, slow=False)
+        tts.save(f"{filename}.mp3")
+        SoundStartProcess(filename)
+    threading.Thread(target=task).start()
 
 # Function to stop the sound process
 def SoundStopProcess():
@@ -164,11 +175,8 @@ def LacunaOnEnter(event, mainFont, entry_var):# event, entry, mainfont
         forwardButton = tk.Button(root, text=text+"!", font=mainFont, command=LacunaContinue)
         forwardButton.place(x=xOffset,y = yPos + 40)
         root.update_idletasks()
-        ping = Process(target=play_sound, args=(text+".mp3",))
-        ping.start()
-        myobj = gTTS(text=speakText, lang=outLang2, slow=False)
-        myobj.save("test.mp3")
-        SoundStartProcess("test")
+        async_tts_and_play(speakText)
+
 
         
 def LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, max_width, entry_values=None):
@@ -270,8 +278,8 @@ def LacunaOnShiftRelease(event):
     shift_pressed = False
     ButtonsChangeText()
 def LacunaUpdateGui():
-    filePath = f'saves//{outLang2}-{inLang2}.txt'
-    tempFilePath = 'saves//temp_file.txt'
+    filePath = fr'saves/{outLang2}-{inLang2}.txt'
+    tempFilePath = r'saves/temp_file.txt'
 
     with open(filePath, 'r', encoding='utf-8') as originalFile, open(tempFilePath, "w", encoding="utf-8") as tempFile:#
         i = 0
@@ -307,7 +315,7 @@ def LacunaRoundStart():
     lacunaI = []
     global roundCount
     global roundList
-    with open(f'saves//{outLang2}-{inLang2}.txt', 'r', encoding='utf-8') as file:#
+    with open(rf'saves/{outLang2}-{inLang2}.txt', 'r', encoding='utf-8') as file:#
         i = 0
         for line in file:
             line.rstrip()
@@ -837,7 +845,7 @@ def TkNewLang():
             print("Finishing heapsort")
             root.update()
             finalList = CreateFinalList(desiredWordCount, outLangWords, outLangWordsi, listOfWords, lowerOk, outLangWordsCount, tsvList)
-            WriteTabListToFile(finalList, f"saves/{outLang}-{inLang}")
+            WriteTabListToFile(finalList, rf"saves/{outLang}-{inLang}")
     menuTitle.config(text="Finished")
     root.bell()
     TkHideAllMenuButtons()
@@ -883,7 +891,7 @@ def TkHideMenuInterface():
 def TkGetDirectoryFileNames():
     additionalFiles = []
     if not os.path.exists("Saves"):
-        os.mkdir('saves')
+        #os.makedirs('saves', exist_ok=True)
         print("create saves directory")
     else:
         with os.scandir("saves/") as directory:
@@ -899,7 +907,9 @@ def TkGetDirectoryFileNames():
                                 entryName[i] = "error"
                         additionalFiles.append(f"Continue learning {entryName[0]} from {entryName[1]}")
     return additionalFiles
-if __name__ == '__main__':
+if __name__ == "__main__":    
+    from multiprocessing import freeze_support
+    freeze_support()
     PrintLogo()
     print("V0.1 Made by REAL NAME: type credits for credits; help for help")
     print("Please note words may contain profanity and/or inappropiate references. Please don't give this program to children.")
@@ -935,8 +945,9 @@ if __name__ == '__main__':
     outLangText2.pack_forget()
     inLangText.pack_forget()
     fakeLabel.pack_forget()
-    """ if inTypeMode == 1:
-        root.bind("<Configure>", refreshTypeMode)
-    else:
-        print(inTypeMode) """
     root.mainloop()
+""" if inTypeMode == 1:
+    root.bind("<Configure>", refreshTypeMode)
+else:
+    print(inTypeMode) """
+
