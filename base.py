@@ -2,10 +2,8 @@ import os
 import re
 import tkinter as tk
 from tkinter import ttk
-import tkinter.font as tkFont
 import sys
 from multiprocessing import Process, Event,freeze_support
-from playsound import playsound
 # Global event for stopping the process
 #camelCase for variables PascalCase for functions ☺
 textEntry = None
@@ -523,6 +521,3 @@ if __name__ == "__main__":
     root.mainloop()
 """ if inTypeMode == 1:
     root.bind("<Configure>", refreshTypeMode)
-else:
-    print(inTypeMode) """
-

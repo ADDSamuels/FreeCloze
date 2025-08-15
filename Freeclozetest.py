@@ -470,27 +470,6 @@ def LacunaFindIndex(text, missingWord):
     return "There is an error! Please help!".split(), 0, [0,0,0,0,0,0] 
 
                     
-"""
-a = "don't" 
-b= "don'"
-print(b in a)
-print(a.find(b))
-print(len(a))
-print(len(b))
-if a.find(b) == 0:
-	print(f"b: ({b}), at start of a ({a})")
-elif len(b)+a.find(b)==len(a):
-	print(f"b: ({b}), at end of a ({a})") """
-
-"""             for word in textSplit:
-
-    
-
-    #elif (missingWord[0].upper() + missingWord[1:] ) in textSplit
-    if text.find("'") >= 0:
-        textSplit = text.split()
-    else:
-        textSplit = text.split() """
 def LacunaStartGui(root, entry_values=None):
     for widget in root.winfo_children():
         if isinstance(widget, tk.Label) or isinstance(widget, tk.Entry) or isinstance(widget, tk.Button):
@@ -710,6 +689,7 @@ if __name__ == "__main__":
     additionalFiles = TkGetDirectoryFileNames()
     if len(additionalFiles) > 0:
         languageExpressions = additionalFiles.copy() + ["--------------------------------------"] + languageExpressions.copy()
+    
     menuTitle = ttk.Label(root, text="Select Language:", font=("Arial", 14))
     menuVar = tk.StringVar()
     widthChars = int(root.winfo_screenwidth() * 0.25 / 10)  # Assuming average character width is 10 pixels
