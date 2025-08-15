@@ -629,6 +629,7 @@ def TkSelectLanguage():
             TkHideAllMenuButtons()
             TkEnterTypeMode(outLang, inLang)
 def TkHideAllMenuButtons():
+    splashTitle.pack_forget()
     menuTitle.pack_forget()
     menuCombobox.pack_forget()
     confirmButton.pack_forget()
@@ -640,6 +641,7 @@ def TkHideAllMenuButtons():
         
 
 def TkBack():
+    splashTitle.pack(pady="4px")
     menuTitle.config(text="Select Language:")
     menuTitle.pack(pady="4px")
     menuCombobox.pack(pady="4px")
@@ -651,6 +653,7 @@ def TkBack():
 
 
 def TkHideMenuInterface():
+    splashTitle.pack_forget()
     menuTitle.pack_forget()
     menuCombobox.pack_forget()
     confirmButton.pack_forget()
@@ -689,7 +692,7 @@ if __name__ == "__main__":
     additionalFiles = TkGetDirectoryFileNames()
     if len(additionalFiles) > 0:
         languageExpressions = additionalFiles.copy() + ["--------------------------------------"] + languageExpressions.copy()
-    
+    splashTitle =ttk.Label(root, text="███████╗██████╗░███████╗███████╗░█████╗░██╗░░░░░░█████╗░███████╗███████╗\n██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗██║░░░░░██╔══██╗╚════██║██╔════╝\n█████╗░░██████╔╝█████╗░░█████╗░░██║░░╚═╝██║░░░░░██║░░██║░░███╔═╝█████╗░░\n██╔══╝░░██╔══██╗██╔══╝░░██╔══╝░░██║░░██╗██║░░░░░██║░░██║██╔══╝░░██╔══╝░░\n██║░░░░░██║░░██║███████╗███████╗╚█████╔╝███████╗╚█████╔╝███████╗███████╗\n╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚══════╝░╚════╝░╚══════╝░╚════╝░╚══════╝╚══════╝\nLearn languages by filling in cloze tests",font='TkFixedFont')
     menuTitle = ttk.Label(root, text="Select Language:", font=("Arial", 14))
     menuVar = tk.StringVar()
     widthChars = int(root.winfo_screenwidth() * 0.25 / 10)  # Assuming average character width is 10 pixels
@@ -698,6 +701,7 @@ if __name__ == "__main__":
     confirmButton = ttk.Button(root, text="Confirm language", command=TkSelectLanguage)
     backButton = ttk.Button(root, text="Back", command=TkBack)
     desiredWordCountBox = ttk.Entry(root)
+    splashTitle.pack(pady="4px")
     menuTitle.pack(pady="4px")
     menuCombobox.pack(pady="4px")
     desiredWordCountBox.pack_forget()

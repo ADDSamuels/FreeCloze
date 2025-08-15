@@ -7,29 +7,9 @@ from multiprocessing import Process, Event,freeze_support
 # Global event for stopping the process
 #camelCase for variables PascalCase for functions ☺
 textEntry = None
-stop_event = Event()
-sound_process = None
-sound_duration = 0.2  # Duration to play sound (in seconds)
+
 
 os.chdir(os.path.dirname(os.path.abspath(sys.argv[0]))) # Change working directory to the directory of the script
-
-
-
-# Function to stop the sound process
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
 
 
 
@@ -69,86 +49,7 @@ def LacunaReturnIndexList(textSplit, missingWord):
     return textSplit, i, indexList
 def TrimApostrophe(string):
     return string[:string.find("'") if "'" in string else len(string)]
-# def LacunaFindIndex(text, missingWord, apostropheMode):
-#     print(f"text={text},missingWord={missingWord}")
-#     textSplit = text.split()
-#     print(textSplit)
-#     if apostropheMode:
-#         f = "'"
-#     else:
-#         f = 0
-#     missingWordCap = missingWord[0].upper() + missingWord[1:]
-#     if missingWord in textSplit:
-#         return LacunaReturnIndexList(textSplit, missingWord)
-#     if missingWordCap in textSplit:
-#         return LacunaReturnIndexList(textSplit, missingWordCap)
-#     i = 0
-#     for word in textSplit:
-#         word2 = "".join(e for e in word if e.isalnum() or e == f)
-#         if word2 == missingWord or word2 == missingWordCap:
-#             return LacunaPunctuationSorting(word, word2, i, textSplit)
-#         i += 1
-#     i = 0
-#     # do same but for - chars
-#     for word in textSplit:
-#         word2 = "".join(e for e in word if e.isalnum() or e=="-" or e == f) # maybe also e=="'"
-#         if word2 == missingWord or word2 == missingWordCap:
-#             return LacunaPunctuationSorting(word, word2, i, textSplit)
-#         i += 1
-#     if apostropheMode:
-#         print("Error! Can't find a place!")
-#         return "There is an error! Please help!".split(), 0, [0,0,0,0,0,0]
-#     else:
-#         return LacunaFindIndex(missingWord, textSplit, True)
 
-def LacunaFindIndex(text, missingWord):
-    print(f"text={text},missingWord={missingWord}")
-    textSplit = text.split()
-    print(textSplit)
-    missingWordCap = missingWord[0].upper() + missingWord[1:]
-    if missingWord in textSplit:
-        return LacunaReturnIndexList(textSplit, missingWord)
-    if missingWordCap in textSplit:
-        return LacunaReturnIndexList(textSplit, missingWordCap)
-    i = 0
-    for word in textSplit:
-        word2 = "".join(e for e in word if e.isalnum())
-        if word2 == missingWord or word2 == missingWordCap:
-            return LacunaPunctuationSorting(word, word2, i, textSplit)
-        i += 1
-    i = 0
-    # do same but for special characters  
-    """ for word in textSplit:
-        word2 = "".join(e for e in word if e.isalnum() or e=="-") # maybe also e=="-"
-        if word2 == missingWord or word2 == missingWordCap:
-            return LacunaPunctuationSorting(word, word2, i, textSplit)
-        i += 1 """
-    #for apostrophes
-    for word in textSplit:
-        word2 = "".join(e for e in word if e.isalnum() or e=="'") #maybe also e=="-"
-        j = word2.find("'")
-        if j > -1:
-            wordA = word2[:j+1]
-            wordB = word2[j+1:]
-            if wordA == missingWord or wordA == missingWordCap:
-                print("wordA")
-                return LacunaPunctuationSorting(word, wordA, i, textSplit)
-            if wordB == missingWord or wordB == missingWordCap:
-                print("wordB")
-                return LacunaPunctuationSorting(word, wordB, i, textSplit)
-        i += 1
-
-
-
-    print("Error! Can't find a place!")
-    return "There is an error! Please help!".split(), 0, [0,0,0,0,0,0] 
-
-
-
-
-
-
-#LacunaMain()
 
 def PrintLogo():
     print("███████╗██████╗░███████╗███████╗░█████╗░██╗░░░░░░█████╗░███████╗███████╗")
@@ -348,15 +249,7 @@ def CreateFinalList(desiredWords, outLangWords, outLangWordsi, listOfWords, lowe
     return finalList
 
 
-def refreshTypeMode(event=None):
-    #print("refresh")
-    if inTypeMode == 1:
-        print("refresh1")
-        outLangText1.pack()
-        outLangEntry.pack()
-        outLangText2.pack(side=tk.LEFT)
-        inLangText.pack()
-        root.update()
+
 
 def TkSelectLanguage():
     selectedLanguage = menuVar.get()
@@ -519,5 +412,3 @@ if __name__ == "__main__":
     inLangText.pack_forget()
     fakeLabel.pack_forget()
     root.mainloop()
-""" if inTypeMode == 1:
-    root.bind("<Configure>", refreshTypeMode)
