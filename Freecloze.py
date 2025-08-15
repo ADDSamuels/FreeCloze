@@ -180,7 +180,7 @@ def LacunaOnEnter(event, mainFont, entry_var):# event, entry, mainfont
 
 
         
-def LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, max_width, entry_values=None):
+def LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, maxFont, max_width, progress, entry_values=None):
     lines = LacunaWrapText(textSplit, mainFont, max_width, indexList)
     entry_widgets = []
 
@@ -188,10 +188,31 @@ def LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, 
     global xOffset
     xOffset = (root.winfo_width() - max_line_width) // 2
     #print(f"missingWordI:{missingWordI} ergo {textSplit[missingWordI]}")
+    pos = 11 - len(roundList)
+    
+    match progress:
+        case "0":
+            progress = "◌"
+        case "1":
+            progress = "◔"
+        case "2":
+            progress = "◑"
+        case "3":
+            progress = "◕"
+        case "4":
+            progress = "●"
+        case _:
+            progress = "?"
+    if len(roundList) == 10:
+        textlabel = f"Saved!: {progress} "
+    textlabel = f"{pos}. {progress} "
+    label = tk.Label(root, text = textlabel, font=maxFont, bg=root.cget('bg'), borderwidth=0)
+    print(xOffset)
+    label.place(x=xOffset,y=0)
     global correct_word
     correct_word = textSplit[missingWordI]
     global yPos 
-    yPos = 0
+    yPos = 50
     entry_count = 0
     i = 0
     for line in lines:
@@ -475,12 +496,13 @@ def LacunaStartGui(root, entry_values=None):
     for widget in root.winfo_children():
         if isinstance(widget, tk.Label) or isinstance(widget, tk.Entry) or isinstance(widget, tk.Button):
             widget.destroy()
-    
+    maxFont = tkFont.Font(family="Arial", size=25)
     mainFont = tkFont.Font(family="Arial", size=20)
     minFont = tkFont.Font(family="Arial", size=15)
     #text = "This would be an example sentence that I wrote to show how the wrap works. I have changed the sentence so that it should be understandable and also to test if the wrapping is working correctly. Thank you."
     text = outLangTexts[roundList[0]]
     missingWord = lacunaTexts[roundList[0]]
+    progress = progressInts[roundList[0]]
     textSplit, missingWordI, indexList = LacunaFindIndex(text, missingWord)
     print(textSplit)
     max_width = root.winfo_width() / 2
@@ -494,7 +516,7 @@ def LacunaStartGui(root, entry_values=None):
     else:
         print(missingWord)
     global yPos
-    yPos, xOffset = LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, max_width, entry_values)
+    yPos, xOffset = LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, maxFont, max_width, progress, entry_values)
     root.update_idletasks()
     
     underLabel = tk.Label(root, text = inLangTexts[roundList[0]], font=minFont, wraplength=max_width, justify='left', anchor='nw')
@@ -503,7 +525,28 @@ def LacunaStartGui(root, entry_values=None):
     root.update_idletasks()
     yPos += underLabel.winfo_height() 
     global buttons
-    buttons = ButtonsInitChar(root, root.winfo_width(), "wouldæœùîфю")
+    #buttonText
+    print(outLang2)
+    match outLang2:
+        case "en":
+            buttonText = "é"
+        case "fr":
+            buttonText = "éâêîôûàèùëïüÿæœç"
+        case "de":
+            buttonText = "äöüß"
+        case "it":
+            buttonText = "àèìòùéó"    
+        case "es":
+            buttonText = "áéíóúñü"
+        case "pt":
+            buttonText = "áéíóúâêôãõàç"
+        case "pl":
+            buttonText = "ąćęłńóśźż"
+        case "ru":
+            buttonText = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя"
+        case _:
+            buttonText = "idkwouldæœùîфю"
+    buttons = ButtonsInitChar(root, root.winfo_width(), buttonText)
     root.update_idletasks()
     LacunaCheckInput(current_entry_var)
 
