@@ -117,9 +117,10 @@ def LacunaCheckInput(entry_var):
 def LacunaOnModified(*args, entry_var):
     LacunaCheckInput(entry_var)
 def LacunaContinue(event=None): # bind() method passes the event object to it, but button doesn't give event var object, so event=None so it's optional
-    print("continue 0")
-    SoundStopProcess()
+    print("continue page")
+    #SoundStopProcess()
     root.update_idletasks()
+    
     if len(roundList) == 0:
         print("Continue 1")
         LacunaUpdateGui()
@@ -186,7 +187,7 @@ def LacunaCreateTextWidgets(root, textSplit, indexList, missingWordI, mainFont, 
     max_line_width = max(sum(mainFont.measure(word) for word in line) + (len(line) - 1) * mainFont.measure(" ") for line in lines)
     global xOffset
     xOffset = (root.winfo_width() - max_line_width) // 2
-    print(f"missingWordI:{missingWordI} ergo {textSplit[missingWordI]}")
+    #print(f"missingWordI:{missingWordI} ergo {textSplit[missingWordI]}")
     global correct_word
     correct_word = textSplit[missingWordI]
     global yPos 
@@ -261,7 +262,7 @@ def ButtonsInitChar(root, windowWidth, charList):
 def ButtonsChangeText():
     for button in buttons:
         if shift_pressed:
-            if button["text"] == "ß":
+            if button["text"] == "ß": #since ß reverts to SS
                 button.config(text="ẞ")
             else:
                 button.config(text=button["text"].upper())
@@ -296,7 +297,7 @@ def LacunaUpdateGui():
             i += 1
     os.replace(tempFilePath, filePath)
     print("Updated")
-    
+    #SoundStartProcess("Correct")
     LacunaRoundStart()
 
 
