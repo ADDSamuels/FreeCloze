@@ -6,7 +6,6 @@ import sys
 from multiprocessing import Process, Event,freeze_support
 # Global event for stopping the process
 #camelCase for variables PascalCase for functions ☺
-textEntry = None
 
 
 os.chdir(os.path.dirname(os.path.abspath(sys.argv[0]))) # Change working directory to the directory of the script
@@ -14,39 +13,6 @@ os.chdir(os.path.dirname(os.path.abspath(sys.argv[0]))) # Change working directo
 
 
 
-def LacunaPunctuationSorting(word, word2, i, textSplit):
-    #word2 = "".join(e for e in word if e.isalnum())
-    indexList = [0] * len(textSplit)
-    if word.find(word2) > 0:
-        print("ping1")
-        textSplit[i] = word[word.find(word2):]
-        textSplit.insert(i, word[:word.find(word2)])
-        indexList.append(0)
-        i += 1
-        indexList[i] = 12 
-        word = word[word.find(word2):]
-    if len(word) - len(word2) > 0:
-        textSplit[i] = word[len(word2):]
-        textSplit.insert(i, word[:len(word2)])
-        indexList.append(0)
-        if indexList[i] != 12:
-            indexList[i] = 1
-        indexList[i+1] = 2
-    return textSplit, i, indexList
-# def LacunaPunctuationSorting2(word, word2, i, textSplit, ifBefore):
-#     indexList = [0] * len(textSplit)
-#     if ifBefore == 0:
-
-#     else:
-
-#     return 0
-
-
-def LacunaReturnIndexList(textSplit, missingWord):
-    indexList = [0] * len(textSplit)
-    i = textSplit.index(missingWord)
-    indexList[i] = 1
-    return textSplit, i, indexList
 def TrimApostrophe(string):
     return string[:string.find("'") if "'" in string else len(string)]
 
@@ -348,12 +314,6 @@ def TkScoreInterface(outLang, inLang, selectedLanguage, outLangFull):
     menuCombobox.pack_forget()
     #menuTitle.config(text=selectedLanguage)
 
-def TkHideMenuInterface():
-    menuTitle.pack_forget()
-    menuCombobox.pack_forget()
-    confirmButton.pack_forget()
-    backButton.pack()
-
 def TkGetDirectoryFileNames():
     additionalFiles = []
     if not os.path.exists("Saves"):
@@ -399,16 +359,6 @@ if __name__ == "__main__":
     menuCombobox.pack(pady="4px")
     desiredWordCountBox.pack_forget()
     confirmButton.pack(pady="4px")
-    inTypeMode = 0
     backButton.pack_forget()  # Initially hide the back button
-    outLangText1 = ttk.Label(root, text="outLangText1", font=("Arial", 14))
-    outLangEntry = ttk.Entry(root)
-    fakeLabel = tk.Label(root, text="123123123") #just a test atm
-    outLangText2 = ttk.Label(root, text="outLangText2", font=("Arial", 14))
-    inLangText = ttk.Label(root, text="inLangText", font=("Arial", 14))
-    outLangText1.pack_forget()
-    outLangEntry.pack_forget()
-    outLangText2.pack_forget()
-    inLangText.pack_forget()
-    fakeLabel.pack_forget()
+    
     root.mainloop()

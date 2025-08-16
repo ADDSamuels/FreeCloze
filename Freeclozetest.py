@@ -652,12 +652,12 @@ def TkBack():
     backButton.pack_forget()
 
 
-def TkHideMenuInterface():
-    splashTitle.pack_forget()
-    menuTitle.pack_forget()
-    menuCombobox.pack_forget()
-    confirmButton.pack_forget()
-    backButton.pack()
+# def TkHideMenuInterface():
+#     splashTitle.pack_forget()
+#     menuTitle.pack_forget()
+#     menuCombobox.pack_forget()
+#     confirmButton.pack_forget()
+#     backButton.pack()
 
 def TkGetDirectoryFileNames():
     additionalFiles = []
@@ -687,12 +687,13 @@ if __name__ == "__main__":
     root = tk.Tk()
     root.title("FreeCloze")
     languages = ["English", "French", "German", "Italian", "Spanish", "Portuguese", "Polish", "Russian"]
-    languageExpressions = [f"Learn {y} from {x}" for x in languages for y in languages if x != y]
     languagesAbbreviations = ["en", "fr", "de", "it", "es", "pt", "pl", "ru"]
     additionalFiles = TkGetDirectoryFileNames()
     if len(additionalFiles) > 0:
-        languageExpressions = additionalFiles.copy() + ["--------------------------------------"] + languageExpressions.copy()
-    splashTitle =ttk.Label(root, text="███████╗██████╗░███████╗███████╗░█████╗░██╗░░░░░░█████╗░███████╗███████╗\n██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗██║░░░░░██╔══██╗╚════██║██╔════╝\n█████╗░░██████╔╝█████╗░░█████╗░░██║░░╚═╝██║░░░░░██║░░██║░░███╔═╝█████╗░░\n██╔══╝░░██╔══██╗██╔══╝░░██╔══╝░░██║░░██╗██║░░░░░██║░░██║██╔══╝░░██╔══╝░░\n██║░░░░░██║░░██║███████╗███████╗╚█████╔╝███████╗╚█████╔╝███████╗███████╗\n╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚══════╝░╚════╝░╚══════╝░╚════╝░╚══════╝╚══════╝\nLearn languages by filling in cloze tests",font='TkFixedFont')
+        languageExpressions = additionalFiles.copy()
+    else:
+        languageExpressions = ["None :("]
+    splashTitle =ttk.Label(root, text="███████╗██████╗░███████╗███████╗░█████╗░██╗░░░░░░█████╗░███████╗███████╗\n██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗██║░░░░░██╔══██╗╚════██║██╔════╝\n█████╗░░██████╔╝█████╗░░█████╗░░██║░░╚═╝██║░░░░░██║░░██║░░███╔═╝█████╗░░\n██╔══╝░░██╔══██╗██╔══╝░░██╔══╝░░██║░░██╗██║░░░░░██║░░██║██╔══╝░░██╔══╝░░\n██║░░░░░██║░░██║███████╗███████╗╚█████╔╝███████╗╚█████╔╝███████╗███████╗\n╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚══════╝░╚════╝░╚══════╝░╚════╝░╚══════╝╚══════╝\nLearn languages by filling in cloze tests\t    by ADDSamuels v=0.2",font='TkFixedFont')
     menuTitle = ttk.Label(root, text="Select Language:", font=("Arial", 14))
     menuVar = tk.StringVar()
     widthChars = int(root.winfo_screenwidth() * 0.25 / 10)  # Assuming average character width is 10 pixels
