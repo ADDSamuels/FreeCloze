@@ -6,8 +6,8 @@ import random
 import time
 import sys
 from multiprocessing import Process, Event,freeze_support
-from playsound import playsound
-from gtts import gTTS
+from playsound import playsound # type: ignore
+from gtts import gTTS # type: ignore
 # Global event for stopping the process
 import threading
 #camelCase for variables PascalCase for functions ☺
@@ -320,7 +320,65 @@ def LacunaUpdateGui():
     #SoundStartProcess("Correct")
     LacunaRoundStart()
 
+def LacunaWords(lowestSecond, currentSecond, isCurrent):
+    with open(rf'saves/{outLang2}-{inLang2}.txt', 'r', encoding='utf-8') as file:#
+        i = 0
+        for line in file:
+            line.rstrip()
+            lineSplit = line.split("\t")
+            if len(lineSplit) == 5:
+                #if int(lineSplit[3]) == int(lineSplit[4]) == 0:
+                testSecond = int(lineSplit[4])
+                if currentSecond >= testSecond or isCurrent == 1:
+                    if len(outLangTexts) < 10:
+                        outLangTexts.append(lineSplit[0])
+                        inLangTexts.append(lineSplit[1])
+                        lacunaTexts.append(lineSplit[2])
+                        progressInts.append(lineSplit[3])
+                        secondsInts.append(lineSplit[4])
+                        lacunaI.append(i)
+                        maxSecond = int(max(secondsInts, key=int))
+                        j = secondsInts.index(max(secondsInts, key=int))
+                        #print(lowestSecond)
+                        #print(type(lowestSecond))
+                        #print(j)
+                        #print(type(j))
 
+                    else:
+                        if maxSecond > testSecond:
+                            candidates = [(idx, int(val)) for idx, val in enumerate(secondsInts) if int(val) > int(testSecond)]
+                            if candidates:
+                                        # pick the one with smallest value among candidates
+                                        j, _ = min(candidates, key=lambda x: x[1])
+                                        print("candidates done")
+                            if testSecond == 0:
+                                if int(progressInts[j]) != 4 :#if the element is not full then you can replace it with a 0 progress one (i.e with 0 seconds in the future)
+
+                                    outLangTexts[j] = lineSplit[0]
+                                    inLangTexts[j] = lineSplit[1]
+                                    lacunaTexts[j] = lineSplit[2]
+                                    progressInts[j] = lineSplit[3]
+                                    secondsInts[j] = lineSplit[4]
+                                    lacunaI[j] = i
+                                    lowestSecond = int(secondsInts[j])
+                            else:
+                                outLangTexts[j] = lineSplit[0]
+                                inLangTexts[j] = lineSplit[1]
+                                lacunaTexts[j] = lineSplit[2]
+                                progressInts[j] = lineSplit[3]
+                                secondsInts[j] = lineSplit[4]
+                                lacunaI[j] = i
+                                lowestSecond = int(secondsInts[j])
+                        #elif testSecond == 0:
+                        #    if lowestSecond !=0 and progressInts[j]<4:
+
+
+
+            else:
+                print("Lacuna Error:")
+                print(line)
+            i += 1
+    return lowestSecond
 def LacunaRoundStart():
     global outLangTexts
     global inLangTexts
@@ -336,25 +394,14 @@ def LacunaRoundStart():
     lacunaI = []
     global roundCount
     global roundList
-    with open(rf'saves/{outLang2}-{inLang2}.txt', 'r', encoding='utf-8') as file:#
-        i = 0
-        for line in file:
-            line.rstrip()
-            lineSplit = line.split("\t")
-            if len(lineSplit) == 5:
-                if int(lineSplit[3]) == int(lineSplit[4]) == 0:
-                    if len(outLangTexts) < 10:
-                        outLangTexts.append(lineSplit[0])
-                        inLangTexts.append(lineSplit[1])
-                        lacunaTexts.append(lineSplit[2])
-                        progressInts.append(lineSplit[3])
-                        secondsInts.append(lineSplit[4])
-                        lacunaI.append(i)
-
-            else:
-                print("Lacuna Error:")
-                print(line)
-            i += 1
+    
+    lowestSecond = 0
+    currentSecond = int(time.time())
+    print(currentSecond)
+    lowestSecond = LacunaWords(0, currentSecond, 0)
+    if len(outLangTexts) < 10:
+        print("pingu")
+        lowestSecond = LacunaWords(lowestSecond, currentSecond, 1)
     roundList = [i for i in range(0, 10)]
     random.shuffle(roundList)
     
@@ -693,7 +740,7 @@ if __name__ == "__main__":
         languageExpressions = additionalFiles.copy()
     else:
         languageExpressions = ["None :("]
-    splashTitle =ttk.Label(root, text="███████╗██████╗░███████╗███████╗░█████╗░██╗░░░░░░█████╗░███████╗███████╗\n██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗██║░░░░░██╔══██╗╚════██║██╔════╝\n█████╗░░██████╔╝█████╗░░█████╗░░██║░░╚═╝██║░░░░░██║░░██║░░███╔═╝█████╗░░\n██╔══╝░░██╔══██╗██╔══╝░░██╔══╝░░██║░░██╗██║░░░░░██║░░██║██╔══╝░░██╔══╝░░\n██║░░░░░██║░░██║███████╗███████╗╚█████╔╝███████╗╚█████╔╝███████╗███████╗\n╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚══════╝░╚════╝░╚══════╝░╚════╝░╚══════╝╚══════╝\nLearn languages by filling in cloze tests\t    by ADDSamuels v=0.2",font='TkFixedFont')
+    splashTitle =ttk.Label(root, text="███████╗██████╗░███████╗███████╗░█████╗░██╗░░░░░░█████╗░███████╗███████╗\n██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗██║░░░░░██╔══██╗╚════██║██╔════╝\n█████╗░░██████╔╝█████╗░░█████╗░░██║░░╚═╝██║░░░░░██║░░██║░░███╔═╝█████╗░░\n██╔══╝░░██╔══██╗██╔══╝░░██╔══╝░░██║░░██╗██║░░░░░██║░░██║██╔══╝░░██╔══╝░░\n██║░░░░░██║░░██║███████╗███████╗╚█████╔╝███████╗╚█████╔╝███████╗███████╗\n╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚══════╝░╚════╝░╚══════╝░╚════╝░╚══════╝╚══════╝\nLearn languages by filling in cloze tests\t    by ADDSamuels v=0.3",font='TkFixedFont')
     menuTitle = ttk.Label(root, text="Select Language:", font=("Arial", 14))
     menuVar = tk.StringVar()
     widthChars = int(root.winfo_screenwidth() * 0.25 / 10)  # Assuming average character width is 10 pixels
