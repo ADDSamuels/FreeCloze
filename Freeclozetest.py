@@ -631,15 +631,8 @@ def LacunaMain():
 
 #LacunaMain()
 
-def PrintLogo():
-    print("███████╗██████╗░███████╗███████╗░█████╗░██╗░░░░░░█████╗░███████╗███████╗")
-    print("██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗██║░░░░░██╔══██╗╚════██║██╔════╝")
-    print("█████╗░░██████╔╝█████╗░░█████╗░░██║░░╚═╝██║░░░░░██║░░██║░░███╔═╝█████╗░░")
-    print("██╔══╝░░██╔══██╗██╔══╝░░██╔══╝░░██║░░██╗██║░░░░░██║░░██║██╔══╝░░██╔══╝░░")
-    print("██║░░░░░██║░░██║███████╗███████╗╚█████╔╝███████╗╚█████╔╝███████╗███████╗")
-    print("╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚══════╝░╚════╝░╚══════╝░╚════╝░╚══════╝╚══════╝")
 
-    
+
 def TkEnterTypeMode(outLang, inLang):
     global inTypeMode
     global outLang2
@@ -728,11 +721,27 @@ def TkGetDirectoryFileNames():
 if __name__ == "__main__":    
     from multiprocessing import freeze_support
     freeze_support()
-    PrintLogo()
     print("V0.1 Made by REAL NAME: type credits for credits; help for help")
     print("Please note words may contain profanity and/or inappropiate references. Please don't give this program to children.")
     root = tk.Tk()
     root.title("FreeCloze")
+     #Determine path to icon inside PyInstaller bundle
+    if getattr(sys, 'frozen', False):
+        # Running as bundled executable
+        base_path = sys._MEIPASS
+    else:
+        # Running as script
+        base_path = os.path.dirname(os.path.abspath(__file__))
+
+    icon_path = os.path.join(base_path, "myicon.ico")
+
+    # Set Tkinter window icon
+    if os.path.exists(icon_path):
+        try:
+            root.iconbitmap(icon_path)
+        except Exception as e:
+            print("Failed to set icon:", e)
+
     languages = ["English", "French", "German", "Italian", "Spanish", "Portuguese", "Polish", "Russian"]
     languagesAbbreviations = ["en", "fr", "de", "it", "es", "pt", "pl", "ru"]
     additionalFiles = TkGetDirectoryFileNames()

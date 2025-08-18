@@ -8,3 +8,5 @@ Tatoeba/it-en.tsv
 Tatoeba/pt-en.tsv
 Tests/Freecloze.py
 test.mp3
+/build
+/dist
