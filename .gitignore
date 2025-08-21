@@ -10,3 +10,5 @@ Tests/Freecloze.py
 test.mp3
 /build
 /dist
+sentences/sentences.csv
+sentences_base/sentences_base.csv
