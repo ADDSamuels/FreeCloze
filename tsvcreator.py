@@ -69,6 +69,10 @@ for a in langAbbrev2:
                         continue  # skip blanks or invalid entries
                     base_index = base - 1  # shift to 0-based here
                     if 0 <= base_index < len(sentenceLang):
-                        if sentenceLang[base_index] == a and sentenceLang[i] == b:
-                            f.write(f"{base_index}\t{sentences[base_index]}\t{i}\t{sentences[i]}\n")
+                        try:
+                            if sentenceLang[base_index] == a and sentenceLang[i] == b:
+                                f.write(f"{base_index}\t{sentences[base_index]}\t{i}\t{sentences[i]}\n")
+                        except:
+                            print(f"i:{i}")
+                            print(f"sL:{len(sentenceLang)}")
             print(f"Completed {a}-{b}.txt")

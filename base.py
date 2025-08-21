@@ -341,9 +341,13 @@ if __name__ == "__main__":
     print("Please note words may contain profanity and/or inappropiate references. Please don't give this program to children.")
     root = tk.Tk()
     root.title("FreeCloze")
-    languages = ["English", "French", "German", "Italian", "Spanish", "Portuguese", "Polish", "Russian"]
+    languages = ["English", "French", "German", "Italian", "Spanish", "Portuguese", "Polish", "Russian", "Danish",
+                 "Greek", "Esperanto", "Finnish", "Hungarian", "Korean", "Lithuanian", "Macedonian", "Dutch",
+                 "Polish", "Romanian", "Serbian", "Swedish", "Tagalog", "Turkish", "Ukrainian"]
+    languagesAbbreviations = ["en", "fr", "de", "it", "es", "pt", "ru", "da", 
+              "el", "eo", "fi", "hu", "ko", "lt", "mk", "nl", 
+              "pl", "ro", "sr", "sv", "tl", "tr", "uk"]
     languageExpressions = [f"Learn {y} from {x}" for x in languages for y in languages if x != y]
-    languagesAbbreviations = ["en", "fr", "de", "it", "es", "pt", "pl", "ru"]
     additionalFiles = TkGetDirectoryFileNames()
     if len(additionalFiles) > 0:
         languageExpressions = additionalFiles.copy() + ["--------------------------------------"] + languageExpressions.copy()
