@@ -361,7 +361,7 @@ if __name__ == "__main__":
               "el", "eo", "fi", "hu", "ko", "lt", "mk", "nl", 
               "pl", "ro", "sr", "sv", "tl", "tr", "uk"]
     languageExpressions = [f"Learn {y} from {x}" for x in languages for y in languages if x != y]
-    languageExpressions = ["--------------------------------------"] + languageExpressions.copy() + ["Create all TSV file"]
+    languageExpressions = languageExpressions.copy() + ["--------------------------------------"] + ["Create all TSV file"]
     menuTitle = ttk.Label(root, text="Create Language:", font=("Arial", 14))
     menuVar = tk.StringVar()
     widthChars = int(root.winfo_screenwidth() * 0.25 / 10)  # Assuming average character width is 10 pixels
