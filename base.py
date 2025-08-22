@@ -341,7 +341,7 @@ if __name__ == "__main__":
     print("Please note words may contain profanity and/or inappropiate references. Please don't give this program to children.")
     root = tk.Tk()
     root.title("FreeCloze")
-    languages = ["English", "French", "German", "Italian", "Spanish", "Portuguese", "Polish", "Russian", "Danish",
+    languages = ["English", "French", "German", "Italian", "Spanish", "Portuguese", "Russian", "Danish",
                  "Greek", "Esperanto", "Finnish", "Hungarian", "Korean", "Lithuanian", "Macedonian", "Dutch",
                  "Polish", "Romanian", "Serbian", "Swedish", "Tagalog", "Turkish", "Ukrainian"]
     languagesAbbreviations = ["en", "fr", "de", "it", "es", "pt", "ru", "da", 

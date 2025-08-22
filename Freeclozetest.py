@@ -742,7 +742,7 @@ if __name__ == "__main__":
         except Exception as e:
             print("Failed to set icon:", e)
 
-    languages = ["English", "French", "German", "Italian", "Spanish", "Portuguese", "Polish", "Russian", "Danish",
+    languages = ["English", "French", "German", "Italian", "Spanish", "Portuguese", "Russian", "Danish",
                  "Greek", "Esperanto", "Finnish", "Hungarian", "Korean", "Lithuanian", "Macedonian", "Dutch",
                  "Polish", "Romanian", "Serbian", "Swedish", "Tagalog", "Turkish", "Ukrainian"]
     languagesAbbreviations = ["en", "fr", "de", "it", "es", "pt", "ru", "da", 
