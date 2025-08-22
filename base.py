@@ -230,7 +230,7 @@ def TkSelectLanguage():
             print(outLang + "|" + inLang)
             TkScoreInterface(outLang, inLang, selectedLanguage, outLangFull)
         if selectedLanguage[0] == "C":
-            print("create")
+            TkNewAll()
 def TkHideAllMenuButtons():
     menuTitle.pack_forget()
     menuCombobox.pack_forget()
@@ -282,7 +282,39 @@ def TkNewLang():
     root.bell()
     TkHideAllMenuButtons()
     TkBack()
-        
+def TkNewAll():
+    desiredWordCountBox.pack_forget()
+    confirmButton.pack_forget()
+    backButton.pack_forget()
+    menuCombobox.pack_forget()
+    for outLang in languagesAbbreviations:
+        for inLang in languagesAbbreviations:
+            if outLang != inLang:
+                freqName = 'FrequencyWords-master//content//2018//'+outLang+'//'+outLang+'_full.txt'
+                lineCount = CountLines(freqName)
+                listOfWords = GetListOfWords(freqName, lineCount)
+                lowerOk = True
+                if outLang == "de":
+                    lowerOk = False
+                if not os.path.exists(freqName):
+                    print(f"\n\nUnfortunately such file {freqName}doesn't exist\n\n")
+                else:
+                    desiredWordCount = 50000
+                    if lineCount < desiredWordCount:
+                        desiredWordCount = lineCount
+                    tsvLineCount, tsvList = GetTSVList(outLang, inLang)
+                    outLangWords, outLangWordsi, outLangWordsCount = SplitTSVList(tsvList, tsvLineCount, lowerOk)
+                    menuTitle.config(text="Loading heapsort, this may take a few minutes, please leave the program alone.")
+                    print("Loading heapsort")
+                    root.update()
+                    outLangWords, outLangWordsi = heapSort(outLangWords, outLangWordsi)
+                    menuTitle.config(text="Finishing heapsort")
+                    print("Finishing heapsort")
+                    root.update()
+                    finalList = CreateFinalList(desiredWordCount, outLangWords, outLangWordsi, listOfWords, lowerOk, outLangWordsCount, tsvList)
+                    WriteTabListToFile(finalList, rf"saves/{outLang}-{inLang}")
+                    print(rf"Done {outLang}-{inLang}")
+    TkBack()
 
 def TkBack():
     menuTitle.config(text="Select Language:")
@@ -314,25 +346,6 @@ def TkScoreInterface(outLang, inLang, selectedLanguage, outLangFull):
     menuCombobox.pack_forget()
     #menuTitle.config(text=selectedLanguage)
 
-def TkGetDirectoryFileNames():
-    additionalFiles = []
-    if not os.path.exists("Saves"):
-        #os.makedirs('saves', exist_ok=True)
-        print("create saves directory")
-    else:
-        with os.scandir("saves/") as directory:
-            for entries in directory:
-                if entries.name.endswith(".txt") and entries.is_file():
-                    entryName = entries.name[:-4]
-                    if entryName.find("-") != -1:
-                        entryName = entryName.split("-")
-                        for i in range(2):
-                            if entryName[i] in languagesAbbreviations:
-                                entryName[i] = languages[languagesAbbreviations.index(entryName[i])]
-                            else:
-                                entryName[i] = "error"
-                        additionalFiles.append(f"Continue learning {entryName[0]} from {entryName[1]}")
-    return additionalFiles
 if __name__ == "__main__":    
     from multiprocessing import freeze_support
     freeze_support()
@@ -348,9 +361,7 @@ if __name__ == "__main__":
               "el", "eo", "fi", "hu", "ko", "lt", "mk", "nl", 
               "pl", "ro", "sr", "sv", "tl", "tr", "uk"]
     languageExpressions = [f"Learn {y} from {x}" for x in languages for y in languages if x != y]
-    additionalFiles = TkGetDirectoryFileNames()
-    if len(additionalFiles) > 0:
-        languageExpressions = additionalFiles.copy() + ["--------------------------------------"] + languageExpressions.copy()
+    languageExpressions = ["--------------------------------------"] + languageExpressions.copy() + ["Create all TSV file"]
     menuTitle = ttk.Label(root, text="Create Language:", font=("Arial", 14))
     menuVar = tk.StringVar()
     widthChars = int(root.winfo_screenwidth() * 0.25 / 10)  # Assuming average character width is 10 pixels
