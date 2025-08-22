@@ -188,7 +188,7 @@ def WriteTabListToFile(fileList, fileName):
             file.write(f"{unescaped_line}\n")
 def BinarySearch(searchTerm, searchList, searchListLength):
     left = 0
-    right = searchListLength
+    right = searchListLength - 1
     while left <= right:
         mid = (left + right) // 2
         if searchList[mid] == searchTerm:
