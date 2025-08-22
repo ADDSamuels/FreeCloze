@@ -1,0 +1,64 @@
+Jeg lå.	Makasin.	jeg	0	0
+Det regner måske i aften.	Maaaring umulan ngayong gabi.	det	0	0
+Matias er fra Uruguay. Han er uruguayer.	Si Matias ay galing Urugway. Urugwayano siya.	er	0	0
+Du er tre år yngre end Tom.	Tatlong taon kang mas bata kay Tom.	du	0	0
+Jeg er ikke en robot.	Hindi ako robot.	ikke	0	0
+Fuglen er i sin rede.	Nasa kanyang pugad ang ibon.	i	0	0
+Jeg er ikke en robot.	Hindi ako robot.	en	0	0
+Mandag, tirsdag, onsdag, torsdag, fredag, lørdag og søndag er ugens syv dage.	Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	og	0	0
+Hvorfor er vi her?	Bakit nandito tayo?	vi	0	0
+Den pianist er kendt for sin virtuositet.	Kilala ang piyanistang ito para sa kanyang pagkadalubhasa.	for	0	0
+Der er mange dyr i denne skov.	Maraming mga hayop sa gubat na ito.	der	0	0
+Matias er fra Uruguay. Han er uruguayer.	Si Matias ay galing Urugway. Urugwayano siya.	han	0	0
+Jeg elsker dig!	Mahal kita!	dig	0	0
+De kan åbne vinduet.	Maaari nilang buksan ang bintana.	de	0	0
+Den pianist er kendt for sin virtuositet.	Kilala ang piyanistang ito para sa kanyang pagkadalubhasa.	den	0	0
+De kan åbne vinduet.	Maaari nilang buksan ang bintana.	kan	0	0
+Hvorfor er vi her?	Bakit tayo nandito?	her	0	0
+Jeg hårdkogte et æg.	Naglaga ako ng itlog.	et	0	0
+Matias er fra Uruguay. Han er uruguayer.	Si Matias ay galing Urugway. Urugwayano siya.	fra	0	0
+Hvorfor er vi her?	Bakit tayo nandito?	hvorfor	0	0
+Dårligt vejr er ingen hindring.	Ang hindi magandang panahon ay hindi hadlang.	ingen	0	0
+Det regner måske i aften.	Maaaring umulan ngayong gabi.	måske	0	0
+Du er tre år yngre end Tom.	Tatlong taon kang mas bata kay Tom.	end	0	0
+Du er tre år yngre end Tom.	Tatlong taon kang mas bata kay Tom.	år	0	0
+Der er mange dyr i denne skov.	Marami pong mga hayop sa gubat na ito.	denne	0	0
+Der er mange dyr i denne skov.	Marami pong mga hayop sa gubat na ito.	mange	0	0
+Jeg elsker dig!	Mahal kita!	elsker	0	0
+Du er tre år yngre end Tom.	Tatlong taon kang mas bata kay Tom.	tre	0	0
+Den pianist er kendt for sin virtuositet.	Kilala ang piyanistang ito para sa kanyang pagkadalubhasa.	sin	0	0
+Det regner måske i aften.	Maaaring umulan ngayong gabi.	aften	0	0
+Mandag, tirsdag, onsdag, torsdag, fredag, lørdag og søndag er ugens syv dage.	Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	dage	0	0
+Det er en ny bog.	Bagong aklat ito.	ny	0	0
+Tom måtte begynde forfra.	Kinailangan ni Tom na magsimula ulit.	måtte	0	0
+Tom måtte begynde forfra.	Kinailangan ni Tom na magsimula ulit.	tom	0	0
+Dårligt vejr er ingen hindring.	Ang hindi magandang panahon ay hindi hadlang.	dårligt	0	0
+Mandag, tirsdag, onsdag, torsdag, fredag, lørdag og søndag er ugens syv dage.	Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	syv	0	0
+De kan åbne vinduet.	Maaari mong buksan ang bintana.	åbne	0	0
+Det er en ny bog.	Bagong aklat ito.	bog	0	0
+Der er mange dyr i denne skov.	Maraming mga hayop sa gubat na ito.	dyr	0	0
+Tom måtte begynde forfra.	Kinailangan ni Tom na magsimula ulit.	begynde	0	0
+Den pianist er kendt for sin virtuositet.	Kilala ang piyanistang ito para sa kanyang pagkadalubhasa.	kendt	0	0
+Jeg lå.	Makasin.	lå	0	0
+De kan åbne vinduet.	Maaari mong buksan ang bintana.	vinduet	0	0
+Jeg hårdkogte et æg.	Naglaga ako ng itlog.	æg	0	0
+Mandag, tirsdag, onsdag, torsdag, fredag, lørdag og søndag er ugens syv dage.	Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	fredag	0	0
+Det regner måske i aften.	Maaaring umulan ngayong gabi.	regner	0	0
+Mandag, tirsdag, onsdag, torsdag, fredag, lørdag og søndag er ugens syv dage.	Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	lørdag	0	0
+Mandag, tirsdag, onsdag, torsdag, fredag, lørdag og søndag er ugens syv dage.	Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	mandag	0	0
+Tom måtte begynde forfra.	Kinailangan ni Tom na magsimula ulit.	forfra	0	0
+Mandag, tirsdag, onsdag, torsdag, fredag, lørdag og søndag er ugens syv dage.	Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	søndag	0	0
+Du er tre år yngre end Tom.	Tatlong taon kang mas bata kay Tom.	yngre	0	0
+Mandag, tirsdag, onsdag, torsdag, fredag, lørdag og søndag er ugens syv dage.	Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	torsdag	0	0
+Mandag, tirsdag, onsdag, torsdag, fredag, lørdag og søndag er ugens syv dage.	Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	tirsdag	0	0
+Fuglen er i sin rede.	Nasa kanyang pugad ang ibon.	rede	0	0
+Mandag, tirsdag, onsdag, torsdag, fredag, lørdag og søndag er ugens syv dage.	Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	onsdag	0	0
+Jeg er ikke en robot.	Hindi ako robot.	robot	0	0
+Dårligt vejr er ingen hindring.	Ang hindi magandang panahon ay hindi hadlang.	vejr	0	0
+Der er mange dyr i denne skov.	Maraming mga hayop sa gubat na ito.	skov	0	0
+Fuglen er i sin rede.	Nasa kanyang pugad ang ibon.	fuglen	0	0
+Mandag, tirsdag, onsdag, torsdag, fredag, lørdag og søndag er ugens syv dage.	Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	ugens	0	0
+Dårligt vejr er ingen hindring.	Ang hindi magandang panahon ay hindi hadlang.	hindring	0	0
+Den pianist er kendt for sin virtuositet.	Kilala ang piyanistang ito para sa kanyang pagkadalubhasa.	pianist	0	0
+Jeg hårdkogte et æg.	Naglaga ako ng itlog.	hårdkogte	0	0
+Matias er fra Uruguay. Han er uruguayer.	Si Matias ay galing Urugway. Urugwayano siya.	matias	0	0

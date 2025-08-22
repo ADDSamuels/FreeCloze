@@ -1,0 +1,44 @@
+왜 아니야?	Varför inte?	왜	0	0
+정말 진심이야!	Jag menar det verkligen.	정말	0	0
+커피를 못 마십니다.	Jag kan inte dricka kaffe.	못	0	0
+왜 아니야?	Varför inte?	아니야	0	0
+알아.	Jag vet.	알아	0	0
+기타를 칠 줄 알아요.	Jag kan spela gitarr.	줄	0	0
+왜 거짓말을 해요?	Varför ljuger ni?	해요	0	0
+모두가 알고 있었어.	Alla visste.	알고	0	0
+프랑스는 서유럽에 있습니다.	Frankrike ligger i Västeuropa.	있습니다	0	0
+이거 윤리적이야?	Är det här etiskt?	이거	0	0
+살고 싶지 않아.	Jag vill inte leva.	않아	0	0
+오렌지는 많은 비타민C를 함유하고 있다.	Apelsiner innehåller mycket C-vitamin.	많은	0	0
+기타를 칠 줄 알아요.	Jag kan spela gitarr.	알아요	0	0
+예 혹은 아니오?	Ja eller nej?	예	0	0
+감사합니다.	Tack.	감사합니다	0	0
+오렌지는 많은 비타민C를 함유하고 있다.	Apelsiner innehåller mycket C-vitamin.	있다	0	0
+모두가 알고 있었어.	Alla visste.	있었어	0	0
+살고 싶지 않아.	Jag vill inte leva.	싶지	0	0
+그리스어를 배우는 것은 어렵다.	Grekiska är svårt att lära sig.	것은	0	0
+톰은 나의 친구다.	Tom är min vän.	나의	0	0
+모두가 알고 있었어.	Alla visste.	모두가	0	0
+살고 싶지 않아.	Jag vill inte leva.	살고	0	0
+스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	Schweiz är beläget mellan Frankrike, Italien, Österrike och Tyskland.	사이에	0	0
+왜 거짓말을 해요?	Varför ljuger ni?	거짓말을	0	0
+예 혹은 아니오?	Ja eller nej?	아니오	0	0
+오케이.	Okej.	오케이	0	0
+예 혹은 아니오?	Ja eller nej?	혹은	0	0
+정말 진심이야!	Jag menar det verkligen.	진심이야	0	0
+스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	Schweiz är beläget mellan Frankrike, Italien, Österrike och Tyskland.	독일	0	0
+기타를 칠 줄 알아요.	Jag kan spela gitarr.	칠	0	0
+한국 사람입니다.	Jag är korean.	사람입니다	0	0
+스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	Schweiz är beläget mellan Frankrike, Italien, Österrike och Tyskland.	이탈리아	0	0
+그리스어를 배우는 것은 어렵다.	Grekiska är svårt att lära sig.	배우는	0	0
+커피를 못 마십니다.	Jag kan inte dricka kaffe.	커피를	0	0
+이집트 사람입니다.	Jag är egyptier.	이집트	0	0
+톰은 나의 친구다.	Tom är min vän.	톰은	0	0
+한국 사람입니다.	Jag är korean.	한국	0	0
+베를린은 독일의 수도입니다.	Berlin är Tysklands huvudstad.	독일의	0	0
+그리스어를 배우는 것은 어렵다.	Grekiska är svårt att lära sig.	어렵다	0	0
+도쿄는 일본의 수도입니다.	Tokyo är huvudstad i Japan.	일본의	0	0
+기타를 칠 줄 알아요.	Jag kan spela gitarr.	기타를	0	0
+프랑스는 서유럽에 있습니다.	Frankrike ligger i Västeuropa.	프랑스는	0	0
+스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	Schweiz är beläget mellan Frankrike, Italien, Österrike och Tyskland.	오스트리아	0	0
+톰은 나의 친구다.	Tom är min vän.	친구다	0	0

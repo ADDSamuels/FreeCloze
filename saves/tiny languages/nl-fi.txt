@@ -1,0 +1,788 @@
+Ik ben een man.	Minä olen mies.	ik	0	0
+Woon je in Portugal of Brazilië?	Asutko Portugalissa vai Brasiliassa?	je	0	0
+Hoe gaat het?	Mitä teille kuuluu?	het	0	0
+Ik zou liever de bus nemen.	Menisin mieluummin bussilla.	de	0	0
+Ze denkt dat ze altijd gelijk heeft.	Hän luulee olevansa aina oikeassa.	dat	0	0
+Het probleem is, dat zonne-energie te duur is.	Ongelmana on, että aurinkoenergia on liian kallista.	is	0	0
+Korpiklaani is een van mijn favoriete folkmetalbands.	Korpiklaani on pidetyimpien folk metal -yhtyeitteni joukossa.	een	0	0
+Niet winnen is belangrijk, maar deelnemen.	Tärkeä asia ei ole voittaa vaan ottaa osaa.	niet	0	0
+Waar wonen Mary en Tom?	Missä Mary ja Tom asuvat?	en	0	0
+Het leven van Mozart was heel kort.	Mozartin elämä oli hyvin lyhyt.	van	0	0
+Dat is alles wat ik weet.	Siinä kaikki mitä tiedän.	wat	0	0
+We kunnen niet slapen vanwege het lawaai.	Emme voi nukkua melun vuoksi.	we	0	0
+Kijk in de spiegel.	Katso peiliin.	in	0	0
+Ze zijn van plan om een diner te organiseren.	He suunnittelevat järjestävänsä juhlat.	ze	0	0
+Hij heeft twee auto's.	Hänellä on kaksi autoa.	hij	0	0
+Tom had geen recht om te doen wat hij gedaan heeft.	Tomilla ei ollut oikeutta tehdä mitä teki.	te	0	0
+Het aantal muffins dat je krijgt, zal omgekeerd evenredig zijn aan het aantal keer dat je op IRC praat.	Saamiesi muffinien lukumäärä on käänteisesti verrannollinen siihen, miten usein juttelet IRCissä.	zijn	0	0
+Leg dat boek boven op de andere.	Laita kirjan toisten päälle.	op	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	maar	0	0
+Er is prachtige natuur in Karelië.	Karjalassa on kaunis luonto.	er	0	0
+Hoe gaat het met je vrouw?	Miten vaimollasi menee?	met	0	0
+Hij heeft een oog voor kunst.	Hänellä on silmää taiteelle.	voor	0	0
+Je bent niet de enige die op Mary verliefd is.	Et ole ainoa, joka on rakastunut Mariin.	die	0	0
+Ik heb een nieuwe rode auto.	Minulla on uusi punainen auto.	heb	0	0
+Het kan me geen reet schelen.	Mua ei kiinnosta vitun vertaa.	me	0	0
+Ik zou blij zijn als je kwam.	Tulen todella iloiseksi, jos tulet.	als	0	0
+Het was al te laat.	Oli jo liian myöhäistä.	was	0	0
+Ik ben oud.	Minä olen vanha.	ben	0	0
+Tom had de moed niet om daar in zijn eentje naartoe te gaan.	Tomilla ei ollut rohkeutta mennä sinne yksin.	om	0	0
+Dit is niet het geval.	Tämä ei pidä paikkaansa.	dit	0	0
+Dit is mijn computer.	Tämä on tietokoneeni.	mijn	0	0
+Tom is aan het eten.	Tom syö.	aan	0	0
+Ik heb u nodig.	Tarvitsen sinua.	u	0	0
+Zij is ouder dan hij.	Hän on häntä vanhempi.	dan	0	0
+Mijn vader gaat niet altijd lopend naar het werk.	Isäni ei aina kävele työhön.	naar	0	0
+Ik weet het niet.	Minä en tiedä.	weet	0	0
+Wat heeft deze stoel hier te zoeken?	Mitä tämä tuoli täällä tekee?	hier	0	0
+Probeer zo snel mogelijk een afspraak te maken.	Tee varaus niin pian kuin mahdollista.	zo	0	0
+Jij begrijpt me.	Sinä ymmärrät minua.	jij	0	0
+Waar kan ik boeken kopen?	Mistä minä voisin ostaa kirjoja?	kan	0	0
+Tom is geen biochemicus.	Tuomas ei ole biokemisti.	geen	0	0
+Er is nog melk in de koelkast.	Jääkaapissa on maitoa jäljellä.	nog	0	0
+"Speelt zij tennis?" "Ja."	”Pelaako hän tennistä?” ”Kyllä pelaa.”	ja	0	0
+Ik ben de laatste die hem heeft gezien.	Olen viimeinen, joka näki hänet.	hem	0	0
+Hij heeft twee auto's.	Hänellä on kaksi autoa.	heeft	0	0
+Je moet naar school gaan.	Sinun täytyy mennä kouluun.	moet	0	0
+Hij wil leren zwemmen.	Hän haluaa oppia uimaan.	wil	0	0
+We hebben twee dochters.	Meillä on kaksi tytärtä.	hebben	0	0
+Kan iemand mij een goed eentalig Duits woordenboek aanraden?	Voiko kukaan suositella minulle hyvää yksikielistä saksan sanakirjaa?	goed	0	0
+Morgen is het haar verjaardag.	Huomenna on hänen syntymäpäivänsä.	haar	0	0
+Hoe gaat het?	Mitä kuuluu?	hoe	0	0
+Waar woon je nu?	Missä sinä asut nyt?	nu	0	0
+Waar woont je opa?	Missä vaarisi asuu?	waar	0	0
+Vrouwen willen ook seks hebben.	Naisetkin haluavat seksiä.	ook	0	0
+Tom wilde hun vuile werk niet doen.	Tom ei tahtonut tehdä heidän likaista työtään.	doen	0	0
+Ik kom uit Griekenland.	Tulen Kreikasta.	uit	0	0
+Ik zou blij zijn als je kwam.	Tulen todella iloiseksi, jos tulet.	zou	0	0
+Ik ga zelden naar de bioscoop.	Käyn harvoin elokuvissa.	ga	0	0
+Ik ben niet zeker of ik zou thuisblijven of uitgaan.	En ole varma pysyäkö kotona vai mennäkö ulos.	of	0	0
+De drang om naar huis te gaan was groot.	Houkutus lähteä kotiin oli suuri.	gaan	0	0
+Je bent Fins.	Olet suomalainen.	bent	0	0
+Kan iemand mij een goed eentalig Duits woordenboek aanraden?	Voiko kukaan suositella minulle hyvää yksikielistä saksan sanakirjaa?	mij	0	0
+Het is al te laat.	On jo liian myöhäistä.	al	0	0
+Ons vliegtuig vloog boven de wolken.	Koneemme lensi pilvien yläpuolella.	ons	0	0
+Ik had niets met hen gemeen.	Minulla ei ole mitään yhteistä heidän kanssaan.	had	0	0
+Tom had de moed niet om daar in zijn eentje naartoe te gaan.	Tomilla ei ollut rohkeutta mennä sinne yksin.	daar	0	0
+Hoi Mimi! Hoe gaat het?	Terve Mimi! Mitä kuuluu?	gaat	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	zal	0	0
+Je hebt de wet gebroken.	Rikoit lakia.	hebt	0	0
+Ik kom uit Griekenland.	Minä tulen Kreikasta.	kom	0	0
+Waarom heb je bloemen gekocht?	Miksi ostit kukkia?	waarom	0	0
+Ik hou meer van de zomer dan van de winter.	Minä pidän enemmän kesästä kuin talvesta.	meer	0	0
+Deze computer is beter dan die.	Tämä tietokone on parempi kuin tuo.	deze	0	0
+Laat deze informatie niet uitlekken.	Älkää päästäkö tätä tietoa vuotamaan.	laat	0	0
+We kunnen geen melk drinken.	Emme voi juoda maitoa.	kunnen	0	0
+Dus?	Niin?	dus	0	0
+Wie heeft je dit aangedaan?	Kuka teki tämän sinulle?	wie	0	0
+Alles kits?	Kuis hurisee?	alles	0	0
+Echt waar?	Oikeesti?	echt	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	door	0	0
+Ik was tot 's avonds op het werk.	Olin työssä iltaan asti.	s	0	0
+Tom was de enige man in de kamer.	Tom oli ainoa mies huoneessa.	man	0	0
+Misschien heeft Tom problemen.	Ehkä Tomilla on ongelmia.	misschien	0	0
+Nou?	No?	nou	0	0
+Hij zei niets.	Hän ei sanonut mitään.	zei	0	0
+Ik keerde naar Japan terug.	Palasin Japaniin.	terug	0	0
+Zing mee.	Laula mukana.	mee	0	0
+Ze heeft niets gezegd.	Hän ei sanonut mitään.	niets	0	0
+Kan iemand anders antwoorden?	Voiko joku toinen vastata?	iemand	0	0
+Hij komt uit Duitsland.	Hän on Saksasta.	komt	0	0
+Er waren veel mensen in het park.	Puistossa oli paljon ihmisiä.	veel	0	0
+Wacht even.	Odota vähän.	even	0	0
+Onze school publiceert haar eigen magazine.	Meidän koulu julkaisee omaa lehteään.	onze	0	0
+Ik heb je nodig.	Tarvitsen sinua.	nodig	0	0
+Er sterven elke dag goede mensen.	Hyviä ihmisiä kuolee joka päivä.	mensen	0	0
+Tot weerziens!	Näkemiin!	tot	0	0
+De rijken worden rijker en de armen worden armer.	Rikkaat rikastuvat ja köyhät köyhtyvät.	worden	0	0
+Ik heb geen tijd om te lezen.	Minulla ei ole aikaa lukea.	tijd	0	0
+Ik wil dat je weer mijn vriendin wordt.	Haluan sinun taas olevan ystäväni.	weer	0	0
+De laatste tien jaar van zijn leven waren een marteling.	Viimeiset kymmenen vuotta elämästään olivat yhtä kidutusta.	leven	0	0
+We hebben twee dochters.	Meillä on kaksi tytärtä.	twee	0	0
+Ben je vóór of tegen het voorstel?	Oletko ehdotuksen puolesta vai sitä vastaan?	tegen	0	0
+Probeer zo snel mogelijk een afspraak te maken.	Tee varaus niin pian kuin mahdollista.	maken	0	0
+We hebben uw handtekening nodig.	Me tarvitsemme allekirjoituksenne.	uw	0	0
+Hoe zeg je "good bye" in het Duits?	Miten sanotaan ”näkemiin” saksaksi?	zeg	0	0
+Ik wil dat je weer mijn vriendin wordt.	Haluan sinun taas olevan ystäväni.	wordt	0	0
+Ik hou van kaas.	Pidän juustosta.	hou	0	0
+Kijk in de spiegel.	Katso peiliin.	kijk	0	0
+Het leven van Mozart was heel kort.	Mozartin elämä oli hyvin lyhyt.	heel	0	0
+Wij zijn arm.	Olemme köyhiä.	wij	0	0
+Ze denkt dat ze altijd gelijk heeft.	Hän luulee olevansa aina oikeassa.	altijd	0	0
+Mag ik jouw radio lenen?	Voisitko sinä lainata minulle radiotasi?	mag	0	0
+Tom had geen recht om te doen wat hij gedaan heeft.	Tomilla ei ollut oikeutta tehdä mitä teki.	gedaan	0	0
+De liefde is sterker dan de dood.	Rakkaus on vahvempi kuin kuolema.	dood	0	0
+Ik ben niet zeker of ik zou thuisblijven of uitgaan.	En ole varma pysyäkö kotona vai mennäkö ulos.	zeker	0	0
+De laatste tien jaar van zijn leven waren een marteling.	Viimeiset kymmenen vuotta elämästään olivat yhtä kidutusta.	jaar	0	0
+Tom wilde hun vuile werk niet doen.	Tom ei tahtonut tehdä heidän likaista työtään.	hun	0	0
+Tom wilde hun vuile werk niet doen.	Tom ei tahtonut tehdä heidän likaista työtään.	wilde	0	0
+Dag!	Terve!	dag	0	0
+Hoi allemaal.	Hei kaikki.	allemaal	0	0
+Mag ik jouw radio lenen?	Voisitko sinä lainata minulle radiotasi?	jouw	0	0
+Het huis is wit.	Talo on valkoinen.	huis	0	0
+Mijn vader reist graag met het vliegtuig.	Isäni tykkää matkustaa lentokoneella.	vader	0	0
+Kunt gij snel lopen?	Pystytkö juoksemaan nopeasti?	kunt	0	0
+Wacht even.	Odota vähän.	wacht	0	0
+Ik zie het meisje.	Minä näen tytön.	zie	0	0
+De vrouw is mooi.	Nainen on kaunis.	vrouw	0	0
+De zeug is voor de tweede keer drachtig.	Emakko on raskaana toista kertaa.	keer	0	0
+De ene is nieuw. De andere is oud.	Yksi on uusi, ja toinen on vanha.	andere	0	0
+Zij kunnen vissen.	He osaavaat kalastaa.	zij	0	0
+Kan iemand anders antwoorden?	Voiko joku toinen vastata?	anders	0	0
+De laatste tien jaar van zijn leven waren een marteling.	Viimeiset kymmenen vuotta elämästään olivat yhtä kidutusta.	waren	0	0
+Vrouwen willen ook seks hebben.	Naisetkin haluavat seksiä.	willen	0	0
+Hij voelde zich moe.	Hän tunsi itsensä väsyneeksi.	zich	0	0
+Bedankt!	Kiitos!	bedankt	0	0
+Ge moet Engels leren, of ge wilt of niet.	Sinun täytyy oppia englantia haluat tai et.	wilt	0	0
+Stop met praten wanneer de leraar binnenkomt.	Lakkaa puhumasta kun opettaja tulee sisään.	praten	0	0
+Ik heb genoeg geld.	Minulla on riittävästi rahaa.	geld	0	0
+Ik kon niet slapen.	En voinut nukkua.	kon	0	0
+Mijn vader gaat niet altijd lopend naar het werk.	Isäni ei aina kävele työhön.	werk	0	0
+Iedereen heeft het erover.	Kaikki puhuvat siitä.	iedereen	0	0
+Deze computer is beter dan die.	Tämä tietokone on parempi kuin tuo.	beter	0	0
+Hij werd ter dood veroordeeld.	Hänet tuomittiin kuolemaan.	werd	0	0
+Kan je het vinden?	Voitko löytää sen?	vinden	0	0
+Ik ben de laatste die hem heeft gezien.	Olen viimeinen, joka näki hänet.	gezien	0	0
+Zondag komt na zaterdag.	Sunnuntai tulee lauantain jälkeen.	na	0	0
+"Kan iemand mij helpen?" "Ik zal helpen."	"Voiko joku auttaa minua?" "Minä autan."	helpen	0	0
+Ik vind de zomer leuker dan de winter.	Minä pidän enemmän kesästä kuin talvesta.	vind	0	0
+Ik heb genoeg geld.	Minulla on riittävästi rahaa.	genoeg	0	0
+De vlag van Indonesië en die van Polen gelijken op elkaar.	Indonesian ja Puolan liput ovat samankaltaisia.	elkaar	0	0
+De oude vrouw ging de bus uit.	Vanha nainen meni ulos bussista.	ging	0	0
+Hoeveel uur heb je deze week gewerkt?	Kuinka monta tuntia työskentelit tällä viikolla?	uur	0	0
+Het ontbijt is klaar.	Aamiainen on valmis.	klaar	0	0
+De politie ondervroeg Liisa de hele nacht.	Poliisi kuulusteli Liisaa koko yön.	hele	0	0
+Het is leuk om honkbal te spelen.	On hauskaa pelata baseballia.	leuk	0	0
+Natuurlijk!	Tietenkin!	natuurlijk	0	0
+Ik hou van alle twee.	Pidän molemmista.	alle	0	0
+Ik hou van God.	Rakastan Jumalaa.	god	0	0
+Het was acht meter lang.	Se oli kahdeksan metriä pitkä.	lang	0	0
+Ik zou blij zijn als je kwam.	Tulen todella iloiseksi, jos tulet.	kwam	0	0
+Ik had graag een glas water, alstublieft.	Ottaisin vain lasillisen vettä.	graag	0	0
+Hé, Jim!	Morjesta, Jim!	hé	0	0
+Hij had drie zoons.	Hänellä oli kolme poikaa.	drie	0	0
+Ze zegt dat ze van bloemen houdt.	Hän sanoo, että pitää kukista.	zegt	0	0
+Tom deed het licht aan.	Tom laittoi valot päälle.	deed	0	0
+Zij is de eerste minister van Finland.	Hän on Suomen pääministeri.	eerste	0	0
+Hallo! Goedemorgen!	Terve! Hyvää huomenta!	hallo	0	0
+Je ziet er bleek uit.	Näytät kalpealta.	ziet	0	0
+Hij stond achter de stoel.	Hän seisoi tuolin takana.	achter	0	0
+Ben je op het Koreaanse Schiereiland geweest?	Oletko ollut Korean niemimaalla?	geweest	0	0
+De vrouw is mooi.	Nainen on kaunis.	mooi	0	0
+Er sterven elke dag goede mensen.	Hyviä ihmisiä kuolee joka päivä.	goede	0	0
+De naam van de hond is Ken.	Koiran nimi on Ken.	naam	0	0
+Ik heb een nieuwe rode auto.	Minulla on uusi punainen auto.	auto	0	0
+Wat een grote hond!	Onpa iso koira!	grote	0	0
+Deze brug lijkt stevig.	Tämä silta näyttää tukevalta.	lijkt	0	0
+Probeer zo snel mogelijk een afspraak te maken.	Tee varaus niin pian kuin mahdollista.	snel	0	0
+Dit is een foto van het gelukkige paar op hun trouwdag.	Tämä on kuva onnellisesta pariskunnasta heidän hääpäivänään.	paar	0	0
+Stop met praten wanneer de leraar binnenkomt.	Lakkaa puhumasta kun opettaja tulee sisään.	wanneer	0	0
+Is meneer Davis naar Japan gekomen om Engels te onderwijzen?	Tuliko hra Davis Japaniin opettamaan englantia?	meneer	0	0
+Ik heb een nieuwe rode auto.	Minulla on uusi punainen auto.	nieuwe	0	0
+Ik geloof dat mijn vriend mijn e-mails bespioneert.	Luulen, että poikaystäväni urkkii sähköpostejani.	vriend	0	0
+Ik heb een beetje honger.	Minulla on vähän nälkä.	beetje	0	0
+De meeste mensen denken dat ik gek ben.	Useimmat pitävät minua hulluna.	gek	0	0
+De laatste tien jaar van zijn leven waren een marteling.	Viimeiset kymmenen vuotta elämästään olivat yhtä kidutusta.	laatste	0	0
+Tom was de enige man in de kamer.	Tom oli ainoa mies huoneessa.	enige	0	0
+Ik ben bang voor spinnen.	Pelkään hämähäkkejä.	bang	0	0
+Ik zou liever de bus nemen.	Menisin mieluummin bussilla.	nemen	0	0
+Vogels vliegen vaak samen.	Linnut lentävät usein yhdessä.	samen	0	0
+Tom is aan het eten.	Tom syö.	eten	0	0
+Lang geleden was hier een brug.	Kauan aikaa sitten tässä oli silta.	geleden	0	0
+Ik ben een jongen.	Minä olen poika.	jongen	0	0
+De meeste mensen denken dat ik gek ben.	Useimmat pitävät minua hulluna.	denken	0	0
+Het is vandaag Moederdag.	Tänään on äitienpäivä.	vandaag	0	0
+De toekomst is dichterbij dan je denkt.	Tulevaisuus on lähempänä kuin luulet.	denkt	0	0
+Hij is mijn beste vriend.	Hän on paras ystäväni.	beste	0	0
+Ze heeft niets gezegd.	Hän ei sanonut mitään.	gezegd	0	0
+Ik ben thuis.	Olen kotona.	thuis	0	0
+Noorwegen is het rijkste land ter wereld.	Norja on rikkain maa maailmassa.	wereld	0	0
+De naam van de hond is Ken.	Koiran nimi on Ken.	ken	0	0
+Ik had niets met hen gemeen.	Minulla ei ole mitään yhteistä heidän kanssaan.	hen	0	0
+Onze school publiceert haar eigen magazine.	Meidän koulu julkaisee omaa lehteään.	eigen	0	0
+Hij heeft nog een zoon.	Hänellä on vielä yksi poika.	zoon	0	0
+Volgens mij heeft hij gelijk.	Minun mielestäni hän on oikeassa.	gelijk	0	0
+Ik zal er morgen zijn.	Tulen olemaan siellä huomenna.	morgen	0	0
+Het meisje dat met Tom spreekt, is Mary.	Tomin kanssa jutteleva tyttö on Mary.	meisje	0	0
+Het probleem is, dat zonne-energie te duur is.	Ongelmana on, että aurinkoenergia on liian kallista.	probleem	0	0
+Ik geloof dat mijn vriend mijn e-mails bespioneert.	Luulen, että poikaystäväni urkkii sähköpostejani.	geloof	0	0
+Er sterven elke dag mensen.	Ihmisiä kuolee joka päivä.	elke	0	0
+Ik hoop dat Tom gelijk heeft.	Toivon, että Tom on oikeassa.	hoop	0	0
+De politie ondervroeg Liisa de hele nacht.	Poliisi kuulusteli Liisaa koko yön.	politie	0	0
+Er zat een kat op de tafel.	Pöydän päällä oli kissa.	zat	0	0
+Yamamoto is een van mijn vrienden.	Yamamoto on eräs ystävistäni.	vrienden	0	0
+Het vliegtuig landde om zes uur precies.	Lentokone laskeutui tasan kello kuudelta.	precies	0	0
+Ik begrijp wat je zegt.	Ymmärrän mitä sanotte.	begrijp	0	0
+Ze zegt dat ze van bloemen houdt.	Hän sanoo, että pitää kukista.	houdt	0	0
+Tom vroeg om hulp.	Tom pyysi apua.	vroeg	0	0
+Stop met praten wanneer de leraar binnenkomt.	Lakkaa puhumasta kun opettaja tulee sisään.	stop	0	0
+Volgens mij heeft hij gelijk.	Minun mielestäni hän on oikeassa.	volgens	0	0
+Het aantal muffins dat je krijgt, zal omgekeerd evenredig zijn aan het aantal keer dat je op IRC praat.	Saamiesi muffinien lukumäärä on käänteisesti verrannollinen siihen, miten usein juttelet IRCissä.	krijgt	0	0
+Hij werkt iedere dag, behalve op zondag.	Hän työskentelee joka päivä, paitsi sunnuntaisin.	werkt	0	0
+De deur gaat niet open.	Ovi ei aukea.	open	0	0
+Ik zou blij zijn als je kwam.	Tulen todella iloiseksi, jos tulet.	blij	0	0
+De president van Frankrijk zal volgende maand Japan bezoeken.	Ranskan presidentti vierailee Japanissa ensi kuussa.	volgende	0	0
+Probeer zo snel mogelijk een afspraak te maken.	Tee varaus niin pian kuin mahdollista.	probeer	0	0
+Wat heeft deze stoel hier te zoeken?	Mitä tämä tuoli täällä tekee?	zoeken	0	0
+De oude vrouw ging de bus uit.	Vanha nainen meni ulos bussista.	oude	0	0
+Dat is niet mijn ding.	Tuo ei ole minun juttuni.	ding	0	0
+Vijf plus zeven is twaalf.	Viisi plus seitsemän tekee kaksitoista.	vijf	0	0
+Tom vroeg om hulp.	Tom pyysi apua.	hulp	0	0
+Niet slecht.	Ei paha.	slecht	0	0
+Ik heb tien minuten lang gewacht.	Odotin kymmenen minuuttia.	minuten	0	0
+Je moet naar school gaan.	Sinun täytyy mennä kouluun.	school	0	0
+Ze zijn van plan om een diner te organiseren.	He suunnittelevat järjestävänsä juhlat.	plan	0	0
+Tom is mijn broer.	Tom on veljeni.	broer	0	0
+Hoeveel talen zijn er in Europa?	Montako kieltä Euroopassa on?	hoeveel	0	0
+Tom was de enige man in de kamer.	Tom oli ainoa mies huoneessa.	kamer	0	0
+Ik heet Andrea.	Minun nimeni on Andrea.	heet	0	0
+Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	vier	0	0
+Mag ik jouw telefoon gebruiken?	Saanko käyttää puhelintasi?	gebruiken	0	0
+Ierland ligt in West-Europa.	Irlanti sijaitsee Länsi-Euroopassa.	ligt	0	0
+Welke is groter, de zon of de aarde?	Kumpi on suurempi; Aurinko vai Kuu?	welke	0	0
+Ben je vrij dit weekend?	Onko sinulla vapaata tänä viikonloppuna?	vrij	0	0
+Dit is een foto van het gelukkige paar op hun trouwdag.	Tämä on kuva onnellisesta pariskunnasta heidän hääpäivänään.	foto	0	0
+Ik had geen problemen.	Minulla ei ollut mitään ongelmia.	problemen	0	0
+Ik had graag een glas water, alstublieft.	Ottaisin vain lasillisen vettä.	water	0	0
+Tom kent zijn buren niet.	Tom ei tunne naapuriaan.	kent	0	0
+Hoeveel uur heb je deze week gewerkt?	Kuinka monta tuntia työskentelit tällä viikolla?	week	0	0
+In Europa beginnen de scholen in september.	Euroopassa koulut alkavat syyskuussa.	beginnen	0	0
+Het aantal muffins dat je krijgt, zal omgekeerd evenredig zijn aan het aantal keer dat je op IRC praat.	Saamiesi muffinien lukumäärä on käänteisesti verrannollinen siihen, miten usein juttelet IRCissä.	praat	0	0
+Ik liet de deur open.	Jätin oven auki.	deur	0	0
+De baby is wakker.	Vauva on hereillä.	baby	0	0
+Leg dat boek boven op de andere.	Laita kirjan toisten päälle.	boven	0	0
+Hoe groot is het?	Kuinka suuri se on?	groot	0	0
+Het is moeilijk om te begrijpen.	Sitä on vaikea ymmärtää.	moeilijk	0	0
+Noorwegen is het rijkste land ter wereld.	Norja on maailman rikkain maa.	land	0	0
+Het is leuk om honkbal te spelen.	On hauskaa pelata baseballia.	spelen	0	0
+Weinig schatten zijn zoveel waard als een vriend.	Harvat aarteet ovat yhtä arvokkaita kuin ystävä.	zoveel	0	0
+Vrouwen willen ook seks hebben.	Naisetkin haluavat seksiä.	vrouwen	0	0
+Wat wil je, schat?	Mikä sinun on, kulta?	schat	0	0
+Hoi, Hanako.	Moi, Hanako.	hoi	0	0
+Probeer zo snel mogelijk een afspraak te maken.	Tee varaus niin pian kuin mahdollista.	mogelijk	0	0
+Wees stil allebei.	Olkaa hiljaa molemmat.	wees	0	0
+De politie ondervroeg Liisa de hele nacht.	Poliisi kuulusteli Liisaa koko yön.	nacht	0	0
+Ik liet de deur open.	Jätin oven auki.	liet	0	0
+Mijn broer kan zeer snel lopen.	Veljeni pystyy juoksemaan todella nopeasti.	lopen	0	0
+Is Tom gelukkig?	Onko Tomi onnellinen?	gelukkig	0	0
+Hij vertelde me de waarheid.	Hän kertoi minulle totuuden.	waarheid	0	0
+De laatste tien jaar van zijn leven waren een marteling.	Viimeiset kymmenen vuotta elämästään olivat yhtä kidutusta.	tien	0	0
+Nul, een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	Nolla, yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	zes	0	0
+Is meneer Davis naar Japan gekomen om Engels te onderwijzen?	Tuliko hra Davis Japaniin opettamaan englantia?	gekomen	0	0
+Ik wil dat je weer mijn vriendin wordt.	Haluan sinun taas olevan ystäväni.	vriendin	0	0
+Het is te klein.	Se on liian pieni.	klein	0	0
+De baby is wakker.	Vauva on hereillä.	wakker	0	0
+Ge moet Engels leren, of ge wilt of niet.	Sinun täytyy oppia englantia haluat tai et.	leren	0	0
+Mag ik jouw telefoon gebruiken?	Saanko käyttää puhelintasi?	telefoon	0	0
+Normaal eten wij driemaal per dag.	Tavallisesti syömme kolme kertaa päivässä.	per	0	0
+Het was mijn fout.	Se oli minun virheeni.	fout	0	0
+Ik kon niet slapen.	En voinut nukkua.	slapen	0	0
+Paarden zijn zeer gevoelige dieren.	Hevoset ovat hyvin herkkiä eläimiä.	zeer	0	0
+Liefde is niet wat je denkt.	Rakkaus ei ole mitä luulet.	liefde	0	0
+Ik had graag een glas water, alstublieft.	Ottaisin vain lasillisen vettä.	alstublieft	0	0
+Tom citeert vaak Shakespeare.	Tom siteeraa usein Shakespearea.	vaak	0	0
+Niet winnen is belangrijk, maar deelnemen.	Tärkeä asia ei ole voittaa vaan ottaa osaa.	belangrijk	0	0
+Er sterven elke dag goede mensen.	Hyviä ihmisiä kuolee joka päivä.	sterven	0	0
+Ik ben niet oud.	Minä en ole vanha.	oud	0	0
+Hij stond achter de stoel.	Hän seisoi tuolin takana.	stond	0	0
+We kunnen geen melk drinken.	Emme voi juoda maitoa.	drinken	0	0
+Hij is de aanvoerder van een team.	Hän on joukkueen kapteeni.	team	0	0
+Hij vertelde me de waarheid.	Hän kertoi minulle totuuden.	vertelde	0	0
+Dit is niet het geval.	Tämä ei pidä paikkaansa.	geval	0	0
+Onze zoon is gestorven tijdens de oorlog.	Poikamme kuoli sodassa.	oorlog	0	0
+Onze zoon is gestorven tijdens de oorlog.	Poikamme kuoli sodassa.	tijdens	0	0
+Hallo John! Hoe gaat het?	Terve Johannes! Mitä kuuluu?	john	0	0
+Ik ben mijn vertrouwen in hem verloren.	Menetin luottamukseni häneen.	vertrouwen	0	0
+De trein stopt op elk station.	Juna pysähtyy jokaisella asemalla.	elk	0	0
+Kan ik met een creditcard betalen?	Voinko maksaa kortilla?	betalen	0	0
+Tom had geen recht om te doen wat hij gedaan heeft.	Tomilla ei ollut oikeutta tehdä mitä teki.	recht	0	0
+De zeug is voor de tweede keer drachtig.	Emakko on toista kertaa raskaana.	tweede	0	0
+Welkom in Boston.	Tervetuloa Bostoniin!	welkom	0	0
+Ik zou liever de bus nemen.	Menisin mieluummin bussilla.	liever	0	0
+Ik ben het levende bewijs dat de dood overwonnen worden kan.	Olen elävä todiste siitä, että kuolema voidaan voittaa.	bewijs	0	0
+Ik haat Boston.	Minä vihaan Bostonia.	haat	0	0
+De ene is nieuw. De andere is oud.	Yksi on uusi, ja toinen on vanha.	nieuw	0	0
+Wees stil allebei.	Olkaa hiljaa molemmat.	allebei	0	0
+Dat slaat nergens op!	Tuossa ei ole mitään järkeä!	nergens	0	0
+Er zijn vandaag veel meer leerlingen in het schoollokaal dan gisteren.	Luokkahuoneessa on tänään paljon enemmän opiskelijoita kuin eilen.	gisteren	0	0
+Deze film is gebaseerd op een roman.	Tämä elokuva perustuu romaaniin.	film	0	0
+Ik ben mijn vertrouwen in hem verloren.	Menetin luottamukseni häneen.	verloren	0	0
+Laat deze informatie niet uitlekken.	Älkää päästäkö tätä tietoa vuotamaan.	informatie	0	0
+Wie heeft dit boek geschreven?	Kuka on kirjoittanut tämän kirjan?	boek	0	0
+Wees stil allebei.	Olkaa hiljaa molemmat.	stil	0	0
+Hij is de kapitein van een team.	Hän on joukkueen kapteeni.	kapitein	0	0
+Tom deed het licht aan.	Tom laittoi valot päälle.	licht	0	0
+Ik ben in het ziekenhuis.	Olen sairaalassa.	ziekenhuis	0	0
+Wat een grote hond!	Onpa iso koira!	hond	0	0
+Eindelijk!	Lopultakin!	eindelijk	0	0
+Welke is groter, de zon of de aarde?	Kumpi on suurempi; Aurinko vai Kuu?	aarde	0	0
+Normaal eten wij driemaal per dag.	Tavallisesti syömme kolme kertaa päivässä.	normaal	0	0
+Vader is een goed mens.	Isä on hyvä ihminen.	mens	0	0
+De president van Frankrijk zal volgende maand Japan bezoeken.	Ranskan presidentti vierailee Japanissa ensi kuussa.	president	0	0
+Ik wil kopen.	Haluan ostaa.	kopen	0	0
+Een kapitein is verantwoordelijk voor zijn schip en zijn bemanning.	Kapteeni on vastuussa laivastaan ja sen miehistöstä.	schip	0	0
+Ik ben ziek.	Olen sairas.	ziek	0	0
+In Japan begint het nieuwe schooljaar in april.	Japanissa uusi lukuvuosi alkaa huhtikuussa.	begint	0	0
+Tom begon te hoesten.	Tom alkoi yskiä.	begon	0	0
+Lang leve de koning!	Kauan eläköön kuningas!	koning	0	0
+Weinig schatten zijn zoveel waard als een vriend.	Harvat aarteet ovat yhtä arvokkaita kuin ystävä.	waard	0	0
+Niet winnen is belangrijk, maar deelnemen.	Tärkeä asia ei ole voittaa vaan ottaa osaa.	winnen	0	0
+Tom had de moed niet om daar in zijn eentje naartoe te gaan.	Tomilla ei ollut rohkeutta mennä sinne yksin.	naartoe	0	0
+Het is moeilijk om te begrijpen.	Sitä on vaikea ymmärtää.	begrijpen	0	0
+Darwin heeft de wereld veranderd.	Darwin muutti maailman.	veranderd	0	0
+Nul, een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	Nolla, yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	acht	0	0
+Leg dat boek boven op de andere.	Laita kirjan toisten päälle.	leg	0	0
+Seks verkoopt.	Seksi myy.	seks	0	0
+De toekomst is dichterbij dan je denkt.	Tulevaisuus on lähempänä kuin luulet.	toekomst	0	0
+Hij werkt iedere dag, behalve op zondag.	Hän työskentelee joka päivä, paitsi sunnuntaisin.	behalve	0	0
+John is slim.	Joni on fiksu.	slim	0	0
+Cuzco is een van de meest interessante plekken ter wereld.	Cuzco on yksi maailman mielenkiintoisimmista paikoista.	meest	0	0
+Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	zeven	0	0
+Weinig schatten zijn zoveel waard als een vriend.	Harvat aarteet ovat yhtä arvokkaita kuin ystävä.	weinig	0	0
+De beer eet een appel.	Karhu syö omenaa.	eet	0	0
+Hij werd ter dood veroordeeld.	Hänet tuomittiin kuolemaan.	ter	0	0
+Hij voelde zich moe.	Hän tunsi itsensä väsyneeksi.	voelde	0	0
+Een maand is te weinig tijd.	Kuukausi on liian vähän aikaa.	maand	0	0
+Tom is een idioot.	Tom on idiootti.	idioot	0	0
+Tot ziens!	Näkemiin!	ziens	0	0
+Iedereen heeft het erover.	Kaikki puhuvat siitä.	erover	0	0
+Tom had de moed niet om daar in zijn eentje naartoe te gaan.	Tomilla ei ollut rohkeutta mennä sinne yksin.	eentje	0	0
+Zij wonen in Helsinki, Finland.	He asuvat Helsingissä, Suomessa.	wonen	0	0
+Parijs is een van de grootste steden van de wereld.	Pariisi on yksi maailman suurimmista kaupungeista.	grootste	0	0
+Tom is sterk.	Tom on vahva.	sterk	0	0
+Is het een afspraak?	Onko meillä treffit?	afspraak	0	0
+Waarom wil de regering mijn e-mail lezen?	Miksi valtiovalta haluaa lukea sähköpostiani?	lezen	0	0
+We kunnen niet slapen vanwege het lawaai.	Emme voi nukkua melun vuoksi.	vanwege	0	0
+Jij begrijpt me.	Sinä ymmärrät minua.	begrijpt	0	0
+De ene is nieuw. De andere is oud.	Yksi on uusi, ja toinen on vanha.	ene	0	0
+Waar woont je opa?	Missä vaarisi asuu?	woont	0	0
+Hoe gaat het, Mike?	Miten menee, Mike?	mike	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	geest	0	0
+Tom kon de deur niet openen.	Tom ei voinut avata ovea.	tom	0	0
+Leuk geprobeerd.	Hyvä yritys.	geprobeerd	0	0
+De meeste Nederlanders in Nieuw-Amsterdam vertrokken niet.	Suurin osa Uuden Amsterdamin hollantilaisista ei lähtenyt.	meeste	0	0
+Je bent niet de enige die op Mary verliefd is.	Et ole ainoa, joka on rakastunut Mariin.	verliefd	0	0
+Het was acht meter lang.	Se oli kahdeksan metriä pitkä.	meter	0	0
+Tom is gevaarlijk.	Tom on vaarallinen.	gevaarlijk	0	0
+Het kan me geen reet schelen.	Mua ei kiinnosta vitun vertaa.	schelen	0	0
+Hallo! Goedemorgen!	Hei! Huomenta!	goedemorgen	0	0
+Hij werkt iedere dag, behalve op zondag.	Hän työskentelee joka päivä, paitsi sunnuntaisin.	iedere	0	0
+Ik ben jong.	Olen nuori.	jong	0	0
+Dichters schrijven gedichten.	Runoilijat kirjoittavat runoja.	schrijven	0	0
+Het vliegtuig landde om zes uur precies.	Lentokone laskeutui tasan kello kuudelta.	vliegtuig	0	0
+Europa bestaat niet.	Eurooppaa ei ole.	bestaat	0	0
+Ik ben niet moe.	En ole väsynyt.	moe	0	0
+Er zat een kat op de tafel.	Pöydän päällä oli kissa.	tafel	0	0
+Fijne reis!	Hyvää matkaa!	reis	0	0
+Ik heb een beetje honger.	Minulla on vähän nälkä.	honger	0	0
+Ik ben geboren in Finland.	Minä olen syntynyt Suomessa.	geboren	0	0
+Wat ligt er in het bureau?	Mitä pulpetissa on sisällä?	bureau	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	macht	0	0
+Ik spreek Hongaars.	Puhun unkaria.	spreek	0	0
+"Speelt zij tennis?" "Ja."	”Pelaako hän tennistä?” ”Kyllä pelaa.”	speelt	0	0
+Vogels vliegen vaak samen.	Linnut lentävät usein yhdessä.	vliegen	0	0
+Hij heeft een oog voor kunst.	Hänellä on silmää taiteelle.	oog	0	0
+Ik wil dansen.	Minä haluan tanssia.	dansen	0	0
+Teken een cirkel.	Piirrä ympyrä.	teken	0	0
+Hoeveel uur heb je deze week gewerkt?	Kuinka monta tuntia työskentelit tällä viikolla?	gewerkt	0	0
+Tom is arm.	Tomi on köyhä.	arm	0	0
+Je hebt de wet gebroken.	Rikoit lakia.	wet	0	0
+Het aantal muffins dat je krijgt, zal omgekeerd evenredig zijn aan het aantal keer dat je op IRC praat.	Saamiesi muffinien lukumäärä on käänteisesti verrannollinen siihen, miten usein juttelet IRCissä.	aantal	0	0
+Het meisje dat met Tom spreekt, is Mary.	Tomin kanssa jutteleva tyttö on Mary.	mary	0	0
+Je hebt de wet gebroken.	Rikoit lakia.	gebroken	0	0
+Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	negen	0	0
+De zon heeft negen planeten.	Auringolla on yhdeksän planeettaa.	zon	0	0
+Hoeveel kost dit uurwerk?	Paljonko tämä kello maksaa?	kost	0	0
+Het paard heeft dorst.	Hevonen on janoinen.	paard	0	0
+Japan is een rijk land.	Japani on rikas maa.	rijk	0	0
+We hebben een witte kat.	Meillä on valkea kissa.	witte	0	0
+Ze sprak Frans.	Hän puhui ranskaa.	sprak	0	0
+Ik heb een nieuwe rode auto.	Minulla on uusi punainen auto.	rode	0	0
+Ik lees graag Amerikaanse romans.	Luen kernaasti amerikkalaisia romaaneja.	amerikaanse	0	0
+Waarom heb je bloemen gekocht?	Miksi ostit kukkia?	gekocht	0	0
+Dit is mijn computer.	Tämä on tietokoneeni.	computer	0	0
+De aarde is een planeet.	Maa on planeetta.	planeet	0	0
+Hoe warm is het?	Kuinka lämmin se on?	warm	0	0
+Er waren veel mensen in het park.	Puistossa oli paljon ihmisiä.	park	0	0
+Paarden zijn zeer gevoelige dieren.	Hevoset ovat hyvin herkkiä eläimiä.	dieren	0	0
+Het leven van Mozart was heel kort.	Mozartin elämä oli hyvin lyhyt.	kort	0	0
+Het meisje dat met Tom spreekt, is Mary.	Tomin kanssa jutteleva tyttö on Mary.	spreekt	0	0
+Ik heb veel dromen.	Minulla on paljon unelmia.	dromen	0	0
+Wie heeft dit boek geschreven?	Kuka on kirjoittanut tämän kirjan?	geschreven	0	0
+Welke is groter, de zon of de aarde?	Kumpi on suurempi; Aurinko vai Kuu?	groter	0	0
+Hij liegt.	Hän valehtelee!	liegt	0	0
+De oude vrouw ging de bus uit.	Vanha nainen meni ulos bussista.	bus	0	0
+Belachelijk.	Naurettavaa.	belachelijk	0	0
+Ik drink niet veel wijn.	En juo paljon viiniä.	wijn	0	0
+Ben je vrij dit weekend?	Onko sinulla vapaata tänä viikonloppuna?	weekend	0	0
+Hé, Jim!	Morjensta, Jim!	jim	0	0
+Leugens hebben korte benen.	Valheella on lyhyet jäljet.	benen	0	0
+Ik drink water.	Juon vettä.	drink	0	0
+De Zweedse winter is donker.	Ruotsin talvi on pimeä.	donker	0	0
+Ik heb veel boeken nodig.	Tarvitsen monta kirjaa.	boeken	0	0
+Dat slaat nergens op!	Tuossa ei ole mitään järkeä!	slaat	0	0
+We vierden zijn verjaardag.	Juhlimme hänen syntymäpäiviään.	verjaardag	0	0
+Hij werd levend begraven.	Hänet haudattiin elävältä.	levend	0	0
+De trein stopt op elk station.	Juna pysähtyy jokaisella asemalla.	trein	0	0
+Waar woont je opa?	Missä vaarisi asuu?	opa	0	0
+Het ijs is gesmolten.	Jää suli.	ijs	0	0
+Hij werd levend begraven.	Hänet haudattiin elävältä.	begraven	0	0
+Hoi, Bill. Hoe gaat het?	Terve, Bill. Mitä kuuluu?	bill	0	0
+Er zat een kat op de tafel.	Pöydän päällä oli kissa.	kat	0	0
+Ik had graag een glas water, alstublieft.	Ottaisin vain lasillisen vettä.	glas	0	0
+De kat is zwart.	Kissa on musta.	zwart	0	0
+Er is prachtige natuur in Karelië.	Karjalassa on kaunis luonto.	prachtige	0	0
+Onze zoon is gestorven tijdens de oorlog.	Poikamme kuoli sodassa.	gestorven	0	0
+Waarom wil de regering mijn e-mail lezen?	Miksi valtiovalta haluaa lukea sähköpostiani?	regering	0	0
+Wat heeft deze stoel hier te zoeken?	Mitä tämä tuoli täällä tekee?	stoel	0	0
+Fijne reis!	Hyvää matkaa!	fijne	0	0
+Een kapitein is verantwoordelijk voor zijn schip en zijn bemanning.	Kapteeni on vastuussa laivastaan ja sen miehistöstä.	verantwoordelijk	0	0
+Ik lees geen boeken.	En lue kirjoja.	lees	0	0
+Puasinkoi is een klein Karelisch dorp in de regio Tver.	Puasinkoi on pieni, karjalainen kylä Tverin alueella.	dorp	0	0
+Ze slaapt met twee kussens.	Hän nukkuu kahden tyynyn kanssa.	slaapt	0	0
+Hij dronk bier.	Hän joi olutta.	bier	0	0
+Tom is veel ouder dan Mary.	Tom on paljon vanhempi kuin Mary.	ouder	0	0
+Parijs is een van de grootste steden van de wereld.	Pariisi on yksi maailman suurimmista kaupungeista.	parijs	0	0
+De rijken worden rijker en de armen worden armer.	Rikkaat rikastuvat ja köyhät köyhtyvät.	armen	0	0
+Hoe was je vakantie?	Miten lomasi meni?	vakantie	0	0
+Kan iemand anders antwoorden?	Voiko joku toinen vastata?	antwoorden	0	0
+Ik woon niet in Finland.	En asu Suomessa.	woon	0	0
+Goedenavond!	Hyvää iltaa!	goedenavond	0	0
+Ik heb uw advies nodig.	Tarvitsen neuvojasi.	advies	0	0
+Tom wilde hun vuile werk niet doen.	Tom ei tahtonut tehdä heidän likaista työtään.	vuile	0	0
+Mag ik jouw radio lenen?	Voisitko sinä lainata minulle radiotasi?	radio	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	vrijheid	0	0
+Ik had niets met hen gemeen.	Minulla ei ole mitään yhteistä heidän kanssaan.	gemeen	0	0
+Ze stalen mijn fles wijn!	He varastivat viinipulloni!	fles	0	0
+Ik heb geen vis besteld.	En minä tilannut kalaa.	vis	0	0
+De rozen zijn rood.	Ruusut ovat punaisia.	rood	0	0
+Ik verloor alles wat ik had.	Olen menettänyt kaiken mitä minulla oli.	verloor	0	0
+De trein stopt op elk station.	Juna pysähtyy jokaisella asemalla.	stopt	0	0
+Hoe laat ontbijt je gewoonlijk?	Mihin aikaan tavallisesti syöt aamiaista?	ontbijt	0	0
+Vijf plus zeven is twaalf.	Viisi plus seitsemän tekee kaksitoista.	twaalf	0	0
+Kameroen wordt "Cameroun" genoemd in het Frans.	Kamerunia kusutaan nimellä ”Cameroun” ranskaksi.	genoemd	0	0
+Deze brug lijkt stevig.	Tämä silta näyttää tukevalta.	brug	0	0
+Ze zegt dat ze van bloemen houdt.	Hän sanoo, että pitää kukista.	bloemen	0	0
+Haar huid is zacht.	Hänen ihonsa on pehmeä.	huid	0	0
+Tom kon de deur niet openen.	Tom ei voinut avata ovea.	openen	0	0
+De meeste Nederlanders in Nieuw-Amsterdam vertrokken niet.	Suurin osa Uuden Amsterdamin hollantilaisista ei lähtenyt.	vertrokken	0	0
+Heb je een Engels woordenboek?	Onko sinulla englannin sanakirjaa?	engels	0	0
+De school start de volgende maandag.	Koulu alkaa ensi maanantaina.	start	0	0
+Korpiklaani is een van mijn favoriete folkmetalbands.	Korpiklaani on pidetyimpien folk metal -yhtyeitteni joukossa.	favoriete	0	0
+Ik vind de zomer leuker dan de winter.	Minä pidän enemmän kesästä kuin talvesta.	zomer	0	0
+Hoi, Lisa!	Moro, Elisabet!	lisa	0	0
+Schildpadden hebben geen tanden.	Kilpikonnilla ei ole hampaita.	tanden	0	0
+Tien, twintig, dertig, veertig, vijftig, zestig, zeventig, tachtig, negentig, honderd.	Kymmenen, kaksikymmentä, kolmekymmentä, neljäkymmentä, viisikymmentä, kuusikymmentä, seitsemänkymmentä, kahdeksankymmentä, yhdeksänkymmentä, sata.	honderd	0	0
+Zij droeg een rode blouse.	Hänellä oli päällä punainen pusero.	droeg	0	0
+Ik ben geïnteresseerd.	Minä olen kiinnostunut.	geïnteresseerd	0	0
+Ze rookt twintig sigaretten per dag.	Hän polttaa 20 savuketta päivässä.	twintig	0	0
+Wie heeft je dit aangedaan?	Kuka teki tämän sinulle?	aangedaan	0	0
+Hoi, Maria.	Moro, Maria.	maria	0	0
+Paarden zijn zeer gevoelige dieren.	Hevoset ovat hyvin herkkiä eläimiä.	paarden	0	0
+Zij kunnen vissen.	He osaavaat kalastaa.	vissen	0	0
+Te veel zoetigheden maken dik.	Liika karkki lihottaa.	dik	0	0
+Romulus en Remus waren broers.	Romulus ja Remus olivat veljiä.	broers	0	0
+De liefde is sterker dan de dood.	Rakkaus on vahvempi kuin kuolema.	sterker	0	0
+De president van Frankrijk zal volgende maand Japan bezoeken.	Ranskan presidentti vierailee Japanissa ensi kuussa.	frankrijk	0	0
+Zijn er veel bloemen in de tuin?	Onko puutarhassa paljon kukkia?	tuin	0	0
+Leugens hebben korte benen.	Valheella on lyhyet jäljet.	korte	0	0
+Hij heeft een oog voor kunst.	Hänellä on silmää taiteelle.	kunst	0	0
+Zij is de eerste minister van Finland.	Hän on Suomen pääministeri.	minister	0	0
+Het probleem is, dat zonne-energie te duur is.	Ongelmana on, että aurinkoenergia on liian kallista.	duur	0	0
+Wat een toeval!	Mikä yhteensattuma!	toeval	0	0
+We kunnen geen melk drinken.	Emme voi juoda maitoa.	melk	0	0
+Hij is lui.	Hän on laiska.	lui	0	0
+De toekomst is dichterbij dan je denkt.	Tulevaisuus on lähempänä kuin luulet.	dichterbij	0	0
+Mag ik jouw radio lenen?	Voisitko sinä lainata minulle radiotasi?	lenen	0	0
+Tom had de moed niet om daar in zijn eentje naartoe te gaan.	Tomilla ei ollut rohkeutta mennä sinne yksin.	moed	0	0
+Tom was een van mijn patiënten.	Tom oli yksi potilaistani.	patiënten	0	0
+Het is niet toegestaan om te roken.	Ette saa tupakoida.	roken	0	0
+Gaaf!	Päheetä!	gaaf	0	0
+Computers worden vaak vergeleken met het menselijk brein.	Tietokonetta verrataan usein ihmisaivoihin.	menselijk	0	0
+Tom kent zijn buren niet.	Tom ei tunne naapuriaan.	buren	0	0
+Hij wil leren zwemmen.	Hän haluaa oppia uimaan.	zwemmen	0	0
+De trein stopt op elk station.	Juna pysähtyy jokaisella asemalla.	station	0	0
+De kolibrie is de kleinste vogel ter wereld.	Kolibri on maailman pienin lintu.	vogel	0	0
+Onze trein bereikte Rome na het donker.	Junamme saapui Roomaan pimeän jälkeen.	rome	0	0
+Ze zijn van plan om een diner te organiseren.	He suunnittelevat järjestävänsä juhlat.	diner	0	0
+We willen volledige zinnen.	Me haluamme kokonaisia lauseita.	volledige	0	0
+Hij zei haar voor altijd vaarwel.	Hän jätti tälle lopulliset jäähyväiset.	vaarwel	0	0
+Ik hou van koude pizza.	Minä tykkään kylmästä pizzasta.	pizza	0	0
+Het kan me geen reet schelen.	Mua ei kiinnosta vitun vertaa.	reet	0	0
+Het huis is wit.	Talo on valkoinen.	wit	0	0
+De president van Frankrijk zal volgende maand Japan bezoeken.	Ranskan presidentti vierailee Japanissa ensi kuussa.	bezoeken	0	0
+Zondag komt na zaterdag.	Sunnuntai tulee lauantain jälkeen.	zaterdag	0	0
+Je ziet er bleek uit.	Näytät kalpealta.	bleek	0	0
+Grieks is geen gemakkelijke taal.	Kreikka ei ole helppo kieli.	taal	0	0
+Ik heb tien minuten lang gewacht.	Odotin kymmenen minuuttia.	gewacht	0	0
+Europa bestaat niet.	Eurooppaa ei ole olemassa.	europa	0	0
+Er is prachtige natuur in Karelië.	Karjalassa on kaunis luonto.	natuur	0	0
+Vijf plus zeven is twaalf.	Viisi plus seitsemän tekee kaksitoista.	plus	0	0
+Cuzco is een van de meest interessante plekken ter wereld.	Cuzco on yksi maailman kiinnostavimmista paikoista.	plekken	0	0
+Leugens hebben korte benen.	Valheella on lyhyet jäljet.	leugens	0	0
+Hij werkt iedere dag, behalve op zondag.	Hän työskentelee joka päivä, paitsi sunnuntaisin.	zondag	0	0
+Stop met praten wanneer de leraar binnenkomt.	Lakkaa puhumasta kun opettaja tulee sisään.	leraar	0	0
+De school start de volgende maandag.	Koulu alkaa ensi maanantaina.	maandag	0	0
+Ik heb een huis in de bergen.	Minulla on talo vuorilla.	bergen	0	0
+Tom sliep op de luchtmatras.	Tom nukkui ilmapatjalla.	sliep	0	0
+Ik ben Susan Greene.	Olen Susan Greene.	susan	0	0
+Neen, ik ben Engels.	En, minä olen englantilainen.	neen	0	0
+Ben je vóór of tegen het voorstel?	Oletko ehdotuksen puolesta vai sitä vastaan?	voorstel	0	0
+Is het een afspraakje?	Onko meillä treffit?	afspraakje	0	0
+Vrolijk kerstfeest, Tatoeba!	Hyvää joulua Tatoeba!	vrolijk	0	0
+Waar is het brood?	Missä leipä on?	brood	0	0
+Vogels vliegen vaak samen.	Linnut lentävät usein yhdessä.	vogels	0	0
+Kom, we verstoppen ons achter het gordijn.	Tule, piileskellään verhon takana.	verstoppen	0	0
+De beer eet een appel.	Karhu syö omenaa.	beer	0	0
+Ik hou van kaas.	Pidän juustosta.	kaas	0	0
+In Japan begint het nieuwe schooljaar in april.	Japanissa uusi lukuvuosi alkaa huhtikuussa.	april	0	0
+Deze film is gebaseerd op een roman.	Tämä elokuva perustuu romaaniin.	gebaseerd	0	0
+Peking is de hoofdstad van China.	Peking on Kiinan pääkaupunki.	china	0	0
+Seks verkoopt.	Seksi myy.	verkoopt	0	0
+Ik vind de zomer leuker dan de winter.	Minä pidän enemmän kesästä kuin talvesta.	winter	0	0
+Hij komt uit Duitsland.	Hän on Saksasta.	duitsland	0	0
+Een kapitein is verantwoordelijk voor zijn schip en zijn bemanning.	Kapteeni on vastuussa laivastaan ja sen miehistöstä.	bemanning	0	0
+De maag is een van de interne organen.	Mahalaukku on yksi sisäelimistä.	maag	0	0
+Iedereen sprong.	Kaikki hätkähtivät.	sprong	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	noch	0	0
+Kijk in de spiegel.	Katso peiliin.	spiegel	0	0
+In de woestijn is zand goedkoop.	Aavikolla hiekka on halpaa.	woestijn	0	0
+Kameroen wordt "Cameroun" genoemd in het Frans.	Kamerunia kusutaan nimellä ”Cameroun” ranskaksi.	frans	0	0
+Ik hou van koude pizza.	Minä tykkään kylmästä pizzasta.	koude	0	0
+Dit is een foto van het gelukkige paar op hun trouwdag.	Tämä on kuva onnellisesta pariskunnasta heidän hääpäivänään.	gelukkige	0	0
+Haar huid is zacht.	Hänen ihonsa on pehmeä.	zacht	0	0
+Hij werd ter dood veroordeeld.	Hänet tuomittiin kuolemaan.	veroordeeld	0	0
+Tien, twintig, dertig, veertig, vijftig, zestig, zeventig, tachtig, negentig, honderd.	Kymmenen, kaksikymmentä, kolmekymmentä, neljäkymmentä, viisikymmentä, kuusikymmentä, seitsemänkymmentä, kahdeksankymmentä, yhdeksänkymmentä, sata.	dertig	0	0
+Hij heeft geen fiets.	Hänellä ei ole polkupyörää.	fiets	0	0
+Computers worden vaak vergeleken met het menselijk brein.	Tietokonetta verrataan usein ihmisaivoihin.	brein	0	0
+Is meneer Davis naar Japan gekomen om Engels te onderwijzen?	Tuliko hra Davis Japaniin opettamaan englantia?	davis	0	0
+Ik haat Boston.	Minä vihaan Bostonia.	boston	0	0
+Ik was tot 's avonds op het werk.	Olin työssä iltaan asti.	avonds	0	0
+In de woestijn is zand goedkoop.	Aavikolla hiekka on halpaa.	zand	0	0
+Ik ben het levende bewijs dat de dood overwonnen worden kan.	Olen elävä todiste siitä, että kuolema voidaan voittaa.	levende	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	middel	0	0
+Tom is heel beroemd.	Tom on hyvin kuuluisa.	beroemd	0	0
+Ik ben niet zeker of ik zou thuisblijven of uitgaan.	En ole varma pysyäkö kotona vai mennäkö ulos.	uitgaan	0	0
+We hebben uw handtekening nodig.	Me tarvitsemme allekirjoituksenne.	handtekening	0	0
+Hoe laat ontbijt je gewoonlijk?	Mihin aikaan tavallisesti syöt aamiaista?	gewoonlijk	0	0
+Wat is de oorzaak?	Mikä on syy?	oorzaak	0	0
+We hebben twee dochters.	Meillä on kaksi tytärtä.	dochters	0	0
+Ik vind de zomer leuker dan de winter.	Minä pidän enemmän kesästä kuin talvesta.	leuker	0	0
+Cuzco is een van de meest interessante plekken ter wereld.	Cuzco on yksi maailman mielenkiintoisimmista paikoista.	interessante	0	0
+Ik heb geen vis besteld.	En minä tilannut kalaa.	besteld	0	0
+Ben je vóór of tegen het voorstel?	Oletko ehdotuksen puolesta vai sitä vastaan?	vóór	0	0
+Nul, een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	Nolla, yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	nul	0	0
+Waarom wil de regering mijn e-mail lezen?	Miksi valtiovalta haluaa lukea sähköpostiani?	e-mail	0	0
+Ik heb koorts.	Minulla on kuumetta.	koorts	0	0
+Vrolijk kerstfeest, Tatoeba!	Hyvää joulua Tatoeba!	kerstfeest	0	0
+Ons vliegtuig vloog boven de wolken.	Koneemme lensi pilvien yläpuolella.	vloog	0	0
+Ik keerde naar Japan terug.	Palasin Japaniin.	japan	0	0
+Tien, twintig, dertig, veertig, vijftig, zestig, zeventig, tachtig, negentig, honderd.	Kymmenen, kaksikymmentä, kolmekymmentä, neljäkymmentä, viisikymmentä, kuusikymmentä, seitsemänkymmentä, kahdeksankymmentä, yhdeksänkymmentä, sata.	vijftig	0	0
+Hij dronk bier.	Hän joi olutta.	dronk	0	0
+Ze rookt twintig sigaretten per dag.	Hän polttaa 20 savuketta päivässä.	sigaretten	0	0
+Ellen spreekt geen Engels.	Ellen ei puhu englantia.	ellen	0	0
+Er is melk in de koelkast.	Jääkaapissa on maitoa.	koelkast	0	0
+Zing mee.	Laula mukana.	zing	0	0
+Het paard heeft dorst.	Hevonen on janoinen.	dorst	0	0
+De vlag van Indonesië en die van Polen gelijken op elkaar.	Indonesian ja Puolan liput ovat samankaltaisia.	vlag	0	0
+Deze film is gebaseerd op een roman.	Tämä elokuva perustuu romaaniin.	roman	0	0
+In de woestijn is zand goedkoop.	Aavikolla hiekka on halpaa.	goedkoop	0	0
+In Europa beginnen de scholen in september.	Euroopassa koulut alkavat syyskuussa.	september	0	0
+Computers worden vaak vergeleken met het menselijk brein.	Tietokonetta verrataan usein ihmisaivoihin.	vergeleken	0	0
+IJzer is een nuttig metaal.	Rauta on hyödyllinen metalli.	nuttig	0	0
+Computers worden vaak vergeleken met het menselijk brein.	Tietokonetta verrataan usein ihmisaivoihin.	computers	0	0
+Parijs is een van de grootste steden van de wereld.	Pariisi on yksi maailman suurimmista kaupungeista.	steden	0	0
+Goedemiddag.	Hyvää iltapäivää.	goedemiddag	0	0
+De maag is een van de interne organen.	Mahalaukku on yksi sisäelimistä.	interne	0	0
+Het is niet toegestaan om te roken.	Ette saa tupakoida.	toegestaan	0	0
+We kunnen niet slapen vanwege het lawaai.	Emme voi nukkua melun vuoksi.	lawaai	0	0
+Sami trouwde met een moslimvrouw.	Sami nai musliminaisen.	trouwde	0	0
+Goedendag.	Päivää.	goedendag	0	0
+Prostitutie is legaal in Duitsland.	Prostituutio on laillista Saksassa.	legaal	0	0
+Kunt gij snel lopen?	Pystytkö juoksemaan nopeasti?	gij	0	0
+Teken een cirkel.	Piirrä ympyrä.	cirkel	0	0
+Deze brug lijkt stevig.	Tämä silta näyttää tukevalta.	stevig	0	0
+Hij is een boer.	Hän on maanviljelijä.	boer	0	0
+De vleesprijs zal spoedig dalen.	Lihan hinta laskee pian.	spoedig	0	0
+Waarom huil je?	Miksi sinä itket?	huil	0	0
+Mijn telefoonnummer is 9876-5432.	Puhelinnumeroni on 9876-5432.	telefoonnummer	0	0
+Ik ga zelden naar de bioscoop.	Käyn harvoin elokuvissa.	zelden	0	0
+Tof!	Kova!	tof	0	0
+In Europa beginnen de scholen in september.	Euroopassa koulut alkavat syyskuussa.	scholen	0	0
+Zijn auto is een Ford.	Hänen autonsa on Ford.	ford	0	0
+Er ontbreekt niets.	Mitään ei puutu.	ontbreekt	0	0
+Het regent pijpenstelen.	Vettä tulee kuin Esterin perseestä.	regent	0	0
+Er zijn vandaag veel meer leerlingen in het schoollokaal dan gisteren.	Luokkahuoneessa on tänään paljon enemmän opiskelijoita kuin eilen.	leerlingen	0	0
+De zon heeft negen planeten.	Auringolla on yhdeksän planeettaa.	planeten	0	0
+Er sterven dagelijks goede mensen.	Hyviä ihmisiä kuolee joka päivä.	dagelijks	0	0
+Duits, Nederlands, Noors en Engels zijn Germaanse talen.	Saksa, hollanti, norja ja englanti ovat germaanisia kieliä.	duits	0	0
+Tien, twintig, dertig, veertig, vijftig, zestig, zeventig, tachtig, negentig, honderd.	Kymmenen, kaksikymmentä, kolmekymmentä, neljäkymmentä, viisikymmentä, kuusikymmentä, seitsemänkymmentä, kahdeksankymmentä, yhdeksänkymmentä, sata.	veertig	0	0
+IJzer is een nuttig metaal.	Rauta on hyödyllinen metalli.	metaal	0	0
+Kan ik met een creditcard betalen?	Voinko maksaa kortilla?	creditcard	0	0
+Gloeilampen verbruiken elektriciteit.	Hehkulamput kuluttavat sähköä.	elektriciteit	0	0
+De beer eet een appel.	Karhu syö omenaa.	appel	0	0
+Ons vliegtuig vloog boven de wolken.	Koneemme lensi pilvien yläpuolella.	wolken	0	0
+Ze zijn van plan om een diner te organiseren.	He suunnittelevat järjestävänsä juhlat.	organiseren	0	0
+Hoe heet de hoofdstad van Australië?	Minkä niminen on Australian pääkaupunki?	australië	0	0
+We leven in een maatschappij.	Elämme yhteiskunnassa.	maatschappij	0	0
+De maag is een van de interne organen.	Mahalaukku on yksi sisäelimistä.	organen	0	0
+Ze stalen mijn fles wijn!	He varastivat viinipulloni!	stalen	0	0
+Waar is de luchthaven?	Missä on lentokenttä?	luchthaven	0	0
+Ik geloof dat mijn vriend mijn e-mails bespioneert.	Luulen, että poikaystäväni urkkii sähköpostejani.	e-mails	0	0
+Ik heb de auto gewassen.	Pesin auton.	gewassen	0	0
+Lang leve de koning!	Kauan eläköön kuningas!	leve	0	0
+Het is leuk om honkbal te spelen.	On hauskaa pelata baseballia.	honkbal	0	0
+Oog om oog, tand om tand.	Silmä silmästä, hammas hampaasta.	tand	0	0
+Tom is allergisch voor bijen, hoornaars en wespen.	Tom on allerginen mehiläisille, herhiläisille ja ampiaisille.	allergisch	0	0
+Waar kan ik parkeren?	Minne voin pysäköidä?	parkeren	0	0
+De rozen zijn rood.	Ruusut ovat punaisia.	rozen	0	0
+Spreek Italiaans!	Puhukaa italiaa!	italiaans	0	0
+Weinig schatten zijn zoveel waard als een vriend.	Harvat aarteet ovat yhtä arvokkaita kuin ystävä.	schatten	0	0
+De vlag van Indonesië en die van Polen gelijken op elkaar.	Indonesian ja Puolan liput ovat samankaltaisia.	polen	0	0
+Paarden zijn zeer gevoelige dieren.	Hevoset ovat hyvin herkkiä eläimiä.	gevoelige	0	0
+Hij had drie zoons.	Hänellä oli kolme poikaa.	zoons	0	0
+Puasinkoi is een klein Karelisch dorp in de regio Tver.	Puasinkoi on pieni, karjalainen kylä Tverin alueella.	regio	0	0
+We willen volledige zinnen.	Me haluamme kokonaisia lauseita.	zinnen	0	0
+Dit is een foto van het gelukkige paar op hun trouwdag.	Tämä on kuva onnellisesta pariskunnasta heidän hääpäivänään.	trouwdag	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	methode	0	0
+Mijn vader reist graag met het vliegtuig.	Isäni tykkää matkustaa lentokoneella.	reist	0	0
+Ze rookt twintig sigaretten per dag.	Hän polttaa 20 savuketta päivässä.	rookt	0	0
+Ik ga zelden naar de bioscoop.	Käyn harvoin elokuvissa.	bioscoop	0	0
+Ik heet Andrea.	Nimeni on Andrea.	andrea	0	0
+Stop met praten wanneer de leraar binnenkomt.	Lakkaa puhumasta kun opettaja tulee sisään.	binnenkomt	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	opgebouwd	0	0
+Tom citeert vaak Shakespeare.	Tom siteeraa usein Shakespearea.	shakespeare	0	0
+Tom is allergisch voor bijen, hoornaars en wespen.	Tom on allerginen mehiläisille, herhiläisille ja ampiaisille.	bijen	0	0
+Hoe zeg je "good bye" in het Duits?	Miten sanotaan ”näkemiin” saksaksi?	good	0	0
+De kolibrie is de kleinste vogel ter wereld.	Kolibri on maailman pienin lintu.	kleinste	0	0
+Peking is de hoofdstad van China.	Peking on Kiinan pääkaupunki.	hoofdstad	0	0
+IJzer is een nuttig metaal.	Rauta on hyödyllinen metalli.	ijzer	0	0
+Laurie is twintig jaar oud.	Laurie on 20-vuotias.	laurie	0	0
+Ik keerde naar Japan terug.	Palasin Japaniin.	keerde	0	0
+Oeps!	Ups!	oeps	0	0
+De vleesprijs zal spoedig dalen.	Lihan hinta laskee pian.	dalen	0	0
+De rijken worden rijker en de armen worden armer.	Rikkaat rikastuvat ja köyhät köyhtyvät.	rijken	0	0
+De laatste tien jaar van zijn leven waren een marteling.	Viimeiset kymmenen vuotta elämästään olivat yhtä kidutusta.	marteling	0	0
+Ik ben bang voor spinnen.	Pelkään hämähäkkejä.	spinnen	0	0
+Tien, twintig, dertig, veertig, vijftig, zestig, zeventig, tachtig, negentig, honderd.	Kymmenen, kaksikymmentä, kolmekymmentä, neljäkymmentä, viisikymmentä, kuusikymmentä, seitsemänkymmentä, kahdeksankymmentä, yhdeksänkymmentä, sata.	zestig	0	0
+Ierland ligt in West-Europa.	Irlanti sijaitsee Länsi-Euroopassa.	ierland	0	0
+Woon je in Portugal of Brazilië?	Asutko Portugalissa vai Brasiliassa?	brazilië	0	0
+Ge moet Engels leren, of ge wilt of niet.	Sinun täytyy oppia englantia haluat tai et.	ge	0	0
+Hoe zeg je "good bye" in het Duits?	Miten sanotaan ”näkemiin” saksaksi?	bye	0	0
+De hoofdstad van Nederland is Amsterdam.	Alankomaiden pääkaupunki on Amsterdam.	amsterdam	0	0
+Het ijs is gesmolten.	Jää suli.	gesmolten	0	0
+Onze school publiceert haar eigen magazine.	Meidän koulu julkaisee omaa lehteään.	magazine	0	0
+Ik kom uit Griekenland.	Minä tulen Kreikasta.	griekenland	0	0
+Het is bedtijd.	On aika mennä nukkumaan.	bedtijd	0	0
+Mijn vader gaat niet altijd lopend naar het werk.	Isäni ei aina kävele työhön.	lopend	0	0
+Dichters schrijven gedichten.	Runoilijat kirjoittavat runoja.	gedichten	0	0
+Zijn vriendin is Japans.	Hänen tyttöystävänsä on japanilainen.	japans	0	0
+Ik ben Susan Greene.	Olen Susan Greene.	greene	0	0
+Hoeveel talen zijn er in Europa?	Montako kieltä Euroopassa on?	talen	0	0
+De drang om naar huis te gaan was groot.	Houkutus lähteä kotiin oli suuri.	drang	0	0
+Alles kits?	Kuis hurisee?	kits	0	0
+Het aantal muffins dat je krijgt, zal omgekeerd evenredig zijn aan het aantal keer dat je op IRC praat.	Saamiesi muffinien lukumäärä on käänteisesti verrannollinen siihen, miten usein juttelet IRCissä.	omgekeerd	0	0
+Prostitutie is legaal in Duitsland.	Prostituutio on laillista Saksassa.	prostitutie	0	0
+Ik was in Tokio gisteren.	Eilen olin Tokiossa.	tokio	0	0
+Darwin heeft de wereld veranderd.	Darwin muutti maailman.	darwin	0	0
+De hoofdstad van Nederland is Amsterdam.	Alankomaiden pääkaupunki on Amsterdam.	nederland	0	0
+Noorwegen is het rijkste land ter wereld.	Norja on maailman rikkain maa.	noorwegen	0	0
+Grieks is geen gemakkelijke taal.	Kreikka ei ole helppo kieli.	grieks	0	0
+Hoi Mimi! Hoe gaat het?	Moi Mimi! Mitä kuuluu?	mimi	0	0
+Kom, we verstoppen ons achter het gordijn.	Tule, piileskellään verhon takana.	gordijn	0	0
+Ze slaapt met twee kussens.	Hän nukkuu kahden tyynyn kanssa.	kussens	0	0
+"Speelt zij tennis?" "Ja."	”Pelaako hän tennistä?” ”Kyllä pelaa.”	tennis	0	0
+Hij is de aanvoerder van een team.	Hän on joukkueen kapteeni.	aanvoerder	0	0
+Grieks is geen gemakkelijke taal.	Kreikka ei ole helppo kieli.	gemakkelijke	0	0
+Zij droeg een rode blouse.	Hänellä oli päällä punainen pusero.	blouse	0	0
+Het vliegtuig landde om zes uur precies.	Lentokone laskeutui tasan kello kuudelta.	landde	0	0
+Noorwegen is het rijkste land ter wereld.	Norja on rikkain valtio maailmassa.	rijkste	0	0
+De Zweedse winter is donker.	Ruotsin talvi on pimeä.	zweedse	0	0
+Verstaat ge wat ik zeg?	Ymmärrätkö, mitä minä puhun?	verstaat	0	0
+Onze trein bereikte Rome na het donker.	Junamme saapui Roomaan pimeän jälkeen.	bereikte	0	0
+Tien, twintig, dertig, veertig, vijftig, zestig, zeventig, tachtig, negentig, honderd.	Kymmenen, kaksikymmentä, kolmekymmentä, neljäkymmentä, viisikymmentä, kuusikymmentä, seitsemänkymmentä, kahdeksankymmentä, yhdeksänkymmentä, sata.	tachtig	0	0
+Hij spreekt Arabisch.	Hän puhuu arabiaa.	arabisch	0	0
+Ik ben Jorge.	Olen Jorge.	jorge	0	0
+Ik ben vertaler.	Olen kääntäjä.	vertaler	0	0
+De rijken worden rijker en de armen worden armer.	Rikkaat rikastuvat ja köyhät köyhtyvät.	rijker	0	0
+Ik ben teruggegaan naar Japan.	Palasin Japaniin.	teruggegaan	0	0
+Halleluja!	Halleluuja!	halleluja	0	0
+Niet winnen is belangrijk, maar deelnemen.	Tärkeä asia ei ole voittaa vaan ottaa osaa.	deelnemen	0	0
+Ben je op het Koreaanse Schiereiland geweest?	Oletko ollut Korean niemimaalla?	koreaanse	0	0
+Kan iemand mij een goed eentalig Duits woordenboek aanraden?	Voiko kukaan suositella minulle hyvää yksikielistä saksan sanakirjaa?	aanraden	0	0
+Heb je een woordenboek?	Onko sinulla sanakirjaa?	woordenboek	0	0
+Ik ben het levende bewijs dat de dood overwonnen worden kan.	Olen elävä todiste siitä, että kuolema voidaan voittaa.	overwonnen	0	0
+Het leven van Mozart was heel kort.	Mozartin elämä oli hyvin lyhyt.	mozart	0	0
+Tom begon te hoesten.	Tom alkoi yskiä.	hoesten	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	democratische	0	0
+Het aantal muffins dat je krijgt, zal omgekeerd evenredig zijn aan het aantal keer dat je op IRC praat.	Saamiesi muffinien lukumäärä on käänteisesti verrannollinen siihen, miten usein juttelet IRCissä.	muffins	0	0
+Schildpadden hebben geen tanden.	Kilpikonnilla ei ole hampaita.	schildpadden	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	overeenstemming	0	0
+Normaal eten wij driemaal per dag.	Tavallisesti syömme kolme kertaa päivässä.	driemaal	0	0
+De vlag van Indonesië en die van Polen gelijken op elkaar.	Indonesian ja Puolan liput ovat samankaltaisia.	gelijken	0	0
+Tien, twintig, dertig, veertig, vijftig, zestig, zeventig, tachtig, negentig, honderd.	Kymmenen, kaksikymmentä, kolmekymmentä, neljäkymmentä, viisikymmentä, kuusikymmentä, seitsemänkymmentä, kahdeksankymmentä, yhdeksänkymmentä, sata.	zeventig	0	0
+Ik ben Ricardo.	Olen Ricardo.	ricardo	0	0
+Dag Georges. Hoe gaat het?	Hei Georges. Mitä kuuluu?	georges	0	0
+Is meneer Davis naar Japan gekomen om Engels te onderwijzen?	Tuliko hra Davis Japaniin opettamaan englantia?	onderwijzen	0	0
+Ik lees graag Amerikaanse romans.	Luen kernaasti amerikkalaisia romaaneja.	romans	0	0
+De hoofdstad van Oekraïne is Kiev.	Kiova on Ukrainan pääkaupunki.	oekraïne	0	0
+Tien, twintig, dertig, veertig, vijftig, zestig, zeventig, tachtig, negentig, honderd.	Kymmenen, kaksikymmentä, kolmekymmentä, neljäkymmentä, viisikymmentä, kuusikymmentä, seitsemänkymmentä, kahdeksankymmentä, yhdeksänkymmentä, sata.	negentig	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	toepassen	0	0
+Duits, Nederlands, Noors en Engels zijn Germaanse talen.	Saksa, hollanti, norja ja englanti ovat germaanisia kieliä.	nederlands	0	0
+Zonne-energie is een nieuwe energiebron.	Aurinkoenergia on uusi energianlähde.	energiebron	0	0
+Ik ben niet zeker of ik zou thuisblijven of uitgaan.	En ole varma pysyäkö kotona vai mennäkö ulos.	thuisblijven	0	0
+In Japan begint het nieuwe schooljaar in april.	Japanissa uusi lukuvuosi alkaa huhtikuussa.	schooljaar	0	0
+Woon je in Portugal of Brazilië?	Asutko Portugalissa vai Brasiliassa?	portugal	0	0
+Hoeveel koolstofatomen heeft methaan?	Montako hiiliatomia metaanissa on?	methaan	0	0
+De politie ondervroeg Liisa de hele nacht.	Poliisi kuulusteli Liisaa koko yön.	ondervroeg	0	0
+Dichters schrijven gedichten.	Runoilijat kirjoittavat runoja.	dichters	0	0
+De vlag van Indonesië en die van Polen gelijken op elkaar.	Indonesian ja Puolan liput ovat samankaltaisia.	indonesië	0	0
+Ik woon niet in Finland.	En asu Suomessa.	finland	0	0
+Ik ben Hongaarse.	Olen unkarilainen.	hongaarse	0	0
+Peking is de hoofdstad van China.	Peking on Kiinan pääkaupunki.	peking	0	0
+De hoofdstad van Oekraïne is Kiev.	Kiova on Ukrainan pääkaupunki.	kiev	0	0
+Ik geloof dat mijn vriend mijn e-mails bespioneert.	Luulen, että poikaystäväni urkkii sähköpostejani.	bespioneert	0	0
+Het is vandaag Moederdag.	Tänään on äitienpäivä.	moederdag	0	0
+We vierden zijn verjaardag.	Juhlimme hänen syntymäpäiviään.	vierden	0	0
+Het Portugees is een Romaanse taal.	Portugali on romaaninen kieli.	portugees	0	0
+Laat deze informatie niet uitlekken.	Älkää päästäkö tätä tietoa vuotamaan.	uitlekken	0	0
+Ben je op het Koreaanse Schiereiland geweest?	Oletko ollut Korean niemimaalla?	schiereiland	0	0
+Tom is allergisch voor bijen, hoornaars en wespen.	Tom on allerginen mehiläisille, herhiläisille ja ampiaisille.	wespen	0	0
+Zonne-energie is een nieuwe energiebron.	Aurinkoenergia on uusi energianlähde.	zonne-energie	0	0
+Haar vader is Japanner.	Hänen isänsä on japanilainen.	japanner	0	0
+Hoeveel kost dit uurwerk?	Paljonko tämä kello maksaa?	uurwerk	0	0
+De meeste Nederlanders in Nieuw-Amsterdam vertrokken niet.	Suurin osa Uuden Amsterdamin hollantilaisista ei lähtenyt.	nederlanders	0	0
+Miauw.	Miau.	miauw	0	0
+Tom citeert vaak Shakespeare.	Tom siteeraa usein Shakespearea.	citeert	0	0
+Het is bewolkt.	On pilvistä.	bewolkt	0	0
+Tom is geen anarchist.	Tom ei ole anarkisti.	anarchist	0	0
+Onze school publiceert haar eigen magazine.	Meidän koulu julkaisee omaa lehteään.	publiceert	0	0
+Romulus en Remus waren broers.	Romulus ja Remus olivat veljiä.	remus	0	0
+Sami trouwde met een moslimvrouw.	Sami nai musliminaisen.	sami	0	0
+Een secondje.	Odota vähän.	secondje	0	0
+Zij wonen in Helsinki, Finland.	He asuvat Helsingissä, Suomessa.	helsinki	0	0
+Abracadabra!	Abrakadabra!	abracadabra	0	0
+Tom is intelligenter dan Mary.	Tom on älykkäämpi kuin Mary.	intelligenter	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	volhardend	0	0
+De zeug is voor de tweede keer drachtig.	Emakko on toista kertaa raskaana.	zeug	0	0
+De rijken worden rijker en de armen worden armer.	Rikkaat rikastuvat ja köyhät köyhtyvät.	armer	0	0
+Romulus en Remus waren broers.	Romulus ja Remus olivat veljiä.	romulus	0	0
+Ik spreek Hongaars.	Minä puhun unkaria.	hongaars	0	0
+Duits, Nederlands, Noors en Engels zijn Germaanse talen.	Saksa, hollanti, norja ja englanti ovat germaanisia kieliä.	noors	0	0
+De kolibrie is de kleinste vogel ter wereld.	Kolibri on maailman pienin lintu.	kolibrie	0	0
+Tom is geen socialist.	Tom ei ole sosialisti.	socialist	0	0
+Gloeilampen verbruiken elektriciteit.	Hehkulamput kuluttavat sähköä.	verbruiken	0	0
+Ierland ligt in West-Europa.	Irlanti sijaitsee Länsi-Euroopassa.	west-europa	0	0
+Yamamoto is een van mijn vrienden.	Yamamoto on eräs ystävistäni.	yamamoto	0	0
+Het aantal muffins dat je krijgt, zal omgekeerd evenredig zijn aan het aantal keer dat je op IRC praat.	Saamiesi muffinien lukumäärä on käänteisesti verrannollinen siihen, miten usein juttelet IRCissä.	evenredig	0	0
+Gloeilampen verbruiken elektriciteit.	Hehkulamput kuluttavat sähköä.	gloeilampen	0	0
+Ik eet tofoe.	Minä syön tofua.	tofoe	0	0
+De toekomst zal niet worden opgebouwd door middel van macht noch door veroveringszucht, maar door het volhardend toepassen van de democratische methode, de constructieve geest van overeenstemming, en door het eerbiedigen van vrijheid.	Tulevaisuutta ei rakenneta pakottamalla tai alistamalla, vaan se edellyttää demokraattisten menettelyjen kärsivällistä soveltamista, rakentavaa sovintohenkeä sekä vapauden kunnioittamista.	eerbiedigen	0	0
+Ik kom uit Saudi-Arabië.	Olen kotoisin Saudi-Arabiasta.	saudi-arabië	0	0
+Wat is een bliksemafleider?	Mikä on ukkosenjohdatin?	bliksemafleider	0	0
+Duits, Nederlands, Noors en Engels zijn Germaanse talen.	Saksa, hollanti, norja ja englanti ovat germaanisia kieliä.	germaanse	0	0
+Je bent Fins.	Sinä olet suomalainen.	fins	0	0
+De zeug is voor de tweede keer drachtig.	Emakko on toista kertaa raskaana.	drachtig	0	0
+Het regent pijpenstelen.	Sataa kuin saavista kaataen.	pijpenstelen	0	0
+Kameroen wordt "Cameroun" genoemd in het Frans.	Kamerunia kusutaan nimellä ”Cameroun” ranskaksi.	kameroen	0	0
+Tom is geen biochemicus.	Tuomas ei ole biokemisti.	biochemicus	0	0

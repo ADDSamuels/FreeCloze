@@ -1,7 +1,6 @@
 
 /output
 /gui
-/saves
 test.mp3
 
 Tatoeba/it-en.tsv
@@ -13,3 +12,5 @@ test.mp3
 sentences/sentences.csv
 sentences_base/sentences_base.csv
 links/links.csv
+/Tatoeba - Copy
+/saves - Copy

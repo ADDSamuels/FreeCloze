@@ -1,0 +1,1005 @@
+Ele fala inglês melhor do que eu.	Hän puhuu englantia paremmin kuin minä.	que	0	0
+Ele viu uma borboleta sobre a parede.	Hän näki perhosen seinällä.	a	0	0
+O Tom ficou bravo com as crianças.	Tom suuttui lapsille.	o	0	0
+Ela ainda não falou comigo.	Hän ei vielä ole puhunut minulle.	não	0	0
+O número de meu telefone é 9876-5432.	Puhelinnumeroni on 9876-5432.	de	0	0
+A primeira estação do ano é a primavera.	Ensimmäinen vuodenaika on kevät.	é	0	0
+Marina é da Rússia e a Clarissa é da Suécia.	Marina on Venäjältä ja Clarissa Ruotsista.	e	0	0
+Tom era um artista.	Tomi oli taiteilija.	um	0	0
+Deixe para mim um pouco de sorvete.	Säästä minulle vähän jäätelöä.	para	0	0
+Eu não sabia que a capital da Suécia é Estocolmo.	En tiennyt, että Ruotsin pääkaupunki on Tukholma.	eu	0	0
+Não quero viver em uma cidade grande.	En halua asua isossa kaupungissa.	uma	0	0
+Esta faca está bem afiada.	Tämä veitsi on hyvin terävä.	está	0	0
+Hoje eu conversei com uma finlandesa pelo Skype.	Tänään keskustelin suomalaisen naisen kanssa Skypessä.	com	0	0
+Se eu soubesse o endereço dela, escreveria para ela.	Jos tietäisin hänen osoitteensa, kirjoittaisin hänelle.	se	0	0
+Tem um morcego no teto do meu escritório!	Toimistoni katossa on lepakko!	do	0	0
+Por que não comes tua salada?	Miksi sinä et syö salaattiasi?	por	0	0
+Os ricos ficam mais ricos e os pobres ficam mais pobres.	Rikkaat rikastuvat ja köyhät köyhtyvät.	os	0	0
+Ele não sabe muito sobre o Japão.	Hän ei tiedä paljonkaan Japanista.	ele	0	0
+É difícil esquecer em um instante uma longa história de amor.	On vaikeaa unohtaa hetkessä pitkää rakkaustarinaa.	em	0	0
+Eu vou bem, e você?	Ihan hyvää. Entä sinä?	bem	0	0
+Tom já tentou isso?	Onko Tom yrittänyt sitä?	isso	0	0
+O otimista é parte da solução. O pessimista é sempre parte do problema.	Optimisti on osa ratkaisua, pessimisti on aina osa ongelmaa.	da	0	0
+Um dia sem você é como um verão sem sol.	Päivä ilman sinua on kuin kesä ilman aurinkoa.	como	0	0
+Sim, estou chorando.	Kyllä, minä itken.	sim	0	0
+O Tom ficou bravo com as crianças.	Tom suuttui lapsille.	as	0	0
+Não há mais espaço no inferno.	Helvetissä ei ole enää tilaa.	no	0	0
+Por favor, você poderia falar um pouco mais devagar?	Voisitko puhua hitaammin?	mais	0	0
+Eles se viram na rua.	He näkivät toisensa kadulla.	na	0	0
+Tu és meu amigo?	Oletko ystäväni?	meu	0	0
+Faz calor aqui.	Täällä on kuuma.	aqui	0	0
+O negócio ainda me incomoda.	Asia harmittaa minua vieläkin.	me	0	0
+O Tom gostou muito do filme.	Tom piti elokuvasta paljon.	muito	0	0
+Por que você foi demitido?	Miksi sait potkut?	foi	0	0
+Ela acordou.	Hän heräsi.	ela	0	0
+Isto não é uma mesa.	Tämä ei ole pöytä.	isto	0	0
+Estou comendo o meu sanduíche.	Syön voileipääni.	estou	0	0
+Devemos fazer alguma coisa.	Meidän täytyy tehdä jotain.	fazer	0	0
+Vamos!	Mennään!	vamos	0	0
+Tom já tentou isso?	Onko Tom yrittänyt sitä?	já	0	0
+Eu só quero ser perfeito.	Haluan vain olla täydellinen.	ser	0	0
+Heather vai à escola às oito horas.	Heather menee kouluun kahdeksalta.	vai	0	0
+Vou à praia.	Menen rannalle.	à	0	0
+Você não precisa de minha aprovação.	Et tarvitse hyväksyntääni.	minha	0	0
+Não preciso do seu dinheiro. Só preciso do seu tempo.	En tarvitse rahaasi. Tarvitsen vain aikaasi.	só	0	0
+Peça ao Tom para explicar isso.	Pyydä Tomia selittämään se.	ao	0	0
+Minha casa tem vista para o mar.	Talostani on näkymä merelle.	tem	0	0
+Tudo correrá bem.	Kaikki tulee menemään hyvin.	tudo	0	0
+Sinto muito ter esquecido de te chamar.	Anteeksi, että unohdin soittaa sinulle.	te	0	0
+Há algum médico no avião?	Onko lentokoneessa lääkäriä?	há	0	0
+Eu tenho uma casa nas montanhas.	Minulla on talo vuorilla.	tenho	0	0
+Eu vou bem, e você?	Ihan hyvää. Entä sinä?	vou	0	0
+Por que tu compraste flores?	Miksi ostit kukkia?	tu	0	0
+Eu sei que você está se escondendo atrás da cortina.	Tiedän että piileskelet verhon takana.	sei	0	0
+De vez em quando ele viaja a Tóquio a trabalho.	Hän menee silloin tällöin työasioissa Tokioon.	quando	0	0
+Não tenho ideia de onde o Tom esteja agora.	Minulla ei ole mitään käsitystä missä Tom on nyt.	agora	0	0
+Eu vou bem, e você?	Ihan hyvää. Entä sinä?	você	0	0
+Ele admitiu ter recebido subornos.	Hän myönsi, että oli ottanut lahjuksia.	ter	0	0
+Tom era bastante jovem naquele tempo.	Tom oli melko nuori siihen aikaan.	era	0	0
+Quem é mais alto, você ou o Ken?	Kumpi on pidempi, sinä vai Ken?	quem	0	0
+Alguém sabe onde está meu filho?	Tietääkö kukaan, missä poikani on?	onde	0	0
+Nada do que Tom disse era verdade.	Mikään siitä mitä Tom sanoi, ei ollut totta.	nada	0	0
+Foi um sonho ou não?	Oliko se unta vai ei?	ou	0	0
+Eu não vou tentar matar essa coisa.	En aio yrittää tappaa sitä.	coisa	0	0
+Eu sei o que você quer dizer.	Tiedän, mitä tarkoitat.	dizer	0	0
+São oito da manhã.	Kello on kahdeksan aamulla.	são	0	0
+Eu não quero prejudicá-la.	En halua satuttaa sinua.	quero	0	0
+Nosso avião estava voando acima das nuvens.	Koneemme lensi pilvien yläpuolella.	estava	0	0
+Sou alérgico a cães.	Olen allerginen koirille.	sou	0	0
+Ele visitará o seu tio.	Hän vierailee setänsä luona.	seu	0	0
+Esta pode ser a última vez que nos vemos.	Tämä voi olla viimeinen kerta kun näemme.	pode	0	0
+Meu irmão e eu dividimos o mesmo quarto.	Jaoin huoneen veljeni kanssa.	mesmo	0	0
+Você sabe que árvore é esta?	Tiedätkö sinä, minkälainen puu tämä on?	esta	0	0
+Todos eles são poloneses?	Ovatko he kaikki puolalaisia?	eles	0	0
+Nós não sabemos.	Me emme tiedä.	nós	0	0
+Não preciso de sua ajuda.	En tarvitse apuasi.	sua	0	0
+Eu gosto dos seus amigos.	Pidän sinun ystävistäsi.	dos	0	0
+Todos eles são poloneses?	Ovatko he kaikki puolalaisia?	todos	0	0
+Esta pode ser a última vez que nos vemos.	Tämä voi olla viimeinen kerta kun näemme.	nos	0	0
+É mais fácil para mim traduzir do português do que do japonês.	Minulle portugalin kääntäminen on helpompaa kuin japanin.	mim	0	0
+Posso vir?	Voinko tulla?	posso	0	0
+Meu irmão é bom no tênis.	Veljeni on hyvä tenniksessä.	bom	0	0
+Há pessoas que não conseguem ver uma pérola mesmo quando ela diz "sou uma pérola, sou uma pérola".	On ihmisiä, jotka eivät huomaa helmeä, vaikka se sanoisi: "Olen helmi, olen helmi."	ver	0	0
+Este é o dicionário de Laura.	Tämä on Lauran sanakirja.	este	0	0
+Eu tenho uma casa nas montanhas.	Minulla on talo vuorilla.	casa	0	0
+Nós temos um trabalho para fazer.	Meillä on tehtävää.	temos	0	0
+Sinto a tua falta.	Ikävöin sinua.	tua	0	0
+Tom nunca disse esse tipo de coisa.	Tom ei koskaan ole sanonut sellaista.	nunca	0	0
+Nossos deuses estão mortos.	Jumalamme ovat kuolleet.	estão	0	0
+Bebi-o até a última gota.	Join sen viimeiseen pisaraan.	até	0	0
+Eu sou teu amigo?	Olenko ystäväsi?	teu	0	0
+Eu acho que ainda estamos na Polônia!	Luulen että olemme yhä Puolassa.	acho	0	0
+É difícil falar três idiomas.	On vaikea puhua kolmea kieltä.	falar	0	0
+A mulher disse que aquele lugar era dela.	Nainen sanoi, että se paikka oli hänen.	disse	0	0
+Ela ainda não falou comigo.	Hän ei vielä ole puhunut minulle.	ainda	0	0
+É apenas uma questão de tempo.	Se on vain ajan kysymys.	tempo	0	0
+Posso vir amanhã também?	Voinko tulla huomennakin?	também	0	0
+É hora de ir para a cama.	On aika mennä sänkyyn.	ir	0	0
+Ele não tem vergonha de seu pai ser pobre.	Hän ei häpeä isänsä köyhyyttä.	pai	0	0
+Ele não sabe muito sobre o Japão.	Hän ei tiedä paljonkaan Japanista.	sobre	0	0
+Esta pode ser a última vez que nos vemos.	Tämä voi olla viimeinen kerta kun näemme.	vez	0	0
+Por quê?	Miksi?	quê	0	0
+Qual filme você quer ver?	Minkä elokuvan haluat nähdä?	quer	0	0
+Tu és meu amigo?	Oletko ystäväni?	és	0	0
+Por favor, você poderia falar um pouco mais devagar?	Voisitko puhua hitaammin?	favor	0	0
+Tony estuda depois do jantar.	Tony opiskelee illallisen jälkeen.	depois	0	0
+Estou tão feliz.	Olen niin onnellinen.	tão	0	0
+Ele é meu melhor amigo.	Hän on paras ystäväni.	melhor	0	0
+O pai e a mãe morreram.	Isä ja äiti kuolivat.	mãe	0	0
+Talvez eu devesse escrever uma carta para o Tom.	Ehkä minun pitäisi kirjoittaa Tomille kirje.	talvez	0	0
+Obrigado.	Kiitos.	obrigado	0	0
+Boa noite!	Hyvää yötä!	noite	0	0
+Eu preciso de ti.	Tarvitsen sinua.	ti	0	0
+O otimista é parte da solução. O pessimista é sempre parte do problema.	Optimisti on osa ratkaisua, pessimisti on aina osa ongelmaa.	sempre	0	0
+Deus cria o mundo.	Jumala luo maailman.	deus	0	0
+Eu acho que ainda estamos na Polônia!	Luulen että olemme yhä Puolassa.	estamos	0	0
+Alguém sabe onde está meu filho?	Tietääkö kukaan, missä poikani on?	alguém	0	0
+Talvez um dia você perceba que eu lhe faço falta.	Ehkäpä sinä eräänä päivä huomaat, että kaipaat minua.	dia	0	0
+Eu nem ando nem corro.	En kävele enkä juokse.	nem	0	0
+Devemos fazer alguma coisa.	Meidän täytyy tehdä jotain.	alguma	0	0
+A vida é muito curta.	Elämä on hyvin lyhyt.	vida	0	0
+Ele adoeceu há três anos.	Hän sairastui kolme vuotta sitten.	anos	0	0
+Ele foi para Hangzhou com o pai dele?	Menikö hän Hangzhouhun isänsä kanssa?	dele	0	0
+Eu não consigo imaginar minha vida sem ele.	En voi kuvitella elämääni ilman häntä.	sem	0	0
+Em nenhum outro lugar, exceto no mundo antigo, é mais evidente que muitas das coisas que nós, como indivíduos, prezamos, são completamente arbitrárias.	Missään muualla kuin antiikin maailmassa ei ole ilmeisempää, että monet asiat, joita me yksilöinä pidämme tärkeinä, ovat täysin satunnaisia.	das	0	0
+Ele tinha uma filha.	Hänellä oli tytär.	tinha	0	0
+A ciência explica muitas coisas que a religião jamais poderia explicar.	Tiede selittää monia asioita joita uskonto ei koskaan pystyisi selittämään.	coisas	0	0
+Tom é um homem muito perigoso.	Tom on erittäin vaarallinen mies.	homem	0	0
+Há pessoas que não conseguem ver uma pérola mesmo quando ela diz "sou uma pérola, sou uma pérola".	On ihmisiä, jotka eivät huomaa helmeä, vaikka se sanoisi: "Olen helmi, olen helmi."	pessoas	0	0
+Aconteceu algo que eu deva saber?	Onko jotain sellaista tapahtunut, mistä minun pitäisi tietää?	algo	0	0
+O hotel é administrado pelo irmão da mãe dele.	Hänen enonsa johtaa tuota hotellia.	pelo	0	0
+Eu não posso ficar.	En voi jäädä.	ficar	0	0
+Boa viagem!	Hyvää matkaa!	boa	0	0
+Você sabe que árvore é esta?	Tiedätkö sinä, minkälainen puu tämä on?	sabe	0	0
+Você não é tão estúpido quanto parece.	Et ole niin tyhmä kuin miltä näytät.	parece	0	0
+Uma consciência limpa é um sinal claro de uma memória ruim.	Puhdas omatunto on varma merkki huonosta muistista.	claro	0	0
+Ele tem dois carros.	Hänellä on kaksi autoa.	dois	0	0
+Diga-me a verdade.	Sano minulle totuus.	verdade	0	0
+Tom nunca disse esse tipo de coisa.	Tom ei koskaan ole sanonut sellaista.	tipo	0	0
+Eu preciso de muitos livros.	Tarvitsen paljon kirjoja.	preciso	0	0
+Colocarei a mesa antes de me sentar para jantar.	Katan pöydän ennen kuin istahdan syömään päivällistä.	antes	0	0
+O Senhor Bush é um presidente.	Herra Bush on presidentti.	senhor	0	0
+Talvez um dia você perceba que eu lhe faço falta.	Ehkäpä sinä eräänä päivä huomaat, että kaipaat minua.	lhe	0	0
+É apenas uma questão de tempo.	Se on vain ajan kysymys.	apenas	0	0
+Faz calor aqui.	Täällä on kuuma.	faz	0	0
+Vocês têm religião?	Oletteko uskonnollisia?	vocês	0	0
+Ninguém pode bater o seu recorde.	Mikään voi rikkoa hänen ennätystään.	ninguém	0	0
+Nós temos um trabalho para fazer.	Meillä on tehtävää.	trabalho	0	0
+Abandonou a esposa e três filhos para viver com outra mulher.	Hän hylkäsi vaimonsa ja kolme lastaan elääkseen toisen naisen kanssa.	outra	0	0
+Aconteceu algo que eu deva saber?	Onko jotain sellaista tapahtunut, mistä minun pitäisi tietää?	saber	0	0
+Esse acidente não tem nada a ver comigo.	Tämä onnettomuus ei mitenkään liity minuun.	comigo	0	0
+A falta de dinheiro é a raíz de todo o mal.	Rahan puute on kaiken pahan alku ja juuri.	dinheiro	0	0
+Bem que podemos esperar.	Meidän kannattaa varmaan odottaa.	podemos	0	0
+Por favor, você poderia falar um pouco mais devagar?	Voisitko puhua hitaammin?	pouco	0	0
+Essa maçã é sua.	Se omena on sinun.	essa	0	0
+Esse acidente não tem nada a ver comigo.	Tämä onnettomuus ei mitenkään liity minuun.	esse	0	0
+Que número grande!	Kuinka korkea luku!	grande	0	0
+Vocês pagaram cinco dólares pela comida.	Te maksoitte viisi dollaria ruoasta.	pela	0	0
+Eu faria qualquer coisa menos isso.	Tekisin mitä tahansa paitsi tuota.	qualquer	0	0
+Você sente saudade disso?	Kaipaatko sitä?	disso	0	0
+Qual é maior, o sol ou a Terra?	Kumpi on suurempi; Aurinko vai Kuu?	qual	0	0
+O pai dela é japonês.	Hänen isänsä on japanilainen.	dela	0	0
+Hoje eu conversei com uma finlandesa pelo Skype.	Tänään keskustelin suomalaisen naisen kanssa Skypessä.	hoje	0	0
+Feliz Dia Internacional da Mulher!	Hyvää kansainvälistä naistenpäivää!	mulher	0	0
+Meu filho ainda não sabe contar.	Poikani ei osaa vielä laskea.	filho	0	0
+Talvez eu seja seu único amigo.	Olen ehkä sinun ainoa ystäväsi.	seja	0	0
+Nosso avião estava voando acima das nuvens.	Koneemme lensi pilvien yläpuolella.	nosso	0	0
+Vá para cama!	Mene sänkyyn!	vá	0	0
+Nossa equipe perdeu o primeiro jogo.	Joukkueemme hävisi ensimmäisen ottelun.	nossa	0	0
+Como se diz XXX em português?	Miten sanotaan XXX portugaliksi?	diz	0	0
+"A que horas você se levanta?" "Levanto-me às oito."	"Monelta heräät?" "Herään kahdeksalta."	às	0	0
+Um é novo. O outro é velho.	Yksi on uusi, ja toinen on vanha.	outro	0	0
+Todo dicionário contém erros.	Kaikissa sanakirjoissa on virheitä.	todo	0	0
+O menino estava tão cansado que não conseguia dar mais um passo.	Poika oli niin väsynyt, ettei jaksanut ottaa enää askeltakaan.	dar	0	0
+Eu não vou tentar matar essa coisa.	En aio yrittää tappaa sitä.	tentar	0	0
+Vocês têm que começar imediatamente.	Teidän täytyy aloittaa välittömästi.	têm	0	0
+Quanto custa a cadeira de madeira?	Paljonko puinen tuoli maksaa?	quanto	0	0
+Se fizer mal a ela, eu mato você.	Jos vahingoitat häntä, tapan sinut.	mal	0	0
+Como se sente estando de volta para casa?	Miltä tuntuu olla taas kotona?	volta	0	0
+A mesma coisa aconteceu comigo.	Sama juttu tapahtui minulle.	aconteceu	0	0
+Eu não consigo imaginar minha vida sem ele.	En voi kuvitella elämääni ilman häntä.	consigo	0	0
+Era uma vez um rei que tinha três filhas.	Olipa kerran kuningas, jolla oli kolme tytärtä.	três	0	0
+Em nenhum outro lugar, exceto no mundo antigo, é mais evidente que muitas das coisas que nós, como indivíduos, prezamos, são completamente arbitrárias.	Missään muualla kuin antiikin maailmassa ei ole ilmeisempää, että monet asiat, joita me yksilöinä pidämme tärkeinä, ovat täysin satunnaisia.	mundo	0	0
+Eu tenho menos dinheiro que você.	Minulla on vähemmän rahaa kuin sinulla.	menos	0	0
+Eu sou teu amigo?	Olenko ystäväsi?	amigo	0	0
+Sua história foi publicada numa revista.	Hänen tarinansa julkaistiin eräässä lehdessä.	numa	0	0
+O otimista é parte da solução. O pessimista é sempre parte do problema.	Optimisti on osa ratkaisua, pessimisti on aina osa ongelmaa.	problema	0	0
+Comprarei um carro.	Ostan auton.	carro	0	0
+De que lado você está?	Kenen puolella olet?	lado	0	0
+Eu tenho uma casa nas montanhas.	Minulla on talo vuorilla.	nas	0	0
+Presidente Grant fez nada de ilegal.	Presidentti Grant ei ole tehnyt mitään laitonta.	fez	0	0
+Ele não escuta os seus professores.	Hän ei kuuntele opettajiaan.	seus	0	0
+No Japão, o novo ano escolar começa em abril.	Japanissa uusi lukuvuosi alkaa huhtikuussa.	novo	0	0
+O otimista é parte da solução. O pessimista é sempre parte do problema.	Optimisti on osa ratkaisua, pessimisti on aina osa ongelmaa.	parte	0	0
+Só jogo aos fins de semana.	Pelaan vain viikonloppuisin.	aos	0	0
+Obrigada!	Kiitos!	obrigada	0	0
+Hoje é o primeiro dia do restante de tua vida.	Tänään on loppuelämäsi ensimmäinen päivä.	primeiro	0	0
+Será verdade que os cavalos dormem em pé?	Onko totta, että hevoset nukkuvat seisaaltaan?	será	0	0
+Em nenhum outro lugar, exceto no mundo antigo, é mais evidente que muitas das coisas que nós, como indivíduos, prezamos, são completamente arbitrárias.	Missään muualla kuin antiikin maailmassa ei ole ilmeisempää, että monet asiat, joita me yksilöinä pidämme tärkeinä, ovat täysin satunnaisia.	lugar	0	0
+Há algum médico no avião?	Onko lentokoneessa lääkäriä?	algum	0	0
+Vem, nós nos esconderemos atrás da cortina.	Tule, piileskellään verhon takana.	vem	0	0
+Nossa família consiste em cinco membros.	Perheessäni on viisi henkeä.	família	0	0
+Ela tinha uma boa razão para pedir o divórcio.	Hänellä oli hyvä syy hakea avioeroa.	razão	0	0
+A mulher disse que aquele lugar era dela.	Nainen sanoi, että se paikka oli hänen.	aquele	0	0
+Estou feliz esses dias.	Nykyisin olen onnellinen.	dias	0	0
+Eu fui muito sortudo.	Olin hyvin onnekas.	fui	0	0
+Eu não sabia que a capital da Suécia é Estocolmo.	En tiennyt, että Ruotsin pääkaupunki on Tukholma.	sabia	0	0
+Marte tem duas luas.	Marsilla on kaksi kuuta.	duas	0	0
+Eu não tenho ideia de onde o Tom esteja agora.	Minulla ei ole mitään käsitystä missä Tom on nyt.	ideia	0	0
+É hora de ir para a cama.	On aika mennä sänkyyn.	hora	0	0
+Ame a si mesmo. Vire vegano!	Rakasta itseäsi, ala vegaaniksi!	si	0	0
+Os poetas não podem viver sem amor.	Runoilijat eivät voi elää ilman rakkautta.	podem	0	0
+Eu gosto de sushi.	Tykkään sushista.	gosto	0	0
+A lua está atrás das nuvens.	Kuu on pilvien takana.	atrás	0	0
+Os poetas não podem viver sem amor.	Runoilijat eivät voi elää ilman rakkautta.	amor	0	0
+Ele é a última pessoa a falar mal dos outros.	Hän on viimeinen henkilö puhumaan pahaa muista.	pessoa	0	0
+É importante que ajudemos uns aos outros.	On tärkeää, että autamme toisiamme.	uns	0	0
+Somos amigos.	Olemme ystäviä.	somos	0	0
+"A que horas você se levanta?" "Levanto-me às oito."	"Monelta heräät?" "Herään kahdeksalta."	horas	0	0
+A loja fica aberta o dia todo.	Kauppa on auki koko päivän.	fica	0	0
+Você poderia me ajudar aqui?	Voitko auttaa minua tämän kanssa?	ajudar	0	0
+O jantar está pronto.	Illallinen on valmiina.	pronto	0	0
+Eu fiz algumas correções.	Tein joitain korjauksia.	fiz	0	0
+Não quero viver em uma cidade grande.	En halua asua isossa kaupungissa.	cidade	0	0
+Eu gosto dos seus amigos.	Pidän sinun ystävistäsi.	amigos	0	0
+"Pode passar o sal, por favor?" "Aqui está".	”Saisinko suolan?” ”Olepa hyvä.”	passar	0	0
+Em nenhum outro lugar, exceto no mundo antigo, é mais evidente que muitas das coisas que nós, como indivíduos, prezamos, são completamente arbitrárias.	Missään muualla kuin antiikin maailmassa ei ole ilmeisempää, että monet asiat, joita me yksilöinä pidämme tärkeinä, ovat täysin satunnaisia.	nenhum	0	0
+Se Tom comesse mais legumes, ele provavelmente seria mais saudável.	Jos Tom söisi enemmän vihanneksia, hän todennäköisesti olisi terveempi.	seria	0	0
+Ele é a última pessoa a falar mal dos outros.	Hän on viimeinen henkilö puhumaan pahaa muista.	outros	0	0
+Preciso comprar uma mochila nova.	Minun pitää ostaa uusi reppu.	nova	0	0
+Posso vir amanhã também?	Voinko tulla huomennakin?	amanhã	0	0
+É difícil esquecer em um instante uma longa história de amor.	On vaikeaa unohtaa hetkessä pitkää rakkaustarinaa.	história	0	0
+O hotel é administrado pelo irmão do pai dele.	Hänen setänsä johtaa tuota hotellia.	irmão	0	0
+Mãos para cima! É um assalto.	Kädet ylös! Tämä on ryöstö.	cima	0	0
+Tenho medo de morrer.	Kuolema pelottaa minua.	morrer	0	0
+Ela estava tremendo enquanto escutava as notícias.	Hän tärisi kuunnellessaan uutisia.	enquanto	0	0
+Não preciso de sua ajuda.	En tarvitse apuasi.	ajuda	0	0
+Você não precisa de minha aprovação.	Et tarvitse hyväksyntääni.	precisa	0	0
+A primeira estação do ano é a primavera.	Ensimmäinen vuodenaika on kevät.	primeira	0	0
+Ele bateu à porta.	Hän koputti oveen.	porta	0	0
+Tenho medo de morrer.	Kuolema pelottaa minua.	medo	0	0
+O livro foi publicado depois da morte do autor.	Kirja julkaistiin kirjailijan kuoleman jälkeen.	morte	0	0
+Posso vir?	Voinko tulla?	vir	0	0
+Estou tão feliz.	Olen niin onnellinen.	feliz	0	0
+Sinto sua falta.	Ikävöin sinua.	sinto	0	0
+O Tom chegou 30 minutos atrasado.	Tom saapui kolmekymmentä minuuttia myöhässä.	minutos	0	0
+Eu não vou tentar matar essa coisa.	En aio yrittää tappaa sitä.	matar	0	0
+Eu espero que ela venha.	Toivon, että hän tulee.	espero	0	0
+A primeira estação do ano é a primavera.	Ensimmäinen vuodenaika on kevät.	ano	0	0
+Muitos pacientes de cancro perdem seu cabelo por causa da quimioterapia.	Monet syöpäpotilaat menettävät hiuksensa kemoterapian takia.	causa	0	0
+Ele tinha uma filha.	Hänellä oli tytär.	filha	0	0
+Há um erro na conta.	Laskussa on virhe.	conta	0	0
+Estas bananas não estão maduras.	Nämä banaanit eivät ole kypsiä.	estas	0	0
+Livre-se da arma.	Hankkiudu eroon aseesta.	arma	0	0
+Não havia um só livro no quarto.	Huoneessa ei ollut ainuttakaan kirjaa.	quarto	0	0
+Eu fiz algumas correções.	Tein joitain korjauksia.	algumas	0	0
+É difícil esquecer em um instante uma longa história de amor.	On vaikeaa unohtaa hetkessä pitkää rakkaustarinaa.	difícil	0	0
+Bebi-o até a última gota.	Join sen viimeiseen pisaraan.	última	0	0
+São oito da manhã.	Kello on kahdeksan aamulla.	manhã	0	0
+É importante que ajudemos uns aos outros.	On tärkeää, että autamme toisiamme.	importante	0	0
+Mãos para cima! É um assalto.	Kädet ylös! Tämä on ryöstö.	mãos	0	0
+Vocês têm que começar imediatamente.	Teidän täytyy aloittaa välittömästi.	começar	0	0
+Talvez um dia você perceba que eu lhe faço falta.	Ehkäpä sinä eräänä päivä huomaat, että kaipaat minua.	faço	0	0
+Cuidado! É uma armadilha!	Varokaa! Se on ansa!	cuidado	0	0
+Nossos deuses estão mortos.	Jumalamme ovat kuolleet.	nossos	0	0
+Só jogo aos fins de semana.	Pelaan vain viikonloppuisin.	semana	0	0
+A mesma coisa aconteceu comigo.	Sama juttu tapahtui minulle.	mesma	0	0
+Posso usar o seu telefone?	Saanko käyttää puhelintasi?	usar	0	0
+Eu não acredito em fantasmas.	En usko aaveisiin.	acredito	0	0
+Vocês pagaram cinco dólares pela comida.	Te maksoitte viisi dollaria ruoasta.	cinco	0	0
+A ciência não soluciona todos os problemas da vida.	Tiede ei ratkaise kaikkia elämän ongelmia.	problemas	0	0
+Nossa equipe perdeu o primeiro jogo.	Joukkueemme hävisi ensimmäisen ottelun.	jogo	0	0
+Você fala inglês?	Osaatko puhua englantia?	fala	0	0
+Não sabemos.	Me emme tiedä.	sabemos	0	0
+Tom realmente ficou enfurecido.	Tom todella suuttui.	realmente	0	0
+Qual é maior, o sol ou a Terra?	Kumpi on suurempi; Aurinko vai Kuu?	terra	0	0
+Não havia um só livro no quarto.	Huoneessa ei ollut ainuttakaan kirjaa.	havia	0	0
+Vocês pagaram cinco dólares pela comida.	Te maksoitte viisi dollaria ruoasta.	dólares	0	0
+Você quer comer?	Haluatko syödä?	comer	0	0
+Nós não conseguimos dormir por causa do barulho.	Emme voi nukkua melun vuoksi.	dormir	0	0
+Este lugar me dá arrepios.	Tämä paikka karmii minua.	dá	0	0
+Heather vai à escola às oito horas.	Heather menee kouluun kahdeksalta.	escola	0	0
+Ela disse que voltaria logo.	Hän sanoi olevansa takaisin piakkoin.	logo	0	0
+Elas sabem pescar.	He osaavaat kalastaa.	sabem	0	0
+Ele sofre do coração.	Hänellä on sydänsairaus.	coração	0	0
+Não quero viver em uma cidade grande.	En halua asua isossa kaupungissa.	viver	0	0
+São Paulo é o estado mais rico da América do Sul.	São Paulo on Etela-Amerikan rikkain osavaltio.	estado	0	0
+Ela teve uma infância feliz.	Hän vietti onnellisen lapsuuden.	teve	0	0
+A ciência explica muitas coisas que a religião jamais poderia explicar.	Tiede selittää monia asioita joita uskonto ei koskaan pystyisi selittämään.	muitas	0	0
+Qual é maior, o sol ou a Terra?	Kumpi on suurempi; Aurinko vai Kuu?	maior	0	0
+Não ouvi o que disse.	En kuullut mitä sanoit.	ouvi	0	0
+Você corre rápido.	Juokset nopeasti.	rápido	0	0
+O número de meu telefone é 9876-5432.	Puhelinnumeroni on 9876-5432.	número	0	0
+Te vejo na próxima semana.	Näen sinut ensi viikolla.	vejo	0	0
+Tom morreu no ano passado.	Tom kuoli viime vuonna.	morreu	0	0
+Esta comida é o suficiente para três pessoas.	Tätä ruokaa on tarpeeksi kolmelle ihmiselle.	suficiente	0	0
+A ciência explica muitas coisas que a religião jamais poderia explicar.	Tiede selittää monia asioita joita uskonto ei koskaan pystyisi selittämään.	poderia	0	0
+O Tom ficou bravo com as crianças.	Tom suuttui lapsille.	crianças	0	0
+Muitos brasileiros vivem no exterior do Brasil.	Monet brasilialaiset asuvat Brasilian ulkopuolella.	muitos	0	0
+Diz-se que ele foi enterrado nesta igreja.	Sanotaan, että hänet on haudattu tämän kirkon alle.	nesta	0	0
+O Senhor Bush é um presidente.	Herra Bush on presidentti.	presidente	0	0
+Eles têm doze filhos.	Heillä on kaksitoista lasta.	filhos	0	0
+Preciso perder peso.	Minun täytyy pudottaa painoa.	perder	0	0
+Bem que podemos esperar.	Meidän kannattaa varmaan odottaa.	esperar	0	0
+Ela viu um rato.	Hän näki hiiren.	viu	0	0
+Tenho dois irmãos e uma irmã.	Minulla on kaksi veljeä ja yksi sisko.	irmã	0	0
+Elas sabem pescar.	He osaavaat kalastaa.	elas	0	0
+Meu filho ainda não sabe contar.	Poikani ei osaa vielä laskea.	contar	0	0
+O pombo voou longe.	Pulu lensi pois.	longe	0	0
+Faça de novo!	Tee se taas!	faça	0	0
+Tenho saudades tuas.	Ikävöin sinua.	tuas	0	0
+Ela tinha uma boa razão para pedir o divórcio.	Hänellä oli hyvä syy hakea avioeroa.	pedir	0	0
+É mais fácil para mim traduzir do português do que do japonês.	Minulle portugalin kääntäminen on helpompaa kuin japanin.	fácil	0	0
+Seu plano foi rejeitado.	Hänen suunnitelmansa hylättiin.	plano	0	0
+A quem devo notificar?	Kenelle minun pitää ilmoittaa?	devo	0	0
+O prazer é meu.	Ilo on minun puolellani.	prazer	0	0
+O Tom é muito mais velho que a Mary.	Tom on paljon vanhempi kuin Mary.	velho	0	0
+Tom morreu no ano passado.	Tom kuoli viime vuonna.	passado	0	0
+Eu quero tomar sorvete.	Minä haluan syödä jäätelöä.	tomar	0	0
+O jantar está pronto.	Illallinen on valmis.	jantar	0	0
+O pequeno almoço está pronto?	Onko aamiainen valmis?	pequeno	0	0
+Posso usar o seu telefone?	Saanko käyttää puhelintasi?	telefone	0	0
+Montei no ônibus errado.	Nousin väärään bussiin.	errado	0	0
+Ele foi enterrado vivo.	Hänet haudattiin elävältä.	vivo	0	0
+Quando é o casamento?	Milloin ovat häät?	casamento	0	0
+Jack comprou um presente para o amigo.	Jack osti lahjan ystävälle.	jack	0	0
+Ele falou de paz.	Hän puhui rauhasta.	paz	0	0
+É hora de ir para a cama.	On aika mennä sänkyyn.	cama	0	0
+O Tom está tomando café da manhã sozinho, na cozinha.	Tom syö aamiaista yksin keittiössä.	sozinho	0	0
+Vocês pagaram cinco dólares pela comida.	Te maksoitte viisi dollaria ruoasta.	comida	0	0
+A falta de dinheiro é a raíz de todo o mal.	Rahan puute on kaiken pahan alku ja juuri.	falta	0	0
+Ficou atordoado e não soube o que responder.	Hän hämmentyi, eikä voinut vastata.	ficou	0	0
+Tom gosta de ficção científica.	Tomi tykkää scifistä.	gosta	0	0
+Tom era bastante jovem naquele tempo.	Tom oli melko nuori siihen aikaan.	bastante	0	0
+Se Tom comesse mais legumes, ele provavelmente seria mais saudável.	Jos Tom söisi enemmän vihanneksia, hän todennäköisesti olisi terveempi.	provavelmente	0	0
+Esta é a minha última palavra.	Tämä on viimeinen sanani.	palavra	0	0
+Tom é jovem demais para se casar.	Tom on liian nuori menemään naimisiin.	demais	0	0
+Há algum médico no avião?	Onko lentokoneessa lääkäriä?	médico	0	0
+Dizem que ele está doente.	Sanotaan että hän on sairas.	dizem	0	0
+Talvez eu seja seu único amigo.	Olen ehkä sinun ainoa ystäväsi.	único	0	0
+Eu quero acreditar.	Haluan uskoa.	acreditar	0	0
+Cinco e sete fazem doze.	Viisi plus seitsemän tekee kaksitoista.	fazem	0	0
+A situação é pior do que imaginávamos.	Tilanne on huonompi kuin uskoimme.	pior	0	0
+O Japão é um país rico.	Japani on rikas maa.	país	0	0
+Gostaria de aprender esperanto.	Haluaisin oppia esperantoa.	gostaria	0	0
+Eu fui ao aeroporto para vê-lo partir.	Menin lentokentälle saattamaan häntä.	partir	0	0
+Te vejo na próxima semana.	Näen sinut ensi viikolla.	próxima	0	0
+Não tenho ideia de onde o Tom esteja agora.	Minulla ei ole mitään käsitystä missä Tom on nyt.	esteja	0	0
+Não havia um só livro no quarto.	Huoneessa ei ollut ainuttakaan kirjaa.	livro	0	0
+Era uma vez um rei que tinha três filhas.	Olipa kerran kuningas, jolla oli kolme tytärtä.	rei	0	0
+O Tom chegou 30 minutos atrasado.	Tom saapui kolmekymmentä minuuttia myöhässä.	chegou	0	0
+Esses cavalos são dela.	Nämä hevoset ovat hänen.	esses	0	0
+Eu não tenho forças para continuar tentando.	Minulla ei ole voimia jatkaa yrittämistä.	continuar	0	0
+Você deveria ligar para Tom.	Sinun tulisi soittaa Tommille.	ligar	0	0
+Queremos frases completas.	Me haluamme kokonaisia lauseita.	queremos	0	0
+O café da manhã está pronto.	Aamiainen on valmis.	café	0	0
+Eu espero que ela venha.	Toivon, että hän tulee.	venha	0	0
+Tom sempre me trata como uma criança.	Tom kohtelee minua aina kuin lasta.	criança	0	0
+O Tom gostou muito do filme.	Tom piti elokuvasta paljon.	filme	0	0
+Nancy gosta de música.	Nancy pitää musiikista.	música	0	0
+Quero algo para beber.	Haluan jotakin juotavaa.	beber	0	0
+Você toma livros emprestados.	Sinä lainaat kirjoja.	toma	0	0
+Houve um terrível terremoto na ilha.	Saarella on ollut hirveä maanjäristys.	houve	0	0
+Eu atravessei a rua.	Menin tien ylitse.	rua	0	0
+Será verdade que os cavalos dormem em pé?	Onko totta, että hevoset nukkuvat seisaaltaan?	pé	0	0
+Estávamos procurando um tesouro enterrado.	Etsimme haudattua aarretta.	estávamos	0	0
+Tom é jovem demais para se casar.	Tom on liian nuori menemään naimisiin.	jovem	0	0
+Você está tentando comprar o meu silêncio?	Yritätkö ostaa minut hiljaiseksi?	comprar	0	0
+A situação é pior do que imaginávamos.	Tilanne on huonompi kuin uskoimme.	situação	0	0
+Abandonou a esposa e três filhos para viver com outra mulher.	Hän hylkäsi vaimonsa ja kolme lastaan elääkseen toisen naisen kanssa.	esposa	0	0
+Jogar beisebol é divertido.	On hauskaa pelata baseballia.	jogar	0	0
+Ela é uma amiga?	Onko hän ystävä?	amiga	0	0
+É apenas uma questão de tempo.	Se on vain ajan kysymys.	questão	0	0
+Você tem que responder a estas perguntas.	Sinun pitää vastata näihin kysymyksiin.	perguntas	0	0
+Onde está o seu cão?	Missä koirasi on?	cão	0	0
+O negócio ainda me incomoda.	Asia harmittaa minua vieläkin.	negócio	0	0
+Não há nada sexual nisto.	Siinä ei ole mitään seksuaalista.	nisto	0	0
+Uma consciência limpa é um sinal claro de uma memória ruim.	Puhdas omatunto on varma merkki huonosta muistista.	sinal	0	0
+Estou escrevendo uma mensagem de correio eletrônico para meu irmão.	Kirjoitan sähköpostiviestiä veljelleni.	mensagem	0	0
+Adoro livros antigos.	Rakastan vanhoja kirjoja.	adoro	0	0
+Finalmente!	Lopultakin!	finalmente	0	0
+Sem ciência não há futuro.	Ilman tiedettä ei ole tulevaisuutta.	futuro	0	0
+Ela ainda não ouviu as notícias.	Hän ei vielä ollut kuullut uutisia.	notícias	0	0
+Fique com o troco.	Pidä vaihtorahat.	fique	0	0
+Eu gosto de ambos.	Pidän molemmista.	ambos	0	0
+Não esqueça de me chamar.	Älä unohda soittaa minulle.	chamar	0	0
+Muitos pacientes de cancro perdem seu cabelo por causa da quimioterapia.	Monet syöpäpotilaat menettävät hiuksensa kemoterapian takia.	cabelo	0	0
+Eu não sou doutor.	En ole lääkäri.	doutor	0	0
+Boa viagem!	Hyvää matkaa!	viagem	0	0
+Eu não consegui dormir.	En voinut nukkua.	consegui	0	0
+Tem um morcego no teto do meu escritório!	Toimistoni katossa on lepakko!	escritório	0	0
+Não gostei do final desse filme.	En pitänyt sen elokuvan lopusta.	final	0	0
+Preciso procurar minha caneta.	Minun täytyy etsiä kynäni.	procurar	0	0
+Isso deixou o Tom irritado.	Se sai Tomin ärsyyntymään.	deixou	0	0
+Quem é mais alto, você ou o Ken?	Kumpi on pidempi, sinä vai Ken?	alto	0	0
+Eu só quero ser perfeito.	Haluan vain olla täydellinen.	perfeito	0	0
+Ele visitará o seu tio.	Hän vierailee setänsä luona.	tio	0	0
+Em nenhum outro lugar, exceto no mundo antigo, é mais evidente que muitas das coisas que nós, como indivíduos, prezamos, são completamente arbitrárias.	Missään muualla kuin antiikin maailmassa ei ole ilmeisempää, että monet asiat, joita me yksilöinä pidämme tärkeinä, ovat täysin satunnaisia.	completamente	0	0
+Você deveria ligar para Tom.	Sinun tulisi soittaa Tommille.	deveria	0	0
+A vista é fantástica.	Näköala on fantastinen.	vista	0	0
+Em breve estarás a falar português.	Pian puhut portugalia.	breve	0	0
+Devemos fazer alguma coisa.	Meidän täytyy tehdä jotain.	devemos	0	0
+Nossos deuses estão mortos.	Jumalamme ovat kuolleet.	mortos	0	0
+Eu faria qualquer coisa menos isso.	Tekisin mitä tahansa paitsi tuota.	faria	0	0
+O Tom gostou muito do filme.	Tom piti elokuvasta paljon.	tom	0	0
+Isto não é uma mesa.	Tämä ei ole pöytä.	mesa	0	0
+Quão real é a realidade?	Miten todellinen on todellisuus?	real	0	0
+Tom desenhou uma nave espacial.	Tom piirsi avaruusaluksen.	nave	0	0
+Sobre o que é o assunto?	Mitä asia koskee?	assunto	0	0
+Mais vale esperar.	Meidän kannattaa varmaan odottaa.	vale	0	0
+Ela foi enterrada viva.	Hänet haudattiin elävältä.	viva	0	0
+Dizem que ele está doente.	Sanotaan että hän on sairas.	doente	0	0
+Esse acidente não tem nada a ver comigo.	Tämä onnettomuus ei mitenkään liity minuun.	acidente	0	0
+Nosso avião estava voando acima das nuvens.	Koneemme lensi pilvien yläpuolella.	avião	0	0
+Está ficando mais quente dia após dia.	Päivä päivältä tulee lämpimämpää.	após	0	0
+Há um erro na conta.	Laskussa on virhe.	erro	0	0
+Helen era um verdadeiro demônio.	Helen oli oikea demoni.	verdadeiro	0	0
+Ele conhece bem sobre história antiga.	Hän tuntee hyvin antiikin historian.	conhece	0	0
+Não há mais espaço no inferno.	Helvetissä ei ole enää tilaa.	espaço	0	0
+Você confia completamente nele.	Luotat täysin häneen.	nele	0	0
+Um dia sem você é como um verão sem sol.	Päivä ilman sinua on kuin kesä ilman aurinkoa.	sol	0	0
+Tem um caixa automático por aqui?	Onko tässä lähistöllä pankkiautomaattia?	caixa	0	0
+Cinco e sete fazem doze.	Viisi plus seitsemän tekee kaksitoista.	sete	0	0
+O hotel é administrado pelo irmão do pai dele.	Hänen setänsä johtaa tuota hotellia.	hotel	0	0
+Eu amo Tatoeba.	Rakastan Tatoebaa.	amo	0	0
+Jack comprou um presente para o amigo.	Jack osti lahjan ystävälle.	presente	0	0
+Ela me escreveu uma carta de amor em esperanto.	Hän kirjoitti minulle rakkauskirjeen esperantoksi.	carta	0	0
+A loja fica aberta o dia todo.	Kauppa on auki koko päivän.	loja	0	0
+Você não é tão estúpido quanto parece.	Et ole niin tyhmä kuin miltä näytät.	estúpido	0	0
+Tom é jovem demais para se casar.	Tom on liian nuori menemään naimisiin.	casar	0	0
+Nós deveríamos depositar este dinheiro em um banco.	Meidän pitäisi tallettaa nämä rahat pankkiin.	banco	0	0
+Deixe para mim um pouco de sorvete.	Säästä minulle vähän jäätelöä.	deixe	0	0
+Nós não conseguimos dormir por causa do barulho.	Emme voi nukkua melun vuoksi.	conseguimos	0	0
+Ficou atordoado e não soube o que responder.	Hän hämmentyi, eikä voinut vastata.	soube	0	0
+Quantos soldados você viu?	Montako sotilasta näit?	quantos	0	0
+George sempre foi meu favorito.	George oli aina suosikkini.	george	0	0
+Foi um sonho ou não?	Oliko se unta vai ei?	sonho	0	0
+Não gostei do final desse filme.	En pitänyt sen elokuvan lopusta.	desse	0	0
+Tentei me concentrar na leitura.	Yritin keskittyä lukemiseen.	tentei	0	0
+Ele ficou muito feliz de vê-lo.	Hän oli onnellinen, että pääsi näkemään häntä.	vê-lo	0	0
+Quando você voltou de Londres?	Milloin palasit Lontoosta?	voltou	0	0
+A minha namorada é chinesa.	Tyttöystäväni on kiinalainen.	namorada	0	0
+Eles precisam de sapatos novos.	He tarvitsevat uudet kengät.	precisam	0	0
+O preço da carne vai cair logo.	Lihan hinta laskee pian.	cair	0	0
+Eu perdi a chave.	Kadotin avaimen.	chave	0	0
+Jogar beisebol é divertido.	On hauskaa pelata baseballia.	divertido	0	0
+Não se esqueça de escrever.	Älä unohda kirjoittaa.	escrever	0	0
+"A que horas você se levanta?" "Levanto-me às oito."	"Monelta heräät?" "Herään kahdeksalta."	oito	0	0
+Eles moram em um apartamento muito espaçoso.	He asuvat hyvin tilavassa asunnossa.	apartamento	0	0
+Isso me pegou de surpresa.	Se yllätti minut.	surpresa	0	0
+Tom parecia confuso.	Tom vaikutti hämmentyneeltä.	parecia	0	0
+Vocês têm que começar imediatamente.	Teidän täytyy aloittaa välittömästi.	imediatamente	0	0
+O menino estava tão cansado que não conseguia dar mais um passo.	Poika oli niin väsynyt, ettei jaksanut ottaa enää askeltakaan.	passo	0	0
+No Japão, o novo ano escolar começa em abril.	Japanissa uusi lukuvuosi alkaa huhtikuussa.	começa	0	0
+O Tom trabalha das nove às cinco.	Tom tekee töitä yhdeksästä viiteen.	trabalha	0	0
+Não há mais espaço no inferno.	Helvetissä ei ole enää tilaa.	inferno	0	0
+Não foi horrível?	Eikö se ollut kauheaa?	horrível	0	0
+Ele não escuta os seus professores.	Hän ei kuuntele opettajiaan.	escuta	0	0
+Peça ao Tom para explicar isso.	Pyydä Tomia selittämään se.	explicar	0	0
+Gostaria de aprender esperanto.	Haluaisin oppia esperantoa.	aprender	0	0
+O que esta cadeira está fazendo aqui?	Mitä tämä tuoli täällä tekee?	fazendo	0	0
+Está ficando mais quente dia após dia.	Päivä päivältä tulee lämpimämpää.	quente	0	0
+Tom alertou-me do perigo.	Tom varoitti minua vaarasta.	perigo	0	0
+Eu perdi a chave.	Kadotin avaimen.	perdi	0	0
+Ele falou de paz.	Hän puhui rauhasta.	falou	0	0
+Tom era bastante jovem naquele tempo.	Tom oli melko nuori siihen aikaan.	naquele	0	0
+Fique com este anel. Ele pertenceu à minha avó.	Pidä tämä sormus. Se kuului isoäidilleni.	avó	0	0
+James é sul-africano.	James on eteläafrikkalainen.	james	0	0
+Mostre-me aonde dói.	Näytä minulle mihin sattuu.	aonde	0	0
+Eu sei quando é seu aniversário.	Tiedän milloin syntymäpäiväsi on.	aniversário	0	0
+Diz-se que ele foi enterrado nesta igreja.	Sanotaan, että hänet on haudattu tämän kirkon alle.	igreja	0	0
+São Paulo é o estado mais rico da América do Sul.	São Paulo on Etela-Amerikan rikkain osavaltio.	sul	0	0
+O preço da carne vai cair logo.	Lihan hinta laskee pian.	carne	0	0
+Sente-se!	Istukaa!	sente-se	0	0
+O cavalo não é branco.	Hevonen ei ole valkoinen.	cavalo	0	0
+Ele vive em Marrocos.	Hän elää Marokossa.	vive	0	0
+O Japão é um belo país.	Japani on kaunis maa.	belo	0	0
+É difícil esquecer em um instante uma longa história de amor.	On vaikeaa unohtaa hetkessä pitkää rakkaustarinaa.	esquecer	0	0
+O cavalo não é branco.	Hevonen ei ole valkoinen.	branco	0	0
+Tom já tentou isso?	Onko Tom yrittänyt sitä?	tentou	0	0
+Como se sente estando de volta para casa?	Miltä tuntuu olla taas kotona?	sente	0	0
+Eu não falo japonês.	En puhu japania.	falo	0	0
+Tom sempre me trata como uma criança.	Tom kohtelee minua aina kuin lasta.	trata	0	0
+Logo você estará falando português.	Pian puhut portugalia.	estará	0	0
+O Tom é perigoso.	Tom on vaarallinen.	perigoso	0	0
+Irei corrigir o trabalho de casa amanhã.	Korjaan kotitehtävät huomenna.	irei	0	0
+Minha casa tem vista para o mar.	Talostani on näkymä merelle.	mar	0	0
+Quero dançar.	Minä haluan tanssia.	dançar	0	0
+O risco é mínimo.	Riski on pieni.	risco	0	0
+Ninguém pode bater o seu recorde.	Mikään voi rikkoa hänen ennätystään.	bater	0	0
+Ele não tem vergonha de seu pai ser pobre.	Hän ei häpeä isänsä köyhyyttä.	pobre	0	0
+São Paulo é o estado mais rico da América do Sul.	São Paulo on Etela-Amerikan rikkain osavaltio.	américa	0	0
+Preciso do seu conselho.	Tarvitsen neuvojasi.	conselho	0	0
+Nossa equipe perdeu o primeiro jogo.	Joukkueemme hävisi ensimmäisen ottelun.	perdeu	0	0
+Tenho que comprar um novo computador.	Minun täytyy ostaa uusi tietokone.	computador	0	0
+Quão real é a realidade?	Miten todellinen on todellisuus?	realidade	0	0
+O Tom é muito mais velho que a Mary.	Tom on paljon vanhempi kuin Mary.	mary	0	0
+Onde mora o seu avô?	Missä vaarisi asuu?	avô	0	0
+O menino estava tão cansado que não conseguia dar mais um passo.	Poika oli niin väsynyt, ettei jaksanut ottaa enää askeltakaan.	menino	0	0
+Dê a ele algum tempo.	Anna hänelle vähän aikaa.	dê	0	0
+Tom mostrou-nos uma foto de sua mãe.	Tom näytti meille valokuvan äidistään.	foto	0	0
+Diga-me a verdade.	Sano minulle totuus.	diga-me	0	0
+Houve um terrível terremoto na ilha.	Saarella on ollut hirveä maanjäristys.	terrível	0	0
+Ela ainda não ouviu as notícias.	Hän ei vielä ollut kuullut uutisia.	ouviu	0	0
+Vocês assistem televisão?	Katsotteko televisiota?	televisão	0	0
+Tenho dois irmãos e uma irmã.	Minulla on kaksi veljeä ja yksi sisko.	irmãos	0	0
+Nosso avião estava voando acima das nuvens.	Koneemme lensi pilvien yläpuolella.	acima	0	0
+O pequeno almoço está pronto?	Onko aamiainen valmis?	almoço	0	0
+O Tom está tomando café da manhã sozinho, na cozinha.	Tom syö aamiaista yksin keittiössä.	cozinha	0	0
+O preço da carne vai cair logo.	Lihan hinta laskee pian.	preço	0	0
+Sua pele é macia.	Hänen ihonsa on pehmeä.	pele	0	0
+Eles precisam de sapatos novos.	He tarvitsevat uudet kengät.	novos	0	0
+Estamos no laboratório.	Olemme laboratoriossa.	laboratório	0	0
+Se eu soubesse, dizia.	Sanoisin jos tietäisin.	dizia	0	0
+Houve um terrível terremoto na ilha.	Saarella on ollut hirveä maanjäristys.	ilha	0	0
+Tony estuda depois do jantar.	Tony opiskelee illallisen jälkeen.	tony	0	0
+Kate correu para o restaurante do meu pai.	Kate juoksi isäni ravintolaan.	correu	0	0
+Você toma livros emprestados.	Sinä lainaat kirjoja.	livros	0	0
+Tenho saudades tuas.	Ikävöin sinua.	saudades	0	0
+Desliguei o rádio.	Sammutin radion.	rádio	0	0
+Você está tentando comprar o meu silêncio?	Yritätkö ostaa minut hiljaiseksi?	silêncio	0	0
+Peça desculpas ao Tom.	Pyydä Tomilta anteeksi.	peça	0	0
+Ele tem dois carros.	Hänellä on kaksi autoa.	carros	0	0
+Tom ama a natureza.	Tom rakastaa luontoa.	ama	0	0
+O Tom trabalha das nove às cinco.	Tom tekee töitä yhdeksästä viiteen.	nove	0	0
+Os ricos ficam mais ricos e os pobres ficam mais pobres.	Rikkaat rikastuvat ja köyhät köyhtyvät.	ficam	0	0
+Um dia sem você é como um verão sem sol.	Päivä ilman sinua on kuin kesä ilman aurinkoa.	verão	0	0
+Quantos soldados você viu?	Montako sotilasta näit?	soldados	0	0
+A justiça prevalecerá no final.	Lopussa oikeus voittaa.	justiça	0	0
+Uma consciência limpa é um sinal claro de uma memória ruim.	Puhdas omatunto on varma merkki huonosta muistista.	memória	0	0
+As girafas têm a língua azul.	Kirahveilla on sininen kieli.	azul	0	0
+Kate correu para o restaurante do meu pai.	Kate juoksi isäni ravintolaan.	restaurante	0	0
+A primeira estação do ano é a primavera.	Ensimmäinen vuodenaika on kevät.	estação	0	0
+Eles precisam de sapatos novos.	He tarvitsevat uudet kengät.	sapatos	0	0
+O inimigo do meu inimigo é meu amigo.	Viholliseni vihollinen on ystäväni.	inimigo	0	0
+Você corre rápido.	Juokset nopeasti.	corre	0	0
+O copo está limpo.	Lasi on puhdas.	copo	0	0
+Tenho um novo carro vermelho.	Minulla on uusi punainen auto.	vermelho	0	0
+Ficou atordoado e não soube o que responder.	Hän hämmentyi, eikä voinut vastata.	responder	0	0
+Quão real é a realidade?	Miten todellinen on todellisuus?	quão	0	0
+O menino estava tão cansado que não conseguia dar mais um passo.	Poika oli niin väsynyt, ettei jaksanut ottaa enää askeltakaan.	conseguia	0	0
+Eles se viram na rua.	He näkivät toisensa kadulla.	viram	0	0
+Estudo história da arte.	Opiskelen taidehistoriaa.	arte	0	0
+Era um sucesso imediato.	Se oli välitön menestys.	sucesso	0	0
+Ele viu uma borboleta sobre a parede.	Hän näki perhosen seinällä.	parede	0	0
+Você fala inglês?	Osaatko puhua englantia?	inglês	0	0
+Por favor, você poderia falar um pouco mais devagar?	Voisitko puhua hitaammin?	devagar	0	0
+Ele não tem vergonha de seu pai ser pobre.	Hän ei häpeä isänsä köyhyyttä.	vergonha	0	0
+É difícil esquecer em um instante uma longa história de amor.	On vaikeaa unohtaa hetkessä pitkää rakkaustarinaa.	longa	0	0
+Que animal é este?	Mikä eläin tämä on?	animal	0	0
+Peça desculpas ao Tom.	Pyydä Tomilta anteeksi.	desculpas	0	0
+As aulas logo recomeçarão.	Koulu alkaa taas pian.	aulas	0	0
+A lua está atrás das nuvens.	Kuu on pilvien takana.	lua	0	0
+Não gostei do final desse filme.	En pitänyt sen elokuvan lopusta.	gostei	0	0
+Não me interrompa enquanto estou falando.	Älä keskeytä minua kun puhun.	falando	0	0
+Eu não consigo imaginar minha vida sem ele.	En voi kuvitella elämääni ilman häntä.	imaginar	0	0
+Serei muito cuidadoso.	Olen hyvin varovainen.	serei	0	0
+Quando você voltou de Londres?	Milloin palasit Lontoosta?	londres	0	0
+Tom ama a natureza.	Tom rakastaa luontoa.	natureza	0	0
+Esta faca está bem afiada.	Tämä veitsi on hyvin terävä.	faca	0	0
+Ela não está grávida.	Hän ei ole raskaana.	grávida	0	0
+O copo está limpo.	Lasi on puhdas.	limpo	0	0
+Você sabe que árvore é esta?	Tiedätkö sinä, minkälainen puu tämä on?	árvore	0	0
+Há pessoas que não conseguem ver uma pérola mesmo quando ela diz "sou uma pérola, sou uma pérola".	On ihmisiä, jotka eivät huomaa helmeä, vaikka se sanoisi: "Olen helmi, olen helmi."	conseguem	0	0
+Em nenhum outro lugar, exceto no mundo antigo, é mais evidente que muitas das coisas que nós, como indivíduos, prezamos, são completamente arbitrárias.	Missään muualla kuin antiikin maailmassa ei ole ilmeisempää, että monet asiat, joita me yksilöinä pidämme tärkeinä, ovat täysin satunnaisia.	antigo	0	0
+Eu tenho muitas flores.	Minulla on paljon kukkia	flores	0	0
+Washington é a capital dos Estados Unidos.	Washington on Yhdysvaltojen pääkaupunki.	estados	0	0
+O gato é preto.	Kissa on musta.	preto	0	0
+O que esta cadeira está fazendo aqui?	Mitä tämä tuoli täällä tekee?	cadeira	0	0
+Ele sabe nadar como um peixe.	Hän ui kuin kala.	peixe	0	0
+Washington é a capital dos Estados Unidos.	Washington on Yhdysvaltojen pääkaupunki.	unidos	0	0
+Eu tenho um gato branco.	Minulla on valkoinen kissa.	gato	0	0
+Sou alérgico a cães.	Olen allerginen koirille.	cães	0	0
+Você come carne ou você é vegetariano?	Syötkö lihaa vai oletko vegetariaani?	come	0	0
+Nós não conseguimos dormir por causa do barulho.	Emme voi nukkua melun vuoksi.	barulho	0	0
+Edward é mais novo que Robert.	Edward on nuorempi kuin Robert.	robert	0	0
+Eu não tenho forças para continuar tentando.	Minulla ei ole voimia jatkaa yrittämistä.	forças	0	0
+Pega ladrão!	Ottakaa varas kiinni!	pega	0	0
+Eu vou à praia.	Menen rannalle.	praia	0	0
+A matemática é a língua do universo.	Matematiikka on maailmankaikkeuden kieli.	língua	0	0
+Oi, eu sou Tomoko Sato, do Japão.	Hei. Olen Tomoka Sato Japanista.	oi	0	0
+Kate correu para o restaurante do meu pai.	Kate juoksi isäni ravintolaan.	kate	0	0
+Eu nem ando nem corro.	En kävele enkä juokse.	ando	0	0
+Se eu soubesse o endereço dela, escreveria para ela.	Jos tietäisin hänen osoitteensa, kirjoittaisin hänelle.	soubesse	0	0
+É inútil tentar escapar.	On hyödytöntä yrittää paeta.	escapar	0	0
+Será verdade que os cavalos dormem em pé?	Onko totta, että hevoset nukkuvat seisaaltaan?	cavalos	0	0
+O menino estava tão cansado que não conseguia dar mais um passo.	Poika oli niin väsynyt, ettei jaksanut ottaa enää askeltakaan.	cansado	0	0
+Eu não sabia que você era tão rico.	Minä en tiennyt sinun olevan niin rikas.	rico	0	0
+O Tom chegou 30 minutos atrasado.	Tom saapui kolmekymmentä minuuttia myöhässä.	atrasado	0	0
+Faz calor aqui.	Täällä on kuuma.	calor	0	0
+Washington é a capital dos Estados Unidos.	Washington on Yhdysvaltojen pääkaupunki.	washington	0	0
+Fique com este anel. Ele pertenceu à minha avó.	Pidä tämä sormus. Se kuului isoäidilleni.	anel	0	0
+Estou sentado à mesa.	Istun pöydän ääressä.	sentado	0	0
+A loja fica aberta o dia todo.	Kauppa on auki koko päivän.	aberta	0	0
+Não posso beber leite.	En voi juoda maitoa.	leite	0	0
+Ele conhece bem sobre história antiga.	Hän tuntee hyvin antiikin historian.	antiga	0	0
+Eu não sei como o Tom descobriu.	En tiedä, miten Tomi sai sen selville.	descobriu	0	0
+Esta cadeira é feita de plástico.	Tämä tuoli on tehty muovista.	feita	0	0
+Você confia completamente nele.	Luotat täysin häneen.	confia	0	0
+O otimista é parte da solução. O pessimista é sempre parte do problema.	Optimisti on osa ratkaisua, pessimisti on aina osa ongelmaa.	solução	0	0
+O pai e a mãe morreram.	Isä ja äiti kuolivat.	morreram	0	0
+Se fizer mal a ela, eu mato você.	Jos vahingoitat häntä, tapan sinut.	fizer	0	0
+Voltei para o Japão.	Palasin Japaniin.	voltei	0	0
+Preciso perder peso.	Minun täytyy pudottaa painoa.	peso	0	0
+Não se esqueça de escrever.	Älä unohda kirjoittaa.	esqueça	0	0
+Onde é o aeroporto?	Missä on lentokenttä?	aeroporto	0	0
+Tente nadar!	Yritä uida!	tente	0	0
+A matemática é a língua do universo.	Matematiikka on maailmankaikkeuden kieli.	universo	0	0
+Ela não bebe café.	Hän ei juo kahvia.	bebe	0	0
+Nós ainda estamos vivos.	Olemme yhä elossa.	vivos	0	0
+É difícil esquecer em um instante uma longa história de amor.	On vaikeaa unohtaa hetkessä pitkää rakkaustarinaa.	instante	0	0
+Ela me escreveu uma carta de amor em esperanto.	Hän kirjoitti minulle rakkauskirjeen esperantoksi.	escreveu	0	0
+Os cientistas ainda não descobriram uma cura para o cancro.	Tutkijat eivät ole vielä löytäneet keinoa syövän parantamiseen.	cancro	0	0
+Não há nada sexual nisto.	Siinä ei ole mitään seksuaalista.	sexual	0	0
+Nossa família consiste em cinco membros.	Perheessäni on viisi henkeä.	membros	0	0
+Você se esqueceu de comprar ovos?	Unohditko ostaa munia?	ovos	0	0
+Esta pode ser a última vez que nos vemos.	Tämä voi olla viimeinen kerta kun näemme.	vemos	0	0
+A ciência explica muitas coisas que a religião jamais poderia explicar.	Tiede selittää monia asioita joita uskonto ei koskaan pystyisi selittämään.	jamais	0	0
+Nossos deuses estão mortos.	Jumalamme ovat kuolleet.	deuses	0	0
+Mãos para cima! É um assalto.	Kädet ylös! Tämä on ryöstö.	assalto	0	0
+Acredite na ciência!	Usko tieteeseen!	acredite	0	0
+Você está tentando comprar o meu silêncio?	Yritätkö ostaa minut hiljaiseksi?	tentando	0	0
+Eu gostaria de proferir um discurso.	Haluaisin pitää puheen.	discurso	0	0
+Qual é a terceira maior cidade da Austrália?	Mikä on Australian kolmanneksi suurin kaupunki?	terceira	0	0
+Todo dicionário contém erros.	Kaikissa sanakirjoissa on virheitä.	erros	0	0
+Pega ladrão!	Ottakaa varas kiinni!	ladrão	0	0
+A ciência não soluciona todos os problemas da vida.	Tiede ei ratkaise kaikkia elämän ongelmia.	ciência	0	0
+Estou muito orgulhoso de você.	Olen erittäin ylpeä sinusta.	orgulhoso	0	0
+Uma consciência limpa é um sinal claro de uma memória ruim.	Puhdas omatunto on varma merkki huonosta muistista.	consciência	0	0
+Uma consciência limpa é um sinal claro de uma memória ruim.	Puhdas omatunto on varma merkki huonosta muistista.	limpa	0	0
+Quanto custa a cadeira de madeira?	Paljonko puinen tuoli maksaa?	custa	0	0
+Não é um vírus.	Se ei ole virus.	vírus	0	0
+Mostre-me aonde dói.	Näytä minulle mihin sattuu.	dói	0	0
+Esta é uma armadilha!	Se on ansa!	armadilha	0	0
+Eu falo japonês, inglês e francês.	Puhun japania, englantia ja ranskaa.	francês	0	0
+Você está com sede?	Onko sinulla jano?	sede	0	0
+Muitos pacientes de cancro perdem seu cabelo por causa da quimioterapia.	Monet syöpäpotilaat menettävät hiuksensa kemoterapian takia.	pacientes	0	0
+A África é o berço da humanidade.	Afrikka on ihmiskunnan kehto.	humanidade	0	0
+A vista é fantástica.	Näköala on fantastinen.	fantástica	0	0
+Ela tem óculos de sol.	Hänellä on aurinkolasit.	óculos	0	0
+É inútil tentar escapar.	On hyödytöntä yrittää paeta.	inútil	0	0
+Adoro livros antigos.	Rakastan vanhoja kirjoja.	antigos	0	0
+Os cientistas ainda não descobriram uma cura para o cancro.	Tutkijat eivät ole vielä löytäneet keinoa syövän parantamiseen.	cura	0	0
+O presidente deseja paz.	Presidentti toivoo rauhaa.	deseja	0	0
+Colocarei a mesa antes de me sentar para jantar.	Katan pöydän ennen kuin istahdan syömään päivällistä.	sentar	0	0
+Tom era um artista.	Tomi oli taiteilija.	artista	0	0
+O risco é mínimo.	Riski on pieni.	mínimo	0	0
+Eu te amo mais do que tu me amas.	Minä rakastan sinua enemmän kuin sinä minua.	amas	0	0
+O urso está comendo uma maçã.	Karhu syö omenaa.	urso	0	0
+Os Smiths vivem na minha vizinhança.	Smithit asuvat naapurustossani.	vivem	0	0
+Eu canto.	Laulan.	canto	0	0
+Presidente Grant fez nada de ilegal.	Presidentti Grant ei ole tehnyt mitään laitonta.	ilegal	0	0
+Coma!	Syö!	coma	0	0
+Estou escrevendo uma mensagem de correio eletrônico para meu irmão.	Kirjoitan sähköpostiviestiä veljelleni.	correio	0	0
+A ciência explica muitas coisas que a religião jamais poderia explicar.	Tiede selittää monia asioita joita uskonto ei koskaan pystyisi selittämään.	explica	0	0
+No Japão, o novo período escolar começa em abril.	Japanissa uusi lukuvuosi alkaa huhtikuussa.	período	0	0
+O estômago é um dos órgãos internos.	Mahalaukku on yksi sisäelimistä.	estômago	0	0
+Pequim é a capital da China.	Peking on Kiinan pääkaupunki.	china	0	0
+Ele é da Embaixada Americana.	Hän on Amerikan suurlähetystöstä.	americana	0	0
+Quanto custa a cadeira de madeira?	Paljonko puinen tuoli maksaa?	madeira	0	0
+O Tom ficou bravo com as crianças.	Tom suuttui lapsille.	bravo	0	0
+Eu tenho uma casa nas montanhas.	Minulla on talo vuorilla.	montanhas	0	0
+Jack comprou um presente para o amigo.	Jack osti lahjan ystävälle.	comprou	0	0
+Sou um garoto.	Olen poika.	garoto	0	0
+Sua história foi publicada numa revista.	Hänen tarinansa julkaistiin eräässä lehdessä.	revista	0	0
+Estávamos procurando um tesouro enterrado.	Etsimme haudattua aarretta.	tesouro	0	0
+Ele viu um rato.	Hän näki hiiren.	rato	0	0
+Que coincidência!	Mikä yhteensattuma!	coincidência	0	0
+Eu gosto da atitude do Tom.	Pidän Tomin asenteesta.	atitude	0	0
+Este é o dicionário de Laura.	Tämä on Lauran sanakirja.	laura	0	0
+O vidro não conduz eletricidade.	Lasi ei johda sähköä.	vidro	0	0
+Eu era uma criança saudável.	Olin terve lapsi.	saudável	0	0
+Tom parecia confuso.	Tom vaikutti hämmentyneeltä.	confuso	0	0
+Tom amava Mary. Agora, ele não a suporta.	Tom rakasti Marya. Nyt hän ei voi sietää häntä.	amava	0	0
+Ela tinha uma boa razão para pedir o divórcio.	Hänellä oli hyvä syy hakea avioeroa.	divórcio	0	0
+Estudo história da arte.	Opiskelen taidehistoriaa.	estudo	0	0
+Os ricos ficam mais ricos e os pobres ficam mais pobres.	Rikkaat rikastuvat ja köyhät köyhtyvät.	ricos	0	0
+A África é o berço da humanidade.	Afrikka on ihmiskunnan kehto.	áfrica	0	0
+Ele sabe nadar como um peixe.	Hän ui kuin kala.	nadar	0	0
+Os ricos ficam mais ricos e os pobres ficam mais pobres.	Rikkaat rikastuvat ja köyhät köyhtyvät.	pobres	0	0
+Esta é a casa na qual ele mora.	Tämä on talo, jossa hän asuu.	mora	0	0
+Eu amo quando eles deixam as cortinas abertas.	On ihanaa kun he jättävät verhot auki.	deixam	0	0
+O Tom gostou muito do filme.	Tom piti elokuvasta paljon.	gostou	0	0
+Ele bateu à porta.	Hän koputti oveen.	bateu	0	0
+Eu não falo alemão.	En puhu saksaa.	alemão	0	0
+Não temos açúcar.	Meillä ei ole sokeria.	açúcar	0	0
+Tom libertou o pássaro.	Tom vapautti linnun.	pássaro	0	0
+Sinto muito ter esquecido de te chamar.	Anteeksi, että unohdin soittaa sinulle.	esquecido	0	0
+Muitos brasileiros vivem no exterior do Brasil.	Monet brasilialaiset asuvat Brasilian ulkopuolella.	exterior	0	0
+Adivinha!	Arvaapas!	adivinha	0	0
+Aconteceu algo que eu deva saber?	Onko jotain sellaista tapahtunut, mistä minun pitäisi tietää?	deva	0	0
+Tom foi promovido a gerente.	Tom ylennettiin johtajaksi.	gerente	0	0
+Nós deveríamos depositar este dinheiro em um banco.	Meidän pitäisi tallettaa nämä rahat pankkiin.	deveríamos	0	0
+Helen era um verdadeiro demônio.	Helen oli oikea demoni.	helen	0	0
+"Pode passar o sal, por favor?" "Aqui está".	”Saisinko suolan?” ”Olepa hyvä.”	sal	0	0
+Eu não acredito em fantasmas.	En usko aaveisiin.	fantasmas	0	0
+George sempre foi meu favorito.	George oli aina suosikkini.	favorito	0	0
+A febre baixou?	Onko kuume laskenut?	febre	0	0
+Ela teve uma infância feliz.	Hän vietti onnellisen lapsuuden.	infância	0	0
+Tom desenhou uma nave espacial.	Tom piirsi avaruusaluksen.	espacial	0	0
+Você já jogou A Lenda de Zelda?	Oletko pelannut The Legend of Zeldaa?	lenda	0	0
+Era uma vez um rei que tinha três filhas.	Olipa kerran kuningas, jolla oli kolme tytärtä.	filhas	0	0
+A primeira estação do ano é a primavera.	Ensimmäinen vuodenaika on kevät.	primavera	0	0
+Estou na Rússia.	Olen Venäjällä.	rússia	0	0
+Tom é o vizinho de Mary.	Tom on Maryn naapuri.	vizinho	0	0
+Ele foi condenado à morte.	Hänet tuomittiin kuolemaan.	condenado	0	0
+Feliz Dia Internacional da Mulher!	Hyvää kansainvälistä naistenpäivää!	internacional	0	0
+A matemática é a língua do universo.	Matematiikka on maailmankaikkeuden kieli.	matemática	0	0
+Minha irmã me odeia.	Siskoni vihaa minua.	odeia	0	0
+Se eu soubesse o endereço dela, escreveria para ela.	Jos tietäisin hänen osoitteensa, kirjoittaisin hänelle.	endereço	0	0
+Isso me pegou de surpresa.	Se yllätti minut.	pegou	0	0
+Curitiba é a capital do Paraná.	Curitiba on Paranán pääkaupunki.	capital	0	0
+Estávamos procurando um tesouro enterrado.	Etsimme haudattua aarretta.	procurando	0	0
+As plantas crescem.	Kasvit kasvavat.	plantas	0	0
+Ele andou devagar para que a criança conseguisse o acompanhar.	Hän kulki hitaasti, jotta lapsi saattoi seurata mukana.	andou	0	0
+Cinco e sete fazem doze.	Viisi plus seitsemän tekee kaksitoista.	doze	0	0
+Não quero morar em uma cidade grande.	En halua asua isossa kaupungissa.	morar	0	0
+Este estudante é preguiçoso.	Tämä opiskelija on laiska.	estudante	0	0
+Esta cadeira é feita de plástico.	Tämä tuoli on tehty muovista.	plástico	0	0
+Vejo a coroa.	Näen kruunun.	coroa	0	0
+Nancy gosta de música.	Nancy pitää musiikista.	nancy	0	0
+Presidente Grant fez nada de ilegal.	Presidentti Grant ei ole tehnyt mitään laitonta.	grant	0	0
+Edward é mais novo que Robert.	Edward on nuorempi kuin Robert.	edward	0	0
+Ele andou devagar para que a criança conseguisse o acompanhar.	Hän kulki hitaasti, jotta lapsi saattoi seurata mukana.	acompanhar	0	0
+Tom mentiu para ti.	Tom valehteli sinulle.	mentiu	0	0
+"A que horas você se levanta?" "Levanto-me às oito."	"Monelta heräät?" "Herään kahdeksalta."	levanta	0	0
+Miles sorri.	Miles hymyilee.	miles	0	0
+Vocês têm religião?	Oletteko uskonnollisia?	religião	0	0
+Preciso procurar minha caneta.	Minun täytyy etsiä kynäni.	caneta	0	0
+Os cientistas ainda não descobriram uma cura para o cancro.	Tutkijat eivät ole vielä löytäneet keinoa syövän parantamiseen.	cientistas	0	0
+No Japão, o novo período escolar começa em abril.	Japanissa uusi lukuvuosi alkaa huhtikuussa.	japão	0	0
+Ele admitiu ter recebido subornos.	Hän myönsi, että oli ottanut lahjuksia.	recebido	0	0
+Era um sucesso imediato.	Se oli välitön menestys.	imediato	0	0
+Está delicioso.	Se on herkullista.	delicioso	0	0
+Se fizer mal a ela, eu mato você.	Jos vahingoitat häntä, tapan sinut.	mato	0	0
+Você pode me perdoar, Tom?	Voitko antaa minulle anteeksi, Tom?	perdoar	0	0
+Vives em Portugal ou no Brasil?	Asutko Portugalissa vai Brasiliassa?	vives	0	0
+Nossa equipe perdeu o primeiro jogo.	Joukkueemme hävisi ensimmäisen ottelun.	equipe	0	0
+Talvez eu devesse escrever uma carta para o Tom.	Ehkä minun pitäisi kirjoittaa Tomille kirje.	devesse	0	0
+Está inconsciente.	Hän on tajuton.	inconsciente	0	0
+Ele não escuta os seus professores.	Hän ei kuuntele opettajiaan.	professores	0	0
+A vida de Mozart foi muito curta.	Mozartin elämä oli hyvin lyhyt.	curta	0	0
+Eu não mereço viver.	En ansaitse elää.	mereço	0	0
+Por que não comes tua salada?	Miksi sinä et syö salaattiasi?	salada	0	0
+Onde está o seu cachorro?	Missä koirasi on?	cachorro	0	0
+Tentei me concentrar na leitura.	Yritin keskittyä lukemiseen.	leitura	0	0
+Sou italiano.	Minä olen italialainen.	italiano	0	0
+Ele herdará o trono.	Hän perii valtaistuimen.	trono	0	0
+O vidro não conduz eletricidade.	Lasi ei johda sähköä.	conduz	0	0
+O negócio ainda me incomoda.	Asia harmittaa minua vieläkin.	incomoda	0	0
+Estávamos procurando um tesouro enterrado.	Etsimme haudattua aarretta.	enterrado	0	0
+Tom traduz lentamente.	Tom kääntää hitaasti.	lentamente	0	0
+Os cientistas ainda não descobriram uma cura para o cancro.	Tutkijat eivät ole vielä löytäneet keinoa syövän parantamiseen.	descobriram	0	0
+Em breve estarás a falar português.	Pian puhut portugalia.	estarás	0	0
+Deus cria o mundo.	Jumala luo maailman.	cria	0	0
+Eu lavarei os pratos.	Pesin lautaset.	pratos	0	0
+Eu não acredito em mágica.	En usko taikuuteen.	mágica	0	0
+Vem conosco.	Tule meidän mukaamme.	conosco	0	0
+Ela cresceu no Japão e na China.	Hän kasvoi Japanissa ja Kiinassa.	cresceu	0	0
+Nós estamos em apuros.	Olemme vaikeuksissa.	apuros	0	0
+A lua está atrás das nuvens.	Kuu on pilvien takana.	nuvens	0	0
+Preciso comprar uma mochila nova.	Minun pitää ostaa uusi reppu.	mochila	0	0
+Ela vende flores.	Hän myy kukkia.	vende	0	0
+Marte tem duas luas.	Marsilla on kaksi kuuta.	marte	0	0
+Uma consciência limpa é um sinal claro de uma memória ruim.	Puhdas omatunto on varma merkki huonosta muistista.	ruim	0	0
+Heather vai à escola às oito horas.	Heather menee kouluun kahdeksalta.	heather	0	0
+No Japão, o novo ano escolar começa em abril.	Japanissa uusi lukuvuosi alkaa huhtikuussa.	abril	0	0
+Ninguém pode bater o seu recorde.	Mikään voi rikkoa hänen ennätystään.	recorde	0	0
+Todo o amor e a tristeza se derretem em meu coração.	Kaikki rakkaus ja suru sulavat sydämessäni.	tristeza	0	0
+O urso está comendo uma maçã.	Karhu syö omenaa.	maçã	0	0
+Ele é da Embaixada Americana.	Hän on Amerikan suurlähetystöstä.	embaixada	0	0
+Não se esqueça de votar.	Älä unohda äänestää.	votar	0	0
+Não se meta!	Pysy erossa tästä!	meta	0	0
+Ela acordou.	Hän heräsi.	acordou	0	0
+O estômago é um dos órgãos internos.	Mahalaukku on yksi sisäelimistä.	órgãos	0	0
+Elas sabem pescar.	He osaavaat kalastaa.	pescar	0	0
+Você se esqueceu de comprar ovos?	Unohditko ostaa munia?	esqueceu	0	0
+Quem é mais alto, você ou o Ken?	Kumpi on pidempi, sinä vai Ken?	ken	0	0
+Fique com o troco.	Pidä vaihtorahat.	troco	0	0
+Hoje é terça-feira.	Tänään on tiistai.	terça-feira	0	0
+Nós já comemos.	Söimme jo.	comemos	0	0
+Está ficando mais quente dia após dia.	Päivä päivältä tulee lämpimämpää.	ficando	0	0
+Durmo pelado.	Nukun alasti.	durmo	0	0
+Em nenhum outro lugar, exceto no mundo antigo, é mais evidente que muitas das coisas que nós, como indivíduos, prezamos, são completamente arbitrárias.	Missään muualla kuin antiikin maailmassa ei ole ilmeisempää, että monet asiat, joita me yksilöinä pidämme tärkeinä, ovat täysin satunnaisia.	exceto	0	0
+Eu preciso de um martelo.	Tarvitsen vasaran.	martelo	0	0
+Os Smiths vivem na minha vizinhança.	Smithit asuvat naapurustossani.	vizinhança	0	0
+Tentei me concentrar na leitura.	Yritin keskittyä lukemiseen.	concentrar	0	0
+Onde estão as garotas?	Missä tytöt ovat?	garotas	0	0
+A minha namorada é chinesa.	Tyttöystäväni on kiinalainen.	chinesa	0	0
+Isso deixou o Tom irritado.	Se sai Tomin ärsyyntymään.	irritado	0	0
+Ele andou devagar para que a criança conseguisse o acompanhar.	Hän kulki hitaasti, jotta lapsi saattoi seurata mukana.	conseguisse	0	0
+Onde estão as frases mais belas?	Missä ovat kauneimmat lauseet?	belas	0	0
+Irei corrigir o trabalho de casa amanhã.	Korjaan kotitehtävät huomenna.	corrigir	0	0
+Todo dicionário contém erros.	Kaikissa sanakirjoissa on virheitä.	contém	0	0
+Eles são pilotos.	He ovat pilotteja.	pilotos	0	0
+É mais fácil para mim traduzir do português do que do japonês.	Minulle portugalin kääntäminen on helpompaa kuin japanin.	japonês	0	0
+Eu fui muito sortudo.	Olin hyvin onnekas.	sortudo	0	0
+Bebi-o até a última gota.	Join sen viimeiseen pisaraan.	gota	0	0
+Ele aprende português no Brasil.	Hän oppii portugalia Brasiliassa.	aprende	0	0
+Ele concordou em fazer o trabalho.	Hän suostui tekemään työn.	concordou	0	0
+O estômago é um dos órgãos internos.	Mahalaukku on yksi sisäelimistä.	internos	0	0
+O livro foi publicado depois da morte do autor.	Kirja julkaistiin kirjailijan kuoleman jälkeen.	autor	0	0
+A vida é uma ilusão.	Elämä on illuusio.	ilusão	0	0
+Eu gostaria de ter tomado o colírio.	Olisinpa ottanut silmätipat mukaan.	tomado	0	0
+Tom é engenheiro elétrico.	Tom on sähköinsinööri.	engenheiro	0	0
+Miles sorri.	Miles hymyilee.	sorri	0	0
+Por que tu compraste flores?	Miksi ostit kukkia?	compraste	0	0
+Em breve estarás a falar português.	Pian puhut portugalia.	português	0	0
+Essa mulher sabe onde eu moro.	Se nainen tietää missä asun.	moro	0	0
+Tom gosta de ficção científica.	Tomi tykkää scifistä.	científica	0	0
+Por que não comes tua salada?	Miksi sinä et syö salaattiasi?	comes	0	0
+Ele sofre do coração.	Hänellä on sydänsairaus.	sofre	0	0
+Diz-se que ele foi enterrado nesta igreja.	Sanotaan, että hänet on haudattu tämän kirkon alle.	diz-se	0	0
+Você não precisa de minha aprovação.	Et tarvitse hyväksyntääni.	aprovação	0	0
+Qual é a terceira maior cidade da Austrália?	Mikä on Australian kolmanneksi suurin kaupunki?	austrália	0	0
+Abandonou a esposa e três filhos para viver com outra mulher.	Hän hylkäsi vaimonsa ja kolme lastaan elääkseen toisen naisen kanssa.	abandonou	0	0
+Tom gosta de ficção científica.	Tomi tykkää scifistä.	ficção	0	0
+Preciso de uma massagem.	Tarvitsen hierontaa.	massagem	0	0
+Ensino francês.	Minä opetan ranskaa.	ensino	0	0
+Estou comendo o meu sanduíche.	Syön voileipääni.	sanduíche	0	0
+Ela disse que voltaria logo.	Hän sanoi olevansa takaisin piakkoin.	voltaria	0	0
+As rãs têm medo de cobras.	Sammakot pelkäävät käärmeitä.	cobras	0	0
+Eu não vou renunciar à minha herança!	En aio luopua perinnöstäni!	herança	0	0
+Ame a si mesmo. Vire vegano!	Rakasta itseäsi, ala vegaaniksi!	vire	0	0
+A maionese é um instrumento?	Onko majoneesi soitin?	instrumento	0	0
+Em nenhum outro lugar, exceto no mundo antigo, é mais evidente que muitas das coisas que nós, como indivíduos, prezamos, são completamente arbitrárias.	Missään muualla kuin antiikin maailmassa ei ole ilmeisempää, että monet asiat, joita me yksilöinä pidämme tärkeinä, ovat täysin satunnaisia.	evidente	0	0
+Uma coca, por favor.	Yksi kokis, kiitos.	coca	0	0
+Significava muito para mim.	Se merkitsi minulle paljon.	significava	0	0
+Mostre-me aonde dói.	Näytä minulle mihin sattuu.	mostre-me	0	0
+Como se sente estando de volta para casa?	Miltä tuntuu olla taas kotona?	estando	0	0
+No Japão, o novo período escolar começa em abril.	Japanissa uusi lukuvuosi alkaa huhtikuussa.	escolar	0	0
+Feliz Páscoa!	Iloista Pääsiäistä!	páscoa	0	0
+Só jogo aos fins de semana.	Pelaan vain viikonloppuisin.	fins	0	0
+As damas primeiro.	Naiset ensin.	damas	0	0
+Eu não leio livros.	En lue kirjoja.	leio	0	0
+O Senhor Bush é um presidente.	Herra Bush on presidentti.	bush	0	0
+Muitos pacientes de cancro perdem seu cabelo por causa da quimioterapia.	Monet syöpäpotilaat menettävät hiuksensa kemoterapian takia.	perdem	0	0
+Ele é poeta.	Hän on runoilija.	poeta	0	0
+Eu acho que o latim não é tão difícil quanto o grego.	Mielestäni latina ei ole yhtä vaikeaa kuin kreikka.	grego	0	0
+Vives em Portugal ou no Brasil?	Asutko Portugalissa vai Brasiliassa?	brasil	0	0
+Eu me preocupo demais.	Huolehdin liikaa.	preocupo	0	0
+Eu amo quando eles deixam as cortinas abertas.	On ihanaa kun he jättävät verhot auki.	abertas	0	0
+Em nenhum outro lugar, exceto no mundo antigo, é mais evidente que muitas das coisas que nós, como indivíduos, prezamos, são completamente arbitrárias.	Missään muualla kuin antiikin maailmassa ei ole ilmeisempää, että monet asiat, joita me yksilöinä pidämme tärkeinä, ovat täysin satunnaisia.	indivíduos	0	0
+Eu amo quando eles deixam as cortinas abertas.	On ihanaa kun he jättävät verhot auki.	cortinas	0	0
+De vez em quando ele viaja a Tóquio a trabalho.	Hän menee silloin tällöin työasioissa Tokioon.	tóquio	0	0
+Você já jogou A Lenda de Zelda?	Oletko pelannut The Legend of Zeldaa?	jogou	0	0
+As plantas crescem.	Kasvit kasvavat.	crescem	0	0
+Marina é da Rússia e a Clarissa é da Suécia.	Marina on Venäjältä ja Clarissa Ruotsista.	marina	0	0
+É difícil falar três línguas.	On vaikea puhua kolmea kieltä.	línguas	0	0
+Seja cuidadoso!	Ole varovainen!	cuidadoso	0	0
+De vez em quando ele viaja a Tóquio a trabalho.	Hän menee silloin tällöin työasioissa Tokioon.	viaja	0	0
+Vem, nós nos esconderemos atrás da cortina.	Tule, piileskellään verhon takana.	cortina	0	0
+Eu sei falar um pouquinho de japonês.	Osaan puhua vähän japania.	pouquinho	0	0
+Ela foi enterrada viva.	Hänet haudattiin elävältä.	enterrada	0	0
+Ele viu uma borboleta sobre a parede.	Hän näki perhosen seinällä.	borboleta	0	0
+Eu acho que o latim não é tão difícil quanto o grego.	Mielestäni latina ei ole yhtä vaikeaa kuin kreikka.	latim	0	0
+A África é o berço da humanidade.	Afrikka on ihmiskunnan kehto.	berço	0	0
+Este estudante é preguiçoso.	Tämä opiskelija on laiska.	preguiçoso	0	0
+Tem um caixa automático por aqui?	Onko tässä lähistöllä pankkiautomaattia?	automático	0	0
+Tom foi promovido a gerente.	Tom ylennettiin johtajaksi.	promovido	0	0
+Eu gosto de sushi.	Tykkään sushista.	sushi	0	0
+Conheço-a há dois anos.	Olen tuntenut hänet kaksi vuotta.	conheço-a	0	0
+Tem um morcego no teto do meu escritório!	Toimistoni katossa on lepakko!	teto	0	0
+Vocês pagaram cinco dólares pela comida.	Te maksoitte viisi dollaria ruoasta.	pagaram	0	0
+Onde estão as frases mais belas?	Missä ovat kauneimmat lauseet?	frases	0	0
+Será verdade que os cavalos dormem em pé?	Onko totta, että hevoset nukkuvat seisaaltaan?	dormem	0	0
+Ele admitiu ter recebido subornos.	Hän myönsi, että oli ottanut lahjuksia.	admitiu	0	0
+O pombo voou longe.	Pulu lensi pois.	voou	0	0
+Tem um morcego no teto do meu escritório!	Toimistoni katossa on lepakko!	morcego	0	0
+Ame a si mesmo. Vire vegano!	Rakasta itseäsi, ala vegaaniksi!	ame	0	0
+Sou alérgico a cães.	Olen allerginen koirille.	alérgico	0	0
+Estas bananas não estão maduras.	Nämä banaanit eivät ole kypsiä.	bananas	0	0
+São Paulo é o estado mais rico da América do Sul.	São Paulo on Etela-Amerikan rikkain osavaltio.	paulo	0	0
+Tony estuda depois do jantar.	Tony opiskelee illallisen jälkeen.	estuda	0	0
+Eu nem ando nem corro.	En kävele enkä juokse.	corro	0	0
+Talvez um dia você perceba que eu lhe faço falta.	Ehkäpä sinä eräänä päivä huomaat, että kaipaat minua.	perceba	0	0
+Se Tom comesse mais legumes, ele provavelmente seria mais saudável.	Jos Tom söisi enemmän vihanneksia, hän todennäköisesti olisi terveempi.	legumes	0	0
+Muitos pacientes de cancro perdem seu cabelo por causa da quimioterapia.	Monet syöpäpotilaat menettävät hiuksensa kemoterapian takia.	quimioterapia	0	0
+O livro foi publicado depois da morte do autor.	Kirja julkaistiin kirjailijan kuoleman jälkeen.	publicado	0	0
+Helen era um verdadeiro demônio.	Helen oli oikea demoni.	demônio	0	0
+O vidro não conduz eletricidade.	Lasi ei johda sähköä.	eletricidade	0	0
+Seu plano foi rejeitado.	Hänen suunnitelmansa hylättiin.	rejeitado	0	0
+É mais fácil para mim traduzir do português do que do japonês.	Minulle portugalin kääntäminen on helpompaa kuin japanin.	traduzir	0	0
+Eles moram em um apartamento muito espaçoso.	He asuvat hyvin tilavassa asunnossa.	moram	0	0
+Ele me evita.	Hän karttaa minua.	evita	0	0
+Ela estava tremendo enquanto escutava as notícias.	Hän tärisi kuunnellessaan uutisia.	tremendo	0	0
+Este lugar me dá arrepios.	Tämä paikka karmii minua.	arrepios	0	0
+O Tom está tomando café da manhã sozinho, na cozinha.	Tom syö aamiaista yksin keittiössä.	tomando	0	0
+Tom libertou o pássaro.	Tom vapautti linnun.	libertou	0	0
+O urso está comendo uma maçã.	Karhu syö omenaa.	comendo	0	0
+Montei no ônibus errado.	Nousin väärään bussiin.	ônibus	0	0
+Vives em Portugal ou no Brasil?	Asutko Portugalissa vai Brasiliassa?	portugal	0	0
+Ele não gosta da sogra.	Hän ei pidä anopistaan.	sogra	0	0
+Ela está chorando.	Hän itkee.	chorando	0	0
+Eu não sabia que a capital da Suécia é Estocolmo.	En tiennyt, että Ruotsin pääkaupunki on Tukholma.	suécia	0	0
+Tom desenhou uma nave espacial.	Tom piirsi avaruusaluksen.	desenhou	0	0
+Por que você foi demitido?	Miksi sait potkut?	demitido	0	0
+"Eu não gosto de cenouras." "Nem eu."	"En tykkää porkkanoista." "En minäkään."	cenouras	0	0
+Meu irmão e eu dividimos o mesmo quarto.	Jaoin huoneen veljeni kanssa.	dividimos	0	0
+Eu não vou renunciar à minha herança!	En aio luopua perinnöstäni!	renunciar	0	0
+Esta faca está bem afiada.	Tämä veitsi on hyvin terävä.	afiada	0	0
+O pombo voou longe.	Pulu lensi pois.	pombo	0	0
+Nosso avião estava voando acima das nuvens.	Koneemme lensi pilvien yläpuolella.	voando	0	0
+Pequim é a capital da China.	Peking on Kiinan pääkaupunki.	pequim	0	0
+A casa está mal assombrada.	Talossa kummittelee.	assombrada	0	0
+Este é o dicionário de Laura.	Tämä on Lauran sanakirja.	dicionário	0	0
+A febre baixou?	Onko kuume laskenut?	baixou	0	0
+Hoje é o primeiro dia do restante de tua vida.	Tänään on loppuelämäsi ensimmäinen päivä.	restante	0	0
+Tom é liberal.	Tom on liberalisti.	liberal	0	0
+Aprender coreano é difícil.	Korean oppiminen on vaikeaa.	coreano	0	0
+Tom amava Mary. Agora, ele não a suporta.	Tom rakasti Marya. Nyt hän ei voi sietää häntä.	suporta	0	0
+Ele é um gênio.	Hän on nero.	gênio	0	0
+Há pessoas que não conseguem ver uma pérola mesmo quando ela diz "sou uma pérola, sou uma pérola".	On ihmisiä, jotka eivät huomaa helmeä, vaikka se sanoisi: "Olen helmi, olen helmi."	pérola	0	0
+O sueco é fácil.	Ruotsi on helppoa.	sueco	0	0
+Sua pele é macia.	Hänen ihonsa on pehmeä.	macia	0	0
+Deixe para mim um pouco de sorvete.	Säästä minulle vähän jäätelöä.	sorvete	0	0
+As plantas estão crescendo.	Kasvit kasvavat.	crescendo	0	0
+Ele admitiu ter recebido subornos.	Hän myönsi, että oli ottanut lahjuksia.	subornos	0	0
+Nossa família consiste em cinco membros.	Perheessäni on viisi henkeä.	consiste	0	0
+A maionese é um instrumento?	Onko majoneesi soitin?	maionese	0	0
+A vida de Mozart foi muito curta.	Mozartin elämä oli hyvin lyhyt.	mozart	0	0
+Eu sei que você está se escondendo atrás da cortina.	Tiedän että piileskelet verhon takana.	escondendo	0	0
+Você come carne ou você é vegetariano?	Syötkö lihaa vai oletko vegetariaani?	vegetariano	0	0
+Marte tem duas luas.	Marsilla on kaksi kuuta.	luas	0	0
+Mohammed é egípcio.	Mohammed on egyptiläinen.	egípcio	0	0
+A capital da Ucrânia é Kiev.	Kiova on Ukrainan pääkaupunki.	ucrânia	0	0
+Desliguei o rádio.	Sammutin radion.	desliguei	0	0
+Ele adoeceu há três anos.	Hän sairastui kolme vuotta sitten.	adoeceu	0	0
+Tudo correrá bem.	Kaikki tulee menemään hyvin.	correrá	0	0
+Ele vive em Marrocos.	Hän elää Marokossa.	marrocos	0	0
+Fique com este anel. Ele pertenceu à minha avó.	Pidä tämä sormus. Se kuului isoäidilleni.	pertenceu	0	0
+Os poetas não podem viver sem amor.	Runoilijat eivät voi elää ilman rakkautta.	poetas	0	0
+Gostaria de reservar uma mesa para dois.	Haluaisin varata pöydän kahdelle.	reservar	0	0
+Estou escrevendo uma mensagem de correio eletrônico para meu irmão.	Kirjoitan sähköpostiviestiä veljelleni.	escrevendo	0	0
+Jogar beisebol é divertido.	On hauskaa pelata baseballia.	beisebol	0	0
+Você sente saudade disso?	Kaipaatko sitä?	saudade	0	0
+Hoje eu conversei com uma finlandesa pelo Skype.	Tänään keskustelin suomalaisen naisen kanssa Skypessä.	conversei	0	0
+Você já jogou A Lenda de Zelda?	Oletko pelannut The Legend of Zeldaa?	zelda	0	0
+O otimista é parte da solução. O pessimista é sempre parte do problema.	Optimisti on osa ratkaisua, pessimisti on aina osa ongelmaa.	pessimista	0	0
+Tom é engenheiro elétrico.	Tom on sähköinsinööri.	elétrico	0	0
+Eu não sabia que a capital da Suécia é Estocolmo.	En tiennyt, että Ruotsin pääkaupunki on Tukholma.	estocolmo	0	0
+Tom não é socialista.	Tom ei ole sosialisti.	socialista	0	0
+Não tenho vodca.	Minulla ei ole vodkaa.	vodca	0	0
+Eu atravessei a rua.	Menin tien ylitse.	atravessei	0	0
+Nós deveríamos depositar este dinheiro em um banco.	Meidän pitäisi tallettaa nämä rahat pankkiin.	depositar	0	0
+Queremos frases completas.	Me haluamme kokonaisia lauseita.	completas	0	0
+As rãs têm medo de cobras.	Sammakot pelkäävät käärmeitä.	rãs	0	0
+Gostando ou não, você tem que ir.	Halusit tai et, sinun on mentävä.	gostando	0	0
+Montei no ônibus errado.	Nousin väärään bussiin.	montei	0	0
+O otimista é parte da solução. O pessimista é sempre parte do problema.	Optimisti on osa ratkaisua, pessimisti on aina osa ongelmaa.	otimista	0	0
+A xícara está sobre a mesa.	Kuppi on pöydällä.	xícara	0	0
+Livre-se da arma.	Hankkiudu eroon aseesta.	livre-se	0	0
+Meu irmão é bom no tênis.	Veljeni on hyvä tenniksessä.	tênis	0	0
+A quem devo notificar?	Kenelle minun pitää ilmoittaa?	notificar	0	0
+Mohammed é egípcio.	Mohammed on egyptiläinen.	mohammed	0	0
+Está nublado.	On pilvistä.	nublado	0	0
+A capital da Malásia é Kuala Lumpur.	Malesian pääkaupunki on Kuala Lumpur.	malásia	0	0
+Marina é da Rússia e a Clarissa é da Suécia.	Marina on Venäjältä ja Clarissa Ruotsista.	clarissa	0	0
+Não me interrompa enquanto estou falando.	Älä keskeytä minua kun puhun.	interrompa	0	0
+Sua história foi publicada numa revista.	Hänen tarinansa julkaistiin eräässä lehdessä.	publicada	0	0
+A cidade foi fundada em 573.	Kaupunki perustettiin vuonna 573.	fundada	0	0
+Hoje eu conversei com uma finlandesa pelo Skype.	Tänään keskustelin suomalaisen naisen kanssa Skypessä.	skype	0	0
+Eu sou ateu.	Olen ateisti.	ateu	0	0
+Kiev é a capital da Ucrânia.	Kiova on Ukrainan pääkaupunki.	kiev	0	0
+"A que horas você se levanta?" "Levanto-me às oito."	"Monelta heräät?" "Herään kahdeksalta."	levanto-me	0	0
+Falta-me um martelo.	Tarvitsen vasaran.	falta-me	0	0
+Qual é a capital da Finlândia?	Mikä on Suomen pääkaupunki?	finlândia	0	0
+Houve um terrível terremoto na ilha.	Saarella on ollut hirveä maanjäristys.	terremoto	0	0
+Ficou atordoado e não soube o que responder.	Hän hämmentyi, eikä voinut vastata.	atordoado	0	0
+Eu sou húngaro.	Olen unkarilainen.	húngaro	0	0
+Tom traduz lentamente.	Tom kääntää hitaasti.	traduz	0	0
+Colocarei a mesa antes de me sentar para jantar.	Katan pöydän ennen kuin istahdan syömään päivällistä.	colocarei	0	0
+Você toma livros emprestados.	Sinä lainaat kirjoja.	emprestados	0	0
+Se Tom comesse mais legumes, ele provavelmente seria mais saudável.	Jos Tom söisi enemmän vihanneksia, hän todennäköisesti olisi terveempi.	comesse	0	0
+Oi, eu sou Tomoko Sato, do Japão.	Hei. Olen Tomoka Sato Japanista.	sato	0	0
+Se eu soubesse o endereço dela, escreveria para ela.	Jos tietäisin hänen osoitteensa, kirjoittaisin hänelle.	escreveria	0	0
+Eu acho que ainda estamos na Polônia!	Luulen että olemme yhä Puolassa.	polônia	0	0
+Tom mostrou-nos uma foto de sua mãe.	Tom näytti meille valokuvan äidistään.	mostrou-nos	0	0
+É difícil falar três idiomas.	On vaikea puhua kolmea kieltä.	idiomas	0	0
+Comprarei um carro.	Ostan auton.	comprarei	0	0
+Cometo muitos erros?	Teenkö minä paljon virheitä?	cometo	0	0
+Você já jantou?	Oletko syönyt jo illallista?	jantou	0	0
+Eles moram em um apartamento muito espaçoso.	He asuvat hyvin tilavassa asunnossa.	espaçoso	0	0
+Eu vou mesmo que chova.	Vaikka sataisi, minä menen.	chova	0	0
+Estas bananas não estão maduras.	Nämä banaanit eivät ole kypsiä.	maduras	0	0
+Seu cachorro sempre late para mim.	Hänen koiransa haukkuu aina minulle.	late	0	0
+A situação é pior do que imaginávamos.	Tilanne on huonompi kuin uskoimme.	imaginávamos	0	0
+Estou escrevendo uma mensagem de correio eletrônico para meu irmão.	Kirjoitan sähköpostiviestiä veljelleni.	eletrônico	0	0
+O hotel é administrado pelo irmão do pai dele.	Hänen setänsä johtaa tuota hotellia.	administrado	0	0
+É importante que ajudemos uns aos outros.	On tärkeää, että autamme toisiamme.	ajudemos	0	0
+Tom realmente ficou enfurecido.	Tom todella suuttui.	enfurecido	0	0
+Eu gostaria de proferir um discurso.	Haluaisin pitää puheen.	proferir	0	0
+Eu fiz algumas correções.	Tein joitain korjauksia.	correções	0	0
+Vocês assistem televisão?	Katsotteko televisiota?	assistem	0	0
+As girafas têm a língua azul.	Kirahveilla on sininen kieli.	girafas	0	0
+Vamos repartir o dinheiro.	Jaetaan rahat.	repartir	0	0
+Muitos brasileiros vivem no exterior do Brasil.	Monet brasilialaiset asuvat Brasilian ulkopuolella.	brasileiros	0	0
+Todo o amor e a tristeza se derretem em meu coração.	Kaikki rakkaus ja suru sulavat sydämessäni.	derretem	0	0
+Eu sou finlandês.	Olen suomalainen.	finlandês	0	0
+Ela estava tremendo enquanto escutava as notícias.	Hän tärisi kuunnellessaan uutisia.	escutava	0	0
+A falta de dinheiro é a raíz de todo o mal.	Rahan puute on kaiken pahan alku ja juuri.	raíz	0	0
+Durmo pelado.	Nukun alasti.	pelado	0	0
+Mariko fala inglês muito bem.	Mariko puhuu erittäin hyvin englantia.	mariko	0	0
+James é sul-africano.	James on eteläafrikkalainen.	sul-africano	0	0
+Todos eles são poloneses?	Ovatko he kaikki puolalaisia?	poloneses	0	0
+Eu gostaria de ter tomado o colírio.	Olisinpa ottanut silmätipat mukaan.	colírio	0	0

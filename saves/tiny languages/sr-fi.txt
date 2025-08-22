@@ -1,0 +1,79 @@
+Da li govoriš kineski?	Puhutko kiinaa?	da	0	0
+Moja sestra je bila lepa žena.	Minun siskoni oli kaunis nainen.	je	0	0
+Koliko ljudi živi u tvom gradu?	Kuinka paljon ihmisiä sinun kaupungissasi asuu?	u	0	0
+U Rimu sam.	Olen Roomassa.	sam	0	0
+Daj mi mleko.	Anna minulle maitoa.	mi	0	0
+Da li govoriš kineski?	Puhutko kiinaa?	li	0	0
+Ja sam u Rimu.	Minä olen Roomassa.	ja	0	0
+Napisao sam pesmu o Tatoebi.	Kirjoitin laulun Tatoebasta.	o	0	0
+Mi smo iz Francuske.	Olemme kotoisin Ranskasta.	smo	0	0
+Nisam star.	En ole vanha.	nisam	0	0
+Mi smo iz Francuske.	Olemme kotoisin Ranskasta.	iz	0	0
+Да.	Kyllä.	да	0	0
+Moja sestra je bila lepa žena.	Minun siskoni oli kaunis nainen.	bila	0	0
+Kada budem imao vremena, učiću francuski.	Jos minulla olisi aikaa, opiskelisin ranskaa.	kada	0	0
+Грчка је стара земља.	Kreikka on vanha valtio.	је	0	0
+Koliko ljudi živi u tvom gradu?	Kuinka paljon ihmisiä sinun kaupungissasi asuu?	ljudi	0	0
+Koliko ljudi živi u tvom gradu?	Kuinka paljon ihmisiä sinun kaupungissasi asuu?	koliko	0	0
+Da li misliš da vredi sačuvati ova pisma?	Ovatko kirjeet mielestäsi säilyttämisen arvoisia?	misliš	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	jedan	0	0
+Moja sestra je bila lepa žena.	Minun siskoni oli kaunis nainen.	moja	0	0
+Не могу.	En osaa.	не	0	0
+Daj mi mleko.	Anna minulle maitoa.	daj	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	dva	0	0
+Kada budem imao vremena, učiću francuski.	Jos minulla olisi aikaa, opiskelisin ranskaa.	vremena	0	0
+Kada budem imao vremena, učiću francuski.	Jos minulla olisi aikaa, opiskelisin ranskaa.	imao	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	tri	0	0
+Moja sestra je bila lepa žena.	Minun siskoni oli kaunis nainen.	žena	0	0
+Da li misliš da vredi sačuvati ova pisma?	Ovatko kirjeet mielestäsi säilyttämisen arvoisia?	ova	0	0
+Kada budem imao vremena, učiću francuski.	Jos minulla olisi aikaa, opiskelisin ranskaa.	budem	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	pet	0	0
+Koliko ljudi živi u tvom gradu?	Kuinka paljon ihmisiä sinun kaupungissasi asuu?	živi	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	šest	0	0
+Da li govoriš kineski?	Puhutko kiinaa?	govoriš	0	0
+Koliko ljudi živi u tvom gradu?	Kuinka paljon ihmisiä sinun kaupungissasi asuu?	gradu	0	0
+Moja sestra je bila lepa žena.	Minun siskoni oli kaunis nainen.	sestra	0	0
+Koliko ljudi živi u tvom gradu?	Kuinka paljon ihmisiä sinun kaupungissasi asuu?	tvom	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	deset	0	0
+Moja sestra je bila lepa žena.	Minun siskoni oli kaunis nainen.	lepa	0	0
+Он је мој најбољи пријатељ.	Hän on paras ystäväni.	он	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	sedam	0	0
+Не могу.	En osaa.	могу	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	osam	0	0
+Napisao sam pesmu o Tatoebi.	Kirjoitin laulun Tatoebasta.	napisao	0	0
+Он је мој најбољи пријатељ.	Hän on paras ystäväni.	мој	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	devet	0	0
+Da li misliš da vredi sačuvati ova pisma?	Ovatko kirjeet mielestäsi säilyttämisen arvoisia?	vredi	0	0
+Nisam star.	En ole vanha.	star	0	0
+Napisao sam pesmu o Tatoebi.	Kirjoitin laulun Tatoebasta.	pesmu	0	0
+Они имају хлеб.	Heillä on leipää.	они	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	један	0	0
+Da li misliš da vredi sačuvati ova pisma?	Ovatko kirjeet mielestäsi säilyttämisen arvoisia?	pisma	0	0
+Колико кошта ова камера?	Kuinka paljon tämä kamera maksaa?	колико	0	0
+Kada budem imao vremena, učiću francuski.	Jos minulla olisi aikaa, opiskelisin ranskaa.	francuski	0	0
+Daj mi mleko.	Anna minulle maitoa.	mleko	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	два	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	три	0	0
+Mi smo iz Francuske.	Olemme kotoisin Ranskasta.	francuske	0	0
+Колико кошта ова камера?	Kuinka paljon tämä kamera maksaa?	ова	0	0
+Ja sam u Rimu.	Minä olen Roomassa.	rimu	0	0
+Оне имају хлеб.	Heillä on leipää.	имају	0	0
+Da li govoriš kineski?	Puhutko kiinaa?	kineski	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	пет	0	0
+Буди кратка.	Kerro lyhyesti.	буди	0	0
+Он је мој најбољи пријатељ.	Hän on paras ystäväni.	пријатељ	0	0
+Оне имају хлеб.	Heillä on leipää.	оне	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	четири	0	0
+Da li misliš da vredi sačuvati ova pisma?	Ovatko kirjeet mielestäsi säilyttämisen arvoisia?	sačuvati	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	шест	0	0
+Он је мој најбољи пријатељ.	Hän on paras ystäväni.	најбољи	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	četri	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	десет	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	седам	0	0
+Грчка је стара земља.	Kreikka on vanha valtio.	земља	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	осам	0	0
+Грчка је стара земља.	Kreikka on vanha valtio.	стара	0	0
+Довиђења!	Nähdään!	довиђења	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	девет	0	0
+Колико кошта ова камера?	Kuinka paljon tämä kamera maksaa?	камера	0	0
+Колико кошта ова камера?	Kuinka paljon tämä kamera maksaa?	кошта	0	0

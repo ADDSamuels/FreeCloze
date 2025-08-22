@@ -1,0 +1,1925 @@
+Tom çok çalışkan bir öğrencidir.	Tomas labai darbštus studentas.	bir	0	0
+Bu portakalların tadı iyi.	Šių apelsinų skonis yra geras.	bu	0	0
+Bu kuş ne Japonya'da ne de Çin'de yaşar.	Šis paukštis negyvena nei Japonijoje, nei Kinijoje.	ne	0	0
+Philip ve Sheila geç kaldı. Ben de geç kaldım mı?	Filipas ir Šeila pavėlavo. Aš ir pavėlavau?	ve	0	0
+İnsanlar bilgisayarı hem oyunlar, hem de iş için kullanırlar.	Žmonės kompiuterį naudoja ir žaidimams, ir taip pat darbui.	için	0	0
+O et yemez , değil mi?	Jis nevalgo mėsos, ar ne taip?	mi	0	0
+O hem çekici hem de çalışkandır.	Ji ir patraukli, ir darbšti.	de	0	0
+O çok çalışkan.	Jis labai darbštus.	o	0	0
+Ben rock seviyorum.	Man patinka rokas.	ben	0	0
+Onun çok ilginç bir kitabı var.	Ji turi įdomią knygą.	çok	0	0
+Ben İtalyanım ama Tayland'ta yaşıyorum.	Aš italė, bet gyvenu Tailande.	ama	0	0
+Tom'un Boston'da bir kız kardeşi var.	Tomas turi seserį Bostone.	var	0	0
+Tom'un Boston'da bir kız kardeşi var.	Tomas turi seserį Bostone.	da	0	0
+Bugün için bilet kaldı mı?	Dar liko bilietų šiandienai?	mı	0	0
+Bu elbette son tren değil, öyle değil mi?	Tai tikrai ne paskutinis traukinys, ar ne?	değil	0	0
+Onun söylediği her şey doğruydu.	Viskas, ką ji sakė, buvo tiesa.	şey	0	0
+"Gerçekten nasıl hissettiğini biliyorum." " Hayır, bilmiyorsun!"	"- Aš tikrai žinau, kaip tu jautiesi." "- Ne, tu nežinai!"	hayır	0	0
+O, senden bile daha çalışkan.	Jis net už tave darbštesnis.	daha	0	0
+Sen benim en sevdiğimsin.	Tu mano mylimiausias.	sen	0	0
+Ne kadar?	Kiek kainuoja?	kadar	0	0
+Bana neden yazmadın?	Kodėl man neparašei?	bana	0	0
+Günlerdir hiç yemek yememiş gibi görünüyordu.	Jis atrodo, kaip keletą dienų nieko nevalgęs.	gibi	0	0
+Okumak için bile zamanım yok.	Aš neturiu laiko netgi skaityti.	yok	0	0
+Tom bunu seviyor.	Tomui tai patinka.	bunu	0	0
+Onu dinleme.	Nesiklausyk jos.	onu	0	0
+Dün gece iyi uyumadınız, değil mi?	Vakar naktį gerai nemiegojote, ar ne taip?	iyi	0	0
+Tamam. Özür dilerim.	Gerai. Atsiprašau.	tamam	0	0
+O beni neden dinlemeyecek?	Kodėl jis manęs neklausys?	beni	0	0
+Seni bekleyebilirim.	Aš galiu tavęs palaukti.	seni	0	0
+Her şeyini kaybedeceksin.	Tu viską prarasi.	her	0	0
+Herkes benim için üzüldü.	Visi man rodė gailestį.	benim	0	0
+Kahve sana enerji verir!	Kava tau duoda energijos!	sana	0	0
+Belli ki Tom'u seviyorsun ve belli ki o da seni seviyor.	Akivaizdu, kad tu myli Tomą, ir kad jis myli tave.	ki	0	0
+Ya Tom ya da ben gitmeliyim.	Arba aš, arba Tomas privalo eiti.	ya	0	0
+O beni neden dinlemeyecek?	Kodėl ji manęs neklausys?	neden	0	0
+Kale ne zaman inşa edildi?	Kada buvo pastatyta pilis?	zaman	0	0
+Sen sadece bir kızsın.	Tu tik mergaitė.	sadece	0	0
+Senin en sevdiğin araba nedir?	Kokia tavo mėgstamiausia mašina?	senin	0	0
+Tom'un bugün burada olmayacağını duydum.	Girdėjau, kad Tomo šiandien čia nebus.	burada	0	0
+John'ın dürüst olduğunu biliyorum.	Aš žinau, kad Džonas sąžiningas.	olduğunu	0	0
+Tom'un nasıl hissettiğini anlayabiliyorum.	Aš galiu suprasti, kaip Tomas jaučiasi.	nasıl	0	0
+Bu kitabın yazarı hiç Rusya'da bulunmamış.	Šitos knygos autorius niekada nebuvo Rusijoje.	hiç	0	0
+Spordan sonra dinlenmelisin.	Po sporto turi pailsėti.	sonra	0	0
+Şimdi iyi hissediyorum.	Dabar jaučiuosi gerai.	şimdi	0	0
+Bay Kondo, şirketindeki en çalışkandır.	Ponas Kondo yra pats darbščiausias savo firmoje.	en	0	0
+Yani yalan söylediğini kabul ediyorsun, öyle mi?	Taigi, tu sutinki, kad melavai? Ar ne taip?	öyle	0	0
+Bu bilgi doğru mu?	Ar ši informacija teisinga?	mu	0	0
+Şu anda vaktim yok.	Aš dabar neturiu laiko.	şu	0	0
+Müziği sever misin?	Tau patinka muzika?	misin	0	0
+Ben savaştan önce Avrupa'ya gittim.	Prieš karą nuvykau į Europą.	önce	0	0
+Bu bana göre biraz garip.	Tai man keista.	biraz	0	0
+Mary son derece güzel bir kız.	Merė nepaprastai graži mergina.	güzel	0	0
+Her gün Fransızca okur musun?	Kiekvieną dieną skaitai prancūziškai?	musun	0	0
+Eurovision'un en kötü şarkısı birinci, en iyi şarkısı sondan ikinci oldu. Ne saçmalık!	Eurovizijos blogiausia daina pirma, o pati geriausia liko antra nuo galo. Kokia nesąmonė!	oldu	0	0
+Yani yalan söylediğini kabul ediyorsun, öyle mi?	Taigi, tu sutinki, kad melavai? Ar ne taip?	yani	0	0
+Böyle bir şey için endişe etmeyin.	Nesirūpinkite dėl tokio dalyko.	böyle	0	0
+Onun adresini bilseydim, ona yazardım.	Jei būčiau žinojusi jos adresą, būčiau jai parašiusi.	ona	0	0
+İyi görünüyorsun.	Gerai atrodai.	İyi	0	0
+Lütfen dürüst davran.	Prašau elkis sąžiningai.	lütfen	0	0
+Onun adresini bilseydim, ona yazardım.	Jei būčiau žinojusi jo adresą, būčiau jam parašiusi.	onun	0	0
+Okumak için zamanım bile yok.	Neturiu laiko net skaityti.	bile	0	0
+Kızlara bak.	Pažiūrėk į mergaites.	bak	0	0
+Mutlu olmaya karar verdim çünkü sağlığım için iyi.	Nusprendžiau būti laimingas, nes tai gerai mano sveikatai.	çünkü	0	0
+Eğer fazla param olsaydı, kalemi alırdım.	Jei būčiau turėjusi daugiau pinigų, būčiau nusipirkusi parkerį.	eğer	0	0
+Artık öğretmen değilim.	Aš jau nebe mokytojas.	artık	0	0
+Bir arkadaşım hakkında gerçekten endişe duyuyorum.	Aš tikrai nerimauju dėl savo draugo.	gerçekten	0	0
+O, sadece geçen ay yurt dışından geri geldi.	Jis tik praėjusį mėnesį grįžo iš užsienio.	geri	0	0
+"Gerçekten nasıl hissettiğini biliyorum." " Hayır, bilmiyorsun!"	"- Aš tikrai žinau, kaip tu jautiesi." "- Ne, tu nežinai!"	biliyorum	0	0
+İçmek için sıcak bir şey istiyorum.	Noriu atsigerti kažko šilto.	istiyorum	0	0
+O kim?	Kas jis yra?	kim	0	0
+Toplam olarak on bir kişiyiz.	Iš viso mūsų yra vienuolika žmonių.	olarak	0	0
+Başka bir teori öneriyor musun?	Tu siūlai kitą teoriją?	başka	0	0
+Doğru yerdeyiz.	Mes tinkamoje vietoje.	doğru	0	0
+Los Angeles, Amerika Birleşik Devletleri'ndeki ikinci en büyük kenttir.	Los Andželas yra antrasis pagal dydį miestas Jungtinėse Valstijose.	büyük	0	0
+Hemen hemen tüm ofis çalışanlarının üçte biri gözlük takıyor.	Beveik vienas trečdalis viso biuro darbuotojų nešioja akinius.	biri	0	0
+Tom saat kaçta buraya geliyor?	Kelintą valandą Tomas ateina čia?	buraya	0	0
+Bay Kondo, şirketindeki en çalışkandır.	Ponas Kondo yra pats darbščiausias savo firmoje.	bay	0	0
+Adaya uçmak sana 100 dolara mal olacak.	Nuskristi į salą tau kainuos 100 dolerių.	olacak	0	0
+Adam ekmeği yedi.	Vyras valgė duoną.	adam	0	0
+Metro istasyonunda Mihaela ile karşılaştım.	Metro stotyje sutikau Mihaelą.	ile	0	0
+Onlar hiçbir şey bilmiyorlar.	Jie nieko nežino.	hiçbir	0	0
+Biz kazanmalıyız.	Mes turime laimėti.	biz	0	0
+Neden bana yardım etmedin?	Kodėl man nepadėjai?	yardım	0	0
+Ne demek istediğini anlamaya başlıyorum.	Aš pradedu suprasti, ką tu nori pasakyti.	demek	0	0
+Hey, onu yapma!	Ei, nedaryk to!	hey	0	0
+Sanırım anlıyorum.	Manau, kad supratau.	sanırım	0	0
+O Allah'ın elinde.	Ji Dievo rankose.	ın	0	0
+İngilizce bilmiyorum.	Aš nemoku anglų kalbos.	bilmiyorum	0	0
+Tüm polisler cesur değildir.	Ne visi policininkai yra drąsūs.	tüm	0	0
+Teşekkürler!	Ačiū!	teşekkürler	0	0
+O çok fazla içki içer.	Ji labai daug geria.	fazla	0	0
+Yeni bir şey deneyeceğim.	Aš pabandysiu kažką naujo.	yeni	0	0
+Gün hemen hemen bitti.	Diena beveik baigėsi.	gün	0	0
+Yanıtınız için teşekkür ederim.	Ačiū už jūsų atsakymą.	ederim	0	0
+Nerede olduğumdan emin değilim.	Nesu tikras, kur aš esu.	nerede	0	0
+Boston'a geçen ay gittim.	Praėjusį mėnesį vykau į Bostoną.	a	0	0
+Herkes aynı şeyi düşünüyor.	Visi tą patį galvoja.	şeyi	0	0
+Orada kimse yok.	Ten nieko nėra.	orada	0	0
+Romanın son sayfasını henüz okumadım.	Dar neperskaičiau paskutinio romano puslapio.	son	0	0
+Onların kötü bir hafızaları var.	Jie turi prastą atmintį.	kötü	0	0
+Yeni şeyler denemekten korkmayın.	Nebijokite išbandyti naujų dalykų.	şeyler	0	0
+Partiye gidebilirsin, ancak gece yarısına kadar eve olmalısın.	Gali eiti į vakarėlį, bet turi būti namie iki vidurnakčio.	gece	0	0
+Herkes senin zengin olduğunu biliyor.	Visi žino, kad tu turtinga.	biliyor	0	0
+Pekala, sorun yok.	Gerai, be problemų.	sorun	0	0
+Sadece iki ya da üç içecek içtim.	Aš tik du ar tris gėrimus išgėriau.	iki	0	0
+Taze gıda harika.	Šviežias maistas yra nuostabus.	harika	0	0
+O et yemez , değil mi?	Ji nevalgo mėsos, ar ne taip?	et	0	0
+O dürüst ve çalışkandır ama erkek kardeşi bunların tam aksidir.	Ji sąžinina ir darbšti, bet jos brolis visiškai priešingas.	tam	0	0
+İşte adres.	Štai adresas.	İşte	0	0
+Bütün dünyada barış vardı.	Visame pasaulyje buvo taika.	bütün	0	0
+Hemen hemen hiç kimse ona inanmadı.	Beveik niekas ja netikėjo.	hemen	0	0
+Siz insanlar ne düşünüyorsunuz?	Ką jūs galvojate, žmonės?	siz	0	0
+Üzgünüm, ama bu projeye karşıyım.	Atsiprašau, bet esu prieš šį projektą.	üzgünüm	0	0
+Sadece güçlü ol.	Tiktai būk stiprus.	ol	0	0
+Bu bir hata olabilir.	Tai gali būti klaida.	olabilir	0	0
+Yen'i dolarla değiştirdim.	Aš išsikeičiau jenas į dolerius.	i	0	0
+Afiyet olsun!	Skanaus!	olsun	0	0
+O, küçük ve güçsüz.	Ji maža ir silpna.	küçük	0	0
+Size yardım etmeli miyim?	Ar turiu jums padėti?	size	0	0
+Fransızca öğrenmeye henüz başladım, bu yüzden henüz çok iyi değilim.	Aš tik visai neseniai pradėjau mokytis prancūzų kalbos, todėl jos dar nemoku gerai.	yüzden	0	0
+Bu web sitesinde bayan üyelerden daha fazla erkek üye var.	Šiame internetiniame puslapyje daugiau yra narių vyrų nei moterų.	bayan	0	0
+Biz işe gitmek için aynı otobüse bineriz.	Mes važiuojame tuo pačiu autobusu į darbą.	aynı	0	0
+Yanıtınız için teşekkür ederim.	Ačiū už jūsų atsakymą.	teşekkür	0	0
+Tom, özel hayatı hakkında konuşmak istemiyor.	Tomas nenori kalbėti apie savo asmeninį gyvenimą.	hakkında	0	0
+Gel ve onu al.	Ateik ir pasiimk tai.	gel	0	0
+Anahtarlarımı masanın üstüne bıraktım. Onları bana getirir misin?	Palikau savo raktus ant stalo viršaus. Gal galėtum atnešti man juos?	onları	0	0
+Bunu kendi gözlerimle gördüm.	Aš tai mačiau savo akimis.	kendi	0	0
+Kız kardeşin tüm arkadaşlarımın en çalışkanıdır.	Tavo sesė yra darbščiausia iš visų mano draugų.	kız	0	0
+Tom Mary'nin ayakkabı ölçüsünü bilmiyor.	Tomas nežino Merės batų dydžio.	nin	0	0
+O her zaman sigara içmeye devam etti.	Ji visą laiką nenustojo rūkyti.	devam	0	0
+Neden bize beş dakika daha vermiyorsun?	Kodėl mums neduodi dar 5 minučių?	bize	0	0
+Bu ciddi oluyor.	Tai tampa rimta.	oluyor	0	0
+Kalmama izin ver.	Leisk man pasilikti.	ver	0	0
+Denememe izin ver.	Leisk man pabandyti.	izin	0	0
+Sana iş öneriyorum.	Aš tau siūlau darbą.	iş	0	0
+Tom bizi izliyor.	Tomas mus seka.	bizi	0	0
+Buna inanmam zor.	Man sunku tuo patikėti.	buna	0	0
+Tom'un bir planı vardı.	Tomas turi planą.	vardı	0	0
+Bu nereden geldi?	Šitas iš kur atkeliavo?	geldi	0	0
+Bu iş bizim için zordur.	Šis darbas mums sunkus.	bizim	0	0
+Sizi mutlu etmek isterim.	Noriu padaryti jus laimingus.	sizi	0	0
+Japonya'nın başkenti Tokyo'dur.	Japonijos sostinė yra Tokijas.	dur	0	0
+Kimse bilmeyecek.	Niekas nežinos.	kimse	0	0
+Yarın hava tahminine göre kar yağacak.	Pagal orų prognozę rytoj snigs.	göre	0	0
+Tom'u asla tekrar görmeyeceksin.	Tomo niekada nebepamatysi.	asla	0	0
+Özür dileriz.	Atsiprašome.	özür	0	0
+Seninle kahvaltı yemek istiyorum.	Norėčiau su tavimi papusryčiauti.	seninle	0	0
+Harika bir baba olacağını düşünüyorum.	Galvoju, kad tu būsi nuostabus tėvas.	baba	0	0
+Saf değilim.	Aš ne naivus.	değilim	0	0
+Aslında o hasta.	Iš tikrųjų ji serga.	aslında	0	0
+Seni tekrar canlı görmeyeceğimi düşünüyordum.	Galvojau, kad nebepamatysiu tavęs gyvo.	tekrar	0	0
+Oturma odasına git.	Eik į svetainę.	git	0	0
+Japonya'nın başkenti Tokyo'dur.	Japonijos sostinė yra Tokijas.	nın	0	0
+Hala bu tür hikayelere inanıyor musun?	Tu vis dar tiki tokiomis istorijomis?	hala	0	0
+Kimse benimle konuşmadı.	Niekas su manim nekalbėjo.	benimle	0	0
+Bu iş yarım saat içinde bitirilebilir.	Šis darbas gali būti baigtas per pusę valandos.	içinde	0	0
+Saat ona kadar çalışacak mısın?	Dirbsi iki dešimtos valandos?	mısın	0	0
+Bu senin sözlüğün mü?	Ar čia tavo žodynas?	mü	0	0
+Bence o dürüsttür.	Manau jis sąžiningas.	bence	0	0
+Herkes aynı şekilde düşünüyor.	Visi taip pat mąsto.	şekilde	0	0
+Dikkatli ve çalışkan olmak gereklidir, fakat bu kursu geçmek için yeterli değildir.	Reikia būti atidžiu ir darbščiu, tačiau norint išlaikyti šį kursą to nepakanka.	olmak	0	0
+Tom ve Mary hâlâ ofislerindeler. İkisi de bugün geç vakte kadar çalışmayı planlıyorlar.	Tomas ir Merė vis dar biure. Šiandien jie abu planuoja dirbti iki vėlumos.	bugün	0	0
+Tom ve Mary birlikte iyi görünüyorlar.	Tomas ir Merė kartu gerai atrodo.	birlikte	0	0
+O beni sevseydi mutlu olmaz mıydım?	Jeigu jis mane mylėtų, ar aš būčiau nelaiminga?	olmaz	0	0
+Pekala, gidelim!	Gerai, eikime!	pekala	0	0
+O kendini daha uzun göstermek için yüksek topuklu ayakkabılar giyiyor.	Ji avi aukštakulnius, kad atrodytų aukštesnė.	uzun	0	0
+Mary zaten başladı.	Merė jau pradėjo.	zaten	0	0
+Sana para borçlu muyum?	Ar aš tau skolinga pinigų?	para	0	0
+Dün ilk kez Tom'la Fransızca konuştum.	Vakar pirmą kartą kalbėjau su Tomu prancūziškai.	ilk	0	0
+Yabancı İskoçya'dan geliyor.	Atvyksta užsienietis iš Škotijos.	geliyor	0	0
+O, onunla asla dans etmedi.	Ji su juo niekada nešoko.	onunla	0	0
+Twitter, gerçek bir arkadaş değildir.	Twitter nėra tikras draugas.	gerçek	0	0
+Gel ve onu al.	Ateik ir pasiimk tai.	al	0	0
+Onlar hiç kimseyi görmediklerini söylediler.	Jie sakė, kad nieko nematė.	onlar	0	0
+Haydi ara.	Nagi, paskambink.	haydi	0	0
+Nerede olduğumdan emin değilim.	Nesu tikras, kur aš esu.	emin	0	0
+Güzel bir kadından üç gün sonra usanırsın. Çirkin bir kadına üç gün sonra alışırsın.	Graži moteris po trejų dienų atsibosta. Prie negražios moters po trejų dienų pripranti.	üç	0	0
+Tom dışında herkes şapka takıyor.	Visi išskyrus Tomą dėvi kepurę.	herkes	0	0
+Çok meşgul değilsen bana bir dakika yardım edebilir misin?	Jei nesi labai užsiėmus, gal galėtum man vieną minutę padėti?	dakika	0	0
+Bu yaşlı kişi bir şey söyledi.	Šis senas žmogus kažką pasakė.	söyledi	0	0
+Bugün ne yapmak istiyorsun?	Ką nori daryti šiandien?	istiyorsun	0	0
+İster yavaş ister hızlı sür, dikkatli sür.	Nori vairuok lėtai, ar greitai, bet vairuok atsargiai.	ister	0	0
+Tom'un saat onda burada olması gerekiyor.	Tomas turėtų būti čia dešimtą valandą.	saat	0	0
+Bunu bile bile yapıyorsun!	Tu tai tyčia darai!	yapıyorsun	0	0
+Sen 05:00'te eve geldin.	Tu namo atėjai penktą.	eve	0	0
+O, sekiz yıl önce öldü.	Ji mirė prieš aštuonerius metus.	yıl	0	0
+Sigara içebilir miyim?	Ar galiu parūkyti?	miyim	0	0
+Artık çocuk değilim.	Aš jau nebe vaikas.	çocuk	0	0
+Yer hemen hemen boştu.	Vieta buvo beveik tuščia.	yer	0	0
+Özür dilerim, kim arıyor?	Atsiprašau, kas skambina?	dilerim	0	0
+Bir dakika bekle. Sanırım onlarla gitmen gerekir.	Palauk minutę. Manau, kad tau reikia eiti su jais.	bekle	0	0
+Ben sizin sağlığınız için endişe duyuyorum.	Aš nerimauju dėl jūsų sveikatos.	sizin	0	0
+Odayı olduğu gibi bırak.	Palik kambarį taip, kaip jis buvo.	bırak	0	0
+Erkek arkadaşından almış olduğu hediyeyi bana gösterdi.	Ji parodė man dovaną, gautą iš mylimojo.	olduğu	0	0
+Tom hâlâ çok ilgili görünmüyor.	Tomas vis dar neatrodo susidomėjęs.	ilgili	0	0
+Benim evime gidelim!	Einame į mano namus!	gidelim	0	0
+Hiçbir yere gidemiyorum.	Aš negaliu niekur eiti.	yere	0	0
+Sizi mutlu etmek isterim.	Noriu padaryti jus laimingus.	etmek	0	0
+O otobüse binmedim, bu yüzden şu an evde değilim.	Į autobusą neįlipau, todėl dabar nesu namie.	an	0	0
+O Taro'dan daha meşguldür.	Jis labiau užsiėmęs nei Taras.	dan	0	0
+E-posta adresiniz nedir?	Koks jūsų el. pašto adresas?	nedir	0	0
+Tom'un bir planı vardı.	Tomas turi planą.	un	0	0
+Bagajımı nereye koymalıyım?	Kur turiu padėti savo bagažą?	nereye	0	0
+Henüz ölmek istemiyorum.	Dar nenoriu mirti.	istemiyorum	0	0
+Annem kızgın olmalı.	Mano mama turi būti pikta.	olmalı	0	0
+Buradan ayrılmam gerekiyor.	Man reikia išeiti iš čia.	buradan	0	0
+Planıma karşı mısınız?	Ar tu esi prieš mano planą?	karşı	0	0
+Kaç numara ayakkabı giyiyorsun?	Kokio dydžio batus avi?	kaç	0	0
+Şimdi ne kadar çok yaparsan, yarın o kadar az yaparsın.	Kuo daugiau padarysi dabar, tuo mažiau darysi rytoj.	az	0	0
+Hazır değilsin.	Tu nepasiruošusi.	hazır	0	0
+Tom Mary'nin kendine bir masaj yapmasını istedi fakat o yapmak istemedi.	Tomas paprašė Merės padaryti jam masažą, bet ji nenorėjo.	fakat	0	0
+Eski iyi günleri özlüyorum.	Ilgiuosi senų gerų dienų.	eski	0	0
+Bütün çocuklar dürüst.	Visi vaikai yra sąžiningi.	çocuklar	0	0
+O kendini daha uzun göstermek için yüksek topuklu ayakkabılar giyiyor.	Ji avi aukštakulnius, kad atrodytų aukštesnė.	kendini	0	0
+Ailemden nefret ediyorum.	Aš nekenčiu mano šeimą.	ediyorum	0	0
+Burada kalmam gerekiyor.	Man reikia čia pasilikti.	gerekiyor	0	0
+Tom benden ayrıldı.	Tomas išsiskyrė su manimi.	benden	0	0
+Bu hafta sonu bir şey yapmak ister misin?	Ar norėtum ką nors nuveikt šį savaitgalį?	yapmak	0	0
+Kahverengi montlu kadın kim?	Kas ta moteris su rudu paltu?	kadın	0	0
+Onun karakteri hakkında kesinlikle haklısın.	Tu esi visiškai teisi apie jo charakterį.	kesinlikle	0	0
+Bu zor durumla kim baş edebilir?	Kas gali susidoroti su šia sunkia situacija?	zor	0	0
+Annem zor işe alışık değildir.	Mano mama nepripratus prie sunkaus darbo.	işe	0	0
+Şu anda bir şey söyleyemem.	Dabar nieko negaliu pasakyti.	anda	0	0
+İki tane oğlum var.	Turiu du sūnus.	tane	0	0
+Ben uyandığımda, diğer tüm yolcular inmişti.	Kai aš prabudau, visi kiti keleiviai buvo išlipę.	diğer	0	0
+Onun işi bulaşık yıkamaktır.	Jos darbas yra plauti indus.	işi	0	0
+Çok az kişi onun partideki yokluğunu fark etti.	Labai mažai žmonių pastebėjo, kad jos nebuvo vakarėlyje.	kişi	0	0
+O çok utangaç. Sizi görmek istediğini söylüyor.	Jis labai drovus. Jis sako norintis jus pamatyti.	görmek	0	0
+Teklifimi kabul etmedi.	Ji nesutiko su mano pasiūlymu.	kabul	0	0
+Niye yemiyorsun?	Kodėl nevalgai?	niye	0	0
+Tekrar başlamamı istiyor musun?	Nori, kad aš vėl pradėčiau?	istiyor	0	0
+Arapça'yı seviyorum.	Aš myliu arabą.	seviyorum	0	0
+Sanırım sağ kolum kırık.	Manau, kad mano dešinė ranka yra lūžusi.	sağ	0	0
+Her gün oraya gitmek zorunda mısınız?	Ar tau reikia kiekvieną dieną ten eiti?	zorunda	0	0
+Bekleyecek misiniz?	Lauksite?	misiniz	0	0
+Yarın hava tahminine göre kar yağacak.	Pagal orų prognozę rytoj snigs.	yarın	0	0
+Bu kez amacım Paris.	Šį kartą mano tikslas yra Paryžius.	kez	0	0
+İki genç kız mutlu bir şekilde gülümsedi.	Dvi jaunos merginos laimingai šypsojosi.	İki	0	0
+Bu elbette son tren değil, öyle değil mi?	Tai tikrai ne paskutinis traukinys, ar ne?	elbette	0	0
+Gidip Tom'u bulmam gerekiyor.	Aš turiu eiti ir surasti Tomą.	gidip	0	0
+Mary hem Tom'u hem John'u sever.	Mary myli ir Tomą, ir Džoną.	hem	0	0
+Yanlış trene binmiş olabilir.	Jis galėjo įsėsti į ne tą traukinį.	yanlış	0	0
+Ben durdum ve onlara baktım.	Aš sustojau ir žiūrėjau į juos.	onlara	0	0
+O, senden bile daha çalışkan.	Ji net už tave darbštesnė.	senden	0	0
+Restoranımıza hoş geldiniz!	Sveiki atvykę į mūsų restoraną.	hoş	0	0
+Kadın doktor çalışkan mı?	Ar daktarė darbšti?	doktor	0	0
+Hey, onu yapma!	Ei, nedaryk to!	yapma	0	0
+Tom özel birisi mi?	Ar Tomas kažkoks ypatingas?	özel	0	0
+Tom, akşam yemeği için ne yemek istersin?	Tomai, ką norėtum valgyti vakarienei?	yemek	0	0
+Hafta sonu planlarınız nedir?	Kokie tavo savaitgalio planai?	hafta	0	0
+Posta kutumu kontrol etmek zorundayım.	Aš turiu patikrinti savo pašto dežutę.	kontrol	0	0
+Kimse oraya gitmedi.	Niekas ten nėjo.	oraya	0	0
+Bu kelime hâlâ kullanılıyor.	Šis žodis yra vis dar naudojamas.	hâlâ	0	0
+Neden geç kaldın?	Kodėl pavėlavai?	geç	0	0
+O beni sevseydi mutlu olmaz mıydım?	Jei ji būtų mane mylėjus, ar aš būčiau buvęs nelaimingas?	mutlu	0	0
+Tom Mary'ye çok şey borçludur.	Tomas Merei daug ko skolingas.	ye	0	0
+Bazı Amerikalı arkadaşlarım var.	Aš turiu keletą amerikiečių draugų.	bazı	0	0
+Ondan henüz haberim yok.	Iš jo dar nėra žinių.	ondan	0	0
+Bu nereden geldi?	Šitas iš kur atkeliavo?	nereden	0	0
+Kaleyi kızıl derililere terk etti.	Jie paliko fortą indėnams.	etti	0	0
+Onu çocukluğundan beri tanırım.	Aš ją pažįstu nuo jos vaikystės.	beri	0	0
+Tom gitti mi?	Ar Tomas nuėjo?	gitti	0	0
+Yani yalan söylediğini kabul ediyorsun, öyle mi?	Taigi, tu sutinki, kad melavai? Ar ne taip?	yalan	0	0
+Tahtaya bakın.	Pažiūrėkite į lentą.	bakın	0	0
+Yalnız yatmaya alışık değildi.	Jis nebuvo pripratęs miegoti vienas.	yalnız	0	0
+Her insan kendi evinin efendisidir.	Kiekvienas žmogus yra savo namų šeimininkas.	insan	0	0
+Onun odaya girdiğini gördüm.	Mačiau ją įeinančią į kambarį.	gördüm	0	0
+Yalnız yatmaya alışık değildi.	Jis nebuvo pripratęs miegoti vienas.	değildi	0	0
+Yaşlı insanlar sık sık yeni şeyleri denemekten korkarlar.	Vyresni žmonės dažnai bijo išbandyti naujus dalykus.	insanlar	0	0
+O dürüst ve çalışkandır ama erkek kardeşi bunların tam aksidir.	Ji sąžinina ir darbšti, bet jos brolis visiškai priešingas.	erkek	0	0
+Dün kolum ağrıyordu.	Vakar man skaudėjo ranką.	dün	0	0
+Bence Tom'la konuşmalıyız.	Manau, kad turime pasikalbėti su Tomu.	la	0	0
+Teslimat için bir ücret alıyor musunuz?	Ar man reikės mokėti už pristatymą?	musunuz	0	0
+Benim babam ne sigara ne de içki içer.	Mano tėtis nei geria, nei rūko.	babam	0	0
+Ken, temmuz ayının sonunda Amerika Birleşik Devletleri'ne gidiyor.	Kenas liepos mėnesio gale vyksta į Jungtines Amerikos valstijas.	gidiyor	0	0
+Tom Mary'yi parkta bir bankta otururken buldu.	Tomas rado Merę parke sėdint ant suolelio.	yi	0	0
+Senin için akşam yemeği pişireyim mi?	Padaryti tau vakarienę?	akşam	0	0
+Tom Bill'den daha çalışkan değil.	Tomas nėra darbštesnis už Bilą.	den	0	0
+O, sadece geçen ay yurt dışından geri geldi.	Jis tik praėjusį mėnesį grįžo iš užsienio.	geçen	0	0
+Sakin olalım.	Nusiraminkime.	sakin	0	0
+Neden bize beş dakika daha vermiyorsun?	Kodėl mums neduodi dar 5 minučių?	beş	0	0
+O, yurtdışına gitmeye karar verdi.	Jis nusprendė išvažiuoti į užsienį.	karar	0	0
+Artık "Tom" adından nefret ediyorum.	Nuo šio nekenčiu vardo Tomas.	nefret	0	0
+Bu sabah hava çok soğuk, değil mi?	Šį rytą oras labai šalta, ar ne?	sabah	0	0
+Ben onu zaten yaptım.	Aš jau tai padariau.	yaptım	0	0
+Dikkat et. Çorba çok sıcak.	Būk atsargus. Sriuba labai karšta.	dikkat	0	0
+Biletler, tüm şehirlerde çabuk satılıyor.	Bilietai yra greitai parduodami visuose miestuose.	çabuk	0	0
+Tom'un saat onda burada olması gerekiyor.	Tomas turėtų būti čia dešimtą valandą.	olması	0	0
+Farklı insanların farklı fikirleri vardır.	Skirtingų žmonių skirtingos idėjos.	farklı	0	0
+Hazır değilsin.	Tu nepasiruošęs.	değilsin	0	0
+Boston'a geçen ay gittim.	Praėjusį mėnesį vykau į Bostoną.	ay	0	0
+Ken, temmuz ayının sonunda Amerika Birleşik Devletleri'ne gidiyor.	Kenas liepos mėnesio gale vyksta į Jungtines Amerikos valstijas.	sonunda	0	0
+Kadını nerede gördün?	Kur jūs matėte šią moterį?	gördün	0	0
+Onu partiye gitmeye ikna ettim.	Įtikinau ją eiti į vakarėlį.	ettim	0	0
+Çok az kişi onun partideki yokluğunu fark etti.	Labai mažai žmonių pastebėjo, kad jos nebuvo vakarėlyje.	fark	0	0
+Ne kadar aptal!	Koks kvailas!	aptal	0	0
+Ben banyoda kendimi ısıttım.	Aš susišildžiau vonioje.	kendimi	0	0
+Ben tamamen çıplağım.	Aš visiškai nuoga.	tamamen	0	0
+Bana biraz soğuk su getirin.	Atneškite man truputį šalto vandens.	su	0	0
+Bob şimdi bir hafta boyunca yatakta hastadır.	Bobas dabar jau savaitę lovoje serga.	boyunca	0	0
+Kendine bakmalısın.	Turi rūpintis savimi.	kendine	0	0
+Bu resimler onun tarafından yapıldı.	Šiuos paveikslus nutapė jis.	tarafından	0	0
+Elektriksiz ve susuz bir dünya hayal edemeyiz.	Mes negalime įsivaizduoti pasaulio be elektros ir vandens.	dünya	0	0
+Tom'u geri getir.	Grąžink Tomui.	u	0	0
+O Rusça'yı konuşabilir ve yazabilir.	Jis gali kalbėti ir rašyti rusiškai.	yı	0	0
+Bunları onlara sattık, değil mi?	Mes juos jiems pardavėme, ar ne?	bunları	0	0
+Londra'da birçok güzel park vardır.	Londone yra labai daug gražių parkų.	vardır	0	0
+O, sekiz yıl önce öldü.	Jis mirė prieš aštuonerius metus.	öldü	0	0
+Kapıyı açık bıraktık.	Jie paliko atidarytas duris.	açık	0	0
+Annem zor işe alışık değildir.	Mano mama nepripratus prie sunkaus darbo.	annem	0	0
+En iyi arkadaşınızın adı nedir?	Koks jūsų geriausios draugės vardas?	adı	0	0
+İstediğini yap!	Daryk ką nori!	yap	0	0
+Hangi amaçla?	Kokiu tikslu?	hangi	0	0
+O, ancak bir çocuk.	Jis tik vaikas.	ancak	0	0
+O dürüst görünüyor.	Jis atrodo sąžiningas.	görünüyor	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	dört	0	0
+Arkadaşımdan bir mektup aldım.	Gavau laišką iš savo draugo.	aldım	0	0
+Keşke bir arabam olsa.	O, kad turėčiau mašiną.	olsa	0	0
+Tom özel birisi mi?	Ar Tomas kažkoks ypatingas?	birisi	0	0
+Anahtarlarım yanımda yoktu.	Neturėjau savo raktų kartu su savimi.	yoktu	0	0
+Bu kolay değil.	Tai nelengva.	kolay	0	0
+Tom Mary'ye üç yüz dolar borçlu.	Tomas skolingas Merei tris šimtus dolerių.	dolar	0	0
+O benim sahip olduğum kadar çok sayıda pula sahiptir.	Ji turi maždaug tiek pat pašto ženklų, kiek aš.	sahip	0	0
+Tom Mary'nin yanında oturuyor.	Tomas sėdi šalia Merės.	yanında	0	0
+Benimle konsere gelecek misin?	Ar tu ateisi į koncertą su manimi?	gelecek	0	0
+Bende aynı sorunlar vardı.	Aš irgi turėjau tų pačių problemų.	bende	0	0
+Sonunda harika bir çözüm buldum.	Galiausiai radau nuostabų sprendimą.	buldum	0	0
+Tom, özel hayatı hakkında konuşmak istemiyor.	Tomas nenori kalbėti apie savo asmeninį gyvenimą.	konuşmak	0	0
+Biz işe gitmek için aynı otobüse bineriz.	Mes važiuojame tuo pačiu autobusu į darbą.	gitmek	0	0
+Sanırım anlıyorum.	Manau, kad supratau.	anlıyorum	0	0
+Ondan henüz haberim yok.	Iš jos dar nėra žinių.	henüz	0	0
+Her yolu denedim.	Išbandžiau visus būdus.	yolu	0	0
+İşim hemen hemen bitti.	Mano darbas beveik baigtas.	bitti	0	0
+Onların kötü bir hafızaları var.	Jie turi prastą atmintį.	onların	0	0
+Öğretmen ondan bir cevap istedi.	Mokytojas norėjo iš jo sulaukti atsakymo.	cevap	0	0
+Yarın yağmur yağarsa, evde kalacağım.	Jei rytoj lis, pasiliksiu namie.	evde	0	0
+Annem hâlâ hayatta olsaydı, o zaman bana yardımcı olurdu.	Jei tik mano mama būtų buvus vis dar gyva, tada būtų man padėjusi.	yardımcı	0	0
+Ölüm zamanı neydi?	Koks buvo mirties laikas?	zamanı	0	0
+Kimin bisikletini ödünç almak istedin?	Kieno dviratį nori paskolinti?	almak	0	0
+Tom genç.	Tomas yra jaunas.	genç	0	0
+Geçen yıl emekli oldum.	Išėjau į pensiją praėjusiais metais.	oldum	0	0
+Onun örneğini takip etmeliyiz.	Mes turime sekti jo pavyzdžiu.	takip	0	0
+Durum kontrol dışı görünüyordu.	Situacija atrodė nekontroliuojama.	durum	0	0
+Tom ve Mary pazartesi günü akşam yemeğini pişirdiler.	Pirmadienį Tom ir Mary gamino vakarienę.	günü	0	0
+Her zaman Fransızca öğrenmeyi denemek istedim.	Visada norėjau pabandyti mokytis prancūzų kalbos.	istedim	0	0
+Bana bir şey söylemek istediğini biliyorum.	Aš žinau, kad tu nori man kažką pasakyti.	söylemek	0	0
+Eşim için bir hediye almak istiyorum. Bir eşarp düşündüm.	Noriu nupirkti žmonai dovaną. Mąsčiau apie skarą.	düşündüm	0	0
+Bu mektup, onun gelecek ay Grace'le evleneceğini söylüyor.	Šis laiškas kalba apie jo vedybas su Greise kitą mėnesį.	le	0	0
+Tom bunu benim için yaptı.	Tomas man tai padarė.	yaptı	0	0
+Oğlun, neredeyse senin babanın bir kopyası.	Tavo sūnus yra beveik tavo tėvo kopija.	neredeyse	0	0
+Ciddi değilsin.	Tu nerimta.	ciddi	0	0
+Tom sınıftaki herhangi bir öğrenciden daha çalışkandır.	Tomas yra darbštesnis už visus klasės mokinius.	herhangi	0	0
+Fransızca ev ödevimi yapmayı az önce bitirdim.	Ką tik pabaigiau daryti prancūzų kalbos namų darbus.	ev	0	0
+İster yavaş ister hızlı sür, dikkatli sür.	Nori vairuok lėtai, ar greitai, bet vairuok atsargiai.	hızlı	0	0
+Tom'un Fransızca bildiğini sanmıyorum.	Aš nemanau, kad Tomas moka prancūziškai.	sanmıyorum	0	0
+Bir süre mutluydu.	Kurį laiką ji buvo laiminga.	süre	0	0
+Kedi masanın altında.	Katė yra po stalu.	altında	0	0
+Onun tadı mükemmel.	Jo skonis tobulas.	mükemmel	0	0
+Harika bir baba olacağını düşünüyorum.	Galvoju, kad tu būsi nuostabus tėvas.	düşünüyorum	0	0
+Beni ara!	Paskambink man!	ara	0	0
+İçeri girebilir miyiz?	Ar galime įeiti į vidų?	miyiz	0	0
+Tom'un bugün burada olmayacağını duydum.	Girdėjau, kad Tomo šiandien čia nebus.	duydum	0	0
+İki tane oğlum var.	Turiu du sūnus.	oğlum	0	0
+Öğle yemeğinden en az bir saat önce, Tom her zaman aç hisseder.	Tomas visada jaučiasi alkanas mažiausiai vieną valandą prieš pietus.	aç	0	0
+Annem hâlâ hayatta olsaydı, o zaman bana yardımcı olurdu.	Jei tik mano mama būtų buvus vis dar gyva, tada būtų man padėjusi.	hayatta	0	0
+Tom arabasından çıktı.	Tomas išlipo iš savo mašinos.	çıktı	0	0
+Çok garip görünse de, Tom'un söylediği doğrudur.	Nors ir atrodo labai keista, ką Tomas sakė, yra tiesa.	garip	0	0
+"Bu kitabı kim yazdı? " John yazdı. "	"Kas parašė šią knygą?" "Džonas."	john	0	0
+Son on yılda fiyatlar yüzde elli arttı.	Per paskutinius dešimt metų kainos pakilo penkiasdešimt procentų.	on	0	0
+Sensiz bir hayat hayal edemem.	Negaliu įsivaizduoti gyvenimo be tavęs.	hayal	0	0
+Yarın Tokyo'ya gidiyorum.	Rytoj vykstu į Tokiją.	gidiyorum	0	0
+Senin en sevdiğin araba nedir?	Kokia tavo mėgstamiausia mašina?	araba	0	0
+Jack sınıftaki en zeki çocuktur.	Džekas protingiausias klasės vaikas.	jack	0	0
+Bu mektup, onun gelecek ay Grace'le evleneceğini söylüyor.	Šis laiškas kalba apie jo vedybas su Greise kitą mėnesį.	söylüyor	0	0
+Geç kalktı ve okula geç kaldı.	Vėlai atsikėlė ir pavėlavo į mokyklą.	kaldı	0	0
+Galiba bu kırmızı kazağı giyeceğim.	Tikriausiai dėvėsiu šį raudoną megztinį.	galiba	0	0
+Bugünkü dünya rahat yaşamını petrole borçludur.	Šiandieninis pasaulis už patogų gyvenimą yra dėkingas naftai.	rahat	0	0
+Bu mektubu kimin yazdığı belli değildir.	Kas parašė šį laišką neaišku.	kimin	0	0
+Dürüst olacağım.	Būsiu sąžiningas.	olacağım	0	0
+Sadece güçlü ol.	Tiktai būk stiprus.	güçlü	0	0
+O, yurtdışına gitmeye karar verdi.	Jis nusprendė važiuoti į užsienį.	verdi	0	0
+Ben İtalyanım ama Tayland'ta yaşıyorum.	Aš italė, bet gyvenu Tailande.	ta	0	0
+Başka hiçbir şeye ihtiyacımız yok.	Man daugiau nieko nereikia.	şeye	0	0
+Tom biraz kızmaya başladı.	Tomas pradėjo truputį pykti.	başladı	0	0
+Sensiz bir hayat hayal edemem.	Negaliu įsivaizduoti gyvenimo be tavęs.	hayat	0	0
+Sınavı geçmek için çok çalışıyor.	Jis daug mokosi, kad išlaikytų egzaminą.	çalışıyor	0	0
+O durumda ne yapmalıydım?	Ką turėjau daryti toje situacijoje?	durumda	0	0
+Sen 05:00'te eve geldin.	Tu namo atėjai penktą.	geldin	0	0
+Neden Tom'un anahtarları sende?	Kodėl tu turi Tomo raktus.	sende	0	0
+Yaşlı insanlar sık sık yeni şeyleri denemekten korkarlar.	Vyresni žmonės dažnai bijo išbandyti naujus dalykus.	şeyleri	0	0
+Bir arkadaşım hakkında gerçekten endişe duyuyorum.	Aš tikrai nerimauju dėl savo draugo.	arkadaşım	0	0
+Biz çok dikkatli hareket etmeliyiz.	Mes turime judėti labai atsargiai.	hareket	0	0
+O bir köpeğe ve altı kediye sahiptir.	Jis turi šunį ir šešias kates.	altı	0	0
+Bebek ayakta durabilir ama yürüyemez.	Kūdikis gali stovėti, bet negali vaikščioti.	bebek	0	0
+Ben köpekleri severim, ama kız kardeşim kedileri sever.	Man patinka šunys, bet mano sesei patinka katės.	kardeşim	0	0
+İster inanın ister inanmayın, onun üç çocuğu var.	Norite tikėkite, norite ne, bet ji turi tris vaikus.	çocuğu	0	0
+Onu kim icat etti acaba?	Įdomu, kas tai išrado?	acaba	0	0
+Bisikletimi onarmak bana bin yene mal oldu.	Mano dviračio pataisymas man kainavo tūkstantį jenų.	bin	0	0
+Tom'un daha fazlasına ihtiyacı var.	Tomui reikia daugiau.	ihtiyacı	0	0
+Onun karakteri hakkında kesinlikle haklısın.	Tu esi visiškai teisus apie jo charakterį.	haklısın	0	0
+Bugün hava berbattır.	Šiandien oras siaubingas.	hava	0	0
+Kaleyi kızıl derililere terk etti.	Jie paliko fortą indėnams.	terk	0	0
+Harika bir baba olacağını düşünüyorum.	Galvoju, kad tu būsi nuostabus tėvas.	olacağını	0	0
+İstediğini yapacağım.	Padarysiu, ką nori.	yapacağım	0	0
+Tom hemen hemen her hafta sonu buraya gelir.	Tomas beveik kiekvieną savaitgalį čia ateina.	gelir	0	0
+Büyükbabam benim doğumumdan kısa bir süre sonra ölmüş.	Mano senelis mirė netrukus po mano gimtadienio.	kısa	0	0
+Dans etmeye başladılar.	Jie pradėjo šokti.	etmeye	0	0
+Tom'un çok güzel el yazısı var.	Tomas turi labai gražią rašysena.	el	0	0
+Zarar nedir?	Kokia žala?	zarar	0	0
+Eve acele et.	Skubėk namo!	acele	0	0
+Maria onun ne adını ne de telefon numarasını biliyordu.	Marija nežinojo nei jo vardo, nei telefono numerio.	telefon	0	0
+Tom'un üç kızı vardır.	Tomas turi tris dukteris.	kızı	0	0
+Mutlu olmaya karar verdim çünkü sağlığım için iyi.	Nusprendžiau būti laimingas, nes tai gerai mano sveikatai.	verdim	0	0
+Tatil geçti artık.	Atostogos jau praėjo.	geçti	0	0
+Baban seni seviyor.	Tėvas tave myli.	baban	0	0
+Amerika Birleşik Devletleri savaşın dışında kalmayı umut ediyordu.	JAV tikėjo likti už karo ribų.	dışında	0	0
+Tom'un sorularının hepsini cevapladım.	Aš atsakiau į visus Tomo klausimus.	hepsini	0	0
+O, onunla asla dans etmedi.	Ji su juo niekada nešoko.	dans	0	0
+Kapıyı açık bıraktık.	Jie paliko atidarytas duris.	kapıyı	0	0
+Annem hâlâ hayatta olsaydı, o zaman bana yardımcı olurdu.	Jei tik mano mama būtų buvus vis dar gyva, tada būtų man padėjusi.	olurdu	0	0
+Sonuçlardan memnun değilim.	Aš nepatenkintas rezultatais.	memnun	0	0
+Şimdi iyi hissediyorum.	Dabar jaučiuosi gerai.	hissediyorum	0	0
+Bu aptalca bir fikir değildi.	Tai nebuvo kvaila idėja.	fikir	0	0
+O kendini daha uzun göstermek için yüksek topuklu ayakkabılar giyiyor.	Ji avi aukštakulnius, kad atrodytų aukštesnė.	yüksek	0	0
+Ne tür bir yer bu?	Kokio tipo ši vieta?	tür	0	0
+Bu mektubu kimin yazdığı belli değildir.	Kas parašė šį laišką neaišku.	değildir	0	0
+Onu yapmamız gerektiğini sanmıyorum.	Aš nemanau, kad mums reikia tai daryti.	gerektiğini	0	0
+Amcam bana bu kitabı aldı.	Mano dėdė man nupirko šitą knygą.	aldı	0	0
+Sahnede dans eden adam benim amcam.	Vyras, šokantis ant scenos, yra mano dėdė.	eden	0	0
+Tom bana yardım edecek.	Tomas man padės.	edecek	0	0
+Bu yaşlı kişi bir şey söyledi.	Šis senas žmogus kažką pasakė.	yaşlı	0	0
+Seni unutmak ne mümkün.	Kaip įmanoma tave pamiršti?	mümkün	0	0
+Ölüm zamanı neydi?	Koks buvo mirties laikas?	ölüm	0	0
+Bir sonraki sensin, Tom.	Tu sekantis, Tomai.	sensin	0	0
+Belli ki Tom'u seviyorsun ve belli ki o da seni seviyor.	Akivaizdu, kad tu myli Tomą, ir kad jis myli tave.	belli	0	0
+Şimdiye kadar eve varmış olmalı.	Jis tokiu metu jau turi būti namuose.	varmış	0	0
+Parayı istemedim.	Aš nenorėjau pinigų.	parayı	0	0
+Aptal sorular yok, yalnızca aptal insanlar var.	Kvailų klausimų nėra, yra tik kvaili žmonės.	yalnızca	0	0
+Ne yaptığımı biliyordum.	Žinojau, ką dariau.	biliyordum	0	0
+Her zaman şikâyet ediyorsun.	Tu visada skundiesi.	ediyorsun	0	0
+Planıma karşı mısınız?	Ar tu esi prieš mano planą?	mısınız	0	0
+Herkesin önünde konuşmalar yapmaya alışık değilim.	Aš nesu pripratęs sakyti kalbą prieš visus.	yapmaya	0	0
+Ölüm zamanı neydi?	Koks buvo mirties laikas?	neydi	0	0
+O geçen haftadan beri hasta.	Jis serga nuo praeitos savaitės.	hasta	0	0
+Sadako onu unutmak istedi.	Sadako norėjo tai pamiršti.	istedi	0	0
+O berbat, sadece berbat.	Jis siaubingas, tiesiog siaubingas.	berbat	0	0
+Bizimle mi kalacaksın?	Pasiliksi su mumis?	bizimle	0	0
+İçeri girebilir miyiz?	Ar galime įeiti į vidų?	İçeri	0	0
+Onun yapacak çok şeyi var.	Jis turi labai daug ką padaryti.	yapacak	0	0
+Dikkatli ve çalışkan olmak gereklidir, fakat bu kursu geçmek için yeterli değildir.	Reikia būti atidžiu ir darbščiu, tačiau norint išlaikyti šį kursą to nepakanka.	dikkatli	0	0
+Daha fazlasına ihtiyacın olacak.	Tau reikės daugiau.	ihtiyacın	0	0
+Sanıyorum aslında düşündüğümden çok daha fazlasına ihtiyacımız var.	Manau, kad mums iš tikrųjų reikia daug daugiau negu aš galvojau.	ihtiyacımız	0	0
+O çok utangaç. Sizi görmek istediğini söylüyor.	Jis labai drovus. Jis sako norintis jus pamatyti.	istediğini	0	0
+Annesine söyledin mi?	Pasakei jos mamai?	söyledin	0	0
+Tom dışarıda çalışmaya alışıktır.	Tomas yra pripratęs dirbti lauke.	dışarıda	0	0
+Farklı insanların farklı fikirleri vardır.	Skirtingų žmonių skirtingos idėjos.	insanların	0	0
+Sana diyorum!	Tau sakau!	diyorum	0	0
+Sen 05:00'te eve geldin.	Tu namo atėjai penktą.	te	0	0
+Keşke yağmur dursa.	O kad lietus liautųsi.	keşke	0	0
+İnsanlar dünyanın her yerinde yaşıyorlar.	Žmonės gyvena visose pasaulio vietose.	dünyanın	0	0
+Bu zor durumla kim baş edebilir?	Kas gali susidoroti su šia sunkia situacija?	baş	0	0
+Bob amcasının evine uğradı.	Bobas užsuko į savo dėdės namus.	evine	0	0
+İnsanlar bilgisayarı hem oyunlar, hem de iş için kullanırlar.	Žmonės kompiuterį naudoja ir žaidimams, ir taip pat darbui.	İnsanlar	0	0
+Ya çık, ya gir.	Arba išeik, arba įeik.	çık	0	0
+O at benim.	Tas arklys yra mano arklys.	at	0	0
+Arkadaş olalım.	Būkime draugais.	arkadaş	0	0
+Herkesin önünde konuşmalar yapmaya alışık değilim.	Aš nesu pripratęs sakyti kalbą prieš visus.	herkesin	0	0
+Doğum günü partine gelemedim.	Negalėjau ateiti į tavo gimtadienio vakarėlį.	doğum	0	0
+Sizi mutlu etmek isterim.	Noriu padaryti jus laimingus.	isterim	0	0
+İster inan ister inanma, Tom 70 yaşında.	Tikėk tuo, ar ne, Tomui yra 70 metų.	yaşında	0	0
+Lütfen bize iki fincan çay ve bir fincan kahve getirin.	Prašau atneškite mums du puodelius arbatos ir vieną puodelį kavos.	kahve	0	0
+Tom'un böyle bir hata yaptığına inanamıyorum.	Aš negaliu patikėti, kad Tomas padarė tokią klaidą.	hata	0	0
+İster yavaş ister hızlı sür, dikkatli sür.	Nori vairuok lėtai, ar greitai, bet vairuok atsargiai.	yavaş	0	0
+Lütfen bana öyle bakma.	Prašau taip į mane nežiūrėk.	bakma	0	0
+Para onun hayatını değiştirdi.	Pinigai pakeitė jos gyvenimą.	hayatını	0	0
+Dikkatli ve çalışkan olmak gereklidir, fakat bu kursu geçmek için yeterli değildir.	Reikia būti atidžiu ir darbščiu, tačiau norint išlaikyti šį kursą to nepakanka.	yeterli	0	0
+O dürüst ve çalışkandır ama erkek kardeşi bunların tam aksidir.	Ji sąžinina ir darbšti, bet jos brolis visiškai priešingas.	bunların	0	0
+Herkesin önünde konuşmalar yapmaya alışık değilim.	Aš nesu pripratęs sakyti kalbą prieš visus.	önünde	0	0
+Ne kadar erken yatağa gidersem o kadar erken uyanırım.	Kuo ankščiau nueinu miegoti, tuo anksčiau keliuosi.	erken	0	0
+İçmek için sıcak bir şey istiyorum.	Noriu atsigerti kažko šilto.	sıcak	0	0
+O tehlikeli olabilir.	Tai gali būti pavojinga.	tehlikeli	0	0
+Ken, temmuz ayının sonunda Amerika Birleşik Devletleri'ne gidiyor.	Kenas liepos mėnesio gale vyksta į Jungtines Amerikos valstijas.	amerika	0	0
+Herkes aynı şekilde düşünüyor.	Visi taip pat mąsto.	düşünüyor	0	0
+Park Caddesine vardığında sağa dön.	Kai būsi Parko gatvėje pasuk į dešinę.	dön	0	0
+Tom daha çok bilgi kazanmalı.	Tomas turi įgyti daugiau žinių.	bilgi	0	0
+Tom'u geri getir.	Grąžink Tomui.	getir	0	0
+Buradayım.	Aš čia.	buradayım	0	0
+Tom Mary'nin ayakkabı ölçüsünü bilmiyor.	Tomas nežino Merės batų dydžio.	bilmiyor	0	0
+Anahtarlarımı masanın üstüne bıraktım. Onları bana getirir misin?	Palikau savo raktus ant stalo viršaus. Gal galėtum atnešti man juos?	üstüne	0	0
+Bir mesaj bıraktı.	Ji paliko žinutę.	mesaj	0	0
+Parkta birçok çocuk var.	Parke yra daug vaikų.	birçok	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nenoriu, kad mano šalis taptų Europos Sąjungos nare.	olmasını	0	0
+Seni yüzde yüz destekliyorum.	Palaikau tave šimtu procentų.	yüz	0	0
+Tom basit sorulara bile cevap veremedi.	Tomas negalėjo atsakyti net į paprastą klausimą.	basit	0	0
+O benim sahip olduğum kadar çok sayıda pula sahiptir.	Ji turi maždaug tiek pat pašto ženklų, kiek aš.	olduğum	0	0
+Köpek yemeğini yiyor.	Šuo valgo savo maistą.	köpek	0	0
+Sana yardım edeceğim, elbette.	Aš tau padėsiu, tikrai.	edeceğim	0	0
+Evi nasıl ısıtıyorsun?	Kaip šildaisi namus?	evi	0	0
+Bu, en sevdiğim şarkı!	Tai mano mėgstamiausia daina!	şarkı	0	0
+O annesine çok benziyor.	Jis labai panašus į savo mamą.	benziyor	0	0
+Tom'un böyle bir hata yaptığına inanamıyorum.	Aš negaliu patikėti, kad Tomas padarė tokią klaidą.	inanamıyorum	0	0
+Kızın artık bir çocuk değil.	Tavo dukra jau nebe vaikas.	kızın	0	0
+Son on yıldır hastalanmadım.	Nesusirgau per paskutinius dešimt metų.	yıldır	0	0
+Eğer fazla param olsaydı, kalemi alırdım.	Jei būčiau turėjusi daugiau pinigų, būčiau nusipirkusi parkerį.	olsaydı	0	0
+Bir sonraki sensin, Tom.	Tu sekantis, Tomai.	sonraki	0	0
+Tom kesinlikle bu konu hakkında benim bildiğimden daha fazla biliyor.	Tomas neabejotinai apie tai žino daugiau už mane.	konu	0	0
+İyi görünüyorsun.	Gerai atrodai.	görünüyorsun	0	0
+Özel lezzet neye benziyor?	Į ką panašus specialus skonis?	neye	0	0
+Dalga geçiyorsun!	Tu juokauji!	dalga	0	0
+En sevdiğiniz film nedir?	Koks jūsų mėgstamiausias filmas?	film	0	0
+Maria onun ne adını ne de telefon numarasını biliyordu.	Marija nežinojo nei jo vardo, nei telefono numerio.	adını	0	0
+İnsanlar dünyanın her yerinde yaşıyorlar.	Žmonės gyvena visose pasaulio vietose.	yerinde	0	0
+Bunu bilmiyordum.	Aš to nežinojau.	bilmiyordum	0	0
+Ne yapacaksın?	Ką darysi?	yapacaksın	0	0
+Partiye gidebilirsin, ancak gece yarısına kadar eve olmalısın.	Gali eiti į vakarėlį, bet turi būti namie iki vidurnakčio.	olmalısın	0	0
+Los Angeles, Amerika Birleşik Devletleri'ndeki ikinci en büyük kenttir.	Los Andželas yra antrasis pagal dydį miestas Jungtinėse Valstijose.	ikinci	0	0
+O, parti elbisesini denedi.	Ji pasimatavo vakarėlio suknelę.	parti	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	yedi	0	0
+Tom kızmaya başladı.	Tomas pradėjo pykti.	tom	0	0
+İnternet; hakkındaki her şeyi bilir.	Internetas apie tave viską žino.	bilir	0	0
+Bir fincan çay alabilir miyim?	Ar galėčiau gauti puodelį arbatos?	alabilir	0	0
+Sıfır birden önce gelir.	Nulis eina prieš vienetą.	birden	0	0
+Mutlu olmaya karar verdim çünkü sağlığım için iyi.	Nusprendžiau būti laimingas, nes tai gerai mano sveikatai.	olmaya	0	0
+Buradaki öğrencilerin çoğunluğu çalışkan.	Dauguma čia esančių studentų yra darbštūs.	buradaki	0	0
+Senin için akşam yemeği pişireyim mi?	Padaryti tau vakarienę?	yemeği	0	0
+Tuvaleti temiz tutun.	Palaikykite švarą tualete.	temiz	0	0
+Ne içki içerim ne de sigara içerim.	Aš nei geriu, nei rūkau.	içki	0	0
+Barış istiyorsan, savaşa hazır ol.	Jei nori taikos, būk pasiruošęs karui.	istiyorsan	0	0
+O senin için evde bekliyor.	Jis tavęs laukia namuose.	bekliyor	0	0
+Bahçeyi görüyor musun?	Matai sodą?	görüyor	0	0
+Bir dakika bekle. Sanırım onlarla gitmen gerekir.	Palauk minutę. Manau, kad tau reikia eiti su jais.	gerekir	0	0
+Müzik bile dinlemişler.	Jie netgi klausėsi muzikos.	müzik	0	0
+Uçak güvenli bir şekilde indi.	Lėktuvas saugiai nusileido.	güvenli	0	0
+İlkbaharı sonbahara tercih ederim.	Aš teikiu didesnę pirmenybę pavasariui negu rudeniui.	tercih	0	0
+Tom çoğu zaman yalnızdı.	Tomas dažniausiai buvo vienas.	çoğu	0	0
+O cesur ve dürüst.	Ji drąsi ir sąžininga.	dürüst	0	0
+Kaç numara ayakkabı giyiyorsun?	Kokio dydžio batus avi?	numara	0	0
+Restoranımıza hoş geldiniz!	Sveiki atvykę į mūsų restoraną.	geldiniz	0	0
+Bu hafta sonu bir şey yapmak ister misin?	Ar norėtum ką nors nuveikt šį savaitgalį?	sonu	0	0
+Elma kırmızı.	Obuolys yra raudonas.	kırmızı	0	0
+Seni tekrar canlı görmeyeceğimi düşünüyordum.	Galvojau, kad nebepamatysiu tavęs gyvo.	canlı	0	0
+Lütfen oda 213'ün önünde bekleyin.	Prašau palaukite priešais 213 kambarį.	oda	0	0
+Babamın arabası İtalya'da yapılmıştır.	Mano tėvo automobilis buvo pagamintas Italijoje.	babamın	0	0
+Dünden beri hava soğuk.	Nuo vakar oras šaltas.	soğuk	0	0
+Kahve sana enerji verir!	Kava tau duoda energijos!	verir	0	0
+Sen kimsin?	Kas tu?	kimsin	0	0
+Belli ki Tom'u seviyorsun ve belli ki o da seni seviyor.	Akivaizdu, kad tu myli Tomą, ir kad jis myli tave.	seviyor	0	0
+Tüm akrabalarım bu şehirde yaşıyor.	Visos mano giminės gyvena šiame mieste.	yaşıyor	0	0
+Bir dakika bekle. Sanırım onlarla gitmen gerekir.	Palauk minutę. Manau, kad tau reikia eiti su jais.	onlarla	0	0
+Biz onu evimize davet ettik.	Mes pakvietėm jį savo namus.	davet	0	0
+Büyükbabam benim doğumumdan kısa bir süre sonra ölmüş.	Mano senelis mirė netrukus po mano gimtadienio.	ölmüş	0	0
+O Allah'ın elinde.	Jis Dievo rankose.	elinde	0	0
+Irkın ya da yaşın ya da dinin umurumda değil.	Man nerūpi tavo rasė, amžius ar religija.	umurumda	0	0
+Tom geç kalmak istemiyor.	Tomas nenori vėluoti.	istemiyor	0	0
+Niçin burada çalışıyorsun?	Kodėl tu čia dirbi?	çalışıyorsun	0	0
+Tom'un çocukları yok.	Tomas neturi vaikų.	çocukları	0	0
+O benim fikrim değildi.	Tai nebuvo mano idėja.	fikrim	0	0
+Beş sene Japonca çalıştım.	Aš mokausi japonų kalbos penkerius metus.	sene	0	0
+Hastaneye gitmek zorundayım.	Aš turiu eiti į ligoninę.	zorundayım	0	0
+Daha önce asla güldüğünü görmedim.	Aš niekada prieš tai nemačiau tavęs besijuokiančio.	görmedim	0	0
+Tom geç kalmak istemiyor.	Tomas nenori vėluoti.	kalmak	0	0
+Yaşam için değil ama okul için öğreniriz.	Ne gyvenimui, bet mokyklai mokomės.	okul	0	0
+En sevdiğin şehir hangisidir?	Koks tavo mėgstamiausias miestas?	şehir	0	0
+Hoşuna gitsin ya da gitmesin, her durumda erken ayrılmak zorundasın.	Patinka tau ar ne, bet kokiu atveju tau reikia anksti išvykti.	gitsin	0	0
+Evimin yanında güzel bir park var.	Prie mano namų yra gražus parkas.	park	0	0
+Altıya kadar bekleyin.	Palaukite iki šešių.	bekleyin	0	0
+Evime gelmek için zahmet etmeyin.	Nepasivarginkite ateiti į mano namus.	gelmek	0	0
+Amnezi, "hafıza kaybı" anlamına gelir.	Amnezija reiškia "atminties praradimą".	anlamına	0	0
+Tom masanın altına saklandı.	Tomas pasislėpė po stalu.	altına	0	0
+Ben kendim burada bir yabancıyım.	Aš čia sau svetimas.	kendim	0	0
+Parayı istemedim.	Aš nenorėjau pinigų.	istemedim	0	0
+Şimdi hatırlıyorum.	Dabar aš prisiminiau.	hatırlıyorum	0	0
+Çok meşgul değilsen bana bir dakika yardım edebilir misin?	Jei nesi labai užsiėmęs, gal galėtum man vieną minutę padėti?	edebilir	0	0
+Tom genellikle çok parlak olmasa bile güneş gözlüğü takıyor.	Tomas dažniausiai dėvi akinius nuo saulės, netgi jei ir Saulė nešviečia labai ryškiai.	güneş	0	0
+Şimdiye kadar neredeydin?	Kur tu buvai iki šiol?	şimdiye	0	0
+Sana yardım edeyim. Çantan ağır gözüküyor.	Leisk tau padėti. Tavo rankinė atrodo sunki.	ağır	0	0
+Bu iş yarım saat içinde bitirilebilir.	Šis darbas gali būti baigtas per pusę valandos.	yarım	0	0
+Öğretmen Tom'un sık sık derse gelmemesinden endişe duyuyordu.	Mokytojas nerimavo dėl dažno Tomo nebuvimo pamokose.	sık	0	0
+Seni tekrar canlı görmeyeceğimi düşünüyordum.	Galvojau, kad nebepamatysiu tavęs gyvo.	düşünüyordum	0	0
+Henry James, Amerika doğumluydu.	Henris Džeimsas nuo gimimo yra amerikietis.	henry	0	0
+Onu partiye gitmeye ikna ettim.	Įtikinau ją eiti į vakarėlį.	ikna	0	0
+Gurur duymadığım şeyler yaptım.	Aš esu padaręs dalykų, kuriais nesididžiuoju.	gurur	0	0
+O çok sıkı çalışan bir öğrencidir.	Ji labai daršbti mokinė.	sıkı	0	0
+Fransızca ev ödevimi yapmayı az önce bitirdim.	Ką tik pabaigiau daryti prancūzų kalbos namų darbus.	yapmayı	0	0
+İşi yapmanıza yardım edeyim.	Leiskit jums padėti padaryti jūsų darbą.	edeyim	0	0
+Boston'a geçen ay gittim.	Praėjusį mėnesį vykau į Bostoną.	gittim	0	0
+Hepiniz çalışkansınız.	Jūs visi darbštūs.	hepiniz	0	0
+O köpeği serbest bırakmayın.	Nepaleiskite to šuns.	serbest	0	0
+Philip ve Sheila geç kaldı. Ben de geç kaldım mı?	Filipas ir Šeila pavėlavo. Aš ir pavėlavau?	kaldım	0	0
+Senin en sevdiğin kitap hangisidir?	Kokia tavo mėgstamiausia knyga?	kitap	0	0
+Bu kelime hâlâ kullanılıyor.	Šis žodis yra vis dar naudojamas.	kelime	0	0
+Dünyada bazı insanlar açlıktan muzdariptir.	Kai kurie žmonės pasaulyje kenčia badą.	dünyada	0	0
+Tom Mary'ye iyi bir fotoğraf makinesi satın aldı.	Tomas Marijai nupirko gerą fotoaparatą.	satın	0	0
+Herkes senin zengin olduğunu biliyor.	Visi žino, kad tu turtingas.	zengin	0	0
+Bira göbeğim var.	Aš turiu alaus pilvą.	bira	0	0
+Onun çok ilginç bir kitabı var.	Ji turi įdomią knygą.	ilginç	0	0
+O, sekiz yıl önce öldü.	Ji mirė prieš aštuonerius metus.	sekiz	0	0
+Henry James, Amerika doğumluydu.	Henris Džeimsas nuo gimimo yra amerikietis.	james	0	0
+Erkek arkadaşından almış olduğu hediyeyi bana gösterdi.	Ji parodė man dovaną, gautą iš mylimojo.	almış	0	0
+Tom, özel hayatı hakkında konuşmak istemiyor.	Tomas nenori kalbėti apie savo asmeninį gyvenimą.	hayatı	0	0
+Tom başkasına borçlu olmayı sevmez.	Tomas nemėgsta būti kažkam skolingas.	olmayı	0	0
+Bu aptalca bir fikir değildi.	Tai nebuvo kvaila idėja.	aptalca	0	0
+Babamın altın bir kalbi var.	Mano tėvas turi auksinę širdį.	altın	0	0
+O çok sıkı çalışan bir öğrencidir.	Jis labai darbštus mokinys.	çalışan	0	0
+Tom çok mantıklı bir kişidir.	Tomas labai protingas žmogus.	mantıklı	0	0
+Avukatlarımla konuş.	Pakalbėk su mano advokatais.	konuş	0	0
+Niçin onu söylemiyorsun?	Kodėl to nesakai?	niçin	0	0
+Yarın Boston'a gideceğim.	Rytoj vyksiu į Bostoną.	gideceğim	0	0
+Okula zamanında vardım.	Buvau mokykloje laiku.	okula	0	0
+Yaşam için değil ama okul için öğreniriz.	Ne gyvenimui, bet mokyklai mokomės.	yaşam	0	0
+Mary Boston' u özlüyor.	Merė ilgisi Bostono.	mary	0	0
+Yardım etmek için bir şey yapabilir miyim?	Ar galiu padaryti ką nors, kad padėčiau?	yapabilir	0	0
+Tom yalın ayak yürümeye alışık değildir.	Tomas nepripratęs vaikščioti basomis kojomis.	ayak	0	0
+Tatilde hiçbir şey yapmadım.	Per atostogas nieko nepadariau.	yapmadım	0	0
+Teslimat için bir ücret alıyor musunuz?	Ar man reikės mokėti už pristatymą?	alıyor	0	0
+Onlar hiç kimseyi görmediklerini söylediler.	Jie sakė, kad nieko nematė.	kimseyi	0	0
+Babam nadiren sigara içer.	Mano tėvas rūko retai.	sigara	0	0
+Tom yaşamak için bir yer buldu.	Tomas rado vietą gyvenimui.	yaşamak	0	0
+Hediye için teşekkürler.	Ačiū už dovaną.	hediye	0	0
+Babasının sağlığı için endişe duyuyor.	Ji nerimauja dėl tėvo sveikatos.	duyuyor	0	0
+Ayakkabımın teki kirli.	Vienas iš mano batų yra purvinas.	teki	0	0
+Mum ışığını severim.	Man patinka žvakės šviesa.	severim	0	0
+Ben sizin sağlığınız için endişe duyuyorum.	Aš nerimauju dėl jūsų sveikatos.	duyuyorum	0	0
+Tom derse geç kalacak.	Tomas pavėluos į pamoką.	kalacak	0	0
+Tom mikrodalgada bir parça dünkü pizzadan ısıtıyor.	Tomas mikrobangėje šildosi gabalą vakarykštės picos.	parça	0	0
+Eurovision'un en kötü şarkısı birinci, en iyi şarkısı sondan ikinci oldu. Ne saçmalık!	Eurovizijos blogiausia daina pirma, o pati geriausia liko antra nuo galo. Kokia nesąmonė!	saçmalık	0	0
+Parkta birçok genç çift bulunuyordu.	Parke buvo daug jaunų porelių.	çift	0	0
+Durum kontrol dışı görünüyordu.	Situacija atrodė nekontroliuojama.	dışı	0	0
+Bu kadını nerede gördün?	Kur tu matei šią moterį?	kadını	0	0
+Çorba son derece sıcak.	Sriuba nepaprastai karšta.	derece	0	0
+Edvardas Robertas'tan daha genç.	Edvardas yra jaunesnis už Robertą.	tan	0	0
+Tüm erkekler çalışkandır.	Visi vaikinai yra darbštūs.	erkekler	0	0
+Hoşuna gitsin ya da gitmesin, her durumda erken ayrılmak zorundasın.	Patinka tau ar ne, bet kokiu atveju tau reikia anksti išvykti.	zorundasın	0	0
+Keşke daha zeki olsaydım.	Jeigu tik būčiau buvus protingesnė.	zeki	0	0
+Beş sene Japonca çalıştım.	Aš mokausi japonų kalbos penkerius metus.	çalıştım	0	0
+Veda etmeden gitme.	Neišeik neatsisveikinęs.	gitme	0	0
+Ona cevap verme.	Neatsakyk jam.	verme	0	0
+Özür dilerim, kim arıyor?	Atsiprašau, kas skambina?	arıyor	0	0
+Baca gibi sigara içer, balık gibi içki içer.	Jis rūko kaip kaminas ir geria kaip žuvis.	balık	0	0
+Anahtarlarım yanımda yoktu.	Neturėjau savo raktų kartu su savimi.	yanımda	0	0
+Yaz tatilin nasıl gidiyor?	Kaip tavo vasaros atostogos?	yaz	0	0
+Kitabı kapat.	Užversk knygą.	kapat	0	0
+Karım kanserden öldü.	Mano žmona mirė nuo vėžio.	karım	0	0
+Senin en sevdiğin grup hangisidir?	Kokia tavo mėgstamiausia grupė?	grup	0	0
+Tom hemen hemen her türlü aracı sürebilir.	Tomas gali vairuoti beveik kiekvienos rūšies transporto priemonę.	türlü	0	0
+Durumla başa çıkmak benim için zor.	Man sunku susitvarkyti su padėtimi.	çıkmak	0	0
+O iyidir. Onu denemelisin.	Tai yra gerai. Tu turi tai pabandyti.	iyidir	0	0
+Hoşuna gitsin ya da gitmesin, her durumda erken ayrılmak zorundasın.	Patinka tau ar ne, bet kokiu atveju tau reikia anksti išvykti.	hoşuna	0	0
+Kimse gelmedi!	Niekas neatėjo!	gelmedi	0	0
+Biz şimdi onun nerede olduğu hakkında endişe ediyoruz.	Mes nerimaujame, kur jis dabar yra.	ediyoruz	0	0
+Anlamadım.	Nesupratau.	anlamadım	0	0
+Senin en sevdiğin ders hangisidir?	Kokia mėgstamiausia tavo pamoka?	ders	0	0
+Onlar gelmiyor.	Jie neateina.	gelmiyor	0	0
+Şanslı değildik.	Mums nesisekė.	şanslı	0	0
+Ya çık, ya gir.	Arba išeik, arba įeik.	gir	0	0
+İster gitsin ister kalsın umurumda değil.	Nori jis gali išeiti, nori tegu pasilieka, man nerūpi.	kalsın	0	0
+Köpeğe yiyecek vermeyin.	Nešerkite šuns.	yiyecek	0	0
+Bu kez amacım Paris.	Šį kartą mano tikslas yra Paryžius.	paris	0	0
+Bob arkadaşına şikâyet etti.	Bobas skundėsi savo draugui.	bob	0	0
+Bill sigarayı bıraktı.	Bill metė rūkyti.	bill	0	0
+Eurovision'un en kötü şarkısı birinci, en iyi şarkısı sondan ikinci oldu. Ne saçmalık!	Eurovizijos blogiausia daina pirma, o pati geriausia liko antra nuo galo. Kokia nesąmonė!	birinci	0	0
+Oğlun, neredeyse senin babanın bir kopyası.	Tavo sūnus yra beveik tavo tėvo kopija.	babanın	0	0
+Fransızca öğrenmeye henüz başladım, bu yüzden henüz çok iyi değilim.	Aš tik visai neseniai pradėjau mokytis prancūzų kalbos, todėl jos dar nemoku gerai.	başladım	0	0
+Sorunu kolaylıkla çözebildi.	Ji lengvai galėjo išspręsti problemą.	sorunu	0	0
+"Gerçekten nasıl hissettiğini biliyorum." " Hayır, bilmiyorsun!"	"- Aš tikrai žinau, kaip tu jautiesi." "- Ne, tu nežinai!"	bilmiyorsun	0	0
+Tom ve ben o zaman ikimiz de meşguldük.	Tada Tomas ir aš abu buvome užsiėmę.	ikimiz	0	0
+Bir fincan çay alabilir miyim?	Ar galėčiau gauti puodelį arbatos?	çay	0	0
+Şimdi tiyatroya gitmeliyim.	Dabar turiu eiti į teatrą.	gitmeliyim	0	0
+Boston'u ziyaret etti.	Jis aplankė Bostoną.	ziyaret	0	0
+Perdenin arkasında kim saklanıyor?	Kas slepiasi už užuolaidos?	arkasında	0	0
+Ne zaman inşa edildi?	Kada jis buvo pastatytas?	edildi	0	0
+Mark kitabı aldı.	Markas paėmė knygą.	mark	0	0
+Ne istersin?	Ko norėtum?	istersin	0	0
+Bu benim en sevdiğim şarkı.	Čia mano mėgstamiausia daina.	sevdiğim	0	0
+Bir kişiyi bekliyorum.	Laukiu vieno žmogaus.	bekliyorum	0	0
+Tom'a söylemem gerekiyor.	Man reikia pasakyti Tomui.	söylemem	0	0
+Bunu yapabilirsin.	Tu gali tai padaryti.	yapabilirsin	0	0
+Adam akıllı ve çalışkan.	Vyras yra protingas ir darbštus.	akıllı	0	0
+Ünlü olmak istiyorlar.	Jie nori būti įžymūs.	istiyorlar	0	0
+Sonuçta çalışkan kişi başarır.	Galiausiai darbščiam žmogui pavyksta.	sonuçta	0	0
+Tom yaşamak için bir yer buldu.	Tomas rado vietą gyvenimui.	buldu	0	0
+Evimin iki yatak odası var.	Mano namuose yra du miegamieji.	yatak	0	0
+Ne kadar daha şarap almalıyım?	Kiek dar vyno dar turiu nupirkti?	şarap	0	0
+Sana para borçlu muyum?	Ar aš tau skolinga pinigų?	muyum	0	0
+Dürüst değildim.	Aš nebuvau sąžiningas.	değildim	0	0
+Kaça mal oldu?	Kiek kainavo?	mal	0	0
+Tom ve Mary otuz yıldır evli.	Tomas ir Marija susituokę trisdešimt metų.	evli	0	0
+Bagajımı kaybettim.	Aš pamečiau savo bagažą.	kaybettim	0	0
+Sonunda, bilgi aldık.	Pagaliau gavome informaciją.	aldık	0	0
+Tom da kayak sever.	Tomas taip pat mėgsta slidinėti.	sever	0	0
+O, hem İngilizce hem Fransızca konuşabilir.	Jis gali kalbėti ir angliškai, ir prancūziškai.	konuşabilir	0	0
+O bir bilim adamıdır.	Jis mokslininkas.	bilim	0	0
+Bir aydan kısa bir süredir Çin'de bulunuyorum.	Aš buvau Kinijoje trumpiau nei vieną mėnesį.	süredir	0	0
+Böyle bir şey için endişe etmeyin.	Nesirūpinkite dėl tokio dalyko.	etmeyin	0	0
+Biz onu evimize davet ettik.	Mes pakvietėm jį savo namus.	ettik	0	0
+Onlar hiç kimseyi görmediklerini söylediler.	Jie sakė, kad nieko nematė.	söylediler	0	0
+Kimin bisikletini ödünç almak istedin?	Kieno dviratį nori paskolinti?	istedin	0	0
+O hem Fransızca hem de İngilizce konuşuyor.	Ji kalba ir prancūziškai, ir taip pat angliškai.	konuşuyor	0	0
+Buz kadar soğuk.	Šaltas kaip ledas.	buz	0	0
+Okula zamanında vardım.	Buvau mokykloje laiku.	zamanında	0	0
+Dün ilk kez Tom'la Fransızca konuştum.	Vakar pirmą kartą kalbėjau su Tomu prancūziškai.	konuştum	0	0
+Yabancı İskoçya'dan geliyor.	Atvyksta užsienietis iš Škotijos.	yabancı	0	0
+O, şarkı söylemeye başladı.	Ji pradėjo dainuoti.	söylemeye	0	0
+Arkadaşımdan bir mektup aldım.	Gavau laišką iš savo draugo.	mektup	0	0
+Tom Mary'ye iyi bir fotoğraf makinesi satın aldı.	Tomas Marijai nupirko gerą fotoaparatą.	fotoğraf	0	0
+Ünlü olmak istiyorlar.	Jie nori būti įžymūs.	ünlü	0	0
+O gerçekten son zamandan beri çok değişti.	Ji tikrai labai pasikeitė nuo paskutinio karto.	zamandan	0	0
+Çin büyük bir ülkedir.	Kinija yra didelė šalis.	çin	0	0
+Henüz ölmek istemiyorum.	Dar nenoriu mirti.	ölmek	0	0
+Durumla başa çıkmak benim için zor.	Man sunku susitvarkyti su padėtimi.	başa	0	0
+Kız kardeşin tüm arkadaşlarımın en çalışkanıdır.	Tavo sesuo yra darbščiausia iš visų mano draugų.	kardeşin	0	0
+Hastaneye gitmek zorundayım.	Aš turiu eiti į ligoninę.	hastaneye	0	0
+Annem kızgın olmalı.	Mano mama turi būti pikta.	kızgın	0	0
+Öğle yemeği yiyorum.	Valgau pietus.	öğle	0	0
+O hem çekici hem de çalışkandır.	Jis ir patrauklus, ir darbštus.	çekici	0	0
+Senin kitabını arabada bıraktım.	Aš palikau tavo knygą mašinoje.	bıraktım	0	0
+İşin öğlenden önce bitmesi gerekiyor.	Darbas turi būti pabaigtas prieš pietus.	İşin	0	0
+Yarın yağmur yağarsa, evde kalacağım.	Jei rytoj lis, pasiliksiu namie.	yağmur	0	0
+Koş ve saklan.	Bėk ir slėpkis.	koş	0	0
+Tom'un başı ağrıyor.	Tomui skauda galvą.	başı	0	0
+Bir mesaj bıraktı.	Ji paliko žinutę.	bıraktı	0	0
+Çok meşgul değilsen bana bir dakika yardım edebilir misin?	Jei nesi labai užsiėmęs, gal galėtum man vieną minutę padėti?	meşgul	0	0
+O kendini daha uzun göstermek için yüksek topuklu ayakkabılar giyiyor.	Ji avi aukštakulnius, kad atrodytų aukštesnė.	göstermek	0	0
+Ne yaptığımı biliyordum.	Žinojau, ką dariau.	yaptığımı	0	0
+İster inanın ister inanmayın, ben aslında resim çizebilirim.	Norite tikėkite, norite netikėkite, bet aš tikrai galiu piešti.	resim	0	0
+İnsanların yüzde kaçı üç dil konuşur?	Kiek procentų žmonių kalba trijomis kalbomis?	İnsanların	0	0
+Onlar benim sınıf arkadaşlarım.	Jie yra mano bendraklasiai.	sınıf	0	0
+Bill bana bu kitabı getirdi.	Bilas atnešė man knygą.	getirdi	0	0
+Bana biraz soğuk su getirin.	Atneškite man truputį šalto vandens.	getirin	0	0
+Onsuz yaşamayı öğrendim.	Aš išmokau gyventi be jos.	öğrendim	0	0
+Portakal suyu içiyorum.	Geriu apelsinų sultis.	suyu	0	0
+Benim en sevdiğim spor futboldur.	Mano mėgstamiausias sportas yra futbolas.	spor	0	0
+İstediğiniz yere oturun.	Sėskites į jūsų norimą vietą.	oturun	0	0
+Ben de mutluyum.	Aš irgi laiminga.	mutluyum	0	0
+Oturma odasına git.	Eik į svetainę.	odasına	0	0
+Para ve ben birbirimize yabancıyız, yani, ben fakirim.	Pinigai ir aš esame vienas kitam svetimi. Kitaip sakant, aš vargšas.	birbirimize	0	0
+Maria onun ne adını ne de telefon numarasını biliyordu.	Marija nežinojo nei jo vardo, nei telefono numerio.	biliyordu	0	0
+Her gün domuz gibi yersen elbette çok kilo alırsın.	Jei kiekvieną dieną kaip kiaulė ėsi, tikrai daug kilogramų priaugsi.	domuz	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	dokuz	0	0
+"Bir otel odası rezervasyonu yaptınız mı?" "Henüz değil, üzgünüm."	"- Ar rezervavote kambarį viešbutyje?" "- Dar ne, atsiprašau"	odası	0	0
+Bir kişiyi bekliyorum.	Laukiu vieno žmogaus.	kişiyi	0	0
+Tüm polisler cesur değildir.	Ne visi policininkai yra drąsūs.	polisler	0	0
+Uçak güvenli bir şekilde indi.	Lėktuvas saugiai nusileido.	uçak	0	0
+En sevdiğiniz kuş nedir?	Koks jūsų mėgstamiausias paukštis?	kuş	0	0
+Dalga geçiyorsun!	Tu juokauji!	geçiyorsun	0	0
+İstediğin kadar konuşabilirsin.	Gali kalbėti tiek, kiek nori.	İstediğin	0	0
+Onu yapmamız gerektiğini sanmıyorum.	Aš nemanau, kad mums reikia tai daryti.	yapmamız	0	0
+Kedi masanın altında.	Katė yra po stalu.	kedi	0	0
+Sensiz bir hayat hayal edemem.	Negaliu įsivaizduoti gyvenimo be tavęs.	edemem	0	0
+Bana ilaç gerekiyor. Eczane nerede?	Man reikia vaistų. Kur yra vaistinė?	ilaç	0	0
+Tuvaleti temiz tutun.	Palaikykite švarą tualete.	tutun	0	0
+Eğer "Seni seviyorum" dersen, ben de aynısını sana söylerim.	Jei pasakytum "Aš tave myliu", aš irgi tą patį tau pasakyčiau.	söylerim	0	0
+Onun buraya ne zaman geleceğini bilmiyorum.	Nežinau, kada jis čia ateis.	geleceğini	0	0
+Kiminle konuşuyordun?	Su kuo kalbėjai?	kiminle	0	0
+Pazar, insanların kiliseye gittiği gündür.	Sekmadienis yra diena, kai žmonės eina į bažnyčią.	pazar	0	0
+Babanla görüşmek istiyorum.	Noriu susitikti su tavo tėvu.	görüşmek	0	0
+O dürüst ve çalışkandır ama erkek kardeşi bunların tam aksidir.	Ji sąžinina ir darbšti, bet jos brolis visiškai priešingas.	kardeşi	0	0
+Mark kitabı götürdü.	Tomas nunešė knygą.	kitabı	0	0
+Mary cesur bir kız.	Merė drąsi mergina.	cesur	0	0
+Sana izin veremem.	Aš tau negaliu leisti.	veremem	0	0
+Kahve sana enerji verir!	Kava tau duoda energijos!	enerji	0	0
+En sevdiğiniz hangisi?	Kuris yra jūsų mėgstamiausias?	hangisi	0	0
+Amerika Birleşik Devletleri savaşın dışında kalmayı umut ediyordu.	JAV tikėjo likti už karo ribų.	umut	0	0
+Onu kimin söylediğini unuttum.	Pamiršau, kas tai pasakė.	unuttum	0	0
+Lütfen oda 213'ün önünde bekleyin.	Prašau palaukite priešais 213 kambarį.	ün	0	0
+Bütün dünyada barış vardı.	Visame pasaulyje buvo taika.	barış	0	0
+Şimdi ne kadar çok yaparsan, yarın o kadar az yaparsın.	Kuo daugiau padarysi dabar, tuo mažiau darysi rytoj.	yaparsın	0	0
+Yarın hava tahminine göre kar yağacak.	Pagal orų prognozę rytoj snigs.	kar	0	0
+Onun söylediği her şey doğruydu.	Vskas, ką jis sakė, buvo tiesa.	söylediği	0	0
+Los Angeles, Amerika Birleşik Devletleri'ndeki ikinci en büyük kenttir.	Los Andželas yra antrasis pagal dydį miestas Jungtinėse Valstijose.	los	0	0
+Seninle konuşmam gerekiyor.	Man reikia su tavim pasikalbėti.	konuşmam	0	0
+Bir bebek gibi uyuyor.	Miega kaip kūdikis.	uyuyor	0	0
+Ben durdum ve onlara baktım.	Aš sustojau ir žiūrėjau į juos.	baktım	0	0
+O nedenle toplantıya katılmadı.	Dėl to jis nedalyvavo susitikime.	nedenle	0	0
+Senin kitabını arabada bıraktım.	Aš palikau tavo knygą mašinoje.	arabada	0	0
+Paris'te kaç tane otel var?	Kiek viešbučių yra Paryžiuje?	otel	0	0
+Yarım tavuk ister misin?	Ar norėtum pusės vištos?	tavuk	0	0
+Her zaman parlak renkli kravat takıyorsun.	Tu visą laiką dėvi ryškiaspalvį kaklaraištį.	parlak	0	0
+Mona Lisa kimdi?	Kas buvo Mona Liza?	lisa	0	0
+Son on yılda fiyatlar yüzde elli arttı.	Per paskutinius dešimt metų kainos pakilo penkiasdešimt procentų.	yüzde	0	0
+Güzel bir kadından üç gün sonra usanırsın. Çirkin bir kadına üç gün sonra alışırsın.	Graži moteris po trejų dienų atsibosta. Prie negražios moters po trejų dienų pripranti.	çirkin	0	0
+Her gün domuz gibi yersen elbette çok kilo alırsın.	Jei kiekvieną dieną kaip kiaulė ėsi, tikrai daug kilogramų priaugsi.	kilo	0	0
+Bisikletime dokunma.	Neliesk mano dviračio.	dokunma	0	0
+Keşke zengin olsaydım.	O, kad būčiau turtingas.	olsaydım	0	0
+Tom dışarıda çalışmaya alışıktır.	Tomas yra pripratęs dirbti lauke.	çalışmaya	0	0
+Dün TV izlemek için zamanım yoktu.	Vakar neturėjau laiko žiūrėti televizorių.	tv	0	0
+Tom'un saat onda burada olması gerekiyor.	Tomas turėtų būti čia dešimtą valandą.	onda	0	0
+Boston'da kalma.	Nepasilik Bostone.	kalma	0	0
+Tüm akrabalarım bu şehirde yaşıyor.	Visos mano giminės gyvena šiame mieste.	şehirde	0	0
+O gerçekten son zamandan beri çok değişti.	Jis tikrai labai pasikeitė nuo paskutinio karto.	değişti	0	0
+Eğer fazla param olsaydı, kalemi alırdım.	Jei būčiau turėjęs daugiau pinigų, būčiau nusipirkęs parkerį.	param	0	0
+Onu biz inşa etmedik.	Mes to nestatėme.	inşa	0	0
+Ben yalancı değilim.	Aš ne melagė.	yalancı	0	0
+Tom hemen hemen her Cumartesi buraya gelir.	Tomas beveik kiekvieną šeštadienį čia ateina.	cumartesi	0	0
+Kısa saç stilini severim.	Man patinka trumpų plaukų šukuosenos.	saç	0	0
+Genel olarak, Japonlar çalışkandır.	Apskritai, japonai yra darbštūs.	genel	0	0
+Onu kimin söylediğini unuttum.	Pamiršau, kas tai pasakė.	söylediğini	0	0
+Los Angeles, Amerika Birleşik Devletleri'ndeki ikinci en büyük kenttir.	Los Andželas yra antrasis pagal dydį miestas Jungtinėse Valstijose.	angeles	0	0
+Hala bu tür hikayelere inanıyor musun?	Tu vis dar tiki tokiomis istorijomis?	inanıyor	0	0
+Evime gelmek için zahmet etmeyin.	Nepasivarginkite ateiti į mano namus.	evime	0	0
+Domatesin tadını sevmiyorum.	Man nepatinka pomidorų skonis.	tadını	0	0
+Duş almam gerekiyor.	Man reikia nusiprausti po dušu.	almam	0	0
+Mona Lisa kimdi?	Kas buvo Mona Liza?	kimdi	0	0
+Mutlu olmalıyım.	Aš turėčiau būti laimingas.	olmalıyım	0	0
+O, yurtdışına gitmeye karar verdi.	Jis nusprendė važiuoti į užsienį.	gitmeye	0	0
+Onu aramaya cesaretin var mı?	Tu turi drąsos jai paskambinti?	aramaya	0	0
+Şu anda bir şey söyleyemem.	Dabar nieko negaliu pasakyti.	söyleyemem	0	0
+Askerler tehlikeye alışıktırlar.	Kariai pripratę prie pavojaus.	tehlikeye	0	0
+Yarın yağmur yağarsa, evde kalacağım.	Jei rytoj lis, pasiliksiu namie.	kalacağım	0	0
+Dün hem güçlü rüzgarlar vardı hem de yoğun yağmur yağdı.	Vakar ir smarkiai vėjas pūtė, ir taip pat smarkiai lietus lijo.	yoğun	0	0
+Dürüst oluyorum.	Aš esu sąžiningas.	oluyorum	0	0
+O yarın futbol oynayacak.	Ji rytoj žais futbolą.	futbol	0	0
+Brezilya büyük bir ülke.	Brazilija yra didelė šalis.	ülke	0	0
+Bu elbette son tren değil, öyle değil mi?	Tai tikrai ne paskutinis traukinys, ar ne?	tren	0	0
+Siz insanlar ne düşünüyorsunuz?	Ką jūs galvojate, žmonės?	düşünüyorsunuz	0	0
+Tom'un bir planı vardı.	Tomas turi planą.	planı	0	0
+Seninle kahvaltı yemek istiyorum.	Norėčiau su tavimi papusryčiauti.	kahvaltı	0	0
+Bu yüzden mi geç kaldın?	Dėl to pavėlavai?	kaldın	0	0
+Güzel bir kadından üç gün sonra usanırsın. Çirkin bir kadına üç gün sonra alışırsın.	Graži moteris po trejų dienų atsibosta. Prie negražios moters po trejų dienų pripranti.	kadına	0	0
+Ben tarihi yarın geceye değiştirmek istiyorum.	Aš noriu pakeisti datą į rytojaus naktį.	tarihi	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nenoriu, kad mano šalis taptų Europos Sąjungos nare.	avrupa	0	0
+İnternet; hakkındaki her şeyi bilir.	Internetas apie tave viską žino.	hakkındaki	0	0
+Onun örneğini takip etmeliyiz.	Mes turime sekti jo pavyzdžiu.	etmeliyiz	0	0
+Ne kadar erken yatağa gidersem o kadar erken uyanırım.	Kuo ankščiau nueinu miegoti, tuo anksčiau keliuosi.	yatağa	0	0
+"Bir otel odası rezervasyonu yaptınız mı?" "Henüz değil, üzgünüm."	"- Ar rezervavote kambarį viešbutyje?" "- Dar ne, atsiprašau"	yaptınız	0	0
+Babasının sağlığı için endişe duyuyor.	Jis nerimauja dėl tėvo sveikatos.	endişe	0	0
+Son on yılda fiyatlar yüzde elli arttı.	Per paskutinius dešimt metų kainos pakilo penkiasdešimt procentų.	yılda	0	0
+Tom'un paraya ihtiyacı var.	Tomui reikia pinigų.	paraya	0	0
+Hiromi yeni bir elbise giyiyor.	Hiromi vilki naują suknelę.	elbise	0	0
+Pahalı bir gerdanlık takıyor.	Ji nešioja brangų vėrinį.	pahalı	0	0
+Fikrini değiştirirsen, bize bildir.	Jei persigalvosi, pranešk mums.	fikrini	0	0
+Ben İtalyanım ama Tayland'ta yaşıyorum.	Aš italas, bet gyvenu Tailande.	yaşıyorum	0	0
+Elmayı ona verdik.	Mes davėme jam obuolį.	verdik	0	0
+Siz kimsiniz?	Kas jūs tokie?	kimsiniz	0	0
+Sabahları genellikle kahve içerim, akşamları çay içerim.	Rytais paprastai geriu kavą, o vakarais arbatą.	genellikle	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nenoriu, kad mano šalis taptų Europos Sąjungos nare.	üyesi	0	0
+Tom genellikle çok parlak olmasa bile güneş gözlüğü takıyor.	Tomas dažniausiai dėvi akinius nuo saulės, netgi jei ir Saulė nešviečia labai ryškiai.	olmasa	0	0
+Tom'u hastanede ziyarete gitmelisiniz.	Mes turime eiti aplankyti Tomą ligoninėje.	hastanede	0	0
+Her yolu denedim.	Išbandžiau visus būdus.	denedim	0	0
+John cebinden bir anahtar çıkardı.	Džonas išsitraukė raktą iš savo kišenės.	anahtar	0	0
+Kimin bisikletini ödünç almak istedin?	Kieno dviratį nori paskolinti?	ödünç	0	0
+Akşam yemeğinde bir şişe bira içer.	Per vakarienę jis išgeria butelį alaus.	şişe	0	0
+Üç çocuğum var.	Aš turiu tris vaikus.	çocuğum	0	0
+Maria onun ne adını ne de telefon numarasını biliyordu.	Marija nežinojo nei jos vardo, nei telefono numerio.	maria	0	0
+O küçük bir çocukken yaramazdı.	Jis buvo neklaužada, kai buvo vaikas.	çocukken	0	0
+Veda etmek istiyorum.	Noriu atsisveikinti.	veda	0	0
+Sana yardım edeyim. Çantan ağır gözüküyor.	Leisk tau padėti. Tavo rankinė atrodo sunki.	gözüküyor	0	0
+Babamın arabası İtalya'da yapılmıştır.	Mano tėvo mašina buvo pagaminta Italijoje.	arabası	0	0
+Bebek ayakta durabilir ama yürüyemez.	Kūdikis gali stovėti, bet negali vaikščioti.	ayakta	0	0
+Kağıt torbaları tekrar tekrar kullanmalısın.	Tu turi naudoti popierinius maišelius dar ir dar kartą.	kağıt	0	0
+Onu ya sen ya da ben ziyaret etmeliyim.	Arba tu, arba aš turime ją aplankyti.	etmeliyim	0	0
+O sadece harikaydı.	Tai buvo tiesiog nuostabu.	harikaydı	0	0
+Dün TV izlemek için zamanım yoktu.	Vakar neturėjau laiko žiūrėti televizorių.	izlemek	0	0
+O, çalışkan bir öğrenci mi?	Ji darbšti studentė?	öğrenci	0	0
+Saf değilim.	Aš ne naivi.	saf	0	0
+İşi yapmanıza yardım edeyim.	Leiskit jums padėti padaryti jūsų darbą.	İşi	0	0
+İnek bize süt sağlamaktadır.	Karvė aprūpina mus pienu.	süt	0	0
+Bu, riske değmez.	Tai neverta rizikos.	riske	0	0
+Babasının sağlığı için endişe duyuyor.	Jis nerimauja dėl tėvo sveikatos.	babasının	0	0
+Amerika Birleşik Devletleri savaşın dışında kalmayı umut ediyordu.	JAV tikėjo likti už karo ribų.	ediyordu	0	0
+Üç ay birlikte seyahat ettik.	Tris mėnesius kartu keliavome.	seyahat	0	0
+O, elbette İngilizce konuşabilir.	Jis tikrai gali kalbėti angliškai.	İngilizce	0	0
+Tom ve Mary hâlâ ofislerindeler. İkisi de bugün geç vakte kadar çalışmayı planlıyorlar.	Tomas ir Merė vis dar biure. Šiandien jie abu planuoja dirbti iki vėlumos.	İkisi	0	0
+Kaleyi kızıl derililere terk etti.	Jie paliko fortą indėnams.	kızıl	0	0
+Evim büyüktür.	Mano namas didelis.	evim	0	0
+Onun odaya girdiğini gördüm.	Mačiau ją įeinančią į kambarį.	odaya	0	0
+Dün TV izlemek için zamanım yoktu.	Vakar neturėjau laiko žiūrėti televizorių.	zamanım	0	0
+Bu bölümü severim.	Aš mėgstu šitą dalį.	bölümü	0	0
+Ondan henüz haberim yok.	Iš jos dar nėra žinių.	haberim	0	0
+Bahçedeki tüm çiçekler sarı.	Visos sodo gėlės yra geltonos.	sarı	0	0
+Yedinci sınıftayken okulu bıraktım.	Būdamas septintoje klasėje mečiau mokyklą.	okulu	0	0
+Belli ki Tom'u seviyorsun ve belli ki o da seni seviyor.	Akivaizdu, kad tu myli Tomą, ir kad jis myli tave.	seviyorsun	0	0
+Babamın altın bir kalbi var.	Mano tėvas turi auksinę širdį.	kalbi	0	0
+Bu telefon bozuk.	Šis telefonas neveikia.	bozuk	0	0
+Bardak kirli.	Stiklinė yra purvina.	bardak	0	0
+Ev ödevinden bıktım.	Aš pavargau nuo namų darbų.	bıktım	0	0
+Tom'a söylemeliyim.	Aš turiu pasakyti Tomui.	söylemeliyim	0	0
+Onlar benim sınıf arkadaşlarım.	Jie yra mano bendraklasiai.	arkadaşlarım	0	0
+Haberleri dinlemek için radyoyu açtım.	Įjungiau radiją, kad paklausyčiau naujienų.	dinlemek	0	0
+En sevdiğin şehir hangisidir?	Koks tavo mėgstamiausias miestas?	sevdiğin	0	0
+Haftada kaç saat çalışıyorsunuz?	Kiek valandų per savaitę dirbate?	haftada	0	0
+O, bas gitarı seviyor.	Jai patinka bosinė gitara.	bas	0	0
+Ekmek yiyorum.	Valgau duoną.	ekmek	0	0
+Sanıyorum aslında düşündüğümden çok daha fazlasına ihtiyacımız var.	Manau, kad mums iš tikrųjų reikia daug daugiau negu aš galvojau.	sanıyorum	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nenoriu, kad mano šalis taptų Europos Sąjungos nare.	birliği	0	0
+Tom babasından korkuyor.	Tomas bijo savo tėvo.	korkuyor	0	0
+Tom hâlâ çok ilgili görünmüyor.	Tomas vis dar neatrodo susidomėjęs.	görünmüyor	0	0
+Teklifimi kabul etmedi.	Ji nesutiko su mano pasiūlymu.	etmedi	0	0
+Partiye gidebilirsin, ancak gece yarısına kadar eve olmalısın.	Gali eiti į vakarėlį, bet turi būti namie iki vidurnakčio.	partiye	0	0
+Oğlun, neredeyse senin babanın bir kopyası.	Tavo sūnus yra beveik tavo tėvo kopija.	oğlun	0	0
+Sen gidince yavru kedine bakacağım.	Tau išvykus prižiūrėsiu tavo kačiuką.	bakacağım	0	0
+Dürüst olmalıyız.	Turime būti sąžiningi.	olmalıyız	0	0
+Bu sabah kalktığımda, başım ağrıyordu.	Kai šį rytą atsikėliau, skaudėjo galvą.	başım	0	0
+Pazar, insanların kiliseye gittiği gündür.	Sekmadienis yra diena, kai žmonės eina į bažnyčią.	gündür	0	0
+Şimdiye kadar neredeydin?	Kur tu buvai iki šiol?	neredeydin	0	0
+O bir şok geçirdi.	Jis patyrė šoką.	şok	0	0
+Partiye gidebilirsin, ancak gece yarısına kadar eve olmalısın.	Gali eiti į vakarėlį, bet turi būti namie iki vidurnakčio.	gidebilirsin	0	0
+Çalışmaya başlamak istiyorum.	Aš noriu pradėti dirbti.	başlamak	0	0
+O ne kadar önceydi?	Kaip seniai tai buvo?	önceydi	0	0
+Haberler onu üzdü.	Naujienos ją nuliūdino.	haberler	0	0
+İster inan ister inanma, Tom 70 yaşında.	Tikėk tuo, ar ne, Tomui yra 70 metų.	inan	0	0
+Şu anda vaktim yok.	Aš dabar neturiu laiko.	vaktim	0	0
+Taze gıda harika.	Šviežias maistas yra nuostabus.	taze	0	0
+O köpeği serbest bırakmayın.	Nepaleiskite to šuns.	köpeği	0	0
+Şimdi ne kadar çok yaparsan, yarın o kadar az yaparsın.	Kuo daugiau padarysi dabar, tuo mažiau darysi rytoj.	yaparsan	0	0
+O kısa sürede yoruldu.	Jis neilgai trukus pavargo.	sürede	0	0
+Eğer "Seni seviyorum" dersen, ben de aynısını sana söylerim.	Jei pasakytum "Aš tave myliu", aš irgi tą patį tau pasakyčiau.	aynısını	0	0
+Tom, en sevdiği şarkıyı söylemeye başladı ve Mary onunla birlikte söylemeye başladı.	Tomas pradėjo dainuoti savo mėgstamiausią dainą ir Merė kartu su juo pradėjo dainuoti.	sevdiği	0	0
+Bazı Amerikalı arkadaşlarım var.	Aš turiu keletą amerikiečių draugų.	amerikalı	0	0
+Buzdolabı kirli.	Šaldytuvas yra nešvarus.	kirli	0	0
+Tom'un ne bildiğini bulun.	Išsiaiškinkite, ką žino Tomas.	bulun	0	0
+O, Tom'un grubu.	Tai Tomo grupė.	grubu	0	0
+Ben tamamen Tom'a katılıyorum.	Aš visiškai sutinku su Tomu.	katılıyorum	0	0
+Park Caddesine vardığında sağa dön.	Kai būsi Parko gatvėje pasuk į dešinę.	sağa	0	0
+Leyla para istiyordu.	Leila prašė pinigų.	istiyordu	0	0
+Ben bu durumda ne yapmalıyım?	Ką aš turiu daryti šioje situacijoje?	yapmalıyım	0	0
+Anahtarlarımı masanın üstüne bıraktım. Onları bana getirir misin?	Palikau savo raktus ant stalo viršaus. Gal galėtum atnešti man juos?	getirir	0	0
+Tom'un ne bildiğini bulun.	Išsiaiškinkite, ką žino Tomas.	bildiğini	0	0
+Ken, temmuz ayının sonunda Amerika Birleşik Devletleri'ne gidiyor.	Kenas liepos mėnesio gale vyksta į Jungtines Amerikos valstijas.	birleşik	0	0
+Bob şimdi bir hafta boyunca yatakta hastadır.	Bobas dabar jau savaitę lovoje serga.	yatakta	0	0
+Tom ve Mary pazartesi günü akşam yemeğini pişirdiler.	Pirmadienį Tom ir Mary gamino vakarienę.	pazartesi	0	0
+Duş almam gerekiyor.	Man reikia nusiprausti po dušu.	duş	0	0
+Ben rock seviyorum.	Man patinka rokas.	rock	0	0
+O bir şok geçirdi.	Jis patyrė šoką.	geçirdi	0	0
+Aptal sorular yok, yalnızca aptal insanlar var.	Kvailų klausimų nėra, yra tik kvaili žmonės.	sorular	0	0
+Tom hâlâ şarkılar yazar.	Tomas vis dar rašo dainas.	yazar	0	0
+Onlar yorgun değil.	Jie nepavargę.	yorgun	0	0
+Bir daha yapmayacağım.	Daugiau nebedarysiu.	yapmayacağım	0	0
+Veda etmeden ayrıldı odadan.	Jis išėjo iš kambario neatsisveikinęs.	etmeden	0	0
+Burada mı yaşıyorsun?	Tu čia gyveni?	yaşıyorsun	0	0
+Tom, yeni bir şampuan denemek istiyor.	Tomas nori išbandyti naują šampūną.	denemek	0	0
+Oğlan, kitabını okuyor.	Berniukas skaito savo knygą.	oğlan	0	0
+Bugün için bilet kaldı mı?	Dar liko bilietų šiandienai?	bilet	0	0
+Tom Mary'nin ayakkabı ölçüsünü bilmiyor.	Tomas nežino Merės batų dydžio.	ayakkabı	0	0
+Kimse oraya gitmedi.	Niekas ten nėjo.	gitmedi	0	0
+Sanırım sağ kolum kırık.	Manau, kad mano dešinė ranka yra lūžusi.	kırık	0	0
+Bu, Boston'un en iyi otellerinden biridir.	Čia yra vienas iš geriausių Bostono viešbučių.	biridir	0	0
+Bizimle mi kalacaksın?	Pasiliksi su mumis?	kalacaksın	0	0
+Şaşırdım, o, sözlüğü nasıl kullanacağını bilmiyordu.	Nustebau, kad jis nežinojo kaip naudotis žodynu.	şaşırdım	0	0
+John cebinden bir anahtar çıkardı.	Džonas išsitraukė raktą iš savo kišenės.	çıkardı	0	0
+Bu masa Tom tarafından kullanılıyor.	Šis stalas yra naudojamas Tomo.	masa	0	0
+Tatil geçti artık.	Atostogos jau praėjo.	tatil	0	0
+Tom kesinlikle iyi bir öğretmen.	Tomas tikrai geras mokytojas.	öğretmen	0	0
+Ben onu hemen hemen hiç anlayamadım.	Aš beveik jo negalėjau suprasti.	anlayamadım	0	0
+Sonunda harika bir çözüm buldum.	Galiausiai radau nuostabų sprendimą.	çözüm	0	0
+Dikkatli ve çalışkan olmak gereklidir, fakat bu kursu geçmek için yeterli değildir.	Reikia būti atidžiu ir darbščiu, tačiau norint išlaikyti šį kursą to nepakanka.	geçmek	0	0
+Bir süre bana bakmaktan başka bir şey yapmadı.	Kurį laiką ji nieko nedarė, tik žiūrėjo į mane.	yapmadı	0	0
+Dürüst olalım.	Būkime sąžiningi.	olalım	0	0
+O mutlu olmayabilir.	Ji gali būti nelaiminga.	olmayabilir	0	0
+Tom kendi evini inşa etti.	Tomas pats pastatė savo namą.	evini	0	0
+Tadı güzel değildi.	Skonis nebuvo geras.	tadı	0	0
+Senin en sevdiğin renk hangisidir?	Kokia tavo mėgstamiausia spalva?	renk	0	0
+Çocuk, kapının arkasına saklandı.	Vaikas pasislėpė už durų.	arkasına	0	0
+Geçen yıl emekli oldum.	Išėjau į pensiją praėjusiais metais.	emekli	0	0
+Bu metale çinko denir.	Šis metalas vadinamas cinku.	denir	0	0
+Eşim için bir hediye almak istiyorum. Bir eşarp düşündüm.	Noriu nupirkti žmonai dovaną. Mąsčiau apie skarą.	eşim	0	0
+Bu mektubu kimin yazdığı belli değildir.	Kas parašė šį laišką neaišku.	mektubu	0	0
+Tom'u bulamadım.	Negalėjau surasti Tomo.	bulamadım	0	0
+Onu değiştirmek istiyorum.	Aš noriu tai pakeisti.	değiştirmek	0	0
+Çok yavaş bir trendi. Her küçük istasyonda durdu.	Tai buvo labai lėtas traukinys. Sustodavo kiekvienoje mažoje stotyje.	durdu	0	0
+Bu çiçekler ölüyor.	Šios gėlės vysta.	ölüyor	0	0
+Daha da kötüsü kar yağmaya başladı.	Ne gana to, dar ir pradėjo snigti.	kötüsü	0	0
+Günlerdir hiç yemek yememiş gibi görünüyordu.	Ji atrodo, kaip keletą dienų nieko nevalgius.	görünüyordu	0	0
+Ölümden korkuyorsun, değil mi?	Bijai mirties, ar ne?	korkuyorsun	0	0
+Ne tür dondurma seversin?	Kokius ledus tu mėgsti?	dondurma	0	0
+En sevdiğin meyve hangisidir?	Koks mėgstamiausias tavo vaisius?	meyve	0	0
+Onlar bir bara gittiler.	Jie nuėjo į barą.	gittiler	0	0
+Ne söylediğini hiç anlayamıyorum.	Negaliu nieko suprasti, ką sakei.	anlayamıyorum	0	0
+Ne demek istediğini anlamaya başlıyorum.	Aš pradedu suprasti, ką tu nori pasakyti.	anlamaya	0	0
+O, memleketinde toprağa verildi.	Ji buvo palaidota savo gimtinėje.	verildi	0	0
+Çocuk, kapının arkasına saklandı.	Vaikas pasislėpė už durų.	kapının	0	0
+Tom ve Mary pazartesi günü akşam yemeğini pişirdiler.	Pirmadienį Tom ir Mary gamino vakarienę.	yemeğini	0	0
+Tom Mary'nin kendine bir masaj yapmasını istedi fakat o yapmak istemedi.	Tomas paprašė Merės padaryti jam masažą, bet ji nenorėjo.	istemedi	0	0
+Erkek arkadaşından almış olduğu hediyeyi bana gösterdi.	Ji parodė man dovaną, gautą iš mylimojo.	gösterdi	0	0
+Barış istiyorsan, savaşa hazır ol.	Jei nori taikos, būk pasiruošęs karui.	savaşa	0	0
+Fare döşemenin altında.	Pelė yra po grindimis.	fare	0	0
+Tom'la konuşurken genellikle hangi dili kullanırsın?	Kokią kalbą paprastai naudoji, kai kalbi su Tomu?	konuşurken	0	0
+Domatesin tadını sevmiyorum.	Man nepatinka pomidorų skonis.	sevmiyorum	0	0
+Mary'nin erkek arkadaşının adı Tom'dur.	Merės vaikino vardas yra Tomas.	arkadaşının	0	0
+Bir dakika bekle. Sanırım onlarla gitmen gerekir.	Palauk minutę. Manau, kad tau reikia eiti su jais.	gitmen	0	0
+Haberleri dinlemek için radyoyu açtım.	Įjungiau radiją, kad paklausyčiau naujienų.	haberleri	0	0
+Evimin arkasında bir kilise var.	Už mano namo yra bažnyčia.	kilise	0	0
+Bugünkü dünya rahat yaşamını petrole borçludur.	Šiandieninis pasaulis už patogų gyvenimą yra dėkingas naftai.	bugünkü	0	0
+Posta kutumu kontrol etmek zorundayım.	Aš turiu patikrinti savo pašto dežutę.	posta	0	0
+Sensiz bir hayat hayal edemem.	Negaliu įsivaizduoti gyvenimo be tavęs.	sensiz	0	0
+Tom hemen hemen her türlü aracı sürebilir.	Tomas gali vairuoti beveik kiekvienos rūšies transporto priemonę.	aracı	0	0
+Senin hakkında bir şarkı yazdım.	Aš parašiau dainą apie tave.	yazdım	0	0
+Fare burada! Git de kediyi çağır!	Čia yra pėlė! Pakviesk katę!	çağır	0	0
+Golf, Japonya'da çok popülerdir.	Japonijoje golfas yra labai populiarus.	golf	0	0
+Küçük tepeler uçaktan düz görünüyorlar.	Mažos kalvelės iš lėktuvo atrodo plokščios.	düz	0	0
+Tom Mary'ye iyi bir fotoğraf makinesi satın aldı.	Tomas Marijai nupirko gerą fotoaparatą.	makinesi	0	0
+Tom, son gördüğümde, bir gözbandı takıyordu.	Tomas, kada paskutinį kartą jį mačiau, dėvėjo akių raištį.	gördüğümde	0	0
+Dünyada bazı insanlar açlıktan muzdariptir.	Kai kurie žmonės pasaulyje kenčia badą.	açlıktan	0	0
+Çok paran yok.	Jūs neturite daug pinigų.	paran	0	0
+Tom, en sevdiği şarkıyı söylemeye başladı ve Mary onunla birlikte söylemeye başladı.	Tomas pradėjo dainuoti savo mėgstamiausią dainą ir Merė kartu su juo pradėjo dainuoti.	şarkıyı	0	0
+Seni tekrar görmeyi hiç beklemiyordum.	Niekada nesitikėjau tave vėl pamatyti.	görmeyi	0	0
+Betty klasik müziği sever.	Betė mėgsta klasikinę muziką.	müziği	0	0
+Mark kitabı götürdü.	Tomas nunešė knygą.	götürdü	0	0
+Bu içerik ülkenizde mevcut değil.	Šis turinys jūsų šalyje nepasiekiamas.	mevcut	0	0
+Tom Mary'nin yanında oturuyor.	Tomas sėdi šalia Merės.	oturuyor	0	0
+Ben fotoğraf çekmekten hoşlanıyorum.	Man patinka fotografuoti.	hoşlanıyorum	0	0
+Betty klasik müziği sever.	Betė mėgsta klasikinę muziką.	klasik	0	0
+Veda etmeden ayrıldı odadan.	Jis išėjo iš kambario neatsisveikinęs.	ayrıldı	0	0
+Onun nerede yaşadığını bilmiyorum.	Aš nežinau, kur ji gyvena.	yaşadığını	0	0
+Amerika Birleşik Devletleri savaşın dışında kalmayı umut ediyordu.	JAV tikėjo likti už karo ribų.	savaşın	0	0
+Her gün domuz gibi yersen elbette çok kilo alırsın.	Jei kiekvieną dieną kaip kiaulė ėsi, tikrai daug kilogramų priaugsi.	alırsın	0	0
+Uyu artık.	Jau miegok.	uyu	0	0
+Eski iyi günleri özlüyorum.	Ilgiuosi senų gerų dienų.	günleri	0	0
+Her zaman müzik dinliyorum; onsuz yaşayamam.	Aš visada klausausi muzikos. Be jos negaliu gyventi.	dinliyorum	0	0
+Ben her zaman yorgunum.	Aš visada pavargusi.	yorgunum	0	0
+Tom hemen hemen hiç radyo dinlemez.	Tomas beveik niekada neklauso radijo.	radyo	0	0
+Tom'u hastanede ziyarete gitmelisiniz.	Mes turime eiti aplankyti Tomą ligoninėje.	ziyarete	0	0
+İster inanın ister inanmayın, onun üç çocuğu var.	Norite tikėkite, norite ne, bet jis turi tris vaikus.	İster	0	0
+Sıfır birden önce gelir.	Nulis eina prieš vienetą.	sıfır	0	0
+Pasaportunuza bakabilir miyim?	Ar galiu pasižiūrėti į jūsų pasą?	bakabilir	0	0
+Askerler tehlikeye alışıktı.	Kareiviai buvo pripratę prie pavojaus.	askerler	0	0
+Biz sık sık balığı çiğ yedik.	Mes dažnai valgėm žalią žuvį.	balığı	0	0
+O, neyden yapılmıştır?	Iš ko jis padarytas?	neyden	0	0
+Ben zaten iki saattir buradayım.	Aš jau čia dvi valandas.	saattir	0	0
+Soruya cevap vermeyi reddediyorum.	Atsisakau atsakyti į klausimą.	vermeyi	0	0
+İster yavaş ister hızlı sür, dikkatli sür.	Nori vairuok lėtai, ar greitai, bet vairuok atsargiai.	sür	0	0
+Kötü çocukları sevmem.	Aš nemyliu blogų vaikų.	sevmem	0	0
+Ne demek istediğini anlamaya başlıyorum.	Aš pradedu suprasti, ką tu nori pasakyti.	başlıyorum	0	0
+Tom hemen hemen her gece içmeye gitti.	Tomas beveik kiekvieną naktį ėjo gerti.	içmeye	0	0
+Bu fotoğrafa bakarken ailemi hatırlarım.	Žiūrėdamas į šią nuotrauką prisimenu savo šeimą.	ailemi	0	0
+Amnezi, "hafıza kaybı" anlamına gelir.	Amnezija reiškia "atminties praradimą".	kaybı	0	0
+"Gerçekten nasıl hissettiğini biliyorum." " Hayır, bilmiyorsun!"	"- Aš tikrai žinau, kaip tu jautiesi." "- Ne, tu nežinai!"	hissettiğini	0	0
+Onlar şikâyet etmekten başka bir şey yapmıyorlar.	Jie daugiau nieko nedaro tik skundžiasi.	etmekten	0	0
+O peynir keçi sütünden yapılır.	Tas sūris pagamintas iš ožkos pieno.	peynir	0	0
+Tom dünkü sınavda bir soruyu bile yapamadı.	Tomas negalėjo atsakyti nei į vieną klausimą vakarykščiame teste.	soruyu	0	0
+Ben Boston'lu değilim.	Aš ne iš Bostono.	lu	0	0
+Bir duvar inşa ediyorum.	Aš statau sieną.	duvar	0	0
+Babanla görüşmek istiyorum.	Noriu susitikti su tavo tėvu.	babanla	0	0
+Bu resimler onun tarafından yapıldı.	Šiuos paveikslus nutapė jis.	yapıldı	0	0
+Hoşuna gitsin ya da gitmesin, her durumda erken ayrılmak zorundasın.	Patinka tau ar ne, bet kokiu atveju tau reikia anksti išvykti.	ayrılmak	0	0
+2.30'a kadar karar vermelisin.	Iki 2:30 turi nuspręsti.	vermelisin	0	0
+Bana on dolara mal oldu.	Man tai kainavo dešimt dolerių.	dolara	0	0
+O, yılanlar gibi, garip hayvanlardan hoşlanıyor.	Jam patinka keisti gyvūnai, tokie kaip gyvatė.	hoşlanıyor	0	0
+Lütfen kapıyı kapatın.	Prašau, uždarykite duris.	kapatın	0	0
+Bir toplumda yaşıyoruz.	Mes gyvename visuomenėje.	yaşıyoruz	0	0
+Ben bu geminin kaptanıyım.	Aš šio laivo kapitonas.	geminin	0	0
+Tom'un böyle bir hata yaptığına inanamıyorum.	Aš negaliu patikėti, kad Tomas padarė tokią klaidą.	yaptığına	0	0
+İçeri girebilir miyiz?	Ar galime įeiti į vidų?	girebilir	0	0
+Betty klasik müziği sever.	Betė mėgsta klasikinę muziką.	betty	0	0
+Nasıl kilo alabilirim?	Kaip aš galiu priaugti svorio?	alabilirim	0	0
+Evime gelmek için zahmet etmeyin.	Nepasivarginkite ateiti į mano namus.	zahmet	0	0
+Ayakkabıları almadan önce onları denemelisin.	Prieš pirkdamas batus, turi juos pasimatuoti.	almadan	0	0
+Tavşan ağacın arkasına saklandı.	Triušis pasislėpė už medžio.	tavşan	0	0
+Maria onun ne adını ne de telefon numarasını biliyordu.	Marija nežinojo nei jos vardo, nei telefono numerio.	numarasını	0	0
+Bu benim için fazla zordur.	Mano nuomone tai labai sunku.	zordur	0	0
+Odasını her zaman iyi durumda tutar.	Ji visada išlaiko savo kambarį geroje būklėje.	tutar	0	0
+Şirketin var.	Tu turi įmonę.	şirketin	0	0
+Ona 50.000 yen borçluyum.	Aš skolingas jai 50 000 jenų.	borçluyum	0	0
+Gidip Tom'u bulmam gerekiyor.	Aš turiu eiti ir surasti Tomą.	bulmam	0	0
+Para onun hayatını değiştirdi.	Pinigai pakeitė jos gyvenimą.	değiştirdi	0	0
+Pazar, insanların kiliseye gittiği gündür.	Sekmadienis yra diena, kai žmonės eina į bažnyčią.	gittiği	0	0
+Eski iyi günleri özlüyorum.	Pasiilgau senų gerų dienų.	özlüyorum	0	0
+Yarın meşgul olmayacağım.	Rytoj nebūsiu užsiėmęs.	olmayacağım	0	0
+Odayı ısıtıyorum.	Šildau kambarį.	odayı	0	0
+Ben zaten meşgulüm.	Aš jau užsiėmęs.	meşgulüm	0	0
+O otuz yaşın üzerindedir.	Jam daugiau nei trisdešimt.	otuz	0	0
+Almanya'da çok Faslı var mıdır?	Vokietijoje yra daug marokiečių?	mıdır	0	0
+Tom dışında herkes şapka takıyor.	Visi išskyrus Tomą dėvi kepurę.	şapka	0	0
+Yarasına bir mendil koydu.	Jis padėjo nosinę ant savo žaizdos.	koydu	0	0
+Sanırım haklısınız.	Manau tu teisus.	haklısınız	0	0
+Okumak için zamanım bile yok.	Neturiu laiko net skaityti.	okumak	0	0
+Neden Tom'un anahtarları sende?	Kodėl tu turi Tomo raktus.	anahtarları	0	0
+Tom bizi izliyor.	Tomas mus seka.	izliyor	0	0
+Kar hızlı düşüyor.	Sniegas greitai krenta.	düşüyor	0	0
+Bence Tom'la konuşmalıyız.	Manau, kad turime pasikalbėti su Tomu.	konuşmalıyız	0	0
+O sadece bir dil konuşabilir.	Ji gali kalbėti tik viena kalba.	dil	0	0
+Bana tekrar sorma.	Neklausk manęs vėl.	sorma	0	0
+Tom sınıfta en çalışkan öğrencidir.	Tomas darbščiausias mokinys klasėje.	sınıfta	0	0
+Neden bana yardım etmedin?	Kodėl man nepadėjai?	etmedin	0	0
+Lütfen dürüst davran.	Prašau elkis sąžiningai.	davran	0	0
+O, yolcuya yiyecek ve giyecek sağladı.	Ji aprūpino keliautoją maistu ir drabužiais.	sağladı	0	0
+Pazar, insanların kiliseye gittiği gündür.	Sekmadienis yra diena, kai žmonės eina į bažnyčią.	kiliseye	0	0
+Hatalar yapmaktan korkmayın.	Nebijok padaryti klaidos.	yapmaktan	0	0
+Kimse beni sevmiyor, hiç kimse beni sevmedi, çünkü ben güzel değilim.	Niekas manęs nemyli, niekas manęs nemylėjo, nes aš negraži.	sevmiyor	0	0
+Sadece iki ya da üç içecek içtim.	Aš tik du ar tris gėrimus išgėriau.	içecek	0	0
+Oturma odasına git.	Eik į svetainę.	oturma	0	0
+İşim hemen hemen bitti.	Mano darbas beveik baigtas.	İşim	0	0
+Tom'un bir avukatı var.	Tomas turi advokatą.	avukatı	0	0
+Tom'un boğazı ağrıyor.	Tomui skauda gerklę.	ağrıyor	0	0
+O benim sahip olduğum kadar çok sayıda pula sahiptir.	Ji turi maždaug tiek pat pašto ženklų, kiek aš.	sayıda	0	0
+Keşke bir arabam olsa.	O, kad turėčiau mašiną.	arabam	0	0
+Bu yüzden cümleleri seviyoruz. Fakat dahası biz dilleri seviyoruz.	Taigi mes mylime sakinius. Bet labiau mes mylime kalbas.	seviyoruz	0	0
+Her şeyini kaybedeceksin.	Tu viską prarasi.	şeyini	0	0
+Sana para borçlu muyum?	Ar aš tau skolinga pinigų?	borçlu	0	0
+Neden aradın?	Kodėl skambinai?	aradın	0	0
+Melanie bir elma yiyor.	Melanie valgo obuolį.	elma	0	0
+İşte adres.	Štai adresas.	adres	0	0
+Tom Mary'nin kendine bir masaj yapmasını istedi fakat o yapmak istemedi.	Tomas paprašė Merės padaryti jam masažą, bet ji nenorėjo.	yapmasını	0	0
+Haftada kaç saat çalışıyorsunuz?	Kiek valandų per savaitę dirbate?	çalışıyorsunuz	0	0
+Her insan kendi evinin efendisidir.	Kiekvienas žmogus yra savo namų šeimininkas.	evinin	0	0
+Tom sırrı Mary'ye söyledi.	Tomas pasakė Merei paslaptį.	sırrı	0	0
+Amerika Birleşik Devletleri savaşın dışında kalmayı umut ediyordu.	JAV tikėjo likti už karo ribų.	kalmayı	0	0
+Tom sürücüye para üstünün kalmasını söyledi.	Tomas pasakė vairuotojui pasilikti grąžą.	kalmasını	0	0
+Bende aynı sorunlar vardı.	Aš irgi turėjau tų pačių problemų.	sorunlar	0	0
+Her zaman parlak renkli kravat takıyorsun.	Tu visą laiką dėvi ryškiaspalvį kaklaraištį.	renkli	0	0
+Öğretmen Tom'un sık sık derse gelmemesinden endişe duyuyordu.	Mokytojas nerimavo dėl dažno Tomo nebuvimo pamokose.	derse	0	0
+Sen gidince yavru kedine bakacağım.	Tau išvykus prižiūrėsiu tavo kačiuką.	yavru	0	0
+Pencereyi açar mısın?	Gal atidarytum langą?	açar	0	0
+Veda etmeyecek misin?	Neatsisveikinsi?	etmeyecek	0	0
+Onu dinleme.	Nesiklausyk jos.	dinleme	0	0
+Seni tekrar görmeyi hiç beklemiyordum.	Niekada nesitikėjau tave vėl pamatyti.	beklemiyordum	0	0
+Tom'un bugün burada olmayacağını duydum.	Girdėjau, kad Tomo šiandien čia nebus.	olmayacağını	0	0
+Fransızca ev ödevimi yapmayı az önce bitirdim.	Ką tik pabaigiau daryti prancūzų kalbos namų darbus.	bitirdim	0	0
+Dans etmeye başladılar.	Jie pradėjo šokti.	başladılar	0	0
+Julian, John Lennon'unki gibi yuvarlak gözlük takıyor.	Julianas nešioja apvalius kaip Džono Lenono akinius.	julian	0	0
+Tom işinde çalışkan.	Tomas savo darbe yra darbštus.	işinde	0	0
+Hemen hemen tüm ofis çalışanlarının üçte biri gözlük takıyor.	Beveik vienas trečdalis viso biuro darbuotojų nešioja akinius.	ofis	0	0
+Kaç beden giyiyorsunuz?	Kokį dydį jūs nešiojate?	beden	0	0
+Yen'i dolarla değiştirdim.	Aš išsikeičiau jenas į dolerius.	değiştirdim	0	0
+Onu çocukluğundan beri tanırım.	Aš ją pažįstu nuo jos vaikystės.	tanırım	0	0
+Bu çiçekler ölüyor.	Šios gėlės vysta.	çiçekler	0	0
+O koyu kahverengi ayakkabılar giyiyordu.	Jis avėjo tamsiai rudus batus.	kahverengi	0	0
+Tom'la konuşmalıyım.	Aš turiu pasikalbėti su Tomu.	konuşmalıyım	0	0
+Ölümden korkmam.	Aš nebijau mirties.	ölümden	0	0
+Son on yılda fiyatlar yüzde elli arttı.	Per paskutinius dešimt metų kainos pakilo penkiasdešimt procentų.	elli	0	0
+Ken, temmuz ayının sonunda Amerika Birleşik Devletleri'ne gidiyor.	Kenas liepos mėnesio gale vyksta į Jungtines Amerikos valstijas.	ken	0	0
+Neden bize beş dakika daha vermiyorsun?	Kodėl mums neduodi dar 5 minučių?	vermiyorsun	0	0
+Sınavı geçtiğin haberini duyduk.	Girdėjome naujienas, kad tu išlaikei egzaminą.	duyduk	0	0
+Doktorun tavsiyesine uymalısın.	Tu turi vykdyti daktaro rekomendacijas.	doktorun	0	0
+Tom şimdi evde olmalı, ama hâlâ ofisinde bulunuyor.	Tomas turėtų dabar būti namie, bet jis vis dar savo biure.	bulunuyor	0	0
+Köpek yemeğini yiyor.	Šuo valgo savo maistą.	yiyor	0	0
+Bob arkadaşına şikâyet etti.	Bobas skundėsi savo draugui.	arkadaşına	0	0
+İnsanların yüzde kaçı üç dil konuşur?	Kiek procentų žmonių kalba trijomis kalbomis?	konuşur	0	0
+Tom kendi ellerine baktı.	Tomas žiūrėjo į savo rankas.	baktı	0	0
+Tom başkasına borçlu olmayı sevmez.	Tomas nemėgsta būti kažkam skolingas.	başkasına	0	0
+Sadece eve gitmek ve uyumak istiyorum.	Aš noriu tik eiti namo ir miegoti.	uyumak	0	0
+Yeni bir şey deneyeceğim.	Aš pabandysiu kažką naujo.	deneyeceğim	0	0
+Seninle birebir konuşmam lâzım.	Man reikia su tavim pasikalbėti akis į akį.	lâzım	0	0
+Çaydanlık masanın üstündedir.	Arbatinukas yra ant stalo.	masanın	0	0
+Şaşırdım, o, sözlüğü nasıl kullanacağını bilmiyordu.	Nustebau, kad jis nežinojo kaip naudotis žodynu.	bilmiyordu	0	0
+O koyu kahverengi ayakkabılar giyiyordu.	Ji avėjo tamsiai rudus batus.	koyu	0	0
+Annem sütün tadına baktı.	Mano mama paragavo pieno.	tadına	0	0
+Onlar bir bara gittiler.	Jie nuėjo į barą.	bara	0	0
+Ne kadar zaman geçtiğini söyleyemem.	Negaliu pasakyti, kiek laiko praėjo.	geçtiğini	0	0
+Onu kim icat etti acaba?	Įdomu, kas tai išrado?	icat	0	0
+Niçin onu söylemiyorsun?	Kodėl to nesakai?	söylemiyorsun	0	0
+Ev şimdi inşa ediliyor.	Namas dabar yra statomas.	ediliyor	0	0
+Bu yüzden cümleleri seviyoruz. Fakat dahası biz dilleri seviyoruz.	Taigi mes mylime sakinius. Bet labiau mes mylime kalbas.	dahası	0	0
+"Bu kitabı kim yazdı? " John yazdı. "	"Kas parašė šią knygą?" "Džonas."	yazdı	0	0
+Köpeğe yiyecek vermeyin.	Nešerkite šuns.	vermeyin	0	0
+Ben savaştan önce Avrupa'ya gittim.	Prieš karą nuvykau į Europą.	savaştan	0	0
+Kızlara bak.	Pažiūrėk į mergaites.	kızlara	0	0
+En fazla, feribotta sadece 100 yolcu vardı.	Kelte buvo daugiausiai tik 100 keleivių.	yolcu	0	0
+Bir iş bulacaksın.	Tu susirasi darbą.	bulacaksın	0	0
+Sahnede dans eden adam benim amcam.	Vyras, šokantis ant scenos, yra mano dėdė.	amcam	0	0
+Tüm günü plajda geçirdik.	Praleidome visą dieną pliaže.	geçirdik	0	0
+Tom'u bu resimde görebiliyor musun?	Ar gali matyti Tomą šioje nuotraukoje?	görebiliyor	0	0
+Tom ve Mary hâlâ ofislerindeler. İkisi de bugün geç vakte kadar çalışmayı planlıyorlar.	Tomas ir Merė vis dar biure. Šiandien jie abu planuoja dirbti iki vėlumos.	çalışmayı	0	0
+Bahçede oynamayı seviyorum.	Man patinka žaisti sode.	oynamayı	0	0
+Onun adresini bilseydim, ona yazardım.	Jei būčiau žinojusi jo adresą, būčiau jam parašiusi.	bilseydim	0	0
+Dikkat et. Çorba çok sıcak.	Būk atsargus. Sriuba labai karšta.	çorba	0	0
+Saat ona kadar çalışacak mısın?	Dirbsi iki dešimtos valandos?	çalışacak	0	0
+Tom'un nasıl hissettiğini anlayabiliyorum.	Aš galiu suprasti, kaip Tomas jaučiasi.	anlayabiliyorum	0	0
+Partide, herkes güzel elbiseler giyiyordu.	Vakarėlyje visi vilkėjo gražius drabužius.	partide	0	0
+Philip ve Sheila geç kaldı. Ben de geç kaldım mı?	Filipas ir Šeila pavėlavo. Aš ir pavėlavau?	philip	0	0
+Biraz geç kalmıştı.	Ji truputį pavėlavo.	kalmıştı	0	0
+Onsuz yaşamayı öğrendim.	Aš išmokau gyventi be jos.	yaşamayı	0	0
+Twitter, gerçek bir arkadaş değildir.	Twitter nėra tikras draugas.	twitter	0	0
+Fransızca öğrenmeye henüz başladım, bu yüzden henüz çok iyi değilim.	Aš tik visai neseniai pradėjau mokytis prancūzų kalbos, todėl jos dar nemoku gerai.	öğrenmeye	0	0
+Amnezi, "hafıza kaybı" anlamına gelir.	Amnezija reiškia "atminties praradimą".	hafıza	0	0
+Polonya'da bir tatile gitmek istiyorum.	Norėčiau paatostogauti Lenkijoje.	tatile	0	0
+O çok şık görünüyor.	Ji atrodo labai puošniai.	şık	0	0
+O, kahve sevmez.	Jis nemėgsta kavos.	sevmez	0	0
+Ne kadar daha şarap almalıyım?	Kiek dar vyno dar turiu nupirkti?	almalıyım	0	0
+Ken, temmuz ayının sonunda Amerika Birleşik Devletleri'ne gidiyor.	Kenas liepos mėnesio gale vyksta į Jungtines Amerikos valstijas.	temmuz	0	0
+Onlar hiçbir şey bilmiyorlar.	Jie nieko nežino.	bilmiyorlar	0	0
+O, otobüste bulduğum aynı şemsiye.	Tai tas pats skėtis, kurį radau autobuse.	bulduğum	0	0
+Güzel güneşli bir gündü.	Tai buvo graži saulėta diena.	gündü	0	0
+Yüzün kirli.	Tavo veidas purvinas.	yüzün	0	0
+Elektriksiz ve susuz bir dünya hayal edemeyiz.	Mes negalime įsivaizduoti pasaulio be elektros ir vandens.	edemeyiz	0	0
+Fiyat doğru.	Teisinga kaina.	fiyat	0	0
+Yardım için diğerlerine güvenmemelisin.	Dėl pagalbos tu neturėtum pasikliauti kitais.	diğerlerine	0	0
+Git Tom'la oyna.	Eik pažaisk su Tomu.	oyna	0	0
+Kimse ölmedi.	Niekas nemirė.	ölmedi	0	0
+Haberleri dinlemek için radyoyu açtım.	Įjungiau radiją, kad paklausyčiau naujienų.	açtım	0	0
+Bir fincan çay ister misin?	Ar norėtum puodelio arbatos?	fincan	0	0
+Akşam yemeğinde bir şişe bira içer.	Per vakarienę jis išgeria butelį alaus.	yemeğinde	0	0
+Onsuz yaşamayı öğrendim.	Aš išmokau gyventi be jos.	onsuz	0	0
+Baca gibi sigara içer, balık gibi içki içer.	Jis rūko kaip kaminas ir geria kaip žuvis.	içer	0	0
+Bu şirkette çalışırım.	Aš dirbu šioje įmonėje.	çalışırım	0	0
+İngilizce yazılmış bir kitap okudu.	Jis skaitė anglų kalba parašytą knygą.	yazılmış	0	0
+Sütün tadı kötüydü.	Pieno skonis buvo blogas.	kötüydü	0	0
+Tom şimdi evde olmalı, ama hâlâ ofisinde bulunuyor.	Tomas turėtų dabar būti namie, bet jis vis dar savo biure.	ofisinde	0	0
+Tom'la konuşurken genellikle hangi dili kullanırsın?	Kokią kalbą paprastai naudoji, kai kalbi su Tomu?	dili	0	0
+Sahnede dans eden adam benim amcam.	Vyras, šokantis ant scenos, yra mano dėdė.	sahnede	0	0
+O peynir keçi sütünden yapılır.	Tas sūris pagamintas iš ožkos pieno.	yapılır	0	0
+Odasını her zaman iyi durumda tutar.	Ji visada išlaiko savo kambarį geroje būklėje.	odasını	0	0
+Onun adresini bilseydim, ona yazardım.	Jei būčiau žinojusi jos adresą, būčiau jai parašiusi.	adresini	0	0
+Bu senin köpeğin mi?	Čia tavo šuo?	köpeğin	0	0
+Bu kitabın yazarı hiç Rusya'da bulunmamış.	Šitos knygos autorius niekada nebuvo Rusijoje.	kitabın	0	0
+İstediğin kadar kalabilirsin.	Gali pasilikti tiek, kiek nori.	kalabilirsin	0	0
+Kale ne zaman inşa edildi?	Kada buvo pastatyta pilis?	kale	0	0
+Bu hayvanat bahçesi kaç yaşında?	Kiek metų šiam zoologijos sodui?	hayvanat	0	0
+Benim için bir harita çizer misin?	Ar galėtum nupiešti man žemėlapį?	harita	0	0
+İstediğini yap!	Daryk ką nori!	İstediğini	0	0
+Ben durdum ve onlara baktım.	Aš sustojau ir žiūrėjau į juos.	durdum	0	0
+O ben değildim. Tom'du.	Tai nebuvau aš. Tai buvo Tomas.	du	0	0
+Meg bana bakmadı bile.	Meg net nepasižiūrėjo į mane.	meg	0	0
+Nişastasız pirinç pilavı nasıl pişirirsin?	Kaip tu gamini plovą be krakmolo?	pirinç	0	0
+Çok daha fazlasına sahibim.	Aš turiu daug daugiau.	sahibim	0	0
+Bu, riske değmez.	Tai neverta rizikos.	değmez	0	0
+Los Angeles, Amerika Birleşik Devletleri'ndeki ikinci en büyük kenttir.	Los Andželas yra antrasis pagal dydį miestas Jungtinėse Valstijose.	ndeki	0	0
+Neredeyiz?	Kur mes esame?	neredeyiz	0	0
+Bu caddede doğru git ve solda postaneye geleceksin.	Eik šia gatve tiesiai ir kairėje prieisi paštą.	geleceksin	0	0
+O annesine çok benziyor.	Jis labai panašus į savo mamą.	annesine	0	0
+Tom saat kaçta buraya geliyor?	Kelintą valandą Tomas ateina čia?	kaçta	0	0
+Tom yalın ayak yürümeye alışık değildir.	Tomas nepripratęs vaikščioti basomis kojomis.	yürümeye	0	0
+Niçin Fransızca öğrenmeliyim?	Kodėl aš turiu mokytis prancūzų?	fransızca	0	0
+Çok garip görünse de, Tom'un söylediği doğrudur.	Nors ir atrodo labai keista, ką Tomas sakė, yra tiesa.	doğrudur	0	0
+Bu kuş ne Japonya'da ne de Çin'de yaşar.	Šis paukštis negyvena nei Japonijoje, nei Kinijoje.	yaşar	0	0
+Tom hakkında hala bilmediğim çok şey var.	Aš dar daug ko nežinau apie Tomą.	bilmediğim	0	0
+Sadece iki ya da üç içecek içtim.	Aš tik du ar tris gėrimus išgėriau.	içtim	0	0
+Karar vermeliyiz.	Mes turime nuspręsti.	vermeliyiz	0	0
+Pirincin tadı güzeldir.	Ryžių skonis geras.	güzeldir	0	0
+Bunu hiç yapamadım.	Aš niekada negalėčiau to padaryti.	yapamadım	0	0
+Tom Mary'nin kendine bir masaj yapmasını istedi fakat o yapmak istemedi.	Tomas paprašė Merės padaryti jam masažą, bet ji nenorėjo.	masaj	0	0
+Özür dileriz.	Atsiprašome.	dileriz	0	0
+Kimse konuşmuyor.	Niekas nekalba.	konuşmuyor	0	0
+Sen sadece bir kızsın.	Tu tik mergaitė.	kızsın	0	0
+Senin kitabını arabada bıraktım.	Aš palikau tavo knygą mašinoje.	kitabını	0	0
+Hâlâ açım.	Aš vis dar alkanas.	açım	0	0
+Veda etmeden ayrıldı odadan.	Jis išėjo iš kambario neatsisveikinęs.	odadan	0	0
+Hesabımı kapatmak istiyorum.	Noriu uždaryti savo sąskaitą.	kapatmak	0	0
+Bu mektubu kimin yazdığı belli değildir.	Kas parašė šį laišką neaišku.	yazdığı	0	0
+İstediğiniz yere oturun.	Sėskites į jūsų norimą vietą.	İstediğiniz	0	0
+Bu resimler onun tarafından yapıldı.	Šiuos paveikslus nutapė jis.	resimler	0	0
+Burada kalmam gerekiyor.	Man reikia čia pasilikti.	kalmam	0	0
+Okyanus kirli.	Vandenynas yra užterštas.	okyanus	0	0
+Kimse gitmeyecek.	Niekas neišeis.	gitmeyecek	0	0
+Okula zamanında vardım.	Buvau mokykloje laiku.	vardım	0	0
+Tom Mary'yi parkta bir bankta otururken buldu.	Tomas rado Merę parke sėdint ant suolelio.	parkta	0	0
+Eurovision'un en kötü şarkısı birinci, en iyi şarkısı sondan ikinci oldu. Ne saçmalık!	Eurovizijos blogiausia daina pirma, o pati geriausia liko antra nuo galo. Kokia nesąmonė!	şarkısı	0	0
+Sen gidince yavru kedine bakacağım.	Tau išvykus prižiūrėsiu tavo kačiuką.	gidince	0	0
+Keşke sınav için daha sıkı çalışsaydım.	Jei tik būčiau daugiau ruošusis egzaminui.	sınav	0	0
+Biz onu evimize davet ettik.	Mes pakvietėm jį savo namus.	evimize	0	0
+Geç kalktı ve okula geç kaldı.	Vėlai atsikėlė ir pavėlavo į mokyklą.	kalktı	0	0
+Bir yıl on iki aya sahiptir.	Metai turi dvylika mėnesių.	aya	0	0
+Tom elbette tenis oynayabilir.	Tomas tikrai gali žaisti tenisą.	tenis	0	0
+Onu yeme!	To nevalgyk.	yeme	0	0
+Babam sigara içiyor.	Mano tėvas rūko.	içiyor	0	0
+Soruya cevap vermeyi reddediyorum.	Atsisakau atsakyti į klausimą.	soruya	0	0
+Nerede olduğumdan emin değilim.	Nesu tikras, kur aš esu.	olduğumdan	0	0
+O peynir keçi sütünden yapılır.	Tas sūris pagamintas iš ožkos pieno.	keçi	0	0
+Otuza kadar say.	Skaičiuok iki trisdešimt.	say	0	0
+O otobüse binmedim, bu yüzden şu an evde değilim.	Į autobusą neįlipau, todėl dabar nesu namie.	otobüse	0	0
+Bu akşam benim ofisime uğra.	Šį vakarą užsuk į mano biurą.	ofisime	0	0
+Ne tür dondurma seversin?	Kokius ledus tu mėgsti?	seversin	0	0
+E-posta adresiniz nedir?	Koks jūsų el. pašto adresas?	e-posta	0	0
+Size yardım etmeli miyim?	Ar turiu jums padėti?	etmeli	0	0
+Geç kalmamak için erken ayrıldım.	Kad nepavėluočiau, išėjau anksti.	ayrıldım	0	0
+Hiç kimse ona inanmıyor.	Niekas juo netiki.	inanmıyor	0	0
+Onun odaya girdiğini gördüm.	Mačiau jį įeinantį į kambarį.	girdiğini	0	0
+Bob amcasının evine uğradı.	Bobas užsuko į savo dėdės namus.	uğradı	0	0
+Fransızca okuyorum.	Aš mokausi prancūzų kalbos.	okuyorum	0	0
+Teslimat için bir ücret alıyor musunuz?	Ar man reikės mokėti už pristatymą?	ücret	0	0
+Yanlış trene binmiş olabilir.	Jis galėjo įsėsti į ne tą traukinį.	trene	0	0
+Portakal suyu içiyorum.	Geriu apelsinų sultis.	portakal	0	0
+Afiyet olsun!	Skanaus!	afiyet	0	0
+Tom kendi ellerine baktı.	Tomas žiūrėjo į savo rankas.	ellerine	0	0
+Bu göl kentimize su sağlamaktadır.	Šis ežeras aprūpina mus vandeniu.	göl	0	0
+Kadın okuyor.	Moteris skaito.	okuyor	0	0
+Tom ve Mary birlikte iyi görünüyorlar.	Tomas ir Merė kartu gerai atrodo.	görünüyorlar	0	0
+Onun gerçek adı Lisa'dır.	Jos tikras vardas yra Liza.	dır	0	0
+Bahçede oynamayı seviyorum.	Man patinka žaisti sode.	bahçede	0	0
+Şu kız kesinlikle çalışkan bir işçi.	Ta mergina tikrai darbšti darbininkė.	işçi	0	0
+O nedenle toplantıya katılmadı.	Dėl to jis nedalyvavo susitikime.	toplantıya	0	0
+Oyuncaklarını yatağın altına sakladı.	Jis paslėpė savo žaislus po lova.	yatağın	0	0
+Sadako onu unutmak istedi.	Sadako norėjo tai pamiršti.	unutmak	0	0
+Sabah saat yedide uyandım.	Pabudau šeštą ryto.	uyandım	0	0
+Çok meşgul değilsen bana bir dakika yardım edebilir misin?	Jei nesi labai užsiėmus, gal galėtum man vieną minutę padėti?	değilsen	0	0
+Eğer "Seni seviyorum" dersen, ben de aynısını sana söylerim.	Jei pasakytum "Aš tave myliu", aš irgi tą patį tau pasakyčiau.	dersen	0	0
+Ne hissettiğimi biliyorum.	Aš žinau, ką jaučiu.	hissettiğimi	0	0
+O bir kartal değildir.	Jis ne erelis.	kartal	0	0
+Sanıyorum aslında düşündüğümden çok daha fazlasına ihtiyacımız var.	Manau, kad mums iš tikrųjų reikia daug daugiau negu aš galvojau.	düşündüğümden	0	0
+Geçtiğimiz Pazar annem bana güzel bir elbise aldı.	Praėjusį sekmadienį mano mama man nupirko gražią suknelę.	geçtiğimiz	0	0
+Kim kazanacak?	Kas laimės?	kazanacak	0	0
+O kendini daha uzun göstermek için yüksek topuklu ayakkabılar giyiyor.	Ji avi aukštakulnius, kad atrodytų aukštesnė.	ayakkabılar	0	0
+Toplam olarak on bir kişiyiz.	Iš viso mūsų yra vienuolika žmonių.	toplam	0	0
+Tom disiplinden yoksun.	Tomui trūksta disciplinos.	yoksun	0	0
+Tom'un onu sevdiğimizi bilmesini istiyorum.	Aš noriu, kad Tomas žinotų, kad mes jį mylime.	bilmesini	0	0
+Mum ışığını severim.	Man patinka žvakės šviesa.	mum	0	0
+Benim lisanım listede yok.	Mano kalbos sąraše nėra.	listede	0	0
+Tom hemen hemen her türlü aracı sürebilir.	Tomas gali vairuoti beveik kiekvienos rūšies transporto priemonę.	sürebilir	0	0
+Bu kez amacım Paris.	Šį kartą mano tikslas yra Paryžius.	amacım	0	0
+En sevdiğin aktör kimdir?	Kas tavo mėgstamiausias aktorius?	aktör	0	0
+Köpekleri severim.	Man patinka šunys.	köpekleri	0	0
+Hemen hemen tüm ofis çalışanlarının üçte biri gözlük takıyor.	Beveik vienas trečdalis viso biuro darbuotojų nešioja akinius.	üçte	0	0
+Ben bir arı tarafından sokuldum.	Man įgėlė bitė.	arı	0	0
+Kel misin?	Tu plikas?	kel	0	0
+Tom bir çocuk gibi davranılmasına itiraz etti.	Tomas protestavo prieš tai, kad su juo buvo elgiamasi kaip su vaiku.	itiraz	0	0
+Maden suyunu tercih ederim.	Aš teikiu pirmenybę mineraliniam vandeniui.	maden	0	0
+Bu çok yararlı.	Tai labai naudinga.	yararlı	0	0
+Başka bir teori öneriyor musun?	Tu siūlai kitą teoriją?	teori	0	0
+O hapı yuttu.	Jis blogoje padėtyje.	hapı	0	0
+Devam etmemizi öneriyorum.	Siūlau mums tęsti.	öneriyorum	0	0
+Fizik hakkında çok bilgim yok.	Neturiu daug žinių apie fiziką.	fizik	0	0
+İnternet; hakkındaki her şeyi bilir.	Internetas apie tave viską žino.	İnternet	0	0
+Babam yürüyor.	Mano tėvas vaikšto.	yürüyor	0	0
+Güzel bir kadından üç gün sonra usanırsın. Çirkin bir kadına üç gün sonra alışırsın.	Graži moteris po trejų dienų atsibosta. Prie negražios moters po trejų dienų pripranti.	kadından	0	0
+Ona izin vermiyorum.	To neleidžiu.	vermiyorum	0	0
+Bu web sitesinde bayan üyelerden daha fazla erkek üye var.	Šiame internetiniame puslapyje daugiau yra narių vyrų nei moterų.	üye	0	0
+Amerikalıların çoğu hamburger sever.	Dauguma amerikiečių mėgsta mėsainius.	hamburger	0	0
+Mona Lisa kimdi?	Kas buvo Mona Liza?	mona	0	0
+Ben banyoda kendimi ısıttım.	Aš susišildžiau vonioje.	banyoda	0	0
+Metro istasyonunda Mihaela ile karşılaştım.	Metro stotyje sutikau Mihaelą.	metro	0	0
+İster inanın ister inanmayın, onun üç çocuğu var.	Norite tikėkite, norite ne, bet jis turi tris vaikus.	inanın	0	0
+Parayı bankaya yatırın.	Padėkite pinigus į banką.	bankaya	0	0
+Metro istasyonunda Mihaela ile karşılaştım.	Metro stotyje sutikau Mihaelą.	karşılaştım	0	0
+Ben İspanyolca öğretirim.	Dėstau ispanų kalbą.	İspanyolca	0	0
+Pazar gününden beri yağmur yağıyor.	Lyja nuo sekmadienio.	yağıyor	0	0
+Ben tarihi yarın geceye değiştirmek istiyorum.	Aš noriu pakeisti datą į rytojaus naktį.	geceye	0	0
+Babasının sağlığı için endişe duyuyor.	Ji nerimauja dėl tėvo sveikatos.	sağlığı	0	0
+Bu hayvanat bahçesi kaç yaşında?	Kiek metų šiam zoologijos sodui?	bahçesi	0	0
+Beklemekten başka çare yoktu.	Nebuvo kitos išeities, kaip laukti.	çare	0	0
+Uçak güvenli bir şekilde indi.	Lėktuvas saugiai nusileido.	indi	0	0
+Ona 50.000 yen borçluyum.	Aš skolingas jam 50 000 jenų.	yen	0	0
+Büyükbabam benim doğumumdan kısa bir süre sonra ölmüş.	Mano senelis mirė netrukus po mano gimtadienio.	büyükbabam	0	0
+Yedinci sınıftayken okulu bıraktım.	Būdamas septintoje klasėje mečiau mokyklą.	yedinci	0	0
+Farklı insanların farklı fikirleri vardır.	Skirtingų žmonių skirtingos idėjos.	fikirleri	0	0
+Tom dünkü sınavda bir soruyu bile yapamadı.	Tomas negalėjo atsakyti nei į vieną klausimą vakarykščiame teste.	dünkü	0	0
+Brezilya büyük bir ülke.	Brazilija yra didelė šalis.	brezilya	0	0
+Ayakkabıları almadan önce onları denemelisin.	Prieš pirkdamas batus, turi juos pasimatuoti.	ayakkabıları	0	0
+Tavşan ağacın arkasına saklandı.	Triušis pasislėpė už medžio.	ağacın	0	0
+Melanie bir elma yiyor.	Melanie valgo obuolį.	melanie	0	0
+Hawaii'de tüm yıl denizde yüzebilirsiniz.	Havajuose visus metus gali plaukioti jūroje.	denizde	0	0
+O, sadece geçen ay yurt dışından geri geldi.	Jis tik praėjusį mėnesį grįžo iš užsienio.	yurt	0	0
+O bir çocuktu, ama cesurdu.	Jis buvo vaikas, bet jis buvo drąsus.	çocuktu	0	0
+Yalnız yatmaya alışık değildi.	Jis nebuvo pripratęs miegoti vienas.	yatmaya	0	0
+O kendini daha uzun göstermek için yüksek topuklu ayakkabılar giyiyor.	Ji avi aukštakulnius, kad atrodytų aukštesnė.	giyiyor	0	0
+O yarın futbol oynayacak.	Ji rytoj žais futbolą.	oynayacak	0	0
+Küçük bir kentte büyüdü.	Ji užaugo mažame miestelyje.	büyüdü	0	0
+Ben televizyonsuz yaşayamam.	Aš be televizoriaus negaliu gyventi.	yaşayamam	0	0
+Biz sık sık balığı çiğ yedik.	Mes dažnai valgėm žalią žuvį.	yedik	0	0
+Sabahları genellikle kahve içerim, akşamları çay içerim.	Rytais paprastai geriu kavą, o vakarais arbatą.	sabahları	0	0
+İnsanlar bilgisayarı hem oyunlar, hem de iş için kullanırlar.	Žmonės kompiuterį naudoja ir žaidimams, ir taip pat darbui.	bilgisayarı	0	0
+Boston'da 1995'te doğdum.	Aš gimiau 1995 metais Bostone.	doğdum	0	0
+Bu fotoğrafa bakarken ailemi hatırlarım.	Žiūrėdamas į šią nuotrauką prisimenu savo šeimą.	bakarken	0	0
+Ne yapacağıma karar vermeliyim.	Turiu nuspręsti, ką darysiu.	vermeliyim	0	0
+İster inan ister inanma, Tom 70 yaşında.	Tikėk tuo, ar ne, Tomui yra 70 metų.	inanma	0	0
+Okulumuz on sınıfa sahiptir.	Mūsų mokykla turi dešimt klasių.	sınıfa	0	0
+O, küçük ve güçsüz.	Ji maža ir silpna.	güçsüz	0	0
+Çok daha fazlasına sahibim.	Aš turiu daug daugiau.	fazlasına	0	0
+Buna inanmam zor.	Man sunku tuo patikėti.	inanmam	0	0
+Teslimat için bir ücret alıyor musunuz?	Ar man reikės mokėti už pristatymą?	teslimat	0	0
+Bence benden hoşlanıyorsun.	Manau, kad tau aš patinku.	hoşlanıyorsun	0	0
+Sigara içmeyi bırakmalısın.	Turi mesti rūkyti.	bırakmalısın	0	0
+Otel odam beklediğimden daha fazlasına mal oldu.	Mano viešbučio kambarys kainavo daugiau nei aš tikėjausi.	odam	0	0
+Sizin şirketten hoşlandım.	Man patiko jūsų įmonė.	hoşlandım	0	0
+Şanslı değildik.	Mums nesisekė.	değildik	0	0
+Dün saat beş'te saçımı yıkıyordum.	Vakar penktą valandą aš ploviau galvą.	saçımı	0	0
+Bu elbiseyi denemek istiyorum.	Aš noriu pasimatuoti šią suknelę.	elbiseyi	0	0
+İnsanlar dünyanın her yerinde yaşıyorlar.	Žmonės gyvena visose pasaulio vietose.	yaşıyorlar	0	0
+İnsanlar bilgisayarı hem oyunlar, hem de iş için kullanırlar.	Žmonės kompiuterį naudoja ir žaidimams, ir taip pat darbui.	oyunlar	0	0
+O, ruj için 20 dolar ödedi.	Ji sumokėjo 20 dolerių už lūpdažį.	ödedi	0	0
+Sınavı geçtiğin haberini duyduk.	Girdėjome naujienas, kad tu išlaikei egzaminą.	sınavı	0	0
+Tuvaleti temiz tutun.	Palaikykite švarą tualete.	tuvaleti	0	0
+Girmesine izin ver.	Leisk jam įeiti.	girmesine	0	0
+Philip ve Sheila geç kaldı. Ben de geç kaldım mı?	Filipas ir Šeila pavėlavo. Aš ir pavėlavau?	sheila	0	0
+Tüm insanlar havayı solur.	Visi žmonės kvėpuoja oru.	havayı	0	0
+O teoriye inanmıyorsun, değil mi?	Tu netiki ta teorija, ar ne?	inanmıyorsun	0	0
+Julien, John Lennon gibi, yuvarlak gözlükler takıyor.	Žiuljen, kaip ir Džonas Lenonas, nešioja apvalius akinius.	yuvarlak	0	0
+O, memleketinde toprağa verildi.	Ji buvo palaidota savo gimtinėje.	toprağa	0	0
+Tom hâlâ şarkılar yazar.	Tomas vis dar rašo dainas.	şarkılar	0	0
+Adaya uçmak sana 100 dolara mal olacak.	Nuskristi į salą tau kainuos 100 dolerių.	adaya	0	0
+Bekleyecek misiniz?	Lauksite?	bekleyecek	0	0
+Bu web sitesinde bayan üyelerden daha fazla erkek üye var.	Šiame internetiniame puslapyje daugiau yra narių vyrų nei moterų.	web	0	0
+Tom sana bakıyordu.	Tomas į tave žiūrėjo.	bakıyordu	0	0
+Fikirler ölmez.	Idėjos nemiršta.	fikirler	0	0
+Bu kelimenin kullanımı yaygın değil.	Šis žodis nėra plačiai vartojamas.	yaygın	0	0
+Ne kadar erken yatağa gidersem o kadar erken uyanırım.	Kuo ankščiau nueinu miegoti, tuo anksčiau keliuosi.	gidersem	0	0
+Partiye gidebilirsin, ancak gece yarısına kadar eve olmalısın.	Gali eiti į vakarėlį, bet turi būti namie iki vidurnakčio.	yarısına	0	0
+Armut yiyorum.	Aš valgau kriaušę.	yiyorum	0	0
+Kocasını affetti.	Ji atleido savo vyrą.	kocasını	0	0
+Portakal suyu içiyorum.	Geriu apelsinų sultis.	içiyorum	0	0
+Sanırım sağ kolum kırık.	Manau, kad mano dešinė ranka yra lūžusi.	kolum	0	0
+Babam nadiren sigara içer.	Mano tėvas rūko retai.	nadiren	0	0
+Geçen gece burada mı uyudun?	Praeitą naktį čia miegojai?	uyudun	0	0
+Köpeğim üzüm yiyor.	Mano šuo ėda vynuoges.	köpeğim	0	0
+Bana kızma.	Nepyk ant manęs.	kızma	0	0
+O beni sevseydi mutlu olmaz mıydım?	Jeigu jis mane mylėtų, ar aš būčiau nelaiminga?	mıydım	0	0
+Ben bir hokey takımındayım.	Aš priklausau ledo ritulio komandai.	hokey	0	0
+O, niçin saklanıyor?	Kodėl jis slepiasi?	saklanıyor	0	0
+Eldiven giyiyor.	Ji mūvi pirštines.	eldiven	0	0
+Sabahları genellikle kahve içerim, akşamları çay içerim.	Rytais paprastai geriu kavą, o vakarais arbatą.	içerim	0	0
+Ben çok iyi bir şarkıcı değilim.	Aš nesu labai geras daininkas.	şarkıcı	0	0
+Tom'un çok güzel el yazısı var.	Tomas turi labai gražią rašysena.	yazısı	0	0
+O çok utangaç. Sizi görmek istediğini söylüyor.	Jis labai drovus. Jis sako norintis jus pamatyti.	utangaç	0	0
+Bu derste alfabeyi öğreneceğiz.	Šioje pamokoje išmoksime abėcėlę.	öğreneceğiz	0	0
+Kimse dinlemiyor.	Niekas neklauso.	dinlemiyor	0	0
+Taze gıda harika.	Šviežias maistas yra nuostabus.	gıda	0	0
+Bu duanın yazarı kim bilmiyorum.	Nežinau, kas šio sakinio autorius.	yazarı	0	0
+Hatalar yapmaktan korkmayın.	Nebijok padaryti klaidos.	hatalar	0	0
+Tenis oynadın mı?	Žaidei tenisą?	oynadın	0	0
+Ben uyandığımda, diğer tüm yolcular inmişti.	Kai aš prabudau, visi kiti keleiviai buvo išlipę.	uyandığımda	0	0
+Çayı seviyorum.	Aš myliu arbatą.	çayı	0	0
+Tom anlayacak.	Tomas supras.	anlayacak	0	0
+Çok çalışman gerekiyor.	Tau reikia daug dirbti.	çalışman	0	0
+Adaya uçmak sana 100 dolara mal olacak.	Nuskristi į salą tau kainuos 100 dolerių.	uçmak	0	0
+Gökyüzünde garip bir şey gördüm.	Mačiau danguje keistą dalyką.	gökyüzünde	0	0
+Köpeğim üzüm yiyor.	Mano šuo ėda vynuoges.	üzüm	0	0
+Fizik hakkında çok bilgim yok.	Neturiu daug žinių apie fiziką.	bilgim	0	0
+Oğlun, neredeyse senin babanın bir kopyası.	Tavo sūnus yra beveik tavo tėvo kopija.	kopyası	0	0
+O iyidir. Onu denemelisin.	Tai yra gerai. Tu turi tai pabandyti.	denemelisin	0	0
+Tom yalın ayak yürümeye alışık değildir.	Tomas nepripratęs vaikščioti basomis kojomis.	alışık	0	0
+Her zaman parlak renkli kravat takıyorsun.	Tu visą laiką dėvi ryškiaspalvį kaklaraištį.	kravat	0	0
+Çocuk kutuda saklanıyordu.	Vaikas slėpėsi dėžėje.	kutuda	0	0
+Tom da kayak sever.	Tomas taip pat mėgsta slidinėti.	kayak	0	0
+Tenis oynadım.	Žaidžiau tenisą.	oynadım	0	0
+Tom bitirdi mi?	Ar Tomas baigė?	bitirdi	0	0
+İstediğin kadar konuşabilirsin.	Gali kalbėti tiek, kiek nori.	konuşabilirsin	0	0
+Maden suyunu tercih ederim.	Aš teikiu pirmenybę mineraliniam vandeniui.	suyunu	0	0
+Tom üniversiteden beri bir parça değişmedi.	Tomas nuo universiteto nei kiek nepasikeitė.	değişmedi	0	0
+Dayım bana bu kitabı aldı.	Mano dėdė man nupirko šitą knygą.	dayım	0	0
+Başarısızın tekiyim.	Aš nevykėlė.	tekiyim	0	0
+Neden bir kazak giyiyorsun?	Kodėl dėvi megztinį?	giyiyorsun	0	0
+Mary Boston' u özlüyor.	Merė ilgisi Bostono.	özlüyor	0	0
+Onun karakteri hakkında kesinlikle haklısın.	Tu esi visiškai teisus apie jos charakterį.	karakteri	0	0
+Her gün Fransızca okur musun?	Kiekvieną dieną skaitai prancūziškai?	okur	0	0
+Sigara içmeyi bıraktım.	Aš mečiau rūkyti.	içmeyi	0	0
+Onu aramaya cesaretin var mı?	Tu turi drąsos jam paskambinti?	cesaretin	0	0
+Bunu kendi gözlerimle gördüm.	Aš tai mačiau savo akimis.	gözlerimle	0	0
+Hemen hemen tüm ofis çalışanlarının üçte biri gözlük takıyor.	Beveik vienas trečdalis viso biuro darbuotojų nešioja akinius.	gözlük	0	0
+Kapıyı açık bıraktık.	Jie paliko atidarytas duris.	bıraktık	0	0
+Tom, Mary'nin aramasını bekliyor.	Tomas laukia Mary skambučio.	aramasını	0	0
+Bir yıl on iki aya sahiptir.	Metai turi dvylika mėnesių.	sahiptir	0	0
+Evimin yanında güzel bir park var.	Prie mano namų yra gražus parkas.	evimin	0	0
+Kuşları gözlemekten hoşlanırlar.	Jiems patinka stebėti paukščius.	kuşları	0	0
+Endişe onun sağlığını etkiledi.	Nerimas paveikė jo sveikatą.	etkiledi	0	0
+Onlar şikâyet etmekten başka bir şey yapmıyorlar.	Jie daugiau nieko nedaro tik skundžiasi.	şikâyet	0	0
+Onu bırakmayı denemeliydim.	Aš turėjau tai mesti.	bırakmayı	0	0
+Amacın nedir?	Koks tavo tikslas?	amacın	0	0
+Hislerini saklamayı denedi.	Jis bandė nuslėpti savo jausmus.	hislerini	0	0
+Eğer fazla param olsaydı, kalemi alırdım.	Jei būčiau turėjęs daugiau pinigų, būčiau nusipirkęs parkerį.	alırdım	0	0
+Bu caddede doğru git ve solda postaneye geleceksin.	Eik šia gatve tiesiai ir kairėje prieisi paštą.	solda	0	0
+O bir köpeğe ve altı kediye sahiptir.	Jis turi šunį ir šešias kates.	köpeğe	0	0
+Bir aydan kısa bir süredir Çin'de bulunuyorum.	Aš buvau Kinijoje trumpiau nei vieną mėnesį.	aydan	0	0
+Son on yılda fiyatlar yüzde elli arttı.	Per paskutinius dešimt metų kainos pakilo penkiasdešimt procentų.	arttı	0	0
+Hatalar yapmaktan korkmayın.	Nebijok padaryti klaidos.	korkmayın	0	0
+Herkesin önünde konuşmalar yapmaya alışık değilim.	Aš nesu pripratęs sakyti kalbą prieš visus.	konuşmalar	0	0
+Biz sık sık balığı çiğ yedik.	Mes dažnai valgėm žalią žuvį.	çiğ	0	0
+Küçük tepeler uçaktan düz görünüyorlar.	Mažos kalvelės iš lėktuvo atrodo plokščios.	uçaktan	0	0
+Tom bankta Mary'nin yanında oturdu.	Tomas sedėjo ant suolelio šalia Merės.	oturdu	0	0
+Ev sahibimiz bize bir içki önerdi.	Mūsų namo šeimininkas pasiūlė mums išgerti.	önerdi	0	0
+Kız kardeşin tüm arkadaşlarımın en çalışkanıdır.	Tavo sesė yra darbščiausia iš visų mano draugų.	arkadaşlarımın	0	0
+Sınavı geçtiğin haberini duyduk.	Girdėjome naujienas, kad tu išlaikei egzaminą.	haberini	0	0
+Hislerini saklamayı denedi.	Jis bandė nuslėpti savo jausmus.	denedi	0	0
+Buradaki tüm ağaçları kesecek misin?	Ar tu nukirsi visus čia esančius medžius?	ağaçları	0	0
+Pencereyi açar mısın?	Gal atidarytum langą?	pencereyi	0	0
+Sen berbat bir yalancısın.	Tu siaubinga melagė.	yalancısın	0	0
+Tom dolaba saklandı.	Tomas pasislėpė spintoje.	dolaba	0	0
+Soruya cevap vermeyi reddediyorum.	Atsisakau atsakyti į klausimą.	reddediyorum	0	0
+Koş ve saklan.	Bėk ir slėpkis.	saklan	0	0
+Tom Mary'yi parkta bir bankta otururken buldu.	Tomas rado Merę parke sėdint ant suolelio.	otururken	0	0
+Film berbattı.	Filmas buvo siaubingas.	berbattı	0	0
+Konuşmama izin ver.	Leisk man kalbėti.	konuşmama	0	0
+Saf olmayın.	Nebūkite naivūs.	olmayın	0	0
+O, sadece geçen ay yurt dışından geri geldi.	Jis tik praėjusį mėnesį grįžo iš užsienio.	dışından	0	0
+O geçen haftadan beri hasta.	Nuo praeitos savaitės ji serga.	haftadan	0	0
+Şair değilim.	Aš ne poetas.	şair	0	0
+Genel olarak, Japonlar çalışkandır.	Apskritai, japonai yra darbštūs.	japonlar	0	0
+Gözlük ne kadardı?	Kiek kainavo akiniai?	kadardı	0	0
+Ailemden nefret ediyorum.	Aš nekenčiu mano šeimą.	ailemden	0	0
+Öğle yemeğinden en az bir saat önce, Tom her zaman aç hisseder.	Tomas visada jaučiasi alkanas mažiausiai vieną valandą prieš pietus.	yemeğinden	0	0
+Partide, herkes güzel elbiseler giyiyordu.	Vakarėlyje visi vilkėjo gražius drabužius.	elbiseler	0	0
+Tom Mary'nin sahip olduğu kadar çok kitaba sahip değil.	Tomas neturi tiek daug knygų, kiek Merė.	kitaba	0	0
+Günlerdir hiç yemek yememiş gibi görünüyordu.	Ji atrodo, kaip keletą dienų nieko nevalgius.	günlerdir	0	0
+Dünden beri hava soğuk.	Nuo vakar oras šaltas.	dünden	0	0
+Bu şirkette çalışırım.	Aš dirbu šioje įmonėje.	şirkette	0	0
+Kitapçıya kadar yürüyelim.	Eikime iki knygyno.	yürüyelim	0	0
+Caz müziği severim.	Man patinka džiazo muzika.	caz	0	0
+Bill sigarayı bıraktı.	Bill metė rūkyti.	sigarayı	0	0
+Eğer fazla param olsaydı, kalemi alırdım.	Jei būčiau turėjusi daugiau pinigų, būčiau nusipirkusi parkerį.	kalemi	0	0
+Tatilde hiçbir şey yapmadım.	Per atostogas nieko nepadariau.	tatilde	0	0
+Ben bütün kalbimle teşekkür ediyorum.	Dėkoju tau iš visos širdies.	kalbimle	0	0
+Tom üniversiteden beri bir parça değişmedi.	Tomas nuo universiteto nei kiek nepasikeitė.	üniversiteden	0	0
+Tom daha önce üç fincan kahve içti.	Tomas jau išgėrė tris puodelius kavos.	içti	0	0
+Amerika Birleşik Devletleri savaşın dışında kalmayı umut ediyordu.	JAV tikėjo likti už karo ribų.	devletleri	0	0
+Öğrenci tüm problemleri daha önce çözdü.	Studentas jau anksčiau išsprendė visas problemas.	problemleri	0	0
+Adam ekmeği yedi.	Vyras valgė duoną.	ekmeği	0	0
+Bugünkü dünya rahat yaşamını petrole borçludur.	Šiandieninis pasaulis už patogų gyvenimą yra dėkingas naftai.	yaşamını	0	0
+Bu caddede doğru git ve solda postaneye geleceksin.	Eik šia gatve tiesiai ir kairėje prieisi paštą.	caddede	0	0
+İngilizce yazılmış bir kitap okudu.	Jis skaitė anglų kalba parašytą knygą.	okudu	0	0
+Devam etmemizi öneriyorum.	Siūlau mums tęsti.	etmemizi	0	0
+O köpeği serbest bırakmayın.	Nepaleiskite to šuns.	bırakmayın	0	0
+Bu kelimenin kullanımı yaygın değil.	Šis žodis nėra plačiai vartojamas.	kelimenin	0	0
+Tom'u hastanede ziyarete gitmelisiniz.	Mes turime eiti aplankyti Tomą ligoninėje.	gitmelisiniz	0	0
+Onun işi bulaşık yıkamaktır.	Jos darbas yra plauti indus.	bulaşık	0	0
+Fikrini değiştirirsen, bize bildir.	Jei persigalvosi, pranešk mums.	bildir	0	0
+Hemen hemen tüm ofis çalışanlarının üçte biri gözlük takıyor.	Beveik vienas trečdalis viso biuro darbuotojų nešioja akinius.	takıyor	0	0
+Sabahları genellikle kahve içerim, akşamları çay içerim.	Rytais paprastai geriu kavą, o vakarais arbatą.	akşamları	0	0
+Bir dörtlü, bir üçlüden bir üye daha fazladır.	Kvartete yra vienu nariu daugiau, nei trio.	fazladır	0	0
+O, yolcuya yiyecek ve giyecek sağladı.	Ji aprūpino keliautoją maistu ir drabužiais.	giyecek	0	0
+Kendine bakmalısın.	Turi rūpintis savimi.	bakmalısın	0	0
+O, otobüste bulduğum aynı şemsiye.	Tai tas pats skėtis, kurį radau autobuse.	otobüste	0	0
+Güzel güneşli bir gündü.	Tai buvo graži saulėta diena.	güneşli	0	0
+Onu nasıl tanıdın?	Kaip tu su ja susipažinai?	tanıdın	0	0
+O iyi bir müzisyen.	Ji gera muzikantė.	müzisyen	0	0
+O erken vardığında onu şaşırttı.	Ji nustebino jį atvykusi anksti.	şaşırttı	0	0
+En sevdiğin aktör kimdir?	Kas tavo mėgstamiausias aktorius?	kimdir	0	0
+O, ruj için 20 dolar ödedi.	Jis sumokėjo 20 dolerių už lūpdažį.	ruj	0	0
+Yarasına bir mendil koydu.	Jis padėjo nosinę ant savo žaizdos.	mendil	0	0
+Onun söylediği her şey doğruydu.	Viskas, ką ji sakė, buvo tiesa.	doğruydu	0	0
+Durumla başa çıkmak benim için zor.	Man sunku susitvarkyti su padėtimi.	durumla	0	0
+Öğrencilerin çoğu sporları sever.	Dauguma studentų mėgsta sportą.	öğrencilerin	0	0
+Bu kelimenin kullanımı yaygın değil.	Šis žodis nėra plačiai vartojamas.	kullanımı	0	0
+Kimse bilmeyecek.	Niekas nežinos.	bilmeyecek	0	0
+O durumda ne yapmalıydım?	Ką turėjau daryti toje situacijoje?	yapmalıydım	0	0
+Sorunu kolaylıkla çözebildi.	Jis lengvai galėjo išspręsti problemą.	kolaylıkla	0	0
+İnek bize süt sağlamaktadır.	Karvė aprūpina mus pienu.	İnek	0	0
+Kaça mal olacak?	Kiek kainuos?	kaça	0	0
+Bu değişmeyecek.	Tai nepasikeis.	değişmeyecek	0	0
+Bekleyemeyiz.	Mes negalime laukti.	bekleyemeyiz	0	0
+Fare burada! Git de kediyi çağır!	Čia yra pėlė! Pakviesk katę!	kediyi	0	0
+Biletler, tüm şehirlerde çabuk satılıyor.	Bilietai yra greitai parduodami visuose miestuose.	biletler	0	0
+Buradaki tüm ağaçları kesecek misin?	Ar tu nukirsi visus čia esančius medžius?	kesecek	0	0
+Bir kitap okurum.	Aš skaitau knygą.	okurum	0	0
+Neden bir kazak giyiyorsun?	Kodėl dėvi megztinį?	kazak	0	0
+Öğle yemeğinden en az bir saat önce, Tom her zaman aç hisseder.	Tomas visada jaučiasi alkanas mažiausiai vieną valandą prieš pietus.	hisseder	0	0
+Metro istasyonunda Mihaela ile karşılaştım.	Metro stotyje sutikau Mihaelą.	istasyonunda	0	0
+Bu masa Tom tarafından kullanılıyor.	Šis stalas yra naudojamas Tomo.	kullanılıyor	0	0
+Tom benim yanımda oturuyordu.	Tomas sėdėjo šalia manęs.	oturuyordu	0	0
+Tom basit sorulara bile cevap veremedi.	Tomas negalėjo atsakyti net į paprastą klausimą.	sorulara	0	0
+Erkek arkadaşından almış olduğu hediyeyi bana gösterdi.	Ji parodė man dovaną, gautą iš mylimojo.	arkadaşından	0	0
+Erkek arkadaşından almış olduğu hediyeyi bana gösterdi.	Ji parodė man dovaną, gautą iš mylimojo.	hediyeyi	0	0
+Çok paranız yok.	Jūs neturite daug pinigų.	paranız	0	0
+Beklemekten başka çare yoktu.	Nebuvo kitos išeities, kaip laukti.	beklemekten	0	0
+Toplam olarak on bir kişiyiz.	Iš viso mūsų yra vienuolika žmonių.	kişiyiz	0	0
+Öğle yemeğinde bana katılır mısın?	Prisijungsi prie manęs vakarienei?	katılır	0	0
+En sevdiğiniz film nedir?	Koks jūsų mėgstamiausias filmas?	sevdiğiniz	0	0
+Irkın ya da yaşın ya da dinin umurumda değil.	Man nerūpi tavo rasė, amžius ar religija.	yaşın	0	0
+Bu elmayı yiyebilir miyim?	Ar galiu valgyti šį obuolį?	yiyebilir	0	0
+Çok geç kalktım ve okula çok geç kaldım.	Labai vėlai atsikėliau ir pavėlavau į mokyklą.	kalktım	0	0
+Senin fikirlerin benimkinden farklı.	Tavo idėjos yra kitokios nei mano.	benimkinden	0	0
+Avusturya müziğini severim.	Man patinka austriška muzika.	avusturya	0	0
+Rap sever misin?	Tau patinka repas?	rap	0	0
+Mum ışığını severim.	Man patinka žvakės šviesa.	ışığını	0	0
+O, onu yanağından öptü.	Jis pabučiavo ją į skruostą.	öptü	0	0
+O Allah'a inanmaz.	Ji netiki Dievu.	inanmaz	0	0
+Kimse benimle konuşmadı.	Niekas su manim nekalbėjo.	konuşmadı	0	0
+Kütüphaneye gidiyorum.	Aš einu į biblioteką.	kütüphaneye	0	0
+Evim büyüktür.	Mano namas didelis.	büyüktür	0	0
+O, çalışkan bir öğrenci mi?	Ji darbšti mokinė?	çalışkan	0	0
+Tom babasından korkuyor.	Tomas bijo savo tėvo.	babasından	0	0
+Her zaman parlak renkli kravat takıyorsun.	Tu visą laiką dėvi ryškiaspalvį kaklaraištį.	takıyorsun	0	0
+Her şeyini kaybedeceksin.	Tu viską prarasi.	kaybedeceksin	0	0
+Amerikalıların çoğu hamburger sever.	Dauguma amerikiečių mėgsta mėsainius.	amerikalıların	0	0
+Kimse bakmıyor.	Niekas nežiūri.	bakmıyor	0	0
+Tom karar vermeli.	Tomas turi nuspręsti.	vermeli	0	0
+Ben bir milyoner değilim.	Aš ne milijonierius.	milyoner	0	0
+Sporda çok kötüyüm.	Man nesiseka sportas.	kötüyüm	0	0
+Hangi amaçla?	Kokiu tikslu?	amaçla	0	0
+Kalmama izin ver.	Leisk man pasilikti.	kalmama	0	0
+Tom ağlamayı durdurmayacak.	Tomas nesustos verkęs.	ağlamayı	0	0
+Kiminle konuşuyordun?	Su kuo kalbėjai?	konuşuyordun	0	0
+Sizin şirketten hoşlandım.	Man patiko jūsų įmonė.	şirketten	0	0
+Çinliler çok çalışkan bir halktır.	Kinai yra labai darbšti tauta.	çinliler	0	0
+Onu biz inşa etmedik.	Mes to nestatėme.	etmedik	0	0
+Kimse ölmeyecek.	Niekas nemirs.	ölmeyecek	0	0
+Teklifimi kabul etmedi.	Ji nesutiko su mano pasiūlymu.	teklifimi	0	0
+Niçin Fransızca öğrenmeliyim?	Kodėl aš turiu mokytis prancūzų?	öğrenmeliyim	0	0
+Julien, John Lennon gibi, yuvarlak gözlükler takıyor.	Žiuljen, kaip ir Džonas Lenonas, nešioja apvalius akinius.	julien	0	0
+Oyuncaklarını yatağın altına sakladı.	Jis paslėpė savo žaislus po lova.	sakladı	0	0
+Yaşam için değil ama okul için öğreniriz.	Ne gyvenimui, bet mokyklai mokomės.	öğreniriz	0	0
+O güneş gözlüğü takıyor.	Jis dėvi akinius nuo saulės.	gözlüğü	0	0
+Tom elbette tenis oynayabilir.	Tomas tikrai gali žaisti tenisą.	oynayabilir	0	0
+Tom şaşkın görünüyordu.	Tomas atrodė sumišęs.	şaşkın	0	0
+O kalkmak için çabaladı.	Jis stengėsi atsikelti.	kalkmak	0	0
+Ölümden korkmam.	Aš nebijau mirties.	korkmam	0	0
+Arkandayım.	Aš už tavęs.	arkandayım	0	0
+Benimle gurur duymalısın.	Tu turi manim didžiuotis.	duymalısın	0	0
+Galiba bu kırmızı kazağı giyeceğim.	Tikriausiai dėvėsiu šį raudoną megztinį.	giyeceğim	0	0
+Kimse konuşmayacak.	Niekas nekalbės.	konuşmayacak	0	0
+Eğer yarın yağmur yağarsa, evde oturacağım.	Jei rytoj lis, pasiliksiu namie.	oturacağım	0	0
+Ben uyandığımda, diğer tüm yolcular inmişti.	Kai aš prabudau, visi kiti keleiviai buvo išlipę.	yolcular	0	0
+Ben köpekleri severim, ama kız kardeşim kedileri sever.	Man patinka šunys, bet mano sesei patinka katės.	kedileri	0	0
+Buzdolabı kirli.	Šaldytuvas yra nešvarus.	buzdolabı	0	0
+Eve gitmemizi öneriyorum.	Siūlau mums eiti namo.	gitmemizi	0	0
+Haberleri dinlemek için radyoyu açtım.	Įjungiau radiją, kad paklausyčiau naujienų.	radyoyu	0	0
+Leyla para istiyordu.	Leila prašė pinigų.	leyla	0	0
+O hapı yuttu.	Jis blogoje padėtyje.	yuttu	0	0
+Çok gerginsin.	Tu per daug įsitempus.	gerginsin	0	0
+Seninle birebir konuşmam lâzım.	Man reikia su tavim pasikalbėti akis į akį.	birebir	0	0
+Benimle konsere gelecek misin?	Ar tu ateisi į koncertą su manimi?	konsere	0	0
+Tom dağlarda saklanıyordu.	Tomas slėpėsi kalnuose.	dağlarda	0	0
+Çok cesursun, değil mi?	Tu labai drąsi, ar ne?	cesursun	0	0
+Boston'da yaşadığımda, her gün bisikletimi sürdüm.	Gyvendamas Bostone kiekvieną dieną važinėdavau su dviračiu.	sürdüm	0	0
+Tom'u bu resimde görebiliyor musun?	Ar gali matyti Tomą šioje nuotraukoje?	resimde	0	0
+Bu akşam benim ofisime uğra.	Šį vakarą užsuk į mano biurą.	uğra	0	0
+O, yılanlar gibi, garip hayvanlardan hoşlanıyor.	Jam patinka keisti gyvūnai, tokie kaip gyvatė.	yılanlar	0	0
+O koyu kahverengi ayakkabılar giyiyordu.	Ji avėjo tamsiai rudus batus.	giyiyordu	0	0
+O çıldırdı.	Ji išprotėjo.	çıldırdı	0	0
+Jack sınıftaki en zeki çocuktur.	Džekas protingiausias klasės vaikas.	çocuktur	0	0
+Bir aydan kısa bir süredir Çin'de bulunuyorum.	Aš buvau Kinijoje trumpiau nei vieną mėnesį.	bulunuyorum	0	0
+İşin öğlenden önce bitmesi gerekiyor.	Darbas turi būti pabaigtas prieš pietus.	bitmesi	0	0
+Ağacın yaprakları sarardı.	Medžio lapai pageltonavo.	yaprakları	0	0
+O, ne okuyabilir nede yazabilir.	Jis nemoka nei skaityti, nei rašyti.	okuyabilir	0	0
+Onlar şikâyet etmekten başka bir şey yapmıyorlar.	Jie daugiau nieko nedaro tik skundžiasi.	yapmıyorlar	0	0
+Tom'u eve götürmeliyim.	Turiu nuvesti Tomą namo.	götürmeliyim	0	0
+Okullar yapıldı.	Mokyklos buvo pastatytos.	okullar	0	0
+Ondan hoşlandın mı?	Ar tau tai patiko?	hoşlandın	0	0
+Kitabevi açıktır.	Knygynas yra atidarytas.	açıktır	0	0
+Benim dersim yok.	Man nėra pamokų.	dersim	0	0
+Buradaki öğrencilerin çoğunluğu çalışkan.	Dauguma čia esančių studentų yra darbštūs.	çoğunluğu	0	0
+Bebek ayakta durabilir ama yürüyemez.	Kūdikis gali stovėti, bet negali vaikščioti.	durabilir	0	0
+Şimdi tiyatroya gitmeliyim.	Dabar turiu eiti į teatrą.	tiyatroya	0	0
+John cebinden bir anahtar çıkardı.	Džonas išsitraukė raktą iš savo kišenės.	cebinden	0	0
+Bir süre mutluydu.	Kurį laiką ji buvo laiminga.	mutluydu	0	0
+Güneş doğuyor.	Saulė teka.	doğuyor	0	0
+Yarın hava tahminine göre kar yağacak.	Pagal orų prognozę rytoj snigs.	yağacak	0	0
+En çok hangi yemeği seviyorsunuz?	Kurį maistą jūs labiausiai mėgstate?	seviyorsunuz	0	0
+Hâlâ hayattayım.	Aš dar gyva.	hayattayım	0	0
+Şaşırdım, o, sözlüğü nasıl kullanacağını bilmiyordu.	Nustebau, kad jis nežinojo kaip naudotis žodynu.	kullanacağını	0	0
+Uyuyordum.	Aš miegojau.	uyuyordum	0	0
+Ken, temmuz ayının sonunda Amerika Birleşik Devletleri'ne gidiyor.	Kenas liepos mėnesio gale vyksta į Jungtines Amerikos valstijas.	ayının	0	0
+O kedinin güzel bir kürkü var.	Ta katė turi gražų kailį.	kedinin	0	0
+Tom'un boğazı ağrıyor.	Tomui skauda gerklę.	boğazı	0	0
+Hiç hata yapmayan insan, hiçbir şey yapmayan insandır.	Jokių klaidų nedarantis žmogus yra nieko nedarantis žmogus.	insandır	0	0
+Biraz sarhoşum.	Aš truputį išgėręs.	sarhoşum	0	0
+Tom sınıfında en çalışkan öğrencidir.	Tomas darbščiausias mokinys klasėje.	sınıfında	0	0
+Çok uzun saçlarım var.	Aš turiu labai ilgus plaukus.	saçlarım	0	0
+Çok yavaş bir trendi. Her küçük istasyonda durdu.	Tai buvo labai lėtas traukinys. Sustodavo kiekvienoje mažoje stotyje.	istasyonda	0	0
+Pazar gününden beri yağmur yağıyor.	Lyja nuo sekmadienio.	gününden	0	0
+O kendini daha uzun göstermek için yüksek topuklu ayakkabılar giyiyor.	Ji avi aukštakulnius, kad atrodytų aukštesnė.	topuklu	0	0
+Otel odam beklediğimden daha fazlasına mal oldu.	Mano viešbučio kambarys kainavo daugiau nei aš tikėjausi.	beklediğimden	0	0
+Seni bekleyebilirim.	Aš galiu tavęs palaukti.	bekleyebilirim	0	0
+Elektriksiz ve susuz bir dünya hayal edemeyiz.	Mes negalime įsivaizduoti pasaulio be elektros ir vandens.	susuz	0	0
+Senin fikirlerin benimkinden farklı.	Tavo idėjos yra kitokios nei mano.	fikirlerin	0	0
+Kaleyi kızıl derililere terk etti.	Jie paliko fortą indėnams.	kaleyi	0	0
+Avusturya müziğini severim.	Man patinka austriška muzika.	müziğini	0	0
+Anahtarlarımı masanın üstüne bıraktım. Onları bana getirir misin?	Palikau savo raktus ant stalo viršaus. Gal galėtum atnešti man juos?	anahtarlarımı	0	0
+Fikirler ölmez.	Idėjos nemiršta.	ölmez	0	0
+Odanız kirli.	Jūsų kambarys yra nešvarus.	odanız	0	0
+Lütfen yen'i dolarla değiştirin.	Prašau pakeiskite jenas į dolerius.	değiştirin	0	0
+Doğru yerdeyiz.	Mes tinkamoje vietoje.	yerdeyiz	0	0
+Fikrini değiştirirsen, bize bildir.	Jei persigalvosi, pranešk mums.	değiştirirsen	0	0
+Ne yapacağıma karar vermeliyim.	Turiu nuspręsti, ką darysiu.	yapacağıma	0	0
+Denemeliyiz.	Mes turime pabandyti.	denemeliyiz	0	0
+Seni yüzde yüz destekliyorum.	Palaikau tave šimtu procentų.	destekliyorum	0	0
+Romanın son sayfasını henüz okumadım.	Dar neperskaičiau paskutinio romano puslapio.	okumadım	0	0
+Yer hemen hemen boştu.	Vieta buvo beveik tuščia.	boştu	0	0
+O erken vardığında onu şaşırttı.	Ji nustebino jį atvykusi anksti.	vardığında	0	0
+Bitirmeme izin ver.	Leisk man pabaigti.	bitirmeme	0	0
+Beş sene Japonca çalıştım.	Aš mokausi japonų kalbos penkerius metus.	japonca	0	0
+Armut yiyorum.	Aš valgau kriaušę.	armut	0	0
+Bir dörtlü, bir üçlüden bir üye daha fazladır.	Kvartete yra vienu nariu daugiau, nei trio.	dörtlü	0	0
+İnsanlar bilgisayarı hem oyunlar, hem de iş için kullanırlar.	Žmonės kompiuterį naudoja ir žaidimams, ir taip pat darbui.	kullanırlar	0	0
+İçmek için sıcak bir şey istiyorum.	Noriu atsigerti kažko šilto.	İçmek	0	0
+Jack sınıftaki en zeki çocuktur.	Džekas protingiausias klasės vaikas.	sınıftaki	0	0
+Bu derste alfabeyi öğreneceğiz.	Šioje pamokoje išmoksime abėcėlę.	derste	0	0
+Arkadaşımdan bir mektup aldım.	Gavau laišką iš savo draugo.	arkadaşımdan	0	0
+Bu cümleyi ben yazmadım.	Aš nerašiau šio sakinio.	yazmadım	0	0
+Bir süre bana bakmaktan başka bir şey yapmadı.	Kurį laiką ji nieko nedarė, tik žiūrėjo į mane.	bakmaktan	0	0
+Burada kalmalıyım.	Aš turiu čia pasilikti.	kalmalıyım	0	0
+Bu cümleyi ben yazmadım.	Aš neparašau šio sakinio.	cümleyi	0	0
+Onu çocukluğundan beri tanırım.	Aš ją pažįstu nuo jos vaikystės.	çocukluğundan	0	0
+Tüm günü plajda geçirdik.	Praleidome visą dieną pliaže.	plajda	0	0
+Lütfen yen'i dolarla değiştirin.	Prašau pakeiskite jenas į dolerius.	dolarla	0	0
+Sigara içebilir miyim?	Ar galiu parūkyti?	içebilir	0	0
+O et yemez , değil mi?	Jis nevalgo mėsos, ar ne taip?	yemez	0	0
+Sanırım açsın.	Manau, kad tu alkanas.	açsın	0	0
+O, otobüste bulduğum aynı şemsiye.	Tai tas pats skėtis, kurį radau autobuse.	şemsiye	0	0
+Mağazada kaç kişi var?	Kiek žmonių yra parduotuvėje?	mağazada	0	0
+Tom çok mantıklı bir kişidir.	Tomas labai protingas žmogus.	kişidir	0	0
+Tom şakayı anlamadı.	Aš nesupratau Tomo pokšto.	anlamadı	0	0
+Bu fotoğrafa bakarken ailemi hatırlarım.	Žiūrėdamas į šią nuotrauką prisimenu savo šeimą.	fotoğrafa	0	0
+Tahtaya bakın.	Žiūrėkite į lentą.	tahtaya	0	0
+Tom'u asla tekrar görmeyeceksin.	Tomo niekada nebepamatysi.	görmeyeceksin	0	0
+Davranışından utanmalısın.	Tau turėtų būti gėda už tokį elgesį.	utanmalısın	0	0
+Bu fotoğrafa bakarken ailemi hatırlarım.	Žiūrėdamas į šią nuotrauką prisimenu savo šeimą.	hatırlarım	0	0
+Sabah saat yedide uyandım.	Pabudau šeštą ryto.	yedide	0	0
+Her zaman Fransızca öğrenmeyi denemek istedim.	Visada norėjau pabandyti mokytis prancūzų kalbos.	öğrenmeyi	0	0
+Yanlış trene binmiş olabilir.	Jis galėjo įsėsti į ne tą traukinį.	binmiş	0	0
+Bir toplumda yaşıyoruz.	Mes gyvename visuomenėje.	toplumda	0	0
+Bir kız arkadaştan daha fazlasına sahibim.	Aš turiu daugiau nei vieną merginą.	arkadaştan	0	0
+Niye yemiyorsun?	Kodėl nevalgai?	yemiyorsun	0	0
+İşi yapmanıza yardım edeyim.	Leiskit jums padėti padaryti jūsų darbą.	yapmanıza	0	0
+Buradan ayrılmam gerekiyor.	Man reikia išeiti iš čia.	ayrılmam	0	0
+Spordan sonra dinlenmelisin.	Po sporto turi pailsėti.	dinlenmelisin	0	0
+İster inanın ister inanmayın, ben aslında resim çizebilirim.	Norite tikėkite, norite netikėkite, bet aš tikrai galiu piešti.	inanmayın	0	0
+Tom'la konuşurken genellikle hangi dili kullanırsın?	Kokią kalbą paprastai naudoji, kai kalbi su Tomu?	kullanırsın	0	0
+Japonya'nın başkenti Tokyo'dur.	Japonijos sostinė yra Tokijas.	başkenti	0	0
+İnsanların yüzde kaçı üç dil konuşur?	Kiek procentų žmonių kalba trijomis kalbomis?	kaçı	0	0
+Tom eğer isteseydi kazanabilirdi.	Tomas būtų galėjęs laimėti, jeigu būtų to norėjęs.	isteseydi	0	0
+Kağıt torbaları tekrar tekrar kullanmalısın.	Tu turi naudoti popierinius maišelius dar ir dar kartą.	kullanmalısın	0	0
+O, neyden yapılmıştır?	Iš ko jis padarytas?	yapılmıştır	0	0
+Hemen hemen hiç kimse ona inanmadı.	Beveik niekas ja netikėjo.	inanmadı	0	0
+O, ne okuyabilir nede yazabilir.	Ji nemoka nei skaityti, nei rašyti.	nede	0	0
+Tom dünkü sınavda bir soruyu bile yapamadı.	Tomas negalėjo atsakyti nei į vieną klausimą vakarykščiame teste.	yapamadı	0	0
+Kimse beni sevmiyor, hiç kimse beni sevmedi, çünkü ben güzel değilim.	Niekas manęs nemyli, niekas manęs nemylėjo, nes aš negraži.	sevmedi	0	0
+İnternet bağlantım çok yavaş.	Mano interneto ryšys yra labai lėtas.	bağlantım	0	0
+Haberler onu üzdü.	Naujienos jį nuliūdino.	üzdü	0	0
+Tom koyu tenli.	Tomo odos spalva tamsi.	tenli	0	0
+Bu sütün tadı ekşi.	Šio pieno rūgštus skonis.	ekşi	0	0
+Çok meşgulüz.	Mes per daug užsiėmę.	meşgulüz	0	0
+Öğretmen öğrencilerinin hatalarını gösterdi.	Mokytojas parodė mokinių klaidas.	hatalarını	0	0
+Tom ve Mary hâlâ ofislerindeler. İkisi de bugün geç vakte kadar çalışmayı planlıyorlar.	Tomas ir Merė vis dar biure. Šiandien jie abu planuoja dirbti iki vėlumos.	vakte	0	0
+Tom şakayı anlamadı.	Aš nesupratau Tomo pokšto.	şakayı	0	0
+Sana yardım edeyim. Çantan ağır gözüküyor.	Leisk tau padėti. Tavo rankinė atrodo sunki.	çantan	0	0
+Karım kanserden öldü.	Mano žmona mirė nuo vėžio.	kanserden	0	0
+Güzel bir kadından üç gün sonra usanırsın. Çirkin bir kadına üç gün sonra alışırsın.	Graži moteris po trejų dienų atsibosta. Prie negražios moters po trejų dienų pripranti.	alışırsın	0	0
+Ben İspanyolca öğretirim.	Dėstau ispanų kalbą.	öğretirim	0	0
+Berbat hissediyoruz.	Jaučiuosi siaubingai.	hissediyoruz	0	0
+Hoşuna gitsin ya da gitmesin, her durumda erken ayrılmak zorundasın.	Patinka tau ar ne, bet kokiu atveju tau reikia anksti išvykti.	gitmesin	0	0
+Onun örneğini takip etmeliyiz.	Mes turime sekti jo pavyzdžiu.	örneğini	0	0
+Fransızca ev ödevimi yapmayı az önce bitirdim.	Ką tik pabaigiau daryti prancūzų kalbos namų darbus.	ödevimi	0	0
+Pantolonun kirli.	Tavo kelnės purvinos.	pantolonun	0	0
+Tom hemen hemen hiç radyo dinlemez.	Tomas beveik niekada neklauso radijo.	dinlemez	0	0
+Masadaki kitaba bak.	Žiūrėk į knygą ant stalo.	masadaki	0	0
+Üzgünüm, ama bu projeye karşıyım.	Atsiprašau, bet esu prieš šį projektą.	karşıyım	0	0
+O flüt çalabilir.	Jis gali groti fleita.	çalabilir	0	0
+Neden oturmuyorsun?	Kodėl nesėdi?	oturmuyorsun	0	0
+Tom, Mary'yi neden öldürsün ki?	Kodėl Tomas nužudė Merę?	öldürsün	0	0
+O, yılanlar gibi, garip hayvanlardan hoşlanıyor.	Jai patinka keisti gyvūnai, tokie kaip gyvatė.	hayvanlardan	0	0
+Yedinci sınıftayken okulu bıraktım.	Būdamas septintoje klasėje mečiau mokyklą.	sınıftayken	0	0
+Herkes benim için üzüldü.	Visi man rodė gailestį.	üzüldü	0	0
+En iyi arkadaşınızın adı nedir?	Koks jūsų geriausios draugės vardas?	arkadaşınızın	0	0
+Hiç hata yapmayan insan, hiçbir şey yapmayan insandır.	Jokių klaidų nedarantis žmogus yra nieko nedarantis žmogus.	yapmayan	0	0
+Hiçbir yere gidemiyorum.	Aš negaliu niekur eiti.	gidemiyorum	0	0
+O, ne okuyabilir nede yazabilir.	Jis nemoka nei skaityti, nei rašyti.	yazabilir	0	0
+Perdenin arkasında kim saklanıyor?	Kas slepiasi už užuolaidos?	perdenin	0	0
+Çok garip görünse de, Tom'un söylediği doğrudur.	Nors ir atrodo labai keista, ką Tomas sakė, yra tiesa.	görünse	0	0
+Her gün domuz gibi yersen elbette çok kilo alırsın.	Jei kiekvieną dieną kaip kiaulė ėsi, tikrai daug kilogramų priaugsi.	yersen	0	0
+Bu ölçü benim için çok büyük.	Šis dydis man per per didelis.	ölçü	0	0
+Bizim için harika bir yemek planladım.	Suplanavau mums nuostabų patiekalą.	planladım	0	0
+Biletler, tüm şehirlerde çabuk satılıyor.	Bilietai yra greitai parduodami visuose miestuose.	satılıyor	0	0
+Keşke ölsem.	O, kad aš mirčiau.	ölsem	0	0
+Tom dairemde benimleydi.	Tomas mano bute buvo su manimi.	dairemde	0	0
+O kısa sürede yoruldu.	Jis neilgai trukus pavargo.	yoruldu	0	0
+Parayı bankaya yatırın.	Padėkite pinigus į banką.	yatırın	0	0
+Dikkatli ve çalışkan olmak gereklidir, fakat bu kursu geçmek için yeterli değildir.	Reikia būti atidžiu ir darbščiu, tačiau norint išlaikyti šį kursą to nepakanka.	gereklidir	0	0
+Tom arabasından çıktı.	Tomas išlipo iš savo mašinos.	arabasından	0	0
+O, bas gitarı seviyor.	Jam patinka bosinė gitara.	gitarı	0	0
+Dikkatli ve çalışkan olmak gereklidir, fakat bu kursu geçmek için yeterli değildir.	Reikia būti atidžiu ir darbščiu, tačiau norint išlaikyti šį kursą to nepakanka.	kursu	0	0
+O bir köpeğe ve altı kediye sahiptir.	Jis turi šunį ir šešias kates.	kediye	0	0
+Endişe onun sağlığını etkiledi.	Nerimas paveikė jo sveikatą.	sağlığını	0	0
+O, parti elbisesini denedi.	Ji pasimatavo vakarėlio suknelę.	elbisesini	0	0
+Tom, yeni bir şampuan denemek istiyor.	Tomas nori išbandyti naują šampūną.	şampuan	0	0
+Tom ve Mary hâlâ ofislerindeler. İkisi de bugün geç vakte kadar çalışmayı planlıyorlar.	Tomas ir Merė vis dar biure. Šiandien jie abu planuoja dirbti iki vėlumos.	planlıyorlar	0	0
+O flüt çalabilir.	Jis gali groti fleita.	flüt	0	0
+Doğum günü partine gelemedim.	Negalėjau ateiti į tavo gimtadienio vakarėlį.	gelemedim	0	0
+İstediğinizi seçebilirsiniz.	Gali pasirinkti savo norimą.	İstediğinizi	0	0
+O gözlük takıyordu.	Ji nešiojo akinius.	takıyordu	0	0
+Büroya gidiyorum.	Einu į biurą.	büroya	0	0
+İki genç kız mutlu bir şekilde gülümsedi.	Dvi jaunos merginos laimingai šypsojosi.	gülümsedi	0	0
+Hislerini saklamayı denedi.	Jis bandė nuslėpti savo jausmus.	saklamayı	0	0
+Meg bana bakmadı bile.	Meg net nepasižiūrėjo į mane.	bakmadı	0	0
+Gurur duymadığım şeyler yaptım.	Aš esu padaręs dalykų, kuriais nesididžiuoju.	duymadığım	0	0
+Biri şapkasını bıraktı.	Kažkas paiko savo kepurę.	şapkasını	0	0
+Bu sayfadaki her sözcüğü biliyorum.	Aš žinau visus šio puslapio žodžius.	sözcüğü	0	0
+Bu mektup, onun gelecek ay Grace'le evleneceğini söylüyor.	Šis laiškas kalba apie jo vedybas su Greise kitą mėnesį.	evleneceğini	0	0
+Tom kesinlikle bu konu hakkında benim bildiğimden daha fazla biliyor.	Tomas neabejotinai apie tai žino daugiau už mane.	bildiğimden	0	0
+Tom dünkü sınavda bir soruyu bile yapamadı.	Tomas negalėjo atsakyti nei į vieną klausimą vakarykščiame teste.	sınavda	0	0
+Son on yılda fiyatlar yüzde elli arttı.	Per paskutinius dešimt metų kainos pakilo penkiasdešimt procentų.	fiyatlar	0	0
+Kimin bisikletini ödünç almak istedin?	Kieno dviratį nori paskolinti?	bisikletini	0	0
+O, yurtdışına gitmeye karar verdi.	Jis nusprendė išvažiuoti į užsienį.	yurtdışına	0	0
+Öğrenci tüm problemleri daha önce çözdü.	Studentas jau anksčiau išsprendė visas problemas.	çözdü	0	0
+Bu şarabın tadı iyi.	Šio vyno geras skonis.	şarabın	0	0
+Bunları onlara sattık, değil mi?	Mes juos jiems pardavėme, ar ne?	sattık	0	0
+Bana ilaç gerekiyor. Eczane nerede?	Man reikia vaistų. Kur yra vaistinė?	eczane	0	0
+Bahçeyi görüyor musun?	Matai sodą?	bahçeyi	0	0
+Onlar gelebilirler.	Jie gali ateti.	gelebilirler	0	0
+Üzgünüm, ama bu projeye karşıyım.	Atsiprašau, bet esu prieš šį projektą.	projeye	0	0
+İstediğiniz zaman beni arayabilirsiniz.	Galite man skambinti jūsų norimu laiku.	arayabilirsiniz	0	0
+Sana bazı sorularım var.	Aš tau turiu kelis klausimus.	sorularım	0	0
+Başka bir teori öneriyor musun?	Tu siūlai kitą teoriją?	öneriyor	0	0
+Ne kadar erken başlarsak, o kadar erken bitiririz.	Kuo anksčiau pradėsime, tuo anksčiau baigsime.	bitiririz	0	0
+Ben Fin değilim.	Aš ne suomis.	fin	0	0
+Parkta birçok genç çift bulunuyordu.	Parke buvo daug jaunų porelių.	bulunuyordu	0	0
+Öğretmen Tom'un sık sık derse gelmemesinden endişe duyuyordu.	Mokytojas nerimavo dėl dažno Tomo nebuvimo pamokose.	duyuyordu	0	0
+Tom konserden hiç hoşlanmadı.	Tomui visiškai nepatiko koncertas.	hoşlanmadı	0	0
+Henüz bir doktor bulmadım.	Dar neradau gydytojo.	bulmadım	0	0
+Ben fotoğraf çekmekten hoşlanıyorum.	Man patinka fotografuoti.	çekmekten	0	0
+Küçük tepeler uçaktan düz görünüyorlar.	Mažos kalvelės iš lėktuvo atrodo plokščios.	tepeler	0	0
+Hastaneler çok pahalıdır.	Ligoninės yra labai brangios.	pahalıdır	0	0
+Tom çoğu zaman yalnızdı.	Tomas dažniausiai buvo vienas.	yalnızdı	0	0
+Julien, John Lennon gibi, yuvarlak gözlükler takıyor.	Žiuljen, kaip ir Džonas Lenonas, nešioja apvalius akinius.	gözlükler	0	0
+Tom yalın ayak yürümeye alışık değildir.	Tomas nepripratęs vaikščioti basomis kojomis.	yalın	0	0
+Özel lezzet neye benziyor?	Į ką panašus specialus skonis?	lezzet	0	0
+Dün hem güçlü rüzgarlar vardı hem de yoğun yağmur yağdı.	Vakar ir smarkiai vėjas pūtė, ir taip pat smarkiai lietus lijo.	yağdı	0	0
+Baca gibi sigara içer, balık gibi içki içer.	Jis rūko kaip kaminas ir geria kaip žuvis.	baca	0	0
+Matematiği severim.	Man patinka matematika.	matematiği	0	0
+Romanın son sayfasını henüz okumadım.	Dar neperskaičiau paskutinio romano puslapio.	sayfasını	0	0
+Mutlu olmaya karar verdim çünkü sağlığım için iyi.	Nusprendžiau būti laimingas, nes tai gerai mano sveikatai.	sağlığım	0	0
+Kağıt torbaları tekrar tekrar kullanmalısın.	Tu turi naudoti popierinius maišelius dar ir dar kartą.	torbaları	0	0
+Ailemde dört kişi var.	Mano šeimoje yra keturi žmonės.	ailemde	0	0
+Bisikletimi onarmak bana bin yene mal oldu.	Mano dviračio pataisymas man kainavo tūkstantį jenų.	onarmak	0	0
+Yaz tatilin nasıl gidiyor?	Kaip tavo vasaros atostogos?	tatilin	0	0
+Julien, John Lennon gibi, yuvarlak gözlükler takıyor.	Žiuljen, kaip ir Džonas Lenonas, nešioja apvalius akinius.	lennon	0	0
+Biletler, tüm şehirlerde çabuk satılıyor.	Bilietai yra greitai parduodami visuose miestuose.	şehirlerde	0	0
+Her şey yolundaydı.	Viskas buvo tvarkoj.	yolundaydı	0	0
+Bugün hava berbattır.	Šiandien oras siaubingas.	berbattır	0	0
+Bahçedeki tüm çiçekler sarı.	Visos sodo gėlės yra geltonos.	bahçedeki	0	0
+Hastaneler çok pahalıdır.	Ligoninės yra labai brangios.	hastaneler	0	0
+Çok safsın.	Tu toks naivus.	safsın	0	0
+Yaşlı insanlar sık sık yeni şeyleri denemekten korkarlar.	Vyresni žmonės dažnai bijo išbandyti naujus dalykus.	denemekten	0	0
+Çok az kişi onun partideki yokluğunu fark etti.	Labai mažai žmonių pastebėjo, kad jos nebuvo vakarėlyje.	partideki	0	0
+Şimdi onu denemeliyim.	Aš turiu tai pabandyti dabar.	denemeliyim	0	0
+Bu web sitesinde bayan üyelerden daha fazla erkek üye var.	Šiame internetiniame puslapyje daugiau yra narių vyrų nei moterų.	sitesinde	0	0
+Karım yemek pişiriyor.	Mano žmona gamina valgyti.	pişiriyor	0	0
+Ben masanın altına saklandım.	Aš pasislėpiau po stalu.	saklandım	0	0
+"Bir otel odası rezervasyonu yaptınız mı?" "Henüz değil, üzgünüm."	"- Ar rezervavote kambarį viešbutyje?" "- Dar ne, atsiprašau"	rezervasyonu	0	0
+Her pazar tenis oynardı.	Jis žaisdavo tenisą kiekvieną sekmadienį.	oynardı	0	0
+Tom saklandı.	Tomas pasislėpė.	saklandı	0	0
+Tom dairemde benimleydi.	Tomas mano bute buvo su manimi.	benimleydi	0	0
+Anahtarlarım yanımda yoktu.	Neturėjau savo raktų kartu su savimi.	anahtarlarım	0	0
+Irkın ya da yaşın ya da dinin umurumda değil.	Man nerūpi tavo rasė, amžius ar religija.	dinin	0	0
+Bana neden yazmadın?	Kodėl man neparašei?	yazmadın	0	0
+Altıya kadar bekleyin.	Palaukite iki šešių.	altıya	0	0
+Artık "Tom" adından nefret ediyorum.	Nuo šio nekenčiu vardo Tomas.	adından	0	0
+Sanırım çıldırıyorum.	Manau, kad einu iš proto.	çıldırıyorum	0	0
+İstasyona gitmek beş dakika aldı.	Nueiti į stotį reikėjo penkių minučių.	İstasyona	0	0
+Kenji ile aynı okula gidiyorum.	Aš einu į tą pačią mokyklą kaip Kenji.	kenji	0	0
+Elmalar bugün indirimli.	Obuoliai šiandien su nuolaida.	indirimli	0	0
+Yaşlı insanlar sık sık yeni şeyleri denemekten korkarlar.	Vyresni žmonės dažnai bijo išbandyti naujus dalykus.	korkarlar	0	0
+Tom'un onu sevdiğimizi bilmesini istiyorum.	Aš noriu, kad Tomas žinotų, kad mes jį mylime.	sevdiğimizi	0	0
+Hemen hemen tüm ofis çalışanlarının üçte biri gözlük takıyor.	Beveik vienas trečdalis viso biuro darbuotojų nešioja akinius.	çalışanlarının	0	0
+Dün hem güçlü rüzgarlar vardı hem de yoğun yağmur yağdı.	Vakar ir smarkiai vėjas pūtė, ir taip pat smarkiai lietus lijo.	rüzgarlar	0	0
+Tom sıkılıyor.	Tomas nuobodžiauja.	sıkılıyor	0	0
+Ne kadar erken başlarsak, o kadar erken bitiririz.	Kuo anksčiau pradėsime, tuo anksčiau baigsime.	başlarsak	0	0
+Daha önce asla güldüğünü görmedim.	Aš niekada prieš tai nemačiau tavęs besijuokiančios.	güldüğünü	0	0
+Berbat bir haftaydı.	Buvo siaubinga savaitė.	haftaydı	0	0
+Onlar konuşmuyorlar.	Jie nekalba.	konuşmuyorlar	0	0
+Öğretmen öğrencilerinin hatalarını gösterdi.	Mokytojas parodė mokinių klaidas.	öğrencilerinin	0	0
+O kedinin güzel bir kürkü var.	Ta katė turi gražų kailį.	kürkü	0	0
+Bu sabah kalktığımda, başım ağrıyordu.	Kai šį rytą atsikėliau, skaudėjo galvą.	kalktığımda	0	0
+Doğum günü partine gelemedim.	Negalėjau ateiti į tavo gimtadienio vakarėlį.	partine	0	0
+Havlular kirli.	Rankšluoščiai yra purvini.	havlular	0	0
+Zor durumlarla başa çıkamıyor.	Jis negali susitvarkyti su sudėtingomis situacijomis.	çıkamıyor	0	0
+Geç kalmamak için erken ayrıldım.	Kad nepavėluočiau, išėjau anksti.	kalmamak	0	0
+Bu yüzden cümleleri seviyoruz. Fakat dahası biz dilleri seviyoruz.	Taigi mes mylime sakinius. Bet labiau mes mylime kalbas.	dilleri	0	0
+Küçük bir kentte büyüdü.	Ji užaugo mažame miestelyje.	kentte	0	0
+Tom bankta Mary'nin yanında oturdu.	Tomas sedėjo ant suolelio šalia Merės.	bankta	0	0
+Bisikletimi onarmak bana bin yene mal oldu.	Mano dviračio pataisymas man kainavo tūkstantį jenų.	bisikletimi	0	0
+Matematikte iyi misin?	Ar tu gabus matematikai?	matematikte	0	0
+Galiba bu kırmızı kazağı giyeceğim.	Tikriausiai dėvėsiu šį raudoną megztinį.	kazağı	0	0
+Annem sütün tadına baktı.	Mano mama paragavo pieno.	sütün	0	0
+Daha da kötüsü kar yağmaya başladı.	Ne gana to, dar ir pradėjo snigti.	yağmaya	0	0
+Kimse izlemiyor.	Niekas nestebi.	izlemiyor	0	0
+Bob amcasının evine uğradı.	Bobas užsuko į savo dėdės namus.	amcasının	0	0
+Elmalar bugün indirimli.	Obuoliai šiandien su nuolaida.	elmalar	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nenoriu, kad mano šalis taptų Europos Sąjungos nare.	ülkemin	0	0
+Hesabımı kapatmak istiyorum.	Noriu uždaryti savo sąskaitą.	hesabımı	0	0
+O, çok okurdu.	Jis daug skaitė.	okurdu	0	0
+Kocasını affetti.	Ji atleido savo vyrą.	affetti	0	0
+Almanya'da çok Faslı var mıdır?	Vokietijoje yra daug marokiečių?	faslı	0	0
+Çok az kişi onun partideki yokluğunu fark etti.	Labai mažai žmonių pastebėjo, kad jo nebuvo vakarėlyje.	yokluğunu	0	0
+O eteği seviyorum.	Man patinka tas sijonas.	eteği	0	0
+O zaman keşke bir kameram olsaydı.	Jei tik būčiau turėjęs kamerą tada.	kameram	0	0
+Tom için kötü hissetmelisin.	Turi jausti blogai dėl Tomo.	hissetmelisin	0	0
+Sınavı geçtiğin haberini duyduk.	Girdėjome naujienas, kad tu išlaikei egzaminą.	geçtiğin	0	0
+Tom konserden hiç hoşlanmadı.	Tomui visiškai nepatiko koncertas.	konserden	0	0
+Eurovision'un en kötü şarkısı birinci, en iyi şarkısı sondan ikinci oldu. Ne saçmalık!	Eurovizijos blogiausia daina pirma, o pati geriausia liko antra nuo galo. Kokia nesąmonė!	sondan	0	0
+Romanın son sayfasını henüz okumadım.	Dar neperskaičiau paskutinio romano puslapio.	romanın	0	0
+Oyuncaklarını yatağın altına sakladı.	Jis paslėpė savo žaislus po lova.	oyuncaklarını	0	0
+Elmayı ona verdik.	Mes davėme jai obuolį.	elmayı	0	0
+Benim için bir harita çizer misin?	Ar galėtum nupiešti man žemėlapį?	çizer	0	0
+Tom kızmaya başladı.	Tomas pradėjo pykti.	kızmaya	0	0
+"Bu kimin sandalyesi?" "Benim."	"- Čia kieno kėdė?", "- Mano".	sandalyesi	0	0
+Caddeyi geç.	Pereik gatvę.	caddeyi	0	0
+O küçük bir çocukken yaramazdı.	Jis buvo neklaužada, kai buvo vaikas.	yaramazdı	0	0
+O, hem İngilizce hem de Fransızca öğretebilir.	Ji gali mokyti tiek anglų, tiek ir prancūzų kalbos.	öğretebilir	0	0
+Denememe izin ver.	Leisk man pabandyti.	denememe	0	0
+Eşim için bir hediye almak istiyorum. Bir eşarp düşündüm.	Noriu nupirkti žmonai dovaną. Mąsčiau apie skarą.	eşarp	0	0
+O, hem müzik hem de sporları sever.	Jam patinka ir muzika, ir sportas.	sporları	0	0
+Sonuçta çalışkan kişi başarır.	Galiausiai darbščiam žmogui pavyksta.	başarır	0	0
+O teoriye inanmıyorsun, değil mi?	Tu netiki ta teorija, ar ne?	teoriye	0	0
+Bagajımı nereye koymalıyım?	Kur turiu padėti savo bagažą?	koymalıyım	0	0
+Sporda çok kötüyüm.	Man nesiseka sportas.	sporda	0	0
+Çocuk kutuda saklanıyordu.	Vaikas slėpėsi dėžėje.	saklanıyordu	0	0
+Spordan sonra dinlenmelisin.	Po sporto turi pailsėti.	spordan	0	0
+Hafta sonu planlarınız nedir?	Kokie tavo savaitgalio planai?	planlarınız	0	0
+Kuşları gözlemekten hoşlanırlar.	Jiems patinka stebėti paukščius.	hoşlanırlar	0	0
+Araba sürebilirim.	Aš moku vairuoti.	sürebilirim	0	0
+Doktorun tavsiyesine uymalısın.	Tu turi vykdyti daktaro rekomendacijas.	tavsiyesine	0	0
+Testte ciddi bir hata yaptım.	Teste padariau rimtą klaidą.	testte	0	0
+O Taro'dan daha meşguldür.	Jis labiau užsiėmęs nei Taras.	meşguldür	0	0
+Bu caddede doğru git ve solda postaneye geleceksin.	Eik šia gatve tiesiai ir kairėje prieisi paštą.	postaneye	0	0
+Biz kazanmalıyız.	Mes turime laimėti.	kazanmalıyız	0	0
+Günlerdir hiç yemek yememiş gibi görünüyordu.	Jis atrodo, kaip keletą dienų nieko nevalgęs.	yememiş	0	0
+Elmaları sever misin?	Mėgsti obuolius?	elmaları	0	0
+E-posta adresiniz nedir?	Koks jūsų el. pašto adresas?	adresiniz	0	0
+Tom basit sorulara bile cevap veremedi.	Tomas negalėjo atsakyti net į paprastą klausimą.	veremedi	0	0
+Kısa saç stilini severim.	Man patinka trumpų plaukų šukuosenos.	stilini	0	0
+O bir çocuktu, ama cesurdu.	Jis buvo vaikas, bet jis buvo drąsus.	cesurdu	0	0
+Yarasına bir mendil koydu.	Jis padėjo nosinę ant savo žaizdos.	yarasına	0	0
+Bu sabah kalktığımda, başım ağrıyordu.	Kai šį rytą atsikėliau, skaudėjo galvą.	ağrıyordu	0	0
+Kimse yaralanmadı.	Niekas nebuvo sužeistas.	yaralanmadı	0	0
+Okulumuz on sınıfa sahiptir.	Mūsų mokykla turi dešimt klasių.	okulumuz	0	0
+Tekrar başlamamı istiyor musun?	Nori, kad aš vėl pradėčiau?	başlamamı	0	0
+Bu kitabın yazarı hiç Rusya'da bulunmamış.	Šitos knygos autorius niekada nebuvo Rusijoje.	bulunmamış	0	0
+O bir bilim adamıdır.	Jis mokslininkas.	adamıdır	0	0
+Sen dürüstsün.	Tu sąžiningas.	dürüstsün	0	0
+Çocuk artık ağlamaz.	Vaikas jau nebeverkia.	ağlamaz	0	0
+Annem patatesi çok iyi pişirdi.	Mamos bulvės labai gerai pagamintos.	patatesi	0	0
+O otobüse binmedim, bu yüzden şu an evde değilim.	Į autobusą neįlipau, todėl dabar nesu namie.	binmedim	0	0
+Onun adresini bilseydim, ona yazardım.	Jei būčiau žinojusi jo adresą, būčiau jam parašiusi.	yazardım	0	0
+Tom sınıfta uyuyakaldı.	Tomas klasėje užmigo.	uyuyakaldı	0	0
+Annem patatesi çok iyi pişirdi.	Mamos bulvės labai gerai pagamintos.	pişirdi	0	0
+Hem Tom hem de Mary yağmurluk giyiyorlardı.	Ir Tomas, ir Merė vilkėjo lietpalčius.	yağmurluk	0	0
+Bu sabah sıfırın altında on dereceydi.	Šį rytą buvo dešimt laipsnių žemiau nulio.	sıfırın	0	0
+Bu yüzden cümleleri seviyoruz. Fakat dahası biz dilleri seviyoruz.	Taigi mes mylime sakinius. Bet labiau mes mylime kalbas.	cümleleri	0	0
+Park Caddesine vardığında sağa dön.	Kai būsi Parko gatvėje pasuk į dešinę.	caddesine	0	0
+Çaydanlık masanın üstündedir.	Arbatinukas yra ant stalo.	çaydanlık	0	0
+Ev sahibimiz bize bir içki önerdi.	Mūsų namo šeimininkas pasiūlė mums išgerti.	sahibimiz	0	0
+Üşüteceksin.	Peršalsi.	üşüteceksin	0	0
+Sözlerinden dönmemelisin.	Nederėtų laužyti pažadų.	sözlerinden	0	0
+Bu içerik ülkenizde mevcut değil.	Šis turinys jūsų šalyje nepasiekiamas.	içerik	0	0
+O beni neden dinlemeyecek?	Kodėl ji manęs neklausys?	dinlemeyecek	0	0
+Ben sizin sağlığınız için endişe duyuyorum.	Aš nerimauju dėl jūsų sveikatos.	sağlığınız	0	0
+Tüm akrabalarım bu şehirde yaşıyor.	Visos mano giminės gyvena šiame mieste.	akrabalarım	0	0
+Sıkılıyorum.	Nuobodžiauju.	sıkılıyorum	0	0
+O biçimsiz bir elbise giyiyordu.	Ji vilkėjo netinkamą suknelę.	biçimsiz	0	0
+Zor durumlarla başa çıkamıyor.	Jis negali susitvarkyti su sudėtingomis situacijomis.	durumlarla	0	0
+Mademki buradayım, sana yardım edeyim.	Kadangi aš esu čia, leisk tau padėti.	mademki	0	0
+Ben tamamen çıplağım.	Aš visiškai nuoga.	çıplağım	0	0
+Tom ve ben o zaman ikimiz de meşguldük.	Tada Tomas ir aš abu buvome užsiėmę.	meşguldük	0	0
+Ben kendim burada bir yabancıyım.	Aš čia sau svetimas.	yabancıyım	0	0
+Kimse kalkmadı.	Niekas neatsikėlė.	kalkmadı	0	0
+Tom ağlamayı durdurmayacak.	Tomas nesustos verkęs.	durdurmayacak	0	0
+Posta kutumu kontrol etmek zorundayım.	Aš turiu patikrinti savo pašto dežutę.	kutumu	0	0

@@ -1,0 +1,140 @@
+Jeg kender ham ikke.	그 사람을 몰라요.	jeg	0	0
+Vil det være i orden hvis jeg spiser det sidste stykke pizza?	마지막 피자 한 조각을 제가 먹어도 괜찮을까요?	det	0	0
+Hvad er demokrati?	민주주의가 무엇입니까?	er	0	0
+Jeg kender ham ikke.	그 사람을 몰라요.	ikke	0	0
+Jeg holdt op med at ryge for et halvt år siden.	반년 전부터 금연하고 있다.	at	0	0
+Vil det være i orden hvis jeg spiser det sidste stykke pizza?	마지막 피자 한 조각을 제가 먹어도 괜찮을까요?	i	0	0
+Han købte hende en hund.	그는 그녀에게 개를 사주었다.	en	0	0
+Schweiz ligger mellem Frankrig, Italien, Østrig og Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	og	0	0
+Jeg har ikke vandet.	물이 나한테 없다.	har	0	0
+Vi har kalium i kroppen.	우리 몸 속에는 칼륨이 들어 있다.	vi	0	0
+Han købte en hund til hende.	그는 그녀에게 개를 사주었다.	til	0	0
+Tom arbejder på deltid.	톰은 파트타임으로 일하고 있습니다.	på	0	0
+Hvad er demokrati?	민주주의가 무엇입니까?	hvad	0	0
+Jeg holdt op med at ryge for et halvt år siden.	반년 전부터 금연하고 있다.	med	0	0
+Jeg holdt op med at ryge for et halvt år siden.	반년 전부터 금연하고 있다.	for	0	0
+Han købte hende en hund.	그는 그녀에게 개를 사주었다.	han	0	0
+Jeg elsker dig.	사랑합니다.	dig	0	0
+Af de fire årstider kan jeg bedst lide sommeren.	나는 사계절 중에 여름을 제일 좋아해.	de	0	0
+Af de fire årstider kan jeg bedst lide sommeren.	나는 사계절 중에 여름을 제일 좋아해.	kan	0	0
+Strengt taget består kinesisk af flere hundrede dialekter.	엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	af	0	0
+Jeg vil være en ulv.	늑대가 되고 싶어요.	vil	0	0
+Hun er her.	그녀는 여기에 있다.	her	0	0
+Jeg holdt op med at ryge for et halvt år siden.	반년 전부터 금연하고 있다.	et	0	0
+Ja, jeg har kysset ham.	네. 그 남자와 키스했어요.	ja	0	0
+Hun er her.	그녀는 여기에 있다.	hun	0	0
+Ja eller nej?	예 혹은 아니오?	nej	0	0
+Tom er min ven.	톰은 나의 친구다.	min	0	0
+Jeg kender ham ikke.	그 사람을 모릅니다.	ham	0	0
+Jeg vil være en ulv.	늑대가 되고 싶어요.	være	0	0
+Vil det være i orden hvis jeg spiser det sidste stykke pizza?	마지막 피자 한 조각을 제가 먹어도 괜찮을까요?	hvis	0	0
+Godt!	좋아요!	godt	0	0
+Vi importerer kaffe fra Brasilien.	우리는 브라질에서 커피를 수입한다.	fra	0	0
+Okay.	오케이.	okay	0	0
+Hvorfor ikke?	왜 아니야?	hvorfor	0	0
+Alle advokater er løgnere.	변호사들은 모두 거짓말쟁이다.	alle	0	0
+Jeg holdt op med at ryge for et halvt år siden.	반년 전부터 금연하고 있다.	op	0	0
+Han købte hende en hund.	그는 그녀에게 개를 사주었다.	hende	0	0
+Mange tak!	대단히 감사합니다!	tak	0	0
+Ja eller nej?	예 혹은 아니오?	eller	0	0
+Appelsiner indeholder meget vitamin C.	오렌지는 많은 비타민C를 함유하고 있다.	meget	0	0
+Ingen flod i verden er længere end Nilen.	나일강만큼 긴 강은 세상에 없다.	ingen	0	0
+Politiet har anholdt en mistænkt i går.	경찰이 어제 용의자를 체포했다.	går	0	0
+En, to, tre, fire, fem.	하나, 둘, 셋, 넷, 다섯.	to	0	0
+Ingen flod i verden er længere end Nilen.	나일강만큼 긴 강은 세상에 없다.	end	0	0
+Hold fokus.	계속 집중하고 있어봐.	hold	0	0
+Jeg holdt op med at ryge for et halvt år siden.	반년 전부터 금연하고 있다.	år	0	0
+Jeg har ikke tid.	난 시간이 없다.	tid	0	0
+God weekend!	좋은 주말 보내세요!	god	0	0
+Mange tak!	대단히 감사합니다!	mange	0	0
+Dine læber er blå.	당신의 입술이 파랗습니다.	dine	0	0
+Jeg holdt op med at ryge for et halvt år siden.	반년 전부터 금연하고 있다.	siden	0	0
+Jeg kender ham ikke.	그 사람을 모릅니다.	kender	0	0
+Jeg elsker dig.	사랑합니다.	elsker	0	0
+Af de fire årstider kan jeg bedst lide sommeren.	나는 사계절 중에 여름을 제일 좋아해.	lide	0	0
+En, to, tre, fire, fem.	하나, 둘, 셋, 넷, 다섯.	tre	0	0
+Vil det være i orden hvis jeg spiser det sidste stykke pizza?	마지막 피자 한 조각 내가 먹어도 돼?	sidste	0	0
+Tom er min ven.	톰은 나의 친구다.	ven	0	0
+Jeg taler japansk, engelsk og fransk.	저는 일본어, 영어, 프랑스어를 할 수 있습니다.	taler	0	0
+Strengt taget består kinesisk af flere hundrede dialekter.	엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	flere	0	0
+Ingen flod i verden er længere end Nilen.	나일강만큼 긴 강은 세상에 없다.	verden	0	0
+Tom arbejder på deltid.	톰은 파트타임으로 일하고 있습니다.	arbejder	0	0
+En, to, tre, fire, fem.	하나, 둘, 셋, 넷, 다섯.	fem	0	0
+Strengt taget består kinesisk af flere hundrede dialekter.	엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	taget	0	0
+Vil det være i orden hvis jeg spiser det sidste stykke pizza?	마지막 피자 한 조각 내가 먹어도 돼?	orden	0	0
+Ingen flod i verden er længere end Nilen.	나일강만큼 긴 강은 세상에 없다.	længere	0	0
+Politiet har anholdt en mistænkt i går.	경찰이 어제 용의자를 체포했다.	politiet	0	0
+Af de fire årstider kan jeg bedst lide sommeren.	나는 사계절 중에 여름을 제일 좋아해.	fire	0	0
+Græsk er svært at lære.	그리스어를 배우는 것은 어렵다.	svært	0	0
+Schweiz ligger mellem Frankrig, Italien, Østrig og Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	mellem	0	0
+Frankrig ligger i Vesteuropa.	프랑스는 서유럽에 있습니다.	ligger	0	0
+Hvilket sprog taler de i Korea?	한국에서는 무슨 언어로 말합니까?	hvilket	0	0
+Jeg holdt op med at ryge for et halvt år siden.	반년 전부터 금연하고 있다.	holdt	0	0
+I går læste jeg en interessant historie.	어제 흥미로운 이야기를 읽었어요.	historie	0	0
+Græsk er svært at lære.	그리스어를 배우는 것은 어렵다.	lære	0	0
+Tom arbejder på deltid.	톰은 파트타임으로 일하고 있습니다.	tom	0	0
+Taiwan er et land.	대만은 국가입니다.	land	0	0
+Vil det være i orden hvis jeg spiser det sidste stykke pizza?	마지막 피자 한 조각 내가 먹어도 돼?	stykke	0	0
+Vi importerer kaffe fra Brasilien.	우리는 브라질에서 커피를 수입한다.	kaffe	0	0
+Vil det være i orden hvis jeg spiser det sidste stykke pizza?	마지막 피자 한 조각을 제가 먹어도 괜찮을까요?	spiser	0	0
+Han købte hende en hund.	그는 그녀에게 개를 사주었다.	hund	0	0
+Af de fire årstider kan jeg bedst lide sommeren.	나는 사계절 중에 여름을 제일 좋아해.	bedst	0	0
+Det er ikke umuligt.	불가능하지 않다.	umuligt	0	0
+Jeg har ikke vandet.	물이 나한테 없다.	vandet	0	0
+I går læste jeg en interessant historie.	어제 흥미로운 이야기를 읽었어요.	interessant	0	0
+Dine læber er blå.	당신의 입술이 파랗습니다.	blå	0	0
+Han købte en hund til hende.	그는 그녀에게 개를 사주었다.	købte	0	0
+Politiet har anholdt en mistænkt i går.	경찰이 어제 용의자를 체포했다.	anholdt	0	0
+»Heste« er flertal af »hest«.	"말들"은 "말"의 복수형이야.	hest	0	0
+Jeg holdt op med at ryge for et halvt år siden.	반년 전부터 금연하고 있다.	halvt	0	0
+I går læste jeg en interessant historie.	어제 흥미로운 이야기를 읽었어요.	læste	0	0
+Jeg taler japansk, engelsk og fransk.	저는 일본어, 영어, 프랑스어를 할 수 있습니다.	engelsk	0	0
+Strengt taget består kinesisk af flere hundrede dialekter.	엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	hundrede	0	0
+Vi har kalium i kroppen.	우리 몸 속에는 칼륨이 들어 있다.	kroppen	0	0
+Jeg holdt op med at ryge for et halvt år siden.	반년 전부터 금연하고 있다.	ryge	0	0
+Hvilket sprog taler de i Korea?	한국에서는 무슨 언어로 말합니까?	sprog	0	0
+Appelsiner indeholder meget vitamin C.	오렌지는 많은 비타민C를 함유하고 있다.	c	0	0
+God weekend!	좋은 주말 보내세요!	weekend	0	0
+Schweiz ligger mellem Frankrig, Italien, Østrig og Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	frankrig	0	0
+»Heste« er flertal af »hest«.	"말들"은 "말"의 복수형이야.	heste	0	0
+Jeg taler japansk, engelsk og fransk.	저는 일본어, 영어, 프랑스어를 할 수 있습니다.	fransk	0	0
+Vil det være i orden hvis jeg spiser det sidste stykke pizza?	마지막 피자 한 조각 내가 먹어도 돼?	pizza	0	0
+Politiet har anholdt en mistænkt i går.	경찰이 어제 용의자를 체포했다.	mistænkt	0	0
+Ja, jeg kyssede ham.	네. 그 남자와 키스했어요.	kyssede	0	0
+Schweiz ligger mellem Frankrig, Italien, Østrig og Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	tyskland	0	0
+Alle advokater er løgnere.	변호사들은 모두 거짓말쟁이다.	advokater	0	0
+Appelsiner indeholder meget vitamin C.	오렌지는 많은 비타민C를 함유하고 있다.	indeholder	0	0
+Strengt taget består kinesisk af flere hundrede dialekter.	엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	kinesisk	0	0
+Af de fire årstider kan jeg bedst lide sommeren.	나는 사계절 중에 여름을 제일 좋아해.	sommeren	0	0
+Strengt taget består kinesisk af flere hundrede dialekter.	엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	består	0	0
+Japan og Sydkorea er nabolande.	일본과 한국은 이웃나라입니다.	japan	0	0
+Dine læber er blå.	당신의 입술이 파랗습니다.	læber	0	0
+Jeg vil være en ulv.	늑대가 되고 싶어요.	ulv	0	0
+Hold fokus.	계속 집중하고 있어봐.	fokus	0	0
+Schweiz er beliggende mellem Frankrig, Italien, Østrig og Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	italien	0	0
+Ja, jeg har kysset ham.	네. 그 남자와 키스했어요.	kysset	0	0
+Ingen flod i verden er længere end Nilen.	나일강만큼 긴 강은 세상에 없다.	flod	0	0
+Jeg taler japansk, engelsk og fransk.	저는 일본어, 영어, 프랑스어를 할 수 있습니다.	japansk	0	0
+Schweiz ligger mellem Frankrig, Italien, Østrig og Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	schweiz	0	0
+Hvad er demokrati?	민주주의가 무엇입니까?	demokrati	0	0
+Græsk er svært at lære.	그리스어를 배우는 것은 어렵다.	græsk	0	0
+Vi importerer kaffe fra Brasilien.	우리는 브라질에서 커피를 수입한다.	brasilien	0	0
+Strengt taget består kinesisk af flere hundrede dialekter.	엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	strengt	0	0
+Hvilket sprog taler de i Korea?	한국에서는 무슨 언어로 말합니까?	korea	0	0
+Alle advokater er løgnere.	변호사들은 모두 거짓말쟁이다.	løgnere	0	0
+»Heste« er flertal af »hest«.	"말들"은 "말"의 복수형이야.	flertal	0	0
+Schweiz ligger mellem Frankrig, Italien, Østrig og Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	østrig	0	0
+Appelsiner indeholder meget vitamin C.	오렌지는 많은 비타민C를 함유하고 있다.	appelsiner	0	0
+Krokodiller er krybdyr.	악어는 파충류이다.	krokodiller	0	0
+Tom arbejder på deltid.	톰은 파트타임으로 일하고 있습니다.	deltid	0	0
+Taiwan er et land.	대만은 국가입니다.	taiwan	0	0
+Krokodiller er krybdyr.	악어는 파충류이다.	krybdyr	0	0
+Ingen flod i verden er længere end Nilen.	나일강만큼 긴 강은 세상에 없다.	nilen	0	0
+Japan og Sydkorea er nabolande.	일본과 한국은 이웃나라입니다.	sydkorea	0	0
+Vi importerer kaffe fra Brasilien.	우리는 브라질에서 커피를 수입한다.	importerer	0	0
+Jeg er koreaner.	저는 한국 사람입니다.	koreaner	0	0
+Appelsiner indeholder meget vitamin C.	오렌지는 많은 비타민C를 함유하고 있다.	vitamin	0	0
+Af de fire årstider kan jeg bedst lide sommeren.	나는 사계절 중에 여름을 제일 좋아해.	årstider	0	0
+Vi har kalium i kroppen.	우리 몸 속에는 칼륨이 들어 있다.	kalium	0	0
+Schweiz er beliggende mellem Frankrig, Italien, Østrig og Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	beliggende	0	0
+Frankrig er i Vesteuropa.	프랑스는 서유럽에 있습니다.	vesteuropa	0	0

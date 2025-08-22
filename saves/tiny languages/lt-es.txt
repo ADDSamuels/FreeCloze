@@ -1,0 +1,859 @@
+Ji kalba ir prancūziškai, ir taip pat angliškai.	Ella habla tanto el francés como el inglés.	ir	0	0
+Aš turiu laiko.	Tengo tiempo.	aš	0	0
+Tai yra žirgas.	Este es un caballo.	tai	0	0
+Tomas visada teigia, kad jis teisus, net jeigu mes visi žinome, kad jis klysta.	Tom siempre insiste en que él tiene razón, incluso cuando todos sabemos que está equivocado.	kad	0	0
+Tu geri arbatą.	Tú bebes té.	tu	0	0
+Ji nevalgo mėsos, ar ne taip?	Ella no come carne, ¿verdad?	ne	0	0
+Taip, žinau.	Sí, lo sé.	taip	0	0
+Jis kalba ir prancūziškai, ir taip pat angliškai.	Él habla tanto el francés como el inglés.	jis	0	0
+Ką tai turėtų reikšti?	¿Qué se supone que quiere decir eso?	ką	0	0
+Tu čia būsi saugi.	Aquí estarás segura.	čia	0	0
+Labai vėlai atsikėliau ir pavėlavau į mokyklą.	Me levanté muy tarde y llegué tarde a la escuela.	į	0	0
+Kaip norite.	Como quieran.	kaip	0	0
+Johanas atėjo su broliu.	Johanas vino con el hermano.	su	0	0
+Ar čia galima rūkyti?	¿Se puede fumar aquí?	ar	0	0
+Dan foi o primeiro policial a chegar na cena do crime.	Dan fue el primer oficial en llegar a la escena del crimen.	o	0	0
+Duok man tai.	Dame eso.	man	0	0
+Kas tu?	¿Quién eres?	kas	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Me acuerdo bien del día en que dejé mi ciudad natal.	gerai	0	0
+Kur mano brolis?	¿Dónde está mi hermano?	mano	0	0
+Apgailestauju, bet manau kad tu klysti.	Lo siento, pero creo que te equivocas.	bet	0	0
+Aš išmokau kažką iš šitos knygos.	He aprendido algo de este libro.	iš	0	0
+Tomas visada teigia, kad jis teisus, net jeigu mes visi žinome, kad jis klysta.	Tom siempre insiste en que él tiene razón, incluso cuando todos sabemos que está equivocado.	mes	0	0
+Padarysiu viską, tik ne tai.	Haré cualquier cosa excepto eso.	tik	0	0
+Mano meilė tau yra sunkiai paaiškinama.	Mi amor por ti es difícil de explicar.	tau	0	0
+Siuvinėdama ji įsidūrė adata.	Bordando se le encajó la aguja.	ji	0	0
+Dėl šio klausimo yra diskutuojama.	Esa pregunta está en discusión.	yra	0	0
+Neprivalai eiti, jei nenori.	No tienes que ir si no quieres.	jei	0	0
+Jie buvo susirgę.	Estaban enfermos.	jie	0	0
+Tavo idėjos yra kitokios nei mano.	Tus ideas son diferentes de las mías.	tavo	0	0
+Vergai buvo laikomi nuosavybe.	Los esclavos eran considerados como bienes.	buvo	0	0
+Ji įsimylėjo savo mokytoją.	Ella se enamoró de su maestra.	savo	0	0
+Kur vilkai?	¿Dónde están los lobos?	kur	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Me acuerdo bien del día en que dejé mi ciudad natal.	kai	0	0
+Tai mane nervina.	Me pone nervioso.	mane	0	0
+Ar jūs turite knygą?	¿Tiene usted un libro?	jūs	0	0
+Kur dabar esi?	¿Dónde estás ahora?	dabar	0	0
+Geriau žinoti truputį apie viską, nei viską apie vieną dalyką.	Es mejor saber un poco de todo que saber un montón de una sola cosa.	apie	0	0
+Tai viskas, ką aš noriu pasakyti.	Es todo lo que quiero decir.	viskas	0	0
+Milė jį myli.	Millie lo ama.	jį	0	0
+Sveikinu tave!	¡Te felicito!	tave	0	0
+Ji ištekėjo už jo.	Se casó con él.	jo	0	0
+Pats jau nežinau.	Ya no me conozco.	jau	0	0
+Jis labai mėgsta žvejybą.	Le encanta pescar.	labai	0	0
+Jis to nežinojo.	Él no sabía eso.	to	0	0
+Aš negaliu ten patekti.	No puedo entrar ahí.	ten	0	0
+Man reikia šiek tiek pieno dribsniams.	Necesito un poco de leche para mi cereal.	reikia	0	0
+Aš nesu vyresnis už jį.	No soy más viejo que él.	už	0	0
+Ji turi tris dukteris.	Tiene tres hijas.	turi	0	0
+Kodėl tu nenori jam apie ją papasakoti?	¿Por qué no quieres contarle sobre ella?	kodėl	0	0
+Tu esi vienintelis žmogus, kuris man skambina po dešimtos valandos vakaro.	Eres la única persona que me llama después de las diez de la noche.	po	0	0
+Namie nieko nėra.	No hay nadie en la casa.	nieko	0	0
+Dėl šio klausimo yra diskutuojama.	Esa pregunta está en discusión.	dėl	0	0
+Mūsų mokytoja tikra idiotė.	Nuestra maestra es una verdadera idiota.	mūsų	0	0
+Kiek kartų per mėnėsį tu rašai laiškus?	¿Cuántas veces al mes escribes una carta?	per	0	0
+Mane kas nors girdi?	¿Alguien me oye?	nors	0	0
+Gerumas tai kalba, kurią kurtieji gali girdėti, o aklieji gali matyti.	La amabilidad es el lenguaje que el sordo puede oír y el ciego puede ver.	gali	0	0
+Dan foi o primeiro policial a chegar na cena do crime.	Dan fue el primer oficial en llegar a la escena del crimen.	na	0	0
+Be jūsų tai būtų buvę neįmanoma.	No habría sido posible sin vosotras.	jūsų	0	0
+Jis nori aplankyti Kiniją.	Él quiere visitar China.	nori	0	0
+Ko jūs norėtumėte išgerti?	¿Qué le gustaría beber?	ko	0	0
+Ji yra nepriklausoma nuo tėvų.	Ella es independiente de sus padres.	nuo	0	0
+Aš turiu laiko.	Tengo tiempo.	turiu	0	0
+Ar rytoj bus saulėta?	¿Estará soleado mañana?	bus	0	0
+Neklausyk jos.	No la escuches.	jos	0	0
+Štai yra jūsų raktas.	Esta es vuestra llave.	štai	0	0
+Prašom neatitraukti manęs nuo darbo.	Por favor, no me distraiga de mi trabajo.	manęs	0	0
+Ją visi mėgsta.	A todos les gusta ella.	ją	0	0
+Duokite tą katę mums.	Denos ese gato.	mums	0	0
+Ar jam įkando vabzdys?	¿Lo picó un insecto?	jam	0	0
+Ar jums skauda galva?	¿Le duele la cabeza?	jums	0	0
+Turi paskubėti, nes autobusas nelauks.	Tienes que darte prisa porque el autobús no te va a esperar.	nes	0	0
+Visi mėgsta lėles.	A todos les gustan los títeres.	visi	0	0
+Aš noriu pakalbėti.	Quiero platicar.	noriu	0	0
+Pone, prašom užpyldykite šitą formą.	Por favor, señor, rellene este formulario.	pone	0	0
+Žinau, kas yra blogai.	Sé lo que está mal.	žinau	0	0
+Duokite tą katę mums.	Dennos ese gato.	tą	0	0
+Nėra pavojaus.	No hay peligro.	nėra	0	0
+Marija turi daug krepšių.	María tiene muchas bolsas.	daug	0	0
+Padarysiu viską, tik ne tai.	Haré cualquier cosa menos eso.	viską	0	0
+Tas vardas man kažkur girdėtas.	El nombre me suena conocido.	tas	0	0
+Tada aš nemėgau alaus.	Entonces no me gustaba la cerveza.	tada	0	0
+Duona yra gaminama iš miltų ir vandens, prie kurių dažnai pridedama mielių.	El pan es hecho con harina y agua y a menudo se le agrega levadura.	prie	0	0
+Labas! Kaip sekasi?	¡Hola! ¿Cómo estás?	labas	0	0
+Pati jau nežinau.	Ya no me conozco.	nežinau	0	0
+Atleisk man, prašau!	¡Perdóname, por favor!	prašau	0	0
+Aš nužudysiu juos visus.	Los mataré a todos.	juos	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Un, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	vienas	0	0
+Pasaulyje yra daugiau nei septyni tūkstančiai kalbų.	Hay más de siete mil idiomas en el mundo.	daugiau	0	0
+Apgailestauju, bet manau kad tu klysti.	Lo siento, pero creo que te equivocas.	manau	0	0
+Nereikia tikėtis kad kiti galvos už mus.	No hay que esperar que los demás piensen por nosotros.	mus	0	0
+Aš negaliu patikėti, kad aš iš tiesų esu čia.	No puedo creer que realmente esté aquí.	negaliu	0	0
+Man reikia šiek tiek pieno dribsniams.	Necesito un poco de leche para mi cereal.	tiek	0	0
+Ji kalba ir prancūziškai, ir taip pat angliškai.	Ella habla tanto el francés como el inglés.	pat	0	0
+Kas jis toks?	¿Quién es él?	toks	0	0
+Tomas visada teigia, kad jis teisus, net jeigu mes visi žinome, kad jis klysta.	Tom siempre insiste en que él tiene razón, incluso cuando todos sabemos que está equivocado.	net	0	0
+Geriau žmogus be pinigų, nei pinigai be žmogaus.	Es mejor un hombre sin dinero que el dinero sin hombre.	be	0	0
+Kiek laiko kiekvieną dieną vidutinis paauglys žiūri televizorių?	¿Cuánto tiempo pasa de media un adolescente viendo la tele cada día?	kiek	0	0
+Koks žmogus yra Tomas?	¿Qué clase de persona es Tom?	koks	0	0
+Jis nėra mažiau protingas nei jo tėvas.	Él no es menos listo que su padre.	nei	0	0
+Aš esu plaukikas.	Soy nadador.	esu	0	0
+Pats jau nežinau.	Ya no me conozco.	pats	0	0
+Tomas per jaunas, kad būtų viršininkas.	Tom es demasiado joven para ser jefe.	būtų	0	0
+Tu esi vienintelis žmogus, kuris man skambina po dešimtos valandos vakaro.	Eres la única persona que me llama después de las diez de la noche.	esi	0	0
+Jie valgo mėsą kartą per savaitę.	Ellos comen carne una vez por semana.	kartą	0	0
+Kaip pasakyti... ?	¿Cómo se dice...?	pasakyti	0	0
+Geriau žinoti truputį apie viską, nei viską apie vieną dalyką.	Es mejor saber un poco de todo que saber un montón de una sola cosa.	geriau	0	0
+Problema tame, kad jai trūksta patirties.	El problema en esto es que le falta experiencia.	jai	0	0
+Geriau žinoti truputį apie viską, nei viską apie vieną dalyką.	Es mejor saber un poco de todo que saber un montón de una sola cosa.	vieną	0	0
+Jei ne dabar, tai kada?	Si no es ahora, ¿cuándo?	kada	0	0
+Šiandien sekmadienis.	Hoy es domingo.	šiandien	0	0
+Tu esi vienintelis žmogus, kuris man skambina po dešimtos valandos vakaro.	Eres la única persona que me llama después de las diez de la noche.	kuris	0	0
+Mūsų niekas neieško.	Nadie nos busca.	niekas	0	0
+Tomas atrodo jaunas.	Tom se ve joven.	atrodo	0	0
+Mano motina negali ateiti.	Mi madre no puede venir.	negali	0	0
+Žmonės mėgsta kalbėti.	A las personas les gusta hablar.	žmonės	0	0
+Tomas yra mano metų.	Tom tiene mi edad.	metų	0	0
+Atleisk man, prašau!	¡Perdóname, por favor!	atleisk	0	0
+Tu tuo nepatikėsi.	No creerás esto.	tuo	0	0
+Arba jis kaltas, arba aš.	O él es culpable, o yo.	arba	0	0
+Kiek laiko kiekvieną dieną vidutinis paauglys žiūri televizorių?	¿Cuánto tiempo pasa de media un adolescente viendo la tele cada día?	laiko	0	0
+Visiems patinka ši gėlė.	A todos les gusta esa flor.	patinka	0	0
+Tomui vėl bėga kraujas.	Tom está sangrando de nuevo.	vėl	0	0
+Tomas visada teigia, kad jis teisus, net jeigu mes visi žinome, kad jis klysta.	Tom siempre insiste en que él tiene razón, incluso cuando todos sabemos que está equivocado.	jeigu	0	0
+Nereikia tikėtis kad kiti galvos už mus.	No hay que esperar que los demás piensen por nosotros.	nereikia	0	0
+Pasirašykite šį čekį.	Endosa este cheque.	šį	0	0
+Aš gyvenu kartu su tėvais.	Vivo con mis padres.	kartu	0	0
+Tomas visada teigia, kad jis teisus, net jeigu mes visi žinome, kad jis klysta.	Tom siempre insiste en que él tiene razón, incluso cuando todos sabemos que está equivocado.	visada	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	du	0	0
+Jis ėjo namo.	Se fue a casa.	namo	0	0
+Koks žmogus yra Tomas?	¿Qué clase de persona es Tom?	žmogus	0	0
+Aš rytoj jiems paskambinsiu.	Los llamaré mañana.	jiems	0	0
+Aš visus čia pažįstu.	Conozco a todos aquí.	visus	0	0
+Nenoriu eiti dirbti šiandien.	No quiero ir a trabajar hoy.	nenoriu	0	0
+Jis yra geras rašytojas.	Es una buena escritora.	geras	0	0
+Neprivalai eiti, jei nenori.	No tienes que ir si no quieres.	eiti	0	0
+Sveikas atvykęs namo, broliuk!	¡Bienvenido a casa, hermanito!	sveikas	0	0
+Kokia tavo kraujo grupė?	¿Cuál es tu grupo sanguíneo?	kokia	0	0
+Aš nežinau, ką man daryti.	No sé qué deba hacer.	daryti	0	0
+Dan foi o primeiro policial a chegar na cena do crime.	Dan fue el primer oficial en llegar a la escena del crimen.	a	0	0
+Viena iš Serbijos sąjunginikių buvo Rusija.	Uno de los aliados de Serbia era Rusia.	viena	0	0
+Negaliu galvoti apie nieką kitą.	No puedo pensar en nadie más.	kitą	0	0
+Kiek laiko kiekvieną dieną vidutinis paauglys žiūri televizorių?	¿Cuánto tiempo pasa de media un adolescente viendo la tele cada día?	dieną	0	0
+Jeigu nebūtų oro, žmogus nepragyventų nė dešimt minučių.	Si no hubiera aire, el hombre no sobreviviría ni diez minutos.	nė	0	0
+Geriau žmogus be pinigų, nei pinigai be žmogaus.	Es mejor un hombre sin dinero que el dinero sin hombre.	pinigų	0	0
+Šis sakinys man kažkur matytas!	¡Esa frase me parece familiar!	šis	0	0
+Aš myliu visus savo draugus.	Amo a todos mis amigos.	myliu	0	0
+Pasakyk man kas atsitiko.	Dime qué pasó.	pasakyk	0	0
+Ar galima įeiti?	¿Puedo entrar?	galima	0	0
+Iš viso mūsų yra vienuolika žmonių.	En total, somos once.	žmonių	0	0
+Aš norėjau juos nužudyti.	Yo los quería matar.	norėjau	0	0
+Mūsų mokytojas tikras idiotas.	Nuestro maestro es un verdadero idiota.	tikras	0	0
+Tu buvai drąsus.	Fuiste valiente.	buvai	0	0
+Aš norėčiau keliauti aplink pasaulį.	Me gustaría viajar alrededor del mundo.	norėčiau	0	0
+Aš esu tavo tėvas.	Yo soy tu padre.	tėvas	0	0
+Sveikinu tave su programuotojo diena.	Te felicito por el día del programador.	diena	0	0
+Jos vardas Irina.	Su nombre es Irina.	vardas	0	0
+Ar Jūs ieškote darbo?	¿Usted está buscando trabajo?	darbo	0	0
+Šiuo metu jis gyvena Tokijuje.	Ahora él vive en Tokio.	metu	0	0
+Su tavim pavasaris tęsiasi ištisus metus.	Contigo es verano en todo el año.	metus	0	0
+Prašau duok man žinoti kai juos gausi.	Por favor, hazme saber cuando los recibas.	duok	0	0
+Paukščiai neturi dantų.	Los pájaros no tienen dientes.	neturi	0	0
+Aš išmokau kažką iš šitos knygos.	He aprendido algo de este libro.	kažką	0	0
+Ponia Smith važiuoja su mašina į bažnyčią.	La señora Smith va a la iglesia en coche.	ponia	0	0
+Aš tikiuosi nuvykti į Kanadą kitais metais.	Espero ir a Canadá el año que viene.	tikiuosi	0	0
+Verkiu kaskart kai išgirstu šią dainą.	Lloro cada vez que oigo esta canción.	šią	0	0
+Ateik poryt.	Ven pasado mañana.	ateik	0	0
+Tomas per daug žino.	Tomás sabe demasiado.	žino	0	0
+Pati jau nežinau.	Ya no me conozco.	pati	0	0
+Ji yra gera rašytoja.	Es una buena escritora.	gera	0	0
+Su tavim pavasaris tęsiasi ištisus metus.	Contigo es verano en todo el año.	tavim	0	0
+Jūsų kilimas yra visiškai baltas.	Su tapete es completamente blanco.	visiškai	0	0
+Tėtis nupirko man fotoaparatą.	Papá me compró una cámara.	tėtis	0	0
+Ši muzika visus erzina.	Esta música está fastidiando a todos.	ši	0	0
+Ar rytoj bus saulėta?	¿Estará soleado mañana?	rytoj	0	0
+Atnešk visus savo pinigus.	Trae todo tu dinero.	pinigus	0	0
+Tomui nepatinka tokio tipo filmai.	A Tom no le gusta este tipo de películas.	tokio	0	0
+Iš viso mūsų yra vienuolika žmonių.	En total, somos once.	viso	0	0
+Skirtumas tarp norėjimo ir galėjimo dažnai labai didelis.	A menudo hay una gran diferencia entre querer y poder.	tarp	0	0
+Man reikia šiek tiek pieno dribsniams.	Necesito un poco de leche para mi cereal.	šiek	0	0
+Jis pasakė: "Aš esu iš Kanados".	Él dijo: "soy de Canadá".	pasakė	0	0
+Ar jūs turite knygą?	¿Tiene usted un libro?	turite	0	0
+Aš šiandien neturiu pamokų.	Hoy no tengo clases.	neturiu	0	0
+Prašau duok man žinoti kai juos gausi.	Por favor, hazme saber cuando los recibas.	žinoti	0	0
+Aš nesu vyresnis už jį.	No soy más viejo que él.	nesu	0	0
+Pasakyk man kas atsitiko.	Dime qué pasó.	atsitiko	0	0
+Twitter nėra tikras draugas.	Twitter no es un amigo de verdad.	draugas	0	0
+Geriau žinoti truputį apie viską, nei viską apie vieną dalyką.	Es mejor saber un poco de todo que saber un montón de una sola cosa.	truputį	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	trys	0	0
+Ar tai yra gera vieta pasodinti medį?	¿Es este un buen lugar para plantar un árbol?	vieta	0	0
+Vakar aš pardaviau dvi knygas.	Ayer vendí dos libros.	dvi	0	0
+Visiems patinka ši gėlė.	A todos les gusta esa flor.	visiems	0	0
+Vaikai – mūsų gyvenimo gėlės.	Los niños son las flores de nuestra vida.	vaikai	0	0
+Vakar ėjau miegoti dvyliktą.	Anoche me fui a la cama a las doce.	vakar	0	0
+Ką tai turėtų reikšti?	¿Qué se supone que quiere decir eso?	turėtų	0	0
+Ji kalba ir prancūziškai, ir taip pat angliškai.	Ella habla tanto el francés como el inglés.	kalba	0	0
+Pone, prašom užpyldykite šitą formą.	Por favor, señor, rellene este formulario.	šitą	0	0
+Gerumas tai kalba, kurią kurtieji gali girdėti, o aklieji gali matyti.	La amabilidad es el lenguaje que el sordo puede oír y el ciego puede ver.	matyti	0	0
+Esu tikra, kad jis ateis.	Tengo la certeza de que vendrá.	tikra	0	0
+Jis jau nebe vaikas.	Él ya no es un niño.	vaikas	0	0
+Kodėl tu nenori jam apie ją papasakoti?	¿Por qué no quieres contarle sobre ella?	nenori	0	0
+Ji susirgo šios savaitės pabaigoje.	Ella se enfermó este fin de semana.	šios	0	0
+Jūs galite ateiti, jei norite.	Puede venir si quiere.	galite	0	0
+Dėl šio klausimo yra diskutuojama.	Esa pregunta está en discusión.	šio	0	0
+Tomas paprašė Merės pagalbos.	Tom le pidió ayuda a Mary.	pagalbos	0	0
+Labas! Kaip sekasi?	¡Hola! ¿Cómo estás?	sekasi	0	0
+Kur yra mano sūnus?	¿Dónde está mi hijo?	sūnus	0	0
+Jie abu yra labai protingi.	Ambos son muy inteligentes.	abu	0	0
+Tomas paklausė Merės kokį ji mėgsta maistą.	Tom le preguntó a Mary qué clase de comida le gustaba.	kokį	0	0
+Padėk man atsikelti.	Ayúdame a levantarme.	padėk	0	0
+Žinau, kas yra blogai.	Sé lo que está mal.	blogai	0	0
+Būk kūrybinga.	Sé creativa.	būk	0	0
+Gyvenimas yra gražus.	La vida es bella.	gyvenimas	0	0
+Tomas visada teigia, kad jis teisus, net jeigu mes visi žinome, kad jis klysta.	Tom siempre insiste en que él tiene razón, incluso cuando todos sabemos que está equivocado.	teisus	0	0
+Ar jis iš tiesų tą padarė?	¿Él realmente hizo eso?	padarė	0	0
+Vos tik jie išvažiavo, pradėjo lyti.	Apenas se fueron, comenzó a llover.	vos	0	0
+Gerumas tai kalba, kurią kurtieji gali girdėti, o aklieji gali matyti.	La amabilidad es el lenguaje que el sordo puede oír y el ciego puede ver.	kurią	0	0
+Jeigu nebūtų oro, žmogus nepragyventų nė dešimt minučių.	Si no hubiera aire, el hombre no sobreviviría ni diez minutos.	minučių	0	0
+Dienos ilgesnės, nei naktys.	Los días son más largos que las noches.	dienos	0	0
+Kaip norite.	Como usted quiera.	norite	0	0
+Atleiskite man, prašau!	¡Perdóneme, por favor!	atleiskite	0	0
+Ji norėtų surasti gyvenimo prasmę.	A ella le gustaría encontrar el sentido de la vida.	gyvenimo	0	0
+Tu esi vienintelis žmogus, kuris man skambina po dešimtos valandos vakaro.	Eres la única persona que me llama después de las diez de la noche.	vienintelis	0	0
+Labas rytas.	Buenos días.	rytas	0	0
+Tomas padarė kelias klaidas teste.	Tom cometió algunos errores en el test.	kelias	0	0
+Kiekvieną mėnesį skaitau penkis skirtingus žurnalus.	Leo cinco diferentes clases de revistas cada mes.	kiekvieną	0	0
+Sausis yra pirmas metų mėnuo.	Enero es el primer mes del año.	pirmas	0	0
+Tu čia būsi saugus.	Aquí estarás seguro.	būsi	0	0
+Mano šeima gyvena čia dvidešimt metų.	Mi familia ha vivido aquí durante veinte años.	šeima	0	0
+Jis turi tris dukteris.	Tiene tres hijas.	tris	0	0
+Mane kas nors girdi?	¿Alguien me oye?	girdi	0	0
+Duona yra gaminama iš miltų ir vandens, prie kurių dažnai pridedama mielių.	El pan es hecho con harina y agua y a menudo se le agrega levadura.	vandens	0	0
+Šiuo metu jis gyvena Tokijuje.	Ahora él vive en Tokio.	šiuo	0	0
+Nereikia tikėtis kad kiti galvos už mus.	No hay que esperar que los demás piensen por nosotros.	kiti	0	0
+Aš nebeturiu namų.	Yo ya no tengo casa.	namų	0	0
+Žmonės mėgsta kalbėti.	A las personas les gusta hablar.	kalbėti	0	0
+Mūsų restoranas yra geriausias.	Nuestro restaurante es el mejor.	geriausias	0	0
+Jūs esate svarbūs.	Ustedes son importantes.	esate	0	0
+Tomui nepatinka tokio tipo filmai.	A Tom no le gusta este tipo de películas.	nepatinka	0	0
+Jie valgo mėsą kartą per savaitę.	Ellos comen carne una vez por semana.	savaitę	0	0
+Japonų kalba turi svarbų vaidmenį plečiant taiką pasaulyje.	El japonés juega un rol importante en la promoción de la paz en el mundo.	pasaulyje	0	0
+Namie nieko nėra.	No hay nadie en la casa.	namie	0	0
+Žmogaus kaukolę sudaro 23 kaulai.	El cráneo humano consiste de 23 huesos.	žmogaus	0	0
+Johanas atėjo su broliu.	Johanas vino con su hermano.	atėjo	0	0
+Aš norėjau juos nužudyti.	Yo los quería matar.	nužudyti	0	0
+Milė jį myli.	Millie lo ama.	myli	0	0
+Tai man keista.	Esto me es extraño.	keista	0	0
+Aš negaliu patikėti, kad aš iš tiesų esu čia.	No puedo creer que realmente esté aquí.	patikėti	0	0
+Prašom neatitraukti manęs nuo darbo.	Por favor, no me distraiga de mi trabajo.	prašom	0	0
+Mašina yra geltona.	El carro es amarillo.	mašina	0	0
+Tai yra Tomo brolis.	Ese es el hermano de Tom.	brolis	0	0
+Jeigu nebūtų oro, žmogus nepragyventų nė dešimt minučių.	Si no hubiera aire, el hombre no sobreviviría ni diez minutos.	oro	0	0
+Tomas nemėgsta tokių filmų.	A Tom no le gusta este tipo de películas.	tokių	0	0
+Kačiukai valdo pasaulį.	Los gatitos gobiernan el mundo.	pasaulį	0	0
+Geriau žmogus be pinigų, nei pinigai be žmogaus.	Es mejor un hombre sin dinero que el dinero sin hombre.	pinigai	0	0
+Mano motina negali ateiti.	Mi madre no puede venir.	motina	0	0
+Prašom netrukdyti man dirbti.	Por favor, no interfiera con mi trabajo.	dirbti	0	0
+Urve gyvena drakonas.	Un dragón vive en la cueva.	gyvena	0	0
+Tomas atvyko paskutinis.	Tom llegó el último.	paskutinis	0	0
+Tu man kažkur matytas.	Me pareces familiar.	kažkur	0	0
+Pasiruošt, dėmesio, marš!	En sus marcas, listos, ¡fuera!	dėmesio	0	0
+Ar Tomas didelis?	¿Tom es grande?	didelis	0	0
+Aš kalbu sorbų kalba.	Hablo sorabo.	kalbu	0	0
+Pasaulis yra mažas.	El mundo es pequeño.	mažas	0	0
+Lietus truko keturias dienas.	La lluvia duró cuatro días.	dienas	0	0
+Jeigu nebūtų oro, žmogus nepragyventų nė dešimt minučių.	Si no hubiera aire, el hombre no sobreviviría ni diez minutos.	nebūtų	0	0
+Grįšiu po pusvalandžio.	Vuelvo en media hora.	grįšiu	0	0
+Mūsų komanda devėjo raudonus marškinėlius.	Nuestro equipo llevaba camisetas rojas.	komanda	0	0
+Ji norėtų surasti gyvenimo prasmę.	A ella le gustaría encontrar el sentido de la vida.	surasti	0	0
+Šiandien aš iš tiesų esu pavargęs.	Hoy estoy muy cansado.	tiesų	0	0
+Man visur skauda.	Me duele todo.	visur	0	0
+Tomas išėjo su Mere.	Tom se fue con Mary.	išėjo	0	0
+Labai džiaugiuosi tai sužinojęs.	Me alegro mucho de saberlo.	džiaugiuosi	0	0
+Nereikia tikėtis kad kiti galvos už mus.	No hay que esperar que los demás piensen por nosotros.	galvos	0	0
+Aš bijau pėlėdų.	Tengo miedo a los búhos.	bijau	0	0
+Pasaulis prasidėjo be žmogaus ir baigsis be jo.	El mundo empezó sin el hombre y se acabará sin él.	pasaulis	0	0
+Be jūsų tai būtų buvę neįmanoma.	No habría sido posible sin vosotras.	neįmanoma	0	0
+Duona yra gaminama iš miltų ir vandens, prie kurių dažnai pridedama mielių.	El pan es hecho con harina y agua y a menudo se le agrega levadura.	kurių	0	0
+Padarysiu viską, tik ne tai.	Haré cualquier cosa excepto eso.	padarysiu	0	0
+Mes valgome daug maisto rūšių.	Comemos muchos tipos de comida.	maisto	0	0
+Šis klausimas yra svarstomas.	Esa pregunta está en discusión.	klausimas	0	0
+Sveikinu tave!	¡Te felicito!	sveikinu	0	0
+Gyvenimas yra gražus.	La vida es bella.	gražus	0	0
+Jis nėra mažiau protingas nei jo tėvas.	Él no es menos listo que su padre.	mažiau	0	0
+Aš mėgstu keliauti aplink pasaulį.	Me encantaría viajar alrededor del mundo.	aplink	0	0
+Tu turėsi pradėti.	Tú tendrás que empezar.	pradėti	0	0
+Kiek kartų per mėnėsį tu rašai laiškus?	¿Cuántas veces al mes escribes una carta?	kartų	0	0
+Ar jums skauda galva?	¿Le duele la cabeza?	skauda	0	0
+Niekas to nežino.	Nadie lo sabe.	nežino	0	0
+Esu tikras, kad jis ateis.	Tengo la certeza de que vendrá.	ateis	0	0
+Problema tame, kad jai trūksta patirties.	El problema en esto es que le falta experiencia.	tame	0	0
+Problema tame, kad jai trūksta patirties.	El problema en esto es que le falta experiencia.	problema	0	0
+Mano dukra mėgsta žaisti su lėlėmis.	A mi hija le gusta jugar con muñecas.	dukra	0	0
+Kokia tavo kraujo grupė?	¿Cuál es tu grupo sanguíneo?	kraujo	0	0
+Nelinkėk man stebuklingos nakties, padovanok man ją!	No me desees una noche mágica, ¡dámela!	nakties	0	0
+Tomas man davė paskutinį pyrago gabaliuką.	Tom me dio el último pedazo de pastel.	paskutinį	0	0
+Tas pats tinka ir Tomui.	Lo mismo aplica para Tom.	tinka	0	0
+Karalius visada nešioja karūną.	El rey siempre lleva la corona.	karalius	0	0
+Ji mėgsta šiuos katinus.	A ella le gustan estos gatos.	šiuos	0	0
+Mano meilė tau yra sunkiai paaiškinama.	Mi amor por ti es difícil de explicar.	meilė	0	0
+Ar jums skauda galva?	¿Le duele la cabeza?	galva	0	0
+Nekenčiu šios dainos.	Odio esa canción.	nekenčiu	0	0
+Koks jūsų mėgstamiausias filmas?	¿Cuál es vuestra película favorita?	filmas	0	0
+Šioje šalyje karvės yra naudingesnės už bet kokius kitus gyvulius.	Las vacas son más útiles que cualquier otro animal en este país.	šioje	0	0
+Aš nežinau, Tomai.	No sé, Tom.	tomai	0	0
+Kiek laiko kiekvieną dieną vidutinis paauglys žiūri televizorių?	¿Cuánto tiempo pasa de media un adolescente viendo la tele cada día?	žiūri	0	0
+Skirtumas tarp norėjimo ir galėjimo dažnai labai didelis.	A menudo hay una gran diferencia entre querer y poder.	dažnai	0	0
+Tu turėsi pradėti.	Tú tendrás que empezar.	turėsi	0	0
+Nebūk kvailas.	No seas tonto.	kvailas	0	0
+Tomas man davė paskutinį pyrago gabaliuką.	Tom me dio el último pedazo de pastel.	davė	0	0
+Aš rytoj jiems paskambinsiu.	Los llamaré mañana.	paskambinsiu	0	0
+Tu nesi jaunas.	No eres joven.	nesi	0	0
+Vos tik jie išvažiavo, pradėjo lyti.	Apenas se fueron, comenzó a llover.	pradėjo	0	0
+Tu esi vienintelis žmogus, kuris man skambina po dešimtos valandos vakaro.	Eres la única persona que me llama después de las diez de la noche.	valandos	0	0
+Aš visus čia pažįstu.	Conozco a todos aquí.	pažįstu	0	0
+Apgailestauju, bet manau kad tu klysti.	Lo siento, pero creo que te equivocas.	apgailestauju	0	0
+Aš tikiuosi nuvykti į Kanadą kitais metais.	Espero ir a Canadá el año que viene.	metais	0	0
+Karas liečia mus visus.	La guerra nos concierne a todos.	karas	0	0
+Prašom pakeisti vėliavą.	Por favor, cambia la bandera.	pakeisti	0	0
+Lik pozityvus.	Sigue positivo.	lik	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Uno de sus tres carros es azul y los demás son blancos.	trijų	0	0
+Jos svajonė buvo tapti universiteto profesore.	Su sueño era ser profesor de universidad.	tapti	0	0
+Tai lengva.	Es fácil.	lengva	0	0
+Skirtumas tarp norėjimo ir galėjimo dažnai labai didelis.	A menudo hay una gran diferencia entre querer y poder.	skirtumas	0	0
+Sėdėjome šnekėdami apie šį bei tą.	Nos sentamos a conversar de esto y aquello.	bei	0	0
+Tu geri arbatą.	Tú bebes té.	geri	0	0
+Kiekvieną mėnesį skaitau penkis skirtingus žurnalus.	Leo cinco diferentes clases de revistas cada mes.	mėnesį	0	0
+Šioje šalyje karvės yra naudingesnės už bet kokius kitus gyvulius.	Las vacas son más útiles que cualquier otro animal en este país.	kitus	0	0
+Aš nemėgstu savo mokyklos.	No me gusta mi escuela.	mokyklos	0	0
+Šuo buvo negyvas.	El perro estaba muerto.	negyvas	0	0
+Tu nesupranti.	Tú no entiendes.	nesupranti	0	0
+Vakar ėjau miegoti dvyliktą.	Anoche me fui a la cama a las doce.	miegoti	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Un, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	dešimt	0	0
+Tomas visada teigia, kad jis teisus, net jeigu mes visi žinome, kad jis klysta.	Tom siempre insiste en que él tiene razón, incluso cuando todos sabemos que está equivocado.	žinome	0	0
+Pasaulis prasidėjo be žmogaus ir baigsis be jo.	El mundo empezó sin el hombre y se acabará sin él.	prasidėjo	0	0
+Jo mirtis visus nuliūdino.	Su muerte entristeció a todo el mundo.	mirtis	0	0
+Labai vėlai atsikėliau ir pavėlavau į mokyklą.	Me levanté muy tarde y llegué tarde a la escuela.	mokyklą	0	0
+Paprastai Tomas skaito tik antraštes.	Tom normalmente solo lee los encabezados.	paprastai	0	0
+Daugiau to nedaryk!	¡No vuelvas a hacer eso!	nedaryk	0	0
+Moters spėjimas yra daug tikslesnis negu vyro įsitikinimas.	La intuición de una mujer es más precisa que la certeza de un hombre.	vyro	0	0
+Ar tu turi knygą?	¿Tienes un libro?	knygą	0	0
+Tu gali ateiti, jei nori.	Puedes venir si quieres.	ateiti	0	0
+Aš tiksliai neprisimenu.	Yo no recuerdo con precisión.	tiksliai	0	0
+Moters spėjimas yra daug tikslesnis negu vyro įsitikinimas.	La intuición de una mujer es más precisa que la certeza de un hombre.	negu	0	0
+Aš noriu pakalbėti.	Quiero platicar.	pakalbėti	0	0
+Mano sesuo mėgsta saldumynus.	A mi hermana le gusta el dulce.	sesuo	0	0
+Jis apkabino tėvą.	Él abrazó a su padre.	tėvą	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	keturi	0	0
+Staiga išgirdau klyksmą.	De repente oí un grito.	staiga	0	0
+Arba jis kaltas, arba aš.	O él es culpable, o yo.	kaltas	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Un, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	penki	0	0
+Labiausiai man patinka ruduo.	El que más me gusta es el otoño.	labiausiai	0	0
+Tomas sėdi konferencijų salėje.	Tom está sentado en la sala de conferencias.	sėdi	0	0
+Tu esi vienintelis žmogus, kuris man skambina po dešimtos valandos vakaro.	Eres la única persona que me llama después de las diez de la noche.	vakaro	0	0
+Mano dukra mėgsta žaisti su lėlėmis.	A mi hija le gusta jugar con muñecas.	žaisti	0	0
+Tada aš nemėgau alaus.	Entonces no me gustaba la cerveza.	alaus	0	0
+Ko jūs norėtumėte išgerti?	¿Qué le gustaría beber?	išgerti	0	0
+Esu laimingas.	Estoy contento.	laimingas	0	0
+Jei tu nori kad aš padėčiau Tomui, aš jam padėsiu.	Si quieres que ayude a Tom, le ayudaré.	padėsiu	0	0
+Tomui vėl bėga kraujas.	Tom está sangrando de nuevo.	kraujas	0	0
+Šis miestas turi milijoną gyventojų.	Esta ciudad tiene un millón de habitantes.	miestas	0	0
+Jis jau nebe vaikas.	Él ya no es un niño.	nebe	0	0
+Triušiai mėgsta valgyti morkas.	A los conejos les gusta comer zanahorias.	valgyti	0	0
+Problema tame, kad jai trūksta patirties.	El problema en esto es que le falta experiencia.	trūksta	0	0
+Mes ilgokai vienas su kitu kalbėjome.	Hablamos durante un momento.	kitu	0	0
+Pasaulis prasidėjo be žmogaus ir baigsis be jo.	El mundo empezó sin el hombre y se acabará sin él.	baigsis	0	0
+Viešpatie saugok Ukrainą!	¡Que Dios salve a Ucrania!	viešpatie	0	0
+Sekmadienis yra paskutinė savaitės diena.	El domingo es el último día de la semana.	paskutinė	0	0
+Aš negaliu ten patekti.	No puedo meterme ahí.	patekti	0	0
+Šuo buvo negyvas.	El perro estaba muerto.	šuo	0	0
+Tu dirbi?	¿Estás trabajando?	dirbi	0	0
+Tomas atvyko paskutinis.	Tom llegó el último.	atvyko	0	0
+Vanduo blizga saulėje.	El agua brilla a la luz del sol.	vanduo	0	0
+Ana mėgsta rašyti eilėraščius.	A Ann le gusta escribir poemas.	ana	0	0
+Aš ieškau savo brolio.	Estoy buscando a mi hermano.	ieškau	0	0
+Aš to nesakiau.	Yo no dije eso.	nesakiau	0	0
+Padėkite man!	¡Ayúdenme!	padėkite	0	0
+Sekmadienis yra paskutinė savaitės diena.	El domingo es el último día de la semana.	savaitės	0	0
+Nors diena ir saulėta, bet yra šalta.	A pesar de ser un día soleado, hace frío.	šalta	0	0
+Ar tu moki gaminti duoną?	¿Sabés hacer pan?	moki	0	0
+Jis nėra mažiau protingas nei jo tėvas.	Él no es menos listo que su padre.	protingas	0	0
+Gerumas tai kalba, kurią kurtieji gali girdėti, o aklieji gali matyti.	La amabilidad es el lenguaje que el sordo puede oír y el ciego puede ver.	girdėti	0	0
+Kuriam tu teiki pirmenybę?	¿Cuál prefieres tú?	kuriam	0	0
+Šiandien nėra ką veikti.	No hay nada que hacer hoy.	veikti	0	0
+Aš mėgstu keliauti aplink pasaulį.	Me encantaría viajar alrededor del mundo.	mėgstu	0	0
+Neliesk to mygtuko!	¡No toques ese botón!	neliesk	0	0
+Prašau duok man žinoti kai juos gausi.	Por favor, hazme saber cuando los recibas.	gausi	0	0
+Negaliu galvoti apie nieką kitą.	No puedo pensar en nadie más.	galvoti	0	0
+Aš gyvenu kartu su tėvais.	Vivo con mis padres.	gyvenu	0	0
+Šioje šalyje karvės yra naudingesnės už bet kokius kitus gyvulius.	Las vacas son más útiles que cualquier otro animal en este país.	kokius	0	0
+Tu esi vienintelis žmogus, kuris man skambina po dešimtos valandos vakaro.	Eres la única persona que me llama después de las diez de la noche.	skambina	0	0
+Ji norėtų surasti gyvenimo prasmę.	A ella le gustaría encontrar el sentido de la vida.	norėtų	0	0
+Nebūk kvailas.	No seas estúpido.	nebūk	0	0
+Atnešk man rankšluostį.	Tráeme una toalla.	atnešk	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Un, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	šeši	0	0
+Moters spėjimas yra daug tikslesnis negu vyro įsitikinimas.	La intuición de una mujer es más precisa que la certeza de un hombre.	moters	0	0
+Tomas ne anarchistas.	Tom no es anarquista.	tomas	0	0
+Aš moku skaityti.	Sé leer.	moku	0	0
+Tėtis nupirko man kamerą.	Papá me compró una cámara.	kamerą	0	0
+Tu sunkiai dirbi.	Trabajas mucho.	sunkiai	0	0
+Geriau žinoti truputį apie viską, nei viską apie vieną dalyką.	Es mejor saber un poco de todo que saber un montón de una sola cosa.	dalyką	0	0
+Kaip norėčiau nueiti į kiną.	¡Cómo me gustaría ir al cine!	nueiti	0	0
+Tu bijai.	Tú tienes miedo.	bijai	0	0
+Triušiai mėgsta valgyti morkas.	A los conejos les gusta comer zanahorias.	mėgsta	0	0
+Tomas atrodo jaunas.	Tom se ve joven.	jaunas	0	0
+Kiekvieną mėnesį skaitau penkis skirtingus žurnalus.	Leo cinco diferentes clases de revistas cada mes.	penkis	0	0
+Tai siaubinga.	Es terrible.	siaubinga	0	0
+Visi mėgsta laimėti.	A todo el mundo le gusta ganar.	laimėti	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Me acuerdo bien del día en que dejé mi ciudad natal.	palikau	0	0
+Aš išmokau kažką iš šitos knygos.	He aprendido algo de este libro.	knygos	0	0
+Aš tikiuosi nuvykti į Kanadą kitais metais.	Espero ir a Canadá el año que viene.	kitais	0	0
+Aš norėčiau keliauti aplink pasaulį.	Me gustaría viajar alrededor del mundo.	keliauti	0	0
+Ši muzika visus erzina.	Esta música está fastidiando a todos.	muzika	0	0
+Aš nemoku anglų kalbos.	Yo no sé inglés.	kalbos	0	0
+Kodėl tu nenori jam apie ją papasakoti?	¿Por qué no quieres contarle sobre ella?	papasakoti	0	0
+Tomas nemiega karste, kaip dauguma vampyrų.	Tom no duerme en un ataúd como la mayoría de los vampiros.	dauguma	0	0
+Jos abi yra labai protingos.	Ambos son muy inteligentes.	abi	0	0
+Niekas negali išspręsti šios problemos.	Nadie puede resolver este problema.	problemos	0	0
+Mūsų mokytojas tikras idiotas.	Nuestro maestro es un verdadero idiota.	idiotas	0	0
+Tomui vėl bėga kraujas.	Tom está sangrando de nuevo.	bėga	0	0
+Ji mėgsta šias kates.	A ella le gustan estos gatos.	šias	0	0
+Tu esi svarbus.	Eres importante.	svarbus	0	0
+Brangūs broliai ir seserys!	¡Queridísimos hermanos y hermanas!	broliai	0	0
+Tomas mėgsta mokytis muzikos.	A Tomás le gusta aprender música.	muzikos	0	0
+Kokį maistą tu mėgsti?	¿Qué tipo de comida te gusta?	maistą	0	0
+Rytoj jis bus užsiėmęs.	Él estará ocupado mañana.	užsiėmęs	0	0
+Ponia Smith važiuoja su mašina į bažnyčią.	La señora Smith va a la iglesia en coche.	važiuoja	0	0
+Tomas atrodo nuostabiai.	Tom tiene un aspecto estupendo.	nuostabiai	0	0
+Jis pavogė mano laikrodį.	Me robó el reloj.	pavogė	0	0
+Buvo rasta dvidešimt dėžių. prikrautų piratiniais CD ir DVD diskais.	Se encontraron 20 cajas llenas de CD y DVD piratas.	dvidešimt	0	0
+Aš myliu visus savo draugus.	Amo a todos mis amigos.	draugus	0	0
+Verkiu kaskart kai išgirstu šią dainą.	Lloro cada vez que oigo esta canción.	dainą	0	0
+Tai staigmena.	Es una sorpresa.	staigmena	0	0
+Tu čia būsi saugi.	Aquí estarás segura.	saugi	0	0
+Mažas katinas slepiasi už lovos.	El pequeño gato se esconde detrás de la cama.	lovos	0	0
+Ji parašė daug eilėraščių.	Ella escribió muchos poemas.	parašė	0	0
+Tu čia būsi saugus.	Aquí estarás seguro.	saugus	0	0
+Tai tavo likimas.	Este es tu destino.	likimas	0	0
+Ji nupirko jam šunį.	Ella le compró un perro.	šunį	0	0
+Ji yra nepriklausoma nuo tėvų.	Ella es independiente de sus padres.	tėvų	0	0
+Aš ieškau savo brolio.	Busco a mi hermano.	brolio	0	0
+Pasaulyje yra daugiau nei septyni tūkstančiai kalbų.	Hay más de siete mil idiomas en el mundo.	septyni	0	0
+Jis mėgsta skaityti laikraščius.	A él le gusta leer periódicos.	skaityti	0	0
+Tomas mėgsta mokytis muzikos.	A Tomás le gusta aprender música.	mokytis	0	0
+Ji turi ilgus plaukus.	Ella tiene el pelo largo.	plaukus	0	0
+Kokia tavo kraujo grupė?	¿Cuál es tu grupo sanguíneo?	grupė	0	0
+Aš išmokau kažką iš šitos knygos.	He aprendido algo de este libro.	šitos	0	0
+Aš sužinojau kur jis yra.	Averigüé dónde está.	sužinojau	0	0
+Jie rašo.	Ellos escriben.	rašo	0	0
+Alisa nematė to šuns.	Alice no vio al perro.	alisa	0	0
+Naujasis planšetinis kompiuteris kainuoja labai brangiai.	El nuevo Tablet PC cuesta demasiado caro.	kainuoja	0	0
+Atsakyk!	¡Contesta!	atsakyk	0	0
+Tomas nevalgo daug mėsos.	Tom no come mucha carne.	mėsos	0	0
+Aš nudėsiu juos visus.	Los mataré a todos.	nudėsiu	0	0
+Ji kalba ir prancūziškai, ir taip pat angliškai.	Ella habla tanto el francés como el inglés.	angliškai	0	0
+Jis mus visus išgelbėjo.	Él nos salvó a todos.	išgelbėjo	0	0
+Aš nemėgstu valgyti ledų žiemą.	No me gusta comer helado en invierno.	nemėgstu	0	0
+Marija yra našlė.	María es viuda.	marija	0	0
+Šioje šalyje karvės yra naudingesnės už bet kokius kitus gyvulius.	Las vacas son más útiles que cualquier otro animal en este país.	šalyje	0	0
+Be jūsų tai būtų buvę neįmanoma.	No habría sido posible sin vosotras.	buvę	0	0
+Kokius ledus tu mėgsti?	¿Qué tipo de helado te gusta?	mėgsti	0	0
+Ji susirgo šį savaitgalį.	Ella se enfermó este fin de semana.	savaitgalį	0	0
+Jis nori aplankyti Kiniją.	Él quiere visitar China.	aplankyti	0	0
+Aš nemoku anglų kalbos.	Yo no sé inglés.	nemoku	0	0
+Pradėkite rašyti.	Empiece a escribir.	rašyti	0	0
+Bobas yra mano draugas.	Bob es mi amigo.	bobas	0	0
+Štai yra jūsų raktas.	Esta es vuestra llave.	raktas	0	0
+Pradėk rašyti.	Empieza a escribir.	pradėk	0	0
+Pasaulis pavojingas.	El mundo es peligroso.	pavojingas	0	0
+Mūsų mokytojas tikras idiotas.	Nuestro maestro es un verdadero idiota.	mokytojas	0	0
+Tomo niekas nematė.	Nadie ha visto a Tom.	nematė	0	0
+Duokite tą katę mums.	Dennos ese gato.	duokite	0	0
+Aš juos visus nužudžiau.	Yo los maté a todos.	nužudžiau	0	0
+Aš genijus!	¡Soy un genio!	genijus	0	0
+Sveikas atvykęs namo, broliuk!	¡Bienvenido a casa, hermanito!	atvykęs	0	0
+Paukščiai neturi dantų.	Las aves no tienen dientes.	dantų	0	0
+Kilo sumaištis.	Se desató el caos.	kilo	0	0
+Traukinys vėluoja dešimt minučių.	El tren viene atrasado diez minutos.	traukinys	0	0
+Mano motina mėgsta muziką.	A mi madre le gusta la música.	muziką	0	0
+Visi kaimai buvo labai gražūs.	Todos los pueblos eran preciosos.	gražūs	0	0
+Aš ne robotas.	No soy un robot.	robotas	0	0
+Tu esi svarbi.	Eres importante.	svarbi	0	0
+Pasaulyje yra daugiau nei septyni tūkstančiai kalbų.	Hay más de siete mil idiomas en el mundo.	tūkstančiai	0	0
+Vakar ėjau miegoti dvyliktą.	Anoche me fui a la cama a las doce.	ėjau	0	0
+Man reikia šiek tiek pieno dribsniams.	Necesito un poco de leche para mi cereal.	pieno	0	0
+Nereikia tikėtis kad kiti galvos už mus.	No hay que esperar que los demás piensen por nosotros.	tikėtis	0	0
+Tomas paprašė Merės pagalbos.	Tom le pidió ayuda a Mary.	paprašė	0	0
+Viešpatie saugok Ukrainą!	¡Que Dios salve a Ucrania!	saugok	0	0
+Kiek laiko kiekvieną dieną vidutinis paauglys žiūri televizorių?	¿Cuánto tiempo pasa de media un adolescente viendo la tele cada día?	televizorių	0	0
+Ar pusryčiai paruošti?	¿Está listo el desayuno?	paruošti	0	0
+Alisa nematė to šuns.	Alice no vio al perro.	šuns	0	0
+Kačiukai valdo pasaulį.	Los gatitos gobiernan el mundo.	valdo	0	0
+Aš nemoku anglų kalbos.	Yo no sé inglés.	anglų	0	0
+Aš neprisimenu.	No me acuerdo.	neprisimenu	0	0
+Būkite kūrybinga.	Sea creativa.	būkite	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	devyni	0	0
+Tomui nepatinka tokio tipo filmai.	A Tom no le gusta este tipo de películas.	tipo	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Un, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	aštuoni	0	0
+Ar galima įeiti?	¿Puedo entrar?	įeiti	0	0
+Tomas per jaunas, kad būtų viršininkas.	Tom es demasiado joven para ser jefe.	viršininkas	0	0
+Vakar aš pardaviau dvi knygas.	Ayer vendí dos libros.	knygas	0	0
+Aš vienišas.	Yo estoy solo.	vienišas	0	0
+Dėžė buvo per sunki.	La caja era demasiado pesada.	sunki	0	0
+Naujasis planšetinis kompiuteris kainuoja labai brangiai.	El nuevo Tablet PC cuesta demasiado caro.	naujasis	0	0
+Vargšas katinas.	Pobre gato.	vargšas	0	0
+Ji pavadino jį Čarlsu.	Ella le llamó Charles.	pavadino	0	0
+Apgailestauju, bet manau kad tu klysti.	Lo siento, pero creo que te equivocas.	klysti	0	0
+Jis to nežinojo.	Él no sabía eso.	nežinojo	0	0
+Staiga išgirdau klyksmą.	De repente oí un grito.	išgirdau	0	0
+Mūsų restoranas yra geriausias.	Nuestro restaurante es el mejor.	restoranas	0	0
+Ji susirgo šios savaitės pabaigoje.	Ella se enfermó este fin de semana.	pabaigoje	0	0
+Aš nužudysiu juos visus.	Los mataré a todos.	nužudysiu	0	0
+Koks jūsų mėgstamiausias filmas?	¿Cuál es vuestra película favorita?	mėgstamiausias	0	0
+Kaip tu atidarei tą dėžę?	¿Cómo abriste la caja?	dėžę	0	0
+Mano vardas Marina.	Me llamo Marina.	marina	0	0
+Kaip norėčiau nueiti į kiną.	¡Cómo me gustaría ir al cine!	kiną	0	0
+Aš pripildžiau kibirą vandeniu.	Yo llené el balde con agua.	vandeniu	0	0
+Jie valgo mėsą kartą per savaitę.	Ellos comen carne una vez por semana.	valgo	0	0
+Jis ėjo namo.	Él se fue a casa.	ėjo	0	0
+Lietus truko keturias dienas.	La lluvia duró cuatro días.	keturias	0	0
+Tomas išėjo su Mere.	Tom se fue con Mary.	mere	0	0
+Vos tik jie išvažiavo, pradėjo lyti.	Apenas se fueron, comenzó a llover.	išvažiavo	0	0
+Pasiruošt, dėmesio, marš!	En sus marcas, listos, ¡fuera!	pasiruošt	0	0
+Verkiu kaskart kai išgirstu šią dainą.	Lloro cada vez que oigo esta canción.	kaskart	0	0
+Ji švyti tamsoje.	Brilla en la oscuridad.	tamsoje	0	0
+Johanas atėjo su broliu.	Johanas vino con el hermano.	broliu	0	0
+Labai vėlai atsikėliau ir pavėlavau į mokyklą.	Me levanté muy tarde y llegué tarde a la escuela.	vėlai	0	0
+Ko jūs norėtumėte išgerti?	¿Qué le gustaría beber?	norėtumėte	0	0
+Ką tai turėtų reikšti?	¿Qué se supone que quiere decir eso?	reikšti	0	0
+Šiandien aš iš tiesų esu pavargęs.	Hoy estoy muy cansado.	pavargęs	0	0
+Aš vieniša.	Yo estoy sola.	vieniša	0	0
+Su tavim pavasaris tęsiasi ištisus metus.	Contigo es verano en todo el año.	tęsiasi	0	0
+Pasilenk. Lubos labai žemos.	Agáchate. El techo es muy bajo.	pasilenk	0	0
+Problema tame, kad jai trūksta patirties.	El problema en esto es que le falta experiencia.	patirties	0	0
+Jos svajonė buvo tapti universiteto dėstytoja.	Su sueño era ser profesor de universidad.	svajonė	0	0
+Apsauginis išvarė mane iš parduotuvės.	La seguridad me echó de la tienda.	parduotuvės	0	0
+Jis pavogė mano laikrodį.	Me robó el reloj.	laikrodį	0	0
+Mūsų mokytoja tikra idiotė.	Nuestra maestra es una verdadera idiota.	mokytoja	0	0
+Jis yra geras rašytojas.	Es una buena escritora.	rašytojas	0	0
+Vaikai – mūsų gyvenimo gėlės.	Los niños son las flores de nuestra vida.	gėlės	0	0
+Niekas negali išspręsti šios problemos.	Nadie puede resolver este problema.	išspręsti	0	0
+Tomas nemėgsta tokių filmų.	A Tom no le gusta este tipo de películas.	nemėgsta	0	0
+Pabučiuok mane.	Bésame.	pabučiuok	0	0
+Tu buvai drąsus.	Fuiste valiente.	drąsus	0	0
+Kiek kartų per mėnėsį tu rašai laiškus?	¿Cuántas veces al mes escribes una carta?	laiškus	0	0
+Tomas nemėgsta tokių filmų.	A Tom no le gusta este tipo de películas.	filmų	0	0
+Neprivalai eiti, jei nenori.	No tienes que ir si no quieres.	neprivalai	0	0
+Aš nemėgstu valgyti ledų žiemą.	No me gusta comer helado en invierno.	ledų	0	0
+Aš ne aktorius.	No soy actor.	aktorius	0	0
+Mažas katinas slepiasi už lovos.	El pequeño gato se esconde detrás de la cama.	slepiasi	0	0
+Afrika yra žmonijos lopšys.	África es la cuna de la humanidad.	žmonijos	0	0
+Ponia Smith važiuoja su mašina į bažnyčią.	La señora Smith va a la iglesia en coche.	bažnyčią	0	0
+Perskaičiau visus jo pasakojimus.	He leído todos sus cuentos.	perskaičiau	0	0
+Negaliu galvoti apie nieką kitą.	No puedo pensar en nadie más.	nieką	0	0
+Aš nusipirkau visus obuolius.	Compré todas las manzanas.	nusipirkau	0	0
+Aš išmokau kažką iš šitos knygos.	He aprendido algo de este libro.	išmokau	0	0
+Nekenčiu šios dainos.	Odio esa canción.	dainos	0	0
+Pasirašykite šį čekį.	Endosa este cheque.	čekį	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Me acuerdo bien del día en que dejé mi ciudad natal.	atsimenu	0	0
+Mes ilgokai vienas su kitu kalbėjome.	Hablamos durante un momento.	kalbėjome	0	0
+Dan foi o primeiro policial a chegar na cena do crime.	Dan fue el primer oficial en llegar a la escena del crimen.	do	0	0
+Ar tai yra gera vieta pasodinti medį?	¿Es este un buen lugar para plantar un árbol?	medį	0	0
+Tu atleistas.	Estás despedido.	atleistas	0	0
+Naujasis planšetinis kompiuteris kainuoja labai brangiai.	El nuevo Tablet PC cuesta demasiado caro.	kompiuteris	0	0
+Ar jam įkando vabzdys?	¿Lo picó un insecto?	įkando	0	0
+Ar čia galima rūkyti?	¿Se puede fumar aquí?	rūkyti	0	0
+Jo elgesys sukėlė man įtarimų.	Su comportamiento alzó mis sospechas.	sukėlė	0	0
+Pasaulyje yra daugiau nei septyni tūkstančiai kalbų.	Hay más de siete mil idiomas en el mundo.	kalbų	0	0
+Disneilendas uždarytas.	Disneylandia está cerrado.	uždarytas	0	0
+Japonų kalba turi svarbų vaidmenį plečiant taiką pasaulyje.	El japonés juega un rol importante en la promoción de la paz en el mundo.	vaidmenį	0	0
+Katė išgąsdino mane.	El gato me asustó.	katė	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Uno de sus tres carros es azul y los demás son blancos.	likę	0	0
+Ateityje aš norėčiau tapti televizijos diktoriumi.	En el futuro quiero convertirme en locutor de televisión.	ateityje	0	0
+Aš šiandien neturiu pamokų.	Hoy no tengo clases.	pamokų	0	0
+Jis įsimylėjo gražią princesę.	Él se enamoró de una bella princesa.	gražią	0	0
+Tai vilkas?	¿Es un lobo?	vilkas	0	0
+Jei tu nori kad aš padėčiau Tomui, aš jam padėsiu.	Si quieres que ayude a Tom, le ayudaré.	padėčiau	0	0
+Tomas visada teigia, kad jis teisus, net jeigu mes visi žinome, kad jis klysta.	Tom siempre insiste en que él tiene razón, incluso cuando todos sabemos que está equivocado.	teigia	0	0
+Šis miestas turi milijoną gyventojų.	Esta ciudad tiene un millón de habitantes.	milijoną	0	0
+Tu skaitai.	Estás leyendo.	skaitai	0	0
+Ji susirgo šios savaitės pabaigoje.	Ella se enfermó este fin de semana.	susirgo	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Uno de sus tres carros es azul y los demás son blancos.	automobilių	0	0
+Ar tu moki gaminti duoną?	¿Sabés hacer pan?	gaminti	0	0
+Tomas sėdi konferencijų salėje.	Tom está sentado en la sala de conferencias.	salėje	0	0
+Nėra pavojaus.	No hay peligro.	pavojaus	0	0
+Mažas katinas slepiasi už lovos.	El pequeño gato se esconde detrás de la cama.	katinas	0	0
+Turi paskubėti, nes autobusas nelauks.	Tienes que darte prisa porque el autobús no te va a esperar.	paskubėti	0	0
+Šis miestas turi milijoną gyventojų.	Esta ciudad tiene un millón de habitantes.	gyventojų	0	0
+Aš nebeturiu namų.	Yo ya no tengo casa.	nebeturiu	0	0
+Aš gyvenu kartu su tėvais.	Vivo con mis padres.	tėvais	0	0
+Rudenį aš vykstu į Paryžių.	Voy a ir a París en otoño.	vykstu	0	0
+Mūsų komanda devėjo raudonus marškinėlius.	Nuestro equipo llevaba camisetas rojas.	marškinėlius	0	0
+Turi paskubėti, nes autobusas nelauks.	Tienes que darte prisa porque el autobús no te va a esperar.	autobusas	0	0
+Tu geri arbatą.	Tú bebes té.	arbatą	0	0
+Nuvykau į Paryžių.	Fui a París.	paryžių	0	0
+Paukščiai neturi dantų.	Los pájaros no tienen dientes.	paukščiai	0	0
+Ji norėtų surasti gyvenimo prasmę.	A ella le gustaría encontrar el sentido de la vida.	prasmę	0	0
+Jis mėgsta miegoti nuogas.	Le gusta dormir desnudo.	nuogas	0	0
+Neklausyk to žmogaus.	No escuches a ese hombre.	neklausyk	0	0
+Jūsų kilimas yra visiškai baltas.	Su tapete es completamente blanco.	baltas	0	0
+Kokia tavo nuomonė?	¿Qué opinas?	nuomonė	0	0
+Tu tuo nepatikėsi.	No creerás esto.	nepatikėsi	0	0
+Šiandien aš iš tiesų esu pavargusi.	Hoy estoy muy cansada.	pavargusi	0	0
+Jis trokšta aplankyti Kiniją.	Él desea visitar China.	trokšta	0	0
+Jos svajonė buvo tapti universiteto profesore.	Su sueño era ser profesor de universidad.	universiteto	0	0
+Lietus truko keturias dienas.	La lluvia duró cuatro días.	lietus	0	0
+Ji paklausė jo, kodėl jis verkė, bet jis neatsakė.	Ella le preguntó por qué lloraba, pero él no respondió.	paklausė	0	0
+Aš tikiuosi nuvykti į Kanadą kitais metais.	Espero ir a Canadá el año que viene.	nuvykti	0	0
+Tėtis nupirko man kamerą.	Papá me compró una cámara.	nupirko	0	0
+Aš nesu vyresnis už jį.	No soy más viejo que él.	vyresnis	0	0
+Ar pusryčiai paruošti?	¿Está listo el desayuno?	pusryčiai	0	0
+Sausis yra pirmas metų mėnuo.	Enero es el primer mes del año.	mėnuo	0	0
+Jo elgesys sukėlė man įtarimų.	Su comportamiento alzó mis sospechas.	elgesys	0	0
+Kiekvieną mėnesį skaitau penkis skirtingus žurnalus.	Leo cinco diferentes clases de revistas cada mes.	skaitau	0	0
+Japonų kalba turi svarbų vaidmenį plečiant taiką pasaulyje.	El japonés juega un rol importante en la promoción de la paz en el mundo.	taiką	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Uno de sus tres carros es azul y los demás son blancos.	mėlynas	0	0
+Man skauda pilvą.	Me duele el estómago.	pilvą	0	0
+Tomas padarė kelias klaidas teste.	Tom cometió algunos errores en el test.	klaidas	0	0
+Ateityje aš norėčiau tapti televizijos diktoriumi.	En el futuro quiero convertirme en locutor de televisión.	televizijos	0	0
+Ji mėgsta vyną.	A ella le gusta el vino.	vyną	0	0
+Brangūs broliai ir seserys!	¡Queridísimos hermanos y hermanas!	brangūs	0	0
+Gyvūnai bėga.	Los animales corren.	gyvūnai	0	0
+Tomas visada teigia, kad jis teisus, net jeigu mes visi žinome, kad jis klysta.	Tom siempre insiste en que él tiene razón, incluso cuando todos sabemos que está equivocado.	klysta	0	0
+Ši muzika visus erzina.	Esta música está fastidiando a todos.	erzina	0	0
+Ar Jūs ieškote darbo?	¿Usted está buscando trabajo?	ieškote	0	0
+Tu rašai.	Tú escribes.	rašai	0	0
+Dėl šio klausimo yra diskutuojama.	Esa pregunta está en discusión.	klausimo	0	0
+Traukinys vėluoja dešimt minučių.	El tren viene atrasado diez minutos.	vėluoja	0	0
+Ar tu nukirsi visus čia esančius medžius?	¿Vas a cortar todos los árboles de aquí?	medžius	0	0
+Ar jis turi brolių?	¿Él tiene hermanos?	brolių	0	0
+Brangūs broliai ir seserys!	¡Queridísimos hermanos y hermanas!	seserys	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Me acuerdo bien del día en que dejé mi ciudad natal.	kaimą	0	0
+Katės yra sudėtingi individai.	Los gatos son complejos individuos.	katės	0	0
+Pone, prašom užpyldykite šitą formą.	Por favor, señor, rellene este formulario.	formą	0	0
+Jie valgo mėsą kartą per savaitę.	Ellos comen carne una vez por semana.	mėsą	0	0
+Aš nemėgstu valgyti ledų žiemą.	No me gusta comer helado en invierno.	žiemą	0	0
+Grįšiu po pusvalandžio.	Vuelvo en media hora.	pusvalandžio	0	0
+Tomas man davė paskutinį pyrago gabaliuką.	Tom me dio el último pedazo de pastel.	pyrago	0	0
+Tai yra žirgas.	Este es un caballo.	žirgas	0	0
+Jie sirgo.	Se enfermaron.	sirgo	0	0
+Nėra klaidos.	No hay error.	klaidos	0	0
+Jūs esate svarbūs.	Ustedes son importantes.	svarbūs	0	0
+Japonų kalba turi svarbų vaidmenį plečiant taiką pasaulyje.	El japonés juega un rol importante en la promoción de la paz en el mundo.	svarbų	0	0
+Tomui nepatinka tokio tipo filmai.	A Tom no le gusta este tipo de películas.	filmai	0	0
+Pradėkite rašyti.	Empiecen a escribir.	pradėkite	0	0
+Žmogaus kaukolę sudaro 23 kaulai.	El cráneo humano consiste de 23 huesos.	sudaro	0	0
+Ateik poryt.	Ven pasado mañana.	poryt	0	0
+Tai yra Tomo brolis.	Ese es el hermano de Tom.	tomo	0	0
+Dėžė buvo per sunki.	La caja era demasiado pesada.	dėžė	0	0
+Mes valgome daug maisto rūšių.	Comemos muchos tipos de comida.	rūšių	0	0
+Mes tikėjomės geresnių sąlygų.	Esperábamos mejores condiciones.	geresnių	0	0
+Paprastai Tomas skaito tik antraštes.	Tom normalmente solo lee los encabezados.	skaito	0	0
+Karas liečia mus visus.	La guerra nos concierne a todos.	liečia	0	0
+Tavo idėjos yra kitokios nei mano.	Tus ideas son diferentes de las mías.	idėjos	0	0
+Prašom pakeisti vėliavą.	Por favor, cambia la bandera.	vėliavą	0	0
+Vakar aš pardaviau dvi knygas.	Ayer vendí dos libros.	pardaviau	0	0
+Karalius visada nešioja karūną.	El rey siempre lleva la corona.	nešioja	0	0
+Jie abu yra labai protingi.	Ambos son muy inteligentes.	protingi	0	0
+Aš ne iš Bostono.	No soy de Boston.	bostono	0	0
+Tai - šešėlis.	Es una sombra.	šešėlis	0	0
+Žmogaus kaukolę sudaro 23 kaulai.	El cráneo humano consiste de 23 huesos.	kaulai	0	0
+Labai vėlai atsikėliau ir pavėlavau į mokyklą.	Me levanté muy tarde y llegué tarde a la escuela.	pavėlavau	0	0
+Mes tikėjomės geresnių sąlygų.	Esperábamos mejores condiciones.	tikėjomės	0	0
+Ji turi ilgus plaukus.	Ella tiene el pelo largo.	ilgus	0	0
+Pagalvokite apie tai.	Piénselo.	pagalvokite	0	0
+Buvo rasta dvidešimt dėžių. prikrautų piratiniais CD ir DVD diskais.	Se encontraron 20 cajas llenas de CD y DVD piratas.	dvd	0	0
+Pasiruošt, dėmesio, marš!	En sus marcas, listos, ¡fuera!	marš	0	0
+Buvo rasta dvidešimt dėžių. prikrautų piratiniais CD ir DVD diskais.	Se encontraron 20 cajas llenas de CD y DVD piratas.	rasta	0	0
+Katė išgąsdino mane.	El gato me asustó.	išgąsdino	0	0
+Aš turiu vieną katę.	Poseo un gato.	katę	0	0
+Apsauginis išvarė mane iš parduotuvės.	La seguridad me echó de la tienda.	apsauginis	0	0
+Mano tėvas mėgsta picą.	A mi padre le gusta la pizza.	picą	0	0
+Ji kalba ir prancūziškai, ir taip pat angliškai.	Ella habla tanto el francés como el inglés.	prancūziškai	0	0
+Vargšė katė.	Pobre gata.	vargšė	0	0
+Tu atleista.	Estás despedida.	atleista	0	0
+Naujasis planšetinis kompiuteris kainuoja labai brangiai.	El nuevo Tablet PC cuesta demasiado caro.	brangiai	0	0
+Ji įsimylėjo savo mokytoją.	Ella se enamoró de su maestra.	įsimylėjo	0	0
+Ji mėgsta ledus.	A ella le gusta el helado.	ledus	0	0
+Ji įsimylėjo savo mokytoją.	Ella se enamoró de su maestra.	mokytoją	0	0
+Nelieskite to mygtuko!	¡No toque ese botón!	nelieskite	0	0
+Tomas nemiega karste, kaip dauguma vampyrų.	Tom no duerme en un ataúd como la mayoría de los vampiros.	nemiega	0	0
+Jūs ne alkani.	Usted no tiene hambre.	alkani	0	0
+Japonų kalba turi svarbų vaidmenį plečiant taiką pasaulyje.	El japonés juega un rol importante en la promoción de la paz en el mundo.	japonų	0	0
+Jis įsimylėjo gražią princesę.	Él se enamoró de una bella princesa.	princesę	0	0
+Viena iš Serbijos sąjunginikių buvo Rusija.	Uno de los aliados de Serbia era Rusia.	rusija	0	0
+Iš viso mūsų yra vienuolika žmonių.	En total, somos once.	vienuolika	0	0
+Lietus truko keturias dienas.	La lluvia duró cuatro días.	truko	0	0
+Ar gali ateiti devintą?	¿Puedes venir a las nueve?	devintą	0	0
+Tai mane nervina.	Eso me pone nerviosa.	nervina	0	0
+Urve gyvena drakonas.	Un dragón vive en la cueva.	drakonas	0	0
+Ji paklausė jo, kodėl jis verkė, bet jis neatsakė.	Ella le preguntó por qué lloraba, pero él no respondió.	verkė	0	0
+Atnešk man rankšluostį.	Tráeme una toalla.	rankšluostį	0	0
+Sekmadienis yra paskutinė savaitės diena.	El domingo es el último día de la semana.	sekmadienis	0	0
+Tu plikas?	¿Estás pelón?	plikas	0	0
+Vaikas mėgsta pieną.	Al niño le gusta la leche.	pieną	0	0
+Buvo rasta dvidešimt dėžių. prikrautų piratiniais CD ir DVD diskais.	Se encontraron 20 cajas llenas de CD y DVD piratas.	dėžių	0	0
+Mašina yra geltona.	El carro es amarillo.	geltona	0	0
+Tu man kažkur matytas.	Me pareces familiar.	matytas	0	0
+Visiems patinka ši gėlė.	A todos les gusta esa flor.	gėlė	0	0
+Jis pasakė: "Aš esu iš Kanados".	Él dijo: "soy de Canadá".	kanados	0	0
+Duona yra gaminama iš miltų ir vandens, prie kurių dažnai pridedama mielių.	El pan es hecho con harina y agua y a menudo se le agrega levadura.	duona	0	0
+Pelės mėgsta sūrį.	A los ratones les gusta el queso.	sūrį	0	0
+Tomas nemiega karste, kaip dauguma vampyrų.	Tom no duerme en un ataúd como la mayoría de los vampiros.	karste	0	0
+Ji ištekėjo už jo.	Se casó con él.	ištekėjo	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Uno de sus tres carros es azul y los demás son blancos.	balti	0	0
+Vergai buvo laikomi nuosavybe.	Los esclavos eran considerados como bienes.	laikomi	0	0
+Tomui vėl bėga kraujas.	Tom está sangrando de nuevo.	tomui	0	0
+Mes tikėjomės geresnių sąlygų.	Esperábamos mejores condiciones.	sąlygų	0	0
+Su tavim pavasaris tęsiasi ištisus metus.	Contigo es verano en todo el año.	pavasaris	0	0
+Jis mėgsta skaityti laikraščius.	A él le gusta leer periódicos.	laikraščius	0	0
+Sveikas atvykęs namo, broliuk!	¡Bienvenido a casa, hermanito!	broliuk	0	0
+Apsauginis išvarė mane iš parduotuvės.	La seguridad me echó de la tienda.	išvarė	0	0
+Tomas mėgsta sniegą.	A Tomás le gusta la nieve.	sniegą	0	0
+Saturnas turi žiedus.	Saturno tiene anillos.	žiedus	0	0
+Vergai buvo laikomi nuosavybe.	Los esclavos eran considerados como bienes.	vergai	0	0
+Afrika yra žmonijos lopšys.	África es la cuna de la humanidad.	afrika	0	0
+Ar tiedu susitikinėja?	¿Esos dos están saliendo?	susitikinėja	0	0
+Karalius visada nešioja karūną.	El rey siempre lleva la corona.	karūną	0	0
+Padėk man atsikelti.	Ayúdame a levantarme.	atsikelti	0	0
+Kiek laiko kiekvieną dieną vidutinis paauglys žiūri televizorių?	¿Cuánto tiempo pasa de media un adolescente viendo la tele cada día?	vidutinis	0	0
+Šioje šalyje karvės yra naudingesnės už bet kokius kitus gyvulius.	Las vacas son más útiles que cualquier otro animal en este país.	karvės	0	0
+Jie pilotai.	Ellos son pilotos.	pilotai	0	0
+Su tavim pavasaris tęsiasi ištisus metus.	Contigo es verano en todo el año.	ištisus	0	0
+Pasirašykite šį čekį.	Endosa este cheque.	pasirašykite	0	0
+Tomas nemiega karste, kaip dauguma vampyrų.	Tom no duerme en un ataúd como la mayoría de los vampiros.	vampyrų	0	0
+Ji nevalgo mėsos, ar ne taip?	Ella no come carne, ¿verdad?	nevalgo	0	0
+Aš pripildžiau kibirą vandeniu.	Yo llené el balde con agua.	kibirą	0	0
+Tavo idėjos yra kitokios nei mano.	Tus ideas son diferentes de las mías.	kitokios	0	0
+Tėtis nupirko man fotoaparatą.	Papá me compró una cámara.	fotoaparatą	0	0
+Labai džiaugiuosi tai sužinojęs.	Me alegro mucho de saberlo.	sužinojęs	0	0
+Jis nori aplankyti Kiniją.	Él quiere visitar China.	kiniją	0	0
+Vos tik jie išvažiavo, pradėjo lyti.	Apenas se fueron, comenzó a llover.	lyti	0	0
+Mes jiems suteiksime moralinę paramą.	Les daremos apoyo moral.	paramą	0	0
+Urve gyvena drakonas.	Un dragón vive en la cueva.	urve	0	0
+Kodėl išleidai visus pinigus?	¿Por qué gastaste todo el dinero?	išleidai	0	0
+Jis mėgsta plaukioti.	Le gusta nadar.	plaukioti	0	0
+Ji mėgsta šias kates.	A ella le gustan estos gatos.	kates	0	0
+Žmogaus kaukolę sudaro 23 kaulai.	El cráneo humano consiste de 23 huesos.	kaukolę	0	0
+Marija yra našlė.	María es viuda.	našlė	0	0
+Mūsų mokytoja tikra idiotė.	Nuestra maestra es una verdadera idiota.	idiotė	0	0
+Gali neiti, jei nenori.	No tienes que ir si no quieres.	neiti	0	0
+Kiekvieną mėnesį skaitau penkis skirtingus žurnalus.	Leo cinco diferentes clases de revistas cada mes.	skirtingus	0	0
+Labai vėlai atsikėliau ir pavėlavau į mokyklą.	Me levanté muy tarde y llegué tarde a la escuela.	atsikėliau	0	0
+Jis kape vartosi.	Está revolviéndose en su tumba.	kape	0	0
+Ar tai yra gera vieta pasodinti medį?	¿Es este un buen lugar para plantar un árbol?	pasodinti	0	0
+Kur vilkai?	¿Dónde están los lobos?	vilkai	0	0
+Rankšluostis šlapias.	La toalla está mojada.	šlapias	0	0
+Ar tu moki gaminti duoną?	¿Sabés hacer pan?	duoną	0	0
+Neskaityk mano dienoraščio.	No leas mi diario.	dienoraščio	0	0
+Voveraitės valgo lazdyno riešutus.	Las ardillas comen avellanas.	riešutus	0	0
+Ji švyti tamsoje.	Brilla en la oscuridad.	švyti	0	0
+Tomas visada buvo storulis.	Tom siempre ha sido gordo.	storulis	0	0
+Jūsų kilimas yra visiškai baltas.	Su tapete es completamente blanco.	kilimas	0	0
+Jos svajonė buvo tapti universiteto dėstytoja.	Su sueño era ser profesor de universidad.	dėstytoja	0	0
+Visi mes mirštame.	Todos morimos.	mirštame	0	0
+Aš tikiuosi nuvykti į Kanadą kitais metais.	Espero ir a Canadá el año que viene.	kanadą	0	0
+Pelės mėgsta sūrį.	A los ratones les gusta el queso.	pelės	0	0
+Rudenį aš vykstu į Paryžių.	Voy a ir a París en otoño.	rudenį	0	0
+Katės yra sudėtingi individai.	Los gatos son complejos individuos.	sudėtingi	0	0
+Dan foi o primeiro policial a chegar na cena do crime.	Dan fue el primer oficial en llegar a la escena del crimen.	dan	0	0
+Idėjos nemiršta.	Las ideas no mueren.	nemiršta	0	0
+Jo elgesys sukėlė man įtarimų.	Su comportamiento alzó mis sospechas.	įtarimų	0	0
+Aš ne poetas.	No soy poeta.	poetas	0	0
+Jos vardas Irina.	Su nombre es Irina.	irina	0	0
+Kiek laiko kiekvieną dieną vidutinis paauglys žiūri televizorių?	¿Cuánto tiempo pasa de media un adolescente viendo la tele cada día?	paauglys	0	0
+Katės neėda bananų.	Los gatos no comen plátanos.	bananų	0	0
+Tomas paprašė Merės pagalbos.	Tom le pidió ayuda a Mary.	merės	0	0
+Nelieskite to mygtuko!	¡No toque ese botón!	mygtuko	0	0
+Vanduo blizga saulėje.	El agua brilla a la luz del sol.	saulėje	0	0
+Aš turiu dvi dukras ir du sūnus.	Tengo dos hijas y dos hijos.	dukras	0	0
+Tada aš nemėgau alaus.	Entonces no me gustaba la cerveza.	nemėgau	0	0
+Tu man kažkur matyta.	Me pareces familiar.	matyta	0	0
+Tu esi vienintelis žmogus, kuris man skambina po dešimtos valandos vakaro.	Eres la única persona que me llama después de las diez de la noche.	dešimtos	0	0
+Mes valgome daug maisto rūšių.	Comemos muchos tipos de comida.	valgome	0	0
+Dienos ilgesnės, nei naktys.	Los días son más largos que las noches.	naktys	0	0
+Siuvinėdama ji įsidūrė adata.	Bordando se le encajó la aguja.	adata	0	0
+Moters spėjimas yra daug tikslesnis negu vyro įsitikinimas.	La intuición de una mujer es más precisa que la certeza de un hombre.	spėjimas	0	0
+Ar tu nukirsi visus čia esančius medžius?	¿Vas a cortar todos los árboles de aquí?	esančius	0	0
+Kiekvieną mėnesį skaitau penkis skirtingus žurnalus.	Leo cinco diferentes clases de revistas cada mes.	žurnalus	0	0
+Jos abi yra labai protingos.	Ambos son muy inteligentes.	protingos	0	0
+Nors diena ir saulėta, bet yra šalta.	A pesar de ser un día soleado, hace frío.	saulėta	0	0
+Verkiu kaskart kai išgirstu šią dainą.	Lloro cada vez que oigo esta canción.	verkiu	0	0
+Ji yra nepriklausoma nuo tėvų.	Ella es independiente de sus padres.	nepriklausoma	0	0
+Mes ilgokai vienas su kitu kalbėjome.	Hablamos durante un momento.	ilgokai	0	0
+Vergai buvo laikomi nuosavybe.	Los esclavos eran considerados como bienes.	nuosavybe	0	0
+Visi obuoliai yra ten.	Todas las manzanas están ahí.	obuoliai	0	0
+Labiausiai man patinka ruduo.	El que más me gusta es el otoño.	ruduo	0	0
+Ji paklausė jo, kodėl jis verkė, bet jis neatsakė.	Ella le preguntó por qué lloraba, pero él no respondió.	neatsakė	0	0
+Jūs rašote.	Usted escribe.	rašote	0	0
+Pasilenk. Lubos labai žemos.	Agáchate. El techo es muy bajo.	lubos	0	0
+Nuvykau į Paryžių.	Fui a París.	nuvykau	0	0
+Nelinkėk man stebuklingos nakties, padovanok man ją!	No me desees una noche mágica, ¡dámela!	padovanok	0	0
+Jos svajonė buvo tapti universiteto profesore.	Su sueño era ser profesor de universidad.	profesore	0	0
+Ponia Smith važiuoja su mašina į bažnyčią.	La señora Smith va a la iglesia en coche.	smith	0	0
+Rankšluostis šlapias.	La toalla está mojada.	rankšluostis	0	0
+Aš esu meksikietis.	Soy mexicano.	meksikietis	0	0
+Jo mirtis visus nuliūdino.	Su muerte entristeció a todo el mundo.	nuliūdino	0	0
+Tas vardas man kažkur girdėtas.	El nombre me suena conocido.	girdėtas	0	0
+Duona yra gaminama iš miltų ir vandens, prie kurių dažnai pridedama mielių.	El pan es hecho con harina y agua y a menudo se le agrega levadura.	miltų	0	0
+Triušiai mėgsta valgyti morkas.	A los conejos les gusta comer zanahorias.	triušiai	0	0
+Šiuo metu jis gyvena Tokijuje.	Ahora él vive en Tokio.	tokijuje	0	0
+Sėdėjome šnekėdami apie šį bei tą.	Nos sentamos a conversar de esto y aquello.	sėdėjome	0	0
+Buvo rasta dvidešimt dėžių. prikrautų piratiniais CD ir DVD diskais.	Se encontraron 20 cajas llenas de CD y DVD piratas.	cd	0	0
+Vanduo blizga saulėje.	El agua brilla a la luz del sol.	blizga	0	0
+Šioje šalyje karvės yra naudingesnės už bet kokius kitus gyvulius.	Las vacas son más útiles que cualquier otro animal en este país.	gyvulius	0	0
+Tomas sėdi konferencijų salėje.	Tom está sentado en la sala de conferencias.	konferencijų	0	0
+Kilo sumaištis.	Se desató el caos.	sumaištis	0	0
+Ji yra gera rašytoja.	Es una buena escritora.	rašytoja	0	0
+Prašom netrukdyti man dirbti.	Por favor, no interfiera con mi trabajo.	netrukdyti	0	0
+Gerumas tai kalba, kurią kurtieji gali girdėti, o aklieji gali matyti.	La amabilidad es el lenguaje que el sordo puede oír y el ciego puede ver.	gerumas	0	0
+Mūsų niekas neieško.	Nadie nos busca.	neieško	0	0
+Marija turi daug krepšių.	María tiene muchas bolsas.	krepšių	0	0
+Ji turi tris dukteris.	Tiene tres hijas.	dukteris	0	0
+Turi paskubėti, nes autobusas nelauks.	Tienes que darte prisa porque el autobús no te va a esperar.	nelauks	0	0
+Helovinas švenčiamas spalį.	Halloween se celebra en octubre.	spalį	0	0
+Kuriam tu teiki pirmenybę?	¿Cuál prefieres tú?	pirmenybę	0	0
+Kiek kainuoja morkos?	¿Cuánto cuestan las zanahorias?	morkos	0	0
+Ar jam įkando vabzdys?	¿Lo picó un insecto?	vabzdys	0	0
+Aš kepu duoną.	Estoy haciendo pan.	kepu	0	0
+Kaip tu atidarei tą dėžę?	¿Cómo abriste la caja?	atidarei	0	0
+Šis sakinys man kažkur matytas!	¡Esa frase me parece familiar!	sakinys	0	0
+Vaikai mėgsta pyragus.	A los niños les gusta el pastel.	pyragus	0	0
+Aš nusipirkau visus obuolius.	Compré todas las manzanas.	obuolius	0	0
+Neskaityk mano dienoraščio.	No leas mi diario.	neskaityk	0	0
+Ar suskaičiavote rankšluosčius?	¿Contó usted las toallas?	rankšluosčius	0	0
+Ar tiedu susitikinėja?	¿Esos dos están saliendo?	tiedu	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Me acuerdo bien del día en que dejé mi ciudad natal.	gimtąjį	0	0
+Jis labai mėgsta žvejybą.	Le encanta pescar.	žvejybą	0	0
+Aš kairiarankis.	Soy zurdo.	kairiarankis	0	0
+Perskaičiau visus jo pasakojimus.	He leído todos sus cuentos.	pasakojimus	0	0
+Johanas atėjo su broliu.	Johanas vino con el hermano.	johanas	0	0
+Aš ne pesimistas.	No soy pesimista.	pesimistas	0	0
+Mes jiems suteiksime moralinę paramą.	Les daremos apoyo moral.	suteiksime	0	0
+Tomas man davė paskutinį pyrago gabaliuką.	Tom me dio el último pedazo de pastel.	gabaliuką	0	0
+Būk kūrybingas.	Sé creativo.	kūrybingas	0	0
+Aš esu plaukikas.	Soy nadador.	plaukikas	0	0
+Mūsų komanda devėjo raudonus marškinėlius.	Nuestro equipo llevaba camisetas rojas.	raudonus	0	0
+Paprastai Tomas skaito tik antraštes.	Tom normalmente solo lee los encabezados.	antraštes	0	0
+Afrika yra žmonijos lopšys.	África es la cuna de la humanidad.	lopšys	0	0
+Visi mėgsta lėles.	A todos les gustan los títeres.	lėles	0	0
+Kačiukai valdo pasaulį.	Los gatitos gobiernan el mundo.	kačiukai	0	0
+Mano dukra mėgsta žaisti su lėlėmis.	A mi hija le gusta jugar con muñecas.	lėlėmis	0	0
+Twitter nėra tikras draugas.	Twitter no es un amigo de verdad.	twitter	0	0
+Jis apkabino tėvą.	Él abrazó a su padre.	apkabino	0	0
+Verkiu kaskart kai išgirstu šią dainą.	Lloro cada vez que oigo esta canción.	išgirstu	0	0
+Pasilenk. Lubos labai žemos.	Agáchate. El techo es muy bajo.	žemos	0	0
+Jis kape vartosi.	Está revolviéndose en su tumba.	vartosi	0	0
+Būkite kūrybinga.	Sea creativa.	kūrybinga	0	0
+Vaikai mėgsta tortus.	A los niños les gusta la torta.	tortus	0	0
+Aš noriu aplankyti Korėją.	Quiero visitar Corea.	korėją	0	0
+Ana mėgsta rašyti eilėraščius.	A Ann le gusta escribir poemas.	eilėraščius	0	0
+Dienos ilgesnės, nei naktys.	Los días son más largos que las noches.	ilgesnės	0	0
+Aš nemėgstu liūdnų filmų.	No me gustan las películas tristes.	liūdnų	0	0
+Milė turi katę.	Millie tiene un gato.	milė	0	0
+Nelinkėk man stebuklingos nakties, padovanok man ją!	No me desees una noche mágica, ¡dámela!	stebuklingos	0	0
+Vakar ėjau miegoti dvyliktą.	Anoche me fui a la cama a las doce.	dvyliktą	0	0
+Katės neėda bananų.	Los gatos no comen plátanos.	neėda	0	0
+Sausis yra pirmas metų mėnuo.	Enero es el primer mes del año.	sausis	0	0
+Staiga išgirdau klyksmą.	De repente oí un grito.	klyksmą	0	0
+Tavo tėvas yra Japonas.	Tu padre es japonés.	japonas	0	0

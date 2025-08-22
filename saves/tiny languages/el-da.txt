@@ -1,0 +1,157 @@
+Του Τομ του αρέσει να φτιάχνει σαΐτες.	Tom kan godt lide at lave papirfly.	να	0	0
+Πορτοκαλί, το αγαπημένο μου χρώμα.	Orange er min yndlingsfarve.	το	0	0
+Δεν ξέρω τι να κάνω.	Jeg ved ikke hvad jeg skal gøre.	δεν	0	0
+Είναι μία σιγανοπαπαδιά αυτός.	Han er en ulv i fåreklæder.	είναι	0	0
+Θα σε συνοδευσω μέχρι το ἀεροδρόμιο.	Jeg tager med dig til lufthavnen.	θα	0	0
+Αυτή ήταν και έξυπνη και όμορφη.	Hun var både klog og smuk.	και	0	0
+Πορτοκαλί, το αγαπημένο μου χρώμα.	Orange er min yndlingsfarve.	μου	0	0
+Δεν υπάρχει θεραπεία για την φαλάκρα.	Der findes ingen kur mod skaldethed.	για	0	0
+Δεν υπάρχει θεραπεία για την φαλάκρα.	Der findes ingen kur mod skaldethed.	την	0	0
+Ο Τομ έσπασε το παγκόσμιο ρεκόρ.	Tom brød verdensrekorden.	ο	0	0
+Η ταινία ήταν ενδιαφέρουσα.	Filmen var interessant.	η	0	0
+Ο Τομ είναι πάντα λίγο ευέξαπτος το πρωί, πριν πιεί τον πρώτο καφέ.	Tom er altid en smule irritabel om morgenen, før han drikker sin første kop kaffe.	τον	0	0
+Τα λέμε αργότερα!	Vi ses senere!	τα	0	0
+Γεια σου.	Hej.	σου	0	0
+Θα σε συνοδευσω μέχρι το ἀεροδρόμιο.	Jeg tager med dig til lufthavnen.	σε	0	0
+Αυτό είναι άλογο ή φοράδα;	Er den her en hingst eller en hoppe?	αυτό	0	0
+Του Τομ του αρέσει να φτιάχνει σαΐτες.	Tom kan godt lide at lave papirfly.	του	0	0
+Δεν ξέρω τι να κάνω.	Jeg ved ikke hvad jeg skal gøre.	τι	0	0
+Λείπουν δύο σελίδες από το βιβλίο.	Bogen mangler to sider.	από	0	0
+Το Μιλάνο είναι η πρωτεύουσα της Λομβαρδίας.	Milano er hovedstaden i Lombardiet.	της	0	0
+Ο Θεός νά'ναι μαζί μας.	Gud være med os.	ναι	0	0
+Πίνω καφέ σε ένα καφενείο.	Jeg drikker kaffe på en cafe.	ένα	0	0
+Είναι αυτός μια σιγανοπαπαδίτσα.	Han er en ulv i fåreklæder.	μια	0	0
+Η ταινία ήταν ενδιαφέρουσα.	Filmen var interessant.	ήταν	0	0
+Γειά μας!	Skål!	μας	0	0
+Πώς είσαι;	Hvordan har du det?	είσαι	0	0
+Είμαι τριάντα χρόνων.	Jeg er tredive år gammel.	είμαι	0	0
+Πάω στην παραλία.	Jeg går på stranden.	στην	0	0
+Ευχαριστώ πολύ!	Tusind tak!	πολύ	0	0
+Γιατί ξύπνησες τόσο νωρίς;	Hvorfor stod du så tidligt op?	γιατί	0	0
+Η αδερφή μου έχει δύο γιούς, επομένως εγώ έχω δύο ανιψιούς.	Min søster har to sønner, så jeg har to nevøer.	εγώ	0	0
+Η αδερφή μου έχει δύο γιούς, επομένως εγώ έχω δύο ανιψιούς.	Min søster har to sønner, så jeg har to nevøer.	έχει	0	0
+Δεν ξέρω τι να κάνω.	Jeg ved ikke hvad jeg skal gøre.	ξέρω	0	0
+Φοβάμαι τις κατσαρίδες.	Jeg er bange for kakerlakker.	τις	0	0
+Η αδερφή μου έχει δύο γιούς, επομένως εγώ έχω δύο ανιψιούς.	Min søster har to sønner, så jeg har to nevøer.	έχω	0	0
+Αυτή ήταν και έξυπνη και όμορφη.	Hun var både klog og smuk.	αυτή	0	0
+Αυτός ήταν στη σκηνή του εγκλήματος.	Han var på gerningsstedet.	στη	0	0
+Τί κάνεις;	Hvad laver du?	κάνεις	0	0
+Ο Θεός νά'ναι μαζί μας.	Gud være med os.	μαζί	0	0
+Ήμουνα εκεί σήμερα το πρωί.	Jeg var der i morges.	εκεί	0	0
+Ευχαριστώ.	Tak.	ευχαριστώ	0	0
+Αυτό είναι άλογο ή φοράδα;	Er den her en hingst eller en hoppe?	ή	0	0
+Πώς είσαι;	Hvordan har du det?	πώς	0	0
+Δεν ξέρω τι να κάνω.	Jeg ved ikke hvad jeg skal gøre.	κάνω	0	0
+Γιατί ξύπνησες τόσο νωρίς;	Hvorfor stod du så tidligt op?	τόσο	0	0
+Έλα δω.	Kom her!	έλα	0	0
+Πώς λέγεται "εις το επανιδείν" στα γερμανικά;	Hvordan siger man "farvel" på tysk?	στα	0	0
+Δεν υπάρχει θεραπεία για την φαλάκρα.	Der findes ingen kur mod skaldethed.	υπάρχει	0	0
+Είναι αυτός μια σιγανοπαπαδίτσα.	Han er en ulv i fåreklæder.	αυτός	0	0
+Ίσως να είναι αληθινό.	Den er nok ægte.	ίσως	0	0
+Ο Τομ είναι πάντα λίγο ευέξαπτος το πρωί, πριν πιεί τον πρώτο καφέ.	Tom er altid en smule irritabel om morgenen, før han drikker sin første kop kaffe.	πριν	0	0
+Ο Τομ είναι πάντα λίγο ευέξαπτος το πρωί, πριν πιεί τον πρώτο καφέ.	Tom er altid en smule irritabel om morgenen, før han drikker sin første kop kaffe.	πάντα	0	0
+Γεια!	Hej!	γεια	0	0
+Ο Τομ είναι πάντα λίγο ευέξαπτος το πρωί, πριν πιεί τον πρώτο καφέ.	Tom er altid en smule irritabel om morgenen, før han drikker sin første kop kaffe.	λίγο	0	0
+Η αδερφή μου έχει δύο γιούς, επομένως εγώ έχω δύο ανιψιούς.	Min søster har to sønner, så jeg har to nevøer.	δύο	0	0
+Έλα δω.	Kom her!	δω	0	0
+Πάω στην παραλία.	Jeg går til stranden.	πάω	0	0
+Είναι μία σιγανοπαπαδιά αυτός.	Han er en ulv i fåreklæder.	μία	0	0
+Θα σε συνοδευσω μέχρι το ἀεροδρόμιο.	Jeg tager med dig til lufthavnen.	μέχρι	0	0
+Σηκώθηκα στις πέντε το πρωί.	Jeg stod op klokken fem om morgenen.	στις	0	0
+Η γυναίκα τρώει ψωμί.	Kvinden spiser brød.	γυναίκα	0	0
+Ήμουνα εκεί σήμερα το πρωί.	Jeg var der i morges.	σήμερα	0	0
+Του Τομ του αρέσει να φτιάχνει σαΐτες.	Tom kan godt lide at lave papirfly.	αρέσει	0	0
+Πόσο μακριά είναι για το αεροδρόμιο;	Hvor langt er der til lufthavnen?	πόσο	0	0
+Έχετε ρύζι;	Har du ris?	έχετε	0	0
+Περίμενε λιγάκι.	Vent lidt.	περίμενε	0	0
+Παρ'όλο το πλούτος και φήμη του, είναι δυστυχής.	På trods af al sin rigdom og berømmelse, er han ulykkelig.	όλο	0	0
+Τί κάνεις;	Hvad gør du?	τί	0	0
+Πόσο μακριά είναι για το αεροδρόμιο;	Hvor langt er der til lufthavnen?	μακριά	0	0
+Τι κάνετε;	Hvordan går det?	κάνετε	0	0
+Σηκώθηκα στις πέντε το πρωί.	Jeg stod op klokken fem om morgenen.	πρωί	0	0
+Μιλάς Πορτογαλικά?	Taler du portugisisk?	μιλάς	0	0
+Σ' αγαπώ.	Jeg elsker dig.	αγαπώ	0	0
+Τα λέμε αργότερα!	Vi ses senere!	λέμε	0	0
+Τα λέμε αργότερα!	Vi ses senere!	αργότερα	0	0
+Αντίο.	Farvel.	αντίο	0	0
+Σηκώθηκα στις πέντε το πρωί.	Jeg stod op klokken fem om morgenen.	πέντε	0	0
+Καλημέρα!	Godmorgen!	καλημέρα	0	0
+Φοβάμαι τις κατσαρίδες.	Jeg er bange for kakerlakker.	φοβάμαι	0	0
+Ο Τομ είναι πάντα λίγο ευέξαπτος το πρωί, πριν πιεί τον πρώτο καφέ.	Tom er altid en smule irritabel om morgenen, før han drikker sin første kop kaffe.	πρώτο	0	0
+Ο Θεός νά'ναι μαζί μας.	Gud være med os.	θεός	0	0
+Αυτή ήταν και έξυπνη και όμορφη.	Hun var både klog og smuk.	όμορφη	0	0
+Γειά μας!	Skål!	γειά	0	0
+Ο κύριος Βίλντερ μου έδωσε την ηλεκτρονική σου διεύθυνση.	Hr. Wilder gav mig din e-mailadresse.	έδωσε	0	0
+Καλώς ήρθατε.	Velkommen.	καλώς	0	0
+Ο κύριος Βίλντερ μου έδωσε την ηλεκτρονική σου διεύθυνση.	Hr. Wilder gav mig din e-mailadresse.	κύριος	0	0
+Λείπουν δύο σελίδες από το βιβλίο.	Bogen mangler to sider.	βιβλίο	0	0
+Ο Τομ είναι πάντα λίγο ευέξαπτος το πρωί, πριν πιεί τον πρώτο καφέ.	Tom er altid en smule irritabel om morgenen, før han drikker sin første kop kaffe.	καφέ	0	0
+Η ταινία ήταν ενδιαφέρουσα.	Filmen var interessant.	ταινία	0	0
+Καληνύχτα.	God nat.	καληνύχτα	0	0
+Η αδερφή μου έχει δύο γιούς, επομένως εγώ έχω δύο ανιψιούς.	Min søster har to sønner, så jeg har to nevøer.	αδερφή	0	0
+Έχει ξανθά μαλλιά.	Hun har blondt hår.	μαλλιά	0	0
+Του Τομ του αρέσει να φτιάχνει σαΐτες.	Tom kan godt lide at lave papirfly.	τομ	0	0
+Καλώς ήρθατε.	Velkommen.	ήρθατε	0	0
+Αυτός ήταν στη σκηνή του εγκλήματος.	Han var på gerningsstedet.	σκηνή	0	0
+Γιατί ξύπνησες τόσο νωρίς;	Hvorfor stod du så tidligt op?	νωρίς	0	0
+Χάρηκα.	Det glæder mig at møde dig.	χάρηκα	0	0
+Πώς λέγεται "εις το επανιδείν" στα γερμανικά;	Hvordan siger man "farvel" på tysk?	λέγεται	0	0
+Περίμενε λιγάκι.	Vent lidt.	λιγάκι	0	0
+Καλησπέρα.	God eftermiddag!	καλησπέρα	0	0
+Ίσως να είναι αληθινό.	Den er nok ægte.	αληθινό	0	0
+Πίνεις τσάι.	Du drikker te.	τσάι	0	0
+Χτες το πρωί.	I går morges.	χτες	0	0
+Είναι εννέα και μισή.	Klokken er halv ti.	μισή	0	0
+Αυτό είναι άλογο ή φοράδα;	Er den her en hingst eller en hoppe?	άλογο	0	0
+Ο κύριος Βίλντερ μου έδωσε την ηλεκτρονική σου διεύθυνση.	Hr. Wilder gav mig din e-mailadresse.	διεύθυνση	0	0
+Δεν υπάρχει θεραπεία για την φαλάκρα.	Der findes ingen kur mod skaldethed.	θεραπεία	0	0
+Ο Τομ μίλησε.	Tom talte.	μίλησε	0	0
+Πορτοκαλί, το αγαπημένο μου χρώμα.	Orange er min yndlingsfarve.	χρώμα	0	0
+Πορτοκαλί, το αγαπημένο μου χρώμα.	Orange er min yndlingsfarve.	αγαπημένο	0	0
+Όνειρα γλυκά!	Drøm sødt!	όνειρα	0	0
+Αυτός ήταν στη σκηνή του εγκλήματος.	Han var på gerningsstedet.	εγκλήματος	0	0
+Πάω στην παραλία.	Jeg går på stranden.	παραλία	0	0
+Η γυναίκα τρώει ψωμί.	Kvinden spiser brød.	τρώει	0	0
+Πόσο μακριά είναι για το αεροδρόμιο;	Hvor langt er der til lufthavnen?	αεροδρόμιο	0	0
+Πώς λέγεται "εις το επανιδείν" στα γερμανικά;	Hvordan siger man "farvel" på tysk?	εις	0	0
+Αυτή ήταν και έξυπνη και όμορφη.	Hun var både klog og smuk.	έξυπνη	0	0
+Παρ'όλο το πλούτος και φήμη του, είναι δυστυχής.	På trods af al sin rigdom og berømmelse, er han ulykkelig.	φήμη	0	0
+Ο Τομ έσπασε το παγκόσμιο ρεκόρ.	Tom brød verdensrekorden.	έσπασε	0	0
+Όνειρα γλυκά!	Drøm sødt!	γλυκά	0	0
+Ο Τομ μιλούσε.	Tom talte.	μιλούσε	0	0
+Η γυναίκα τρώει ψωμί.	Kvinden spiser brød.	ψωμί	0	0
+Πίνεις τσάι.	Du drikker te.	πίνεις	0	0
+Πίνω καφέ σε ένα καφενείο.	Jeg drikker kaffe på en café.	πίνω	0	0
+Η αδερφή μου έχει δύο γιούς, επομένως εγώ έχω δύο ανιψιούς.	Min søster har to sønner, så jeg har to nevøer.	επομένως	0	0
+Λείπουν δύο σελίδες από το βιβλίο.	Bogen mangler to sider.	λείπουν	0	0
+Του Τομ του αρέσει να φτιάχνει σαΐτες.	Tom kan godt lide at lave papirfly.	φτιάχνει	0	0
+Είναι εννέα και μισή.	Klokken er halv ti.	εννέα	0	0
+Η ταινία ήταν ενδιαφέρουσα.	Filmen var interessant.	ενδιαφέρουσα	0	0
+Είμαι τριάντα χρόνων.	Jeg er tredive år gammel.	τριάντα	0	0
+Είμαι τριάντα χρόνων.	Jeg er tredive.	χρόνων	0	0
+Ήμουνα εκεί σήμερα το πρωί.	Jeg var der i morges.	ήμουνα	0	0
+Ο Τομ έσπασε το παγκόσμιο ρεκόρ.	Tom brød verdensrekorden.	ρεκόρ	0	0
+Ο Τομ έσπασε το παγκόσμιο ρεκόρ.	Tom brød verdensrekorden.	παγκόσμιο	0	0
+Λείπουν δύο σελίδες από το βιβλίο.	Bogen mangler to sider.	σελίδες	0	0
+Έχετε ρύζι;	Har du ris?	ρύζι	0	0
+Γιατί ξύπνησες τόσο νωρίς;	Hvorfor stod du så tidligt op?	ξύπνησες	0	0
+Πώς λέγεται "εις το επανιδείν" στα γερμανικά;	Hvordan siger man "farvel" på tysk?	γερμανικά	0	0
+Το Μιλάνο είναι η πρωτεύουσα της Λομβαρδίας.	Milano er hovedstaden i Lombardiet.	πρωτεύουσα	0	0
+Πορτοκαλί, το αγαπημένο μου χρώμα.	Orange er min yndlingsfarve.	πορτοκαλί	0	0
+Ο Τομ είναι πάντα λίγο ευέξαπτος το πρωί, πριν πιεί τον πρώτο καφέ.	Tom er altid en smule irritabel om morgenen, før han drikker sin første kop kaffe.	πιεί	0	0
+Το Μιλάνο είναι η πρωτεύουσα της Λομβαρδίας.	Milano er hovedstaden i Lombardiet.	μιλάνο	0	0
+Σηκώθηκα στις πέντε το πρωί.	Jeg stod op klokken fem om morgenen.	σηκώθηκα	0	0
+Έχει ξανθά μαλλιά.	Hun har blondt hår.	ξανθά	0	0
+Φοβάμαι τις κατσαρίδες.	Jeg er bange for kakerlakker.	κατσαρίδες	0	0
+Πώς λέγεται "εις το επανιδείν" στα γερμανικά;	Hvordan siger man "farvel" på tysk?	επανιδείν	0	0
+Ο κύριος Βίλντερ μου έδωσε την ηλεκτρονική σου διεύθυνση.	Hr. Wilder gav mig din e-mailadresse.	ηλεκτρονική	0	0
+Ο Τομ μίλαγε.	Tom talte.	μίλαγε	0	0
+Αυτό είναι άλογο ή φοράδα;	Er den her en hingst eller en hoppe?	φοράδα	0	0
+Η αδερφή μου έχει δύο γιούς, επομένως εγώ έχω δύο ανιψιούς.	Min søster har to sønner, så jeg har to nevøer.	γιούς	0	0
+Είμαι τουρίστας.	Jeg er en turist.	τουρίστας	0	0
+Παρ'όλο το πλούτος και φήμη του, είναι δυστυχής.	På trods af al sin rigdom og berømmelse, er han ulykkelig.	πλούτος	0	0
+Ο Τομ είναι πάντα λίγο ευέξαπτος το πρωί, πριν πιεί τον πρώτο καφέ.	Tom er altid en smule irritabel om morgenen, før han drikker sin første kop kaffe.	ευέξαπτος	0	0
+Παρ'όλο το πλούτος και φήμη του, είναι δυστυχής.	På trods af al sin rigdom og berømmelse, er han ulykkelig.	δυστυχής	0	0
+Πίνω καφέ σε ένα καφενείο.	Jeg drikker kaffe på en café.	καφενείο	0	0
+Δεν υπάρχει θεραπεία για την φαλάκρα.	Der findes ingen kur mod skaldethed.	φαλάκρα	0	0
+Μιλάς Πορτογαλικά?	Taler du portugisisk?	πορτογαλικά	0	0

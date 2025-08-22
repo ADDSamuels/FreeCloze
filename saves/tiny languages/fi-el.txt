@@ -1,0 +1,138 @@
+Tämä eläin on minun.	Αυτό το ζώο είναι το δικό μου.	on	0	0
+Tule kotiin keskipäivällä ja puhutaan kuudelta.	Έλα το απόγευμα στο σπίτι, ας πούμε στις έξι.	ja	0	0
+Hän työskentelee yksin.	Αυτή εργάζεται μόνη της.	hän	0	0
+En kestä hänen kommenttejaan.	Δεν υποφέρω τα σχόλιά του.	en	0	0
+Mitä kuuluu?	Τι κάνετε;	mitä	0	0
+Kerro heille, ettet ole valmis.	Πες τες ότι δεν είσαι έτοιμος.	ole	0	0
+Oli lämmin, joten avasin ikkunan.	Ήταν ζεστά, κι έτσι άνοιξα το παράθυρο.	oli	0	0
+Yritän vain voittaa vähän aikaa.	Προσπαθώ απλά να κερδίσω λίγο χρόνο.	vain	0	0
+Minä opetan ranskaa.	Διδάσκω γαλλικά.	minä	0	0
+Tämä eläin on minun.	Αυτό το ζώο είναι το δικό μου.	tämä	0	0
+Missä sinä asut?	Πού μένεις;	sinä	0	0
+En kestä hänen kommenttejaan.	Δεν υποφέρω τα σχόλιά του.	hänen	0	0
+Yritän olla onnellinen.	Προσπαθώ να είμαι ευτυχισμένος.	olla	0	0
+Tämä eläin on minun.	Αυτό το ζώο είναι το δικό μου.	minun	0	0
+Oikein hyvä!	Πολύ καλά!	hyvä	0	0
+Minun tulee sinua ikävä.	Θα μου λείψεις.	sinua	0	0
+Miten voit?	Πώς είσαι;	miten	0	0
+Kyllä.	Ναι.	kyllä	0	0
+Kiitos!	Ευχαριστώ!	kiitos	0	0
+Hei hei!	Γεια!	hei	0	0
+Pitää mennä.	Έφυγα.	pitää	0	0
+Missä sinä asut?	Πού μένεις;	missä	0	0
+Tosi hyvin!	Πολύ καλά!	hyvin	0	0
+Anteeksi.	Συγνώμη.	anteeksi	0	0
+Mitä sinulle kuuluu?	Πώς είσαι;	sinulle	0	0
+Tule kotiin keskipäivällä ja puhutaan kuudelta.	Έλα το απόγευμα στο σπίτι, ας πούμε στις έξι.	tule	0	0
+Kiitos paljon!	Ευχαριστώ πολύ!	paljon	0	0
+Minun tulee sinua ikävä.	Θα μου λείψεις.	tulee	0	0
+Kuinka voitte?	Πώς είστε;	kuinka	0	0
+Pitää mennä.	Έφυγα.	mennä	0	0
+Oli lämmin, joten avasin ikkunan.	Ήταν ζεστά, κι έτσι άνοιξα το παράθυρο.	joten	0	0
+Oikein hyvin!	Πολύ καλά!	oikein	0	0
+Yritän vain voittaa vähän aikaa.	Προσπαθώ απλά να κερδίσω λίγο χρόνο.	vähän	0	0
+Todella hyvin!	Πολύ καλά!	todella	0	0
+Hyvää syntymäpäivää.	Χαρούμενα γενέθλια.	hyvää	0	0
+Miten voit?	Πώς είσαι;	voit	0	0
+Yritän vain voittaa vähän aikaa.	Προσπαθώ απλά να κερδίσω λίγο χρόνο.	aikaa	0	0
+Australia on noin kaksikymmentä kertaa Japania suurempi.	Η Αυστραλία είναι περίπου είκοσι φορές μεγαλύτερη από την Ιαπωνία.	noin	0	0
+Osaatko puhua englantia?	Μιλάς Αγγλικά;	puhua	0	0
+Kerro heille, ettet ole valmis.	Πες τες ότι δεν είσαι έτοιμος.	kerro	0	0
+Tule kotiin keskipäivällä ja puhutaan kuudelta.	Έλα το απόγευμα στο σπίτι, ας πούμε στις έξι.	kotiin	0	0
+Olisiko mahdollista järjestää tapaaminen pian, jotta voisin nähdä talon?	Θα μπορούσετε να κλείσετε ένα ραντεβού σύντομα, έτσι μπορώ να δω το σπίτι;	nähdä	0	0
+Olisiko mahdollista järjestää tapaaminen pian, jotta voisin nähdä talon?	Θα μπορούσετε να κλείσετε ένα ραντεβού σύντομα, έτσι μπορώ να δω το σπίτι;	pian	0	0
+Iltaa. Miten menee?	Καλησπέρα. Τι λέει;	menee	0	0
+Laula meille laulun.	Πες μας ένα τραγουδάκι.	meille	0	0
+Mitä teille kuuluu?	Πώς είστε;	teille	0	0
+Joo.	Ναι.	joo	0	0
+Kerro heille, ettet ole valmis.	Πες τες ότι δεν είσαι έτοιμος.	valmis	0	0
+Tulen kaipaamaan sinua.	Θα μου λείψεις.	tulen	0	0
+Yritän säästää rahaa.	Προσπαθώ να αποταμιεύσω χρήματα.	rahaa	0	0
+Hän työskentelee yksin.	Αυτή εργάζεται μόνη της.	yksin	0	0
+Tosi hyvin!	Πολύ καλά!	tosi	0	0
+Australia on noin kaksikymmentä kertaa Japania suurempi.	Η Αυστραλία είναι περίπου είκοσι φορές μεγαλύτερη από την Ιαπωνία.	kertaa	0	0
+Menen rannalle.	Πάω στην παραλία.	menen	0	0
+Hyvää päivää.	Καλησπέρα.	päivää	0	0
+Olisiko mahdollista järjestää tapaaminen pian, jotta voisin nähdä talon?	Θα μπορούσετε να κλείσετε ένα ραντεβού σύντομα, έτσι μπορώ να δω το σπίτι;	jotta	0	0
+Nähdään huomenna.	Τα λέμε αύριο.	huomenna	0	0
+Nähdään myöhemmin!	Τα λέμε αργότερα!	myöhemmin	0	0
+Mukava tavata.	Χάρηκα για τη γνωριμία.	tavata	0	0
+Moikka ja nähdään.	Γεια, τα λέμε.	nähdään	0	0
+Mitä kuuluu?	Τι κάνετε;	kuuluu	0	0
+Yritän ajatella.	Προσπαθώ να σκεφτώ.	yritän	0	0
+Olisiko mahdollista järjestää tapaaminen pian, jotta voisin nähdä talon?	Θα μπορούσετε να κλείσετε ένα ραντεβού σύντομα, έτσι μπορώ να δω το σπίτι;	voisin	0	0
+Kerro heille, ettet ole valmis.	Πες τες ότι δεν είσαι έτοιμος.	heille	0	0
+Kerro heille, ettet ole valmis.	Πες τες ότι δεν είσαι έτοιμος.	ettet	0	0
+Mukava tavata.	Χάρηκα.	mukava	0	0
+Haloo.	Παρακαλώ.	haloo	0	0
+Miten voitte?	Πώς είστε;	voitte	0	0
+Tervetuloa.	Καλώς ήρθατε.	tervetuloa	0	0
+Hyvää yötä ja kauniita unia.	Καληνύχτα και όνειρα γλυκά.	yötä	0	0
+Ensi kertaan!	Τα λέμε αργότερα!	ensi	0	0
+Huomenta.	Καλημέρα.	huomenta	0	0
+Kaupunki perustettiin vuonna 573.	Η πόλη ιδρύθηκε το 573.	vuonna	0	0
+Terve! Hyvää päivää!	Γεια σας! Καλημέρα!	terve	0	0
+En kestä hänen kommenttejaan.	Δεν υποφέρω τα σχόλιά του.	kestä	0	0
+Minun tulee sinua ikävä.	Θα μου λείψεις.	ikävä	0	0
+Olisiko mahdollista järjestää tapaaminen pian, jotta voisin nähdä talon?	Θα μπορούσετε να κλείσετε ένα ραντεβού σύντομα, έτσι μπορώ να δω το σπίτι;	mahdollista	0	0
+Yritän vain voittaa vähän aikaa.	Προσπαθώ απλά να κερδίσω λίγο χρόνο.	voittaa	0	0
+Olisiko mahdollista järjestää tapaaminen pian, jotta voisin nähdä talon?	Θα μπορούσετε να κλείσετε ένα ραντεβού σύντομα, έτσι μπορώ να δω το σπίτι;	talon	0	0
+Terve, maailma!	Γεια σου, κόσμε!	maailma	0	0
+Tule kotiin keskipäivällä ja puhutaan kuudelta.	Έλα το απόγευμα στο σπίτι, ας πούμε στις έξι.	puhutaan	0	0
+Yritän olla onnellinen.	Προσπαθώ να είμαι ευτυχισμένος.	onnellinen	0	0
+Yritän ajatella.	Προσπαθώ να σκεφτώ.	ajatella	0	0
+Iltaa.	Καλησπέρα.	iltaa	0	0
+Paljon kiitoksia!	Ευχαριστώ πολύ!	kiitoksia	0	0
+Näkemiin.	Τα λέμε.	näkemiin	0	0
+Olisiko mahdollista järjestää tapaaminen pian, jotta voisin nähdä talon?	Θα μπορούσετε να κλείσετε ένα ραντεβού σύντομα, έτσι μπορώ να δω το σπίτι;	olisiko	0	0
+Heippa!	Γεια!	heippa	0	0
+Kaupunki perustettiin vuonna 573.	Η πόλη ιδρύθηκε το 573.	kaupunki	0	0
+Hyvästi.	Αντίο.	hyvästi	0	0
+Puhelin soi.	Χτυπάει το τηλέφωνο.	puhelin	0	0
+Iltaa. Miten sujuu?	Καλησπέρα. Τι λέει;	sujuu	0	0
+Hän kävelee hitaasti.	Αυτός περπατά αργά.	hitaasti	0	0
+Olisiko mahdollista järjestää tapaaminen pian, jotta voisin nähdä talon?	Θα μπορούσετε να κλείσετε ένα ραντεβού σύντομα, έτσι μπορώ να δω το σπίτι;	järjestää	0	0
+Asun Ankarassa.	Μένω στην Άγκυρα.	asun	0	0
+Olisiko mahdollista järjestää tapaaminen pian, jotta voisin nähdä talon?	Θα μπορούσετε να κλείσετε ένα ραντεβού σύντομα, έτσι μπορώ να δω το σπίτι;	tapaaminen	0	0
+Osaatko puhua englantia?	Μιλάς Αγγλικά;	osaatko	0	0
+Kauniita unia!	Όνειρα γλυκά!	kauniita	0	0
+Kippis!	Γειά μας!	kippis	0	0
+Hyvää yötä. Nuku hyvin.	Καληνύχτα. Όνειρα γλυκά.	nuku	0	0
+Osaatko puhua englantia?	Μιλάς Αγγλικά;	englantia	0	0
+Jaa.	Ναι.	jaa	0	0
+Puhelin soi.	Χτυπάει το τηλέφωνο.	soi	0	0
+Missä sinä asut?	Πού μένεις;	asut	0	0
+Hän työskentelee yksin.	Αυτή εργάζεται μόνη της.	työskentelee	0	0
+Australia on noin kaksikymmentä kertaa Japania suurempi.	Η Αυστραλία είναι περίπου είκοσι φορές μεγαλύτερη από την Ιαπωνία.	suurempi	0	0
+Tämä eläin on minun.	Αυτό το ζώο είναι το δικό μου.	eläin	0	0
+Nähdään maanantaina.	Τα λέμε Δευτέρα.	maanantaina	0	0
+Hyvää syntymäpäivää.	Χαρούμενα γενέθλια.	syntymäpäivää	0	0
+Oli lämmin, joten avasin ikkunan.	Ήταν ζεστά, κι έτσι άνοιξα το παράθυρο.	ikkunan	0	0
+Yritän säästää rahaa.	Προσπαθώ να αποταμιεύσω χρήματα.	säästää	0	0
+Oli lämmin, joten avasin ikkunan.	Ήταν ζεστά, κι έτσι άνοιξα το παράθυρο.	lämmin	0	0
+Laula meille laulun.	Πες μας ένα τραγουδάκι.	laulun	0	0
+Minä opetan ranskaa.	Διδάσκω γαλλικά.	opetan	0	0
+Hyvää yötä ja kauniita unia.	Καληνύχτα και όνειρα γλυκά.	unia	0	0
+Huomiseen.	Τα λέμε αύριο.	huomiseen	0	0
+Juu.	Ναι.	juu	0	0
+Hyvää päivänjatkoa.	Καλό απόγευμα.	päivänjatkoa	0	0
+Menen rannalle.	Πάω στην παραλία.	rannalle	0	0
+Laula meille laulun.	Πες μας ένα τραγουδάκι.	laula	0	0
+Hän kävelee hitaasti.	Αυτός περπατά αργά.	kävelee	0	0
+Hyvää iltapäivää.	Καλησπέρα.	iltapäivää	0	0
+Minä opetan ranskaa.	Διδάσκω γαλλικά.	ranskaa	0	0
+Tulen kaipaamaan sinua.	Θα μου λείψεις.	kaipaamaan	0	0
+Tule kotiin keskipäivällä ja puhutaan kuudelta.	Έλα το απόγευμα στο σπίτι, ας πούμε στις έξι.	kuudelta	0	0
+Oli lämmin, joten avasin ikkunan.	Ήταν ζεστά, κι έτσι άνοιξα το παράθυρο.	avasin	0	0
+Moikka ja nähdään.	Γεια, τα λέμε.	moikka	0	0
+Ensi kertaan!	Τα λέμε αργότερα!	kertaan	0	0
+Pärjäile.	Να προσέχεις.	pärjäile	0	0
+Australia on noin kaksikymmentä kertaa Japania suurempi.	Η Αυστραλία είναι περίπου είκοσι φορές μεγαλύτερη από την Ιαπωνία.	kaksikymmentä	0	0
+Hyvää illanjatkoa.	Καλό απόγευμα.	illanjatkoa	0	0
+Kuis hurisee?	Πώς πάει;	hurisee	0	0
+Kuis hurisee?	Τί κάνεις;	kuis	0	0
+Tule kotiin keskipäivällä ja puhutaan kuudelta.	Έλα το απόγευμα στο σπίτι, ας πούμε στις έξι.	keskipäivällä	0	0
+Kaupunki perustettiin vuonna 573.	Η πόλη ιδρύθηκε το 573.	perustettiin	0	0
+Australia on noin kaksikymmentä kertaa Japania suurempi.	Η Αυστραλία είναι περίπου είκοσι φορές μεγαλύτερη από την Ιαπωνία.	japania	0	0
+Australia on noin kaksikymmentä kertaa Japania suurempi.	Η Αυστραλία είναι περίπου είκοσι φορές μεγαλύτερη από την Ιαπωνία.	australia	0	0
+Suurkiitokset!	Ευχαριστώ πολύ!	suurkiitokset	0	0

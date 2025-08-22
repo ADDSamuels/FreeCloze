@@ -1,0 +1,954 @@
+Я їм рис.	Jeg spiser ris.	я	0	0
+Мені не подобається те, що я бачу.	Jeg kan ikke lide hvad jeg ser.	не	0	0
+Краще синиця в жмені, ніж журавель в небі.	Hellere en fugl i hånden end ti på taget.	в	0	0
+Я не знав, що ти знайомий із Томом.	Jeg vidste ikke du kendte Tom.	що	0	0
+Він побачив на стіні метелика.	Han så en sommerfugl på væggen.	на	0	0
+Чому ти не розповів мені про це?	Hvorfor fortalte du mig ikke om det her?	це	0	0
+Прийде час, коли ти про це пошкодуєш.	Der vil komme en tid hvor du vil fortryde det.	ти	0	0
+Я теж так думаю.	Det tror jeg også.	так	0	0
+У мене десятирічний син.	Jeg har en tiårig søn.	у	0	0
+Якщо воно виглядає як качка, плаває як качка і крякає як качка, то це напевно і є качка.	Hvis det ligner en and, svømmer som en and og rapper som en and, så er det sandsynligvis en and.	і	0	0
+Вона розмовляє з нами.	Hun taler med os.	з	0	0
+Це мої гроші, а не твої.	Det er mine penge, ikke dine.	а	0	0
+Боюся, ми маємо проблему.	Jeg er bange for at vi har et problem.	ми	0	0
+Все, що може бути неправильно зрозумілим, буде неправильно зрозумілим.	Alt, som kan misforstås, vil blive misforstået.	все	0	0
+Я тебе просто не розумію.	Jeg forstår dig bare ikke.	тебе	0	0
+Він продає машини.	Han sælger biler.	він	0	0
+Як ця риба називається англіською?	Hvad kaldes denne fisk på engelsk?	як	0	0
+Треба взяти бика за роги.	Godt begyndt er halvt fuldendt.	за	0	0
+Ви повинні зареєструвати свою домашню тварину.	Du skal have dit kæledyr registreret.	ви	0	0
+Том переїхав до Німеччини.	Tom flyttede til Tyskland.	до	0	0
+Не лякай мене так!	Skræm mig ikke sådan!	мене	0	0
+Мені потрібен інсулін.	Jeg har brug for insulin.	мені	0	0
+О ні, сьогодні п'ятниця тринадцяте!	Å nej, det er fredag den trettende!	ні	0	0
+Просто скажи правду.	Sig bare sandheden.	просто	0	0
+Тут узимку буває багато снігу?	Sner der meget om vinteren her?	тут	0	0
+Палити шкідливо для здоров'я.	At ryge er skadeligt for helbredet.	для	0	0
+Вона кохає його.	Hun elsker ham.	його	0	0
+Я встала о п'ятій ранку.	Jeg stod op klokken fem om morgenen.	о	0	0
+Ну то й що, що я голубий? Це що, злочин?	Så hvad om jeg er bøsse? Er det en forbrydelse?	то	0	0
+Ну й що, що я ґей? Це що, злочин?	Så hvad om jeg er bøsse? Er det en forbrydelse?	ну	0	0
+Я знаю багато способів кинути палити.	Jeg kender mange metoder til rygestop.	знаю	0	0
+Том написав книжку про птахів.	Tom har skrevet en bog om fugle.	про	0	0
+У нас шість яєць.	Vi har seks æg.	нас	0	0
+У вас є японське пиво?	Har I japansk øl?	вас	0	0
+Вони мали рацію.	De havde ret.	вони	0	0
+Вона кохає його.	Hun elsker ham.	вона	0	0
+Гадаю, тобі потрібний адвокат.	Jeg tror du får brug for en advokat.	тобі	0	0
+Дякую, там все добре.	Tak, alt er fint der.	там	0	0
+Якщо воно виглядає як качка, плаває як качка і крякає як качка, то це напевно і є качка.	Hvis det ligner en and, svømmer som en and og rapper som en and, så er det sandsynligvis en and.	якщо	0	0
+Я все ще живу у Бостоні.	Jeg bor stadig i Boston.	ще	0	0
+Німецька, нідерландська, норвезька та англійська — германські мови.	Tysk, nederlandsk, norsk og engelsk er germanske sprog.	та	0	0
+І побачив Бог, що це добре.	Og Gud så at det var godt.	добре	0	0
+Я хочу, щоб вона кинула курити.	Jeg ønsker, at hun ville holde op med at ryge.	щоб	0	0
+В нього є машина.	Han har en bil.	є	0	0
+Корови дають нам молоко.	Køer giver os mælk.	нам	0	0
+Я не хочу працювати.	Jeg har ikke lyst til at arbejde.	хочу	0	0
+Прийде час, коли ти про це пошкодуєш.	Der vil komme en tid hvor du vil fortryde det.	коли	0	0
+Що б ти зробив?	Hvad ville du gøre?	б	0	0
+Французька не така вже й складна.	Fransk er ikke så svært.	вже	0	0
+Мене не було весь тиждень.	Jeg var væk hele ugen.	було	0	0
+Я читав, що президентом Бразилії є жінка. Її звати Ділма.	Jeg læste, at Brasiliens præsident er en kvinde. Hun hedder Dilma.	її	0	0
+Коли був зруйнований Другий Храм?	Hvornår blev Det Andet Tempel ødelagt?	був	0	0
+Том може мати рацію.	Tom kan have ret.	може	0	0
+Чи є життя на Марсі?	Er der liv på Mars?	чи	0	0
+Цей хліб дуже смачний.	Dette brød er meget lækkert.	дуже	0	0
+Канада знаходиться на північ від США.	Canada ligger nord for USA.	від	0	0
+Чому це важливо?	Hvorfor er det vigtigt?	чому	0	0
+Об’єднаний народ ніколи не буде переможений.	Det forenede folk vil aldrig blive besejret.	буде	0	0
+Хто рано встає, тому бог дає.	Morgenstund har guld i mund.	хто	0	0
+Тому не страшно.	Tom er ikke bange.	тому	0	0
+Де моя машина?	Hvor er min bil?	де	0	0
+Треба взяти бика за роги.	Godt begyndt er halvt fuldendt.	треба	0	0
+Я теж так думаю.	Det synes jeg også.	думаю	0	0
+Чи є імовірність того, що він прийде?	Er der nogen mulighed for at han kommer?	того	0	0
+Я їх не знаю.	Jeg kender dem ikke.	їх	0	0
+Між тобою та Томом щось трапилося?	Skete der noget mellem dig og Tom?	щось	0	0
+Я цього ніколи не розуміла.	Jeg har aldrig forstået det her.	цього	0	0
+Зараз пів на одинадцяту.	Nu er klokken halv elleve.	зараз	0	0
+Том нічого не пив.	Tom drak ikke noget.	нічого	0	0
+Моя сестра любить танцювати.	Min søster kan lide at danse.	моя	0	0
+Оскільки ця книга про тварин, мене дратувало те, що тварини поводилися як люди.	Da bogen handlede om dyr, irriterede det mig, at dyrene opførte sig som mennesker.	те	0	0
+Все, що може бути неправильно зрозумілим, буде неправильно зрозумілим.	Alt, som kan misforstås, vil blive misforstået.	бути	0	0
+Нуль, один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	Nul, en, to, tre, fire, fem, seks, syv, otte, ni, ti.	один	0	0
+Ну то й що, що я голубий? Це що, злочин?	Så hvad om jeg er bøsse? Er det en forbrydelse?	й	0	0
+Як я можу вирішити цю проблему?	Hvordan kan jeg løse det problem?	можу	0	0
+Зелений - мій улюблений колір.	Grøn er min yndlingsfarve.	мій	0	0
+Дякую!	Tak.	дякую	0	0
+Коли ти в останній раз приймала душ?	Hvornår tog du sidst et brusebad?	раз	0	0
+Знаєш, хто живе в тому будинку?	Ved du hvem der bor i det hus?	знаєш	0	0
+Не всі птахи літають.	Ikke alle fugle flyver.	всі	0	0
+Богохульство — це злочин без жертви.	Blasfemi er en forbrydelse uden offer.	без	0	0
+Мені потрібно більше часу.	Jeg har brug for mere tid.	більше	0	0
+Прийде час, коли ти про це пошкодуєш.	Der vil komme en tid hvor du vil fortryde det.	час	0	0
+Я була замала.	Jeg var for lille.	була	0	0
+Дві склянки апельсинового соку, будь ласка.	To glas appelsinsaft, tak.	будь	0	0
+Дайте йому час.	Giv ham tid.	йому	0	0
+У нас є лише одна година.	Vi har kun en time.	лише	0	0
+Привіт, Томе! Як справи?	Hej Tom! Hvordan går det?	привіт	0	0
+Навіть Том боїться Мері.	Selv Tom er bange for Mary.	навіть	0	0
+Я ніколи не просипаю.	Jeg sover aldrig over mig.	ніколи	0	0
+На твоєму місці я би відразу пішов додому.	Hvis jeg var dig så ville jeg straks gå hjem.	би	0	0
+Він розмовляє зі мною німецькою.	Han taler tysk til mig.	зі	0	0
+У мене немає турецької клавіатури.	Jeg har ikke et tyrkisk tastatur.	немає	0	0
+Що ти хочеш на обід?	Hvad vil du spise til frokost?	хочеш	0	0
+Я нічого не знаю про нього.	Jeg ved intet om ham.	нього	0	0
+Цей ніж дуже гострий.	Denne kniv er meget skarp.	цей	0	0
+Тобі немає чого боятися.	Du har intet af være bange for.	чого	0	0
+Чи є життя на Марсі?	Er der liv på Mars?	життя	0	0
+Я теж так думаю.	Det tror jeg også.	теж	0	0
+Оскільки ця книга про тварин, мене дратувало те, що тварини поводилися як люди.	Da bogen handlede om dyr, irriterede det mig, at dyrene opførte sig som mennesker.	люди	0	0
+Що ти сказав Тому?	Hvad har du sagt til Tom?	сказав	0	0
+У парку багато людей.	Der er mange mennesker i parken.	людей	0	0
+Племінник — це син сестри або брата.	En nevø er en søstersøn eller en brorsøn.	або	0	0
+Том не хотів продавати свою машину.	Tom ville ikke sælge sin bil.	свою	0	0
+Що таке НЛО?	Hvad er en ufo?	таке	0	0
+Я не знав, що ти знайомий із Томом.	Jeg vidste ikke du kendte Tom.	із	0	0
+Між тобою та Томом щось трапилося?	Skete der noget mellem dig og Tom?	тобою	0	0
+Нуль, один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	Nul, en, to, tre, fire, fem, seks, syv, otte, ni, ti.	два	0	0
+Краще синиця в жмені, ніж журавель в небі.	Hellere en fugl i hånden end ti på taget.	краще	0	0
+Завжди будь готовим до найгіршого.	Vær altid forberedt på det værste.	завжди	0	0
+Ти маєш багато ворогів.	Du har mange fjender.	багато	0	0
+Сьогодні п'ятниця?	Er det fredag i dag?	сьогодні	0	0
+Дві склянки апельсинового соку, будь ласка.	To glas appelsinsaft, tak.	ласка	0	0
+Вони обходилися зі мною, як з дитиною.	De behandlede mig som et barn.	мною	0	0
+Том не має шансів на перемогу.	Tom har ingen chance for at vinde.	має	0	0
+Маю дурне питання.	Jeg har et dumt spørgsmål.	маю	0	0
+Ти моя мама?	Er du min mor?	мама	0	0
+Мені потрібно тобі щось сказати.	Jeg har noget at fortælle dig.	сказати	0	0
+Що ти сказала Тому?	Hvad har du sagt til Tom?	сказала	0	0
+Можеш мені це записати?	Kan du skrive det ned for mig?	можеш	0	0
+Я хочу трохи поговорити з тобою про Тома.	Jeg vil gerne have en lille snak med dig om Tom.	трохи	0	0
+Мені потрібно тобі щось сказати.	Jeg har noget at fortælle dig.	потрібно	0	0
+Ці ножиці добре ріжуть.	Denne saks klipper godt.	ці	0	0
+Том не хотів продавати свою машину.	Tom ville ikke sælge sin bil.	хотів	0	0
+Я три місяці була бездомна.	Jeg var hjemløs i tre måneder.	три	0	0
+Я вистрілив собі в ногу.	Jeg skød mig selv i foden.	собі	0	0
+Скажи правду.	Sig sandheden.	скажи	0	0
+Твій батько тебе любить.	Din far elsker dig.	твій	0	0
+Я люблю їжаків.	Jeg elsker pindsvin.	люблю	0	0
+Мені потрібен ніж.	Jeg har brug for en kniv.	ніж	0	0
+Дай мені тисячу поцілунків.	Giv mig 1000 kys!	дай	0	0
+Я надаю перевагу чаю перед кавою.	Jeg foretrækker te fremfor kaffe.	перед	0	0
+Завтра субота?	Er det lørdag i morgen?	завтра	0	0
+Яка тут середня температура?	Hvad er gennemsnitstemperaturen her?	яка	0	0
+Як я можу вирішити цю проблему?	Hvordan kan jeg løse det problem?	цю	0	0
+Ніхто не розв'язав завдання.	Der er ingen der har løst problemet.	ніхто	0	0
+Залишайтеся тут із нами.	Bliv her hos os.	нами	0	0
+У неї мало друзів.	Hun har få venner.	неї	0	0
+Скільки ти вже живеш в Японії?	Hvor længe har du boet i Japan?	скільки	0	0
+У нас є лише одна година.	Vi har kun en time.	одна	0	0
+Я пам'ятаю, що бачив тебе минулого року.	Jeg husker, at jeg så dig sidste år.	бачив	0	0
+Ти хто такий?	Hvem er du?	такий	0	0
+Мені хтось телефонував?	Har nogen ringet til mig?	хтось	0	0
+Мері сказала, що їй холодно.	Mary sagde at hun frøs.	їй	0	0
+Ця книжка добре продається.	Den bog sælger godt.	ця	0	0
+Я їм рис.	Jeg spiser ris.	їм	0	0
+Я запитав його, куди він іде.	Jeg spurgte ham om, hvor han skulle hen.	куди	0	0
+Це мої гроші, а не твої.	Det er mine penge, ikke dine.	мої	0	0
+Гроші не завжди приносять щастя.	Penge bringer ikke altid lykke.	гроші	0	0
+Том мене врятував.	Tom reddede mig.	том	0	0
+Ти маєш три машини.	Du har tre biler.	маєш	0	0
+Хіба ти завтра не прийдеш?	Kommer du ikke i morgen?	хіба	0	0
+Ми можемо допомогти?	Kan vi hjælpe?	можемо	0	0
+Я зробив це по-своєму.	Jeg har gjort det på min måde.	зробив	0	0
+Том хоче поїхати до Японії.	Tom ønsker at tage til Japan.	хоче	0	0
+Якщо воно виглядає як качка, плаває як качка і крякає як качка, то це напевно і є качка.	Hvis det ligner en and, svømmer som en and og rapper som en and, så er det sandsynligvis en and.	воно	0	0
+Мені потрібно більше часу.	Jeg har brug for mere tid.	часу	0	0
+Великі хлопці не плачуть.	Store drenge græder ikke.	хлопці	0	0
+Йди додому!	Gå hjem!	додому	0	0
+Мене не було весь тиждень.	Jeg var væk hele ugen.	весь	0	0
+Ви повинні зареєструвати свою домашню тварину.	Du bedes registrere dit kæledyr.	повинні	0	0
+Я не розумію, що він говорить.	Jeg forstår ikke hvad han siger.	говорить	0	0
+Йди додому!	Gå hjem!	йди	0	0
+Том може мати рацію.	Tom kan have ret.	мати	0	0
+Мені здається, вони брешуть.	Jeg tror at de lyver.	здається	0	0
+Майже у всіх японців темне волосся.	Næsten alle japanere har mørkt hår.	всіх	0	0
+Том також був на похоронах.	Tom var også med til begravelsen.	також	0	0
+Я наведу тобі кілька прикладів.	Jeg vil give dig nogle eksempler.	кілька	0	0
+Моє ім'я Алекс.	Mit navn er Alex.	моє	0	0
+Мені не подобається те, що я бачу.	Jeg kan ikke lide hvad jeg ser.	подобається	0	0
+Я не розумію, що він говорить.	Jeg forstår ikke hvad han siger.	розумію	0	0
+Твій батько тебе любить.	Din far elsker dig.	батько	0	0
+Я думав про Тома.	Jeg tænkte på Tom.	думав	0	0
+Я можу тобі допомогти?	Kan jeg hjælpe dig?	допомогти	0	0
+Я ніколи не п'ю.	Jeg drikker aldrig.	ю	0	0
+Я прочитала всю статтю.	Jeg læste hele artiklen.	всю	0	0
+Мені не подобається те, що я бачу.	Jeg kan ikke lide hvad jeg ser.	бачу	0	0
+Я думала про Тома.	Jeg tænkte på Tom.	думала	0	0
+Французька не така вже й складна.	Fransk er ikke så svært.	така	0	0
+Я не знав, що ти знайомий із Томом.	Jeg vidste ikke du kendte Tom.	знав	0	0
+Де я можу знайти таксі?	Hvor kan jeg finde en taxa?	знайти	0	0
+Лише Том знає правду.	Kun Tom kender sandheden.	знає	0	0
+Це була наша перша зустріч.	Det var vores første møde.	наша	0	0
+Том має машину?	Har Tom bil?	машину	0	0
+Він мав довге волосся.	Han havde et langt hår.	мав	0	0
+Гадаю, тобі потрібний адвокат.	Jeg tror du får brug for en advokat.	гадаю	0	0
+Я не зрозумів жодного слова.	Jeg forstod ikke et eneste ord.	слова	0	0
+Я проти війни.	Jeg er imod krig.	проти	0	0
+Привіт, Томе! Як справи?	Hej Tom! Hvordan går det?	справи	0	0
+Я люблю такі моменти.	Jeg elsker sådanne øjeblikke.	такі	0	0
+Я знала твого батька.	Jeg kendte din far.	знала	0	0
+Нуль, один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	Nul, en, to, tre, fire, fem, seks, syv, otte, ni, ti.	сім	0	0
+Де мій син?	Hvor er min søn?	син	0	0
+Нуль, один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	Nul, en, to, tre, fire, fem, seks, syv, otte, ni, ti.	ять	0	0
+Де ти будеш завтра ввечері?	Hvor er du henne i morgen aften?	будеш	0	0
+Ти мене розумієш.	Du forstår mig.	розумієш	0	0
+На твоєму місці я би відразу пішов додому.	Hvis jeg var dig så ville jeg straks gå hjem.	пішов	0	0
+Я хочу трохи поговорити з тобою про Тома.	Jeg vil gerne have en lille snak med dig om Tom.	поговорити	0	0
+Це ваше?	Er det jeres?	ваше	0	0
+Я знаю тих жінок.	Jeg kender de kvinder.	тих	0	0
+Боюся, у нас проблема.	Jeg er bange for at vi har et problem.	проблема	0	0
+Том спробував зачинити двері.	Tom forsøgte at lukke døren.	двері	0	0
+Я креативний хлопець.	Jeg er en kreativ fyr.	хлопець	0	0
+Бог створив світ.	Gud skabte verden.	світ	0	0
+Я чув кожне слово.	Jeg hørte hvert ord.	чув	0	0
+Майже у всіх японців темне волосся.	Næsten alle japanere har mørkt hår.	майже	0	0
+Я не зрозумів жодного слова.	Jeg forstod ikke et eneste ord.	зрозумів	0	0
+Насправді?	Virkelig?	насправді	0	0
+Іноземець швидко звик до японської їжі.	Udlændingen vænnede sig hurtigt til den japanske mad.	швидко	0	0
+Це мої гроші, а не твої.	Det er mine penge, ikke dine.	твої	0	0
+Бог — слон.	Gud er en elefant.	бог	0	0
+Я не говорю китайською.	Jeg taler ikke kinesisk.	говорю	0	0
+Я чув кожне слово.	Jeg hørte hvert ord.	слово	0	0
+Мені потрібен лікар!	Jeg har brug for en læge!	потрібен	0	0
+Маю дурне питання.	Jeg har et dumt spørgsmål.	питання	0	0
+Між тобою та Томом щось трапилося?	Skete der noget mellem dig og Tom?	між	0	0
+Жінка готова.	Kvinden er parat.	жінка	0	0
+Я не люблю дітей.	Jeg bryder mig ikke om børn.	дітей	0	0
+Ти добрий клієнт.	Du er en god kunde.	добрий	0	0
+Ти колись був за кордоном?	Har du nogensinde været i udlandet?	колись	0	0
+У неї мало друзів.	Hun har få venner.	мало	0	0
+Ти знаєш, що означає її ім'я?	Ved du, hvad hendes navn betyder?	означає	0	0
+Це твоє?	Er det din?	твоє	0	0
+Ти п'єш занадто багато кави.	Du drikker for meget kaffe.	занадто	0	0
+Дві склянки апельсинового соку, будь ласка.	To glas appelsinsaft, tak.	дві	0	0
+Боюся, ми маємо проблему.	Jeg er bange for at vi har et problem.	маємо	0	0
+У тебе є план?	Har du en plan?	план	0	0
+Хочеш побачити мій шрам?	Vil du se mit ar?	побачити	0	0
+Живи і дай жити іншим.	Lev og lad leve.	жити	0	0
+Думаю, Том сказав правду.	Jeg tror, Tom fortalte sandheden.	правду	0	0
+Годинник відстає на десять хвилин.	Uret er ti minutter bagud.	хвилин	0	0
+Дайте їм ключі.	Giv dem nøglerne.	дайте	0	0
+Я знав твого батька.	Jeg kendte din far.	батька	0	0
+У Тома нова машина.	Tom har en ny bil.	машина	0	0
+Важко.	Det er hårdt.	важко	0	0
+Я знала твого батька.	Jeg kendte din far.	твого	0	0
+Емілі має блакитні очі.	Emily har blå øjne.	очі	0	0
+Січень — перший місяць року.	Januar er årets første måned.	перший	0	0
+Том забагато працює.	Tom arbejder for meget.	працює	0	0
+Я не маю багато грошей.	Jeg har ikke mange penge.	грошей	0	0
+Вона робить з мухи слона.	Hun gør en myg til en elefant.	робить	0	0
+Я пам'ятаю, що бачив тебе минулого року.	Jeg husker, at jeg så dig sidste år.	року	0	0
+Говори повільно!	Tal langsomt!	говори	0	0
+Якщо воно виглядає як качка, плаває як качка і крякає як качка, то це напевно і є качка.	Hvis det ligner en and, svømmer som en and og rapper som en and, så er det sandsynligvis en and.	напевно	0	0
+Мені тридцять чотири роки.	Jeg er 34 år.	роки	0	0
+Я встав о п'ятій ранку.	Jeg stod op klokken fem om morgenen.	ранку	0	0
+Я купила новий телефон.	Jeg købte en ny telefon.	телефон	0	0
+Нащо вони це зробили?	Hvorfor gjorde de det?	зробили	0	0
+Він рідко буває вдома.	Han er sjældent hjemme.	вдома	0	0
+Вони обшукали будинок.	De gennemsøgte huset.	будинок	0	0
+Племінник — це син сестри або брата.	En nevø er en søstersøn eller en brorsøn.	брата	0	0
+Ми знаємо, що вона народилася в Канаді.	Vi ved at hun blev født i Canada.	знаємо	0	0
+Мені потрібні гроші.	Jeg har brug for penge.	потрібні	0	0
+Том дуже старий.	Tom er meget gammel.	старий	0	0
+Треба взяти бика за роги.	Godt begyndt er halvt fuldendt.	взяти	0	0
+Я купила новий телефон.	Jeg købte en ny telefon.	новий	0	0
+На твоєму місці я би відразу пішов додому.	Hvis jeg var dig så ville jeg straks gå hjem.	місці	0	0
+Моя молодша сестра попросила мене навчити її кататися на лижах.	Min lillesøster bad mig om at lære hende at stå på ski.	сестра	0	0
+Ти нічого не бачила.	Du har ikke set noget.	бачила	0	0
+Жінка готова.	Kvinden er parat.	готова	0	0
+Я кинула палити рік тому.	Jeg er holdt op med at ryge for et år siden.	рік	0	0
+Всім очевидно, що він закоханий.	Det er åbenlyst for enhver at han er forelsket.	всім	0	0
+Ти мала рацію.	Du havde ret.	мала	0	0
+Я не хочу працювати.	Jeg har ikke lyst til at arbejde.	працювати	0	0
+Я маю десятирічного сина.	Jeg har en tiårig søn.	сина	0	0
+У Парижі йде сніг.	I Paris sner det.	йде	0	0
+Кажуть, що він був дуже багатий.	Man siger at han var meget rig.	кажуть	0	0
+Нуль, один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	Nul, en, to, tre, fire, fem, seks, syv, otte, ni, ti.	чотири	0	0
+Я читав, що президентом Бразилії є жінка. Її звати Ділма.	Jeg læste, at Brasiliens præsident er en kvinde. Hun hedder Dilma.	звати	0	0
+Він був моїм другом.	Han var min ven.	моїм	0	0
+Він часто їздить закордон.	Han rejser ofte til udlandet.	часто	0	0
+Вона заздрить моєму успіху.	Hun misunder mig min succes.	моєму	0	0
+Його дружина — шведка.	Hans kone er svensker.	дружина	0	0
+На початку Бог створив Небо та землю.	I begyndelsen skabte Gud himlen og jorden.	землю	0	0
+Кров червона.	Blod er rødt.	кров	0	0
+Знаєш, хто живе в тому будинку?	Ved du hvem der bor i det hus?	будинку	0	0
+Нуль, один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	Nul, en, to, tre, fire, fem, seks, syv, otte, ni, ti.	десять	0	0
+Я пам'ятаю, що бачив тебе минулого року.	Jeg husker, at jeg så dig sidste år.	ятаю	0	0
+В кімнаті нікого не було.	Der var ingen i værelset.	нікого	0	0
+Це цікаво.	Det er interessant.	цікаво	0	0
+Троянда - гарна квітка.	En rose er en smuk blomst.	гарна	0	0
+У Самі є шиншила.	Sami har en chinchilla.	самі	0	0
+Том любить подорожувати.	Tom kan godt lide at rejse.	любить	0	0
+Ви двоє друзі?	Er I to venner?	друзі	0	0
+Хто рано встає, тому бог дає.	Morgenstund har guld i mund.	рано	0	0
+Том дав Мері яблуко.	Tom gav Mary et æble.	дав	0	0
+Наркоман помер від передозування.	Narkomanen døde af en overdosis.	помер	0	0
+Я зробила це по-своєму.	Jeg gjorde det på min måde.	зробила	0	0
+Канада — велика країна.	Canada er et stort land.	велика	0	0
+Гидке каченя стало прекрасним лебедем.	Den grimme ælling blev til en smuk svane.	стало	0	0
+Ці близнюки схожі як дві краплі води.	De her tvillinger ligner hinanden som to dråber vand.	води	0	0
+Він був моїм другом.	Han var min ven.	другом	0	0
+Вона молодо виглядає.	Hun ser ung ud.	виглядає	0	0
+Він тут живе?	Bor han her?	живе	0	0
+Я іноді пишу Тому.	Jeg skriver sommetider til Tom.	іноді	0	0
+У тебе є вода.	Du har vand.	вода	0	0
+Між тобою та Томом щось трапилося?	Skete der noget mellem dig og Tom?	трапилося	0	0
+Коли ти в останній раз приймав душ?	Hvornår tog du sidst et brusebad?	останній	0	0
+Ви мали рацію.	De havde ret.	мали	0	0
+Об’єднаний народ ніколи не буде переможений.	Det forenede folk vil aldrig blive besejret.	народ	0	0
+Прийде час, коли ти про це пошкодуєш.	Der vil komme en tid hvor du vil fortryde det.	прийде	0	0
+Не чекай на мене.	Vent ikke på mig.	чекай	0	0
+Тому не страшно.	Tom er ikke bange.	страшно	0	0
+Бавовняні рукавички захистять немовля від подряпування обличчя.	Bomuldsvanter vil forhindre babyen i at kradse sig i ansigtet.	обличчя	0	0
+Чому це важливо?	Hvorfor er det vigtigt?	важливо	0	0
+Я боюся ведмедів.	Jeg er bange for bjørne.	боюся	0	0
+Я більше не боюсь.	Jeg er ikke længere bange.	боюсь	0	0
+Жінки працюють.	Kvinderne arbejder.	жінки	0	0
+Пірати ніколи не п'ють воду.	Pirater drikker aldrig vand.	воду	0	0
+Том забув полити квіти.	Tom glemte at vande blomsterne.	забув	0	0
+Всім очевидно, що він закоханий.	Det er åbenlyst for enhver at han er forelsket.	очевидно	0	0
+Він продає машини.	Han sælger biler.	машини	0	0
+Мене не було весь тиждень.	Jeg var væk hele ugen.	тиждень	0	0
+Ти схожий на Гаррі Поттера.	Du ligner Harry Potter.	гаррі	0	0
+Просто скажіть правду.	Sig bare sandheden.	скажіть	0	0
+Папуга мертвий.	Papegøjen er død.	мертвий	0	0
+Ви мали рацію.	De havde ret.	рацію	0	0
+Що ти казала?	Hvad sagde du?	казала	0	0
+Слава Україні!	Hæder til Ukraine!	слава	0	0
+Ти любиш грати у гольф?	Kan du lide at spille golf?	грати	0	0
+Зроби щось корисне.	Gør dig nyttig.	зроби	0	0
+Елвіс Преслі живий!	Elvis Presley lever!	живий	0	0
+Це не рішення.	Det er ikke en løsning.	рішення	0	0
+Почекай хвилинку.	Vent venligst et øjeblik.	хвилинку	0	0
+Це неможливо!	Umuligt!	неможливо	0	0
+Моїй дитині потрібний лікар.	Mit barn har brug for en læge.	моїй	0	0
+Це довга історія.	Det er en lang historie.	історія	0	0
+З Днем матері!	Glædelig mors dag!	матері	0	0
+На твоєму місці я би відразу пішов додому.	Hvis jeg var dig så ville jeg straks gå hjem.	відразу	0	0
+Ви двоє друзі?	Er I to venner?	двоє	0	0
+Ти говориш українською?	Taler du ukrainsk?	говориш	0	0
+Живи і дай жити іншим.	Lev og lad leve.	іншим	0	0
+Я живу в місті.	Jeg bor i en by.	місті	0	0
+Мене звуть Алекс.	Mit navn er Alex.	звуть	0	0
+Реальність набагато гірша.	Virkeligheden er meget værre.	набагато	0	0
+Я не п'ю ані каву, ані чай.	Jeg drikker hverken kaffe eller te.	ані	0	0
+Січень — перший місяць року.	Januar er årets første måned.	місяць	0	0
+Фільм ішов 2 години.	Filmen varede to timer.	години	0	0
+Хлопчик чи дівчинка?	En dreng eller en pige?	хлопчик	0	0
+Фільм ішов 2 години.	Filmen varede to timer.	фільм	0	0
+Ти правий.	Du har ret.	правий	0	0
+Я чула кожне слово.	Jeg hørte hvert ord.	чула	0	0
+Я проти війни.	Jeg er imod krig.	війни	0	0
+Я не можу тебе врятувати.	Jeg kan ikke redde dig.	врятувати	0	0
+США складаються з 50 штатів.	USA er sammensat af 50 stater.	сша	0	0
+Все, що може бути неправильно зрозумілим, буде неправильно зрозумілим.	Alt, som kan misforstås, vil blive misforstået.	неправильно	0	0
+Почекай хвилинку.	Vent venligst et øjeblik.	почекай	0	0
+У нас шість яєць.	Vi har seks æg.	шість	0	0
+Мені потрібен лікар.	Jeg har brug for en læge.	лікар	0	0
+Мене звуть Алекс.	Mit navn er Alex.	алекс	0	0
+Я не зрозуміла жодного слова.	Jeg forstod ikke et eneste ord.	жодного	0	0
+Я живу в місті.	Jeg bor i en by.	живу	0	0
+Я кохаю Тома.	Jeg elsker Tom.	кохаю	0	0
+І побачив Бог, що це добре.	Og Gud så at det var godt.	побачив	0	0
+У неї мало друзів.	Hun har få venner.	друзів	0	0
+Де я можу купити квиток?	Hvor kan jeg købe en billet?	купити	0	0
+Я пам'ятаю, що бачив тебе минулого року.	Jeg husker, at jeg så dig sidste år.	минулого	0	0
+Він постійно палив.	Han røg hele tiden.	постійно	0	0
+Я купив машину.	Jeg har købt en bil.	купив	0	0
+На щастя, він мене не бачив.	Heldigvis så han mig ikke.	щастя	0	0
+Коли ти йдеш додому?	Hvornår tager du hjem?	йдеш	0	0
+В кімнаті нікого не було.	Der var ingen i værelset.	кімнаті	0	0
+Дай мені спершу поїсти.	Lad mig spise først.	спершу	0	0
+Великі хлопці не плачуть.	Store drenge græder ikke.	великі	0	0
+Коли був зруйнований Другий Храм?	Hvornår blev Det Andet Tempel ødelagt?	другий	0	0
+Він мав довге волосся.	Han havde et langt hår.	волосся	0	0
+Чому ти був у в'язниці?	Hvorfor var du i fængsel?	язниці	0	0
+Cічень, лютий, березень, квітень, травень, червень, липень, серпень, вересень, жовтень, листопад та грудень - це дванадцять місяців року.	Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	місяців	0	0
+Гадаю, тобі потрібний адвокат.	Jeg tror du får brug for en advokat.	адвокат	0	0
+На початку Бог створив Небо та землю.	I begyndelsen skabte Gud himlen og jorden.	початку	0	0
+На твоєму місці я би відразу пішов додому.	Hvis jeg var dig så ville jeg straks gå hjem.	твоєму	0	0
+Він рідко буває вдома.	Han er sjældent hjemme.	буває	0	0
+Я знаю тих жінок.	Jeg kender de kvinder.	жінок	0	0
+Це була наша перша зустріч.	Det var vores første møde.	перша	0	0
+Де ти будеш завтра ввечері?	Hvor er du henne i morgen aften?	ввечері	0	0
+Це була наша перша зустріч.	Det var vores første møde.	зустріч	0	0
+Ви на правильному шляху.	I er på rette vej.	шляху	0	0
+Ніхто не розв'язав завдання.	Der er ingen der har løst problemet.	завдання	0	0
+Я не п'ю ані каву, ані чай.	Jeg drikker hverken kaffe eller te.	чай	0	0
+Хлопчик чи дівчинка?	En dreng eller en pige?	дівчинка	0	0
+У Тома нова машина.	Tom har en ny bil.	нова	0	0
+Том в школі?	Er Tom i skole?	школі	0	0
+Я не зрозуміла жодного слова.	Jeg forstod ikke et eneste ord.	зрозуміла	0	0
+Ласкаво просимо в джунглі.	Velkommen til junglen.	просимо	0	0
+Ти любиш грати у гольф?	Kan du lide at spille golf?	любиш	0	0
+Том хоче поїхати до Японії.	Tom ønsker at tage til Japan.	поїхати	0	0
+Книга маленька.	Bogen er lille.	маленька	0	0
+З Днем матері!	Glædelig mors dag!	днем	0	0
+Якою мовою говорять у Бразилії?	Hvilket sprog taler man i Brasilien?	якою	0	0
+Мері сказала, що їй холодно.	Mary sagde at hun frøs.	холодно	0	0
+Ласкаво просимо в джунглі.	Velkommen til junglen.	ласкаво	0	0
+Це нова книга.	Det er en ny bog.	книга	0	0
+Столиця Фінляндії називається Гельсінкі.	Finlands hovedstad hedder Helsingfors.	називається	0	0
+У твоїй країні багато снігу?	Er der meget sne i dit land?	твоїй	0	0
+Оскільки ця книга про тварин, мене дратувало те, що тварини поводилися як люди.	Da bogen handlede om dyr, irriterede det mig, at dyrene opførte sig som mennesker.	оскільки	0	0
+У вас є японське пиво?	Har I japansk øl?	пиво	0	0
+Мій дядько грає на гітарі.	Min onkel spiller guitar.	дядько	0	0
+Мені знадобиться вічність, щоб все пояснити.	Det vil tage en evighed at forklare det hele.	пояснити	0	0
+У нас є вино.	Vi har vin.	вино	0	0
+Я три місяці була бездомна.	Jeg var hjemløs i tre måneder.	місяці	0	0
+Він був схожий на лікаря.	Han lignede en læge.	схожий	0	0
+Я вистрілив собі в ногу.	Jeg skød mig selv i benet.	ногу	0	0
+Дайте їм ключі.	Giv dem nøglerne.	ключі	0	0
+Автобус був переповнений.	Bussen var fuld.	автобус	0	0
+Я надаю перевагу чаю перед кавою.	Jeg foretrækker te fremfor kaffe.	чаю	0	0
+Де знаходиться найближчий торговий центр?	Hvor er det nærmeste indkøbscenter?	центр	0	0
+Я часто слухаю сумну музику.	Jeg lytter ofte til trist musik.	слухаю	0	0
+Ти згоден?	Er du enig?	згоден	0	0
+Думаю, Тому це сподобається.	Jeg tror Tom vil kunne lide det.	сподобається	0	0
+Я іноді ходжу в кіно.	Sommetider går jeg i biografen.	кіно	0	0
+Я купив нову швейну машинку.	Jeg købte en ny symaskine.	нову	0	0
+Колумб відкрив Америку в 1492 році.	Columbus opdagede Amerika i 1492.	році	0	0
+Він хоче зустрітися з тобою.	Han vil gerne møde dig.	зустрітися	0	0
+Нуль, один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	Nul, en, to, tre, fire, fem, seks, syv, otte, ni, ti.	вісім	0	0
+Він написав книжку про Китай.	Han har skrevet en bog om Kina.	написав	0	0
+Хто рано встає, тому бог дає.	Morgenstund har guld i mund.	дає	0	0
+Нащо вони це зробили?	Hvorfor gjorde de det?	нащо	0	0
+Якою мовою говорять у Бразилії?	Hvilket sprog taler man i Brasilien?	говорять	0	0
+Молодь в нашій країні не цікавиться політикою.	Ungdommen i vort land interesserer sig ikke for politik.	країні	0	0
+Що ти хочеш на обід?	Hvad vil du spise til frokost?	обід	0	0
+Твої гості чекають.	Dine gæster venter.	чекають	0	0
+Том забагато працює.	Tom arbejder for meget.	забагато	0	0
+Мій собака не кусається.	Min hund bider ikke.	собака	0	0
+Більшість японських храмів зроблено з деревини.	De fleste japanske templer er lavet af træ.	більшість	0	0
+Вона закохалася в нього з першого погляду.	Hun forelskede sig i ham ved første blik.	першого	0	0
+Я шкодую, що розповів правду.	Jeg fortryder at jeg fortalte sandheden.	розповів	0	0
+Пірати ніколи не п'ють воду.	Pirater drikker aldrig vand.	ють	0	0
+Більшість японських храмів зроблено з деревини.	De fleste japanske templer er lavet af træ.	зроблено	0	0
+Том тут не спить.	Tom sover ikke her.	спить	0	0
+Ти мене боїшся?	Er du bange for mig?	боїшся	0	0
+Де знаходиться посольство Туреччини?	Hvor ligger Tyrkiets ambassade?	знаходиться	0	0
+Мені знадобиться вічність, щоб все пояснити.	Jeg ville have brug for en evighed for at forklare alt.	знадобиться	0	0
+Моя рідна мова - іспанська.	Mit modersmål er spansk.	мова	0	0
+Це залежить від ситуації.	Det afhænger af situationen.	залежить	0	0
+Я не п'ю ані каву, ані чай.	Jeg drikker hverken kaffe eller te.	каву	0	0
+Том мене врятував.	Tom reddede mig.	врятував	0	0
+На початку Бог створив Небо та землю.	I begyndelsen skabte Gud himlen og jorden.	небо	0	0
+Ти п'єш забагато кави.	Du drikker for meget kaffe.	кави	0	0
+Я купила нову швейну машинку.	Jeg købte en ny symaskine.	купила	0	0
+Він не любить яйця.	Han kan ikke lide æg.	яйця	0	0
+Це серйозна ситуація.	Det er en alvorlig situation.	ситуація	0	0
+Том — корисний ідіот.	Tom er en nyttig idiot.	ідіот	0	0
+Боюся, ми маємо проблему.	Jeg er bange for at vi har et problem.	проблему	0	0
+Коли ти в останній раз приймала душ?	Hvornår tog du sidst et brusebad?	душ	0	0
+У нас є лише одна година.	Vi har kun en time.	година	0	0
+Він був схожий на лікаря.	Han lignede en læge.	лікаря	0	0
+Я часто слухаю сумну музику.	Jeg lytter tit til trist musik.	музику	0	0
+Я не можу відповісти на це запитання.	Jeg kan ikke besvare dette spørgsmål.	запитання	0	0
+Ти п'єш занадто багато кави.	Du drikker for meget kaffe.	єш	0	0
+Бедуїни живуть в пустелі.	Beduiner bor i ørkenen.	живуть	0	0
+Щонеділі я ходжу до церкви.	Hver søndag går jeg i kirke.	церкви	0	0
+Я люблю писати пісні французькою.	Jeg kan lide at skrive sange på fransk.	писати	0	0
+Молодь в нашій країні не цікавиться політикою.	Ungdommen i vort land interesserer sig ikke for politik.	нашій	0	0
+Що ти їв?	Hvad har du spist?	їв	0	0
+Гадаю, тобі потрібний адвокат.	Jeg tror du får brug for en advokat.	потрібний	0	0
+Не чекайте на мене.	Vent ikke på mig.	чекайте	0	0
+Жінки працюють.	Kvinderne arbejder.	працюють	0	0
+Коли починається фільм?	Hvornår begynder filmen?	починається	0	0
+Я запитав його, куди він іде.	Jeg spurgte ham om, hvor han skulle hen.	іде	0	0
+Вони обходилися зі мною, як з дитиною.	De behandlede mig som et barn.	дитиною	0	0
+Мій дядько грає на гітарі.	Min onkel spiller guitar.	грає	0	0
+Все пройшло добре.	Alt gik godt.	пройшло	0	0
+Іноземець швидко звик до японської їжі.	Udlændingen vænnede sig hurtigt til den japanske mad.	їжі	0	0
+Я читав, що президентом Бразилії є жінка. Її звати Ділма.	Jeg læste, at Brasiliens præsident er en kvinde. Hun hedder Dilma.	читав	0	0
+Я ніколи не сплю.	Jeg sover aldrig.	сплю	0	0
+Моя молодша сестра попросила мене навчити її кататися на лижах.	Min lillesøster bad mig om at lære hende at stå på ski.	попросила	0	0
+Ти колись писала Тому листа?	Har du nogensinde skrevet et brev til Tom?	листа	0	0
+Канада знаходиться на північ від США.	Canada ligger nord for USA.	північ	0	0
+Боги карають грішників.	Guderne straffer syndere.	боги	0	0
+Нуль, один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	Nul, en, to, tre, fire, fem, seks, syv, otte, ni, ti.	нуль	0	0
+Том зараз зайнятий.	Tom har travlt nu.	зайнятий	0	0
+Собаки бояться змій.	Hunde er bange for slanger.	собаки	0	0
+Кіт спав на столі.	Katten har sovet på bordet.	спав	0	0
+Скільки коштує це вино?	Hvor meget koster denne vin?	коштує	0	0
+Бедуїни живуть в пустелі.	Beduiner bor i ørkenen.	пустелі	0	0
+Я іноді пишу Тому.	Jeg skriver sommetider til Tom.	пишу	0	0
+Всі люблять морозиво.	Alle kan lide is.	люблять	0	0
+Оскільки ця книга про тварин, мене дратувало те, що тварини поводилися як люди.	Da bogen handlede om dyr, irriterede det mig, at dyrene opførte sig som mennesker.	тварин	0	0
+У мене небагато грошей.	Jeg har ikke mange penge.	небагато	0	0
+Я знаю багато способів кинути палити.	Jeg kender mange metoder til rygestop.	кинути	0	0
+Він упав з коня.	Han faldt af hesten.	коня	0	0
+Я був голодний.	Jeg var sulten.	голодний	0	0
+Він водій таксі.	Han er taxichauffør.	таксі	0	0
+Коти бояться собак.	Katte er bange for hunde.	бояться	0	0
+Наближається фантастична норвезька осінь.	Det fantastiske norske efterår nærmer sig.	наближається	0	0
+Скільки ти вже живеш в Японії?	Hvor længe har du boet i Japan?	живеш	0	0
+Мені тридцять чотири роки.	Jeg er 34 år.	тридцять	0	0
+Коти бояться собак.	Katte er bange for hunde.	собак	0	0
+Поспішай повільно.	Skynd dig langsomt.	повільно	0	0
+Я не вмію кататися на лижах.	Jeg kan ikke stå på ski.	вмію	0	0
+Я народився в Атлантиді.	Jeg blev født i Atlantis.	народився	0	0
+Як я можу вирішити цю проблему?	Hvordan kan jeg løse det problem?	вирішити	0	0
+Племінник — це син сестри або брата.	En nevø er en søstersøn eller en brorsøn.	сестри	0	0
+Я майже ніколи не дивлюся телевізор.	Jeg ser næsten aldrig fjernsyn.	телевізор	0	0
+Я не можу відповісти на це запитання.	Jeg kan ikke besvare dette spørgsmål.	відповісти	0	0
+Я кинув палити рік тому.	Jeg er holdt op med at ryge for et år siden.	кинув	0	0
+Ми перші.	Vi er de første.	перші	0	0
+Я бував в Австралії три рази.	Jeg har været i Australien tre gange.	рази	0	0
+Я майже ніколи не дивлюся телевізор.	Jeg ser næsten aldrig fjernsyn.	дивлюся	0	0
+Шоколад солодкий на смак.	Chokolade smager sødt.	смак	0	0
+Віяв сильний вітер.	Det blæste stærkt.	вітер	0	0
+Залишайся тут з нами.	Bliv her hos os.	залишайся	0	0
+Твої гості чекають.	Dine gæster venter.	гості	0	0
+Тобі немає чого боятися.	Du har intet af være bange for.	боятися	0	0
+Зелений - мій улюблений колір.	Grøn er min yndlingsfarve.	колір	0	0
+Том забув полити квіти.	Tom glemte at vande blomsterne.	квіти	0	0
+Він має собаку.	Han har en hund.	собаку	0	0
+Ти не втомився?	Er du ikke træt?	втомився	0	0
+Годинник відстає на десять хвилин.	Uret er ti minutter bagud.	годинник	0	0
+Корови дають нам молоко.	Køer giver os mælk.	молоко	0	0
+Він написав книжку про Китай.	Han har skrevet en bog om Kina.	книжку	0	0
+Це залежить від ситуації.	Det afhænger af situationen.	ситуації	0	0
+Том — колишній хлопець Мері.	Tom er Marys eks.	колишній	0	0
+У мене є пропозиція.	Jeg har et forslag.	пропозиція	0	0
+Я люблю писати пісні французькою.	Jeg kan lide at skrive sange på fransk.	пісні	0	0
+До Парижа недалеко.	Der er ikke langt til Paris.	недалеко	0	0
+З Новим роком!	Godt Nytår!	новим	0	0
+Восени мігруючі птахи летять на південь.	Om efteråret flyver trækfuglene sydover.	південь	0	0
+Ці близнюки схожі як дві краплі води.	De her tvillinger ligner hinanden som to dråber vand.	схожі	0	0
+Зараз пів на одинадцяту.	Nu er klokken halv elleve.	пів	0	0
+Я люблю танцювати.	Jeg kan godt lide at danse.	танцювати	0	0
+Я шкодую, що розповів правду.	Jeg fortryder at jeg fortalte sandheden.	шкодую	0	0
+Корови дають нам молоко.	Køer giver os mælk.	дають	0	0
+Дай мені спершу поїсти.	Lad mig spise først.	поїсти	0	0
+Ми родина.	Vi er en familie.	родина	0	0
+Африка є колискою людства.	Afrika er menneskehedens vugge.	людства	0	0
+Вона заздрить моєму успіху.	Hun misunder mig min succes.	успіху	0	0
+Про що Том розмовляв з Мері?	Hvad talte Tom med Mary om?	розмовляв	0	0
+Канада — велика країна.	Canada er et stort land.	країна	0	0
+Я прочитав усю статтю.	Jeg læste hele artiklen.	усю	0	0
+Ти спиш?	Sover du?	спиш	0	0
+Краще синиця в жмені, ніж журавель в небі.	Hellere en fugl i hånden end ti på taget.	небі	0	0
+Бог створив світ.	Gud skabte verden.	створив	0	0
+У Емілі блакитні очі.	Emily har blå øjne.	емілі	0	0
+Я вагітна.	Jeg er gravid.	вагітна	0	0
+Том боїться собаки Мері.	Tom er bange for Marys hund.	боїться	0	0
+Він зняв окуляри.	Han tog sine briller af.	окуляри	0	0
+Повісь дзеркало на стіну.	Hæng spejlet op på væggen.	стіну	0	0
+Риба живе в воді.	Fisk lever i vand.	воді	0	0
+Наближається Різдво.	Julen nærmer sig.	різдво	0	0
+Віяв сильний вітер.	Det blæste stærkt.	сильний	0	0
+Я не знав, що ти знайомий із Томом.	Jeg vidste ikke du kendte Tom.	знайомий	0	0
+Цей хліб дуже смачний.	Dette brød er meget lækkert.	хліб	0	0
+Оскільки ця книга про тварин, мене дратувало те, що тварини поводилися як люди.	Da bogen handlede om dyr, irriterede det mig, at dyrene opførte sig som mennesker.	тварини	0	0
+Ми граємо у футбол щосуботи.	Vi spiller fodbold hver lørdag.	футбол	0	0
+Повісь дзеркало на стіну.	Hæng spejlet op på væggen.	дзеркало	0	0
+Можеш почекати?	Kan du vente?	почекати	0	0
+Чи міст безпечний?	Er broen sikker?	міст	0	0
+Це довга історія.	Det er en lang historie.	довга	0	0
+Я сумніваюся, що він прийде.	Jeg tvivler på om han kommer.	сумніваюся	0	0
+Кіт спав на столі.	Katten har sovet på bordet.	столі	0	0
+Хіба ти завтра не прийдеш?	Kommer du ikke i morgen?	прийдеш	0	0
+Я запитав його, куди він іде.	Jeg spurgte ham om, hvor han skulle hen.	запитав	0	0
+То був кошмар.	Det var et mareridt.	кошмар	0	0
+Ну й що, що я ґей? Це що, злочин?	Så hvad om jeg er bøsse? Er det en forbrydelse?	злочин	0	0
+У Парижі йде сніг.	Det sner i Paris.	парижі	0	0
+Богохульство — це злочин без жертви.	Blasfemi er en forbrydelse uden offer.	жертви	0	0
+Я маю пропозицію.	Jeg har et forslag.	пропозицію	0	0
+Де я можу купити квиток?	Hvor kan jeg købe en billet?	квиток	0	0
+Він їсть яблуко.	Han spiser et æble.	їсть	0	0
+В класі залишалося мало учнів.	Der var få elever tilbage i klasseværelset.	класі	0	0
+Вона вміє грати на барабані.	Hun kan spille på tromme.	вміє	0	0
+Я подумаю про це.	Jeg vil overveje det.	подумаю	0	0
+У парку багато людей.	Der er mange mennesker i parken.	парку	0	0
+Ти колись писав Тому листа?	Har du nogensinde skrevet et brev til Tom?	писав	0	0
+Ти мені більше не подобаєшся.	Jeg holder ikke af dig mere.	подобаєшся	0	0
+Я обожнюю їжаків.	Jeg elsker pindsvin.	обожнюю	0	0
+Я шкодую, що розповіла правду.	Jeg fortryder at jeg fortalte sandheden.	розповіла	0	0
+Люсі — американка.	Lucy er amerikaner.	люсі	0	0
+У тебе багато ворогів.	Du har mange fjender.	ворогів	0	0
+Я надаю перевагу англійській.	Jeg foretrækker engelsk.	перевагу	0	0
+Том нічого не пив.	Tom drak ikke noget.	пив	0	0
+Де кава?	Hvor er kaffen?	кава	0	0
+Моя молодша сестра попросила мене навчити її кататися на лижах.	Min lillesøster bad mig om at lære hende at stå på ski.	навчити	0	0
+Я хочу, щоб вона кинула курити.	Jeg ønsker, at hun ville holde op med at ryge.	кинула	0	0
+Колумб відкрив Америку в 1492 році.	Columbus opdagede Amerika i 1492.	відкрив	0	0
+Яка тут середня температура?	Hvad er gennemsnitstemperaturen her?	температура	0	0
+Том — водій Мері.	Tom er Marys chauffør.	мері	0	0
+Як погода?	Hvordan er vejret?	погода	0	0
+Минулого року я прочитав двісті книг.	Sidste år læste jeg to hundrede bøger.	книг	0	0
+Дай мені тисячу поцілунків.	Giv mig 1000 kys!	тисячу	0	0
+У Тома немає шансів на перемогу.	Tom har ingen chance for at vinde.	перемогу	0	0
+Він водій таксі.	Han er taxachauffør.	водій	0	0
+Коли був зруйнований Другий Храм?	Hvornår blev Det Andet Tempel ødelagt?	храм	0	0
+Том спробував зачинити двері.	Tom forsøgte at lukke døren.	спробував	0	0
+Том перестав плакати.	Tom holdt op med at græde.	плакати	0	0
+Вона кохає його.	Hun elsker ham.	кохає	0	0
+Шоколад солодкий на смак.	Chokolade smager sødt.	шоколад	0	0
+Кіт спав на столі.	Katten har sovet på bordet.	кіт	0	0
+Я художник.	Jeg er maler.	художник	0	0
+Ти колись писала Тому листа?	Har du nogensinde skrevet et brev til Tom?	писала	0	0
+Зелений - мій улюблений колір.	Grøn er min yndlingsfarve.	зелений	0	0
+Що їдять лисиці?	Hvad spiser ræve?	їдять	0	0
+Куба знаходиться у Південній Америці.	Cuba ligger i Sydamerika.	америці	0	0
+Улюблена актриса Тома — Еллен Пейдж.	Toms yndlingsskuespillerinde er Ellen Page.	актриса	0	0
+Я не дуже добре граю в теніс.	Jeg er ikke så god til tennis.	граю	0	0
+Я з Англії.	Jeg er fra England.	англії	0	0
+Це не я отруїв Тома.	Det var ikke mig, der forgiftede Tom.	тома	0	0
+Вона живе в Норвегії.	Hun bor i Norge.	норвегії	0	0
+Ти добрий клієнт.	Du er en god kunde.	клієнт	0	0
+Я поліцейський.	Jeg er politibetjent.	поліцейський	0	0
+Це актор?	Er dette en skuespiller?	актор	0	0
+Колумб відкрив Америку в 1492 році.	Columbus opdagede Amerika i 1492.	америку	0	0
+Вони живуть у Лондоні.	De bor i London.	лондоні	0	0
+Том знає, що Мері бреше.	Tom ved at Mary lyver.	бреше	0	0
+У Казані є метро.	Der er en metro i Kasan.	метро	0	0
+Я прочитала всю статтю.	Jeg læste hele artiklen.	прочитала	0	0
+Я дуже стабільний геній.	Jeg er et meget stabilt geni.	геній	0	0
+Я чула кожне слово.	Jeg hørte hvert ord.	кожне	0	0
+У Тома немає шансів на перемогу.	Tom har ingen chance for at vinde.	шансів	0	0
+Можеш це повторити?	Kan du gentage det?	повторити	0	0
+Німецька, нідерландська, норвезька та англійська — германські мови.	Tysk, nederlandsk, norsk og engelsk er germanske sprog.	мови	0	0
+Том чує щебетання горобців.	Tom hører spurvenes kvidren.	чує	0	0
+Поспішай повільно.	Skynd dig langsomt.	поспішай	0	0
+Я їм рис.	Jeg spiser ris.	рис	0	0
+Як називається ця риба англійською?	Hvad kaldes denne fisk på engelsk?	риба	0	0
+Я читав, що президентом Бразилії є жінка. Її звати Ділма.	Jeg læste, at Brasiliens præsident er en kvinde. Hun hedder Dilma.	президентом	0	0
+У Парижі йде сніг.	I Paris sner det.	сніг	0	0
+У мене є яйце.	Jeg har et æg.	яйце	0	0
+Слава Україні!	Hæder til Ukraine!	україні	0	0
+Собаки вміють плавати.	Hunde kan svømme.	плавати	0	0
+Том не хотів продавати свою машину.	Tom ville ikke sælge sin bil.	продавати	0	0
+Він побачив на стіні метелика.	Han så en sommerfugl på væggen.	стіні	0	0
+Як називається ця риба англійською?	Hvad kaldes denne fisk på engelsk?	англійською	0	0
+Я з Росії.	Jeg er fra Rusland.	росії	0	0
+Я прочитав усю статтю.	Jeg læste hele artiklen.	прочитав	0	0
+Я водій автобуса.	Jeg er buschauffør.	автобуса	0	0
+Він написав книжку про Китай.	Han har skrevet en bog om Kina.	китай	0	0
+Я знаю багато способів кинути палити.	Jeg kender mange metoder til rygestop.	палити	0	0
+Том відпочиває.	Tom hviler sig.	відпочиває	0	0
+Мій дід має дуже добре здоров'я.	Min bedstefar har et meget godt helbred.	дід	0	0
+Я слухав французьку музику.	Jeg lyttede til fransk musik.	слухав	0	0
+Восени мігруючі птахи летять на південь.	Om efteråret flyver trækfuglene sydpå.	птахи	0	0
+Він був задоволений результатом.	Han var tilfreds med resultatet.	задоволений	0	0
+Ми читали.	Vi læste.	читали	0	0
+Мій батько - викладач англійської.	Min far er engelsklærer.	англійської	0	0
+Іноземець швидко звик до японської їжі.	Udlændingen vænnede sig hurtigt til den japanske mad.	звик	0	0
+Я не глухий.	Jeg er ikke døv.	глухий	0	0
+Вона спекла для мене пиріг.	Hun bagte en kage til mig.	пиріг	0	0
+Це серйозна ситуація.	Det er en alvorlig situation.	серйозна	0	0
+Ти розмовляєш українською чи російською?	Taler du ukrainsk eller russisk?	розмовляєш	0	0
+Ми знаємо, що вона народилася в Канаді.	Vi ved at hun blev født i Canada.	народилася	0	0
+Зелений - мій улюблений колір.	Grøn er min yndlingsfarve.	улюблений	0	0
+Минулого року я прочитав двісті книг.	Sidste år læste jeg to hundrede bøger.	двісті	0	0
+Якою мовою говорять у Бразилії?	Hvilket sprog taler man i Brasilien?	мовою	0	0
+Залишайтеся тут із нами.	Bliv her hos os.	залишайтеся	0	0
+Том переїхав до Німеччини.	Tom flyttede til Tyskland.	переїхав	0	0
+Вона розмовляє з нами.	Hun taler med os.	розмовляє	0	0
+Я прочитав усю статтю.	Jeg læste hele artiklen.	статтю	0	0
+Улюблена актриса Тома — Еллен Пейдж.	Toms yndlingsskuespillerinde er Ellen Page.	улюблена	0	0
+Я встав о п'ятій ранку.	Jeg stod op klokken fem om morgenen.	встав	0	0
+Ти не чудовисько.	Du er ikke et monster.	чудовисько	0	0
+Я рідко помиляюся.	Jeg laver sjældent fejl.	рідко	0	0
+Я тебе ніколи не розумів.	Jeg har aldrig forstået dig.	розумів	0	0
+Ми імпортуємо чай з Індії.	Vi importerer te fra Indien.	індії	0	0
+Франція межує з Іспанією.	Frankrig grænser op til Spanien.	франція	0	0
+Вона робить з мухи слона.	Hun gør en myg til en elefant.	слона	0	0
+Кров червона.	Blod er rødt.	червона	0	0
+Моїй дитині потрібний лікар.	Mit barn har brug for en læge.	дитині	0	0
+Я люблю такі моменти.	Jeg elsker sådanne øjeblikke.	моменти	0	0
+Собаки вміють плавати.	Hunde kan svømme.	вміють	0	0
+Де мій велосипед?	Hvor er min cykel?	велосипед	0	0
+США складаються з 50 штатів.	USA er sammensat af 50 stater.	штатів	0	0
+Cічень, лютий, березень, квітень, травень, червень, липень, серпень, вересень, жовтень, листопад та грудень - це дванадцять місяців року.	Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	дванадцять	0	0
+Всі люблять морозиво.	Alle kan lide is.	морозиво	0	0
+Я з Токіо.	Jeg er fra Tokyo.	токіо	0	0
+Реальність набагато гірша.	Virkeligheden er meget værre.	реальність	0	0
+Він продає машини.	Han sælger biler.	продає	0	0
+Том подарував Мері кішку.	Tom gav Mary en kat.	подарував	0	0
+Це яблуко.	Dette er et æble.	яблуко	0	0
+Де мій яблучний сік?	Hvor er min æblejuice?	сік	0	0
+Третина земної поверхні — пустеля.	En tredjedel af Jordens overflade er ørken.	поверхні	0	0
+Можеш мені це записати?	Kan du skrive det ned for mig?	записати	0	0
+Хочеш побачити мій шрам?	Vil du se mit ar?	шрам	0	0
+Вона робить з мухи слона.	Hun gør en myg til en elefant.	мухи	0	0
+В класі залишалося мало учнів.	Der var få elever tilbage i klasseværelset.	учнів	0	0
+Я голодний як вовк.	Jeg er sulten som en ulv.	вовк	0	0
+Ця книжка добре продається.	Den bog sælger godt.	книжка	0	0
+З Новим роком!	Godt Nytår!	роком	0	0
+Живи і дай жити іншим.	Lev og lad leve.	живи	0	0
+Ми граємо у футбол щосуботи.	Vi spiller fodbold hver lørdag.	граємо	0	0
+Маю дурне питання.	Jeg har et dumt spørgsmål.	дурне	0	0
+Том хоче поїхати до Японії.	Tom ønsker at tage til Japan.	японії	0	0
+Бавовняні рукавички захистять немовля від подряпування обличчя.	Bomuldsvanter vil forhindre babyen i at kradse sig i ansigtet.	рукавички	0	0
+Жінки грають в теніс.	Kvinderne spiller tennis.	грають	0	0
+Вона показала мені свою нову машину.	Hun viste mig sin nye bil.	показала	0	0
+Том написав книжку про птахів.	Tom har skrevet en bog om fugle.	птахів	0	0
+Ти любиш грати у гольф?	Kan du lide at spille golf?	гольф	0	0
+Ведмеді дуже небезпечні.	Bjørne er meget farlige.	небезпечні	0	0
+Це фільм для дорослих.	Det er en voksenfilm.	дорослих	0	0
+Я не знала, що ти знайома з Томом.	Jeg vidste ikke du kendte Tom.	знайома	0	0
+Де кухня?	Hvor er køkkenet?	кухня	0	0
+Ти це спеціально зробила!	Du gjorde det med vilje!	спеціально	0	0
+Мій дохід вдвічі більший за твій.	Min indtægt er dobbelt så stor som din.	більший	0	0
+Кажуть, що він був дуже багатий.	Man siger at han var meget rig.	багатий	0	0
+Завжди будь готовим до найгіршого.	Vær altid forberedt på det værste.	готовим	0	0
+Мій улюблений предмет — математика.	Mit yndlingsfag er matematik.	предмет	0	0
+Наркоман помер від передозування.	Narkomanen døde af en overdosis.	наркоман	0	0
+Я маю суху шкіру.	Jeg har tør hud.	шкіру	0	0
+На стіні висить годинник.	Der hænger et ur på væggen.	висить	0	0
+Я іноді ходжу в кіно.	Sommetider går jeg i biografen.	ходжу	0	0
+Бог — це слон.	Gud er en elefant.	слон	0	0
+Ця книжка добре продається.	Den bog sælger godt.	продається	0	0
+Том зняв футболку.	Tom tog sin T-shirt af.	зняв	0	0
+Я втомилася грати.	Jeg er træt af at spille.	втомилася	0	0
+Всім очевидно, що він закоханий.	Det er åbenlyst for enhver at han er forelsket.	закоханий	0	0
+Я передумав.	Jeg ombestemte mig.	передумав	0	0
+Порівняй копію з оригіналом.	Sammenlign kopien med originalen.	копію	0	0
+Мені знадобиться вічність, щоб все пояснити.	Jeg ville have brug for en evighed for at forklare alt.	вічність	0	0
+Я бував в Австралії три рази.	Jeg har været i Australien tre gange.	бував	0	0
+Восени мігруючі птахи летять на південь.	Om efteråret flyver trækfuglene sydover.	летять	0	0
+Ти це навмисно зробила!	Du gjorde det med vilje!	навмисно	0	0
+Мій дохід вдвічі більший за твій.	Min indtægt er dobbelt så stor som din.	вдвічі	0	0
+Все пройшло гладко.	Alt gik glat.	гладко	0	0
+Він упав з коня.	Han faldt af hesten.	упав	0	0
+Ці близнюки схожі як дві краплі води.	De her tvillinger ligner hinanden som to dråber vand.	краплі	0	0
+Том перестав плакати.	Tom holdt op med at græde.	перестав	0	0
+Я рідко помиляюся.	Jeg laver sjældent fejl.	помиляюся	0	0
+Чи міст безпечний?	Er broen sikker?	безпечний	0	0
+Де посольство Туреччини?	Hvor ligger Tyrkiets ambassade?	посольство	0	0
+Улюблена актриса Тома — Еллен Пейдж.	Toms yndlingsskuespillerinde er Ellen Page.	пейдж	0	0
+Він продає автомобілі.	Han sælger biler.	автомобілі	0	0
+Я знала, що ти була в Австралії.	Jeg vidste at du havde været i Australien.	австралії	0	0
+Цей птах називається чайка.	Denne fugl kaldes en måge.	птах	0	0
+Я зробив це по-своєму.	Jeg har gjort det på min måde.	по-своєму	0	0
+Том також був на похоронах.	Tom var også med til begravelsen.	похоронах	0	0
+Том любить подорожувати.	Tom kan godt lide at rejse.	подорожувати	0	0
+Я передумала.	Jeg ombestemte mig.	передумала	0	0
+Це нічого не вирішить.	Det vil ikke løse noget.	вирішить	0	0
+Він мав довге волосся.	Han havde et langt hår.	довге	0	0
+Чи є життя на Марсі?	Er der liv på Mars?	марсі	0	0
+Привіт, Томе! Як справи?	Hej Tom! Hvordan går det?	томе	0	0
+Спагеті не ростуть на деревах.	Spaghetti vokser ikke på træer.	ростуть	0	0
+Том зняв футболку.	Tom tog sin T-shirt af.	футболку	0	0
+Вона закохалася в нього з першого погляду.	Hun forelskede sig i ham ved første blik.	погляду	0	0
+Я встала о п'ятій ранку.	Jeg stod op klokken fem om morgenen.	встала	0	0
+Мені здається, вони брешуть.	Jeg tror at de lyver.	брешуть	0	0
+Я говорю українською.	Jeg taler ukrainsk.	українською	0	0
+Він має блакитні очі.	Han har blå øjne.	блакитні	0	0
+Молодь в нашій країні не цікавиться політикою.	Ungdommen i vort land interesserer sig ikke for politik.	молодь	0	0
+Я хочу, щоб вона кинула курити.	Jeg ønsker, at hun ville holde op med at ryge.	курити	0	0
+Не всі птахи літають.	Ikke alle fugle flyver.	літають	0	0
+Я боюся висоти.	Jeg er bange for højder.	висоти	0	0
+Куба знаходиться у Південній Америці.	Cuba ligger i Sydamerika.	куба	0	0
+Прийде час, коли ти про це пошкодуєш.	Der vil komme en tid hvor du vil fortryde det.	пошкодуєш	0	0
+Я купив нову швейну машинку.	Jeg købte en ny symaskine.	машинку	0	0
+Шоколад солодкий на смак.	Chokolade smager sødt.	солодкий	0	0
+Бавовняні рукавички захистять немовля від подряпування обличчя.	Bomuldsvanter vil forhindre babyen i at kradse sig i ansigtet.	немовля	0	0
+Том — психопат.	Tom er en psykopat.	психопат	0	0
+До Парижа недалеко.	Der er ikke langt til Paris.	парижа	0	0
+Моя рідна мова - іспанська.	Mit modersmål er spansk.	рідна	0	0
+Корови дають нам молоко.	Køer giver os mælk.	корови	0	0
+У мене втричі більше книжок, ніж у нього.	Jeg har tre gange så mange bøger som han har.	книжок	0	0
+Ми маємо шість яєць.	Vi har seks æg.	яєць	0	0
+Ласкаво просимо в джунглі.	Velkommen til junglen.	джунглі	0	0
+Дві склянки апельсинового соку, будь ласка.	To glas appelsinsaft, tak.	соку	0	0
+Я люблю писати пісні французькою.	Jeg kan lide at skrive sange på fransk.	французькою	0	0
+Французька не така вже й складна.	Fransk er ikke så svært.	складна	0	0
+Я слухала французьку музику.	Jeg lyttede til fransk musik.	слухала	0	0
+Тут узимку буває багато снігу?	Sner der meget om vinteren her?	снігу	0	0
+Він був задоволений результатом.	Han var tilfreds med resultatet.	результатом	0	0
+Ніхто не розв'язав завдання.	Der er ingen der har løst problemet.	язав	0	0
+Ти колись був за кордоном?	Har du nogensinde været i udlandet?	кордоном	0	0
+Собаки бояться змій.	Hunde er bange for slanger.	змій	0	0
+Молодь в нашій країні не цікавиться політикою.	Ungdommen i vort land interesserer sig ikke for politik.	політикою	0	0
+Троянда - гарна квітка.	En rose er en smuk blomst.	квітка	0	0
+Він часто їздить закордон.	Han rejser ofte til udlandet.	їздить	0	0
+Мій улюблений предмет — математика.	Mit yndlingsfag er matematik.	математика	0	0
+Ти маєш презерватив?	Har du et kondom?	презерватив	0	0
+Я встав о п'ятій ранку.	Jeg stod op klokken fem om morgenen.	ятій	0	0
+Коли ти в останній раз приймав душ?	Hvornår tog du sidst et brusebad?	приймав	0	0
+Чому ти мовчиш?	Hvorfor er du tavs?	мовчиш	0	0
+У нього коротке волосся.	Han har kort hår.	коротке	0	0
+Мені хтось телефонував?	Har nogen ringet til mig?	телефонував	0	0
+Іспанія - демократична держава з 1975 року.	Spanien har været et demokrati siden 1975.	держава	0	0
+Наближається фантастична норвезька осінь.	Det fantastiske norske efterår nærmer sig.	осінь	0	0
+Я не палю і не п'ю.	Jeg hverken ryger eller drikker.	палю	0	0
+Третина земної поверхні — пустеля.	En tredjedel af Jordens overflade er ørken.	пустеля	0	0
+Молодь в нашій країні не цікавиться політикою.	Ungdommen i vort land interesserer sig ikke for politik.	цікавиться	0	0
+Я запитала його, куди він іде.	Jeg spurgte ham om, hvor han skulle hen.	запитала	0	0
+Я вистрілив собі в ногу.	Jeg skød mig selv i foden.	вистрілив	0	0
+Я пробачу Тома.	Jeg vil tilgive Tom.	пробачу	0	0
+Ти схожий на Гаррі Поттера.	Du ligner Harry Potter.	поттера	0	0
+Він американець?	Er han amerikaner?	американець	0	0
+Ці ножиці добре ріжуть.	Denne saks klipper godt.	ножиці	0	0
+Сьогодні субота.	Det er lørdag.	субота	0	0
+Канада знаходиться на північ від США.	Canada ligger nord for USA.	канада	0	0
+Ви повинні зареєструвати свою домашню тварину.	Du skal have dit kæledyr registreret.	тварину	0	0
+Том був голий.	Tom var nøgen.	голий	0	0
+Вона закохалася в нього з першого погляду.	Hun forelskede sig i ham ved første blik.	закохалася	0	0
+Він розмовляє зі мною німецькою.	Han taler tysk til mig.	німецькою	0	0
+Він робітник.	Han er en arbejder.	робітник	0	0
+Іран не Ірак.	Iran er ikke Irak.	іран	0	0
+Я китаєць.	Jeg er kineser.	китаєць	0	0
+Куба знаходиться у Південній Америці.	Cuba ligger i Sydamerika.	південній	0	0
+Скільки в холодильнику яєць?	Hvor mange æg er der i køleskabet?	холодильнику	0	0
+Німецька, нідерландська, норвезька та англійська — германські мови.	Tysk, nederlandsk, norsk og engelsk er germanske sprog.	англійська	0	0
+Я переписав це речення.	Jeg har omskrevet denne sætning.	речення	0	0
+І це моя сторінка.	Og det her er min side.	сторінка	0	0
+Моя молодша сестра попросила мене навчити її кататися на лижах.	Min lillesøster bad mig om at lære hende at stå på ski.	молодша	0	0
+Пірати ніколи не п'ють воду.	Pirater drikker aldrig vand.	пірати	0	0
+Вона мешкає в Норвегії.	Hun bor i Norge.	мешкає	0	0
+Коти бояться собак.	Katte er bange for hunde.	коти	0	0
+Великі хлопці не плачуть.	Store drenge græder ikke.	плачуть	0	0
+Вона купила дюжину яєць.	Hun har købt et dusin æg.	дюжину	0	0
+Цей ніж дуже гострий.	Denne kniv er meget skarp.	гострий	0	0
+Спагеті не ростуть на деревах.	Spaghetti vokser ikke på træer.	деревах	0	0
+Зараз пів на десяту.	Klokken er halv ti.	десяту	0	0
+Африка є колискою людства.	Afrika er menneskehedens vugge.	африка	0	0
+Том переїхав до Німеччини.	Tom flyttede til Tyskland.	німеччини	0	0
+Гидке каченя стало прекрасним лебедем.	Den grimme ælling blev til en smuk svane.	прекрасним	0	0
+Елвіс Преслі живий!	Elvis Presley lever!	елвіс	0	0
+Дві склянки апельсинового соку, будь ласка.	To glas appelsinsaft, tak.	склянки	0	0
+Німецька, нідерландська, норвезька та англійська — германські мови.	Tysk, nederlandsk, norsk og engelsk er germanske sprog.	німецька	0	0
+Що таке НЛО?	Hvad er en ufo?	нло	0	0
+У мене грип.	Jeg har influenza.	грип	0	0
+Сьогодні п'ятниця?	Er det fredag i dag?	ятниця	0	0
+Я не знав, що ти знайомий із Томом.	Jeg vidste ikke du kendte Tom.	томом	0	0
+Я цього ніколи не розуміла.	Jeg har aldrig forstået det her.	розуміла	0	0
+Собака виляв хвостом.	Hunden logrede med halen.	хвостом	0	0
+Якщо воно виглядає як качка, плаває як качка і крякає як качка, то це напевно і є качка.	Hvis det ligner en and, svømmer som en and og rapper som en and, så er det sandsynligvis en and.	качка	0	0
+У Тома сині очі.	Toms øjne er blå.	сині	0	0
+Я знаю багато способів кинути палити.	Jeg kender mange metoder til at holde op med at ryge.	способів	0	0
+Ви на правильному шляху.	I er på rette vej.	правильному	0	0
+У нас немає Папи Римського!	Vi har ingen pave!	папи	0	0
+Cічень, лютий, березень, квітень, травень, червень, липень, серпень, вересень, жовтень, листопад та грудень - це дванадцять місяців року.	Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	лютий	0	0
+Том мовчки кивнув.	Tom nikkede tavst.	мовчки	0	0
+Мені потрібен інсулін.	Jeg har brug for insulin.	інсулін	0	0
+Ну то й що, що я голубий? Це що, злочин?	Så hvad om jeg er bøsse? Er det en forbrydelse?	голубий	0	0
+Це не я отруїв Тома.	Det var ikke mig, der forgiftede Tom.	отруїв	0	0
+Cічень, лютий, березень, квітень, травень, червень, липень, серпень, вересень, жовтень, листопад та грудень - це дванадцять місяців року.	Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	грудень	0	0
+Гроші не завжди приносять щастя.	Penge bringer ikke altid lykke.	приносять	0	0
+Я надаю перевагу чаю перед кавою.	Jeg foretrækker te fremfor kaffe.	кавою	0	0
+Том спробував зачинити двері.	Tom forsøgte at lukke døren.	зачинити	0	0
+Якою мовою говорять у Бразилії?	Hvilket sprog taler man i Brasilien?	бразилії	0	0
+Мадрид - столиця Іспанії.	Madrid er Spaniens hovedstad.	іспанії	0	0
+Ці близнюки схожі як дві краплі води.	De her tvillinger ligner hinanden som to dråber vand.	близнюки	0	0
+Том — журналіст.	Tom er journalist.	журналіст	0	0
+Я надаю перевагу чаю перед кавою.	Jeg foretrækker te fremfor kaffe.	надаю	0	0
+Реальність набагато гірша.	Virkeligheden er meget værre.	гірша	0	0
+Яка тут середня температура?	Hvad er gennemsnitstemperaturen her?	середня	0	0
+Це жеребець чи кобила?	Er den her en hingst eller en hoppe?	жеребець	0	0
+Я все ще живу у Бостоні.	Jeg bor stadig i Boston.	бостоні	0	0
+В класі залишалося мало учнів.	Der var få elever tilbage i klasseværelset.	залишалося	0	0
+Ти розмовляєш українською чи російською?	Taler du ukrainsk eller russisk?	російською	0	0
+Я дуже стабільний геній.	Jeg er et meget stabilt geni.	стабільний	0	0
+Я вивчаю дві іноземні мови.	Jeg lærer to fremmedsprog.	вивчаю	0	0
+Вона вивчає голандську.	Hun er ved at lære hollandsk.	вивчає	0	0
+Том — листоноша.	Tom er postbud.	листоноша	0	0
+Том подарував Мері кішку.	Tom gav Mary en kat.	кішку	0	0
+Де знаходиться найближчий торговий центр?	Hvor er det nærmeste indkøbscenter?	торговий	0	0
+Де знаходиться найближчий торговий центр?	Hvor er det nærmeste indkøbscenter?	найближчий	0	0
+Дай мені тисячу поцілунків.	Giv mig 1000 kys!	поцілунків	0	0
+Наркоман помер від передозування.	Narkomanen døde af en overdosis.	передозування	0	0
+Племінник — це син сестри або брата.	En nevø er en søstersøn eller en brorsøn.	племінник	0	0
+Чому ти танцюєш?	Hvorfor danser du?	танцюєш	0	0
+Тома звинуватили у відмиванні грошей.	Tom blev anklaget for hvidvaskning af penge.	звинуватили	0	0
+Боги карають грішників.	Guderne straffer syndere.	карають	0	0
+Треба взяти бика за роги.	Godt begyndt er halvt fuldendt.	роги	0	0
+Восени мігруючі птахи летять на південь.	Om efteråret flyver trækfuglene sydpå.	восени	0	0
+Чи їдять павуки мух?	Spiser edderkopper fluer?	павуки	0	0
+Цей птах називається чайка.	Denne fugl kaldes en måge.	чайка	0	0
+Том — корисний ідіот.	Tom er en nyttig idiot.	корисний	0	0
+Повісь дзеркало на стіну.	Hæng spejlet op på væggen.	повісь	0	0
+США складаються з 50 штатів.	USA er sammensat af 50 stater.	складаються	0	0
+Оскільки ця книга про тварин, мене дратувало те, що тварини поводилися як люди.	Da bogen handlede om dyr, irriterede det mig, at dyrene opførte sig som mennesker.	поводилися	0	0
+Я народилась в Атлантиді.	Jeg blev født i Atlantis.	народилась	0	0
+Том — шофер Мері.	Tom er Marys chauffør.	шофер	0	0
+Це старий фотоапарат.	Det er et gammelt fotoapparat.	фотоапарат	0	0
+Майже у всіх японців темне волосся.	Næsten alle japanere har mørkt hår.	темне	0	0
+Я боюся тарганів.	Jeg er bange for kakerlakker.	тарганів	0	0
+Мій дядько грає на гітарі.	Min onkel spiller guitar.	гітарі	0	0
+Дельфінарій — це акваріум для дельфінів.	Et delfinarium er et akvarium for delfiner.	акваріум	0	0
+Якщо воно виглядає як качка, плаває як качка і крякає як качка, то це напевно і є качка.	Hvis det ligner en and, svømmer som en and og rapper som en and, så er det sandsynligvis en and.	плаває	0	0
+Хто рано встає, тому бог дає.	Morgenstund har guld i mund.	встає	0	0
+В Австрії є коали.	Der findes koalaer i Østrig.	австрії	0	0
+Я народився зимою.	Jeg blev født om vinteren.	зимою	0	0
+Cічень, лютий, березень, квітень, травень, червень, липень, серпень, вересень, жовтень, листопад та грудень - це дванадцять місяців року.	Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	травень	0	0
+Французька не така вже й складна.	Fransk er ikke så svært.	французька	0	0
+Де мій яблучний сік?	Hvor er min æblejuice?	яблучний	0	0
+Я не глуха.	Jeg er ikke døv.	глуха	0	0
+Ви повинні зареєструвати свою домашню тварину.	Du skal have dit kæledyr registreret.	домашню	0	0
+Моя рідна мова - іспанська.	Mit modersmål er spansk.	іспанська	0	0
+Що таке демократія?	Hvad er demokrati?	демократія	0	0
+Наближається фантастична норвезька осінь.	Det fantastiske norske efterår nærmer sig.	фантастична	0	0
+Іноземець швидко звик до японської їжі.	Udlændingen vænnede sig hurtigt til den japanske mad.	іноземець	0	0
+Фільм ішов 2 години.	Filmen varede to timer.	ішов	0	0
+У нас немає Папи Римського!	Vi har ingen pave!	римського	0	0
+Мій дохід вдвічі більший за твій.	Min indtægt er dobbelt så stor som din.	дохід	0	0
+Цей хліб дуже смачний.	Dette brød er meget lækkert.	смачний	0	0
+Мій батько - викладач англійської.	Min far er engelsklærer.	викладач	0	0
+Щонеділі я ходжу до церкви.	Hver søndag går jeg i kirke.	щонеділі	0	0
+Об’єднаний народ ніколи не буде переможений.	Det forenede folk vil aldrig blive besejret.	переможений	0	0
+Ми знаємо, що вона народилася в Канаді.	Vi ved at hun blev født i Canada.	канаді	0	0
+Все, що може бути неправильно зрозумілим, буде неправильно зрозумілим.	Alt, som kan misforstås, vil blive misforstået.	зрозумілим	0	0
+Палити шкідливо для здоров'я.	At ryge er skadeligt for helbredet.	шкідливо	0	0
+Я католик.	Jeg er katolik.	католик	0	0
+Спагеті не ростуть на деревах.	Spaghetti vokser ikke på træer.	спагеті	0	0
+В Алжирі є католіки?	Er der katolikker i Algeriet?	алжирі	0	0
+Я думаю, вони кажуть неправду.	Jeg tror de lyver.	неправду	0	0
+Треба взяти бика за роги.	Godt begyndt er halvt fuldendt.	бика	0	0
+Cічень, лютий, березень, квітень, травень, червень, липень, серпень, вересень, жовтень, листопад та грудень - це дванадцять місяців року.	Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	листопад	0	0
+Де принтер?	Hvor er printeren?	принтер	0	0
+Я не говорю китайською.	Jeg taler ikke kinesisk.	китайською	0	0
+Ведмеді дуже небезпечні.	Bjørne er meget farlige.	ведмеді	0	0
+Я наведу тобі кілька прикладів.	Jeg vil give dig nogle eksempler.	наведу	0	0
+Коли ти в останній раз приймала душ?	Hvornår tog du sidst et brusebad?	приймала	0	0
+Cічень, лютий, березень, квітень, травень, червень, липень, серпень, вересень, жовтень, листопад та грудень - це дванадцять місяців року.	Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	липень	0	0
+Порахуй до тридцяти.	Tæl til tredive.	тридцяти	0	0
+Я не дуже добре граю в теніс.	Jeg er ikke så god til tennis.	теніс	0	0
+Белград — це столиця Сербії.	Beograd er Serbiens hovedstad.	столиця	0	0
+Бавовняні рукавички захистять немовля від подряпування обличчя.	Bomuldsvanter vil forhindre babyen i at kradse sig i ansigtet.	захистять	0	0
+Він ніколи не чув про Алжир.	Han har aldrig hørt om Algeriet.	алжир	0	0
+Богохульство — це злочин без жертви.	Blasfemi er en forbrydelse uden offer.	богохульство	0	0
+Том був сусідом Мері.	Tom var Marys nabo.	сусідом	0	0
+Cічень, лютий, березень, квітень, травень, червень, липень, серпень, вересень, жовтень, листопад та грудень - це дванадцять місяців року.	Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	вересень	0	0
+Тома звинуватили у відмиванні грошей.	Tom blev anklaget for hvidvaskning af penge.	відмиванні	0	0
+Cічень, лютий, березень, квітень, травень, червень, липень, серпень, вересень, жовтень, листопад та грудень - це дванадцять місяців року.	Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	червень	0	0
+Він говорить італійською.	Han taler italiensk.	італійською	0	0
+У мене карі очі.	Jeg har brune øjne.	карі	0	0
+Третина земної поверхні — пустеля.	En tredjedel af Jordens overflade er ørken.	третина	0	0
+Майже у всіх японців темне волосся.	Næsten alle japanere har mørkt hår.	японців	0	0
+Вона спекла для мене пиріг.	Hun bagte en kage til mig.	спекла	0	0
+Я був замалий.	Jeg var for lille.	замалий	0	0
+Порахуй до тридцяти.	Tæl til tredive.	порахуй	0	0
+З Міжнародним жіночим днем!	Glædelig international kvindedag!	жіночим	0	0
+Том — релігійний фанатик.	Tom er en religiøs fanatiker.	фанатик	0	0
+Том агресивний.	Tom er aggressiv.	агресивний	0	0
+Столиця Фінляндії називається Гельсінкі.	Finlands hovedstad hedder Helsingfors.	фінляндії	0	0
+Він багато знає про метеликів.	Han ved meget om sommerfugle.	метеликів	0	0
+Іспанія - демократична держава з 1975 року.	Spanien har været et demokrati siden 1975.	іспанія	0	0
+Я переписав це речення.	Jeg har omskrevet denne sætning.	переписав	0	0
+Завжди будь готовою до найгіршого.	Vær altid forberedt på det værste.	готовою	0	0
+Cічень, лютий, березень, квітень, травень, червень, липень, серпень, вересень, жовтень, листопад та грудень - це дванадцять місяців року.	Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	жовтень	0	0
+Зроби щось корисне.	Gør dig nyttig.	корисне	0	0
+Люсі — американка.	Lucy er amerikaner.	американка	0	0
+Іран — це не Ірак.	Iran er ikke Irak.	ірак	0	0
+Не лякай мене так!	Skræm mig ikke sådan!	лякай	0	0
+Cічень, лютий, березень, квітень, травень, червень, липень, серпень, вересень, жовтень, листопад та грудень - це дванадцять місяців року.	Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	серпень	0	0
+У мене втричі більше книжок, ніж у нього.	Jeg har tre gange så mange bøger som han har.	втричі	0	0
+Годинник відстає на десять хвилин.	Uret er ti minutter bagud.	відстає	0	0
+Чи їдять павуки мух?	Spiser edderkopper fluer?	мух	0	0
+Белград — це столиця Сербії.	Beograd er Serbiens hovedstad.	сербії	0	0
+У нього українське громадянство.	Han har ukrainsk statsborgerskab.	громадянство	0	0
+Том — релігійний фанатик.	Tom er en religiøs fanatiker.	релігійний	0	0
+Я люблю весну.	Jeg holder af foråret.	весну	0	0
+Столиця України - Київ.	Ukraines hovedstad er Kyiv.	україни	0	0
+Я слухала французьку музику.	Jeg lyttede til fransk musik.	французьку	0	0
+Я боюся ведмедів.	Jeg er bange for bjørne.	ведмедів	0	0
+Улюблена актриса Тома — Еллен Пейдж.	Toms yndlingsskuespillerinde er Ellen Page.	еллен	0	0
+Я мешкаю в Каїрі.	Jeg bor i Cairo.	мешкаю	0	0
+Вони обшукали будинок.	De gennemsøgte huset.	обшукали	0	0
+Ти колись палив?	Har du nogensinde røget?	палив	0	0
+З Міжнародним жіночим днем!	Glædelig international kvindedag!	міжнародним	0	0

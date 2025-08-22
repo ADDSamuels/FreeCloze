@@ -1,0 +1,1014 @@
+Mari szereti a pénzt.	Мері обожнює гроші.	a	0	0
+Nem dolgozom vasárnap.	Я не працюю в неділю.	nem	0	0
+Az új koronavírus erősen fertőző.	Новий коронавірус дуже заразний.	az	0	0
+Vegyél fel egy kabátot, hogy nehogy megfázz.	Вдягни пальто, щоб не застудитися.	hogy	0	0
+Tom és Frank jó barátok.	Том та Франк - добрі друзі.	és	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	egy	0	0
+Nekem van két macskám.	У мене є два кота.	van	0	0
+És látta Isten, hogy ez jó.	І побачив Бог, що це добре.	ez	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	is	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	de	0	0
+Meg tudnád ismételni?	Можеш це повторити?	meg	0	0
+Már csak egy óránk van.	У нас є лише одна година.	csak	0	0
+Nem szívesen megyek ki, ha esik.	Я не люблю виходити на вулицю коли йде дощ.	ha	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	mi	0	0
+Ez alkalommal én fizetek.	Цього разу моя черга платити.	én	0	0
+Azt hiszem, hogy holnap esni fog a hó.	Я думаю, завтра піде сніг.	azt	0	0
+A barátom tegnap nem volt otthon.	Мій друг не був удома вчора.	volt	0	0
+Igen.	Так.	igen	0	0
+Hol vagy?	Ти де?	vagy	0	0
+Nem kell fogorvoshoz menned.	Ти не повинен йти до зубного.	kell	0	0
+Nem mondom el senkinek se.	Я нікому не скажу.	el	0	0
+Itt várj!	Почекай тут.	itt	0	0
+Már hétmilliárdan vagyunk.	Нас вже сім мільярдів.	már	0	0
+Még nem vagyok kész.	Я ще не готова.	még	0	0
+Ne dobd el ezt az újságot! Én még nem olvastam.	Не викидай цей журнал. Я його ще не прочитав.	ne	0	0
+Nem vagy te szörnyeteg.	Ти не чудовисько.	te	0	0
+Ki a legérdekesebb barátod?	Хто твій найцікавіший друг?	ki	0	0
+Mit tehetek értetek?	Що я можу для вас зробити?	mit	0	0
+Ne mondd ezt!	Не говори так.	ezt	0	0
+Még nem vagyok kész.	Я ще не готова.	vagyok	0	0
+Éppen most ment el.	Він щойно пішов.	most	0	0
+Jó melegnek lenni.	Добре бути геєм.	jó	0	0
+Tudom, hogy tudod.	Я знаю, що ти знаєш.	tudom	0	0
+Úgy tűnik Tom a holnapi leckéjére készül.	Здається, Том готується до завтрашніх уроків.	úgy	0	0
+Mondd meg nekem, hogy miért sír.	Скажи мені, чому вона плаче?	miért	0	0
+Akkor ezt mondta Isten: Legyen világosság! És lett világosság.	І сказав Бог: Хай станеться світло! І сталося світло.	akkor	0	0
+Több a felhő ma, mint tegnap.	Нині більше хмар ніж вчора.	mint	0	0
+Ő beszél magyarul, és a nő meg németül.	Він говорить угорською, а вона — німецькою.	ő	0	0
+Jól áll neked a zöld.	Зелене тобі пасує.	jól	0	0
+A tó nagyon mély.	Озеро дуже глибоке.	nagyon	0	0
+Nincs időm, hogy könyveket olvassak.	Я не маю часу на читання книг.	nincs	0	0
+Minden növénynek szüksége van vízre és fényre.	Всім рослинам потрібна вода і світло.	minden	0	0
+Senki sem ért meg engem.	Ніхто мене не розуміє.	sem	0	0
+Ez a legjobb étterem, amit ismerek.	Це найкращий ресторан, який я знаю.	amit	0	0
+Egy nap nélküled olyan, mint nyár napsütés nélkül.	День без тебе — як літо без сонця.	olyan	0	0
+Ne beszélj így vele!	Не говори з ним так.	így	0	0
+Engedd be őt.	Дай їм зайти.	be	0	0
+Mondd meg nekem, hogy miért sír.	Скажи мені, чому вона плаче?	nekem	0	0
+Le szabad önt fényképezni?	Можна вас сфотографувати?	le	0	0
+Egy kérdést tettem fel neki.	Я поставив йому питання.	fel	0	0
+Tudom, hogy tudod.	Я знаю, що ти знаєш.	tudod	0	0
+A templom ott van.	Церква там.	ott	0	0
+Vigye magával ezt az összecsukható esernyőt. Lehet, hogy jól fog jönni.	Візьми цю складану парасольку з собою. Вона може стати в нагоді.	lehet	0	0
+Mindig.	Завжди.	mindig	0	0
+Ha megnézi, mi van a táskában, talán meggondolja magát.	Якщо ви побачите, що в сумці, ви, можливо, передумаєте.	talán	0	0
+Nem, köszönöm.	Ні, дякую.	köszönöm	0	0
+Nincs semmi az asztalon.	На столі нічого немає.	semmi	0	0
+Tudom, hol vagy!	Я знаю, де ти.	hol	0	0
+Egy kérdést tettem fel neki.	Я поставив йому питання.	neki	0	0
+Neked köszönhetően, elment az étvágyam.	Через тебе я втратив апетит.	neked	0	0
+Azt hiszem, hogy holnap esni fog a hó.	Думаю, завтра буде сніг.	hiszem	0	0
+Azt hiszem, valamit eltitkol előlünk.	Я думаю він щось приховує від нас.	valamit	0	0
+Azt hiszem, hogy holnap esni fog a hó.	Я думаю, завтра піде сніг.	fog	0	0
+A világ anime nélkül olyan lenne, akárcsak a mosógép internet-elérés nélkül.	Світ без аніме був би подібний до пральної машинки без доступу в інтернет.	lenne	0	0
+- Igaz? - Úgy van, igaz.	"Правда?" "Так, правда."	igaz	0	0
+Ne beszélj így vele!	Не говори з ним так.	vele	0	0
+Milyen idős a legnagyobb fiad?	Скільки років твоєму найстаршому сину?	milyen	0	0
+Ide hallgass!	Слухай!	ide	0	0
+Nem ismerem őket.	Я їх не знаю.	őket	0	0
+Még sosem láttam ekkora nagy kutyát.	Я ще ніколи не бачив такого великого собаку.	nagy	0	0
+Tom tudja.	Фома знає.	tudja	0	0
+Több a felhő ma, mint tegnap.	Нині більше хмар ніж вчора.	ma	0	0
+Egy egész szám természetes szám, ha az nagyobb vagy egyenlő nullával.	Ціле число називається натуральним тоді і тільки тоді, коли воно більше або дорівнює 0.	egész	0	0
+Mikor ketten csinálják ugyanazt, az már nem ugyanaz.	Коли двоє роблять те саме, це не те саме.	mikor	0	0
+Jó barátok vagyunk.	Ми добрі друзі.	vagyunk	0	0
+Hol vannak a kulcsok?	Де ключі?	vannak	0	0
+Különös számodra, hogy én is ember vagyok?	Тобі дивно, що навіть я - людина?	ember	0	0
+Semmi sem történt a nap folyamán.	Протягом дня нічого не відбулося.	történt	0	0
+A húgom túl fiatal, hogy iskolába menjen.	Моя сестра занадто мала для того, щоб ходити до школи.	túl	0	0
+Sok pénze van.	У неї багато грошей.	sok	0	0
+Akkor ezt mondta Isten: Legyen világosság! És lett világosság.	І сказав Бог: Хай станеться світло! І сталося світло.	mondta	0	0
+Nekem van két macskám.	У мене є два кота.	két	0	0
+Én nem értem a zenét.	Я не розумію музику.	értem	0	0
+Szia! Hogy vagy?	Привіт! Як справи?	szia	0	0
+Ahogy akarod.	Як хочеш.	ahogy	0	0
+Miért nem pihen egy kicsit?	Чому б вам трохи не відпочити?	kicsit	0	0
+Senki sem ért meg engem.	Ніхто мене не розуміє.	engem	0	0
+Én ott voltam.	Я там був.	voltam	0	0
+Nem tudok neked mindent elmondani.	Я не можу тобі розповісти всього.	mindent	0	0
+Engedd be őt.	Дай їм зайти.	őt	0	0
+Eső miatt el kellett halasztani a pikniket.	Пікнік був скасований через дощ.	kellett	0	0
+Az új gyógyszer megmentette az életét.	Нові ліки спасли його життя.	új	0	0
+Nem mondom el senkinek se.	Я нікому не скажу.	se	0	0
+Ha soká akarsz élni, ne dohányozz.	Не паліть, якщо хочете жити довго.	akarsz	0	0
+Eső miatt el kellett halasztani a pikniket.	Пікнік був скасований через дощ.	miatt	0	0
+A magyar nyelv jobb, mint az eszperantó.	Угорська мова краща за есперанто.	jobb	0	0
+Nem akarok önző lenni.	Я не хочу бути егоїстичним.	akarok	0	0
+Emlékszel erre a játékra?	Ви пам'ятаєте цю ігру?	erre	0	0
+Több a felhő ma, mint tegnap.	Нині більше хмар ніж вчора.	több	0	0
+Mindenki itt van?	Всі тут?	mindenki	0	0
+Akkor ezt mondta Isten: Legyen világosság! És lett világosság.	І сказав Бог: Хай станеться світло! І сталося світло.	legyen	0	0
+Süt a nap.	Сонце світить.	nap	0	0
+Emilie görögül akar tanulni.	Емілі хоче вивчити грецьку.	akar	0	0
+Utálja magát.	Вона сама себе ненавидить.	magát	0	0
+Megegyeztek abban, hogy együtt dolgoznak.	Вони домовилися співпрацювати.	együtt	0	0
+Ne várjatok rám!	Не чекайте на мене.	rám	0	0
+És senki sem segített neked?	І ніхто тобі не допомагав?	senki	0	0
+Ez a zászló nagyon szép.	Цей прапор дуже красивий.	szép	0	0
+Át kell nézned ezt a programot.	Ти повинен передивитися цю програму.	át	0	0
+Ez az első látogatásod?	Це ваш перший візит?	első	0	0
+Eltekintve az időtől, nem volt egy rossz piknik.	За виключенням погоди, це був хороший пікнік.	rossz	0	0
+Mit csinált tegnap este?	Що ви робили вчора ввечері?	este	0	0
+Ezek a hölgyek a nagynénéim.	Ці жінки - мої тітки.	ezek	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	minket	0	0
+Az emberek eladnák a lelküket, hogy azokról a helyekről nézhessék a koncertet.	Люди б продали душу, щоб слухати концерт з цих місць.	emberek	0	0
+Ismer ő téged?	Вона тебе знає?	téged	0	0
+Ne várj rám.	Не чекай на мене.	várj	0	0
+Hogyan védekezhetünk a koronavírus ellen?	Як ми можемо захиститися від коронавірусу?	hogyan	0	0
+Még sosem láttam ekkora nagy kutyát.	Я ще ніколи не бачив такого великого собаку.	sosem	0	0
+Ő a legmagasabb férfi, akit valaha láttam.	Він найбільший чоловік, що я коли-небудь бачив.	láttam	0	0
+Nélküled nem tudok élni!	Без тебе я не можу жити.	tudok	0	0
+Beszél ön japánul?	Ви говорите японською?	ön	0	0
+Inkább meg kellene beszélnie az orvossal.	Краще проконсультуйтеся у лікаря.	kellene	0	0
+Azt hittem, egyedül vagyok.	Я думала, що я сама.	hittem	0	0
+Az igazat mondja.	Вона говорить правду.	mondja	0	0
+Ilyet igazán nem vártam tőled.	Такого я від тебе дійсно не чекав.	igazán	0	0
+Ne mondd ezt!	Не говори так.	mondd	0	0
+Két macskánk van; az egyik fehér, a másik fekete.	Ми маємо двох кішок: одна біла, а інша чорна.	másik	0	0
+Nem található egyik szótárban sem.	Це є в будь-якому словнику.	egyik	0	0
+Nem akarok önző lenni.	Я не хочу бути егоїстичним.	lenni	0	0
+Nem szívesen megyek ki, ha esik.	Я не люблю виходити на вулицю коли йде дощ.	megyek	0	0
+Úgy tűnik Tom a holnapi leckéjére készül.	Здається, Том готується до завтрашніх уроків.	tűnik	0	0
+Akkor ezt mondta Isten: Legyen világosság! És lett világosság.	І сказав Бог: Хай станеться світло! І сталося світло.	lett	0	0
+Adott nekem néhány bélyeget.	Він дав мені декілька марок.	néhány	0	0
+Öregebb az autóm, mint én magam.	Моя машина старша від мене.	magam	0	0
+Inkább meg kellene beszélnie az orvossal.	Краще проконсультуйтеся у лікаря.	inkább	0	0
+Jobban szeretem a vörösbort, mint a fehérbort.	Я люблю більше червоне вино, а не біле.	jobban	0	0
+Teréz anya 1910-ben Jugoszláviában született.	Мати Тереза народилася в Югославії в 1910 році.	anya	0	0
+A te neved rajta van a listán?	Твоє ім'я є в списку?	rajta	0	0
+Ezzel a vonattal kétszer gyorsabban odaérsz.	Цим потягом ти доїдеш у два рази швидше.	ezzel	0	0
+Az asztal alatt volt egy fekete macska.	Під столом був чорний кіт.	alatt	0	0
+A legjobb iskola a gyakorlat.	Найкраща школа - практика.	legjobb	0	0
+Tom tud kézen járni.	Том може ходити на руках.	tud	0	0
+Tom és Mary örökbefogadott három gyereket.	Том та Мері усиновили трьох дітей.	három	0	0
+Isten egyetlen.	Бог один.	egyetlen	0	0
+Ez a dallam nem megy ki a fejemből.	Ця пісня не виходить в мене з голови.	megy	0	0
+Genovából jön.	Він приїжджає з Генуї.	jön	0	0
+Mit jelent ez a szó?	Що значить це слово?	szó	0	0
+Egyedül vagy?	Ти сама?	egyedül	0	0
+Megkérdeztem, hova menjünk.	Я запитав, куди йти.	menjünk	0	0
+Mi!? Komolyan!?	Що... Серйозно?	komolyan	0	0
+Ahogy akarod.	Як хочеш.	akarod	0	0
+Hol voltál múlt hétfőn?	Де ти був минулого понеділка?	voltál	0	0
+Isten egyetlen.	Бог один.	isten	0	0
+Mire várunk?	На що чекаємо?	mire	0	0
+Nem tudok tovább várni.	Я більше не можу чекати.	tovább	0	0
+Hányszor kell elmondjam, hogy ne egyél cukrot vacsora előtt?	Скільки разів маю тобі повторювати, щоб ти не їв цукерки перед вечерею?	előtt	0	0
+Ők alszanak.	Вони сплять.	ők	0	0
+Nincs nekünk pápánk!	У нас немає Папи Римського!	nekünk	0	0
+Holnap vasárnap.	Завтра неділя.	holnap	0	0
+Ő beszél magyarul, és a nő meg németül.	Він говорить угорською, а вона — німецькою.	nő	0	0
+Kommentár nélkül.	Без коментарів.	nélkül	0	0
+Ennek a szónak két jelentése van.	У цього слова два значення.	ennek	0	0
+Nem tudom pontosan.	Я точно не знаю.	pontosan	0	0
+Jól áll neked a zöld.	Зелене тобі пасує.	áll	0	0
+Beszélni ezüst, hallgatni arany.	Слово - срiбло, а мовчання - золото.	beszélni	0	0
+Nem mondom el senkinek se.	Я нікому не скажу.	mondom	0	0
+Melegre fordult az idő.	Погода стає теплою.	idő	0	0
+Egy külföldinek nehéz tanulnia japánul.	Іноземцям важко вивчати японську.	nehéz	0	0
+Rád várunk.	Ми чекаємо на тебе.	rád	0	0
+A lány megmosta a haját.	Дівчина помила волосся.	lány	0	0
+Ti szivaroztok?	Ви курите сигари?	ti	0	0
+Hallottam, hogy te se mész haza.	Я чув, що ти також не їдеш додому.	hallottam	0	0
+Tudsz olaszul?	Ви говорите італійською?	tudsz	0	0
+Tomnak sincs alibije.	У Тома також немає алібі.	sincs	0	0
+Hallottam, hogy te se mész haza.	Я чув, що ти також не їдеш додому.	haza	0	0
+Nem akarok dolgozni menni.	Не хочу їхати на роботу.	menni	0	0
+Szeretnék megtanulni héberül.	Я хочу вивчити іврит.	szeretnék	0	0
+Azonnal cselekednünk kell.	Мусимо діяти негайно.	azonnal	0	0
+Nem jut ideje a sportra.	Він не має вільного часу щоб займатися спортом.	ideje	0	0
+Ő a legmagasabb férfi, akit valaha láttam.	Він найбільший чоловік, що я коли-небудь бачив.	férfi	0	0
+Több a felhő ma, mint tegnap.	Сьогодні більше хмар, ніж учора.	tegnap	0	0
+Ne hagyd a munkát holnapra.	Не відкладайте роботу на завтра.	hagyd	0	0
+Felfogják, hogy ez fontos.	Вони розуміють, що це важливо.	fontos	0	0
+Ő a legmagasabb férfi, akit valaha láttam.	Він найбільший чоловік, що я коли-небудь бачив.	akit	0	0
+Mari szereti a pénzt.	Мері любить гроші.	pénzt	0	0
+Reggel ötkor keltem.	Я встав о п'ятій ранку.	reggel	0	0
+Tizenegy éves korában kezdett angolul tanulni.	Він почав вивчати англійську в одинадцять років.	éves	0	0
+Úgy gondolom, hogy ezt mindenki tudja.	Думаю, що всі знають.	gondolom	0	0
+Tomnak tetszik az új autója.	Тому подобається його нова машина.	tetszik	0	0
+Attól félek, holnap esni fog.	Боюся, завтра може піти дощ.	attól	0	0
+Kész vagyok.	Я готова!	kész	0	0
+Apám szeret repülővel utazni.	Мій батько полюбляє подорожувати літаком.	apám	0	0
+Aludni kell mennem.	Я маю йти спати.	mennem	0	0
+Biciklivel ment.	Він поїхав на велосипеді.	ment	0	0
+Tom meghalt.	Том помер.	meghalt	0	0
+Állj!	Стій!	állj	0	0
+Segítségre van szükségem.	Мені потрібна допомога.	szükségem	0	0
+Boldog anyák napját!	З Днем матері!	boldog	0	0
+Tudod, hogy szeretlek.	Ти знаєш, що я тебе кохаю.	szeretlek	0	0
+Tom nem a fiam.	Фома - не мій син.	fiam	0	0
+Beszélsz németül?	Ти говориш німецькою?	beszélsz	0	0
+Szeretem az almát.	Я люблю яблука.	szeretem	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	add	0	0
+Ott vagytok?	Ви там?	vagytok	0	0
+Megegyeztek abban, hogy együtt dolgoznak.	Вони домовилися співпрацювати.	abban	0	0
+John és Mary 1976 óta ismerik egymást.	Джон і Мері знають одне одного з 1976 року.	óta	0	0
+Mit jelent ez a szó?	Що значить це слово?	jelent	0	0
+A világ anime nélkül olyan lenne, akárcsak a mosógép internet-elérés nélkül.	Світ без аніме був би подібний до пральної машинки без доступу в інтернет.	világ	0	0
+Most már készen vagytok?	Ви вже скінчили?	készen	0	0
+Köszönetet mondott az ajándékért.	Вона подякувала за подарунок.	mondott	0	0
+Beszél ön japánul?	Ви говорите японською?	beszél	0	0
+Majdnem április volt.	Був майже квітень.	majdnem	0	0
+Mi a háború ellen vagyunk.	Ми проти війни.	ellen	0	0
+Hol van a mamád, fiú?	Де твоя мама, хлопчику?	fiú	0	0
+Szabad vagyok.	Я свобідний.	szabad	0	0
+Öt dollárt fizettem neki.	Я заплатив йому п'ять доларів.	öt	0	0
+Hova mész?	Куди ти йдеш?	hova	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	jöjjön	0	0
+Ő a legmagasabb férfi, akit valaha láttam.	Він найбільший чоловік, що я коли-небудь бачив.	valaha	0	0
+Egy kérdést tettem fel neki.	Я поставив йому питання.	tettem	0	0
+A barátom tegnap nem volt otthon.	Мій друг не був удома вчора.	barátom	0	0
+Köszi!	Дякую!	köszi	0	0
+Minden nap gyalog mész az iskolába?	Ти ходиш у школу пішки кожного дня?	mész	0	0
+Íme a te kutyád. Hol van az enyém?	Ось твій собака. А де мій?	enyém	0	0
+Félek tőle.	Я її боюся.	tőle	0	0
+Fél tíz van.	Зараз пів на десяту.	fél	0	0
+Éppen most ment el.	Він щойно пішов.	éppen	0	0
+Te vagy a főnök.	Ти начальник.	főnök	0	0
+Ne félj elmondani azt, amit gondolsz.	Не бійся говорити те, що думаєш.	gondolsz	0	0
+A király és családja a királyi palotában él.	Король та його родина живуть в королівському палаці.	király	0	0
+Emlékszel a nevére?	Ти пам'ятаєш його ім'я?	emlékszel	0	0
+Kérek egy csésze teát.	Прошу одну чашку чаю.	kérek	0	0
+Ilyet igazán nem vártam tőled.	Такого я від тебе дійсно не чекав.	ilyet	0	0
+Miből gondolod, hogy Tom ilyet nem csinált?	Чому ти думаєш, що Том ніколи цього не робив?	gondolod	0	0
+Adjatok öt napot!	Дайте мені п'ять днів.	napot	0	0
+Te nem tudod, mennyire szeretlek.	Ти не знаєш, як сильно я тебе кохаю.	mennyire	0	0
+Egy asztalnak négy lába van.	Стіл має чотири ніжки.	négy	0	0
+Én beszélek magyarul.	Я говорю угорською.	beszélek	0	0
+Miért jössz el hozzánk ennyire későn éjjel?	Чому приходиш до нас так пізно вночі?	éjjel	0	0
+Azt hiszem, Tom tudta.	Я думаю, Том знав.	tudta	0	0
+Tejet tett a kávéjába.	Він налив молока до своєї кави.	tett	0	0
+Minden növénynek szüksége van vízre és fényre.	Всім рослинам потрібна вода і світло.	szüksége	0	0
+Neked köszönhetően, elment az étvágyam.	Через тебе я втратив апетит.	elment	0	0
+Vettem egy piros nyakkendőt.	Я купив червону краватку.	vettem	0	0
+Otthon vagyok.	Я вдома.	otthon	0	0
+Tomnak hosszú nyaka van.	У Тома довга шия.	hosszú	0	0
+John szeret sakkozni.	Джон полюбляє шахи.	john	0	0
+A húgom túl fiatal, hogy iskolába menjen.	Моя сестра занадто мала для того, щоб ходити до школи.	menjen	0	0
+Köszönöm szépen!	Дуже дякую!	szépen	0	0
+Ne vedd a szívedre!	Не бери близько до серця!	vedd	0	0
+Jövök.	Я піду.	jövök	0	0
+John New Yorkban él.	Джон живе в Нью-Йорку.	new	0	0
+Melyik osztályba jár a nővéred?	В якому класі твоя сестра?	jár	0	0
+És látta Isten, hogy ez jó.	І побачив Бог, що це добре.	látta	0	0
+A hét törpe egyike homokos.	Один із семи гномів - гомосексуаліст.	hét	0	0
+Sok időt töltöttem zenehallgatással.	Я провів багато часу, слухаючи музику.	időt	0	0
+John és Mary 1976 óta ismerik egymást.	Джон і Мері знають одне одного з 1976 року.	egymást	0	0
+Találtál munkát?	Ти знайшла роботу?	munkát	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	hat	0	0
+- Köszönöm. - Szívesen.	"Дякую." "Прошу."	szívesen	0	0
+Ismerem anyád.	Я знаю твою маму.	ismerem	0	0
+Melyik osztályba jár a nővéred?	В якому класі твоя сестра?	melyik	0	0
+Miért jössz el hozzánk ennyire későn éjjel?	Чому приходиш до нас так пізно вночі?	jössz	0	0
+Tom eltűnt.	Фома зник.	eltűnt	0	0
+A beteg ágyban fekszik.	Хворий лежить у ліжку.	beteg	0	0
+Miért jössz el hozzánk ennyire későn éjjel?	Чому приходиш до нас так пізно вночі?	ennyire	0	0
+Nem akarok dolgozni menni.	Не хочу їхати на роботу.	dolgozni	0	0
+Vigye magával ezt az összecsukható esernyőt. Lehet, hogy jól fog jönni.	Візьми цю складану парасольку з собою. Вона може стати в нагоді.	jönni	0	0
+Vigye magával ezt az összecsukható esernyőt. Lehet, hogy jól fog jönni.	Візьми цю складану парасольку з собою. Вона може стати в нагоді.	magával	0	0
+John New Yorkban él.	Джон живе в Нью-Йорку.	él	0	0
+Egy órán belül nálad vagyok.	Я прийду до тебе через годину.	belül	0	0
+Két macskánk van; az egyik fehér, a másik fekete.	Ми маємо двох кішок: одна біла, а інша чорна.	fehér	0	0
+A medve fekete.	Ведмідь чорний.	fekete	0	0
+A szállodában maradt.	Він зупинився у готелі.	maradt	0	0
+Hármast kaptam angolból.	Отримав трійку з англійської.	kaptam	0	0
+Babát vár a feleségem.	Моя жінка вагітна!	vár	0	0
+Nekem mindegy.	Мені все одно.	mindegy	0	0
+Ilyet igazán nem vártam tőled.	Такого я від тебе дійсно не чекав.	tőled	0	0
+A húgom túl fiatal, hogy iskolába menjen.	Моя сестра занадто мала для того, щоб ходити до школи.	fiatal	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	kettő	0	0
+Egy egész szám természetes szám, ha az nagyobb vagy egyenlő nullával.	Ціле число називається натуральним тоді і тільки тоді, коли воно більше або дорівнює 0.	nagyobb	0	0
+Hol voltál múlt hétfőn?	Де ти був минулого понеділка?	múlt	0	0
+Öregebb a kocsim nálam.	Моя машина старша від мене.	nálam	0	0
+Mikor ketten csinálják ugyanazt, az már nem ugyanaz.	Коли двоє роблять те саме, це не те саме.	ketten	0	0
+Új házat akarunk venni.	Ми хочемо купити новий будинок.	venni	0	0
+Telefonon beszéltem a nagybácsimmal.	Я поговорив по телефону зі своїм дядьком.	beszéltem	0	0
+Ha soká akarsz élni, ne dohányozz.	Не паліть, якщо хочете жити довго.	élni	0	0
+Az igazat mondja.	Вона говорить правду.	igazat	0	0
+Kit vársz?	На кого ти чекаєш?	kit	0	0
+Papírra van szükségünk.	Нам потрібен папір.	szükségünk	0	0
+Milyen idős a legnagyobb fiad?	Скільки років твоєму найстаршому сину?	legnagyobb	0	0
+Miért jöttél Japánba?	Чому ти приїхав до Японії?	jöttél	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	tíz	0	0
+Isten meleg.	Бог — ґей.	meleg	0	0
+Várjatok ránk!	Почекайте на нас.	ránk	0	0
+Ezer puszit adj!	Дай мені тисячу поцілунків.	adj	0	0
+Adott nekem néhány bélyeget.	Він дав мені декілька марок.	adott	0	0
+Attól félek, holnap esni fog.	Боюся, завтра може піти дощ.	félek	0	0
+Azt nehezen lehetett elhinni.	У це було важко повірити.	lehetett	0	0
+Édesanyámnak gyakran fáj a feje.	Моя мати часто страждає від головного болю.	fáj	0	0
+A Holdról nézve a Föld labdának látszik.	Якщо дивитися з Місяця, Земля схожа на м'яч.	látszik	0	0
+Nem fontos, hogy mennyibe kerül.	Неважливо, скільки це коштує.	kerül	0	0
+Jó barátok vagyunk.	Ми добрі друзі.	barátok	0	0
+Senki sem ért meg engem.	Ніхто мене не розуміє.	ért	0	0
+A papám szereti a mamámat.	Мій тато кохає мою маму.	szereti	0	0
+Úgy tűnik Tom a holnapi leckéjére készül.	Здається, Том готується до завтрашніх уроків.	tom	0	0
+Tom és Frank jó barátok.	Том та Франк - добрі друзі.	frank	0	0
+Nagyon okos vagyok.	Я дуже розумна.	okos	0	0
+Itt biztonságban vagy.	Ти тут у безпеці.	biztonságban	0	0
+Bárcsak tudnám a választ.	Якби я тільки знав відповідь прямо зараз!	bárcsak	0	0
+Mikor ketten csinálják ugyanazt, az már nem ugyanaz.	Коли двоє роблять те саме, це не те саме.	ugyanaz	0	0
+Sajnos nem tudom abbahagyni a köhögést.	Шкода, що я не можу перестати кашляти.	sajnos	0	0
+Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	Усі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.	emberi	0	0
+Nem vagyok orvos.	Я не лікар.	orvos	0	0
+Te ismered Tomot?	Ти знаєш Тома?	ismered	0	0
+Ő a feleségem, Edita.	Це моя жінка Едита.	feleségem	0	0
+Mennél rosszabb, annál jobb.	Що гірше, то краще.	annál	0	0
+Nem mondom el senkinek se.	Я нікому не скажу.	senkinek	0	0
+Mindenki barátja - senki barátja.	Друг для кожного - друг для жодного.	barátja	0	0
+Az új gyógyszer megmentette az életét.	Нові ліки спасли його життя.	életét	0	0
+A férfi rákban halt meg.	Чоловік помер від раку.	halt	0	0
+Havi bevétele 2000 dollár.	Його місячний дохід становить 2000 доларів.	dollár	0	0
+Ezer puszit adj!	Дай мені тисячу поцілунків.	ezer	0	0
+Szükséged van még a segítségemre?	Ти все ще потребуєш моєї допомоги?	szükséged	0	0
+Milyen szép város!	Яке красиве місто!	város	0	0
+Apám szeret repülővel utazni.	Мій батько полюбляє подорожувати літаком.	szeret	0	0
+Ne beszélj így vele!	Не говори з ним так.	beszélj	0	0
+Ismerem anyád.	Я знаю твою маму.	anyád	0	0
+Mit csinált tegnap este?	Що ви робили вчора ввечері?	csinált	0	0
+Tom egy hasznos idióta.	Том — корисний ідіот.	idióta	0	0
+Lassan járj!	Поспішай повільно.	lassan	0	0
+Kik ezek az emberek?	Хто ті люди?	kik	0	0
+Hideg a víz.	Вода холодна.	víz	0	0
+Ez szerelem?	То є любов?	szerelem	0	0
+Aludni mennék!	Я йду спати!	aludni	0	0
+A férfi meglepődött a hír hallatán.	Чоловік був здивований новиною.	hír	0	0
+Le szabad önt fényképezni?	Можна вас сфотографувати?	önt	0	0
+Mennél rosszabb, annál jobb.	Що гірше, то краще.	rosszabb	0	0
+Egy gyárban dolgozom.	Я працюю на фабриці.	dolgozom	0	0
+Keresd a nőt!	Шукайте жінку!	nőt	0	0
+Jó estét!	Добрий вечір.	estét	0	0
+A kislány babáját ölelte.	Дівчинка обійняла свою ляльку.	kislány	0	0
+A Holdról nézve a Föld labdának látszik.	Якщо дивитися з Місяця, Земля схожа на м'яч.	föld	0	0
+Büszke lehet az apjára.	Він може пишатися своїм батьком.	büszke	0	0
+Magas vagy?	Ти висока?	magas	0	0
+Szereted a kávét?	Любиш каву?	szereted	0	0
+Sötét van itt.	Тут темно.	sötét	0	0
+Ide hallgass!	Слухай!	hallgass	0	0
+Elveszett a játék.	Гра програна.	játék	0	0
+Egy órán belül nálad vagyok.	Я прийду до тебе через годину.	nálad	0	0
+Több mint négyezer nyelv van a világon.	У світі налічується більше ніж 4000 мов.	világon	0	0
+Mit tehetek értetek?	Що я можу для вас зробити?	tehetek	0	0
+Új házat akarunk venni.	Ми хочемо купити новий будинок.	házat	0	0
+Mi a háború ellen vagyunk.	Ми проти війни.	háború	0	0
+A kutya csóválta a farkát.	Собака виляв хвостом.	kutya	0	0
+Nem tudok neked mindent elmondani.	Я не можу тобі розповісти всього.	elmondani	0	0
+Utálom a bürokráciát!	Ненавиджу бюрократію.	utálom	0	0
+Nem jut ideje a sportra.	Він не має вільного часу щоб займатися спортом.	jut	0	0
+Hideg a víz.	Вода холодна.	hideg	0	0
+Adtam neked egy könyvet.	Я дав тобі книжку.	adtam	0	0
+A birka ad nekünk gyapjút.	Вівці дають нам шерсть.	ad	0	0
+Vizet iszom.	Я п'ю воду.	vizet	0	0
+A barátnőmet várom.	Я чекаю на свою дівчину.	várom	0	0
+Szereted a kávét?	Любиш каву?	kávét	0	0
+Tom és Mary örökbefogadott három gyereket.	Том та Мері усиновили трьох дітей.	gyereket	0	0
+Hallottad a legújabb híreket?	Ви чули останні новини?	hallottad	0	0
+Engedd meg, hogy bemutassam neked az édesanyámat.	Дозволь познайомити тебе з моєю матір’ю.	engedd	0	0
+Getter Jaanival akarok meghalni.	Я хочу вмерти разом із Ґеттер Яані.	meghalni	0	0
+Eljött mindenki.	Вони прийшли всі.	eljött	0	0
+Egy vörös nyakkendőt vásároltam.	Я купив червону краватку.	vörös	0	0
+Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	Усі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.	szemben	0	0
+Meddig alszik egy medve?	Як довго спить ведмідь?	meddig	0	0
+Ezzel a vonattal kétszer gyorsabban odaérsz.	Цим потягом ти доїдеш у два рази швидше.	kétszer	0	0
+Jó éjszakát!	Доброго вечора!	éjszakát	0	0
+A nyelv gyakran jobban vág a kardnál.	Не бiйся ножа, бiйся балаканини.	gyakran	0	0
+Mary kevésbé aktív, mint a lánytestvére.	Марія не така жвава як її сестра.	mary	0	0
+Kék a szeme.	У неї блакитні очі.	kék	0	0
+Öt dollárt fizettem neki.	Я заплатив йому п'ять доларів.	dollárt	0	0
+Schopenhauer kicsoda?	Хто такий Шопенгауер?	kicsoda	0	0
+Új házat akarunk venni.	Ми хочемо купити новий будинок.	akarunk	0	0
+Ki a legérdekesebb barátod?	Хто твій найцікавіший друг?	barátod	0	0
+Nem volt időm.	В мене не було часу.	időm	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	földön	0	0
+Fantasztikus!	Фантастика!	fantasztikus	0	0
+Miért jössz el hozzánk ennyire későn éjjel?	Чому приходиш до нас так пізно вночі?	hozzánk	0	0
+Most kezdjük el a munkánkat.	А тепер розпочнімо нашу роботу.	kezdjük	0	0
+Találtunk egy teknősbékát a kertben.	Ми знайшли черепаху в саду.	találtunk	0	0
+Bárcsak tudnám a választ.	Якби я тільки знав відповідь прямо зараз!	tudnám	0	0
+Bob a barátom.	Боб - мій друг.	bob	0	0
+Egy kérdést tettem fel neki.	Я поставив йому питання.	kérdést	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	nyolc	0	0
+Azt nehezen lehetett elhinni.	У це було важко повірити.	elhinni	0	0
+És senki sem segített neked?	І ніхто тобі не допомагав?	segített	0	0
+Nem tudok tovább várni.	Я більше не можу чекати.	várni	0	0
+Taxira vártam.	Я чекав на таксі.	vártam	0	0
+Egyikünk sem ismerte a választ.	Ніхто з нас не знав відповіді.	választ	0	0
+Esik a hó.	Йде сніг.	esik	0	0
+Ez alkalommal én fizetek.	Цього разу моя черга платити.	alkalommal	0	0
+Milyen volt a börtönben, fiam?	Як він опинився в тюрмі, сину?	börtönben	0	0
+Különös számodra, hogy én is ember vagyok?	Тобі дивно, що навіть я - людина?	különös	0	0
+Önök beszélnek németül?	Ви говорите німецькою?	önök	0	0
+Nem kell fogorvoshoz menned.	Ти не повинен йти до зубного.	menned	0	0
+Egy órán belül nálad vagyok.	Я прийду до тебе через годину.	órán	0	0
+Ismerem az igazságot.	Я знаю правду.	igazságot	0	0
+Különös számodra, hogy én is ember vagyok?	Тобі дивно, що навіть я - людина?	számodra	0	0
+Vegyél fel egy kabátot, hogy nehogy megfázz.	Вдягни пальто, щоб не застудитися.	nehogy	0	0
+Én nem értek angolul.	Я не розумію англійської.	értek	0	0
+Akarsz gazdag lenni?	Хочеш бути багатим?	gazdag	0	0
+Ma kevés ügyfél van.	Сьогодні мало клієнтів.	kevés	0	0
+Tudod, hol élek?	Ти знаєш де я живу?	élek	0	0
+Hozok segítséget.	Я отримаю допомогу.	segítséget	0	0
+A munkám a hobbim.	Моя робота - це моє хобі.	munkám	0	0
+Ez a legjobb étterem, amit ismerek.	Це найкращий ресторан, який я знаю.	ismerek	0	0
+A legrosszabb vírus a kapitalizmus.	Найгірший вірус — це капіталізм.	legrosszabb	0	0
+A te neved rajta van a listán?	Твоє ім'я є в списку?	neved	0	0
+Meg tudnád ismételni?	Можеш це повторити?	tudnád	0	0
+Egy egész szám természetes szám, ha az nagyobb vagy egyenlő nullával.	Ціле число називається натуральним тоді і тільки тоді, коли воно більше або дорівнює 0.	szám	0	0
+Ezzel a vonattal kétszer gyorsabban odaérsz.	Цим потягом ти доїдеш у два рази швидше.	gyorsabban	0	0
+100 eurót keresek naponta.	Я заробляю 100 євро на день.	keresek	0	0
+Dolgozol?	Ти працюєш?	dolgozol	0	0
+Várok.	Я очікую.	várok	0	0
+Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	Усі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.	szabadon	0	0
+A víz száz fokon forr.	Вода кипить при ста градусах.	száz	0	0
+Hol van az iskola?	Де школа?	iskola	0	0
+Ne várjatok!	Не чекайте.	várjatok	0	0
+Nem olvasta el a könyvet.	Вона не прочитала книжку.	könyvet	0	0
+Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	Усі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.	egymással	0	0
+Jól áll neked a zöld.	Зелене тобі пасує.	zöld	0	0
+Teréz anya 1910-ben Jugoszláviában született.	Мати Тереза народилася в Югославії в 1910 році.	született	0	0
+Hányszor kell elmondjam, hogy ne egyél cukrot vacsora előtt?	Скільки разів маю тобі повторювати, щоб ти не їв цукерки перед вечерею?	vacsora	0	0
+Mitől kell félnem?	Чого мені боятися?	mitől	0	0
+Gyalog megyek az iskolába.	Я ходжу до школи пішки.	iskolába	0	0
+Milyen filmet vetítenek nyolckor?	Який фільм показують о восьмій?	filmet	0	0
+Nem mindegyik tojás friss.	Не всі ці яйця свіжі.	friss	0	0
+Végeztünk?	Ми закінчили?	végeztünk	0	0
+Kellemes hétvégét!	Приємних вихідних.	kellemes	0	0
+Megittam egy sört.	Я випила пиво.	sört	0	0
+Ne dobd el ezt az újságot! Én még nem olvastam.	Не викидай цей журнал. Я його ще не прочитав.	olvastam	0	0
+Akarsz inni?	Хочеш випити?	inni	0	0
+A nagy és a mutató ujja közé csippentette a lepkét.	Він підхопив метелика, затиснувши його між великим і вказівним пальцями.	közé	0	0
+Tom tud kézen járni.	Том може ходити на руках.	járni	0	0
+Találtál munkát?	Ти знайшла роботу?	találtál	0	0
+Egy egész szám természetes szám, ha az nagyobb vagy egyenlő nullával.	Ціле число називається натуральним тоді і тільки тоді, коли воно більше або дорівнює 0.	természetes	0	0
+Mikor ketten csinálják ugyanazt, az már nem ugyanaz.	Коли двоє роблять те саме, це не те саме.	ugyanazt	0	0
+Nagyon elfoglalt volt.	Вона була дуже зайнята.	elfoglalt	0	0
+Elvesztettem az útlevelemet.	Я загубила свій паспорт.	elvesztettem	0	0
+Olaszország nagyon szép ország.	Італія - дуже гарна країна.	ország	0	0
+Meddig alszik egy medve?	Як довго спить ведмідь?	alszik	0	0
+Nem tudom, mikor hazudik.	Я не знаю, коли він бреше.	hazudik	0	0
+Hozok segítséget.	Я отримаю допомогу.	hozok	0	0
+Ne vegyél zsákbamacskát.	Не купуй кота в мішку.	vegyél	0	0
+Fáj a fejem.	У мене болить голова.	fejem	0	0
+Ez a könyv jól fogy.	Ця книжка добре продається.	könyv	0	0
+Tom is szokott táncolni.	Том також танцює.	szokott	0	0
+Ismer ő téged?	Вона тебе знає?	ismer	0	0
+A könyv piros.	Книжка червона.	piros	0	0
+Tizenegy évesen kezdett angolt tanulni.	Він почав вивчати англійську в одинадцять років.	kezdett	0	0
+Egyetértek a tervével.	Я погоджуюсь з його планом.	egyetértek	0	0
+Tom egy hős.	Том герой.	hős	0	0
+Mary kevésbé aktív, mint a lánytestvére.	Марія не така жвава як її сестра.	kevésbé	0	0
+Rád várunk.	Ми на тебе чекаємо.	várunk	0	0
+A király és családja a királyi palotában él.	Король та його родина живуть в королівському палаці.	családja	0	0
+A beduinok a sivatagban élnek.	Бедуїни живуть в пустелі.	élnek	0	0
+A Hilton szállóhoz, legyen szíves!	В готель "Хілтон", прошу.	szíves	0	0
+Beszélni ezüst, hallgatni arany.	Слово - срібло, мовчання - золото.	arany	0	0
+Hogy van Emily?	Як там Емілі?	emily	0	0
+Kérek egy csésze teát.	Прошу одну чашку чаю.	teát	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	kilenc	0	0
+Miért nem hiszel nekem?	Чому ти мені не віриш?	hiszel	0	0
+Még sosem láttam ekkora nagy kutyát.	Я ще ніколи не бачив такого великого собаку.	ekkora	0	0
+Ver a szíve.	Серце б'ється.	szíve	0	0
+Úgy tűnik Tom a holnapi leckéjére készül.	Здається, Том готується до завтрашніх уроків.	készül	0	0
+Tom még iskolában van?	Том ще на заняттях?	iskolában	0	0
+A tó nagyon mély.	Озеро дуже глибоке.	mély	0	0
+1000 dollárral tartozom neked.	Я тобі винний 1000 доларів.	tartozom	0	0
+Miből gondolod, hogy Tom ilyet nem csinált?	Чому ти думаєш, що Том ніколи цього не робив?	miből	0	0
+Övé a kutya.	Собака її.	övé	0	0
+Milyen nyelven beszélnek Brazíliában?	Якою мовою розмовляють у Бразилії?	beszélnek	0	0
+Az ajándéka egy üveg bor.	Його подарунок - це пляшка вина.	üveg	0	0
+Segítségre van szükségem.	Мені потрібна допомога.	segítségre	0	0
+Tom hazudott.	Фома брехав.	hazudott	0	0
+Szeretem ezt a játékot.	Я люблю цю гру.	játékot	0	0
+Megköszönte az ajándékot.	Вона подякувала за подарунок.	ajándékot	0	0
+Tudom, hol élsz.	Я знаю, де ти живеш.	élsz	0	0
+Tom is szokott táncolni.	Том також танцює.	táncolni	0	0
+Édesanyámnak gyakran fáj a feje.	Моя мати часто страждає від головного болю.	feje	0	0
+Mi ébresztett föl?	Що тебе розбудило?	föl	0	0
+A beteg ágyban fekszik.	Хворий лежить у ліжку.	ágyban	0	0
+Az új koronavírus erősen fertőző.	Новий коронавірус дуже заразний.	erősen	0	0
+Én nem értem a zenét.	Я не розумію музику.	zenét	0	0
+Egy nap nélküled olyan, mint nyár napsütés nélkül.	День без тебе — як літо без сонця.	nélküled	0	0
+Milyen idős a legnagyobb fiad?	Скільки років твоєму найстаршому сину?	idős	0	0
+A kulcs az asztalon van.	Ключ на столі.	kulcs	0	0
+Berlin egy német város.	Берлін - німецьке місто.	német	0	0
+Ne dobd el ezt az újságot! Én még nem olvastam.	Не викидай цей журнал. Я його ще не прочитав.	dobd	0	0
+Vigye magával ezt az összecsukható esernyőt. Lehet, hogy jól fog jönni.	Візьми цю складану парасольку з собою. Вона може стати в нагоді.	vigye	0	0
+A világ anime nélkül olyan lenne, akárcsak a mosógép internet-elérés nélkül.	Світ без аніме був би подібний до пральної машинки без доступу в інтернет.	akárcsak	0	0
+Hányszor kell elmondjam, hogy ne egyél cukrot vacsora előtt?	Скільки разів маю тобі повторювати, щоб ти не їв цукерки перед вечерею?	hányszor	0	0
+Szoktad olvasni Tom blogját?	Ти читаєш блог Тома?	olvasni	0	0
+Japán barátnője van.	Його подруга — японка.	barátnője	0	0
+Nem mindegyik tojás friss.	Не всі ці яйця свіжі.	mindegyik	0	0
+Kék a szeme.	У неї блакитні очі.	szeme	0	0
+Egyikünk sem ismerte a választ.	Ніхто з нас не знав відповіді.	ismerte	0	0
+Ismerjük ezt a dalt.	Ми знаємо цю пісню.	dalt	0	0
+Ismerjük ezt a dalt.	Ми знаємо цю пісню.	ismerjük	0	0
+Elveszett a játék.	Гра програна.	elveszett	0	0
+Íme a te kutyád. Hol van az enyém?	Це твоя собака. А де моя?	íme	0	0
+Tom profi.	Том — профі.	profi	0	0
+Nem találok szavakat.	В мене нема слів.	találok	0	0
+A kínaiak rendkívül dolgosak.	Китайці надзвичайно працьовиті.	rendkívül	0	0
+Kire vársz?	Кого ти чекаєш?	vársz	0	0
+Telefonon beszéltem a nagybácsimmal.	Я поговорив по телефону зі своїм дядьком.	telefonon	0	0
+Mikor ketten csinálják ugyanazt, az már nem ugyanaz.	Коли двоє роблять те саме, це не те саме.	csinálják	0	0
+Azt nehezen lehetett elhinni.	У це було важко повірити.	nehezen	0	0
+Az oroszlán erősebb, mint a farkas.	Леви сильніші за волків.	erősebb	0	0
+Babát vár a feleségem.	Моя жінка вагітна!	babát	0	0
+A király és családja a királyi palotában él.	Король та його родина живуть в королівському палаці.	királyi	0	0
+Tom szülei tanárok.	Батьки Тома — вчителі.	szülei	0	0
+Holnap vasárnap.	Завтра неділя.	vasárnap	0	0
+Milyen idős a legnagyobb fiad?	Скільки років твоєму найстаршому сину?	fiad	0	0
+Közeledünk egymáshoz.	Ми стаємо ближчі одна до одної.	egymáshoz	0	0
+Almát eszem.	Я їм яблуко.	eszem	0	0
+A fivérem egészséges.	Мій брат здоровий.	egészséges	0	0
+Ő az én nővérem.	Вона моя старша сестра.	nővérem	0	0
+Hányszor kell elmondjam, hogy ne egyél cukrot vacsora előtt?	Скільки разів маю тобі повторювати, щоб ти не їв цукерки перед вечерею?	egyél	0	0
+Beszélni ezüst, hallgatni arany.	Слово - срiбло, а мовчання - золото.	hallgatni	0	0
+Miért jössz el hozzánk ennyire későn éjjel?	Чому приходиш до нас так пізно вночі?	későn	0	0
+Japán vagy?	Ти японець?	japán	0	0
+Emilie görögül akar tanulni.	Емілі хоче вивчити грецьку.	tanulni	0	0
+Tom nyert.	Фома виграв.	nyert	0	0
+Ne félj elmondani azt, amit gondolsz.	Не бійся говорити те, що думаєш.	félj	0	0
+Nem vagy szörnyeteg.	Ти не чудовисько.	szörnyeteg	0	0
+Eltévedtem az erdőben.	Я заблукав у лісі.	erdőben	0	0
+Eső miatt el kellett halasztani a pikniket.	Пікнік був скасований через дощ.	eső	0	0
+Megegyeztek abban, hogy együtt dolgoznak.	Вони домовилися співпрацювати.	dolgoznak	0	0
+Boldog karácsonyt!	З Різдвом!	karácsonyt	0	0
+A húgom túl fiatal, hogy iskolába menjen.	Моя сестра занадто мала для того, щоб ходити до школи.	húgom	0	0
+Tizenegy évesen kezdett angolt tanulni.	Він почав вивчати англійську в одинадцять років.	évesen	0	0
+Nem tudtunk jegyet vásárolni, így nem mentünk el a hangversenyre.	Ми не змогли купити квитки, тому ми не пішли на концерт.	mentünk	0	0
+Van családod?	Маєш родину?	családod	0	0
+Még sosem láttam ekkora nagy kutyát.	Я ще ніколи не бачив такого великого собаку.	kutyát	0	0
+Az alma sárga.	Яблуко жовте.	sárga	0	0
+Sok időt töltöttem zenehallgatással.	Я провів багато часу, слухаючи музику.	töltöttem	0	0
+Elhagyta a mozijegyét.	Він загубив свій квиток в кіно.	elhagyta	0	0
+Sok pénze van.	У неї багато грошей.	pénze	0	0
+Behajtani tilos!	Стороннім вхід заборонено!	tilos	0	0
+Keresd a nőt!	Шукайте жінку!	keresd	0	0
+Almát eszik.	Він їсть яблуко.	eszik	0	0
+Ámen!	Амінь!	ámen	0	0
+Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	Усі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.	joga	0	0
+Tom várt.	Фома чекав.	várt	0	0
+A hét törpe egyike homokos.	Один із семи гномів - гомосексуаліст.	egyike	0	0
+Ne vegyen zsákbamacskát.	Не купуйте кота в мішку.	vegyen	0	0
+Ő egy zseni.	Він геній.	zseni	0	0
+Egyikünk sem ismerte a választ.	Ніхто з нас не знав відповіді.	egyikünk	0	0
+Tom még suliban van?	Том ще на заняттях?	suliban	0	0
+Meghallván a rossz hírt sírva fakadt.	Почувши погану новину, вона розплакалася.	hírt	0	0
+Tegnap halat ettem.	Я їв рибу вчора.	ettem	0	0
+Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	Усі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.	lény	0	0
+Magyar vagyok.	Я угорка.	magyar	0	0
+A kanapén aludtam.	Я спав на дивані.	aludtam	0	0
+Ez macska.	Це кіт.	macska	0	0
+Azt hiszem, hogy holnap esni fog a hó.	Думаю, завтра буде сніг.	hó	0	0
+Tom egy hasznos idióta.	Том — корисний ідіот.	hasznos	0	0
+Érzéseket és gondolatokat szavak fejezik ki.	Думки і почуття виражаються за допомогою слів.	szavak	0	0
+John New Yorkban él.	Джон живе в Нью-Йорку.	yorkban	0	0
+Neked köszönhetően, elment az étvágyam.	Через тебе я втратив апетит.	köszönhetően	0	0
+Hallottad a legújabb híreket?	Ви чули останні новини?	híreket	0	0
+A sör jó.	Пиво добре.	sör	0	0
+Az új gyógyszer megmentette az életét.	Нові ліки спасли його життя.	megmentette	0	0
+Ez alkalommal én fizetek.	Цього разу моя черга платити.	fizetek	0	0
+100 eurót keresek naponta.	Я заробляю 100 євро на день.	naponta	0	0
+Nem akarok önző lenni.	Я не хочу бути егоїстичним.	önző	0	0
+Ne hagyd a munkát holnapra.	Не відкладайте роботу на завтра.	holnapra	0	0
+John és Mary 1976 óta ismerik egymást.	Джон і Мері знають одне одного з 1976 року.	ismerik	0	0
+Vizet iszom.	Я п'ю воду.	iszom	0	0
+Én nem értek angolul.	Я не розумію англійської.	angolul	0	0
+Mit vettél?	Що ти купив?	vettél	0	0
+Melegre fordult az idő.	Погода стає теплою.	fordult	0	0
+Két majom vezette a repülőt.	Літаком керували дві мавпи.	majom	0	0
+A beteg ágyban fekszik.	Хворий лежить у ліжку.	fekszik	0	0
+Nem találok szavakat.	В мене нема слів.	szavakat	0	0
+Nem alszom.	Я не сплю.	alszom	0	0
+Alszol?	Ти спиш?	alszol	0	0
+Az iskolai egyenruhák kimennek a divatból.	Шкільна форма - просто старомодна.	iskolai	0	0
+Közvetlen járattal repülünk az USA-ba.	У нас прямий рейс до США?	közvetlen	0	0
+Megtaláltad a leveleidet?	Ти знайшла свої листи?	megtaláltad	0	0
+Az oroszlán erősebb, mint a farkas.	Леви сильніші за волків.	farkas	0	0
+Nem tudtunk jegyet vásárolni, így nem mentünk el a hangversenyre.	Ми не змогли купити квитки, тому ми не пішли на концерт.	jegyet	0	0
+Az ajándéka egy palack bor.	Його подарунок - це пляшка вина.	bor	0	0
+Aludni mennék!	Я йду спати!	mennék	0	0
+Mondd meg nekem, hogy miért sír.	Скажи мені, чому вона плаче?	sír	0	0
+Afrika az emberiség bölcsője.	Африка є колискою людства.	emberiség	0	0
+Az asztal alatt volt egy fekete macska.	Під столом був чорний кіт.	asztal	0	0
+Tom iszik.	Фома п'є.	iszik	0	0
+Hányszor kell elmondjam, hogy ne egyél cukrot vacsora előtt?	Скільки разів маю тобі повторювати, щоб ти не їв цукерки перед вечерею?	elmondjam	0	0
+Ezek a hölgyek a nagynénéim.	Ці жінки - мої тітки.	hölgyek	0	0
+A templom ott van.	Церква там.	templom	0	0
+A Holdról nézve a Föld labdának látszik.	Якщо дивитися з Місяця, Земля схожа на м'яч.	nézve	0	0
+Egy asztalnak négy lába van.	Стіл має чотири ніжки.	lába	0	0
+Tudod, hol lakom?	Ти знаєш де я живу?	lakom	0	0
+Ez egy katasztrófa.	Це катастрофа.	katasztrófa	0	0
+Azt hiszem, hogy holnap esni fog a hó.	Думаю, завтра буде сніг.	esni	0	0
+Hol születtem?	Де я народився?	születtem	0	0
+Nem tudtunk jegyet vásárolni, így nem mentünk el a hangversenyre.	Ми не змогли купити квитки, тому ми не пішли на концерт.	tudtunk	0	0
+Az új gyógyszer megmentette az életét.	Нові ліки спасли його життя.	gyógyszer	0	0
+Beszélni ezüst, hallgatni arany.	Слово - срібло, мовчання - золото.	ezüst	0	0
+A legrosszabb vírus a kapitalizmus.	Найгірший вірус — це капіталізм.	vírus	0	0
+Hallottad a legújabb híreket?	Ви чули останні новини?	legújabb	0	0
+Kérek egy csésze teát.	Прошу одну чашку чаю.	csésze	0	0
+Megkérdeztem, hova menjünk.	Я запитав, куди йти.	megkérdeztem	0	0
+Ma szombat van.	Сьогодні субота.	szombat	0	0
+Hol voltál múlt hétfőn?	Де ти був минулого понеділка?	hétfőn	0	0
+Mennyibe kerül ez?	Скільки це коштує?	mennyibe	0	0
+Ez a legjobb étterem, amit ismerek.	Це найкращий ресторан, який я знаю.	étterem	0	0
+Nem tudtunk jegyet vásárolni, így nem mentünk el a hangversenyre.	Ми не змогли купити квитки, тому ми не пішли на концерт.	vásárolni	0	0
+A te neved rajta van a listán?	Твоє ім'я є в списку?	listán	0	0
+Nem vagyok tag.	Я не член.	tag	0	0
+Imádja a kávét.	Ви любите каву.	imádja	0	0
+Ez varázslat.	Це магія.	varázslat	0	0
+Hol laksz Helsinkiben?	Де в Гельсінках ти живеш?	laksz	0	0
+A kutyák hűsėgesek.	Собаки вірні.	kutyák	0	0
+Nem vagyok robot.	Я не робот.	robot	0	0
+Az olaszok ritkán beszélnek politikáról.	Італійці рідко говорять про політику.	ritkán	0	0
+Úgy tűnik Tom a holnapi leckéjére készül.	Здається, Том готується до завтрашніх уроків.	holnapi	0	0
+A medve fekete.	Ведмідь чорний.	medve	0	0
+A matrózok az fedélzeten táncoltak.	Матроси танцювали на палубі.	fedélzeten	0	0
+Tegnap halat ettem.	Я їв рибу вчора.	halat	0	0
+Hol található a könyvtár?	Де знаходиться бібліотека?	található	0	0
+Nem értette a vicceit.	Він не зрозумів її жарту.	értette	0	0
+Kedveled az iskolát?	Тобі подобається школа?	iskolát	0	0
+Köszönet mindenért!	Дякуємо за все.	köszönet	0	0
+Te nem akarsz eljönni?	Ти не хочеш прийти?	eljönni	0	0
+Öregebb a kocsim nálam.	Моя машина старша від мене.	kocsim	0	0
+Utálja magát.	Вона сама себе ненавидить.	utálja	0	0
+Tejet tett a kávéjába.	Він налив молока до своєї кави.	tejet	0	0
+Külföldi vagy?	Ти іноземка?	külföldi	0	0
+Egy egész szám természetes szám, ha az nagyobb vagy egyenlő nullával.	Ціле число називається натуральним тоді і тільки тоді, коли воно більше або дорівнює 0.	egyenlő	0	0
+Párizsban havazik.	У Парижі йде сніг.	párizsban	0	0
+Sajnos nem tudom abbahagyni a köhögést.	Шкода, що я не можу перестати кашляти.	abbahagyni	0	0
+Tamás szeret főzni.	Том любить готувати.	főzni	0	0
+Viszontlátásra Szajoko.	До побачення, Сайоко.	viszontlátásra	0	0
+Két ablak van a szobádban?	У твоїй кімнаті два вікна?	ablak	0	0
+Nem mindegyik tojás friss.	Не всі ці яйця свіжі.	tojás	0	0
+Köszönet mindenért!	Дякуємо за все.	mindenért	0	0
+Tizenegy éves korában kezdett angolul tanulni.	Він почав вивчати англійську в одинадцять років.	korában	0	0
+Át kell nézned ezt a programot.	Ти повинен передивитися цю програму.	programot	0	0
+Öt dollárt fizettem neki.	Я заплатив йому п'ять доларів.	fizettem	0	0
+Karl Marx kommunista volt?	Карл Маркс був комуністом?	karl	0	0
+Az idő repül.	Час летить.	repül	0	0
+Két majom vezette a repülőt.	Літаком керували дві мавпи.	vezette	0	0
+Mit ettél?	Що ти їла?	ettél	0	0
+Tom válaszolt.	Фома відповів.	válaszolt	0	0
+Ez a könyv megérdemli a dícséretet.	Ця книга гідна похвали.	megérdemli	0	0
+Problémánk van.	У нас проблема.	problémánk	0	0
+Minden nap gyalog mész az iskolába?	Ти ходиш у школу пішки кожного дня?	gyalog	0	0
+Válassz ki véletlenszerűen három könyvet.	Вибери навмання три книжки.	válassz	0	0
+Tom stabil.	Том стабільний.	stabil	0	0
+Kire vársz?	Кого ти чекаєш?	kire	0	0
+Ismeritek Tomot?	Ви знаєте Тома?	ismeritek	0	0
+Ha soká akarsz élni, ne dohányozz.	Не паліть, якщо хочете жити довго.	soká	0	0
+Szemet szemért, fogat fogért.	Око за око, зуб за зуб.	szemet	0	0
+Az asztalon egy alma van.	На столі є яблуко.	asztalon	0	0
+Ne dobd el ezt az újságot! Én még nem olvastam.	Не викидай цей журнал. Я його ще не прочитав.	újságot	0	0
+Finn vagyok.	Я фінка.	finn	0	0
+Nekem van egy az autóban.	У мене є один в машині.	autóban	0	0
+Melyik osztályba jár a nővéred?	В якому класі твоя сестра?	nővéred	0	0
+Meglep, hogy ennyire naiv vagy.	Я здивований, що ти такий наївний.	meglep	0	0
+Tom keresztény?	Том християнин?	keresztény	0	0
+Emlékszel a nevére?	Ти пам'ятаєш його ім'я?	nevére	0	0
+Milyen színe van a narancsnak?	Якого кольору апельсин?	színe	0	0
+Szakács vagyok.	Я - кухар.	szakács	0	0
+Ma kevés ügyfél van.	Сьогодні мало клієнтів.	ügyfél	0	0
+Boldog születésnapot!	З днем народження!	születésnapot	0	0
+Ő újságíró.	Він журналіст.	újságíró	0	0
+A lány megmosta a haját.	Дівчина помила волосся.	haját	0	0
+Milyen színű a narancs?	Якого кольору апельсин?	színű	0	0
+Nincs időm, hogy könyveket olvassak.	Я не маю часу на читання книг.	könyveket	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	ellenünk	0	0
+Mary kevésbé aktív, mint a lánytestvére.	Марія не така жвава як її сестра.	aktív	0	0
+Friss a tej.	Молоко свіже.	tej	0	0
+Egy nap nélküled olyan, mint nyár napsütés nélkül.	День без тебе — як літо без сонця.	nyár	0	0
+Kitértem, hogy el tudjon menni.	Я відступив, щоб він міг пройти.	tudjon	0	0
+Kedveled az iskolát?	Тобі подобається школа?	kedveled	0	0
+Apám szeret repülővel utazni.	Мій батько полюбляє подорожувати літаком.	utazni	0	0
+Havi bevétele 2000 dollár.	Його місячний дохід становить 2000 доларів.	havi	0	0
+Adjatok öt napot!	Дайте мені п'ять днів.	adjatok	0	0
+Köszönetet mondott az ajándékért.	Вона подякувала за подарунок.	köszönetet	0	0
+Az asztalon egy alma van.	На столі є яблуко.	alma	0	0
+Találtunk egy teknősbékát a kertben.	Ми знайшли черепаху в саду.	kertben	0	0
+Az antiszemitizmus a hülyék szocializmusa.	Антисемитизм — це соціалізм для дурнів.	hülyék	0	0
+A kanapén aludtam.	Я спала на дивані.	kanapén	0	0
+A legjobb iskola a gyakorlat.	Найкраща школа - практика.	gyakorlat	0	0
+Tom vesztett.	Том програв.	vesztett	0	0
+Az emberek eladnák a lelküket, hogy azokról a helyekről nézhessék a koncertet.	Люди б продали душу, щоб слухати концерт з цих місць.	azokról	0	0
+Vártunk.	Ми чекали.	vártunk	0	0
+Tom ugrott.	Фома стрибнув.	ugrott	0	0
+Ez a dallam nem megy ki a fejemből.	Ця пісня не виходить в мене з голови.	fejemből	0	0
+Blümchen németül énekel.	Blümchen співає німецькою.	énekel	0	0
+Mit írsz?	Що ти пишеш?	írsz	0	0
+Ennek a szónak két jelentése van.	У цього слова два значення.	jelentése	0	0
+Nem olvasta el a könyvet.	Вона не прочитала книжку.	olvasta	0	0
+A tó nagyon mély.	Озеро дуже глибоке.	tó	0	0
+Az oroszlán erősebb, mint a farkas.	Леви сильніші за волків.	oroszlán	0	0
+Kennek több könyve van, mint neked.	Кен має більше книг, ніж ти.	könyve	0	0
+Apukám megcsalta anyukámat.	Тато зрадив мамі.	apukám	0	0
+Mit esznek a tigrisek?	Що їдять тигри?	esznek	0	0
+Már csak egy óránk van.	У нас є лише одна година.	óránk	0	0
+Ez nem Tom autója.	Це не машина Тома.	autója	0	0
+Hányszor kell elmondjam, hogy ne egyél cukrot vacsora előtt?	Скільки разів маю тобі повторювати, щоб ти не їв цукерки перед вечерею?	cukrot	0	0
+Ver a szíve.	Серце б'ється.	ver	0	0
+Diákok vagyunk.	Ми студенти.	diákok	0	0
+Donald Trump beteges hazudozó.	Дональд Трамп — патологічний брехун.	donald	0	0
+Öregember vagyok.	Я старик.	öregember	0	0
+Ő a legmagasabb férfi, akit valaha láttam.	Він найбільший чоловік, що я коли-небудь бачив.	legmagasabb	0	0
+A cikk az írója véleményét tükrözi.	Стаття висловлює особисту думку автора.	cikk	0	0
+Ez egy csodaszép ország.	Це чудова країна!	csodaszép	0	0
+Az osztályunkban negyvenegy tanuló van.	В нашому класі - 41 студент.	tanuló	0	0
+Milyen nyelven beszélnek Brazíliában?	Якою мовою розмовляють у Бразилії?	nyelven	0	0
+Mennél rosszabb, annál jobb.	Що гірше, то краще.	mennél	0	0
+Inkább meg kellene beszélnie az orvossal.	Краще проконсультуйтеся у лікаря.	beszélnie	0	0
+Donald Trump beteges hazudozó.	Дональд Трамп — патологічний брехун.	beteges	0	0
+Majdnem április volt.	Був майже квітень.	április	0	0
+A gyertya elaludt.	Свічка сама згасла.	elaludt	0	0
+Tegnap csütörtök volt.	Учора був четвер.	csütörtök	0	0
+Az ajándéka egy palack bor.	Його подарунок - це пляшка вина.	ajándéka	0	0
+A magyar nyelv jobb, mint az eszperantó.	Угорська мова краща за есперанто.	nyelv	0	0
+1000 dollárral tartozom neked.	Я тобі винний 1000 доларів.	dollárral	0	0
+Eltekintve az időtől, nem volt egy rossz piknik.	За виключенням погоди, це був хороший пікнік.	eltekintve	0	0
+Ők alszanak.	Вони сплять.	alszanak	0	0
+Tomnak sincs alibije.	У Тома також немає алібі.	alibije	0	0
+A hét törpe egyike homokos.	Один із семи гномів - гомосексуаліст.	törpe	0	0
+A beduinok a sivatagban élnek.	Бедуїни живуть в пустелі.	sivatagban	0	0
+Te nem vagy kanadai.	Ти не канадійка.	kanadai	0	0
+Nem olvasok könyveket.	Я не читаю книжки.	olvasok	0	0
+Mit tehetek értetek?	Що я можу для вас зробити?	értetek	0	0
+Át kell nézned ezt a programot.	Ти повинен передивитися цю програму.	nézned	0	0
+Nagyon szeretem a kutyákat.	Я дуже люблю собак.	kutyákat	0	0
+Meglep, hogy ennyire naiv vagy.	Я здивований, що ти такий наївний.	naiv	0	0
+Mit olvasol?	Що ти читаєш?	olvasol	0	0
+Szia, cica!	Гей, кицько!	cica	0	0
+Nálam vannak a kulcsok.	Ключі у мене є.	kulcsok	0	0
+Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	Усі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.	születik	0	0
+A cikk az írója véleményét tükrözi.	Стаття висловлює особисту думку автора.	véleményét	0	0
+Semmi sem történt a nap folyamán.	Протягом дня нічого не відбулося.	folyamán	0	0
+Ezer puszit adj!	Дай мені тисячу поцілунків.	puszit	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	mindennapi	0	0
+Hol van a lift?	Де ліфт?	lift	0	0
+A nyelv gyakran jobban vág a kardnál.	Не бiйся ножа, бiйся балаканини.	vág	0	0
+Boldog anyák napját!	З Днем матері!	anyák	0	0
+Szeretnék megtanulni héberül.	Хочу вивчити іврит.	megtanulni	0	0
+Van egy ajándékom számodra.	У мене для тебе подарунок.	ajándékom	0	0
+A Föld kerek.	Земля кругла.	kerek	0	0
+Van egy kutyám.	У мене є собака.	kutyám	0	0
+Süt a nap.	Сонце світить.	süt	0	0
+A papagájunk spanyolul beszél.	Наш папуга говорить іспанською.	spanyolul	0	0
+Vegyél fel egy kabátot, hogy nehogy megfázz.	Вдягни пальто, щоб не застудитися.	kabátot	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	mennyben	0	0
+Öregebb az autóm, mint én magam.	Моя машина старша від мене.	autóm	0	0
+Hol van a mamád, fiú?	Де твоя мама, хлопчику?	mamád	0	0
+Kellemes hétvégét!	Приємних вихідних.	hétvégét	0	0
+Marx Károly kommunista volt?	Карл Маркс був комуністом?	kommunista	0	0
+Senki sem tudhat mindent.	Ніхто не може все знати.	tudhat	0	0
+A szállodában maradt.	Він зупинився у готелі.	szállodában	0	0
+Azt hittem, Tomi zenész.	Я думав, що Том - музикант.	zenész	0	0
+Politikus vagyok.	Я політик.	politikus	0	0
+Hol található a könyvtár?	Де знаходиться бібліотека?	könyvtár	0	0
+Török vagyok.	Я турок.	török	0	0
+Melegek.	Вони гомосексуалісти.	melegek	0	0
+Hajlamos a lustaságra.	Він схильний до лінощів.	hajlamos	0	0
+Két majom vezette a repülőt.	Літаком керували дві мавпи.	repülőt	0	0
+Két ablak van a szobádban?	У твоїй кімнаті два вікна?	szobádban	0	0
+Isten egy elefánt.	Бог — це слон.	elefánt	0	0
+Tom szülei tanárok.	Батьки Тома — вчителі.	tanárok	0	0
+Ha megnézi, mi van a táskában, talán meggondolja magát.	Якщо ви побачите, що в сумці, ви, можливо, передумаєте.	megnézi	0	0
+Boldog anyák napját!	З Днем матері!	napját	0	0
+Semmi sem keményebb a gyémántnál.	Немає нічого твердішого за діамант.	keményebb	0	0
+Rokonok vagyunk.	Ми родичі.	rokonok	0	0
+A király és családja a királyi palotában él.	Король та його родина живуть в королівському палаці.	palotában	0	0
+Van egy könyvem.	У мене є книжка.	könyvem	0	0
+Lengyel újságíró vagyok.	Я польський журналіст.	lengyel	0	0
+Tizenegy évesen kezdett angolt tanulni.	Він почав вивчати англійську в одинадцять років.	tizenegy	0	0
+Az új koronavírus erősen fertőző.	Новий коронавірус дуже заразний.	fertőző	0	0
+Tiszták a kezeid?	У тебе чисті руки?	tiszták	0	0
+Nyugdíjas vagyok.	Я на пенсії.	nyugdíjas	0	0
+Ezzel a vonattal kétszer gyorsabban odaérsz.	Цим потягом ти доїдеш у два рази швидше.	vonattal	0	0
+Ha megnézi, mi van a táskában, talán meggondolja magát.	Якщо ви побачите, що в сумці, ви, можливо, передумаєте.	táskában	0	0
+Miért nem pihen egy kicsit?	Чому б вам трохи не відпочити?	pihen	0	0
+Ez a könyv jól fogy.	Ця книжка добре продається.	fogy	0	0
+Nem vagyok svájci.	Я не швейцарка.	svájci	0	0
+Kezdetben teremté Tomi Bostont és Ausztráliát.	На початку, Том створив Бостон та Австралію.	kezdetben	0	0
+Ez a zászló nagyon szép.	Цей прапор дуже красивий.	zászló	0	0
+Most kezdjük el a munkánkat.	А тепер розпочнімо нашу роботу.	munkánkat	0	0
+Eszem egy almát.	Я їм яблуко.	almát	0	0
+Ő nem az én esetem.	Це не мій типаж.	esetem	0	0
+A kutya csóválta a farkát.	Собака виляв хвостом.	farkát	0	0
+Vártak.	Вони чекали.	vártak	0	0
+Meghallván a rossz hírt sírva fakadt.	Почувши погану новину, вона розплакалася.	sírva	0	0
+Miért nem táncolsz?	Чому ти не танцюєш?	táncolsz	0	0
+A barátnőmet várom.	Я чекаю на свою дівчину.	barátnőmet	0	0
+Több a felhő ma, mint tegnap.	Нині більше хмар ніж вчора.	felhő	0	0
+Milyen színű a narancs?	Якого кольору апельсин?	narancs	0	0
+Egy külföldinek nehéz tanulnia japánul.	Іноземцям важко вивчати японську.	tanulnia	0	0
+Megettem egy hamburgert.	Я з'їв гамбургер.	hamburgert	0	0
+Szemet szemért, fogat fogért.	Око за око, зуб за зуб.	fogat	0	0
+A kínaiak rendkívül dolgosak.	Китайці надзвичайно працьовиті.	kínaiak	0	0
+Minden növénynek szüksége van vízre és fényre.	Всім рослинам потрібна вода і світло.	vízre	0	0
+Tom mosolygott.	Фома посміхнувся.	mosolygott	0	0
+Közeledünk egymáshoz.	Ми стаємо ближчі одна до одної.	közeledünk	0	0
+Szükséged van még a segítségemre?	Ти все ще потребуєш моєї допомоги?	segítségemre	0	0
+Megettem egy hamburgert.	Я з'їв гамбургер.	megettem	0	0
+Ki törte el a vázát?	Хто розбив вазу?	törte	0	0
+Ha megnézi, mi van a táskában, talán meggondolja magát.	Якщо ви побачите, що в сумці, ви, можливо, передумаєте.	meggondolja	0	0
+Tomnak hosszú a nyaka.	У Тома довга шия.	nyaka	0	0
+Lassan járj!	Поспішай повільно.	járj	0	0
+Tom vérfarkas.	Том — перевертень.	vérfarkas	0	0
+Milyen filmet vetítenek nyolckor?	Який фільм показують о восьмій?	nyolckor	0	0
+Édesapám szeret repülővel utazni.	Мій батько полюбляє подорожувати літаком.	édesapám	0	0
+Vegetáriánus vagyok.	Я вегетаріанець.	vegetáriánus	0	0
+Érzéseket és gondolatokat szavak fejezik ki.	Думки і почуття виражаються за допомогою слів.	érzéseket	0	0
+Egy gyárban dolgozom.	Я працюю на фабриці.	gyárban	0	0
+Tom az én hősöm.	Том мій герой.	hősöm	0	0
+Azt hiszem, valamit eltitkol előlünk.	Я думаю він щось приховує від нас.	előlünk	0	0
+Öregebb az autóm, mint én magam.	Моя машина старша від мене.	öregebb	0	0
+Szoktad olvasni Tom blogját?	Ти читаєш блог Тома?	szoktad	0	0
+Melyik osztályba jár a nővéred?	В якому класі твоя сестра?	osztályba	0	0
+Én nem vagyok barbár.	Я не варвар.	barbár	0	0
+A hét törpe egyike homokos.	Один із семи гномів - гомосексуаліст.	homokos	0	0
+A gyertya elaludt.	Свічка сама згасла.	gyertya	0	0
+A fivérem egészséges.	Мій брат здоровий.	fivérem	0	0
+Egy vörös nyakkendőt vásároltam.	Я купив червону краватку.	nyakkendőt	0	0
+Eltévedtem az erdőben.	Я заблукав у лісі.	eltévedtem	0	0
+Tiszták a kezeid?	У тебе чисті руки?	kezeid	0	0
+Bostonban dolgozom.	Я працюю в Бостоні.	bostonban	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	bocsásd	0	0
+Inkább meg kellene beszélnie az orvossal.	Краще проконсультуйтеся у лікаря.	orvossal	0	0
+Beszél németül?	Ви говорите німецькою?	németül	0	0
+Az apádra emlékeztetsz.	Ти нагадуєш мені свого батька.	emlékeztetsz	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	szabadíts	0	0
+Afrika az emberiség bölcsője.	Африка є колискою людства.	afrika	0	0
+Díler.	Вона наркоділер.	díler	0	0
+Közvetlen járattal repülünk az USA-ba.	У нас прямий рейс до США?	repülünk	0	0
+Én egy banán vagyok.	Я банан.	banán	0	0
+A nagy és a mutató ujja közé csippentette a lepkét.	Він підхопив метелика, затиснувши його між великим і вказівним пальцями.	ujja	0	0
+Emlékszel erre a játékra?	Ви пам'ятаєте цю ігру?	játékra	0	0
+Miért nevetnek a hiénák?	Чому гієни сміються?	nevetnek	0	0
+A feleségeddel akarok aludni.	Я хочу спати з твоєю дружиною.	feleségeddel	0	0
+Milyen irányból?	З якого напрямку?	irányból	0	0
+Nincs senkim.	Я нікого не маю.	senkim	0	0
+Íme a te kutyád. Hol van az enyém?	Ось твій собака. А де мій?	kutyád	0	0
+Papírra van szükségünk.	Нам потрібен папір.	papírra	0	0
+Donald Trump beteges hazudozó.	Дональд Трамп — патологічний брехун.	hazudozó	0	0
+Reggel ötkor keltem.	Я встала о п'ятій ранку.	ötkor	0	0
+Drogdíler.	Вона наркоділер.	drogdíler	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	mennyekben	0	0
+Berlin egy német város.	Берлін - німецьке місто.	berlin	0	0
+Tom táncolt.	Фома танцював.	táncolt	0	0
+Azonnal cselekednünk kell.	Мусимо діяти негайно.	cselekednünk	0	0
+Az apádra emlékeztetsz.	Ти нагадуєш мені свого батька.	apádra	0	0
+Az emberek eladnák a lelküket, hogy azokról a helyekről nézhessék a koncertet.	Люди б продали душу, щоб слухати концерт з цих місць.	koncertet	0	0
+Édesapám szeret repülővel utazni.	Мій батько полюбляє подорожувати літаком.	repülővel	0	0
+Apukám megcsalta anyukámat.	Тато зрадив мамі.	anyukámat	0	0
+Minden nap úszok a tengerben.	Кожного дня я купаюся в морі.	tengerben	0	0
+Az ajándéka egy palack bor.	Його подарунок - це пляшка вина.	palack	0	0
+Reggel ötkor keltem.	Я встала о п'ятій ранку.	keltem	0	0
+Neked köszönhetően, elment az étvágyam.	Через тебе я втратив апетит.	étvágyam	0	0
+Engedd meg, hogy bemutassam neked az édesanyámat.	Дозволь познайомити тебе з моєю матір’ю.	bemutassam	0	0
+Szereted a fehér csokoládét?	Ти любиш білий шоколад?	csokoládét	0	0
+Én is utálom Tomot.	Я теж ненавиджу Тома.	tomot	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	akaratod	0	0
+Ne vedd a szívedre!	Не бери близько до серця!	szívedre	0	0
+Miért jöttél Japánba?	Чому ти приїхав до Японії?	japánba	0	0
+Büszke lehet az apjára.	Він може пишатися своїм батьком.	apjára	0	0
+Hol a szemüvegem?	Де мої окуляри?	szemüvegem	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	gonosztól	0	0
+Olaszország nagyon szép ország.	Італія - дуже гарна країна.	olaszország	0	0
+Válassz ki véletlenszerűen három könyvet.	Вибери навмання три книжки.	véletlenszerűen	0	0
+Apukám megcsalta anyukámat.	Тато зрадив мамі.	megcsalta	0	0
+Marx Károly kommunista volt?	Карл Маркс був комуністом?	károly	0	0
+Az olaszok ritkán beszélnek politikáról.	Італійці рідко говорять про політику.	olaszok	0	0
+Szeretem a sportot.	Я люблю спорт.	sportot	0	0
+Ez a dallam nem megy ki a fejemből.	Ця пісня не виходить в мене з голови.	dallam	0	0
+Itt a címem.	Ось моя адреса.	címem	0	0
+Szeretem a meglepetéseket.	Я люблю сюрпризи.	meglepetéseket	0	0
+Ennünk kell valamit.	Нам треба щось поїсти.	ennünk	0	0
+A birka ad nekünk gyapjút.	Вівці дають нам шерсть.	birka	0	0
+Nem dohányzom.	Я не курю.	dohányzom	0	0
+Tom felszínes.	Том поверхневий.	felszínes	0	0
+Minden növénynek szüksége van vízre és fényre.	Всім рослинам потрібна вода і світло.	fényre	0	0
+Eltekintve az időtől, nem volt egy rossz piknik.	За виключенням погоди, це був хороший пікнік.	piknik	0	0
+Irán nem Irak.	Іран не Ірак.	irak	0	0
+A férfi meglepődött a hír hallatán.	Чоловік був здивований новиною.	meglepődött	0	0
+Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	Усі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.	ésszel	0	0
+Tudsz olaszul?	Ви говорите італійською?	olaszul	0	0
+A papám szereti a mamámat.	Мій тато кохає мою маму.	papám	0	0
+Cukros vagyok.	У мене діабет.	cukros	0	0
+Érzéseket és gondolatokat szavak fejezik ki.	Думки і почуття виражаються за допомогою слів.	gondolatokat	0	0
+Megittam egy sört.	Я випив пиво.	megittam	0	0
+Az egerek különböznek a patkányoktól.	Миші відмінні від щурів.	különböznek	0	0
+Egy nap nélküled olyan, mint nyár napsütés nélkül.	День без тебе — як літо без сонця.	napsütés	0	0
+Tomnak tetszik az új autója.	Тому подобається його нова машина.	tomnak	0	0
+Párizsban havazik.	У Парижі йде сніг.	havazik	0	0
+Tom tud kézen járni.	Том може ходити на руках.	kézen	0	0
+Beszél ön japánul?	Ви говорите японською?	japánul	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	országod	0	0
+Meg tudnád ismételni?	Можеш це повторити?	ismételni	0	0
+Az egerek különböznek a patkányoktól.	Миші відмінні від щурів.	egerek	0	0
+Ki a tanárod?	Хто твій вчитель?	tanárod	0	0
+Szemet szemért, fogat fogért.	Око за око, зуб за зуб.	szemért	0	0
+A Hilton szállóhoz, legyen szíves!	В готель "Хілтон", прошу.	hilton	0	0
+A férfi rákban halt meg.	Чоловік помер від раку.	rákban	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	amen	0	0
+Tizenegy évesen kezdett angolt tanulni.	Він почав вивчати англійську в одинадцять років.	angolt	0	0
+Tom egy cetcápával úszott.	Том плавав з китовою акулою.	úszott	0	0
+Dohányzol?	Ти куриш?	dohányzol	0	0
+Egy vörös nyakkendőt vásároltam.	Я купив червону краватку.	vásároltam	0	0
+Jó melegnek lenni.	Добре бути геєм.	melegnek	0	0
+Ukrán vagyok.	Я українець.	ukrán	0	0
+Tamás taxisofőr.	Том — таксист.	tamás	0	0
+Az olaszok ritkán beszélnek politikáról.	Італійці рідко говорять про політику.	politikáról	0	0
+Van egy macskám.	У мене є кіт.	macskám	0	0
+Ő beszél magyarul.	Він говорить угорською.	magyarul	0	0
+Mitől kell félnem?	Чого мені боятися?	félnem	0	0
+Ki a legérdekesebb barátod?	Хто твій найцікавіший друг?	legérdekesebb	0	0
+A víz száz fokon forr.	Вода кипить при ста градусах.	fokon	0	0
+Irán nem Irak.	Іран не Ірак.	irán	0	0
+Bern Svájc fővárosa.	Берн — столиця Швейцарії.	fővárosa	0	0
+Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	Усі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.	testvéri	0	0
+Rossz a kézírása.	Він має поганий почерк.	kézírása	0	0
+A cikk az írója véleményét tükrözi.	Стаття висловлює особисту думку автора.	tükrözi	0	0
+Akkor ezt mondta Isten: Legyen világosság! És lett világosság.	І сказав Бог: Хай станеться світло! І сталося світло.	világosság	0	0
+Tamás taxisofőr.	Том — таксист.	taxisofőr	0	0
+Teréz anya 1910-ben Jugoszláviában született.	Мати Тереза народилася в Югославії в 1910 році.	teréz	0	0
+Közvetlen járattal repülünk az USA-ba.	У нас прямий рейс до США?	járattal	0	0
+100 eurót keresek naponta.	Я заробляю 100 євро на день.	eurót	0	0
+Szabotázs!	Саботаж!	szabotázs	0	0
+Egy mindenkiért, mindenki egyért.	Один за всіх, усі за одного.	mindenkiért	0	0
+A munkám a hobbim.	Моя робота - це моє хобі.	hobbim	0	0
+Egy mindenkiért, és mindenki egyért.	Один за всіх, і всі за одного.	egyért	0	0
+Mari szereti a pénzt.	Мері обожнює гроші.	mari	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	szenteltessék	0	0
+Karl Marx kommunista volt?	Карл Маркс був комуністом?	marx	0	0
+Pál vagyok, a te munkatársad.	Я Пол, твій сусід по кімнаті.	pál	0	0
+Külföldiek vagytok?	Ви іноземці?	külföldiek	0	0
+Nem kell fogorvoshoz menned.	Ти не повинен йти до зубного.	fogorvoshoz	0	0
+Biciklivel ment.	Він поїхав на велосипеді.	biciklivel	0	0
+Milyen nyelven beszélnek Brazíliában?	Якою мовою розмовляють у Бразилії?	brazíliában	0	0
+A víz száz fokon forr.	Вода кипить при ста градусах.	forr	0	0
+Mit esznek a tigrisek?	Що їдять тигри?	tigrisek	0	0
+Nem vagyok cseh.	Я не чешка.	cseh	0	0
+A kislány babáját ölelte.	Дівчинка обійняла свою ляльку.	babáját	0	0
+A nagy és a mutató ujja közé csippentette a lepkét.	Він підхопив метелика, затиснувши його між великим і вказівним пальцями.	mutató	0	0
+Mi ébresztett föl?	Що тебе розбудило?	ébresztett	0	0
+Hármast kaptam angolból.	Отримав трійку з англійської.	hármast	0	0
+Ki törte el a vázát?	Хто розбив вазу?	vázát	0	0
+Taxira vártam.	Я чекала на таксі.	taxira	0	0
+Az iskolai egyenruhák kimennek a divatból.	Шкільна форма - просто старомодна.	divatból	0	0
+A cikk az írója véleményét tükrözi.	Стаття висловлює особисту думку автора.	írója	0	0
+Adott nekem néhány bélyeget.	Він дав мені декілька марок.	bélyeget	0	0
+A szoftvert a legújabb verzióra frissítettem.	Я оновила програмне забезпечення до останньої версії.	szoftvert	0	0
+Ki a szerzője ennek a könyvnek?	Хто автор цієї книги?	szerzője	0	0
+Le szabad önt fényképezni?	Можна вас сфотографувати?	fényképezni	0	0
+Az emberek eladnák a lelküket, hogy azokról a helyekről nézhessék a koncertet.	Люди б продали душу, щоб слухати концерт з цих місць.	helyekről	0	0
+Ezzel a vonattal kétszer gyorsabban odaérsz.	Цим потягом ти доїдеш у два рази швидше.	odaérsz	0	0
+Vigye magával ezt az összecsukható esernyőt. Lehet, hogy jól fog jönni.	Візьми цю складану парасольку з собою. Вона може стати в нагоді.	esernyőt	0	0
+Megegyeztek abban, hogy együtt dolgoznak.	Вони домовилися співпрацювати.	megegyeztek	0	0
+Hol vannak a kulcsaim?	Де мої ключі?	kulcsaim	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	megbocsátunk	0	0
+Nem félek a munkától.	Я не боюся роботи.	munkától	0	0
+Az emberek eladnák a lelküket, hogy azokról a helyekről nézhessék a koncertet.	Люди б продали душу, щоб слухати концерт з цих місць.	lelküket	0	0
+A világ anime nélkül olyan lenne, akárcsak a mosógép internet-elérés nélkül.	Світ без аніме був би подібний до пральної машинки без доступу в інтернет.	anime	0	0
+Azt mondta, tizenkilenc éves.	Вона сказала, що їй дев'ятнадцять років.	tizenkilenc	0	0
+Donald Trump beteges hazudozó.	Дональд Трамп — патологічний брехун.	trump	0	0
+Ki a szerzője ennek a könyvnek?	Хто автор цієї книги?	könyvnek	0	0
+Bern Svájc fővárosa.	Берн — столиця Швейцарії.	svájc	0	0
+Szerbia határos Magyarországgal, Romániával, Bulgáriával, Horvátországgal, Macedóniával, Boszniával és Montenegróval.	Сербія межує з Угорщиною, Румунією, Болгарією, Хорватією, Македонією, Боснією та Чорногорією.	határos	0	0
+Emilie görögül akar tanulni.	Емілі хоче вивчити грецьку.	emilie	0	0
+Ennek a szónak két jelentése van.	У цього слова два значення.	szónak	0	0
+A férfi meglepődött a hír hallatán.	Чоловік був здивований новиною.	hallatán	0	0
+A legrosszabb vírus a kapitalizmus.	Найгірший вірус — це капіталізм.	kapitalizmus	0	0
+Eső miatt el kellett halasztani a pikniket.	Пікнік був скасований через дощ.	halasztani	0	0
+Az iskolai egyenruhák kimennek a divatból.	Шкільна форма - просто старомодна.	kimennek	0	0
+Nincs időm, hogy könyveket olvassak.	Я не маю часу на читання книг.	olvassak	0	0
+Érzéseket és gondolatokat szavak fejezik ki.	Думки і почуття виражаються за допомогою слів.	fejezik	0	0
+Mit ettetek?	Що ви їли?	ettetek	0	0
+A világ anime nélkül olyan lenne, akárcsak a mosógép internet-elérés nélkül.	Світ без аніме був би подібний до пральної машинки без доступу в інтернет.	mosógép	0	0
+Havi bevétele 2000 dollár.	Його місячний дохід становить 2000 доларів.	bevétele	0	0
+A matrózok az fedélzeten táncoltak.	Матроси танцювали на палубі.	táncoltak	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	kenyerünket	0	0
+John szeret sakkozni.	Джон полюбляє шахи.	sakkozni	0	0
+Vannak gyerekeitek?	У вас є діти?	gyerekeitek	0	0
+Megköszönte az ajándékot.	Вона подякувала за подарунок.	megköszönte	0	0
+Jobban szeretem a vörösbort, mint a fehérbort.	Я люблю більше червоне вино, а не біле.	vörösbort	0	0
+Engedd meg, hogy bemutassam neked az édesanyámat.	Дозволь познайомити тебе з моєю матір’ю.	édesanyámat	0	0
+Tom egy kandúr.	Том — кіт.	kandúr	0	0
+Meghallván a rossz hírt sírva fakadt.	Почувши погану новину, вона розплакалася.	fakadt	0	0
+Cigizel?	Ти куриш?	cigizel	0	0
+Közvetlen járattal repülünk az USA-ba.	У нас прямий рейс до США?	usa-ba	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	vétkeinket	0	0
+Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	Усі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.	lelkiismerettel	0	0
+Emilie görögül akar tanulni.	Емілі хоче вивчити грецьку.	görögül	0	0
+Behajtani tilos!	Стороннім вхід заборонено!	behajtani	0	0
+Kölcsönadom neked.	Я позичу тобі її.	kölcsönadom	0	0
+Nem tudom a címedet.	Я не знаю твоєї адреси.	címedet	0	0
+Felhívhatlak holnap?	Можна зателефонувати тобі завтра?	felhívhatlak	0	0
+A Holdról nézve a Föld labdának látszik.	Якщо дивитися з Місяця, Земля схожа на м'яч.	holdról	0	0
+Havazni fog.	Буде сніг.	havazni	0	0
+Hol vannak az almák?	Де яблука?	almák	0	0
+Több mint négyezer nyelv van a világon.	У світі налічується більше ніж 4000 мов.	négyezer	0	0
+A papám szereti a mamámat.	Мій тато кохає мою маму.	mamámat	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	miatyánk	0	0
+Minden nap úszok a tengerben.	Кожного дня я купаюся в морі.	úszok	0	0
+Svédország fővárosa Stockholm.	Столиця Швеції — Стокгольм.	svédország	0	0

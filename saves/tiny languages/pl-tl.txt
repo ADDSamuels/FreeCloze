@@ -1,0 +1,97 @@
+To nie krew.	Hindi ito dugo.	nie	0	0
+Czy to pański helikopter?	Inyong helikopter ba?	to	0	0
+On spieszy się na pociąg.	Nagmamadali siyang mahabol ang tren.	się	0	0
+Jestem w ogrodzie.	Nasa hardin ako.	w	0	0
+On spieszy się na pociąg.	Nagmamadali siyang mahabol ang tren.	na	0	0
+„Ona lubi muzykę.” „I ja też.”	"Gusto niya ang musika." "Ako rin."	i	0	0
+Powiedz mi, co zrobiłeś na Hawajach?	Sabihin mo sa akin kung ano ang ginawa mo sa Hawaii.	co	0	0
+Phoenix jest stolicą Arizony.	Phoenix ang kabisera ng Arizona.	jest	0	0
+Tak.	Oo.	tak	0	0
+A oto mój sekret. Jest bardzo prosty: dobrze widzi sie tylko sercem. Najwazniejsze jest niewidoczne dla oczu.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	a	0	0
+Możesz mnie nauczyć to robić?	Maaari mo ba akong turuan kung paano iyan gawin?	mnie	0	0
+Poradził mi, żebym tam poszedł.	Pinayuhan niya akong pumunta doon.	mi	0	0
+Tęskniłe/am za tobą.	Namis kita.	za	0	0
+„Ona lubi muzykę.” „I ja też.”	"Gusto niya ang musika." "Ako rin."	ja	0	0
+A oto mój sekret. Jest bardzo prosty: dobrze widzi sie tylko sercem. Najwazniejsze jest niewidoczne dla oczu.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	tylko	0	0
+Czy jesteś szczęśliwy w swoim domu?	Masaya ka ba sa bahay mo?	czy	0	0
+Dlaczego tu jestem?	Bakit ako nandito?	tu	0	0
+Jestem w ogrodzie.	Nasa hardin ako.	jestem	0	0
+Czy ktoś ma latarkę?	Mayroon bang may dalang plaslayt?	ma	0	0
+Czy jesteś szczęśliwy w swoim domu?	Masaya ka ba sa bahay mo?	jesteś	0	0
+A oto mój sekret. Jest bardzo prosty: dobrze widzi sie tylko sercem. Najwazniejsze jest niewidoczne dla oczu.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	dla	0	0
+A oto mój sekret. Jest bardzo prosty: dobrze widzi sie tylko sercem. Najwazniejsze jest niewidoczne dla oczu.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	dobrze	0	0
+Poradził mi, żebym tam poszedł.	Pinayuhan niya akong pumunta doon.	tam	0	0
+Gdzie jest wyjście?	Nasaan ang palabas?	gdzie	0	0
+Widzisz ten dom? To jest mój dom.	Kita mo ba ang bahay na iyon? Iyon ang aking bahay.	ten	0	0
+On spieszy się na pociąg.	Nagmamadali siyang mahabol ang tren.	on	0	0
+A oto mój sekret. Jest bardzo prosty: dobrze widzi sie tylko sercem. Najwazniejsze jest niewidoczne dla oczu.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	bardzo	0	0
+Chcę gitarę.	Gusto ko ng gitara.	chcę	0	0
+Dlaczego tu jestem?	Bakit ako nandito?	dlaczego	0	0
+Widzisz ten dom? To jest mój dom.	Kita mo ba ang bahay na iyon? Iyon ang aking bahay.	mój	0	0
+Możesz mnie nauczyć to robić?	Maaari mo ba akong turuan kung paano iyan gawin?	możesz	0	0
+Czy jesteś szczęśliwy w swoim domu?	Masaya ka ba sa bahay mo?	domu	0	0
+„Ona lubi muzykę.” „I ja też.”	"Gusto niya ang musika." "Ako rin."	ona	0	0
+Czy ktoś ma latarkę?	Mayroon bang may dalang plaslayt?	ktoś	0	0
+Tęskniłe/am za tobą.	Namis kita.	tobą	0	0
+Dziś jest bardziej pochmurnie niż wczoraj.	Mas umuulap ngayon kaysa sa kahapon.	niż	0	0
+On jest moim starszym bratem.	Siya ang aking nakatatandang kapatid.	moim	0	0
+Powiedz mi, co zrobiłeś na Hawajach?	Sabihin mo sa akin kung ano ang ginawa mo sa Hawaii.	powiedz	0	0
+Dziś jest bardziej pochmurnie niż wczoraj.	Mas umuulap ngayon kaysa sa kahapon.	dziś	0	0
+Póki jesteśmłody, powinieneś czytać dużo książek.	Pagka bata ka pa, dapat maraming aklat ang basahin mo.	dużo	0	0
+Możesz mnie nauczyć to robić?	Maaari mo ba akong turuan kung paano iyan gawin?	robić	0	0
+Dziś jest bardziej pochmurnie niż wczoraj.	Mas umuulap ngayon kaysa sa kahapon.	bardziej	0	0
+Kocham słońce.	Mahal ko ang bituing araw.	kocham	0	0
+A oto mój sekret. Jest bardzo prosty: dobrze widzi sie tylko sercem. Najwazniejsze jest niewidoczne dla oczu.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	sie	0	0
+Jutro jest niedziela.	Bukas ay Linggo.	jutro	0	0
+Widzisz ten dom? To jest mój dom.	Kita mo ba ang bahay na iyon? Iyon ang aking bahay.	widzisz	0	0
+Widzisz ten dom? To jest mój dom.	Kita mo ba ang bahay na iyon? Iyon ang aking bahay.	dom	0	0
+Jest noc.	Gabi na.	noc	0	0
+Poradził mi, żebym tam poszedł.	Pinayuhan niya akong pumunta doon.	żebym	0	0
+Póki jesteśmłody, powinieneś czytać dużo książek.	Pagka bata ka pa, dapat maraming aklat ang basahin mo.	powinieneś	0	0
+Dziś jest bardziej pochmurnie niż wczoraj.	Mas umuulap ngayon kaysa sa kahapon.	wczoraj	0	0
+Idę.	Aalis na ako.	idę	0	0
+Czy jesteś szczęśliwy w swoim domu?	Masaya ka ba sa bahay mo?	swoim	0	0
+A oto mój sekret. Jest bardzo prosty: dobrze widzi sie tylko sercem. Najwazniejsze jest niewidoczne dla oczu.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	oto	0	0
+Pójdę za Kahlessa	Malikpara kaalas.	pójdę	0	0
+Powiedz mi, co zrobiłeś na Hawajach?	Ikuwento mo sa akin kung ano ang ginawa mo sa Hawaii.	zrobiłeś	0	0
+Bóg istnieje.	May Diyos.	bóg	0	0
+To nie krew.	Hindi ito dugo.	krew	0	0
+„Ona lubi muzykę.” „I ja też.”	"Gusto niya ang musika." "Ako rin."	lubi	0	0
+Pracuję.	Nagtatrabaho ako.	pracuję	0	0
+Bóg istnieje.	May Diyos.	istnieje	0	0
+Póki jesteśmłody, powinieneś czytać dużo książek.	Pagka bata ka pa, dapat maraming aklat ang basahin mo.	póki	0	0
+Poradził mi, żebym tam poszedł.	Pinayuhan niya akong pumunta doon.	poszedł	0	0
+Czy jesteś szczęśliwy w swoim domu?	Masaya ka ba sa bahay mo?	szczęśliwy	0	0
+A oto mój sekret. Jest bardzo prosty: dobrze widzi sie tylko sercem. Najwazniejsze jest niewidoczne dla oczu.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	widzi	0	0
+Możesz mnie nauczyć to robić?	Maaari mo ba akong turuan kung paano iyan gawin?	nauczyć	0	0
+Kocham słońce.	Mahal ko ang bituing araw.	słońce	0	0
+Zaczynam.	Magsisimula na ako.	zaczynam	0	0
+On jest moim starszym bratem.	Siya ang aking kuya.	bratem	0	0
+Gdzie jest wyjście?	Nasaan ang palabas?	wyjście	0	0
+A oto mój sekret. Jest bardzo prosty: dobrze widzi sie tylko sercem. Najwazniejsze jest niewidoczne dla oczu.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	oczu	0	0
+Czy to pański helikopter?	Inyong helikopter ba?	pański	0	0
+Ziemia jest okrągła.	Mabilog ang Tiyera.	ziemia	0	0
+On spieszy się na pociąg.	Nagmamadali siyang mahabol ang tren.	pociąg	0	0
+Póki jesteśmłody, powinieneś czytać dużo książek.	Pagka bata ka pa, dapat maraming aklat ang basahin mo.	czytać	0	0
+A oto mój sekret. Jest bardzo prosty: dobrze widzi sie tylko sercem. Najwazniejsze jest niewidoczne dla oczu.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	sekret	0	0
+A oto mój sekret. Jest bardzo prosty: dobrze widzi sie tylko sercem. Najwazniejsze jest niewidoczne dla oczu.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	sercem	0	0
+Póki jesteśmłody, powinieneś czytać dużo książek.	Pagka bata ka pa, dapat maraming aklat ang basahin mo.	książek	0	0
+Jestem psem.	Aso ako.	psem	0	0
+Uczę.	Nagtuturo ako.	uczę	0	0
+A oto mój sekret. Jest bardzo prosty: dobrze widzi sie tylko sercem. Najwazniejsze jest niewidoczne dla oczu.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	prosty	0	0
+Krew jest czerwona.	Pula ang dugo.	czerwona	0	0
+Czy to pański helikopter?	Inyong helikopter ba?	helikopter	0	0
+Jestem w ogrodzie.	Nasa hardin ako.	ogrodzie	0	0
+On jest moim starszym bratem.	Siya ang aking kuya.	starszym	0	0
+Phoenix jest stolicą Arizony.	Phoenix ang kabisera ng Arizona.	phoenix	0	0
+Jutro jest niedziela.	Bukas ay Linggo.	niedziela	0	0
+On spieszy się na pociąg.	Nagmamadali siyang mahabol ang tren.	spieszy	0	0
+Ten owoc jest bardzo kwaśny.	Napaka asim ng prutas na ito.	owoc	0	0
+Chcę gitarę.	Gusto ko ng gitara.	gitarę	0	0
+Czy ktoś ma latarkę?	Mayroon bang may dalang plaslayt?	latarkę	0	0
+Poradził mi, żebym tam poszedł.	Pinayuhan niya akong pumunta doon.	poradził	0	0
+Powiedz mi, co zrobiłeś na Hawajach?	Sabihin mo sa akin kung ano ang ginawa mo sa Hawaii.	hawajach	0	0
+Stolicą Arizony jest Phoenix.	Phoenix ang kabisera ng Arizona.	arizony	0	0
+A oto mój sekret. Jest bardzo prosty: dobrze widzi sie tylko sercem. Najwazniejsze jest niewidoczne dla oczu.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	niewidoczne	0	0
+Stolicą Arizony jest Phoenix.	Phoenix ang kabisera ng Arizona.	stolicą	0	0
+Ziemia jest okrągła.	Mabilog ang Tiyera.	okrągła	0	0

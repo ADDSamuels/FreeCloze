@@ -1,0 +1,28 @@
+Minulla on ystäviä Bostonissa.	Имам пријатели во Бостон.	on	0	0
+En voi tehdä sitä nyt.	Не можам сега.	en	0	0
+Minä yritin kertoa Tomille.	Се обидов да му кажам на Том.	minä	0	0
+En voi tehdä sitä nyt.	Не можам сега.	nyt	0	0
+En voi tehdä sitä nyt.	Не можам сега.	voi	0	0
+En voi tehdä sitä nyt.	Не можам сега.	sitä	0	0
+Minulla on ystäviä Bostonissa.	Имам пријатели во Бостон.	minulla	0	0
+En voi tehdä sitä nyt.	Не можам сега.	tehdä	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	yksi	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	kaksi	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	kolme	0	0
+Minä yritin kertoa Tomille.	Се обидов да му кажам на Том.	kertoa	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	viisi	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	neljä	0	0
+Minä yritin kertoa Tomille.	Се обидов да му кажам на Том.	yritin	0	0
+Vatsani on täynnä.	Полн ми е желудникот.	täynnä	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	kuusi	0	0
+Minulla on ystäviä Bostonissa.	Имам пријатели во Бостон.	ystäviä	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	kymmenen	0	0
+Tom hellitti otettaan.	Том ја олабави раката.	tom	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	seitsemän	0	0
+Tom asuu Bostonissa.	Том живее во Бостон.	asuu	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	kahdeksan	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	yhdeksän	0	0
+Minulla on ystäviä Bostonissa.	Имам пријатели во Бостон.	bostonissa	0	0
+Vatsani on täynnä.	Полн ми е желудникот.	vatsani	0	0
+Tomi on adoptoitu.	Том беше посвоен.	adoptoitu	0	0
+Minä yritin kertoa Tomille.	Се обидов да му кажам на Том.	tomille	0	0

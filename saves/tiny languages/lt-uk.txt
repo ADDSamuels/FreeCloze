@@ -1,0 +1,414 @@
+Mergaitės skaito ir rašo.	Дівчата читають і пишуть.	ir	0	0
+Aš nemoku anglų kalbos.	Я не знаю англійської.	aš	0	0
+Negaliu patikėti, kad ką tik tai pasakiau!	Я не можу повірити, що я щойно це сказав!	tai	0	0
+Ar norėtumėte, kad aš tai užsakyčiau?	Ви б хотіли, щоб я це замовив?	kad	0	0
+Kiek angliškų žodžių tu žinai?	Скільки ти знаєш англійських слів?	tu	0	0
+Aš ne pesimistas.	Я не песиміст.	ne	0	0
+Jis šovė į paukštį, bet nepataikė.	Він вистрілив у птаха, але промахнувся.	jis	0	0
+Ką aš matau?	Що я бачу?	ką	0	0
+Aš čia gyvenu.	Я тут мешкаю.	čia	0	0
+Pažiūrėk į sraigę.	Подивися на слимака.	į	0	0
+Kaip tavo reikalai?	Як твої справи?	kaip	0	0
+Aš negaliu su Tomu susisiekti telefonu.	Я не можу зв'язатися з Томом по телефону.	su	0	0
+Ar ji italė?	Вона італійка?	ar	0	0
+Nekask kitam duobės, o tai pats įkrisi.	Не копай другому ями, бо сам упадеш.	o	0	0
+Ši kava man per stipri.	Ця кава заміцна для мене.	man	0	0
+"Kas yra šitoje dėžutėje?" — "Nieko".	«Що в цій коробці?» — «Нічого».	kas	0	0
+Ji man pasakė, kad pažįsta mano brolį.	Вона мені сказала, що знає мого брата.	mano	0	0
+Pastatas senas, bet tvirtas.	Будівля стара, але міцна.	bet	0	0
+Man nepavyko gauti konkretaus atsakymo iš jo.	Я не зміг отримати чітку відповідь від нього.	iš	0	0
+Mes viliamės pasiekti viršūnę prieš nusileidžiant saulei.	Ми сподіваємося піднятися на вершину, поки не стало темно.	mes	0	0
+Tomas ir Marija valgo tik tas daržoves, kurias patys užaugina.	Том та Мері їдять лише ті овочі, які вирощують самі.	tik	0	0
+Kai ji ateis, bus jau visai tamsu.	Поки вона прийде, то вже буде майже темно.	ji	0	0
+Tomas yra satanistas.	Том сатаніст.	yra	0	0
+Jei turėčiau sparnus, skrisčiau pas tave.	Якби я мав крила, то прилитiв до тебе.	jei	0	0
+Jie tavęs laukia.	Вони чекають на тебе.	jie	0	0
+Kur tavo mokykla?	Де твоя школа?	tavo	0	0
+Kai parėjau namo, buvo jau gana tamsu.	Коли я прийшов додому, було вже достатньо темно.	buvo	0	0
+Kam, dėl Dievo meilės, tu pardavei savo naujai pastatytą namą?	Навіщо, заради Бога, ви продали свій новий дім?	savo	0	0
+Kur tu išmokai italų kalbą?	Де ти вивчив італійську?	kur	0	0
+Kai ten atvykau, buvo jau gana tamsu.	Було досить темно, коли я дістався туди.	kai	0	0
+Tomas dar nemoka vairuoti.	Том ще не вміє водити.	dar	0	0
+Jūs iškraipote tiesą.	Ви спотворюєте правду.	jūs	0	0
+Ką tu galvoji apie Dievą?	Що ти думаєш про бога?	apie	0	0
+Jei turėčiau sparnus, skrisčiau pas tave.	Якби я мав крила, то прилитiв до тебе.	tave	0	0
+Ar žinai, kaip mirė jo tėvas?	Ти знаєш, як помер його батько?	jo	0	0
+Kai ji ateis, bus jau visai tamsu.	Поки вона прийде, то вже буде майже темно.	jau	0	0
+Man labai patinka šunys.	Я дуже люблю собак.	labai	0	0
+Kai ten atvykau, buvo jau gana tamsu.	Було досить темно, коли я дістався туди.	ten	0	0
+Kam atsiprašinėti už tai, ko net nesi padaręs?	Навіщо вибачатися за щось, чого ти навіть не робив?	už	0	0
+Tomas turi brolį.	Том має брата.	turi	0	0
+Kodėl gi mums nesužaisti šachmatais?	Чому б нам не зіграти в шахи?	kodėl	0	0
+Uždaryk po savęs duris.	Закрий за собою двері.	po	0	0
+Aš nieko nežinau apie kriketą.	Я нічого не знаю про крікет.	nieko	0	0
+Kam, dėl Dievo meilės, tu pardavei savo naujai pastatytą namą?	Навіщо, заради Бога, ви продали свій новий дім?	dėl	0	0
+Tomas yra mūsų kapitonas.	Том — наш капітан.	mūsų	0	0
+Ši kava man per stipri.	Ця кава заміцна для мене.	per	0	0
+Tamsu, nors į akį durk.	Темно, хоч око виколи.	nors	0	0
+Ačiū!	Дякую!	ačiū	0	0
+Jauniausias Tomo sūnus nori tapti veterinaru.	Молодший син Тома хоче стати ветеринаром.	nori	0	0
+Kam atsiprašinėti už tai, ko net nesi padaręs?	Навіщо вибачатися за щось, чого ти навіть не робив?	ko	0	0
+Aš nukritau nuo kopėčių.	Я упав з драбини.	nuo	0	0
+Kol ji ateis, bus jau visai sutemę.	Поки вона прийде, то вже буде майже темно.	bus	0	0
+Neklausyk jos.	Не слухай її.	jos	0	0
+Štai ką radau.	Ось що я знайшов.	štai	0	0
+Niekas manęs nesupranta.	Ніхто мене не розуміє.	manęs	0	0
+Aš aplankiau ją Vokietijoje.	Я відвідав її в Німеччині.	ją	0	0
+Dėl lietaus mums nepavyko surengti iškylos gamtoje.	Через дощ ми не змогли поїхати на пікнік.	mums	0	0
+Ji nupirko jam šunį.	Вона купила йому собаку.	jam	0	0
+Jums reikalinga nauja karūna.	Вам потрібна нова корона.	jums	0	0
+Aš noriu, kad visa tai tu pamirštum.	Я хочу, щоб ти про все це забув.	noriu	0	0
+Kiek angliškų žodžių tu žinai?	Скільки ти знаєш англійських слів?	žinai	0	0
+Manai, tavęs neatleis?	Ти вважаєш, що тебе не звільнять?	tavęs	0	0
+Tobulų nėra.	Ніхто не досконалий.	nėra	0	0
+Lėktuvas nukrito ant žemės.	Літак упав на землю.	ant	0	0
+Australija eksportuoja daug vilnos.	Австралія експортує багато вовни.	daug	0	0
+Tomas ir Marija valgo tik tas daržoves, kurias patys užaugina.	Том та Мері їдять лише ті овочі, які вирощують самі.	tas	0	0
+Labas!	Привіт!	labas	0	0
+Aš nieko nežinau apie kriketą.	Я нічого не знаю про крікет.	nežinau	0	0
+Mes tikimės pasiekti viršūnę prieš sutemstant.	Ми сподіваємося піднятися на вершину, поки не стало темно.	prieš	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	vienas	0	0
+Aš negaliu su Tomu susisiekti telefonu.	Я не можу зв'язатися з Томом по телефону.	negaliu	0	0
+Jei turėčiau sparnus, skrisčiau pas tave.	Якби я мав крила, то прилитiв до тебе.	pas	0	0
+Gaila, kad gyvenimas toks trumpas.	Шкода, що життя таке коротке.	toks	0	0
+Kam atsiprašinėti už tai, ko net nesi padaręs?	Навіщо вибачатися за щось, чого ти навіть не робив?	net	0	0
+Kol ji ateis, bus jau visai sutemę.	Поки вона прийде, то вже буде майже темно.	kol	0	0
+Kiek?	Скільки?	kiek	0	0
+Alus jai patinka labiau, nei vynas.	Вона любить пиво більше, ніж вино.	nei	0	0
+Nekask kitam duobės, o tai pats įkrisi.	Не копай другому ями, бо сам упадеш.	pats	0	0
+Ar esi studentas?	Ти - студент?	esi	0	0
+Bėda tame, kad jai trūksta patirties.	Біда в тому, що їй не вистачає досвіду.	jai	0	0
+Šiandien tamsiausia diena metuose.	Сьогодні найтемніший день в році.	šiandien	0	0
+Niekas nežinojo apie jos literatūrinį talentą.	Ніхто і не здогадувався про її літературний талант.	niekas	0	0
+Tai atrodo neteisinga.	Це здається неправильним.	atrodo	0	0
+Maldauju, atleisk man!	Благаю, прости мене!	atleisk	0	0
+Man labai patinka šunys.	Я дуже люблю собак.	patinka	0	0
+Tu manai, kad aš tai turėčiau padaryti?	Ви думаєте, мені слід це зробити?	manai	0	0
+Kai ji ateis, bus jau visai tamsu.	Поки вона прийде, то вже буде майже темно.	visai	0	0
+Kas sudaužė šį langą?	Хто розбив це вiкно?	šį	0	0
+Aš buvau Afrikoje.	Я був у Африці.	buvau	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	du	0	0
+Kam tai pinigai?	Навіщо тобі гроші?	kam	0	0
+Kai parėjau namo, buvo jau gana tamsu.	Коли я прийшов додому, було вже достатньо темно.	namo	0	0
+Tu manai, kad aš tai turėčiau padaryti?	Ви думаєте, мені слід це зробити?	padaryti	0	0
+Sveikas.	Привіт.	sveikas	0	0
+Kodėl gi mums nesužaisti šachmatais?	Чому б нам не зіграти в шахи?	gi	0	0
+Aš noriu, kad visa tai tu pamirštum.	Я хочу, щоб ти про все це забув.	visa	0	0
+Ukraina neturi pinigų.	Україна не має грошей.	pinigų	0	0
+Ką jie sako?	Що вони кажуть?	sako	0	0
+Priešmirtinio raštelio nebuvo rasta.	Передсмертної записки не знайшли.	nebuvo	0	0
+Ar žinai, kaip mirė jo tėvas?	Ти знаєш, як помер його батько?	tėvas	0	0
+Šiandien tamsiausia diena metuose.	Сьогодні найтемніший день в році.	diena	0	0
+Pažiūrėk į sraigę.	Подивися на слимака.	pažiūrėk	0	0
+Ukraina neturi pinigų.	Україна не має грошей.	neturi	0	0
+Kas žino šią vietą?	Хто знає це місце?	šią	0	0
+Kas žino šią vietą?	Хто знає це місце?	žino	0	0
+Ką aš matau?	Що я бачу?	matau	0	0
+Ši kava man per stipri.	Ця кава заміцна для мене.	ši	0	0
+Vakar, šiandien ir rytoj.	Вчора, сьогодні і завтра.	rytoj	0	0
+Jaunimas rusiškai jau beveik nesupranta.	Молодь російської вже майже не розуміє.	beveik	0	0
+Ji man pasakė, kad pažįsta mano brolį.	Вона мені сказала, що знає мого брата.	pasakė	0	0
+Kai parėjau namo, buvo jau gana tamsu.	Коли я прийшов додому, було вже достатньо темно.	gana	0	0
+Nieko nėra uždengta, kas nebus atidengta.	Нема нічого закритого, що не відкриється.	nebus	0	0
+Alus jai patinka labiau, nei vynas.	Вона любить пиво більше, ніж вино.	labiau	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	trys	0	0
+Uždaryk po savęs duris.	Закрий за собою двері.	duris	0	0
+Vakar, šiandien ir rytoj.	Вчора, сьогодні і завтра.	vakar	0	0
+Tu iškraipai tiesą.	Ти спотворюєш правду.	tiesą	0	0
+Ar tu kalbi hindi kalba?	Ти говориш мовою хінді?	kalba	0	0
+Nesuprantu, kam visa tai reikalinga.	Я не розумію, навіщо це все потрібне.	nesuprantu	0	0
+Tu tikra ragana!	Ти справжня відьма!	tikra	0	0
+Negaliu patikėti, kad ką tik tai pasakiau!	Я не можу повірити, що я щойно це сказав!	pasakiau	0	0
+Kas nenori dirbti te nevalgo.	Якщо хто не хоче працювати, то нехай він і не їсть.	nenori	0	0
+Kas žino šią vietą?	Хто знає це місце?	vietą	0	0
+Galite kalbėti lėčiau?	Можете говорити повільніше?	galite	0	0
+Ar tu kalbi hindi kalba?	Ти говориш мовою хінді?	kalbi	0	0
+Jauniausias Tomo sūnus nori tapti veterinaru.	Молодший син Тома хоче стати ветеринаром.	sūnus	0	0
+Jis ėmė plauti savo mašiną.	Почав мити свою машину.	mašiną	0	0
+Gaila, kad gyvenimas toks trumpas.	Шкода, що життя таке коротке.	gyvenimas	0	0
+Jie tavęs laukia.	Вони чекають на тебе.	laukia	0	0
+Man į galvą atėjo kvaila mintis.	Мені в голову прийшла дурна ідея.	galvą	0	0
+Gaila, kad gyvenimas toks trumpas.	Шкода, що життя таке коротке.	gaila	0	0
+Pavargau nuo gyvenimo, bet bijau mirties.	Я втомився жити, але я боюся смерті.	gyvenimo	0	0
+Ar žinai, kaip mirė jo tėvas?	Ти знаєш, як помер його батько?	mirė	0	0
+Tu manai, kad aš tai turėčiau padaryti?	Ви думаєте, мені слід це зробити?	turėčiau	0	0
+Lėktuvas nukrito ant žemės.	Літак упав на землю.	žemės	0	0
+Kam, dėl Dievo meilės, tu pardavei savo naujai pastatytą namą?	Навіщо, заради Бога, ви продали свій новий дім?	dievo	0	0
+Galite kalbėti lėčiau?	Можете говорити повільніше?	kalbėti	0	0
+Ar jūs esate Tomas?	Ви Том?	esate	0	0
+Tyrėjai pagaliau pasiekė savo tikslą.	Дослідники зрештою досягли своєї мети.	pagaliau	0	0
+Pavargau nuo gyvenimo, bet bijau mirties.	Я втомився жити, але я боюся смерті.	mirties	0	0
+Šitas tvenkinys yra negilus.	Цей ставок неглибокий.	šitas	0	0
+Man į galvą atėjo kvaila mintis.	Мені в голову прийшла дурна ідея.	mintis	0	0
+Štai ką radau.	Ось що я знайшов.	radau	0	0
+Kiekvienas išgirdo tai, ką norėjo išgirsti.	Кожний почув те, що хотів почути.	norėjo	0	0
+Man į galvą atėjo kvaila mintis.	Мені в голову прийшла дурна ідея.	atėjo	0	0
+Pavargau gyventi, bet bijau mirties.	Я втомився жити, але я боюся смерті.	gyventi	0	0
+Negaliu patikėti, kad ką tik tai pasakiau!	Я не можу повірити, що я щойно це сказав!	patikėti	0	0
+Mano brolis gyvena netoli nuo Vilniaus.	Мій брат мешкає біля Вільнюса.	brolis	0	0
+Man nepavyko gauti konkretaus atsakymo iš jo.	Я не зміг отримати чітку відповідь від нього.	gauti	0	0
+Blogo oro nebūna - būna tik bloga apranga.	Поганої погоди не буває - буває тільки поганий одяг.	oro	0	0
+Kačiukai valdo pasaulį.	Кошенята правлять світом.	pasaulį	0	0
+Kam tai pinigai?	Навіщо тобі гроші?	pinigai	0	0
+Kas nenori dirbti te nevalgo.	Якщо хто не хоче працювати, то нехай він і не їсть.	dirbti	0	0
+Dėkoju!	Дякую!	dėkoju	0	0
+Mano brolis gyvena netoli nuo Vilniaus.	Мій брат мешкає біля Вільнюса.	gyvena	0	0
+Blogo oro nebūna - būna tik bloga apranga.	Поганої погоди не буває - буває тільки поганий одяг.	būna	0	0
+Tomas neturėjo pakankamai pinigų.	Тому не вистачало грошей.	pakankamai	0	0
+Jis praleido vakarą skaitydamas.	Вiн провiв вечiр за читанням.	vakarą	0	0
+Kam, dėl Dievo meilės, tu pardavei savo naujai pastatytą namą?	Навіщо, заради Бога, ви продали свій новий дім?	meilės	0	0
+Šiame kambaryje tamsu.	Тут у кімнаті темно.	šiame	0	0
+Pavargau nuo gyvenimo, bet bijau mirties.	Я втомився жити, але я боюся смерті.	bijau	0	0
+Ši knyga priklauso bibliotekai.	Ця книжка належить до бібліотеки.	priklauso	0	0
+Ne, dėkui.	Ні, дякую.	dėkui	0	0
+Ar tu norėtum gyventi Ukrainoje?	Ти б хотіла жити в Україні?	norėtum	0	0
+Kiekvienas išgirdo tai, ką norėjo išgirsti.	Кожний почув те, що хотів почути.	kiekvienas	0	0
+Tomas ir Marija valgo tik tas daržoves, kurias patys užaugina.	Том та Мері їдять лише ті овочі, які вирощують самі.	patys	0	0
+Pastatas senas, bet tvirtas.	Будівля стара, але міцна.	senas	0	0
+Kol ji ateis, bus jau visai sutemę.	Поки вона прийде, то вже буде майже темно.	ateis	0	0
+Bėda tame, kad jai trūksta patirties.	Біда в тому, що їй не вистачає досвіду.	tame	0	0
+Uždaryk po savęs duris.	Закрий за собою двері.	savęs	0	0
+Kam, dėl Dievo meilės, tu pardavei savo naujai pastatytą namą?	Навіщо, заради Бога, ви продали свій новий дім?	namą	0	0
+Kam atsiprašinėti už tai, ko net nesi padaręs?	Навіщо вибачатися за щось, чого ти навіть не робив?	nesi	0	0
+Aš noriu kavos.	Я хочу кави.	kavos	0	0
+Man į galvą atėjo kvaila mintis.	Мені в голову прийшла дурна ідея.	kvaila	0	0
+Ką tu galvoji apie Dievą?	Що ти думаєш про бога?	galvoji	0	0
+Jauniausias Tomo sūnus nori tapti veterinaru.	Молодший син Тома хоче стати ветеринаром.	tapti	0	0
+Blogo oro nebūna - būna tik bloga apranga.	Поганої погоди не буває - буває тільки поганий одяг.	bloga	0	0
+Kieno šita katė?	Чия це кішка?	kieno	0	0
+Šiame kambaryje tamsu.	Тут у кімнаті темно.	kambaryje	0	0
+Mano širdis plyšta iš skausmo.	Моє серце розривається від болю.	širdis	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	dešimt	0	0
+Jis moka kreditine.	Він платить кредиткою.	moka	0	0
+Mes neturime popiežiaus!	У нас немає Папи Римського!	neturime	0	0
+Kieno šita katė?	Чия це кішка?	šita	0	0
+Jums reikalinga nauja karūna.	Вам потрібна нова корона.	nauja	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	keturi	0	0
+Nekask kitam duobės, o tai pats įkrisi.	Не копай другому ями, бо сам упадеш.	kitam	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	penki	0	0
+Laba diena.	Доброго дня.	laba	0	0
+Aš bandžiau užmigti.	Я намагався заснути.	bandžiau	0	0
+Kalbėkime atvirai.	Давайте розмовляти відверто.	atvirai	0	0
+Tomas yra mūsų kapitonas.	Том — наш капітан.	kapitonas	0	0
+Mergaitės skaito ir rašo.	Дівчата читають і пишуть.	mergaitės	0	0
+Bėda tame, kad jai trūksta patirties.	Біда в тому, що їй не вистачає досвіду.	trūksta	0	0
+Jos akys žalios, o plaukai - šviesiai rudi.	У неї зелені очі та світло-коричневе волосся.	akys	0	0
+Labą rytą!	Добрий ранок!	rytą	0	0
+Ši knyga priklauso bibliotekai.	Ця книжка належить до бібліотеки.	knyga	0	0
+Maldauju, atleisk man!	Благаю, прости мене!	maldauju	0	0
+Šuo bėgioja po parką.	Собака бігає по парку.	šuo	0	0
+Tomas ir Marija valgo tik tas daržoves, kurias patys užaugina.	Том та Мері їдять лише ті овочі, які вирощують самі.	kurias	0	0
+Kiekvienas išgirdo tai, ką norėjo išgirsti.	Кожний почув те, що хотів почути.	išgirsti	0	0
+Mansardoje šalta.	На мансарді холодно.	šalta	0	0
+Kaip tavo reikalai?	Як твої справи?	reikalai	0	0
+Mes tikimės pasiekti viršūnę prieš sutemstant.	Ми сподіваємося піднятися на вершину, поки не стало темно.	pasiekti	0	0
+Blogo oro nebūna - būna tik bloga apranga.	Поганої погоди не буває - буває тільки поганий одяг.	blogo	0	0
+Jis geria vandenį.	Він п'є воду.	vandenį	0	0
+Aš čia gyvenu.	Я тут мешкаю.	gyvenu	0	0
+Mano brolis gyvena netoli nuo Vilniaus.	Мій брат мешкає біля Вільнюса.	netoli	0	0
+Jis ėmė plauti savo mašiną.	Почав мити свою машину.	ėmė	0	0
+Aš negaliu su Tomu susisiekti telefonu.	Я не можу зв'язатися з Томом по телефону.	telefonu	0	0
+Bėda tame, kad jai trūksta patirties.	Біда в тому, що їй не вистачає досвіду.	bėda	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	šeši	0	0
+Tomas yra pedofilas.	Том педофіл.	tomas	0	0
+Ji man pasakė, kad pažįsta mano brolį.	Вона мені сказала, що знає мого брата.	brolį	0	0
+Aš Tomui paskolinau savo automobilį.	Я позичив Тому свою машину.	automobilį	0	0
+Europiečiai mėgsta gerti vyną.	Європейці полюбляють пити вино.	mėgsta	0	0
+Jis dirbo turtuoliui.	Він працював на багату людину.	dirbo	0	0
+Pavojus gręsia visam pasauliui.	Небезпека загрожує всьому світу.	pavojus	0	0
+Kai ten atvykau, buvo jau gana tamsu.	Було досить темно, коли я дістався туди.	atvykau	0	0
+Kas sudaužė šį langą?	Хто розбив це вiкно?	langą	0	0
+Neveikia mano šaldytuvas.	У мене не працює холодильник.	neveikia	0	0
+Aš nemoku anglų kalbos.	Я не знаю англійської.	kalbos	0	0
+Tamsu, nors į akį durk.	Темно, хоч око виколи.	akį	0	0
+Kiek angliškų žodžių tu žinai?	Скільки ти знаєш англійських слів?	žodžių	0	0
+Tomas neturėjo pakankamai pinigų.	Тому не вистачало грошей.	neturėjo	0	0
+Pavojus gręsia visam pasauliui.	Небезпека загрожує всьому світу.	visam	0	0
+Saulė yra raudona.	Сонце червоне.	saulė	0	0
+Ukrainos kultūros ministerija palaikė kovą su tarybiniais paminklais.	Міністерство культури України підтримало боротьбу із радянськими пам'ятниками.	kovą	0	0
+Bobas ir Tomas - broliai.	Боб та Том — брати.	broliai	0	0
+Europiečiai mėgsta gerti vyną.	Європейці полюбляють пити вино.	gerti	0	0
+Man nepavyko gauti konkretaus atsakymo iš jo.	Я не зміг отримати чітку відповідь від нього.	nepavyko	0	0
+Jis mano dviratį pavogė.	Він вкрав мій велосипед.	pavogė	0	0
+Jos akys žalios, o plaukai - šviesiai rudi.	У неї зелені очі та світло-коричневе волосся.	plaukai	0	0
+Lietuva - svetinga šalis.	Литва - гостинна країна.	šalis	0	0
+Ji turi žiedą.	У неї є кільце.	žiedą	0	0
+Kur tavo mokykla?	Де твоя школа?	mokykla	0	0
+Blogo oro nebūna - būna tik bloga apranga.	Поганої погоди не буває - буває тільки поганий одяг.	nebūna	0	0
+Kur tu išmokai italų kalbą?	Де ти вивчив італійську?	kalbą	0	0
+Ji nupirko jam šunį.	Вона купила йому собаку.	šunį	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	septyni	0	0
+Tomas nori mokytis.	Том хоче вчитися.	mokytis	0	0
+Lėktuvas nukrito ant žemės.	Літак упав на землю.	lėktuvas	0	0
+Mergaitės skaito ir rašo.	Дівчата читають і пишуть.	rašo	0	0
+Pavargau nuo gyvenimo, bet bijau mirties.	Я втомився жити, але я боюся смерті.	pavargau	0	0
+Lėktuvas nukrito ant žemės.	Літак упав на землю.	nukrito	0	0
+Nesuprantu, kam visa tai reikalinga.	Я не розумію, навіщо це все потрібне.	reikalinga	0	0
+Aš negaliu su Tomu susisiekti telefonu.	Я не можу зв'язатися з Томом по телефону.	susisiekti	0	0
+Futbolas - populiariausia sporto šaka Braziijoje.	Футбол — найпопулярніший вид спорту в Бразилії.	sporto	0	0
+Marija yra našlė.	Мері — вдова.	marija	0	0
+Tai atrodo neteisinga.	Це здається неправильним.	neteisinga	0	0
+Aš nemoku anglų kalbos.	Я не знаю англійської.	nemoku	0	0
+Bobas ir Tomas - broliai.	Боб та Том — брати.	bobas	0	0
+Mano širdis plyšta iš skausmo.	Моє серце розривається від болю.	skausmo	0	0
+Aš nepamenu!	Я не пам’ятаю!	nepamenu	0	0
+Uždaryk po savęs duris.	Закрий за собою двері.	uždaryk	0	0
+Jie buvo pavargę, bet laimingi.	Вони були втомлені, але щасливі.	laimingi	0	0
+Saulė yra raudona.	Сонце червоне.	raudona	0	0
+Niekas manęs nesupranta.	Ніхто мене не розуміє.	nesupranta	0	0
+Kačiukai valdo pasaulį.	Кошенята правлять світом.	valdo	0	0
+Aš nemoku anglų kalbos.	Я не знаю англійської.	anglų	0	0
+Tomas dar nemoka vairuoti.	Том ще не вміє водити.	vairuoti	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	devyni	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	aštuoni	0	0
+Tomas dar nemoka vairuoti.	Том ще не вміє водити.	nemoka	0	0
+Ši kava man per stipri.	Ця кава заміцна для мене.	stipri	0	0
+Pavojus gręsia visam pasauliui.	Небезпека загрожує всьому світу.	pasauliui	0	0
+Ši kava man per stipri.	Ця кава заміцна для мене.	kava	0	0
+Niekas nežinojo apie jos literatūrinį talentą.	Ніхто і не здогадувався про її літературний талант.	nežinojo	0	0
+Ji man pasakė, kad pažįsta mano brolį.	Вона мені сказала, що знає мого брата.	pažįsta	0	0
+Galite kalbėti lėčiau?	Можете говорити повільніше?	lėčiau	0	0
+Tu tikra ragana!	Ти справжня відьма!	ragana	0	0
+Kam atsiprašinėti už tai, ko net nesi padaręs?	Навіщо вибачатися за щось, чого ти навіть не робив?	padaręs	0	0
+Man labai patinka šunys.	Я дуже люблю собак.	šunys	0	0
+Tomas ir Marija valgo tik tas daržoves, kurias patys užaugina.	Том та Мері їдять лише ті овочі, які вирощують самі.	valgo	0	0
+Pastatas senas, bet tvirtas.	Будівля стара, але міцна.	pastatas	0	0
+Aš bandžiau užmigti.	Я намагався заснути.	užmigti	0	0
+Ar norėtumėte, kad aš tai užsakyčiau?	Ви б хотіли, щоб я це замовив?	norėtumėte	0	0
+Ką tu galvoji apie Dievą?	Що ти думаєш про бога?	dievą	0	0
+Bėda tame, kad jai trūksta patirties.	Біда в тому, що їй не вистачає досвіду.	patirties	0	0
+Tyrėjai pagaliau pasiekė savo tikslą.	Дослідники зрештою досягли своєї мети.	tikslą	0	0
+Jis šovė į paukštį, bet nepataikė.	Він вистрілив у птаха, але промахнувся.	šovė	0	0
+Jis geria vandenį.	Він п'є воду.	geria	0	0
+Kur tu išmokai italų kalbą?	Де ти вивчив італійську?	išmokai	0	0
+Man nepavyko gauti konkretaus atsakymo iš jo.	Я не зміг отримати чітку відповідь від нього.	atsakymo	0	0
+Jis nėra Amerikietis.	Він не американець.	amerikietis	0	0
+Alpinistai pasiekė viršūnę dar prieš sutemstant.	Альпіністи досягли вершини ще до того, як стало темно.	pasiekė	0	0
+Aš ne aktorius.	Я не актор.	aktorius	0	0
+Afrika yra žmonijos lopšys.	Африка є колискою людства.	žmonijos	0	0
+Tai mano kompiuteris.	Це мій комп'ютер.	kompiuteris	0	0
+Šuo bėgioja po parką.	Собака бігає по парку.	parką	0	0
+Kai ten atvykau, buvo jau gana tamsu.	Було досить темно, коли я дістався туди.	tamsu	0	0
+Kieno šita katė?	Чия це кішка?	katė	0	0
+Ar esi studentas?	Ти - студент?	studentas	0	0
+Gaila, kad gyvenimas toks trumpas.	Шкода, що життя таке коротке.	trumpas	0	0
+Autobusas čia sustoja.	Автобус зупиняється тут.	autobusas	0	0
+Šlovė Ukrainai!	Слава Україні!	šlovė	0	0
+Pastatas senas, bet tvirtas.	Будівля стара, але міцна.	tvirtas	0	0
+Jis praleido vakarą skaitydamas.	Вiн провiв вечiр за читанням.	praleido	0	0
+Niekas nežinojo apie jos literatūrinį talentą.	Ніхто і не здогадувався про її літературний талант.	talentą	0	0
+Neklausyk jos.	Не слухай її.	neklausyk	0	0
+Ji nupirko jam šunį.	Вона купила йому собаку.	nupirko	0	0
+Mes tikimės pasiekti viršūnę prieš sutemstant.	Ми сподіваємося піднятися на вершину, поки не стало темно.	tikimės	0	0
+Alus jai patinka labiau, nei vynas.	Вона любить пиво більше, ніж вино.	vynas	0	0
+Pakeisk temą.	Зміни тему.	temą	0	0
+Europiečiai mėgsta gerti vyną.	Європейці полюбляють пити вино.	vyną	0	0
+Ukrainos kultūros ministerija palaikė kovą su tarybiniais paminklais.	Міністерство культури України підтримало боротьбу із радянськими пам'ятниками.	kultūros	0	0
+Tomas norėjo atsisėsti.	Том хотів сісти.	atsisėsti	0	0
+Dėl lietaus mums nepavyko surengti iškylos gamtoje.	Через дощ ми не змогли поїхати на пікнік.	lietaus	0	0
+Aš buvau Afrikoje.	Я був у Африці.	afrikoje	0	0
+Alus jai patinka labiau, nei vynas.	Вона любить пиво більше, ніж вино.	alus	0	0
+Jis šovė į paukštį, bet nepataikė.	Він вистрілив у птаха, але промахнувся.	paukštį	0	0
+Dėl lietaus mums nepavyko surengti iškylos gamtoje.	Через дощ ми не змогли поїхати на пікнік.	surengti	0	0
+Jauniausias Tomo sūnus nori tapti veterinaru.	Молодший син Тома хоче стати ветеринаром.	tomo	0	0
+Skambinai man?	Ти мені телефонував?	skambinai	0	0
+Mergaitės skaito ir rašo.	Дівчата читають і пишуть.	skaito	0	0
+Mes tikimės situacijos Ukrainoje pagerėjimo.	Ми сподіваємося на поліпшення ситуації в Україні.	situacijos	0	0
+Kas sudaužė šį langą?	Хто розбив це вiкно?	sudaužė	0	0
+Jis mano dviratį pavogė.	Він вкрав мій велосипед.	dviratį	0	0
+Aš ne iš Bostono.	Я не з Бостона.	bostono	0	0
+Jos akys žalios, o plaukai - šviesiai rudi.	У неї зелені очі та світло-коричневе волосся.	šviesiai	0	0
+Priešmirtinio raštelio nebuvo rasta.	Передсмертної записки не знайшли.	rasta	0	0
+Kam, dėl Dievo meilės, tu pardavei savo naujai pastatytą namą?	Навіщо, заради Бога, ви продали свій новий дім?	naujai	0	0
+Jie išvengė bausmės.	Вони уникли покарання.	bausmės	0	0
+Sūris yra geltonas.	Сир жовтий.	sūris	0	0
+Kiekvienas išgirdo tai, ką norėjo išgirsti.	Кожний почув те, що хотів почути.	išgirdo	0	0
+Šachas ir matas!	Шах і мат!	matas	0	0
+Futbolas - populiariausia sporto šaka Braziijoje.	Футбол — найпопулярніший вид спорту в Бразилії.	futbolas	0	0
+Tomas yra žurnalistas.	Том — журналіст.	žurnalistas	0	0
+Aš paleidau stiklinę.	Я упустив склянку.	stiklinę	0	0
+Jos akys žalios, o plaukai - šviesiai rudi.	У неї зелені очі та світло-коричневе волосся.	rudi	0	0
+Kur tu išmokai italų kalbą?	Де ти вивчив італійську?	italų	0	0
+Alpinistai pasiekė viršūnę dar prieš sutemstant.	Альпіністи досягли вершини ще до того, як стало темно.	viršūnę	0	0
+Jei turėčiau sparnus, skrisčiau pas tave.	Якби я мав крила, то прилитiв до тебе.	sparnus	0	0
+Duona šviežia.	Хліб свіжий.	šviežia	0	0
+Blogo oro nebūna - būna tik bloga apranga.	Поганої погоди не буває - буває тільки поганий одяг.	apranga	0	0
+Mes viliamės pasiekti viršūnę prieš nusileidžiant saulei.	Ми сподіваємося піднятися на вершину, поки не стало темно.	saulei	0	0
+Jaunimas rusiškai jau beveik nesupranta.	Молодь російської вже майже не розуміє.	rusiškai	0	0
+Kam, dėl Dievo meilės, tu pardavei savo naujai pastatytą namą?	Навіщо, заради Бога, ви продали свій новий дім?	pardavei	0	0
+Duona šviežia.	Хліб свіжий.	duona	0	0
+Aš Tomui paskolinau savo automobilį.	Я позичив Тому свою машину.	tomui	0	0
+Pakeisk temą.	Зміни тему.	pakeisk	0	0
+Aš nukritau nuo kopėčių.	Я упав з драбини.	nukritau	0	0
+Kas nenori dirbti te nevalgo.	Якщо хто не хоче працювати, то нехай він і не їсть.	te	0	0
+Jums reikalinga nauja karūna.	Вам потрібна нова корона.	karūna	0	0
+Ukrainos kultūros ministerija palaikė kovą su tarybiniais paminklais.	Міністерство культури України підтримало боротьбу із радянськими пам'ятниками.	ministerija	0	0
+Afrika yra žmonijos lopšys.	Африка є колискою людства.	afrika	0	0
+Manai, tavęs neatleis?	Ти вважаєш, що тебе не звільнять?	neatleis	0	0
+Ukrainos kultūros ministerija palaikė kovą su tarybiniais paminklais.	Міністерство культури України підтримало боротьбу із радянськими пам'ятниками.	palaikė	0	0
+Aš aplankiau ją Vokietijoje.	Я відвідав її в Німеччині.	vokietijoje	0	0
+"Kas yra šitoje dėžutėje?" — "Nieko".	«Що в цій коробці?» — «Нічого».	šitoje	0	0
+Kodėl gi mums nesužaisti šachmatais?	Чому б нам не зіграти в шахи?	šachmatais	0	0
+Jie pilotai.	Вони пілоти.	pilotai	0	0
+Aš neišlaikiau stiklinės.	Я упустив склянку.	stiklinės	0	0
+Jos akys žalios, o plaukai - šviesiai rudi.	У неї зелені очі та світло-коричневе волосся.	žalios	0	0
+Kas nenori dirbti te nevalgo.	Якщо хто не хоче працювати, то нехай він і не їсть.	nevalgo	0	0
+Jaunimas rusiškai jau beveik nesupranta.	Молодь російської вже майже не розуміє.	jaunimas	0	0
+Aš paleidau stiklinę.	Я упустив склянку.	paleidau	0	0
+Šachas ir matas!	Шах і мат!	šachas	0	0
+"Kas yra šitoje dėžutėje?" — "Nieko".	«Що в цій коробці?» — «Нічого».	dėžutėje	0	0
+Kaip koncertas?	Як концерт?	koncertas	0	0
+Jauniausias Tomo sūnus nori tapti veterinaru.	Молодший син Тома хоче стати ветеринаром.	jauniausias	0	0
+Jis mėgsta plaukioti.	Він любить плавати.	plaukioti	0	0
+Marija yra našlė.	Мері — вдова.	našlė	0	0
+Aš negaliu su Tomu susisiekti telefonu.	Я не можу зв'язатися з Томом по телефону.	tomu	0	0
+Nevalgyk manęs.	Не їж мене.	nevalgyk	0	0
+Po tiltu buvo tamsu.	Під мостом було темно.	tiltu	0	0
+Kam atsiprašinėti už tai, ko net nesi padaręs?	Навіщо вибачатися за щось, чого ти навіть не робив?	atsiprašinėti	0	0
+Jie buvo pavargę, bet laimingi.	Вони були втомлені, але щасливі.	pavargę	0	0
+Autobusas čia sustoja.	Автобус зупиняється тут.	sustoja	0	0
+Sūris yra geltonas.	Сир жовтий.	geltonas	0	0
+Neveikia mano šaldytuvas.	У мене не працює холодильник.	šaldytuvas	0	0
+Mes neturime popiežiaus!	У нас немає Папи Римського!	popiežiaus	0	0
+Šuo bėgioja po parką.	Собака бігає по парку.	bėgioja	0	0
+Vilnius — Lietuvos sostinė.	Вільнюс — столиця Литви.	sostinė	0	0
+Aš ne poetas.	Я не поет.	poetas	0	0
+Aš nukritau nuo kopėčių.	Я упав з драбини.	kopėčių	0	0
+Mano širdis plyšta iš skausmo.	Моє серце розривається від болю.	plyšta	0	0
+Ji moka kalbėti japoniškai.	Вона може говорити японською.	japoniškai	0	0
+Labą rytą!	Добрий ранок!	labą	0	0
+Man nepavyko gauti konkretaus atsakymo iš jo.	Я не зміг отримати чітку відповідь від нього.	konkretaus	0	0
+Dėl lietaus mums nepavyko surengti iškylos gamtoje.	Через дощ ми не змогли поїхати на пікнік.	gamtoje	0	0
+Ar žirafos pavojingos?	Чи жирафи небезпечні?	pavojingos	0	0
+Jis ėmė plauti savo mašiną.	Почав мити свою машину.	plauti	0	0
+Šiandien tamsiausia diena metuose.	Сьогодні найтемніший день в році.	metuose	0	0
+Jis šovė į paukštį, bet nepataikė.	Він вистрілив у птаха, але промахнувся.	nepataikė	0	0
+Tamsu, nors į akį durk.	Темно, хоч око виколи.	durk	0	0
+Tomas ir Marija valgo tik tas daržoves, kurias patys užaugina.	Том та Мері їдять лише ті овочі, які вирощують самі.	daržoves	0	0
+Australija eksportuoja daug vilnos.	Австралія експортує багато вовни.	australija	0	0
+Futbolas - populiariausia sporto šaka Braziijoje.	Футбол — найпопулярніший вид спорту в Бразилії.	šaka	0	0
+Priešmirtinio raštelio nebuvo rasta.	Передсмертної записки не знайшли.	raštelio	0	0
+Jis moka kreditine.	Він платить кредиткою.	kreditine	0	0
+Nekask kitam duobės, o tai pats įkrisi.	Не копай другому ями, бо сам упадеш.	duobės	0	0
+Aš neišlaikiau stiklinės.	Я упустив склянку.	neišlaikiau	0	0
+Ukrainos kultūros ministerija palaikė kovą su tarybiniais paminklais.	Міністерство культури України підтримало боротьбу із радянськими пам'ятниками.	ukrainos	0	0
+Tyrėjai pagaliau pasiekė savo tikslą.	Дослідники зрештою досягли своєї мети.	tyrėjai	0	0
+Aš ne pesimistas.	Я не песиміст.	pesimistas	0	0
+Aš aplankiau ją Vokietijoje.	Я відвідав її в Німеччині.	aplankiau	0	0
+Afrika yra žmonijos lopšys.	Африка є колискою людства.	lopšys	0	0
+Futbolas - populiariausia sporto šaka Braziijoje.	Футбол — найпопулярніший вид спорту в Бразилії.	populiariausia	0	0
+Australija eksportuoja daug vilnos.	Австралія експортує багато вовни.	vilnos	0	0
+Kačiukai valdo pasaulį.	Кошенята правлять світом.	kačiukai	0	0
+Gyvenimas yra nesąžiningas.	Життя несправедливе.	nesąžiningas	0	0
+Jie išvengė bausmės.	Вони уникли покарання.	išvengė	0	0
+Kalbėkime atvirai.	Давайте розмовляти відверто.	kalbėkime	0	0
+Aš noriu, kad visa tai tu pamirštum.	Я хочу, щоб ти про все це забув.	pamirštum	0	0
+Pavojus gręsia visam pasauliui.	Небезпека загрожує всьому світу.	gręsia	0	0
+Europiečiai mėgsta gerti vyną.	Європейці полюбляють пити вино.	europiečiai	0	0
+Mes viliamės pasiekti viršūnę prieš nusileidžiant saulei.	Ми сподіваємося піднятися на вершину, поки не стало темно.	nusileidžiant	0	0
+Kam, dėl Dievo meilės, tu pardavei savo naujai pastatytą namą?	Навіщо, заради Бога, ви продали свій новий дім?	pastatytą	0	0
+Šiandien tamsiausia diena metuose.	Сьогодні найтемніший день в році.	tamsiausia	0	0
+Kur keptuvė?	Де сковорідка?	keptuvė	0	0
+Aš Tomui paskolinau savo automobilį.	Я позичив Тому свою машину.	paskolinau	0	0
+Dėl lietaus mums nepavyko surengti iškylos gamtoje.	Через дощ ми не змогли поїхати на пікнік.	iškylos	0	0
+Tobulų nėra.	Ніхто не досконалий.	tobulų	0	0

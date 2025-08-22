@@ -68,6 +68,9 @@ for a in langAbbrev2:
                     for base_index in base_list:
                         base_index -= 1  # shift to 0-based
                         if 0 <= base_index < len(sentenceLang):
-                            if sentenceLang[base_index] == a and sentenceLang[i] == b:
-                                f.write(f"{base_index}\t{sentences[base_index]}\t{i}\t{sentences[i]}\n")
+                            try:
+                                if sentenceLang[base_index] == a and sentenceLang[i] == b:
+                                    f.write(f"{base_index}\t{sentences[base_index]}\t{i}\t{sentences[i]}\n")
+                            except:
+                                print(base_index)
             print(f"Completed {lang_map[a]}-{lang_map[b]}.tsv")

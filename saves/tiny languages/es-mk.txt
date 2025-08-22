@@ -1,0 +1,436 @@
+Tom no duerme en un ataúd, a diferencia de la mayoría de los vampiros.	Том не спие во мртовечки ковчег, за разлика од повеќето вампири.	de	0	0
+¿Te encargarías de que estén bien alimentados?	Ќе се погрижиш ли да бидат добро нахранети?	que	0	0
+No estoy muerto, ¿no?	Не сум мртов, така?	no	0	0
+Ve a ver a Tom.	Оди види се со Том.	a	0	0
+Tom todavía está en la cama.	Том е уште во кревет.	la	0	0
+Ella tiene el pelo largo.	Таа има долга коса.	el	0	0
+¿Y tú?	А ти?	y	0	0
+El hombre es pecador.	Човекот е грешен.	es	0	0
+Ya ni pienso en dinero.	Веќе не ни помислувам на пари.	en	0	0
+La policía lo busca.	Полицијата го бара.	lo	0	0
+¿Por qué llevas un suéter?	Зошто носиш џемпер?	un	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	por	0	0
+¿Qué hay en la caja?	Што има во кутијата?	qué	0	0
+¿Ya me toca?	Јас ли сум на ред?	me	0	0
+Ella tiene una consciencia limpia.	Таа има чиста совест.	una	0	0
+Los llamaré mañana.	Ќе им се јавам утре.	los	0	0
+No se llega allí en tren.	Не се стига таму со воз.	se	0	0
+Te pido que guardes silencio.	Барам да молчиш.	te	0	0
+Él respondió a la pregunta con un “no”.	Тој одречно одговори на моето прашање.	con	0	0
+Esperaban a que dejara de llover, para salir a la calle.	Чекаа да преврне за да излезат на улица.	para	0	0
+¡Aquí está él!	Еве го!	está	0	0
+¿Es mi turno?	Мој ред ли е?	mi	0	0
+Ella se fue, pero yo todavía la amo.	Таа замина, но јас се уште ја љубам.	pero	0	0
+Sí, lo sé.	Да, знам.	sí	0	0
+¿Te encargarías de que estén bien alimentados?	Ќе се погрижиш ли да бидат добро нахранети?	bien	0	0
+Olvida que dije eso.	Заборави дека го реков тоа.	eso	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	su	0	0
+Me gustan las tartas.	Сакам торти.	las	0	0
+¿Quién soy yo?	Кој сум јас?	yo	0	0
+Como.	Јадам.	como	0	0
+Aquí está un ejemplo.	Еве пример.	aquí	0	0
+Consulta a tu médico.	Консултирај се со својот лекар.	tu	0	0
+No tengo hogar al que volver.	Немам дом во којшто би можел да се вратам.	al	0	0
+¡Habla más fuerte, por favor!	Ве молам говорете погласно!	más	0	0
+Tom le prometió a Mary que no llegaría tarde.	Том и вети на Мери дека нема да доцни.	le	0	0
+Sé que esto es extraño.	Знам дека ова е чудно.	esto	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	todo	0	0
+Ya no tenemos dinero.	Немаме веќе пари.	ya	0	0
+Estoy en Londres.	Во Лондон сум.	estoy	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	ahora	0	0
+Tom estaba muy ocupado.	Том беше многу зафатен.	muy	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	ha	0	0
+Tom se está ahogando con algo.	Том се дави од нешто.	algo	0	0
+No hay veneno en este pescado.	Нема отров во рибава.	hay	0	0
+Soy bueno en los juegos.	Ме бива за игри.	bueno	0	0
+Ya no tengo dinero.	Немам веќе пари.	tengo	0	0
+Él gritó de dolor.	Извика од болка.	él	0	0
+Tom huyó cuando me vio.	Том избега кога ме виде.	cuando	0	0
+¿Estás en Boston?	Во Бостон ли си?	estás	0	0
+No sé cómo se escribe esa palabra.	Не знам како се пишува тој збор.	sé	0	0
+Tú no eres japonesa.	Не си Јапонка.	tú	0	0
+¿Quién nos va a creer?	Кој ќе ни верува?	nos	0	0
+¿Cómo decidieron?	Како одлучивте?	cómo	0	0
+Este libro no se trata de lingüística.	Оваа книга не се работи за лингвистика.	este	0	0
+Tom debe ser de Boston.	Том мора да е од Бостон.	ser	0	0
+Tom tiene una sola pierna.	Том има само една нога.	tiene	0	0
+Puedo pedirle a ella que ayude.	Можам да ја замолам да помогне.	puedo	0	0
+Puedo pedirle a ella que ayude.	Можам да ја замолам да помогне.	ella	0	0
+No quiero tu lástima.	Не го сакам твоето сожалување.	quiero	0	0
+Ella se fue, pero yo todavía la amo.	Таа замина, но јас се уште ја љубам.	fue	0	0
+¿Qué clase de emergencia era?	Каков итен случај било тоа?	era	0	0
+Soy gay, ¿y qué?	Педер сум, па што?	soy	0	0
+¿Comes arroz todos los días?	Секој ден ли јадеш ориз?	todos	0	0
+Tom no puede salir porque tiene mucha tarea.	Том не може да излезе затоа што има многу домашни задачи.	porque	0	0
+Son coetáneos.	Врсници се.	son	0	0
+¿Tienes Facebook?	Имаш ли Facebook?	tienes	0	0
+No te creo.	Не ти верувам.	creo	0	0
+Voy.	Одам.	voy	0	0
+Tom estaba muy ocupado.	Том беше многу зафатен.	estaba	0	0
+Mi madre no puede venir.	Мајка ми не може да дојде.	puede	0	0
+No eres japonesa.	Не си Јапонка.	eres	0	0
+¿Qué tiene usted ahí?	Што имате таму?	usted	0	0
+Hola a todos.	Здраво на сите.	hola	0	0
+Tu casa es grande.	Голема ти е куќата.	casa	0	0
+Todos ustedes se ven tan felices.	Сите изгледате толку среќно.	tan	0	0
+¿Quién soy yo?	Кој сум јас?	quién	0	0
+Tengo tiempo.	Имам време.	tiempo	0	0
+Nos vemos en dos días.	Се гледаме за два дена.	dos	0	0
+No sé cómo se escribe esa palabra.	Не знам како се пишува тој збор.	esa	0	0
+Nunca uses la palabra "bomba" en el avión.	Никогаш не го користи зборот „бомба“ на авион.	nunca	0	0
+¿Dónde está mi hermano?	Каде е брат ми?	dónde	0	0
+¿Quién nos va a creer?	Кој ќе ни верува?	va	0	0
+¡Habla más fuerte, por favor!	Ве молам говорете погласно!	favor	0	0
+Mi calabaza fue la mejor.	Мојата тиква беше најдобра.	mejor	0	0
+Tom no es temeroso de Dios.	Том не е богобојазлив.	dios	0	0
+No tenemos perro.	Немаме куче.	tenemos	0	0
+Ve a ver a Tom.	Оди види се со Том.	ver	0	0
+El hombre es pecador.	Човекот е грешен.	hombre	0	0
+¿Qué tiene usted ahí?	Што имате таму?	ahí	0	0
+No comas justo antes de dormir.	Не јади одма пред спиење.	antes	0	0
+Ya ni pienso en dinero.	Веќе не ни помислувам на пари.	ni	0	0
+Supongo que ambos estamos con un poco de sueño.	Изгледа и двајцата сме малку поспани.	poco	0	0
+Ellos son mis amigos.	Ова се моите пријатели.	mis	0	0
+Aquí estamos.	Еве нѐ.	estamos	0	0
+¿Qué tal el trabajo?	Како е на работа?	trabajo	0	0
+Este regalo es de nosotros.	Овој подарок е од нас.	nosotros	0	0
+Deseamos hablar con Tom.	Сакаме да зборуваме со Том.	hablar	0	0
+Vas a morir.	Ќе умреш.	vas	0	0
+Ellos son mis amigos.	Ова се моите пријатели.	ellos	0	0
+¿Qué tal el trabajo?	Како е на работа?	tal	0	0
+Ellos esperaron fuera.	Чекаа надвор.	fuera	0	0
+Ya no gastemos dinero.	Да не трошиме веќе пари.	dinero	0	0
+Claro que te recuerdo.	Секако, те памтам.	claro	0	0
+Los llamaré mañana.	Ќе им се јавам утре.	mañana	0	0
+Mary es mi madre.	Мери ми е мајка.	madre	0	0
+Tom se sabe el secreto.	Том ја знае тајната.	sabe	0	0
+¿Quiénes son tus enemigos?	Кои се твоите непријатели?	tus	0	0
+El nuevo virus corona es muy infeccioso.	Новиот коронавирус е високо заразен.	nuevo	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	sido	0	0
+No se llega allí en tren.	Не се стига таму со воз.	allí	0	0
+Tom es nuestro amigo.	Том ни е другар.	amigo	0	0
+Tom es nuestro amigo.	Том ни е другар.	nuestro	0	0
+¿Comes arroz todos los días?	Секој ден ли јадеш ориз?	días	0	0
+Es cierto lo que dice Tom.	Точно е тоа што го вели Том.	dice	0	0
+El bien que hagas hoy será olvidado mañana. Haz el bien de todos modos.	Доброто што го правиш денес, ќе биде утре заборавено, сепак, прави добро.	hoy	0	0
+Necesito saber ahora.	Ми треба да знам сега.	necesito	0	0
+Olvida que dije eso.	Заборави дека го реков тоа.	dije	0	0
+No me gusta mi escuela.	Не си го сакам училиштето.	gusta	0	0
+El bien que hagas hoy será olvidado mañana. Haz el bien de todos modos.	Доброто што го правиш денес, ќе биде утре заборавено, сепак, прави добро.	será	0	0
+Me alegra haber podido ayudarle la semana pasada.	Драго ми е што можев да ти помогнам минатата недела.	haber	0	0
+Lo sabías cuando te casaste conmigo.	Го знаеше тоа кога се омажи за мене.	conmigo	0	0
+La avaricia es la raíz de todo el mal.	Алчноста е коренот на сето зло.	mal	0	0
+Tom debe ser de Boston.	Том мора да е од Бостон.	debe	0	0
+Tom es realmente muy simpático.	Том е навистина многу фин.	realmente	0	0
+Las tortugas no tienen dientes.	Желките немаат заби.	tienen	0	0
+Necesito saber ahora.	Ми треба да знам сега.	saber	0	0
+Todos ustedes se ven tan felices.	Сите изгледате толку среќно.	ven	0	0
+La última persona a la que le conté mi idea pensó que yo estaba loco.	Последниот човек комушто му ја кажав својата идеја мислеше дека сум чукнат.	idea	0	0
+Tom le prometió a Mary que no llegaría tarde.	Том и вети на Мери дека нема да доцни.	tarde	0	0
+No hay problema.	Нема проблем.	problema	0	0
+Es cierto lo que dice Tom.	Точно е тоа што го вели Том.	cierto	0	0
+Tomó demasiado.	Премногу испивте.	demasiado	0	0
+Ve a ver a Tom.	Оди види се со Том.	ve	0	0
+La policía la busca.	Полицијата ја бара.	policía	0	0
+Tom debería irse ahora.	Том треба да си оди сега.	debería	0	0
+Todos ustedes se ven tan felices.	Сите изгледате толку среќно.	ustedes	0	0
+Ella se fue, pero yo todavía la amo.	Таа замина, но јас се уште ја љубам.	todavía	0	0
+Esperaban a que dejara de llover, para salir a la calle.	Чекаа да преврне за да излезат на улица.	salir	0	0
+Ellos son mis amigos.	Ова се моите пријатели.	amigos	0	0
+¿Dónde está mi hermano?	Каде е брат ми?	hermano	0	0
+¿Cómo lo sabía Tom?	Од каде го знаел тоа Том?	sabía	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	hombres	0	0
+Dime qué pasó.	Кажи ми што стана?	pasó	0	0
+El libro es chico.	Книгата е мала.	chico	0	0
+No tengo hogar al que volver.	Немам дом во којшто би можел да се вратам.	volver	0	0
+No estoy muerto, ¿no?	Не сум мртов, така?	muerto	0	0
+La última persona a la que le conté mi idea pensó que yo estaba loco.	Последниот човек комушто му ја кажав својата идеја мислеше дека сум чукнат.	persona	0	0
+¿Cuál es tu apodo?	Како ти е надимакот?	cuál	0	0
+¿Cuál es su historia?	Што е нивната приказна?	historia	0	0
+Supongo que ambos estamos con un poco de sueño.	Изгледа и двајцата сме малку поспани.	supongo	0	0
+¡Cierra la pinche puerta!	Затвори ја ебаната врата!	puerta	0	0
+Me alegra haber podido ayudarle la semana pasada.	Драго ми е што можев да ти помогнам минатата недела.	semana	0	0
+¡Feliz Año Nuevo!	Среќна Нова година!	año	0	0
+¡Feliz Año Nuevo!	Среќна Нова година!	feliz	0	0
+Mi madre no puede venir.	Мајка ми не може да дојде.	venir	0	0
+Aquí vienen los problemas.	Еве ги проблемите.	problemas	0	0
+Me duele el corazón.	Ме боли срцето.	corazón	0	0
+¿Hay agua caliente?	Има ли топла вода?	agua	0	0
+Haré lo que pueda.	Ќе направам сѐ што можам.	haré	0	0
+No comas justo antes de dormir.	Не јади одма пред спиење.	justo	0	0
+¡Aquí viene la novia!	Еве ја невестата!	viene	0	0
+No las vas a encontrar.	Нема да ги најдеш.	encontrar	0	0
+Déjame ayudar.	Дај да помогнам.	déjame	0	0
+Son de la misma edad.	На иста возраст се.	misma	0	0
+¿Cuándo sucedió?	Кога се случило?	cuándo	0	0
+Tu casa es grande.	Голема ти е куќата.	grande	0	0
+¿Qué clase de emergencia era?	Каков итен случај било тоа?	clase	0	0
+La última persona a la que le conté mi idea pensó que yo estaba loco.	Последниот човек комушто му ја кажав својата идеја мислеше дека сум чукнат.	última	0	0
+Haré lo que pueda.	Ќе направам сѐ што можам.	pueda	0	0
+La última persona a la que le conté mi idea pensó que yo estaba loco.	Последниот човек комушто му ја кажав својата идеја мислеше дека сум чукнат.	loco	0	0
+No fui al mercado.	Не отидов на пазар.	fui	0	0
+¿Acaso deberías limpiar tus lentes?	Треба да си ги исчиштиш очилата?	deberías	0	0
+Aquí hay algunas fotos.	Еве некои слики.	algunas	0	0
+Hay muchos terremotos en Japón.	Има многу земјотреси во Јапан.	muchos	0	0
+Tu hermana duerme.	Сестра ти спие.	hermana	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	culpa	0	0
+No me gusta mi escuela.	Не си го сакам училиштето.	escuela	0	0
+¡Habla más fuerte, por favor!	Ве молам говорете погласно!	fuerte	0	0
+¡Habla más fuerte, por favor!	Ве молам говорете погласно!	habla	0	0
+Él respondió a la pregunta con un “no”.	Тој одречно одговори на моето прашање.	pregunta	0	0
+Los perros eran felices.	Кучињата беа среќни.	eran	0	0
+Me gusta la comida coreana.	Сакам корејска храна.	comida	0	0
+Vas a morir.	Ќе умреш.	morir	0	0
+Dame la pelota.	Дај ми ја топката.	dame	0	0
+¿Está lista la torta?	Готова ли е тортата?	lista	0	0
+Necesitas un abogado.	Ти треба адвокат.	necesitas	0	0
+Mis padres conocen a mi novia.	Моите родители ја знаат девојка ми.	padres	0	0
+¿Quién nos va a creer?	Кој ќе ни верува?	creer	0	0
+Dime qué pasó.	Кажи ми што стана?	dime	0	0
+Este libro no se trata de lingüística.	Оваа книга не се работи за лингвистика.	trata	0	0
+Ella se fue, pero yo todavía la amo.	Таа замина, но јас се уште ја љубам.	amo	0	0
+El hombre es joven.	Човекот е млад.	joven	0	0
+Tom tiene una sola pierna.	Том има само една нога.	sola	0	0
+¿Qué dicen?	Што велат?	dicen	0	0
+El bien que hagas hoy será olvidado mañana. Haz el bien de todos modos.	Доброто што го правиш денес, ќе биде утре заборавено, сепак, прави добро.	hagas	0	0
+No sé cómo se escribe esa palabra.	Не знам како се пишува тој збор.	palabra	0	0
+Tom todavía está en la cama.	Том е уште во кревет.	cama	0	0
+Claro que te recuerdo.	Секако, те памтам.	recuerdo	0	0
+La luz se puso roja.	Се вклучи црвено светло.	luz	0	0
+¿Cuál es el correcto?	Кое е точно?	correcto	0	0
+No comas justo antes de dormir.	Не јади одма пред спиење.	dormir	0	0
+Déjame ayudar.	Дај да помогнам.	ayudar	0	0
+¿Tienes un plan?	Имаш ли план?	plan	0	0
+Tom no puede salir porque tiene mucha tarea.	Том не може да излезе затоа што има многу домашни задачи.	mucha	0	0
+Ya ni pienso en dinero.	Веќе не ни помислувам на пари.	pienso	0	0
+Esperaban a que dejara de llover, para salir a la calle.	Чекаа да преврне за да излезат на улица.	calle	0	0
+Anda, prueba.	Еве, пробај.	prueba	0	0
+Este libro no se trata de lingüística.	Оваа книга не се работи за лингвистика.	libro	0	0
+No tenemos perro.	Немаме куче.	perro	0	0
+¿Y Jack?	А Џек?	jack	0	0
+Eres libre de irte.	Слободен си да си одиш.	libre	0	0
+Nos vemos en dos días.	Се гледаме за два дена.	vemos	0	0
+Sé que esto es extraño.	Знам дека ова е чудно.	extraño	0	0
+¿Te gusta perder?	Уживаш ли во губењето?	perder	0	0
+Odio el golf.	Мразам голф.	odio	0	0
+¿Fue divertido?	Забавно ли беше?	divertido	0	0
+Consulta a tu médico.	Консултирај се со својот лекар.	médico	0	0
+No hay error.	Нема грешка.	error	0	0
+Ella tiene el pelo largo.	Таа има долга коса.	largo	0	0
+Tom conoce el secreto.	Том ја знае тајната.	secreto	0	0
+Mis padres conocen a mi novia.	Моите родители ја знаат девојка ми.	novia	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	propia	0	0
+Supongo que ambos estamos con un poco de sueño.	Изгледа и двајцата сме малку поспани.	sueño	0	0
+El bien que hagas hoy será olvidado mañana. Haz el bien de todos modos.	Доброто што го правиш денес, ќе биде утре заборавено, сепак, прави добро.	haz	0	0
+Supongo que ambos estamos con un poco de sueño.	Изгледа и двајцата сме малку поспани.	ambos	0	0
+Él gritó de dolor.	Извика од болка.	dolor	0	0
+Son de la misma edad.	На иста возраст се.	edad	0	0
+Tom huyó cuando me vio.	Том избега кога ме виде.	vio	0	0
+Necesitas un abogado.	Ти треба адвокат.	abogado	0	0
+Ella tiene el pelo largo.	Таа има долга коса.	pelo	0	0
+Tom llegó.	Том пристигна.	llegó	0	0
+Tom conoce el secreto.	Том ја знае тајната.	conoce	0	0
+¿Qué hay en la caja?	Што има во кутијата?	caja	0	0
+Ponlo en la mesa.	Положи го на масата.	mesa	0	0
+Me gustan las tartas.	Сакам торти.	gustan	0	0
+Tom está aquí.	Том е овде.	tom	0	0
+Aquí hay algunas fotos.	Еве некои слики.	fotos	0	0
+Te pido que guardes silencio.	Барам да молчиш.	silencio	0	0
+Es terrible.	Ужасно е.	terrible	0	0
+Este regalo es de nosotros.	Овој подарок е од нас.	regalo	0	0
+Nunca uses la palabra "bomba" en el avión.	Никогаш не го користи зборот „бомба“ на авион.	avión	0	0
+No se llega allí en tren.	Не се стига таму со воз.	tren	0	0
+El alma es eterna.	Душата е вечна.	alma	0	0
+Anda, prueba.	Еве, пробај.	anda	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	locura	0	0
+Tom no duerme en un ataúd, a diferencia de la mayoría de los vampiros.	Том не спие во мртовечки ковчег, за разлика од повеќето вампири.	mayoría	0	0
+Aquí vienen los problemas.	Еве ги проблемите.	vienen	0	0
+¿Cuándo sucedió?	Кога се случило?	sucedió	0	0
+Tráelo adentro.	Внеси го внатре.	adentro	0	0
+La policía la busca.	Полицијата ја бара.	busca	0	0
+El clima se está poniendo agradable nuevamente.	Времето пак се разведрува.	agradable	0	0
+Tom no come carne.	Том не јаде месо.	carne	0	0
+Lo sabías cuando te casaste conmigo.	Го знаеше тоа кога се омажи за мене.	sabías	0	0
+La luz se puso roja.	Се вклучи црвено светло.	puso	0	0
+No se llega allí en tren.	Не се стига таму со воз.	llega	0	0
+Tom abrió la cerveza.	Том го отвори пивото.	cerveza	0	0
+¿Hay agua caliente?	Има ли топла вода?	caliente	0	0
+Tom debería irse ahora.	Том треба да си оди сега.	irse	0	0
+Por favor, lávame la espalda.	Те молам, измиј ми го грбот.	espalda	0	0
+El bien que hagas hoy será olvidado mañana. Haz el bien de todos modos.	Доброто што го правиш денес, ќе биде утре заборавено, сепак, прави добро.	modos	0	0
+Tom no duerme en un ataúd, a diferencia de la mayoría de los vampiros.	Том не спие во мртовечки ковчег, за разлика од повеќето вампири.	diferencia	0	0
+Aquí está un ejemplo.	Еве пример.	ejemplo	0	0
+No tengo hogar al que volver.	Немам дом во којшто би можел да се вратам.	hogar	0	0
+Me duele el estómago.	Ме боли стомакот.	duele	0	0
+Tom estaba muy ocupado.	Том беше многу зафатен.	ocupado	0	0
+Me alegra haber podido ayudarle la semana pasada.	Драго ми е што можев да ти помогнам минатата недела.	podido	0	0
+Mary es mi madre.	Мери ми е мајка.	mary	0	0
+¿Por qué llevas un suéter?	Зошто носиш џемпер?	llevas	0	0
+Me alegra haber podido ayudarle la semana pasada.	Драго ми е што можев да ти помогнам минатата недела.	alegra	0	0
+Tom toca en una banda.	Том свири во бенд.	banda	0	0
+¿Tom se volvió loco?	Полудел ли Том?	volvió	0	0
+No son mis libros.	Не се мои книги.	libros	0	0
+Eres libre de irte.	Слободен си да си одиш.	irte	0	0
+Tomó demasiado.	Премногу испивте.	tomó	0	0
+Estoy en Londres.	Во Лондон сум.	londres	0	0
+Los llamaré mañana.	Ќе им се јавам утре.	llamaré	0	0
+Nunca uses la palabra "bomba" en el avión.	Никогаш не го користи зборот „бомба“ на авион.	bomba	0	0
+¿Acaso deberías limpiar tus lentes?	Треба да си ги исчиштиш очилата?	acaso	0	0
+Estoy harto de correr.	Ми се смачи од трчање.	correr	0	0
+¡Cierra la pinche puerta!	Затвори ја ебаната врата!	cierra	0	0
+Te pido que guardes silencio.	Барам да молчиш.	pido	0	0
+Soy gay, ¿y qué?	Педер сум, па што?	gay	0	0
+Tom toca en una banda.	Том свири во бенд.	toca	0	0
+El bien que hagas hoy será olvidado mañana. Haz el bien de todos modos.	Доброто што го правиш денес, ќе биде утре заборавено, сепак, прави добро.	olvidado	0	0
+Estudio psicología.	Учам психологија.	estudio	0	0
+Los perros eran felices.	Кучињата беа среќни.	perros	0	0
+¿Cuántas hermanas tienes?	Колку сестри имаш?	cuántas	0	0
+Tom no come carne.	Том не јаде месо.	come	0	0
+¿Es mi turno?	Мој ред ли е?	turno	0	0
+¿Te encargarías de que estén bien alimentados?	Ќе се погрижиш ли да бидат добро нахранети?	estén	0	0
+¿Quiénes son tus enemigos?	Кои се твоите непријатели?	quiénes	0	0
+Las tortugas no tienen dientes.	Желките немаат заби.	dientes	0	0
+Me alegra haber podido ayudarle la semana pasada.	Драго ми е што можев да ти помогнам минатата недела.	pasada	0	0
+Tom se cayó.	Том падна.	cayó	0	0
+Tom seguramente es de Boston.	Том сигурно е од Бостон.	seguramente	0	0
+El sospechoso confesó.	Осомничениот призна.	sospechoso	0	0
+Los perros eran felices.	Кучињата беа среќни.	felices	0	0
+¿Tienes un cuchillo?	Имаш ли нож?	cuchillo	0	0
+¿Qué clase de emergencia era?	Каков итен случај било тоа?	emergencia	0	0
+Tom tiene una sola pierna.	Том има само една нога.	pierna	0	0
+Tom durmió en el autobús.	Том спиеше во автобус.	autobús	0	0
+Puedo pedirle a ella que ayude.	Можам да ја замолам да помогне.	ayude	0	0
+No fui al mercado.	Не отидов на пазар.	mercado	0	0
+Soy bueno en los juegos.	Ме бива за игри.	juegos	0	0
+No quiero tu lástima.	Не го сакам твоето сожалување.	lástima	0	0
+Todo está cerrado.	Сѐ е затворено.	cerrado	0	0
+La luz se puso roja.	Се вклучи црвено светло.	roja	0	0
+¿Acaso deberías limpiar tus lentes?	Треба да си ги исчиштиш очилата?	limpiar	0	0
+La maté.	Ја убив.	maté	0	0
+El clima se está poniendo agradable nuevamente.	Времето пак се разведрува.	poniendo	0	0
+El Internet está muy lento.	Интернетот е многу бавен.	internet	0	0
+Tom pertenece aquí.	Том припаѓа тука.	pertenece	0	0
+La última persona a la que le conté mi idea pensó que yo estaba loco.	Последниот човек комушто му ја кажав својата идеја мислеше дека сум чукнат.	pensó	0	0
+Estoy harto de discutir.	Ми се смачи од карање.	discutir	0	0
+¿Quiénes son tus enemigos?	Кои се твоите непријатели?	enemigos	0	0
+Tom no puede salir porque tiene mucha tarea.	Том не може да излезе затоа што има многу домашни задачи.	tarea	0	0
+Mis padres conocen a mi novia.	Моите родители ја знаат девојка ми.	conocen	0	0
+Me duele el estómago.	Ме боли стомакот.	estómago	0	0
+Me alegra haber podido ayudarle la semana pasada.	Драго ми е што можев да ти помогнам минатата недела.	ayudarle	0	0
+¿Dónde duerme Tom?	Каде спие Том?	duerme	0	0
+Ella tiene una consciencia limpia.	Таа има чиста совест.	limpia	0	0
+Dame la pelota.	Дај ми ја топката.	pelota	0	0
+No hay veneno en este pescado.	Нема отров во рибава.	pescado	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	dioses	0	0
+Tengo algo que preguntarle.	Имам нешто да ја прашам.	preguntarle	0	0
+Olvida que dije eso.	Заборави дека го реков тоа.	olvida	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	vean	0	0
+Tom odia las zanahorias.	Том мрази моркови.	odia	0	0
+Puedo pedirle que ayude.	Можам да ја замолам да помогне.	pedirle	0	0
+¿Son hermanas?	Сестри ли се?	hermanas	0	0
+El nuevo virus corona es muy infeccioso.	Новиот коронавирус е високо заразен.	virus	0	0
+¿Quién ganó?	Кој победи?	ganó	0	0
+No vivimos en Boston.	Не живееме во Бостон.	vivimos	0	0
+No sé cómo se escribe esa palabra.	Не знам како се пишува тој збор.	escribe	0	0
+No hay veneno en este pescado.	Нема отров во рибава.	veneno	0	0
+¿Cómo decidió?	Како одлучивте?	decidió	0	0
+Es muy popular.	Многу е популарно.	popular	0	0
+Fue muy emocionante.	Многу беше возбудливо.	emocionante	0	0
+Me encantan las moras.	Обожавам капини.	encantan	0	0
+El clima se está poniendo agradable nuevamente.	Времето пак се разведрува.	nuevamente	0	0
+El Internet está muy lento.	Интернетот е многу бавен.	lento	0	0
+La tina está sucia.	Кадата е валкана.	tina	0	0
+Estoy harto de discutir.	Ми се смачи од карање.	harto	0	0
+Odio el golf.	Мразам голф.	golf	0	0
+Cuéntame de Tom.	Раскажи ми за Том.	cuéntame	0	0
+Se me atoró el cierre.	Ми се заглави патентот.	cierre	0	0
+¡Contesta!	Одговарај!	contesta	0	0
+Él olvidó comprarle un regalo.	Тој заборави да и купи подарок.	olvidó	0	0
+Hay muchos terremotos en Japón.	Има многу земјотреси во Јапан.	japón	0	0
+¿Comes arroz todos los días?	Секој ден ли јадеш ориз?	arroz	0	0
+No vivimos en Boston.	Не живееме во Бостон.	boston	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	producto	0	0
+La última persona a la que le conté mi idea pensó que yo estaba loco.	Последниот човек комушто му ја кажав својата идеја мислеше дека сум чукнат.	conté	0	0
+La tina está sucia.	Кадата е валкана.	sucia	0	0
+El nuevo virus corona es muy infeccioso.	Новиот коронавирус е високо заразен.	corona	0	0
+El clima se está poniendo agradable nuevamente.	Времето пак се разведрува.	clima	0	0
+¿La tarta está lista?	Готова ли е тортата?	tarta	0	0
+Tom abrió la cerveza.	Том го отвори пивото.	abrió	0	0
+Pregúntale a Tom.	Прашај го Том.	pregúntale	0	0
+Esperaban a que dejara de llover, para salir a la calle.	Чекаа да преврне за да излезат на улица.	dejara	0	0
+Ve a sentarte.	Оди седни.	sentarte	0	0
+Tom le prometió a Mary que no llegaría tarde.	Том и вети на Мери дека нема да доцни.	prometió	0	0
+Aquí viene el camarero.	Еве го келнерот.	camarero	0	0
+¿Comes arroz todos los días?	Секој ден ли јадеш ориз?	comes	0	0
+Tom no duerme en un ataúd, a diferencia de la mayoría de los vampiros.	Том не спие во мртовечки ковчег, за разлика од повеќето вампири.	vampiros	0	0
+Ponlo en la mesa.	Положи го на масата.	ponlo	0	0
+Tomaron demasiado.	Премногу испивте.	tomaron	0	0
+¿Dónde está el vodka?	Каде е вотката?	vodka	0	0
+No eres japonés.	Не си Јапонец.	japonés	0	0
+Tom bajó la pluma.	Том го спушти пенкалото.	pluma	0	0
+El alma es eterna.	Душата е вечна.	eterna	0	0
+Tom no duerme en un ataúd, a diferencia de la mayoría de los vampiros.	Том не спие во мртовечки ковчег, за разлика од повеќето вампири.	ataúd	0	0
+Tom huyó cuando me vio.	Том избега кога ме виде.	huyó	0	0
+¿Por qué todos lo odian?	Зошто сите го мразат?	odian	0	0
+¿Acaso deberías limpiar tus lentes?	Треба да си ги исчиштиш очилата?	lentes	0	0
+Consulta a tu médico.	Консултирај се со својот лекар.	consulta	0	0
+Tom es realmente muy simpático.	Том е навистина многу фин.	simpático	0	0
+Tom es cristiano.	Том е христијанин.	cristiano	0	0
+Él respondió a la pregunta con un “no”.	Тој одречно одговори на моето прашање.	respondió	0	0
+¿Está lista la torta?	Готова ли е тортата?	torta	0	0
+Tom es vulnerable.	Том е ранлив.	vulnerable	0	0
+Tom bajó la pluma.	Том го спушти пенкалото.	bajó	0	0
+Son cristianos.	Христијани се.	cristianos	0	0
+¿Tienes Facebook?	Имаш ли Facebook?	facebook	0	0
+Bésame.	Бакни ме.	bésame	0	0
+La avaricia es la raíz de todo el mal.	Алчноста е коренот на сето зло.	raíz	0	0
+¿Cómo decidiste?	Како одлучи?	decidiste	0	0
+Nunca uses la palabra "bomba" en el avión.	Никогаш не го користи зборот „бомба“ на авион.	uses	0	0
+¿Cómo decidieron?	Како одлучивте?	decidieron	0	0
+Estoy mejorando.	Се опоравувам.	mejorando	0	0
+Esperaban a que dejara de llover, para salir a la calle.	Чекаа да преврне за да излезат на улица.	llover	0	0
+Tom le prometió a Mary que no llegaría tarde.	Том и вети на Мери дека нема да доцни.	llegaría	0	0
+¿Cuál es tu apodo?	Како ти е надимакот?	apodo	0	0
+Tom durmió en el autobús.	Том спиеше во автобус.	durmió	0	0
+Lo sabías cuando te casaste conmigo.	Го знаеше тоа кога се омажи за мене.	casaste	0	0
+Estudio psicología.	Учам психологија.	psicología	0	0
+No comas justo antes de dormir.	Не јади одма пред спиење.	comas	0	0
+Él gritó de dolor.	Извика од болка.	gritó	0	0
+Tráelo adentro.	Внеси го внатре.	tráelo	0	0
+Tengo barriga cervecera.	Јас имам пивски стомак.	barriga	0	0
+El sospechoso confesó.	Осомничениот призна.	confesó	0	0
+¿Por qué llevas un suéter?	Зошто носиш џемпер?	suéter	0	0
+Él olvidó comprarle un regalo.	Тој заборави да и купи подарок.	comprarle	0	0
+No eres japonesa.	Не си Јапонка.	japonesa	0	0
+Mi calabaza fue la mejor.	Мојата тиква беше најдобра.	calabaza	0	0
+Deseamos hablar con Tom.	Сакаме да зборуваме со Том.	deseamos	0	0
+Él es taxista.	Тој е таксист.	taxista	0	0
+Vean ahora como los hombres nos echan la culpa a nosotros los dioses por todo lo que ha sido producto de su propia locura.	Погледнете сега како луѓето не обвинуваат нас боговите за сето она што е продукт на нивното сопствено лудило.	echan	0	0
+Tom es un rabino.	Том е рабин.	rabino	0	0
+Esperaban a que dejara de llover, para salir a la calle.	Чекаа да преврне за да излезат на улица.	esperaban	0	0
+Las tortugas no tienen dientes.	Желките немаат заби.	tortugas	0	0
+Ella tiene una consciencia limpia.	Таа има чиста совест.	consciencia	0	0
+Tom odia las zanahorias.	Том мрази моркови.	zanahorias	0	0
+Tom se está ahogando con algo.	Том се дави од нешто.	ahogando	0	0
+El hombre es pecador.	Човекот е грешен.	pecador	0	0
+Me gustan las tartas.	Сакам торти.	tartas	0	0
+¡Cierra la pinche puerta!	Затвори ја ебаната врата!	pinche	0	0
+La avaricia es la raíz de todo el mal.	Алчноста е коренот на сето зло.	avaricia	0	0
+Hay muchos terremotos en Japón.	Има многу земјотреси во Јапан.	terremotos	0	0
+Es un hit.	Хит е.	hit	0	0
+Te pido que guardes silencio.	Барам да молчиш.	guardes	0	0
+Es inexplicable.	Необјасниво е.	inexplicable	0	0
+Me gusta la comida coreana.	Сакам корејска храна.	coreana	0	0
+Tom no es temeroso de Dios.	Том не е богобојазлив.	temeroso	0	0
+¿Te gusta el boliche?	Сакаш ли куглање?	boliche	0	0
+Me encantan las moras.	Обожавам капини.	moras	0	0
+Se disculpó.	Се извини.	disculpó	0	0
+Ellos esperaron fuera.	Чекаа надвор.	esperaron	0	0
+Soy argentino.	Аргентинец сум.	argentino	0	0
+Tom no es piadoso.	Том не е побожен.	piadoso	0	0
+¿Te encargarías de que estén bien alimentados?	Ќе се погрижиш ли да бидат добро нахранети?	alimentados	0	0
+Se me atoró el cierre.	Ми се заглави патентот.	atoró	0	0
+Confesé.	Признав.	confesé	0	0
+Son cristianas.	Христијани се.	cristianas	0	0
+Démosles un minutito.	Да им дадеме минутка.	démosles	0	0
+Este libro no se trata de lingüística.	Оваа книга не се работи за лингвистика.	lingüística	0	0

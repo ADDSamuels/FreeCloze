@@ -1,0 +1,204 @@
+Bir köpek ve kurt arasındaki fark nedir?	Ano ang pinagkaiba ng aso sa lobo?	bir	0	0
+Bu kan değil.	Hindi ito dugo.	bu	0	0
+Gökyüzü ne renktir?	Ano ang kulay ng langit?	ne	0	0
+Bunlar benim kitaplarım ve şunlar onun kitapları.	Ito ang aking mga aklat at yun ang kanyang mga aklat.	ve	0	0
+Anahtarlarımı bulmak için hâlâ yardımına ihtiyacım var.	Kailangan ko pa rin ng tulong mo sa paghahanap ng aking mga susi.	için	0	0
+O nerede?	Nasaan siya?	o	0	0
+Ben öğretmen değilim.	Hindi ako guro.	ben	0	0
+Yüzmek için çok soğuk.	Masyadong malamig para lumangoy ako.	çok	0	0
+Babam hiç ama hiç yurtdışına çıkmadı.	Kahit minsan ay hindi pa nakakapunta sa ibang bansa ang tatay ko.	ama	0	0
+Bilmemiz gereken herhangi bir sorun var mı?	Mayroon bang mga problema na dapat naming malaman?	var	0	0
+Bilmemiz gereken herhangi bir sorun var mı?	Mayroon bang mga problema na dapat naming malaman?	mı	0	0
+Herhalde değil.	Baka hindi.	değil	0	0
+Ben bir şey söylemeliyim.	Mayroon dapat akong sasabihin.	şey	0	0
+Güneş aydan daha büyüktür.	Mas malaki ang araw kaysa sa buwan.	daha	0	0
+Sen kimsin?	Sino ka ba?	sen	0	0
+Sana dediği gibi yap.	Gawin mo kung anong pinapagawa niya sayo.	gibi	0	0
+Bisikletim yok.	Wala akong bisikleta.	yok	0	0
+Torunlarımız bunu sevecek.	Magugustuhan ito ng ating mga apo.	bunu	0	0
+Biz onu aradık.	Hinanap namin siya.	onu	0	0
+O benden daha iyi bir yüzücüdür.	Mas magaling syang swimmer kaysa sa akin.	iyi	0	0
+Her gün duş alırım.	Naliligo ako araw-araw.	her	0	0
+Yarın benim doğum günüm.	Bukas ang kaarawan ko.	benim	0	0
+Sana dediği gibi yap.	Gawin mo kung anong pinapagawa niya sayo.	sana	0	0
+Neden buradayım?	Bakit nandito ako?	neden	0	0
+Herkes onun kadınsı bir adam olduğunu söylüyor.	Ang sabi ng lahat ay babainin siya.	olduğunu	0	0
+Onu nasıl tanıdın?	Paano mo nakilala siya?	nasıl	0	0
+Babam hiç ama hiç yurtdışına çıkmadı.	Kahit minsan ay hindi pa nakakapunta sa ibang bansa ang tatay ko.	hiç	0	0
+Şimdi o nerede?	Nasaan siya ngayon?	şimdi	0	0
+Mango, elma ve papaya ister misin?	Gusto ba ninyo ng mangga, mansanas at papaya?	misin	0	0
+Su, lütfen.	Tubig nga po.	lütfen	0	0
+Bunlar benim kitaplarım ve şunlar onun kitapları.	Ito ang aking mga libro at yun ang kanyang mga libro.	onun	0	0
+Eğer o yorgunsa yatmasına izin ver.	Kung pagod siya, hayaan mo siyang matulog.	eğer	0	0
+Büyüdüğünde bir doktor olacak.	Magiging doktor siya pag-laki niya.	olacak	0	0
+Herkes onun kadınsı bir adam olduğunu söylüyor.	Ang sabi ng lahat ay babainin siya.	adam	0	0
+Tom hiçbir şeyi kabul etmedi.	Hindi umamin ng kahit ano si Tom.	hiçbir	0	0
+Biz neden buradayız?	Bakit nandito tayo?	biz	0	0
+O yeni bir kitap.	Bagong aklat ito.	yeni	0	0
+Her gün duş alırım.	Naliligo ako araw-araw.	gün	0	0
+Şimdi o nerede?	Nasaan siya ngayon?	nerede	0	0
+Tom hiçbir şeyi kabul etmedi.	Hindi umamin ng kahit ano si Tom.	şeyi	0	0
+Merhaba, ben Tom.	Hello, ako po si Tom.	merhaba	0	0
+Bilmemiz gereken herhangi bir sorun var mı?	Mayroon bang mga problema na dapat naming malaman?	sorun	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	iki	0	0
+Siz kimsiniz?	Sino po kayo?	siz	0	0
+Eğer o yorgunsa yatmasına izin ver.	Kung pagod siya, hayaan mo siyang matulog.	ver	0	0
+Eğer o yorgunsa yatmasına izin ver.	Kung pagod siya, hayaan mo siyang matulog.	izin	0	0
+Benim adım Ricardo'dur.	Ang pangalan ko ay Ricardo.	dur	0	0
+Özür dilemesine rağmen, hâlâ öfkeliyim.	Kahit humingi siya ng tawad, galit pa rin ako.	özür	0	0
+Ben öğretmen değilim.	Hindi ako guro.	değilim	0	0
+Sana tekrar söylemeyeceğim.	Hindi ko na ulit sayo sasabihin.	tekrar	0	0
+Bugün doğum günüm değil.	Hindi ko po kaarawan ngayon.	bugün	0	0
+Bu ne anlama geliyor?	Ano ang ibig sabihin niyan?	geliyor	0	0
+Onlar niçin öfkeli?	Bakit sila galit?	onlar	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	üç	0	0
+Herkes onun kadınsı bir adam olduğunu söylüyor.	Ang sabi ng lahat ay babainin siya.	herkes	0	0
+Mango, elma ve papaya ister misin?	Gusto ba ninyo ng mangga, mansanas at papaya?	ister	0	0
+Zeki bir çocuk olduğun belli.	Halatang matalino kang bata.	çocuk	0	0
+Mutluluk nedir?	Ano ang kasiyahan?	nedir	0	0
+Ben Tom'u desteklemek istemiyorum.	Ayaw kong suportahan si Tom.	istemiyorum	0	0
+Çocuklar ziyaretçidirler.	Ang mga bata ay mga bisita.	çocuklar	0	0
+Tenisin neden mini eteklerle oynandığını merak ediyorum.	Iniisip ko kung bakit miniskirt ang suot kapag naglalaro ng tennis.	ediyorum	0	0
+O benden daha iyi bir yüzücüdür.	Mas magaling syang swimmer kaysa sa akin.	benden	0	0
+Bunlar benim kitaplarım ve şunlar onun kitapları.	Ito ang aking mga libro at yun ang kanyang mga libro.	bunlar	0	0
+O hasta bir kişi gibi görünüyor.	Mukha siyang may sakit na tao.	kişi	0	0
+Tom hiçbir şeyi kabul etmedi.	Hindi umamin ng kahit ano si Tom.	kabul	0	0
+Yarın benim doğum günüm.	Bukas ang kaarawan ko.	yarın	0	0
+Büyüdüğünde bir doktor olacak.	Magiging doktor siya pag-laki niya.	doktor	0	0
+Bilmemiz gereken herhangi bir sorun var mı?	Mayroon bang mga problema na dapat naming malaman?	gereken	0	0
+Anahtarlarımı bulmak için hâlâ yardımına ihtiyacım var.	Kailangan ko pa rin ng tulong mo sa paghahanap ng aking mga susi.	hâlâ	0	0
+Eminim.	Sigurado ako.	eminim	0	0
+Tom hatasını kabul etti.	Inamin ni Tom ang kanyang pagkakamali.	etti	0	0
+Tenisin neden mini eteklerle oynandığını merak ediyorum.	Iniisip ko kung bakit miniskirt ang suot kapag naglalaro ng tennis.	merak	0	0
+Anahtarlarımı bulmak için hâlâ yardımına ihtiyacım var.	Kailangan ko pa rin ng tulong mo sa paghahanap ng aking mga susi.	ihtiyacım	0	0
+Penis, erkek üreme organlarından biridir.	Ang titi ang isa sa mga organong pangreproduktibo ng lalaki.	erkek	0	0
+Babam hiç ama hiç yurtdışına çıkmadı.	Kahit minsan ay hindi pa nakakapunta sa ibang bansa ang tatay ko.	babam	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	beş	0	0
+Bir köpek ve kurt arasındaki fark nedir?	Ano ang pinagkaiba ng aso sa lobo?	fark	0	0
+Su hayattır.	Ang tubig ay buhay.	su	0	0
+Dünya yuvarlaktır.	Mabilog ang Tiyera.	dünya	0	0
+Ben Tom'u desteklemek istemiyorum.	Ayaw kong suportahan si Tom.	u	0	0
+Sana dediği gibi yap.	Gawin mo kung anong pinapagawa niya sayo.	yap	0	0
+Onlarla konuşmamanı söyledim.	Sinabi ko sayong wag silang kausapin.	söyledim	0	0
+O hasta bir kişi gibi görünüyor.	Mukha siyang may sakit na tao.	görünüyor	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	dört	0	0
+Evde çalışamam.	HIndi ako makapag-aral sa bahay.	evde	0	0
+Almancada nasıl "hoşça kal" denir?	Paano mo sabihin ang "good bye" sa Aleman?	kal	0	0
+Adım Tom değil.	Hindi Tom ang pangalan ko.	adım	0	0
+Bilmemiz gereken herhangi bir sorun var mı?	Mayroon bang mga problema na dapat naming malaman?	herhangi	0	0
+Kan kırmızıdır.	Pula ang dugo.	kan	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	on	0	0
+Araba nerede?	Nasaan ang kotse?	araba	0	0
+Herkes onun kadınsı bir adam olduğunu söylüyor.	Ang sabi ng lahat ay babainin siya.	söylüyor	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	altı	0	0
+Almancada nasıl "güle güle" denir?	Paano mo sabihin ang "good bye" sa Aleman?	güle	0	0
+Öğrencilerimden hiçbiri başarısız olmadı.	Walang bumagsak sa aking mga estudyante.	olmadı	0	0
+Zeki bir çocuk olduğun belli.	Halatang matalino kang bata.	belli	0	0
+O hasta bir kişi gibi görünüyor.	Mukha siyang may sakit na tao.	hasta	0	0
+Bugün benim doğum günüm.	Ngayon ang aking kaarawan.	doğum	0	0
+Almancada nasıl "hoşça kal" denir?	Paano mo sabihin ang "good bye" sa Aleman?	hoşça	0	0
+Neden buradayım?	Bakit ako nandito?	buradayım	0	0
+Bir köpek ve kurt arasındaki fark nedir?	Ano ang pinagkaiba ng aso sa lobo?	köpek	0	0
+Zeki bir çocuk olduğun belli.	Halatang matalino kang bata.	olduğun	0	0
+Anahtarlarımı bulmak için hâlâ yardımına ihtiyacım var.	Kailangan ko pa rin ng tulong mo sa paghahanap ng aking mga susi.	bulmak	0	0
+Kızın boyu uzundur.	Matangkad ang babae.	kızın	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	yedi	0	0
+Ben Tom.	Ako po si Tom.	tom	0	0
+Özür dilemesine rağmen, hâlâ öfkeliyim.	Kahit humingi siya ng tawad, galit pa rin ako.	rağmen	0	0
+Herhalde değil.	Baka hindi.	herhalde	0	0
+Yüzmek için çok soğuk.	Masyadong malamig para lumangoy ako.	soğuk	0	0
+Sen kimsin?	Sino ka?	kimsin	0	0
+Onlarla konuşmamanı söyledim.	Sinabi ko sayong wag silang kausapin.	onlarla	0	0
+Onlar süpermarkette sebze satın alır.	Bumibili sila ng gulay sa pamilihan.	alır	0	0
+Güneş aydan daha büyüktür.	Mas malaki ang araw kaysa sa buwan.	güneş	0	0
+Almancada nasıl "hoşça kalın" denir?	Paano mo sabihin ang "good bye" sa Aleman?	kalın	0	0
+Kitap nerede?	Nasaan ang aklat?	kitap	0	0
+Onlar süpermarkette sebze satın alır.	Bumibili sila ng gulay sa pamilihan.	satın	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	sekiz	0	0
+Onlar niçin öfkeli?	Bakit sila galit?	niçin	0	0
+Zeki bir çocuk olduğun belli.	Halatang matalino kang bata.	zeki	0	0
+Balık lezzetli değil.	Hindi masarap ang isda.	balık	0	0
+Her gün duş alırım.	Naliligo ako araw-araw.	alırım	0	0
+Bu ne anlama geliyor?	Ano ang ibig sabihin niyan?	anlama	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	dokuz	0	0
+Bir köpek ve kurt arasındaki fark nedir?	Ano ang pinagkaiba ng aso sa lobo?	arasındaki	0	0
+Kedi nerede?	Nasaan ang pusa?	kedi	0	0
+Bir köpek ve kurt arasındaki fark nedir?	Ano ang pinagkaiba ng aso sa lobo?	kurt	0	0
+Neden buradayız?	Bakit nandito tayo?	buradayız	0	0
+Öğrencilerimden hiçbiri başarısız olmadı.	Walang bumagsak sa aking mga estudyante.	başarısız	0	0
+Kızın boyu uzundur.	Matangkad ang babae.	boyu	0	0
+Öğrencilerimden hiçbiri başarısız olmadı.	Walang bumagsak sa aking mga estudyante.	hiçbiri	0	0
+Siz kimsiniz?	Sino po kayo?	kimsiniz	0	0
+Çocukken yılanlardan korkardım.	Takot ako sa mga ahas noong bata pa ako.	çocukken	0	0
+Ben bir şey söylemeliyim.	Mayroon dapat akong sasabihin.	söylemeliyim	0	0
+Anahtarlarımı bulmak için hâlâ yardımına ihtiyacım var.	Kailangan ko pa rin ng tulong mo sa paghahanap ng aking mga susi.	yardımına	0	0
+Tom hiçbir şeyi kabul etmedi.	Hindi umamin ng kahit ano si Tom.	etmedi	0	0
+Sana dediği gibi yap.	Gawin mo kung anong pinapagawa niya sayo.	dediği	0	0
+Onun bir köpeği var.	May aso siya.	köpeği	0	0
+Mutluluk nedir?	Ano ang kasiyahan?	mutluluk	0	0
+Her gün duş alırım.	Naliligo ako araw-araw.	duş	0	0
+Tom için yapabileceğimi düşündüğün nedir?	Ano sa tingin mong kaya kong gawin para kay Tom?	düşündüğün	0	0
+Balık lezzetli değil.	Hindi masarap ang isda.	lezzetli	0	0
+Penis, erkek üreme organlarından biridir.	Ang titi ang isa sa mga organong pangreproduktibo ng lalaki.	biridir	0	0
+Ben öğretmen değilim.	Hindi ako guro.	öğretmen	0	0
+Almancada nasıl "güle güle" denir?	Paano mo sabihin ang "good bye" sa Aleman?	denir	0	0
+Adım Sally.	Ang pangalan ko ay Sally.	sally	0	0
+Yönetim bütçeyi onayladı.	Inaprub ng administrasyon ang badyet.	yönetim	0	0
+Bugün benim doğum günüm değil.	Hindi ko kaarawan ngayon.	günüm	0	0
+Babam hiç ama hiç yurtdışına çıkmadı.	Kahit minsan ay hindi pa nakakapunta sa ibang bansa ang tatay ko.	çıkmadı	0	0
+Deneyelim!	Subukan natin!	deneyelim	0	0
+Sana tekrar söylemeyeceğim.	Hindi ko na ulit sayo sasabihin.	söylemeyeceğim	0	0
+Banyoda bir örümcek var.	May gagamba sa paliguan.	örümcek	0	0
+Arabam yok.	Wala akong awto.	arabam	0	0
+Mango, elma ve papaya ister misin?	Gusto ba ninyo ng mangga, mansanas at papaya?	elma	0	0
+Tom için yapabileceğimi düşündüğün nedir?	Ano sa tingin mong kaya kong gawin para kay Tom?	yapabileceğimi	0	0
+Gökyüzü ne renktir?	Ano ang kulay ng langit?	gökyüzü	0	0
+Onlar niçin öfkeli?	Bakit sila galit?	öfkeli	0	0
+Ben Meryem.	Ako si Maria.	meryem	0	0
+Bunlar benim kitaplarım ve şunlar onun kitapları.	Ito ang aking mga aklat at yun ang kanyang mga aklat.	kitapları	0	0
+Tenisin neden mini eteklerle oynandığını merak ediyorum.	Iniisip ko kung bakit miniskirt ang suot kapag naglalaro ng tennis.	mini	0	0
+Banyoda bir örümcek var.	May gagamba sa paliguan.	banyoda	0	0
+Penis, erkek üreme organlarından biridir.	Ang titi ang isa sa mga organong pangreproduktibo ng lalaki.	penis	0	0
+Benim adım Andrea.	Ang pangalan ko ay Andrea.	andrea	0	0
+Onlar süpermarkette sebze satın alır.	Bumibili sila ng gulay sa pamilihan.	sebze	0	0
+Hâlâ yiyorum.	Kumakain pa ako.	yiyorum	0	0
+İsmim Tom.	Ang pangalan ko ay Tom.	İsmim	0	0
+Bu bir cümle değil.	Hindi ito pangungusap.	cümle	0	0
+Biz onu aradık.	Hinanap namin siya.	aradık	0	0
+Neredesiniz?	Nasaan kayo?	neredesiniz	0	0
+Torunlarımız bunu sevecek.	Magugustuhan ito ng ating mga apo.	sevecek	0	0
+Güneş aydan daha büyüktür.	Mas malaki ang araw kaysa sa buwan.	aydan	0	0
+Bilmemiz gereken herhangi bir sorun var mı?	Mayroon bang mga problema na dapat naming malaman?	bilmemiz	0	0
+Onu nasıl tanıdın?	Paano mo nakilala siya?	tanıdın	0	0
+Türkçe öğreniyorum.	Nag-aaral ako ng Turko.	öğreniyorum	0	0
+Benim sabrım tükendi.	Wala na akong pasensya.	tükendi	0	0
+Onun bir kedisi var.	May pusa siya.	kedisi	0	0
+Güneş aydan daha büyüktür.	Mas malaki ang araw kaysa sa buwan.	büyüktür	0	0
+Yüzmek için çok soğuk.	Masyadong malamig para lumangoy ako.	yüzmek	0	0
+Bunlar benim kitaplarım ve şunlar onun kitapları.	Ito ang aking mga aklat at yun ang kanyang mga aklat.	şunlar	0	0
+Penis, erkek üreme organlarından biridir.	Ang titi ang isa sa mga organong pangreproduktibo ng lalaki.	üreme	0	0
+Ben Tom'u desteklemek istemiyorum.	Ayaw kong suportahan si Tom.	desteklemek	0	0
+Yönetim bütçeyi onayladı.	Inaprub ng administrasyon ang badyet.	onayladı	0	0
+Türkçe öğreniyorum.	Nag-aaral ako ng Turko.	türkçe	0	0
+Anahtarlarımı bulmak için hâlâ yardımına ihtiyacım var.	Kailangan ko pa rin ng tulong mo sa paghahanap ng aking mga susi.	anahtarlarımı	0	0
+Büyüdüğünde bir doktor olacak.	Magiging doktor siya pag-laki niya.	büyüdüğünde	0	0
+Herkes onun kadınsı bir adam olduğunu söylüyor.	Ang sabi ng lahat ay babainin siya.	kadınsı	0	0
+Tom hatasını kabul etti.	Inamin ni Tom ang kanyang pagkakamali.	hatasını	0	0
+Evde çalışamam.	HIndi ako makapag-aral sa bahay.	çalışamam	0	0
+Benim adım Shu.	Ang pangalan ko po ay Shu.	shu	0	0
+Yemiyorum.	Hindi ako kumakain.	yemiyorum	0	0
+Benim sabrım tükendi.	Wala na akong pasensya.	sabrım	0	0
+Babam hiç ama hiç yurtdışına çıkmadı.	Kahit minsan ay hindi pa nakakapunta sa ibang bansa ang tatay ko.	yurtdışına	0	0
+Çocukken yılanlardan korkardım.	Takot ako sa mga ahas noong bata pa ako.	korkardım	0	0
+Mango, elma ve papaya ister misin?	Gusto ba ninyo ng mangga, mansanas at papaya?	mango	0	0
+O nerededir?	Nasaan siya?	nerededir	0	0
+Bisikletim yok.	Wala akong bisikleta.	bisikletim	0	0
+Yönetim bütçeyi onayladı.	Inaprub ng administrasyon ang badyet.	bütçeyi	0	0
+Özür dilemesine rağmen, hâlâ öfkeliyim.	Kahit humingi siya ng tawad, galit pa rin ako.	öfkeliyim	0	0
+Öğrencilerimden hiçbiri başarısız olmadı.	Walang bumagsak sa aking mga estudyante.	öğrencilerimden	0	0
+Kızın boyu uzundur.	Matangkad ang babae.	uzundur	0	0
+Tenisin neden mini eteklerle oynandığını merak ediyorum.	Iniisip ko kung bakit miniskirt ang suot kapag naglalaro ng tennis.	oynandığını	0	0
+Bunlar benim kitaplarım ve şunlar onun kitapları.	Ito ang aking mga aklat at yun ang kanyang mga aklat.	kitaplarım	0	0
+Onlar süpermarkette sebze satın alır.	Bumibili sila ng gulay sa pamilihan.	süpermarkette	0	0
+Su hayattır.	Ang tubig ay buhay.	hayattır	0	0
+Mango, elma ve papaya ister misin?	Gusto ba ninyo ng mangga, mansanas at papaya?	papaya	0	0

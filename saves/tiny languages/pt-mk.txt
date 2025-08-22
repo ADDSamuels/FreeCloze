@@ -1,0 +1,116 @@
+Como você sabe que foi Tom quem quebrou a janela?	Како знаеш дека Том е оној што го скршил прозорецот?	que	0	0
+A areia estava quente.	Песокот беше топол.	a	0	0
+Se você esperar um segundo, eu te levo até o Tom.	Ако почекаш една секунда, ќе те однесам кај Том.	o	0	0
+Talvez você não seja tão estúpido quanto parece.	Можеби и не си толку глупав колку што изгледаш.	não	0	0
+Este livro não trata de linguística.	Оваа книга не се работи за лингвистика.	de	0	0
+A árvore é verde.	Дрвото е зелено.	é	0	0
+O Tom tem um cachorro branco.	Том има бело куче.	um	0	0
+Quem é Tom para você?	Што ти значи тебе Том?	para	0	0
+Eu não posso perdoá-la.	Не можам да ја оправдам.	eu	0	0
+Ele enviou-me uma carta.	Тој ми испрати писмо.	uma	0	0
+Onde está meu irmão?	Каде е брат ми?	está	0	0
+Vai se foder!	Еби се!	se	0	0
+Por que eu não tomo este?	Зошто да не го земам овој?	por	0	0
+Ele gritou de dor.	Извика од болка.	ele	0	0
+Ninguém acredita em mim.	Никој нема верба во мене.	em	0	0
+Como você sabe que foi Tom quem quebrou a janela?	Како знаеш дека Том е оној што го скршил прозорецот?	como	0	0
+As tartarugas não têm dentes.	Желките немаат заби.	as	0	0
+É o menino mais alto.	Тој е највисокото момче.	mais	0	0
+Onde está meu irmão?	Каде е брат ми?	meu	0	0
+Diga a ele que estou aqui.	Кажи му дека сум тука.	aqui	0	0
+Me chamo Dušana.	Моето име е Душана.	me	0	0
+O novo coronavírus é muito contagioso.	Новиот коронавирус е високо заразен.	muito	0	0
+Como você sabe que foi Tom quem quebrou a janela?	Како знаеш дека Том е оној што го скршил прозорецот?	foi	0	0
+Diga a ele que estou aqui.	Кажи му дека сум тука.	estou	0	0
+Onde vai ficar?	Каде ќе престојуваш?	vai	0	0
+Onde está minha bola de golfe?	Каде ми е торбата со опрема за голф?	minha	0	0
+Tom tem um cachorro branco.	Том има бело куче.	tem	0	0
+Se você esperar um segundo, eu te levo até o Tom.	Ако почекаш една секунда, ќе те однесам кај Том.	te	0	0
+Eu tenho um laptop.	Имам лаптоп.	tenho	0	0
+Talvez você não seja tão estúpido quanto parece.	Можеби и не си толку глупав колку што изгледаш.	você	0	0
+Como você sabe que foi Tom quem quebrou a janela?	Како знаеш дека Том е оној што го скршил прозорецот?	quem	0	0
+Onde você vai ficar?	Каде ќе престојуваш?	onde	0	0
+Você não sabe de nada.	Ништо не знаеш.	nada	0	0
+Quero algo novo.	Сакам нешто ново.	quero	0	0
+A areia estava quente.	Песокот беше топол.	estava	0	0
+Eu sou macedônio.	Јас сум Македонец.	sou	0	0
+Nós somos ricas.	Богати сме.	nós	0	0
+Tom ama todos vocês.	Том сите ве сака.	todos	0	0
+Ninguém acredita em mim.	Никој нема верба во мене.	mim	0	0
+Eu posso comer aqui.	Можам да го јадам овде внатре.	posso	0	0
+Parece muito bom.	Звучи многу добро.	bom	0	0
+Por que eu não tomo este?	Зошто да не го земам овој?	este	0	0
+Se você esperar um segundo, eu te levo até o Tom.	Ако почекаш една секунда, ќе те однесам кај Том.	até	0	0
+Não tenho tempo hoje.	Немам време денес.	tempo	0	0
+Para onde devo ir?	Каде да одам?	ir	0	0
+Este livro não é sobre linguística.	Оваа книга не се работи за лингвистика.	sobre	0	0
+Talvez você não seja tão estúpido quanto parece.	Можеби и не си толку глупав колку што изгледаш.	tão	0	0
+Talvez você não seja tão estúpido quanto parece.	Можеби и не си толку глупав колку што изгледаш.	talvez	0	0
+Obrigado!	Благодарам.	obrigado	0	0
+Quero algo novo.	Сакам нешто ново.	algo	0	0
+Onde você vai ficar?	Каде ќе престојуваш?	ficar	0	0
+Como você sabe que foi Tom quem quebrou a janela?	Како знаеш дека Том е оној што го скршил прозорецот?	sabe	0	0
+Parece muito bom.	Звучи многу добро.	parece	0	0
+Tom ama todos vocês.	Том сите ве сака.	vocês	0	0
+Ninguém acredita em mim.	Никој нема верба во мене.	ninguém	0	0
+Essa é a verdadeira razão.	Тоа е правата причина.	essa	0	0
+Não tenho tempo hoje.	Немам време денес.	hoje	0	0
+Talvez você não seja tão estúpido quanto parece.	Можеби и не си толку глупав колку што изгледаш.	seja	0	0
+As tartarugas não têm dentes.	Желките немаат заби.	têm	0	0
+Talvez você não seja tão estúpido quanto parece.	Можеби и не си толку глупав колку што изгледаш.	quanto	0	0
+Quero algo novo.	Сакам нешто ново.	novo	0	0
+Essa é a verdadeira razão.	Тоа е правата причина.	razão	0	0
+Nós somos ricas.	Богати сме.	somos	0	0
+Olhe em frente.	Гледај напред.	frente	0	0
+Onde está meu irmão?	Каде е брат ми?	irmão	0	0
+Feliz Ano Novo!	Среќна Нова година!	feliz	0	0
+Feliz Ano Novo!	Среќна Нова година!	ano	0	0
+É importante?	Важно ли е тоа?	importante	0	0
+Você fala Macedônio?	Зборувате ли македонски?	fala	0	0
+Eu posso comer aqui.	Можам да го јадам овде внатре.	comer	0	0
+Se você esperar um segundo, eu te levo até o Tom.	Ако почекаш една секунда, ќе те однесам кај Том.	segundo	0	0
+Se você esperar um segundo, eu te levo até o Tom.	Ако почекаш една секунда, ќе те однесам кај Том.	esperar	0	0
+Minha irmã me odeia.	Сестра ми ме мрази.	irmã	0	0
+Para onde devo ir?	Каде да одам?	devo	0	0
+Diga a ele que estou aqui.	Кажи му дека сум тука.	diga	0	0
+Onde é a próxima farmácia?	Каде се наоѓа најблизката аптека?	próxima	0	0
+Este livro não é sobre linguística.	Оваа книга не се работи за лингвистика.	livro	0	0
+Olhe em frente.	Гледај напред.	olhe	0	0
+É o menino mais alto.	Тој е највисокото момче.	alto	0	0
+O Tom tem um cachorro branco.	Том има бело куче.	tom	0	0
+Ninguém acredita em mim.	Никој нема верба во мене.	acredita	0	0
+Ele gritou de dor.	Извика од болка.	dor	0	0
+Ele enviou-me uma carta.	Тој ми испрати писмо.	carta	0	0
+Talvez você não seja tão estúpido quanto parece.	Можеби и не си толку глупав колку што изгледаш.	estúpido	0	0
+A areia estava quente.	Песокот беше топол.	quente	0	0
+Tom tem um cachorro branco.	Том има бело куче.	branco	0	0
+Este livro não trata de linguística.	Оваа книга не се работи за лингвистика.	trata	0	0
+Onde está minha bola de golfe?	Каде ми е торбата со опрема за голф?	bola	0	0
+Como você sabe que foi Tom quem quebrou a janela?	Како знаеш дека Том е оној што го скршил прозорецот?	janela	0	0
+É o menino mais alto.	Тој е највисокото момче.	menino	0	0
+Tom ama todos vocês.	Том сите ве сака.	ama	0	0
+Vai se foder!	Еби се!	foder	0	0
+Essa é a verdadeira razão.	Тоа е правата причина.	verdadeira	0	0
+As tartarugas não têm dentes.	Желките немаат заби.	dentes	0	0
+A árvore é verde.	Дрвото е зелено.	árvore	0	0
+A árvore é verde.	Дрвото е зелено.	verde	0	0
+Se você esperar um segundo, eu te levo até o Tom.	Ако почекаш една секунда, ќе те однесам кај Том.	levo	0	0
+Me chamo Dušana.	Моето име е Душана.	chamo	0	0
+A areia estava quente.	Песокот беше топол.	areia	0	0
+Você é tão negativo.	Колку си негативен.	negativo	0	0
+Onde está minha bola de golfe?	Каде ми е торбата со опрема за голф?	golfe	0	0
+Minha irmã me odeia.	Сестра ми ме мрази.	odeia	0	0
+É uma aventura.	Авантура е.	aventura	0	0
+Por que eu não tomo este?	Зошто да не го земам овој?	tomo	0	0
+Tom tem um cachorro branco.	Том има бело куче.	cachorro	0	0
+Onde é a próxima farmácia?	Каде се наоѓа најблизката аптека?	farmácia	0	0
+Como você sabe que foi Tom quem quebrou a janela?	Како знаеш дека Том е оној што го скршил прозорецот?	quebrou	0	0
+Ele gritou de dor.	Извика од болка.	gritou	0	0
+Ele enviou-me uma carta.	Тој ми испрати писмо.	enviou-me	0	0
+Nós somos ricas.	Богати сме.	ricas	0	0
+As tartarugas não têm dentes.	Желките немаат заби.	tartarugas	0	0
+O novo coronavírus é muito contagioso.	Новиот коронавирус е високо заразен.	contagioso	0	0
+Tom não é diplomata.	Том не е дипломат.	diplomata	0	0
+Tenho um laptop.	Имам лаптоп.	laptop	0	0
+Eu não posso perdoá-la.	Не можам да ја оправдам.	perdoá-la	0	0
+Este livro não é sobre linguística.	Оваа книга не се работи за лингвистика.	linguística	0	0

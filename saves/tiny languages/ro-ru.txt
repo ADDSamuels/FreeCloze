@@ -1,0 +1,1681 @@
+De ce vrei să vinzi această mobilă?	Почему ты хочешь продать эту мебель?	de	0	0
+El nu poate să facă asta.	Он не может этого сделать.	nu	0	0
+Mama ta știe să conducă mașina?	Твоя мать может водить автомобиль?	să	0	0
+Tatăl meu a ieșit să cumpere o carte poștală.	Мой отец вышел, чтобы купить открытку.	o	0	0
+El plimbă câinele în fiecare dimineaţă.	Он выгуливает собаку каждое утро.	în	0	0
+Ce distanţă este de la aeroport până la hotel?	Как далеко от аэропорта до отеля?	ce	0	0
+E departe?	Это далеко?	e	0	0
+Am citit că preşedintele Braziliei este o femeie. Ea se numeşte Dilma.	Я читал, что президент Бразилии — женщина. Её зовут Дилма.	că	0	0
+Albul mută şi câştigă.	Белые начинают и выигрывают.	şi	0	0
+Băieții se gândesc mult la fete.	Мальчики много думают о девочках.	la	0	0
+Ea a fost sedusă de el.	Она была соблазнена им.	a	0	0
+Vorbește cu mine!	Поговори со мной!	cu	0	0
+Am scris o adresă greșită pe plic.	Я написал на конверте неправильный адрес.	pe	0	0
+Am vizitat multe țări, dar îmi place cel mai mult Japonia.	Я побывал во многих странах, но Япония мне нравится больше всего.	am	0	0
+Este un telefon.	Это телефон.	un	0	0
+Simt că traducerea nu mai este distractivă.	Я чувствую, что перевод перестал приносить удовольствие.	mai	0	0
+Vrei o ieșire în seara asta?	Хочешь пойти куда-нибудь сегодня вечером?	asta	0	0
+Mulțumesc mult pentru urări.	Большое спасибо вам за поздравления.	pentru	0	0
+Ea crede că el este nevinovat.	Она верит, что он невиновен.	este	0	0
+Sunt John.	Я - Джон.	sunt	0	0
+Ai WhatsApp?	У тебя есть WhatsApp?	ai	0	0
+Pe tine te iubesc mai mult decât pe ea.	Я люблю тебя больше, чем её.	te	0	0
+Ce bine e aici.	Здесь так хорошо.	bine	0	0
+El a spus "da".	Он сказал "да".	da	0	0
+Obișnuiam să folosim rumeguș ca umplutură pentru litiera pisicii.	Раньше мы использовали опилки в качестве наполнителя для лотка.	ca	0	0
+Ați avut șansa s-o faceți, dar n-ați profitat de asta.	У вас была возможность это сделать, но вы ей не воспользовались.	dar	0	0
+Fetele se gândesc mult la băieți.	Девочки много думают о мальчиках.	se	0	0
+Jocul de vânătoare s-a apropiat de sfârșit. Paznicul-șef Hudson, credem noi, a primit ordin spus să confiște tot vânatul. Poți șterge din meniu o făzăniță gătită imediat.	С дичью дело, мы полагаем, закончено. Глава предприятия Хадсон, по сведениям, рассказал о мухобойках все. Фазаньих курочек берегитесь.	din	0	0
+Ieri a fost marţi.	Вчера был вторник.	fost	0	0
+Care e numele tău complet?	Как твоё полное имя?	care	0	0
+O fi ocupat.‎	Может быть, он занят.	fi	0	0
+Mă fascinează figurile desenate de gheața de pe ferestre.	Морозные узоры на стекле завораживают меня.	mă	0	0
+Eu fac toată treaba.	Я делаю всю работу.	eu	0	0
+E atmosfera vesela aici.	Здесь так весело.	aici	0	0
+Circumstantele nu mi-au permis sa va ajut.	Обстоятельства не позволили мне вам помочь.	sa	0	0
+Dacă iei acest medicament te vei simți mult mai bine.	Если ты примешь это лекарство, тебе станет намного лучше.	dacă	0	0
+Trebuie să te dezbaieri de acest obicei prostesc.	Ты должен избавиться от этой дурной привычки.	trebuie	0	0
+Poate că nu va ploua mâine.	Возможно, завтра не будет дождя.	va	0	0
+Fă cum zice el.	Делай, как он говорит.	cum	0	0
+Și tu, ce mai faci?	А ты, как у тебя дела?	tu	0	0
+Până acum nu s-a descoperit nimic mai mult.	Больше ничего пока узнать не удалось.	acum	0	0
+El are mulți bani.	У него много денег.	el	0	0
+Engleza lui este mai bună decât a mea.	Его английский лучше моего.	lui	0	0
+Nu pot să mănânc sau să beau ceva prea fierbinte.	Я не могу пить или есть слишком горячие вещи.	ceva	0	0
+Când se folosește punct și virgulă?	Когда ставится точка с запятой?	când	0	0
+El vorbește nu doar engleză, ci și japoneză.	Он говорит не только по-английски, но и по-тайски.	doar	0	0
+O știu atât pe Mary cât și pe soțul ei.	Я знаю и Мэри и её мужа.	ei	0	0
+Nouă chiar ne plac picnicurile mult.	Нам очень нравятся пикники.	ne	0	0
+Are încredere în mine.	Он мне доверяет.	mine	0	0
+Sunt întru totul de acord cu tine.	Я с тобой полностью согласен.	tine	0	0
+Nu poate exista prietenie fără încredere.	Без доверия не может быть дружбы.	poate	0	0
+Nu mai pot continua să ignor problema.	Я не могу и дальше игнорировать проблему.	pot	0	0
+Ne vom descurca și fără voi.	Без вас разберёмся.	voi	0	0
+Tom a știut ce face.	Том знал, что делает.	face	0	0
+Cred că trebuie să luăm o decizie.	Я думаю, что мы должны принять решение.	cred	0	0
+Îmi vând mașina.	Я продаю свою машину.	îmi	0	0
+De ce au părăsit oamenii Africa și au început să se răspândească pe planetă?	Почему человек покинул Африку и начал расселяться по планете?	au	0	0
+Aceea e școala mea.	Это - моя школа.	mea	0	0
+El a spus "da".	Он сказал "да".	spus	0	0
+Unde ești?	Где ты?	unde	0	0
+Nu deschideți ușa aceasta, vă rog.	Не открывайте эту дверь, пожалуйста.	vă	0	0
+Aparatul lui foto este de trei ori mai scump decât al meu.	Его камера в три раза дороже моей.	meu	0	0
+Cu cine vorbește ea?	С кем она разговаривает?	ea	0	0
+Vă mulțumesc foarte mult! — Cu plăcere.	«Большое спасибо!» — «Не за что».	mult	0	0
+Aș putea să mă întorc acum, dar nu vreau.	Я хоть сейчас могу вернуться, но не хочу.	vreau	0	0
+El s-a bucurat, când a auzit de succesul ei.	Он обрадовался, когда услышал о её успехе.	s-a	0	0
+Nu-ți fă griji despre asta. Nu e problema ta.	Не беспокойся. Это не твоя проблема.	despre	0	0
+Nu vrei să vorbești cu mine?	Ты не хочешь поговорить со мной?	vrei	0	0
+Care pește este mai sănătos: de mare sau de apă dulce?	Какая рыба полезнее: морская или пресноводная?	sau	0	0
+Jocul de vânătoare s-a apropiat de sfârșit. Paznicul-șef Hudson, credem noi, a primit ordin spus să confiște tot vânatul. Poți șterge din meniu o făzăniță gătită imediat.	С дичью дело, мы полагаем, закончено. Глава предприятия Хадсон, по сведениям, рассказал о мухобойках все. Фазаньих курочек берегитесь.	tot	0	0
+Paltonul tău este foarte frumos.	У тебя очень красивое пальто.	foarte	0	0
+Eu numai ce-am văzut blogul dumneavoastră - el pare interesant.	Я только что посмотрел на Ваш блог — он, кажется, интересный.	pare	0	0
+Este deja unsprezece și el încă nu este acolo.	Уже одиннадцать, а его всё нет и нет.	acolo	0	0
+Nouă chiar ne plac picnicurile mult.	Нам очень нравятся пикники.	chiar	0	0
+Aceste cărți sunt noi.	Это новые книги.	noi	0	0
+Noapte bună și vise plăcute.	Спокойной ночи и сладких снов.	bună	0	0
+Care este sărbătoarea ta preferată?	Какой твой любимый праздник?	ta	0	0
+Spre mirarea mea, era vie.	К моему удивлению, она была жива.	era	0	0
+Tom nu știe nimic despre Australia.	Том не знает ничего об Австралии.	nimic	0	0
+Și tu, ce mai faci?	А ты, как у тебя дела?	faci	0	0
+Tom are trei milioane de dolari la bancă.	У Тома три миллиона долларов в банке.	are	0	0
+Ce am făcut?	Что я сделал?	făcut	0	0
+Priviți cine a venit, copii!	Смотрите, дети, кто к нам пришёл!	cine	0	0
+Nici ea nu mă înțelege.	Она тоже меня не понимает.	nici	0	0
+Ați putea să îmi faceți o rezervare?	Вы бы могли сделать для меня резервирование?	putea	0	0
+Ce să fac mai departe?	Что мне делать дальше?	fac	0	0
+Dacă pui un pisoi între două balene, o să-i fie cald.	А если котёнка положить между китов, ему будет тепло.	fie	0	0
+Am nevoie de stilouri, caiete și altele.	Мне нужны ручки, тетради и т.д.	nevoie	0	0
+Nu i-am făcut niciodată rău.	Я никогда не делал ему ничего плохого.	rău	0	0
+Înainte de moarte, și-a revenit pentru scurt timp în fire.	Перед смертью он ненадолго пришёл в себя.	timp	0	0
+Care e numărul tău de telefon?	Какой у тебя номер телефона?	tău	0	0
+Iti spun pentru a nu stiu cita oara: nu!	Я тебе это говорю в который раз: Нет!	spun	0	0
+În absența dumneavoastră, sistemul smart home aprinde și stinge luminile în diferite camere, creând iluzia că cineva se află în casă și reducând astfel riscul de efracție.	В ваше отсутствие система "умный дом" включает и выключает свет в разных комнатах, создавая иллюзию, что в доме кто-то есть, и тем самым снижая риск ограбления.	și	0	0
+Te rog nu-l ajuta pe Tom.	Пожалуйста, не помогай Тому.	rog	0	0
+Acest motan nu e de vânzare.	Этот кот не продаётся.	acest	0	0
+Elena este secretară, nu-i așa?	Элена - секретарь, верно?	nu-i	0	0
+Tom spune că nu este interesat.	Том говорит, что ему не интересно.	spune	0	0
+Avem nevoie de ajutorul tău!	Нам нужна твоя помощь!	avem	0	0
+Individualismul este boala veacului al XX-lea.	Индивидуализм - это эпидемия 21-го века.	al	0	0
+Vreau să le mulțumesc oamenilor rari din viața mea care ascultă fără să judece, vorbesc fără prejudecăți, ajută fără cuvinte inutile, înțeleg fără să se plângă și mă iubesc necondiționat.	Я хочу сказать спасибо тем редким людям в моей жизни, которые слушают без осуждения, разговаривают без предрассудков, помогают без лишних слов, понимают без претензий, и любят меня без всяких условий.	le	0	0
+După ceasul meu de mână este ora zece.	На моих часах сейчас десять часов.	după	0	0
+Mâine vom merge la teatru.‎	Завтра мы идём в театр.	vom	0	0
+Îl cunoșteați de mult?	Вы знали его долгое время?	îl	0	0
+Nu pot să mănânc sau să beau ceva prea fierbinte.	Я не могу пить или есть слишком горячие вещи.	prea	0	0
+Am reușit să-l împingem într-un colț.	Нам удалось загнать его в угол.	să-l	0	0
+În absența dumneavoastră, sistemul smart home aprinde și stinge luminile în diferite camere, creând iluzia că cineva se află în casă și reducând astfel riscul de efracție.	В ваше отсутствие система "умный дом" включает и выключает свет в разных комнатах, создавая иллюзию, что в доме кто-то есть, и тем самым снижая риск ограбления.	cineva	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	toate	0	0
+Sunt Ricardo, am 33 de ani și locuiesc în Rio.	Я Рикардо, мне 33 года, и я живу в Рио.	ani	0	0
+Cel mai bine este să nu te gândești de loc la asta.	Об этом лучше вообще не думать.	cel	0	0
+Noi suntem fiii tăi.	Мы твои сыновья.	suntem	0	0
+Te-ai decis deja unde vei merge?	Уже решил, куда поступать?	vei	0	0
+Petya este prietenul meu cel mai bun.	Петя — мой лучший друг.	bun	0	0
+În viitorul apropiat, călătoriile în spațiu nu vor mai fi doar un vis.	В близком будущем космическое путешествие больше не будет всего лишь мечтой.	vor	0	0
+Tom vrea să muncească.	Том хочет работать.	vrea	0	0
+Ce casă mare ai!	Какой у тебя большой дом!	mare	0	0
+Prietenului meu îi place înghețata de ciocolată.	Мой друг любит шоколадное мороженое.	îi	0	0
+Marina este din Rusia, iar Clarissa este din Suedia.	Марина из России, а Кларисса - из Швеции.	iar	0	0
+Până la vârsta de optsprezece ani, sunt responsabil pentru tine.	Пока тебе нет восемнадцати, я несу за тебя ответственность.	până	0	0
+Cât vă datorez?	Сколько я вам должен?	cât	0	0
+Crezi că este vreo șansă?	Думаешь, шанс есть?	crezi	0	0
+Înoată cât încă poți.	Плыви, пока можешь.	încă	0	0
+Trebuie să stai cu mine.	Вы должны остаться со мной.	stai	0	0
+O știu atât pe Mary cât și pe soțul ei.	Я знаю и Мэри и её мужа.	atât	0	0
+Sunt întru totul de acord cu tine.	Я с тобой полностью согласен.	totul	0	0
+Mai avea puțin peste o lună de trăit.	Ей оставалось жить чуть больше месяца.	avea	0	0
+Bine ați venit!	Добро пожаловать!	venit	0	0
+Cum spui...?	Как сказать ...?	spui	0	0
+Ăsta e un autobuz sau o mașină?	Это автобус или машина?	ăsta	0	0
+Ai avut șansa s-o faci.	У тебя была возможность это сделать.	avut	0	0
+M-am trezit aproximativ la ora șase.	Я проснулся где-то в шесть.	m-am	0	0
+Cât mai aveți de lucru?	Сколько работы у вас ещё есть?	lucru	0	0
+Ce a văzut Tom?	Что Том видел?	văzut	0	0
+Sunt la fel de înalt ca el.	Я такой же высокий, как и он.	fel	0	0
+Dacă pui un pisoi între două balene, o să-i fie cald.	А если котёнка положить между китов, ему будет тепло.	să-i	0	0
+Sper să putem lucra împreună în curând.	Надеюсь, мы вскоре сможем работать вместе.	putem	0	0
+N-am nevoie de ajutorul tău.	Мне твоя помощь не нужна.	n-am	0	0
+Am dreptul să-mi sun avocatul.	У меня есть право позвонить адвокату.	să-mi	0	0
+Fără el n-aș fi putut face asta.	Без него я бы не смог этого сделать.	fără	0	0
+Am uitat să opresc televizorul înainte de a ma duce la culcare.	Я забыла выключить телевизор перед сном.	ma	0	0
+Este la fel de frumoasă ca mama ei.	Она такая же красавица, как и её мать.	mama	0	0
+Îmi place să citesc.	Я люблю читать.	place	0	0
+Aş dori să telefonez în Japonia.	Я хотел бы позвонить в Японию.	aş	0	0
+Aparatul lui foto este de trei ori mai scump decât al meu.	Его камера в три раза дороже моей.	decât	0	0
+Mai bine mai târziu decât niciodată.	Лучше позже, чем никогда.	niciodată	0	0
+Fata mi-a zâmbit.	Девочка улыбнулась мне.	mi-a	0	0
+Este interzis să umbli gol prin hotel.	Нельзя ходить по гостинице голым.	prin	0	0
+Ai avut șansa s-o faci.	У тебя была возможность это сделать.	s-o	0	0
+Tu nu esti eu.	Ты не я.	esti	0	0
+Am uitat să opresc televizorul înainte de a ma duce la culcare.	Я забыла выключить телевизор перед сном.	înainte	0	0
+Îl văd uneori pe stradă.	Я иногда вижу его на улице.	văd	0	0
+Să mergem.	Идём.	mergem	0	0
+E unul dintre filmele mele preferate.	Это один из моих любимых фильмов.	unul	0	0
+Uite ce strălucitoare este luna!	Смотри, какая луна яркая!	uite	0	0
+Hai, nu te prosti.	Ну давай, не будь дураком.	hai	0	0
+Primăvara în taiga dă repede loc verii.	Весну в тайге быстро сменяет лето.	loc	0	0
+Nimeni nu îți cere părerea.	Твоего мнения никто не спрашивает.	nimeni	0	0
+Câinii au lătrat toată noaptea.	Собаки лаяли всю ночь.	toată	0	0
+Focul a fost localizat rapid și apoi stins.	Пожар был быстро локализован, а затем потушен.	apoi	0	0
+Chiar nu vezi nicio contradicție aici?	Ты правда не видишь здесь нигде противоречий?	vezi	0	0
+Mi-am dat deodată seama că practic nu știam nimic despre el.	Я вдруг понял, что, в сущности, ничего о нём не знаю.	dat	0	0
+Fii recunoscător.	Будь благодарен.	fii	0	0
+Nu l-am mai văzut de duminica trecută.	Я не видел его с прошлого воскресенья.	l-am	0	0
+Calculatorul este nou.	Компьютер новый.	nou	0	0
+Limba este un mijloc de comunicare între oameni.	Язык - средство коммуникации между людьми.	oameni	0	0
+Câte zile îți ia de obicei, ca să ajungi acolo?	Сколько дней обычно уходит на то, чтобы туда добраться?	ia	0	0
+Știm ce facem.	Мы знаем, что делаем.	facem	0	0
+Era o zi frumoasă.	Это был прекрасный день.	zi	0	0
+Ea este acasă.	Она дома.	acasă	0	0
+Multe medicamente nu pot traversa bariera hemato-encefalică și nu pot intra în creier.	Многие лекарства не могут преодолеть гематоэнцефалический барьер и попасть в мозг.	multe	0	0
+Mergi pe jos?	Вы пешком пойдёте?	jos	0	0
+Bună dimineața la toată lumea.	Доброе утро всем.	lumea	0	0
+Ai două cărți?	У тебя две книги?	două	0	0
+Nu-mi încurca.	Не мешай мне.	nu-mi	0	0
+Timpul nostru este limitat.	Наше время ограничено.	timpul	0	0
+În această cameră este aer condiționat.	В этой комнате есть кондиционер.	această	0	0
+Clădirea se poate prăbuși în orice moment.	Здание в любой момент может упасть.	orice	0	0
+De ce au părăsit oamenii Africa și au început să se răspândească pe planetă?	Почему человек покинул Африку и начал расселяться по планете?	oamenii	0	0
+El s-a bucurat, când a auzit de succesul ei.	Он обрадовался, когда услышал о её успехе.	auzit	0	0
+Unu, doi, trei, patru, cinci, șase, șapte, opt, nouă, zece.	Один, два, три, четыре, пять, шесть, семь, восемь, девять, десять.	doi	0	0
+Mi-a luat mult timp să mă obișnuiesc cu manierele lui grosolane.	Я долго привыкал к его грубым манерам.	luat	0	0
+Mă trezesc la patru dimineața în fiecare zi și nu pot să mă întorc la culcare.	Я каждый день просыпаюсь в четыре утра и не могу больше заснуть.	fiecare	0	0
+Trebuie să sosească la birou peste o oră.	Он должен прийти в офис через час.	peste	0	0
+Am vrut să prind primul tren care a venit și să plec departe, departe.	Мне хотелось сесть в первый попавшийся поезд и уехать далеко-далеко.	vrut	0	0
+Te sun înapoi în curând.	Я вам перезвоню.	înapoi	0	0
+Încrederea se câștigă într-o viață și se pierde într-o clipă.	Доверие зарабатывают в течение жизни и теряют в один миг.	într-o	0	0
+El are un fiu?	У него есть сын?	fiu	0	0
+Virusul a depășit bariera dintre specii.	Вирус преодолел межвидовой барьер.	dintre	0	0
+Eu voi merge la plajă.	Я иду на пляж.	merge	0	0
+Poliţistul a întrebat domnişoarele dacă este al lor automobilul.	Полицейский спросил у девушек, их ли это машина.	lor	0	0
+Am trei bilete.	У меня три билета.	trei	0	0
+Care e numele tău complet?	Как твоё полное имя?	numele	0	0
+El este un om cu multă experiență.	Он человек с большим опытом.	om	0	0
+Care este cea mai dificilă limbă din lume?	Какой самый сложный язык в мире?	cea	0	0
+Am găsit un bilet pe birou, dar nu știu al cui este.	Я обнаружил на столе записку, но не знаю, от кого она.	găsit	0	0
+Institutul nostru are cei mai buni profesori.	В нашем институте самые лучшие преподаватели.	cei	0	0
+Este unul dintre filmele mele preferate.	Это один из моих любимых фильмов.	mele	0	0
+Te-ai decis deja unde vei merge?	Уже решил, куда поступать?	te-ai	0	0
+Iti spun pentru a nu stiu cita oara: nu!	Я тебе это говорю в который раз: Нет!	stiu	0	0
+Aceasta este Copacabana!	Это Копакабана!	aceasta	0	0
+Du-te înapoi la locul tău.	Вернись на своё место.	du-te	0	0
+Ai chemat deja o ambulanță?	Ты уже вызвал скорую?	deja	0	0
+Bună ziua!	Добрый день!	ziua	0	0
+Eu mă duc la magazin.	Я иду в магазин.	duc	0	0
+Cel care, mai ieri, socotea că îndrumă, conduce — se pomenește dintr-o dată întins țeapăn într-o cutie de lemn, iar cei din jur, dându-și seama că nu mai e bun de nimic, îl ard într-un cuptor.	Тот, кто еще недавно полагал, что он чем-то управляет, оказывается вдруг лежащим неподвижно в деревянном ящике, и окружающие, понимая, что толку от лежащего нет более никакого, сжигают его в печи.	dată	0	0
+Eu i-am cumparat o maşină nouă.	Я купил ему новую машину.	i-am	0	0
+Vino aici.	Иди сюда.	vino	0	0
+Ai avut destul timp.	У тебя было полно времени.	destul	0	0
+L-am vizitat de câteva ori.	Я посещал его иногда.	câteva	0	0
+Există zbor direct din Tokio spre Londra.	Есть прямой перелёт от Токио до Лондона.	există	0	0
+Încă nu sunt gata.	Я ещё не готова.	gata	0	0
+El are mulți bani.	У него много денег.	bani	0	0
+Nu vreau să vorbesc despre asta acum.	Я не хочу говорить об этом прямо сейчас.	vorbesc	0	0
+Ce este tatăl lui?	Кто его отец?	tatăl	0	0
+Casa mea e aproape de stația de autobuz.	Мой дом находится возле автобусной остановки.	aproape	0	0
+Aş dori să dau un telefon în Japonia.	Я хотел бы сделать звонок в Японию.	dau	0	0
+Eu numai ce-am văzut blogul dumneavoastră - el pare interesant.	Я только что посмотрел на Ваш блог — он, кажется, интересный.	numai	0	0
+Acesta este planul nostru.	Таков наш план.	nostru	0	0
+Ați făcut-o cu adevărat?	Вы действительно это сделали?	adevărat	0	0
+E cel mai bun jucător din echipa noastră.	Он лучший игрок в нашей команде.	noastră	0	0
+Ce înseamnă semnul acesta?	Что означает этот знак?	înseamnă	0	0
+Eu trăiesc într-un oraș.	Я живу в городе.	într-un	0	0
+Ea a fost una dintre cele mai frumoase fete.	Она была одной из самых красивых девушек.	una	0	0
+Fiecare vin are drojdii.	И на солнце есть пятна.	vin	0	0
+Du-te înapoi la locul tău.	Вернись на своё место.	locul	0	0
+Îmi cer scuze, că nu am putut să îți scriu mai repede.	Извини, что не смог написать тебе раньше.	scuze	0	0
+Acesta este planul nostru.	Таков наш план.	acesta	0	0
+Nu refuza niciodată cadouri scumpe. Dragostea vine și pleacă, dar casa de amanet este mereu deschisă.	Никогда не отказывайтесь от дорогих подарков. Любовь приходит и уходит, а ломбард работает всегда.	vine	0	0
+Vino cât poți de repede.	Приходи как можно скорее.	repede	0	0
+De fapt, nu-mi place să fac sex cu Tom.	Я не люблю на самом деле трахаться с Томом.	fapt	0	0
+Mă uit la televizor de două ori pe săptămână.	Я смотрю телевизор дважды в неделю.	ori	0	0
+Fără el n-aș fi putut face asta.	Без него я бы не смог этого сделать.	putut	0	0
+Noi suntem fiicele tale.	Мы твои дочери.	tale	0	0
+Nu mai sunt singur.	Я больше не один.	singur	0	0
+Aceasta este casa lui Tom.	Это дом Тома.	casa	0	0
+Îmi pare rău că am ajuns așa fără avertisment.	Прости, что я как снег на голову.	ajuns	0	0
+Nu îmi amintesc exact.	Я не помню точно.	exact	0	0
+El nu ştie aproape nimic despre acest animal.	Он почти ничего не знает про это животное.	ştie	0	0
+Ea l-a auzit cântând.	Она слышала, как он поёт.	l-a	0	0
+Mă simt fericit când sunt cu tine.	Я чувствую себя счастливым, когда я с тобой.	simt	0	0
+Este tocmai cartea pe care o căutam.	Это та самая книга, которую я искал.	tocmai	0	0
+Noapte bună, mamă.	Спокойной ночи, мама.	noapte	0	0
+Ea a fost una dintre cele mai frumoase fete.	Она была одной из самых красивых девушек.	cele	0	0
+Mai bine mai târziu decât niciodată.	Лучше позже, чем никогда.	târziu	0	0
+Au trecut trei zile și nu am făcut niciun progres.	Прошло трое суток, а мы ни на шаг не продвинулись.	trecut	0	0
+Câte zile îți ia de obicei, ca să ajungi acolo?	Сколько дней обычно уходит на то, чтобы туда добраться?	zile	0	0
+Oricine poate să o facă.	Любой может это сделать.	facă	0	0
+Mereu am fost sănătos.	Я всегда был здоров.	mereu	0	0
+Vrei o ieșire în seara asta?	Хочешь пойти куда-нибудь сегодня вечером?	seara	0	0
+Am de gând să iau prânzul cu Tom.	Я планирую пообедать с Томом.	iau	0	0
+Sper să putem lucra împreună în curând.	Надеюсь, мы вскоре сможем работать вместе.	împreună	0	0
+Tata e plecat acum.	Отца сейчас нет.	plecat	0	0
+Fata mi-a zâmbit.	Девочка улыбнулась мне.	fata	0	0
+Jocul de vânătoare s-a apropiat de sfârșit. Paznicul-șef Hudson, credem noi, a primit ordin spus să confiște tot vânatul. Poți șterge din meniu o făzăniță gătită imediat.	С дичью дело, мы полагаем, закончено. Глава предприятия Хадсон, по сведениям, рассказал о мухобойках все. Фазаньих курочек берегитесь.	imediat	0	0
+Ne-am îmbrățișat în tăcere, s-a urcat în tren și nu l-am mai văzut niciodată.	Мы молча обнялись, он сел в поезд, и больше я его никогда не видела.	ne-am	0	0
+Spre mirarea mea, era vie.	К моему удивлению, она была жива.	spre	0	0
+Azi e luni și mâine va fi marți.	Сегодня понедельник, а завтра будет вторник.	azi	0	0
+E departe.	Это далеко.	departe	0	0
+Aceste cărți sunt noi.	Это новые книги.	aceste	0	0
+La început a făcut Dumnezeu cerul și pământul.	В начале сотворил Бог небо и землю.	început	0	0
+Pe tine te iubesc mai mult decât pe ea.	Я люблю тебя больше, чем её.	iubesc	0	0
+Tom nici măcar nu vrea să meargă.	Том даже не хочет идти.	măcar	0	0
+Și-a pierdut toți banii pe care îi avea.	Он потерял все свои деньги.	pierdut	0	0
+Tata e plecat acum.	Отца сейчас нет.	tata	0	0
+Tom și Mary locuiesc sub același acoperiș.	Том и Мэри живут под одной крышей.	sub	0	0
+Aveți copii?	У Вас есть дети?	copii	0	0
+Ce oraș frumos!	Какой прекрасный город!	frumos	0	0
+Și-a pierdut toți banii pe care îi avea.	Он потерял все свои деньги.	banii	0	0
+Voi fi acasă mâine.	Я буду завтра дома.	mâine	0	0
+N-ai febră.	У тебя нет температуры.	n-ai	0	0
+Mi-am dat deodată seama că practic nu știam nimic despre el.	Я вдруг понял, что, в сущности, ничего о нём не знаю.	mi-am	0	0
+Noapte bună, mamă.	Спокойной ночи, мама.	mamă	0	0
+Mi se pare că am uitat că să închid lumina.	Кажется, я забыл выключить свет.	mi	0	0
+Frații mei!	Братья мои!	mei	0	0
+Eu fac toată treaba.	Я делаю всю работу.	treaba	0	0
+Săptămâna viitoare trebuie să plec la New York.	На следующей неделе я должен поехать в Нью-Йорк.	plec	0	0
+Vorba e de argint dar tăcerea e de aur.	Слово - серебро, а молчание - золото.	vorba	0	0
+Limba rusă e foarte greu de învăţat.	Русский весьма трудно изучить.	greu	0	0
+Chiar dacă te stai pe vârfuri, nu vei vedea nimic.	Даже если встать на цыпочки, ничего не увидишь.	vedea	0	0
+La început a făcut Dumnezeu cerul și pământul.	В начале сотворил Бог небо и землю.	dumnezeu	0	0
+Drumul merge de-a lungul mării.	Дорога идёт вдоль моря.	drumul	0	0
+Tom a murit iarna trecută.	Том умер прошлой зимой.	murit	0	0
+Te rog nu-l ajuta pe Tom.	Пожалуйста, не помогай Тому.	ajuta	0	0
+- Îi place muzica. - Și mie.	"Она любит музыку". - "Я тоже".	mie	0	0
+Am citit că preşedintele Braziliei este o femeie. Ea se numeşte Dilma.	Я читал, что президент Бразилии — женщина. Её зовут Дилма.	femeie	0	0
+Este o idee excelentă.	Это отличная идея.	idee	0	0
+Tom este un copil foarte introvertit.	Том очень замкнутый ребёнок.	copil	0	0
+Mâine este ultima zi de școală.	Завтра - последний день школы!	ultima	0	0
+Ale cui sunt cărțile?	Чьи книги?	ale	0	0
+A tăcut un moment.	Он помолчал какое-то время.	moment	0	0
+I-a plăcut călătoria în Polonia.	Ей понравилась поездка в Польшу.	i-a	0	0
+În primul rând trebuie să găsim o ieșire din această situație.	В первую очередь мы должны найти выход из этого положения.	primul	0	0
+Aceea e școala mea.	Это моя школа.	aceea	0	0
+Am pus planul în practică.	Я претворил план в жизнь.	pus	0	0
+Sper să putem lucra împreună în curând.	Надеюсь, мы вскоре сможем работать вместе.	sper	0	0
+Aşi dori să merg cu dumneavoastră.	Я хотел бы пойти с вами.	merg	0	0
+Țările s-au unit pentru a preveni un alt război global.	Страны объединились, чтобы не допустить новой глобальной войны.	s-au	0	0
+Unde te-ai dus?	Куда ты пошёл?	dus	0	0
+Cel care, mai ieri, socotea că îndrumă, conduce — se pomenește dintr-o dată întins țeapăn într-o cutie de lemn, iar cei din jur, dându-și seama că nu mai e bun de nimic, îl ard într-un cuptor.	Тот, кто еще недавно полагал, что он чем-то управляет, оказывается вдруг лежащим неподвижно в деревянном ящике, и окружающие, понимая, что толку от лежащего нет более никакого, сжигают его в печи.	seama	0	0
+Ferestrele erau deschise și se auzeau vocile copiilor care se jucau pe stradă.	Окна были открыты, и с улицы доносились голоса играющих детей.	erau	0	0
+Toți au părți bune și slabe.	У каждого есть свои сильные и слабые стороны.	bune	0	0
+Ați făcut-o într-adevăr?	Вы действительно это сделали?	făcut-o	0	0
+Spune-mi ce cauți și voi ajuta.	Скажите мне, что вы ищете, и я помогу.	spune-mi	0	0
+Vorbește mai tare, bunicul tău deja nu mai aude așa de bine!	Говори громче, твой дедушка уже не слышит так хорошо!	tare	0	0
+Nu-ți fă griji despre asta. Nu e problema ta.	Не беспокойся. Это не твоя проблема.	griji	0	0
+Crezi că este vreo șansă?	Думаешь, шанс есть?	vreo	0	0
+Nu-ți fă griji despre asta. Nu e problema ta.	Не беспокойся. Это не твоя проблема.	problema	0	0
+Te rog nu-l ajuta pe Tom.	Пожалуйста, не помогай Тому.	nu-l	0	0
+Între noi fie vorba, are un mod de a gândi superficial.	Между нами говоря, он мыслит поверхностно.	între	0	0
+Ce-i cu tine de nu-nțelegi?	Ты что, не понимаешь?	ce-i	0	0
+Înainte de a merge la culcare, este necesar să aerisești camera.	Перед сном помещение необходимо проветривать.	camera	0	0
+Câinii au lătrat toată noaptea.	Собаки лаяли всю ночь.	noaptea	0	0
+Trebuie să vorbim cu el înainte să facă vreo greșeală.	Надо поговорить с ним, пока он не наделал ошибок.	vorbim	0	0
+Ești întotdeauna acasă seara?	Ты всегда дома по вечерам?	întotdeauna	0	0
+Am încercat să-l oprim.	Мы попытались его остановить.	încercat	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	ele	0	0
+Poftim?	Простите?	poftim	0	0
+Am dormit doar două ore.	Я спал не больше двух часов.	ore	0	0
+Tom pune rar întrebări.	Том редко задает вопросы.	pune	0	0
+„Ți-ai schimbat vreodată numele?” „Nu, ce zici de tine?”	«Ты когда-нибудь менял имя?» — «Нет, а ты?»	vreodată	0	0
+Acesta e fiul meu.	Это мой мальчик.	fiul	0	0
+Este ciudat că asta nu mi-a trecut prin cap.	Странно, что мне самому это в голову не пришло.	ciudat	0	0
+El are probleme la școală.	У него проблемы в школе.	probleme	0	0
+Pentru mine, nu e o problemă.	Для меня это не проблема.	problemă	0	0
+Tom a vorbit în franceză cu mine.	Том говорил со мной по-французски.	vorbit	0	0
+Tom nu știe nimic despre familia Mariei.	Том ничего не знает о семье Мэри.	familia	0	0
+Ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie și decembrie sunt cele douăsprezece luni ale anului.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.	luni	0	0
+Numărul limbilor vii scade într-un ritm mediu de o limbă la fiecare două săptămâni.	Количество живых языков сокращается со средней скоростью один язык в две недели.	vii	0	0
+Este un cântec pe care nu ți-l poți scoate din cap.	Это мелодия, которая застревает в голове.	cap	0	0
+Îmi cer scuze!	Извините.	cer	0	0
+Președintele republicii este ales de către popor.	Президент республики выбирается народом.	ales	0	0
+Uită-te prin vizor.	Посмотри в дверной глазок.	uită-te	0	0
+Ea crede că el este nevinovat.	Она верит, что он невиновен.	crede	0	0
+Credeam că Tom era căsătorit.	Я думал, что Том женат.	credeam	0	0
+Te ascultă fiica ta vitregă?	Твоя падчерица тебя слушается?	ascultă	0	0
+Chiar nu vezi nicio contradicție aici?	Ты правда не видишь здесь нигде противоречий?	nicio	0	0
+Ce casă mare ai!	Какой у тебя большой дом!	casă	0	0
+Am uitat să opresc televizorul înainte de a ma duce la culcare.	Я забыла выключить телевизор перед сном.	duce	0	0
+Dă-mi cuţitul să tai acest cablu.	Дай мне нож, чтобы перерезать этот шнур.	dă-mi	0	0
+Mă bucur!	Я рад!	bucur	0	0
+Am uitat să opresc televizorul înainte de a ma duce la culcare.	Я забыла выключить телевизор перед сном.	uitat	0	0
+Cunosc Boston.	Я знаю Бостон.	cunosc	0	0
+Are încredere în mine.	Она мне доверяет.	încredere	0	0
+Este un caz extrem.	Это крайний случай.	caz	0	0
+Nu mai sunt singură.	Я больше не одна.	singură	0	0
+Am fost cu toții dezamăgiți de joc.	Мы все были разочарованы игрой.	joc	0	0
+Mergi pe jos?	Вы пешком пойдёте?	mergi	0	0
+De dimineață până seară el nu face nimic altceva decât să se plângă.	С утра до вечера он не делает ничего, кроме как жалуется.	altceva	0	0
+Jocul de vânătoare s-a apropiat de sfârșit. Paznicul-șef Hudson, credem noi, a primit ordin spus să confiște tot vânatul. Poți șterge din meniu o făzăniță gătită imediat.	С дичью дело, мы полагаем, закончено. Глава предприятия Хадсон, по сведениям, рассказал о мухобойках все. Фазаньих курочек берегитесь.	primit	0	0
+De asemenea, el vorbește rusa.	Он может говорить и по-русски.	asemenea	0	0
+Care este cea mai dificilă limbă din lume?	Какой самый сложный язык в мире?	lume	0	0
+Sunt întru totul de acord cu tine.	Я с тобой полностью согласен.	acord	0	0
+Unu, doi, trei, patru, cinci, șase, șapte, opt, nouă, zece.	Один, два, три, четыре, пять, шесть, семь, восемь, девять, десять.	cinci	0	0
+Iulia este o fată bună.	Юлия - хорошая девочка.	fată	0	0
+Poți veni mâine?	Ты можешь завтра прийти?	veni	0	0
+Mă trezesc la patru dimineața în fiecare zi și nu pot să mă întorc la culcare.	Я каждый день просыпаюсь в четыре утра и не могу больше заснуть.	patru	0	0
+Mulţi nu pot înţelege legile.	Многие не могут понять законы.	mulţi	0	0
+Ce vrei să iei?	Чего бы ты хотел?	iei	0	0
+Tom a lăsat cheile în contact.	Том оставил ключи в замке зажигания.	lăsat	0	0
+Care e numărul tău de telefon?	Какой у тебя номер телефона?	telefon	0	0
+Fratele meu lucrează la o stație de benzină.	Мой брат работает на заправочной станции.	fratele	0	0
+Salut, ce faci?	Привет! Как у тебя дела?	salut	0	0
+Nu-l ascultați pe omul acesta.	Не слушайте этого человека.	omul	0	0
+A fost foarte important pentru mine ca Rusia să aleagă un președinte decent.	Мне было весьма важно, чтобы Россия избрала достойного президента.	important	0	0
+El nu ne va găsi.	Он нас не найдёт.	găsi	0	0
+Lângă casa mea există o biserică.	Возле моего дома есть церковь.	lângă	0	0
+Poftiți, doamnă, serviți-vă!	Пожалуйста, мадам, угощайтесь!	doamnă	0	0
+Câte zile îți ia de obicei, ca să ajungi acolo?	Сколько дней обычно уходит на то, чтобы туда добраться?	câte	0	0
+Asta e vina ta.	Это твоя вина.	vina	0	0
+„Ți-ai schimbat vreodată numele?” „Nu, ce zici de tine?”	«Ты когда-нибудь менял имя?» — «Нет, а ты?»	zici	0	0
+Nu vorbi în ghicitori.	Не говорите загадками.	vorbi	0	0
+El are maxim 100 dolari.	У него максимум 100 долларов.	dolari	0	0
+Acea clădire este școala noastră.	То здание — наша школа.	acea	0	0
+Nimic nu este cunoscut în mod cert.	Ничего не известно наверняка.	mod	0	0
+Ne-a plăcut mult povestirea.	Нам очень понравился его рассказ.	ne-a	0	0
+Eu i-am cumparat o maşină nouă.	Я купил ему новую машину.	maşină	0	0
+Ești fericită?	Ты счастлива?	ești	0	0
+Ridică mâna înainte de a răspunde.	Прежде чем отвечать, подними руку.	mâna	0	0
+Nu știu cine a ucis-o.	Я не знаю, кто её убил.	știu	0	0
+Suntem buni prieteni.	Мы добрые друзья.	prieteni	0	0
+Nu refuza niciodată cadouri scumpe. Dragostea vine și pleacă, dar casa de amanet este mereu deschisă.	Никогда не отказывайтесь от дорогих подарков. Любовь приходит и уходит, а ломбард работает всегда.	pleacă	0	0
+Eu stau de pază.	Я стою на страже.	stau	0	0
+Mâine, în drum spre școală, te rog, nu uita să expediezi scrisoarea aceasta.	Пожалуйста, не забудь отправить это письмо завтра по дороге в школу.	drum	0	0
+Astfel de oameni mă calcă pe nervi.	Такой человек действует мне на нервы.	astfel	0	0
+În curând el va putea juca din nou baseball.	Скоро он снова сможет играть в бейсбол.	curând	0	0
+Tatăl meu s-a întors din Osaka săptămâna trecută.	Мой отец вернулся из Осаки на прошлой неделе.	întors	0	0
+Cât este ora?	Сколько времени?	ora	0	0
+Mi-e sete.	Я хочу пить.	mi-e	0	0
+Am trei surori. Una este asistentă medicala iar celelalte doua - studente.	У меня три сестры. Одна медсестра, а две другие - студентки.	doua	0	0
+Arată ceasul tău ora exactă?	У тебя часы правильно идут?	arată	0	0
+Țările s-au unit pentru a preveni un alt război global.	Страны объединились, чтобы не допустить новой глобальной войны.	alt	0	0
+El începe să creadă.	Он начинает верить.	începe	0	0
+Avionul a decolat la ora nouă fix.	Самолёт вылетел ровно в девять часов.	nouă	0	0
+Drumul merge de-a lungul mării.	Дорога идёт вдоль моря.	de-a	0	0
+Ce ai de gând să faci cu acești bani?	Что ты собираешься делать с этими деньгами?	gând	0	0
+Ea mi-a trimis telegramă urgentă.	Она прислала мне срочную телеграмму.	trimis	0	0
+Te doare capul?	У тебя болит голова?	capul	0	0
+Care pește este mai sănătos: de mare sau de apă dulce?	Какая рыба полезнее: морская или пресноводная?	apă	0	0
+Copilul s-a repezit la mama sa.	Ребёнок бросился к матери.	copilul	0	0
+Noroc bun!	Твоё здоровье!	noroc	0	0
+Nu am nicio legătură cu ei.	Я не имею к ним отношения.	legătură	0	0
+Nu știu de ce nu ai spus adevărul.	Я не знаю, почему ты не сказал правду.	adevărul	0	0
+România este o țară frumoasă.	Румыния - прекрасная страна.	frumoasă	0	0
+Podul a fost construit de către romani.	Мост построили римляне.	către	0	0
+Noi suntem fiii tăi.	Мы твои сыновья.	tăi	0	0
+Încearcă să mărești imaginea.	Попробуй увеличить изображение.	încearcă	0	0
+Au trecut trei zile și nu am făcut niciun progres.	Прошло трое суток, а мы ни на шаг не продвинулись.	niciun	0	0
+Prietenul meu Alexander vorbește spaniola.	Мой друг Александр говорит по-испански.	prietenul	0	0
+Aici nu este așa de frig ca în Alaska.	Здесь не так холодно, как на Аляске.	așa	0	0
+Acest bărbat e doctor.	Этот мужчина - врач.	bărbat	0	0
+Ai planuri pentru astăzi?	У тебя есть на сегодня планы?	astăzi	0	0
+Domnul Tanaka nu este momentan în biroul său.	Сеньор Танака в данный момент не в своём офисе.	domnul	0	0
+Cheamă copiii la masă.	Зови детей обедать.	copiii	0	0
+Ce fac? Încerc să dorm!	Что я делаю? Я пытаюсь уснуть!	încerc	0	0
+Domnul Tanaka nu este momentan în biroul său.	Сеньор Танака в данный момент не в своём офисе.	său	0	0
+Pentru câtă vreme rămâi?	Ты на сколько останешься?	vreme	0	0
+Circumstantele nu mi-au permis sa va ajut.	Обстоятельства не позволили мне вам помочь.	ajut	0	0
+Aș putea să mă întorc acum, dar nu vreau.	Я хоть сейчас могу вернуться, но не хочу.	întorc	0	0
+Te ascultă fiica ta vitregă?	Твоя падчерица тебя слушается?	fiica	0	0
+Iti spun pentru a nu stiu cita oara: nu!	Я тебе это говорю в который раз: Нет!	iti	0	0
+În Japonia noul an școlar începe în aprilie.	В Японии новый учебный год начинается в апреле.	an	0	0
+Râsul fără motiv e o dovadă de prostie.	Смех без причины - признак дурачины.	motiv	0	0
+Sunt John.	Я - Джон.	john	0	0
+Dacă pui un pisoi între două balene, o să-i fie cald.	А если котёнка положить между китов, ему будет тепло.	pui	0	0
+Mă întreb de ce femeile trăiesc mai mult decât bărbații.	Я задаюсь вопросом, почему женщины живут дольше мужчин.	întreb	0	0
+Trebuie să sosească la birou peste o oră.	Он должен прийти в офис через час.	oră	0	0
+Pe scenă, el uita totul.	На сцене он забывал обо всём.	uita	0	0
+Știi turcă?	Ты знаешь турецкий?	știi	0	0
+Tom poate sta cu noi.	Том может остаться с нами.	sta	0	0
+El are mâinile fine.	У него мягкие руки.	mâinile	0	0
+Mama mea nu se trezește niciodată devreme.	Моя мать никогда не встаёт рано.	devreme	0	0
+Bărbații merg la muncă.	Мужчины идут на работу.	muncă	0	0
+Mama mea este sora lor.	Моя мама - сестра их матери.	sora	0	0
+Nu-ți fă griji despre asta. Nu e problema ta.	Не беспокойся об этом. Это не твоя проблема.	fă	0	0
+Băieții se gândesc mult la fete.	Мальчики много думают о девочках.	gândesc	0	0
+Camioneta mea a rămas blocată în noroi.	Мой пикап застрял в грязи.	rămas	0	0
+Mă simt fericit când sunt cu tine.	Я чувствую себя счастливым, когда я с тобой.	fericit	0	0
+Nu îmi amintesc exact.	Я не помню точно.	amintesc	0	0
+Nouă chiar ne plac picnicurile mult.	Нам очень нравятся пикники.	plac	0	0
+La revedere!	До свидания!	revedere	0	0
+Comparată cu a ta, mașina mea este mică.	По сравнению с вашей, моя машина маленькая.	mică	0	0
+Ce limbă este aceasta? Sună ca franceza, dar nu este franceză.	Что это за язык? Похож на французский, но не французский.	sună	0	0
+Suntem buni prieteni.	Мы добрые друзья.	buni	0	0
+Am dormit până la 7 și jumătate.	Мы проспали до половины восьмого.	jumătate	0	0
+Am intrat în clasă.	Я вошёл в класс.	intrat	0	0
+Ei bine, spune-i bunicului poezia pe care ai învățat-o.	Ну, расскажи дедушке стихотворение, которое ты выучил.	spune-i	0	0
+Te sun înapoi în curând.	Я вам перезвоню.	sun	0	0
+Cu toate acestea nu voi ști dacă a venit sau nu.	Я всё равно не узнаю, пришёл он или нет.	acestea	0	0
+Înainte de moarte, și-a revenit pentru scurt timp în fire.	Перед смертью он ненадолго пришёл в себя.	moarte	0	0
+Nimic nu este cunoscut în mod cert.	Ничего не известно наверняка.	cunoscut	0	0
+Numărul limbilor vii scade într-un ritm mediu de o limbă la fiecare două săptămâni.	Количество живых языков сокращается со средней скоростью один язык в две недели.	numărul	0	0
+Vrei să mergi undeva în seara asta?	Хочешь пойти куда-нибудь сегодня вечером?	undeva	0	0
+Mi-ar plăcea să citesc mai mult.	Я хотел бы больше читать.	mi-ar	0	0
+Aveti cumva un cutit?	Простите, у вас есть нож?	cumva	0	0
+Ah, împiedicatule!	Эх ты, раззява.	ah	0	0
+Momentul ideal pentru a dormi este de la 22:00 la 6:00.	С десяти вечера до шести утра - идеальное время для сна.	momentul	0	0
+El trebuie să aibă în jur de patruzeci de ani.	Ему, должно быть, около сорока.	jur	0	0
+Cred că trebuie să luăm o decizie.	Я думаю, что мы должны принять решение.	luăm	0	0
+E ultimul răcnet.	Это — последний писк моды.	ultimul	0	0
+E cel mai bun jucător din echipa noastră.	Он лучший игрок в нашей команде.	echipa	0	0
+Ești genul meu.	Ты мой тип.	genul	0	0
+Primăvara în taiga dă repede loc verii.	Весну в тайге быстро сменяет лето.	dă	0	0
+Îl văd uneori pe stradă.	Я иногда вижу его на улице.	uneori	0	0
+Tom a stat cu tatăl său.	Том остался со своим отцом.	stat	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	unele	0	0
+Nu deschide fereastra!	Не открывай окно!	deschide	0	0
+Am scris o adresă greșită pe plic.	Я написал на конверте неправильный адрес.	scris	0	0
+„Ți-ai schimbat vreodată numele?” „Nu, ce zici de tine?”	«Ты когда-нибудь менял имя?» — «Нет, а ты?»	schimbat	0	0
+El plimbă câinele în fiecare dimineaţă.	Он выгуливает собаку каждое утро.	dimineaţă	0	0
+Numim New York-ul Marele Măr.	Мы называем Нью-Йорк Большим Яблоком.	new	0	0
+Nimeni altcineva nu s-a oferit să ajute.	Больше никто не предложил помощь.	altcineva	0	0
+Ce mă pot face fără prietenii mei?	Что я могу без моих друзей?	prietenii	0	0
+Sunt foarte surprins că a devenit membru al parlamentului.	Я очень удивлён, что он стал членом парламента.	devenit	0	0
+Cel care, mai ieri, socotea că îndrumă, conduce — se pomenește dintr-o dată întins țeapăn într-o cutie de lemn, iar cei din jur, dându-și seama că nu mai e bun de nimic, îl ard într-un cuptor.	Тот, кто еще недавно полагал, что он чем-то управляет, оказывается вдруг лежащим неподвижно в деревянном ящике, и окружающие, понимая, что толку от лежащего нет более никакого, сжигают его в печи.	ieri	0	0
+Aș dori să vorbesc cu Tom din nou.	Я хотел бы ещё раз поговорить с Томом.	dori	0	0
+El trebuie să aibă în jur de patruzeci de ani.	Ему, должно быть, около сорока.	aibă	0	0
+În această cameră este aer condiționat.	В этой комнате есть кондиционер.	cameră	0	0
+În ciuda tuturor reticențelor sale, el a fost de acord.	С большой неохотой он всё-таки согласился.	tuturor	0	0
+De fapt, nu-mi place să fac sex cu Tom.	Я не люблю на самом деле трахаться с Томом.	sex	0	0
+În ciuda tuturor reticențelor sale, el a fost de acord.	С большой неохотой он всё-таки согласился.	sale	0	0
+Astăzi nu sunt liber.	Сегодня я несвободен.	liber	0	0
+Ați făcut-o într-adevăr?	Вы действительно это сделали?	într-adevăr	0	0
+Mă uit la televizor de două ori pe săptămână.	Я смотрю телевизор дважды в неделю.	uit	0	0
+Fiecare pas pe care îl faci lasă o amprentă.	Каждый твой шаг оставляет след.	lasă	0	0
+Vrea să fie soţul la fiecare nuntă și decedatul la fiecare înmormântare.	Он хочет на каждой свадьбе быть женихом, а на похоронах – покойником.	soţul	0	0
+Numărul limbilor vii scade într-un ritm mediu de o limbă la fiecare două săptămâni.	Количество живых языков сокращается со средней скоростью один язык в две недели.	săptămâni	0	0
+Nici banii, nici faima nu l-au făcut fericit.	Ни деньги, ни слава не сделали его счастливым.	l-au	0	0
+El este un om cu multă experiență.	Он человек с большим опытом.	multă	0	0
+Țările s-au unit pentru a preveni un alt război global.	Страны объединились, чтобы не допустить новой глобальной войны.	război	0	0
+Tom are trei milioane de dolari la bancă.	У Тома три миллиона долларов в банке.	milioane	0	0
+În primul rând trebuie să găsim o ieșire din această situație.	В первую очередь мы должны найти выход из этого положения.	găsim	0	0
+Tom a murit iarna trecută.	Том умер прошлой зимой.	trecută	0	0
+El vorbește nu doar engleză, ci și japoneză.	Он говорит не только по-английски, но и по-тайски.	ci	0	0
+Domnul Tanaka nu este momentan în biroul său.	Сеньор Танака в данный момент не в своём офисе.	biroul	0	0
+Nu poate exista prietenie fără încredere.	Без доверия не может быть дружбы.	exista	0	0
+Băieții sunt sub pat.	Мальчики под кроватью.	pat	0	0
+Lui Tom nu îi place vara. Zice că e prea cald.	Тому не нравится лето. Говорит, что слишком жарко.	zice	0	0
+El a lovit cu palma.	Он ударил ладонью.	lovit	0	0
+Vreau să merg la un doctor.	Я хочу сходить к врачу.	doctor	0	0
+Cu plăcere.	Пожалуйста.	plăcere	0	0
+Există zbor direct din Tokio spre Londra.	Есть прямой перелёт от Токио до Лондона.	direct	0	0
+Oricine poate să o facă.	Любой может это сделать.	oricine	0	0
+I-a plăcut călătoria în Polonia.	Ей понравилась поездка в Польшу.	plăcut	0	0
+Simt că traducerea nu mai este distractivă.	Я чувствую, что перевод перестал приносить удовольствие.	traducerea	0	0
+Am internet pe telefonul meu.	У меня в телефоне есть Интернет.	telefonul	0	0
+Îmi place foarte mult munca mea.	Я люблю свою работу.	munca	0	0
+Șef, totul a dispărut! Se scoate tencuiala, clientul pleacă.	Шеф, всё пропало! Гипс снимают, клиент уезжает.	dispărut	0	0
+Cheamă copiii la masă.	Зови детей обедать.	cheamă	0	0
+Este complet inutilă.	Это совершенно бесполезно.	complet	0	0
+Biroul domnului Popescu este la etajul zece.	Кабинет господина Попеску на десятом этаже.	zece	0	0
+Aș putea să vă arăt orașul.	Я мог бы показать вам город.	arăt	0	0
+Ea nu știe nici să citească, nici să scrie.	Она не умеет ни читать, ни писать.	scrie	0	0
+Unu, doi, trei, patru, cinci, șase, șapte, opt, nouă, zece.	Один, два, три, четыре, пять, шесть, семь, восемь, девять, десять.	unu	0	0
+Câte zile îți ia de obicei, ca să ajungi acolo?	Сколько дней обычно уходит на то, чтобы туда добраться?	obicei	0	0
+Câinele dumneavoastră mușcă?	Ваша собака кусается?	dumneavoastră	0	0
+Săptămâna viitoare trebuie să plec la New York.	На следующей неделе я должен поехать в Нью-Йорк.	viitoare	0	0
+Ai un minut?	У тебя есть минутка?	minut	0	0
+Mi-ar plăcea să citesc mai mult.	Я хотел бы больше читать.	plăcea	0	0
+Vreau ceva de mâncare.	Я хочу что-нибудь съесть.	mâncare	0	0
+Ce plănuiți să faceți în vacanța de Anul Nou?	Что вы планируете делать на новогодних каникулах?	anul	0	0
+Vreau să discut cu el acestă întrebare.	Я хочу обсудить с ним этот вопрос.	întrebare	0	0
+În această cameră este aer condiționat.	В этой комнате есть кондиционер.	aer	0	0
+Era un vânt puternic.	Был сильный ветер.	puternic	0	0
+Pentru cât timp rămâi?	Ты на сколько останешься?	rămâi	0	0
+Multe medicamente nu pot traversa bariera hemato-encefalică și nu pot intra în creier.	Многие лекарства не могут преодолеть гематоэнцефалический барьер и попасть в мозг.	intra	0	0
+Avem nevoie de ajutorul tău!	Нам нужна твоя помощь!	ajutorul	0	0
+El bea cafea?	Он кофе пьёт?	cafea	0	0
+Sâmbătă am fost la film, apoi la restaurant.	В субботу мы пошли в кино, а потом в ресторан.	film	0	0
+Poliţistul a întrebat domnişoarele dacă este al lor automobilul.	Полицейский спросил у девушек, их ли это машина.	întrebat	0	0
+Dacă îi spun mamei, se va îngrijora, așa că nu cred că îi voi spune.	Если я скажу своей матери, она будет беспокоиться, так что не думаю, что скажу ей.	mamei	0	0
+După ceasul meu de mână este ora zece.	На моих часах сейчас десять часов.	mână	0	0
+De dimineață până seară el nu face nimic altceva decât să se plângă.	С утра до вечера он не делает ничего, кроме как жалуется.	seară	0	0
+Tom pune rar întrebări.	Том редко задает вопросы.	întrebări	0	0
+Am dreptul să-mi sun avocatul.	У меня есть право позвонить адвокату.	dreptul	0	0
+Apa este rece.	Вода холодная.	apa	0	0
+Nu aveți voie să fumați aici.	Вам нельзя здесь курить.	voie	0	0
+Mă uit la televizor de două ori pe săptămână.	Я смотрю телевизор дважды в неделю.	săptămână	0	0
+Tom este un copil foarte introvertit.	Том очень замкнутый ребёнок.	tom	0	0
+Ea a fost una dintre cele mai frumoase fete.	Она была одной из самых красивых девушек.	fete	0	0
+Nimeni altcineva nu s-a oferit să ajute.	Больше никто не предложил помощь.	ajute	0	0
+Trebuie să sosească la birou peste o oră.	Он должен прийти в офис через час.	birou	0	0
+Sunt pregătit să vorbesc.	Я готов поговорить.	pregătit	0	0
+Bună dimineața, Mike.	Доброе утро, Майк.	mike	0	0
+Săptămâna viitoare trebuie să plec la New York.	На следующей неделе я должен поехать в Нью-Йорк.	york	0	0
+Poate mașina asta să meargă mai repede?	Эта машина может ехать быстрее?	meargă	0	0
+Doresc să fac ceva.‎	Я хочу что-нибудь сделать.	doresc	0	0
+Mi-e dor de familia mea.	Я скучаю по своей семье.	dor	0	0
+Am găsit un bilet pe birou, dar nu știu al cui este.	Я обнаружил на столе записку, но не знаю, от кого она.	cui	0	0
+Circumstantele nu mi-au permis sa va ajut.	Обстоятельства не позволили мне вам помочь.	mi-au	0	0
+Încrederea se câștigă într-o viață și se pierde într-o clipă.	Доверие зарабатывают в течение жизни и теряют в один миг.	pierde	0	0
+Vreau să le mulțumesc oamenilor rari din viața mea care ascultă fără să judece, vorbesc fără prejudecăți, ajută fără cuvinte inutile, înțeleg fără să se plângă și mă iubesc necondiționat.	Я хочу сказать спасибо тем редким людям в моей жизни, которые слушают без осуждения, разговаривают без предрассудков, помогают без лишних слов, понимают без претензий, и любят меня без всяких условий.	oamenilor	0	0
+Biroul domnului Popescu este la etajul zece.	Кабинет господина Попеску на десятом этаже.	domnului	0	0
+Intelectul uman este în stare să cerceteze legile naturii.	Человеческий разум в состоянии исследовать законы природы.	stare	0	0
+Limba rusă e foarte greu de învăţat.	Русский весьма трудно изучить.	învăţat	0	0
+În primul rând trebuie să găsim o ieșire din această situație.	В первую очередь мы должны найти выход из этого положения.	rând	0	0
+Băiatul merge la școală.	Мальчик ходит в школу.	băiatul	0	0
+O cunoști pe fata care stă la fereastră?	Ты знаешь девушку, которая стоит у окна?	stă	0	0
+Nu pot să te urăsc.	Я не могу ненавидеть тебя.	urăsc	0	0
+Acesta este planul nostru.	Таков наш план.	planul	0	0
+Magazinul este închis duminica.	Магазин не работает в воскресенье.	închis	0	0
+Ți-e foame?	Голоден?	foame	0	0
+Am citit că preşedintele Braziliei este o femeie. Ea se numeşte Dilma.	Я читал, что президент Бразилии — женщина. Её зовут Дилма.	citit	0	0
+Este secret.	Это секрет.	secret	0	0
+În fabrica noastră lucrează doar cei mai buni croitori.	На нашей фабрике работают только лучшие портные.	lucrează	0	0
+Încrederea se câștigă într-o viață și se pierde într-o clipă.	Доверие зарабатывают в течение жизни и теряют в один миг.	clipă	0	0
+Vă mulțumesc foarte mult! — Cu plăcere.	«Большое спасибо!» — «Не за что».	mulțumesc	0	0
+Extincția în masă a Permianului este cea mai mare catastrofă a biosferei din istoria Pământului.	Массовое пермское вымирание - крупнейшая катастрофа биосферы в истории Земли.	masă	0	0
+Baieții și fetele se joacă în livadă.	Мальчики и девочки играют в саду.	fetele	0	0
+Nimeni nu îți cere părerea.	Твоего мнения никто не спрашивает.	cere	0	0
+Ce carte citești?	Какую книгу ты читаешь?	carte	0	0
+Rusia se află în Rusia.	Россия находится в России.	află	0	0
+Mă întreb de ce femeile trăiesc mai mult decât bărbații.	Я задаюсь вопросом, почему женщины живут дольше мужчин.	femeile	0	0
+Focul a fost localizat rapid și apoi stins.	Пожар был быстро локализован, а затем потушен.	rapid	0	0
+El bea cafea?	Он пьёт кофе?	bea	0	0
+Nu-l asculta.	Не слушай его.	asculta	0	0
+Avem nevoie de ajutorul vostru!	Нам нужна ваша помощь!	vostru	0	0
+Ea trăiește dintr-o pensie mică.	Она живёт на небольшую пенсию.	dintr-o	0	0
+Profesorul Hudson este prietenul tatălui meu.	Профессор Хадсон — друг моего отца.	tatălui	0	0
+Nu am băut laptele.	Я не пила молоко.	băut	0	0
+Cât de profundă este dragostea ta?	Как велика твоя любовь?	dragostea	0	0
+A cui e cartea?	Чья книга?	cartea	0	0
+Frica amorțește mintea.	Страх усыпляет разум.	mintea	0	0
+Mi se pare că am uitat că să închid lumina.	Кажется, я забыл выключить свет.	lumina	0	0
+Am fost ocupat.	Я был занят.	ocupat	0	0
+Câte silabe are acest cuvânt?	Сколько слогов в этом слове?	cuvânt	0	0
+Momentul ideal pentru a dormi este de la 22:00 la 6:00.	С десяти вечера до шести утра - идеальное время для сна.	dormi	0	0
+Ridică mâna înainte de a răspunde.	Прежде чем отвечать, подними руку.	răspunde	0	0
+Am primit o scrisoare în limba franceză săptămâna trecută.	На прошлой неделе я получил письмо на французском.	săptămâna	0	0
+Tom nu se uită la televizor acum.	Сейчас Том не смотрит телевизор.	uită	0	0
+Ai un iubit?	У тебя есть друг?	iubit	0	0
+Mă simt fericită când sunt cu tine.	Я чувствую себя счастливой, когда я с тобой.	fericită	0	0
+Aprilie este a patra lună a anului.	Апрель — четвёртый месяц в году.	lună	0	0
+Te-ai decis deja unde vei merge?	Уже решил, куда поступать?	decis	0	0
+Nu mai pot continua să ignor problema.	Я не могу и дальше игнорировать проблему.	continua	0	0
+Eu numai ce-am văzut blogul dumneavoastră - el pare interesant.	Я только что посмотрел на Ваш блог — он, кажется, интересный.	interesant	0	0
+Când se folosește punct și virgulă?	Когда ставится точка с запятой?	punct	0	0
+În Japonia noul an școlar începe în aprilie.	В Японии новый учебный год начинается в апреле.	noul	0	0
+Nivelul apei a crescut și mai mult.	Уровень воды ещё поднялся.	crescut	0	0
+Șef, totul a dispărut! Se scoate tencuiala, clientul pleacă.	Шеф, всё пропало! Гипс снимают, клиент уезжает.	scoate	0	0
+Cel care, mai ieri, socotea că îndrumă, conduce — se pomenește dintr-o dată întins țeapăn într-o cutie de lemn, iar cei din jur, dându-și seama că nu mai e bun de nimic, îl ard într-un cuptor.	Тот, кто еще недавно полагал, что он чем-то управляет, оказывается вдруг лежащим неподвижно в деревянном ящике, и окружающие, понимая, что толку от лежащего нет более никакого, сжигают его в печи.	conduce	0	0
+Asta deja nu se mai folosește în sens figurat.	В переносном смысле это уже не употребляется.	sens	0	0
+Ea vrea să vorbească.	Она хочет говорить.	vorbească	0	0
+Uite ce strălucitoare este luna!	Смотри, какая луна яркая!	luna	0	0
+Te doare capul?	У тебя болит голова?	doare	0	0
+Pe vremea aceea nici nu m-am născut.	Меня тогда ещё не было на свете.	vremea	0	0
+Ai ieșit aseară?	Ты ушла вчера?	aseară	0	0
+În situaţii excepţionale luaţi legătura cu agentul meu.	В чрезвычайной ситуации свяжитесь с моим агентом.	luaţi	0	0
+Apa este rece.	Вода холодная.	rece	0	0
+Am picioarele reci.	У меня холодные ноги.	picioarele	0	0
+Nu lucrezi astăzi?	Ты сегодня не работаешь?	lucrezi	0	0
+Dă muzica mai încet!	Сделай музыку потише!	muzica	0	0
+Merită văzute ruinele.	Эти руины стоит посмотреть.	merită	0	0
+Ambele cuvinte pot fi folosite în funcție de libera alegere a utilizatorilor.	Можно использовать и то и другое слово в зависимости от желания пользователя.	cuvinte	0	0
+Aveti mersul trenurilor?	У вас есть расписание поездов?	aveti	0	0
+Ce distanţă este de la aeroport până la hotel?	Как далеко от аэропорта до отеля?	hotel	0	0
+În situaţii excepţionale luaţi legătura cu agentul meu.	В чрезвычайной ситуации свяжитесь с моим агентом.	legătura	0	0
+Unu, doi, trei, patru, cinci, șase, șapte, opt, nouă, zece.	Один, два, три, четыре, пять, шесть, семь, восемь, девять, десять.	opt	0	0
+Engleza mea este foarte proastă.	Мой английский очень плох.	proastă	0	0
+Ce limbă era aceea? Părea franceză, dar nu era franceză.	Что это за язык был? Похож на французский, но не французский.	părea	0	0
+Doctorul Smith are mulți pacienți.	У доктора Смит много пациентов.	doctorul	0	0
+Dă muzica mai încet!	Сделай музыку потише!	încet	0	0
+Eu am câștigat medalia de aur.	Я выиграл золотую медаль.	aur	0	0
+În ultimul timp am început să folosesc calculatorul.	В последнее время я начал пользоваться компьютером.	folosesc	0	0
+Eu încă nu am mâncat.	Я ещё не ел.	mâncat	0	0
+Ai cumpărat un câine?	Ты купил собаку?	câine	0	0
+O știu atât pe Mary cât și pe soțul ei.	Я знаю и Мэри и её мужа.	mary	0	0
+Unchiul meu a murit de cancer.	Мой дядя умер от рака.	unchiul	0	0
+Sistemul funcționează.	Система работает.	sistemul	0	0
+Jocul de vânătoare s-a apropiat de sfârșit. Paznicul-șef Hudson, credem noi, a primit ordin spus să confiște tot vânatul. Poți șterge din meniu o făzăniță gătită imediat.	С дичью дело, мы полагаем, закончено. Глава предприятия Хадсон, по сведениям, рассказал о мухобойках все. Фазаньих курочек берегитесь.	jocul	0	0
+Nu vreau să-ți pierd timpul.	Я не хочу тратить твоё время.	pierd	0	0
+Câte zile îți ia de obicei, ca să ajungi acolo?	Сколько дней обычно уходит на то, чтобы туда добраться?	ajungi	0	0
+Trăiesc ca toți ceilalți.	Я живу как все.	trăiesc	0	0
+Ai cumpărat un câine?	Ты купила собаку?	cumpărat	0	0
+Sper să mori.	Надеюсь, что ты умираешь.	mori	0	0
+Mulţi nu pot înţelege legile.	Многие не могут понять законы.	înţelege	0	0
+Pe vremea aceea nici nu m-am născut.	Меня тогда ещё не было на свете.	născut	0	0
+În absența dumneavoastră, sistemul smart home aprinde și stinge luminile în diferite camere, creând iluzia că cineva se află în casă și reducând astfel riscul de efracție.	В ваше отсутствие система "умный дом" включает и выключает свет в разных комнатах, создавая иллюзию, что в доме кто-то есть, и тем самым снижая риск ограбления.	diferite	0	0
+Aș putea să mă întorc acum, dar nu vreau.	Я хоть сейчас могу вернуться, но не хочу.	aș	0	0
+Eu numai ce-am văzut blogul dumneavoastră - el pare interesant.	Я только что посмотрел на Ваш блог — он, кажется, интересный.	ce-am	0	0
+Lista participanților este următoarea:	Список участников следующий:	lista	0	0
+Eu am burtă de bere.	У меня пивной живот.	bere	0	0
+Pregătirile sunt în plină desfășurare.	Приготовления идут полным ходом.	plină	0	0
+Păcat!	Жалко.	păcat	0	0
+Fiecare pas pe care îl faci lasă o amprentă.	Каждый твой шаг оставляет след.	pas	0	0
+Unde este Tony?	Где Тони?	tony	0	0
+Nori negri treceau deasupra orașului.	Чёрные облака проплывали над городом.	deasupra	0	0
+M-am trezit aproximativ la ora șase.	Я проснулся где-то в шесть.	trezit	0	0
+În final!	Наконец!	final	0	0
+Sper să putem lucra împreună în curând.	Надеюсь, мы вскоре сможем работать вместе.	lucra	0	0
+Pare tânăr.	Он молодо выглядит.	tânăr	0	0
+Ești doar obosit sau bolnav?	Ты просто устал или приболел?	bolnav	0	0
+Luna este minunată toamna.	Луна осенью прекрасна.	minunată	0	0
+Vreau să le mulțumesc oamenilor rari din viața mea care ascultă fără să judece, vorbesc fără prejudecăți, ajută fără cuvinte inutile, înțeleg fără să se plângă și mă iubesc necondiționat.	Я хочу сказать спасибо тем редким людям в моей жизни, которые слушают без осуждения, разговаривают без предрассудков, помогают без лишних слов, понимают без претензий, и любят меня без всяких условий.	ajută	0	0
+Dă-mi cuţitul să tai acest cablu.	Дай мне нож, чтобы перерезать этот шнур.	tai	0	0
+Înoată cât încă poți.	Плыви, пока можешь.	poți	0	0
+Până acum nu s-a descoperit nimic mai mult.	Больше ничего пока узнать не удалось.	descoperit	0	0
+Ea poartă o perucă.	Она носит парик.	poartă	0	0
+Am o grămadă de prieteni în Australia.	У меня много друзей в Австралии.	grămadă	0	0
+Mă doare piciorul.	У меня болит нога.	piciorul	0	0
+Nimeni altcineva nu s-a oferit să ajute.	Больше никто не предложил помощь.	oferit	0	0
+Unde și când ai primit acest cadou?	Когда и где ты получил подарок?	cadou	0	0
+Eu dorm. Întoarce-te mâine.	Я сплю. Приходи завтра.	întoarce-te	0	0
+Jocul de vânătoare s-a apropiat de sfârșit. Paznicul-șef Hudson, credem noi, a primit ordin spus să confiște tot vânatul. Poți șterge din meniu o făzăniță gătită imediat.	С дичью дело, мы полагаем, закончено. Глава предприятия Хадсон, по сведениям, рассказал о мухобойках все. Фазаньих курочек берегитесь.	credem	0	0
+Eu mă duc la magazin.	Я иду в магазин.	magazin	0	0
+Pari plictisit.	Ты выглядишь скучающим.	pari	0	0
+El are părul lung.	У него длинные волосы.	părul	0	0
+În viitorul apropiat, călătoriile în spațiu nu vor mai fi doar un vis.	В близком будущем космическое путешествие больше не будет всего лишь мечтой.	viitorul	0	0
+El e detectiv.	Он детектив.	detectiv	0	0
+Baieții și fetele se joacă în grădină.	Мальчики и девочки играют в саду.	joacă	0	0
+În viitorul apropiat, călătoriile în spațiu nu vor mai fi doar un vis.	В близком будущем космическое путешествие больше не будет всего лишь мечтой.	vis	0	0
+Ați chemat deja o ambulanță?	Ты уже вызвал скорую?	chemat	0	0
+Idiot!	Идиот!	idiot	0	0
+Îmi recunosc greşeala.	Признаю свою ошибку.	recunosc	0	0
+Ambele cuvinte pot fi folosite în funcție de libera alegere a utilizatorilor.	Можно использовать и то и другое слово в зависимости от желания пользователя.	ambele	0	0
+A bătut ușor la ușă.	В дверь слегка постучали.	bătut	0	0
+Nu ne așteptam pe nimeni. Oaspeții au sosit neanunțați.	Мы никого не ждали. Гости приехали как снег на голову.	sosit	0	0
+De ce au părăsit oamenii Africa și au început să se răspândească pe planetă?	Почему человек покинул Африку и начал расселяться по планете?	părăsit	0	0
+Care e adresa ta de acasă?	Какой у вас домашний адрес?	adresa	0	0
+Am trei surori. Una este asistentă medicala iar celelalte doua - studente.	У меня три сестры. Одна медсестра, а две другие - студентки.	celelalte	0	0
+Pierzi timp prețios.	Ты теряешь драгоценное время.	pierzi	0	0
+El a traversat strada.	Он перешёл улицу.	strada	0	0
+Am băut niște ceai verde.	Я выпила немного зелёного чая.	ceai	0	0
+Îl văd uneori pe stradă.	Я иногда вижу его на улице.	stradă	0	0
+Puteti va rog chema un doctor?	Простите, Вы можете позвать врача?	puteti	0	0
+Furtuna a împiedicat-o să ajungă la timp.	Она не смогла приехать вовремя из-за бури.	ajungă	0	0
+Ea a fost una dintre cele mai frumoase fete.	Она была одной из самых красивых девушек.	frumoase	0	0
+El are o nouă prietenă.	У него новая девушка.	prietenă	0	0
+În curând el va putea juca din nou baseball.	Скоро он снова сможет играть в бейсбол.	juca	0	0
+Beau lapte.	Я пью молоко.	beau	0	0
+Are părul scurt.	У неё короткие волосы.	scurt	0	0
+Ce părere aveți despre asta?	Что вы об этом думаете?	părere	0	0
+Rugina mănâncă din fier.‎	Ржавчина разъедает железо.	mănâncă	0	0
+Credeam că Tom era căsătorit.	Я думал, что Том женат.	căsătorit	0	0
+Până la vârsta de optsprezece ani, sunt responsabil pentru tine.	Пока тебе нет восемнадцати, я несу за тебя ответственность.	vârsta	0	0
+Nu sunt american.	Я не американец.	american	0	0
+Care pește este mai sănătos: de mare sau de apă dulce?	Какая рыба полезнее: морская или пресноводная?	dulce	0	0
+Primăria este foarte veche.	Ратуша очень старая.	veche	0	0
+Ce fac? Încerc să dorm!	Что я делаю? Я пытаюсь уснуть!	dorm	0	0
+Acest tren opreşte în fiecare staţie.	Этот поезд останавливается на каждой станции.	opreşte	0	0
+Între noi fie vorba, are un mod de a gândi superficial.	Между нами говоря, он мыслит поверхностно.	gândi	0	0
+Există zbor direct din Tokio spre Londra.	Есть прямой перелёт от Токио до Лондона.	londra	0	0
+Ei nu pot mânca carne pentru că sunt vegetarieni.‎	Они не могут есть мясо, потому что они вегетарианцы.	carne	0	0
+Următoarea staţie - Bulevardul Victoriei.	Следующая остановка - проспект Победы.	următoarea	0	0
+La început a făcut Dumnezeu cerul și pământul.	В начале сотворил Бог небо и землю.	pământul	0	0
+Este interzis să umbli gol prin hotel.	Нельзя ходить по гостинице голым.	gol	0	0
+Am cel mai lung păr din clasă.	У меня самые длинные волосы в классе.	lung	0	0
+Râsul fără motiv e o dovadă de prostie.	Смех без причины - признак дурачины.	prostie	0	0
+Ați avut șansa s-o faceți, dar n-ați profitat de asta.	У вас была возможность это сделать, но вы ей не воспользовались.	ați	0	0
+Există zbor direct din Tokio spre Londra.	Есть прямой перелёт от Токио до Лондона.	zbor	0	0
+Am citit că preşedintele Braziliei este o femeie. Ea se numeşte Dilma.	Я читала, что президент Бразилии женщина. Её зовут Дилма.	numeşte	0	0
+Nu, mulțumesc. Sunt obosit.	Нет, спасибо. Я устал.	obosit	0	0
+Focul a fost localizat rapid și apoi stins.	Пожар был быстро локализован, а затем потушен.	focul	0	0
+Am uitat să opresc televizorul înainte de a ma duce la culcare.	Я забыла выключить телевизор перед сном.	opresc	0	0
+El se apropie.	Он подходит ближе.	apropie	0	0
+M-am săturat să întârzii mereu.	Я устала, что ты постоянно опаздываешь.	săturat	0	0
+Cel care, mai ieri, socotea că îndrumă, conduce — se pomenește dintr-o dată întins țeapăn într-o cutie de lemn, iar cei din jur, dându-și seama că nu mai e bun de nimic, îl ard într-un cuptor.	Тот, кто еще недавно полагал, что он чем-то управляет, оказывается вдруг лежащим неподвижно в деревянном ящике, и окружающие, понимая, что толку от лежащего нет более никакого, сжигают его в печи.	cutie	0	0
+Înainte de a merge la culcare, este necesar să aerisești camera.	Перед сном помещение необходимо проветривать.	necesar	0	0
+Știi puțin germană, nu? Mă poți ajuta să scriu o scrisoare?	Ты ведь немного знаешь немецкий? Поможешь мне написать письмо?	scrisoare	0	0
+După ceasul meu de mână este ora zece.	На моих часах сейчас десять часов.	ceasul	0	0
+Am primit o scrisoare în limba franceză săptămâna trecută.	На прошлой неделе я получил письмо на французском.	limba	0	0
+Am dormit până la 7 și jumătate.	Мы проспали до половины восьмого.	dormit	0	0
+Excelent!	Супер!	excelent	0	0
+Numim New York-ul Marele Măr.	Мы называем Нью-Йорк Большим Яблоком.	marele	0	0
+Avionul decolează la 17:30.	Вылет самолёта в 17:30.	avionul	0	0
+Trăiești ca să mănânci sau mănânci ca să trăiești?	Ты живёшь, чтобы есть, или ешь, чтобы жить?	mănânci	0	0
+Lui Tom nu îi place vara. Zice că e prea cald.	Тому не нравится лето. Говорит, что слишком жарко.	cald	0	0
+Tom a lăsat cheile în contact.	Том оставил ключи в замке зажигания.	cheile	0	0
+Ei nu pot mânca carne pentru că sunt vegetarieni.‎	Они не могут есть мясо, потому что они вегетарианцы.	mânca	0	0
+Câinele dumneavoastră mușcă?	Ваша собака кусается?	câinele	0	0
+Am băut niște ceai verde.	Я выпила немного зелёного чая.	verde	0	0
+Îmi cer scuze, că nu am putut să îți scriu mai repede.	Извини, что не смог написать тебе раньше.	scriu	0	0
+Eu sunt profesor.	Я профессор.	profesor	0	0
+Este un caz extrem.	Это крайний случай.	extrem	0	0
+Frica amorțește mintea.	Страх усыпляет разум.	frica	0	0
+Cel puțin ce fel de păr avea ea? Ce tunsoare? -- N-am acordat atenție.	"Какие у неё хоть волосы были? Причёска какая?" - "Я не обратил внимания".	păr	0	0
+Nu pot să mănânc sau să beau ceva prea fierbinte.	Я не могу пить или есть слишком горячие вещи.	fierbinte	0	0
+Mai avea puțin peste o lună de trăit.	Ей оставалось жить чуть больше месяца.	trăit	0	0
+Circumstantele nu mi-au permis sa va ajut.	Обстоятельства не позволили мне вам помочь.	permis	0	0
+Am încercat să-l oprim.	Мы попытались его остановить.	oprim	0	0
+Mi-am dat deodată seama că practic nu știam nimic despre el.	Я вдруг понял, что, в сущности, ничего о нём не знаю.	practic	0	0
+Vorbește mai tare, bunicul tău deja nu mai aude așa de bine!	Говори громче, твой дедушка уже не слышит так хорошо!	bunicul	0	0
+Știi puțin germană, nu? Mă poți ajuta să scriu o scrisoare?	Ты ведь немного знаешь немецкий? Поможешь мне написать письмо?	puțin	0	0
+Copiii mei îmi sunt lucrul cel mai de preț.	Мои дети — моё сокровище.	lucrul	0	0
+Am dreptul să-mi sun avocatul.	У меня есть право позвонить адвокату.	avocatul	0	0
+Înainte de moarte, și-a revenit pentru scurt timp în fire.	Перед смертью он ненадолго пришёл в себя.	revenit	0	0
+Trăiască haosul!	Да здравствует хаос!	trăiască	0	0
+Aici nu este așa de frig ca în Alaska.	Здесь не так холодно, как на Аляске.	frig	0	0
+În situaţii excepţionale luaţi legătura cu agentul meu.	В чрезвычайной ситуации свяжитесь с моим агентом.	agentul	0	0
+Tom spune că nu este interesat.	Том говорит, что ему не интересно.	interesat	0	0
+Ea trăiește pe picior mare.	Она живёт на широкую ногу.	picior	0	0
+Tom a lăsat cheile în contact.	Том оставил ключи в замке зажигания.	contact	0	0
+Jocul de vânătoare s-a apropiat de sfârșit. Paznicul-șef Hudson, credem noi, a primit ordin spus să confiște tot vânatul. Poți șterge din meniu o făzăniță gătită imediat.	С дичью дело, мы полагаем, закончено. Глава предприятия Хадсон, по сведениям, рассказал о мухобойках все. Фазаньих курочек берегитесь.	ordin	0	0
+Iarna soarele apune mai repede.	Зимой солнце заходит раньше.	soarele	0	0
+Vrea să fie soţul la fiecare nuntă și decedatul la fiecare înmormântare.	Он хочет на каждой свадьбе быть женихом, а на похоронах – покойником.	nuntă	0	0
+Drumul merge de-a lungul mării.	Дорога идёт вдоль моря.	lungul	0	0
+Am vrut să prind primul tren care a venit și să plec departe, departe.	Мне хотелось сесть в первый попавшийся поезд и уехать далеко-далеко.	prind	0	0
+El nu este capabil să ia o decizie.	Он не способен принять решение.	decizie	0	0
+Viața e frumoasă.	Жизнь прекрасна.	viața	0	0
+Am citit că preşedintele Braziliei este o femeie. Ea se numeşte Dilma.	Я читала, что президент Бразилии женщина. Её зовут Дилма.	preşedintele	0	0
+Ferestrele erau deschise și se auzeau vocile copiilor care se jucau pe stradă.	Окна были открыты, и с улицы доносились голоса играющих детей.	copiilor	0	0
+Sunt foarte surprins că a devenit membru al parlamentului.	Я очень удивлён, что он стал членом парламента.	membru	0	0
+Hai să ne uităm.	Давай посмотрим.	uităm	0	0
+Mă voi ocupa de asta mâine.	Разберусь с этим завтра.	ocupa	0	0
+Sunt foarte surprins că a devenit membru al parlamentului.	Я очень удивлён, что он стал членом парламента.	surprins	0	0
+Asa-i la tara.	Это деревня.	tara	0	0
+Nu citesc cărți.	Я книг не читаю.	citesc	0	0
+Trăiesc ca toți ceilalți.	Я живу как все.	toți	0	0
+Ce distanţă este de la aeroport până la hotel?	Как далеко от аэропорта до отеля?	distanţă	0	0
+El nu știe prea multe despre acest animal.	Он мало знает про это животное.	animal	0	0
+Trebuie să mănânc ceva.‎	Мне нужно что-нибудь съесть.	mănânc	0	0
+Înainte de a merge la culcare, este necesar să aerisești camera.	Перед сном помещение необходимо проветривать.	culcare	0	0
+Ploua, așa că am luat un taxi.	Был дождь и поэтому я взял такси.	taxi	0	0
+Sunt la restaurant.	Я в ресторане.	restaurant	0	0
+Bărbatul era beat criță.	Мужчина был вдрызг пьян.	beat	0	0
+El este un erou.	Он - герой.	erou	0	0
+Îți place să dansezi?	Вам нравится танцевать?	îți	0	0
+Anna este o fetiță.	Анна — маленькая девочка.	anna	0	0
+Extincția în masă a Permianului este cea mai mare catastrofă a biosferei din istoria Pământului.	Массовое пермское вымирание - крупнейшая катастрофа биосферы в истории Земли.	istoria	0	0
+Mama mea este în bucătărie.	Моя мама на кухне.	bucătărie	0	0
+Până la vârsta de optsprezece ani, sunt responsabil pentru tine.	Пока тебе нет восемнадцати, я несу за тебя ответственность.	responsabil	0	0
+Am văzut o bătaie.	Я видел битву.	bătaie	0	0
+Nivelul apei a crescut și mai mult.	Уровень воды ещё поднялся.	nivelul	0	0
+Pe scenă, el uita totul.	На сцене он забывал обо всём.	scenă	0	0
+M-am trezit aproximativ la ora șase.	Я проснулся где-то в шесть.	aproximativ	0	0
+Deși este bogat, nu este fericit.	Хотя он богат, он не счастлив.	bogat	0	0
+De ce este zăpada albă?	Почему снег белый?	albă	0	0
+Emily a scris o scrisoare.	Эмили написала письмо.	emily	0	0
+El începe să creadă.	Он начинает верить.	creadă	0	0
+Podul a fost construit de către romani.	Мост построили римляне.	construit	0	0
+Locuiesc în Moldova.	Я живу в Молдове.	locuiesc	0	0
+Nu mă pot hotărî pe care rochie să o cumpăr.	Не могу решить, какое платье мне купить.	cumpăr	0	0
+Nu întreba.	Не спрашивай.	întreba	0	0
+E foarte sexy.	Он очень сексуален.	sexy	0	0
+Bărbatul se îmbătase ca un porc.	Мужчина был пьян как свинья.	bărbatul	0	0
+Fantastic!	Супер!	fantastic	0	0
+Lângă casa mea există o biserică.	Возле моего дома есть церковь.	biserică	0	0
+Poți să-l descrii? Ce culoare are?	Вы можете его описать? Какого оно цвета?	culoare	0	0
+Ai planuri?	У тебя есть планы?	planuri	0	0
+Magazinul este închis duminica.	Магазин не работает в воскресенье.	magazinul	0	0
+Tom are trei milioane de dolari la bancă.	У Тома три миллиона долларов в банке.	bancă	0	0
+Acea clădire este școala noastră.	То здание — наша школа.	clădire	0	0
+Ea crede că el este nevinovat.	Она верит, что он невиновен.	nevinovat	0	0
+Îmi place să vizionez filme.	Я люблю смотреть фильмы.	filme	0	0
+Unde este banca?	Где банк?	banca	0	0
+E lapte?	Это молоко?	lapte	0	0
+Ne-am îmbrățișat în tăcere, s-a urcat în tren și nu l-am mai văzut niciodată.	Мы молча обнялись, он сел в поезд, и больше я его никогда не видела.	tren	0	0
+S-a dus repede la gară pentru a nu pierde trenul.	Он быстро шел на вокзал, чтобы не упустить поезд.	trenul	0	0
+Vă uitați la televizor?	Вы смотрите телевизор?	televizor	0	0
+Nu vreau să-ți pierd timpul.	Я не хочу тратить твоё время.	să-ți	0	0
+Vreau să mă înscriu la curs.	Я хочу записаться на курс.	curs	0	0
+Tom e slab.	Том слаб.	slab	0	0
+Ea a refuzat să comenteze.	Она отказалась комментировать.	refuzat	0	0
+Eu nu mănânc miezul mărului.	Я не ем яблочную сердцевину.	miezul	0	0
+Cât de albastru este cerul!	Какое небо голубое!	albastru	0	0
+Optzeci la sută din incendiile forestiere sunt cauzate de oameni.	Восемьдесят процентов лесных пожаров происходит по вине человека.	sută	0	0
+Nu refuza niciodată cadouri scumpe. Dragostea vine și pleacă, dar casa de amanet este mereu deschisă.	Никогда не отказывайтесь от дорогих подарков. Любовь приходит и уходит, а ломбард работает всегда.	deschisă	0	0
+Râsul fără motiv e o dovadă de prostie.	Смех без причины - признак дурачины.	dovadă	0	0
+Cât mai aveți de lucru?	Сколько работы у вас ещё есть?	aveți	0	0
+Ea niciodată nu a ascultat de sfaturile mele.	Она никогда не прислушивается к моим советам.	ascultat	0	0
+Nu accept refuzuri.	Отказов я не принимаю.	accept	0	0
+Cine seamănă vânt va culege furtună.	Посадишь ветер - пожнёшь бурю.	seamănă	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	altele	0	0
+Ne vom descurca și fără voi.	Без вас разберёмся.	descurca	0	0
+Nu știu cine a ucis-o.	Я не знаю, кто её убил.	ucis-o	0	0
+Am găsit un bilet pe birou, dar nu știu al cui este.	Я обнаружил на столе записку, но не знаю, от кого она.	bilet	0	0
+În absența dumneavoastră, sistemul smart home aprinde și stinge luminile în diferite camere, creând iluzia că cineva se află în casă și reducând astfel riscul de efracție.	В ваше отсутствие система "умный дом" включает и выключает свет в разных комнатах, создавая иллюзию, что в доме кто-то есть, и тем самым снижая риск ограбления.	camere	0	0
+Hoţul a spart lacătul.	Вор взломал замок.	spart	0	0
+Mi se pare că am uitat că să închid lumina.	Кажется, я забыл выключить свет.	închid	0	0
+El nu este capabil să ia o decizie.	Он не способен принять решение.	capabil	0	0
+Profesorul meu de limba chineză este bărbat.	Мой учитель китайского языка — мужчина.	profesorul	0	0
+Nu sunt un monstru.	Я не монстр.	monstru	0	0
+Lipsa banilor este rădăcina tuturor relelor.	Недостаток денег - это корень всех зол.	lipsa	0	0
+Eu voi merge la plajă.	Я иду на пляж.	plajă	0	0
+Nimeni nu îți cere părerea.	Твоего мнения никто не спрашивает.	părerea	0	0
+Ăsta e un autobuz sau o mașină?	Это автобус или машина?	autobuz	0	0
+Minciună!	Ложь!	minciună	0	0
+Această masă ocupă prea mult spațiu.	Этот стол занимает слишком много места.	ocupă	0	0
+În viitorul apropiat, călătoriile în spațiu nu vor mai fi doar un vis.	В близком будущем космическое путешествие больше не будет всего лишь мечтой.	apropiat	0	0
+Este un cântec pe care nu ți-l poți scoate din cap.	Это мелодия, которая застревает в голове.	cântec	0	0
+Tom știe cine e Mary.	Том знает, кто такая Мэри.	știe	0	0
+Multe medicamente nu pot traversa bariera hemato-encefalică și nu pot intra în creier.	Многие лекарства не могут преодолеть гематоэнцефалический барьер и попасть в мозг.	creier	0	0
+Încrederea se câștigă într-o viață și se pierde într-o clipă.	Доверие зарабатывают в течение жизни и теряют в один миг.	viață	0	0
+Mâncăm pâine cu unt.	Мы едим хлеб с маслом.	mâncăm	0	0
+Obișnuiam să folosim rumeguș ca umplutură pentru litiera pisicii.	Раньше мы использовали опилки в качестве наполнителя для лотка.	folosim	0	0
+Biletul costă douăzeci de dolari.	Билет стоит двадцать долларов.	costă	0	0
+Tom a înnebunit.	Том сошел с ума.	înnebunit	0	0
+Bărbatul se îmbătase ca un porc.	Мужчина был пьян как свинья.	porc	0	0
+El trebuie să facă o alegere între obiecte.	Он должен сделать выбор между объектами.	alegere	0	0
+Ridică mâna înainte de a răspunde.	Прежде чем отвечать, подними руку.	ridică	0	0
+E un sat.	Это деревня.	sat	0	0
+Tom are o experienţă bogata în lucru cu computatoarele.	У Тома большой опыт работы с компьютерами.	experienţă	0	0
+Ce distanţă este de la aeroport până la hotel?	Как далеко от аэропорта до отеля?	aeroport	0	0
+Șef, totul a dispărut! Se scoate tencuiala, clientul pleacă.	Шеф, всё пропало! Гипс снимают, клиент уезжает.	clientul	0	0
+Ei aparțineau clasei de mijloc.	Они принадлежали к среднему классу.	mijloc	0	0
+Vreau pantofi maro, nu negri.	Я хочу коричневые туфли, не чёрные.	pantofi	0	0
+De ce au părăsit oamenii Africa și au început să se răspândească pe planetă?	Почему человек покинул Африку и начал расселяться по планете?	planetă	0	0
+Am internet pe telefonul meu.	У меня в телефоне есть Интернет.	internet	0	0
+Clădirea se poate prăbuși în orice moment.	Здание в любой момент может упасть.	clădirea	0	0
+Multe medicamente nu pot traversa bariera hemato-encefalică și nu pot intra în creier.	Многие лекарства не могут преодолеть гематоэнцефалический барьер и попасть в мозг.	medicamente	0	0
+Lui Tom nu îi place vara. Zice că e prea cald.	Тому не нравится лето. Говорит, что слишком жарко.	vara	0	0
+Nimeni din clasă nu aleargă așa de repede ca și el.	Никто в классе не бегает так же быстро, как он.	clasă	0	0
+El predă arabă în SUA.	Он преподаёт арабский в США.	sua	0	0
+Oamenii de la Madrid sunt nebuni.	Мадридцы сумасшедшие.	nebuni	0	0
+Tom nu știe cu ce să înceapă.	Том не знает, с чего начать.	înceapă	0	0
+Sunt la fel de înalt ca el.	Я такой же высокий, как и он.	înalt	0	0
+Chiar acum l-am văzut pe Tom la fereastră.	Я только что видел в окне Тома.	fereastră	0	0
+El merge la bibliotecă pentru a citi cărți.	Он ходит в библиотеку, чтобы читать книги.	citi	0	0
+Este foarte bolnavă.	Она очень больна.	bolnavă	0	0
+Tom și Mary glumesc?	Том и Мэри шутят?	glumesc	0	0
+Am un card de credit.	У меня есть кредитка.	credit	0	0
+Intelectul uman este în stare să cerceteze legile naturii.	Человеческий разум в состоянии исследовать законы природы.	uman	0	0
+Îmi vând mașina.	Я продаю свою машину.	vând	0	0
+Isus nu era creștin.	Иисус не был христианином.	isus	0	0
+Unchiul meu a murit de cancer.	Мой дядя умер от рака.	cancer	0	0
+Vorbește mai tare, bunicul tău deja nu mai aude așa de bine!	Говори громче, твой дедушка уже не слышит так хорошо!	aude	0	0
+Această carte e despre stele.	Эта книга о звёздах.	stele	0	0
+Noi nu putem să te ajutăm acum.	Мы не можем тебе сейчас помочь.	ajutăm	0	0
+Nu mă pot hotărî pe care rochie să o cumpăr.	Не могу решить, какое платье мне купить.	rochie	0	0
+El are mâinile fine.	У него мягкие руки.	fine	0	0
+Sunt niște portocale pe masă.	На столе есть несколько апельсинов.	niște	0	0
+Puteti va rog chema un doctor?	Простите, Вы можете позвать врача?	chema	0	0
+Ea poate cânta la pian foarte bine.	Она может играть на пианино очень хорошо.	cânta	0	0
+Încearcă să mărești imaginea.	Попробуй увеличить изображение.	imaginea	0	0
+Mâine, în drum spre școală, te rog, nu uita să expediezi scrisoarea aceasta.	Пожалуйста, не забудь отправить это письмо завтра по дороге в школу.	scrisoarea	0	0
+Albul mută şi câştigă.	Белые начинают и выигрывают.	câştigă	0	0
+Gara este în apropiere.	Вокзал здесь рядом.	apropiere	0	0
+Mașa cântă în corul bisericii.	Маша поёт в церковном хоре.	cântă	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	umane	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	spiritul	0	0
+Doctorul Smith are mulți pacienți.	У доктора Смит много пациентов.	smith	0	0
+Este literatura o artă?	Литература - это искусство?	artă	0	0
+Mâine e sâmbătă?	Завтра суббота?	sâmbătă	0	0
+Al cui e scaunul?	Чей стул?	scaunul	0	0
+În ciuda tuturor reticențelor sale, el a fost de acord.	С большой неохотой он всё-таки согласился.	ciuda	0	0
+Vă sunt foarte recunoscător pentru sfat.	Я очень благодарен вам за ваш совет.	sfat	0	0
+Am trei bilete.	У меня три билета.	bilete	0	0
+În familia noastră, mama decide totul.	В нашей семье всё решает мама.	decide	0	0
+Jocul de vânătoare s-a apropiat de sfârșit. Paznicul-șef Hudson, credem noi, a primit ordin spus să confiște tot vânatul. Poți șterge din meniu o făzăniță gătită imediat.	С дичью дело, мы полагаем, закончено. Глава предприятия Хадсон, по сведениям, рассказал о мухобойках все. Фазаньих курочек берегитесь.	vânătoare	0	0
+Mi-a murit pisica.	У меня умерла кошка.	pisica	0	0
+Ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie și decembrie sunt cele douăsprezece luni ale anului.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.	anului	0	0
+Greaca nu e o limbă uşoară.	Греческий - язык непростой.	uşoară	0	0
+Fetele se gândesc mult la băieți.	Девочки много думают о мальчиках.	băieți	0	0
+Îmi place să joc tenis și golf.	Я люблю играть в теннис и гольф.	golf	0	0
+Clientul vrea să cumpere câinele meu.	Клиент хочет купить мою собаку.	cumpere	0	0
+Crocodilii nu mănâncă niciodată ciocolată.	Крокодилы никогда не едят шоколад.	ciocolată	0	0
+Biroul domnului Popescu este la etajul zece.	Кабинет господина Попеску на десятом этаже.	etajul	0	0
+Mâncăm pâine cu unt.	Мы едим хлеб с маслом.	pâine	0	0
+Individualismul este boala veacului al XX-lea.	Индивидуализм - это эпидемия 21-го века.	boala	0	0
+Mă trezesc la patru dimineața în fiecare zi și nu pot să mă întorc la culcare.	Я каждый день просыпаюсь в четыре утра и не могу больше заснуть.	trezesc	0	0
+I-a plăcut călătoria în Polonia.	Ей понравилась поездка в Польшу.	călătoria	0	0
+Tatoeba este o invenție de geniu.	Татоэба - гениальное изобретение.	geniu	0	0
+De ce au părăsit oamenii Africa și au început să se răspândească pe planetă?	Почему человек покинул Африку и начал расселяться по планете?	africa	0	0
+Încrederea se câștigă într-o viață și se pierde într-o clipă.	Доверие зарабатывают в течение жизни и теряют в один миг.	încrederea	0	0
+Am de gând să iau prânzul cu Tom.	Я планирую пообедать с Томом.	prânzul	0	0
+Ce n-ai înțeles?	Ты что, не понимаешь?	înțeles	0	0
+Eu am trei câini.	У меня три собаки.	câini	0	0
+Îi datorez lui 100 dolari.	Я должен ему 100 долларов.	datorez	0	0
+Articolul exprimă opinia personală a autorului.	Статья выражает личное мнение автора.	personală	0	0
+Extincția în masă a Permianului este cea mai mare catastrofă a biosferei din istoria Pământului.	Массовое пермское вымирание - крупнейшая катастрофа биосферы в истории Земли.	pământului	0	0
+Nu deschide fereastra!	Не открывай окно!	fereastra	0	0
+Cel care, mai ieri, socotea că îndrumă, conduce — se pomenește dintr-o dată întins țeapăn într-o cutie de lemn, iar cei din jur, dându-și seama că nu mai e bun de nimic, îl ard într-un cuptor.	Тот, кто еще недавно полагал, что он чем-то управляет, оказывается вдруг лежащим неподвижно в деревянном ящике, и окружающие, понимая, что толку от лежащего нет более никакого, сжигают его в печи.	lemn	0	0
+Cum vă place cafeaua, cu sau fără zahăr?	Какой Вы любите кофе, с сахаром или без?	cafeaua	0	0
+Avionul a decolat la ora nouă fix.	Самолёт вылетел ровно в девять часов.	fix	0	0
+Îmi place să cânt la pian.	Я люблю играть на пианино.	cânt	0	0
+Am păşit încet, ca să nu mă audă.	Я шел так, чтобы они меня не услышали.	audă	0	0
+Ne-am îmbrățișat în tăcere, s-a urcat în tren și nu l-am mai văzut niciodată.	Мы молча обнялись, он сел в поезд, и больше я его никогда не видела.	urcat	0	0
+La început a făcut Dumnezeu cerul și pământul.	В начале сотворил Бог небо и землю.	cerul	0	0
+Este tocmai cartea pe care o căutam.	Это та самая книга, которую я искал.	căutam	0	0
+El vorbește nu doar engleză, ci și japoneză.	Он говорит не только по-английски, но и по-тайски.	engleză	0	0
+Culoarea mea preferată este portocaliu.	Мой любимый цвет — оранжевый.	culoarea	0	0
+Era un vânt puternic.	Был сильный ветер.	vânt	0	0
+Nilul este un râu.	Нил - река.	râu	0	0
+Spre mirarea mea, era vie.	К моему удивлению, она была жива.	vie	0	0
+Deocamdată nu pot dezvălui această informație.	Я пока не могу раскрыть эту информацию.	deocamdată	0	0
+Marte este zeul războiului.	Марс - бог войны.	războiului	0	0
+Aparatul lui foto este de trei ori mai scump decât al meu.	Его камера в три раза дороже моей.	scump	0	0
+Nu, mulțumesc. Sunt obosită.	Нет, спасибо. Я устала.	obosită	0	0
+Turnul este o piesă de şah.	Ладья - это шахматная фигура.	piesă	0	0
+În absența dumneavoastră, sistemul smart home aprinde și stinge luminile în diferite camere, creând iluzia că cineva se află în casă și reducând astfel riscul de efracție.	В ваше отсутствие система "умный дом" включает и выключает свет в разных комнатах, создавая иллюзию, что в доме кто-то есть, и тем самым снижая риск ограбления.	luminile	0	0
+Un urs poate mirosi un om la mulți kilometri distanță.	Медведь чует человека за много километров.	kilometri	0	0
+De ce vrei să vinzi această mobilă?	Почему ты хочешь продать эту мебель?	vinzi	0	0
+Piper sau sare?	Перец или соль?	sare	0	0
+Aparatul lui foto este de trei ori mai scump decât al meu.	Его камера в три раза дороже моей.	aparatul	0	0
+A bătut ușor la ușă.	В дверь слегка постучали.	ușor	0	0
+Am trecut pe la librărie și mi-am cumpărat o carte interesantă.	Я заглянул в книжный и купил интересную книгу.	interesantă	0	0
+Acest motan nu e de vânzare.	Этот кот не продаётся.	vânzare	0	0
+Acum este vară în Brazilia.	В Бразилии сейчас лето.	vară	0	0
+Am muncit mult azi.	Сегодня я много работал.	muncit	0	0
+Ei îi place salata de cartofi.	Она любит картофельный салат.	cartofi	0	0
+Ea este mândră de fiii ei.	Она гордится своими сыновьями.	mândră	0	0
+Unde sunt pozele mele?	Где мои фотографии?	pozele	0	0
+Fa-ti bagajele.	Пакуй чемоданы.	bagajele	0	0
+Mereu am fost sănătos.	Я всегда был здоров.	sănătos	0	0
+Biletul costă douăzeci de dolari.	Билет стоит двадцать долларов.	biletul	0	0
+Cunosc Boston.	Я знаю Бостон.	boston	0	0
+Nu am computer acasă.	У меня дома нет компьютера.	computer	0	0
+Vreau să părăsesc Parisul.	Я хочу уехать из Парижа.	părăsesc	0	0
+Nu îmi place acest aparat foto.	Мне не нравится этот фотоаппарат.	aparat	0	0
+Noapte bună, vise plăcute.	Доброй ночи. Сладких снов.	vise	0	0
+Am o fiică.	У меня есть дочь.	fiică	0	0
+Știm ce facem.	Мы знаем, что делаем.	știm	0	0
+Vreau să discut cu el acestă întrebare.	Я хочу обсудить с ним этот вопрос.	discut	0	0
+De ce iepurii au urechi lungi?	Почему у кроликов длинные уши?	lungi	0	0
+Ce făceai?	Что ты делал?	făceai	0	0
+Cum vă place cafeaua, cu sau fără zahăr?	Какой Вы любите кофе, с сахаром или без?	zahăr	0	0
+Îți place să dansezi?	Вам нравится танцевать?	dansezi	0	0
+Ești un înger!	Ты ангел!	înger	0	0
+Sper că veți reuși.	Я надеюсь, вы преуспеете.	veți	0	0
+Înainte de moarte, și-a revenit pentru scurt timp în fire.	Перед смертью он ненадолго пришёл в себя.	fire	0	0
+Numărul limbilor vii scade într-un ritm mediu de o limbă la fiecare două săptămâni.	Количество живых языков сокращается со средней скоростью один язык в две недели.	mediu	0	0
+Ce pasăre frumoasă!	Какая красивая птица!	pasăre	0	0
+Care este cea mai dificilă limbă din lume?	Какой самый сложный язык в мире?	dificilă	0	0
+Câinii au lătrat toată noaptea.	Собаки лаяли всю ночь.	câinii	0	0
+Nu este marfă.	Это не класс.	marfă	0	0
+Tom pune rar întrebări.	Том редко задает вопросы.	rar	0	0
+Elena este secretară, nu-i așa?	Элена - секретарь, верно?	elena	0	0
+Dă-mi cuţitul să tai acest cablu.	Дай мне нож, чтобы перерезать этот шнур.	cuţitul	0	0
+Cum te simți?	Как самочувствие?	simți	0	0
+În curând el va putea juca din nou baseball.	Скоро он снова сможет играть в бейсбол.	baseball	0	0
+Pentru câtă vreme rămâi?	Ты на сколько останешься?	câtă	0	0
+Acest site este inutil.	Этот сайт бесполезен.	inutil	0	0
+Ce înseamnă semnul acesta?	Что означает этот знак?	semnul	0	0
+Rusia se află în Rusia.	Россия находится в России.	rusia	0	0
+Este interzis să umbli gol prin hotel.	Нельзя ходить по гостинице голым.	interzis	0	0
+Sami a sărutat fesele Laylei.	Сами чмокнул Лейлу в ягодицу.	sărutat	0	0
+Stau de pază.	Я стою на страже.	pază	0	0
+Ați avut șansa s-o faceți, dar n-ați profitat de asta.	У вас была возможность это сделать, но вы ей не воспользовались.	faceți	0	0
+Nu înțeleg engleza.	Я не понимаю по-английски.	engleza	0	0
+Eu refuz.	Я отказываюсь.	refuz	0	0
+Mama ta știe să conducă mașina?	Твоя мать может водить автомобиль?	conducă	0	0
+E cel mai bun jucător din echipa noastră.	Он лучший игрок в нашей команде.	jucător	0	0
+I-am explicat în toate felurile posibile, dar nu înțelege!	Я уж по-всякому ему объяснял - не понимает!	explicat	0	0
+Universul este un mister.	Вселенная — это загадка.	universul	0	0
+Vreau un cadou pentru soția mea.	Я хочу подарок для своей жены.	soția	0	0
+Nu am pisică.	У меня нет кошки.	pisică	0	0
+Ieri a fost joi.	Вчера был четверг.	joi	0	0
+Nu înțeleg ce zice învăţătoara.	Я не понимаю, что говорит учительница.	înțeleg	0	0
+Cine seamănă vânt va culege furtună.	Посадишь ветер - пожнёшь бурю.	furtună	0	0
+În absența dumneavoastră, sistemul smart home aprinde și stinge luminile în diferite camere, creând iluzia că cineva se află în casă și reducând astfel riscul de efracție.	В ваше отсутствие система "умный дом" включает и выключает свет в разных комнатах, создавая иллюзию, что в доме кто-то есть, и тем самым снижая риск ограбления.	riscul	0	0
+Tom a știut ce face.	Том знал, что делает.	știut	0	0
+Vă sunt foarte recunoscător pentru această oportunitate.	Я очень благодарен вам за эту возможность.	oportunitate	0	0
+Vrea să fie soţul la fiecare nuntă și decedatul la fiecare înmormântare.	Он хочет на каждой свадьбе быть женихом, а на похоронах – покойником.	înmormântare	0	0
+Podul Porțile de Aur este din fier.	Мост «Золотые Ворота» сделан из железа.	fier	0	0
+Eu trăiesc într-un oraș.	Я живу в городе.	oraș	0	0
+Am fraţi.	У меня есть братья.	fraţi	0	0
+Numele lui era Francisco Pizarro.	Его звали Франсиско Писарро.	francisco	0	0
+Vă sunt foarte recunoscător pentru această oportunitate.	Я очень благодарен вам за эту возможность.	recunoscător	0	0
+De ce iepurii au urechi lungi?	Почему у кроликов длинные уши?	urechi	0	0
+Vorbești suedeza?	Ты говоришь по-шведски?	vorbești	0	0
+Tom și Mary locuiesc sub același acoperiș.	Том и Мэри живут под одной крышей.	același	0	0
+Furtuna a împiedicat-o să ajungă la timp.	Она не смогла приехать вовремя из-за бури.	furtuna	0	0
+El are maxim 100 dolari.	У него максимум 100 долларов.	maxim	0	0
+Ai o mașină?	У тебя есть автомобиль?	mașină	0	0
+Kent este un lider înnăscut.	Кент - прирождённый лидер.	lider	0	0
+Vorba e de argint dar tăcerea e de aur.	Слово - серебро, а молчание - золото.	argint	0	0
+Universul este un mister.	Вселенная — это загадка.	mister	0	0
+Este o idee excelentă.	Это отличная идея.	excelentă	0	0
+Nu refuza niciodată cadouri scumpe. Dragostea vine și pleacă, dar casa de amanet este mereu deschisă.	Никогда не отказывайтесь от дорогих подарков. Любовь приходит и уходит, а ломбард работает всегда.	cadouri	0	0
+Un urs poate mirosi un om la mulți kilometri distanță.	Медведь чует человека за много километров.	urs	0	0
+Au cumpărat o casă cu piscină.	Они купили дом с бассейном.	piscină	0	0
+Baieții și fetele se joacă în grădină.	Мальчики и девочки играют в саду.	grădină	0	0
+Vreau zăpadă.	Я хочу снега.	zăpadă	0	0
+Îmi recunosc greşeala.	Признаю свою ошибку.	greşeala	0	0
+Ești student?	Ты студент?	student	0	0
+Articolul exprimă opinia personală a autorului.	Статья выражает личное мнение автора.	articolul	0	0
+Nu refuza niciodată cadouri scumpe. Dragostea vine și pleacă, dar casa de amanet este mereu deschisă.	Никогда не отказывайтесь от дорогих подарков. Любовь приходит и уходит, а ломбард работает всегда.	refuza	0	0
+Am scris o adresă greșită pe plic.	Я написал на конверте неправильный адрес.	adresă	0	0
+Ce doriți?	Чего желаете?	doriți	0	0
+Acesta este computerul meu.	Это мой компьютер.	computerul	0	0
+În fabrica noastră lucrează doar cei mai buni croitori.	На нашей фабрике работают только лучшие портные.	fabrica	0	0
+Fratele meu lucrează la o stație de benzină.	Мой брат работает на заправочной станции.	benzină	0	0
+Ai ziare rusești?	У тебя есть русские газеты?	ziare	0	0
+Este unul dintre filmele mele preferate.	Это один из моих любимых фильмов.	filmele	0	0
+Iarna asta este caldă.	Эта зима тёплая.	caldă	0	0
+Tom vrea să încerce un nou șampon.	Том хочет попробовать новый шампунь.	încerce	0	0
+Articolul exprimă opinia personală a autorului.	Статья выражает личное мнение автора.	opinia	0	0
+M-am săturat să întârzii mereu.	Я устала, что ты постоянно опаздываешь.	întârzii	0	0
+Piper sau sare?	Перец или соль?	piper	0	0
+Podul a fost construit de către romani.	Мост построили римляне.	podul	0	0
+Mi-am dat deodată seama că practic nu știam nimic despre el.	Я вдруг понял, что, в сущности, ничего о нём не знаю.	deodată	0	0
+Vreau pantofi maro, nu negri.	Я хочу коричневые туфли, не чёрные.	negri	0	0
+Nu deschideți ușa aceasta, vă rog.	Не открывайте эту дверь, пожалуйста.	ușa	0	0
+Unde este restaurantul?	Где ресторан?	restaurantul	0	0
+Prietenului meu îi place înghețata de ciocolată.	Мой друг любит шоколадное мороженое.	prietenului	0	0
+Acum că ești adult nu trebuie să te porți ca un copil.	Теперь, когда ты вырос, ты не должен вести себя как ребёнок.	adult	0	0
+Următoarea staţie - Bulevardul Victoriei.	Следующая остановка - проспект Победы.	staţie	0	0
+Ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie și decembrie sunt cele douăsprezece luni ale anului.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.	septembrie	0	0
+Am trei surori. Una este asistentă medicala iar celelalte doua - studente.	У меня три сестры. Одна медсестра, а две другие - студентки.	asistentă	0	0
+Sunt satisfăcut de rezultate.	Я удовлетворён результатами.	rezultate	0	0
+Mi-e sete.	Я хочу пить.	sete	0	0
+Care școală este cea mai bună?	Какая школа самая лучшая?	școală	0	0
+Numim New York-ul Marele Măr.	Мы называем Нью-Йорк Большим Яблоком.	numim	0	0
+Câte documente trebuie să traduci?	Сколько документов ты должен перевести?	documente	0	0
+Mașina a înlocuit bicicleta.	Автомобиль заменил велосипед.	bicicleta	0	0
+Cel puțin ce fel de păr avea ea? Ce tunsoare? -- N-am acordat atenție.	"Какие у неё хоть волосы были? Причёска какая?" - "Я не обратил внимания".	acordat	0	0
+Asa-i la tara.	Это деревня.	asa-i	0	0
+Turnul este o piesă de şah.	Ладья - это шахматная фигура.	turnul	0	0
+Dacă îi spun mamei, se va îngrijora, așa că nu cred că îi voi spune.	Если я скажу своей матери, она будет беспокоиться, так что не думаю, что скажу ей.	îngrijora	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	față	0	0
+Îmi pare rău că am ajuns așa fără avertisment.	Прости, что я как снег на голову.	avertisment	0	0
+Această melodie este foarte îndrăgită în Japonia.	Эта мелодия очень популярна в Японии.	japonia	0	0
+Domnul Tanaka nu este momentan în biroul său.	Сеньор Танака в данный момент не в своём офисе.	momentan	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	libere	0	0
+Ferestrele erau deschise și se auzeau vocile copiilor care se jucau pe stradă.	Окна были открыты, и с улицы доносились голоса играющих детей.	deschise	0	0
+Marte este zeul războiului.	Марс - бог войны.	marte	0	0
+Nimeni nu va observa schimbarea.	Подмены никто не заметит.	schimbarea	0	0
+Cel care, mai ieri, socotea că îndrumă, conduce — se pomenește dintr-o dată întins țeapăn într-o cutie de lemn, iar cei din jur, dându-și seama că nu mai e bun de nimic, îl ard într-un cuptor.	Тот, кто еще недавно полагал, что он чем-то управляет, оказывается вдруг лежащим неподвижно в деревянном ящике, и окружающие, понимая, что толку от лежащего нет более никакого, сжигают его в печи.	întins	0	0
+Un urs poate mirosi un om la mulți kilometri distanță.	Медведь чует человека за много километров.	mulți	0	0
+Am vizitat multe țări, dar îmi place cel mai mult Japonia.	Я побывал во многих странах, но Япония мне нравится больше всего.	vizitat	0	0
+Mâncăm pâine cu unt.	Мы едим хлеб с маслом.	unt	0	0
+Acest material pentru ambalare asigură termoizolarea.	Этот упаковочный материал обеспечивает теплоизоляцию.	material	0	0
+Lui Ann îi place ciocolata foarte mult.	Энн очень любит шоколад.	ann	0	0
+Tom a vorbit în franceză cu mine.	Том говорил со мной по-французски.	franceză	0	0
+Ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie și decembrie sunt cele douăsprezece luni ale anului.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.	august	0	0
+Yanni nu știe cum să descrie asta.	Янни не знает, как это описать.	descrie	0	0
+Trebuie să te dezbaieri de acest obicei prostesc.	Ты должен избавиться от этой дурной привычки.	prostesc	0	0
+O promisiune e o promisiune.	Обещание есть обещание.	promisiune	0	0
+El trebuie să facă o alegere între obiecte.	Он должен сделать выбор между объектами.	obiecte	0	0
+Am trei surori. Una este asistentă medicala iar celelalte doua - studente.	У меня три сестры. Одна медсестра, а две другие - студентки.	surori	0	0
+El a lovit cu palma.	Он ударил ладонью.	palma	0	0
+Marina este din Rusia, iar Clarissa este din Suedia.	Марина из России, а Кларисса - из Швеции.	marina	0	0
+Virusul a depășit bariera dintre specii.	Вирус преодолел межвидовой барьер.	virusul	0	0
+Bună dimineața la toată lumea.	Доброе утро всем.	dimineața	0	0
+Iti spun pentru a nu stiu cita oara: nu!	Я тебе это говорю в который раз: Нет!	oara	0	0
+Dacă vă purtați frumos, vom merge mâine la grădina zoologică.	Будете себя хорошо вести - пойдём завтра в зоопарк.	grădina	0	0
+Crezi că este vreo șansă?	Думаешь, шанс есть?	șansă	0	0
+Iarna soarele apune mai repede.	Зимой солнце заходит раньше.	iarna	0	0
+Îmi place să cânt la pian.	Я люблю играть на пианино.	pian	0	0
+Ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie și decembrie sunt cele douăsprezece luni ale anului.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.	iunie	0	0
+Moscova este capitala Rusiei.	Москва - столица России.	moscova	0	0
+Ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie și decembrie sunt cele douăsprezece luni ale anului.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.	iulie	0	0
+Tu ai un zâmbet frumos.	У тебя красивая улыбка.	zâmbet	0	0
+Intelectul uman este în stare să cerceteze legile naturii.	Человеческий разум в состоянии исследовать законы природы.	legile	0	0
+Ieri a fost marţi.	Вчера был вторник.	marţi	0	0
+Sensul figurat nu mai este în uz.	В переносном смысле это уже не употребляется.	sensul	0	0
+Nimeni nu va observa schimbarea.	Подмены никто не заметит.	observa	0	0
+În Japonia noul an școlar începe în aprilie.	В Японии новый учебный год начинается в апреле.	aprilie	0	0
+Mașa cântă în corul bisericii.	Маша поёт в церковном хоре.	bisericii	0	0
+Ne așteptăm să plouă astăzi.	Мы ожидаем, что сегодня будет дождь.	plouă	0	0
+În sănătatea ta!	За твоё здоровье!	sănătatea	0	0
+Trebuie să te trezești la șase.	Ты должен вставать в шесть.	șase	0	0
+Ne-am îmbrățișat în tăcere, s-a urcat în tren și nu l-am mai văzut niciodată.	Мы молча обнялись, он сел в поезд, и больше я его никогда не видела.	tăcere	0	0
+Camioneta mea a rămas blocată în noroi.	Мой пикап застрял в грязи.	noroi	0	0
+Care este cea mai dificilă limbă din lume?	Какой самый сложный язык в мире?	limbă	0	0
+Ambele cuvinte pot fi folosite în funcție de libera alegere a utilizatorilor.	Можно использовать и то и другое слово в зависимости от желания пользователя.	folosite	0	0
+Aprilie este a patra lună a anului.	Апрель — четвёртый месяц в году.	patra	0	0
+Baftă la examen!	Удачи тебе на экзамене!	baftă	0	0
+Nivelul apei a crescut și mai mult.	Уровень воды ещё поднялся.	apei	0	0
+Am douăzeci și șapte de ani.	Мне 27 лет.	douăzeci	0	0
+Heather mă crede.	Хизер верит мне.	heather	0	0
+El merge la bibliotecă pentru a citi cărți.	Он ходит в библиотеку, чтобы читать книги.	bibliotecă	0	0
+Kent este un lider înnăscut.	Кент - прирождённый лидер.	kent	0	0
+Pari plictisit.	Ты выглядишь скучающим.	plictisit	0	0
+Am un card de credit.	У меня есть кредитная карточка.	card	0	0
+Nu-ți fă griji despre asta. Nu e problema ta.	Не беспокойся об этом. Это не твоя проблема.	nu-ți	0	0
+Albul mută şi câştigă.	Белые начинают и выигрывают.	mută	0	0
+Poliţistul a întrebat domnişoarele dacă este al lor automobilul.	Полицейский спросил у девушек, их ли это машина.	poliţistul	0	0
+În absența dumneavoastră, sistemul smart home aprinde și stinge luminile în diferite camere, creând iluzia că cineva se află în casă și reducând astfel riscul de efracție.	В ваше отсутствие система "умный дом" включает и выключает свет в разных комнатах, создавая иллюзию, что в доме кто-то есть, и тем самым снижая риск ограбления.	aprinde	0	0
+Atitudinea mea față de el s-a schimbat.	Моё отношение к нему изменилось.	atitudinea	0	0
+Supa este încă fierbinte.	Суп ещё горячий.	supa	0	0
+Nu mai speria copilul!	Хватит пугать ребёнка!	speria	0	0
+E atmosfera vesela aici.	Здесь так весело.	atmosfera	0	0
+Culoarea mea preferată este portocaliu.	Мой любимый цвет — оранжевый.	preferată	0	0
+Moldova îmi va lipsi.	Буду скучать по Молдове.	lipsi	0	0
+Nu l-am mai văzut de duminica trecută.	Я не видел его с прошлого воскресенья.	duminica	0	0
+Intelectul uman este în stare să cerceteze legile naturii.	Человеческий разум в состоянии исследовать законы природы.	naturii	0	0
+Am pus planul în practică.	Я претворил план в жизнь.	practică	0	0
+Ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie și decembrie sunt cele douăsprezece luni ale anului.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.	octombrie	0	0
+Eu i-am cumparat o maşină nouă.	Я купил ему новую машину.	cumparat	0	0
+Dacă iei acest medicament te vei simți mult mai bine.	Если ты примешь это лекарство, тебе станет намного лучше.	medicament	0	0
+Nu poate exista prietenie fără încredere.	Без доверия не может быть дружбы.	prietenie	0	0
+Ia-mă cu tine.‎	Возьми меня с собой.	ia-mă	0	0
+O știu atât pe Mary cât și pe soțul ei.	Я знаю и Мэри и её мужа.	soțul	0	0
+De dimineață până seară el nu face nimic altceva decât să se plângă.	С утра до вечера он не делает ничего, кроме как жалуется.	dimineață	0	0
+Calculatorul este nou.	Компьютер новый.	calculatorul	0	0
+Ea merge săptămânal la cinema.	Она ходит в кино раз в неделю.	cinema	0	0
+Lumânarea vieții mele se va stinge în curând.	Свеча моей жизни скоро потухнет.	stinge	0	0
+N-ai febră.	У тебя нет температуры.	febră	0	0
+Această melodie este foarte îndrăgită în Japonia.	Эта мелодия очень популярна в Японии.	melodie	0	0
+Te rog, împrumută-mi mașina ta.	Пожалуйста, одолжи мне свою машину.	mașina	0	0
+Nimeni din clasă nu aleargă așa de repede ca și el.	Никто в классе не бегает так же быстро, как он.	aleargă	0	0
+Când vine vorba de gătit, nimeni nu mă întrece.	К слову о готовке, в этом никто меня не превзойдёт.	gătit	0	0
+Îmi place bucătăria grecească.	Мне нравится греческая кухня.	bucătăria	0	0
+Hai, nu te prosti.	Ну давай, не будь дураком.	prosti	0	0
+Aparatul lui foto este de trei ori mai scump decât al meu.	Его камера в три раза дороже моей.	foto	0	0
+Tatoeba nu este o școala — este o universitate!	Татоэба — это не школа, это университет!	universitate	0	0
+Ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie și decembrie sunt cele douăsprezece luni ale anului.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.	martie	0	0
+Trebuie să mă grăbesc.	Мне нужно спешить.	grăbesc	0	0
+Drumul merge de-a lungul mării.	Дорога идёт вдоль моря.	mării	0	0
+Ea l-a auzit cântând.	Она слышала, как он поёт.	cântând	0	0
+Nu știam ce vreau.	Я не знал, чего хочу.	știam	0	0
+Cel care, mai ieri, socotea că îndrumă, conduce — se pomenește dintr-o dată întins țeapăn într-o cutie de lemn, iar cei din jur, dându-și seama că nu mai e bun de nimic, îl ard într-un cuptor.	Тот, кто еще недавно полагал, что он чем-то управляет, оказывается вдруг лежащим неподвижно в деревянном ящике, и окружающие, понимая, что толку от лежащего нет более никакого, сжигают его в печи.	ard	0	0
+Uite ce strălucitoare este luna!	Смотри, какая луна яркая!	strălucitoare	0	0
+A tăcut un moment.	Он помолчал какое-то время.	tăcut	0	0
+Ea nu știe nici să citească, nici să scrie.	Она не умеет ни читать, ни писать.	citească	0	0
+Unde munceşti?	Где ты работаешь?	munceşti	0	0
+Atacantul a marcat un gol în prelungirile primei reprize.	Нападающий забил гол в раздевалку.	marcat	0	0
+Poftă bună!	Приятного аппетита!	poftă	0	0
+Ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie și decembrie sunt cele douăsprezece luni ale anului.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.	noiembrie	0	0
+În situaţii excepţionale luaţi legătura cu agentul meu.	В чрезвычайной ситуации свяжитесь с моим агентом.	situaţii	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	drepturi	0	0
+Ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie și decembrie sunt cele douăsprezece luni ale anului.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.	decembrie	0	0
+Ai gene bune.	У тебя хорошие гены.	gene	0	0
+Lipsa banilor este rădăcina tuturor relelor.	Недостаток денег - это корень всех зол.	banilor	0	0
+Cu toate acestea nu voi ști dacă a venit sau nu.	Я всё равно не узнаю, пришёл он или нет.	ști	0	0
+Îmi place să joc tenis și golf.	Я люблю играть в теннис и гольф.	tenis	0	0
+Am uitat să opresc televizorul înainte de a ma duce la culcare.	Я забыла выключить телевизор перед сном.	televizorul	0	0
+Dumnezeu îi protejează pe proști și pe bețivi.	Дураков и пьяных бог бережёт.	protejează	0	0
+Am o grămadă de prieteni în Australia.	У меня много друзей в Австралии.	australia	0	0
+Beton!	Класс!	beton	0	0
+E deja primăvară în patria mea.	У меня на родине уже весна.	primăvară	0	0
+Ce ai de gând să faci cu acești bani?	Что ты собираешься делать с этими деньгами?	acești	0	0
+Părinții sunt responsabili pentru copiii minori.	Родители несут ответственность за несовершеннолетних детей.	părinții	0	0
+El s-a bucurat, când a auzit de succesul ei.	Он обрадовался, когда услышал о её успехе.	succesul	0	0
+Aveți o bicicletă?	У тебя есть велосипед?	bicicletă	0	0
+Toți așteptăm cu nerăbdare vacanța.	Мы все с нетерпением ждём наших каникул.	nerăbdare	0	0
+Camioneta mea a rămas blocată în noroi.	Мой пикап застрял в грязи.	blocată	0	0
+Virusul a depășit bariera dintre specii.	Вирус преодолел межвидовой барьер.	specii	0	0
+O să cumpăr o jucărie pentru copil.‎	Я куплю игрушку для ребёнка.	jucărie	0	0
+Vreau pantofi maro, nu negri.	Я хочу коричневые туфли, не чёрные.	maro	0	0
+Turnul este o piesă de şah.	Ладья - это шахматная фигура.	şah	0	0
+Cel care, mai ieri, socotea că îndrumă, conduce — se pomenește dintr-o dată întins țeapăn într-o cutie de lemn, iar cei din jur, dându-și seama că nu mai e bun de nimic, îl ard într-un cuptor.	Тот, кто еще недавно полагал, что он чем-то управляет, оказывается вдруг лежащим неподвижно в деревянном ящике, и окружающие, понимая, что толку от лежащего нет более никакого, сжигают его в печи.	cuptor	0	0
+Vreau să le mulțumesc oamenilor rari din viața mea care ascultă fără să judece, vorbesc fără prejudecăți, ajută fără cuvinte inutile, înțeleg fără să se plângă și mă iubesc necondiționat.	Я хочу сказать спасибо тем редким людям в моей жизни, которые слушают без осуждения, разговаривают без предрассудков, помогают без лишних слов, понимают без претензий, и любят меня без всяких условий.	plângă	0	0
+Știi când vor sosi?	Ты знаешь, когда они приедут?	sosi	0	0
+E o idioată!	Она идиотка!	idioată	0	0
+Prietenul meu Alexander vorbește spaniola.	Мой друг Александр говорит по-испански.	alexander	0	0
+I-am explicat în toate felurile posibile, dar nu înțelege!	Я уж по-всякому ему объяснял - не понимает!	posibile	0	0
+Nu am băut laptele.	Я не пил молоко.	laptele	0	0
+Numim New York-ul Marele Măr.	Мы называем Нью-Йорк Большим Яблоком.	măr	0	0
+Ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie și decembrie sunt cele douăsprezece luni ale anului.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.	ianuarie	0	0
+Lui Ann îi place ciocolata foarte mult.	Энн очень любит шоколад.	ciocolata	0	0
+Lumea vorbește engleza.	Мир говорит по-английски.	vorbește	0	0
+A fost foarte important pentru mine ca Rusia să aleagă un președinte decent.	Мне было весьма важно, чтобы Россия избрала достойного президента.	decent	0	0
+Nori negri treceau deasupra orașului.	Чёрные облака проплывали над городом.	nori	0	0
+Nimic nu este cunoscut în mod cert.	Ничего не известно наверняка.	cert	0	0
+Acest site este inutil.	Этот сайт бесполезен.	site	0	0
+Încercați să vă limitați aportul de sare.	Старайтесь ограничивать потребление соли.	încercați	0	0
+Dă-mi cuţitul să tai acest cablu.	Дай мне нож, чтобы перерезать этот шнур.	cablu	0	0
+Aveti mersul trenurilor?	У вас есть расписание поездов?	mersul	0	0
+Marte este zeul războiului.	Марс - бог войны.	zeul	0	0
+Limba este un mijloc de comunicare între oameni.	Язык - средство коммуникации между людьми.	comunicare	0	0
+Mama lui îi face o prăjitură.	Мама делает ему торт.	prăjitură	0	0
+El s-a bucurat, când a auzit de succesul ei.	Он обрадовался, когда услышал о её успехе.	bucurat	0	0
+A fost foarte important pentru mine ca Rusia să aleagă un președinte decent.	Мне было весьма важно, чтобы Россия избрала достойного президента.	aleagă	0	0
+Ea este mândră de fiii ei.	Она гордится своими сыновьями.	fiii	0	0
+Numărul limbilor vii scade într-un ritm mediu de o limbă la fiecare două săptămâni.	Количество живых языков сокращается со средней скоростью один язык в две недели.	scade	0	0
+Deocamdată nu pot dezvălui această informație.	Я пока не могу раскрыть эту информацию.	dezvălui	0	0
+Nu refuza niciodată cadouri scumpe. Dragostea vine și pleacă, dar casa de amanet este mereu deschisă.	Никогда не отказывайтесь от дорогих подарков. Любовь приходит и уходит, а ломбард работает всегда.	scumpe	0	0
+Televizorul nu funcționează.	Телевизор не работает.	funcționează	0	0
+Te iubesc, îngerul meu.	Я люблю тебя, мой ангел.	îngerul	0	0
+Am picioarele reci.	У меня холодные ноги.	reci	0	0
+Numărul limbilor vii scade într-un ritm mediu de o limbă la fiecare două săptămâni.	Количество живых языков сокращается со средней скоростью один язык в две недели.	ritm	0	0
+Am învățat multe.	Я многому научился.	învățat	0	0
+Ea trăiește dintr-o pensie mică.	Она живёт на небольшую пенсию.	pensie	0	0
+Își dorește mult să reușească.	Он очень хочет преуспеть.	își	0	0
+Baftă la examen!	Удачи тебе на экзамене!	examen	0	0
+Știi puțin germană, nu? Mă poți ajuta să scriu o scrisoare?	Ты ведь немного знаешь немецкий? Поможешь мне написать письмо?	germană	0	0
+Mâna ta este rece ca gheaţa.	Твоя рука холодная, как лёд.	gheaţa	0	0
+Ați fost vreodată în Hawaii?	Вы когда-нибудь бывали на Гавайях?	hawaii	0	0
+Vorba e de argint dar tăcerea e de aur.	Слово - серебро, а молчание - золото.	tăcerea	0	0
+Un urs poate mirosi un om la mulți kilometri distanță.	Медведь чует человека за много километров.	mirosi	0	0
+S-a dus repede la gară pentru a nu pierde trenul.	Он быстро шел на вокзал, чтобы не упустить поезд.	gară	0	0
+Camioneta mea a rămas blocată în noroi.	Мой пикап застрял в грязи.	camioneta	0	0
+Nu toate navigatoarele sunt sigure.	Не все браузеры безопасны.	sigure	0	0
+Ce limbă este aceasta? Sună ca franceza, dar nu este franceză.	Что это за язык? Похож на французский, но не французский.	franceza	0	0
+Focul a fost localizat rapid și apoi stins.	Пожар был быстро локализован, а затем потушен.	stins	0	0
+Tatăl meu a ieșit să cumpere o carte poștală.	Мой отец вышел, чтобы купить открытку.	ieșit	0	0
+A bătut ușor la ușă.	В дверь слегка постучали.	ușă	0	0
+Deși este bogat, nu este fericit.	Хотя он богат, он не счастлив.	deși	0	0
+Toți au părți bune și slabe.	У каждого есть свои сильные и слабые стороны.	slabe	0	0
+Momentul ideal pentru a dormi este de la 22:00 la 6:00.	С десяти вечера до шести утра - идеальное время для сна.	ideal	0	0
+Astfel de oameni mă calcă pe nervi.	Такой человек действует мне на нервы.	nervi	0	0
+Sunt Melanie.	Я Мелани.	melanie	0	0
+S-a simțit ușurat când mama lui a murit.	Он испытал облегчение, когда умерла его мать.	simțit	0	0
+Mașina a înlocuit bicicleta.	Автомобиль заменил велосипед.	înlocuit	0	0
+Nu știu ce să comand.	Я не знаю, что заказать.	comand	0	0
+Are frunze pe el.	На нем есть листья.	frunze	0	0
+Președintele republicii este ales de către popor.	Президент республики выбирается народом.	popor	0	0
+Primăvara în taiga dă repede loc verii.	Весну в тайге быстро сменяет лето.	verii	0	0
+Ea are un zâmbet fermecător.	У неё очаровательная улыбка.	fermecător	0	0
+Ei bine, spune-i bunicului poezia pe care ai învățat-o.	Ну, расскажи дедушке стихотворение, которое ты выучил.	bunicului	0	0
+Am fost cu toții dezamăgiți de joc.	Мы все были разочарованы игрой.	toții	0	0
+Ați putea să îmi faceți o rezervare?	Вы бы могли сделать для меня резервирование?	rezervare	0	0
+Ambele cuvinte pot fi folosite în funcție de libera alegere a utilizatorilor.	Можно использовать и то и другое слово в зависимости от желания пользователя.	libera	0	0
+Ea mi-a trimis telegramă urgentă.	Она прислала мне срочную телеграмму.	urgentă	0	0
+Au trecut trei zile și nu am făcut niciun progres.	Прошло трое суток, а мы ни на шаг не продвинулись.	progres	0	0
+De ce nu mâncați legume?	Почему вы не едите овощи?	legume	0	0
+Ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie și decembrie sunt cele douăsprezece luni ale anului.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.	februarie	0	0
+Ferestrele erau deschise și se auzeau vocile copiilor care se jucau pe stradă.	Окна были открыты, и с улицы доносились голоса играющих детей.	ferestrele	0	0
+Este interzis să umbli gol prin hotel.	Нельзя ходить по гостинице голым.	umbli	0	0
+Profesorul Hudson este prietenul tatălui meu.	Профессор Хадсон — друг моего отца.	hudson	0	0
+Straniu.	Странно.	straniu	0	0
+Trebuie să vorbim cu el înainte să facă vreo greșeală.	Надо поговорить с ним, пока он не наделал ошибок.	greșeală	0	0
+Ei îi place salata de cartofi.	Она любит картофельный салат.	salata	0	0
+Nu toți evreii vorbesc ebraică.	Не все евреи говорят на иврите.	evreii	0	0
+Te felicit de Ziua Programatorilor.	Я поздравляю тебя с днём программиста.	felicit	0	0
+Sunt niște portocale pe masă.	На столе есть несколько апельсинов.	portocale	0	0
+Am fost botezat, dar nu sunt credincios.	Я крещёный, но неверующий.	credincios	0	0
+Părinții sunt responsabili pentru copiii minori.	Родители несут ответственность за несовершеннолетних детей.	responsabili	0	0
+Focul a fost localizat rapid și apoi stins.	Пожар был быстро локализован, а затем потушен.	localizat	0	0
+Arată ceasul tău ora exactă?	У тебя часы правильно идут?	exactă	0	0
+Studiez istoria Japoniei.	Я изучаю историю Японии.	studiez	0	0
+Primăvara în taiga dă repede loc verii.	Весну в тайге быстро сменяет лето.	primăvara	0	0
+Mă fascinează figurile desenate de gheața de pe ferestre.	Морозные узоры на стекле завораживают меня.	ferestre	0	0
+Mărțișorul este simbolul primăverii.	Мэрцишор - символ весны.	simbolul	0	0
+Îmi pare rău dar am câștigat deja.	Извините, но я уже выиграл.	câștigat	0	0
+De ce este albă zăpada?	Почему снег белый?	zăpada	0	0
+Țările s-au unit pentru a preveni un alt război global.	Страны объединились, чтобы не допустить новой глобальной войны.	unit	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	nasc	0	0
+Luna este minunată toamna.	Луна осенью прекрасна.	toamna	0	0
+Ce nu înțelegi?	Ты что, не понимаешь?	înțelegi	0	0
+Este aproape șapte. Trebuie să mergem la școală.	Почти семь. Мы должны идти в школу.	șapte	0	0
+România este o țară frumoasă.	Румыния - прекрасная страна.	țară	0	0
+Dacă mâine va ploua, eu nu voi veni.	Если завтра будет дождь, я не приду.	ploua	0	0
+Te așteptam să te eliberezi.	Я ждал, когда ты освободишься.	eliberezi	0	0
+Noapte bună și vise plăcute.	Спокойной ночи и сладких снов.	plăcute	0	0
+Acum este vară în Brazilia.	В Бразилии сейчас лето.	brazilia	0	0
+Jocul de vânătoare s-a apropiat de sfârșit. Paznicul-șef Hudson, credem noi, a primit ordin spus să confiște tot vânatul. Poți șterge din meniu o făzăniță gătită imediat.	С дичью дело, мы полагаем, закончено. Глава предприятия Хадсон, по сведениям, рассказал о мухобойках все. Фазаньих курочек берегитесь.	meniu	0	0
+Hoţul a spart lacătul.	Вор взломал замок.	hoţul	0	0
+Ați avut șansa s-o faceți, dar n-ați profitat de asta.	У вас была возможность это сделать, но вы ей не воспользовались.	profitat	0	0
+Băieții se gândesc mult la fete.	Мальчики много думают о девочках.	băieții	0	0
+Am reușit să-l împingem într-un colț.	Нам удалось загнать его в угол.	reușit	0	0
+Am scris o adresă greșită pe plic.	Я написал на конверте неправильный адрес.	plic	0	0
+Îmi place matematica.	Мне нравится математика.	matematica	0	0
+Tom nu este DJ.	Том не ди-джей.	dj	0	0
+Sunt Ricardo, am 33 de ani și locuiesc în Rio.	Я Рикардо, мне 33 года, и я живу в Рио.	rio	0	0
+Cât de profundă este dragostea ta?	Как велика твоя любовь?	profundă	0	0
+Eu am burtă de bere.	У меня пивной живот.	burtă	0	0
+Mă fascinează figurile desenate de gheața de pe ferestre.	Морозные узоры на стекле завораживают меня.	desenate	0	0
+Această mobilă nu e de vânzare.	Эта мебель не продаётся.	mobilă	0	0
+A fost foarte important pentru mine ca Rusia să aleagă un președinte decent.	Мне было весьма важно, чтобы Россия избрала достойного президента.	președinte	0	0
+A încercat să se sinucidă.	Он попытался совершить самоубийство.	sinucidă	0	0
+Autorul e brazilian.	Автор — бразилец.	autorul	0	0
+Skopje este capitala Macedoniei.	Скопье — столица Македонии.	capitala	0	0
+Vreau să le mulțumesc oamenilor rari din viața mea care ascultă fără să judece, vorbesc fără prejudecăți, ajută fără cuvinte inutile, înțeleg fără să se plângă și mă iubesc necondiționat.	Я хочу сказать спасибо тем редким людям в моей жизни, которые слушают без осуждения, разговаривают без предрассудков, помогают без лишних слов, понимают без претензий, и любят меня без всяких условий.	inutile	0	0
+Vreau o chitară.	Я хочу гитару.	chitară	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	demnitate	0	0
+Unde pot găsi un ghid de conversație?	Где мне найти переводчика?	ghid	0	0
+Noi suntem fiicele tale.	Мы твои дочери.	fiicele	0	0
+Nu știu unde să-l aștept pe Tom.	Я не знаю, где ждать Тома.	aștept	0	0
+Institutul nostru are cei mai buni profesori.	В нашем институте самые лучшие преподаватели.	profesori	0	0
+Institutul nostru are cei mai buni profesori.	В нашем институте самые лучшие преподаватели.	institutul	0	0
+Fiecare pas pe care îl faci lasă o amprentă.	Каждый твой шаг оставляет след.	amprentă	0	0
+I-am explicat în toate felurile posibile, dar nu înțelege!	Я уж по-всякому ему объяснял - не понимает!	înțelege	0	0
+Vorbești spaniola?	Ты говоришь по-испански?	spaniola	0	0
+Cel puțin ce fel de păr avea ea? Ce tunsoare? -- N-am acordat atenție.	"Какие у неё хоть волосы были? Причёска какая?" - "Я не обратил внимания".	atenție	0	0
+Lumânarea vieții mele o să se stingă în curând.	Свеча моей жизни скоро потухнет.	vieții	0	0
+Iubesc golful.	Я люблю гольф.	golful	0	0
+Ei aparțineau clasei de mijloc.	Они принадлежали к среднему классу.	clasei	0	0
+Trăiesc ca toți ceilalți.	Я живу как все.	ceilalți	0	0
+Vreau să părăsesc Parisul.	Я хочу уехать из Парижа.	parisul	0	0
+Atacantul a marcat un gol în prelungirile primei reprize.	Нападающий забил гол в раздевалку.	primei	0	0
+Acest trandafir este foarte frumos.	Эта роза очень красивая.	trandafir	0	0
+Este complet inutilă.	Это совершенно бесполезно.	inutilă	0	0
+Ferestrele erau deschise și se auzeau vocile copiilor care se jucau pe stradă.	Окна были открыты, и с улицы доносились голоса играющих детей.	vocile	0	0
+El vorbește nu doar engleză, ci și japoneză.	Он говорит не только по-английски, но и по-тайски.	japoneză	0	0
+Aici nu este așa de frig ca în Alaska.	Здесь не так холодно, как на Аляске.	alaska	0	0
+Țările s-au unit pentru a preveni un alt război global.	Страны объединились, чтобы не допустить новой глобальной войны.	global	0	0
+Președintele republicii este ales de către popor.	Президент республики выбирается народом.	președintele	0	0
+Câte vaci ai?	Сколько у тебя коров?	vaci	0	0
+I-a plăcut călătoria în Polonia.	Ей понравилась поездка в Польшу.	polonia	0	0
+Un urs poate mirosi un om la mulți kilometri distanță.	Медведь чует человека за много километров.	distanță	0	0
+Este unul dintre filmele mele preferate.	Это один из моих любимых фильмов.	preferate	0	0
+Țările s-au unit pentru a preveni un alt război global.	Страны объединились, чтобы не допустить новой глобальной войны.	preveni	0	0
+Mulțumim!	Спасибо!	mulțumim	0	0
+Există mai multe specii ale acestora.	Их насчитывается несколько видов.	acestora	0	0
+Gara nu este departe de aici.	Вокзал отсюда недалеко.	gara	0	0
+Te ascultă fiica ta vitregă?	Твоя падчерица тебя слушается?	vitregă	0	0
+Aș putea să vă arăt orașul.	Я мог бы показать вам город.	orașul	0	0
+Și-a pierdut toți banii pe care îi avea.	Он потерял все свои деньги.	și-a	0	0
+Acest material pentru ambalare asigură termoizolarea.	Этот упаковочный материал обеспечивает теплоизоляцию.	asigură	0	0
+Aveti cumva un cutit?	Простите, у вас есть нож?	cutit	0	0
+De unde va cunoasteti?	Откуда вы друг друга знаете?	cunoasteti	0	0
+Auldey este o marcă chinezească.	"Auldey" — это китайская марка.	chinezească	0	0
+El a traversat strada.	Он перешёл улицу.	traversat	0	0
+Încearcă sosul acesta.	Попробуй этот соус.	sosul	0	0
+Eu am câștigat medalia de aur.	Я выиграл золотую медаль.	medalia	0	0
+În sfârșit!	Наконец!	sfârșit	0	0
+Tom vrea să muncească.	Том хочет работать.	muncească	0	0
+În absența dumneavoastră, sistemul smart home aprinde și stinge luminile în diferite camere, creând iluzia că cineva se află în casă și reducând astfel riscul de efracție.	В ваше отсутствие система "умный дом" включает и выключает свет в разных комнатах, создавая иллюзию, что в доме кто-то есть, и тем самым снижая риск ограбления.	home	0	0
+Ei bine, spune-i bunicului poezia pe care ai învățat-o.	Ну, расскажи дедушке стихотворение, которое ты выучил.	poezia	0	0
+Șef, totul a dispărut! Se scoate tencuiala, clientul pleacă.	Шеф, всё пропало! Гипс снимают, клиент уезжает.	șef	0	0
+Cel mai bine este să nu te gândești de loc la asta.	Об этом лучше вообще не думать.	gândești	0	0
+Ea mi-a trimis telegramă urgentă.	Она прислала мне срочную телеграмму.	telegramă	0	0
+El plimbă câinele în fiecare dimineaţă.	Он выгуливает собаку каждое утро.	plimbă	0	0
+O, e un fluture!	О, здесь бабочка!	fluture	0	0
+Ai un prezervativ?	У тебя есть презерватив?	prezervativ	0	0
+Nu vorbesc rusă.	Я не говорю по-русски.	rusă	0	0
+Sunt insule pe mare.	В море есть острова.	insule	0	0
+În absența dumneavoastră, sistemul smart home aprinde și stinge luminile în diferite camere, creând iluzia că cineva se află în casă și reducând astfel riscul de efracție.	В ваше отсутствие система "умный дом" включает и выключает свет в разных комнатах, создавая иллюзию, что в доме кто-то есть, и тем самым снижая риск ограбления.	smart	0	0
+Timpul nostru este limitat.	Наше время ограничено.	limitat	0	0
+Ați mâncat deja plăcinta?	Вы уже поели пирог?	plăcinta	0	0
+Marina este din Rusia, iar Clarissa este din Suedia.	Марина из России, а Кларисса - из Швеции.	suedia	0	0
+Uită-te prin vizor.	Посмотри в дверной глазок.	vizor	0	0
+Învățăm să citim și să scriem.	Мы учимся читать и писать.	scriem	0	0
+Dacă vă purtați frumos, vom merge mâine la grădina zoologică.	Будете себя хорошо вести - пойдём завтра в зоопарк.	zoologică	0	0
+Râsul fără motiv e o dovadă de prostie.	Смех без причины - признак дурачины.	râsul	0	0
+Acum surioara mea citește cărți bine.	Моя сестрёнка теперь хорошо читает книги.	surioara	0	0
+Am încercat trei tricouri în magazin.	Я померил в магазине три футболки.	tricouri	0	0
+Oamenii de la Madrid sunt nebuni.	Мадридцы сумасшедшие.	madrid	0	0
+Cum este clima în țara ta?	Какой климат в твоей стране?	țara	0	0
+A fost uşurat când mama lui a murit.	Он испытал облегчение, когда умерла его мать.	uşurat	0	0
+Nu sunt rasist.	Я не расист.	rasist	0	0
+Învățăm să citim și să scriem.	Мы учимся читать и писать.	citim	0	0
+„Ți-ai schimbat vreodată numele?” „Nu, ce zici de tine?”	«Ты когда-нибудь менял имя?» — «Нет, а ты?»	ți-ai	0	0
+Adaugă cât mai multe condimente.	Добавь как можно больше специй.	adaugă	0	0
+Vorbești germana?	Ты говоришь по-немецки?	germana	0	0
+E deja primăvară în patria mea.	У меня на родине уже весна.	patria	0	0
+Simt că traducerea nu mai este distractivă.	Я чувствую, что перевод перестал приносить удовольствие.	distractivă	0	0
+Următoarea staţie - Bulevardul Victoriei.	Следующая остановка - проспект Победы.	victoriei	0	0
+Ce părere ai despre acest pulover?	Как тебе этот свитер?	pulover	0	0
+Înoată cât încă poți.	Плыви, пока можешь.	înoată	0	0
+În viitorul apropiat, călătoriile în spațiu nu vor mai fi doar un vis.	В близком будущем космическое путешествие больше не будет всего лишь мечтой.	spațiu	0	0
+Când vine vorba de gătit, nimeni nu mă întrece.	К слову о готовке, в этом никто меня не превзойдёт.	întrece	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	egale	0	0
+Fata mi-a zâmbit.	Девочка улыбнулась мне.	zâmbit	0	0
+Acest animal se hrăneşte cu carne.	Это животное питается мясом.	hrăneşte	0	0
+Ce studiază un sovietolog?	Что изучает советолог?	studiază	0	0
+Podul a fost construit de către romani.	Мост построили римляне.	romani	0	0
+Sunt începător.	Я начинающий.	începător	0	0
+Nu mă pot hotărî pe care rochie să o cumpăr.	Не могу решить, какое платье мне купить.	hotărî	0	0
+Sunt conștient de situație.	Я в курсе ситуации.	situație	0	0
+Unde pot găsi un ghid de conversație?	Где мне найти переводчика?	conversație	0	0
+El poate să înoate repede.	Он умеет быстро плавать.	înoate	0	0
+Astfel de oameni mă calcă pe nervi.	Такой человек действует мне на нервы.	calcă	0	0
+Culoarea mea preferată este portocaliu.	Мой любимый цвет — оранжевый.	portocaliu	0	0
+El trebuie să aibă în jur de patruzeci de ani.	Ему, должно быть, около сорока.	patruzeci	0	0
+Profesorul meu de limba chineză este bărbat.	Мой учитель китайского языка — мужчина.	chineză	0	0
+El predă arabă în SUA.	Он преподаёт арабский в США.	predă	0	0
+O cunoști pe fata care stă la fereastră?	Ты знаешь девушку, которая стоит у окна?	cunoști	0	0
+Ți-e foame?	Голоден?	ți-e	0	0
+Pregătirile sunt în plină desfășurare.	Приготовления идут полным ходом.	pregătirile	0	0
+În viitorul apropiat, călătoriile în spațiu nu vor mai fi doar un vis.	В близком будущем космическое путешествие больше не будет всего лишь мечтой.	călătoriile	0	0
+Multe medicamente nu pot traversa bariera hemato-encefalică și nu pot intra în creier.	Многие лекарства не могут преодолеть гематоэнцефалический барьер и попасть в мозг.	traversa	0	0
+Președintele republicii este ales de către popor.	Президент республики выбирается народом.	republicii	0	0
+Trebuie să sosească la birou peste o oră.	Он должен прийти в офис через час.	sosească	0	0
+El mi-a telefonat.	Он позвонил мне.	telefonat	0	0
+Am fost botezat, dar nu sunt credincios.	Я крещёный, но неверующий.	botezat	0	0
+Veverița mănâncă o nucă.	Белка ест орех.	nucă	0	0
+Este deja unsprezece și el încă nu este acolo.	Уже одиннадцать, а его всё нет и нет.	unsprezece	0	0
+Elena este secretară, nu-i așa?	Элена - секретарь, верно?	secretară	0	0
+Optzeci la sută din incendiile forestiere sunt cauzate de oameni.	Восемьдесят процентов лесных пожаров происходит по вине человека.	cauzate	0	0
+Fără el n-aș fi putut face asta.	Без него я бы не смог этого сделать.	n-aș	0	0
+Auldey este o marcă chinezească.	"Auldey" — это китайская марка.	marcă	0	0
+Nici banii, nici faima nu l-au făcut fericit.	Ни деньги, ни слава не сделали его счастливым.	faima	0	0
+Am trei surori. Una este asistentă medicala iar celelalte doua - studente.	У меня три сестры. Одна медсестра, а две другие - студентки.	medicala	0	0
+Grăbește-te, Tom!	Давай быстрей, Том.	grăbește-te	0	0
+Care este sărbătoarea ta preferată?	Какой твой любимый праздник?	sărbătoarea	0	0
+Mi-a luat mult timp să mă obișnuiesc cu manierele lui grosolane.	Я долго привыкал к его грубым манерам.	manierele	0	0
+Sankt Petersburg este un oraș rusesc.	Санкт-Петербург — русский город.	rusesc	0	0
+Trăiască haosul!	Да здравствует хаос!	haosul	0	0
+Unde este prosopul tău?	Где твоё полотенце?	prosopul	0	0
+Am primit scrisoarea dumneavoastră alaltăieri.	Я получил ваше письмо позавчера.	alaltăieri	0	0
+Ornitorincii trăiesc în estul Austriei.	Утконосы обитают на востоке Австрии.	estul	0	0
+Până când vei împlini optsprezece ani, eu sunt tutorele tău.	Пока тебе нет восемнадцати, я несу за тебя ответственность.	împlini	0	0
+Dacă pui un pisoi între două balene, o să-i fie cald.	А если котёнка положить между китов, ему будет тепло.	balene	0	0
+Sunt satisfăcut de rezultate.	Я удовлетворён результатами.	satisfăcut	0	0
+Lumânarea vieții mele o să se stingă în curând.	Свеча моей жизни скоро потухнет.	lumânarea	0	0
+Cred că examenele ruinează educația.	Я думаю, что экзамены губят образование.	examenele	0	0
+Sunt Ricardo, am 33 de ani și locuiesc în Rio.	Я Рикардо, мне 33 года, и я живу в Рио.	ricardo	0	0
+Vrei o ieșire în seara asta?	Хочешь пойти куда-нибудь сегодня вечером?	ieșire	0	0
+Plouă cu găleata.	Льёт как из ведра.	găleata	0	0
+Ea a fost crescută în Franța.	Она выросла во Франции.	crescută	0	0
+Este cu câțiva ani mai tânăr ca mine.	Он на несколько лет моложе, чем я.	câțiva	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	comporte	0	0
+Nu mai pot continua să ignor problema.	Я не могу и дальше игнорировать проблему.	ignor	0	0
+Avem papă.	У нас есть Папа.	papă	0	0
+Aceea e școala mea.	Это - моя школа.	școala	0	0
+Multe medicamente nu pot traversa bariera hemato-encefalică și nu pot intra în creier.	Многие лекарства не могут преодолеть гематоэнцефалический барьер и попасть в мозг.	bariera	0	0
+Următoarea staţie - Bulevardul Victoriei.	Следующая остановка - проспект Победы.	bulevardul	0	0
+Ce ai pe sub bluză?	Что у тебя под блузкой?	bluză	0	0
+Ai multe cărți.	У тебя много книг.	cărți	0	0
+Vreau să mă înscriu la curs.	Я хочу записаться на курс.	înscriu	0	0
+Tom nu este bancher.	Том не банкир.	bancher	0	0
+E armăsar sau iapă?	Это жеребец или кобыла?	armăsar	0	0
+Moscova este capitala Rusiei.	Москва - столица России.	rusiei	0	0
+Care pește este mai sănătos: de mare sau de apă dulce?	Какая рыба полезнее: морская или пресноводная?	pește	0	0
+Sunt întru totul de acord cu tine.	Я с тобой полностью согласен.	întru	0	0
+Iarna soarele apune mai repede.	Зимой солнце заходит раньше.	apune	0	0
+Tom nu știe nimic despre familia Mariei.	Том ничего не знает о семье Мэри.	mariei	0	0
+Extincția în masă a Permianului este cea mai mare catastrofă a biosferei din istoria Pământului.	Массовое пермское вымирание - крупнейшая катастрофа биосферы в истории Земли.	catastrofă	0	0
+Ea niciodată nu a ascultat de sfaturile mele.	Она никогда не прислушивается к моим советам.	sfaturile	0	0
+Părinții sunt responsabili pentru copiii minori.	Родители несут ответственность за несовершеннолетних детей.	minori	0	0
+Cel puțin ce fel de păr avea ea? Ce tunsoare? -- N-am acordat atenție.	"Какие у неё хоть волосы были? Причёска какая?" - "Я не обратил внимания".	tunsoare	0	0
+Știu că încă îl iubești.	Я знаю, что ты всё ещё любишь его.	iubești	0	0
+Nori negri treceau deasupra orașului.	Чёрные облака проплывали над городом.	orașului	0	0
+Ea merge săptămânal la cinema.	Она ходит в кино раз в неделю.	săptămânal	0	0
+Merită văzute ruinele.	Эти руины стоит посмотреть.	văzute	0	0
+Ce cercetează un sovietolog?	Что изучает советолог?	cercetează	0	0
+Este literatura o artă?	Литература - это искусство?	literatura	0	0
+Primăria este foarte veche.	Ратуша очень старая.	primăria	0	0
+I-am explicat în toate felurile posibile, dar nu înțelege!	Я уж по-всякому ему объяснял - не понимает!	felurile	0	0
+Sensul figurat nu mai este în uz.	В переносном смысле это уже не употребляется.	uz	0	0
+Aşi dori să merg cu dumneavoastră.	Я хотел бы пойти с вами.	aşi	0	0
+Tom este american sau canadian?	Том - американец или канадец?	canadian	0	0
+Delfinii și balenele nu sunt pești.	Дельфины и киты не рыбы.	balenele	0	0
+Mașa cântă în corul bisericii.	Маша поёт в церковном хоре.	corul	0	0
+Iarna în Romania ninge mult.	Зимой в Румынии выпадает много снега.	ninge	0	0
+Ea poartă o perucă.	Она носит парик.	perucă	0	0
+Numim New York-ul Marele Măr.	Мы называем Нью-Йорк Большим Яблоком.	york-ul	0	0
+Între noi fie vorba, are un mod de a gândi superficial.	Между нами говоря, он мыслит поверхностно.	superficial	0	0
+Vreau să le mulțumesc oamenilor rari din viața mea care ascultă fără să judece, vorbesc fără prejudecăți, ajută fără cuvinte inutile, înțeleg fără să se plângă și mă iubesc necondiționat.	Я хочу сказать спасибо тем редким людям в моей жизни, которые слушают без осуждения, разговаривают без предрассудков, помогают без лишних слов, понимают без претензий, и любят меня без всяких условий.	judece	0	0
+Ea trăiește pe picior mare.	Она живёт на широкую ногу.	trăiește	0	0
+Am trecut pe la librărie și mi-am cumpărat o carte interesantă.	Я заглянул в книжный и купил интересную книгу.	librărie	0	0
+Toți așteptăm cu nerăbdare vacanța.	Мы все с нетерпением ждём наших каникул.	așteptăm	0	0
+Merită văzute ruinele.	Эти руины стоит посмотреть.	ruinele	0	0
+În absența dumneavoastră, sistemul smart home aprinde și stinge luminile în diferite camere, creând iluzia că cineva se află în casă și reducând astfel riscul de efracție.	В ваше отсутствие система "умный дом" включает и выключает свет в разных комнатах, создавая иллюзию, что в доме кто-то есть, и тем самым снижая риск ограбления.	iluzia	0	0
+Poți să-l descrii? Ce culoare are?	Вы можете его описать? Какого оно цвета?	descrii	0	0
+El este un om cu multă experiență.	Он человек с большим опытом.	experiență	0	0
+Toți au părți bune și slabe.	У каждого есть свои сильные и слабые стороны.	părți	0	0
+Vreau să discut cu el acestă întrebare.	Я хочу обсудить с ним этот вопрос.	acestă	0	0
+Nu-l ascultați pe omul acesta.	Не слушайте этого человека.	ascultați	0	0
+Ferestrele erau deschise și se auzeau vocile copiilor care se jucau pe stradă.	Окна были открыты, и с улицы доносились голоса играющих детей.	jucau	0	0
+Sunt conștient de situație.	Я в курсе ситуации.	conștient	0	0
+Am diaree.	У меня понос.	diaree	0	0
+România este o țară frumoasă.	Румыния - прекрасная страна.	românia	0	0
+Nu refuza niciodată cadouri scumpe. Dragostea vine și pleacă, dar casa de amanet este mereu deschisă.	Никогда не отказывайтесь от дорогих подарков. Любовь приходит и уходит, а ломбард работает всегда.	amanet	0	0
+El nu a îndreptăţit aşteptările.	Он не оправдал возлагаемых ожиданий.	aşteptările	0	0
+Ziua bună, de dimineață se cunoaște.	Хороший день утром известен.	cunoaște	0	0
+Este important să asculți cu atenție.	Важно внимательно слушать.	asculți	0	0
+Asta nu-mi aparține.	Этот не мой.	aparține	0	0
+Aș dori să fiți oaspeții mei în această seară.	Я бы хотел, чтобы этим вечером вы были моим гостем.	fiți	0	0
+Tom are o experienţă bogata în lucru cu computatoarele.	У Тома большой опыт работы с компьютерами.	bogata	0	0
+Acum că ești adult nu trebuie să te porți ca un copil.	Теперь, когда ты вырос, ты не должен вести себя как ребёнок.	porți	0	0
+Intelectul uman este în stare să cerceteze legile naturii.	Человеческий разум в состоянии исследовать законы природы.	cerceteze	0	0
+Studiez istoria Japoniei.	Я изучаю историю Японии.	japoniei	0	0
+Am reușit să-l împingem într-un colț.	Нам удалось загнать его в угол.	colț	0	0
+Pari plictisită.	Ты выглядишь скучающей.	plictisită	0	0
+El predă arabă în SUA.	Он преподаёт арабский в США.	arabă	0	0
+Care acoperiș este verde?	Какая крыша зеленая?	acoperiș	0	0
+Avionul a decolat la ora nouă fix.	Самолёт вылетел ровно в девять часов.	decolat	0	0
+Ați avut șansa s-o faceți.	У вас была возможность это сделать.	șansa	0	0
+Tom nu este rabin.	Том не раввин.	rabin	0	0
+Delfinii și balenele nu sunt pești.	Дельфины и киты не рыбы.	delfinii	0	0
+Cine seamănă vânt va culege furtună.	Посадишь ветер - пожнёшь бурю.	culege	0	0
+Sankt Petersburg este un oraș rusesc.	Санкт-Петербург — русский город.	petersburg	0	0
+Albul mută şi câştigă.	Белые начинают и выигрывают.	albul	0	0
+Coca-Cola conține cafeină?	Кока-кола содержит кофеин?	coca-cola	0	0
+De ce au părăsit oamenii Africa și au început să se răspândească pe planetă?	Почему человек покинул Африку и начал расселяться по планете?	răspândească	0	0
+Până când vei împlini optsprezece ani, eu sunt tutorele tău.	Пока тебе нет восемнадцати, я несу за тебя ответственность.	tutorele	0	0
+Am scris o adresă greșită pe plic.	Я написал на конверте неправильный адрес.	greșită	0	0
+În absența dumneavoastră, sistemul smart home aprinde și stinge luminile în diferite camere, creând iluzia că cineva se află în casă și reducând astfel riscul de efracție.	В ваше отсутствие система "умный дом" включает и выключает свет в разных комнатах, создавая иллюзию, что в доме кто-то есть, и тем самым снижая риск ограбления.	creând	0	0
+Copiii mei îmi sunt lucrul cel mai de preț.	Мои дети — моё сокровище.	preț	0	0
+Ea a fost crescută în Franța.	Она выросла во Франции.	franța	0	0
+De ce iepurii au urechi lungi?	Почему у кроликов длинные уши?	iepurii	0	0
+Kent este un lider înnăscut.	Кент - прирождённый лидер.	înnăscut	0	0
+Vă rog, nu uitați să expediați această scrisoare.	Пожалуйста, не забудьте отправить это письмо.	uitați	0	0
+Îmi plac limbile artificiale regionale.	Мне нравятся региональные искусственные языки.	limbile	0	0
+Am păşit încet, ca să nu mă audă.	Я шел так, чтобы они меня не услышали.	păşit	0	0
+Găinile sunt în coteț.	Куры в курятнике.	găinile	0	0
+Fa-ti bagajele.	Пакуй чемоданы.	fa-ti	0	0
+Te așteptam să te eliberezi.	Я ждал, когда ты освободишься.	așteptam	0	0
+Ale cui sunt cărțile?	Чьи книги?	cărțile	0	0
+Iti spun pentru a nu stiu cita oara: nu!	Я тебе это говорю в который раз: Нет!	cita	0	0
+Adaugă cât mai multe condimente.	Добавь как можно больше специй.	condimente	0	0
+Eu sunt vegetariană.	Я вегетарианка.	vegetariană	0	0
+Nu meriți să trăiești.	Вы не заслуживаете того, чтобы жить.	trăiești	0	0
+Frații mei!	Братья мои!	frații	0	0
+Jocul de vânătoare s-a apropiat de sfârșit. Paznicul-șef Hudson, credem noi, a primit ordin spus să confiște tot vânatul. Poți șterge din meniu o făzăniță gătită imediat.	С дичью дело, мы полагаем, закончено. Глава предприятия Хадсон, по сведениям, рассказал о мухобойках все. Фазаньих курочек берегитесь.	șterge	0	0
+E veselie mare aici.	Здесь так весело.	veselie	0	0
+Nu-mi încurca.	Не мешай мне.	încurca	0	0
+El nu mai locuiește acolo.	Он там больше не живёт.	locuiește	0	0
+Casa mea e aproape de stația de autobuz.	Мой дом находится возле автобусной остановки.	stația	0	0
+Articolul exprimă opinia personală a autorului.	Статья выражает личное мнение автора.	exprimă	0	0
+Chiar dacă te stai pe vârfuri, nu vei vedea nimic.	Даже если встать на цыпочки, ничего не увидишь.	vârfuri	0	0
+Când se folosește punct și virgulă?	Когда ставится точка с запятой?	folosește	0	0
+Lipsa banilor este rădăcina tuturor relelor.	Недостаток денег - это корень всех зол.	rădăcina	0	0
+Spune-mi ce cauți și voi ajuta.	Скажите мне, что вы ищете, и я помогу.	cauți	0	0
+Eu numai ce-am văzut blogul dumneavoastră - el pare interesant.	Я только что посмотрел на Ваш блог — он, кажется, интересный.	blogul	0	0
+Nori negri treceau deasupra orașului.	Чёрные облака проплывали над городом.	treceau	0	0
+Sunt foarte surprins că a devenit membru al parlamentului.	Я очень удивлён, что он стал членом парламента.	parlamentului	0	0
+Fratele meu lucrează la o stație de benzină.	Мой брат работает на заправочной станции.	stație	0	0
+Nu am nevoie de consilieri.	Мне не нужны советчики.	consilieri	0	0
+Dacă pui un pisoi între două balene, o să-i fie cald.	А если котёнка положить между китов, ему будет тепло.	pisoi	0	0
+Obișnuiam să folosim rumeguș ca umplutură pentru litiera pisicii.	Раньше мы использовали опилки в качестве наполнителя для лотка.	pisicii	0	0
+Lumânarea vieții mele o să se stingă în curând.	Свеча моей жизни скоро потухнет.	stingă	0	0
+Domnul Tanaka nu este momentan în biroul său.	Сеньор Танака в данный момент не в своём офисе.	tanaka	0	0
+Asta nu este o coincidență.	Это не совпадение.	coincidență	0	0
+Avionul decolează la 17:30.	Вылет самолёта в 17:30.	decolează	0	0
+Îmi plac limbile artificiale regionale.	Мне нравятся региональные искусственные языки.	artificiale	0	0
+Pentru ce ai cumpărat acest dicționar costisitor?	Зачем вы купили этот дорогой словарь?	costisitor	0	0
+De asemenea, el vorbește rusa.	Он может говорить и по-русски.	rusa	0	0
+Mă întreb de ce femeile trăiesc mai mult decât bărbații.	Я задаюсь вопросом, почему женщины живут дольше мужчин.	bărbații	0	0
+Jocul de vânătoare s-a apropiat de sfârșit. Paznicul-șef Hudson, credem noi, a primit ordin spus să confiște tot vânatul. Poți șterge din meniu o făzăniță gătită imediat.	С дичью дело, мы полагаем, закончено. Глава предприятия Хадсон, по сведениям, рассказал о мухобойках все. Фазаньих курочек берегитесь.	gătită	0	0
+Cum este clima în țara ta?	Какой климат в твоей стране?	clima	0	0
+Este foarte înțelept.	Он очень мудрый.	înțelept	0	0
+Încrederea se câștigă într-o viață și se pierde într-o clipă.	Доверие зарабатывают в течение жизни и теряют в один миг.	câștigă	0	0
+Îmi pare bine de cunoștință!	Очень приятно.	cunoștință	0	0
+Are tendința de a fi pesimist.	Он склонен к пессимизму.	pesimist	0	0
+Ambele cuvinte pot fi folosite în funcție de libera alegere a utilizatorilor.	Можно использовать и то и другое слово в зависимости от желания пользователя.	funcție	0	0
+Optzeci la sută din incendiile forestiere sunt cauzate de oameni.	Восемьдесят процентов лесных пожаров происходит по вине человека.	optzeci	0	0
+Anna este o fetiță.	Анна — маленькая девочка.	fetiță	0	0
+Trebuie doar să înveți puțină gramatică.	Тебе надо просто немного подучить грамматику.	puțină	0	0
+Există zbor direct din Tokio spre Londra.	Есть прямой перелёт от Токио до Лондона.	tokio	0	0
+Ești din Kyoto?	Ты из Киото?	kyoto	0	0
+Hoţul a spart lacătul.	Вор взломал замок.	lacătul	0	0
+Copilul s-a repezit la mama sa.	Ребёнок бросился к матери.	repezit	0	0
+Marina este din Rusia, iar Clarissa este din Suedia.	Марина из России, а Кларисса - из Швеции.	clarissa	0	0
+Nu vorbi în ghicitori.	Не говорите загадками.	ghicitori	0	0
+Am reușit să-l împingem într-un colț.	Нам удалось загнать его в угол.	împingem	0	0
+E atmosfera vesela aici.	Здесь так весело.	vesela	0	0
+Mărțișorul este simbolul primăverii.	Мэрцишор - символ весны.	primăverii	0	0
+Nu am mulți frați.	У меня нет много братьев.	frați	0	0
+Îmi plac limbile artificiale regionale.	Мне нравятся региональные искусственные языки.	regionale	0	0
+Vorbiți japoneză?	Вы говорите по-японски?	vorbiți	0	0
+Azi e luni și mâine va fi marți.	Сегодня понедельник, а завтра будет вторник.	marți	0	0
+Unde pot găsi un translator?	Где мне найти переводчика?	translator	0	0
+Până când vei împlini optsprezece ani, eu sunt tutorele tău.	Пока тебе нет восемнадцати, я несу за тебя ответственность.	optsprezece	0	0
+Mulțumesc mult pentru urări.	Большое спасибо вам за поздравления.	urări	0	0
+Aş dori să telefonez în Japonia.	Я хотел бы позвонить в Японию.	telefonez	0	0
+Poliţistul a întrebat domnişoarele dacă este al lor automobilul.	Полицейский спросил у девушек, их ли это машина.	domnişoarele	0	0
+Nu meriți să trăiești.	Вы не заслуживаете того, чтобы жить.	meriți	0	0
+Învață!	Учись.	învață	0	0
+Ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie și decembrie sunt cele douăsprezece luni ale anului.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.	douăsprezece	0	0
+Acest material pentru ambalare asigură termoizolarea.	Этот упаковочный материал обеспечивает теплоизоляцию.	ambalare	0	0
+Își dorește mult să reușească.	Он очень хочет преуспеть.	dorește	0	0
+Ai potențial.	У тебя есть потенциал.	potențial	0	0
+Este mai slab decât mine la învăţătură.	Он уступает мне в учёбе.	învăţătură	0	0
+Ați chemat deja o ambulanță?	Ты уже вызвал скорую?	ambulanță	0	0
+Nu știu nimic despre URSS.	Я ничего не знаю о Советском Союзе.	urss	0	0
+Sami a sărutat fesele Laylei.	Сами чмокнул Лейлу в ягодицу.	sami	0	0
+Autorul e brazilian.	Автор — бразилец.	brazilian	0	0
+Este asta fără gluten?	Это без глютена?	gluten	0	0
+Sper că veți reuși.	Я надеюсь, вы преуспеете.	reuși	0	0
+Obișnuiam să folosim rumeguș ca umplutură pentru litiera pisicii.	Раньше мы использовали опилки в качестве наполнителя для лотка.	umplutură	0	0
+Intrați!	Войдите!	intrați	0	0
+Circumstantele nu mi-au permis sa va ajut.	Обстоятельства не позволили мне вам помочь.	circumstantele	0	0
+Tatăl meu s-a întors din Osaka săptămâna trecută.	Мой отец вернулся из Осаки на прошлой неделе.	osaka	0	0
+Vrea să fie soţul la fiecare nuntă și decedatul la fiecare înmormântare.	Он хочет на каждой свадьбе быть женихом, а на похоронах – покойником.	decedatul	0	0
+Restaurarea este o muncă îndelungată și minuțioasă.	Реставрация - это долгий, кропотливый труд.	îndelungată	0	0
+Paltonul tău este foarte frumos.	У тебя очень красивое пальто.	paltonul	0	0
+Nu deschideți ușa aceasta, vă rog.	Не открывайте эту дверь, пожалуйста.	deschideți	0	0
+Nu toți evreii vorbesc ebraică.	Не все евреи говорят на иврите.	ebraică	0	0
+Optzeci la sută din incendiile forestiere sunt cauzate de oameni.	Восемьдесят процентов лесных пожаров происходит по вине человека.	incendiile	0	0
+El este un șofer de taxi.	Он таксист.	șofer	0	0
+Nu am relații bune cu toți foștii mei.	У меня не со всеми бывшими хорошие отношения.	relații	0	0
+Ne-a plăcut mult povestirea.	Нам очень понравился его рассказ.	povestirea	0	0
+Câte documente trebuie să traduci?	Сколько документов ты должен перевести?	traduci	0	0
+Iarna în Romania ninge mult.	Зимой в Румынии выпадает много снега.	romania	0	0
+Când se folosește punct și virgulă?	Когда ставится точка с запятой?	virgulă	0	0
+Am vizitat multe țări, dar îmi place cel mai mult Japonia.	Я побывал во многих странах, но Япония мне нравится больше всего.	țări	0	0
+Mă fascinează figurile desenate de gheața de pe ferestre.	Морозные узоры на стекле завораживают меня.	figurile	0	0
+Nu vorbesc limba portugheză.	Я не говорю по-португальски.	portugheză	0	0
+Crocodilii nu mănâncă niciodată ciocolată.	Крокодилы никогда не едят шоколад.	crocodilii	0	0
+Ea a refuzat să comenteze.	Она отказалась комментировать.	comenteze	0	0
+Sensul figurat nu mai este în uz.	В переносном смысле это уже не употребляется.	figurat	0	0
+Acest motan nu e de vânzare.	Этот кот не продаётся.	motan	0	0
+Am trei surori. Una este asistentă medicala iar celelalte doua - studente.	У меня три сестры. Одна медсестра, а две другие - студентки.	studente	0	0
+Acum surioara mea citește cărți bine.	Моя сестрёнка теперь хорошо читает книги.	citește	0	0
+Greaca nu e o limbă uşoară.	Греческий - язык непростой.	greaca	0	0
+Vorbești araba?	Ты говоришь по-арабски?	araba	0	0
+Pregătirile sunt în plină desfășurare.	Приготовления идут полным ходом.	desfășurare	0	0
+Vreau să le mulțumesc oamenilor rari din viața mea care ascultă fără să judece, vorbesc fără prejudecăți, ajută fără cuvinte inutile, înțeleg fără să se plângă și mă iubesc necondiționat.	Я хочу сказать спасибо тем редким людям в моей жизни, которые слушают без осуждения, разговаривают без предрассудков, помогают без лишних слов, понимают без претензий, и любят меня без всяких условий.	rari	0	0
+Intelectul uman este în stare să cerceteze legile naturii.	Человеческий разум в состоянии исследовать законы природы.	intelectul	0	0
+Restaurarea este o muncă îndelungată și minuțioasă.	Реставрация - это долгий, кропотливый труд.	restaurarea	0	0
+Trebuie să te trezești la șase.	Ты должен вставать в шесть.	trezești	0	0
+După noi, potopul.	После нас - хоть потоп.	potopul	0	0
+Este o zi ploioasă.	День дождливый.	ploioasă	0	0
+Jocul de vânătoare s-a apropiat de sfârșit. Paznicul-șef Hudson, credem noi, a primit ordin spus să confiște tot vânatul. Poți șterge din meniu o făzăniță gătită imediat.	С дичью дело, мы полагаем, закончено. Глава предприятия Хадсон, по сведениям, рассказал о мухобойках все. Фазаньих курочек берегитесь.	vânatul	0	0
+Te rog, împrumută-mi mașina ta.	Пожалуйста, одолжи мне свою машину.	împrumută-mi	0	0
+Capitala Poloniei este Varșovia.	Столица Польши - Варшава.	poloniei	0	0
+Atacantul a marcat un gol în prelungirile primei reprize.	Нападающий забил гол в раздевалку.	reprize	0	0
+Trebuie doar să înveți puțină gramatică.	Тебе надо просто немного подучить грамматику.	înveți	0	0
+Câinii au lătrat toată noaptea.	Собаки лаяли всю ночь.	lătrat	0	0
+Articolul exprimă opinia personală a autorului.	Статья выражает личное мнение автора.	autorului	0	0
+Aș dori să fiți oaspeții mei în această seară.	Я бы хотел, чтобы этим вечером вы были моим гостем.	oaspeții	0	0
+Câte silabe are acest cuvânt?	Сколько слогов в этом слове?	silabe	0	0
+Îmi place bucătăria grecească.	Мне нравится греческая кухня.	grecească	0	0
+El nu a îndreptăţit aşteptările.	Он не оправдал возлагаемых ожиданий.	îndreptăţit	0	0
+Cred că examenele ruinează educația.	Я думаю, что экзамены губят образование.	ruinează	0	0
+Ferestrele erau deschise și se auzeau vocile copiilor care se jucau pe stradă.	Окна были открыты, и с улицы доносились голоса играющих детей.	auzeau	0	0
+Coca-Cola conține cafeină?	Кока-кола содержит кофеин?	conține	0	0
+L-am văzut pe Ion la bibliotecă.	Я видел Джона в библиотеке.	ion	0	0
+Tom și Mary au divorțat.	Том и Мэри развелись.	divorțat	0	0
+Sami a sărutat fesele Laylei.	Сами чмокнул Лейлу в ягодицу.	fesele	0	0
+Lumea este o națiune.	Мир - это нация.	națiune	0	0
+E armăsar sau iapă?	Это жеребец или кобыла?	iapă	0	0
+Este degradant pentru ei.	Это унизительно для неё.	degradant	0	0
+Deocamdată nu pot dezvălui această informație.	Я пока не могу раскрыть эту информацию.	informație	0	0
+Mama mea se întâlnește mâine cu dirigintele meu.	Моя мать завтра встречается с моим классным руководителем.	întâlnește	0	0
+Mă fascinează figurile desenate de gheața de pe ferestre.	Морозные узоры на стекле завораживают меня.	fascinează	0	0
+În situaţii excepţionale luaţi legătura cu agentul meu.	В чрезвычайной ситуации свяжитесь с моим агентом.	excepţionale	0	0
+Pierdeți timp prețios.	Вы теряете драгоценное время.	prețios	0	0
+Cât de proști suntem?	Насколько мы глупы?	proști	0	0
+Mama mea nu se trezește niciodată devreme.	Моя мать никогда не встаёт рано.	trezește	0	0
+Cum te numești?	Как тебя зовут?	numești	0	0
+Baieții și fetele se joacă în livadă.	Мальчики и девочки играют в саду.	livadă	0	0
+Are tendința de a fi pesimist.	Он склонен к пессимизму.	tendința	0	0
+Rugina mănâncă din fier.‎	Ржавчина разъедает железо.	rugina	0	0
+Doctorul Smith are mulți pacienți.	У доктора Смит много пациентов.	pacienți	0	0
+Virusul a depășit bariera dintre specii.	Вирус преодолел межвидовой барьер.	depășit	0	0
+Coca-Cola conține cafeină?	Кока-кола содержит кофеин?	cafeină	0	0
+Aveti mersul trenurilor?	У вас есть расписание поездов?	trenurilor	0	0
+Încercați să vă limitați aportul de sare.	Старайтесь ограничивать потребление соли.	aportul	0	0
+Sankt Petersburg este un oraș rusesc.	Санкт-Петербург — русский город.	sankt	0	0
+Pierdeți timp prețios.	Вы теряете драгоценное время.	pierdeți	0	0
+Ei au fost norocoși.	Им повезло.	norocoși	0	0
+Am citit că preşedintele Braziliei este o femeie. Ea se numeşte Dilma.	Я читала, что президент Бразилии женщина. Её зовут Дилма.	braziliei	0	0
+Ornitorincii trăiesc în estul Austriei.	Утконосы обитают на востоке Австрии.	austriei	0	0
+Podul Porțile de Aur este din fier.	Мост «Золотые Ворота» сделан из железа.	porțile	0	0
+Poliţistul a întrebat domnişoarele dacă este al lor automobilul.	Полицейский спросил у девушек, их ли это машина.	automobilul	0	0
+Am nevoie de stilouri, caiete și altele.	Мне нужны ручки, тетради и так далее.	stilouri	0	0
+Dacă vă purtați frumos, vom merge mâine la grădina zoologică.	Будете себя хорошо вести - пойдём завтра в зоопарк.	purtați	0	0
+Trebuie doar să înveți puțină gramatică.	Тебе надо просто немного подучить грамматику.	gramatică	0	0
+Știi turcă?	Ты знаешь турецкий?	turcă	0	0
+Isus nu era creștin.	Иисус не был христианином.	creștin	0	0
+Cel care, mai ieri, socotea că îndrumă, conduce — se pomenește dintr-o dată întins țeapăn într-o cutie de lemn, iar cei din jur, dându-și seama că nu mai e bun de nimic, îl ard într-un cuptor.	Тот, кто еще недавно полагал, что он чем-то управляет, оказывается вдруг лежащим неподвижно в деревянном ящике, и окружающие, понимая, что толку от лежащего нет более никакого, сжигают его в печи.	îndrumă	0	0
+Îmi plac hamburgerii.	Я обожаю гамбургеры.	hamburgerii	0	0
+Ce carte citești?	Какую книгу читаешь?	citești	0	0
+Tatăl meu a ieșit să cumpere o carte poștală.	Мой отец вышел, чтобы купить открытку.	poștală	0	0
+Tom e homofob.	Том гомофоб.	homofob	0	0
+Vorbești suedeza?	Ты говоришь по-шведски?	suedeza	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.	conștiință	0	0
+Sunt meteorolog.	Я метеоролог.	meteorolog	0	0
+Vorbești ebraica?	Ты говоришь на иврите?	ebraica	0	0
+E ultimul răcnet.	Это — последний писк моды.	răcnet	0	0
+Este un cântec pe care nu ți-l poți scoate din cap.	Это мелодия, которая застревает в голове.	ți-l	0	0
+Priviți cât de mare este luna!	Смотри, какая луна большая!	priviți	0	0
+Cum vă permiteți!	Что вы себе позволяете.	permiteți	0	0
+Nilul este un râu.	Нил - это река.	nilul	0	0
+Copiii sunt atrași de leagăne.	Детей привлекают качели.	leagăne	0	0
+În această cameră este aer condiționat.	В этой комнате есть кондиционер.	condiționat	0	0

@@ -1,0 +1,61 @@
+Heillä on leipää.	Оне имају хлеб.	on	0	0
+Hän on paras ystäväni.	Он је мој најбољи пријатељ.	hän	0	0
+En osaa.	Не могу.	en	0	0
+En ole vanha.	Nisam star.	ole	0	0
+Minä olen Roomassa.	Ja sam u Rimu.	olen	0	0
+Minun siskoni oli kaunis nainen.	Moja sestra je bila lepa žena.	oli	0	0
+Minä olen Roomassa.	Ja sam u Rimu.	minä	0	0
+Jos minulla olisi aikaa, opiskelisin ranskaa.	Kada budem imao vremena, učiću francuski.	jos	0	0
+Kuinka paljon tämä kamera maksaa?	Колико кошта ова камера?	tämä	0	0
+Minun siskoni oli kaunis nainen.	Moja sestra je bila lepa žena.	minun	0	0
+Kuinka paljon ihmisiä sinun kaupungissasi asuu?	Koliko ljudi živi u tvom gradu?	sinun	0	0
+Kyllä.	Да.	kyllä	0	0
+Jos minulla olisi aikaa, opiskelisin ranskaa.	Kada budem imao vremena, učiću francuski.	olisi	0	0
+Anna minulle maitoa.	Daj mi mleko.	minulle	0	0
+Jos minulla olisi aikaa, opiskelisin ranskaa.	Kada budem imao vremena, učiću francuski.	minulla	0	0
+Olemme kotoisin Ranskasta.	Mi smo iz Francuske.	olemme	0	0
+Kuinka paljon ihmisiä sinun kaupungissasi asuu?	Koliko ljudi živi u tvom gradu?	paljon	0	0
+Anna minulle maitoa.	Daj mi mleko.	anna	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	yksi	0	0
+Kuinka paljon tämä kamera maksaa?	Колико кошта ова камера?	kuinka	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	kaksi	0	0
+Jos minulla olisi aikaa, opiskelisin ranskaa.	Kada budem imao vremena, učiću francuski.	aikaa	0	0
+Kerro lyhyesti.	Буди кратка.	kerro	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	kolme	0	0
+Minun siskoni oli kaunis nainen.	Moja sestra je bila lepa žena.	nainen	0	0
+Nähdään!	Довиђења!	nähdään	0	0
+Hän on paras ystäväni.	Он је мој најбољи пријатељ.	paras	0	0
+En osaa.	Не могу.	osaa	0	0
+Kuinka paljon ihmisiä sinun kaupungissasi asuu?	Koliko ljudi živi u tvom gradu?	ihmisiä	0	0
+Kreikka on vanha valtio.	Грчка је стара земља.	vanha	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	viisi	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	neljä	0	0
+Minun siskoni oli kaunis nainen.	Moja sestra je bila lepa žena.	kaunis	0	0
+Hän on paras ystäväni.	Он је мој најбољи пријатељ.	ystäväni	0	0
+Kuinka paljon tämä kamera maksaa?	Колико кошта ова камера?	maksaa	0	0
+Heillä on leipää.	Оне имају хлеб.	heillä	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	kuusi	0	0
+Ovatko kirjeet mielestäsi säilyttämisen arvoisia?	Da li misliš da vredi sačuvati ova pisma?	ovatko	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	kymmenen	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	seitsemän	0	0
+Kuinka paljon ihmisiä sinun kaupungissasi asuu?	Koliko ljudi živi u tvom gradu?	asuu	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	kahdeksan	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	yhdeksän	0	0
+Minun siskoni oli kaunis nainen.	Moja sestra je bila lepa žena.	siskoni	0	0
+Kuinka paljon tämä kamera maksaa?	Колико кошта ова камера?	kamera	0	0
+Kirjoitin laulun Tatoebasta.	Napisao sam pesmu o Tatoebi.	kirjoitin	0	0
+Ovatko kirjeet mielestäsi säilyttämisen arvoisia?	Da li misliš da vredi sačuvati ova pisma?	mielestäsi	0	0
+Olemme kotoisin Ranskasta.	Mi smo iz Francuske.	kotoisin	0	0
+Anna minulle maitoa.	Daj mi mleko.	maitoa	0	0
+Puhutko kiinaa?	Da li govoriš kineski?	puhutko	0	0
+Kirjoitin laulun Tatoebasta.	Napisao sam pesmu o Tatoebi.	laulun	0	0
+Heillä on leipää.	Оне имају хлеб.	leipää	0	0
+Kreikka on vanha valtio.	Грчка је стара земља.	valtio	0	0
+Jos minulla olisi aikaa, opiskelisin ranskaa.	Kada budem imao vremena, učiću francuski.	ranskaa	0	0
+Kerro lyhyesti.	Буди кратка.	lyhyesti	0	0
+Ovatko kirjeet mielestäsi säilyttämisen arvoisia?	Da li misliš da vredi sačuvati ova pisma?	kirjeet	0	0
+Minä olen Roomassa.	Ja sam u Rimu.	roomassa	0	0
+Ovatko kirjeet mielestäsi säilyttämisen arvoisia?	Da li misliš da vredi sačuvati ova pisma?	arvoisia	0	0
+Olemme kotoisin Ranskasta.	Mi smo iz Francuske.	ranskasta	0	0
+Puhutko kiinaa?	Da li govoriš kineski?	kiinaa	0	0
+Kreikka on vanha valtio.	Грчка је стара земља.	kreikka	0	0

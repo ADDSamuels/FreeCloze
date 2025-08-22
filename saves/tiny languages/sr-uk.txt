@@ -1,0 +1,1016 @@
+Da li neko zna gde je Tom?	Хтось знає, де Том?	da	0	0
+Gde je moja soba?	Де моя кімната?	je	0	0
+Ne želim da živim sa tobom.	Я не хочу жити з тобою.	ne	0	0
+Kako se zoveš?	Як тебе звати?	se	0	0
+Ona voli poeziju i muziku.	Вона любить поезію та музику.	i	0	0
+Mrzim da čekam u redu.	Я ненавиджу чекати в черзі.	u	0	0
+To nije teško raditi.	Це нескладно зробити.	to	0	0
+Na plaži sam.	Я на пляжі.	sam	0	0
+Pakao čeka na tebe.	Пекло чекає на тебе.	na	0	0
+Ti si moj prijatelj.	Ти мій друг.	ti	0	0
+Treba mi kuhinjski nož.	Мені потрібний кухонний ніж.	mi	0	0
+Ljudi se bore gvožđem za zlato.	Люди б'ються залізом за золото.	za	0	0
+Gde si videla Toma?	Де ти бачила Тома?	si	0	0
+Da li je ona lekar?	Вона лікар?	li	0	0
+Šta je to?	Що це?	šta	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	što	0	0
+Ja nisam lekar.	Я не лікар.	ja	0	0
+Koji od vas će poći sa mnom?	Хто з вас піде зі мною?	sa	0	0
+Gde su viljuške?	Де виделки?	su	0	0
+Tom nije toliko daleko.	Том не так вже й далеко.	nije	0	0
+Ovo je moj konj.	Це мій кінь.	ovo	0	0
+Samo trenutak, molim.	Одну хвилинку, будь ласка.	samo	0	0
+Ti me razumeš.	Ти мене розумієш.	me	0	0
+Volim te.	Я тебе кохаю.	te	0	0
+Zavisi od situacije.	Залежить від ситуації.	od	0	0
+Mi o vuku, a vuk na vrata.	Про вовка промовка, а він і тут.	a	0	0
+Kako ide?	Як життя?	kako	0	0
+Mi o vuku, a vuk na vrata.	Про вовка промовка, а він і тут.	o	0	0
+Dobro došli.	Ласкаво просимо.	dobro	0	0
+Ja sve znam.	Я все знаю.	sve	0	0
+OK, dogovorili smo se.	Гаразд, домовилися.	smo	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	kao	0	0
+Koji studenti će raditi test?	Хто із студентів здаватиме іспит?	će	0	0
+Ne znam.	Я не знаю.	znam	0	0
+Ja nisam lekar.	Я не лікар.	nisam	0	0
+Ne mogu da živim bez televizora.	Я не можу жити без телевізора.	mogu	0	0
+Kako ste?	Як життя?	ste	0	0
+Kako je predivno ovde!	Як тут гарно!	ovde	0	0
+Gde si bio?	Де ти був?	bio	0	0
+Zašto sam još uvek ovde?	Чому я й досі тут?	zašto	0	0
+On voli pomorandže.	Він любить апельсини.	on	0	0
+Verujem da je Elvis još živ.	Я вірю, що Елвіс все ще живий.	još	0	0
+Čuješ li ti nešto?	Ти щось чуєш?	nešto	0	0
+Što je bilo dokazati.	Що й слід було довести.	bilo	0	0
+Mrzim da čekam u redu.	Я ненавиджу чекати в черзі.	redu	0	0
+Koji studenti će raditi test?	Хто із студентів здаватиме іспит?	koji	0	0
+Koji od vas će poći sa mnom?	Хто з вас піде зі мною?	vas	0	0
+Hvala!	Дякую!	hvala	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	iz	0	0
+Mislim da je Tom veoma pametan.	Я вважаю Тома дуже розумним.	mislim	0	0
+On ima velike plave oči.	Він має великі блакитні очі.	ima	0	0
+Sad ili nikad!	Тепер або ніколи.	ili	0	0
+Odakle znaš to?	Звідки ти це знаєш?	znaš	0	0
+Nisam više pio.	Більше я не пив.	više	0	0
+Koliko sati je sada u Londonu?	Котра зараз година в Лондоні?	sada	0	0
+Gde je hotel?	Де готель?	gde	0	0
+Пардон, да ли говорите енглески?	Пробачте, Ви говорите англійською?	да	0	0
+Petnaest do dva je.	Зараз чверть на другу.	do	0	0
+Treba mi čekić.	Мені потрібний молоток.	treba	0	0
+Moj muž uvek čita u krevetu.	Мій чоловік завжди читає в ліжку.	moj	0	0
+Ko je rekao da je život fer?	Хто сказав, що життя справедливе?	rekao	0	0
+To je bila lažna uzbuna.	Це була фальшива тривога.	bila	0	0
+Tom nema takve probleme.	У Тома такої проблеми немає.	nema	0	0
+Tom nije mogao da kaže ništa drugo.	Том більше нічого не міг сказати.	ništa	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	nas	0	0
+Ko je ostavio otvorena vrata?	Хто лишив двері відчиненими?	ko	0	0
+Ona plače.	Вона плаче.	ona	0	0
+Његов циљ је да постане адвокат.	Його мета — стати адвокатом.	је	0	0
+Pakao čeka na tebe.	Пекло чекає на тебе.	tebe	0	0
+Molim Vas prevedite ovaj japanski tekst u francuski.	Перекладіть цей японський текст на французьку, будь ласка.	molim	0	0
+Sad ili nikad!	Тепер або ніколи.	sad	0	0
+Marija ne može ni da čuje ni da vidi.	Марія не може ані чути, ані бачити.	ni	0	0
+Oni žive tamo.	Вони живуть там.	tamo	0	0
+Luk se može koristiti u skoro svim jelima.	Цибулю можна використовувати майже в усіх стравах.	može	0	0
+Imam glavobolju.	У мене болить голова.	imam	0	0
+Brinem se zbog Tomove bezbednosti.	Я стурбований безпекою Тома.	zbog	0	0
+Vi ste prosečni studenti.	Ви пересічні студенти.	vi	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	nam	0	0
+Želim da znam razlog.	Я хочу знати причину.	želim	0	0
+Hej Tome.	Привіт, Томе.	hej	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	jer	0	0
+Svi čekaju.	Усі чекають.	svi	0	0
+Bogati ljudi nisu uvek srećni.	Багаті люди не завжди щасливі.	ljudi	0	0
+Tom je star koliko i Meri.	Том такого ж віку, як і Мері.	koliko	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	već	0	0
+Živeo sam u Japanu pre tri godine.	Я жив у Японії три роки тому.	pre	0	0
+Ona je moja prva ljubav.	Вона моє перше кохання.	moja	0	0
+Bolje vrabac u ruci nego golub na grani.	Краще синиця в жмені, ніж журавель в небі.	nego	0	0
+Uvek držim prozor otvorenim dok spavam.	Я завжди тримаю вікно відчиненим, коли сплю.	dok	0	0
+Bogati ljudi nisu uvek srećni.	Багаті люди не завжди щасливі.	uvek	0	0
+Bez sumnje!	Без сумніву!	bez	0	0
+Da li imaš plan?	У тебе є план?	imaš	0	0
+Imam mnogo prijatelja.	В мене багато друзів.	mnogo	0	0
+Kako možemo da pomognemo?	Як ми можемо допомогти?	možemo	0	0
+Molim Vas prevedite ovaj japanski tekst u francuski.	Перекладіть цей японський текст на французьку, будь ласка.	ovaj	0	0
+Da li neko zna gde je Tom?	Хтось знає, де Том?	neko	0	0
+Oni kupuju povrće u supermarketu.	Вони купують овочі у супермаркеті.	oni	0	0
+Kakvo je danas vreme?	Яка сьогодні погода?	vreme	0	0
+Koliko puta si gledao taj fim?	Скільки разів ти дивився цей фільм?	taj	0	0
+Koja je tvoja krvna grupa?	Яка в тебе група крові?	koja	0	0
+Tvoj sam.	Я - твій.	tvoj	0	0
+Zima je moje omiljeno doba.	Зима — моя улюблена пора року.	moje	0	0
+Šta znači ova reč?	Що означає це слово?	znači	0	0
+Hej Tome.	Привіт, Томе.	tome	0	0
+Tražim posao.	Я шукаю роботу.	posao	0	0
+Sad ili nikad!	Тепер або ніколи.	nikad	0	0
+Bolje vrabac u ruci nego golub na grani.	Краще синиця в жмені, ніж журавель в небі.	bolje	0	0
+On ima trideset godina.	Йому тридцять років.	godina	0	0
+Imamo dva sina.	У нас двоє синів.	imamo	0	0
+Tom nije mogao da kaže ništa drugo.	Том більше нічого не міг сказати.	mogao	0	0
+Vidim lava.	Я бачу лева.	vidim	0	0
+Iga tenis svaki dan.	Він грає в теніс щодня.	dan	0	0
+Mama radi.	Мама працює.	radi	0	0
+Kako ona izgleda?	Як вона виглядає?	izgleda	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	bude	0	0
+Bili smo prilično srećni.	Ми були цілком задоволені.	bili	0	0
+Šta radiš?	Що робиш?	radiš	0	0
+Idem na plažu.	Я йду на пляж.	idem	0	0
+Mama radi.	Мама працює.	mama	0	0
+Не разумем вас.	Я вас не розумію.	не	0	0
+OK, dogovorili smo se.	Гаразд, домовилися.	ok	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	daj	0	0
+Ovo je moj tata.	Це мій тато.	tata	0	0
+Marija ne može ni da čuje ni da vidi.	Марія не може ані чути, ані бачити.	vidi	0	0
+Volim pse.	Я люблю собак.	volim	0	0
+Становништво села се смањило.	Населення села скоротилось.	се	0	0
+У почетку Бог је створио небо и Земљу.	На початку Бог створив Небо та землю.	у	0	0
+Znam da je život kratak.	Я знаю, що життя коротке.	život	0	0
+Živimo u kući.	Ми живемо в будинку.	kući	0	0
+У почетку Бог је створио небо и Земљу.	На початку Бог створив Небо та землю.	и	0	0
+Mačka ima dva uva.	Кішка має два вуха.	dva	0	0
+Bogati ljudi nisu uvek srećni.	Багаті люди не завжди щасливі.	nisu	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	danas	0	0
+Čak i dete zna to.	Навіть дитина це знає.	zna	0	0
+Koja je tvoja krvna grupa?	Яка в тебе група крові?	tvoja	0	0
+Tom nije toliko daleko.	Том не так вже й далеко.	toliko	0	0
+Kako se kaže...?	Як сказати ... ?	kaže	0	0
+Tom je video Meri.	Том бачив Мері.	video	0	0
+Živeo sam u Japanu pre tri godine.	Я жив у Японії три роки тому.	tri	0	0
+Ne želim da živim sa tobom.	Я не хочу жити з тобою.	tobom	0	0
+Čak i dete zna to.	Навіть дитина це знає.	čak	0	0
+Moje je ime Sali.	Моє ім'я — Саллі.	ime	0	0
+Nosorog je veoma velik.	Носоріг дуже великий.	veoma	0	0
+То је живот.	Це життя.	то	0	0
+Niko me ne zna u Bostonu.	У Бостоні мене ніхто не знає.	niko	0	0
+Bojim se za svoju decu.	Я боюся за своїх дітей.	svoju	0	0
+Žena jede hleb.	Жінка їсть хліб.	žena	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	tvoje	0	0
+Čekam na svoj red.	Я чекаю на свою чергу.	svoj	0	0
+Koji od vas će poći sa mnom?	Хто з вас піде зі мною?	mnom	0	0
+Život ide dalje.	Життя триває.	ide	0	0
+Дала сам Тому свој број.	Я дала Тому свій номер.	сам	0	0
+Radim u Milanu.	Я працюю в Мілані.	radim	0	0
+Leto je ove godine definitivno završeno.	Літо у цьому році вже точно закінчилось.	ove	0	0
+Postoji mnogo galaksija u univerzumu.	У всесвіті багато галактик.	postoji	0	0
+Nemam pojma.	Хтозна.	nemam	0	0
+Moj otac sluša klasičnu muziku.	Мій батько слухає класичну музику.	otac	0	0
+Čovek je čoveku vuk.	Людина людині вовк.	čovek	0	0
+Ja jedem puno mesa.	Я їм багато м'яса.	puno	0	0
+Koliko puta si gledao taj fim?	Скільки разів ти дивився цей фільм?	puta	0	0
+Živeo sam u Japanu pre tri godine.	Я жив у Японії три роки тому.	godine	0	0
+Tom jako dobro svira klavir.	Том дуже добре грає на піаніно.	jako	0	0
+Treba nam novac.	Нам потрібні гроші.	novac	0	0
+Sutra je Božić.	Завтра Різдво.	sutra	0	0
+Izvini?	Перепрошую?	izvini	0	0
+Život ide dalje.	Життя триває.	dalje	0	0
+Dajte mi drugi primer.	Наведіть мені інший приклад.	drugi	0	0
+Da li imate japansko pivo?	У вас є японське пиво?	imate	0	0
+Šta znači ova reč?	Що означає це слово?	ova	0	0
+Maja Keuc je dobra pevačica.	Майа Кеуц - добра співачка.	dobra	0	0
+Mi o vuku, a vuk na vrata.	Про вовка промовка, а він і тут.	vrata	0	0
+On ima nekoliko prijatelja.	У нього є кілька друзів.	nekoliko	0	0
+Verujem da je Elvis još živ.	Я вірю, що Елвіс все ще живий.	verujem	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	naš	0	0
+Ажурирао сам софтвер на најновију верзију.	Я оновив програмне забезпечення до останньої версії.	на	0	0
+Ja volim mog oca.	Я люблю свого батька.	mog	0	0
+Treba mi vaš potpis.	Мені потрібний ваш підпис.	vaš	0	0
+To nije teško raditi.	Це нескладно зробити.	teško	0	0
+Iga tenis svaki dan.	Він грає в теніс щодня.	svaki	0	0
+Ko će poći sa nama?	Хто піде з нами?	nama	0	0
+Ja sam protiv rata.	Я проти війни.	protiv	0	0
+Dete je podiglo mali kamen.	Дитина підібрала камінець.	mali	0	0
+Imali su samo jedno dete.	У них була лише одна дитина.	jedno	0	0
+Unutra smo.	Ми всередині.	unutra	0	0
+Шта читаш?	Що ти читаєш?	шта	0	0
+Tom kaže da je ovo apsurdno.	Том говорить, що це абсурд.	tom	0	0
+Tome, potrebna mi je tvoja pomoć.	Томе, мені потрібна твоя допомога.	pomoć	0	0
+On je napisao dve knjige.	Він написав дві книжки.	dve	0	0
+Где ти је другарица?	Де твоя подруга?	ти	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	naše	0	0
+Nekada je ovde bio veliki park.	Тут колись був великий парк.	veliki	0	0
+Нисам гласала за Тома.	Я не голосувала за Тома.	за	0	0
+Ми о вуку, а вук на врата.	Про вовка промовка, а він і тут.	ми	0	0
+Ne razumem vas.	Я вас не розумію.	razumem	0	0
+Pokazaću ti moj novi auto.	Я покажу тобі свою нову машину.	auto	0	0
+Imali su samo jedno dete.	Вони мали лише одну дитину.	imali	0	0
+Ko je izmislio radio?	Хто винайшов радіо?	radio	0	0
+Čak i dete zna to.	Навіть дитина це знає.	dete	0	0
+Да ли Том прича са својим биљкама?	Том розмовляє зі своїми рослинами?	ли	0	0
+12 je paran broj.	Дванадцять — це парне число.	broj	0	0
+Peremo ruke sa sapunom.	Ми миємо руки з милом.	ruke	0	0
+Ја имам две кћерке.	У мене є дві доньки.	ја	0	0
+Latinski je mrtav jezik.	Латинська — мертва мова.	mrtav	0	0
+To je duga priča.	Це довга історія.	priča	0	0
+Iz nekog razloga se uveče osećam življe.	З якоїсь причини, я почуваюся краще вночі.	nekog	0	0
+Како си?	Як справи?	си	0	0
+Pokazaću ti moj novi auto.	Я покажу тобі свою нову машину.	novi	0	0
+Gde si videla Toma?	Де ти бачила Тома?	videla	0	0
+Tom nije mogao da kaže ništa drugo.	Том більше нічого не міг сказати.	drugo	0	0
+On sedi na patosu i igra se sa svojim igračkama.	Він сидить на підлозі та грає своїми іграшками.	svojim	0	0
+Ti si moj prijatelj.	Ти мій друг.	prijatelj	0	0
+Šta žene žele?	Чого хочуть жінки?	žene	0	0
+Luk se može koristiti u skoro svim jelima.	Цибулю можна використовувати майже в усіх стравах.	skoro	0	0
+Ona govori poljski.	Вона розмовляє польською.	govori	0	0
+Idem nazad.	Я повертаюсь.	nazad	0	0
+On voli kafu.	Він любить каву.	voli	0	0
+Dobro došli.	Ласкаво просимо.	došli	0	0
+Srce bije.	Серце б'ється.	srce	0	0
+Važno je.	Це важливо.	važno	0	0
+Šargarepe koštaju tri dolara.	Морква коштує три долари.	dolara	0	0
+Dobro jutro!	Доброго ранку!	jutro	0	0
+Ja volim mog oca.	Я люблю свого батька.	oca	0	0
+Vraćam se uskoro.	Скоро повернуся.	uskoro	0	0
+Где је чај са млеком?	Де чай з молоком?	са	0	0
+Дали су јој име Алиса у част њене тетке.	Її назвали Алісою, на честь її тітки.	су	0	0
+Samo trenutak, molim.	Одну хвилинку, будь ласка.	trenutak	0	0
+Tom je bio Marijina prva ljubav.	Том був першим коханням Мері.	ljubav	0	0
+Koliko sati je sada u Londonu?	Котра зараз година в Лондоні?	sati	0	0
+Iz nekog razloga se uveče osećam življe.	З якоїсь причини, я почуваюся краще вночі.	osećam	0	0
+Halo.	Алло.	halo	0	0
+Spreman sam.	Я готовий.	spreman	0	0
+Ovo je lako.	Це легко.	lako	0	0
+Правда је спора, али достижна.	Правда повільна, але досяжна.	али	0	0
+Znam da je ovo čudno.	Я знаю, що це дивно.	čudno	0	0
+U gradovima, ograničenje brzine je 50 kilometara na sat.	У містах швидкість обмежена до 50 км/год.	sat	0	0
+Imaću bogatog čoveka.	Я хочу мати заможного чоловіка.	čoveka	0	0
+On ima velike plave oči.	Він має великі блакитні очі.	oči	0	0
+On sada živi u Tokiju.	Зараз він живе в Токіо.	živi	0	0
+Glavni grad Japana je Tokijo.	Столиця Японії - Токіо.	grad	0	0
+Mislim da to rade namerno.	Я думаю, вони це роблять навмисно.	rade	0	0
+Neko je u ovoj sobi.	У цій кімнаті хтось є.	ovoj	0	0
+On ima dvoje kola.	У нього дві машини.	kola	0	0
+Da li me voliš?	Ти мене кохаєш?	voliš	0	0
+On je moj brat.	Він мій брат.	brat	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	oprosti	0	0
+Nemamo izbora.	Ми не маємо вибору.	nemamo	0	0
+On ima dvoje kola.	У нього дві машини.	dvoje	0	0
+Odakle si?	Звідки ти?	odakle	0	0
+Bili smo prilično srećni.	Ми були цілком задоволені.	prilično	0	0
+Политика га није интересовала.	Політика його не цікавила.	није	0	0
+За што ти је потребан новац?	Навіщо тобі гроші?	што	0	0
+Koji studenti će raditi test?	Хто із студентів здаватиме іспит?	raditi	0	0
+Da li imaš plan?	У тебе є план?	plan	0	0
+Upomoć! Policija! Upomoć!	Допоможіть! Поліція! Допоможіть!	policija	0	0
+Imamo dva sina.	У нас двоє синів.	sina	0	0
+Nemam pojma.	Хтозна.	pojma	0	0
+Tom nije toliko daleko.	Том не так вже й далеко.	daleko	0	0
+Šta žene žele?	Чого хочуть жінки?	žele	0	0
+Šta znači ova reč?	Що означає це слово?	reč	0	0
+Научник је познат не само у Јапану, него и у другим земљама.	Учений відомий не тільки в Японії, але й у інших країнах.	само	0	0
+Ево кључа од мог стана.	Ось ключ від моєї квартири.	од	0	0
+Želim da znam razlog.	Я хочу знати причину.	razlog	0	0
+Политика га није интересовала.	Політика його не цікавила.	га	0	0
+Njen je otac Japanac.	Її батько - японець.	njen	0	0
+Ово је књига.	Це книга.	ово	0	0
+Neko je u ovoj sobi.	У цій кімнаті хтось є.	sobi	0	0
+Ми о вуку, а вук на врата.	Про вовка промовка, а він і тут.	а	0	0
+On ima nekoliko prijatelja.	У нього є кілька друзів.	prijatelja	0	0
+О чему мислиш?	Про що думаєш?	о	0	0
+Кад умрем, сахраните ме Тамо у могили Сред степе предивне На милој Украјини.	Як умру, то поховайте Мене на могилі, Серед степу широкого, На Вкраїні милій.	ме	0	0
+Zovem se Džek.	Мене звуть Джек.	zovem	0	0
+Tražim posao.	Я шукаю роботу.	tražim	0	0
+Deca spavaju.	Діти сплять.	deca	0	0
+On sedi na patosu i igra se sa svojim igračkama.	Він сидить на підлозі та грає своїми іграшками.	sedi	0	0
+Ne zaboravi da ugasiš svetlo!	Не забудь вимкнути світло!	zaboravi	0	0
+Govoriš li romski?	Ти говориш ромською мовою?	govoriš	0	0
+Ne govorim Klingonski jezik.	Я не розмовляю клінгонською.	govorim	0	0
+Dajte mi drugi primer.	Наведіть мені інший приклад.	dajte	0	0
+Bojim se za svoju decu.	Я боюся за своїх дітей.	decu	0	0
+Mrzim da čekam u redu.	Я ненавиджу чекати в черзі.	mrzim	0	0
+Da li ste svi spremni?	Ви всі готові?	spremni	0	0
+Волим те.	Я тебе кохаю.	те	0	0
+On sedi na patosu i igra se sa svojim igračkama.	Він сидить на підлозі та грає своїми іграшками.	igra	0	0
+Sviđaju mi se ovi šeširi.	Мені подобаються ці капелюхи.	ovi	0	0
+Sami nam je jedina nada.	Самі - наша єдина надія.	sami	0	0
+Moj muž uvek čita u krevetu.	Мій чоловік завжди читає в ліжку.	muž	0	0
+Bojim se za svoju decu.	Я боюся за своїх дітей.	bojim	0	0
+Како сте?	Як життя?	како	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	zemlji	0	0
+Добро. А ти?	Добре. А ти?	добро	0	0
+У сродству смо.	Ми родичі.	смо	0	0
+Ti me razumeš.	Ти мене розумієш.	razumeš	0	0
+On traži posao.	Він шукає роботу.	traži	0	0
+Ko je ostavio otvorena vrata?	Хто лишив двері відчиненими?	ostavio	0	0
+Sami nam je jedina nada.	Самі - наша єдина надія.	jedina	0	0
+On nije doktor.	Він не лікар.	doktor	0	0
+Čuješ li ti nešto?	Ти щось чуєш?	čuješ	0	0
+Iz nekog razloga se uveče osećam življe.	З якоїсь причини, я почуваюся краще вночі.	razloga	0	0
+Luk se može koristiti u skoro svim jelima.	Цибулю можна використовувати майже в усіх стравах.	svim	0	0
+Ona je moja prva ljubav.	Вона моє перше кохання.	prva	0	0
+Ако рано почнемо, можемо завршити до ручка.	Якщо ми рано почнемо, ми зможемо закінчити до обіду.	ако	0	0
+Ја све знам.	Я все знаю.	све	0	0
+Boli me grlo.	У мене болить горло.	boli	0	0
+Taksi čeka.	Таксі чекає.	čeka	0	0
+Молим вас да овде не фотографишете.	Будь ласка, не фотографуйте тут.	овде	0	0
+Како сте?	Як життя?	сте	0	0
+Večera je spremna!	Вечеря готова.	spremna	0	0
+Oni veruju u Boga.	Вони вірять у бога.	boga	0	0
+Smešno!	Cмiшно!	smešno	0	0
+Ne želim da idem u školu.	Я не хочу йти до школи.	školu	0	0
+On piše članke sa kompjuterom.	Це комп'ютер, на якому він пише свої статті.	piše	0	0
+Verujem da je Elvis još živ.	Я вірю, що Елвіс все ще живий.	živ	0	0
+Не тако брзо!	Не так швидко!	тако	0	0
+Ova je knjiga popularna među studentima.	Ця книга популярна серед студентів.	među	0	0
+Он игра голф.	Він грає у гольф.	он	0	0
+Jebi se!	Іди на хуй!	jebi	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	oče	0	0
+Čekam na svoj red.	Я чекаю на свою чергу.	red	0	0
+Nekad je cigara prosto cigara.	Іноді сигара - це просто сигара.	nekad	0	0
+On ima velike plave oči.	Він має великі блакитні очі.	velike	0	0
+Ne mogu da živim bez televizora.	Я не можу жити без телевізора.	živim	0	0
+Ne gledam televiziju.	Я не дивлюся телевізор.	gledam	0	0
+On ima veliku porodicu.	У нього велика сім'я.	porodicu	0	0
+To je čovek, kojeg dobro poznajem.	Це людина, яку я добре знаю.	kojeg	0	0
+Trebaju mi nove naočare.	Мені потрібні нові окуляри.	nove	0	0
+Tome, potrebna mi je tvoja pomoć.	Томе, мені потрібна твоя допомога.	potrebna	0	0
+Moj brat je od juče bolestan.	Мій брат хворий з учора.	juče	0	0
+To je čovek, kojeg dobro poznajem.	Це людина, яку я добре знаю.	poznajem	0	0
+Ја не знам шта је то.	Я не знаю, що це.	знам	0	0
+Kako se zoveš?	Як тебе звати?	zoveš	0	0
+Glavni grad Japana je Tokijo.	Столиця Японії - Токіо.	glavni	0	0
+Trebaju mi nove naočare.	Мені потрібні нові окуляри.	trebaju	0	0
+Vraćam se uskoro.	Скоро повернуся.	vraćam	0	0
+Непријатељ је био наоружан до зуба.	Ворог був озброєний до зубів.	био	0	0
+U nedomumici sam šta da radim, i potreban mi je savet.	Я в сумнівах, що робити. Потрібна порада.	potreban	0	0
+Hvala bogu.	Слава богу.	bogu	0	0
+Mrzim da čekam u redu.	Я ненавиджу чекати в черзі.	čekam	0	0
+On ima veliku porodicu.	У нього велика сім'я.	veliku	0	0
+У реду је.	Я в порядку.	реду	0	0
+On je otkrio novu zvezdu.	Він відкрив нову зірку.	novu	0	0
+Napisaću Tomu pismo.	Я напишу Тому лист.	pismo	0	0
+Imam ideju.	У мене є ідея.	ideju	0	0
+Gde je moja soba?	Де моя кімната?	soba	0	0
+Нисам је видео сто година.	Я її не бачив уже сто років.	нисам	0	0
+Kakvo je danas vreme?	Яка сьогодні погода?	kakvo	0	0
+Šta je veće, Sunce ili Zemlja?	Що більше - Сонце чи Земля?	zemlja	0	0
+Нико не може са сигурношћу да каже зашто се то догодило.	Ніхто не може сказати напевно, чому так трапилось.	зашто	0	0
+Tom je kupio novine.	Том купив газету.	kupio	0	0
+Zovem se Džek.	Мене звуть Джек.	džek	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	čast	0	0
+Tom nema takve probleme.	У Тома такої проблеми немає.	takve	0	0
+Прошле године у нас је било много снега.	Минулого року в нас було багато снігу.	било	0	0
+Nemamo izbora.	Ми не маємо вибору.	izbora	0	0
+Gde su naši kišobrani?	Де наші парасольки?	naši	0	0
+Imam knjigu.	У мене є книжка.	knjigu	0	0
+Nekada je ovde bio veliki park.	Тут колись був великий парк.	nekada	0	0
+Tom pije pivo.	Том п'є пиво.	pivo	0	0
+Koliko puta si gledao taj fim?	Скільки разів ти дивився цей фільм?	gledao	0	0
+Чујеш ли ти нешто?	Ти щось чуєш?	нешто	0	0
+Где је најдужи тунел у Јапану?	Де найдовший тонель в Японії?	где	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	našim	0	0
+Ja prodajem kafu.	Я продаю каву.	kafu	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	moć	0	0
+Не разумем вас.	Я вас не розумію.	вас	0	0
+Kornjače nemaju zube.	У черепах немає зубів.	nemaju	0	0
+Sutra je Božić.	Завтра Різдво.	božić	0	0
+To je užasno.	Це жахливо.	užasno	0	0
+Leto je ove godine definitivno završeno.	Літо у цьому році вже точно закінчилось.	definitivno	0	0
+Tom nema takve probleme.	У Тома такої проблеми немає.	probleme	0	0
+Ja imam prijatelje.	У мене є друзі.	prijatelje	0	0
+On je napisao dve knjige.	Він написав дві книжки.	knjige	0	0
+Ovo su korisne informacije.	Це корисна інформація.	informacije	0	0
+Oni žive tamo.	Вони живуть там.	žive	0	0
+Čekam mamu.	Я чекаю на маму.	mamu	0	0
+Она има украјинско држављанство.	У неї українське громадянство.	она	0	0
+Dajte mi drugi primer.	Наведіть мені інший приклад.	primer	0	0
+Da li imaš psa?	У тебе є собака?	psa	0	0
+Boli me glava.	У мене болить голова.	glava	0	0
+Slažem se.	Я згоден.	slažem	0	0
+Мислим да је она из Аустрије.	Гадаю, вона з Австрії.	мислим	0	0
+Ja sam protiv rata.	Я проти війни.	rata	0	0
+Желите ли чај или кафу?	Хочете чаю чи кави?	или	0	0
+Хвала.	Дякую!	хвала	0	0
+Nekad je cigara prosto cigara.	Іноді сигара - це просто сигара.	prosto	0	0
+Šta je veće, Sunce ili Zemlja?	Що більше - Сонце чи Земля?	sunce	0	0
+Ја сам из Кјота.	Я з Кіото.	из	0	0
+Ova je knjiga popularna među studentima.	Ця книга популярна серед студентів.	knjiga	0	0
+Треба ми кишобран.	Мені потрібна парасолька.	треба	0	0
+Danas je hladno.	Сьогодні холодно.	hladno	0	0
+Moj muž uvek čita u krevetu.	Мій чоловік завжди читає в ліжку.	krevetu	0	0
+Uvek držim prozor otvorenim dok spavam.	Я завжди тримаю вікно відчиненим, коли сплю.	prozor	0	0
+Непријатељ беше наоружан до зуба.	Ворог був озброєний до зубів.	до	0	0
+On je napisao dve knjige.	Він написав дві книжки.	napisao	0	0
+Udala se mlada.	Вона одружилася молодою.	mlada	0	0
+Ко је оставио отворена врата?	Хто лишив двері відчиненими?	ко	0	0
+To je veoma opasno.	Це дуже небезпечно.	opasno	0	0
+У већини случајева били смо принуђени да их уступимо онима којима су били потребнији.	У більшості випадків ми були вимушені поступитися їхнім вимогам.	их	0	0
+Она има много одеће.	В неї багато одягу.	има	0	0
+Brinem se zbog Tomove bezbednosti.	Я стурбований безпекою Тома.	brinem	0	0
+У свету је више од седам хиљада језика.	У свiтi бiльше нiж сiм тисяч мов.	више	0	0
+Meri je zaboravila da isključi svoj mikrofon.	Мері забула вимкнути свій мікрофон.	meri	0	0
+Tom je veoma pametan dečak.	Том дуже розумний хлопчик.	dečak	0	0
+Zima je moje omiljeno doba.	Зима — моя улюблена пора року.	doba	0	0
+Мој брат је од јуче болестан.	Мій брат хворий з учора.	мој	0	0
+Ovo je moj treći brak.	Це мій третій шлюб.	brak	0	0
+Normalno je.	Це нормально.	normalno	0	0
+Latinski je mrtav jezik.	Латинська — мертва мова.	jezik	0	0
+Koji studenti će raditi test?	Хто із студентів здаватиме іспит?	test	0	0
+Tom je veoma pametan dečak.	Том дуже розумний хлопчик.	pametan	0	0
+Meri je zaboravila da isključi svoj mikrofon.	Мері забула вимкнути свій мікрофон.	zaboravila	0	0
+Где ви живите?	Де ви живете?	ви	0	0
+Gde je hotel?	Де готель?	hotel	0	0
+Кад умрем, сахраните ме Тамо у могили Сред степе предивне На милој Украјини.	Як умру, то поховайте Мене на могилі, Серед степу широкого, На Вкраїні милій.	кад	0	0
+On ima kovrdžavu kosu.	В нього кучеряве волосся.	kosu	0	0
+Uvek držim prozor otvorenim dok spavam.	Я завжди тримаю вікно відчиненим, коли сплю.	spavam	0	0
+Прошле године у нас је било много снега.	Минулого року в нас було багато снігу.	нас	0	0
+Sumnjam.	Сумніваюсь.	sumnjam	0	0
+Moj brat je od juče bolestan.	Мій брат хворий з учора.	bolestan	0	0
+Кад умрем, сахраните ме Тамо у могили Сред степе предивне На милој Украјини.	Як умру, то поховайте Мене на могилі, Серед степу широкого, На Вкраїні милій.	тамо	0	0
+Olovka kojom pišem pripada Tomu.	Ручка, якою я пишу, належить Тому.	pripada	0	0
+Ја сам се пробудо прилично рано како бих стигао на први воз.	Я прокинувся досить рано, щоб встигнути на перший потяг.	бих	0	0
+Ona je trudna.	Вона вагітна.	trudna	0	0
+Zavisi od situacije.	Залежить від ситуації.	zavisi	0	0
+Uvek držim prozor otvorenim dok spavam.	Я завжди тримаю вікно відчиненим, коли сплю.	držim	0	0
+Da li govorite italijanski?	Ви говорите італійською?	govorite	0	0
+Ne zaboravi da ugasiš svetlo!	Не забудь вимкнути світло!	svetlo	0	0
+Gladan sam kao vuk.	Я голодний як вовк.	gladan	0	0
+Ovaj nož nije oštar.	Цей ніж не гострий.	nož	0	0
+Ljudi se bore gvožđem za zlato.	Люди б'ються залізом за золото.	zlato	0	0
+"Хвала." "Нема на чему."	"Дякую". — "Прошу".	нема	0	0
+Pakao čeka na tebe.	Пекло чекає на тебе.	pakao	0	0
+Tom je kupio novine.	Том купив газету.	novine	0	0
+Marija ne može ni da čuje ni da vidi.	Марія не може ані чути, ані бачити.	čuje	0	0
+Upomoć! Policija! Upomoć!	Допоможіть! Поліція! Допоможіть!	upomoć	0	0
+Нико не може са сигурношћу да каже зашто се то догодило.	Ніхто не може сказати напевно, чому так трапилось.	може	0	0
+Koja je tvoja krvna grupa?	Яка в тебе група крові?	grupa	0	0
+To je dobra škola.	Це хороша школа.	škola	0	0
+Спорт му се увек чинио лак.	Спорт завжди дається йому легко.	му	0	0
+Meri je veoma stidljiva devojčica.	Мері — дуже сором'язлива дівчинка.	devojčica	0	0
+On je otkrio novu zvezdu.	Він відкрив нову зірку.	otkrio	0	0
+Živimo u kući.	Ми живемо в будинку.	živimo	0	0
+U nedomumici sam šta da radim, i potreban mi je savet.	Я в сумнівах, що робити. Потрібна порада.	savet	0	0
+Živeo sam u Japanu pre tri godine.	Я жив у Японії три роки тому.	živeo	0	0
+Žena jede hleb.	Жінка їсть хліб.	jede	0	0
+Olovka kojom pišem pripada Tomu.	Ручка, якою я пишу, належить Тому.	kojom	0	0
+Tom je razumeo to.	Том це зрозумів.	razumeo	0	0
+Tom je star koliko i Meri.	Том такого ж віку, як і Мері.	star	0	0
+Taksi čeka.	Таксі чекає.	taksi	0	0
+Šta je veće, Sunce ili Zemlja?	Що більше - Сонце чи Земля?	veće	0	0
+Iz nekog razloga se uveče osećam življe.	З якоїсь причини, я почуваюся краще вночі.	uveče	0	0
+Молим вас да овде не фотографишете.	Будь ласка, не фотографуйте тут.	молим	0	0
+Ko je rekao da je život fer?	Хто сказав, що життя справедливе?	fer	0	0
+Bez sumnje!	Без сумніву!	sumnje	0	0
+Bob je moj drug.	Боб - мій друг.	bob	0	0
+Данас имам добар апетит.	В мене сьогодні гарний апетит.	имам	0	0
+Ona voli poeziju i muziku.	Вона любить поезію та музику.	muziku	0	0
+Riba je.	Це риба.	riba	0	0
+Svi čekaju.	Усі чекають.	čekaju	0	0
+Bogati ljudi nisu uvek srećni.	Багаті люди не завжди щасливі.	srećni	0	0
+Luk se može koristiti u skoro svim jelima.	Цибулю можна використовувати майже в усіх стравах.	koristiti	0	0
+Večera je spremna!	Вечеря готова.	večera	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Одна, дві, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	један	0	0
+Promenio sam se.	Я змінився.	promenio	0	0
+Dete je podiglo mali kamen.	Дитина підібрала камінець.	kamen	0	0
+Skini čarape.	Зніми шкарпетки.	skini	0	0
+Znam da nisam savršen.	Я знаю, що я недосконалий.	savršen	0	0
+Не желим месо.	Я не хочу м'яса.	желим	0	0
+Ovo je moj treći brak.	Це мій третій шлюб.	treći	0	0
+Kako je predivno ovde!	Як тут гарно!	predivno	0	0
+Jedem puno mesa.	Я їм багато м'яса.	jedem	0	0
+Људи желе мир.	Люди хочуть миру.	људи	0	0
+Tom mrzi strance.	Том ненавидить іноземців.	mrzi	0	0
+Добро увек побеђује зло.	Добро завжди перемагає зло.	увек	0	0
+Jabuka je pala sa drveta.	Яблуко впало з дерева.	pala	0	0
+Bolje vrabac u ruci nego golub na grani.	Краще синиця в жмені, ніж журавель в небі.	ruci	0	0
+Kornjače nemaju zube.	У черепах немає зубів.	zube	0	0
+Čovek je čoveku vuk.	Людина людині вовк.	čoveku	0	0
+А сад?	А зараз?	сад	0	0
+Да ли можеш да дођеш?	Можеш прийти?	можеш	0	0
+Nekada je ovde bio veliki park.	Тут колись був великий парк.	park	0	0
+Какво је данас време?	Яка сьогодні погода?	време	0	0
+To je duga priča.	Це довга історія.	duga	0	0
+Ово је моја жена Едита.	Це моя жінка Едита.	моја	0	0
+Ko je ostavio otvorena vrata?	Хто лишив двері відчиненими?	otvorena	0	0
+Da li je to ptica?	Це птах?	ptica	0	0
+Olovka je na pisaćem stolu.	Олівець на письмовому столі.	stolu	0	0
+Ovo je moj konj.	Це мій кінь.	konj	0	0
+Не краси место човека, већ човек место.	Не місце красить людину, а людину місце.	већ	0	0
+Sami nam je jedina nada.	Самі - наша єдина надія.	nada	0	0
+Здраво, Том. Добро јутро.	Привіт, Томе. Доброго ранку!	здраво	0	0
+Она има много одеће.	В неї багато одягу.	много	0	0
+Pokazaću ti moj novi auto.	Я покажу тобі свою нову машину.	pokazaću	0	0
+Ko će poći sa nama?	Хто піде з нами?	poći	0	0
+To je severni vetar.	Це північний вітер.	vetar	0	0
+О чему мислиш?	Про що думаєш?	мислиш	0	0
+Marija ne može ni da čuje ni da vidi.	Марія не може ані чути, ані бачити.	marija	0	0
+OK, dogovorili smo se.	Гаразд, домовилися.	dogovorili	0	0
+Gde živi tvoj ujak?	Де живе твій дядько?	ujak	0	0
+Човек без идеала је празан.	Людина без ідеалів - пуста.	без	0	0
+Olovka kojom pišem pripada Tomu.	Ручка, якою я пишу, належить Тому.	pišem	0	0
+Овај човек је пијан.	Цей чоловік п'яний.	овај	0	0
+Čiji je ovo rukopis?	Чий це почерк?	čiji	0	0
+U gradovima, ograničenje brzine je 50 kilometara na sat.	У містах швидкість обмежена до 50 км/год.	kilometara	0	0
+Научник је познат не само у Јапану, него и у другим земљама.	Учений відомий не тільки в Японії, але й у інших країнах.	него	0	0
+Ако рано почнемо, можемо завршити до ручка.	Якщо ми рано почнемо, ми зможемо закінчити до обіду.	можемо	0	0
+Tom mnogo pije.	Том багато п'є.	pije	0	0
+Udala se mlada.	Вона одружилася молодою.	udala	0	0
+Oni veruju u Boga.	Вони вірять у бога.	veruju	0	0
+Treba nam papir.	Нам потрібен папір.	papir	0	0
+Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	Як довго, Катиліно, будеш зловживати нашим терпінням?	ћеш	0	0
+У већини случајева били смо принуђени да их уступимо онима којима су били потребнији.	У більшості випадків ми були вимушені поступитися їхнім вимогам.	били	0	0
+Дали су јој име Алиса у част њене тетке.	Її назвали Алісою, на честь її тітки.	јој	0	0
+Bob je moj drug.	Боб - мій друг.	drug	0	0
+Luk se može koristiti u skoro svim jelima.	Цибулю можна використовувати майже в усіх стравах.	luk	0	0
+Kako možemo da pomognemo?	Як ми можемо допомогти?	pomognemo	0	0
+Pevali su havajske pesme.	Вони співали гавайські пісні.	pesme	0	0
+Nosorog je veoma velik.	Носоріг дуже великий.	velik	0	0
+Psi su pametni.	Собаки розумні.	psi	0	0
+Mislim da to rade namerno.	Я думаю, вони це роблять навмисно.	namerno	0	0
+Moje je ime Sali.	Мене звати Саллі.	sali	0	0
+Mnogo je lepih parkova u Londonu.	В Лондоні багато гарних парків.	londonu	0	0
+Moj otac sluša klasičnu muziku.	Мій батько слухає класичну музику.	sluša	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	dovodi	0	0
+Телевизор не ради.	Телевізор не працює.	ради	0	0
+Zarađujem 100 evra dnevno.	Я заробляю 100 євро на день.	dnevno	0	0
+Проблем је у томе што је сунчева енергија прескупа.	Проблема в тому, що сонячна енергія занадто дорога.	томе	0	0
+Na plaži sam.	Я на пляжі.	plaži	0	0
+Što je bilo dokazati.	Що й слід було довести.	dokazati	0	0
+To je mačka.	Це кішка.	mačka	0	0
+То је моје.	Це моє.	моје	0	0
+Ko je pojeo sve kolačiće?	Хто з'їв усе печиво?	pojeo	0	0
+Promenila sam se.	Я змінилася.	promenila	0	0
+Имаш ли креде?	У тебе є крейда?	имаш	0	0
+Треба ми твој потпис.	Мені потрібний твій підпис.	твој	0	0
+Он се плаши мора.	Він боїться моря.	мора	0	0
+Боље врабац у руци, него голуб на грани.	Краще синиця в жмені, ніж журавель в небі.	боље	0	0
+Можете ли да ми додате со?	Чи могли б ви передати сіль?	можете	0	0
+Molim Vas prevedite ovaj japanski tekst u francuski.	Перекладіть цей японський текст на французьку, будь ласка.	francuski	0	0
+Čija je ovo gitara?	Чия це гітара?	čija	0	0
+Нисам је видео сто година.	Я її не бачив уже сто років.	година	0	0
+Која је твоја крвна група?	Яка в тебе група крові?	која	0	0
+Ovo je moj kompjuter.	Це мій комп'ютер.	kompjuter	0	0
+Jedem puno mesa.	Я їм багато м'яса.	mesa	0	0
+Тражим посао.	Я шукаю роботу.	посао	0	0
+Svila je skupa.	Шовк дорогий.	skupa	0	0
+Често идем у иностранство.	Я часто їжджу за кордон.	идем	0	0
+Volim pse.	Я люблю собак.	pse	0	0
+Kafa je hladna.	Кава холодна.	kafa	0	0
+Šta čitaš?	Що читаєш?	čitaš	0	0
+Срећан Међународни Дан Жена!	З Міжнародним жіночим днем!	дан	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Раз, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	два	0	0
+Sviđaju mi se ovi šeširi.	Мені подобаються ці капелюхи.	sviđaju	0	0
+To je moj omiljeni projekat.	Це мій улюблений проект.	projekat	0	0
+Ljudi se bore gvožđem za zlato.	Люди б'ються залізом за золото.	bore	0	0
+To je moj omiljeni projekat.	Це мій улюблений проект.	omiljeni	0	0
+On igra golf.	Він грає у гольф.	golf	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	nebu	0	0
+Данас имам добар апетит.	В мене сьогодні гарний апетит.	добар	0	0
+Nisam više pio.	Більше я не пив.	pio	0	0
+Не краси место човека, већ човек место.	Не місце красить людину, а людину місце.	човек	0	0
+On ima dva automobila.	У нього дві машини.	automobila	0	0
+U Grčkoj ima puno ostrva.	В Греції багато островів.	ostrva	0	0
+Nisam učitelj.	Я не вчитель.	učitelj	0	0
+Ево кључа од мог стана.	Ось ключ від моєї квартири.	ево	0	0
+Bogati ljudi nisu uvek srećni.	Багаті люди не завжди щасливі.	bogati	0	0
+Дај ми хиљаду пољубаца.	Дай мені тисячу поцілунків.	дај	0	0
+Tom jako dobro svira klavir.	Том дуже добре грає на піаніно.	svira	0	0
+То је живот.	Це життя.	живот	0	0
+Jabuka je pala sa drveta.	Яблуко впало з дерева.	drveta	0	0
+Нисам је видео сто година.	Я її не бачив уже сто років.	видео	0	0
+Leto je ove godine definitivno završeno.	Літо у цьому році вже точно закінчилось.	leto	0	0
+Ona plače.	Вона плаче.	plače	0	0
+Данас имам добар апетит.	Сьогодні я маю добрий апетит.	данас	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	три	0	0
+Волим тенис.	Я люблю теніс.	волим	0	0
+Tom peva.	Том співає.	peva	0	0
+Ја сам веома гладан.	Я дуже голодний.	веома	0	0
+Da li je ona lekar?	Вона лікар?	lekar	0	0
+Žena jede hleb.	Жінка їсть хліб.	hleb	0	0
+Нико није савршен.	Ніхто не досконалий.	нико	0	0
+Imam dve ćerke.	У мене є дві доньки.	ćerke	0	0
+Učim nekoliko jezika.	Я вивчаю кілька мов.	učim	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	volja	0	0
+Дао сам Тому свој број.	Я дав Тому свій номер.	свој	0	0
+Moj muž uvek čita u krevetu.	Мій чоловік постійно читає у ліжку.	čita	0	0
+Trebaju mi nove naočare.	Мені потрібні нові окуляри.	naočare	0	0
+Он уопште не зна француски.	Він зовсім не знає французької.	зна	0	0
+Која је твоја крвна група?	Яка в тебе група крові?	твоја	0	0
+Ti to zaslužuješ.	Ти на це заслуговуєш.	zaslužuješ	0	0
+Како се каже то на италијанском?	Як це сказати італійською?	каже	0	0
+Usamljenost je bila užasna.	Самотність була жахливою.	užasna	0	0
+Boli me grlo.	В мене болить горло.	grlo	0	0
+Umeš li da žongliraš?	Ти вмієш жонглювати?	umeš	0	0
+On obožava fudbal.	Він обожнює футбол.	fudbal	0	0
+On ima trideset godina.	Йому тридцять років.	trideset	0	0
+Meri je zaboravila da isključi svoj mikrofon.	Мері забула вимкнути свій мікрофон.	isključi	0	0
+Дали су јој име Алиса у част њене тетке.	Її назвали Алісою, на честь її тітки.	име	0	0
+Treba mi vaš potpis.	Мені потрібний ваш підпис.	potpis	0	0
+Данас је лепо време.	Сьогодні гарна погода.	лепо	0	0
+Znam da je život kratak.	Я знаю, що життя коротке.	kratak	0	0
+Ја сам се пробудо прилично рано како бих стигао на први воз.	Я прокинувся досить рано, щоб встигнути на перший потяг.	први	0	0
+Ko je izmislio radio?	Хто винайшов радіо?	izmislio	0	0
+Имате ли пиво?	У вас є пиво?	имате	0	0
+Радим у Аустралији.	Я працюю в Австралії.	радим	0	0
+Govori tiše.	Розмовляй тихіше.	tiše	0	0
+Zavisi od situacije.	Залежить від ситуації.	situacije	0	0
+Не краси место човека, већ човек место.	Не місце красить людину, а людину місце.	место	0	0
+Срећан Међународни Дан Жена!	З Міжнародним жіночим днем!	жена	0	0
+Čovek je čoveku vuk.	Людина людині вовк.	vuk	0	0
+Хоћу да се купам у мору.	Я хочу купатись в морі.	хоћу	0	0
+Mislim da sam debela.	Мені здається, я гладка.	debela	0	0
+Deca spavaju.	Діти сплять.	spavaju	0	0
+Mraz.	Мороз.	mraz	0	0
+Где је ваш друг?	Де ваш друг?	ваш	0	0
+Ne otvaraj prozor.	Не відчиняй вікно.	otvaraj	0	0
+Дајте ми други пример.	Наведіть мені інший приклад.	други	0	0
+Kafa je hladna.	Кава холодна.	hladna	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	amen	0	0
+Francuska je u Zapadnoj Evropi.	Франція знаходиться в Західній Європі.	francuska	0	0
+Не познајем никога од њих.	Я нікого з них не знаю.	њих	0	0
+Leto je ove godine definitivno završeno.	Літо у цьому році вже точно закінчилось.	završeno	0	0
+On ima velike plave oči.	У нього великі блакитні очі.	plave	0	0
+Brinem se zbog Tomove bezbednosti.	Я стурбований безпекою Тома.	bezbednosti	0	0
+Psi su pametni.	Собаки розумні.	pametni	0	0
+Maja Keuc je dobra pevačica.	Майа Кеуц - добра співачка.	maja	0	0
+Skini čarape.	Зніми шкарпетки.	čarape	0	0
+Не тако брзо!	Не так швидко!	брзо	0	0
+To je bila lažna uzbuna.	Це була фальшива тривога.	lažna	0	0
+Река која тече кроз Париз назива се Сена.	Річка, що тече через Париж, називається Сена.	кроз	0	0
+Molim Vas prevedite ovaj japanski tekst u francuski.	Перекладіть цей японський текст на французьку, будь ласка.	tekst	0	0
+Šifra je "Mjurijel".	Пароль — «Muiriel».	šifra	0	0
+"Хвала." "Нема на чему."	«Дякую», — «Нема за що».	чему	0	0
+Верујем у астрологију.	Я вірю в астрологію.	верујем	0	0
+Ко је оставио отворена врата?	Хто лишив двері відчиненими?	врата	0	0
+Прошле године у нас је било много снега.	Минулого року в нас було багато снігу.	године	0	0
+To je bila lažna uzbuna.	Це була фальшива тривога.	uzbuna	0	0
+Moj otac je nastavnik Engleskog.	Мій батько - викладач англійської.	engleskog	0	0
+Francuska je u Zapadnoj Evropi.	Франція знаходиться в Західній Європі.	evropi	0	0
+Prodajem kafu.	Я продаю каву.	prodajem	0	0
+Сутра је Божић.	Завтра Різдво.	сутра	0	0
+Učim nekoliko jezika.	Я вивчаю кілька мов.	jezika	0	0
+Желите ли чај или кафу?	Хочете чаю чи кави?	желите	0	0
+Јапански језик је наш матерњи језик.	Японська - наша рідна мова.	наш	0	0
+Gde je Lori?	Де Лорі?	lori	0	0
+Petnaest do dva je.	Зараз чверть на другу.	petnaest	0	0
+Bio sam u Rimu.	Я був у Римі.	rimu	0	0
+Gde si videla Toma?	Де ти бачила Тома?	toma	0	0
+За што ти је потребан новац?	Навіщо тобі гроші?	новац	0	0
+Tom jako dobro svira klavir.	Том дуже добре грає на піаніно.	klavir	0	0
+Idem na plažu.	Я йду на пляж.	plažu	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	carstvo	0	0
+Bliži se fantastična norveška jesen.	Наближається фантастична норвезька осінь.	bliži	0	0
+On obožava fudbal.	Він обожнює футбол.	obožava	0	0
+Проблем је у томе што је сунчева енергија прескупа.	Проблема в тому, що сонячна енергія занадто дорога.	проблем	0	0
+Zovem se Seli.	Мене звати Саллі.	seli	0	0
+Imaću bogatog čoveka.	Я хочу мати заможного чоловіка.	imaću	0	0
+Tom se smeje Meri.	Том сміється над Мері.	smeje	0	0
+Ево кључа од мог стана.	Ось ключ від моєї квартири.	мог	0	0
+Не разумем вас.	Я вас не розумію.	разумем	0	0
+Napisaću Tomu pismo.	Я напишу Тому лист.	tomu	0	0
+Slep sam.	Я сліпий.	slep	0	0
+Ne treba mi zaštita.	Мені не потрібен захист.	zaštita	0	0
+Она има две сестре.	У неї дві сестри.	две	0	0
+Маја Кеуц је добра певачица.	Майа Кеуц - добра співачка.	добра	0	0
+Čiji je ovo rukopis?	Чий це почерк?	rukopis	0	0
+То је његов ауто.	Це його машина.	његов	0	0
+Ona je doktorka.	Вона лікар.	doktorka	0	0
+On je otkrio novu zvezdu.	Він відкрив нову зірку.	zvezdu	0	0
+U gradovima, ograničenje brzine je 50 kilometara na sat.	У містах швидкість обмежена до 50 км/год.	brzine	0	0
+Jabuka je pala sa drveta.	Яблуко впало з дерева.	jabuka	0	0
+Žurim.	Я поспішаю.	žurim	0	0
+Glasnije, molim.	Гучніше, будь ласка.	glasnije	0	0
+Mislim da sam debeo.	Мені здається, я гладкий.	debeo	0	0
+Zima je moje omiljeno doba.	Зима — моя улюблена пора року.	zima	0	0
+Zima je moje omiljeno doba.	Зима — моя улюблена пора року.	omiljeno	0	0
+Да ли Том прича са својим биљкама?	Том розмовляє зі своїми рослинами?	својим	0	0
+Subota je.	Сьогодні субота.	subota	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Раз, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	пет	0	0
+Zarađujem 100 evra dnevno.	Я заробляю 100 євро на день.	evra	0	0
+Дао сам Тому свој број.	Я дав Тому свій номер.	број	0	0
+Да ли Том једе рибу?	Том їсть рибу?	том	0	0
+Ona je plavuša.	Вона блондинка.	plavuša	0	0
+Он говори француски.	Він говорить французькою.	говори	0	0
+Pamtim.	Я пам'ятаю.	pamtim	0	0
+Prosečni ste studenti.	Ви пересічні студенти.	studenti	0	0
+Дао сам Тому свој број.	Я дав Тому свій номер.	дао	0	0
+Treba mi čekić.	Мені потрібний молоток.	čekić	0	0
+Žedan sam.	Я хочу пити.	žedan	0	0
+Хоће ли он стићи на воз?	Чи встигне він на поїзд?	хоће	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	nebesima	0	0
+Meri je zaboravila da isključi svoj mikrofon.	Мері забула вимкнути свій мікрофон.	mikrofon	0	0
+Где је ваша другарица?	Де ваша подруга?	ваша	0	0
+Oni kupuju povrće u supermarketu.	Вони купують овочі у супермаркеті.	povrće	0	0
+Не краси место човека, већ човек место.	Не місце красить людину, а людину місце.	човека	0	0
+Oni kupuju povrće u supermarketu.	Вони купують овочі у супермаркеті.	kupuju	0	0
+Vidim lava.	Я бачу лева.	lava	0	0
+Нови коронавирус је веома заразан.	Новий коронавірус дуже заразний.	нови	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	slavi	0	0
+Шта желе жене?	Чого хочуть жінки?	жене	0	0
+Да ли Том прича са својим биљкама?	Том розмовляє зі своїми рослинами?	прича	0	0
+Imam glavobolju.	У мене болить голова.	glavobolju	0	0
+Tom radi noćnu smenu.	Том працює в нічну зміну.	smenu	0	0
+Tom je spremio omlet.	Том зробив омлет.	spremio	0	0
+Sačekaću.	Я почекаю.	sačekaću	0	0
+Ne gledam televiziju.	Я не дивлюся телевізор.	televiziju	0	0
+Деца су цвеће нашег живота.	Діти — квіти нашого життя.	живота	0	0
+Ја сам се пробудо прилично рано како бих стигао на први воз.	Я прокинувся досить рано, щоб встигнути на перший потяг.	прилично	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Раз, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	четири	0	0
+Mnogo je lepih parkova u Londonu.	В Лондоні багато гарних парків.	lepih	0	0
+Сами је наша једина нада.	Самі - наша єдина надія.	наша	0	0
+Tom nije ekspert.	Том не експерт.	ekspert	0	0
+Он уопште не зна француски.	Він зовсім не знає французької.	уопште	0	0
+Tom kaže da je ovo apsurdno.	Том говорить, що це абсурд.	apsurdno	0	0
+Ubeđen sam.	Я переконана.	ubeđen	0	0
+Bliži se fantastična norveška jesen.	Наближається фантастична норвезька осінь.	fantastična	0	0
+Slepa sam.	Я сліпа.	slepa	0	0
+Molim Vas prevedite ovaj japanski tekst u francuski.	Перекладіть цей японський текст на французьку, будь ласка.	japanski	0	0
+Спреман сам.	Я готовий.	спреман	0	0
+Moj otac je nastavnik Engleskog.	Мій батько - викладач англійської.	nastavnik	0	0
+Iga tenis svaki dan.	Він грає в теніс щодня.	tenis	0	0
+Tom radi noćnu smenu.	Том працює в нічну зміну.	noćnu	0	0
+Bliži se fantastična norveška jesen.	Наближається фантастична норвезька осінь.	jesen	0	0
+У свету је више од седам хиљада језика.	У свiтi бiльше нiж сiм тисяч мов.	свету	0	0
+То је његов ауто.	Це його машина.	ауто	0	0
+Piši razumljivo!	Пиши зрозуміло!	razumljivo	0	0
+Skinula sam periku.	Я зняла перуку.	skinula	0	0
+Здраво, Том. Добро јутро.	Привіт, Томе. Доброго ранку!	јутро	0	0
+To je izdaja.	Це зрада.	izdaja	0	0
+У почетку Бог је створио небо и Земљу.	На початку Бог створив Небо та землю.	бог	0	0
+Срећан рођендан!	З днем народження!	срећан	0	0
+Kako ponižavajuće!	Як принизливо!	ponižavajuće	0	0
+To je bio košmar.	То був кошмар.	košmar	0	0
+Ljudi treba da prestanu sa mržnjom.	Люди повинні перестати ненавидіти.	prestanu	0	0
+Niko me ne zna u Bostonu.	У Бостоні мене ніхто не знає.	bostonu	0	0
+Београд је главни град Србије.	Белград — це столиця Сербії.	град	0	0
+Počeću.	Я почну.	počeću	0	0
+Afrika je kolevka čovečanstva.	Африка є колискою людства.	čovečanstva	0	0
+Он има велике плаве очи.	Він має великі блакитні очі.	очи	0	0
+Piši razumljivo!	Пиши зрозуміло!	piši	0	0
+Знам да је ово чудно.	Я знаю, що це дивно.	чудно	0	0
+Živeo sam u Japanu pre tri godine.	Я жив у Японії три роки тому.	japanu	0	0
+Нико не може са сигурношћу да каже зашто се то догодило.	Ніхто не може сказати напевно, чому так трапилось.	догодило	0	0
+Govoriš li Italijanski?	Ти говориш італійською?	italijanski	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	шест	0	0
+То је моја идеја.	Це моя ідея.	идеја	0	0
+Zarađujem 100 evra dnevno.	Я заробляю 100 євро на день.	zarađujem	0	0
+Ovo je moj računar.	Це мій комп'ютер.	računar	0	0
+Ovaj nož nije oštar.	Цей ніж не гострий.	oštar	0	0
+Где је ваш брат?	Де ваш брат?	брат	0	0
+On je Francuz.	Він француз.	francuz	0	0
+Он има двоје кола.	У нього дві машини.	кола	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	iskušenje	0	0
+Afrika je kolevka čovečanstva.	Африка є колискою людства.	afrika	0	0
+Књига је мала.	Книжка маленька.	мала	0	0
+Postoji mnogo galaksija u univerzumu.	У всесвіті багато галактик.	univerzumu	0	0
+Пролетери свих земаља, уједините се!	Пролетарі всіх країн, єднайтеся!	свих	0	0
+Шта желе жене?	Чого хочуть жінки?	желе	0	0
+Ova je knjiga popularna među studentima.	Ця книга популярна серед студентів.	popularna	0	0
+У овој соби је телевизор.	У цій кімнаті є телевізор.	овој	0	0
+To me ne iznenađuje.	Це мене не дивує.	iznenađuje	0	0
+Francuska je u Zapadnoj Evropi.	Франція знаходиться в Західній Європі.	zapadnoj	0	0
+Ona voli poeziju i muziku.	Вона любить поезію та музику.	poeziju	0	0
+Ko je pojeo sve kolačiće?	Хто з'їв усе печиво?	kolačiće	0	0
+Verujem da je Elvis još živ.	Я вірю, що Елвіс все ще живий.	elvis	0	0
+Деца су цвеће нашег живота.	Діти — квіти нашого життя.	деца	0	0
+Ми немамо Папу!	У нас немає Папи Римського!	немамо	0	0
+Овде и овога часа.	Тут та зараз.	овога	0	0
+Nisam prorok.	Я не пророк.	prorok	0	0
+Он има двоје кола.	У нього дві машини.	двоје	0	0
+Mi o vuku, a vuk na vrata.	Про вовка промовка, а він і тут.	vuku	0	0
+У овој соби је телевизор.	У цій кімнаті є телевізор.	соби	0	0
+Uvek držim prozor otvorenim dok spavam.	Я завжди тримаю вікно відчиненим, коли сплю.	otvorenim	0	0
+Tom je mehaničar.	Том — механік.	mehaničar	0	0
+Он игра голф.	Він грає у гольф.	игра	0	0
+Kornjače nemaju zube.	Черепахи не мають зубів.	kornjače	0	0
+Olovka je na pisaćem stolu.	Олівець лежить на письмовому столі.	olovka	0	0
+Зовем се Саша.	Мене звати Саша.	зовем	0	0
+To je severni vetar.	Це північний вітер.	severni	0	0
+Tom jede jabuku.	Том їсть яблуко.	jabuku	0	0
+Сами је наша једина нада.	Самі - наша єдина надія.	сами	0	0
+Šargarepe koštaju tri dolara.	Морква коштує три долари.	koštaju	0	0
+On je pevač.	Він співак.	pevač	0	0
+Sve je mnogo jednostavnije.	Все набагато простіше.	jednostavnije	0	0
+Често постављам питања.	Я часто ставлю запитання.	питања	0	0
+Koja je tvoja krvna grupa?	Яка в тебе група крові?	krvna	0	0
+Чујеш ли ти нешто?	Ти щось чуєш?	чујеш	0	0
+Srce bije.	Серце б'ється.	bije	0	0
+U gradovima, ograničenje brzine je 50 kilometara na sat.	У містах швидкість обмежена до 50 км/год.	gradovima	0	0
+Дајте ми други пример.	Наведіть мені інший приклад.	дајте	0	0
+Tom je spremio omlet.	Том зробив омлет.	omlet	0	0
+Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	Як довго, Катиліно, будеш зловживати нашим терпінням?	нашу	0	0
+У почетку Бог је створио небо и Земљу.	На початку Бог створив Небо та землю.	земљу	0	0
+Nekad je cigara prosto cigara.	Іноді сигара - це просто сигара.	cigara	0	0
+Glavni grad Japana je Tokijo.	Столиця Японії - Токіо.	japana	0	0
+Da li voliš kostime?	Ти любиш костюми?	kostime	0	0
+Postoji mnogo galaksija u univerzumu.	У всесвіті багато галактик.	galaksija	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Раз, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	десет	0	0
+Ко је оставио отворена врата?	Хто лишив двері відчиненими?	оставио	0	0
+Imam rečnik.	Я маю словник.	rečnik	0	0
+Latinski je mrtav jezik.	Латинська — мертва мова.	latinski	0	0
+Skinula sam periku.	Я зняла перуку.	periku	0	0
+Мој брат је од јуче болестан.	Мій брат хворий з учора.	јуче	0	0
+Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	Як довго, Катиліно, будеш зловживати нашим терпінням?	коначно	0	0
+Italija nije Grčka.	Італія не Греція.	italija	0	0
+Tom mrzi strance.	Том ненавидить іноземців.	strance	0	0
+Govoriš li grčki?	Ти говориш грецькою?	grčki	0	0
+Мрзим комарце.	Ненавиджу комарів.	мрзим	0	0
+Сами је наша једина нада.	Самі - наша єдина надія.	једина	0	0
+Napisaću Tomu pismo.	Я напишу Тому лист.	napisaću	0	0
+Деца су цвеће нашег живота.	Діти — квіти нашого життя.	нашег	0	0
+Ко рано рани, две среће граби.	Хто рано встає, тому бог дає.	среће	0	0
+Тражим посао.	Я шукаю роботу.	тражим	0	0
+Meri je veoma stidljiva devojčica.	Мері — дуже сором'язлива дівчинка.	stidljiva	0	0
+Ona je pevačica.	Вона співачка.	pevačica	0	0
+Imaću bogatog čoveka.	Я хочу мати заможного чоловіка.	bogatog	0	0
+Лав је краљ џунгле.	Лев - король джунглів.	краљ	0	0
+Ljudi greše.	Люди помиляються.	greše	0	0
+Не познајем никога од њих.	Я нікого з них не знаю.	никога	0	0
+Нисам је видео сто година.	Я її не бачив уже сто років.	сто	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	izbavi	0	0
+Месец сија.	Місяць сяє.	месец	0	0
+У свету је више од седам хиљада језика.	У свiтi бiльше нiж сiм тисяч мов.	седам	0	0
+Krvarim.	Я сходжу кров'ю.	krvarim	0	0
+Barak Obama je hrišćanin.	Барак Обама християнин.	hrišćanin	0	0
+Помози ми!	Допоможи мені!	помози	0	0
+Tokio je glavni grad Japana.	Токіо — столиця Японії.	tokio	0	0
+Часопис "Лук" је престао да излази.	Журнал "Look" вже не виходить.	излази	0	0
+Čija je ovo gitara?	Чия це гітара?	gitara	0	0
+Често постављам питања.	Я часто ставлю запитання.	често	0	0
+Parlament je raspušten.	Парламент було розпущено.	parlament	0	0
+Чији је ред?	Чия черга?	ред	0	0
+Београд је главни град Србије.	Белград — це столиця Сербії.	главни	0	0
+On piše članke sa kompjuterom.	Це комп'ютер, на якому він пише свої статті.	članke	0	0
+Прошле године у нас је било много снега.	Минулого року в нас було багато снігу.	прошле	0	0
+Потребан ми је кишобран.	Мені потрібна парасолька.	потребан	0	0
+Bolje vrabac u ruci nego golub na grani.	Краще синиця в жмені, ніж журавель в небі.	golub	0	0
+On sada živi u Tokiju.	Зараз він живе в Токіо.	tokiju	0	0
+Говориш ли ромски?	Ти говориш ромською мовою?	говориш	0	0
+Не пиј воду.	Не пий воду.	воду	0	0
+Niko nije besmrtan.	Ніхто не безсмертний.	besmrtan	0	0
+Кажи!	Кажи!	кажи	0	0
+Мајку се допада да игра кошарку.	Майку подобається грати у баскетбол.	мајку	0	0
+Сезона киша почиње у јуну.	Сезон дощів розпочинаєтсья у червні.	почиње	0	0
+Vidim ružu.	Я бачу троянду.	ružu	0	0
+Он има велике плаве очи.	Він має великі блакитні очі.	велике	0	0
+Желите ли чај или кафу?	Хочете чаю чи кави?	кафу	0	0
+Маркус је постао узурпатор.	Маркус став узурпатором.	постао	0	0
+Ово је моја земља.	Це моя країна.	земља	0	0
+Ova je knjiga popularna među studentima.	Ця книга популярна серед студентів.	studentima	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Одна, дві, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	осам	0	0
+Pevali su havajske pesme.	Вони співали гавайські пісні.	pevali	0	0
+Срећан рођендан!	З днем народження!	рођендан	0	0
+U Grčkoj ima puno ostrva.	В Греції багато островів.	grčkoj	0	0
+Gde je votka?	Де горілка?	votka	0	0
+Ја сам се пробудо прилично рано како бих стигао на први воз.	Я прокинувся досить рано, щоб встигнути на перший потяг.	стигао	0	0
+Дали су јој име Алиса у част њене тетке.	Її назвали Алісою, на честь її тітки.	дали	0	0
+Italija nije Grčka.	Італія не Греція.	grčka	0	0
+Научник је познат не само у Јапану, него и у другим земљама.	Учений відомий не тільки в Японії, але й у інших країнах.	другим	0	0
+Radim u Milanu.	Я працюю в Мілані.	milanu	0	0
+Barak Obama je hrišćanin.	Барак Обама християнин.	obama	0	0
+Usamljenost je bila užasna.	Самотність була жахливою.	usamljenost	0	0
+Volim jezike.	Я люблю мови.	jezike	0	0
+Дали су јој име Алиса у част њене тетке.	Її назвали Алісою, на честь її тітки.	част	0	0
+Где је моја соба?	Де моя кімната?	соба	0	0
+Ja nisam ćelav.	Я не лисий.	ćelav	0	0
+On sedi na patosu i igra se sa svojim igračkama.	Він сидить на підлозі та грає своїми іграшками.	igračkama	0	0
+Pucaću.	Я стрілятиму.	pucaću	0	0
+Браво!	Браво!	браво	0	0
+Не познајем никога од њих.	Я нікого з них не знаю.	познајем	0	0
+Сутра је Божић.	Завтра Різдво.	божић	0	0
+On voli pomorandže.	Він любить апельсини.	pomorandže	0	0
+Дали су јој име Алиса у част њене тетке.	Її назвали Алісою, на честь її тітки.	њене	0	0
+Ona govori poljski.	Вона розмовляє польською.	poljski	0	0
+Вода је живот.	Вода - це життя.	вода	0	0
+Дајте ми други пример.	Наведіть мені інший приклад.	пример	0	0
+Tom je lenj.	Том ледачий.	lenj	0	0
+Šargarepe koštaju tri dolara.	Морква коштує три долари.	šargarepe	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	večna	0	0
+Данас пада снег.	Сьогодні іде сніг.	пада	0	0
+Дала сам Тому свој број.	Я дала Тому свій номер.	дала	0	0
+Океј сам.	Я в порядку.	океј	0	0
+У већини случајева били смо принуђени да их уступимо онима којима су били потребнији.	У більшості випадків ми були вимушені поступитися їхнім вимогам.	којима	0	0
+Svila je skupa.	Шовк дорогий.	svila	0	0
+Šta je Tom rekao Mariji?	Що Том сказав Мері?	mariji	0	0
+Ovo su korisne informacije.	Це корисна інформація.	korisne	0	0
+Iz nekog razloga se uveče osećam življe.	З якоїсь причини, я почуваюся краще вночі.	življe	0	0
+Ne zatvaraj oči.	Не заплющуй очі.	zatvaraj	0	0
+Хладно ми је.	Мені холодно.	хладно	0	0
+Какво је данас време?	Яка сьогодні погода?	какво	0	0
+Шта си купио?	Що ти купив?	купио	0	0
+On piše članke sa kompjuterom.	Це комп'ютер, на якому він пише свої статті.	kompjuterom	0	0
+Razvedena sam.	Я розлучена.	razvedena	0	0
+Довиђења!	До побачення!	довиђења	0	0
+U gradovima, ograničenje brzine je 50 kilometara na sat.	У містах швидкість обмежена до 50 км/год.	ograničenje	0	0
+Oni kupuju povrće u supermarketu.	Вони купують овочі у супермаркеті.	supermarketu	0	0
+Том пије пиво.	Том п'є пиво.	пиво	0	0
+Људи желе мир.	Люди хочуть миру.	мир	0	0
+Возови у Србији су ужасно спори.	Поїзди в Сербії страшно повільні.	ужасно	0	0
+Да ли можеш да дођеш?	Можеш прийти?	дођеш	0	0
+Ne zaboravi da ugasiš svetlo!	Не забудь вимкнути світло!	ugasiš	0	0
+Слободан сам.	Я свобідний.	слободан	0	0
+Пардон, да ли говорите енглески?	Перепрошую, ви розмовляєте англійською?	говорите	0	0
+Ако рано почнемо, можемо завршити до ручка.	Якщо ми рано почнемо, ми зможемо закінчити до обіду.	завршити	0	0
+Shvatiću.	Я зрозумію.	shvatiću	0	0
+Njen je otac Japanac.	Її батько - японець.	japanac	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	opraštamo	0	0
+Хоће ли он стићи на воз?	Чи встигне він на поїзд?	воз	0	0
+Његов циљ је да постане адвокат.	Його мета — стати адвокатом.	циљ	0	0
+Ја се рано будим.	Я прокидаюся рано.	рано	0	0
+Ишао је да се скија на Хокаиду.	Він поїхав кататися на лижах до Хоккайдо.	ишао	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Раз, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	девет	0	0
+Јапански језик је наш матерњи језик.	Японська - наша рідна мова.	језик	0	0
+Пчеле праве мед.	Бджоли роблять мед.	праве	0	0
+Она има две сестре.	У неї дві сестри.	сестре	0	0
+Желите ли чај или кафу?	Хочете чаю чи кави?	чај	0	0
+Мој брат је од јуче болестан.	Мій брат хворий з учора.	болестан	0	0
+Švajcarska je u Centralnoj Evropi.	Швейцарія знаходиться в Центральній Європі.	centralnoj	0	0
+Ne mogu da živim bez televizora.	Я не можу жити без телевізора.	televizora	0	0
+Помозите ми!	Допоможіть мені!	помозите	0	0
+У свету је више од седам хиљада језика.	У свiтi бiльше нiж сiм тисяч мов.	хиљада	0	0
+Gde je Misisipi?	Де знаходиться Міссісіпі?	misisipi	0	0
+Његов циљ је да постане адвокат.	Його мета — стати адвокатом.	адвокат	0	0
+Ljudi treba da prestanu sa mržnjom.	Люди повинні перестати ненавидіти.	mržnjom	0	0
+Ја сам веома гладан.	Я дуже голодний.	гладан	0	0
+Хоће ли он стићи на воз?	Чи встигне він на поїзд?	стићи	0	0
+Књига је мала.	Книжка маленька.	књига	0	0
+Treba mi kuhinjski nož.	Мені потрібний кухонний ніж.	kuhinjski	0	0
+Сумњам.	Сумніваюсь.	сумњам	0	0
+Švajcarska je u Centralnoj Evropi.	Швейцарія знаходиться в Центральній Європі.	švajcarska	0	0
+Ово су животиње.	Це тварини.	животиње	0	0
+Имам нож.	Я маю ніж.	нож	0	0
+Лин брзо трчи.	Лін швидко бігає.	трчи	0	0
+Mačka ima dva uva.	Кішка має два вуха.	uva	0	0
+Без сумње!	Без сумніву!	сумње	0	0
+Том је корисни идиот.	Том — корисний ідіот.	идиот	0	0
+Он се плаши мора.	Він боїться моря.	плаши	0	0
+Његов циљ је да постане адвокат.	Його мета — стати адвокатом.	постане	0	0
+Она има кратку косу.	У неї коротке волосся.	косу	0	0
+Жена једе хлеб.	Жінка їсть хліб.	једе	0	0
+Знам да нисам савршен.	Я знаю, що я недосконалий.	савршен	0	0
+Ne govorim turski.	Я не говорю турецькою.	turski	0	0
+To je Saturn.	Це Сатурн.	saturn	0	0
+Река која тече кроз Париз назива се Сена.	Річка, що тече через Париж, називається Сена.	париз	0	0
+Мајку се допада да игра кошарку.	Майку подобається грати у баскетбол.	допада	0	0
+Ja sam Jorge.	Я Хорхе.	jorge	0	0
+Ja sam iz Norveške.	Я з Норвегії.	norveške	0	0
+Дрво је зелено.	Дерево зелене.	дрво	0	0
+Кад умрем, сахраните ме Тамо у могили Сред степе предивне На милој Украјини.	Як умру, то поховайте Мене на могилі, Серед степу широкого, На Вкраїні милій.	умрем	0	0
+У почетку Бог је створио небо и Земљу.	На початку Бог створив Небо та землю.	почетку	0	0
+On je biolog.	Він біолог.	biolog	0	0
+Која је твоја крвна група?	Яка в тебе група крові?	група	0	0
+Не желим месо.	Я не хочу м'яса.	месо	0	0
+Волите ли јабуке?	Вам подобаються яблука?	волите	0	0
+Часопис "Лук" је престао да излази.	Журнал "Look" вже не виходить.	лук	0	0
+Moj otac sluša klasičnu muziku.	Мій батько слухає класичну музику.	klasičnu	0	0
+Nosorog je veoma velik.	Носоріг дуже великий.	nosorog	0	0
+Човек је човеку вук.	Людина людині вовк.	човеку	0	0
+Овај човек је пијан.	Цей чоловік п'яний.	пијан	0	0
+Mislim da je Tom učtiv.	Гадаю, що Том ввічливий.	učtiv	0	0
+Научник је познат не само у Јапану, него и у другим земљама.	Учений відомий не тільки в Японії, але й у інших країнах.	познат	0	0
+Добро увек побеђује зло.	Добро завжди перемагає зло.	зло	0	0
+Ја нисам војник.	Я не солдат.	војник	0	0
+Не пуцај!	Не стріляй.	пуцај	0	0
+Деца су цвеће нашег живота.	Діти — квіти нашого життя.	цвеће	0	0
+Ева је Адаму даровала јабуку сазнања.	Єва дала Адаму яблуко пізнання.	ева	0	0
+Боље врабац у руци, него голуб на грани.	Краще синиця в жмені, ніж журавель в небі.	руци	0	0
+Bolje vrabac u ruci nego golub na grani.	Краще синиця в жмені, ніж журавель в небі.	vrabac	0	0
+У почетку Бог је створио небо и Земљу.	На початку Бог створив Небо та землю.	небо	0	0
+Пардон, да ли говорите енглески?	Пробачте, Ви говорите англійською?	енглески	0	0
+Bolje vrabac u ruci nego golub na grani.	Краще синиця в жмені, ніж журавель в небі.	grani	0	0
+Он је мој старији брат.	Він мій старший брат.	старији	0	0
+Učim korejski.	Я вчу корейську мову.	korejski	0	0
+Птица је на небу.	Птах у небі.	птица	0	0
+To zavisi od konteksta.	Це залежить від контексту.	konteksta	0	0
+Сами је наша једина нада.	Самі - наша єдина надія.	нада	0	0
+Непријатељ беше наоружан до зуба.	Ворог був озброєний до зубів.	непријатељ	0	0
+Ако рано почнемо, можемо завршити до ручка.	Якщо ми рано почнемо, ми зможемо закінчити до обіду.	почнемо	0	0
+Дај ми хиљаду пољубаца.	Дай мені тисячу поцілунків.	хиљаду	0	0
+Сезона киша почиње у јуну.	Сезон дощів розпочинаєтсья у червні.	киша	0	0
+Ja sam ateista.	Я атеїст.	ateista	0	0
+Sviđaju mi se ovi šeširi.	Мені подобаються ці капелюхи.	šeširi	0	0
+Gde su viljuške?	Де виделки?	viljuške	0	0
+Peremo ruke sa sapunom.	Ми миємо руки з милом.	sapunom	0	0
+Том пије пиво.	Том п'є пиво.	пије	0	0
+Мрзим те из дна душе.	Я ненавиджу тебе до глибини душі.	душе	0	0
+Afrika je kolevka čovečanstva.	Африка є колискою людства.	kolevka	0	0
+Ко је оставио отворена врата?	Хто лишив двері відчиненими?	отворена	0	0
+Он говори француски.	Він говорить французькою.	француски	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	grehove	0	0
+Ја пијем кафу.	Я п'ю каву.	пијем	0	0
+Bliži se fantastična norveška jesen.	Наближається фантастична норвезька осінь.	norveška	0	0
+Где ти је друг?	Де твій друг?	друг	0	0
+Једем.	Я їм.	једем	0	0
+Данас пада снег.	Сьогодні іде сніг.	снег	0	0
+Чији је ред?	Чия черга?	чији	0	0
+Imaš li krede?	У тебе є крейда?	krede	0	0
+Peremo ruke sa sapunom.	Ми миємо руки з милом.	peremo	0	0
+Ne govorim Klingonski jezik.	Я не розмовляю клінгонською.	klingonski	0	0
+У већини случајева били смо принуђени да их уступимо онима којима су били потребнији.	У більшості випадків ми були вимушені поступитися їхнім вимогам.	онима	0	0
+Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	Як довго, Катиліно, будеш зловживати нашим терпінням?	докле	0	0
+Птице певају.	Птахи співають.	птице	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	dužnicima	0	0
+Кафа је хладна.	Кава холодна.	кафа	0	0
+Да ли Том једе рибу?	Том їсть рибу?	рибу	0	0
+Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	Отче наш, що єси на небесах, нехай святиться ім'я Твоє, нехай прийде Царство Твоє, нехай буде воля Твоя, як на небі, так і на землі. Хліб наш насущний дай нам сьогодні; і прости нам провини наші, як і ми прощаємо винуватцям нашим; і не введи нас у спокусу, але визволи нас від лукавого.	nasušni	0	0
+Хоћу да се купам у мору.	Я хочу купатись в морі.	мору	0	0
+Prosečni ste studenti.	Ви пересічні студенти.	prosečni	0	0
+Часопис "Лук" је престао да излази.	Журнал "Look" вже не виходить.	престао	0	0
+Кад умрем, сахраните ме Тамо у могили Сред степе предивне На милој Украјини.	Як умру, то поховайте Мене на могилі, Серед степу широкого, На Вкраїні милій.	сред	0	0
+У почетку Бог је створио небо и Земљу.	На початку Бог створив Небо та землю.	створио	0	0
+Mnogo je lepih parkova u Londonu.	В Лондоні багато гарних парків.	parkova	0	0
+Где ви живите?	Де ви живете?	живите	0	0
+Он има два аутомобила.	У нього дві машини.	аутомобила	0	0
+Ja sam levoruk.	Я шульга.	levoruk	0	0
+Укусно мирише!	Пахне смачно!	мирише	0	0
+Становништво села се смањило.	Населення села скоротилось.	села	0	0

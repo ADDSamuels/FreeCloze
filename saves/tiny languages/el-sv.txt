@@ -1,0 +1,502 @@
+Μπορεί να έχεις δίκιο.	Du kan ha rätt.	να	0	0
+Κάλεσε το γιατρό!	Kalla på läkare!	το	0	0
+Ο κόσμος δεν περιστρέφεται γύρω από σας.	Världen kretsar inte kring er.	δεν	0	0
+Πού είναι η ελληνική πρεσβεία;	Var ligger den grekiska ambassaden?	είναι	0	0
+Θα ήθελα να πάω στο σινεμά.	Jag skulle vilja gå på bio.	θα	0	0
+Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	Marina är från Ryssland och Clarissa är från Sverige.	και	0	0
+Δείξε μου.	Visa mig.	μου	0	0
+Ο ορισμός της "οικογένειας" έχει αλλάξει με τα χρόνια.	Definitionen av "familj" har ändrats med åren.	με	0	0
+Αυτός ανησυχεί για το μέλλον του.	Han oroar sig för sin framtid.	για	0	0
+Τηλεφωνήστε την αστυνομία!	Ring polisen!	την	0	0
+Ο Τομ είναι φτωχός.	Tom är fattig.	ο	0	0
+Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	Marina är från Ryssland och Clarissa är från Sverige.	η	0	0
+Πήρα το ασανσέρ μέχρι τον τρίτο όροφο.	Jag åkte hiss till plan tre.	τον	0	0
+Τα λέμε αργότερα!	Ses senare!	τα	0	0
+Που ζει ο θείος σου;	Var bor din morbror?	που	0	0
+Μην αφήνεις τα συναισθήματα σου να φανούν.	Visa inte dina känslor.	σου	0	0
+Σε λίγο θα 'μαστε εκεί.	Vi är strax där.	σε	0	0
+Αυτό το αυτοκίνητο είναι δικό του.	Den här bilen är hans.	αυτό	0	0
+Θυμάμαι ακόμα το όνομά του.	Jag kommer fortfarande ihåg hans namn.	του	0	0
+Τι κάνετε;	Hur står det till?	τι	0	0
+Βλέπω ότι έχεις ένα ελληνικό όνομα.	Jag ser att du har ett grekiskt namn.	ότι	0	0
+Αγοράζω έπιπλα από τα ΙΚΕΑ.	Jag köper möbler på Ikea.	από	0	0
+Άνθρωποι συγκεντρώθηκαν στο πάρκο.	Människor skockade sig i parken.	στο	0	0
+Το Όσλο είναι η πρωτεύουσα της Νορβηγίας.	Oslo är Norges huvudstad.	της	0	0
+Όχι, καθόλου.	Nej, inte alls.	όχι	0	0
+Την βλέπω σαν να'ναι αδερφή μου.	Jag betraktar henne som om hon vore min syster.	ναι	0	0
+Θέλω να πιώ ένα καφέ.	Jag vill ha kaffe.	ένα	0	0
+Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	Marina är från Ryssland och Clarissa är från Sverige.	τη	0	0
+Θα ήθελα να αγοράσω αυτό το ρολόι, αλλά είναι, δυστυχώς, πολύ ακριβό.	Jag skulle vilja köpa det här armbandsuret men det är tyvärr för dyrt.	αλλά	0	0
+Ο Θωμάς δεν είναι μαθητής εδώ.	Thomas är inte elev här.	εδώ	0	0
+Αυτή είναι μια πολύ καλή φράση.	Det här är en jättebra fras.	μια	0	0
+Γεια σας! Καλημέρα!	Hej! God morgon!	σας	0	0
+Αυτός με σύστησε σε όλους τους φίλους του.	Han introducerade mig till alla sina vänner.	τους	0	0
+Νομίζω ότι ήταν θυμωμένος.	Jag tror att han var arg.	ήταν	0	0
+Γειά μας!	Skål!	μας	0	0
+Η Πάουλα πρέπει να βοηθήσει τον πατέρα της στην κουζίνα.	Paula måste hjälpa hennes pappa i köket.	πρέπει	0	0
+Μην είσαι τόσο αρνητικός.	Var inte så negativa.	είσαι	0	0
+Είμαι πολύ ευτυχισμένος να σε ξαναδώ.	Jag är väldigt glad att se dig igen.	είμαι	0	0
+Αυτός δουλεύει στην τράπεζα.	Han jobbar på banken.	στην	0	0
+Αυτή είναι μια πολύ καλή φράση.	Det här är en jättebra fras.	πολύ	0	0
+Γιατί δεν μπορείς να έρθεις;	Varför kan du inte komma?	γιατί	0	0
+Γεια σου Σουζάνα. Πως πάει;	Hej Susanna! Läget?	πως	0	0
+Ευχαριστώ, τώρα καταλαβαίνω.	Tack, jag förstår nu.	τώρα	0	0
+Εγώ περίμενα τον Τομ.	Jag väntade på Tom.	εγώ	0	0
+Αυτή έχει καλό γούστο.	Hon har bra smak.	έχει	0	0
+Δεν ξέρω.	Jag vet inte.	ξέρω	0	0
+Δε γνωρίζω ακόμα όλες τις λεπτομέρειες.	Jag känner ännu inte till alla detaljer.	τις	0	0
+Έχω μια άλλη ερώτηση.	Jag har en annan fråga.	έχω	0	0
+Δε γνωρίζω ακόμα όλες τις λεπτομέρειες.	Jag känner ännu inte till alla detaljer.	δε	0	0
+Μην αφήνεις τα συναισθήματα σου να φανούν.	Visa inte dina känslor.	μην	0	0
+Εγώ είμαι έτοιμος, εσύ;	Jag är redo, är du?	εσύ	0	0
+Άκουσέ με καλά.	Hör noga på mig.	καλά	0	0
+Αυτή πουλάει ναρκωτικά σε συναυλίες.	Hon säljer narkotika på konserter.	αυτή	0	0
+Δε θέλω να πεθάνω.	Jag vill inte dö.	θέλω	0	0
+Όταν έχω χρόνο, πηγαίνω στο εστιατόριο.	När jag har tid går jag på restaurang.	όταν	0	0
+Θα ήθελα να πάω στον κινηματογράφο.	Jag skulle vilja gå på bio.	στον	0	0
+Ο Tom είπε στη Mary να μην ανησυχεί.	Tom sa till Mary att hon inte skulle oroa sig.	στη	0	0
+Μπορώ να φύγω τώρα;	Får jag gå nu?	μπορώ	0	0
+Ξέρεις πού είναι η Χόλι;	Vet du var Holly är?	ξέρεις	0	0
+Έχεις τόσο ωραία γραβάτα.	Du har så fina slipsar.	έχεις	0	0
+Τί κάνεις;	Vad gör du?	κάνεις	0	0
+Εκεί πήγα μόνο μια φορά.	Jag har bara varit där en gång.	μόνο	0	0
+Σε λίγο θα 'μαστε εκεί.	Vi är strax där.	εκεί	0	0
+Οδηγείς σαν μανιακός!	Du kör som en galning!	σαν	0	0
+Όλα έγιναν πολύ ακριβά.	Allt har blivit så dyrt.	όλα	0	0
+Τίποτα.	Ingenting.	τίποτα	0	0
+Ευχαριστώ, τώρα καταλαβαίνω.	Tack, jag förstår nu.	ευχαριστώ	0	0
+Αυτό είναι άλογο ή φοράδα;	Är detta en hingst eller ett sto?	ή	0	0
+Πώς είσαι;	Hur är det med dig?	πώς	0	0
+Κάνω μπάνιο σχεδόν όλες τις ημέρες.	Jag duschar nästan varje dag.	κάνω	0	0
+Έχεις τόσο ωραία γραβάτα.	Du har så snygga slipsar.	τόσο	0	0
+Το μωρό μπορεί να βαδίσει.	Ungen kan gå.	μπορεί	0	0
+Τι δουλειά κάνει ο πατέρας σου;	Vad jobbar din pappa med?	κάνει	0	0
+Μερικοί δε μαθαίνουν ποτέ.	Vissa lär sig aldrig.	ποτέ	0	0
+Το σπίτι μου βρίσκεται στα αριστερά της λεωφόρου.	Mitt hus ligger på vänster sida av gatan.	στα	0	0
+Δε γνωρίζω ακόμα όλες τις λεπτομέρειες.	Jag känner inte till alla detaljer ännu.	ακόμα	0	0
+Γιατί δεν μπορείς να έρθεις;	Varför kan du inte komma?	μπορείς	0	0
+Όποιος ανοίγει το λάκκο του αλλουνού, πέφτει ο ίδιος μέσα.	Den som gräver en grop åt andra faller ofta själv däri.	μέσα	0	0
+Σήμερα δεν αισθάνομαι καλά και προτιμώ να μείνω στο σπίτι.	Jag mår inte bra idag och föredrar att stanna hemma.	σπίτι	0	0
+Αυτός δουλεύει στην τράπεζα.	Han jobbar på banken.	αυτός	0	0
+Ίσως να μην έρθει.	Hon kanske inte kommer.	ίσως	0	0
+Όλοι έχουμε τα μυστικά μας.	Vi har alla våra hemligheter.	έχουμε	0	0
+Δεν γνωρίζω σχεδόν τίποτε γι 'αυτό.	Jag kan nästan ingenting om det.	γι	0	0
+Σας παρακαλώ να μιλάτε πιο αργά.	Kan ni vara snälla och prata långsammare.	πιο	0	0
+Σας παρακαλώ να μιλάτε πιο αργά.	Kan du vara snäll och prata långsammare.	παρακαλώ	0	0
+Ένας καθρέφτης αντανακλά το φως.	En spegel reflekterar ljus.	ένας	0	0
+Ξέρεις πού είναι η Χόλι;	Vet du var Holly är?	πού	0	0
+Νομίζω ότι έχεις δίκιο.	Jag tror du har rätt.	νομίζω	0	0
+Είναι σχεδόν πάντα σπίτι του.	Han är nästan alltid hemma.	πάντα	0	0
+Μου αρέσει να κάθομαι πίσω στο λεωφορείο.	Jag gillar att sitta långt bak i bussen.	πίσω	0	0
+Γεια!	Hej!	γεια	0	0
+Είμαι λίγο κουρασμένος σήμερα.	Jag är ganska trött idag.	λίγο	0	0
+Ψάχνω δουλειά.	Jag söker arbete.	δουλειά	0	0
+Δύο καφέδες, παρακαλώ.	Två kaffe, tack.	δύο	0	0
+Ο Tom είπε στη Mary να μην ανησυχεί.	Tom sa till Mary att hon inte skulle oroa sig.	είπε	0	0
+Όλοι έχουμε τα μυστικά μας.	Vi har alla våra hemligheter.	όλοι	0	0
+Ας το κάνουμε συνοπτικά.	Låt oss fatta oss kort.	ας	0	0
+Ας το κάνουμε συνοπτικά.	Låt oss fatta oss kort.	κάνουμε	0	0
+Θα ήθελα να πάω στο σινεμά.	Jag skulle vilja gå på bio.	πάω	0	0
+Αυτή έχει καλό γούστο.	Hon har bra smak.	καλό	0	0
+Σας είπα ήδη ότι δεν είναι εδώ.	Jag har redan sagt att han inte är här.	είπα	0	0
+Πήρα το ασανσέρ μέχρι τον τρίτο όροφο.	Jag tog hissen till tredje våningen.	μέχρι	0	0
+Σηκώθηκα στις πέντε το πρωί.	Jag gick upp klockan fem på morgonen.	στις	0	0
+Είναι δυόμισι η ώρα.	Klockan är halv tre.	ώρα	0	0
+Εκεί πήγα μόνο μια φορά.	Jag har bara varit där en gång.	φορά	0	0
+Ο ορισμός της "οικογένειας" έχει αλλάξει με τα χρόνια.	Definitionen av "familj" har ändrats med åren.	χρόνια	0	0
+Ανησυχώ πολύ για σένα.	Jag är väldigt orolig för din skull.	σένα	0	0
+Δεν είστε έτοιμες.	Ni är inte klara.	είστε	0	0
+Θα ήθελα να πάω στο σινεμά.	Jag skulle vilja gå på bio.	ήθελα	0	0
+Έχεις τόσο ωραία γραβάτα.	Du har så snygga slipsar.	ωραία	0	0
+Κάθε μέρα πεθαίνουν άνθρωποι.	Människor dör varje dag.	κάθε	0	0
+Αυτή είναι μια πολύ καλή φράση.	Det här är en jättebra fras.	καλή	0	0
+Μπορώ να διαβάσω χωρίς γυαλιά.	Jag kan läsa utan glasögon.	χωρίς	0	0
+Όλοι θα πεθάνουμε κάποια μέρα.	En vacker dag dör vi alla.	μέρα	0	0
+Η γάτα είναι κάτω απ'το τραπέζι.	Katten är under bordet.	κάτω	0	0
+Πού είναι η γυναίκα;	Var är kvinnan?	γυναίκα	0	0
+Κανείς δεν με καταλαβαίνει.	Ingen förstår mig.	κανείς	0	0
+Γεια σου Σουζάνα. Πως πάει;	Hej Susanna! Hur är läget?	πάει	0	0
+Είμαι λίγο κουρασμένος σήμερα.	Jag är ganska trött idag.	σήμερα	0	0
+Περισσότερο μου αρέσει το κόκκινο παρά το λευκό κρασί.	Jag föredrar rött vin framför vitt.	αρέσει	0	0
+«Πόσο χρονών είσαι;» «Είμαι δεκαέξι χρονών.»	”Hur gammal är du?” ”Jag är sexton år.”	πόσο	0	0
+Έχω πολλά βιβλία.	Jag har många böcker.	πολλά	0	0
+Δεν έχετε καστανά μάτια.	Du har inte blå ögon.	έχετε	0	0
+Ένα χρόνο αργότερα γεννήθηκε ο Παύλος.	Ett år senare föddes Paul.	χρόνο	0	0
+Είναι ξεκάθαρο ότι είπες ψέμματα.	Det är uppenbart att du ljuger.	είπες	0	0
+Ω, τώρα καταλαβαίνω.	Åh, nu förstår jag.	ω	0	0
+Όλοι θα πεθάνουμε κάποια μέρα.	En vacker dag dör vi alla.	κάποια	0	0
+Κανένα πρόβλημα.	Inga problem.	πρόβλημα	0	0
+Έχω μια άλλη ερώτηση.	Jag har en annan fråga.	άλλη	0	0
+Χρειάζεται να σας κάνω μερικές ερωτήσεις.	Jag behöver ställa er några frågor.	χρειάζεται	0	0
+Βλέπω ότι έχεις ένα ελληνικό όνομα.	Jag ser att du har ett grekiskt namn.	βλέπω	0	0
+Αγαπάς τη μητέρα σου;	Älskar du din mor?	μητέρα	0	0
+Υπάρχουν πολλές μεγάλες πόλεις στη Βραζιλία.	Det finns många stora städer i Brasilien.	υπάρχουν	0	0
+Αυτό το αυτοκίνητο είναι δικό του.	Den här bilen är hans.	δικό	0	0
+Έχω μια νέα διεύθυνση ηλεκτρονικού ταχυδρομείου.	Jag har en ny e-postadress.	νέα	0	0
+Έχεις δει τον Τομ;	Har du sett Tom?	δει	0	0
+Σας είπα ήδη ότι δεν είναι εδώ.	Jag har redan sagt att han inte är här.	ήδη	0	0
+Εμείς τρώμε το πρωινό.	Vi äter frukost.	εμείς	0	0
+Αυτός με σύστησε σε όλους τους φίλους του.	Han introducerade mig till alla sina vänner.	όλους	0	0
+Τι δουλειά κάνει ο πατέρας σου;	Vad jobbar din pappa med?	πατέρας	0	0
+Το μωρό μπορεί να βαδίσει.	Ungen kan gå.	μωρό	0	0
+Βλέπω ότι έχεις ένα ελληνικό όνομα.	Jag ser att du har ett grekiskt namn.	όνομα	0	0
+Η Πάουλα πρέπει να βοηθήσει τον πατέρα της στην κουζίνα.	Paula måste hjälpa hennes pappa i köket.	πατέρα	0	0
+Αύριο ξεκινάω.	Jag börjar imorgon.	αύριο	0	0
+Άνθρωποι συγκεντρώθηκαν στο πάρκο.	Människor skockade sig i parken.	άνθρωποι	0	0
+Δεν θέλω να ζήσω σε μεγάλη πόλη.	Jag vill inte bo i en stor stad.	μεγάλη	0	0
+Τί κάνεις;	Hur står det till?	τί	0	0
+Ευχαριστώ, τώρα καταλαβαίνω.	Tack, jag förstår nu.	καταλαβαίνω	0	0
+Νομίζω ότι έχεις δίκιο.	Jag tror du har rätt.	δίκιο	0	0
+Κανένα πρόβλημα.	Inga problem.	κανένα	0	0
+Απλώς ακολούθησε την καρδιά σου.	Bara följ ditt hjärta.	απλώς	0	0
+Προσπάθησε ξανά.	Hon försökte igen.	ξανά	0	0
+Πότε αρρώστησες;	När blev du sjuk?	πότε	0	0
+Αυτοί είναι χορτοφάγοι.	De är vegetarianer.	αυτοί	0	0
+Ξέρετε πού είναι η Χόλι;	Vet ni var Holly är?	ξέρετε	0	0
+Τι κάνετε;	Hur står det till?	κάνετε	0	0
+Περισσότερο μου αρέσει το κόκκινο παρά το λευκό κρασί.	Jag föredrar rött vin framför vitt.	περισσότερο	0	0
+Δεν θέλω να ζήσω σε μεγάλη πόλη.	Jag vill inte bo i en stor stad.	πόλη	0	0
+Ίσως να μην έρθει.	Hon kanske inte kommer.	έρθει	0	0
+Χρειάζεται να σας κάνω μερικές ερωτήσεις.	Jag behöver ställa er några frågor.	μερικές	0	0
+Όχι, καθόλου.	Nej, inte alls.	καθόλου	0	0
+Σηκώθηκα στις πέντε το πρωί.	Jag gick upp klockan fem på morgonen.	πρωί	0	0
+Δεν ελπίζω.	Jag hoppas inte det.	ελπίζω	0	0
+Κλείδωσε την πόρτα!	Stäng dörren!	πόρτα	0	0
+Δεν έχετε καστανά μάτια.	Du har inte blå ögon.	μάτια	0	0
+Κάνω μπάνιο σχεδόν όλες τις ημέρες.	Jag badar nästan varje dag.	όλες	0	0
+Με τον ενθουσιασμό και την αποφασιστικότητα του, είναι παράδειγμα για την υπόλοιπη ομάδα.	Med sin entusiasm och beslutsamhet är han ett föredöme för resten av laget.	ομάδα	0	0
+Το φιλμ κράτησε δύο ώρες.	Filmen varade i två timmar.	ώρες	0	0
+Τηλεφωνήστε την αστυνομία!	Ring polisen!	αστυνομία	0	0
+Μπορώ να φύγω τώρα;	Får jag gå nu?	φύγω	0	0
+Ο Τομ πάντα κρατάει το λόγο του.	Tom håller alltid sitt ord.	λόγο	0	0
+Το αγόρι πήγε σχολείο.	Pojken gick till skolan.	πήγε	0	0
+Ξέρουμε τι θέλουμε.	Vi vet vad vi vill ha.	ξέρουμε	0	0
+Μιλάς Γιαπωνέζικα;	Pratar du japanska?	μιλάς	0	0
+Ένας φίλος μου σπουδάζει στο εξωτερικό.	En av mina vänner studerar utomlands.	φίλος	0	0
+Σ'αγαπώ.	Jag älskar dig.	αγαπώ	0	0
+Προσπαθώ να αποταμιεύσω χρήματα.	Jag försöker lägga undan pengar.	χρήματα	0	0
+Μην ανησυχείς.	Oroa dig inte.	ανησυχείς	0	0
+Το αγόρι πήγε σχολείο.	Pojken gick till skolan.	αγόρι	0	0
+Είναι τρεις παρά τέταρτο.	Klockan är kvart i tre.	τρεις	0	0
+Απλώς ακολούθησε την καρδιά σου.	Bara följ ditt hjärta.	καρδιά	0	0
+Πήρα το ασανσέρ μέχρι τον τρίτο όροφο.	Jag tog hissen till tredje våningen.	πήρα	0	0
+Τα λέμε Δευτέρα.	Vi ses på måndag.	λέμε	0	0
+Τα λέμε αργότερα!	Vi ses senare!	αργότερα	0	0
+Πίνουμε σχεδόν τρια λίτρα νερό σε μια μέρα.	Vi dricker nästan tre liter vatten under en dag.	νερό	0	0
+Είναι σχεδόν πάντα σπίτι του.	Han är nästan alltid hemma.	σχεδόν	0	0
+Ποιός είσαι;	Vem är du?	ποιός	0	0
+Αντίο.	Hej då.	αντίο	0	0
+Σηκώθηκα στις πέντε το πρωί.	Jag gick upp klockan fem på morgonen.	πέντε	0	0
+Θυμάμαι ακόμα το όνομά του.	Jag kommer fortfarande ihåg hans namn.	θυμάμαι	0	0
+Ο κόσμος δεν περιστρέφεται γύρω από σας.	Världen kretsar inte kring er.	κόσμος	0	0
+Το αγόρι πήγε σχολείο.	Pojken gick till skolan.	σχολείο	0	0
+Ξέρουμε τι θέλουμε.	Vi vet vad vi vill ha.	θέλουμε	0	0
+Σας παρακαλώ να μιλάτε πιο αργά.	Kan ni vara snälla och prata långsammare.	αργά	0	0
+Γιατί δεν μπορείς να έρθεις;	Varför kan du inte komma?	έρθεις	0	0
+Το μέγεθος δεν έχει σημασία.	Storleken har ingen betydelse.	σημασία	0	0
+Ο κόσμος δεν περιστρέφεται γύρω από σας.	Världen kretsar inte kring er.	γύρω	0	0
+Καλημέρα.	God dag.	καλημέρα	0	0
+Υπάρχουν πολλές μεγάλες πόλεις στη Βραζιλία.	Det finns många stora städer i Brasilien.	πολλές	0	0
+Γνωρίζω το όνομά σου.	Jag vet vad du heter.	όνομά	0	0
+Αυτό το αυτοκίνητο είναι δικό του.	Den här bilen är hans.	αυτοκίνητο	0	0
+Κανένας από εμας δεν τον είδε.	Ingen av oss såg den.	κανένας	0	0
+Εγώ είμαι έτοιμος, εσύ;	Jag är klar, är du?	έτοιμος	0	0
+Αυτό το αυγό μυρίζει άσχημα.	Det här ägget luktar illa.	άσχημα	0	0
+Προσπαθώ να αποταμιεύσω χρήματα.	Jag försöker lägga undan pengar.	προσπαθώ	0	0
+Η Πάουλα πρέπει να βοηθήσει τον πατέρα της στην κουζίνα.	Paula måste hjälpa hennes pappa i köket.	βοηθήσει	0	0
+Αυτός με σύστησε σε όλους τους φίλους του.	Han introducerade mig till alla sina vänner.	φίλους	0	0
+Χρειαζόμαστε χρήματα.	Vi behöver pengar.	χρειαζόμαστε	0	0
+Γειά μας!	Skål!	γειά	0	0
+Μου αρέσουν τα πάρτι.	Jag gillar fester.	πάρτι	0	0
+Αυτό το βιβλίο είναι χωρισμένο σε τέσσερα μέρη.	Den här boken är uppdelad i fyra delar.	βιβλίο	0	0
+Σήμερα δεν αισθάνομαι καλά και προτιμώ να μείνω στο σπίτι.	Jag mår inte bra idag och föredrar att stanna hemma.	μείνω	0	0
+Θέλω να πιώ ένα καφέ.	Jag vill ha kaffe.	καφέ	0	0
+Χρειάζεσαι αυτό το βιβλίο;	Behöver du den här boken?	χρειάζεσαι	0	0
+Καληνύχτα.	God natt.	καληνύχτα	0	0
+Το σπίτι μου βρίσκεται στα αριστερά της λεωφόρου.	Mitt hus ligger på vänster sida av gatan.	βρίσκεται	0	0
+Μου αρέσουν τα πάρτι.	Jag gillar fester.	αρέσουν	0	0
+Εκεί πήγα μόνο μια φορά.	Jag har bara varit där en gång.	πήγα	0	0
+Δε μιλάω Ιαπωνικά.	Jag kan inte japanska.	μιλάω	0	0
+Καλή ερώτηση.	Bra fråga.	ερώτηση	0	0
+Περισσότερο μου αρέσει το κόκκινο παρά το λευκό κρασί.	Jag föredrar rött vin framför vitt.	παρά	0	0
+Δε γνωρίζω ακόμα όλες τις λεπτομέρειες.	Jag känner inte till alla detaljer än.	γνωρίζω	0	0
+Αυτός δουλεύει στην τράπεζα.	Han jobbar på banken.	δουλεύει	0	0
+Τα ρούχα του Τομ είναι παλιά, αλλά καθαρά.	Toms kläder är gamla men rena.	ρούχα	0	0
+Τα ρούχα του Τομ είναι παλιά, αλλά καθαρά.	Toms kläder är gamla men rena.	παλιά	0	0
+Την βλέπω σαν αδερφή μου.	Jag betraktar henne som en syster.	αδερφή	0	0
+Χρειάζεται να σας κάνω μερικές ερωτήσεις.	Jag behöver ställa er några frågor.	ερωτήσεις	0	0
+Το σπίτι μου είναι στη δυτική πλευρά του δρόμου.	Mitt hus ligger på väster sida om vägen.	πλευρά	0	0
+Κανένας από εμας δεν τον είδε.	Ingen av oss såg den.	είδε	0	0
+Εγώ περίμενα τον Τομ.	Jag väntade på Tom.	περίμενα	0	0
+Αυτός δουλεύει οχτώ ώρες την ημέρα.	Han arbetar åtta timmar om dagen.	ημέρα	0	0
+Αυτός ανησυχεί για το μέλλον του.	Han oroar sig för sin framtid.	μέλλον	0	0
+Δε μιλάει σχεδόν καθόλου αγγλικά.	Hon kan nästan ingen engelska.	μιλάει	0	0
+Προσπάθησε ξανά.	Hon försökte igen.	προσπάθησε	0	0
+Θα σου δείξω την πόλη.	Jag ska visa dig stan.	δείξω	0	0
+Ο ορισμός της "οικογένειας" έχει αλλάξει με τα χρόνια.	Familjebegreppet har förändrats med åren.	αλλάξει	0	0
+Ένας καθρέφτης αντανακλά το φως.	En spegel reflekterar ljus.	φως	0	0
+Ο χρόνος φεύγει.	Tiden går.	χρόνος	0	0
+Είμαι ο καλύτερος.	Jag är bäst.	καλύτερος	0	0
+Όποιος ανοίγει το λάκκο του αλλουνού, πέφτει ο ίδιος μέσα.	Den som gräver en grop åt andra faller ofta själv däri.	ίδιος	0	0
+Το όνομά μου δεν είναι Τομ.	Mitt namn är inte Tom.	τομ	0	0
+Τίποτε δεν είναι δωρεάν.	Ingenting är gratis.	τίποτε	0	0
+Ειλικρινά αγαπητή μου, δεν δίνω δεκάρα!	Ärligt talat, kära du, jag bryr mig inte ett skvatt!	ειλικρινά	0	0
+Μισώ το χειμώνα.	Jag hatar vintern.	μισώ	0	0
+Σήμερα δεν αισθάνομαι καλά και προτιμώ να μείνω στο σπίτι.	Jag mår inte bra idag och föredrar att stanna hemma.	αισθάνομαι	0	0
+Αυτός είναι μουγγός και κουφός εκ γενετής.	Han är stum och döv sedan födseln.	εκ	0	0
+Αγαπάς τη μητέρα σου;	Älskar du din mor?	αγαπάς	0	0
+Χάρηκα.	Trevligt att träffas.	χάρηκα	0	0
+Η γάτα είναι κάτω απ'το τραπέζι.	Katten är under bordet.	τραπέζι	0	0
+Αυτός έχει βαθιά φωνή.	Han har en djup röst.	φωνή	0	0
+Κάνω μπάνιο σχεδόν όλες τις ημέρες.	Jag duschar nästan varje dag.	μπάνιο	0	0
+Φαίνεσαι πολύ κουρασμένος.	Du ser väldigt trött ut.	φαίνεσαι	0	0
+Αυτό το βιβλίο είναι χωρισμένο σε τέσσερα μέρη.	Den här boken är uppdelad i fyra delar.	τέσσερα	0	0
+Δε θέλω να πεθάνω.	Jag vill inte dö.	πεθάνω	0	0
+Που ζει ο θείος σου;	Var bor din morbror?	ζει	0	0
+Είναι σχεδόν 20 χρονών.	Han är nästan tjugo år.	χρονών	0	0
+Όταν έχω χρόνο, πηγαίνω στο εστιατόριο.	När jag har tid går jag på restaurang.	πηγαίνω	0	0
+Κάλεσε το γιατρό!	Kalla på läkare!	γιατρό	0	0
+Ψάχνω δουλειά.	Jag söker jobb.	ψάχνω	0	0
+Καλησπέρα.	God kväll.	καλησπέρα	0	0
+Δεν μπορώ να καταλάβω.	Jag kan inte förstå.	καταλάβω	0	0
+Εμείς τρώμε το πρωινό.	Vi äter frukost.	πρωινό	0	0
+Αυτή πουλάει ναρκωτικά σε συναυλίες.	Hon säljer narkotika på konserter.	ναρκωτικά	0	0
+Αυτός είναι ο ποιητής που γνώρισα στο Παρίσι.	Det där är poeten som jag träffade i Paris.	γνώρισα	0	0
+Θα ήθελα να αγοράσω αυτό το ρολόι, αλλά είναι, δυστυχώς, πολύ ακριβό.	Jag skulle vilja köpa den här klockan men den är tyvärr för dyr.	δυστυχώς	0	0
+Ειλικρινά αγαπητή μου, δεν δίνω δεκάρα!	Ärligt talat, kära du, jag bryr mig inte ett skvatt!	δίνω	0	0
+Ξέχασα το ΡΙΝ μου!	Jag har glömt min PIN-kod!	ξέχασα	0	0
+Όποιος ανοίγει το λάκκο του αλλουνού, πέφτει ο ίδιος μέσα.	Den som gräver en grop åt andra faller ofta själv däri.	όποιος	0	0
+Περισσότερο μου αρέσει το κόκκινο παρά το λευκό κρασί.	Jag föredrar rött vin framför vitt.	κρασί	0	0
+Σήμερα η θάλασσα ήταν ζεστή!	I dag var havet varmt!	θάλασσα	0	0
+Το σπίτι μου βρίσκεται στα αριστερά της λεωφόρου.	Mitt hus ligger på vänster sida av gatan.	αριστερά	0	0
+Μην αφήνεις τα συναισθήματα σου να φανούν.	Visa inte dina känslor.	αφήνεις	0	0
+Κάλεσε το γιατρό!	Kalla på läkare!	κάλεσε	0	0
+Ανησυχώ πολύ για σένα.	Jag är väldigt orolig för din skull.	ανησυχώ	0	0
+Αυτό το βιβλίο είναι χωρισμένο σε τέσσερα μέρη.	Den här boken är uppdelad i fyra delar.	μέρη	0	0
+Είναι εννέα και μισή.	Klockan är halv tio.	μισή	0	0
+Έχω πολλά βιβλία.	Jag har många böcker.	βιβλία	0	0
+Ο χειμώνας είναι η αγαπημένη μου εποχή.	Vintern är min favoritårstid.	εποχή	0	0
+Είστε δεκαεπτά ετών;	Är ni sjutton år?	ετών	0	0
+Αυτός δουλεύει στην τράπεζα.	Han jobbar på banken.	τράπεζα	0	0
+Αυτό είναι άλογο ή φοράδα;	Är detta en hingst eller ett sto?	άλογο	0	0
+Ο χρόνος φεύγει.	Tiden går.	φεύγει	0	0
+Με βοήθησε πολύ.	Hon hjälpte mig mycket.	βοήθησε	0	0
+Έχω μια νέα διεύθυνση ηλεκτρονικού ταχυδρομείου.	Jag har en ny e-postadress.	διεύθυνση	0	0
+Αυτός έχει βαθιά φωνή.	Han har en djup röst.	βαθιά	0	0
+Περισσότερο μου αρέσει το κόκκινο παρά το λευκό κρασί.	Jag föredrar rött vin framför vitt.	κόκκινο	0	0
+Δείξε μου.	Visa mig.	δείξε	0	0
+Αυτός δεν έχει καθόλου οικόσιτα ζώα.	Han har inga husdjur alls.	ζώα	0	0
+Η σύζυγός του είναι Γιαπωνέζα.	Hans fru är japanska.	σύζυγός	0	0
+Αυτός είναι ο ποιητής που γνώρισα στο Παρίσι.	Det där är poeten som jag träffade i Paris.	παρίσι	0	0
+Η Πάουλα πρέπει να βοηθήσει τον πατέρα της στην κουζίνα.	Paula måste hjälpa hennes pappa i köket.	κουζίνα	0	0
+Όλα έγιναν πολύ ακριβά.	Allt har blivit så dyrt.	έγιναν	0	0
+Ο Τομ πάντα κρατάει το λόγο του.	Tom håller alltid sitt ord.	κρατάει	0	0
+Όλοι έχουμε τα μυστικά μας.	Vi har alla våra hemligheter.	μυστικά	0	0
+Τον λογαριασμό, παρακαλώ.	Notan, tack.	λογαριασμό	0	0
+Κάνω μπάνιο σχεδόν όλες τις ημέρες.	Jag badar nästan varje dag.	ημέρες	0	0
+Τα ταξί είναι ακριβά.	Taxi är dyrt.	ταξί	0	0
+Με τον ενθουσιασμό και την αποφασιστικότητα του, είναι παράδειγμα για την υπόλοιπη ομάδα.	Med sin entusiasm och beslutsamhet är han ett föredöme för resten av laget.	παράδειγμα	0	0
+Ειλικρινά αγαπητή μου, δεν δίνω δεκάρα!	Ärligt talat, kära du, jag bryr mig inte ett skvatt!	αγαπητή	0	0
+Που ζει ο θείος σου;	Var bor din morbror?	θείος	0	0
+Μην μεταφράζεις αυτή τη πρόταση.	Översätt inte den här meningen!	πρόταση	0	0
+Μου αρέσει να κάθομαι πίσω στο λεωφορείο.	Jag gillar att sitta långt bak i bussen.	λεωφορείο	0	0
+Σήμερα δεν αισθάνομαι καλά και προτιμώ να μείνω στο σπίτι.	Jag mår inte bra idag och föredrar att stanna hemma.	προτιμώ	0	0
+Δεν θέλω να ζήσω σε μεγάλη πόλη.	Jag vill inte bo i en stor stad.	ζήσω	0	0
+Όταν έχω χρόνο, πηγαίνω στο εστιατόριο.	När jag har tid går jag på restaurang.	εστιατόριο	0	0
+Θα ήθελα να αγοράσω αυτό το ρολόι, αλλά είναι, δυστυχώς, πολύ ακριβό.	Jag skulle vilja köpa det här armbandsuret men det är tyvärr för dyrt.	ρολόι	0	0
+Μερικοί δε μαθαίνουν ποτέ.	Vissa lär sig aldrig.	μερικοί	0	0
+Δε γνωρίζω ακόμα όλες τις λεπτομέρειες.	Jag känner inte till alla detaljer ännu.	λεπτομέρειες	0	0
+Άκουσέ με καλά.	Hör noga på mig.	άκουσέ	0	0
+Τα ρούχα του Τομ είναι παλιά, αλλά καθαρά.	Toms kläder är gamla men rena.	καθαρά	0	0
+Όνειρα γλυκά!	Dröm sött!	όνειρα	0	0
+Σας παρακαλώ να μιλάτε πιο αργά.	Kan ni vara snäll och prata långsammare.	μιλάτε	0	0
+Περισσότερο μου αρέσει το κόκκινο παρά το λευκό κρασί.	Jag föredrar rött vin framför vitt.	λευκό	0	0
+Πάω στην παραλία.	Jag går till stranden.	παραλία	0	0
+Άνθρωποι συγκεντρώθηκαν στο πάρκο.	Människor samlades i parken.	πάρκο	0	0
+Η γυναίκα τρώει ψωμί.	Kvinnan äter bröd.	τρώει	0	0
+Αυτό το αυγό μυρίζει άσχημα.	Det här ägget luktar illa.	μυρίζει	0	0
+Η γάτα είναι κάτω απ'το τραπέζι.	Katten är under bordet.	γάτα	0	0
+Όποιος ανοίγει το λάκκο του αλλουνού, πέφτει ο ίδιος μέσα.	Den som gräver en grop åt andra faller ofta själv däri.	πέφτει	0	0
+Πως ονομάζεται ο σκύλος σας;	Vad heter er hund?	ονομάζεται	0	0
+Υπάρχουν πολλές μεγάλες πόλεις στη Βραζιλία.	Det finns många stora städer i Brasilien.	μεγάλες	0	0
+Ο χειμώνας είναι η αγαπημένη μου εποχή.	Vintern är min favoritårstid.	αγαπημένη	0	0
+Τροχαία ατυχήματα συμβαίνουν καθημερινά.	Trafikolyckor sker varje dag.	συμβαίνουν	0	0
+Θα ήθελα να αγοράσω αυτό το ρολόι, αλλά είναι, δυστυχώς, πολύ ακριβό.	Jag skulle vilja köpa det här armbandsuret men det är tyvärr för dyrt.	αγοράσω	0	0
+Αυτό το βιβλίο ήταν τυπωμένο στα Αγγλικά.	Den här boken är tryckt på engelska.	αγγλικά	0	0
+Τίποτε δεν είναι δωρεάν.	Ingenting är gratis.	δωρεάν	0	0
+Αυτός ανησυχεί για το μέλλον του.	Han oroar sig för sin framtid.	ανησυχεί	0	0
+Είμαι πολύ ευτυχισμένος να σε ξαναδώ.	Jag är väldigt glad att se dig igen.	ξαναδώ	0	0
+Νομίζω ότι ήταν θυμωμένος.	Jag tror att han var arg.	θυμωμένος	0	0
+Πως ονομάζεται ο σκύλος σας;	Vad heter din hund?	σκύλος	0	0
+Μπορώ να διαβάσω χωρίς γυαλιά.	Jag kan läsa utan glasögon.	γυαλιά	0	0
+Τα λέμε Δευτέρα.	Vi ses på måndag.	δευτέρα	0	0
+Πήρα το ασανσέρ μέχρι τον τρίτο όροφο.	Jag tog hissen till tredje våningen.	τρίτο	0	0
+Είναι Σάββατο.	Det är lördag.	σάββατο	0	0
+Ο ορισμός της "οικογένειας" έχει αλλάξει με τα χρόνια.	Familjebegreppet har förändrats med åren.	οικογένειας	0	0
+Πήρα το ασανσέρ μέχρι τον τρίτο όροφο.	Jag tog hissen till tredje våningen.	όροφο	0	0
+Το κάπνισμα επηρεάζει την υγεία σου.	Rökning är skadligt för din hälsa.	υγεία	0	0
+Όνειρα γλυκά!	Dröm sött!	γλυκά	0	0
+Το φιλμ κράτησε δύο ώρες.	Filmen varade i två timmar.	κράτησε	0	0
+Είμαι πολύ ευτυχισμένος να σε ξαναδώ.	Jag är väldigt glad att se dig igen.	ευτυχισμένος	0	0
+Όλοι θα πεθάνουμε κάποια μέρα.	En vacker dag dör vi alla.	πεθάνουμε	0	0
+Κάνει ζέστη σήμερα.	Det är varmt idag.	ζέστη	0	0
+Μπορώ να διαβάσω χωρίς γυαλιά.	Jag kan läsa utan glasögon.	διαβάσω	0	0
+Είμαι λίγο κουρασμένος σήμερα.	Jag är ganska trött idag.	κουρασμένος	0	0
+Ειλικρινά αγαπητή μου, δεν δίνω δεκάρα!	Ärligt talat, kära du, jag bryr mig inte ett skvatt!	δεκάρα	0	0
+Η γυναίκα τρώει ψωμί.	Kvinnan äter bröd.	ψωμί	0	0
+Μου αρέσει να κάθομαι πίσω στο λεωφορείο.	Jag gillar att sitta långt bak i bussen.	κάθομαι	0	0
+Κάθε μέρα πεθαίνουν άνθρωποι.	Människor dör varje dag.	πεθαίνουν	0	0
+Το μέγεθος δεν έχει σημασία.	Storleken har ingen betydelse.	μέγεθος	0	0
+Μου αρέσει το κοτόπουλο.	Jag gillar kyckling.	κοτόπουλο	0	0
+Κανείς δεν με καταλαβαίνει.	Ingen förstår mig.	καταλαβαίνει	0	0
+Έχεις χαθεί;	Har du gått vilse?	χαθεί	0	0
+Δεν μπορώ να απαντήσω την ερώτησή σου.	Jag kan inte besvara din fråga.	απαντήσω	0	0
+Με τον ενθουσιασμό και την αποφασιστικότητα του, είναι παράδειγμα για την υπόλοιπη ομάδα.	Med sin entusiasm och beslutsamhet är han ett föredöme för resten av laget.	υπόλοιπη	0	0
+Ένα χρόνο αργότερα γεννήθηκε ο Παύλος.	Ett år senare föddes Paul.	γεννήθηκε	0	0
+Είναι ξεκάθαρο ότι είπες ψέμματα.	Det är uppenbart att du ljuger.	ψέμματα	0	0
+Διαβάζεις το μπλογκ του Τομ;	Läser du Toms blogg?	διαβάζεις	0	0
+Το σπίτι μου είναι στη δυτική πλευρά του δρόμου.	Mitt hus ligger på väster sida om vägen.	δρόμου	0	0
+Πήρα το ασανσέρ μέχρι τον τρίτο όροφο.	Jag åkte hiss till plan tre.	ασανσέρ	0	0
+Μην αφήνεις τα συναισθήματα σου να φανούν.	Visa inte dina känslor.	συναισθήματα	0	0
+Όποιος ανοίγει το λάκκο του αλλουνού, πέφτει ο ίδιος μέσα.	Den som gräver en grop åt andra faller ofta själv däri.	ανοίγει	0	0
+Έχετε φτηνά δωμάτια;	Har ni billiga rum?	δωμάτια	0	0
+Δεν διαβάζω.	Jag läser inte.	διαβάζω	0	0
+Απλώς ακολούθησε την καρδιά σου.	Bara följ ditt hjärta.	ακολούθησε	0	0
+Είναι εννέα και μισή.	Klockan är halv tio.	εννέα	0	0
+Σε λίγο θα 'μαστε εκεί.	Vi är strax där.	μαστε	0	0
+Αυτός δουλεύει οχτώ ώρες την ημέρα.	Han arbetar åtta timmar om dagen.	οχτώ	0	0
+Είναι εννιά και τέταρτο.	Klockan är kvart över nio.	εννιά	0	0
+Πόσους συνδρομητές έχει αυτό το περιοδικό;	Hur många prenumeranter har den här tidskriften?	περιοδικό	0	0
+Πληρώνω προκαταβολικά.	Jag betalar i förskott.	πληρώνω	0	0
+Δε θα φτάσεις εγκαίρως στο σχολείο.	Du hinner inte i tid till skolan.	φτάσεις	0	0
+Θα ήθελα να πάω στο σινεμά.	Jag skulle vilja gå på bio.	σινεμά	0	0
+Θέλω να σπουδάσω στο εξωτερικό.	Jag vill studera utomlands.	εξωτερικό	0	0
+Η μπέμπα κλαίει.	Bäbisen gråter.	κλαίει	0	0
+Πόσους συνδρομητές έχει αυτό το περιοδικό;	Hur många prenumeranter har den här tidskriften?	πόσους	0	0
+Η ιδιοκτησία είναι κλοπή.	Egendom är stöld.	κλοπή	0	0
+Είναι εννιά και τέταρτο.	Klockan är kvart över nio.	τέταρτο	0	0
+Θα ήθελα να αγοράσω αυτό το ρολόι, αλλά είναι, δυστυχώς, πολύ ακριβό.	Jag skulle vilja köpa det här armbandsuret men det är tyvärr för dyrt.	ακριβό	0	0
+Εμείς τρώμε το πρωινό.	Vi äter frukost.	τρώμε	0	0
+Υπάρχουν πολλές μεγάλες πόλεις στη Βραζιλία.	Det finns många stora städer i Brasilien.	πόλεις	0	0
+Μισώ το χειμώνα.	Jag hatar vintern.	χειμώνα	0	0
+Αυτή πουλάει ναρκωτικά σε συναυλίες.	Hon säljer knark på konserter.	πουλάει	0	0
+Είναι ξεκάθαρο ότι είπες ψέμματα.	Det är uppenbart att du ljuger.	ξεκάθαρο	0	0
+Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	Marina är från Ryssland och Clarissa är från Sverige.	ρωσία	0	0
+Είσαι δεκαεπτά χρόνων;	Är du sjutton?	χρόνων	0	0
+Η ιδιοκτησία είναι κλοπή.	Egendom är stöld.	ιδιοκτησία	0	0
+Οδηγείς σαν μανιακός!	Du kör som en galning!	οδηγείς	0	0
+Τα ταξί είναι ακριβά.	Taxi är dyrt.	ακριβά	0	0
+Αυτός σχεδόν ποτέ δεν εργάζεται.	Han jobbar nästan aldrig.	εργάζεται	0	0
+Τροχαία ατυχήματα συμβαίνουν καθημερινά.	Trafikolyckor sker dagligen.	καθημερινά	0	0
+Έχεις τόσο ωραία γραβάτα.	Du har så snygga slipsar.	γραβάτα	0	0
+Το κάπνισμα επηρεάζει την υγεία σου.	Rökning är skadligt för din hälsa.	επηρεάζει	0	0
+Θα μου λείψεις.	Jag kommer att sakna dig.	λείψεις	0	0
+Αυτός με βοηθά.	Han hjälper mig.	βοηθά	0	0
+Σήμερα η θάλασσα ήταν ζεστή!	I dag var havet varmt!	ζεστή	0	0
+Εγώ μιλώ Σουηδικά.	Jag talar svenska.	μιλώ	0	0
+Αυτή έχει καλό γούστο.	Hon har bra smak.	γούστο	0	0
+Έχω πονοκέφαλο.	Jag har huvudvärk.	πονοκέφαλο	0	0
+Αυτό το αυγό μυρίζει άσχημα.	Det här ägget luktar illa.	αυγό	0	0
+Το φιλμ κράτησε δύο ώρες.	Filmen varade i två timmar.	φιλμ	0	0
+Το σπίτι μου είναι στη δυτική πλευρά του δρόμου.	Mitt hus ligger på väster sida om vägen.	δυτική	0	0
+Ο Θωμάς δεν είναι μαθητής εδώ.	Thomas är inte elev här.	μαθητής	0	0
+Πού είναι η έξοδος;	Var är utgången?	έξοδος	0	0
+Πού είναι η ελληνική πρεσβεία;	Var ligger den grekiska ambassaden?	πρεσβεία	0	0
+Παρήγγειλα νέα έπιπλα.	Jag beställde nya möbler.	έπιπλα	0	0
+Κλείδωσε την πόρτα!	Stäng dörren!	κλείδωσε	0	0
+Ο Τομ κοιμήθηκε.	Tom sov.	κοιμήθηκε	0	0
+Αυτή είναι μια πολύ καλή φράση.	Det här är en jättebra fras.	φράση	0	0
+Ξέρεις πού είναι η Χόλι;	Vet du var Holly är?	χόλι	0	0
+Ανησυχώ για την ασφάλειά της.	Jag oroar mig för din säkerhet.	ασφάλειά	0	0
+Το κάπνισμα επηρεάζει την υγεία σου.	Rökning är skadligt för din hälsa.	κάπνισμα	0	0
+Δεν είστε έτοιμες.	Ni är inte klara.	έτοιμες	0	0
+Δε θα φτάσεις εγκαίρως στο σχολείο.	Du hinner inte i tid till skolan.	εγκαίρως	0	0
+Η απάντησή σου είναι λανθασμένη.	Ditt svar är felaktigt.	απάντησή	0	0
+Ο Tom είπε στη Mary να μην ανησυχεί.	Tom sa till Mary att hon inte skulle oroa sig.	tom	0	0
+Ο Τομ είναι φτωχός.	Tom är fattig.	φτωχός	0	0
+Δεν μπορώ να απαντήσω την ερώτησή σου.	Jag kan inte besvara din fråga.	ερώτησή	0	0
+Το Όσλο είναι η πρωτεύουσα της Νορβηγίας.	Oslo är Norges huvudstad.	πρωτεύουσα	0	0
+Πίνουμε σχεδόν τρια λίτρα νερό σε μια μέρα.	Vi dricker nästan tre liter vatten under en dag.	πίνουμε	0	0
+Τροχαία ατυχήματα συμβαίνουν καθημερινά.	Trafikolyckor sker dagligen.	ατυχήματα	0	0
+Αγαπάτε τη μητέρα σας;	Älskar ni er mor?	αγαπάτε	0	0
+Ο Tom είπε στη Mary να μην ανησυχεί.	Tom sa till Mary att hon inte skulle oroa sig.	mary	0	0
+Αγοράζω έπιπλα από τα ΙΚΕΑ.	Jag köper möbler på Ikea.	αγοράζω	0	0
+Με τον ενθουσιασμό και την αποφασιστικότητα του, είναι παράδειγμα για την υπόλοιπη ομάδα.	Med sin entusiasm och beslutsamhet är han ett föredöme för resten av laget.	ενθουσιασμό	0	0
+Μπορώ να σε προσθέσω στο Facebook;	Får jag lägga till dig på Facebook?	προσθέσω	0	0
+Αύριο ξεκινάω.	Jag börjar imorgon.	ξεκινάω	0	0
+Μερικοί δε μαθαίνουν ποτέ.	Vissa lär sig aldrig.	μαθαίνουν	0	0
+Μπορώ να σε προσθέσω στο Facebook;	Får jag lägga till dig på Facebook?	facebook	0	0
+Έχετε φτηνά δωμάτια;	Har ni billiga rum?	φτηνά	0	0
+Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	Marina är från Ryssland och Clarissa är från Sverige.	μαρίνα	0	0
+Πίνουμε σχεδόν τρια λίτρα νερό σε μια μέρα.	Vi dricker nästan tre liter vatten under en dag.	τρια	0	0
+Υπάρχουν πολλές μεγάλες πόλεις στη Βραζιλία.	Det finns många stora städer i Brasilien.	βραζιλία	0	0
+Αυτός είναι μουγγός και κουφός εκ γενετής.	Han är stum och döv sedan födseln.	κουφός	0	0
+Αυτός διέκοψε την πρότασή σου.	Han avbröt dig mitt i meningen.	πρότασή	0	0
+Παρήγγειλα νέα έπιπλα.	Jag beställde nya möbler.	παρήγγειλα	0	0
+Αυτός είναι ποιητής.	Han är poet.	ποιητής	0	0
+Όποιος ανοίγει το λάκκο του αλλουνού, πέφτει ο ίδιος μέσα.	Den som gräver en grop åt andra faller ofta själv däri.	λάκκο	0	0
+Εγώ διδάσκω.	Jag undervisar.	διδάσκω	0	0
+Οδηγείς σαν μανιακός!	Du kör som en galning!	μανιακός	0	0
+Θα ήθελα να πάω στον κινηματογράφο.	Jag skulle vilja gå på bio.	κινηματογράφο	0	0
+Ο χειμώνας είναι η αγαπημένη μου εποχή.	Vintern är min favoritårstid.	χειμώνας	0	0
+Η Τεχεράνη είναι στο Ιράν.	Teheran ligger i Iran.	ιράν	0	0
+Τηλεφωνήστε την αστυνομία!	Ring polisen!	τηλεφωνήστε	0	0
+Θέλω να πιώ ένα καφέ.	Jag vill ha kaffe.	πιώ	0	0
+Πού είναι η ελληνική πρεσβεία;	Var ligger den grekiska ambassaden?	ελληνική	0	0
+Κανένας από εμας δεν τον είδε.	Ingen av oss såg den.	εμας	0	0
+Δεν έχεις καστανά μάτια.	Du har inte blå ögon.	καστανά	0	0
+Σηκώθηκα στις πέντε το πρωί.	Jag gick upp klockan fem på morgonen.	σηκώθηκα	0	0
+Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	Marina är från Ryssland och Clarissa är från Sverige.	σουηδία	0	0
+Πίνουμε σχεδόν τρια λίτρα νερό σε μια μέρα.	Vi dricker nästan tre liter vatten under en dag.	λίτρα	0	0
+Είμαι άνεργος.	Jag är arbetslös.	άνεργος	0	0
+Ένας καθρέφτης αντανακλά το φως.	En spegel reflekterar ljus.	καθρέφτης	0	0
+Δύο καφέδες, παρακαλώ.	Två kaffe, tack.	καφέδες	0	0
+Αυτός με σύστησε σε όλους τους φίλους του.	Han introducerade mig till alla sina vänner.	σύστησε	0	0
+«Πόσο χρονών είσαι;» «Είμαι δεκαέξι χρονών.»	”Hur gammal är du?” ”Jag är sexton år.”	δεκαέξι	0	0
+Αυτή πουλάει ναρκωτικά σε συναυλίες.	Hon säljer knark på konserter.	συναυλίες	0	0
+Διαβάζεις το μπλογκ του Τομ;	Läser du Toms blogg?	μπλογκ	0	0
+Πληρώνω προκαταβολικά.	Jag betalar i förskott.	προκαταβολικά	0	0
+Ο ορισμός της "οικογένειας" έχει αλλάξει με τα χρόνια.	Familjebegreppet har förändrats med åren.	ορισμός	0	0
+Εγώ είμαι από τη Νορβηγία.	Jag är från Norge.	νορβηγία	0	0
+Μην αφήνεις τα συναισθήματα σου να φανούν.	Visa inte dina känslor.	φανούν	0	0
+Η απάντησή σου είναι λανθασμένη.	Ditt svar är felaktigt.	λανθασμένη	0	0
+Γεια σου Σουζάνα. Πως πάει;	Hej Susanna! Läget?	σουζάνα	0	0
+Ο κόσμος δεν περιστρέφεται γύρω από σας.	Världen kretsar inte kring dig.	περιστρέφεται	0	0
+Με τον ενθουσιασμό και την αποφασιστικότητα του, είναι παράδειγμα για την υπόλοιπη ομάδα.	Med sin entusiasm och beslutsamhet är han ett föredöme för resten av laget.	αποφασιστικότητα	0	0
+Τροχαία ατυχήματα συμβαίνουν καθημερινά.	Trafikolyckor sker varje dag.	τροχαία	0	0
+Αυτό είναι άλογο ή φοράδα;	Är detta en hingst eller ett sto?	φοράδα	0	0
+Είναι ολοκαίνουργιο.	Den är splitter ny.	ολοκαίνουργιο	0	0
+Αυτός διέκοψε την πρότασή σου.	Han avbröt dig mitt i meningen.	διέκοψε	0	0
+Έχω μια νέα διεύθυνση ηλεκτρονικού ταχυδρομείου.	Jag har en ny e-postadress.	ταχυδρομείου	0	0
+Βλέπω ότι έχεις ένα ελληνικό όνομα.	Jag ser att du har ett grekiskt namn.	ελληνικό	0	0
+Δε μιλάω Ιαπωνικά.	Jag kan inte japanska.	ιαπωνικά	0	0
+Μην είσαι τόσο αρνητικός.	Var inte så negativa.	αρνητικός	0	0
+Είναι δυόμισι η ώρα.	Klockan är halv tre.	δυόμισι	0	0
+Το σπίτι μου βρίσκεται στα αριστερά της λεωφόρου.	Mitt hus ligger på vänster sida av gatan.	λεωφόρου	0	0
+Αυτός είναι μουγγός και κουφός εκ γενετής.	Han är stum och döv sedan födseln.	γενετής	0	0
+Η Πάουλα πρέπει να βοηθήσει τον πατέρα της στην κουζίνα.	Paula måste hjälpa hennes pappa i köket.	πάουλα	0	0
+Θέλω να σπουδάσω στο εξωτερικό.	Jag vill studera utomlands.	σπουδάσω	0	0
+Ένας φίλος μου σπουδάζει στο εξωτερικό.	En av mina vänner studerar utomlands.	σπουδάζει	0	0
+Μιλάς Γιαπωνέζικα;	Pratar du japanska?	γιαπωνέζικα	0	0
+Είσαι δεκαεπτά χρόνων;	Är du sjutton år?	δεκαεπτά	0	0
+Πως έλυσες το πρόβλημα;	Hur löste du problemet?	έλυσες	0	0
+Ένα χρόνο αργότερα γεννήθηκε ο Παύλος.	Ett år senare föddes Paul.	παύλος	0	0
+Ένας καθρέφτης αντανακλά το φως.	En spegel reflekterar ljus.	αντανακλά	0	0
+Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	Marina är från Ryssland och Clarissa är från Sverige.	κλαρίσα	0	0
+Ξέχασα το ΡΙΝ μου!	Jag har glömt min PIN-kod!	ριν	0	0
+Άνθρωποι συγκεντρώθηκαν στο πάρκο.	Människor skockade sig i parken.	συγκεντρώθηκαν	0	0
+Έχω μια νέα διεύθυνση ηλεκτρονικού ταχυδρομείου.	Jag har en ny e-postadress.	ηλεκτρονικού	0	0
+Το Όσλο είναι η πρωτεύουσα της Νορβηγίας.	Oslo är Norges huvudstad.	όσλο	0	0
+Πότε αρρώστησες;	När blev du sjuk?	αρρώστησες	0	0
+Η Τεχεράνη είναι στο Ιράν.	Teheran ligger i Iran.	τεχεράνη	0	0
+Χόρτασα.	Jag är mätt.	χόρτασα	0	0
+Η μπέμπα κλαίει.	Bebisen gråter.	μπέμπα	0	0
+Η σύζυγός του είναι Γιαπωνέζα.	Hans fru är japanska.	γιαπωνέζα	0	0
+Μιλάς Πορτογαλικά?	Talar du portugisiska?	πορτογαλικά	0	0
+Εγώ μιλώ Σουηδικά.	Jag talar svenska.	σουηδικά	0	0
+Αγοράζω έπιπλα από τα ΙΚΕΑ.	Jag köper möbler på Ikea.	ικεα	0	0
+Αυτοί είναι χορτοφάγοι.	De är vegetarianer.	χορτοφάγοι	0	0
+Όποιος ανοίγει το λάκκο του αλλουνού, πέφτει ο ίδιος μέσα.	Den som gräver en grop åt andra faller ofta själv däri.	αλλουνού	0	0
+Αυτός είναι μουγγός και κουφός εκ γενετής.	Han är stum och döv från födseln.	μουγγός	0	0
+Αυτό το βιβλίο ήταν τυπωμένο στα Αγγλικά.	Den här boken är tryckt på engelska.	τυπωμένο	0	0
+Το Όσλο είναι η πρωτεύουσα της Νορβηγίας.	Oslo är Norges huvudstad.	νορβηγίας	0	0

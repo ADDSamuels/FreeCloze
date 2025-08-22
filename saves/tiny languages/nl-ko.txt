@@ -1,0 +1,618 @@
+Ik was in de bergen.	나는 산에 있었어.	ik	0	0
+Vanavond kun je een volle maan zien.	오늘밤엔 보름달을 볼 수 있어.	je	0	0
+Het is niet makkelijk om een liefdesbrief te schrijven in het Engels.	영어로 러브레터를 쓰는 것은 쉽지 않다.	het	0	0
+Pyongyang is de hoofdstad van Noord-Korea.	평양은 북한의 수도입니다.	de	0	0
+Iedereen weet dat.	다들 알고 있어.	dat	0	0
+Dat is jouw verantwoordelijkheid.	그건 네 책임이야.	is	0	0
+Het is niet makkelijk om een liefdesbrief te schrijven in het Engels.	영어로 러브레터를 쓰는 것은 쉽지 않다.	een	0	0
+Het spijt me, maar ik weet niet waar u het over hebt.	죄송하지만, 무슨 말인지 모르겠어요.	niet	0	0
+Vandaag is het 18 juni en het is de verjaardag van Muiriel!	오늘은 6월 18일, Muiriel의 생일입니다!	en	0	0
+Tom weet veel van computers.	톰은 컴퓨터에 대해 잘 알아.	van	0	0
+Wat is jouw telefoonnummer?	전화번호가 뭐예요?	wat	0	0
+Laten we naar de bioscoop gaan.	극장에 가자.	we	0	0
+Ik ben in Kyoto geboren.	교토에서 태어났어요.	in	0	0
+Ze is niet getrouwd.	그 사람은 미혼이에요.	ze	0	0
+Hij is niet getrouwd.	그 사람은 미혼이야.	hij	0	0
+Vanavond zijn de sterren niet te zien.	오늘 밤엔 별이 안보이네.	te	0	0
+Ik woonde zijn begrafenis bij.	나는 그의 장례식에 참석했다.	zijn	0	0
+Hoe vaak ga je bij je grootouders op bezoek?	얼마나 자주 조부모님을 방문하니?	op	0	0
+Het spijt me, maar ik weet niet waar u het over hebt.	죄송하지만, 무슨 말인지 모르겠어요.	maar	0	0
+Ik was er toen niet klaar voor.	나는 그때 준비가 되어있지 않았다	er	0	0
+Ik zal met de leraar spreken.	선생님과 이야기하겠습니다.	met	0	0
+Bedankt voor je hulp, Tom.	도와줘서 고마워요, 톰.	voor	0	0
+Is er een bus die naar het vliegveld gaat?	공항까지 가는 버스가 있나요?	die	0	0
+Ik heb mijn portemonnee verloren.	지갑을 잃어버렸어.	heb	0	0
+Trouw met me!	나와 결혼해줘!	me	0	0
+Vandaag is het niet zo koud als gisteren.	오늘은 어제만큼 춥지 않다.	als	0	0
+Ik was er toen niet klaar voor.	나는 그때 준비가 되어있지 않았다	was	0	0
+Ik ben een mens.	나는 사람이다.	ben	0	0
+Ik moet je om een kleine gunst vragen.	너한테 조그만 부탁이 하나 있어.	om	0	0
+Is al dit geld van jou?	이 돈은 전부 네 거야?	dit	0	0
+Ik kan mijn tenen niet voelen.	발가락에 감각이 없다.	mijn	0	0
+Sinaasappels zijn rijk aan vitamine C.	오렌지는 많은 비타민C를 함유하고 있다.	aan	0	0
+Vertel alstublieft wat u hem heeft gegeven.	당신이 그에게 준 것을 얘기해 주세요.	u	0	0
+Er is niets waardevoller dan de liefde.	사랑보다 귀중한 것은 없다.	dan	0	0
+Bent u naar de winkel gegaan?	가게에 갔어요?	naar	0	0
+Iedereen weet dat.	다들 알고 있어.	weet	0	0
+Hier sneeuwt het niet.	여긴 거의 눈이 안 와.	hier	0	0
+Praat niet zo hard.	그렇게 큰 소리로 떠들지 말아주렴.	zo	0	0
+Kan jij skiën?	스키를 탈 수 있어?	jij	0	0
+Tom kan niet tennissen.	톰은 테니스를 못 친다.	kan	0	0
+Waarom koop je geen fiets?	너 왜 자전거 안 사?	geen	0	0
+Ondanks dat hij zijn excuses heeft aangeboden, ben ik nog steeds boos.	그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.	nog	0	0
+Ja.	네.	ja	0	0
+Ze gaf hem een ​​cadeautje.	그녀는 그에게 선물을 주었다.	hem	0	0
+Zij heeft lang haar.	그녀의 머리카락은 길다.	heeft	0	0
+Ik moet gaan slapen.	자야 합니다.	moet	0	0
+Ik wil naar huis gaan.	집에 가고 싶다.	wil	0	0
+Schildpadden hebben geen tanden.	거북이는 이빨이 없습니다.	hebben	0	0
+Seks is goed.	섹스는 좋다.	goed	0	0
+De film maakte haar heel populair.	그 영화는 그녀에게 엄청난 인기를 가져다 주었다.	haar	0	0
+Ja of nee?	예 혹은 아니오?	nee	0	0
+Hoe eerder, hoe beter.	더 빨리할수록 좋다.	hoe	0	0
+Muiriel is nu 20 jaar oud.	Muiriel은 지금 20살입니다.	nu	0	0
+Het spijt me, maar ik weet niet waar u het over hebt.	죄송하지만, 무슨 말인지 모르겠어요.	waar	0	0
+Het spijt me, maar ik weet niet waar u het over hebt.	죄송하지만, 무슨 말인지 모르겠어요.	over	0	0
+Mijn broer is ook mijn zus.	제 남동생은 제 여동생이기도 합니다.	ook	0	0
+Alles ziet er goed uit.	모든 것이 좋게 보였다.	uit	0	0
+Ik ga wat geld halen.	돈 좀 찾아올게.	ga	0	0
+Ja of neen?	예 혹은 아니오?	of	0	0
+Mag ik naar de wc gaan?	화장실에 가도 괜찮을까요?	gaan	0	0
+Bent u kaal?	대머리세요?	bent	0	0
+Hij gaf mij een knipoog.	그는 나에게 윙크를 했다.	mij	0	0
+Ik woonde zijn begrafenis bij.	나는 그의 장례식에 참석했다.	bij	0	0
+Ik kan al Chinese tekens schrijven.	이미 한자를 쓸 수 있어요.	al	0	0
+Hoe kunnen we ons beschermen tegen het coronavirus?	코로나 바이러스로부터 어떻게 우리 몸을 지킬 수 있을까요?	ons	0	0
+Ik had hem nog nooit tevoren gezien.	나는 그를 전에 본 적이 없다.	had	0	0
+Laten we iets proberen!	뭔가 해보자!	iets	0	0
+Het gerucht gaat dat daar schatten verborgen zijn.	그곳에는 보물이 숨겨져 있다는 소문이 있다.	daar	0	0
+Hoeveel hebben jullie gedronken?	술을 얼마나 마셨어요?	jullie	0	0
+Het gerucht gaat dat daar schatten verborgen zijn.	그곳에는 보물이 숨겨져 있다는 소문이 있다.	gaat	0	0
+Zal het vandaag gaan regenen?	오늘 비가 올까요?	zal	0	0
+Hebt ge al een walvis gezien?	고래를 본 적이 있나요?	hebt	0	0
+Kom vlug!	빨리 오세요!	kom	0	0
+Waarom koop je geen fiets?	너 왜 자전거 안 사?	waarom	0	0
+Hij woont hier niet meer.	그는 더 이상 여기에 살지 않아요.	meer	0	0
+Op deze plaats valt bijna geen sneeuw.	이곳은 눈이 거의 내리지 않습니다.	deze	0	0
+Kunnen jullie skiën?	스키를 탈 수 있어요?	kunnen	0	0
+Ik denk, dus ik ben.	나는 생각한다, 고로 나는 존재한다.	dus	0	0
+Met jou wil ik oud worden.	너와 함께 늙어가고 싶어.	jou	0	0
+Ik denk anders dan jij.	내 생각은 너와 달라.	denk	0	0
+Wie zei dat?	누가 그렇게 말했어?	wie	0	0
+Haar man eet alles wat ze hem voorzet.	그녀의 남편은 그녀가 내놓은 것이라면 전부 먹는다.	alles	0	0
+Echt waar?	정말이에요?	echt	0	0
+Wat doe je?	뭐해?	doe	0	0
+De Mona Lisa is geschilderd door Leonardo da Vinci.	모나리자는 레오나르도 다빈치가 그렸어.	door	0	0
+Ik kan alleen voor mezelf praten.	난 나를위해서만 말을할수있어.	alleen	0	0
+Ik maak graag foto's.	나 사진찍는 거 좋아해	s	0	0
+Dat kan je toch niet menen.	진심일 리 없어.	toch	0	0
+Ik wil je zien.	보고 싶어.	zien	0	0
+Leest u dit boek eens.	이 책을 읽으세요.	eens	0	0
+Haar man eet alles wat ze hem voorzet.	그녀의 남편은 그녀가 내놓은 것이라면 전부 먹는다.	man	0	0
+Misschien ben ik te oud.	난 아마 너무 늙었어.	misschien	0	0
+Laten we iets proberen!	뭔가 해보자!	laten	0	0
+Hier komt nooit een eind aan.	이건 절대 끝나지 않을거야.	nooit	0	0
+Wie zei dat?	누가 그렇게 말했어?	zei	0	0
+Ik ben zo terug.	곧 돌아올께요.	terug	0	0
+Oké.	오케이.	oké	0	0
+Er is niets waardevoller dan de liefde.	사랑보다 귀중한 것은 없다.	niets	0	0
+Iemand moet de prijs betalen.	누군가는 값을 치러야 한다.	iemand	0	0
+Wanneer komt de trein?	기차는 언제 오나요?	komt	0	0
+Ik was er toen niet klaar voor.	나는 그때 준비가 되어있지 않았다	toen	0	0
+Tom kan veel beter zwemmen dan Mary.	톰은 메리보다 훨씬 더 수영을 잘 할 수 있다.	veel	0	0
+We hebben onze prijzen niet verhoogd.	저희는 가격 안 올렸어요.	onze	0	0
+We hebben je advies nodig.	우리는 당신의 조언이 필요하다.	nodig	0	0
+Mensen die alleen zijn, zijn alleen omdat ze bang zijn voor andere mensen.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	mensen	0	0
+Welke talen worden in Korea gesproken?	한국에서는 무슨 언어로 말합니까?	worden	0	0
+Ik weet niet wat te zeggen...	뭐라고 말해야 할지 정말 모르겠어...	zeggen	0	0
+Ik weet niet of ik tijd heb.	시간 있는지 잘 모르겠어요.	tijd	0	0
+Ik wil niet leven.	살고 싶지 않아.	leven	0	0
+In deze straat staan twee kerken.	이 거리에는 두 개의 교회가 있습니다.	twee	0	0
+Het onderwijs in deze wereld valt me tegen.	이 세상의 교육이 나를 실망시켜요.	tegen	0	0
+Mijn naam is Cyrille, aangenaam kennis te maken.	내 이름은 시릴이에요, 만나서 반가워요.	maken	0	0
+Hoe zeg je dit woord?	이 단어를 어떻게 발음해요?	zeg	0	0
+Mensen die alleen zijn, zijn alleen omdat ze bang zijn voor andere mensen.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	omdat	0	0
+De rits zit vast.	지퍼가 걸렸어요.	zit	0	0
+De brug wordt gerepareerd.	다리는 수리중입니다.	wordt	0	0
+Ik hou van vreemde talen.	외국어를 좋아해요.	hou	0	0
+De film maakte haar heel populair.	그 영화는 그녀에게 엄청난 인기를 가져다 주었다.	heel	0	0
+Wij eten brood.	우리 빵을 먹어요.	wij	0	0
+Mag ik naar de wc gaan?	화장실에 가도 괜찮을까요?	mag	0	0
+Muiriel is nu 20 jaar oud.	Muiriel은 지금 20살입니다.	jaar	0	0
+Ik ren iedere dag 10 kilometer.	나는 매일 10 킬로미터를 달려.	dag	0	0
+Dat is jouw verantwoordelijkheid.	그건 네 책임이야.	jouw	0	0
+Ik wil naar huis gaan.	집에 가고 싶다.	huis	0	0
+Tom doet dat al.	톰은 이미 그걸 하고 있다.	doet	0	0
+Iedereen zegt dat ik op mijn vader lijk.	모두가 나를 아버지와 꼭 닮았다고 말해.	vader	0	0
+Kunt u skiën?	스키를 탈 수 있어요?	kunt	0	0
+Hoeveel keer moet ik het herhalen?	몇 번을 반복해야 하나요?	keer	0	0
+Mensen die alleen zijn, zijn alleen omdat ze bang zijn voor andere mensen.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	andere	0	0
+Zij woont samen met hem in een klein appartement.	그녀는 작은 아파트에서 그와 함께 살고 있어요.	zij	0	0
+Ik denk anders dan jij.	내 생각은 너와 달라.	anders	0	0
+Geef me een kus.	뽀뽀해줘.	geef	0	0
+Hoeveel waren er?	얼마나 많은 사람들이 거기에 있었어?	waren	0	0
+Bedankt dat je gekomen bent.	와줘서 고마워.	bedankt	0	0
+Ik heb slechts één verzoek.	부탁은 하나뿐	één	0	0
+Russisch is erg moeilijk te leren.	러시아어는 배우기 매우 어렵습니다.	erg	0	0
+Ik kan alleen voor mezelf praten.	난 나를위해서만 말을할수있어.	praten	0	0
+Het spijt me, maar ik begrijp het niet.	죄송하지만, 이해하지 못하겠어요.	spijt	0	0
+Ik ga wat geld halen.	돈 좀 찾아올게.	geld	0	0
+Ik wou dat ik naar Japan kon gaan.	일본에 갈 수 있었으면 좋겠어요.	kon	0	0
+Iedereen wil jou ontmoeten, je bent beroemd!	모두가 너를 만나고 싶어해, 너 유명하네!	iedereen	0	0
+Tom kan veel beter zwemmen dan Mary.	톰은 메리보다 훨씬 더 수영을 잘 할 수 있습니다.	beter	0	0
+Ze werd beroemd.	그녀는 유명해졌다.	werd	0	0
+Niemand was thuis.	집에 아무도 없었다.	niemand	0	0
+Mijn grootvader staat vroeg op.	할아버지는 아침 일찍 일어나셔요.	staat	0	0
+Ik had hem nog nooit tevoren gezien.	나는 그를 전에 본 적이 없다.	gezien	0	0
+Twee kinderen zitten op een hek.	아이 두 명이 담장에 앉아 있어요.	zitten	0	0
+Ik zal u helpen.	제가 도와드릴게요.	helpen	0	0
+Ik wist niet waar te beginnen.	나는 어디서부터 시작해야할지 몰랐다.	wist	0	0
+De rits zit vast.	지퍼가 걸렸어요.	vast	0	0
+Ik ging gisteren naar school.	어제는 학교에 갔습니다.	ging	0	0
+Het was zeven uur dertig.	일곱 시 반이었다.	uur	0	0
+Tom is bijna klaar om te vertrekken.	톰은 떠날 준비가 거의 다 됐대.	klaar	0	0
+Ik maak graag foto's.	나 사진찍는 거 좋아해	maak	0	0
+Zij heeft lang haar.	그녀의 머리카락은 길다.	lang	0	0
+Ik maak graag foto's.	나 사진찍는 거 좋아해	graag	0	0
+Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	drie	0	0
+Iedereen zegt dat ik op mijn vader lijk.	모두가 나를 아버지와 꼭 닮았다고 말해.	zegt	0	0
+Dit maakt me echt blij.	이거 정말 기분 좋다.	maakt	0	0
+Paspoort alsjeblieft.	여권 주세요.	alsjeblieft	0	0
+Het was liefde op het eerste gezicht.	우린 서로 첫눈에 반했어요.	eerste	0	0
+Ondanks dat hij zijn excuses heeft aangeboden, ben ik nog steeds boos.	그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.	steeds	0	0
+Hallo.	안녕.	hallo	0	0
+Alles ziet er goed uit.	모든 것이 좋게 보였다.	ziet	0	0
+Ben jij ooit in Kobe geweest?	너 고베에 가본 적 있어?	geweest	0	0
+De arts adviseerde haar thuis te blijven.	의사는 그녀에게 집에 있으라고 조언했다.	blijven	0	0
+Ik zag haar zwemmen.	나는 그녀가 헤엄치는 것을 봤다.	zag	0	0
+Goede timing!	좋은 타이밍이야.	goede	0	0
+Mijn naam is Jack.	제 이름은 잭입니다.	naam	0	0
+Blijf luisteren.	계속 들어.	blijf	0	0
+Vanavond kun je een volle maan zien.	오늘밤엔 보름달을 볼 수 있어.	kun	0	0
+Het lijkt me goed om nog een foto te maken.	사진을 더 찍었으면 좋았을 텐데.	lijkt	0	0
+Kom snel!	빨리 와!	snel	0	0
+Ben jij ooit in Kobe geweest?	너 고베에 가본 적 있어?	ooit	0	0
+Ik moet je om een kleine gunst vragen.	너한테 조그만 부탁이 하나 있어.	vragen	0	0
+Ik weet niet wanneer ze terug zal zijn.	그녀가 언제 돌아올지 모르겠다.	wanneer	0	0
+Tom is mijn vriend.	톰은 나의 친구다.	vriend	0	0
+Twee kinderen zitten op een hek.	아이 두 명이 담장에 앉아 있어요.	kinderen	0	0
+Vertel mij alstublieft wat er aan de hand is.	무슨 일인지 얘기해 주세요.	hand	0	0
+Pardon, ik heb een vraag.	저기, 부탁이 있는데요.	vraag	0	0
+Ik voel me de laatste tijd gestrest.	최근에 스트레스를 느낍니다.	laatste	0	0
+Dat is geweldig!	잘 됐네요!	geweldig	0	0
+Ze hadden geluk.	그들은 운이 좋았다.	hadden	0	0
+Mensen die alleen zijn, zijn alleen omdat ze bang zijn voor andere mensen.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	bang	0	0
+Zij woont samen met hem in een klein appartement.	그녀는 작은 아파트에서 그와 함께 살고 있어요.	samen	0	0
+Wij eten brood.	우리 빵을 먹어요.	eten	0	0
+In deze straat staan twee kerken.	이 거리에는 두 개의 교회가 있습니다.	staan	0	0
+De jongen drinkt melk.	소년은 우유를 마신다.	jongen	0	0
+Vandaag is het 18 juni en het is de verjaardag van Muiriel!	오늘은 6월 18일, Muiriel의 생일입니다!	vandaag	0	0
+Ons restaurant is het beste.	우리 레스토랑이 최고다.	beste	0	0
+Dat heb ik gezegd.	나는 그렇게 말했어.	gezegd	0	0
+Niemand was thuis.	집에 아무도 없었다.	thuis	0	0
+Het onderwijs in deze wereld valt me tegen.	이 세상의 교육이 나를 실망시켜요.	wereld	0	0
+Ik ken haar niet.	그 사람을 몰라요.	ken	0	0
+Vertel eens wat je hem hebt gegeven.	네가 그에게 준 것을 얘기해 줘.	vertel	0	0
+Kom morgen.	내일 와.	morgen	0	0
+Ik denk niet dat het een groot probleem is.	이게 큰 문제일 것 같진 않은데.	probleem	0	0
+Ik ga wat geld halen.	돈 좀 찾아올게.	halen	0	0
+Toen ik wakker werd, was het bijna middag.	깨어나 보니 정오가 다 되어 있었다.	bijna	0	0
+Een mens moet werken.	사람은 일을 해야한다.	werken	0	0
+Zo gauw ik zat, viel ik in slaap.	앉자마자 잠이 들었다.	zat	0	0
+Het kleine witte konijn vroeg: ''Wat is er aan de hand?''	작고 흰 토끼는 "무슨 일 있니?" 라고 물어봤습니다.	kleine	0	0
+Het spijt me, maar ik begrijp het niet.	죄송하지만, 이해하지 못하겠어요.	begrijp	0	0
+Ik wou dat ik naar Japan kon gaan.	일본에 갈 수 있었으면 좋겠어요.	wou	0	0
+Van welke zanger houdt u?	좋아하는 가수는 누구예요?	houdt	0	0
+Gisteren ben ik vroeg opgestaan.	어제는 일찍 일어났어.	vroeg	0	0
+Volgens mij regent het.	비가 올 것 같아.	volgens	0	0
+Ik voel me de laatste tijd gestrest.	최근에 스트레스를 느낍니다.	voel	0	0
+Dit maakt me echt blij.	이거 정말 기분 좋다.	blij	0	0
+Vanavond ga ik uit met Lisa.	오늘 밤은 리사와 외출할게.	vanavond	0	0
+Vijf is het getal tussen vier en zes.	오는 사와 육 사이의 숫자이다.	tussen	0	0
+Op deze plaats valt bijna geen sneeuw.	이곳은 눈이 거의 내리지 않습니다.	plaats	0	0
+Ik heb nog nooit van deze acteur gehoord.	이 배우는 들어본 적이 없다.	gehoord	0	0
+Vijf is het getal tussen vier en zes.	오는 사와 육 사이의 숫자이다.	vijf	0	0
+Dat is prima!	잘 됐네요!	prima	0	0
+Bedankt voor je hulp, Tom.	도와줘서 고마워요, 톰.	hulp	0	0
+Het spijt me dat mijn uitspraak slecht is.	발음이 나빠서 미안해.	slecht	0	0
+Ik ga nog naar school.	저는 아직 학교에 다녀요.	school	0	0
+Mijn broer woont in een klein dorpje.	내 동생은 한 작은 마을에 살고 있어.	broer	0	0
+Hoeveel hebben jullie gedronken?	술을 얼마나 마셨어요?	hoeveel	0	0
+Welke taal spreken ze in jouw land?	네 나라에서는 무슨 언어로 말해?	spreken	0	0
+Mijn Duitse vriend heet Hans.	내 독일인 친구 이름은 한스예요.	heet	0	0
+Vier van mijn favoriete kerstliederen zijn "Silent Night", "Joy to the World", "The First Noel" en "Away in the Manger".	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	vier	0	0
+Frankrijk ligt in West-Europa.	프랑스는 서유럽에 있습니다.	ligt	0	0
+Welke talen worden in Korea gesproken?	한국에서는 무슨 언어로 말합니까?	welke	0	0
+Laten we iets proberen!	뭔가 해보자!	proberen	0	0
+De dokter raadde haar aan om thuis te blijven.	의사는 그녀에게 집에 있으라고 조언했다.	dokter	0	0
+Tom heeft mooie ogen.	톰은 예쁜 눈을 갖고 있어.	ogen	0	0
+Vandaag heeft hij vrij.	그는 오늘 쉽니다.	vrij	0	0
+Ze gaf hem een ​​cadeautje.	그녀는 그에게 선물을 주었다.	gaf	0	0
+Het lijkt me goed om nog een foto te maken.	사진을 더 찍었으면 좋았을 텐데.	foto	0	0
+Laten we naar een warme plek gaan.	따뜻한 곳에 가자.	plek	0	0
+Deze fles kan twee liter warm water bevatten.	이 병은 온수 2리터를 담을 수 있다.	water	0	0
+Ik wist niet waar te beginnen.	나는 어디서부터 시작해야할지 몰랐다.	beginnen	0	0
+Praat niet zo hard.	그렇게 큰 소리로 떠들지 말아주렴.	praat	0	0
+Hoe eerder, hoe beter.	더 빨리할수록 좋다.	eerder	0	0
+Ik mis je.	보고 싶어.	mis	0	0
+Was de deur van de bank dicht?	은행 문은 닫혀 있었어요?	deur	0	0
+Ik denk niet dat het een groot probleem is.	이게 큰 문제일 것 같진 않은데.	groot	0	0
+Russisch is erg moeilijk te leren.	러시아어는 배우기 매우 어렵습니다.	moeilijk	0	0
+Brazilië is het grootste land van Zuid-Amerika.	브라질은 남미에서 제일 큰 나라야.	land	0	0
+Ik kan gitaar spelen.	기타를 칠 줄 알아요.	spelen	0	0
+Frans brood is lekker.	프랑스 빵은 맛있습니다.	lekker	0	0
+Tom heeft mooie ogen.	톰은 예쁜 눈을 갖고 있어.	mooie	0	0
+Jack werd op tien augustus geboren.	잭은 8월 10일에 태어났다.	tien	0	0
+Vier van mijn favoriete kerstliederen zijn "Silent Night", "Joy to the World", "The First Noel" en "Away in the Manger".	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	the	0	0
+Vijf is het getal tussen vier en zes.	오는 사와 육 사이의 숫자이다.	zes	0	0
+Bedankt dat je gekomen bent.	와줘서 고마워.	gekomen	0	0
+Zij woont samen met hem in een klein appartement.	그녀는 작은 아파트에서 그와 함께 살고 있어요.	klein	0	0
+We hebben kalium in ons lichaam.	우리 몸 속에는 칼륨이 들어 있다.	lichaam	0	0
+Het was liefde op het eerste gezicht.	우린 서로 첫눈에 반했어요.	gezicht	0	0
+Is de bank ver van hier?	그 은행은 여기에서 멉니까?	ver	0	0
+Toen ik wakker werd, was het bijna middag.	깨어나 보니 정오가 다 되어 있었다.	wakker	0	0
+Russisch leren is heel moeilijk.	러시아어는 배우기 매우 어렵습니다.	leren	0	0
+Kleurloze groene ideeën slapen woedend.	색깔없는 녹색의 관념은 분노하며 잠잔다.	slapen	0	0
+Het was liefde op het eerste gezicht.	우린 서로 첫눈에 반했어요.	liefde	0	0
+Vertel mij alstublieft wat er aan de hand is.	무슨 일인지 얘기해 주세요.	alstublieft	0	0
+Hoe vaak bezoek je je grootouders?	얼마나 자주 조부모님을 방문하니?	vaak	0	0
+Muiriel is nu 20 jaar oud.	Muiriel은 지금 20살입니다.	oud	0	0
+Was de deur van de bank dicht?	은행 문은 닫혀 있었어요?	dicht	0	0
+Ik kan alleen voor mezelf praten.	난 나를위해서만 말을할수있어.	mezelf	0	0
+De film maakte haar heel populair.	그 영화는 그녀에게 엄청난 인기를 가져다 주었다.	maakte	0	0
+Ze hadden geluk.	그들은 운이 좋았다.	geluk	0	0
+Mag ik deze kop meenemen?	이 컵 가져도 돼요?	kop	0	0
+Iemand moet de prijs betalen.	누군가는 값을 치러야 한다.	betalen	0	0
+Mijn naam is Jack.	제 이름은 잭입니다.	jack	0	0
+Vertel eens wat je hem hebt gegeven.	네가 그에게 준 것을 얘기해 줘.	gegeven	0	0
+Praat niet zo hard.	그렇게 큰 소리로 떠들지 말아주렴.	hard	0	0
+De toren is zichtbaar vanaf hier.	여기에서 타워가 보여.	vanaf	0	0
+Hoe spreekt men dit woord uit?	이 단어를 어떻게 발음합니까?	woord	0	0
+Mijn broer is ook mijn zus.	제 남동생은 제 여동생이기도 합니다.	zus	0	0
+Ik haat zand.	나는 모래가 싫다.	haat	0	0
+Iedereen wil jou ontmoeten, je bent beroemd!	모두가 너를 만나고 싶어해, 너 유명하네!	ontmoeten	0	0
+Vandaag is het niet zo koud als gisteren.	오늘은 어제만큼 춥지 않다.	gisteren	0	0
+De film maakte haar heel populair.	그 영화는 그녀에게 엄청난 인기를 가져다 주었다.	film	0	0
+Ik heb mijn portemonnee verloren.	지갑을 잃어버렸어.	verloren	0	0
+Lees dit boek.	이 책 읽어.	boek	0	0
+Het onderwijs in deze wereld valt me tegen.	이 세상의 교육이 나를 실망시켜요.	valt	0	0
+Ondanks dat hij zijn excuses heeft aangeboden, ben ik nog steeds boos.	그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.	boos	0	0
+Hoe kunnen we ons tegen het coronavirus beschermen?	코로나 바이러스로부터 어떻게 우리 몸을 지킬 수 있을까요?	beschermen	0	0
+Is er een ziekenhuis dichtbij?	근처에 병원이 있습니까?	ziekenhuis	0	0
+Bent u naar de winkel gegaan?	가게에 갔어요?	gegaan	0	0
+Hij kocht haar een hond.	그는 그녀에게 개를 사주었다.	hond	0	0
+Welke talen worden in Korea gesproken?	한국에서는 무슨 언어로 말합니까?	gesproken	0	0
+Ik kan mijn tenen niet voelen.	발가락에 감각이 없다.	voelen	0	0
+Ik ben een mens.	나는 사람이다.	mens	0	0
+Italië is een prachtig land.	이탈리아는 아주 아름다운 나라입니다.	prachtig	0	0
+Is het niet vreemd?	이상하지 않아?	vreemd	0	0
+Wij voeren koffie in uit Brazilië.	우리는 브라질에서 커피를 수입한다.	koffie	0	0
+Iedereen werd ziek.	모두 병에 걸렸다.	ziek	0	0
+Kom opnieuw.	다시 와.	opnieuw	0	0
+Pardon, ik heb een vraag.	저기, 부탁이 있는데요.	pardon	0	0
+Ze is niet getrouwd.	그 사람은 미혼이에요.	getrouwd	0	0
+Welke browser gebruik je?	너는 어떤 브라우저를 사용하니?	gebruik	0	0
+Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	acht	0	0
+Geen rivier in de wereld is langer dan de Nijl.	나일강만큼 긴 강은 세상에 없다.	langer	0	0
+Des te vroeger, des te beter.	더 빨리할수록 좋다.	vroeger	0	0
+Seks is goed.	섹스는 좋다.	seks	0	0
+Van de vier seizoenen hou ik het meest van de zomer.	나는 사계절 중에 여름을 제일 좋아해.	meest	0	0
+Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	zeven	0	0
+Het was half acht.	일곱 시 반이었다.	half	0	0
+Het is niet makkelijk om een liefdesbrief te schrijven in het Engels.	영어로 러브레터를 쓰는 것은 쉽지 않다.	makkelijk	0	0
+Er was een ongeluk.	사고가 벌어졌다.	ongeluk	0	0
+Haar man eet alles wat ze hem voorzet.	그녀의 남편은 그녀가 내놓은 것이라면 전부 먹는다.	eet	0	0
+Ik heb slechts één verzoek.	부탁은 하나뿐	slechts	0	0
+Die schoenen lijken me te duur.	그 신발은 너무 비싼 것 같아요.	lijken	0	0
+Hoe spreekt men dit woord uit?	이 단어를 어떻게 발음해요?	men	0	0
+Brazilië is het grootste land van Zuid-Amerika.	브라질은 남미에서 제일 큰 나라야.	grootste	0	0
+Tom is bijna klaar om te vertrekken.	톰은 떠날 준비가 거의 다 됐대.	vertrekken	0	0
+Zo gauw ik zat, viel ik in slaap.	앉자마자 잠이 들었다.	slaap	0	0
+Niet naar hem luisteren. Hij maakt maar een grapje.	걔 말 듣지마, 그냥 농담하는 거야.	luisteren	0	0
+Het spijt me van gisteravond.	어젯밤 일은 미안해.	gisteravond	0	0
+Ik viel in slaap.	잠들었다.	viel	0	0
+Waar is de bank?	그 은행은 어디에 있어요?	bank	0	0
+Mijn broer woont in een klein dorpje.	내 동생은 한 작은 마을에 살고 있어.	woont	0	0
+In deze straat staan twee kerken.	이 거리에는 두 개의 교회가 있습니다.	straat	0	0
+Tom is mijn vriend.	톰은 나의 친구다.	tom	0	0
+Ik heb een droom.	나는 꿈이 있어.	droom	0	0
+Vandaag zal opnieuw herinnerd worden als een geweldige dag voor ons.	오늘은 다시 한 번 우리에게 위대한 날로 기억 될 것 입니다.	geweldige	0	0
+Goedemorgen!	안녕하세요.	goedemorgen	0	0
+Ik ren iedere dag 10 kilometer.	나는 매일 10 킬로미터를 달려.	iedere	0	0
+Iemand moet de prijs betalen.	누군가는 값을 치러야 한다.	prijs	0	0
+Thuis heb ik geen tv.	집에 TV가 없어요.	tv	0	0
+Een liefdesbrief in het Engels schrijven is niet makkelijk.	영어로 러브레터를 쓰는 것은 쉽지 않다.	schrijven	0	0
+Een voetbalteam bestaat uit elf spelers.	축구는 11멍의 선수로 팀이 구성된다.	bestaat	0	0
+Hoelang duurt dat?	얼마나 걸리나요?	duurt	0	0
+Ik heb honger.	배고프다	honger	0	0
+Ik ben in Kyoto geboren.	교토에서 태어났어요.	geboren	0	0
+Hoe spreek je dit woord uit?	이 단어를 어떻게 발음해요?	spreek	0	0
+Vandaag is het niet zo koud als gisteren.	오늘은 어제만큼 춥지 않다.	koud	0	0
+Niet naar hem luisteren. Hij maakt maar een grapje.	걔 말 듣지마, 그냥 농담하는 거야.	grapje	0	0
+Tom kan veel beter zwemmen dan Mary.	톰은 메리보다 훨씬 더 수영을 잘 할 수 있다.	mary	0	0
+Iedereen zegt dat ik op mijn vader lijk.	모두가 나를 아버지와 꼭 닮았다고 말해.	lijk	0	0
+Des te sneller des te beter.	더 빨리할수록 좋다.	sneller	0	0
+Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	negen	0	0
+Hier komt nooit een eind aan.	이건 절대 끝나지 않을거야.	eind	0	0
+Ze is zwanger.	그녀는 임신 중입니다.	zwanger	0	0
+Ik heb geen tijd om naar Amerika te gaan.	나는 미국에 갈 시간이 없다.	amerika	0	0
+Sinaasappels zijn rijk aan vitamine C.	오렌지는 많은 비타민C를 함유하고 있다.	rijk	0	0
+Het kleine witte konijn vroeg: ''Wat is er aan de hand?''	작고 흰 토끼는 "무슨 일 있니?" 라고 물어봤습니다.	witte	0	0
+Die schoenen lijken me te duur.	그 신발은 너무 비싼 것 같아요.	schoenen	0	0
+Epstein heeft geen zelfmoord gepleegd.	엡스타인은 자살하지 않았다.	zelfmoord	0	0
+Bent u naar de winkel gegaan?	가게에 갔어요?	winkel	0	0
+Hoe vaak bezoek je je grootouders?	얼마나 자주 조부모님을 방문하니?	bezoek	0	0
+Deze fles kan twee liter warm water bevatten.	이 병은 온수 2리터를 담을 수 있다.	warm	0	0
+Zij rennen.	그들이 달린다.	rennen	0	0
+Onze kinderen zijn echt dol op dieren.	우리 애들은 동물을 정말 좋아해요.	dieren	0	0
+Hoe spreekt men dit woord uit?	이 단어를 어떻게 발음합니까?	spreekt	0	0
+Ik hou van vreemde talen.	외국어를 좋아해요.	vreemde	0	0
+Ik interesseer me echt niet voor geschiedenis.	역사에는 전혀 흥미가 없어.	geschiedenis	0	0
+Is er een bus die naar het vliegveld gaat?	공항까지 가는 버스가 있나요?	bus	0	0
+Ondanks dat hij zijn excuses heeft aangeboden, ben ik nog steeds boos.	그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.	excuses	0	0
+Mag ik deze kop meenemen?	이 컵 가져도 돼요?	meenemen	0	0
+Ik drink nooit bier.	나는 맥주를 절대 마시지 않는다.	drink	0	0
+Is er een ziekenhuis dichtbij?	근처에 병원이 있습니까?	dichtbij	0	0
+Vandaag is het 18 juni en het is de verjaardag van Muiriel!	오늘은 6월 18일, Muiriel의 생일입니다!	verjaardag	0	0
+Wanneer komt de trein?	기차는 언제 오나요?	trein	0	0
+De Mona Lisa is geschilderd door Leonardo da Vinci.	모나리자는 레오나르도 다빈치가 그렸어.	da	0	0
+Tom is erg knap.	톰은 매우 잘생겼어요.	knap	0	0
+Vannacht kun je een volle maan zien.	오늘밤엔 보름달을 볼 수 있어.	vannacht	0	0
+Waarom koop je geen fiets?	너 왜 자전거 안 사?	koop	0	0
+Ik woon in een klein appartement.	나는 작은 아파트에서 살아.	appartement	0	0
+Mijn naam is Cyrille, aangenaam kennis te maken.	내 이름은 시릴이에요, 만나서 반가워요.	kennis	0	0
+Ik ren iedere dag 10 kilometer.	나는 매일 10 킬로미터를 달려.	kilometer	0	0
+Lees dit boek.	이 책 읽어.	lees	0	0
+Ik drink nooit bier.	나는 맥주를 절대 마시지 않는다.	bier	0	0
+Hoelang duurt dat?	얼마나 걸리나요?	hoelang	0	0
+Parijs is de hoofdstad van Frankrijk.	파리는 프랑스의 수도다.	parijs	0	0
+Ons restaurant is het beste.	우리 레스토랑이 최고다.	restaurant	0	0
+Slavernij is een misdaad tegen de menselijkheid.	노예제도는 반인륜적인 범죄야.	misdaad	0	0
+Ik woon in een klein appartement.	나는 작은 아파트에서 살아.	woon	0	0
+Goedenavond.	안녕하세요.	goedenavond	0	0
+We hebben je advies nodig.	우리는 당신의 조언이 필요하다.	advies	0	0
+Gisternacht luisterde ik naar de radio.	어젯밤에 난 라디오를 듣고 있었다.	radio	0	0
+Mijn naam is Cyrille, aangenaam kennis te maken.	내 이름은 시릴이에요, 만나서 반가워요.	aangenaam	0	0
+Vannacht kun je een volle maan zien.	오늘밤엔 보름달을 볼 수 있어.	maan	0	0
+Ik vergeef je.	난 널 용서한다.	vergeef	0	0
+Deze fles kan twee liter warm water bevatten.	이 병은 온수 2리터를 담을 수 있다.	fles	0	0
+Onze kinderen zijn echt dol op dieren.	우리 애들은 동물을 정말 좋아해요.	dol	0	0
+Haar nagels zijn rood.	그 사람의 손톱은 빨간색이야.	rood	0	0
+Tom bezit dit land.	톰이 이 땅을 소유하고 있습니다.	bezit	0	0
+Geen rivier in de wereld is langer dan de Nijl.	나일강만큼 긴 강은 세상에 없다.	rivier	0	0
+Zo gauw ik zat, viel ik in slaap.	앉자마자 잠이 들었다.	gauw	0	0
+De brug wordt gerepareerd.	다리는 수리중입니다.	brug	0	0
+De arts adviseerde haar thuis te blijven.	의사는 그녀에게 집에 있으라고 조언했다.	arts	0	0
+Gisteravond heeft Tom geen avondeten gegeten.	톰은 지난밤에 저녁을 걸렀다.	gegeten	0	0
+Trouw met me!	나와 결혼해줘!	trouw	0	0
+Het is niet makkelijk om een liefdesbrief te schrijven in het Engels.	영어로 러브레터를 쓰는 것은 쉽지 않다.	engels	0	0
+Vier van mijn favoriete kerstliederen zijn "Silent Night", "Joy to the World", "The First Noel" en "Away in the Manger".	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	favoriete	0	0
+Van de vier seizoenen hou ik het meest van de zomer.	나는 사계절 중에 여름을 제일 좋아해.	zomer	0	0
+Kus me.	뽀뽀해줘.	kus	0	0
+Vanavond ga ik uit met Lisa.	오늘 밤은 리사와 외출할게.	lisa	0	0
+Het gerucht gaat dat daar schatten verborgen zijn.	그곳에는 보물이 숨겨져 있다는 소문이 있다.	verborgen	0	0
+Schildpadden hebben geen tanden.	거북이는 이빨이 없습니다.	tanden	0	0
+Ik rook niet.	담배를 피우지 않아요.	rook	0	0
+Wij voeren koffie in uit Brazilië.	우리는 브라질에서 커피를 수입한다.	voeren	0	0
+Waarom lach ik?	나 왜 웃고 있는거지?	lach	0	0
+Vanavond zijn de sterren niet te zien.	오늘 밤엔 별이 안보이네.	sterren	0	0
+Spaans wordt in veel landen gesproken.	스페인어는 많은 국가에서 쓰인다.	landen	0	0
+Ik ben Maria.	메리입니다.	maria	0	0
+Ondanks dat hij zijn excuses heeft aangeboden, ben ik nog steeds boos.	그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.	ondanks	0	0
+Ik woonde zijn begrafenis bij.	나는 그의 장례식에 참석했다.	begrafenis	0	0
+Ik heb een vriend wiens vader dierenarts is.	아버지가 수의사인 친구가 있다.	wiens	0	0
+Parijs is de hoofdstad van Frankrijk.	파리는 프랑스의 수도다.	frankrijk	0	0
+Kleurloze groene ideeën slapen woedend.	색깔없는 녹색의 관념은 분노하며 잠잔다.	ideeën	0	0
+Mijn Duitse vriend heet Hans.	내 독일인 친구 이름은 한스예요.	duitse	0	0
+Frambozen zijn heel duur.	라즈베리는 너무 비싸다.	duur	0	0
+Vier van mijn favoriete kerstliederen zijn "Silent Night", "Joy to the World", "The First Noel" en "Away in the Manger".	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	to	0	0
+De melk is in de koelkast.	우유는 냉장고에 있어요.	melk	0	0
+Hij kocht haar een hond.	그는 그녀에게 개를 사주었다.	kocht	0	0
+Vanavond kun je een volle maan zien.	오늘밤엔 보름달을 볼 수 있어.	volle	0	0
+Ik kan tegenwoordig niet veel slapen.	나는 요즘 잠을 많이 못잤어요.	tegenwoordig	0	0
+Tom kan veel beter zwemmen dan Mary.	톰은 메리보다 훨씬 더 수영을 잘 할 수 있습니다.	zwemmen	0	0
+Des te sneller des te beter.	더 빨리할수록 좋다.	des	0	0
+Dat is jouw verantwoordelijkheid.	그건 네 책임이야.	verantwoordelijkheid	0	0
+Kom vlug!	빨리 오세요!	vlug	0	0
+Ik woonde zijn begrafenis bij.	나는 그의 장례식에 참석했다.	woonde	0	0
+Ik heb slechts één verzoek.	부탁은 하나뿐	verzoek	0	0
+Hoeveel heb je gedronken?	술을 얼마나 마신 거야?	gedronken	0	0
+Een voetbalteam bestaat uit elf spelers.	축구는 11멍의 선수로 팀이 구성된다.	elf	0	0
+Jouw lippen zijn blauw.	당신의 입술이 파랗습니다.	blauw	0	0
+Welke taal spreken ze in jouw land?	네 나라에서는 무슨 언어로 말해?	taal	0	0
+Wij aten eieren.	우리는 계란을 먹었다.	eieren	0	0
+Kleurloze groene ideeën slapen woedend.	색깔없는 녹색의 관념은 분노하며 잠잔다.	groene	0	0
+Ik zal met de leraar spreken.	선생님과 이야기하겠습니다.	leraar	0	0
+Ik was in de bergen.	나는 산에 있었어.	bergen	0	0
+Ja of neen?	예 혹은 아니오?	neen	0	0
+Mag ik naar de wc gaan?	화장실에 가도 괜찮을까요?	wc	0	0
+Ik moet je om een kleine gunst vragen.	너한테 조그만 부탁이 하나 있어.	gunst	0	0
+De jongen eet brood.	소년은 빵을 먹습니다.	brood	0	0
+Is er een bus die naar het vliegveld gaat?	공항까지 가는 버스가 있나요?	vliegveld	0	0
+Ik weet niet wanneer ze terugkomt.	그녀가 언제 돌아올지 모르겠다.	terugkomt	0	0
+Epstein heeft geen zelfmoord gepleegd.	엡스타인은 자살하지 않았다.	gepleegd	0	0
+Ik ren iedere dag 10 kilometer.	나는 매일 10 킬로미터를 달려.	ren	0	0
+De jongen drinkt melk.	소년은 우유를 마신다.	drinkt	0	0
+We zijn studenten.	우리는 대학생이다.	studenten	0	0
+Zwitserland ligt tussen Frankrijk, Italië, Oostenrijk en Duitsland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	duitsland	0	0
+Toen ik wakker werd, was het bijna middag.	깨어나 보니 정오가 다 되어 있었다.	middag	0	0
+Ik zong een lied.	나는 노래를 불렀다.	lied	0	0
+Ik spreek Japans, Engels en Frans.	저는 일본어, 영어, 프랑스어를 할 수 있습니다.	frans	0	0
+Gelukkige verjaardag Muiriel!	생일 축하해 Muiriel!	gelukkige	0	0
+Leest u dit boek eens.	이 책을 읽으세요.	leest	0	0
+Het was zeven uur dertig.	일곱 시 반이었다.	dertig	0	0
+Waarom koop je geen fiets?	너 왜 자전거 안 사?	fiets	0	0
+Ik was verdrietig toen ik opstond.	일어났을 때 슬펐어.	verdrietig	0	0
+We waren in Boston.	우리는 보스턴에 있었다.	boston	0	0
+Laten we naar een warme plek gaan.	따뜻한 곳에 가자.	warme	0	0
+Op deze plaats valt bijna geen sneeuw.	이곳은 눈이 거의 내리지 않습니다.	sneeuw	0	0
+Ik haat zand.	나는 모래가 싫다.	zand	0	0
+Sinaasappels bevatten veel vitamine C.	오렌지는 많은 비타민C를 함유하고 있다.	c	0	0
+Sinaasappels hebben een heleboel vitamine C.	오렌지는 많은 비타민C를 함유하고 있다.	heleboel	0	0
+Twee kinderen zitten op een hek.	아이 두 명이 담장에 앉아 있어요.	hek	0	0
+Jouw lippen zijn blauw.	당신의 입술이 파랗습니다.	lippen	0	0
+Het spijt me als je gekwetst bent.	상처줬다면 미안해.	gekwetst	0	0
+Ik heb een oudere tweelingzus.	내게는 쌍둥이 언니가 있다.	oudere	0	0
+Goedenacht!	잘 자요!	goedenacht	0	0
+Iedereen wil jou ontmoeten, je bent beroemd!	모두가 너를 만나고 싶어해, 너 유명하네!	beroemd	0	0
+Mijn grootvader staat vroeg op.	할아버지는 아침 일찍 일어나셔요.	grootvader	0	0
+Ik kan al Chinese tekens schrijven.	이미 한자를 쓸 수 있어요.	chinese	0	0
+Het komt uit de Bijbel.	그것은 성경에서 나왔습니다.	bijbel	0	0
+Deze soep is te zout.	이 국 너무 짜요.	soep	0	0
+Ik heb hoofdpijn.	머리가 아파요.	hoofdpijn	0	0
+Mijn kamergenoot studeert Chinees.	내 룸메이트는 중국어를 공부하고 있어요.	chinees	0	0
+Laten we naar het theater gaan.	극장에 가자.	theater	0	0
+Japan en Zuid-Korea zijn buurlanden.	일본과 한국은 이웃나라입니다.	japan	0	0
+De toren is zichtbaar vanaf hier.	여기에서 타워가 보여.	toren	0	0
+Ik heb mijn portemonnee verloren.	지갑을 잃어버렸어.	portemonnee	0	0
+Het scheikundige symbool H duidt op waterstof.	화학 기호 H는 수소를 나타낸다.	h	0	0
+Ondanks dat hij zijn excuses heeft aangeboden, ben ik nog steeds boos.	그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.	aangeboden	0	0
+Hij is een man van daden.	그는 행동력 있는 사람이다.	daden	0	0
+De film maakte haar heel populair.	그 영화는 그녀에게 엄청난 인기를 가져다 주었다.	populair	0	0
+De melk is in de koelkast.	우유는 냉장고에 있어요.	koelkast	0	0
+Paspoort alsjeblieft.	여권 주세요.	paspoort	0	0
+Vandaag is het 18 juni en het is de verjaardag van Muiriel!	오늘은 6월 18일, Muiriel의 생일입니다!	juni	0	0
+Italië is een prachtig land.	이탈리아는 아주 아름다운 나라입니다.	italië	0	0
+Deze soep is te zout.	이 국 너무 짜요.	zout	0	0
+Ik heb nog nooit van deze acteur gehoord.	이 배우는 들어본 적이 없다.	acteur	0	0
+Tom weet veel van computers.	톰은 컴퓨터에 대해 잘 알아.	computers	0	0
+Jack is op 10 augustus geboren.	잭은 8월 10일에 태어났다.	augustus	0	0
+Het scheikundige symbool H duidt op waterstof.	화학 기호 H는 수소를 나타낸다.	symbool	0	0
+Goede timing!	좋은 타이밍이야.	timing	0	0
+Gisternacht luisterde ik naar de radio.	어젯밤에 난 라디오를 듣고 있었다.	luisterde	0	0
+Het kleine witte konijn vroeg: ''Wat is er aan de hand?''	작고 흰 토끼는 "무슨 일 있니?" 라고 물어봤습니다.	konijn	0	0
+Berlijn is de hoofdstad van Duitsland.	베를린은 독일의 수도입니다.	berlijn	0	0
+Goedendag.	안녕하세요?	goedendag	0	0
+Heeft u een website?	웹사이트가 있습니까?	website	0	0
+Bevrijd Palestina!	팔레스타인을 해방하라!	bevrijd	0	0
+Het gerucht gaat dat daar schatten verborgen zijn.	그곳에는 보물이 숨겨져 있다는 소문이 있다.	gerucht	0	0
+Pardon, waar is de uitgang?	실례합니다. 출구가 어디인가요?	uitgang	0	0
+Een voetbalteam bestaat uit elf spelers.	축구는 11멍의 선수로 팀이 구성된다.	spelers	0	0
+Haar nagels zijn rood.	그 사람의 손톱은 빨간색이야.	nagels	0	0
+Wat is jouw telefoonnummer?	전화번호가 뭐예요?	telefoonnummer	0	0
+Hoeveel keer moet ik het herhalen?	몇 번을 반복해야 하나요?	herhalen	0	0
+Is dit een recente foto?	이 사진 최근 거에요?	recente	0	0
+Spaans wordt in veel landen gesproken.	스페인어는 많은 국가에서 쓰인다.	spaans	0	0
+Volgens mij regent het.	비가 올 것 같아.	regent	0	0
+We hebben onze prijzen niet verhoogd.	저희는 가격 안 올렸어요.	prijzen	0	0
+Ik kan mijn tenen niet voelen.	발가락에 감각이 없다.	tenen	0	0
+Ik ben Tom Hunter.	저는 Tom Hunter입니다.	hunter	0	0
+Tom is de sterkste.	톰이 가장 강해.	sterkste	0	0
+Het wachtwoord is "Muiriel".	비밀번호는 "Muiriel" 입니다.	wachtwoord	0	0
+Ik kan gitaar spelen.	기타를 칠 줄 알아요.	gitaar	0	0
+Vier van mijn favoriete kerstliederen zijn "Silent Night", "Joy to the World", "The First Noel" en "Away in the Manger".	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	world	0	0
+Het spijt me dat mijn uitspraak slecht is.	발음이 나빠서 미안해.	uitspraak	0	0
+Deze fles kan twee liter warm water bevatten.	이 병은 온수 2리터를 담을 수 있다.	liter	0	0
+Dit is een zilveren munt.	이것은 은으로 만든 동전이다.	zilveren	0	0
+Gisteravond heeft Tom geen avondeten gegeten.	톰은 지난밤에 저녁을 걸렀다.	avondeten	0	0
+Deze fles kan twee liter warm water bevatten.	이 병은 온수 2리터를 담을 수 있다.	bevatten	0	0
+Dit is een zilveren munt.	이것은 은으로 만든 동전이다.	munt	0	0
+Ze viel van de ladder.	그녀는 사다리에서 넘어졌다.	ladder	0	0
+Mijn Duitse vriend heet Hans.	내 독일인 친구 이름은 한스예요.	hans	0	0
+De Mona Lisa is geschilderd door Leonardo da Vinci.	모나리자는 레오나르도 다빈치가 그렸어.	mona	0	0
+Ik zong een lied.	나는 노래를 불렀다.	zong	0	0
+Dat kan je toch niet menen.	진심일 리 없어.	menen	0	0
+Het gerucht gaat dat daar schatten verborgen zijn.	그곳에는 보물이 숨겨져 있다는 소문이 있다.	schatten	0	0
+Kleurloze groene ideeën slapen woedend.	색깔없는 녹색의 관념은 분노하며 잠잔다.	woedend	0	0
+De toren is zichtbaar vanaf hier.	여기에서 타워가 보여.	zichtbaar	0	0
+Russisch is erg moeilijk te leren.	러시아어는 배우기 매우 어렵습니다.	russisch	0	0
+Rookt u?	담배를 피우십니까?	rookt	0	0
+Laten we naar de bioscoop gaan.	극장에 가자.	bioscoop	0	0
+Vier van mijn favoriete kerstliederen zijn "Silent Night", "Joy to the World", "The First Noel" en "Away in the Manger".	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	joy	0	0
+Ik had hem nog nooit tevoren gezien.	나는 그를 전에 본 적이 없다.	tevoren	0	0
+Mijn kamergenoot studeert Chinees.	내 룸메이트는 중국어를 공부하고 있어요.	kamergenoot	0	0
+Het onderwijs in deze wereld valt me tegen.	이 세상의 교육이 나를 실망시켜요.	onderwijs	0	0
+Griekenland heeft veel eilanden.	그리스에는 섬이 많다.	eilanden	0	0
+Vier van mijn favoriete kerstliederen zijn "Silent Night", "Joy to the World", "The First Noel" en "Away in the Manger".	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	night	0	0
+Bent u kaal?	대머리세요?	kaal	0	0
+Vier van mijn favoriete kerstliederen zijn "Silent Night", "Joy to the World", "The First Noel" en "Away in the Manger".	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	first	0	0
+Seoul is de hoofdstad van Zuid-Korea.	서울은 한국의 수도입니다.	hoofdstad	0	0
+Zal het vandaag gaan regenen?	오늘 비가 올까요?	regenen	0	0
+Ik heb een vriend wiens vader dierenarts is.	아버지가 수의사인 친구가 있다.	dierenarts	0	0
+Vandaag zal opnieuw herinnerd worden als een geweldige dag voor ons.	오늘은 다시 한 번 우리에게 위대한 날로 기억 될 것 입니다.	herinnerd	0	0
+Wij aten eieren.	우리는 계란을 먹었다.	aten	0	0
+Ik kan al Chinese tekens schrijven.	이미 한자를 쓸 수 있어요.	tekens	0	0
+Ik ben in Korea geboren.	한국에서 태어났어요.	korea	0	0
+De brug wordt gerepareerd.	다리는 수리중입니다.	gerepareerd	0	0
+Hebt ge al een walvis gezien?	고래를 본 적이 있나요?	walvis	0	0
+Jack werd de tiende augustus geboren.	잭은 8월 10일에 태어났다.	tiende	0	0
+Zwitserland ligt tussen Frankrijk, Italië, Oostenrijk en Duitsland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	zwitserland	0	0
+Vijf is het getal tussen vier en zes.	오는 사와 육 사이의 숫자이다.	getal	0	0
+Ik woon in Alaska.	알래스카에 살아요.	alaska	0	0
+Wij voeren koffie in uit Brazilië.	우리는 브라질에서 커피를 수입한다.	brazilië	0	0
+Hebt ge al een walvis gezien?	고래를 본 적이 있나요?	ge	0	0
+Griekenland heeft veel eilanden.	그리스에는 섬이 많다.	griekenland	0	0
+Mijn kamergenoot studeert Chinees.	내 룸메이트는 중국어를 공부하고 있어요.	studeert	0	0
+Ik spreek Japans, Engels en Frans.	저는 일본어, 영어, 프랑스어를 할 수 있습니다.	japans	0	0
+Welke talen worden in Korea gesproken?	한국에서는 무슨 언어로 말합니까?	talen	0	0
+De Mona Lisa is geschilderd door Leonardo da Vinci.	모나리자는 레오나르도 다빈치가 그렸어.	geschilderd	0	0
+Brazilië is het grootste land van Zuid-Amerika.	브라질은 남미에서 가장 큰 나라입니다.	zuid-amerika	0	0
+Van welke zanger houdt u?	좋아하는 가수는 누구예요?	zanger	0	0
+Dat is een potlood.	그거 연필이야	potlood	0	0
+Ik voel me de laatste tijd gestrest.	최근에 스트레스를 느낍니다.	gestrest	0	0
+Tokio is de hoofdstad van Japan	도쿄는 일본의 수도입니다.	tokio	0	0
+Slavernij is een misdaad tegen de menselijkheid.	노예제도는 반인륜적인 범죄야.	menselijkheid	0	0
+Ik weet niet wanneer ze terugkeert.	그녀가 언제 돌아올지 모르겠다.	terugkeert	0	0
+Slavernij is een misdaad tegen de menselijkheid.	노예제도는 반인륜적인 범죄야.	slavernij	0	0
+Hoe vaak bezoek je je grootouders?	얼마나 자주 조부모님을 방문하니?	grootouders	0	0
+We hebben onze prijzen niet verhoogd.	저희는 가격 안 올렸어요.	verhoogd	0	0
+Mijn favoriete zangeres is Thalía.	내가 좋아하는 가수는 탈리아야.	zangeres	0	0
+Het scheikundige symbool H duidt op waterstof.	화학 기호 H는 수소를 나타낸다.	duidt	0	0
+Grieks is moeilijk te leren.	그리스어를 배우는 것은 어렵다.	grieks	0	0
+De rits zit vast.	지퍼가 걸렸어요.	rits	0	0
+Mijn broer woont in een klein dorpje.	내 동생은 한 작은 마을에 살고 있어.	dorpje	0	0
+Gisteren ben ik vroeg opgestaan.	어제는 일찍 일어났어.	opgestaan	0	0
+Kunt u skiën?	스키를 탈 수 있어요?	skiën	0	0
+Blijf gefocust.	계속 집중하고 있어봐.	gefocust	0	0
+Een ongeluk heeft plaatsgevonden.	사고가 벌어졌다.	plaatsgevonden	0	0
+De Mona Lisa is geschilderd door Leonardo da Vinci.	모나리자는 레오나르도 다빈치가 그렸어.	vinci	0	0
+Zwitserland ligt tussen Frankrijk, Italië, Oostenrijk en Duitsland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	oostenrijk	0	0
+De Mona Lisa is geschilderd door Leonardo da Vinci.	모나리자는 레오나르도 다빈치가 그렸어.	leonardo	0	0
+Ik ben Koreaanse.	한국 사람입니다.	koreaanse	0	0
+In deze straat staan twee kerken.	이 거리에는 두 개의 교회가 있습니다.	kerken	0	0
+Waar is de schroevendraaier?	드라이버 어디 있어?	schroevendraaier	0	0
+Sinaasappels zijn rijk aan vitamine C.	오렌지는 많은 비타민C를 함유하고 있다.	vitamine	0	0
+Van de vier seizoenen hou ik het meest van de zomer.	나는 사계절 중에 여름을 제일 좋아해.	seizoenen	0	0
+Tom is in de sauna.	톰은 사우나에 있어.	sauna	0	0
+Schildpadden hebben geen tanden.	거북이는 이빨이 없습니다.	schildpadden	0	0
+Vier van mijn favoriete kerstliederen zijn "Silent Night", "Joy to the World", "The First Noel" en "Away in the Manger".	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	away	0	0
+Vier van mijn favoriete kerstliederen zijn "Silent Night", "Joy to the World", "The First Noel" en "Away in the Manger".	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	noel	0	0
+Het scheikundige symbool H duidt op waterstof.	화학 기호 H는 수소를 나타낸다.	waterstof	0	0
+Pyongyang is de hoofdstad van Noord-Korea.	평양은 북한의 수도입니다.	noord-korea	0	0
+Hier sneeuwt het niet.	여긴 거의 눈이 안 와.	sneeuwt	0	0
+Gisternacht luisterde ik naar de radio.	어젯밤에 난 라디오를 듣고 있었다.	gisternacht	0	0
+Bevrijd Palestina!	팔레스타인을 해방하라!	palestina	0	0
+Sinaasappels hebben een heleboel vitamine C.	오렌지는 많은 비타민C를 함유하고 있다.	sinaasappels	0	0
+Ik was verdrietig toen ik opstond.	일어났을 때 슬펐어.	opstond	0	0
+Taiwan is een land.	대만은 국가입니다.	taiwan	0	0
+Hij gaf mij een knipoog.	그는 나에게 윙크를 했다.	knipoog	0	0
+Epstein heeft geen zelfmoord gepleegd.	엡스타인은 자살하지 않았다.	epstein	0	0
+De dokter raadde haar aan om thuis te blijven.	의사는 그녀에게 집에 있으라고 조언했다.	raadde	0	0
+Water is doorzichtig.	물은 투명하다.	doorzichtig	0	0
+Seoul is de hoofdstad van Zuid-Korea.	서울은 한국의 수도입니다.	seoul	0	0
+De arts adviseerde haar thuis te blijven.	의사는 그녀에게 집에 있으라고 조언했다.	adviseerde	0	0
+Ik heb een oudere tweelingzus.	내게는 쌍둥이 언니가 있다.	tweelingzus	0	0
+Geen rivier in de wereld is langer dan de Nijl.	나일강만큼 긴 강은 세상에 없다.	nijl	0	0
+Tom kan niet tennissen.	톰은 테니스를 못 친다.	tennissen	0	0
+Er is niets waardevoller dan de liefde.	사랑보다 귀중한 것은 없다.	waardevoller	0	0
+Ben jij ooit in Kobe geweest?	너 고베에 가본 적 있어?	kobe	0	0
+We hebben kalium in ons lichaam.	우리 몸 속에는 칼륨이 들어 있다.	kalium	0	0
+Een voetbalteam bestaat uit elf spelers.	축구는 11멍의 선수로 팀이 구성된다.	voetbalteam	0	0
+Ik ben in Kyoto geboren.	교토에서 태어났다.	kyoto	0	0
+Wat is je lievelingseten?	가장 좋아하는 음식이 뭐야?	lievelingseten	0	0
+Het is niet makkelijk om een liefdesbrief te schrijven in het Engels.	영어로 러브레터를 쓰는 것은 쉽지 않다.	liefdesbrief	0	0
+Ken je de spelregels?	게임의 룰 알고 있어?	spelregels	0	0
+Ik ben Koreaan.	한국 사람입니다.	koreaan	0	0
+Het scheikundige symbool H duidt op waterstof.	화학 기호 H는 수소를 나타낸다.	scheikundige	0	0
+Ik ben Australiër.	저는 호주 사람이에요.	australiër	0	0
+Frambozen zijn heel duur.	라즈베리는 너무 비싸다.	frambozen	0	0
+Seoul is de hoofdstad van Zuid-Korea.	서울은 한국의 수도입니다.	zuid-korea	0	0
+Vier van mijn favoriete kerstliederen zijn "Silent Night", "Joy to the World", "The First Noel" en "Away in the Manger".	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	silent	0	0
+Frankrijk ligt in West-Europa.	프랑스는 서유럽에 있습니다.	west-europa	0	0
+Ik interesseer me echt niet voor geschiedenis.	역사에는 전혀 흥미가 없어.	interesseer	0	0
+Ze was bijna doodgevroren in de sneeuw.	그녀는 눈 속에서 얼어 죽을 뻔했어요	doodgevroren	0	0
+Haar man eet alles wat ze hem voorzet.	그녀의 남편은 그녀가 내놓은 것이라면 전부 먹는다.	voorzet	0	0
+Ik kom uit Taipei.	타이베이에서 왔어요.	taipei	0	0
+Welke browser gebruik je?	너는 어떤 브라우저를 사용하니?	browser	0	0
+Seoel is de hoofdstad van Zuid-Korea.	서울은 한국의 수도예요.	seoel	0	0
+Pyongyang is de hoofdstad van Noord-Korea.	평양은 북한의 수도입니다.	pyongyang	0	0

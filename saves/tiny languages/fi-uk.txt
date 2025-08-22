@@ -1,0 +1,234 @@
+Afrikka on ihmiskunnan kehto.	Африка є колискою людства.	on	0	0
+Vapautta ei osta rahalla.	Свободи за гроші не купиш.	ei	0	0
+Sami ja Laila nukkuvat ullakolla.	Самі та Лайла сплять на горищі.	ja	0	0
+Se on kummallinen kysymys.	Це дивне запитання.	se	0	0
+Missä hän on?	Де він?	hän	0	0
+En tiedä, missä bussibysäkki on.	Я не знаю, де зупинка автобуса.	en	0	0
+Mitä kieliä Koreassa puhutaan?	Якими мовами розмовляють у Кореї?	mitä	0	0
+Luulin, että osaatte ranskaa.	Я думав, що ти спроможний розмовляти на французькій.	että	0	0
+Jotkin Euroopan maat eivät ole osa Euroopan unionia.	Деякі країни Європи не входять до складу Європейського Союзу.	ole	0	0
+Missä minä olen?	Де я?	olen	0	0
+Anteeksi, mutta en puhu suomea.	Вибачте, але я не розмовляю фінською.	mutta	0	0
+Missä minä olen?	Де я?	minä	0	0
+Tämä miekka on kohtalaisessa kunnossa.	Цей меч у досить доброму стані.	tämä	0	0
+En voi ymmärtää hänen tunteitaan.	Я не розумію його почуттів.	voi	0	0
+Oletko sinä sadisti?	Ти садист?	sinä	0	0
+Kuka sinä olet?	Ти хто?	olet	0	0
+Markilla on enemmän rahaa kuin sinulla.	У Марка більше грошей, ніж у тебе.	kuin	0	0
+He eivät aina tottele vanhempiaan.	Вони не завжди слухаються своїх батьків.	he	0	0
+En voi ymmärtää hänen tunteitaan.	Я не розумію його почуттів.	hänen	0	0
+Onko sinulla täällä tylsää?	Ти вважаєш що тут нудно?	täällä	0	0
+Miksi olet pahoillasi jostain, mitä et ole tehnyt?	Чому ти вибачаєшся за те, чого ти не робив?	et	0	0
+Milloin minun täytyy palauttaa raportti?	Коли я маю подати звіт?	minun	0	0
+Missä he ovat?	Де вони?	ovat	0	0
+Hyvä tietää.	Добре знати.	hyvä	0	0
+Onko sinulla täällä tylsää?	Ти вважаєш що тут нудно?	onko	0	0
+Miksi olet pahoillasi jostain, mitä et ole tehnyt?	Чому ти вибачаєшся за те, чого ти не робив?	miksi	0	0
+Minun täytyy muistuttaa sinua lupauksestasi.	Я повинен нагадати тобі про твою обіцянку.	sinua	0	0
+Miten menee?	Як справи?	miten	0	0
+Hotelli Hiltoniin, kiitos.	В готель "Хілтон", прошу.	kiitos	0	0
+Hei Mimi! Mitä kuuluu?	Привіт, Мімі! Як справи?	hei	0	0
+Tämä kirja kertoo kuninkaasta, joka menettää kruununsa.	Це книжка про короля, який втратив свою корону.	joka	0	0
+En tiedä, missä bussibysäkki on.	Я не знаю, де автобусна зупинка.	tiedä	0	0
+Missä minä olen?	Де я?	missä	0	0
+Oletko sinä sadisti?	Ти садистка?	oletko	0	0
+Kuka sä oot?	Ти хто?	kuka	0	0
+Anteeksi, mutta en puhu suomea.	Перепрошую, але я не говорю фінською.	anteeksi	0	0
+Keitän sinulle teetä.	Я зроблю тобі чай.	sinulle	0	0
+Tomi on jo hereillä.	Том вже прокинувся.	jo	0	0
+Olemme sukua.	Ми родичі.	olemme	0	0
+Jotkin Euroopan maat eivät ole osa Euroopan unionia.	Деякі країни Європи не входять до складу Європейського Союзу.	eivät	0	0
+Onko sinulla täällä tylsää?	Ти вважаєш що тут нудно?	sinulla	0	0
+Minun täytyy muistuttaa sinua lupauksestasi.	Я повинен нагадати тобі про твою обіцянку.	täytyy	0	0
+He eivät aina tottele vanhempiaan.	Вони не завжди слухаються своїх батьків.	aina	0	0
+Se on minun CDni, eikö olekin?	Це мій CD, чи не так?	eikö	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	yksi	0	0
+Olisitko kiltti ja toistaisit mitä juuri sanoit?	Чи могли б ви, будь ласка, повторити те, що тільки що сказали?	juuri	0	0
+Kumpi on suurempi; Aurinko vai Kuu?	Що більше - Сонце чи Земля?	vai	0	0
+Meillä ei ole paavia!	У нас немає Папи Римського!	meillä	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	kaksi	0	0
+Hyvä tietää.	Добре знати.	tietää	0	0
+Hyvää päivää.	Добрий день.	hyvää	0	0
+Kunnossa!	Усе гаразд.	kunnossa	0	0
+Minusta tuli Tomin ystävä.	Я став другом Тома.	minusta	0	0
+Luulen, ettei meitä ole kutsuttu.	Думаю, ми не запрошені.	ettei	0	0
+Minusta tuli Tomin ystävä.	Я став другом Тома.	tuli	0	0
+Luulen, ettei meitä ole kutsuttu.	Думаю, ми не запрошені.	meitä	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	kolme	0	0
+Tom menee kouluun jalan.	Том пішки ходить до школи.	menee	0	0
+Miellyttääkö teitä vaatteeni?	Вам подобається мій одяг?	teitä	0	0
+Miksi olet pahoillasi jostain, mitä et ole tehnyt?	Чому ти вибачаєшся за те, чого ти не робив?	tehnyt	0	0
+Markilla on enemmän rahaa kuin sinulla.	У Марка більше грошей, ніж у тебе.	enemmän	0	0
+Missä olit?	Де ти був?	olit	0	0
+Luulin, että osaatte ranskaa.	Я думав, що ти спроможний розмовляти на французькій.	luulin	0	0
+Rakastan Ukrainaa.	Я люблю Україну.	rakastan	0	0
+Tulen.	Прийду.	tulen	0	0
+Markilla on enemmän rahaa kuin sinulla.	У Марка більше грошей, ніж у тебе.	rahaa	0	0
+Tämä kännykkä on tosi kallis.	Ця мобілка дуже дорога.	tosi	0	0
+En ole tohtori.	Я не лікар.	tohtori	0	0
+Hyvää päivää.	Добрий день.	päivää	0	0
+Olisitko kiltti ja toistaisit mitä juuri sanoit?	Чи могли б ви, будь ласка, повторити те, що тільки що сказали?	sanoit	0	0
+Milloin minun täytyy palauttaa raportti?	Коли я маю подати звіт?	milloin	0	0
+Minäkin pelaan shakkia.	Я теж граю в шахи.	minäkin	0	0
+Tomi on paras pelaajamme.	Том - наш найкращій гравець.	paras	0	0
+Alas!	Вниз!	alas	0	0
+Mitä kuuluu?	Як справи?	kuuluu	0	0
+Isäni tykkää matkustaa lentokoneella.	Мій батько полюбляє подорожувати літаком.	isäni	0	0
+Anteeksi, mutta en puhu suomea.	Вибачте, але я не розмовляю фінською.	puhu	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	viisi	0	0
+Luulen, ettei meitä ole kutsuttu.	Думаю, ми не запрошені.	luulen	0	0
+Olisitko kiltti ja toistaisit mitä juuri sanoit?	Чи могли б ви, будь ласка, повторити те, що тільки що сказали?	kiltti	0	0
+Hän eli onnellista elämää.	Вона прожила щасливе життя.	eli	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	neljä	0	0
+Olivatko vanhempasi kotona?	Твої батьки були вдома?	kotona	0	0
+Melkein!	Майже!	melkein	0	0
+Jotkin Euroopan maat eivät ole osa Euroopan unionia.	Деякі країни Європи не входять до складу Європейського Союзу.	osa	0	0
+Hyvää päivää. Hauska tutustua.	Доброго дня. Приємно познайомитися.	hauska	0	0
+Siskoni hoitaa usein vauvaa.	Моя сестра часто доглядає малюка.	hoitaa	0	0
+Toimi.	Дій.	toimi	0	0
+Se on kummallinen kysymys.	Це дивне запитання.	kysymys	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	kuusi	0	0
+Kuka sä oot?	Ти хто?	sä	0	0
+Se on minun CDni, eikö olekin?	Це мій CD, чи не так?	olekin	0	0
+Minusta tuli Tomin ystävä.	Я став другом Тома.	ystävä	0	0
+Siskoni hoitaa usein vauvaa.	Моя сестра часто доглядає малюка.	usein	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	kymmenen	0	0
+En voi ymmärtää hänen tunteitaan.	Я не розумію його почуттів.	ymmärtää	0	0
+Tom hymyili.	Том посміхнувся.	tom	0	0
+Tämä kirja kertoo kuninkaasta, joka menettää kruununsa.	Це книжка про короля, який втратив свою корону.	kertoo	0	0
+Mitä kieliä Koreassa puhutaan?	Якими мовами розмовляють у Кореї?	puhutaan	0	0
+Hän eli onnellista elämää.	Вона прожила щасливе життя.	elämää	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	seitsemän	0	0
+En ole lääkäri.	Я не лікар.	lääkäri	0	0
+Hae hattuni.	Принесіть мені мій капелюх.	hae	0	0
+Joulupukki asuu Suomessa.	Санта-Клаус живе у Фінляндії.	asuu	0	0
+Idiootti.	Ідіот.	idiootti	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	kahdeksan	0	0
+Miksi olet pahoillasi jostain, mitä et ole tehnyt?	Чому ти вибачаєшся за те, чого ти не робив?	jostain	0	0
+Mun.	Моє.	mun	0	0
+Kiitti!	Дякую!	kiitti	0	0
+Tämä kirja kertoo kuninkaasta, joka menettää kruununsa.	Це книжка про короля, який втратив свою корону.	menettää	0	0
+Onko se vaarallista?	Це небезпечно?	vaarallista	0	0
+Kuunnelkaa...	Слухайте...	kuunnelkaa	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять.	yhdeksän	0	0
+Kunnia Ukrainalle! Kunnia sankareille!	Слава Україні! Героям слава!	kunnia	0	0
+Tomin tytär on eronnut.	Томова дочка розлучена.	tytär	0	0
+Tämä kirja kertoo kuninkaasta, joka menettää kruununsa.	Це книжка про короля, який втратив свою корону.	kirja	0	0
+Mari tykkää romanttisista komedioista.	Мері любить романтичні комедії.	tykkää	0	0
+Tom menee kouluun jalan.	Том пішки ходить до школи.	kouluun	0	0
+Keitän sinulle teetä.	Я зроблю тобі чай.	teetä	0	0
+Kumpi on suurempi; Aurinko vai Kuu?	Що більше - Сонце чи Земля?	kumpi	0	0
+Siskoni hoitaa usein vauvaa.	Моя сестра часто доглядає малюка.	siskoni	0	0
+Minun täytyy muistuttaa sinua lupauksestasi.	Я повинен нагадати тобі про твою обіцянку.	muistuttaa	0	0
+Tomi on jo hereillä.	Том вже прокинувся.	hereillä	0	0
+Hyvää päivää. Hauska tutustua.	Доброго дня. Приємно познайомитися.	tutustua	0	0
+Tomi liittyi Saatanan kirkkoon.	Том вступив до Церкви Сатани.	saatanan	0	0
+Varokaa!	Обережно.	varokaa	0	0
+Aurinko on tähti.	Сонце - це зірка.	aurinko	0	0
+Hölmö.	Дурник.	hölmö	0	0
+Onko sinulla täällä tylsää?	Ти вважаєш що тут нудно?	tylsää	0	0
+Kissat syövät lihaa.	Коти їдять м'ясо.	lihaa	0	0
+Milloin minun täytyy palauttaa raportti?	Коли я маю подати звіт?	palauttaa	0	0
+Vapautta ei osta rahalla.	Свободи за гроші не купиш.	osta	0	0
+Aurinko on tähti.	Сонце - зірка.	tähti	0	0
+Nauti!	Насолоджуйся.	nauti	0	0
+Kuka sä oot?	Ти хто?	oot	0	0
+Voitin melkein.	Я майже перемогла.	voitin	0	0
+Surullista.	Сумно.	surullista	0	0
+Olivatko vanhempasi kotona?	Твої батьки були вдома?	vanhempasi	0	0
+Kumpi on suurempi; Aurinko vai Kuu?	Що більше - Сонце чи Земля?	suurempi	0	0
+Rentoudu.	Розслабся.	rentoudu	0	0
+Kissat syövät lihaa.	Коти їдять м'ясо.	syövät	0	0
+Olemme sukua.	Ми рідня.	sukua	0	0
+Tämä kännykkä on tosi kallis.	Ця мобілка дуже дорога.	kallis	0	0
+Hotelli Hiltoniin, kiitos.	В готель "Хілтон", прошу.	hotelli	0	0
+Luulen, ettei meitä ole kutsuttu.	Думаю, ми не запрошені.	kutsuttu	0	0
+Isäni tykkää matkustaa lentokoneella.	Мій батько полюбляє подорожувати літаком.	matkustaa	0	0
+Onko silta turvallinen?	Чи міст безпечний?	turvallinen	0	0
+Soitetaan.	Зідзвонимось.	soitetaan	0	0
+Herkullista!	Смачно!	herkullista	0	0
+Milloin minun täytyy palauttaa raportti?	Коли я маю подати звіт?	raportti	0	0
+He eivät aina tottele vanhempiaan.	Вони не завжди слухаються своїх батьків.	tottele	0	0
+Olisitko kiltti ja toistaisit mitä juuri sanoit?	Чи могли б ви, будь ласка, повторити те, що тільки що сказали?	olisitko	0	0
+Jooko?	Домовилися?	jooko	0	0
+Tämä miekka on kohtalaisessa kunnossa.	Цей меч у досить доброму стані.	miekka	0	0
+Kumpi on suurempi; Aurinko vai Kuu?	Що більше - Сонце чи Земля?	kuu	0	0
+Olivatko vanhempasi kotona?	Твої батьки були вдома?	olivatko	0	0
+Siskoni hoitaa usein vauvaa.	Моя сестра часто доглядає малюка.	vauvaa	0	0
+Tanssin itsekseni.	Я танцював сам.	tanssin	0	0
+Afrikka on ihmiskunnan kehto.	Африка є колискою людства.	ihmiskunnan	0	0
+Tom menee kouluun jalan.	Том пішки ходить до школи.	jalan	0	0
+Tomi liittyi Saatanan kirkkoon.	Том вступив до Церкви Сатани.	kirkkoon	0	0
+Tomi liittyi Saatanan kirkkoon.	Том вступив до Церкви Сатани.	liittyi	0	0
+Joulupukki asuu Suomessa.	Санта-Клаус живе у Фінляндії.	joulupukki	0	0
+Pysähtykää.	Зупиніться.	pysähtykää	0	0
+Minäkin pelaan shakkia.	І я граю в шахи.	pelaan	0	0
+Onko silta turvallinen?	Чи міст безпечний?	silta	0	0
+Jotkin Euroopan maat eivät ole osa Euroopan unionia.	Деякі країни Європи не входять до складу Європейського Союзу.	euroopan	0	0
+Vapautta ei osta rahalla.	Свободи за гроші не купиш.	rahalla	0	0
+Miksi Tom opettelee ranskaa?	Чому Том вивчає французьку?	ranskaa	0	0
+Milloin sinä nukut?	Коли ти спиш?	nukut	0	0
+Tomin tytär on eronnut.	Томова дочка розлучена.	eronnut	0	0
+Miksi olet pahoillasi jostain, mitä et ole tehnyt?	Чому ти вибачаєшся за те, чого ти не робив?	pahoillasi	0	0
+Minusta tuli Tomin ystävä.	Я став другом Тома.	tomin	0	0
+Tämä kännykkä on tosi kallis.	Ця мобілка дуже дорога.	kännykkä	0	0
+Vapautta ei osta rahalla.	Свободи за гроші не купиш.	vapautta	0	0
+Hän on tajuton.	Він непритомний.	tajuton	0	0
+Selvisit.	Ти справився.	selvisit	0	0
+Jotkin Euroopan maat eivät ole osa Euroopan unionia.	Деякі країни Європи не входять до складу Європейського Союзу.	jotkin	0	0
+Sami ja Laila nukkuvat ullakolla.	Самі та Лайла сплять на горищі.	nukkuvat	0	0
+Hän pelasi tennistä.	Він грав у теніс.	pelasi	0	0
+Miellyttääkö teitä vaatteeni?	Вам подобається мій одяг?	vaatteeni	0	0
+Luulin, että osaatte ranskaa.	Я думав, що ти спроможний розмовляти на французькій.	osaatte	0	0
+Avoinna!	Відчинено!	avoinna	0	0
+Jotkin Euroopan maat eivät ole osa Euroopan unionia.	Деякі країни Європи не входять до складу Європейського Союзу.	maat	0	0
+Järjestetty?	Усе організовано?	järjestetty	0	0
+Hän eli onnellista elämää.	Вона прожила щасливе життя.	onnellista	0	0
+Se on kummallinen kysymys.	Це дивне запитання.	kummallinen	0	0
+Kissat syövät lihaa.	Коти їдять м'ясо.	kissat	0	0
+Tanssin itsekseni.	Я танцювала сама.	itsekseni	0	0
+Venäjä on terroristivaltio.	Росія — терористична держава.	venäjä	0	0
+Tom hymyili.	Том посміхнувся.	hymyili	0	0
+Hei Mimi! Mitä kuuluu?	Привіт, Мімі! Як справи?	mimi	0	0
+Korjasin!	Я виправив.	korjasin	0	0
+Oletko japanilainen?	Ви японець?	japanilainen	0	0
+Artikkeli heijastaa kirjoittajan mielipidettä.	Стаття висловлює особисту думку автора.	artikkeli	0	0
+Potkaise!	Бий ногою.	potkaise	0	0
+Keitän sinulle teetä.	Я зроблю тобі чай.	keitän	0	0
+Hän pelasi tennistä.	Він грав у теніс.	tennistä	0	0
+Minäkin pelaan shakkia.	І я граю в шахи.	shakkia	0	0
+Artikkeli heijastaa kirjoittajan mielipidettä.	Стаття висловлює особисту думку автора.	mielipidettä	0	0
+En voi ymmärtää hänen tunteitaan.	Я не розумію його почуттів.	tunteitaan	0	0
+Hae hattuni.	Принесіть мені мій капелюх.	hattuni	0	0
+Sami ja Laila nukkuvat ullakolla.	Самі та Лайла сплять на горищі.	ullakolla	0	0
+Mitä kieliä Koreassa puhutaan?	Якими мовами розмовляють у Кореї?	kieliä	0	0
+Tämä sieni on myrkyllinen.	Цей гриб отруйний.	myrkyllinen	0	0
+Muistele!	Пам'ятай!	muistele	0	0
+Kiova on Ukrainan pääkaupunki.	Столиця України - Київ.	pääkaupunki	0	0
+Tämä sieni on myrkyllinen.	Цей гриб отруйний.	sieni	0	0
+He eivät aina tottele vanhempiaan.	Вони не завжди слухаються своїх батьків.	vanhempiaan	0	0
+Ryntää!	Штурмуй!	ryntää	0	0
+Vuorotellen.	По черзі.	vuorotellen	0	0
+Afrikka on ihmiskunnan kehto.	Африка є колискою людства.	afrikka	0	0
+Mari tykkää romanttisista komedioista.	Мері любить романтичні комедії.	mari	0	0
+Juotte teetä.	Пий чай.	juotte	0	0
+Mitä kieliä Koreassa puhutaan?	Якими мовами розмовляють у Кореї?	koreassa	0	0
+Kiroile!	Лайся матом!	kiroile	0	0
+Isäni tykkää matkustaa lentokoneella.	Мій батько полюбляє подорожувати літаком.	lentokoneella	0	0
+Tom on miljardööri.	Том є мільярдер.	miljardööri	0	0
+Artikkeli heijastaa kirjoittajan mielipidettä.	Стаття висловлює особисту думку автора.	heijastaa	0	0
+Hei, Tommi!	Привіт, Томе!	tommi	0	0
+Tämä kirja kertoo kuninkaasta, joka menettää kruununsa.	Це книжка про короля, який втратив свою корону.	kuninkaasta	0	0
+Miksi Tom opettelee ranskaa?	Чому Том вивчає французьку?	opettelee	0	0
+Avoimena!	Відчинено!	avoimena	0	0
+Sami ja Laila nukkuvat ullakolla.	Самі та Лайла сплять на горищі.	sami	0	0
+Artikkeli heijastaa kirjoittajan mielipidettä.	Стаття висловлює особисту думку автора.	kirjoittajan	0	0
+Sami ja Laila nukkuvat ullakolla.	Самі та Лайла сплять на горищі.	laila	0	0
+Joulupukki asuu Suomessa.	Санта-Клаус живе у Фінляндії.	suomessa	0	0
+Hän on kahdeksanvuotias.	Йому вісім років.	kahdeksanvuotias	0	0
+Oletko sinä sadisti?	Ти садист?	sadisti	0	0
+Kiova on Ukrainan pääkaupunki.	Столиця України - Київ.	ukrainan	0	0
+Afrikka on ihmiskunnan kehto.	Африка є колискою людства.	kehto	0	0
+Meillä ei ole paavia!	У нас немає Папи Римського!	paavia	0	0
+Oppikaa!	Вчіться.	oppikaa	0	0
+Anteeksi, mutta en puhu suomea.	Перепрошую, але я не говорю фінською.	suomea	0	0

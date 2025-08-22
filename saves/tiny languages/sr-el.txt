@@ -1,0 +1,744 @@
+Ona je želela da bude sama.	Αυτή ήθελε να μείνει μόνη.	da	0	0
+Ispred moje kuće je bilo veliko drvo.	Μπροστά στο σπίτι μου υπήρχε ένα μεγάλο δέντρο.	je	0	0
+Ne.	Όχι.	ne	0	0
+Da li me se sećaš?	Μήπως με θυμάσαι;	se	0	0
+Kupio je jaja i mleko od seljaka.	Αυτός αγόρασε αυγά και γάλα από αγρότη.	i	0	0
+Ataturk je rođen 1881, u Solunu.	Ο Ατατούρκ γεννήθηκε το 1881, στη Θεσσαλονίκη.	u	0	0
+Ne verujem u to.	Δεν το πιστεύω.	to	0	0
+Ja sam spreman, a ti?	Εγώ είμαι έτοιμος, εσύ;	sam	0	0
+Tom je išao na plažu prošle nedelje.	Ο Τομ πήγε στην πλαζ την περασμένη εβδομάδα.	na	0	0
+Ova knjiga će ti pomoći da naučiš da pišeš efektno.	Αυτό το βιβλίο θα σε βοηθήσει να μάθεις να γράφεις αποτελεσματικά.	ti	0	0
+Svi mi lažemo.	Όλοι εμείς ψευδόμαστε.	mi	0	0
+On radi za banku.	Αυτός δουλεύει στην τράπεζα.	za	0	0
+Kome si to dao?	Σε ποιόν το έδωσες αυτό;	si	0	0
+Da li imate japansko pivo?	Μήπως έχετε γιαπωνέζικη μπύρα;	li	0	0
+Šta imate tamo?	Τι έχετε εκεί;	šta	0	0
+Ja ne mogu da živim takav život.	Δεν μπορώ να ζήσω τέτοια ζωή.	ja	0	0
+Tomova odeća je bila stara, ali čista.	Τα ρούχα του Τομ είναι παλιά, αλλά καθαρά.	ali	0	0
+Hoću da idem sa tobom.	Θέλω να πάω μαζί σου.	sa	0	0
+Ajkule su dobri plivači.	Οι καρχαρίες είναι καλοί κολυμβητές.	su	0	0
+Tom nije ovde.	Ο Τομ δεν είναι εδώ.	nije	0	0
+Ovo je iz Australije.	Αυτό είναι από την Αυστραλία.	ovo	0	0
+Ti me razumeš.	Με καταλαβαίνεις.	me	0	0
+Mrzim te.	Σε μισώ.	te	0	0
+Žene obično žive duže od muškaraca.	Οι γυναίκες συνήθως ζούνε περισσότερο από τους άντρες.	od	0	0
+Marina je iz Rusije, a Clarissa je iz Švedske.	Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	a	0	0
+Kako ti je žena?	Τι κάνει η γυναίκα σου;	kako	0	0
+Reci mi nešto o tvojoj porodici.	Πες μου κάτι σχετικά με την οικογένειά σου.	o	0	0
+Ona je dobro.	Αυτή είναι καλή.	dobro	0	0
+Niko ne može da zna sve.	Κανένας δεν μπορεί να γνωρίζει τα πάντα.	sve	0	0
+Voziš kao manijak!	Οδηγείς σαν μανιακός!	kao	0	0
+Ova knjiga će ti pomoći da pišeš efikasno.	Αυτό το βιβλίο θα σε βοηθήσει να γράψεις αποτελεσματικά.	će	0	0
+Imaš tako lepu kravatu.	Έχεις τόσο ωραία γραβάτα.	tako	0	0
+Znam tvoje ime.	Ξέρω το όνομά σου.	znam	0	0
+Nisam siguran da je to dobra ideja.	Δεν είμαι σίγουρος ότι αυτή είναι καλή ιδέα.	nisam	0	0
+Mogu li da vidim Vaš pasoš?	Μήπως μπορώ να δω το διαβατήριό σας;	mogu	0	0
+Tom nije ovde.	Ο Τομ δεν είναι εδώ.	ovde	0	0
+Bio sam u Rimu.	Ήμουν στη Ρώμη.	bio	0	0
+Zašto?	Γιατί;	zašto	0	0
+Oni nemaju ništa zajedničko s nama.	Αυτοί δεν έχουν τίποτε κοινό μαζί μας.	s	0	0
+Želim da kupim ovaj sat, ali je on, nažalost, preskup.	Θα ήθελα να αγοράσω αυτό το ρολόι, αλλά είναι, δυστυχώς, πολύ ακριβό.	on	0	0
+Reci mi nešto o tvojoj porodici.	Πες μου κάτι σχετικά με την οικογένειά σου.	nešto	0	0
+Koliko ljudi je bilo tamo?	Πόσοι άνθρωποι ήσαν εκεί;	bilo	0	0
+Moj sat mora biti popravljen.	Το ρολόι μου πρέπει να επιδιορθωθεί.	biti	0	0
+Ne razumem vas.	Δεν σας καταλαβαίνω.	vas	0	0
+Hvala na informaciji.	Ευχαριστώ για την πληροφορία.	hvala	0	0
+Marina je iz Rusije, a Clarissa je iz Švedske.	Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	iz	0	0
+Mislim da si u pravu.	Νομίζω ότι έχεις δίκιο.	mislim	0	0
+Koliko pretplatnika ima ovaj časopis?	Πόσους συνδρομητές έχει αυτό το περιοδικό;	ima	0	0
+Kafa ili čaj?	Καφέ ή τσάι;	ili	0	0
+Možda si u pravu.	Μπορεί να έχεις δίκιο.	možda	0	0
+Šta više voliš: planine ili more?	Τι σου αρέσει περισσότερο; τα βουνά ή η θάλασσα;	više	0	0
+Gde je votka?	Που είναι η βότκα;	gde	0	0
+Шта тачно намераваш да урадиш?	Τι ακριβώς σκοπεύεις να κάνεις;	да	0	0
+Voleo bih da znam da plivam.	Θα ήθελα να ήξερα να κολυμπάω.	bih	0	0
+Moj sat mora biti popravljen.	Το ρολόι μου πρέπει να επιδιορθωθεί.	moj	0	0
+Tomova odeća je bila stara, ali čista.	Τα ρούχα του Τομ είναι παλιά, αλλά καθαρά.	bila	0	0
+Hajde da slušamo malo muzike.	Άντε να ακούσουμε λίγη μουσική.	malo	0	0
+Kada odlaziš?	Πότε φεύγεις;	kada	0	0
+Tomova kuća nema struje.	Το σπίτι του Τομ δεν έχει ρεύμα.	nema	0	0
+Oni nemaju ništa zajedničko s nama.	Αυτοί δεν έχουν τίποτε κοινό μαζί μας.	ništa	0	0
+Ona je ljuta na mene.	Αυτή είναι τρελή για μένα.	mene	0	0
+Ko je napisao Hamleta?	Ποιος έγραψε τον Άμλετ;	ko	0	0
+Ona je želela da bude sama.	Αυτή ήθελε να μείνει μόνη.	ona	0	0
+Телефон је једна чудесна направа.	Το τηλέφωνο είναι μια θαυμάσια συσκευή.	је	0	0
+Ne želim ništa od tebe.	Δεν θέλουμε τίποτε από σένα.	tebe	0	0
+Hajde da slušamo malo muzike.	Άντε να ακούσουμε λίγη μουσική.	hajde	0	0
+Šta imate tamo?	Τι έχετε εκεί;	tamo	0	0
+Niko ne može da zna sve.	Κανένας δεν μπορεί να γνωρίζει τα πάντα.	može	0	0
+Možeš li da rešiš ovaj problem?	Μπορείς να λύσεις αυτό το πρόβλημα;	možeš	0	0
+Imam rečnik.	Έχω ένα λεξικό.	imam	0	0
+Ne želim ništa od tebe.	Δεν θέλουμε τίποτε από σένα.	želim	0	0
+Hej Tome.	Γειά σου Τομ.	hej	0	0
+Svi mi lažemo.	Όλοι εμείς ψευδόμαστε.	svi	0	0
+Ona diluje drogu po koncertima.	Αυτή πουλάει ναρκωτικά σε συναυλίες.	po	0	0
+Koliko ljudi je bilo tamo?	Πόσοι άνθρωποι ήσαν εκεί;	ljudi	0	0
+Ne moram da idem — želim da idem.	Δεν πρέπει να πάω - θέλω να πάω.	moram	0	0
+Koliko imaš para?	Πόσα λεφτά έχεις;	koliko	0	0
+Šta misliš o Japanskom jeziku?	Τι σκέφτεσαι για την Ιαπωνική γλώσσα;	misliš	0	0
+Jedan nož, nedostaje.	Ένα μαχαίρι λείπει.	jedan	0	0
+Živeo sam u Japanu pre tri godine.	Έζησα στην Ιαπωνία πριν τρία χρόνια.	pre	0	0
+Moja kancelarija je u centru grada.	Το γραφείο μου είναι στο κέντρο της πόλης.	moja	0	0
+On uvek nosi tamnu odeću.	Αυτός πάντα φοράει σκούρα ρούχα.	uvek	0	0
+Ja sam bez posla.	Είμαι άνεργος.	bez	0	0
+Imaš li neku drugu ideju?	Έχεις μήπως κάποια άλλη ιδέα;	imaš	0	0
+Mnogo sam naučio iz njegovih knjiga.	Έμαθα πολλά από τα βιβλία του.	mnogo	0	0
+Ne možemo ništa da garantujemo.	Δεν μπορούμε να εγγυηθούμε τίποτε.	možemo	0	0
+Koliko pretplatnika ima ovaj časopis?	Πόσους συνδρομητές έχει αυτό το περιοδικό;	ovaj	0	0
+Oni su zasadili drveće jabuka.	Αυτοί φύτεψαν μηλιές.	oni	0	0
+Marija je došla na vreme.	Η Μαρία έρχεται στην ώρα της.	vreme	0	0
+Taj bicikl pripada našoj školi.	Αυτό το ποδήλατο ανήκει στο σχολείο μας.	taj	0	0
+Koja je tvoja krvna grupa?	Ποιά είναι η ομάδα αίματός σου;	koja	0	0
+Tvoj odgovor je pogrešan.	Η απάντησή σου είναι λανθασμένη.	tvoj	0	0
+Izgledaš zdravo.	Φαίνεσαι υγιής.	zdravo	0	0
+Moje je ime vrlo retko u mojoj zemlji.	Το όνομα μου είναι πολύ σπάνιο στη χώρα μου.	moje	0	0
+Hej Tome.	Γειά σου Τομ.	tome	0	0
+Tražim posao.	Ψάχνω δουλειά.	posao	0	0
+Mogu li da vidim Vaš pasoš?	Μήπως μπορώ να δω το διαβατήριό σας;	vidim	0	0
+Dobar dan!	Καλημέρα!	dan	0	0
+Moj sat mora biti popravljen.	Το ρολόι μου πρέπει να επιδιορθωθεί.	mora	0	0
+On radi za banku.	Αυτός δουλεύει στην τράπεζα.	radi	0	0
+Dobar dan, šta želiš?	Καλημέρα, τι θέλεις;	želiš	0	0
+Ona je želela da bude sama.	Αυτή ήθελε να μείνει μόνη.	bude	0	0
+Šta sam zaboravio da kažem?	Τι ξέχασα να πω;	kažem	0	0
+Ne moram da idem — želim da idem.	Δεν πρέπει να πάω - θέλω να πάω.	idem	0	0
+Свет се не окреће око вас.	Ο κόσμος δεν περιστρέφεται γύρω από σας.	не	0	0
+Ona ima dobar ukus.	Αυτή έχει καλό γούστο.	dobar	0	0
+Volim slatko.	Μου αρέσουν τα γλυκά.	volim	0	0
+Барселона се налази у Шпанији.	Η Βαρκελώνη βρίσκεται στην Ισπανία.	се	0	0
+Барселона се налази у Шпанији.	Η Βαρκελώνη βρίσκεται στην Ισπανία.	у	0	0
+Ja ne mogu da živim takav život.	Δεν μπορώ να ζήσω τέτοια ζωή.	život	0	0
+Hoću kući. Ja imam ženu i decu.	Θέλω να πάω σπίτι. Έχω γυναίκα και παιδιά.	kući	0	0
+Reci mi nešto o tvojoj porodici.	Πες μου κάτι σχετικά με την οικογένειά σου.	reci	0	0
+Маркс је немачки филозоф и економиста.	Ο Μαρξ είναι Γερμανός φιλόσοφος και οικονομολόγος.	и	0	0
+Izuj svoje cipele.	Βγάλτε τα παπούτσια σας.	svoje	0	0
+Niko ne može da zna sve.	Κανένας δεν μπορεί να γνωρίζει τα πάντα.	zna	0	0
+Koja je tvoja krvna grupa?	Ποιά είναι η ομάδα αίματός σου;	tvoja	0	0
+Živeo sam u Japanu pre tri godine.	Έζησα στην Ιαπωνία πριν τρία χρόνια.	tri	0	0
+Hoću da idem sa tobom.	Θέλω να πάω μαζί σου.	tobom	0	0
+Moje je ime vrlo retko u mojoj zemlji.	Το όνομα μου είναι πολύ σπάνιο στη χώρα μου.	ime	0	0
+Ona je bila veoma ambiciozna žena.	Αυτή ήταν πολύ φιλόδοξη γυναίκα.	veoma	0	0
+Ја у то не верујем.	Δεν πιστεύω σε αυτό.	то	0	0
+Hoću da idem sa tobom.	Θέλω να πάω μαζί σου.	hoću	0	0
+Niko ne može da zna sve.	Κανένας δεν μπορεί να γνωρίζει τα πάντα.	niko	0	0
+Meri je slikala svoju mačku telefonom.	Η Μαίρη φωτογράφησε τη μητέρα της με το κινητό της.	svoju	0	0
+Ona je bila veoma ambiciozna žena.	Αυτή ήταν πολύ φιλόδοξη γυναίκα.	žena	0	0
+Znam tvoje ime.	Ξέρω το όνομά σου.	tvoje	0	0
+Možeš li da razgovaraš sa mnom?	Μπορείς να μιλήσεις μαζί μου;	mnom	0	0
+Претварао\\\\претварала сам се да радим.	Έκανα πως δούλευα.	сам	0	0
+Kupio sam ove lekove za mog oca.	Αγόρασα αυτά τα φάρμακα για τον πατέρα μου.	ove	0	0
+Nemam mnogo prijatelja.	Δεν έχω πολλούς φίλους.	nemam	0	0
+Šta je po zanimanju tvoj otac?	Τι δουλειά κάνει ο πατέρας σου;	otac	0	0
+Ta ideja nije nova.	Η ιδέα δεν είναι καινούργια.	ta	0	0
+Ja sam slobodan čovek.	Εγώ είμαι ελεύθερος άνθρωπος.	čovek	0	0
+Nemam puno prijatelja.	Δεν έχω πολλούς φίλους.	puno	0	0
+Tom želi da postane tumač.	Ο Τομ θα ήθελε να γίνει διερμηνέας.	želi	0	0
+Živeo sam u Japanu pre tri godine.	Έζησα στην Ιαπωνία πριν τρία χρόνια.	godine	0	0
+Možda si u pravu.	Μπορεί να έχεις δίκιο.	pravu	0	0
+Sutra je Božić.	Αύριο είναι Χριστούγεννα.	sutra	0	0
+Doktor je došao u poslednji čas.	Ο γιατρός ήλθε την τελευταία στιγμή.	došao	0	0
+Možeš li da rešiš ovaj problem?	Μπορείς να λύσεις αυτό το πρόβλημα;	problem	0	0
+Imate li jeftinijih soba?	Έχετε φτηνά δωμάτια;	imate	0	0
+Ova knjiga je o zvezdama.	Αυτό το βιβλίο είναι για τα αστέρια.	ova	0	0
+Ovo je vrlo dobra rečenica.	Αυτή είναι μια πολύ καλή φράση.	vrlo	0	0
+Ova knjiga će ti pomoći da naučiš da pišeš efektno.	Αυτό το βιβλίο θα σε βοηθήσει να μάθεις να γράφεις αποτελεσματικά.	pomoći	0	0
+Nisam siguran da je to dobra ideja.	Δεν είμαι σίγουρος ότι αυτή είναι καλή ιδέα.	dobra	0	0
+To je zaista šokantno.	Αυτό είναι αληθινά σοκαριστικό.	zaista	0	0
+Pogledaj nebo.	Κοίτα τον ουρανό.	pogledaj	0	0
+Nisam siguran da je to dobra ideja.	Δεν είμαι σίγουρος ότι αυτή είναι καλή ιδέα.	siguran	0	0
+Ne verujem u to.	Δεν το πιστεύω.	verujem	0	0
+Ispričaću ti jednu priču.	Θα σου διηγηθώ μια ιστορία.	jednu	0	0
+На свету постоји много језика.	Στον κόσμο υπάρχουν πολλές γλώσσες.	на	0	0
+Kupio sam ove lekove za mog oca.	Αγόρασα αυτά τα φάρμακα για τον πατέρα μου.	mog	0	0
+Mogu li da vidim Vaš pasoš?	Μήπως μπορώ να δω το διαβατήριό σας;	vaš	0	0
+Iga tenis svaki dan.	Παίζει τένις κάθε μέρα.	svaki	0	0
+Oni nemaju ništa zajedničko s nama.	Αυτοί δεν έχουν τίποτε κοινό μαζί μας.	nama	0	0
+Koliko minuta to traje?	Πόσα λεπτά διαρκεί αυτό;	minuta	0	0
+Шта тачно намераваш да урадиш?	Τι ακριβώς σκοπεύεις να κάνεις;	шта	0	0
+Tom želi da postane tumač.	Ο Τομ θα ήθελε να γίνει διερμηνέας.	tom	0	0
+Ispred moje kuće je bilo veliko drvo.	Μπροστά στο σπίτι μου υπήρχε ένα μεγάλο δέντρο.	kuće	0	0
+Ја нећу да ти помажем.	Δεν θέλω να σε βοηθήσω.	ти	0	0
+То је место погодно за купање.	Αυτό το μέρος είναι βολικό για κολύμπι.	за	0	0
+Imaš prava da budeš srećan.	Έχεις το δικαίωμα να είσαι ευτυχισμένος.	budeš	0	0
+Једна девојка украла ми је срце.	Μια κοπέλλα μου έκλεψε την καρδιά.	ми	0	0
+Ne razumem vas.	Δεν σας καταλαβαίνω.	razumem	0	0
+Izgubio sam moje ključeve za auto.	Έχασα το κλειδί του αυτοκινήτου.	auto	0	0
+Хоћете ли да оставите тај папир и слушате мене?	Θέλετε να αφήσετε αυτό το χαρτί και να ακούσετε εμένα;	ли	0	0
+Ја то морам да урадим.	Αυτό μπορούμε να το κάνουμε.	ја	0	0
+Latinski je mrtav jezik.	Τα λατινικά είναι νεκρή γλώσσα.	mrtav	0	0
+Шта си покушао да урадиш?	Τι προσπάθησες να κάνεις;	си	0	0
+Kome si to dao?	Σε ποιόν το έδωσες αυτό;	dao	0	0
+Računar je novi.	Ο υπολογιστής είναι καινούργιος.	novi	0	0
+Ja sam bez posla.	Είμαι άνεργος.	posla	0	0
+Ona je želela da bude sama.	Αυτή ήθελε να μείνει μόνη.	sama	0	0
+Žene obično žive duže od muškaraca.	Οι γυναίκες συνήθως ζούνε περισσότερο από τους άντρες.	žene	0	0
+Ona govori deset jezika.	Αυτή μιλάει δέκα γλώσσες.	govori	0	0
+Ovo je važno pitanje.	Αυτή είναι σοβαρή ερώτηση.	pitanje	0	0
+Tom voli da igra bilijar.	Ο Τομ θέλει να παίξει μπιλιάρδο.	voli	0	0
+Prosto sledi svoje srce.	Απλώς ακολούθησε την καρδιά σου.	srce	0	0
+Ovo je važno pitanje.	Αυτή είναι σοβαρή ερώτηση.	važno	0	0
+Voleo bih da znam da plivam.	Θα ήθελα να ήξερα να κολυμπάω.	voleo	0	0
+Ona popije flašu mleka svako jutro.	Αυτή πίνει κάθε πρωί ένα μπουκάλι γάλα.	jutro	0	0
+Rešenje problema je blizu.	Η λύση του προβλήματος είναι κοντά.	problema	0	0
+Kupio sam ove lekove za mog oca.	Αγόρασα αυτά τα φάρμακα για τον πατέρα μου.	oca	0	0
+Где је чај са млеком?	Που είναι το τσάι με γάλα;	са	0	0
+Обе сестре су веома лепе.	Και οι δύο αδερφές είναι πολύ ωραίες.	су	0	0
+To uopšte nije problem.	Αυτό δεν είναι καν πρόβλημα.	uopšte	0	0
+Joko će otići u Kjoto sledeće nedelje.	Η Γιόκο θα πάει στο Κυότο την επόμενη εβδομάδα.	otići	0	0
+Marija je došla na vreme.	Η Μαρία έρχεται στην ώρα της.	došla	0	0
+Zakon je usvojen od strane parlamenta.	Ο νόμος εγκρίθηκε από το κοινοβούλιο της χώρας.	strane	0	0
+Popravljam kuću.	Επισκευάζω το σπίτι.	kuću	0	0
+Stigao sam prošle noći.	Έφτασα εδώ χθες το βράδυ.	noći	0	0
+Ja sam spreman, a ti?	Εγώ είμαι έτοιμος, εσύ;	spreman	0	0
+Ta ideja nije nova.	Η ιδέα δεν είναι καινούργια.	ideja	0	0
+Voda je trebala Tomu.	Ο Τομ χρειαζόταν νερό.	trebala	0	0
+Hoću kući. Ja imam ženu i decu.	Θέλω να πάω σπίτι. Έχω γυναίκα και παιδιά.	ženu	0	0
+Želim da kupim ovaj sat, ali je on, nažalost, preskup.	Θα ήθελα να αγοράσω αυτό το ρολόι, αλλά είναι, δυστυχώς, πολύ ακριβό.	sat	0	0
+Hajde da budemo prijatelji.	Άιντε να γίνουμε φίλοι.	prijatelji	0	0
+Imaš prava da budeš srećan.	Έχεις το δικαίωμα να είσαι ευτυχισμένος.	prava	0	0
+Gde živi tvoj ujak?	Που ζει ο θείος σου;	živi	0	0
+Oslo je glavni grad Norveške.	Το Όσλο είναι η πρωτεύουσα της Νορβηγίας.	grad	0	0
+Jasno je da si slagao.	Είναι ξεκάθαρο ότι είπες ψέμματα.	jasno	0	0
+Mačka je u ovoj sobi.	Υπάρχει μια γάτα σε αυτό το δωμάτιο.	ovoj	0	0
+Šta više voliš: planine ili more?	Τι σου αρέσει περισσότερο; τα βουνά ή η θάλασσα;	voliš	0	0
+Moja sestra je medicinska sestra a moj brat je doktor.	Η αδερφή μου είναι αδερφή νοσοκόμος και ο αδερφός μου είναι γιατρός.	brat	0	0
+Brazil je peta zemlja po veličini u svetu.	Η Βραζιλία είναι η πέμπτη χώρα σε μέγεθος στον κόσμο.	svetu	0	0
+Moje je ime vrlo retko u mojoj zemlji.	Το όνομα μου είναι πολύ σπάνιο στη χώρα μου.	mojoj	0	0
+Nemamo vode.	Δεν έχουμε νερό.	nemamo	0	0
+Rešenje problema je blizu.	Η λύση του προβλήματος είναι κοντά.	blizu	0	0
+Tom je išao na plažu prošle nedelje.	Ο Τομ πήγε στην πλαζ την περασμένη εβδομάδα.	nedelje	0	0
+Поштење није гаранција успеха.	Η εντιμότητα δεν είναι εγγύηση επιτυχίας.	није	0	0
+Што је моје, то је добро.	Ότι δικό μου, είναι καλό.	што	0	0
+Izgledaš zdravo.	Φαίνεσαι υγιής.	izgledaš	0	0
+Imaš li neku drugu ideju?	Έχεις μήπως κάποια άλλη ιδέα;	neku	0	0
+Ја само добро,хвала што питате!	Είμαι καλά, ευχαριστώ που ρωτάτε!	само	0	0
+Он је нем и глув од рођења.	Αυτός είναι μουγγός και κουφός εκ γενετής.	од	0	0
+Знамо га.	Τον ξέρουμε.	га	0	0
+Mačka je u ovoj sobi.	Υπάρχει μια γάτα σε αυτό το δωμάτιο.	sobi	0	0
+А сад?	Και τώρα;	а	0	0
+Izgubio sam moje ključeve za auto.	Έχασα το κλειδί του αυτοκινήτου.	izgubio	0	0
+Nemamo vode.	Δεν έχουμε νερό.	vode	0	0
+Kome si to dao?	Σε ποιόν το έδωσες αυτό;	kome	0	0
+Da li me se sećaš?	Μήπως με θυμάσαι;	sećaš	0	0
+Nemam puno prijatelja.	Δεν έχω πολλούς φίλους.	prijatelja	0	0
+Шта мислите о томе?	Τι νομίζετε γι΄αυτό;	о	0	0
+Можете ме звати Боб.	Μπορείτε να με λέτε Μπομπ.	ме	0	0
+Ispred moje kuće je bilo veliko drvo.	Μπροστά στο σπίτι μου υπήρχε ένα μεγάλο δέντρο.	ispred	0	0
+Tražim posao.	Ψάχνω δουλειά.	tražim	0	0
+On prodaje piće.	Αυτός πουλάει ποτά.	piće	0	0
+Nemam želju da živim u velikom gradu.	Δεν θέλω να ζήσω σε μεγάλη πόλη.	gradu	0	0
+Hoću kući. Ja imam ženu i decu.	Θέλω να πάω σπίτι. Έχω γυναίκα και παιδιά.	decu	0	0
+Imaš prava da budeš srećan.	Έχεις το δικαίωμα να είσαι ευτυχισμένος.	srećan	0	0
+Mrzim te.	Σε μισώ.	mrzim	0	0
+Да ли те могу додати на Фејсбуку?	Μπορώ να σε προσθέσω στο Facebook;	те	0	0
+Tom voli da igra bilijar.	Ο Τομ θέλει να παίξει μπιλιάρδο.	igra	0	0
+Moja sestra je medicinska sestra a moj brat je doktor.	Η αδερφή μου είναι αδερφή νοσοκόμος και ο αδερφός μου είναι γιατρός.	sestra	0	0
+Tomova kuća nema struje.	Το σπίτι του Τομ δεν έχει ρεύμα.	kuća	0	0
+Ja ne mogu da živim takav život.	Δεν μπορώ να ζήσω τέτοια ζωή.	takav	0	0
+Rat nije neizbežan.	Ο πόλεμος δεν είναι αναπόφευκτος.	rat	0	0
+Doktor je došao u poslednji čas.	Ο γιατρός ήλθε την τελευταία στιγμή.	poslednji	0	0
+Ona govori deset jezika.	Αυτή μιλάει δέκα γλώσσες.	deset	0	0
+Како зовете вашег пса?	Πως ονομάζεται ο σκύλος σας;	како	0	0
+Ona popije flašu mleka svako jutro.	Αυτή πίνει κάθε πρωί ένα μπουκάλι γάλα.	svako	0	0
+Moje je ime vrlo retko u mojoj zemlji.	Το όνομα μου είναι πολύ σπάνιο στη χώρα μου.	zemlji	0	0
+Добро увек побеђује зло.	Το καλό πάντα υπερισχύει του κακού.	добро	0	0
+Ti me razumeš.	Με καταλαβαίνεις.	razumeš	0	0
+Hajde da budemo prijatelji.	Άιντε να γίνουμε φίλοι.	budemo	0	0
+Doktor je došao u poslednji čas.	Ο γιατρός ήλθε την τελευταία στιγμή.	doktor	0	0
+Он је познат као велики сликар.	Αυτός είναι διάσημος ως μεγάλος ζωγράφος.	као	0	0
+Imaš li neku drugu ideju?	Έχεις μήπως κάποια άλλη ιδέα;	drugu	0	0
+Boli me stomak.	Μου πονάει το στομάχι.	boli	0	0
+Da li si lud?	Είσαι τρελός;	lud	0	0
+Konačno je petak.	Τελικά είναι Παρασκευή.	konačno	0	0
+Žene obično žive duže od muškaraca.	Οι γυναίκες συνήθως ζούνε περισσότερο από τους άντρες.	obično	0	0
+Ispričaću ti jednu priču.	Θα σου διηγηθώ μια ιστορία.	priču	0	0
+Tvoj odgovor je pogrešan.	Η απάντησή σου είναι λανθασμένη.	odgovor	0	0
+Šta sam zaboravio da kažem?	Τι ξέχασα να πω;	zaboravio	0	0
+Ta ideja nije nova.	Η ιδέα δεν είναι καινούργια.	nova	0	0
+Moja kancelarija je u centru grada.	Το γραφείο μου είναι στο κέντρο της πόλης.	grada	0	0
+Ona je želela da bude sama.	Αυτή ήθελε να μείνει μόνη.	želela	0	0
+Он је нем и глув од рођења.	Αυτός είναι μουγγός και κουφός εκ γενετής.	он	0	0
+Ajkule su dobri plivači.	Οι καρχαρίες είναι καλοί κολυμβητές.	dobri	0	0
+Nemačka je dala mnogo naučnika.	Η Γερμανία έδωσε πολλούς επιστήμονες.	dala	0	0
+On uvek nosi tamnu odeću.	Αυτός πάντα φοράει σκούρα ρούχα.	nosi	0	0
+Stigao sam prošle noći.	Έφτασα εδώ χθες το βράδυ.	prošle	0	0
+Nemam želju da živim u velikom gradu.	Δεν θέλω να ζήσω σε μεγάλη πόλη.	živim	0	0
+Stigao sam prošle noći.	Έφτασα εδώ χθες το βράδυ.	stigao	0	0
+Reci mi nešto o tvojoj porodici.	Πες μου κάτι σχετικά με την οικογένειά σου.	tvojoj	0	0
+Oni moraju da piju vodu.	Αυτοί πρέπει να πιούνε νερό.	moraju	0	0
+Požuri!	Βιάσου!	požuri	0	0
+Taj bicikl pripada našoj školi.	Αυτό το ποδήλατο ανήκει στο σχολείο μας.	školi	0	0
+Ја не знам шта је то.	Δεν ξέρω τι είναι αυτό.	знам	0	0
+Да ли могу да помогнем?	Μήπως μπορώ να βοηθήσω;	могу	0	0
+Oni moraju da piju vodu.	Αυτοί πρέπει να πιούνε νερό.	vodu	0	0
+Glavni grad Japana je Tokijo.	Πρωτεύουσα της Ιαπωνίας είναι το Τόκιο.	glavni	0	0
+Tomova odeća je bila stara, ali čista.	Τα ρούχα του Τομ είναι παλιά, αλλά καθαρά.	stara	0	0
+On ima dubok glas.	Αυτός έχει βαθιά φωνή.	glas	0	0
+Imaš li neku drugu ideju?	Έχεις μήπως κάποια άλλη ιδέα;	ideju	0	0
+Soba je bila prazna.	Το δωμάτιο ήταν άδειο.	soba	0	0
+Brazil je peta zemlja po veličini u svetu.	Η Βραζιλία είναι η πέμπτη χώρα σε μέγεθος στον κόσμο.	zemlja	0	0
+Kupio sam ove lekove za mog oca.	Αγόρασα αυτά τα φάρμακα για τον πατέρα μου.	kupio	0	0
+Osam plus deset je osamnaest.	Οχτώ συν δέκα κάνει δεκαοχτώ.	osam	0	0
+Zovi doktora!	Κάλεσε το γιατρό!	zovi	0	0
+Tom je išao na plažu prošle nedelje.	Ο Τομ πήγε στην πλαζ την περασμένη εβδομάδα.	išao	0	0
+Otac mi je kupio knjigu.	Ο πατέρας μου αγόρασε το βιβλίο.	knjigu	0	0
+Jedan nož, nedostaje.	Ένα μαχαίρι λείπει.	nedostaje	0	0
+Ispred moje kuće je bilo veliko drvo.	Μπροστά στο σπίτι μου υπήρχε ένα μεγάλο δέντρο.	veliko	0	0
+Da li imate japansko pivo?	Μήπως έχετε γιαπωνέζικη μπύρα;	pivo	0	0
+Где је чај са млеком?	Που είναι το τσάι με γάλα;	где	0	0
+Voda je trebala Tomu.	Ο Τομ χρειαζόταν νερό.	voda	0	0
+Свет се не окреће око вас.	Ο κόσμος δεν περιστρέφεται γύρω από σας.	вас	0	0
+Oni nemaju ništa zajedničko s nama.	Αυτοί δεν έχουν τίποτε κοινό μαζί μας.	nemaju	0	0
+Sutra je Božić.	Αύριο είναι Χριστούγεννα.	božić	0	0
+Ми волимо оне који воле нас.	Αγαπάμε αυτούς που μας αγαπάνε.	који	0	0
+Joko će otići u Kjoto sledeće nedelje.	Η Γιόκο θα πάει στο Κυότο την επόμενη εβδομάδα.	sledeće	0	0
+Zakon je usvojen od strane parlamenta.	Ο νόμος εγκρίθηκε από το κοινοβούλιο της χώρας.	zakon	0	0
+Žene obično žive duže od muškaraca.	Οι γυναίκες συνήθως ζούνε περισσότερο από τους άντρες.	žive	0	0
+Pokaži mi.	Δείξε μου.	pokaži	0	0
+Она је такође купила речник.	Αυτή επίσης αγόρασε λεξικό.	она	0	0
+Мислим да треба да му кажемо.	Νομίζω πως πρέπει να του πούμε.	мислим	0	0
+Život je pun tajni.	Η ζωή είναι πλήρης μυστικών.	pun	0	0
+Врло добро, хвала.	Πολύ καλά, ευχαριστώ.	хвала	0	0
+Prosto sledi svoje srce.	Απλώς ακολούθησε την καρδιά σου.	prosto	0	0
+Ја сам из Кјота.	Εγώ είμαι από το Κυότο.	из	0	0
+Ova knjiga će ti pomoći da naučiš da pišeš efektno.	Αυτό το βιβλίο θα σε βοηθήσει να μάθεις να γράφεις αποτελεσματικά.	knjiga	0	0
+Taj bicikl pripada našoj školi.	Αυτό το ποδήλατο ανήκει στο σχολείο μας.	našoj	0	0
+Mnogo sam naučio iz njegovih knjiga.	Έμαθα πολλά από τα βιβλία του.	naučio	0	0
+Kupio je jaja i mleko od seljaka.	Αυτός αγόρασε αυγά και γάλα από αγρότη.	jaja	0	0
+Мислим да треба да му кажемо.	Νομίζω πως πρέπει να του πούμε.	треба	0	0
+Ja sam slobodan čovek.	Εγώ είμαι ελεύθερος άνθρωπος.	slobodan	0	0
+Tom je doneo očajnu odluku.	Ο Τομ πήρε μια φριχτή απόφαση.	doneo	0	0
+Чекајте до шест.	Περιμένετε μέχρι τις έξι.	до	0	0
+Napisao sam pesmu o Tatoebi.	Έγραψα ένα τραγούδι για το Tatoeba.	napisao	0	0
+Zašto ne možeš da dođeš?	Γιατί δεν μπορείς να έρθεις;	dođeš	0	0
+Ко је ваш мајстор?	Ποιος είναι ο καθηγητής σας;	ко	0	0
+Он увек има тамне наочаре.	Αυτός φοράει πάντα σκούρα γυαλιά.	има	0	0
+Zovi doktora!	Κάλεσε το γιατρό!	doktora	0	0
+Tvoj bickl liči na moj.	Το ποδήλατό σου είναι παρόμοιο με το δικό μου.	liči	0	0
+Kompjuter igra važnu ulogu pri učenju.	Ο υπολογιστής παίζει σημαντικό ρόλο στη γνώση.	pri	0	0
+Мораш више да радиш.	Πρέπει να εργαστείς περισσότερο.	више	0	0
+Koliko imaš para?	Πόσα λεφτά έχεις;	para	0	0
+Meri je slikala svoju mačku telefonom.	Η Μαίρη φωτογράφησε τη μητέρα της με το κινητό της.	meri	0	0
+Zima je moje omiljeno doba.	Ο χειμώνας είναι η αγαπημένη μου εποχή.	doba	0	0
+Мој пас воли мачке.	Αρέσουν οι γάτες στον σκύλο μου.	мој	0	0
+Žene obično žive duže od muškaraca.	Οι γυναίκες συνήθως ζούνε περισσότερο από τους άντρες.	duže	0	0
+Kafa ili čaj?	Καφέ ή τσάι;	čaj	0	0
+Latinski je mrtav jezik.	Τα λατινικά είναι νεκρή γλώσσα.	jezik	0	0
+Њена је, зар не?	Είναι δικό της, δεν είναι;	зар	0	0
+Да ли он зна шта ви радите?	Γνωρίζει άραγε αυτός τι κάνατε;	ви	0	0
+Izuj svoje cipele.	Βγάλτε τα παπούτσια σας.	cipele	0	0
+Не судите да вам се не суди.	Μη κρίνετε για να μη κριθείτε.	вам	0	0
+Ми волимо оне који воле нас.	Αγαπάμε αυτούς που μας αγαπάνε.	нас	0	0
+Želim da kupim ovaj sat, ali je on, nažalost, preskup.	Θα ήθελα να αγοράσω αυτό το ρολόι, αλλά είναι, δυστυχώς, πολύ ακριβό.	nažalost	0	0
+Taj bicikl pripada našoj školi.	Αυτό το ποδήλατο ανήκει στο σχολείο μας.	pripada	0	0
+Volim slatko.	Μου αρέσουν τα γλυκά.	slatko	0	0
+Хоћете ли да оставите тај папир и слушате мене?	Θέλετε να αφήσετε αυτό το χαρτί και να ακούσετε εμένα;	мене	0	0
+Jedan nož, nedostaje.	Ένα μαχαίρι λείπει.	nož	0	0
+Reci mi nešto o tvojoj porodici.	Πες μου κάτι σχετικά με την οικογένειά σου.	porodici	0	0
+Koja je tvoja krvna grupa?	Ποιά είναι η ομάδα αίματός σου;	grupa	0	0
+Мислим да треба да му кажемо.	Νομίζω πως πρέπει να του πούμε.	му	0	0
+Šta više voliš: planine ili more?	Τι σου αρέσει περισσότερο; τα βουνά ή η θάλασσα;	more	0	0
+Tom želi da postane tumač.	Ο Τομ θα ήθελε να γίνει διερμηνέας.	postane	0	0
+On zna gde živimo.	Αυτός ξέρει που ζούμε εμείς.	živimo	0	0
+Živeo sam u Japanu pre tri godine.	Έζησα στην Ιαπωνία πριν τρία χρόνια.	živeo	0	0
+Tom obično jede sam.	Ο Τομ συνήθως τρώει μόνος του.	jede	0	0
+Oni prodaju ribu i meso.	Αυτοί πουλάνε ψάρι και κρέας.	meso	0	0
+Cirih se smatra jednim od velikih finansijskih centara.	Η Ζυρίχη θεωρείται ένα από τα μεγαλύτερα οικονομικά κέντρα.	jednim	0	0
+Doktor je došao u poslednji čas.	Ο γιατρός ήλθε την τελευταία στιγμή.	čas	0	0
+Соба је била празна.	Το δωμάτιο ήταν άδειο.	била	0	0
+Napisao sam pesmu o Tatoebi.	Έγραψα ένα τραγούδι για το Tatoeba.	pesmu	0	0
+Ја имам много књига.	Έχω πολλά βιβλία.	имам	0	0
+Tom je doneo očajnu odluku.	Ο Τομ πήρε μια φριχτή απόφαση.	odluku	0	0
+On uvek nosi tamnu odeću.	Αυτός πάντα φοράει σκούρα ρούχα.	odeću	0	0
+Они седе у сенци кестена.	Αυτοί κάθονται στον ίσκιο της καστανιάς.	они	0	0
+Koliko minuta to traje?	Πόσα λεπτά διαρκεί αυτό;	traje	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	један	0	0
+Ispred moje kuće je bilo veliko drvo.	Μπροστά στο σπίτι μου υπήρχε ένα μεγάλο δέντρο.	drvo	0	0
+Ona je ljuta na mene.	Αυτή είναι τρελή για μένα.	ljuta	0	0
+Prodaju šećer u radnji.	Πουλάνε ζάχαρη στο μαγαζί.	prodaju	0	0
+Život je pun tajni.	Η ζωή είναι πλήρης μυστικών.	tajni	0	0
+To je po veličini treći grad u Srbiji.	Αυτή είναι σε μέγεθος τρίτη πόλη στη Σερβία.	treći	0	0
+Људи су се окупљали у парку.	Άνθρωποι συγκεντρώθηκαν στο πάρκο.	људи	0	0
+Konačno je petak.	Επιτέλους Παρασκευή.	petak	0	0
+Он увек има тамне наочаре.	Αυτός φοράει πάντα σκούρα γυαλιά.	увек	0	0
+Osam plus deset je osamnaest.	Οχτώ συν δέκα κάνει δεκαοχτώ.	plus	0	0
+Ona ima dobar ukus.	Αυτή έχει καλό γούστο.	ukus	0	0
+Izgubio sam moje ključeve za auto.	Έχασα το κλειδί του αυτοκινήτου.	ključeve	0	0
+Mnogo sam naučio iz njegovih knjiga.	Έμαθα πολλά από τα βιβλία του.	njegovih	0	0
+А сад?	Και τώρα;	сад	0	0
+Moja kancelarija je u centru grada.	Το γραφείο μου είναι στο κέντρο της πόλης.	centru	0	0
+Nemam želju da živim u velikom gradu.	Δεν θέλω να ζήσω σε μεγάλη πόλη.	velikom	0	0
+Ona se rodila u Americi.	Αυτή γεννήθηκε στην Αμερική.	americi	0	0
+Ја волим да једем чоколаду, јер је то моја најмилија храна.	Θέλω να φάω σοκολάτα, επειδή είναι η αγαπημένη μου διατροφή.	јер	0	0
+Ataturk je rođen 1881, u Solunu.	Ο Ατατούρκ γεννήθηκε το 1881, στη Θεσσαλονίκη.	rođen	0	0
+Kompjuter igra važnu ulogu pri učenju.	Ο υπολογιστής παίζει σημαντικό ρόλο στη γνώση.	ulogu	0	0
+On prodaje piće.	Αυτός πουλάει ποτά.	prodaje	0	0
+Ona diluje drogu po koncertima.	Αυτή πουλάει ναρκωτικά σε συναυλίες.	drogu	0	0
+Želim da kupim ovaj sat, ali je on, nažalost, preskup.	Θα ήθελα να αγοράσω αυτό το ρολόι, αλλά είναι, δυστυχώς, πολύ ακριβό.	kupim	0	0
+Tečno je govorila Francuski jezik.	Αυτή μιλούσε με ευχέρεια τη Γαλλική γλώσσα.	govorila	0	0
+Pogledaj nebo.	Κοίτα τον ουρανό.	nebo	0	0
+Ја волим да једем чоколаду, јер је то моја најмилија храна.	Θέλω να φάω σοκολάτα, επειδή είναι η αγαπημένη μου διατροφή.	моја	0	0
+Колико је мачака у тој кући?	Πόσες γάτες υπάρχουν σε αυτό το σπίτι;	колико	0	0
+Извините, ја морам да идем.	Με συγχωρείτε, εγώ θα πρέπει να φύγω.	морам	0	0
+Zaveži!	Σκάσε!	zaveži	0	0
+Ја сам то већ купио.	Εγώ το αγόρασα ήδη.	већ	0	0
+Не пијте много вина!	Μη πίνετε πολύ κρασί!	много	0	0
+Voziš kao manijak!	Οδηγείς σαν μανιακός!	voziš	0	0
+Marija je došla na vreme.	Η Μαρία έρχεται στην ώρα της.	marija	0	0
+Tomova odeća je bila stara, ali čista.	Τα ρούχα του Τομ είναι παλιά, αλλά καθαρά.	čista	0	0
+Gde živi tvoj ujak?	Που ζει ο θείος σου;	ujak	0	0
+Pišem rečenicu na nemačkom.	Γράφω μια φράση στα Γερμανικά.	pišem	0	0
+Овај замак је леп.	Αυτό το κάστρο είναι ωραίο.	овај	0	0
+Више волим црвено него бело вино.	Περισσότερο μου αρέσει το κόκκινο παρά το λευκό κρασί.	него	0	0
+Rešenje problema je blizu.	Η λύση του προβλήματος είναι κοντά.	rešenje	0	0
+Možeš li da razgovaraš sa mnom?	Μπορείς να μιλήσεις μαζί μου;	razgovaraš	0	0
+Boli me stomak.	Μου πονάει το στομάχι.	stomak	0	0
+To je bio dobar šešir.	Αυτό ήταν καλό καπέλο.	šešir	0	0
+Ova knjiga mi je veoma važna.	Αυτό το βιβλίο είναι πολύ σημαντικό για μένα.	važna	0	0
+Oni prodaju ribu i meso.	Αυτοί πουλάνε ψάρι και κρέας.	ribu	0	0
+Mi verujemo u demokratiju.	Εμείς πιστεύουμε στη δημοκρατία.	verujemo	0	0
+Знате ли шта је развод брака?	Ξέρετε άραγε τι είναι το διαζύγιο;	знате	0	0
+Šta više voliš: planine ili more?	Τι σου αρέσει περισσότερο; τα βουνά ή η θάλασσα;	planine	0	0
+Хоћеш ли банану?	Μήπως θέλεις μπανάνα;	хоћеш	0	0
+Nemam želju da živim u velikom gradu.	Δεν θέλω να ζήσω σε μεγάλη πόλη.	želju	0	0
+Ken je visok kao i Bil.	Ο Κεν είναι ψηλός όπως ο Μπιλ.	bil	0	0
+Он добро ради.	Αυτός δουλεύει καλά.	ради	0	0
+Морате да тестирате тога ученика.	Θα έπρεπε να εξετάσετε αυτόν τον μαθητή.	тога	0	0
+Хоћете ли да оставите тај папир и слушате мене?	Θέλετε να αφήσετε αυτό το χαρτί και να ακούσετε εμένα;	тај	0	0
+Шта мислите о томе?	Τι νομίζετε γι΄αυτό;	томе	0	0
+Ja bih da platim kešom.	Θα ήθελα να πληρώσω με μετρητά.	platim	0	0
+Mačka je u ovoj sobi.	Υπάρχει μια γάτα σε αυτό το δωμάτιο.	mačka	0	0
+Што је моје, то је добро.	Ότι δικό μου, είναι καλό.	моје	0	0
+Pušenje je štetno za zdravlje.	Το κάπνισμα είναι επιβλαβές για την υγεία.	zdravlje	0	0
+Žene obično žive duže od muškaraca.	Οι γυναίκες συνήθως ζούνε περισσότερο από τους άντρες.	muškaraca	0	0
+Да ли могу да добијем твој број телефона?	Μπορώ να έχω το τηλέφωνό σου;	твој	0	0
+Можете ме звати Боб.	Μπορείτε να με λέτε Μπομπ.	можете	0	0
+Ken je visok kao i Bil.	Ο Κεν είναι ψηλός όπως ο Μπιλ.	visok	0	0
+Tečno je govorila Francuski jezik.	Αυτή μιλούσε με ευχέρεια τη Γαλλική γλώσσα.	francuski	0	0
+Kupio je jaja i mleko od seljaka.	Αυτός αγόρασε αυγά και γάλα από αγρότη.	mleko	0	0
+Шта је Лунарна Нова година?	Τι είναι το νέο έτος της Σελήνης;	година	0	0
+Која је твоја крвна група?	Ποιά είναι η ομάδα αίματός σου;	која	0	0
+Kompjuter igra važnu ulogu pri učenju.	Ο υπολογιστής παίζει σημαντικό ρόλο στη γνώση.	kompjuter	0	0
+Колико је мачака у тој кући?	Πόσες γάτες υπάρχουν σε αυτό το σπίτι;	кући	0	0
+Tvoj odgovor je pogrešan.	Η απάντησή σου είναι λανθασμένη.	pogrešan	0	0
+Извините, ја морам да идем.	Με συγχωρείτε, εγώ θα πρέπει να φύγω.	идем	0	0
+Imaš tako lepu kravatu.	Έχεις τόσο ωραία γραβάτα.	lepu	0	0
+Cirih se smatra jednim od velikih finansijskih centara.	Η Ζυρίχη θεωρείται ένα από τα μεγαλύτερα οικονομικά κέντρα.	velikih	0	0
+Kafa ili čaj?	Καφέ ή τσάι;	kafa	0	0
+Kupio sam ove lekove za mog oca.	Αγόρασα αυτά τα φάρμακα για τον πατέρα μου.	lekove	0	0
+Šta čitaš?	Τι διαβάζεις;	čitaš	0	0
+Добар дан, шта желиш?	Καλημέρα, τι θέλεις;	дан	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	два	0	0
+Cirih se smatra jednim od velikih finansijskih centara.	Η Ζυρίχη θεωρείται ένα από τα μεγαλύτερα οικονομικά κέντρα.	smatra	0	0
+On radi za banku.	Αυτός δουλεύει στην τράπεζα.	banku	0	0
+Ništa nije besplatno.	Τίποτε δεν είναι δωρεάν.	besplatno	0	0
+Ја нећу да ти помажем.	Δεν θέλω να σε βοηθήσω.	нећу	0	0
+Kada odlaziš?	Πότε φεύγεις;	odlaziš	0	0
+Plaćam unapred.	Πληρώνω προκαταβολικά.	plaćam	0	0
+Želim da postanem inžinjer.	Θέλω να γίνω μηχανικός.	postanem	0	0
+Мораш више да радиш.	Πρέπει να εργαστείς περισσότερο.	радиш	0	0
+Добар дан, шта желиш?	Καλημέρα, τι θέλεις;	добар	0	0
+Овај човек је пијан.	Αυτός ο άνθρωπος είναι πιωμένος.	човек	0	0
+Ja sam učitelj.	Εγώ είμαι καθηγητής.	učitelj	0	0
+Moja kancelarija je u centru grada.	Το γραφείο μου είναι στο κέντρο της πόλης.	kancelarija	0	0
+Moj otac je popravio polomljenu stolicu.	Ο πατέρας μου επιδιόρθωσε μια σπασμένη καρέκλα.	stolicu	0	0
+Meri je slikala svoju mačku telefonom.	Η Μαίρη φωτογράφησε τη μητέρα της με το κινητό της.	telefonom	0	0
+Plaćam unapred.	Πληρώνω προκαταβολικά.	unapred	0	0
+Ova knjiga će ti pomoći da naučiš da pišeš efektno.	Αυτό το βιβλίο θα σε βοηθήσει να μάθεις να γράφεις αποτελεσματικά.	naučiš	0	0
+Данас је хладно.	Σήμερα κάνει κρύο.	данас	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	три	0	0
+Ја волим да једем чоколаду, јер је то моја најмилија храна.	Θέλω να φάω σοκολάτα, επειδή είναι η αγαπημένη μου διατροφή.	волим	0	0
+Обе сестре су веома лепе.	Και οι δύο αδερφές είναι πολύ ωραίες.	веома	0	0
+Ja sam lekar.	Είμαι γιατρός.	lekar	0	0
+Ona se rodila u Americi.	Αυτή γεννήθηκε στην Αμερική.	rodila	0	0
+Том ставља превише шећера у свој чај.	Ο Τομ βάζει πάρα πολύ ζάχαρη στο τσάι του.	свој	0	0
+Добар дан, шта желиш?	Καλημέρα, τι θέλεις;	желиш	0	0
+Soba je bila prazna.	Το δωμάτιο ήταν άδειο.	prazna	0	0
+Tomova kuća nema struje.	Το σπίτι του Τομ δεν έχει ρεύμα.	struje	0	0
+Да ли он зна шта ви радите?	Γνωρίζει άραγε αυτός τι κάνατε;	зна	0	0
+Moje je ime vrlo retko u mojoj zemlji.	Το όνομα μου είναι πολύ σπάνιο στη χώρα μου.	retko	0	0
+Ova knjiga će ti pomoći da pišeš efikasno.	Αυτό το βιβλίο θα σε βοηθήσει να γράψεις αποτελεσματικά.	pišeš	0	0
+Tomova odeća je bila stara, ali čista.	Τα ρούχα του Τομ είναι παλιά, αλλά καθαρά.	odeća	0	0
+На свету постоји много језика.	Στον κόσμο υπάρχουν πολλές γλώσσες.	постоји	0	0
+Пара на пару иде.	Τα λεφτά πάνε στα λεφτά.	иде	0	0
+Мораш више да радиш.	Πρέπει να εργαστείς περισσότερο.	мораш	0	0
+Свет се не окреће око вас.	Ο κόσμος δεν περιστρέφεται γύρω από σας.	око	0	0
+Која је твоја крвна група?	Ποιά είναι η ομάδα αίματός σου;	твоја	0	0
+Taj bicikl pripada našoj školi.	Αυτό το ποδήλατο ανήκει στο σχολείο μας.	bicikl	0	0
+Колико језика говориш, толико вредиш.	Όσες γλώσσες μιλάς, τόσο αξίζεις.	толико	0	0
+Prosto sledi svoje srce.	Απλώς ακολούθησε την καρδιά σου.	sledi	0	0
+Meri je slikala svoju mačku telefonom.	Η Μαίρη φωτογράφησε τη μητέρα της με το κινητό της.	mačku	0	0
+Kako si rešio problem?	Πως έλυσες το πρόβλημα;	rešio	0	0
+Имате ли јапанско пиво?	Μήπως έχετε γιαπωνέζικη μπύρα;	имате	0	0
+Претварао\\\\претварала сам се да радим.	Έκανα πως δούλευα.	радим	0	0
+То jе насељено место.	Αυτή είναι μια κατοικημένη περιοχή.	место	0	0
+Писмо је најлепши начин да се изрази љубав.	Το γράμμα είναι ο καλύτερος τρόπος για να εκφράσεις την αγάπη.	начин	0	0
+Мајка је жена.	Η μητέρα είναι γυναίκα.	жена	0	0
+Hajde da slušamo malo muzike.	Άντε να ακούσουμε λίγη μουσική.	muzike	0	0
+Posmatram more i reku.	Βλέπω τη θάλασσα και το ποτάμι.	reku	0	0
+Да ли си то знао?	Το γνωρίζατε αυτό;	знао	0	0
+Ко је ваш мајстор?	Ποιος είναι ο καθηγητής σας;	ваш	0	0
+Prodaju šećer u radnji.	Πουλάνε ζάχαρη στο μαγαζί.	radnji	0	0
+Ova knjiga je štampana u Engleskoj.	Αυτό το βιβλίο ήταν τυπωμένο στα Αγγλικά.	engleskoj	0	0
+Отац је оздравио.	Ο πατέρας ανάρρωσε.	отац	0	0
+Покушај поново.	Δοκίμασε ξανά.	поново	0	0
+Том веома брзо плива.	Ο Τομ κολυμπάει πολύ γρήγορα.	брзо	0	0
+Извините, ја морам да идем.	Με συγχωρείτε, εγώ θα πρέπει να φύγω.	извините	0	0
+Тешко је одговорити на твоје питање.	Είναι δύσκολο να απαντήσει κανείς στην ερώτησή σου.	твоје	0	0
+Ја у то не верујем.	Δεν πιστεύω σε αυτό.	верујем	0	0
+Ко је оставио отворена врата?	Ποιος άφησε ανοιχτή την πόρτα;	врата	0	0
+Oni nemaju ništa zajedničko s nama.	Αυτοί δεν έχουν τίποτε κοινό μαζί μας.	zajedničko	0	0
+Италијански језик сам учио неколико месеци.	Σπούδασα τα ιταλικά για μερικούς μήνες.	неколико	0	0
+Том ставља превише шећера у свој чај.	Ο Τομ βάζει πάρα πολύ ζάχαρη στο τσάι του.	превише	0	0
+On je šampion.	Αυτός είναι πρωταθλητής.	šampion	0	0
+Prodaju šećer u radnji.	Πουλάνε ζάχαρη στο μαγαζί.	šećer	0	0
+Ona govori deset jezika.	Αυτή μιλάει δέκα γλώσσες.	jezika	0	0
+Oni su zasadili drveće jabuka.	Αυτοί φύτεψαν μηλιές.	drveće	0	0
+Ona popije flašu mleka svako jutro.	Αυτή πίνει κάθε πρωί ένα μπουκάλι γάλα.	flašu	0	0
+Ова књига штампана је у Енглеској.	Αυτό το βιβλίο είναι τυπωμένο στην Αγγλία.	ова	0	0
+Bio sam u Rimu.	Ήμουν στη Ρώμη.	rimu	0	0
+Та књига је подељена на четири дела.	Αυτό το βιβλίο είναι χωρισμένο σε τέσσερα μέρη.	та	0	0
+Idem na plažu.	Πάω στην παραλία.	plažu	0	0
+Mogu li da vidim Vaš pasoš?	Μήπως μπορώ να δω το διαβατήριό σας;	pasoš	0	0
+Ona popije flašu mleka svako jutro.	Αυτή πίνει κάθε πρωί ένα μπουκάλι γάλα.	mleka	0	0
+Тешко је одговорити на твоје питање.	Είναι δύσκολο να απαντήσει κανείς στην ερώτησή σου.	тешко	0	0
+Он је познат као велики сликар.	Αυτός είναι διάσημος ως μεγάλος ζωγράφος.	велики	0	0
+Moja sestra je medicinska sestra a moj brat je doktor.	Η αδερφή μου είναι αδερφή νοσοκόμος και ο αδερφός μου είναι γιατρός.	medicinska	0	0
+Ova stolica je ružna.	Αυτή η καρέκλα είναι άσχημη.	ružna	0	0
+Једна девојка украла ми је срце.	Μια κοπέλλα μου έκλεψε την καρδιά.	једна	0	0
+Они имају коња.	Αυτοί έχουν άλογο.	имају	0	0
+Она је такође купила речник.	Αυτή επίσης αγόρασε λεξικό.	такође	0	0
+Шта тачно намераваш да урадиш?	Τι ακριβώς σκοπεύεις να κάνεις;	тачно	0	0
+Ova stolica je ružna.	Αυτή η καρέκλα είναι άσχημη.	stolica	0	0
+Voda je trebala Tomu.	Ο Τομ χρειαζόταν νερό.	tomu	0	0
+Врло добро, хвала.	Πολύ καλά, ευχαριστώ.	врло	0	0
+Шта мислите о томе?	Τι νομίζετε γι΄αυτό;	мислите	0	0
+Видећемо га касније.	Θα τον δούμε αργότερα.	касније	0	0
+То је његов ауто.	Αυτό το αυτοκίνητο είναι δικό του.	његов	0	0
+Pušenje je štetno za zdravlje.	Το κάπνισμα είναι επιβλαβές για την υγεία.	pušenje	0	0
+Ken je visok kao i Bil.	Ο Κεν είναι ψηλός όπως ο Μπιλ.	ken	0	0
+Има ли лекара међу нама?	Υπάρχει γιατρός ανάμεσά μας;	нама	0	0
+Знамо га.	Τον ξέρουμε.	знамо	0	0
+Koliko jabuka?	Πόσα μήλα;	jabuka	0	0
+Oni moraju da piju vodu.	Αυτοί πρέπει να πιούνε νερό.	piju	0	0
+Мајка је жена.	Η μητέρα είναι γυναίκα.	мајка	0	0
+Nemačka je parlamentarna republika.	Η Γερμανία είναι κοινοβουλευτική δημοκρατία.	nemačka	0	0
+Zima je moje omiljeno doba.	Ο χειμώνας είναι η αγαπημένη μου εποχή.	zima	0	0
+Koliko pretplatnika ima ovaj časopis?	Πόσους συνδρομητές έχει αυτό το περιοδικό;	časopis	0	0
+Zima je moje omiljeno doba.	Ο χειμώνας είναι η αγαπημένη μου εποχή.	omiljeno	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	пет	0	0
+Једна девојка украла ми је срце.	Μια κοπέλλα μου έκλεψε την καρδιά.	девојка	0	0
+Да ли могу да добијем твој број телефона?	Μπορώ να έχω το τηλέφωνό σου;	број	0	0
+Том ставља превише шећера у свој чај.	Ο Τομ βάζει πάρα πολύ ζάχαρη στο τσάι του.	том	0	0
+Posetio sam je u Nemačkoj.	Την επισκέφτηκα στη Γερμανία.	nemačkoj	0	0
+Moj otac je popravio polomljenu stolicu.	Ο πατέρας μου επιδιόρθωσε μια σπασμένη καρέκλα.	popravio	0	0
+Говори јасно.	Μίλα καθαρά.	говори	0	0
+Руке увис!	Ψηλά τα χέρια!	руке	0	0
+Морате да тестирате тога ученика.	Θα έπρεπε να εξετάσετε αυτόν τον μαθητή.	морате	0	0
+Šta misliš o Japanskom jeziku?	Τι σκέφτεσαι για την Ιαπωνική γλώσσα;	jeziku	0	0
+Imaš tako lepu kravatu.	Έχεις τόσο ωραία γραβάτα.	kravatu	0	0
+Ваша кућа је велика.	Το σπίτι σας είναι μεγάλο.	ваша	0	0
+Ја то морам да урадим.	Αυτό μπορούμε να το κάνουμε.	урадим	0	0
+Један мој пријатељ студира у иностранству.	Ένας φίλος μου σπουδάζει στο εξωτερικό.	пријатељ	0	0
+Hajde da slušamo malo muzike.	Άντε να ακούσουμε λίγη μουσική.	slušamo	0	0
+Posetio sam je u Nemačkoj.	Την επισκέφτηκα στη Γερμανία.	posetio	0	0
+Smeh je zarazan.	Το γέλιο είναι μεταδοτικό.	smeh	0	0
+Његова супруга је Јапанка.	Η σύζυγός του είναι Γιαπωνέζα.	његова	0	0
+Možeš li da rešiš ovaj problem?	Μπορείς να λύσεις αυτό το πρόβλημα;	rešiš	0	0
+Ми волимо оне који воле нас.	Αγαπάμε αυτούς που μας αγαπάνε.	оне	0	0
+Мој унук је син мога сина.	Ο εγγονός μου είναι γιός του γιού μου.	син	0	0
+Говори јасно.	Μίλα καθαρά.	јасно	0	0
+Jasno je da si slagao.	Είναι ξεκάθαρο ότι είπες ψέμματα.	slagao	0	0
+Тешко је одговорити на твоје питање.	Είναι δύσκολο να απαντήσει κανείς στην ερώτησή σου.	питање	0	0
+Posmatram more i reku.	Βλέπω τη θάλασσα και το ποτάμι.	posmatram	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	четири	0	0
+Voziš kao manijak!	Οδηγείς σαν μανιακός!	manijak	0	0
+Џон воли да игра шах.	Ο Τζον θέλει να παίξει σκάκι.	воли	0	0
+Писмо је најлепши начин да се изрази љубав.	Το γράμμα είναι ο καλύτερος τρόπος για να εκφράσεις την αγάπη.	љубав	0	0
+Izgledaš veoma umorno.	Φαίνεσαι πολύ κουρασμένος.	umorno	0	0
+Pridrži ovo!	Κράτα αυτό!	pridrži	0	0
+On je nastavnik u našoj školi.	Αυτός είναι καθηγητής στο σχολείο μας.	nastavnik	0	0
+Iga tenis svaki dan.	Παίζει τένις κάθε μέρα.	tenis	0	0
+Brazil je peta zemlja po veličini u svetu.	Η Βραζιλία είναι η πέμπτη χώρα σε μέγεθος στον κόσμο.	peta	0	0
+Она је мислила да сам ја лекар.	Αυτή νόμιζε ότι εγώ είμαι γιατρός.	мислила	0	0
+Свет се не окреће око вас.	Ο κόσμος δεν περιστρέφεται γύρω από σας.	свет	0	0
+Волим да студирам стране језике.	Μου αρέσει να μαθαίνω ξένες γλώσσες.	стране	0	0
+Он има последњи модел аутомобила.	Το αυτοκίνητό του είναι το τελευταίο μοντέλο.	последњи	0	0
+На свету постоји много језика.	Στον κόσμο υπάρχουν πολλές γλώσσες.	свету	0	0
+Једна девојка украла ми је срце.	Μια κοπέλλα μου έκλεψε την καρδιά.	срце	0	0
+Он живи негде у околини парка.	Αυτό μένει κάπου γύρω απ'το πάρκο.	негде	0	0
+Том је возио ауто.	Ο Τομ οδήγησε το αυτοκίνητο.	ауто	0	0
+Marina je iz Rusije, a Clarissa je iz Švedske.	Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	marina	0	0
+Единбург је главни град Шкотске.	Το Εδιμβούργο είναι πρωτεύουσα της Σκωτίας.	град	0	0
+Kompjuter igra važnu ulogu pri učenju.	Ο υπολογιστής παίζει σημαντικό ρόλο στη γνώση.	važnu	0	0
+Он живи негде у околини парка.	Αυτό μένει κάπου γύρω απ'το πάρκο.	живи	0	0
+Živeo sam u Japanu pre tri godine.	Έζησα στην Ιαπωνία πριν τρία χρόνια.	japanu	0	0
+Nemačka je dala mnogo naučnika.	Η Γερμανία έδωσε πολλούς επιστήμονες.	naučnika	0	0
+Не брини.	Μην ανησυχείς.	брини	0	0
+Чекајте до шест.	Περιμένετε μέχρι τις έξι.	шест	0	0
+Моја кућа је близу школе.	Το σπίτι μου είναι κοντά στο σχολείο.	близу	0	0
+Ova knjiga je o zvezdama.	Αυτό το βιβλίο είναι για τα αστέρια.	zvezdama	0	0
+Ona popije flašu mleka svako jutro.	Αυτή πίνει κάθε πρωί ένα μπουκάλι γάλα.	popije	0	0
+Računar je novi.	Ο υπολογιστής είναι καινούργιος.	računar	0	0
+Хоћете ли да оставите тај папир и слушате мене?	Θέλετε να αφήσετε αυτό το χαρτί και να ακούσετε εμένα;	хоћете	0	0
+Да ли он зна шта ви радите?	Γνωρίζει άραγε αυτός τι κάνατε;	радите	0	0
+Ваша кућа је велика.	Το σπίτι σας είναι μεγάλο.	велика	0	0
+Телефон је једна чудесна направа.	Το τηλέφωνο είναι μια θαυμάσια συσκευή.	телефон	0	0
+Marina je iz Rusije, a Clarissa je iz Švedske.	Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	rusije	0	0
+Књига је мала.	Το βιβλίο είναι μικρό.	мала	0	0
+Да ли могу да помогнем?	Μήπως μπορώ να βοηθήσω;	помогнем	0	0
+Ajkule su dobri plivači.	Οι καρχαρίες είναι καλοί κολυμβητές.	ajkule	0	0
+Voleo bih da znam da plivam.	Θα ήθελα να ήξερα να κολυμπάω.	plivam	0	0
+Ja mrzim matematiku.	Εγώ μισώ τα μαθηματικά.	matematiku	0	0
+Многе енглеске речи воде порекло из латинског.	Πολλές αγγλικές λέξεις προέρχονται από τα λατινικά.	речи	0	0
+Мој унук је син мога сина.	Ο εγγονός μου είναι γιός του γιού μου.	сина	0	0
+Tom je siromašan.	Ο Τομ είναι φτωχός.	siromašan	0	0
+Ovo je vrlo dobra rečenica.	Αυτή είναι μια πολύ καλή φράση.	rečenica	0	0
+То је оружје.	Αυτό είναι όπλο.	оружје	0	0
+Pišem rečenicu na nemačkom.	Γράφω μια φράση στα Γερμανικά.	rečenicu	0	0
+Џон воли да игра шах.	Ο Τζον θέλει να παίξει σκάκι.	игра	0	0
+Zdravo Suzana. Kako je?	Γεια σου Σουζάνα. Πως πάει;	suzana	0	0
+To je po veličini treći grad u Srbiji.	Αυτή είναι σε μέγεθος τρίτη πόλη στη Σερβία.	veličini	0	0
+Koja je tvoja krvna grupa?	Ποιά είναι η ομάδα αίματός σου;	krvna	0	0
+Ispričaću ti jednu priču.	Θα σου διηγηθώ μια ιστορία.	ispričaću	0	0
+Многе енглеске речи воде порекло из латинског.	Πολλές αγγλικές λέξεις προέρχονται από τα λατινικά.	воде	0	0
+Шта си покушао да урадиш?	Τι προσπάθησες να κάνεις;	покушао	0	0
+Моја кућа је на западној страни улице.	Το σπίτι μου είναι στη δυτική πλευρά του δρόμου.	кућа	0	0
+Glavni grad Japana je Tokijo.	Πρωτεύουσα της Ιαπωνίας είναι το Τόκιο.	japana	0	0
+Италијански језик сам учио неколико месеци.	Σπούδασα τα ιταλικά για μερικούς μήνες.	месеци	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	десет	0	0
+Ко је оставио отворена врата?	Ποιος άφησε ανοιχτή την πόρτα;	оставио	0	0
+Imam rečnik.	Έχω ένα λεξικό.	rečnik	0	0
+Latinski je mrtav jezik.	Τα λατινικά είναι νεκρή γλώσσα.	latinski	0	0
+Tom voli da igra bilijar.	Ο Τομ θέλει να παίξει μπιλιάρδο.	bilijar	0	0
+On ima dubok glas.	Αυτός έχει βαθιά φωνή.	dubok	0	0
+To je zaista šokantno.	Αυτό είναι αληθινά σοκαριστικό.	šokantno	0	0
+Moja mati je Grkinja.	Η μητέρα μου είναι Ελληνίδα.	mati	0	0
+Ја мрзим математику.	Μισώ τα μαθηματικά.	мрзим	0	0
+Brazil je peta zemlja po veličini u svetu.	Η Βραζιλία είναι η πέμπτη χώρα σε μέγεθος στον κόσμο.	brazil	0	0
+Има ли лекара међу нама?	Υπάρχει γιατρός ανάμεσά μας;	међу	0	0
+Osam plus deset je osamnaest.	Οχτώ συν δέκα κάνει δεκαοχτώ.	osamnaest	0	0
+Nemačka je parlamentarna republika.	Η Γερμανία είναι κοινοβουλευτική δημοκρατία.	republika	0	0
+Како зовете вашег пса?	Πως ονομάζεται ο σκύλος σας;	вашег	0	0
+Шта си покушао да урадиш?	Τι προσπάθησες να κάνεις;	урадиш	0	0
+Какво питање – такав одговор.	΄Οπως η ερώτηση - έτσι και η απάντηση.	такав	0	0
+Pišem rečenicu na nemačkom.	Γράφω μια φράση στα Γερμανικά.	nemačkom	0	0
+On uvek nosi tamnu odeću.	Αυτός πάντα φοράει σκούρα ρούχα.	tamnu	0	0
+Џон воли да игра шах.	Ο Τζον θέλει να παίξει σκάκι.	џон	0	0
+Da li pušite?	Καπνίζετε;	pušite	0	0
+Шта је Лунарна Нова година?	Τι είναι το νέο έτος της Σελήνης;	нова	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	седам	0	0
+Moram da studiram.	Πρέπει να σπουδάσω.	studiram	0	0
+Њена је, зар не?	Είναι δικό της, δεν είναι;	њена	0	0
+Моја кућа је на западној страни улице.	Το σπίτι μου είναι στη δυτική πλευρά του δρόμου.	страни	0	0
+Kupio je jaja i mleko od seljaka.	Αυτός αγόρασε αυγά και γάλα από αγρότη.	seljaka	0	0
+Какво питање – такав одговор.	΄Οπως η ερώτηση - έτσι και η απάντηση.	одговор	0	0
+Беба уме да хода.	Το μωρό μπορεί να βαδίσει.	беба	0	0
+Ova knjiga će ti pomoći da pišeš efikasno.	Αυτό το βιβλίο θα σε βοηθήσει να γράψεις αποτελεσματικά.	efikasno	0	0
+Единбург је главни град Шкотске.	Το Εδιμβούργο είναι πρωτεύουσα της Σκωτίας.	главни	0	0
+Meri je slikala svoju mačku telefonom.	Η Μαίρη φωτογράφησε τη μητέρα της με το κινητό της.	slikala	0	0
+Чекајте до шест.	Περιμένετε μέχρι τις έξι.	чекајте	0	0
+Колико језика говориш, толико вредиш.	Όσες γλώσσες μιλάς, τόσο αξίζεις.	говориш	0	0
+Колико је мачака у тој кући?	Πόσες γάτες υπάρχουν σε αυτό το σπίτι;	тој	0	0
+Ovo je iz Australije.	Αυτό είναι από την Αυστραλία.	australije	0	0
+Да ли могу да добијем твој број телефона?	Μπορώ να έχω το τηλέφωνό σου;	добијем	0	0
+Ми волимо оне који воле нас.	Αγαπάμε αυτούς που μας αγαπάνε.	воле	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	осам	0	0
+То је свакодневна грешка	Αυτό είναι καθημερινό σφάλμα.	грешка	0	0
+Такси је скуп.	Το ταξί είναι ακριβό.	такси	0	0
+Добар лет!	Καλή πτήση!	лет	0	0
+Ја вас чекам у врту.	Σας περιμένω στον κήπο.	чекам	0	0
+Gde je votka?	Που είναι η βότκα;	votka	0	0
+Popravljam kuću.	Επισκευάζω το σπίτι.	popravljam	0	0
+Овај замак је леп.	Αυτό το κάστρο είναι ωραίο.	леп	0	0
+Мој пас воли мачке.	Αρέσουν οι γάτες στον σκύλο μου.	пас	0	0
+Писмо је најлепши начин да се изрази љубав.	Το γράμμα είναι ο καλύτερος τρόπος για να εκφράσεις την αγάπη.	писмо	0	0
+Соба је била празна.	Το δωμάτιο ήταν άδειο.	соба	0	0
+Моја кућа је близу школе.	Το σπίτι μου είναι κοντά στο σχολείο.	школе	0	0
+Svi mi lažemo.	Όλοι εμείς ψευδόμαστε.	lažemo	0	0
+Zakon je usvojen od strane parlamenta.	Ο νόμος εγκρίθηκε από το κοινοβούλιο της χώρας.	usvojen	0	0
+Zakon je usvojen od strane parlamenta.	Ο νόμος εγκρίθηκε από το κοινοβούλιο της χώρας.	parlamenta	0	0
+Imaš čudesan glas.	Έχεις θαυμάσια φωνή.	čudesan	0	0
+Покушај поново.	Δοκίμασε ξανά.	покушај	0	0
+Хоћете ли да оставите тај папир и слушате мене?	Θέλετε να αφήσετε αυτό το χαρτί και να ακούσετε εμένα;	оставите	0	0
+Данас је хладно.	Σήμερα κάνει κρύο.	хладно	0	0
+Какво питање – такав одговор.	΄Οπως η ερώτηση - έτσι και η απάντηση.	какво	0	0
+Ја сам то већ купио.	Εγώ το αγόρασα ήδη.	купио	0	0
+Имате ли јапанско пиво?	Μήπως έχετε γιαπωνέζικη μπύρα;	пиво	0	0
+Marina je iz Rusije, a Clarissa je iz Švedske.	Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	švedske	0	0
+Mi verujemo u demokratiju.	Εμείς πιστεύουμε στη δημοκρατία.	demokratiju	0	0
+Како зовете вашег пса?	Πως ονομάζεται ο σκύλος σας;	пса	0	0
+Та књига је подељена на четири дела.	Αυτό το βιβλίο είναι χωρισμένο σε τέσσερα μέρη.	дела	0	0
+Пара на пару иде.	Τα λεφτά πάνε στα λεφτά.	пара	0	0
+Они имају коња.	Αυτοί έχουν άλογο.	коња	0	0
+Kompjuter igra važnu ulogu pri učenju.	Ο υπολογιστής παίζει σημαντικό ρόλο στη γνώση.	učenju	0	0
+Барселона се налази у Шпанији.	Η Βαρκελώνη βρίσκεται στην Ισπανία.	налази	0	0
+Tečno je govorila Francuski jezik.	Αυτή μιλούσε με ευχέρεια τη Γαλλική γλώσσα.	tečno	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	девет	0	0
+Италијански језик сам учио неколико месеци.	Σπούδασα τα ιταλικά για μερικούς μήνες.	језик	0	0
+Пчеле праве мед.	Οι μέλισσες κάνουν μέλι.	праве	0	0
+Обе сестре су веома лепе.	Και οι δύο αδερφές είναι πολύ ωραίες.	сестре	0	0
+Изволте, рачун.	Ορίστε ο λογαριασμός.	рачун	0	0
+Где је чај са млеком?	Που είναι το τσάι με γάλα;	чај	0	0
+Šta misliš o Japanskom jeziku?	Τι σκέφτεσαι για την Ιαπωνική γλώσσα;	japanskom	0	0
+Та књига је подељена на четири дела.	Αυτό το βιβλίο είναι χωρισμένο σε τέσσερα μέρη.	књига	0	0
+Можете ме звати Боб.	Μπορείτε να με λέτε Μπομπ.	звати	0	0
+Видећемо га касније.	Θα τον δούμε αργότερα.	видећемо	0	0
+Да ли могу да добијем твој број телефона?	Μπορώ να έχω το τηλέφωνό σου;	телефона	0	0
+Обе сестре су веома лепе.	Και οι δύο αδερφές είναι πολύ ωραίες.	обе	0	0
+Том веома брзо трчи.	Ο Τομ τρέχει πολύ γρήγορα.	трчи	0	0
+Ja bih da platim kešom.	Θα ήθελα να πληρώσω με μετρητά.	kešom	0	0
+Želim da postanem inžinjer.	Θέλω να γίνω μηχανικός.	inžinjer	0	0
+Ја волим да једем чоколаду, јер је то моја најмилија храна.	Θέλω να φάω σοκολάτα, επειδή είναι η αγαπημένη μου διατροφή.	храна	0	0
+Он једе јабуку.	Αυτός τρώει μήλο.	једе	0	0
+Cirih se smatra jednim od velikih finansijskih centara.	Η Ζυρίχη θεωρείται ένα από τα μεγαλύτερα οικονομικά κέντρα.	finansijskih	0	0
+Његова супруга говори у сну.	Η σύζυγός του μιλάει στον ύπνο της.	супруга	0	0
+Више волим црвено него бело вино.	Περισσότερο μου αρέσει το κόκκινο παρά το λευκό κρασί.	вино	0	0
+Smeh je zarazan.	Το γέλιο είναι μεταδοτικό.	zarazan	0	0
+Moj sat mora biti popravljen.	Το ρολόι μου πρέπει να επιδιορθωθεί.	popravljen	0	0
+Oslo je glavni grad Norveške.	Το Όσλο είναι η πρωτεύουσα της Νορβηγίας.	norveške	0	0
+Многе енглеске речи воде порекло из латинског.	Πολλές αγγλικές λέξεις προέρχονται από τα λατινικά.	многе	0	0
+Обе сестре су веома лепе.	Και οι δύο αδερφές είναι πολύ ωραίες.	лепе	0	0
+Rat nije neizbežan.	Ο πόλεμος δεν είναι αναπόφευκτος.	neizbežan	0	0
+Која је твоја крвна група?	Ποιά είναι η ομάδα αίματός σου;	група	0	0
+Ружа испушта сладак мирис.	Το ρόδο αναδίνει γλυκιά μυρωδιά.	сладак	0	0
+Ја само добро,хвала што питате!	Είμαι καλά, ευχαριστώ που ρωτάτε!	питате	0	0
+Овај човек је пијан.	Αυτός ο άνθρωπος είναι πιωμένος.	пијан	0	0
+Он је познат као велики сликар.	Αυτός είναι διάσημος ως μεγάλος ζωγράφος.	познат	0	0
+Моја кућа је на западној страни улице.	Το σπίτι μου είναι στη δυτική πλευρά του δρόμου.	улице	0	0
+Добро увек побеђује зло.	Το καλό πάντα υπερισχύει του κακού.	зло	0	0
+Ona je bila veoma ambiciozna žena.	Αυτή ήταν πολύ φιλόδοξη γυναίκα.	ambiciozna	0	0
+Teheran je u Iranu.	Η Τεχεράνη είναι στο Ιράν.	iranu	0	0
+Ми волимо оне који воле нас.	Αγαπάμε αυτούς που μας αγαπάνε.	волимо	0	0
+Телефонирајте полицији!	Τηλεφωνήστε την αστυνομία!	полицији	0	0
+Joko će otići u Kjoto sledeće nedelje.	Η Γιόκο θα πάει στο Κυότο την επόμενη εβδομάδα.	joko	0	0
+Ружа испушта сладак мирис.	Το ρόδο αναδίνει γλυκιά μυρωδιά.	мирис	0	0
+Pušenje je štetno za zdravlje.	Το κάπνισμα είναι επιβλαβές για την υγεία.	štetno	0	0
+Мислим да треба да му кажемо.	Νομίζω πως πρέπει να του πούμε.	кажемо	0	0
+Ona diluje drogu po koncertima.	Αυτή πουλάει ναρκωτικά σε συναυλίες.	diluje	0	0
+Hvala na informaciji.	Ευχαριστώ για την πληροφορία.	informaciji	0	0
+Ко је оставио отворена врата?	Ποιος άφησε ανοιχτή την πόρτα;	отворена	0	0
+Он је мој друг.	Αυτός είναι φίλος μου.	друг	0	0
+Ја волим да једем чоколаду, јер је то моја најмилија храна.	Θέλω να φάω σοκολάτα, επειδή είναι η αγαπημένη μου διατροφή.	једем	0	0
+Не пијте много вина!	Μη πίνετε πολύ κρασί!	вина	0	0
+Том од детињства живи у Њујорку.	Ο Τομ μένει από παιδί στη Νέα Υόρκη.	њујорку	0	0
+То је мој коњ.	Αυτό είναι το άλογό μου.	коњ	0	0
+Беба уме да хода.	Το μωρό μπορεί να βαδίσει.	хода	0	0
+Ko je napisao Hamleta?	Ποιος έγραψε τον Άμλετ;	hamleta	0	0
+Šta je po zanimanju tvoj otac?	Τι δουλειά κάνει ο πατέρας σου;	zanimanju	0	0
+Cirih se smatra jednim od velikih finansijskih centara.	Η Ζυρίχη θεωρείται ένα από τα μεγαλύτερα οικονομικά κέντρα.	centara	0	0
+Има ли лекара међу нама?	Υπάρχει γιατρός ανάμεσά μας;	лекара	0	0
+Покушајте поново.	Προσπαθήστε πάλι.	покушајте	0	0
+Том је возио ауто.	Ο Τομ οδήγησε το αυτοκίνητο.	возио	0	0
+Она је мислила да сам ја лекар.	Αυτή νόμιζε ότι εγώ είμαι γιατρός.	лекар	0	0
+Он има последњи модел аутомобила.	Το αυτοκίνητό του είναι το τελευταίο μοντέλο.	модел	0	0
+Беба плаче.	Η μπέμπα κλαίει.	плаче	0	0
+Како зовете вашег пса?	Πως ονομάζεται ο σκύλος σας;	зовете	0	0
+Мој пас воли мачке.	Αρέσουν οι γάτες στον σκύλο μου.	мачке	0	0
+Колико кошта флаша пива?	Πόσο κοστίζει ένα μπουκάλι μπύρα;	кошта	0	0
+Мој унук је син мога сина.	Ο εγγονός μου είναι γιός του γιού μου.	мога	0	0
+Можете ме звати Боб.	Μπορείτε να με λέτε Μπομπ.	боб	0	0
+Он има последњи модел аутомобила.	Το αυτοκίνητό του είναι το τελευταίο μοντέλο.	аутомобила	0	0
+Хоћете ли да оставите тај папир и слушате мене?	Θέλετε να αφήσετε αυτό το χαρτί και να ακούσετε εμένα;	папир	0	0
+То је бесплатно.	Αυτό είναι δωρεάν.	бесплатно	0	0
+Понедељак је.	Είναι Δευτέρα.	понедељак	0	0

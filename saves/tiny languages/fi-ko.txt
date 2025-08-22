@@ -1,0 +1,782 @@
+Hän on töissä pankissa.	그는 은행에서 일한다.	on	0	0
+Tomilla ei ole huumorintajua.	톰은 유머감각이 없다.	ei	0	0
+Toiset sanovat, että Ramses toisella oli kuusi vaimoa ja yli sata lasta.	어떤 사람들은 람세스 2세는 6명의 아내와 100명 이상의 자녀가 있었다고 말한다.	ja	0	0
+Se on valitettavasti totta.	유감스럽게도 사실이네요.	se	0	0
+Hän on kiva ihminen.	그는 좋은 사람이다.	hän	0	0
+En tiedä onko minulla aikaa.	시간 있는지 잘 모르겠습니다.	en	0	0
+Mitä sinä teet?	뭐해요?	mitä	0	0
+Kerroit, että olit saanut työt valmiiksi kolme päivää aikaisemmin.	당신은 삼일전에 일을 끝냈다고 말했다.	että	0	0
+Ilmaisia lounaita ei ole olemassa.	세상에 공짜가 어딨어?	ole	0	0
+Olen kotoisin Kiinasta.	중국에서 왔습니다.	olen	0	0
+Ylipäänsä heillä oli todella hyvä tuuri.	전체적으로 볼 때 운이 매우 좋았다.	oli	0	0
+Hän oli niin utelias, että avasi laatikon.	그녀는 지나친 호기심으로 인해 상자을 열었다.	niin	0	0
+Mutta avaruus on ääretön.	그러나 우주는 무한하다.	mutta	0	0
+Voisitko antaa sen minulle?	그것 좀 주시겠습니까?	sen	0	0
+Vain Naoko juo kahvia.	나오꼬만 커피를 마셔요.	vain	0	0
+Voinko minä tulla juhliisi tänä iltana?	나 오늘밤 너의 파티에 가도 돼?	minä	0	0
+Olisi mukavaa, jos voisin matkustaa Japaniin.	일본에 갈 수 있었으면 좋겠어요.	jos	0	0
+Tämä on hänen talonsa.	이것은 그분의 집입니다.	tämä	0	0
+Muiriel on nyt kaksikymmentä.	Muiriel은 지금 20살입니다.	nyt	0	0
+Uskotko sinä Jumalaan?	신의 존재를 믿니?	sinä	0	0
+Mihin sinä olet menossa?	어디에 가요?	olet	0	0
+Todella paljon kiitoksia kun näytit tämän kokoelman luotettavat esimerkit.	이렇게 콜렉션의 확실한 예를 보여줘서 정말 감사합니다.	kun	0	0
+Odotan sitä innolla.	나 기대하고 있어.	sitä	0	0
+Minusta tämä kirja on parempi kuin tuo kirja.	난 이 책을 저 책보다 좋아한다.	kuin	0	0
+He menevät katsomaan näytelmän kerran kuukaudessa.	그들은 매월 한 번씩 연극을 보러 간다.	he	0	0
+Kyyneleet herahtivat hänen silmiinsä.	그녀의 눈에 눈물이 고였다.	hänen	0	0
+Mitä haluat tehdä sinä aikana kun olet täällä?	여기에 있는 동안 뭘 하고 싶으세요?	täällä	0	0
+Kenenköhän kirja tämä mahtaa olla?	이 책은 누구 것이지?	olla	0	0
+Syy siihen on se, että sinä et halua olla yksin.	왜냐하면 당신은 혼자가 되고 싶지 않기 때문이에요.	et	0	0
+Onko kaikki okei?	괜찮으세요?	kaikki	0	0
+Minun täytyy mennä nukkumaan.	제가 자야 돼요.	minun	0	0
+Älä lisää lauseita, jotka ovat peräisin tekijänoikeussuojatuista lähteistä.	저작권이 있는 출처의 문장을 추가하지 마십시오.	ovat	0	0
+Hän on hyvä ihminen.	그는 좋은 사람이다.	hyvä	0	0
+Hän tuli tapaamaan minua.	그는 나를 만나서 왔어요.	minua	0	0
+Pari päivää sitten kadottamani kello oli uusi.	저번에 잃어버린 시계는 새 거였다.	sitten	0	0
+Onko kaikki okei?	괜찮으세요?	onko	0	0
+Miksi unohdan aina täysin sen sanan?	왜 그 단어를 잊어버렸니?	miksi	0	0
+Rakastan sinua!	사랑해요.	sinua	0	0
+Miten tämä toimii?	어떻게 작동하지?	miten	0	0
+Sinun pitäisi nukkua.	당신 좀 자야겠어요.	sinun	0	0
+Älä muuta lauseita, jotka ovat oikein. Voit sen sijaan lisätä luonnollisen kuuloisia vaihtoehtoisia käännöksiä.	정확한 문장을 수정하지 마십시오. 대신 당신은 자연스럽게 들리는 다른 번역문을 제출할 수 있습니다.	älä	0	0
+Syytetty vastusti tuomiota ja valitti siitä välittömästi.	피고는 판결에 대항하여 바로 항소하였다.	siitä	0	0
+Hänet ristittiin Johniksi.	그는 존이라는 세례명을 받았다.	hänet	0	0
+Pitää paikkansa, ikävä kyllä.	유감스럽게도 사실이네요.	kyllä	0	0
+Kiitos suuresta vaivannäöstäsi.	고생했어요	kiitos	0	0
+Mikä tämä on?	그건 뭐야?	mikä	0	0
+Olisi mukavaa, jos voisin matkustaa Japaniin.	일본에 갈 수 있었으면 좋겠어요.	olisi	0	0
+Pitää valitettavasti paikkansa.	유감스럽게도 사실이네요.	pitää	0	0
+Me keräämme postimerkkejä joka puolelta maailmaa.	우리는 전 세계의 우표를 모은다.	joka	0	0
+Onko tässä maailmassa muka ilmaisia asioita?	세상에 공짜가 어딨어?	tässä	0	0
+En tiedä onko minulla aikaa.	시간 있는지 잘 모르겠어요.	tiedä	0	0
+Onko minulle tullut puheluita?	내게 온 전화가 있었습니까?	minulle	0	0
+Minulla on kaksi kissaa.	나는 고양이 두 마리를 가지고 있다.	minulla	0	0
+Yritetään jotain.	뭔가 해보자!	jotain	0	0
+Siinä paha missä mainitaan.	호랑이도 제 말하면 온다.	missä	0	0
+Tuo kakku on hyvää.	저 케익 맛있어요.	tuo	0	0
+Otat minut hitaasti hengiltä.	너는 날 천천히 죽이고 있어.	minut	0	0
+Me menemme kotiin.	우리는 집에 갑니다.	me	0	0
+Oletko varma?	정말이에요?	oletko	0	0
+Italia on hyvin kaunis maa.	이탈리아는 아주 아름다운 나라입니다.	hyvin	0	0
+Anteeksi, että olen myöhässä.	늦게 온 것을 용서해 주세요.	anteeksi	0	0
+Yritä vielä kerran uudelleen.	다시 한번 해봐.	vielä	0	0
+Mitkä ovat tämän tekniikan hyvät puolet?	이 기술의 이점은 무엇인가요?	tämän	0	0
+Lopeta jo!	좀 그만둬!	jo	0	0
+Jokainen yksinäinen ihminen on yksin, koska hän pelkää muita ihmisiä.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	koska	0	0
+Haluan opiskella englantia.	난 영어를 공부 하고 싶어.	haluan	0	0
+Tiedän, että inhoat sitä, että Tom käyttää vaatteitasi, mutta hän oli likomärkä.	난 텀이 너의 옷을 입는 걸 네가 싫어하는지 알았는데, 그의 옷이 함빡 젖었었어.	tiedän	0	0
+Mitä haluat tehdä sinä aikana kun olet täällä?	여기에 있는 동안 뭘 하고 싶으세요?	tehdä	0	0
+Haluamme luonnolliselta kuulostavia käännöksiä, emme suoria sanasta sanaan -käännöksiä.	우리는 자연스럽게 들리는 번역문을 원하며, 단어 대 단어로 직역한 번역문을 원하지 않습니다.	emme	0	0
+Tämä ei tule koskaan loppumaan.	이건 절대 끝나지 않을거야.	tule	0	0
+Kuinka paljon se maksaa?	얼마에요?	paljon	0	0
+Anna anteeksi, etten ole kirjoittanut pitkään aikaan.	오랫동안 편지를 못 써서 죄송해요.	anna	0	0
+Heidän kahden välit eivät ole hyvät.	저 두 명은 사이가 안 좋다.	eivät	0	0
+Tätä pianoa ei ole varmaankaan viritetty moneen vuoteen.	이 피아노 몇 년이고 조율을 안 했나 보네.	tätä	0	0
+Torkahdan usein bussissa ja pysäkki, jolla jäisin pois, menee ohi.	나는 자주 버스에서 졸다가 내릴 정류장을 지나쳐간다.	pois	0	0
+Jos laitat pillin sisään ennen kuin se täyttyy vedellä, voit vahvistaa sen helposti silmin nähden.	빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다.	ennen	0	0
+Sinulla on nuha.	너는 콧물이 흐른다.	sinulla	0	0
+Sinun täytyy opiskella tehokkaammin.	너는 더 능률적으로 공부해야 된다.	täytyy	0	0
+Miksi unohdan aina täysin sen sanan?	왜 그 단어를 잊어버렸니?	aina	0	0
+Varo, auto tulee!	위험해, 차온다!	tulee	0	0
+Siinä paha missä mainitaan.	호랑이도 제 말하면 온다.	siinä	0	0
+En enää tiedä mitä minun pitäisi tehdä.	더이상 어떻게 해야할지 모르겠어.	enää	0	0
+Olet nähnyt Tokyo Towerin, eikö niin?	너 도쿄 타워 본적 없지?	eikö	0	0
+Tulen pian takaisin.	곧 돌아올께요.	takaisin	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	yksi	0	0
+Etsin juuri silmälasejani.	나는 안경을 찾고 있다.	juuri	0	0
+Minulla ei ole varaa syödä näin kalliissa ravintolassa.	난 이렇게 비싼 식당에서 식사를 할 여유가 안되요.	näin	0	0
+Syy siihen on se, että sinä et halua olla yksin.	왜냐하면 당신은 혼자가 되고 싶지 않기 때문이에요.	halua	0	0
+En enää tiedä mitä minun pitäisi tehdä.	더이상 어떻게 해야할지 모르겠어.	pitäisi	0	0
+Kuinka kauan aiot olla Tokiossa?	너는 동경에 얼마 동안 머무르니?	kuinka	0	0
+Yrittää peittää koko taivaan kämmenellään.	손바닥으로 하늘을 가리려한다.	koko	0	0
+Ongelma on se, että meillä ei ole riittävästi aikaa.	문제는 우리는 시간이 충분하지 않다는 것이다.	meillä	0	0
+Olin vuorilla.	나는 산에 있었어.	olin	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	kaksi	0	0
+Tuomioistuin lykkäsi hänelle langetettua kuuden kuukauden pakkotyötuomiota.	법원은 그녀에세 6개월의 징역에 집행유예를 선고하였다.	hänelle	0	0
+Haluan mennä Koreaan.	한국에 가고 싶어요.	mennä	0	0
+Tämä ei pääty koskaan.	이건 절대 끝나지 않을거야.	koskaan	0	0
+Pidän tästä kirjasta enemmän kuin tuosta kirjasta.	난 이 책을 저 책보다 좋아한다.	tästä	0	0
+Olet aivan kuin isäsi.	너는 아빠랑 똑같다.	aivan	0	0
+Tänään minulla on ihan hirveän paljon läksyjä.	오늘 숙제가 너무 많아요.	ihan	0	0
+Se on valitettavasti totta.	유감스럽게도 사실이네요.	totta	0	0
+Syy siihen on se, että sinä et halua olla yksin.	왜냐하면 당신은 혼자가 되고 싶지 않기 때문이에요.	siihen	0	0
+Mene kotiin.	집에 가십시오.	mene	0	0
+En oikein tiedä, mitä sanoa...	뭐라고 말해야 할지 정말 모르겠어...	oikein	0	0
+Voisitko vähän auttaa minua?	저를 좀 도와 주실래요?	vähän	0	0
+Mitä sinä teet?	뭐합니까?	teet	0	0
+Hän on todella hyvällä tuulella.	그녀는 기분이 아주 좋다.	todella	0	0
+Hyvää syntymäpäivää, Muiriel!	생일 축하해 Muiriel!	hyvää	0	0
+Jos laitat pillin sisään ennen kuin se täyttyy vedellä, voit vahvistaa sen helposti silmin nähden.	빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다.	voit	0	0
+Ongelma on se, että meillä ei ole riittävästi aikaa.	문제는 우리는 시간이 충분하지 않다는 것이다.	aikaa	0	0
+Mihin haluat mennä?	어디에 가고 싶으세요?	haluat	0	0
+Oletko kunnossa?	괜찮으세요?	kunnossa	0	0
+Minusta tuli nainen.	저는 여자가 됐어요.	minusta	0	0
+Hän ei puhu ainoastaan espanjaa vaan myös ranskaa.	그는 스페인어뿐만 아니라, 프랑스어도 말한다.	myös	0	0
+Hän ei puhu ainoastaan espanjaa vaan myös ranskaa.	그는 스페인어뿐만 아니라, 프랑스어도 말한다.	vaan	0	0
+Tom viettää kaiken aikansa ajatellen Maria.	톰은 메리 생각 하느라 시간을 다 보낸다.	kaiken	0	0
+Hänellä on viisi isoveljeä.	그 여자는 오빠가 다섯명 있어.	hänellä	0	0
+Voinko auttaa teitä?	제가 좀 도와 드릴까요?	auttaa	0	0
+Haluan tulla japanin opettajaksi.	저는 일본어 선생님이 되고 싶어요.	tulla	0	0
+Katso aikataulusta junia Lontooseen.	런던행 열차를 시간표 확인하세요.	katso	0	0
+Pidä vaihtorahat.	잔돈은 가지세요.	pidä	0	0
+Heidän kahden välit eivät ole hyvät.	저 두 명은 사이가 안 좋다.	heidän	0	0
+Minun täytyy käydä ostoksilla. Tulen takaisin tunnin päästä.	난 쇼핑 가야되요, 한 시간 안에 돌아올게요.	päästä	0	0
+Tänään minulla on ihan hirveän paljon läksyjä.	오늘 숙제가 너무 많아요.	tänään	0	0
+Hän tuli tapaamaan minua.	그는 나를 만나서 왔어요.	tuli	0	0
+Ymmärrät koreaa, etkö ymmärräkin?	한국말을 이해하시지요?	etkö	0	0
+Mene kotiin.	집에 가십시오.	kotiin	0	0
+Älä muuta lauseita, jotka ovat oikein. Voit sen sijaan lisätä luonnollisen kuuloisia vaihtoehtoisia käännöksiä.	정확한 문장을 수정하지 마십시오. 대신 당신은 자연스럽게 들리는 다른 번역문을 제출할 수 있습니다.	muuta	0	0
+Näyttää siltä, että minun täytyy käyttää tätä hattua talvella.	겨울에 이 모자를 쓰고 다녀야 될 것 같아.	näyttää	0	0
+Ovi menee automaattisesti kiinni.	문은 자동으로 닫힌다.	kiinni	0	0
+Kenenköhän nämä silmälasit ovat?	이 안경은 누구 것이지?	nämä	0	0
+En oikein tiedä, mitä sanoa...	뭐라고 말해야 할지 정말 모르겠어...	sanoa	0	0
+Älä lisää lauseita, jotka ovat peräisin tekijänoikeussuojatuista lähteistä.	저작권이 있는 출처의 문장을 추가하지 마십시오.	jotka	0	0
+En tiedä milloin menen Ranskaan, mutta aion varmasti mennä.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.	varmasti	0	0
+Voisitko antaa minulle kirjoitusvälineen?	필기구 좀 주시겠습니까?	antaa	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	kolme	0	0
+Ota se lääke.	그 약을 먹으세요.	ota	0	0
+Palaan pian.	빨리 갔다 올게.	pian	0	0
+Voit saada sen ilmaiseksi.	무료로 받을 수도 있어.	saada	0	0
+Torkahdan usein bussissa ja pysäkki, jolla jäisin pois, menee ohi.	나는 자주 버스에서 졸다가 내릴 정류장을 지나쳐간다.	menee	0	0
+Voinko auttaa teitä?	제가 좀 도와 드릴까요?	teitä	0	0
+Olet nähnyt Tokyo Towerin, eikö niin?	너 도쿄 타워 본적 없지?	nähnyt	0	0
+Pidän hänestä.	나는 그 사람을 좋아한다.	hänestä	0	0
+Pidän tästä kirjasta enemmän kuin tuosta kirjasta.	난 이 책을 저 책보다 좋아한다.	enemmän	0	0
+Otan kutsusi vastaan mielihyvin.	초대에 기꺼이 응하겠습니다.	vastaan	0	0
+Jos laitat pillin sisään ennen kuin se täyttyy vedellä, voit vahvistaa sen helposti silmin nähden.	빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다.	sisään	0	0
+Ujo poika oli hänen edessään aivan nolo.	그 수줍은 소년은 그녀의 앞에서 완전히 쑥스러웠다.	poika	0	0
+Kerroit, että olit saanut työt valmiiksi kolme päivää aikaisemmin.	당신은 삼일전에 일을 끝냈다고 말했다.	olit	0	0
+Valitseminen on vaikea asia.	선택은 괴로운 일이다.	asia	0	0
+Maryn silmät olivat täynnä kyyneleitä.	매리의 눈에 눈물이 고였다.	olivat	0	0
+Sain vihdoinkin töitä.	나는 마침내 일자리를 구했다.	sain	0	0
+Tämä ei lopu ikinä.	이건 절대 끝나지 않을거야.	ikinä	0	0
+Tuolla tyypillä ei ole yhtään käytöstapoja.	그넘은 버릇 없는 넘이야.	tuolla	0	0
+Oletko varma?	정말이야?	varma	0	0
+Minä rakastan sinua.	사랑해요.	rakastan	0	0
+Hän on opiskellut ranskaa kahdeksan vuoden ajan.	그는 8년동안 불어를 공부하고 있다.	ajan	0	0
+Yritä vielä kerran.	다시 한번 해봐.	kerran	0	0
+Mihin olet matkalla?	어디에 가요?	mihin	0	0
+Minne olet matkalla?	어디에 가요?	minne	0	0
+Tappaa kaksi kärpästä yhdellä iskulla.	일석이조	tappaa	0	0
+Pidän hänestä.	나는 그 사람을 좋아한다.	pidän	0	0
+Silloin kun olin nuori, minulla oli tapana käydä meressä uimassa.	내가 어릴 때는 바다에 수영하러 가곤 했었지.	silloin	0	0
+Sopiiko, että tulen juhliisi tänä iltana?	나 오늘밤 너의 파티에 가도 돼?	tulen	0	0
+Tyttö keräsi sieniä metsässä.	소녀는 숲에서 버섯을 따 모았다.	tyttö	0	0
+Tapaan teidät Koreassa!	한국에 너희들을 만나요!	teidät	0	0
+Minusta tuli nainen.	저는 여자가 됐어요.	nainen	0	0
+Kuinka kauan aiot olla Tokiossa?	너는 동경에 얼마 동안 머무르니?	kauan	0	0
+Syy siihen on se, että sinä et halua olla yksin.	왜냐하면 당신은 혼자가 되고 싶지 않기 때문이에요.	yksin	0	0
+Älä lisää lauseita, jotka ovat peräisin tekijänoikeussuojatuista lähteistä.	저작권이 있는 출처의 문장을 추가하지 마십시오.	lisää	0	0
+Murhaaja sai elinkautisen tuomion.	살인자는 종신형을 선고받았다.	sai	0	0
+Lopeta!	하지마!	lopeta	0	0
+Kuinka monta ihmistä meni eilen eläintarhaan?	어제 몇명이서 동물원에 갔어요?	meni	0	0
+Minun syntymäpäiväni on maaliskuun kahdeskymmenestoinen päivä.	내 생일은 3월 22일이다.	päivä	0	0
+Pari päivää sitten kadottamani kello oli uusi.	저번에 잃어버린 시계는 새 거였다.	pari	0	0
+Onko tällä tarinalla onnellinen loppu?	이 이야기는 해피앤딩이야?	tällä	0	0
+He osuivat maaliin kolme kertaa.	그들은 3번 적중을 했다.	kertaa	0	0
+Menen kävellen kouluun.	저는 학교에 걸어갑니다.	menen	0	0
+Kerroit, että olit saanut työt valmiiksi kolme päivää aikaisemmin.	당신은 삼일전에 일을 끝냈다고 말했다.	päivää	0	0
+Aion herätä huomenna aikaisin.	내익 일찍 일어날 거예요.	huomenna	0	0
+Nähdään myöhemmin!	나중에 보자!	myöhemmin	0	0
+Pari päivää sitten kadottamani kello oli uusi.	저번에 잃어버린 시계는 새 거였다.	uusi	0	0
+Hauska tavata.	만나서 반갑습니다.	tavata	0	0
+Nähdään myöhemmin!	나중에 보자!	nähdään	0	0
+Hän on saanut ristimänimekseen John.	그는 존이라는 세례명을 받았다.	saanut	0	0
+En tiedä milloin menen Ranskaan, mutta aion varmasti mennä.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.	milloin	0	0
+Anna anteeksi, etten ole kirjoittanut pitkään aikaan.	오랫동안 편지를 못 써서 죄송해요.	etten	0	0
+John on paras ystäväni.	존은 나의 가장 친한 친구야.	paras	0	0
+Voisitko antaa minulle yhden paperin?	종이 한 장만 주시겠습니까?	yhden	0	0
+Mielenkiintoinen ehdotus. Minun täytyy harkita asiaa hieman.	재미 있는 제안이야. 그게 좀 고려야겠다.	asiaa	0	0
+Minusta tämä kirja on parempi kuin tuo kirja.	난 이 책을 저 책보다 좋아한다.	parempi	0	0
+Jokainen yksinäinen ihminen on yksin, koska hän pelkää muita ihmisiä.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	ihmisiä	0	0
+Onko kaikki okei?	괜찮으세요?	okei	0	0
+Kokeillaanpa jotakin!	뭔가 해보자!	jotakin	0	0
+Torkahdan usein bussissa ja pysäkki, jolla jäisin pois, menee ohi.	나는 자주 버스에서 졸다가 내릴 정류장을 지나쳐간다.	ohi	0	0
+Mielenkiintoinen ehdotus. Minun täytyy harkita asiaa hieman.	재미 있는 제안이야. 그게 좀 고려야겠다.	hieman	0	0
+Toiset sanovat, että Ramses toisella oli kuusi vaimoa ja yli sata lasta.	어떤 사람들은 람세스 2세는 6명의 아내와 100명 이상의 자녀가 있었다고 말한다.	yli	0	0
+Talviaikataulu on tullut voimaan.	겨울철 운행 시간이 변경되었다.	tullut	0	0
+Riittää jo!	좀 그만둬!	riittää	0	0
+Onko tässä maailmassa muka ilmaisia asioita?	세상에 공짜가 어딨어?	asioita	0	0
+Olisi mukavaa, jos voisin matkustaa Japaniin.	일본에 갈 수 있었으면 좋겠어요.	voisin	0	0
+Professori soittaa puhelimella.	교수님이 전화를 하고 계세요.	soittaa	0	0
+Otan kutsusi vastaan mielihyvin.	초대에 기꺼이 응하겠습니다.	otan	0	0
+Hän ei puhu ainoastaan espanjaa vaan myös ranskaa.	그는 스페인어뿐만 아니라, 프랑스어도 말한다.	puhu	0	0
+Voinko minä tulla juhliisi tänä iltana?	나 오늘밤 너의 파티에 가도 돼?	voinko	0	0
+Miksi unohdan aina täysin sen sanan?	왜 그 단어를 잊어버렸니?	täysin	0	0
+Tuo kakku maistuu hyvältä.	저 케익 맛있어요.	hyvältä	0	0
+Kaupungintalon edessä on iso parkkipaikka.	시청 앞에는 큰 주차장이 있다.	iso	0	0
+Löysin lopultakin töitä.	나는 마침내 일자리를 구했다.	töitä	0	0
+Näyttää siltä, että minun täytyy käyttää tätä hattua talvella.	겨울에 이 모자를 쓰고 다녀야 될 것 같아.	käyttää	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	viisi	0	0
+Olet aivan kuin isäsi.	너는 아빠랑 똑같다.	isäsi	0	0
+Hän on kiltti.	그는 좋은 사람이다.	kiltti	0	0
+Hän on opiskellut ranskaa kahdeksan vuoden ajan.	그는 8년동안 불어를 공부하고 있다.	vuoden	0	0
+Yrittää olla näkemättä totuutta.	손바닥으로 하늘을 가리려한다.	yrittää	0	0
+Hän on kiva.	그는 좋은 사람이다.	kiva	0	0
+Kävin katsomassa elokuvan eilen.	저는 어제 영화를 보러 갔습니다.	eilen	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	neljä	0	0
+Italia on hyvin kaunis maa.	이탈리아는 아주 아름다운 나라입니다.	kaunis	0	0
+Hän menee yleensä töihin kello kahdeksan.	그는 보통 8시에 출근한다.	kello	0	0
+Hiroshi sanoo: "Tämä vaikuttaa mielenkiintoiselta."	히로시는 이것 재미 있을 것 같다고 말한다.	sanoo	0	0
+Näyttää siltä, että minun täytyy käyttää tätä hattua talvella.	겨울에 이 모자를 쓰고 다녀야 될 것 같아.	siltä	0	0
+Olen neljännellä kuulla raskaana.	나는 임신 4개월 째이다.	kuulla	0	0
+Peter halusi tulla lääkäriksi.	피터는 의사가 되고 싶어했어요.	halusi	0	0
+Hauska tavata.	만나서 반갑습니다.	hauska	0	0
+Voinko minä tulla juhliisi tänä iltana?	나 오늘밤 너의 파티에 가도 돼?	tänä	0	0
+John on paras ystäväni.	존은 나의 가장 친한 친구야.	john	0	0
+Anna anteeksi, etten ole kirjoittanut pitkään aikaan.	오랫동안 편지를 못 써서 죄송해요.	aikaan	0	0
+Haloo?	여보세요?	haloo	0	0
+Hän on minun ystäväni.	그분은 제 친구입니다.	ystäväni	0	0
+Löysin lopultakin töitä.	나는 마침내 일자리를 구했다.	löysin	0	0
+Olen pettynyt tämän maailman koulutukseen.	이 세상의 교육이 나를 실망시켜요.	maailman	0	0
+Mitä se maksaa?	얼마에요?	maksaa	0	0
+Eksyin New Yorkissa.	나는 뉴욕에서 길을 잃었다.	new	0	0
+Kenen auto tämä on?	이 자동차는 누구 것이지?	auto	0	0
+Voitko todistaa sen?	증거가 있습니까?	voitko	0	0
+Mä meen.	나는 갈 거에요.	mä	0	0
+Minne olet menossa?	어디에 가요?	menossa	0	0
+Torkahdan usein bussissa ja pysäkki, jolla jäisin pois, menee ohi.	나는 자주 버스에서 졸다가 내릴 정류장을 지나쳐간다.	jolla	0	0
+Pojat ovat menneet pohjoiseen.	그 소년들은 북쪽으로 갔다.	pojat	0	0
+Ongelma on se, että meillä ei ole riittävästi aikaa.	문제는 우리는 시간이 충분하지 않다는 것이다.	ongelma	0	0
+Jos sinulla on välitettävä viesti, jätä se minulle.	전하실 말씀 있으시면 남겨주세요.	jätä	0	0
+Jokainen yksinäinen ihminen on yksin, koska hän pelkää muita ihmisiä.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	muita	0	0
+Menkää kotiin.	집에 가십시오.	menkää	0	0
+Tuolla tyypillä ei ole yhtään käytöstapoja.	그넘은 버릇 없는 넘이야.	yhtään	0	0
+Nimeni on Jack.	제 이름은 잭입니다.	jack	0	0
+Yritä vielä kerran uudelleen.	다시 한번 해봐.	yritä	0	0
+Tämä kirja julkaistiin vuonna 1689.	이 책은 1689년에 출판되었다.	vuonna	0	0
+Onnea hääparille.	너희들의 결혼을 축하해요.	onnea	0	0
+Ylipäänsä heillä oli todella hyvä tuuri.	전체적으로 볼 때 운이 매우 좋았다.	heillä	0	0
+Raatihuoneen edessä on suuri parkkipaikka.	시청 앞에는 큰 주차장이 있다.	suuri	0	0
+Hän on kiva ihminen.	그는 좋은 사람이다.	ihminen	0	0
+Mitkä ovat tämän tekniikan hyvät puolet?	이 기술의 이점은 무엇인가요?	hyvät	0	0
+Valitseminen on vaikea asia.	선택은 괴로운 일이다.	vaikea	0	0
+Onko tässä maailmassa muka ilmaisia asioita?	세상에 공짜가 어딨어?	muka	0	0
+Kuinka monta kirjainta venäjän aakkosissa on?	러시아어 알파벳은 몇 개의 글자로 되어 있어요?	monta	0	0
+Heidän kahden välit eivät ole hyvät.	저 두 명은 사이가 안 좋다.	kahden	0	0
+Silloin kun olin nuori, minulla oli tapana käydä meressä uimassa.	내가 어릴 때는 바다에 수영하러 가곤 했었지.	käydä	0	0
+Yritä vielä kerran uudelleen.	다시 한번 해봐.	uudelleen	0	0
+Mites töissä?	일은 잘 되니?	töissä	0	0
+Älä unohda liimata postimerkkiä kirjeeseen.	편지에 우표 붙이는거 잊지마.	unohda	0	0
+He menevät katsomaan näytelmän kerran kuukaudessa.	그들은 매월 한 번씩 연극을 보러 간다.	katsomaan	0	0
+Minä aion lukea kirjaa.	나는 책을 읽을 거예요.	aion	0	0
+Miten tämä kamera toimii?	이 카메라가 어떻게 작동하지?	toimii	0	0
+Siinä paha missä mainitaan.	호랑이도 제 말하면 온다.	paha	0	0
+Yritä uudestaan.	다시 한번 해봐.	uudestaan	0	0
+Kettu tappoi kanan.	여우가 닭을 죽었다.	tappoi	0	0
+Me menemme kotiin.	우리는 집에 갑니다.	menemme	0	0
+Minun täytyy käydä ostoksilla. Tulen takaisin tunnin päästä.	난 쇼핑 가야되요, 한 시간 안에 돌아올게요.	tunnin	0	0
+Voinko minä tulla juhliisi tänä iltana?	나 오늘밤 너의 파티에 가도 돼?	iltana	0	0
+Ovi menee automaattisesti kiinni.	문은 자동으로 닫힌다.	ovi	0	0
+Mitä haluat tehdä sinä aikana kun olet täällä?	여기에 있는 동안 뭘 하고 싶으세요?	aikana	0	0
+Etsin juuri silmälasejani.	나는 안경을 찾고 있다.	etsin	0	0
+Mihin menet?	어디에 가요?	menet	0	0
+Menitkö naimisiin?	장가들었느냐?	naimisiin	0	0
+Kuinka kauan aiot olla Tokiossa?	너는 동경에 얼마 동안 머무르니?	aiot	0	0
+Onpa töykeä tyyppi.	그넘은 버릇 없는 넘이야.	tyyppi	0	0
+Maryn silmät olivat täynnä kyyneleitä.	매리의 눈에 눈물이 고였다.	täynnä	0	0
+Ajoin auton sisään autotalliin.	자동차를 차고에 놓어두었다.	auton	0	0
+Hän menee yleensä töihin kello kahdeksan.	그는 보통 8시에 출근한다.	yleensä	0	0
+Avaa suu!	입을 벌리세요!	avaa	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	kuusi	0	0
+Voisitko antaa minulle hammastikun?	이쑤시개 좀 주시겠습니까?	voisitko	0	0
+Se on vaikeaa.	이건 어려워요.	vaikeaa	0	0
+Minulla on paljon ystäviä.	나는 친구가 많다.	ystäviä	0	0
+Mulla on ikävä sua.	보고 싶어.	ikävä	0	0
+Hän menee yleensä töihin kello kahdeksan.	그는 보통 8시에 출근한다.	töihin	0	0
+Kaiken kaikkiaan onni oli erittäin hyvä.	전체적으로 볼 때 운이 매우 좋았다.	erittäin	0	0
+Hiroshi sanoo: "Tämä vaikuttaa mielenkiintoiselta."	히로시는 이것 재미 있을 것 같다고 말한다.	vaikuttaa	0	0
+Olisi mukavaa, jos voisin matkustaa Japaniin.	일본에 갈 수 있었으면 좋겠어요.	mukavaa	0	0
+Kuinka pitkä matka Osakasta on Kiotoon?	오사카에서부터 교토까지는 거리가 얼마나 됩니까?	pitkä	0	0
+Otin taksin, koska satoi vettä.	비가 내려서 택시를 탔습니다.	vettä	0	0
+Silloin kun olin nuori, minulla oli tapana käydä meressä uimassa.	내가 어릴 때는 바다에 수영하러 가곤 했었지.	nuori	0	0
+Minun nimeni on Jack.	제 이름은 잭입니다.	nimeni	0	0
+Suu auki!	입을 벌리세요!	auki	0	0
+Kenen auto tämä on?	이 자동차는 누구 것이지?	kenen	0	0
+Mitä sä teet?	뭐해요?	sä	0	0
+Miten sanotaan "kaisha" englanniksi?	"Kaisha"를 영어로 어떻게 말해요?	sanotaan	0	0
+Jokainen yksinäinen ihminen on yksin, koska hän pelkää muita ihmisiä.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	jokainen	0	0
+Haluamme luonnolliselta kuulostavia käännöksiä, emme suoria sanasta sanaan -käännöksiä.	우리는 자연스럽게 들리는 번역문을 원하며, 단어 대 단어로 직역한 번역문을 원하지 않습니다.	haluamme	0	0
+Torkahdan usein bussissa ja pysäkki, jolla jäisin pois, menee ohi.	나는 자주 버스에서 졸다가 내릴 정류장을 지나쳐간다.	usein	0	0
+Kaupungintalon edessä on iso parkkipaikka.	시청 앞에는 큰 주차장이 있다.	edessä	0	0
+Minulla ei tosiaan ole valinnanvapautta.	나는 선택권이 없구나.	tosiaan	0	0
+Syy siihen on se, että sinä et halua olla yksin.	왜냐하면 당신은 혼자가 되고 싶지 않기 때문이에요.	syy	0	0
+Onpa hän epäkohtelias.	그넘은 버릇 없는 넘이야.	onpa	0	0
+Mihin olet matkalla?	어디에 가요?	matkalla	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	kymmenen	0	0
+Pakolaiset saavat avustuksia monista kirkon järjestöistä.	난민들은 여러 교회 기구로부터 지원을 받는다.	saavat	0	0
+Kuinka kaukana Osaka on Kiotosta?	오사카에서부터 교토까지는 거리가 얼마나 됩니까?	kaukana	0	0
+Minun aviomieheni lukee sanomalehteä samalla kun hän syö aamiaista.	제 남편은 신문을 읽으면서 아침식사를 한다.	samalla	0	0
+Ilmaisia lounaita ei ole olemassa.	세상에 공짜가 어딨어?	olemassa	0	0
+Jokainen yksinäinen ihminen on yksin, koska hän pelkää muita ihmisiä.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	pelkää	0	0
+Minun aviomieheni lukee sanomalehteä samalla kun hän syö aamiaista.	제 남편은 신문을 읽으면서 아침식사를 한다.	syö	0	0
+Pidän tästä kirjasta enemmän kuin tuosta kirjasta.	난 이 책을 저 책보다 좋아한다.	tuosta	0	0
+Haluan syödä kimbapia.	나는 김밥을 먹고 싶어요.	syödä	0	0
+Anna anteeksi, etten ole kirjoittanut pitkään aikaan.	오랫동안 편지를 못 써서 죄송해요.	pitkään	0	0
+Minä odotan sitä innolla.	나 기대하고 있어.	odotan	0	0
+Varo, auto tulee!	위험해, 차온다!	varo	0	0
+Tom löysi lopultakin työpaikan.	톰은 마침내 일자리를 구했다.	tom	0	0
+Lintu pääsi lentämään pois ja katosi silmistäni.	새가 날아가 버리고 시야에서 사라졌다.	pääsi	0	0
+Talo on kylmä.	집은 추위입니다.	talo	0	0
+Anteeksi, että olen myöhässä.	늦게 온 것을 용서해 주세요.	myöhässä	0	0
+Palaan pian.	빨리 갔다 올게.	palaan	0	0
+Onko tällä tarinalla onnellinen loppu?	이 이야기는 해피앤딩이야?	loppu	0	0
+Olen naimisissa.	나는 결혼했다.	naimisissa	0	0
+Peter halusi tulla lääkäriksi.	피터는 의사가 되고 싶어했어요.	peter	0	0
+Hän on elänyt vaikean elämän.	그녀는 힘든 삶을 살았다.	elämän	0	0
+Vain Naoko juo kahvia.	나오꼬만 커피를 마셔요.	kahvia	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	seitsemän	0	0
+Onko sinulla todisteita?	증거가 있습니까?	todisteita	0	0
+En ole lääkäri.	나는 의사가 아닙니다.	lääkäri	0	0
+Olen pannut Billin tapaamaan Annin huomenna.	난 내일 빌이 앤을 만나도록 했다.	tapaamaan	0	0
+Onko tällä tarinalla onnellinen loppu?	이 이야기는 해피앤딩이야?	onnellinen	0	0
+Viikoinloppuisin kaupungin keskustassa on aina paljon liikennettä.	주말에는 시내에 항상 교통량이 많다.	kaupungin	0	0
+Otin taksin, koska satoi vettä.	비가 내려서 택시를 탔습니다.	otin	0	0
+Haluan lähettää tämän kirjeen kirjattuna kirjeenä.	이 편지를 등기로 보내고 싶어요.	lähettää	0	0
+Minun täytyy mennä nukkumaan.	제가 자야 돼요.	nukkumaan	0	0
+Voitko todistaa sen?	증거가 있습니까?	todistaa	0	0
+Kuinka monta ihmistä meni eilen eläintarhaan?	어제 몇명이서 동물원에 갔어요?	ihmistä	0	0
+Jos sinulla on välitettävä viesti, jätä se minulle.	전하실 말씀 있으시면 남겨주세요.	viesti	0	0
+Tom löysi lopultakin työpaikan.	톰은 마침내 일자리를 구했다.	löysi	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	kahdeksan	0	0
+Minulla on nyt kiire.	지금 바빠요.	kiire	0	0
+Onko se tuore kuva?	이 사진 최근 거에요?	kuva	0	0
+Kävin katsomassa elokuvan eilen.	저는 어제 영화를 보러 갔습니다.	kävin	0	0
+Minä aion lukea kirjaa.	나는 책을 읽을 거예요.	lukea	0	0
+Todella paljon kiitoksia kun näytit tämän kokoelman luotettavat esimerkit.	이렇게 콜렉션의 확실한 예를 보여줘서 정말 감사합니다.	kiitoksia	0	0
+Se on valitettavasti totta.	유감스럽게도 사실이네요.	valitettavasti	0	0
+Ystävät lohduttivat surevaa naista.	친구들이 슬퍼하는 여자를 위로해 주었다.	naista	0	0
+Onko tässä maailmassa muka ilmaisia asioita?	세상에 공짜가 어딨어?	maailmassa	0	0
+Toiset sanovat, että Ramses toisella oli kuusi vaimoa ja yli sata lasta.	어떤 사람들은 람세스 2세는 6명의 아내와 100명 이상의 자녀가 있었다고 말한다.	lasta	0	0
+Mitäs puuhaat?	뭐해?	mitäs	0	0
+Mitkä ovat tämän tekniikan hyvät puolet?	이 기술의 이점은 무엇인가요?	puolet	0	0
+Mullon nälkä!	배고파.	nälkä	0	0
+Onko kaikki OK?	괜찮으세요?	ok	0	0
+Poika juo vettä.	소년이 물을 마시고 있어요.	juo	0	0
+Kuinka pitkä matka on Osakasta Kiotoon?	오사카에서부터 교토까지는 거리가 얼마나 됩니까?	matka	0	0
+Maryn silmät olivat täynnä kyyneleitä.	매리의 눈에 눈물이 고였다.	silmät	0	0
+Minulla ei ole varaa syödä näin kalliissa ravintolassa.	난 이렇게 비싼 식당에서 식사를 할 여유가 안되요.	varaa	0	0
+Toiset sanovat, että Ramses toisella oli kuusi vaimoa ja yli sata lasta.	어떤 사람들은 람세스 2세는 6명의 아내와 100명 이상의 자녀가 있었다고 말한다.	sanovat	0	0
+Aja hitaasti.	천천히 운전하세요.	aja	0	0
+Minun aviomieheni lukee sanomalehteä samalla kun hän syö aamiaista.	제 남편은 신문을 읽으면서 아침식사를 한다.	lukee	0	0
+Sinun pitäisi nukkua.	당신 좀 자야겠어요.	nukkua	0	0
+Vieraan kielen oppiminen vaatii kärsivällisyyttä.	외국어 습득에는 인내가 필요하다.	vaatii	0	0
+Sopiiko, että tulen juhliisi tänä iltana?	나 오늘밤 너의 파티에 가도 돼?	sopiiko	0	0
+Älä muuta lauseita, jotka ovat oikein. Voit sen sijaan lisätä luonnollisen kuuloisia vaihtoehtoisia käännöksiä.	정확한 문장을 수정하지 마십시오. 대신 당신은 자연스럽게 들리는 다른 번역문을 제출할 수 있습니다.	sijaan	0	0
+Toiset sanovat, että Ramses toisella oli kuusi vaimoa ja yli sata lasta.	어떤 사람들은 람세스 2세는 6명의 아내와 100명 이상의 자녀가 있었다고 말한다.	toisella	0	0
+Italia on hyvin kaunis maa.	이탈리아는 아주 아름다운 나라입니다.	maa	0	0
+Lintu pääsi lentämään pois ja katosi silmistäni.	새가 날아가 버리고 시야에서 사라졌다.	katosi	0	0
+Olen neljännellä kuulla raskaana.	나는 임신 4개월 째이다.	raskaana	0	0
+Talo on kylmä.	집은 추위입니다.	kylmä	0	0
+Jos laitat pillin sisään ennen kuin se täyttyy vedellä, voit vahvistaa sen helposti silmin nähden.	빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다.	helposti	0	0
+Ei kiirettä.	천천히 하세요.	kiirettä	0	0
+Kerroit, että olit saanut työt valmiiksi kolme päivää aikaisemmin.	당신은 삼일전에 일을 끝냈다고 말했다.	valmiiksi	0	0
+Tänään on kuuma sää.	오늘은 날씨가 덥다.	kuuma	0	0
+Tuomioistuin lykkäsi hänelle langetettua kuuden kuukauden pakkotyötuomiota.	법원은 그녀에세 6개월의 징역에 집행유예를 선고하였다.	kuukauden	0	0
+Professori on puhelimessa.	교수님이 전화를 하고 계세요.	professori	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	yhdeksän	0	0
+Me keräämme postimerkkejä joka puolelta maailmaa.	우리는 전 세계의 우표를 모은다.	maailmaa	0	0
+En tahdo mennä kouluun.	난 학교에 가기 싫어.	tahdo	0	0
+Uskotko sinä Jumalaan?	신의 존재를 믿니?	uskotko	0	0
+Mitkä ovat tämän tekniikan hyvät puolet?	이 기술의 이점은 무엇인가요?	mitkä	0	0
+Tätä pianoa ei ole varmaankaan viritetty moneen vuoteen.	이 피아노 몇 년이고 조율을 안 했나 보네.	vuoteen	0	0
+Professori on puhelimessa.	교수님이 전화를 하고 계세요.	puhelimessa	0	0
+He menevät katsomaan näytelmän kerran kuukaudessa.	그들은 매월 한 번씩 연극을 보러 간다.	menevät	0	0
+Mitä se kirje koskee?	그 편지는 무엇에 관한 것입니까?	koskee	0	0
+Kerroit, että olit saanut työt valmiiksi kolme päivää aikaisemmin.	당신은 삼일전에 일을 끝냈다고 말했다.	kerroit	0	0
+Hän ei puhu ainoastaan espanjaa vaan myös ranskaa.	그는 스페인어뿐만 아니라, 프랑스어도 말한다.	ainoastaan	0	0
+Toiset sanovat, että Ramses toisella oli kuusi vaimoa ja yli sata lasta.	어떤 사람들은 람세스 2세는 6명의 아내와 100명 이상의 자녀가 있었다고 말한다.	toiset	0	0
+Tienaan sata euroa päivässä.	저는 하루에 100유로를 법니다.	päivässä	0	0
+Tapaan teidät Koreassa!	한국에 너희들을 만나요!	tapaan	0	0
+Kerroit, että olit saanut työt valmiiksi kolme päivää aikaisemmin.	당신은 삼일전에 일을 끝냈다고 말했다.	aikaisemmin	0	0
+Avaa suu!	입을 벌리세요!	suu	0	0
+Tämä on kirja.	이것은 책입니다.	kirja	0	0
+Ihanko totta?	정말이에요?	ihanko	0	0
+Otat minut hitaasti hengiltä.	너는 날 천천히 죽이고 있어.	hitaasti	0	0
+Hän menee bussilla kouluun.	그분은 학교에 버스로 갑니다.	kouluun	0	0
+Kaipaan sinua.	보고 싶어.	kaipaan	0	0
+Syytetty vastusti tuomiota ja valitti siitä välittömästi.	피고는 판결에 대항하여 바로 항소하였다.	välittömästi	0	0
+Laittaisitko musiikkia pienemmälle?	음악 소리를 좀 줄이세요.	musiikkia	0	0
+Murhaaja tuomittiin elinkautiseen.	살인자는 종신형을 선고받았다.	murhaaja	0	0
+Todellako?	정말이에요?	todellako	0	0
+Otat minut hitaasti hengiltä.	너는 날 천천히 죽이고 있어.	otat	0	0
+Tom viettää kaiken aikansa ajatellen Maria.	톰은 메리 생각 하느라 시간을 다 보낸다.	viettää	0	0
+Thomas katsoo elokuvaa.	토마스가 영화를 보고 있어요	thomas	0	0
+Aion herätä huomenna aikaisin.	내익 일찍 일어날 거예요.	aikaisin	0	0
+Tienaan sata euroa päivässä.	저는 하루에 100유로를 법니다.	sata	0	0
+Tavataan tiistaina.	화요일에 만나요.	tavataan	0	0
+Tapaamme kello kolmelta.	우리는 3시에 만난다.	tapaamme	0	0
+Tom viettää kaiken aikansa ajatellen Maria.	톰은 메리 생각 하느라 시간을 다 보낸다.	maria	0	0
+Hauska tutustua.	만나서 반갑습니다.	tutustua	0	0
+Tappaa kaksi kärpästä yhdellä iskulla.	일석이조	yhdellä	0	0
+Kävin katsomassa elokuvan eilen.	저는 어제 영화를 보러 갔습니다.	katsomassa	0	0
+Ystävät lohduttivat surevaa naista.	친구들이 슬퍼하는 여자를 위로해 주었다.	ystävät	0	0
+Ymmärrät koreaa, etkö ymmärräkin?	한국말을 이해하시지요?	ymmärrät	0	0
+Minä tykkään korealaisesta ruoasta.	전 한국 요리가 좋아요.	tykkään	0	0
+Kuljettajien täytyy aina seurata valppaasti jalankulkijoita.	운전자들은 항상 보행인을 살펴야 한다.	seurata	0	0
+Pitää paikkansa, ikävä kyllä.	유감스럽게도 사실이네요.	paikkansa	0	0
+Pyykinpesukone on rikki.	세탁기가 고장났다.	rikki	0	0
+Hyvää joulua!	메리 크리스마스!	joulua	0	0
+Miten tämä kamera toimii?	이 카메라가 어떻게 작동하지?	kamera	0	0
+He rakastavat toisiaan todella paljon.	그들은 서로 몹시 사랑한다.	toisiaan	0	0
+Sade loppui.	비가 그쳤다.	loppui	0	0
+Eksyin New Yorkissa.	나는 뉴욕에서 길을 잃었다.	yorkissa	0	0
+Älä valehtele!	거짓말 하지 마.	valehtele	0	0
+Thomas katsoo elokuvaa.	토마스가 영화를 보고 있어요	katsoo	0	0
+Kävin katsomassa elokuvan eilen.	저는 어제 영화를 보러 갔습니다.	elokuvan	0	0
+Mulla on ikävä sua.	보고 싶어.	sua	0	0
+Yritetään jotain.	뭔가 해보자!	yritetään	0	0
+Minä luen kirjaa.	나는 책을 읽을 거예요.	kirjaa	0	0
+Käykö, että tulen tämäniltaisiin juhliisi?	나 오늘밤 너의 파티에 가도 돼?	käykö	0	0
+Kirjoitin hänelle pitkän kirjeen.	나는 그녀에게 긴 편지를 썼다.	kirjeen	0	0
+Sain vihdoinkin töitä.	나는 마침내 일자리를 구했다.	vihdoinkin	0	0
+Kun heräsin olin surullinen.	일어났을 때 슬펐어.	surullinen	0	0
+Kirjoitin hänelle pitkän kirjeen.	나는 그녀에게 긴 편지를 썼다.	kirjoitin	0	0
+Haluan opiskella englantia.	난 영어를 공부 하고 싶어.	englantia	0	0
+Olen syntynyt kahdeskymmenestoinen marraskuuta vuonna tuhat yhdeksänsataa neljäkymmentäkahdeksan.	나는 1948년 11월 22일에 태어났다.	tuhat	0	0
+Silloin kun olin nuori, minulla oli tapana käydä meressä uimassa.	내가 어릴 때는 바다에 수영하러 가곤 했었지.	tapana	0	0
+Hän menetti työnsä.	그는 자기 일을 잃었다.	menetti	0	0
+Lapsena minulla oli tapana käydä meressä uimassa.	내가 어릴 때는 바다에 수영하러 가곤 했었지.	lapsena	0	0
+Kirjoitin hänelle pitkän kirjeen.	나는 그녀에게 긴 편지를 썼다.	pitkän	0	0
+Yrittää olla näkemättä totuutta.	손바닥으로 하늘을 가리려한다.	totuutta	0	0
+Jokainen yksinäinen ihminen on yksin, koska hän pelkää muita ihmisiä.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	yksinäinen	0	0
+Olympialaiset järjestetään neljän vuoden välein.	올림픽은 4 년마다 열린다.	neljän	0	0
+Tom erotettiin koulusta.	톰은 정학을 당했다.	koulusta	0	0
+Kun on puhe hänen omista harrastuksistaan, hänellä on aina vakava ilme.	자신의 취미에 대해 이야기 할 때, 그는 항상 진지한 얼굴이 된다.	vakava	0	0
+Yrittää peittää koko taivaan kämmenellään.	손바닥으로 하늘을 가리려한다.	taivaan	0	0
+Anna anteeksi, etten ole kirjoittanut pitkään aikaan.	오랫동안 편지를 못 써서 죄송해요.	kirjoittanut	0	0
+Kerroit, että olit saanut työt valmiiksi kolme päivää aikaisemmin.	당신은 삼일전에 일을 끝냈다고 말했다.	työt	0	0
+Ketut tappoivat kanan.	여우가 닭을 죽었다.	tappoivat	0	0
+Olen kotoisin Kiinasta.	중국에서 왔습니다.	kotoisin	0	0
+Olen syntynyt kahdeskymmenestoinen marraskuuta vuonna tuhat yhdeksänsataa neljäkymmentäkahdeksan.	나는 1948년 11월 22일에 태어났다.	syntynyt	0	0
+Mitä se kirje koskee?	그 편지는 무엇에 관한 것입니까?	kirje	0	0
+Ajoin auton sisään autotalliin.	자동차를 차고에 놓어두었다.	ajoin	0	0
+Mulla on nälkä!	배고파.	mulla	0	0
+Miksi unohdan aina täysin sen sanan?	왜 그 단어를 잊어버렸니?	sanan	0	0
+Metsässä on villieläimiä.	숲에는 야생동물들이 있다.	metsässä	0	0
+Aion herätä huomenna aikaisin.	내익 일찍 일어날 거예요.	herätä	0	0
+He rakastavat toisiaan todella paljon.	그들은 서로 몹시 사랑한다.	rakastavat	0	0
+Tuo kakku maistuu hyvältä.	저 케익 맛있어요.	maistuu	0	0
+Jos laitat pillin sisään ennen kuin se täyttyy vedellä, voit vahvistaa sen helposti silmin nähden.	빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다.	vahvistaa	0	0
+Sinun nenäsi vuotaa.	너는 콧물이 흐른다.	vuotaa	0	0
+Tapat minut hitaasti.	너는 날 천천히 죽이고 있어.	tapat	0	0
+Hän työskentelee pankissa.	그는 은행에서 일한다.	työskentelee	0	0
+Haluan opiskella historiaa pääaineenani.	나는 사학을 전공하고 싶다.	historiaa	0	0
+Minä luen kirjaa.	나는 책을 읽을 거예요.	luen	0	0
+Voit saada sen ilmaiseksi.	무료로 받을 수도 있어.	ilmaiseksi	0	0
+Viimeinkin Tom sai töitä.	톰은 마침내 일자리를 구했다.	viimeinkin	0	0
+Tuomioistuin lykkäsi hänelle langetettua kuuden kuukauden pakkotyötuomiota.	법원은 그녀에세 6개월의 징역에 집행유예를 선고하였다.	kuuden	0	0
+Hän menetti työnsä.	그는 자기 일을 잃었다.	työnsä	0	0
+Pojat ovat menneet pohjoiseen.	그 소년들은 북쪽으로 갔다.	pohjoiseen	0	0
+Kun on puhe hänen omista harrastuksistaan, hänellä on aina vakava ilme.	자신의 취미에 대해 이야기 할 때, 그는 항상 진지한 얼굴이 된다.	omista	0	0
+Kun on puhe hänen omista harrastuksistaan, hänellä on aina vakava ilme.	자신의 취미에 대해 이야기 할 때, 그는 항상 진지한 얼굴이 된다.	puhe	0	0
+Kun heräsin olin surullinen.	일어났을 때 슬펐어.	heräsin	0	0
+He käyvät teatterissa kerran kuukaudessa.	그들은 매월 한 번씩 연극을 보러 간다.	käyvät	0	0
+Kaiken kaikkiaan onni oli erittäin hyvä.	전체적으로 볼 때 운이 매우 좋았다.	onni	0	0
+Söin kaviaaria.	나는 캐비아를 먹었다.	söin	0	0
+Pakolaiset saavat avustuksia monista kirkon järjestöistä.	난민들은 여러 교회 기구로부터 지원을 받는다.	kirkon	0	0
+Tämä rakennus näyttää nykyaikaiselta.	이 건물은 현대적으로 보인다.	rakennus	0	0
+Kaikella on hintansa.	세상에 공짜가 어딨어?	kaikella	0	0
+Pojat ovat menneet pohjoiseen.	그 소년들은 북쪽으로 갔다.	menneet	0	0
+Älä töhri kirjaston kirjoja.	도서관 책에 낙서를 하지 마십시오.	kirjoja	0	0
+Minun aviomieheni lukee sanomalehteä samalla kun hän syö aamiaista.	제 남편은 신문을 읽으면서 아침식사를 한다.	aamiaista	0	0
+Hyvää syntymäpäivää, Muiriel!	생일 축하해 Muiriel!	syntymäpäivää	0	0
+Lintu pääsi lentämään pois ja katosi silmistäni.	새가 날아가 버리고 시야에서 사라졌다.	lintu	0	0
+Käännä tämä teksti japanista ranskaksi.	이 텍스트를 일본어에서 불어로 번역하시오.	käännä	0	0
+Keitetään ja syödään kalat!	물고기를 모두 끓여 먹자!	syödään	0	0
+Olen pettynyt tämän maailman koulutukseen.	이 세상의 교육이 나를 실망시켜요.	pettynyt	0	0
+Thomas katsoo elokuvaa.	토마스가 영화를 보고 있어요	elokuvaa	0	0
+Otat minut hitaasti hengiltä.	너는 날 천천히 죽이고 있어.	hengiltä	0	0
+Me keräämme postimerkkejä joka puolelta maailmaa.	우리는 전 세계의 우표를 모은다.	puolelta	0	0
+Hän on todella hyvällä tuulella.	그녀는 기분이 아주 좋다.	hyvällä	0	0
+Kuinka monta kirjainta englannin aakkosissa on?	영어 알파벳은 몇 개의 글자로 되어 있습니까?	englannin	0	0
+Hän oli niin utelias, että avasi laatikon.	그녀는 지나친 호기심으로 인해 상자을 열었다.	utelias	0	0
+Hävitin avaimen.	열쇠를 잃어버렸다.	avaimen	0	0
+Ylipäänsä heillä oli todella hyvä tuuri.	전체적으로 볼 때 운이 매우 좋았다.	tuuri	0	0
+Tartu köyteen.	로프를 잡으세요.	tartu	0	0
+Hän on elänyt vaikean elämän.	그녀는 힘든 삶을 살았다.	elänyt	0	0
+Ongelma on se, että meillä ei ole riittävästi aikaa.	문제는 우리는 시간이 충분하지 않다는 것이다.	riittävästi	0	0
+Mielenkiintoinen ehdotus. Minun täytyy harkita asiaa hieman.	재미 있는 제안이야. 그게 좀 고려야겠다.	mielenkiintoinen	0	0
+Olisi mukavaa, jos voisin matkustaa Japaniin.	일본에 갈 수 있었으면 좋겠어요.	matkustaa	0	0
+Tämä on goottilaista tyylisuuntaa edustava kirkko.	이것은 고딕 양식의 교회이다.	kirkko	0	0
+Mielenkiintoinen ehdotus. Minun täytyy harkita asiaa hieman.	재미 있는 제안이야. 그게 좀 고려야겠다.	harkita	0	0
+Katso aikataulusta junia Lontooseen.	런던행 열차를 시간표 확인하세요.	lontooseen	0	0
+Hän on todella hyvällä tuulella.	그녀는 기분이 아주 좋다.	tuulella	0	0
+Tänään on kuuma sää.	오늘은 날씨가 덥다.	sää	0	0
+Minä odotan sitä innolla.	나 기대하고 있어.	innolla	0	0
+Älä lisää lauseita, jotka ovat peräisin tekijänoikeussuojatuista lähteistä.	저작권이 있는 출처의 문장을 추가하지 마십시오.	peräisin	0	0
+Minulla on ehdotus.	제안이 있습니다.	ehdotus	0	0
+Murhaaja sai elinkautisen tuomion.	살인자는 종신형을 선고받았다.	tuomion	0	0
+Älä muuta lauseita, jotka ovat oikein. Voit sen sijaan lisätä luonnollisen kuuloisia vaihtoehtoisia käännöksiä.	정확한 문장을 수정하지 마십시오. 대신 당신은 자연스럽게 들리는 다른 번역문을 제출할 수 있습니다.	lisätä	0	0
+Kenenköhän kirja tämä mahtaa olla?	이 책은 누구 것이지?	mahtaa	0	0
+Kenen tämä laukku on?	이 가방은 누구 것이지?	laukku	0	0
+Jos laitat pillin sisään ennen kuin se täyttyy vedellä, voit vahvistaa sen helposti silmin nähden.	빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다.	nähden	0	0
+Olympialaiset järjestetään neljän vuoden välein.	올림픽은 4 년마다 열린다.	välein	0	0
+Minulla ei ole varaa syödä näin kalliissa ravintolassa.	난 이렇게 비싼 식당에서 식사를 할 여유가 안되요.	ravintolassa	0	0
+Sammakkojen äänet auttoivat minua nukahtamaan.	개구리가 우는 소리는 내가 잠드는 데 도움이 됐다.	äänet	0	0
+Todella paljon kiitoksia kun näytit tämän kokoelman luotettavat esimerkit.	이렇게 콜렉션의 확실한 예를 보여줘서 정말 감사합니다.	näytit	0	0
+Olen pannut Billin tapaamaan Annin huomenna.	난 내일 빌이 앤을 만나도록 했다.	pannut	0	0
+Kuinka monta kirjainta venäjän aakkosissa on?	러시아어 알파벳은 몇 개의 글자로 되어 있어요?	venäjän	0	0
+Hän oli niin utelias, että avasi laatikon.	그녀는 지나친 호기심으로 인해 상자을 열었다.	avasi	0	0
+Pidän tästä kirjasta enemmän kuin tuosta kirjasta.	난 이 책을 저 책보다 좋아한다.	kirjasta	0	0
+Toiset sanovat, että Ramses toisella oli kuusi vaimoa ja yli sata lasta.	어떤 사람들은 람세스 2세는 6명의 아내와 100명 이상의 자녀가 있었다고 말한다.	vaimoa	0	0
+Yrittää peittää koko taivaan kämmenellään.	손바닥으로 하늘을 가리려한다.	peittää	0	0
+Löysin lopultakin töitä.	나는 마침내 일자리를 구했다.	lopultakin	0	0
+Jos laitat pillin sisään ennen kuin se täyttyy vedellä, voit vahvistaa sen helposti silmin nähden.	빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다.	laitat	0	0
+Kielioppi on todella monimutkaista.	문법은 매우 복잡하다.	monimutkaista	0	0
+Ota se lääke.	그 약을 먹으세요.	lääke	0	0
+Tom löysi lopultakin työpaikan.	톰은 마침내 일자리를 구했다.	työpaikan	0	0
+Otin taksin, koska satoi vettä.	비가 내려서 택시를 탔습니다.	taksin	0	0
+Tavataan tiistaina.	화요일에 만나요.	tiistaina	0	0
+Tom viettää kaiken aikansa ajatellen Maria.	톰은 메리 생각 하느라 시간을 다 보낸다.	aikansa	0	0
+He osuivat maaliin kolmesti.	그들은 3번 적중을 했다.	kolmesti	0	0
+Mitäs puuhaat?	뭐해?	puuhaat	0	0
+Hän oli niin utelias, että avasi laatikon.	그녀는 지나친 호기심으로 인해 상자을 열었다.	laatikon	0	0
+Ei se sinun syysi ole.	네 탓은 아니야.	syysi	0	0
+Vietin lomani ulkomailla.	나는 외국에서 휴가를 보냈다.	vietin	0	0
+He käyvät teatterissa kerran kuukaudessa.	그들은 매월 한 번씩 연극을 보러 간다.	kuukaudessa	0	0
+Hänen kasvonsa muuttuivat punaiseksi.	그녀는 얼굴이 빨개졌다.	kasvonsa	0	0
+Ansaitsen sata euroa päivässä.	저는 하루에 100유로를 법니다.	ansaitsen	0	0
+Kun on puhe hänen omista harrastuksistaan, hänellä on aina vakava ilme.	자신의 취미에 대해 이야기 할 때, 그는 항상 진지한 얼굴이 된다.	ilme	0	0
+Tätä pianoa ei ole varmaankaan viritetty moneen vuoteen.	이 피아노 몇 년이고 조율을 안 했나 보네.	varmaankaan	0	0
+Miksi unohdan aina täysin sen sanan?	왜 그 단어를 잊어버렸니?	unohdan	0	0
+Tämä ei lopu koskaan.	이건 절대 끝나지 않을거야.	lopu	0	0
+Jos laitat pillin sisään ennen kuin se täyttyy vedellä, voit vahvistaa sen helposti silmin nähden.	빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다.	silmin	0	0
+Ei se ole sinun vikasi.	네 탓은 아니야.	vikasi	0	0
+Hän ei puhu ainoastaan espanjaa vaan myös ranskaa.	그는 스페인어뿐만 아니라, 프랑스어도 말한다.	ranskaa	0	0
+Uskotko sinä Jumalaan?	신의 존재를 믿니?	jumalaan	0	0
+En ole opiskelija.	저는 학생이 아닙니다.	opiskelija	0	0
+Hän työskentelee pankissa.	그는 은행에서 일한다.	pankissa	0	0
+Tänään on kahdeksastoista kuudetta, Muirielin syntymäpäivä!	오늘은 6월 18일, Muiriel의 생일입니다!	syntymäpäivä	0	0
+Sinun täytyy opiskella tehokkaammin.	너는 더 능률적으로 공부해야 된다.	opiskella	0	0
+Tapaamme kello kolmelta.	우리는 3시에 만난다.	kolmelta	0	0
+En ole kuuro.	나는 귀먹지 않았어.	kuuro	0	0
+Talviaikataulu on tullut voimaan.	겨울철 운행 시간이 변경되었다.	voimaan	0	0
+Viisi plus kaksi on seitsemän.	5 더하기 2는 7이다.	plus	0	0
+Tienaan sata euroa päivässä.	저는 하루에 100유로를 법니다.	euroa	0	0
+Sade lakkasi.	비가 그쳤다.	sade	0	0
+Pakolaiset saavat avustuksia monista kirkon järjestöistä.	난민들은 여러 교회 기구로부터 지원을 받는다.	monista	0	0
+Minä tykkään korealaisesta ruoasta.	전 한국 요리가 좋아요.	ruoasta	0	0
+Tänään minulla on ihan hirveän paljon läksyjä.	오늘 숙제가 너무 많아요.	hirveän	0	0
+Ujo poika oli hänen edessään aivan nolo.	그 수줍은 소년은 그녀의 앞에서 완전히 쑥스러웠다.	ujo	0	0
+Syytetty vastusti tuomiota ja valitti siitä välittömästi.	피고는 판결에 대항하여 바로 항소하였다.	syytetty	0	0
+Hän menee bussilla kouluun.	그분은 학교에 버스로 갑니다.	bussilla	0	0
+Heidän kahden välit eivät ole hyvät.	저 두 명은 사이가 안 좋다.	välit	0	0
+Tuo kakku on hyvää.	저 케익 맛있어요.	kakku	0	0
+Minun aviomieheni lukee sanomalehteä samalla kun hän syö aamiaista.	제 남편은 신문을 읽으면서 아침식사를 한다.	aviomieheni	0	0
+Tom viettää kaiken aikansa ajatellen Maria.	톰은 메리 생각 하느라 시간을 다 보낸다.	ajatellen	0	0
+Keitetään ja syödään kalat!	물고기를 모두 끓여 먹자!	kalat	0	0
+Tavataan viideltä.	5시에 만나자.	viideltä	0	0
+Onpa töykeä tyyppi.	그넘은 버릇 없는 넘이야.	töykeä	0	0
+Vietin lomani ulkomailla.	나는 외국에서 휴가를 보냈다.	ulkomailla	0	0
+Mutta universumi on rajaton.	그러나 우주는 무한하다.	universumi	0	0
+Hän vietti onnellisen lapsuuden.	그녀는 행복한 유년시절을 보냈다.	vietti	0	0
+Vieraan kielen oppiminen vaatii kärsivällisyyttä.	외국어 습득에는 인내가 필요하다.	kärsivällisyyttä	0	0
+Onko minulle tullut puheluita?	내게 온 전화가 있었습니까?	puheluita	0	0
+Vieraan kielen oppiminen vaatii kärsivällisyyttä.	외국어 습득에는 인내가 필요하다.	vieraan	0	0
+Tämä on minun kirjani.	이것은 제 책입니다.	kirjani	0	0
+Maryn silmät olivat täynnä kyyneleitä.	매리의 눈에 눈물이 고였다.	maryn	0	0
+Ovi menee lukkoon automaattisesti.	문은 자동으로 닫힌다.	lukkoon	0	0
+Hänen toimintansa on nopeaa.	그 사람은 동작이 빨라요.	nopeaa	0	0
+Viikoinloppuisin kaupungin keskustassa on aina paljon liikennettä.	주말에는 시내에 항상 교통량이 많다.	keskustassa	0	0
+Hän ei puhu ainoastaan espanjaa vaan myös ranskaa.	그는 스페인어뿐만 아니라, 프랑스어도 말한다.	espanjaa	0	0
+Tätä pianoa ei ole varmaankaan viritetty moneen vuoteen.	이 피아노 몇 년이고 조율을 안 했나 보네.	moneen	0	0
+Haluan tulla japanin opettajaksi.	저는 일본어 선생님이 되고 싶어요.	japanin	0	0
+Murhaaja tuomittiin elinkautiseen.	살인자는 종신형을 선고받았다.	tuomittiin	0	0
+Lintu pääsi lentämään pois ja katosi silmistäni.	새가 날아가 버리고 시야에서 사라졌다.	lentämään	0	0
+Vieraan kielen oppiminen vaatii kärsivällisyyttä.	외국어 습득에는 인내가 필요하다.	kielen	0	0
+Torkahdan usein bussissa ja pysäkki, jolla jäisin pois, menee ohi.	나는 자주 버스에서 졸다가 내릴 정류장을 지나쳐간다.	bussissa	0	0
+Tom erotettiin koulusta.	톰은 정학을 당했다.	erotettiin	0	0
+Yrittää olla näkemättä totuutta.	손바닥으로 하늘을 가리려한다.	näkemättä	0	0
+Hänen liikkeensä ovat nopeita.	그 사람은 동작이 빨라요.	nopeita	0	0
+Otan kutsusi vastaan ilomielin.	초대에 기꺼이 응하겠습니다.	ilomielin	0	0
+Kaiken kaikkiaan onni oli erittäin hyvä.	전체적으로 볼 때 운이 매우 좋았다.	kaikkiaan	0	0
+Ikävöin sinua.	보고 싶어.	ikävöin	0	0
+Onko se tuore kuva?	이 사진 최근 거에요?	tuore	0	0
+Minun täytyy käydä ostoksilla. Tulen takaisin tunnin päästä.	난 쇼핑 가야되요, 한 시간 안에 돌아올게요.	ostoksilla	0	0
+Syytetty vastusti tuomiota ja valitti siitä välittömästi.	피고는 판결에 대항하여 바로 항소하였다.	tuomiota	0	0
+Minun huuleni rohtuvat joka talvi.	매년 겨울에 내 입술이 튼다.	talvi	0	0
+En tiedä milloin menen Ranskaan, mutta aion varmasti mennä.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.	ranskaan	0	0
+Minun syntymäpäiväni on marraskuun kymmenes päivä.	내 생일은 11월 10일이다.	syntymäpäiväni	0	0
+Sade lakkasi.	비가 그쳤다.	lakkasi	0	0
+Minulla on kaksi kissaa.	나는 고양이 두 마리를 가지고 있다.	kissaa	0	0
+Salasana on ”Muiriel”.	비밀번호는 "Muiriel" 입니다.	salasana	0	0
+Olin vuorilla.	나는 산에 있었어.	vuorilla	0	0
+Kiitos suuresta vaivannäöstäsi.	고생했어요	suuresta	0	0
+Tänään minulla on ihan hirveän paljon läksyjä.	오늘 숙제가 너무 많아요.	läksyjä	0	0
+Tämä on hänen talonsa.	이것은 그분의 집입니다.	talonsa	0	0
+Siinä paha missä mainitaan.	호랑이도 제 말하면 온다.	mainitaan	0	0
+Sinun nenäsi vuotaa.	너는 콧물이 흐른다.	nenäsi	0	0
+Olympialaiset järjestetään neljän vuoden välein.	올림픽은 4 년마다 열린다.	järjestetään	0	0
+Sammakkojen äänet auttoivat minua nukahtamaan.	개구리가 우는 소리는 내가 잠드는 데 도움이 됐다.	auttoivat	0	0
+Tämä ei pääty koskaan.	이건 절대 끝나지 않을거야.	pääty	0	0
+Onko tässä maailmassa muka ilmaisia asioita?	세상에 공짜가 어딨어?	ilmaisia	0	0
+Tämä on hänen kotinsa.	이것은 그분의 집입니다.	kotinsa	0	0
+Ujo poika oli hänen edessään aivan nolo.	그 수줍은 소년은 그녀의 앞에서 완전히 쑥스러웠다.	edessään	0	0
+Hänen kasvonsa muuttuivat punaiseksi.	그녀는 얼굴이 빨개졌다.	muuttuivat	0	0
+Näyttää siltä, että minun täytyy käyttää tätä hattua talvella.	겨울에 이 모자를 쓰고 다녀야 될 것 같아.	hattua	0	0
+Hän on opiskellut ranskaa kahdeksan vuoden ajan.	그는 8년동안 불어를 공부하고 있다.	opiskellut	0	0
+Olen pannut Billin tapaamaan Annin huomenna.	난 내일 빌이 앤을 만나도록 했다.	billin	0	0
+Minä haluan mennä vuorille.	나는 산에 가길 원합니다.	vuorille	0	0
+Olen syntynyt kahdeskymmenestoinen marraskuuta vuonna tuhat yhdeksänsataa neljäkymmentäkahdeksan.	나는 1948년 11월 22일에 태어났다.	marraskuuta	0	0
+Tänään on kahdeksastoista kesäkuuta, Muirielin syntymäpäivä!	오늘은 6월 18일, Muiriel의 생일입니다!	kesäkuuta	0	0
+Hukkasin avaimeni.	열쇠를 잃어버렸다.	hukkasin	0	0
+Lintu pääsi lentämään pois ja katosi silmistäni.	새가 날아가 버리고 시야에서 사라졌다.	silmistäni	0	0
+Hukkasin avaimeni.	열쇠를 잃어버렸다.	avaimeni	0	0
+He käyvät teatterissa kerran kuukaudessa.	그들은 매월 한 번씩 연극을 보러 간다.	teatterissa	0	0
+Kaikella on hintansa.	세상에 공짜가 어딨어?	hintansa	0	0
+Talvella huulet rohtuvat.	겨울에는 입술이 튼다.	huulet	0	0
+Ketut tappoivat kanan.	여우가 닭을 죽었다.	kanan	0	0
+Voisitko antaa minulle yhden paperin?	종이 한 장만 주시겠습니까?	paperin	0	0
+Tienaan sata euroa päivässä.	저는 하루에 100유로를 법니다.	tienaan	0	0
+Otin taksin, koska satoi vettä.	비가 내려서 택시를 탔습니다.	satoi	0	0
+He osuivat maaliin kolme kertaa.	그들은 3번 적중을 했다.	maaliin	0	0
+Kuinka pitkä matka on lentokentältä hotellille?	공항에서부터 호텔까지는 거리가 얼마나 됩니까?	hotellille	0	0
+Tätä pianoa ei ole varmaankaan viritetty moneen vuoteen.	이 피아노 몇 년이고 조율을 안 했나 보네.	pianoa	0	0
+Tämä ei tule koskaan loppumaan.	이건 절대 끝나지 않을거야.	loppumaan	0	0
+Voisitko auttaa minua vähäsen?	저를 좀 도와 주실래요?	vähäsen	0	0
+Miten sanotaan "kaisha" englanniksi?	"Kaisha"를 영어로 어떻게 말해요?	englanniksi	0	0
+Hän vietti onnellisen lapsuuden.	그녀는 행복한 유년시절을 보냈다.	onnellisen	0	0
+Kettu tappoi kanat.	여우가 닭을 죽었다.	kettu	0	0
+Käännä tämä teksti japanista ranskaksi.	이 텍스트를 일본어에서 불어로 번역하시오.	teksti	0	0
+Opiskelen koreaa.	저는 한국어를 공부해요.	opiskelen	0	0
+Muiriel on nyt kaksikymmentä.	Muiriel은 지금 20살입니다.	kaksikymmentä	0	0
+Torkahdan usein bussissa ja pysäkki, jolla jäisin pois, menee ohi.	나는 자주 버스에서 졸다가 내릴 정류장을 지나쳐간다.	jäisin	0	0
+Lapsena minulla oli tapana käydä meressä uimassa.	내가 어릴 때는 바다에 수영하러 가곤 했었지.	meressä	0	0
+He menevät katsomaan näytelmän kerran kuukaudessa.	그들은 매월 한 번씩 연극을 보러 간다.	näytelmän	0	0
+Eilen oli maanjäristys.	어제 지진이 있었어요.	maanjäristys	0	0
+Haluamme luonnolliselta kuulostavia käännöksiä, emme suoria sanasta sanaan -käännöksiä.	우리는 자연스럽게 들리는 번역문을 원하며, 단어 대 단어로 직역한 번역문을 원하지 않습니다.	sanasta	0	0
+Mutta avaruus on ääretön.	그러나 우주는 무한하다.	avaruus	0	0
+Joimme sojua karaokessa.	우리들은 노래방에서 소주를 마셨어요.	joimme	0	0
+Jos laitat pillin sisään ennen kuin se täyttyy vedellä, voit vahvistaa sen helposti silmin nähden.	빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다.	vedellä	0	0
+Näyttää siltä, että minun täytyy käyttää tätä hattua talvella.	겨울에 이 모자를 쓰고 다녀야 될 것 같아.	talvella	0	0
+Kyyneleet herahtivat hänen silmiinsä.	그녀의 눈에 눈물이 고였다.	kyyneleet	0	0
+Kuinka pitkä matka on lentokentältä hotellille?	공항에서부터 호텔까지는 거리가 얼마나 됩니까?	lentokentältä	0	0
+Hän vietti onnellisen lapsuuden.	그녀는 행복한 유년시절을 보냈다.	lapsuuden	0	0
+Tiedän, että inhoat sitä, että Tom käyttää vaatteitasi, mutta hän oli likomärkä.	난 텀이 너의 옷을 입는 걸 네가 싫어하는지 알았는데, 그의 옷이 함빡 젖었었어.	inhoat	0	0
+Ovi sulkeutuu automaattisesti.	문은 자동으로 닫힌다.	automaattisesti	0	0
+Ystäväni opiskelee koreaa.	내친구는 한국어를 공부해요.	opiskelee	0	0
+Onpa hän epäkohtelias.	그넘은 버릇 없는 넘이야.	epäkohtelias	0	0
+Ovi sulkeutuu automaattisesti.	문은 자동으로 닫힌다.	sulkeutuu	0	0
+Syytetty vastusti tuomiota ja valitti siitä välittömästi.	피고는 판결에 대항하여 바로 항소하였다.	valitti	0	0
+Mitkä ovat tämän tekniikan hyvät puolet?	이 기술의 이점은 무엇인가요?	tekniikan	0	0
+Tyttö keräsi sieniä metsässä.	소녀는 숲에서 버섯을 따 모았다.	keräsi	0	0
+Mites töissä?	일은 잘 되니?	mites	0	0
+Viikoinloppuisin kaupungin keskustassa on aina paljon liikennettä.	주말에는 시내에 항상 교통량이 많다.	liikennettä	0	0
+Tyttö keräsi sieniä metsässä.	소녀는 숲에서 버섯을 따 모았다.	sieniä	0	0
+Tomilla ei ole huumorintajua.	톰은 유머감각이 없다.	huumorintajua	0	0
+Me keräämme postimerkkejä joka puolelta maailmaa.	우리는 전 세계의 우표를 모은다.	keräämme	0	0
+Menitkö naimisiin?	장가들었느냐?	menitkö	0	0
+Otan kutsusi vastaan mielihyvin.	초대에 기꺼이 응하겠습니다.	mielihyvin	0	0
+Oikeesti?	정말이에요?	oikeesti	0	0
+Älä raapusta kirjaston kirjoihin.	도서관 책에 낙서를 하지 마십시오.	kirjaston	0	0
+Kenenköhän nämä silmälasit ovat?	이 안경은 누구 것이지?	silmälasit	0	0
+Peter halusi tulla lääkäriksi.	피터는 의사가 되고 싶어했어요.	lääkäriksi	0	0
+Tämä kirja julkaistiin vuonna 1689.	이 책은 1689년에 출판되었다.	julkaistiin	0	0
+Kenen kitara tämä on?	이 기타는 누구 것이지?	kitara	0	0
+Pidä vaihtorahat.	잔돈은 가지세요.	vaihtorahat	0	0
+Voisitko antaa minulle esimerkin?	예를 들어 주시겠습니까?	esimerkin	0	0
+Haluamme luonnolliselta kuulostavia käännöksiä, emme suoria sanasta sanaan -käännöksiä.	우리는 자연스럽게 들리는 번역문을 원하며, 단어 대 단어로 직역한 번역문을 원하지 않습니다.	sanaan	0	0
+Kirjoituspöydän pinta on sileä.	책상의 표면이 매끄럽다.	pinta	0	0
+Tom ja Mari kasvattavat kanoja takapihallaan.	톰이랑 매리는 뒤뜰에 닭을 기른다.	kanoja	0	0
+Ajoin auton sisään autotalliin.	자동차를 차고에 놓어두었다.	autotalliin	0	0
+Murhaaja sai elinkautisen tuomion.	살인자는 종신형을 선고받았다.	elinkautisen	0	0
+Tätä pianoa ei ole varmaankaan viritetty moneen vuoteen.	이 피아노 몇 년이고 조율을 안 했나 보네.	viritetty	0	0
+Olisi mukavaa, jos voisin matkustaa Japaniin.	일본에 갈 수 있었으면 좋겠어요.	japaniin	0	0
+Tappaa kaksi kärpästä yhdellä iskulla.	일석이조	iskulla	0	0
+Syytetty vastusti tuomiota ja valitti siitä välittömästi.	피고는 판결에 대항하여 바로 항소하였다.	vastusti	0	0
+Olen kotoisin Kiinasta.	중국에서 왔습니다.	kiinasta	0	0
+Kielioppi on todella mutkikasta.	문법은 매우 복잡하다.	mutkikasta	0	0
+Tuolla tyypillä ei ole yhtään käytöstapoja.	그넘은 버릇 없는 넘이야.	tyypillä	0	0
+Maryn silmät olivat täynnä kyyneleitä.	매리의 눈에 눈물이 고였다.	kyyneleitä	0	0
+Kettu tappoi kanat.	여우가 닭을 죽었다.	kanat	0	0
+Eksyin New Yorkissa.	나는 뉴욕에서 길을 잃었다.	eksyin	0	0
+Professori soittaa puhelimella.	교수님이 전화를 하고 계세요.	puhelimella	0	0
+Italia on hyvin kaunis maa.	이탈리아는 아주 아름다운 나라입니다.	italia	0	0
+Jos laitat pillin sisään ennen kuin se täyttyy vedellä, voit vahvistaa sen helposti silmin nähden.	빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다.	täyttyy	0	0
+Katso aikataulusta junia Lontooseen.	런던행 열차를 시간표 확인하세요.	aikataulusta	0	0
+Ujo poika oli hänen edessään aivan nolo.	그 수줍은 소년은 그녀의 앞에서 완전히 쑥스러웠다.	nolo	0	0
+Kuinka monta kirjainta aakkosissa on?	알파벳은 몇 개의 글자로 되어 있습니까?	kirjainta	0	0
+Kuinka monta ihmistä meni eilen eläintarhaan?	어제 몇명이서 동물원에 갔어요?	eläintarhaan	0	0
+Minun syntymäpäiväni on maaliskuun kahdeskymmenestoinen päivä.	내 생일은 3월 22일이다.	maaliskuun	0	0
+Lapsena minulla oli tapana käydä meressä uimassa.	내가 어릴 때는 바다에 수영하러 가곤 했었지.	uimassa	0	0
+Me haluamme kokonaisia lauseita.	우리는 완전한 문장을 원합니다.	kokonaisia	0	0
+Minun syntymäpäiväni on marraskuun kymmenes päivä.	내 생일은 11월 10일이다.	marraskuun	0	0
+Käännä tämä teksti japanista ranskaksi.	이 텍스트를 일본어에서 불어로 번역하시오.	ranskaksi	0	0
+Hän on elänyt vaikean elämän.	그는 힘든 삶을 사랐다.	vaikean	0	0
+Tuomioistuin lykkäsi hänelle langetettua kuuden kuukauden pakkotyötuomiota.	법원은 그녀에세 6개월의 징역에 집행유예를 선고하였다.	tuomioistuin	0	0
+Torkahdan usein bussissa ja pysäkki, jolla jäisin pois, menee ohi.	나는 자주 버스에서 졸다가 내릴 정류장을 지나쳐간다.	pysäkki	0	0
+Ajoin auton sisään talliin.	자동차를 차고에 놓어두었다.	talliin	0	0
+Minun huuleni rohtuvat joka talvi.	매년 겨울에 내 입술이 튼다.	huuleni	0	0
+Söin kaviaaria.	나는 캐비아를 먹었다.	kaviaaria	0	0
+He osuivat maaliin kolmesti.	그들은 3번 적중을 했다.	osuivat	0	0
+Olen nyt 30-vuotias.	나는 지금 31살이다.	30-vuotias	0	0
+Menen kävellen kouluun.	저는 학교에 걸어갑니다.	kävellen	0	0
+Hänen kasvonsa muuttuivat punaiseksi.	그녀는 얼굴이 빨개졌다.	punaiseksi	0	0
+Laittaisitko musiikkia pienemmälle?	음악 소리를 좀 줄이세요.	pienemmälle	0	0
+Älä raapusta kirjaston kirjoihin.	도서관 책에 낙서를 하지 마십시오.	kirjoihin	0	0
+Tom ja Mari kasvattavat kanoja takapihallaan.	톰이랑 매리는 뒤뜰에 닭을 기른다.	mari	0	0
+Ylipäänsä heillä oli todella hyvä tuuri.	전체적으로 볼 때 운이 매우 좋았다.	ylipäänsä	0	0
+Minun syntymäpäiväni on marraskuun kymmenes päivä.	내 생일은 11월 10일이다.	kymmenes	0	0
+Silloin kun olin nuori, minulla oli tapana käydä joessa uimassa.	내가 어릴 때는 강으로 수영하러 가곤 했었지.	joessa	0	0
+Katso aikataulusta junia Lontooseen.	런던행 열차를 시간표 확인하세요.	junia	0	0
+Haluan tulla japanin opettajaksi.	저는 일본어 선생님이 되고 싶어요.	opettajaksi	0	0
+Käännä tämä teksti japanista ranskaksi.	이 텍스트를 일본어에서 불어로 번역하시오.	japanista	0	0
+Tapaan teidät Koreassa!	한국에 너희들을 만나요!	koreassa	0	0
+Kaupungintalon edessä on iso parkkipaikka.	시청 앞에는 큰 주차장이 있다.	parkkipaikka	0	0
+Laittaisitko musiikkia pienemmälle?	음악 소리를 좀 줄이세요.	laittaisitko	0	0
+Olen neljännellä kuulla raskaana.	나는 임신 4개월 째이다.	neljännellä	0	0
+Tappaa kaksi kärpästä yhdellä iskulla.	일석이조	kärpästä	0	0
+Kuinka kauan aiot olla Tokiossa?	너는 동경에 얼마 동안 머무르니?	tokiossa	0	0
+Olen pannut Billin tapaamaan Annin huomenna.	난 내일 빌이 앤을 만나도록 했다.	annin	0	0
+Mä meen.	나는 갈 거에요.	meen	0	0
+Olen pettynyt tämän maailman koulutukseen.	이 세상의 교육이 나를 실망시켜요.	koulutukseen	0	0
+Hänen toimintansa on nopeaa.	그 사람은 동작이 빨라요.	toimintansa	0	0
+Herätessäni olin surullinen.	일어났을 때 슬펐어.	herätessäni	0	0
+Murhaaja tuomittiin elinkautiseen.	살인자는 종신형을 선고받았다.	elinkautiseen	0	0
+Hänen liikkeensä ovat nopeita.	그 사람은 동작이 빨라요.	liikkeensä	0	0
+Opiskele!	공부 해!	opiskele	0	0
+Kirjoituspöydän pinta on sileä.	책상의 표면이 매끄럽다.	sileä	0	0
+Mul on ikävä sua.	보고 싶어.	mul	0	0
+Tom ja Mari kasvattavat kanoja takapihallaan.	톰이랑 매리는 뒤뜰에 닭을 기른다.	kasvattavat	0	0
+Jos laitat pillin sisään ennen kuin se täyttyy vedellä, voit vahvistaa sen helposti silmin nähden.	빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다.	pillin	0	0
+Hiroshi sanoo: "Tämä vaikuttaa mielenkiintoiselta."	히로시는 이것 재미 있을 것 같다고 말한다.	mielenkiintoiselta	0	0
+Haluamme luonnolliselta kuulostavia käännöksiä, emme suoria sanasta sanaan -käännöksiä.	우리는 자연스럽게 들리는 번역문을 원하며, 단어 대 단어로 직역한 번역문을 원하지 않습니다.	suoria	0	0
+Mikä tästä teknologiasta syntyvä hyöty on?	이 기술의 이점은 무엇인가요?	hyöty	0	0
+Tuolla tyypillä ei ole yhtään käytöstapoja.	그넘은 버릇 없는 넘이야.	käytöstapoja	0	0
+Tiedän, että inhoat sitä, että Tom käyttää vaatteitasi, mutta hän oli likomärkä.	난 텀이 너의 옷을 입는 걸 네가 싫어하는지 알았는데, 그의 옷이 함빡 젖었었어.	vaatteitasi	0	0
+Älä muuta lauseita, jotka ovat oikein. Voit sen sijaan lisätä luonnollisen kuuloisia vaihtoehtoisia käännöksiä.	정확한 문장을 수정하지 마십시오. 대신 당신은 자연스럽게 들리는 다른 번역문을 제출할 수 있습니다.	luonnollisen	0	0
+Kokeillaanpa jotakin!	뭔가 해보자!	kokeillaanpa	0	0
+Mutta universumi on rajaton.	그러나 우주는 무한하다.	rajaton	0	0
+Mutta avaruus on ääretön.	그러나 우주는 무한하다.	ääretön	0	0
+Todella paljon kiitoksia kun näytit tämän kokoelman luotettavat esimerkit.	이렇게 콜렉션의 확실한 예를 보여줘서 정말 감사합니다.	kokoelman	0	0
+Haluamme luonnolliselta kuulostavia käännöksiä, emme suoria sanasta sanaan -käännöksiä.	우리는 자연스럽게 들리는 번역문을 원하며, 단어 대 단어로 직역한 번역문을 원하지 않습니다.	luonnolliselta	0	0
+Kyyneleet herahtivat hänen silmiinsä.	그녀의 눈에 눈물이 고였다.	silmiinsä	0	0
+Kenen tämä sateenvarjo on?	이 우산은 누구 것이지?	sateenvarjo	0	0
+Metsässä on villieläimiä.	숲에는 야생동물들이 있다.	villieläimiä	0	0
+Hävitin avaimen.	열쇠를 잃어버렸다.	hävitin	0	0
+Älä lisää lauseita, jotka ovat peräisin tekijänoikeussuojatuista lähteistä.	저작권이 있는 출처의 문장을 추가하지 마십시오.	lauseita	0	0
+Olet kuin ilmetty isäsi.	너는 아빠랑 똑같다.	ilmetty	0	0
+Käykö, että tulen tämäniltaisiin juhliisi?	나 오늘밤 너의 파티에 가도 돼?	juhliisi	0	0
+Mikä tästä teknologiasta syntyvä hyöty on?	이 기술의 이점은 무엇인가요?	teknologiasta	0	0
+Onko tällä tarinalla onnellinen loppu?	이 이야기는 해피앤딩이야?	tarinalla	0	0
+Minun aviomieheni lukee sanomalehteä samalla kun hän syö aamiaista.	제 남편은 신문을 읽으면서 아침식사를 한다.	sanomalehteä	0	0
+Vieraan kielen oppiminen vaatii kärsivällisyyttä.	외국어 습득에는 인내가 필요하다.	oppiminen	0	0
+Olympialaiset järjestetään neljän vuoden välein.	올림픽은 4 년마다 열린다.	olympialaiset	0	0
+Kenen tämä polkupyörä on?	이 자전거는 누구 것이지?	polkupyörä	0	0
+Jack keräilee postimerkkejä.	잭은 우표를 모은다.	postimerkkejä	0	0
+Kaupungintalon edessä on iso parkkipaikka.	시청 앞에는 큰 주차장이 있다.	kaupungintalon	0	0
+Pakolaiset saavat avustuksia monista kirkon järjestöistä.	난민들은 여러 교회 기구로부터 지원을 받는다.	pakolaiset	0	0
+Sammakkojen äänet auttoivat minua nukahtamaan.	개구리가 우는 소리는 내가 잠드는 데 도움이 됐다.	nukahtamaan	0	0
+Älä lisää lauseita, jotka ovat peräisin tekijänoikeussuojatuista lähteistä.	저작권이 있는 출처의 문장을 추가하지 마십시오.	lähteistä	0	0
+Missä minun silmälasini ovat?	내 안경은 어디 있어요?	silmälasini	0	0
+Otan kutsusi vastaan mielihyvin.	초대에 기꺼이 응하겠습니다.	kutsusi	0	0
+John on läheisin ystäväni.	존은 나의 가장 친한 친구야.	läheisin	0	0
+Keitetään ja syödään kalat!	물고기를 모두 끓여 먹자!	keitetään	0	0
+Vietin lomani ulkomailla.	나는 외국에서 휴가를 보냈다.	lomani	0	0
+Tartu köyteen.	로프를 잡으세요.	köyteen	0	0
+Sinun täytyy opiskella tehokkaammin.	너는 더 능률적으로 공부해야 된다.	tehokkaammin	0	0
+Yritetäänpä tehdä jotain.	뭔가 해보자!	yritetäänpä	0	0
+Sinulla on nuha.	너는 콧물이 흐른다.	nuha	0	0
+Kirjoituspöydän pinta on sileä.	책상의 표면이 매끄럽다.	kirjoituspöydän	0	0
+Älä unohda liimata postimerkkiä kirjeeseen.	편지에 우표 붙이는거 잊지마.	kirjeeseen	0	0

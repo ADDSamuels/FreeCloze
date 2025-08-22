@@ -1,0 +1,63 @@
+Jag vet hur det här funkar.	Žinau, kaip tai veikia.	jag	0	0
+Det är en skugga.	Tai - šešėlis.	det	0	0
+Barnarbete är olagligt.	Vaikų darbas yra neteisėtas.	är	0	0
+Du är vår nya granne.	Tu esi mūsų naujas kaimynas.	du	0	0
+Jag kan inte engelska.	Aš nemoku anglų kalbos.	inte	0	0
+Jag har en vit katt.	Aš turiu baltą katę.	en	0	0
+Jag har en vit katt.	Aš turiu baltą katę.	har	0	0
+Ni är allting för mig.	Jūs esate man viskas.	för	0	0
+Vad intressant!	Kaip įdomu!	vad	0	0
+Du är allt för mig.	Jūs esate man viskas.	mig	0	0
+Jag vet hur det här funkar.	Žinau, kaip tai veikia.	här	0	0
+Jag kan inte engelska.	Aš nemoku anglų kalbos.	kan	0	0
+Tom går till skolan till fots.	Tomas vaikšto į mokyklą.	till	0	0
+Ni är allting för mig.	Jūs esate man viskas.	ni	0	0
+Jag vet hur det här funkar.	Žinau, kaip tai veikia.	vet	0	0
+Jag vet hur det här funkar.	Žinau, kaip tai veikia.	hur	0	0
+När stänger butiken?	Kurią valandą užsidaro parduotuvė?	när	0	0
+Jag är från Kyoto.	Aš iš Kioto.	från	0	0
+Du är allt för mig.	Jūs esate man viskas.	allt	0	0
+Tom går till skolan till fots.	Tomas vaikšto į mokyklą.	går	0	0
+En, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	två	0	0
+Låt mig fråga en fråga.	Leiskite man paklausti.	låt	0	0
+Du är vår nya granne.	Tu esi mūsų naujas kaimynas.	vår	0	0
+En, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	tre	0	0
+Jag har många böcker.	Aš turiu daug knygų.	många	0	0
+God morgon!	Labą rytą!	god	0	0
+Vad heter Jemens huvudstad?	Kaip vadinasi Jemeno sostinė?	heter	0	0
+God morgon!	Labą rytą!	morgon	0	0
+Låt mig fråga en fråga.	Leisk man paklausti.	fråga	0	0
+En, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	sex	0	0
+En, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	fem	0	0
+Du är vår nya granne.	Tu esi mūsų naujas kaimynas.	nya	0	0
+En, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	fyra	0	0
+En, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	tio	0	0
+Tom går till skolan till fots.	Tomas vaikšto į mokyklą.	skolan	0	0
+Tom går till skolan till fots.	Tomas vaikšto į mokyklą.	tom	0	0
+En, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	sju	0	0
+En, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	åtta	0	0
+Jag vet hur det här funkar.	Žinau, kaip tai veikia.	funkar	0	0
+Ni är allting för mig.	Jūs esate man viskas.	allting	0	0
+Vad intressant!	Kaip įdomu!	intressant	0	0
+En, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	nio	0	0
+En spegel reflekterar ljus.	Veidrodis atspindi šviesą.	ljus	0	0
+Jag är en hjälte.	Aš esu didvyris.	hjälte	0	0
+Jag har en vit katt.	Aš turiu baltą katę.	vit	0	0
+Jag kan inte engelska.	Aš nemoku anglų kalbos.	engelska	0	0
+Jag har många böcker.	Aš turiu daug knygų.	böcker	0	0
+När stänger butiken?	Kurią valandą užsidaro parduotuvė?	stänger	0	0
+Jag har en vit katt.	Aš turiu baltą katę.	katt	0	0
+Barnarbete är olagligt.	Vaikų darbas yra neteisėtas.	olagligt	0	0
+Du är vår nya granne.	Tu esi mūsų naujas kaimynas.	granne	0	0
+Afrika är mänsklighetens vagga.	Afrika yra žmonijos lopšys.	afrika	0	0
+Det är en skugga.	Tai - šešėlis.	skugga	0	0
+När stänger butiken?	Kurią valandą užsidaro parduotuvė?	butiken	0	0
+En spegel reflekterar ljus.	Veidrodis atspindi šviesą.	spegel	0	0
+Tom går till skolan till fots.	Tomas vaikšto į mokyklą.	fots	0	0
+Jag heter Marina.	Mano vardas Marina.	marina	0	0
+Afrika är mänsklighetens vagga.	Afrika yra žmonijos lopšys.	mänsklighetens	0	0
+Vad heter Jemens huvudstad?	Kaip vadinasi Jemeno sostinė?	huvudstad	0	0
+Afrika är mänsklighetens vagga.	Afrika yra žmonijos lopšys.	vagga	0	0
+En spegel reflekterar ljus.	Veidrodis atspindi šviesą.	reflekterar	0	0
+Jag är korean.	Aš korėjietis.	korean	0	0
+Jag är från Kyoto.	Aš iš Kioto.	kyoto	0	0

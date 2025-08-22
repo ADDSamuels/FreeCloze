@@ -1,0 +1,2027 @@
+Gusto ko ang gatas at tinapay.	Ich mag Milch und Brot.	ang	0	0
+Maaari akong maghintay sa iyo.	Ich kann auf Sie warten.	sa	0	0
+Handa na po ang hapunan.	Das Abendessen ist fertig.	na	0	0
+Nagpapalit ako ng damit.	Ich ziehe mich um.	ng	0	0
+Kung gusto mo talagang malaman ito, itanong mo lang.	Wenn du es wirklich wissen willst, brauchst du nur zu fragen.	mo	0	0
+Hindi ko kailanman pinagkatiwalaan si Tom.	Ich habe Tom nie vertraut.	ko	0	0
+Hindi ko po gustong hindi ako nananalo.	Ich hasse es, nicht zu gewinnen.	hindi	0	0
+Dapat magtanong ako, di ba?	Ich sollte fragen, oder?	ako	0	0
+Huwag ka nang tatawag dito!	Ruf hier nicht noch mal an!	ka	0	0
+Gusto kong maghintay hanggang makarating dito sina Tom at Maria.	Ich möchte warten, bis Tom und Maria hier sind.	at	0	0
+Isa si Tom sa mga pasyente ko.	Tom ist einer meiner Patienten.	mga	0	0
+Ikaw ay nakita ni Tom.	Tom hat dich gesehen.	ay	0	0
+Ang sabi ko, magiging okey lang ako.	Ich sagte, es wird mir gut gehen.	lang	0	0
+Tumulong ka ba kay Tom?	Haben Sie Tom geholfen?	ba	0	0
+Ako ang nagsulat ng aklat na ito.	Dieses Buch habe ich geschrieben.	ito	0	0
+Nakita ko po siya noong nakaraang linggo.	Ich sah sie letzte Woche.	siya	0	0
+Ipinagtataka ni Tom kung bakit hindi nag-aaral si Maria sa kuwarto niya.	Tom fragte sich, warum Maria nicht auf ihrem Zimmer lernte.	kung	0	0
+Mayroon po bang mga tawag para sa akin?	Gab es Anrufe für mich?	para	0	0
+Gusto mo bang baguhin ang mundo? Simulan mo sa pagkupkop ng isang tuta!	Möchtest du die Welt verändern? Beginne damit, einen Welpen zu adoptieren!	isang	0	0
+Nanonood si Tom.	Tom sieht zu.	si	0	0
+Ano ang itinitinda ninyo?	Was verkauft ihr?	ano	0	0
+Hinalikan po ba kayo ni Tom?	Hat Tom Sie geküsst?	kayo	0	0
+Okey lang bang gawin iyon dito?	Ist es in Ordnung, das hier zu tun?	dito	0	0
+Alam kong alam mo ito.	Ich weiß, Sie wissen das.	alam	0	0
+May isa pong taksing naghihintay.	Ein Taxi wartet.	may	0	0
+Mag-uusap tayo bukas.	Wir werden morgen reden.	tayo	0	0
+Gusto kong tumulong sa kanya, pero hindi ko alam kung paano.	Ich möchte ihr gerne helfen, aber ich weiß nicht, wie.	pero	0	0
+Pinagpapasyahan namin ang lahat nang magkakasama.	Wir entscheiden alles gemeinsam.	lahat	0	0
+Bakit gising ka pa?	Warum bist du noch wach?	pa	0	0
+Baka tama ka nga.	Du hast vermutlich recht.	nga	0	0
+Puwede mong gamitin ang kotse ko kung gusto mo.	Du kannst mein Auto benutzen, wenn du möchtest.	gusto	0	0
+Oo, napakasarap ng gatas.	Ja, die Milch ist sehr gut.	oo	0	0
+Palaging sinasama ni Tom ang ulan.	Tom bringt immer Regen mit.	ni	0	0
+Napakatapang po niya.	Er ist sehr mutig.	niya	0	0
+Wala yatang tao sa bahay.	Anscheinend ist keiner zu Hause.	wala	0	0
+Nalutas natin ang suliranin sa loob ng isang linggo.	Wir haben das Problem in einer Woche gelöst.	natin	0	0
+Sa tingin ko tama ka naman.	Mir scheint, Sie haben recht.	naman	0	0
+Puwede mong idekoreyt ang koktel ng tseri o pinya.	Du kannst den Cocktail mit einer Kirsche oder mit Ananas dekorieren.	o	0	0
+Hindi kami puwedeng huminto ngayon.	Wir können jetzt nicht anhalten.	ngayon	0	0
+May tatlo kami niyon.	Davon haben wir drei.	kami	0	0
+Sige, sabihin mo na.	Geh, sag es.	sige	0	0
+Hindi kasama sa grupo namin si Tom.	Tom ist nicht in unserer Gruppe.	namin	0	0
+Mali sila.	Die haben unrecht.	sila	0	0
+Isa po akong napakalungkot na tao.	Ich bin ein sehr trauriger Mensch.	akong	0	0
+Kailangan po namin iyan.	Wir brauchen das.	kailangan	0	0
+Bakit kaya kami tinitingnan ni Tom?	Warum schaut Tom uns an?	bakit	0	0
+Hindi ko alam kung magkano yang dalawan bike na yan.	Ich weiß nicht, wie viel diese zwei Fahrräder da kosten.	yan	0	0
+Kaya ito ng kahit sinong bata.	Jedes Kind kann das.	kaya	0	0
+Malinis ba ang kuwarto 'nyo?	Ist Ihr Zimmer sauber?	nyo	0	0
+Ikaw lang ang tanging gusto ko.	Alles, was ich will, bist du.	ikaw	0	0
+Anong klase ng mga libro ang hilig mong basahin?	Was für Bücher liest du gern?	anong	0	0
+Di isda ang lumba-lumba at balyena.	Delfine und Wale sind keine Fische.	di	0	0
+Si Tom po ang gumawa sa akin niyon.	Tom hat mir das angetan.	akin	0	0
+Mga kapatid ko ang mga iyon.	Das sind meine Geschwister.	iyon	0	0
+Ang gandang libro po talaga nito.	Es ist wirklich ein gutes Buch.	talaga	0	0
+Bakit ba iyon sinasabi ng mga tao?	Warum sagen die Leute das?	tao	0	0
+Mayroon kang isang oras.	Sie haben eine Stunde Zeit.	kang	0	0
+Walang laman ang silid.	Das Zimmer ist leer.	walang	0	0
+Ano ang ibig mong sabihin doon?	Was meinen Sie damit?	sabihin	0	0
+Ang lakas mong kumain.	Du isst viel.	mong	0	0
+Maaari mo ba akong dalhan ng isa pang alak?	Könntest du mir noch ein Bier mitbringen?	isa	0	0
+Iyan ang gusto kong itanong.	Das möchte ich fragen.	kong	0	0
+Para ba akong isang loko kung nagsasalita ako nang ganito?	Klinge ich wie ein Irrer, wenn ich so spreche?	nang	0	0
+Ang galing niyo talaga.	Ihr seid echt gut.	niyo	0	0
+May ipinakita siya sa aking litrato ng kanyang ina noong mag-aaral pa siya.	Sie zeigte mir ein Bild ihrer Mutter als Schulkind.	aking	0	0
+Kinansela ang piknik dahil sa ulan.	Des Regens wegen wurde der Imbiss in freier Natur abgeblasen.	dahil	0	0
+Huwag mo kaming hahanapin!	Suchen Sie nicht nach uns!	huwag	0	0
+Nasa Boston pa rin kami.	Wir sind noch in Boston.	nasa	0	0
+Nasaan yung libro?	Wo ist das Buch?	yung	0	0
+Wala akong utang sa iyo.	Ich schulde Ihnen nichts.	iyo	0	0
+Sino ang pinakapaborito mong gitarista?	Wer ist dein Lieblingsgitarrist?	sino	0	0
+Alam mo ba kung saan nila nalaman?	Weißt du, von wo sie es erfuhren?	nila	0	0
+Magtsa kita.	Komm und lass uns einen Tee trinken.	kita	0	0
+May Diyos.	Ein Gott existiert.	diyos	0	0
+Ang sabi ko, "tama na!"	Ich habe gesagt „Hör auf!“	sabi	0	0
+Bakit buhay pa kami?	Warum leben wir noch?	buhay	0	0
+Alam mo ba kung saan nila nalaman ito?	Weißt du, von wo sie es erfuhren?	saan	0	0
+Nakakapagsalita rin si Tom ng Pranses.	Tom spricht auch Französisch.	rin	0	0
+Salamat at sinagip po ninyo ako.	Danke, dass Sie mich gerettet haben.	salamat	0	0
+Gusto mo bang sumama?	Möchtest du mitkommen?	bang	0	0
+Gawin mo pa rin 'to!	Mach’s trotzdem!	to	0	0
+May malaki po siyang bahay at dalawang kotse.	Er hat ein großes Haus und zwei Autos.	siyang	0	0
+Pumapasok sa eskwela ang bata kahit na gusto niyang matulog.	Das Mädchen geht zur Schule, obwohl sie schlafen möchte.	kahit	0	0
+Tawagan mo ako bago ka umalis.	Ruf mich an, bevor du gehst.	umalis	0	0
+Dapat magmadali ka.	Sie müssen sich beeilen.	dapat	0	0
+Darating din si Tom.	Tom geht auch.	din	0	0
+Dapat iyong gawin ng isa sa ating dalawa.	Einer von uns beiden muss das machen.	iyong	0	0
+Hindi pa po tapos ang araw.	Der Tag ist noch nicht vorbei.	araw	0	0
+Masaya po kayo siguro.	Sie müssen glücklich sein.	siguro	0	0
+Medyo naiintindihan ko po.	Ich verstehe ungefähr.	po	0	0
+Ano ang ibig 'nyong sabihin doon?	Was meint ihr damit?	doon	0	0
+Mabuti naman. Eh ikaw?	Gut. Und dir?	eh	0	0
+Iminungkahi iyan ni Tom.	Tom hat das vorgeschlagen.	iyan	0	0
+Paano natin gagawin ito?	Wie werden wir das tun?	paano	0	0
+Huwag po ninyong gawin iyon.	Mache das nicht.	gawin	0	0
+Nakipag-usap ka ba kay Tom?	Haben Sie mit Tom geredet?	kay	0	0
+Wala po ba kayong gagawin?	Haben Sie nichts zu tun?	kayong	0	0
+Isinilang ako noong ika-22 ng Nobyembre taong 1948.	Ich bin am 22. November 1948 geboren.	noong	0	0
+Delikado ang mundo.	Die Welt ist gefährlich.	mundo	0	0
+Hoy! Kaninong buhok ito?	Hey! Wessen Haar ist das?	hoy	0	0
+Iba iyan.	Das ist anders.	iba	0	0
+Taga-Canada po ba ang kaibigan ninyo?	Ist Ihr Freund Kanadier?	kaibigan	0	0
+Ginagawa ko kung ano sa tingin ko ang tama.	Ich tue, was ich für richtig halte.	tama	0	0
+Pumunta ako sa bangko.	Ich ging zur Bank.	pumunta	0	0
+Teka lang.	Warte mal kurz.	teka	0	0
+Kailangan nating manalo.	Wir müssen gewinnen.	nating	0	0
+Darating po ako roon nang alas dos y medya, okey po ba?	Ich werde um 2:30 dort sein, okay?	y	0	0
+Hindi pa tapos ang araw.	Der Tag ist noch nicht vorbei.	tapos	0	0
+Ano ang ibig mong sabihin?	Was meinen Sie damit?	ibig	0	0
+May nakita akong tao.	Ich sah jemanden.	nakita	0	0
+Magiging masaya ako kapag natapos na iyon.	Ich bin froh, wenn das vorbei ist.	kapag	0	0
+Bakit ba nila ginagawa ito?	Warum machen sie das?	ginagawa	0	0
+Magsasara ang paaralan sa katapusan ng taon dahil sa kakulangan ng estudyante.	Die Schule wird Ende des Jahres wegen Schülermangels geschlossen.	taon	0	0
+Nasaan po ba ang bola?	Wo ist der Ball?	nasaan	0	0
+Maaaring maging kapaki-pakinabang iyon sa iyo.	Das könnte dir nützlich sein.	maging	0	0
+Mula sa Griyego ang salitang iyan.	Das Wort kommt aus dem Griechischen.	mula	0	0
+Tingnan ninyong mabuti ang larawang ito!	Schaut euch dieses Bild gut an!	tingnan	0	0
+Mas gusto ko pong magbasa.	Ich ziehe es vor zu lesen.	mas	0	0
+Gusto ko po sanang makipagkita sa inyo kung puwede.	Wenn möglich, würde ich mich gern mit Ihnen treffen.	puwede	0	0
+Paumanhin po. Hindi ko po alam na upuan po pala ninyo ito.	Verzeihen Sie bitte. Ich wusste nicht, dass das Ihr Platz ist.	pala	0	0
+Ano po ang pangalan ng bago?	Wie heißt der Neue?	bago	0	0
+Sinabi ni Maria na mayroon daw siyang nahanap.	Maria sagte, sie habe etwas gefunden.	sinabi	0	0
+Isa itong aksidente.	Es war ein Unfall.	itong	0	0
+Pinagpasyahan nang gabi ang kahihinatnan ng gobyerno.	In der Nacht entschied sich das Schicksal der Regierung.	gabi	0	0
+Bakit nandito tayo?	Warum sind wir hier?	nandito	0	0
+Ang Merkuryo, Venus, Tiyera, at Marte ay mga planetang terestriyal ng ating Sistemang Pang-Araw.	Merkur, Venus, Erde und Mars sind die terrestrischen Planeten unseres Sonnensystems.	ating	0	0
+Binasa ko muna dapat ang aklat bago panoorin ang pelikula.	Ich hätte lieber das Buch lesen sollen, bevor ich mir den Film angeguckt habe.	muna	0	0
+May nalalaman po ba kayo tungkol dito?	Ist Ihnen etwas darüber bekannt?	tungkol	0	0
+Nakipagkamayan ako sa kaniya.	Ich habe ihr die Hand geschüttelt.	kaniya	0	0
+Sana walang makakita sa atin.	Ich hoffe, dass uns niemand sieht.	sana	0	0
+Abala siya sa gawaing bahay.	Sie war mit der Hausarbeit beschäftigt.	bahay	0	0
+Magandang karne po ito.	Das ist gutes Fleisch.	magandang	0	0
+Totoo ang lahat ng mga ito.	Das ist alles wahr.	totoo	0	0
+Babalik ako sa oras.	Ich werde pünktlich zurück sein.	oras	0	0
+Kinausap po ba ninyo si Tom?	Haben Sie mit Tom geredet?	ninyo	0	0
+Parang may sakit si Tom.	Tom sieht krank aus.	parang	0	0
+Gusto ko po sanang makipagkita sa inyo kung puwede.	Wenn möglich, würde ich mich gern mit Ihnen treffen.	inyo	0	0
+Ang sakit ng buong katawan ko.	Mir tut der ganze Körper weh.	buong	0	0
+Sabihin mo sa kanya na nagkasakit ako!	Sagen Sie ihm, dass ich krank geworden bin!	kanya	0	0
+Palagi mong sinasabi noon na gusto mong maging guro.	Du sagtest immer, du wollest Lehrer werden.	sinasabi	0	0
+Sino ang kasama 'nyong dumating?	Mit wem sind Sie gekommen?	kasama	0	0
+Huwag mo nang uulitin iyan, ha!	Mach das nicht nochmal, okay?	ha	0	0
+Ano po ang pangalan ng kapatid ni Tom?	Wie heisst Toms Bruder?	pangalan	0	0
+Ayaw mo ba silang makita?	Möchtest du sie nicht sehen?	ayaw	0	0
+Huwag kang maghanap ng apeksiyon mula sa ibang tao at bumili ka na lamang ng pusa.	Such keine Zuneigung bei anderen Leuten, sondern kauf dir einfach eine Katze.	lamang	0	0
+Ipinipilit po niyang walang kasalanan ang anak niyang lalaki.	Sie besteht darauf, dass ihr Sohn unschuldig ist.	anak	0	0
+Salamat sa inyong dalawa!	Danke, ihr zwei!	inyong	0	0
+Halika, bilis!	Schnell! Komm her!	bilis	0	0
+Sa tingin ko, maganda silang tingnan.	Ich denke, sie sehen gut aus.	maganda	0	0
+Nakalimutan ni Tom na bayaran ang bayarin sa tubig.	Tom hat vergessen, die Wasserrechnung zu bezahlen.	tubig	0	0
+Si Tom po ang gumawa sa akin nito.	Tom hat mir das angetan.	nito	0	0
+Saan po galing iyan?	Woher ist das?	galing	0	0
+Baka pareho tayong mali.	Vielleicht sind wir beide im Unrecht.	baka	0	0
+Huwag mo nang gagawin ito uli!	Tu das nicht wieder!	gagawin	0	0
+Kayang sagutin ito ng kahit sinong bata.	Jedes Kind kann das beantworten.	bata	0	0
+Makakahanap ako ng ibang trabaho.	Ich werde eine andere Anstellung finden.	ibang	0	0
+Gusto ko siyang makita bukas nang hapon.	Ich würde ihn morgen Nachmittag gerne sehen.	makita	0	0
+Ginawa na po namin ang lahat ng posible.	Wir haben alles Mögliche getan.	ginawa	0	0
+Dapat nila tayong tulungan.	Sie müssen uns helfen.	tayong	0	0
+Ang sabi ko, magiging ayos lang ako.	Ich sagte, es wird mir gut gehen.	ayos	0	0
+Masyado akong maraming nakain kagabi.	Ich habe gestern Abend zu viel gegessen.	maraming	0	0
+Marami po akong perang ibinigay kay Tom.	Ich habe Tom viel Geld gegeben.	marami	0	0
+May isa pang sanhi.	Es gibt auch einen anderen Grund.	pang	0	0
+Halika, bilis!	Schnell! Komm her!	halika	0	0
+Wala akong naiintindihan sa mga ganoong bagay.	Von solchen Dingen verstehe ich nichts.	bagay	0	0
+Mukhang galit si Tom.	Tom scheint wütend zu sein.	mukhang	0	0
+Bukas ay isang bagong araw.	Morgen ist ein neuer Tag.	bagong	0	0
+Naitago ko sa isang lugar.	Ich habe es irgendwo versteckt.	lugar	0	0
+Dapat ninyo kaming tulungan.	Sie müssen uns helfen.	kaming	0	0
+Tumakbo po palabas ang lahat.	Alle rannten nach draußen.	palabas	0	0
+Naghihintay pa rin po akong may magsabi sa akin kung ano ang nangyayari.	Ich warte immer noch darauf, dass man mir sagt, was passiert ist.	nangyayari	0	0
+Alam ko kung ano talaga ang nangyari kay Tom.	Ich weiß, was Tom wirklich passiert ist.	nangyari	0	0
+Iginigiit po niyang walang kasalanan ang kanyang anak.	Sie besteht darauf, dass ihr Sohn unschuldig ist.	kanyang	0	0
+Nanghihingi kami ng paumanhin dahil sa masamang panahon.	Wegen des schlechten Wetters tut es uns leid.	panahon	0	0
+Pumunta kami rito para makita kung nandito ka ba.	Wir sind hierher gekommen, um zu schauen, ob du hier bist.	rito	0	0
+Pumunta ka kung saan man sa Olanda at makikita mo ang mga molino.	Wohin auch immer du in Holland gehst, wirst du Windmühlen sehen.	man	0	0
+Gusto ko talagang umalis.	Ich will wirklich gehen.	talagang	0	0
+Dapat iyang gawin ng isa sa ating dalawa.	Einer von uns beiden muss das machen.	dalawa	0	0
+Puwede ba tayong mag-usap nang sandali?	Können wir Sie kurz sprechen?	sandali	0	0
+Nalutas namin ang problema sa loob ng isang linggo.	Wir haben das Problem in einer Woche gelöst.	loob	0	0
+Iginigiit niyang inosente ang kanyang anak na lalaki.	Sie besteht darauf, dass ihr Sohn unschuldig ist.	niyang	0	0
+Upang mapansin ang kanyang kagandahan, kailangan mo lamang siyang tingnan.	Um ihre Schönheit zu erkennen, brauchst du sie bloß anzusehen.	upang	0	0
+Akala ko patay na si Tom.	Ich dachte, Tom wäre tot.	patay	0	0
+Pinagpasyahan nang gabi ang magiging kapalaran ng gobyerno.	In der Nacht entschied sich das Schicksal der Regierung.	magiging	0	0
+Pwede mo ba akong isakay?	Ich habe mich gefragt, ob Du mich mitnehmen kannst?	pwede	0	0
+Sa tingin ko naiintindihan mo.	Ich denke, du verstehst.	tingin	0	0
+Sa tingin ko maganda ang ginawa naming trabaho.	Ich denke, wir haben einen guten Job gemacht.	trabaho	0	0
+Mahal ko po ang Boston.	Ich liebe Boston.	mahal	0	0
+Nilait ako ng pulis.	Ich wurde von dem Polizisten beleidigt.	pulis	0	0
+Dapat itong gawin ng isa sa aming dalawa.	Einer von uns beiden muss das machen.	aming	0	0
+Nasolusyunan po namin ang problema sa loob ng isang linggo.	Wir haben das Problem in einer Woche gelöst.	problema	0	0
+Gusto ba ninyong kunin ito?	Wollt ihr das nehmen?	kunin	0	0
+Wala po silang nalalaman diyan.	Sie wissen nichts davon.	diyan	0	0
+Huwag mo silang pakikinggan.	Hör nicht auf sie.	silang	0	0
+Nakuha ko iyon nang libre.	Ich bekam das kostenlos.	nakuha	0	0
+Sinabi ni Papa Francisco ni ang mga ateong gumagawa ng kabutihan ay pupunta rin sa langit.	Papst Franziskus sagte, Atheisten, die Gutes tun, würden auch in den Himmel kommen.	papa	0	0
+Gusto naming magtagal nang isang linggo.	Wir wollen eine Woche bleiben.	naming	0	0
+Ipinipilit niyang inosente ang kanyang anak na lalaki.	Sie besteht darauf, dass ihr Sohn unschuldig ist.	lalaki	0	0
+Ano ang ginawa mo sa mga taong ito?	Was hast du in diesen Jahren gemacht?	taong	0	0
+Ayaw ko pong malaman iyan.	Das will ich nicht wissen.	malaman	0	0
+Patayin mo ako sa pamamagitan ng mga salita!	Töte mich mit Worten!	patayin	0	0
+Naghihintay siya sa labas ng silid.	Sie wartet draußen vor dem Zimmer.	labas	0	0
+Pupunta ba si Tom?	Kommt Tom?	pupunta	0	0
+Mahal ko ang sarili ko.	Ich liebe mich selbst.	sarili	0	0
+Tingnan po ninyong mabuti ang litratong ito!	Sehen Sie sich dieses Foto gut an!	mabuti	0	0
+Heto.	Hier bitte.	heto	0	0
+May party kami sa kasusunod na Sabado.	Wir haben nächsten Samstag eine Party.	party	0	0
+Sa tingin ko makakatulong kayo sa amin.	Ich glaube, ihr könnt uns helfen.	amin	0	0
+Hindi ka dapat pumatay.	Du darfst nicht töten.	pumatay	0	0
+Arkeologo po ang ama ko.	Mein Vater ist Archäologe.	ama	0	0
+Saan ka magaling?	Was kannst du gut?	magaling	0	0
+Kilala po ba ninyo siya?	Kennen Sie sie?	kilala	0	0
+Nakikita ba ninyo ang lalaki roon? Asawa ko iyon.	Seht ihr den Mann da? Das ist mein Gatte.	nakikita	0	0
+Bukas ang pamilihan mula Lunes hanggang Sabado.	Der Supermarkt ist von Montag bis Samstag geöffnet.	hanggang	0	0
+Makikita natin ang maraming bituin sa gabi.	Wir können viele Sterne in der Nacht sehen.	makikita	0	0
+Akala ko po botelya.	Ich dachte, es wäre eine Flasche.	akala	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Hier ist mein Geheimnis. Es ist ganz einfach: man sieht nur mit dem Herzen gut. Das Wesentliche ist für die Augen unsichtbar.	puso	0	0
+Narinig niya siyang sumigaw at tumabok siya papunta sa kuwarto niya.	Sie hat ihn schreien gehört und ist zu seinem Schlafzimmer gerannt.	sumigaw	0	0
+Nagbabasa ako ng diyaryo habang kumakain.	Ich lese Zeitung, während ich esse.	habang	0	0
+Kakailanganin nila ng tulong.	Sie werden Hilfe brauchen.	tulong	0	0
+Kami ay may dalawang anak na babae.	Wir haben zwei Töchter.	dalawang	0	0
+Huwag kayong makikinig sa kanila.	Hört nicht auf sie.	kanila	0	0
+Susubukan mo uli.	Sie werden es erneut versuchen.	uli	0	0
+Pakiusap, huwag kang gagawa ng ikasisira ng pangalan ng mga Matsuno.	Bitte tue nichts, dass die Matsunos in Verruf bringen könnte!	pakiusap	0	0
+Ilang tinidor po ang kailangan namin?	Wie viele Gabeln brauchen wir?	ilang	0	0
+Magtatrabaho po kami bukas.	Wir werden morgen arbeiten.	bukas	0	0
+Hindi kami puwedeng mabuhay nang ganito.	Wir können so nicht leben.	puwedeng	0	0
+Malinis ba ang mga kamay mo?	Sind deine Hände sauber?	kamay	0	0
+Tulungan mo nga ako sa mga maleta!	Helfen Sie mir mal mit den Koffern!	tulungan	0	0
+Huwag kang makinig sa kanila.	Hör nicht auf sie.	makinig	0	0
+Dumating ba siya?	Kam er?	dumating	0	0
+Ang buhay ay isang malaking sirko.	Das Leben ist ein großer Zirkus.	malaking	0	0
+Sa tingin mo, hindi nagsasabi ng totoo ang babae, tama ba?	Du glaubst, die Frau sagt nicht die Wahrheit, oder?	babae	0	0
+Mahilig ka ba sa maanghang na pagkain?	Magst du scharfes Essen?	pagkain	0	0
+Hindi na ako katulad ng dati.	Ich bin nicht mehr dieselbe wie früher.	dati	0	0
+Medyo nakakatakot iyon.	Das war ein bisschen unheimlich.	medyo	0	0
+Itinanong ko po ang dahilan.	Ich fragte nach dem Grund.	dahilan	0	0
+Alas sais po ang alis ng eroplano ko.	Mein Flug geht um sechs.	alis	0	0
+Malapit nang matapos.	Es ist bald vorbei.	malapit	0	0
+Kapatid na lalaki ni Mary si Tom.	Tom ist Marys Bruder.	kapatid	0	0
+Nagkita kami nung Linggo.	Wir haben uns am Sonntag getroffen.	nung	0	0
+Hindi ninyo kailangang magsalita.	Sie brauchen nicht zu sprechen.	kailangang	0	0
+Malusog noon si Tom.	Früher war Tom gesund.	noon	0	0
+Tara, kain tayo ng burger.	Gehen wir einen Burger essen.	tara	0	0
+Hinding-hindi tumatawa si Tom.	Tom lacht nie.	tumatawa	0	0
+Nagkakilala po kami noong 2008, at pagkatapos po ng isang taon, nagpakasal po kami.	Wir haben uns 2008 kennengelernt und ein Jahr später geheiratet.	pagkatapos	0	0
+Hindi iyon aso.	Das ist kein Hund.	aso	0	0
+Naging pulis si Tom.	Tom wurde Polizist.	naging	0	0
+Bakit hindi ka makakuha ng isa?	Warum kannst du keins bekommen?	makakuha	0	0
+Alam mo ba kung saan nila narinig?	Weißt du, von wo sie es erfuhren?	narinig	0	0
+Hello, ako po si Tom.	Hallo, ich bin Tom.	hello	0	0
+Sino ba ang susunod?	Wer ist als nächstes dran?	susunod	0	0
+Wala akong ganang mag-aral ng Ingles ngayong araw.	Ich habe heute keine Lust, Englisch zu lernen.	ngayong	0	0
+Pakisara nga po ng pinto.	Bitte schließen Sie die Tür.	pinto	0	0
+Gusto ni Tom na bumalik kami sa opisina.	Tom will, dass wir ins Büro zurückkommen.	bumalik	0	0
+Mas gusto ko ang pumunta't lumangoy.	Ich gehe lieber schwimmen.	t	0	0
+May konsiyerto sa susunod na Linggo.	Am nächsten Sonntag ist ein Konzert.	linggo	0	0
+Maaari ko bang gamitin iyon?	Darf ich das benutzen?	maaari	0	0
+Masyadong nagtatagal si Tom.	Tom braucht zu lange.	masyadong	0	0
+Iginigiit po niyang walang kasalanan ang anak niya.	Sie besteht darauf, dass ihr Sohn unschuldig ist.	kasalanan	0	0
+Hayaan mo akong pumunta nang mag-isa.	Lass mich allein gehen.	hayaan	0	0
+Bilisan po ninyo ang pagmamaheno.	Fahren Sie schneller.	bilisan	0	0
+Ipinangako kong wala akong sasabihin kay Tom.	Ich verspreche, Tom nichts zu sagen.	sasabihin	0	0
+Ayaw kong mamatay nang nag-iisa.	Ich will nicht allein sterben.	mamatay	0	0
+Nasa daan na siya.	Er ist unterwegs.	daan	0	0
+Ang pagmamahal sa kalayaan ang nagdala sa atin dito.	Die Liebe zur Freiheit hat uns hergebracht.	atin	0	0
+Bilang nanahimik si Maria.	Plötzlich verstummte Maria.	bilang	0	0
+Huli nang sampung minuto ang orasan.	Die Uhr geht zehn Minuten nach.	huli	0	0
+Isang basong gatas ang ininom ko sa umaga.	Heute Morgen habe ich ein Glas Milch getrunken.	umaga	0	0
+Ang kabayo ay hayop.	Pferde sind Tiere.	hayop	0	0
+Mga tanga kayo.	Sie sind Idioten.	tanga	0	0
+Ayaw ko sa kanilang lahat.	Ich mag sie alle nicht.	kanilang	0	0
+Bilisan po ninyo ang takbo.	Fahren Sie schneller.	takbo	0	0
+Kumuha ka ng isa nito!	Nimm einen hiervon!	kumuha	0	0
+Ang pinakamagandang paraan ng pagsulat ng liham ay ang isulat kung anuman ang nasa isip mo.	Die beste Art, Briefe zu schreiben, ist, alles, was in deinem Kopf ist, aufzuschreiben.	paraan	0	0
+Takot akong tumanggi riyan.	Ich hatte Angst davor abzulehnen.	takot	0	0
+Sikat ang kantang ito noong dekada setenta.	Dieses Lied war in den 1970ern beliebt.	sikat	0	0
+Naabutan pa natin ang huling tren.	Wir erreichen gerade noch den letzten Zug.	huling	0	0
+Kailangan pa yata nating maghintay nang kalahating oras.	Ich glaube, wir sollten noch eine halbe Stunde warten.	maghintay	0	0
+Wala siyang ipinagbago mula nang huling beses ko siyang nakita.	Er hat sich kein bisschen verändert, seit ich ihn gesehen habe.	beses	0	0
+Bago ang kotse ng tatay ko.	Das Auto meines Vaters ist neu.	tatay	0	0
+Sa tapat ka nakatira?	Sie wohnen gegenüber?	nakatira	0	0
+Ang ospital nitong kolonya sa Marte ay nasa ilalim ng lupa.	Das Krankenhaus dieser Marskolonie liegt unter der Erde.	lupa	0	0
+Walang may gustong gawin mo 'yan.	Niemand möchte, dass du das tust.	gustong	0	0
+Masyado pong maliit ang kuwartong ito.	Dieser Raum ist zu klein.	maliit	0	0
+Ang bolpen na nawala ko kahapon ay bago pa.	Der Kugelschreiber, den ich gestern verloren habe, war noch neu.	nawala	0	0
+Mayroon po bang mga tawag para sa akin?	Gab es Anrufe für mich?	mayroon	0	0
+Nakikita namin siya minsan.	Wir sehen sie manchmal.	minsan	0	0
+Nakita 'nyo po ba siyang lumabas?	Haben Sie ihn rausgehen gesehen?	lumabas	0	0
+Miss ko na si Tom.	Ich vermisse Tom bereits.	miss	0	0
+Ginagawa natin ito bawat taon.	Wir tun das jedes Jahr.	bawat	0	0
+Hindi kami puwedeng mabuhay nang ganito.	Wir können so nicht leben.	ganito	0	0
+Hindi na ako katulad ng dati.	Ich bin nicht mehr dieselbe wie früher.	katulad	0	0
+Nirerespeto ni Kay ang lahat kundi ang sarili niya.	Kay respektiert alles, bis auf sich selbst.	kundi	0	0
+Mukha pong mumurahin.	Es sah billig aus.	mukha	0	0
+Malaki ang naitulong ni Tom diyan.	Tom hat viel dazu beigetragen.	malaki	0	0
+Pinapakiusapan kita, tumahimik ka.	Ich bitte dich, sei still.	tumahimik	0	0
+Palaging nasa oras ang tren.	Der Zug ist immer pünktlich.	tren	0	0
+Biglang nawala ang kotse ni Sami.	Samis Auto ist plötzlich verschwunden.	kotse	0	0
+Opo, magkano po ang mga ito?	Ja, wie viel kosten sie?	opo	0	0
+Umaamoy ako gamit ang aking ilong.	Ich rieche mit meiner Nase.	gamit	0	0
+Hindi ka tagarito, 'no?	Sie sind nicht von hier, oder?	no	0	0
+Hayaan mo akong magsalita.	Lass mich sprechen.	magsalita	0	0
+Nakalimutan ni Tom ang salamin niya.	Tom hat seine Brille vergessen.	nakalimutan	0	0
+Mas matanda ako kaysa kay Tom.	Ich bin älter als Tom.	kaysa	0	0
+Matagal mo na ba siyang kilala?	Kanntest du ihn schon lange?	matagal	0	0
+Uy, tumingin ka sa akin.	Hey, sieh mich an.	tumingin	0	0
+Maaaring dumito si Tom.	Tom kann hierbleiben.	maaaring	0	0
+Sigurado ka bang wala nang ibang tao rito?	Bist du dir sicher, dass hier sonst niemand ist?	sigurado	0	0
+Puwede ka nang pumasok ngayon.	Sie dürfen jetzt hereinkommen.	pumasok	0	0
+Kailangan namin ng sariwang hangin.	Wir brauchen frische Luft.	hangin	0	0
+Tumakbo po si Tom sa taas.	Tom lief nach oben.	taas	0	0
+Masaya akong ayos ka lang.	Ich bin froh, dass es dir gut geht.	masaya	0	0
+Tawagan mo ako kung kailan mo man gusto!	Ruf mich an, wann immer du willst!	tawagan	0	0
+Ang ospital nitong kolonya sa Marte ay nasa ilalim ng lupa.	Das Krankenhaus dieser Marskolonie liegt unter der Erde.	ilalim	0	0
+Hindi po sa atin natatakot si Tom.	Tom fürchtet uns nicht.	natatakot	0	0
+Hindi namin magagawa ito kung wala kayo.	Wir schaffen das nicht ohne Sie.	magagawa	0	0
+Hindi ko alam kung magkano yang dalawan bike na yan.	Ich weiß nicht, wie viel diese zwei Fahrräder da kosten.	yang	0	0
+Ang hirap po niyong paniwalaan.	Das ist schwer zu glauben.	niyong	0	0
+Nasaan ang asawa ko?	Wo ist meine Frau?	asawa	0	0
+Hindi naman siya higit na mas matanda sa akin.	Er ist nicht viel älter als ich.	higit	0	0
+Iyon po ang lalaking tinutukoy ko.	Das ist der Mann, den ich meine.	lalaking	0	0
+Sa tingin ko siya ang gumawa nito.	Ich denke, er hat es getan.	gumawa	0	0
+Magiging isa na namang mainit na araw ito.	Das wird wieder ein heißer Tag.	namang	0	0
+Kailangan ko pong sumama kay Tom.	Ich muss mit Tom gehen.	sumama	0	0
+Paano ito nalaman ni Tom?	Woher wusste Tom das?	nalaman	0	0
+Iniisip ko kayo.	Ich denke an euch.	iniisip	0	0
+Gusto nilang pumunta.	Sie wollen kommen.	nilang	0	0
+Kaya kitang turuang magbasa.	Ich kann dir beibringen, wie man liest.	kitang	0	0
+Nakatira po sa ibang bansa ang kapatid niya.	Sein Bruder lebt im Ausland.	bansa	0	0
+Bigyan 'nyo kami ng tatlong minuto.	Gebt uns drei Minuten.	bigyan	0	0
+Talagang makapal ang gubat.	Der Wald ist sehr dicht.	gubat	0	0
+Mahina ang ulo ng kapatid ko.	Mein Bruder ist ein Schwachkopf.	ulo	0	0
+Nasa kanila ang kompyuter ko at gusto kong makuha ito pabalik.	Sie haben meinen Computer und ich will ihn zurück.	makuha	0	0
+Pasensiya na at idinamay kita rito.	Es tut mir leid, dass ich dich da reingezogen habe.	pasensiya	0	0
+Sa lahat ng mga nagdurusa sa COVID-19, manatili lang kayong positibo.	An alle, die an Covid-19 leiden: bleibt positiv.	manatili	0	0
+Gusto kong maupo.	Ich möchte mich hinsetzen.	maupo	0	0
+Sinabi ni Papa Francisco ni ang mga ateistang gumagawa ng kabutihan ay papasok din sa langit.	Papst Franziskus sagte, Atheisten, die Gutes tun, würden auch in den Himmel kommen.	gumagawa	0	0
+Ano ang naisip mo?	Was hast du dir ausgedacht?	naisip	0	0
+Pinaandar ko ang makina.	Ich habe die Maschine in Gang gesetzt.	makina	0	0
+Kaya mo bang buksan ito?	Kannst du das öffnen?	buksan	0	0
+Tulog ang parehong aso.	Beide Hunde schlafen.	parehong	0	0
+Ikakasal sa susunod na buwan sina Tom at Maria.	Tom und Maria heiraten nächsten Monat.	buwan	0	0
+Nandoon ako.	Ich war dort.	nandoon	0	0
+Maghintay po kayo ng limang minuto.	Warte bitte fünf Minuten.	minuto	0	0
+Magtanong kayo uli mamaya.	Fragt später noch mal.	mamaya	0	0
+Tumigil ka na sa pagdaing.	Hören Sie auf, sich zu beklagen.	tumigil	0	0
+Namatay siya limang taon na ang nakalilipas.	Sie ist vor fünf Jahren gestorben.	namatay	0	0
+Naaalala ko pa po ang unang pagkakataon.	Ich erinnere mich noch an das erste Mal.	pagkakataon	0	0
+Madalas kong kausapin ang sarili ko. Huwag mo nang alalahanin iyon.	Ich rede viel mit mir selbst. Kümmere dich nicht weiter darum.	kausapin	0	0
+Uy, Tom! Kumusta?	Hallo, Tom! Wie geht’s?	kumusta	0	0
+Ganyan ang sinasabi ng batas.	So lautet das Gesetz.	ganyan	0	0
+Halos wala kang pinagbago.	Du hast dich kaum verändert.	halos	0	0
+Mukhang pareho po tayong pumalpak.	Es scheint so, als hätten wir beide versagt.	pareho	0	0
+Ang kapatid na lalaki ng tatay ko at ang kapatid na lalaki ng nanay ko ay mga tito ko.	Der Bruder meines Vaters und der Bruder meiner Mutter sind meine Onkel.	nanay	0	0
+Sa wakas nakawala ako.	Schließlich entkam ich.	wakas	0	0
+Ipakita mo sa akin ang litratong iyan!	Zeige mir das Foto!	ipakita	0	0
+Hindi na masama para sa isang baguhan!	Nicht schlecht für eine Anfängerin!	masama	0	0
+Gustong tumira ni Tom nang mas malapit sa pamilya niya.	Tom wollte näher bei seiner Familie wohnen.	pamilya	0	0
+Umiinom po siya ng dugo.	Er trinkt Blut.	dugo	0	0
+Ang hirap nitong paniwalaan.	Das ist schwer zu glauben.	nitong	0	0
+May naghahanap po sa inyo sa telepono.	Sie werden am Telefon verlangt.	telepono	0	0
+Baka pareho kaming mali.	Vielleicht sind wir beide im Unrecht.	mali	0	0
+Hindi mo ako boypren.	Ich bin nicht dein Freund.	boypren	0	0
+May pinatay na pulis.	Ein Polizist wurde getötet.	pinatay	0	0
+Hindi iyan ganoon kaorihinal.	Das ist nicht allzu originell.	ganoon	0	0
+Nagbukas ba ang bangko kanina?	Hat die Bank heute geöffnet?	kanina	0	0
+Madalas ba kayong pumunta sa lungsod?	Gehst du oft in die Stadt?	lungsod	0	0
+Hindi po ako dapat mag-alala.	Ich sollte mir keine Sorgen machen.	mag-alala	0	0
+Agad akong tumakbo pababa.	Ich bin sofort nach unten gelaufen.	agad	0	0
+Hindi po nila ako kayang sesantihin.	Sie können mir nicht kündigen.	kayang	0	0
+Babalik po ako. Pangako ko po!	Ich komme wieder. Versprochen!	pangako	0	0
+Mabilis pong lumago ang halaman pagkatapos umulan.	Pflanzen wachsen schnell, wenn es geregnet hat.	mabilis	0	0
+Madalas po kaming magkasamang kumain.	Wir essen oft zusammen.	kumain	0	0
+Huwag mo akong hanapin.	Such mich nicht.	hanapin	0	0
+Mayroon bang mga tawag para sa akin?	Gab es Anrufe für mich?	tawag	0	0
+Pinagdesisyunan nang gabi ang magiging kapalaran ng gobyerno.	In der Nacht entschied sich das Schicksal der Regierung.	gobyerno	0	0
+Wala ka bang pakialam roon?	Ist dir das egal?	pakialam	0	0
+Dadalhin ko kayo sa ligtas na lugar.	Ich bringe euch an einen sicheren Ort.	ligtas	0	0
+Guwapo at matalino nga siya, pero may hindi ako nagugustuhan sa kanya.	Gewiss ist er gut aussehend und intelligent, aber er hat etwas an sich, das ich nicht mag.	guwapo	0	0
+Si Tom ba ulit ang nanalo?	Hat Tom schon wieder gewonnen?	ulit	0	0
+Tumatanggap ba kayo ng credit card?	Akzeptieren Sie Kreditkarten?	card	0	0
+Huwag kang matutulog! Kung matutulog ka, mamamatay ka!	Nicht einschlafen! Wenn du einschläfst, stirbst du!	mamamatay	0	0
+Malakas pong manginginom si Tom.	Tom war ein starker Trinker.	malakas	0	0
+Hindi po ba ninyo iyan naiintindihan?	Verstehen Sie das nicht?	naiintindihan	0	0
+Mas maayos ang pamamaraan mo.	Deine Methode ist besser.	maayos	0	0
+Ito ang unang beses ko, kaya ako kinakabahan.	Das ist das erste Mal für mich; deswegen bin ich etwas nervös.	unang	0	0
+Huwag mag-alala! Darating si Tom at sasagipin niya tayo.	Keine Sorge! Tom kommt und rettet uns.	darating	0	0
+Tumawag ka ba sa akin?	Hast du mich angerufen?	tumawag	0	0
+Sinong kandidato ang mas nagugustuhan 'nyo?	Welche Kandidatin finden Sie besser?	sinong	0	0
+Alam mo ba kung sino ang may-ari ng sasakyang ito?	Weißt du, wem dieser Wagen gehört?	may-ari	0	0
+Tawagan 'nyo ako kahit kailan 'nyo gusto!	Rufen Sie mich an, wann immer Sie wollen!	kailan	0	0
+Makukuha ko iyon.	Ich werde das bekommen.	makukuha	0	0
+Panoorin mo kami.	Beobachte uns.	panoorin	0	0
+Kuha mo?	Kapiert?	kuha	0	0
+Grabe iyon.	Es war ernst.	grabe	0	0
+Mapanganib ang paninigarilyo sa kama.	Rauchen im Bett ist gefährlich.	kama	0	0
+Sa palagay ko po tutulong siya sa akin.	Ich denke, dass sie mir helfen wird.	palagay	0	0
+Naghihintay po siya sa labas ng kuwarto.	Sie wartet draußen vor dem Zimmer.	kuwarto	0	0
+Nasa bahay si mama.	Mama ist zu Hause.	mama	0	0
+Ibibigay ko sa inyo.	Ich werde es euch geben.	ibibigay	0	0
+Ang hirap nitong paniwalaan.	Das ist schwer zu glauben.	hirap	0	0
+Mahirap itong paniwalaan.	Das ist schwer zu glauben.	mahirap	0	0
+Babalik ako pagkatapos ng mga isang oras.	Ich werde in ungefähr einer Stunde zurück sein.	babalik	0	0
+Sobrang busog po ako.	Ich bin so satt.	sobrang	0	0
+Humingi siya ng pera.	Er bat um Geld.	pera	0	0
+Paano ba ito sabihin sa Aleman?	Wie sagt man das auf Deutsch?	aleman	0	0
+Hindi siya kasal.	Er ist nicht verheiratet.	kasal	0	0
+May tatlong oras lang po kami.	Wir haben nur drei Stunden.	tatlong	0	0
+Tahimik lang sila.	Sie sind leise.	tahimik	0	0
+Hindi ko kayang kalimutan si Tom.	Ich kann Tom nicht vergessen.	kalimutan	0	0
+Wala po akong lakas ngayon.	Ich habe heute keine Energie.	lakas	0	0
+Uy, Tom, tingnan mo ito.	Hey, Tom, sieh dir das an.	uy	0	0
+May ilan po akong tanong.	Ich habe ein paar Fragen.	tanong	0	0
+Patayin mo ako sa pamamagitan ng mga salita!	Töte mich mit Worten!	salita	0	0
+Maligayang pagdating sa Japan.	Willkommen in Japan.	pagdating	0	0
+May sakit ang lolo ko.	Mein Großvater ist krank.	sakit	0	0
+Maraming isda sa dagat.	Es gibt viele Fische im Meer.	dagat	0	0
+Nasa panganib ka.	Sie sind in Gefahr.	panganib	0	0
+Puwede po ba akong magkaroon ng sarili kong kuwarto?	Kann ich mein eigenes Zimmer haben?	magkaroon	0	0
+Subukan mo itong suweter.	Probieren Sie diesen Pullover an.	subukan	0	0
+"Saan mo gustong kumain?" "Hindi ko alam. Ikaw ang bahala."	„Wo willst du essen?“ – „Keine Ahnung. Entscheide du!“	bahala	0	0
+Palagi siyang nasa tabi ko.	Er ist immer an meiner Seite.	tabi	0	0
+Ibigay mo sa akin ang orasan mo.	Gib mir deine Uhr.	ibigay	0	0
+May nahanap akong pera.	Ich habe Geld gefunden.	nahanap	0	0
+Papunta po sila sa panaderya.	Sie gehen zur Bäckerei.	papunta	0	0
+Umaawit ang mga ibon sa mga puno.	In den Bäumen singen die Vögel.	puno	0	0
+Hinding-hindi iyon mangyayari.	Das wird nie passieren.	mangyayari	0	0
+Mukhang galit si Tom.	Tom scheint wütend zu sein.	galit	0	0
+May ipinakita siya sa aking litrato ng kanyang ina noong mag-aaral pa siya.	Sie zeigte mir ein Bild ihrer Mutter als Schulkind.	litrato	0	0
+Hindi po ako mahilig sa malalaking aso.	Ich mag große Hunde nicht.	mahilig	0	0
+Ang sabi ni Maria, may nahanap daw siya.	Maria sagte, sie habe etwas gefunden.	daw	0	0
+Hindi ko maalala.	Ich erinnere mich nicht.	maalala	0	0
+Narito na ang bus!	Da kommt der Bus!	narito	0	0
+Patayin mo ako sa pamamagitan ng mga salita!	Töte mich mit Worten!	pamamagitan	0	0
+Nahuli ng pulisya ang magnanakaw.	Die Polizei fing den Dieb.	nahuli	0	0
+Masyado akong maraming kinain kagabi.	Ich habe gestern Abend zu viel gegessen.	kagabi	0	0
+Nakikipagkita si Tom sa kanyang nobya sa kapihang ito tuwing hapon.	Tom trifft sich jeden Nachmittag mit seiner Freundin in diesem Kaffeehaus.	tuwing	0	0
+Gusto kong maghintay hanggang makarating dito sina Tom at Maria.	Ich möchte warten, bis Tom und Maria hier sind.	sina	0	0
+Huwag kalimutang ipadala ang sulat.	Vergessen Sie nicht, den Brief zu versenden.	sulat	0	0
+May naririnig ba kayo?	Hört ihr etwas?	naririnig	0	0
+Ginagawa natin ito kada taon.	Wir tun das jedes Jahr.	kada	0	0
+Ang ganda ng ilog.	Der Fluss ist schön.	ilog	0	0
+Nakita kong hubad si Tom.	Ich sah Tom nackt.	hubad	0	0
+Tunay po siyang maginoo.	Er ist ein echter Gentleman.	tunay	0	0
+Handa na ang hapunan.	Das Abendessen ist fertig.	handa	0	0
+Wala nang laman ang baterya.	Die Batterie ist leer.	laman	0	0
+Sinong babae ang kumuha ng susi?	Welche Frau hat den Schlüssel genommen?	susi	0	0
+Malaki ang lawa.	Der See ist groß.	lawa	0	0
+Ito ba ang una mong punta rito?	Ist dies Ihr erster Besuch hier?	punta	0	0
+Kakaiba ang mga ikinikilos nila.	Sie verhielten sich seltsam.	kakaiba	0	0
+Pumunta ka rito, dali.	Komm schnell hierher.	dali	0	0
+Buhay ang ilan sa mga aso.	Einige der Hunde leben.	ilan	0	0
+Nagtatrabaho po ako sa gabi.	Ich arbeite nachts.	nagtatrabaho	0	0
+Sumasakit ang buong katawan ko.	Mir tut der ganze Körper weh.	katawan	0	0
+Inumin mo ang tableta.	Schluck die Pille.	inumin	0	0
+Mabagal pong naglakad ang batang babae.	Das Mädchen lief langsam.	batang	0	0
+Mayroon siyang hinahanap na lapis.	Er sucht einen Bleistift.	hinahanap	0	0
+Maaari mong gamitin ang awto ko.	Du kannst mein Auto benutzen.	gamitin	0	0
+Nagsasaad lang po ako ng katotohanan.	Ich führe nur eine Tatsache an.	katotohanan	0	0
+Papatayin kita.	Ich töte dich.	papatayin	0	0
+Hindi ako kailanman nagtiwala kay Tom.	Ich habe Tom nie vertraut.	kailanman	0	0
+Isasara ang eskuwelahan sa katapusan ng taon dahil sa kakulangan ng estudyante.	Die Schule wird Ende des Jahres wegen Schülermangels geschlossen.	estudyante	0	0
+Muli bang nanalo si Tom?	Hat Tom schon wieder gewonnen?	muli	0	0
+Iyon lang ang mahalaga.	Das ist alles, was zählt.	mahalaga	0	0
+Pasensya na. Nakalimutan ko.	Es tut mir leid. Ich hab’s vergessen.	pasensya	0	0
+Eto.	Hier bitte.	eto	0	0
+Huwag mong ipipikit ang mga mata mo!	Mach die Augen nicht zu!	mata	0	0
+Maari po ba ninyong ipaliwanag kung ano iyan?	Würden Sie bitte erklären, was das ist?	maari	0	0
+Gusto kong mangibang bansa, gaya ng Italya at Espanya.	Ich möchte gern ins Ausland, nach Italien und Spanien zum Beispiel.	gaya	0	0
+Malalaman nila ang gagawin nila.	Sie werden wissen, was zu tun ist.	malalaman	0	0
+Kung may mangyari, puwede kang tumawag sa akin.	Falls etwas passiert, können Sie mich gerne anrufen.	mangyari	0	0
+Nakakatakot po ba?	War es unheimlich?	nakakatakot	0	0
+Hindi ko kaarawan ngayon.	Heute ist nicht mein Geburtstag.	kaarawan	0	0
+Hindi kami puwedeng mabuhay nang ganyan.	Wir können so nicht leben.	mabuhay	0	0
+Gaano po ba talaga kasama ang paninigarilyo?	Wie schädlich ist das Rauchen eigentlich?	gaano	0	0
+Naaalala ko po ang kabataan ko sa kantang iyan.	Das Lied erinnert mich an meine Jugend.	naaalala	0	0
+Patawarin mo ako.	Verzeih mir.	patawarin	0	0
+Ang buhay sa Tiyera ay basado sa elementong karbon at baka iba sa ibang planeta.	Leben auf der Erde basiert auf dem Element Kohlenstoff, und vielleicht ist es auf anderen Planeten anders.	planeta	0	0
+Ibaba mo ang baril mo!	Legen Sie die Waffe nieder!	baril	0	0
+Nandiyan ka ba sa baba?	Bist du da unten?	baba	0	0
+Ano po ang pangalan ng kuya ni Tom?	Wie heisst Toms Bruder?	kuya	0	0
+Nagkaroon ka ba ng takot?	Hast du Angst gehabt?	nagkaroon	0	0
+Dalhin mo sa akin ang mga sapatos ko!	Bring mir meine Schuhe!	dalhin	0	0
+Wala na akong tiwala sa iyo.	Ich vertraue dir nicht mehr.	tiwala	0	0
+Nanghihingi kami ng paumanhin dahil sa masamang panahon.	Wegen des schlechten Wetters tut es uns leid.	masamang	0	0
+Ang sarap po ng isda.	Der Fisch war köstlich.	sarap	0	0
+Siguradong pagod po kayo.	Sie sind sicher müde.	pagod	0	0
+Naglakad ako papuntang paaralan.	Ich bin zu Fuß zur Schule gegangen.	papuntang	0	0
+Naintindihan ko po iyan.	Das habe ich verstanden.	naintindihan	0	0
+Sa tingin ko mahusay ang ginawa naming trabaho.	Ich denke, wir haben einen guten Job gemacht.	mahusay	0	0
+May ibinigay po ako sa kanyang aklat.	Ich gab ihm ein Buch.	ibinigay	0	0
+Gago ang kapatid ko.	Mein Bruder ist ein Idiot.	gago	0	0
+Bumiyahe po ako nang mag-isa.	Ich reiste allein.	mag-isa	0	0
+Sobrang nakakatawa ang itsura ng sombrero niya.	Ihr Hut sah sehr komisch aus.	itsura	0	0
+Wala namang nagsasabing hindi ka pwedeng mangisda.	Niemand sagt, dass du nicht fischen gehen kannst.	pwedeng	0	0
+Mahilig sa mga pusa si Tom.	Tom mag Katzen.	pusa	0	0
+Bumili sila ng bahay sa Kalye Park.	Sie kauften ein Haus in der Parkstraße.	bumili	0	0
+Ano bang klase ng mga libro ang hilig mong basahin?	Was für Bücher liest du gern?	libro	0	0
+Natanggap ko ito noong pasko.	Ich habe es zu Weihnachten bekommen.	pasko	0	0
+Tuloy ka nang wala ako.	Geh weiter ohne mich.	tuloy	0	0
+Kailangan po ng bata ng isang ina.	Ein Kind braucht eine Mutter.	ina	0	0
+Ito po ba ang una ninyong punta rito?	Ist dies Ihr erster Besuch hier?	una	0	0
+Kaya mo bang tumayo?	Kannst du aufstehen?	tumayo	0	0
+Sasama po ba kayo sa amin?	Kommen Sie mit uns?	sasama	0	0
+Saan at kailan tayo puwedeng magkita?	Wann und wo könnten wir uns treffen?	magkita	0	0
+Magkaibigan kami sa Facebook.	Wir sind Facebook-Freunde.	facebook	0	0
+Sino po ang kasama 'nyong pumunta?	Mit wem sind Sie gekommen?	nyong	0	0
+Mag-umpisa uli tayo sa simula.	Lass uns noch mal von vorne anfangen!	simula	0	0
+Alin ang mas gusto mo, ang dagat o ang mga bundok?	Was gefällt dir besser, das Meer oder die Berge?	bundok	0	0
+Hindi nila iyon mahahanap.	Sie werden es nicht finden.	mahahanap	0	0
+Ayaw sa iyo ni Hesus.	Jesus hasst dich.	hesus	0	0
+Hindi po ako mahilig sa ganitong klase ng musika.	Ich mag diese Art von Musik nicht.	ganitong	0	0
+Tumakbo palabas ang lahat.	Alle rannten nach draußen.	tumakbo	0	0
+Hindi natin siya kalaban.	Er ist nicht unser Feind.	kalaban	0	0
+Anong uri ng mga aklat ang hilig ninyong basahin?	Was für Bücher lest ihr gerne?	uri	0	0
+Huwag kang baliw.	Seien Sie nicht verrückt.	baliw	0	0
+Batihin mo ang mga itlog.	Schlagen Sie die Eier.	itlog	0	0
+Kaninong opisina iyon?	Wessen Büro ist das?	opisina	0	0
+Wala pong sinusunod ang pag-ibig.	Die Liebe gehorcht niemandem.	pag-ibig	0	0
+Lumaki po ako sa isang maliit na bayan.	Ich bin in einem kleinen Städtchen aufgewachsen.	lumaki	0	0
+Hinihintay ko pa ring may magsabi sa akin kung ano ang nangyayari.	Ich warte immer noch darauf, dass man mir sagt, was passiert ist.	ring	0	0
+May kabayo akong gutom palagi.	Ich habe ein Pferd, das immer Hunger hat.	gutom	0	0
+Ate ko ang babaeng nakikipagdaldalan kay Mayumi.	Das Mädchen, das sich mit Mayumi unterhält, ist meine Schwester.	ate	0	0
+Kinansela ang piknik dahil sa ulan.	Des Regens wegen wurde der Imbiss in freier Natur abgeblasen.	ulan	0	0
+Kinagat ni Tom ang labi niya.	Tom biss sich auf die Lippe.	labi	0	0
+Nasa bahay si inay.	Mama ist zu Hause.	inay	0	0
+Huminahon ang lahat.	Alle beruhigten sich.	huminahon	0	0
+Tapusin natin ang laro.	Lass uns bis zum Ende des Spieles bleiben.	tapusin	0	0
+Ipapakita natin kay Tom.	Wir werden es Tom zeigen.	ipapakita	0	0
+Sobrang yaman ko po.	Ich bin sehr reich.	yaman	0	0
+Naghahanap siya ng aklat.	Sie sucht ein Buch.	naghahanap	0	0
+Saan po ba iyan ginagamit?	Wozu benutzt man das?	ginagamit	0	0
+Susunduin kita sa loob ng sampung minuto.	Ich hole dich in zehn Minuten ab.	sampung	0	0
+Ayaw kong mawala sa akin si Maria.	Ich will Maria nicht verlieren.	mawala	0	0
+Alam mo ba kung saan siya naninirahan?	Weißt du, wo sie wohnt?	naninirahan	0	0
+Nakakatawa ka.	Du bist lustig.	nakakatawa	0	0
+Mabait po ba siya sa inyo?	Ist er freundlich zu Ihnen?	mabait	0	0
+Sumunod si Tom kay Maria.	Tom folgte Maria.	sumunod	0	0
+Totoong nangyari ito.	Es ist tatsächlich passiert.	totoong	0	0
+Ayos, sapat na po ito.	Gut, das reicht.	sapat	0	0
+Seryoso si Tom doon.	Tom meinte es ernst.	seryoso	0	0
+Sa ngayon, ito lang po ang masasabi ko.	Momentan ist das alles, was ich sagen kann.	masasabi	0	0
+Mayroon ding bandera ng Esperanto.	Es gibt auch eine Esperantoflagge.	ding	0	0
+Dadalhin ko kay Tom.	Ich bringe es Tom.	dadalhin	0	0
+Pigilan 'nyo si Tom!	Haltet Tom auf!	pigilan	0	0
+Nagsimula na si Tom.	Tom hat schon angefangen.	nagsimula	0	0
+Dito po ako nag-aaral ng Pranses.	Ich studiere Französisch hier.	pranses	0	0
+Huwag na huwag kang mawawalan ng pag-asa!	Verliere nie die Hoffnung!	pag-asa	0	0
+Nahuli ng kapulisan ang magnanakaw.	Die Polizei fing den Dieb.	magnanakaw	0	0
+Masayang tawirin ang karagatan sakay ng barko.	Es ist sehr angenehm, den Ozean per Schiff zu überqueren.	karagatan	0	0
+May isinuot pong kurbata si Tom.	Tom legte eine Krawatte an.	pong	0	0
+Kailangan namin ng mas maayos na plano.	Wir brauchen einen besseren Plan.	plano	0	0
+Ibaba mo ang armas mo!	Legen Sie die Waffe nieder!	ibaba	0	0
+Wala akong nalalaman tungkol doon.	Davon weiß ich nichts.	nalalaman	0	0
+Kung walang imahinasyon, nagiging kulungan ang utak ng tao.	Ohne Vorstellungskraft wird der Verstand der Menschen zum Gefängnis.	nagiging	0	0
+Puwede mo bang ipadala iyan sa e-mail?	Kannst du das per E-Mail schicken?	e-mail	0	0
+Nilalang ng Diyos ang mundo sa loob ng anim na araw.	Gott erschuf die Welt in sechs Tagen.	nilalang	0	0
+Nasaan ba ang bola?	Wo ist der Ball?	bola	0	0
+Wala sa amin ang tumututol sa kanyang ideya.	Keiner von uns ist gegen seine Idee.	ideya	0	0
+Isang beses ko lang ito ginamit.	Ich habe es nur einmal benutzt.	ginamit	0	0
+Paborito ko ang kulay na asul.	Meine Lieblingsfarbe ist Blau.	paborito	0	0
+Ang "kayak" ay isang halimbawa ng isang palindromo.	"Kajak" ist ein Beispiel für ein Palindrom.	halimbawa	0	0
+May nakaparada pong itim na BMW sa harapan ng bahay ninyo.	Vor Ihrem Haus parkt ein schwarzer BMW.	itim	0	0
+Umupo po ang guro sa upuan.	Die Lehrerin saß auf dem Stuhl.	umupo	0	0
+Nakakapagsalita po ba ang mga halaman?	Können Pflanzen sprechen?	halaman	0	0
+Hinihintay ko pa ring may magsabi sa akin kung ano ang nangyayari.	Ich warte immer noch darauf, dass man mir sagt, was passiert ist.	hinihintay	0	0
+Ano ang suot mo?	Was hast du an?	suot	0	0
+Huminto ang kotse sa tapat ng bahay.	Der Wagen hielt vor dem Haus.	huminto	0	0
+Aalis tayo.	Wir werden gehen.	aalis	0	0
+Mabilis kumalat ang balita tungkol sa nangyari.	Der Vorfall hat sich schnell herumgesprochen.	balita	0	0
+Sira ba ito?	Ist es kaputt?	sira	0	0
+May tatlo tayo niyon.	Davon haben wir drei.	tatlo	0	0
+Binabasa ko lahat ng klase ng mga aklat.	Ich lese alle Arten von Büchern.	klase	0	0
+Marami kaming ginawang pagkakamali.	Wir haben viele Fehler gemacht.	pagkakamali	0	0
+Ito ba ang tamang daan?	Ist das der richtige Weg?	tamang	0	0
+Binaril 'nyo ba si Tom?	Haben Sie auf Tom geschossen?	binaril	0	0
+Sumasayaw po sila.	Sie tanzen.	sumasayaw	0	0
+Nilason po siya.	Sie wurde vergiftet.	nilason	0	0
+Puno ng misteryo ang kalikasan.	Die Natur ist voller Geheimnisse.	kalikasan	0	0
+Sasakyan niya yata ito.	Das ist sein Auto, glaube ich.	yata	0	0
+Bumaba ang mga presyo.	Die Preise sind gefallen.	bumaba	0	0
+Nakilala ko si Tom sa Australia.	Ich habe Tom in Australien kennengelernt.	nakilala	0	0
+Siguradong pagod po sila.	Sie sind sicher müde.	siguradong	0	0
+Salamat sa pagpunta sa akin.	Danke, dass du zu mir gekommen bist.	pagpunta	0	0
+Masyado bang malayo para lakarin?	Ist es zu weit, um zu laufen?	malayo	0	0
+Napagdesisyunan kong tanggapin ang alok na trabaho.	Ich habe mich dazu entschieden, das Stellenangebot anzunehmen.	tanggapin	0	0
+Ang sama ng pakiramdam ko ngayon.	Jetzt fühle ich mich schlecht.	sama	0	0
+Bigyan mo ako ng limang araw.	Gib mir fünf Tage.	limang	0	0
+Madalas kong kausapin ang sarili ko. Huwag mo nang alalahanin iyon.	Ich rede viel mit mir selbst. Kümmere dich nicht weiter darum.	alalahanin	0	0
+Hindi ko kayang kainin ang mansanas.	Ich kann den Apfel nicht essen.	kainin	0	0
+Nandito ako banda.	Ich bin hier drüben.	banda	0	0
+Pasok!	Herein!	pasok	0	0
+Nasaan ang pinakamalapit na bar?	Wo ist die nächste Bar?	bar	0	0
+Ibaba mo ang sandata mo!	Legen Sie die Waffe nieder!	sandata	0	0
+Pakiusap, huwag kang gagawa ng ikasisira ng pangalan ng mga Matsuno.	Bitte tue nichts, dass die Matsunos in Verruf bringen könnte!	gagawa	0	0
+Malapit na itong matapos.	Es wird bald vorbei sein.	matapos	0	0
+Nasaan po si itay?	Wo ist Papa?	itay	0	0
+Ang dumi ng pantalon mo.	Deine Hose ist schmutzig.	pantalon	0	0
+Nanalo po siya sa loto.	Sie hat im Lotto gewonnen.	nanalo	0	0
+Sapat na ba ang isang libong Yen?	Reichen tausend Yen?	libong	0	0
+Gusto kong maniwala sa inyo.	Ich möchte Ihnen gerne glauben.	maniwala	0	0
+Ang bango niyan.	Das riecht gut.	niyan	0	0
+Huwag ninyo silang pansinin.	Ignoriert sie.	pansinin	0	0
+Mga gunggong sila.	Sie sind Idioten.	gunggong	0	0
+Mas mabuti ang marangal na pagkamatay kaysa sa buhay ng kahihiyan.	Ein ehrenvoller Tod ist besser als ein Leben in Schande.	pagkamatay	0	0
+Magiging madali lang iyan.	Das wird leicht sein.	madali	0	0
+Wala nang umaasa sa kanya.	Niemand vertraut ihm mehr.	umaasa	0	0
+Pinili si Tom.	Tom wurde gewählt.	pinili	0	0
+Hilig 'nyo bang kumain ng isda?	Essen Sie gerne Fisch?	isda	0	0
+Sinasabi ni Tom na masaya raw si Maria.	Tom sagt, dass Maria glücklich sei.	raw	0	0
+Okupado ang dalaga sa paggawa ng tsa para sa kanyang kaibigan.	Das Mädchen war damit beschäftigt, Tee für ihren Freund zuzubereiten.	paggawa	0	0
+Gusto ko ng martini.	Ich möchte einen Martini.	martini	0	0
+Maaga po siyang gumising kaninang umaga.	Er stand heute Morgen früh auf.	gumising	0	0
+Nasa sala ang mga Morales.	Die Morales sind im Wohnzimmer.	sala	0	0
+Nababaliw na po ako.	Ich werde wahnsinnig.	nababaliw	0	0
+Nagmadaling umuwi si Tom mula sa eskuwelahan.	Tom eilte von der Schule nach Hause.	umuwi	0	0
+Ano ang tinitingnan ninyo?	Was guckt ihr?	tinitingnan	0	0
+May lugar bang gusto mong puntahan?	Gibt es einen Ort, wo du gern hingehen würdest?	puntahan	0	0
+Nakatira sila sa isang bahay na itinayo mahigit isandaang taon na ang nakakaraan.	Sie wohnen in einem Haus, das vor über 100 Jahren gebaut wurde.	nakakaraan	0	0
+Maligayang pagdating sa Hapon.	Willkommen in Japan.	maligayang	0	0
+May hawak akong pera.	Ich habe Bargeld.	hawak	0	0
+Nanganganib ka.	Sie sind in Gefahr.	nanganganib	0	0
+Pinadala ako rito ni Tom.	Tom hat mich hierhergeschickt.	pinadala	0	0
+Ibigay mo sa akin ang relo mo.	Gib mir deine Uhr.	relo	0	0
+Lihim ang laman ng sulat.	Der Inhalt des Briefs war geheim.	lihim	0	0
+Ngumuya ng butas sa pader ang daga.	Eine Ratte hat ein Loch in die Wand genagt.	butas	0	0
+Bumili ako ng lumang trak.	Ich kaufte mir einen gebrauchten LKW.	lumang	0	0
+Si Tom po ang pinuno.	Tom ist der Leiter.	pinuno	0	0
+Gusto kong maghintay hanggang makarating dito sina Tom at Maria.	Ich möchte warten, bis Tom und Maria hier sind.	makarating	0	0
+Sinubukan ng lalaking magkabit ng sariling antena.	Der Mann versuchte, eine eigene Antenne zu installieren.	sinubukan	0	0
+Nagawa sa akin iyon ni Tom.	Tom hat mir das angetan.	nagawa	0	0
+Nagtatago tayo.	Wir verstecken uns.	nagtatago	0	0
+Malugod na tinatanggap ang mga bisita.	Besucher sind willkommen.	bisita	0	0
+Naglaro po ako ng futbol kahapon.	Ich habe gestern Fußball gespielt.	naglaro	0	0
+May laptop ako.	Ich habe einen Laptop.	laptop	0	0
+Hindi iyan importante ngayon.	Das ist jetzt egal.	importante	0	0
+Marami na po akong nakitang mga kakaibang bagay sa buhay ko.	Ich habe in meinem Leben viel Merkwürdiges gesehen.	kakaibang	0	0
+May mga utos ako.	Ich habe Befehle.	utos	0	0
+Nakakatuwa pong magsalita si Tom.	Tom spricht komisch.	nakakatuwa	0	0
+Tumakas siya mula sa piitan.	Er ist aus dem Gefängnis entkommen.	tumakas	0	0
+Walang dudang walang katapusan ang sanlibutan.	Es besteht kein Zweifel, dass das Universum unendlich ist.	katapusan	0	0
+Binigyan ko siya ng libro.	Ich gab ihm ein Buch.	binigyan	0	0
+Sino ang nakakita sa kotse ko?	Wer hat mein Auto gesehen?	nakakita	0	0
+Hindi ko alam kung magkano yang dalawan bike na yan.	Ich weiß nicht, wie viel diese zwei Fahrräder da kosten.	magkano	0	0
+Sumakay ka sa kotse!	Steig ins Auto!	sumakay	0	0
+Naging Budista ang kalahati ng mundo.	Die Hälfte der Welt ist zu Buddhisten geworden.	kalahati	0	0
+Wala na pong mawawala.	Es gibt nichts zu verlieren.	mawawala	0	0
+Tanungin mo ang pulis!	Frag den Schutzmann!	tanungin	0	0
+Maghanap ka pa!	Suche weiter!	maghanap	0	0
+Alam ko ang sitwasyon.	Ich bin mit der Situation vertraut.	sitwasyon	0	0
+Kung walang imahinasyon, nagiging kulungan ang utak ng tao.	Ohne Vorstellungskraft wird der Verstand der Menschen zum Gefängnis.	utak	0	0
+Napakatalinong ibon ng mga loro.	Papageien sind sehr kluge Vögel.	ibon	0	0
+Tatlong bata ang nagbukas ng pintuan ng gusali.	Drei Kinder öffneten die Tür des Gebäudes.	pintuan	0	0
+Tatawagin ko siyang Tom.	Ich werde ihn Tom nennen.	tatawagin	0	0
+Ayaw na niyang mag-aral dahil isip niya'y matanda na siya.	Er will nicht mehr lernen, weil er denkt, er sei schon alt.	isip	0	0
+Sinabi ni Papa Francisco ni ang mga ateistang gumagawa ng kabutihan ay pupunta rin sa langit.	Papst Franziskus sagte, Atheisten, die Gutes tun, würden auch in den Himmel kommen.	langit	0	0
+Ano ang pinagkaiba ng aso sa lobo?	Was ist der Unterschied zwischen einem Hund und einem Wolf?	lobo	0	0
+Puwedeng sumali lahat.	Jeder darf mitmachen.	sumali	0	0
+Puwede ko bang hawakan iyan?	Darf ich das mal anfassen?	hawakan	0	0
+Naubusan na kami ng alak.	Wir haben kein Bier mehr.	alak	0	0
+Pahingi ng isang piraso ng puting papel.	Gib mir ein Stück weißes Papier.	papel	0	0
+Hindi ka magkakaroon ng pagkakataong gawin iyon.	Dazu werden Sie keine Gelegenheit bekommen.	magkakaroon	0	0
+Nakulong po siya dahil sa pagpatay.	Sie wurde wegen Mordes ins Gefängnis gesteckt.	pagpatay	0	0
+Kulang ka sa pag-eensayo.	Du hast nicht genug geübt.	kulang	0	0
+Madalang lang akong uminom ng alak.	Ich trinke selten Bier.	uminom	0	0
+Susubukan ko ang kapalaran ko.	Ich werde mein Glück versuchen.	susubukan	0	0
+Ilaan 'nyo ako ng upuan.	Halten Sie mir einen Platz frei.	upuan	0	0
+Huwag mo siyang gawing kaaway.	Mach ihn dir nicht zum Feind.	gawing	0	0
+Sa tingin ko, bibigyan siya ng maling impresyon ng salaysay na ito.	Ich glaube, diese Geschichte wird ihm einen falschen Eindruck geben.	bibigyan	0	0
+May kinasasangkutan ka bang gulo?	Bist du in Schwierigkeiten?	gulo	0	0
+Hindi mo ako kayang iwan.	Du kannst mich nicht verlassen.	iwan	0	0
+Ang dami kong hindi nagustuhan sa pelikulang iyon.	Es gab einige Dinge, die mir an dem Film nicht gefallen haben.	nagustuhan	0	0
+Kailangan ng mga anak namin ng mga bagong damit.	Unsere Kinder brauchen neue Kleider.	damit	0	0
+Pinapakiusapan kita, manahimik ka.	Ich bitte dich, sei still.	manahimik	0	0
+Sino ba ang nagpatayo ng pangit na bahay na ito?	Wer hat dieses hässliche Haus bauen lassen?	pangit	0	0
+Araw-araw ako nag-aalmusal.	Ich frühstücke jeden Tag.	araw-araw	0	0
+Gumawa ka ng mais kon yelo para sa akin.	Mach mir Mais mit Eis.	yelo	0	0
+Dapat mo nang tigilan ang pag-inom.	Du musst aufhören zu trinken.	tigilan	0	0
+Mag-ingat!	Sei vorsichtig!	mag-ingat	0	0
+Isara mo ang kulungan.	Mach den Käfig zu.	kulungan	0	0
+Madalas tayong kumakain nang sama-sama.	Wir essen oft zusammen.	kumakain	0	0
+Magiging isa na namang mainit na araw ito.	Das wird wieder ein heißer Tag.	mainit	0	0
+Malamang umuulan.	Es regnet wahrscheinlich.	malamang	0	0
+Masyadong mahaba ang buhok mo.	Du hast zu lange Haare.	mahaba	0	0
+Kaya mo bang magpadala ng tao para ayusin ito sa lalong madaling panahon?	Kannst du jemanden vorbeischicken, um es so bald wie möglich zu reparieren?	lalong	0	0
+Wala tayong sapat na pera para bilhin ang lahat ng mga pangangailangan natin.	Wir besitzen nicht genug Geld, um alles zu kaufen, was wir benötigen.	pangangailangan	0	0
+Ang dami pong magagandang bagay sa mundo na hindi ko kailangan.	Es gibt viele schöne Dinge auf der Welt, die ich nicht brauche.	magagandang	0	0
+Subukan po ninyong matulog!	Versuchen Sie zu schlafen!	matulog	0	0
+Kayang sagutin iyan ng kahit sinong bata.	Jedes Kind kann das beantworten.	sagutin	0	0
+Nagsasalin po ba kayo ng mga lirika ng mga kanta?	Übersetzen Sie Liedtexte?	kanta	0	0
+Masarap ang sisig ni Esmeralda.	Esmeraldos Sisig schmeckt gut.	masarap	0	0
+Tinanong ko lang kung puwede ko bang hiramin ang aklat?	Ich habe nur gefragt, ob ich mir das Buch leihen kann.	tinanong	0	0
+Naniniwala ba kayo roon?	Glauben Sie das?	naniniwala	0	0
+Tumatanggap ba kayo ng credit card?	Akzeptieren Sie Kreditkarten?	credit	0	0
+Natagpuan ka ba ni Tom?	Hat Tom dich gefunden?	natagpuan	0	0
+Mabuti naman. E kayo?	Gut. Und Ihnen?	e	0	0
+Ginawa ng Diyos ang mundo sa loob ng anim na araw.	Gott erschuf die Welt in sechs Tagen.	anim	0	0
+Hindi ako kasing talino mo.	Ich bin nicht so klug wie du.	kasing	0	0
+Huwag mo siyang pakinggan.	Hör nicht auf sie.	pakinggan	0	0
+Maghintay ka ng kalahating oras!	Warte eine halbe Stunde!	kalahating	0	0
+Nangako siyang pupunta siya, pero hindi siya pumunta.	Er versprach zu kommen, aber kam nicht.	nangako	0	0
+Pakiramdam ko po, ligtas ako rito.	Ich fühle mich hier sicher.	pakiramdam	0	0
+Bobo ang kapatid ko.	Mein Bruder ist ein Schwachkopf.	bobo	0	0
+Naglalaro po ako ngayon ng balibol.	Ich spiele gerade Volleyball.	naglalaro	0	0
+Mayroon pong Diyos, kaso nakalimutan po niya ang password.	Gott existiert, aber er hat das Passwort vergessen.	kaso	0	0
+Naging malinaw sa akin na hindi ko kayang manalo.	Mir wurde klar, dass ich nicht gewinnen konnte.	malinaw	0	0
+Manok po ang kinakain ko.	Ich esse Hähnchen.	manok	0	0
+Sinabi ni Papa Francisco ni ang mga ateistang gumagawa ng kabutihan ay papasok din sa langit.	Papst Franziskus sagte, Atheisten, die Gutes tun, würden auch in den Himmel kommen.	papasok	0	0
+Si Tom po ang panalo.	Tom ist der Gewinner.	panalo	0	0
+Ipagpaumanhin mo ang pagsasalita ko!	Entschuldige meine Ausdrucksweise!	ipagpaumanhin	0	0
+Ayaw na niyang mag-aral dahil isip niya'y matanda na siya.	Er will nicht mehr lernen, weil er denkt, er sei schon alt.	mag-aral	0	0
+Huwag mo siyang gawing kaaway.	Mach ihn dir nicht zum Feind.	kaaway	0	0
+Masayado po akong masipag magtrabaho.	Ich arbeite zu hart.	magtrabaho	0	0
+Tumakas siya mula sa bilangguan.	Er ist aus dem Gefängnis entkommen.	bilangguan	0	0
+Binasa ko po muna dapat ang aklat bago panoorin ang pelikula.	Ich hätte lieber das Buch lesen sollen, bevor ich mir den Film angeguckt habe.	pelikula	0	0
+Alam mo ba kung saan siya nagpunta?	Wisst ihr, wo er hingegangen ist?	nagpunta	0	0
+Huwag kang makisawsaw sa mga personal kong gawain!	Stecken Sie Ihre Nase bitte nicht in meine Privatangelegenheiten!	personal	0	0
+Kukunin ko po.	Ich geh und hol es.	kukunin	0	0
+Mahusay po bang guro si Tom?	Ist Tom ein guter Lehrer?	guro	0	0
+Bumili ako ng camera, pero nawala ko sa sumunod na araw.	Ich habe mir eine Kamera gekauft, sie aber am nächsten Tag schon wieder verloren.	camera	0	0
+Lumaki ako sa isang maliit na bayan.	Ich bin in einem kleinen Städtchen aufgewachsen.	bayan	0	0
+May nakapatong na bolpen sa ibabaw ng eskritoryo.	Da liegt ein Stift auf dem Schreibtisch.	ibabaw	0	0
+Ikaw ang doktor.	Du bist die Ärztin.	doktor	0	0
+Sumasakit ang paa ko.	Mir tut der Fuß weh.	paa	0	0
+Gusto kong magtiwala sa iyo.	Ich möchte Ihnen gerne glauben.	magtiwala	0	0
+Iniwan niya ang pamilya niya.	Er hat seine Familie verlassen.	iniwan	0	0
+Wala po iyang bayad.	Das ist gratis.	iyang	0	0
+Legal ang prostitusyon sa Germany.	Prostitution ist legal in Deutschland.	germany	0	0
+Tinawag po ni Tom si Mary na isang sinungaling.	Tom nannte Mary eine Lügnerin.	sinungaling	0	0
+Ikaw lang ang tanging gusto ko.	Alles, was ich will, bist du.	tanging	0	0
+Puwede kang magpahinga.	Du kannst dich ausruhen.	magpahinga	0	0
+Puwede ba kitang kunan ng litrato?	Darf ich ein Foto von dir machen?	kunan	0	0
+Si Tom po ang lider.	Tom ist der Leiter.	lider	0	0
+Tatawagan po namin kayo.	Wir rufen Sie an.	tatawagan	0	0
+Masaya na ako sa resulta.	Ich bin mit den Ergebnissen zufrieden.	resulta	0	0
+Huwag kang gumamit nang masyadong maraming pandikit.	Benutze nicht zu viel Klebstoff.	gumamit	0	0
+Sa tingin ko hindi papayag ang nanay ninyo rito.	Ich denke nicht, dass eure Mutter damit einverstanden wäre.	papayag	0	0
+Nasa gitna ng kalye ang sasakyan.	Das Auto stand mitten auf der Straße.	gitna	0	0
+Nagwakas ang digmaan noong 1954.	Der Krieg endete 1954.	digmaan	0	0
+Matuman ang tindahan.	Das Geschäft läuft nicht gut.	tindahan	0	0
+May pupuntahan ka ba?	Gehst du irgendwo hin?	pupuntahan	0	0
+Dapat magsimula na tayo kaagad.	Wir müssen sofort beginnen.	kaagad	0	0
+Sinubukan ng lalaking magkabit ng sariling antena.	Der Mann versuchte, eine eigene Antenne zu installieren.	sariling	0	0
+Hindi nasagip ni Tom si Mary.	Tom konnte Mary nicht retten.	mary	0	0
+Huwag kang matakot! Hindi kita aanuhin.	Habe keine Angst! Ich werde dir nichts tun.	matakot	0	0
+Nabubuhay pa po ako.	Ich lebe noch.	nabubuhay	0	0
+May luma akong awto.	Ich habe ein altes Auto.	luma	0	0
+Binigyan tayo ni Tom ng regalo.	Tom hat uns ein Geschenk gegeben.	regalo	0	0
+Tatawag po ako.	Ich werde anrufen.	tatawag	0	0
+Walang nakakaalam nito.	Das weiß niemand.	nakakaalam	0	0
+Bakit tumatakbo si Tom?	Warum läuft Tom?	tumatakbo	0	0
+Maaari ka bang magbigay ng alternatibong petsa?	Könntest du ein anderes Datum vorschlagen?	magbigay	0	0
+Huwag kang tumingin pababa!	Sieh nicht nach unten!	pababa	0	0
+Maaari na kayo ngayong makapasok.	Ihr könnt jetzt hineingehen.	makapasok	0	0
+Walang dahilan para magmadali.	Es gibt keinen Grund zur Eile.	magmadali	0	0
+Umupo si Tom sa isang bato.	Tom setzte sich auf einen Stein.	bato	0	0
+Masyadong madilim.	Es ist zu dunkel.	madilim	0	0
+Iniligtas ko po ang pusa.	Ich rettete die Katze.	iniligtas	0	0
+Sobra po akong busog.	Ich bin so satt.	sobra	0	0
+Habulin mo kaya ako!	Fang mich doch!	habulin	0	0
+Pininturahan niya ng puti ang dingding.	Sie hat die Wand weiß gestrichen.	puti	0	0
+Tawagin mo ang kuya mo.	Ruf deinen Bruder.	tawagin	0	0
+Iyan ang pinakamataas na gusaling nakita ko.	Das ist das höchste Gebäude, das ich je gesehen habe.	pinakamataas	0	0
+Magandang karne ito.	Das ist gutes Fleisch.	karne	0	0
+Hilig ko ang pagkaing Intsik.	Ich mag chinesisches Essen.	hilig	0	0
+Hindi po ako mahilig sa malalaking aso.	Ich mag große Hunde nicht.	malalaking	0	0
+Ang laki po nila masyado.	Die sind zu groß.	masyado	0	0
+Nagbigay po ako sa kanya ng libro.	Ich gab ihm ein Buch.	nagbigay	0	0
+Kailangan niya ang gamot para sa kanyang sikosis.	Sie brauchen die Medizin für ihre Psychose.	gamot	0	0
+Ilang tao ang nakasakay sa barko?	Wie viele Menschen waren auf dem Schiff?	nakasakay	0	0
+Ang dami kong ibinigay na pera kay Tom.	Ich habe Tom viel Geld gegeben.	dami	0	0
+Hindi ito pagmamahal.	Das ist keine Liebe.	pagmamahal	0	0
+Gisingin mo siya!	Weck sie auf!	gisingin	0	0
+Ano ang sukat mo?	Welche Größe haben Sie?	sukat	0	0
+Sundin ninyo ang mga patakaran!	Haltet euch an die Regeln!	sundin	0	0
+Mahina ang ulo ng kuya ko.	Mein Bruder ist ein Schwachkopf.	mahina	0	0
+Ayaw mo bang magtanong?	Willst du nicht fragen?	magtanong	0	0
+Nakita ko po sila noong nakaraang linggo.	Ich sah sie letzte Woche.	nakaraang	0	0
+Sobrang tanda na po ni Tom.	Tom ist sehr alt.	tanda	0	0
+Naghihintay siya sa sagot ko.	Er wartet auf meine Antwort.	naghihintay	0	0
+Linisin ang silid.	Reinige das Zimmer.	linisin	0	0
+Hindi sila nagkamali.	Sie haben sich nicht geirrt.	nagkamali	0	0
+Nagdudugo ang ilong mo.	Ihre Nase blutet.	ilong	0	0
+Nararamdaman ko.	Ich kann es spüren.	nararamdaman	0	0
+Amoy patibong ito.	Das riecht nach einer Falle.	amoy	0	0
+Normal lang na umiyak.	Weinen ist etwas Normales.	normal	0	0
+Titingnan ko po.	Ich schau mal nach.	titingnan	0	0
+Muntik na po akong tumama.	Ich lag fast richtig.	muntik	0	0
+Bombahan mo ang gulong!	Pump den Reifen auf!	gulong	0	0
+Ayan po iyon.	Das ist es.	ayan	0	0
+Mahilig ako sa mga biro.	Ich liebe Witze.	biro	0	0
+Magkasama kaming lumaki ni Tom.	Ich bin mit Tom zusammen aufgewachsen.	magkasama	0	0
+Itikom mo ang bibig mo!	Halt die Fresse!	bibig	0	0
+Gusto ko sanang dalawin ang nanay mo.	Ich würde gern Ihre Mutter besuchen.	sanang	0	0
+Wala tayong sapat na pera para bilhin ang lahat ng kinakailangan natin.	Wir besitzen nicht genug Geld, um alles zu kaufen, was wir benötigen.	kinakailangan	0	0
+Mukha pong masaya ang lahat maliban sa akin.	Außer mir scheint jeder glücklich zu sein.	maliban	0	0
+Hindi po kumakain si Tom ng karne ng baboy.	Tom isst kein Schweinefleisch.	baboy	0	0
+Pupunta ka ba mamayang gabi?	Kommst du heute Abend?	mamayang	0	0
+Alam ko po ang tunog na iyan.	Das Geräusch kenne ich.	tunog	0	0
+Ate ko ang babaeng nakikipag-usap kay Mayumi.	Das Mädchen, das sich mit Mayumi unterhält, ist meine Schwester.	babaeng	0	0
+Parte ito ng trabaho ko.	Das ist Teil meiner Arbeit.	parte	0	0
+Maghahanap ako ng ibang trabaho.	Ich werde eine andere Anstellung finden.	maghahanap	0	0
+Sumunod si Tom sa payo ko.	Tom folgte meinem Rat.	payo	0	0
+Tungkulin ko po ito.	Das ist meine Aufgabe.	tungkulin	0	0
+Bawasan ang salita; paramihan ang kilos.	Weniger Worte, mehr Taten.	kilos	0	0
+Nanakaw 'yong kotse niya kahapon.	Sein Auto wurde gestern gestohlen.	yong	0	0
+Puwede kong ipaliwanag kung bakit ko kailangan ito.	Ich kann erklären, warum ich es brauche.	ipaliwanag	0	0
+Ano po ang ibig ninyong sabihin dito?	Was meinen Sie damit?	ninyong	0	0
+Madalang lang po akong uminom ng beer.	Ich trinke selten Bier.	beer	0	0
+Kabilang po ito riyan.	Das gehört dazu.	kabilang	0	0
+Wala akong pruweba.	Ich habe keinen Beweis.	pruweba	0	0
+Walang imposible!	Nichts ist unmöglich!	imposible	0	0
+Patay na po si lola.	Oma ist tot.	lola	0	0
+Handa ka na bang magsimula?	Bist du bereit anzufangen?	magsimula	0	0
+Ibalik po ninyo iyan.	Geben Sie es zurück.	ibalik	0	0
+Binigyan ko si Tom ng tatlong daang dolyar.	Ich gab Tom 300 Dollar.	daang	0	0
+Papasukin si Tom.	Lass Tom rein.	papasukin	0	0
+Nasa maling kalye ba ako?	Bin ich auf der falschen Straße?	maling	0	0
+Alam mo nga ang numero ng telepono niya!	Du kennst doch ihre Telefonnummer!	numero	0	0
+Bakit kaya nakatingin sa atin si Tom?	Warum schaut Tom uns an?	nakatingin	0	0
+May isa sa inyong nagsisinungaling.	Einer von euch lügt.	nagsisinungaling	0	0
+Bumagsak ang mga presyo.	Die Preise sind gefallen.	bumagsak	0	0
+Gustong makipag-usap sa akin ni Tom.	Tom wünscht mit mir zu sprechen.	makipag-usap	0	0
+Lasing ka.	Sie sind betrunken.	lasing	0	0
+Paano ka nag-aaral ng Pranses?	Wie lernst du Französisch?	nag-aaral	0	0
+Hindi na magtatagal ang mga sapatos ko.	Diese Schuhe werden nicht lange halten.	sapatos	0	0
+May bagong sasakyan si Tom.	Tom hat ein neues Auto.	sasakyan	0	0
+Ang kaunti mag-isip, maraming mali.	Wer wenig denkt, irrt viel.	mag-isip	0	0
+Sumobra na naman ang tulog namin.	Wir haben wieder verschlafen.	tulog	0	0
+Kukuha ako ng mga baso.	Ich hole ein paar Gläser.	kukuha	0	0
+Nandiyan.	Es ist da.	nandiyan	0	0
+May nakaparadang itim na BMW sa harapan ng bahay ninyo.	Vor Ihrem Haus parkt ein schwarzer BMW.	harapan	0	0
+Baka makatulong sa inyo si Tom.	Vielleicht kann Tom euch helfen.	makatulong	0	0
+Sinisiil ng gobyerno ng bansang ito ang kanyang mga mamamayan.	Die Regierung dieses Landes unterdrückt seine Bevölkerung.	mamamayan	0	0
+Kumilos ka na parang lalaki!	Benimm dich wie ein Mann!	kumilos	0	0
+Marunong po ba siyang mag-Ingles?	Kann er Englisch?	marunong	0	0
+Bibili ako ng bulaklak.	Ich kaufe eine Blume.	bulaklak	0	0
+Hindi bansa ang Europa.	Europa ist kein Land.	europa	0	0
+May kumalat na usap-usapan sa siyudad.	Ein Gerücht ging in der Stadt um.	siyudad	0	0
+Sa sunod na istasyon po ako bababa.	An der nächsten Station steige ich aus.	sunod	0	0
+Wala na po tayong utang sa isa't-isa.	Wir schulden einander nichts mehr.	utang	0	0
+Kukuha po ako ng mga baso.	Ich hole ein paar Gläser.	baso	0	0
+Gustong-gusto talaga ni Tom si Maria.	Tom mag Maria wirklich gern.	gustong-gusto	0	0
+Ito po ang unang opisyal na biyahe ng ministro.	Das ist die erste offizielle Reise des Ministers.	biyahe	0	0
+Isara mo ang bunganga mo!	Halte den Mund!	isara	0	0
+May nagbabago po.	Etwas verändert sich gerade.	nagbabago	0	0
+Nagkita kami nung Linggo.	Wir haben uns am Sonntag getroffen.	nagkita	0	0
+Naging kulay ginto ang mga dahon.	Die Blätter färben sich goldgelb.	ginto	0	0
+Gusto kong maging bantog na artista.	Ich will eine berühmte Schauspielerin werden.	artista	0	0
+Puwede kang manood ng telebisyon.	Du kannst fernsehen.	manood	0	0
+Gumana nang walang anumang problema.	Es funktionierte ohne Probleme.	anumang	0	0
+Dumaan si Tom.	Tom kam vorbei.	dumaan	0	0
+Mayroong Diyos, kaya lang nakalimutan niya ang password.	Gott existiert, aber er hat das Passwort vergessen.	mayroong	0	0
+Kung sa Biyernes kaya?	Wie wäre es mit Freitag?	biyernes	0	0
+Tinanggal ni Tom ang kanyang pustiso.	Tom nahm seine künstlichen Zähne heraus.	tinanggal	0	0
+Tumira ba kayo rito?	Wohntet ihr hier?	tumira	0	0
+Walang maniniwala sa amin.	Keiner wird uns glauben.	maniniwala	0	0
+Manatili po kayong nakatayo!	Bleibe bitte stehen!	nakatayo	0	0
+Higit na mas matangkad ako kay Tom.	Ich bin viel größer als Tom.	matangkad	0	0
+Ang ganda po ng ilog.	Der Fluss ist schön.	ganda	0	0
+Napakalaki ang kutsara ko!	Mein Löffel ist zu groß!	kutsara	0	0
+Sariwang gulay lang ang kinakain ko.	Ich esse nur frisches Gemüse.	kinakain	0	0
+Nakaligtas kayo.	Ihr habt überlebt.	nakaligtas	0	0
+Gusto kong magustuhan ang gusto mo.	Ich will wollen, was du willst.	magustuhan	0	0
+Kailangan ko ng mga magagaang pinggan, dahil kakain kami ng pamilya ko sa parke ngayong araw.	Ich brauche leichte Teller, weil heute meine Familie zum Essen in den Park geht.	kakain	0	0
+Ibibigay ko kay Tom anuman ang gusto niya.	Ich werde Tom geben, was immer er will.	anuman	0	0
+Kaya mo bang magpadala ng tao para ayusin ito sa lalong madaling panahon?	Kannst du jemanden vorbeischicken, um es so bald wie möglich zu reparieren?	ayusin	0	0
+Mukhang nag-aalala na ngayon si Tom.	Tom sieht jetzt besorgt aus.	nag-aalala	0	0
+Hay hinahanap ka ba?	Suchst du etwas?	hay	0	0
+Hindi ako nagkakamali.	Ich irre nicht.	nagkakamali	0	0
+Huwag mo akong hayaang mamatay!	Lass mich nicht sterben!	hayaang	0	0
+Puno po ang bag.	Die Tasche ist voll.	bag	0	0
+Hindi kayo nakikinig.	Sie hören nicht zu.	nakikinig	0	0
+Bahagi iyon ng trabaho ko.	Das ist Teil meiner Arbeit.	bahagi	0	0
+Huwag kang makikialam sa mga personal kong gawain!	Stecken Sie Ihre Nase bitte nicht in meine Privatangelegenheiten!	gawain	0	0
+Hindi ko masyadong maiintindihan kung anong pinagusapan nila.	Ich verstand nicht so viel von dem, über das sie redeten.	maiintindihan	0	0
+Sino po ang nagsimula ng away?	Wer hat mit dem Streit angefangen?	away	0	0
+Ang pagmamahal po sa kalayaan ang nagdala sa atin dito.	Die Liebe zur Freiheit hat uns hergebracht.	nagdala	0	0
+Hindi mataba si Tom.	Tom war nicht dick.	mataba	0	0
+Masakit ang panga ko.	Mir tut der Kiefer weh.	masakit	0	0
+Mauna ka na. Susunod din ako agad.	Geh nur schon vor, ich werde dich bald einholen.	mauna	0	0
+Ipinanganak po ako noong Oktubre.	Ich wurde im Oktober geboren.	ipinanganak	0	0
+Tinapos mo nang basahin itong libro?	Hast du das Buch zu Ende gelesen?	tinapos	0	0
+Umiinom sila.	Sie trinken.	umiinom	0	0
+May inaasahan po akong liham mula sa kanya.	Ich erwarte einen Brief von ihr.	inaasahan	0	0
+Pangarap kong maging guro.	Ich träume, Lehrerin zu werden.	pangarap	0	0
+Nahulog si Tom mula sa kabayo.	Tom stürzte vom Pferd.	nahulog	0	0
+Sa tingin mo siguro mayaman ako.	Du denkst wohl, ich wäre reich.	mayaman	0	0
+Desisyon ko ito.	Es war meine Entscheidung.	desisyon	0	0
+Huwag kang masyadong lumapit sa akin.	Komm mir nicht zu nahe!	lumapit	0	0
+Sundan ninyo ang sasakyang iyan.	Folgen Sie diesem Auto.	sundan	0	0
+Kailangan natin ng mga batas!	Wir brauchen Regeln!	batas	0	0
+Ito ang lalaking tinutukoy ko.	Das ist der Mann, den ich meine.	tinutukoy	0	0
+Sa Tokyo po ako ipinanganak at lumaki.	Ich bin in Tokio geboren und aufgewachsen.	tokyo	0	0
+Wala sa grupo namin si Tom.	Tom ist nicht in unserer Gruppe.	grupo	0	0
+Nawalan siya ng balanse at natumba.	Er verlor die Balance und fiel hin.	balanse	0	0
+Sa tingin ko, magtatanim na lang ako ng mais sa halip ng patatas sa taong ito.	Ich denke, dieses Jahr werde ich Mais statt Kartoffeln anbauen.	halip	0	0
+Magtatagal ako nang ilan pang araw.	Ich werde noch ein paar Tage länger bleiben.	magtatagal	0	0
+Tutulungan niyo po ba si Tom?	Werden Sie Tom helfen?	tutulungan	0	0
+Matatapos ako sa loob ng isang oras.	Ich werde in einer Stunde fertig sein.	matatapos	0	0
+Nasabi na ito sa akin ni Tom.	Tom hat es mir schon gesagt.	nasabi	0	0
+Nagbagsakan ang mga presyo.	Die Preise sind gefallen.	presyo	0	0
+Huminto ang sasakyan sa tapat ng bahay.	Der Wagen hielt vor dem Haus.	tapat	0	0
+Nakikiusap ako sa iyo, pumirmi ka.	Ich bitte dich, sei still.	nakikiusap	0	0
+Kailangan mo lang isulat ang pangalat at tirahan mo rito.	Du musst einfach nur deinen Namen und deine Adresse hier hinschreiben.	tirahan	0	0
+Hulaan mo kung ilang taon na ako.	Rate, wie alt ich bin.	hulaan	0	0
+Hiniwa ko ng kutsilyo ang daliri ko.	Ich habe mir mit einem Messer in den Finger geschnitten.	kutsilyo	0	0
+Huminga nang dahan-dahan si Tom.	Tom atmete langsam aus.	dahan-dahan	0	0
+Marami na po akong nakitang mga di-pangkaraniwang bagay sa buhay ko.	Ich habe in meinem Leben viel Merkwürdiges gesehen.	nakitang	0	0
+Nakakabingi po ang ingay.	Der Lärm ist ohrenbetäubend.	ingay	0	0
+Ayaw kong makitang kasama siya.	Ich möchte nicht mit ihm gesehen werden.	makitang	0	0
+Nakikilala 'nyo ba ang boses ko?	Erkennt ihr meine Stimme?	nakikilala	0	0
+Alam po ba ninyo kung sino ang nagsabi niyan?	Wissen Sie, wer das gesagt hat?	nagsabi	0	0
+Maliwanag ang umaga.	Der Morgen war klar.	maliwanag	0	0
+Hindi ko nabasa ang kuwento.	Ich habe die Geschichte nicht gelesen.	nabasa	0	0
+Pumapasok ka sa trabaho.	Du gehst zur Arbeit.	pumapasok	0	0
+Maghihintay ako sa inyo rito.	Ich werde hier auf Sie warten.	maghihintay	0	0
+Hindi makakasama si Tom sa atin.	Tom kann nicht mit uns kommen.	makakasama	0	0
+Libre iyan.	Das ist gratis.	libre	0	0
+Namamatay si Tom.	Tom stirbt.	namamatay	0	0
+Mahina ang negosyo.	Das Geschäft läuft nicht gut.	negosyo	0	0
+Hindi mo iyon puwedeng ibenta.	Du kannst das nicht verkaufen.	ibenta	0	0
+Ako ang lolo ni Tom.	Ich bin Toms Opa.	lolo	0	0
+Iiwan ninyo iyan roon!	Lasst es dort!	iiwan	0	0
+Pinabayaan niya ang pamilya niya.	Er hat seine Familie verlassen.	pinabayaan	0	0
+Sobrang kalmado si Tom.	Tom ist sehr gelassen.	kalmado	0	0
+May resibo ako.	Ich habe eine Quittung.	resibo	0	0
+Magandang sistema iyon.	Das ist ein gutes System.	sistema	0	0
+Naghihintay po sila sa sagot ko.	Sie warten auf meine Antwort.	sagot	0	0
+Ninakaw ni Tom ang puso ko.	Tom hat mir mein Herz gestohlen.	ninakaw	0	0
+Anong klaseng lengguwahe ang Esperanto?	Was für eine Art Sprache ist Esperanto?	klaseng	0	0
+Matalino ako.	Ich bin intelligent.	matalino	0	0
+May nakita akong bituin ngayong araw.	Ich habe heute einen Stern gesehen.	bituin	0	0
+Nawalan ng malay si Layla.	Layla wurde ohnmächtig.	nawalan	0	0
+Talagang ipinagmamalaki nina Tom at Mary ang kanilang mga anak.	Tom und Mary sind echt stolz auf ihre Kinder.	nina	0	0
+Madalas nakukuha ko ang gusto ko.	Meistens kriege ich das, was ich will.	nakukuha	0	0
+Nakatira sila sa isang bahay na itinayo mahigit isandaang taon na ang nakalilipas.	Sie wohnen in einem Haus, das vor über 100 Jahren gebaut wurde.	mahigit	0	0
+Hindi kayang mamuhay ng dalawang oso sa iisang kuweba.	Zwei Bären können nicht in einer Höhle leben.	oso	0	0
+Hindi mo kailangang maging henyo para maintindihang may taong nagmamahal sa iyo.	Du musst kein Genie sein, um zu verstehen, dass ein Mensch dich liebt.	nagmamahal	0	0
+Bakit kaya ako hindi tinawagan ni Tom?	Ich frage mich, warum mich Tom nicht angerufen hat.	tinawagan	0	0
+Hindi ako kasing talino mo.	Ich bin nicht so klug wie du.	talino	0	0
+Paruparo ba ito o gamugamo?	Ist es ein Schmetterling oder eine Motte?	paruparo	0	0
+Hinding-hindi nagsasalita si Tom tungkol sa mga anak niya.	Tom redet niemals über seine eigenen Kinder.	nagsasalita	0	0
+Kapani-paniwala ang kuwento.	Die Geschichte klingt glaubwürdig.	kapani-paniwala	0	0
+Gusto ko sanang makipagkita sa iyo kung puwede.	Wenn möglich, würde ich mich gern mit Ihnen treffen.	makipagkita	0	0
+Hindi ako ang pinagmulan ng aksidente.	Ich habe den Unfall nicht verursacht.	pinagmulan	0	0
+Humingi po siya ng pera.	Er bat um Geld.	humingi	0	0
+Sarado pa rin.	Es ist noch geschlossen.	sarado	0	0
+Natutulog pa ba si Tom?	Ist Tom noch am Schlafen?	natutulog	0	0
+Nagtuturo si Maria ng yoga.	Maria unterrichtet Yoga.	nagtuturo	0	0
+Bakit ka rito kumakanta?	Warum singst du hier?	kumakanta	0	0
+Lumilipad ang mga ibon.	Die Vögel fliegen.	lumilipad	0	0
+Hindi nila ako kayang saktan.	Sie können mich nicht verletzen.	saktan	0	0
+Nagkulong siya sa banyo at humagulgol.	Sie schloss sich im Badezimmer ein und heulte.	banyo	0	0
+Mapanganib ang mundo.	Die Welt ist gefährlich.	mapanganib	0	0
+Hindi kailanman umaalis ng bahay ang aking kaibigan na walang sigarilyo.	Mein Freund geht nie ohne Zigaretten aus dem Haus.	umaalis	0	0
+Tutulong kami sa inyo.	Wir werden Ihnen helfen.	tutulong	0	0
+Tumungong timog si Tom.	Tom geht nach Süden.	timog	0	0
+Tuluyan nang umalis si Tom.	Tom ist für immer gegangen.	tuluyan	0	0
+Huwag mong itanong sa akin kung ano ito!	Fragen Sie mich nicht, was das ist!	itanong	0	0
+Mabaho ang hininga ni Tom.	Tom hat Mundgeruch.	hininga	0	0
+Puwede 'nyo po akong hintayin dito.	Sie können hier auf mich warten.	hintayin	0	0
+Sinuntok ni Tom ang lamesa.	Tom schlug mit der Faust auf den Tisch.	lamesa	0	0
+Hindi po iyon gumagana.	Das funktioniert nicht.	gumagana	0	0
+Kinailangan ninyong alagaan si Mary.	Ihr solltet euch um Mary kümmern.	alagaan	0	0
+Palaging bukas ang pagkakataong ito sa akin.	Die Möglichkeit steht mir immer offen.	palaging	0	0
+Nakaupo sa hardin si Tom.	Tom sitzt im Garten.	nakaupo	0	0
+Lumaban si Tom.	Tom kämpfte.	lumaban	0	0
+Natulog ako sa bangka.	Ich habe auf dem Boot geschlafen.	bangka	0	0
+Ano ang binabalak niya?	Was hatte er vor?	binabalak	0	0
+Wala po akong pakialam kung sino man ang halikan ni Tom.	Es ist mir egal, wen Tom küsst.	halikan	0	0
+Subukan mong manatiling gising.	Versuche, wach zu bleiben.	gising	0	0
+Nagpadala si Tom sa akin ng pasalubong.	Tom schickte mir ein Geschenk.	nagpadala	0	0
+Ilagay mo kung saan mo gusto.	Tu es hin wo du willst.	ilagay	0	0
+Magkaibigan po tayo.	Wir sind Freunde.	magkaibigan	0	0
+Itago po ninyo ang pera!	Verstecken Sie das Geld!	itago	0	0
+Natapos po ang digmaan noong 1954.	Der Krieg endete 1954.	natapos	0	0
+Aling ngipin ang masakit?	Welcher Zahn tut weh?	ngipin	0	0
+Babayaran ko po ito.	Ich werde es bezahlen.	babayaran	0	0
+Naghihintay pa rin po akong may magsabi sa akin kung ano ang nangyayari.	Ich warte immer noch darauf, dass man mir sagt, was passiert ist.	magsabi	0	0
+Kailangan po nating manalo.	Wir müssen gewinnen.	manalo	0	0
+Mamahalin ninyo ang Australia.	Sie werden Australien lieben.	mamahalin	0	0
+Pinagsasaksak ni Tom si Maria nang labintatlong beses.	Tom stach 13mal auf Maria ein.	maria	0	0
+Palitan po ninyo ito.	Tauschen Sie es aus.	palitan	0	0
+Sa itaas ng mga ulap lumilipad ang eroplano.	Über den Wolken fliegt das Flugzeug.	itaas	0	0
+Matigas pa rin po.	Es ist noch gefroren.	matigas	0	0
+Walang sinumang perpekto.	Niemand ist perfekt.	sinumang	0	0
+Itanong mo kahit kanino!	Frag irgendwen!	kanino	0	0
+Gusto 'nyo ba itong marinig?	Wollt ihr es hören?	marinig	0	0
+Huwag mong buksan ang bintana.	Öffnen Sie nicht das Fenster.	bintana	0	0
+Mamamatay-tao si Tom.	Tom ist ein Mörder.	mamamatay-tao	0	0
+Ang Bali ay ang isla ng mga diyos at ng mga demonyo.	Bali ist die Insel der Götter und Dämonen.	isla	0	0
+Pahingi ng isang piraso ng puting papel.	Gib mir ein Stück weißes Papier.	puting	0	0
+Malamig ang dingding na ito.	Diese Wand ist kalt.	dingding	0	0
+Isa si Tom sa mga pasyente ko.	Tom ist einer meiner Patienten.	pasyente	0	0
+Pinagdesisyunan nang gabi ang magiging kapalaran ng gobyerno.	In der Nacht entschied sich das Schicksal der Regierung.	kapalaran	0	0
+Espiya po si Tom.	Tom ist ein Spion.	espiya	0	0
+Sino ang lalaban?	Wer wird kämpfen?	lalaban	0	0
+Bantayan mo si Tom!	Pass auf Tom auf!	bantayan	0	0
+Mantikilya ang binili ni Tom.	Tom hat Butter gekauft.	binili	0	0
+Aalis po nang alas sais ang eroplano ko.	Mein Flug geht um sechs.	eroplano	0	0
+Nakapunta na lahat doon.	Jeder war schon einmal da.	nakapunta	0	0
+May solusyon ka ba?	Hast du eine Lösung?	solusyon	0	0
+Hindi ba magiging kahina-hinala si Tom?	Wird Tom nicht Verdacht schöpfen?	kahina-hinala	0	0
+Hayaan ninyong makaalis si Tom!	Lasst Tom gehen!	makaalis	0	0
+Ibinagsak ni Tom ang kanyang kamao sa mesa.	Tom schlug mit der Faust auf den Tisch.	mesa	0	0
+Kailangan kong mapanood ang pelikulang ito.	Ich muss diesen Film sehen.	mapanood	0	0
+Tiningnan ni Tom ang aso niya.	Tom betrachtete seinen Hund.	tiningnan	0	0
+Nagturo po siya ng isang grupo ng mga kabataang Indiyano.	Er unterrichtete eine Gruppe indianischer Jungen.	nagturo	0	0
+Nasa bubong ako.	Ich bin auf dem Dach.	bubong	0	0
+Isang beses mo lang ito magagamit.	Du kannst das nur einmal benutzen.	magagamit	0	0
+Bakit ninyo ako tinatanong?	Warum fragt ihr mich?	tinatanong	0	0
+Naging kakuwarto ni John si Tom.	Tom ist Johns Mitbewohner geworden.	john	0	0
+Wala akong brilyanteng singsing, pero masaya pa rin ako.	Ich trage zwar keinen Diamantring, aber ich bin glücklich.	singsing	0	0
+Wala kaming oras para roon.	Wir hatten keine Zeit dafür.	roon	0	0
+Mayroon ba kayong alagang hayop?	Habt ihr ein Haustier?	alagang	0	0
+Nakatakas siya mula sa piitan.	Er ist aus dem Gefängnis entkommen.	nakatakas	0	0
+Hindi po kayo magkakaroon ng pagkakataong gawin iyon.	Dazu werden Sie keine Gelegenheit bekommen.	pagkakataong	0	0
+Leon po iyon.	Das ist ein Löwe.	leon	0	0
+Kailan magsisimula ang pagsusulit?	Wann fängt die Prüfung an?	magsisimula	0	0
+Naghahanap ako ng magandang hotel.	Ich suche mir ein gutes Hotel.	hotel	0	0
+Madalas humiga sa damo ang aking aso.	Mein Hund legt sich oft auf den Rasen.	humiga	0	0
+Pista bukas.	Morgen ist Feiertag.	pista	0	0
+Kung walang agham, walang kinabukasan.	Ohne Wissenschaft keine Zukunft.	kinabukasan	0	0
+Pinag-uusapan kami ng mga tao.	Die Leute reden über uns.	pinag-uusapan	0	0
+Mula po sa Griyego ang salitang iyan.	Das Wort kommt aus dem Griechischen.	salitang	0	0
+Gumawa po kayo ng listahan.	Machen Sie eine Liste.	listahan	0	0
+Magkikita tayo bukas.	Wir werden uns morgen sehen.	magkikita	0	0
+Kulay abo ang daga.	Die Maus ist grau.	abo	0	0
+Ilabas mo ang pitaka mo.	Hol dein Portmonee raus.	ilabas	0	0
+Maiba tayo ng usapan.	Wechseln wir das Thema.	usapan	0	0
+Ipaalam mo sa akin.	Lass es mich wissen.	ipaalam	0	0
+Napakagaling magluto ni Tom.	Tom kann sehr gut kochen.	napakagaling	0	0
+Alam ko nang magugustuhan mo iyan.	Ich wusste, dass dir das gefiele.	magugustuhan	0	0
+Tumatawag ako kay Tom.	Ich rufe Tom an.	tumatawag	0	0
+Nagugutom at nauuhaw po ako.	Ich habe Hunger und Durst.	nauuhaw	0	0
+Hindi ako naniniwalang nag-iisa tayo.	Ich glaube nicht, dass wir allein sind.	nag-iisa	0	0
+Binabati ka ni Tom.	Tom lässt dich grüßen.	binabati	0	0
+Puwede mo bang ipadala iyan sa e-mail?	Kannst du das per E-Mail schicken?	ipadala	0	0
+Tingnan mo ang mga bulsa mo!	Schau in deinen Taschen nach!	bulsa	0	0
+Maaari ka bang magbigay ng alternatibong petsa?	Könntest du ein anderes Datum vorschlagen?	petsa	0	0
+Nakakahiya iyan.	Das ist peinlich.	nakakahiya	0	0
+Medyo mabaha ang listahan go.	Meine Liste ist recht lang.	go	0	0
+Inabot ito nang buong araw.	Es hat den ganzen Tag gedauert.	inabot	0	0
+Umuwi ako at umiyak.	Ich ging nach Hause und weinte.	umiyak	0	0
+Ang daming mga sabik na tagahanga sa loob ng istadyum.	Es waren viele begeisterte Anhänger im Stadion.	tagahanga	0	0
+Hanggang balikat ang buhok niya.	Das Haar geht ihr bis zu den Schultern.	buhok	0	0
+Hindi ka ba abala?	Bist du nicht beschäftigt?	abala	0	0
+Sumulat po sa akin si Tom.	Tom hat mir geschrieben.	sumulat	0	0
+Mahuhuli ako nang kalahating oras.	Ich komme eine halbe Stunde später.	mahuhuli	0	0
+Ang Tatoeba ay isang kahong punong-puno ng mga magagandang karanasan at sorpresa!	Tatoeba ist ein Kästchen voller wunderbarer Erlebnisse und Überraschungen!	punong-puno	0	0
+Akala ko bote.	Ich dachte, es wäre eine Flasche.	bote	0	0
+Napakahusay magluto ni Tom.	Tom kann sehr gut kochen.	napakahusay	0	0
+Nagmukha siyang malungkot.	Sie sah traurig aus.	malungkot	0	0
+Mag-iiwan po ba kayo ng mensahe?	Hinterlassen Sie eine Nachricht?	mensahe	0	0
+Masaya akong napadaan ka.	Ich bin froh, dass du vorbeigekommen bist.	napadaan	0	0
+Dahil wala nang libreng upuan sa bus, nanatili akong nakatayo.	Weil im Bus kein Platz frei war, so blieb ich stehen.	libreng	0	0
+Ang ibig sabihin ni Tom, kailangan daw niya ng kaunting salapi.	Tom meinte, dass er ein bisschen Geld braucht.	salapi	0	0
+Gagamitin namin ang mayroon kami.	Wir werden verwenden, was wir haben.	gagamitin	0	0
+Duwag po kayo.	Sie sind ein Feigling.	duwag	0	0
+Noong bata pa ako, madalas akong basahan ng nanay ko ng mga alamat.	Als ich noch ein Kind war, las mir meine Mutter oft Märchen vor.	alamat	0	0
+Huminga po nang dahan-dahan si Tom.	Tom atmete langsam aus.	huminga	0	0
+Nasa maling kalsada ba ako?	Bin ich auf der falschen Straße?	kalsada	0	0
+Nasa bakasyon ngayon si Tom.	Tom ist jetzt im Urlaub.	bakasyon	0	0
+Perpekto ito.	Es ist perfekt.	perpekto	0	0
+Hahayaan mo ba si Tom na gawin ito?	Wirst du Tom das machen lassen?	hahayaan	0	0
+Ingatan mong walang makakakita sa iyo!	Pass auf, dass dich niemand sieht!	makakakita	0	0
+Sa kaliwa ka lang.	Halte dich links.	kaliwa	0	0
+Nakalimutan po ni Tom na bayaran ang bayarin sa tubig.	Tom hat vergessen, die Wasserrechnung zu bezahlen.	bayaran	0	0
+Gusto kong tumulong sa kanya, pero hindi ko alam kung paano.	Ich möchte ihr gerne helfen, aber ich weiß nicht, wie.	tumulong	0	0
+Huwag ninyo kaming hahanapin!	Suchen Sie nicht nach uns!	hahanapin	0	0
+Marami kaming nagawang mali.	Wir haben viele Fehler gemacht.	nagawang	0	0
+Ang laking silbi ng isang kabayo.	Ein Pferd ist sehr nützlich.	silbi	0	0
+Palagi akong bumabangon nang alas sais.	Ich stehe immer um 6 Uhr auf.	palagi	0	0
+Wala nang asukal.	Der Zucker ist ausgegangen.	asukal	0	0
+Naging kulay ginto ang mga dahon.	Die Blätter färben sich goldgelb.	dahon	0	0
+Wala po iyong bayad.	Das ist gratis.	bayad	0	0
+Hindi iyan madaling tanong.	Das ist keine einfache Frage.	madaling	0	0
+Gusto natin ng katarungan.	Wir wollen Gerechtigkeit.	katarungan	0	0
+Babalik ako maya-maya.	Ich werde bald zurückkommen.	maya-maya	0	0
+Nagugutom ako kaya pumunta ako sa isang restawran.	Ich hatte Hunger und bin daher in ein Restaurant gegangen.	nagugutom	0	0
+Doble ako ng edad mo.	Ich bin doppelt so alt wie du.	edad	0	0
+Siyam na oras po akong natulog.	Ich schlief neun Stunden.	siyam	0	0
+Hinding-hindi iyan mangyayari.	Das wird nie passieren.	hinding-hindi	0	0
+Kilala ba ninyo ang boses ko?	Erkennt ihr meine Stimme?	boses	0	0
+May balbas na po ako ngayon.	Ich habe jetzt einen Bart.	balbas	0	0
+Ano ang kasiyahan?	Was ist Glück?	kasiyahan	0	0
+Gusto ka niyang makilala.	Er will dich kennenlernen.	makilala	0	0
+Kulay rosas ang kotse ng kapatid kong babae.	Das Auto meiner Schwester ist pink.	kulay	0	0
+Ipinipilit niyang inosente ang anak niyang lalaki.	Sie besteht darauf, dass ihr Sohn unschuldig ist.	inosente	0	0
+Malinis ba ang kuwarto 'nyo?	Ist Ihr Zimmer sauber?	malinis	0	0
+Malamig po ang dingding na ito.	Diese Wand ist kalt.	malamig	0	0
+Saan ba iyan nagagamit?	Wozu benutzt man das?	nagagamit	0	0
+Ang pagkakaroon ng iisang wika ay hindi nangangahulugang pagkakaroon ng iisang opinyon.	Die gleiche Sprache zu haben, bedeutet nicht, dieselbe Meinung zu haben.	iisang	0	0
+Nasisiraan na ako.	Ich werde wahnsinnig.	nasisiraan	0	0
+Malapit na po ba akong gumaling uli?	Werde ich bald wieder gesund werden?	gumaling	0	0
+Hindi po masyadong malalim.	Es ist nicht zu tief.	malalim	0	0
+Huwebes bukas.	Morgen ist Donnerstag.	huwebes	0	0
+Marami siyang trabaho sa sandaling ito.	Es gibt im Moment viel zu tun.	sandaling	0	0
+Pag-isipan mo.	Denk mal drüber nach.	pag-isipan	0	0
+Walang natira.	Nichts ist geblieben.	natira	0	0
+Hindi ako nagbibiro.	Ich scherze nicht.	nagbibiro	0	0
+Bukas ang pamilihan mula Lunes hanggang Sabado.	Der Supermarkt ist von Montag bis Samstag geöffnet.	lunes	0	0
+Pumupunta ako sa liwasan.	Ich gehe in den Park.	pumupunta	0	0
+Magsasara ang eskuwelahan sa katapusan ng taon dahil sa kakulangan ng estudyante.	Die Schule wird Ende des Jahres wegen Schülermangels geschlossen.	kakulangan	0	0
+Kung minsan nawawalan tayo ng pasensiya para sa matatanda.	Manchmal fehlt uns die Geduld mit älteren Menschen.	matatanda	0	0
+Sa tingin mo magandang ideya kung pakainin mo ang aso ng tira-tirang pagkain?	Ist es deines Erachtens eine gute Idee, dem Hund Reste zu essen zu geben?	pakainin	0	0
+Ingatan mong walang makakakita sa iyo!	Pass auf, dass dich niemand sieht!	ingatan	0	0
+Nasusunog ang kagubatan.	Der Wald brennt.	kagubatan	0	0
+Doble ang edad ko sa iyo.	Ich bin doppelt so alt wie Sie.	doble	0	0
+Hindi na niya siya muling nakita.	Sie sah ihn nie wieder.	muling	0	0
+Magpapatuloy ako.	Ich werde weitermachen.	magpapatuloy	0	0
+Walang humpay na umulan.	Es regnete ununterbrochen.	humpay	0	0
+Sa tingin mo, hindi nagsasabi ng totoo ang babae, tama ba?	Du glaubst, die Frau sagt nicht die Wahrheit, oder?	nagsasabi	0	0
+Mas barako kaysa yaong kay Juan ang kape ko.	Mein Kaffee ist stärker als der von Johannes.	juan	0	0
+Huwag ninyong sabihing pinagkakatiwalaan pa rin ninyo si Tom!	Erzählt mir nicht, ihr traut Tom immer noch!	sabihing	0	0
+Palagi po siyang umiiyak kapag siya ay lasing.	Sie weint immer, wenn er betrunken ist.	umiiyak	0	0
+Tinatawagan ba ninyo si Tom?	Rufen Sie Tom an?	tinatawagan	0	0
+Maaga akong uuwi ngayon.	Ich gehe heute eher nach Hause.	uuwi	0	0
+Ang kaunti mag-isip, maraming mali.	Wer wenig denkt, irrt viel.	kaunti	0	0
+Gusto mo bang baguhin ang mundo? Simulan mo sa pagkupkop ng isang tuta!	Möchtest du die Welt verändern? Beginne damit, einen Welpen zu adoptieren!	baguhin	0	0
+Hindi po ako nagmula sa Aprika.	Ich komme nicht aus Afrika.	nagmula	0	0
+Puno po ng misteryo ang kalikasan.	Die Natur ist voller Geheimnisse.	misteryo	0	0
+Puwede ko ba itong iuwi?	Kann ich ihn nach Hause mitnehmen?	iuwi	0	0
+Balak mo bang tulungan si Tom?	Haben Sie vor, Tom zu helfen?	balak	0	0
+Hindi ikaw ang tipo ni Tom.	Du bist nicht Toms Typ.	tipo	0	0
+Mahirap basahin ang nakasulat.	Dieser Text ist schwer zu lesen.	nakasulat	0	0
+Nagmamadali ako.	Ich war in Eile.	nagmamadali	0	0
+Marami tayong ginawang mali.	Wir haben viele Fehler gemacht.	ginawang	0	0
+May matindi akong sakit dito.	Ich habe hier starke Schmerzen.	matindi	0	0
+Pinaghandaan niya tayo ng kaunting meryenda.	Sie hat uns einen kleinen Imbiss zubereitet.	kaunting	0	0
+Sa aling tren paparini si Ginoong Takase?	Mit welchem Zug wird Herr Takase ankommen?	ginoong	0	0
+Ano ang kabisera ng Haiti?	Was ist die Hauptstadt von Haiti?	haiti	0	0
+Masayang maglaro ng basketbol.	Basketballspielen macht Spaß.	masayang	0	0
+Biglang nawala ang awto ni Sami.	Samis Auto ist plötzlich verschwunden.	biglang	0	0
+Nanggaling ang mga ninuno ni Tom mula Aprika.	Toms Vorfahren kamen aus Afrika.	nanggaling	0	0
+Nagtagumpay ang mga babae.	Die Mädchen siegten.	nagtagumpay	0	0
+Higit na mas mabigat ako kaysa sa inyo.	Ich bin viel schwerer als ihr.	mabigat	0	0
+Di matandaan ni Tomas ang pangalan ko.	Tom erinnert sich nicht an meinen Namen.	matandaan	0	0
+Natatandaan ko na yata kayo.	Ich glaube, ich erinnere mich an euch.	natatandaan	0	0
+Kaya bang bilhin ng pera ang suwerte?	Kann man mit Geld Glück kaufen?	bilhin	0	0
+Nakita kitang may kasamang matangkad na lalaki.	Ich habe dich mit einem großen Jungen gesehen.	kasamang	0	0
+Nagkatotoo ang panaginip ko.	Mein Traum wurde wahr.	panaginip	0	0
+Parang walang saysay itong lahat.	Es scheint alles sinnlos zu sein.	saysay	0	0
+Mga lotus ang dekorasyon sa mga templo ng Marte.	Die Tempel auf dem Mars sind mit Lotusblumen dekoriert.	templo	0	0
+Ang Bali ay ang isla ng mga diyos at ng mga demonyo.	Bali ist die Insel der Götter und Dämonen.	demonyo	0	0
+Nangyari po ito kahapon.	Es ist gestern passiert.	kahapon	0	0
+Kailangan mong bumangon.	Du musst aufstehen.	bumangon	0	0
+Sinundan po ni Tom si Mary dito.	Tom folgte nach Maria hierher.	sinundan	0	0
+Gaano karaming tao po ang sakay ng barko?	Wie viele Menschen waren auf dem Schiff?	barko	0	0
+Nanalo si Tom sa pustahan.	Tom gewann die Wette.	pustahan	0	0
+Madalas po akong makinig sa mga malulungkot na kanta.	Ich höre oft traurige Lieder.	madalas	0	0
+Subukan mong manatiling gising.	Versuche, wach zu bleiben.	manatiling	0	0
+Ang mga libro ay para sa mga taong gustong mapunta sa ibang lugar.	Bücher sind für die Leute da, die sich an einen anderen Ort wünschen.	mapunta	0	0
+Nakaligtaan ni Tom na bayaran ang bayarin sa tubig.	Tom hat vergessen, die Wasserrechnung zu bezahlen.	nakaligtaan	0	0
+Walang naiwan.	Nichts ist geblieben.	naiwan	0	0
+Pawang kasinungalingan lang po iyan.	Das ist bloß eine Lüge.	pawang	0	0
+Piliin mo ang kulay na pinakagusto mo.	Wähle die Farbe, die du bevorzugst.	piliin	0	0
+Nasusunog ang kagubatan.	Der Wald brennt.	nasusunog	0	0
+Wala akong talento.	Ich bin untalentiert.	talento	0	0
+Tumakbo si Tom pabalik sa kuweba.	Tom lief zurück in die Höhle.	pabalik	0	0
+Kaya mo bang magpadala ng tao para ayusin ito sa lalong madaling panahon?	Kannst du jemanden vorbeischicken, um es so bald wie möglich zu reparieren?	magpadala	0	0
+Maligayang pagdating po sa Hapon.	Willkommen in Japan.	hapon	0	0
+Abala ako ngayon sa pagsusulat ng isang aklat.	Ich bin gerade damit beschäftigt, ein Buch zu schreiben.	pagsusulat	0	0
+Ang hindi alam ang kanyang pinanggalingan, hindi alam ang kanyang paroroonan.	Wer nicht weiß, woher er kommt, weiß nicht, wohin er geht.	pinanggalingan	0	0
+Mas mabuti ang marangal na pagkamatay kaysa sa buhay ng kahihiyan.	Ein ehrenvoller Tod ist besser als ein Leben in Schande.	kahihiyan	0	0
+Tinulugan ko ang bagyo.	Ich habe den Sturm über geschlafen.	bagyo	0	0
+Nag-aral siya nang mabuti para maging dalub-agham.	Er hat sehr viel gelernt, um Wissenschaftler zu werden.	nag-aral	0	0
+Naniwala ba si Tom dito?	Hat Tom das geglaubt?	naniwala	0	0
+Isa akong preso.	Ich bin eine Gefangene.	preso	0	0
+Gusto ba ninyong sumuko?	Wollen Sie aufgeben?	sumuko	0	0
+Siya ay nagsabi na kung siya ay isang ibon siya ay lilipad patungo sa akin.	Er sagt, wenn er ein Vogel wäre, würde er zu mir fliegen.	lilipad	0	0
+Naglalakad po siya.	Sie geht zu Fuß.	naglalakad	0	0
+Bakit ganyan ka kung makatingin sa akin?	Warum siehst du mich so an?	makatingin	0	0
+Nabubuhay pa po ba ang mga magulang ninyo?	Leben Ihre Eltern noch?	magulang	0	0
+Pawang kasinungalingan lang po iyon.	Das ist bloß eine Lüge.	kasinungalingan	0	0
+Hindi ko alam kung paano ako makakatulong sa inyo.	Ich weiß nicht, wie ich euch helfen kann.	makakatulong	0	0
+Magbabayad si Tom.	Tom wird bezahlen.	magbabayad	0	0
+Ipinadala ka ba ni Tom?	Hat Tom dich geschickt?	ipinadala	0	0
+Baka matulungan kayo ni Tom.	Vielleicht kann Tom euch helfen.	matulungan	0	0
+Huwag mo nang uulitin ito!	Tu das nicht wieder!	uulitin	0	0
+Sobrang tamad mo!	Du bist so faul!	tamad	0	0
+May isa akong kuya at saka isang ate.	Ich habe einen älteren Bruder und auch eine ältere Schwester.	saka	0	0
+Magpapakasal sa susunod na buwan sina Tom at Maria.	Tom und Maria heiraten nächsten Monat.	magpapakasal	0	0
+Alam kong responsibilidad niya iyon.	Ich weiß, dass das ihre Pflicht war.	responsibilidad	0	0
+Huwag mo nang itatanong sa akin iyan uli!	Fragen Sie mich das nicht noch mal!	itatanong	0	0
+Isasama ko po si Tom.	Ich werde Tom mitbringen.	isasama	0	0
+Tinuruan niya ang sarili niya ng Pranses.	Er brachte sich selbst Französisch bei.	tinuruan	0	0
+Noong bata pa ako, puwede pang lumangoy sa ilog.	Als ich jung war, konnte man im Fluss schwimmen.	lumangoy	0	0
+Sumasakit ang panga ko.	Mir tut der Kiefer weh.	panga	0	0
+Marumi ang isa sa dalawang sapatos.	Einer von beiden Schuhen ist dreckig.	marumi	0	0
+Kaninong medyas ang mga iyon?	Wessen Socken sind das?	medyas	0	0
+Ang pinakamagandang paraan ng pagsulat ng liham ay ang isulat kung anuman ang nasa isip mo.	Die beste Art, Briefe zu schreiben, ist, alles, was in deinem Kopf ist, aufzuschreiben.	isulat	0	0
+Paumanhin po. Hindi ko po alam na upuan po pala ninyo iyan.	Verzeihen Sie bitte. Ich wusste nicht, dass das Ihr Platz ist.	paumanhin	0	0
+Bihasa kami.	Wir sind erfahren.	bihasa	0	0
+Pinaslang ba ninyo si Tom?	Haben Sie Tom ermordet?	pinaslang	0	0
+Pinakasalan niya si Hiroshi nang labag sa kalooban niya.	Sie hat Hiroshi gegen ihren Willen geheiratet.	kalooban	0	0
+Mayroon siyang hinahanap na lapis.	Er sucht einen Bleistift.	lapis	0	0
+Hindi ko binasa ang kuwento.	Ich habe die Geschichte nicht gelesen.	kuwento	0	0
+Gustong makialam ni Tom.	Tom wollte eingreifen.	makialam	0	0
+Sinusundan po ako ng pusa ko.	Meine Katze verfolgt mich.	sinusundan	0	0
+Delikado ang paninigarilyo sa kama.	Rauchen im Bett ist gefährlich.	delikado	0	0
+Tinanggap niya ang kanyang pagkatalo.	Er räumte seine Niederlage ein.	pagkatalo	0	0
+Ang pumapangalawa ay ang unang talo.	Der zweite Platz ist der erste Verlierer.	talo	0	0
+Matagumpay po kayo.	Sie sind erfolgreich.	matagumpay	0	0
+Matutuwa ako kapag natapos na iyon.	Ich bin froh, wenn das vorbei ist.	matutuwa	0	0
+Hindi namin kayang kontrolin ang lagay ng panahon.	Wir können das Wetter nicht kontrollieren.	lagay	0	0
+Sinong magbabasa ng ganyang kakapal na libro?	Wer würde so ein dickes Buch lesen?	ganyang	0	0
+Bibili po ako ng kompyuter.	Ich kaufe einen Computer.	bibili	0	0
+Hindi po makatarungan ang buhay.	Das Leben ist nicht gerecht.	makatarungan	0	0
+Ano ang matatanggap ko?	Was bekomme ich?	matatanggap	0	0
+Gusto niyang tumira sa isang bansang Budista.	Er will in einem buddhistischen Land leben.	bansang	0	0
+Napakaingay nito.	Es ist sehr laut.	napakaingay	0	0
+Gumagana nang maayos ang motor.	Der Motor funktioniert ordentlich.	motor	0	0
+Simple lang.	Es ist einfach.	simple	0	0
+Nagising ko ba si Tom?	Habe ich Tom aufgeweckt?	nagising	0	0
+Mayroon ding bandera ng Esperanto.	Es gibt auch eine Esperantoflagge.	bandera	0	0
+Mayroong Diyos, kaso nakalimutan niya ang password.	Gott existiert, aber er hat das Passwort vergessen.	password	0	0
+Hindi ko po masasagot ang lahat ng mga katanungan.	Ich kann nicht alle Fragen beantworten.	katanungan	0	0
+Sikreto ang nilalaman ng liham.	Der Inhalt des Briefs war geheim.	sikreto	0	0
+Gusto mo bang baguhin ang mundo? Simulan mo sa pagkupkop ng isang tuta!	Möchtest du die Welt verändern? Beginne damit, einen Welpen zu adoptieren!	simulan	0	0
+Nagbigay siya ng talumpati.	Er hielt eine Rede.	talumpati	0	0
+Mas matanda ako kaysa kay Tom.	Ich bin älter als Tom.	matanda	0	0
+Mga pinsan ko po sila.	Das sind meine Cousins.	pinsan	0	0
+Madalas po kaming kumakain nang sama-sama.	Wir essen oft zusammen.	sama-sama	0	0
+Naghugis-oso ang ulap.	Die Wolke hatte die Form eines Bären.	ulap	0	0
+Hindi ko kayang tiisin ang init.	Ich kann die Hitze nicht ertragen.	init	0	0
+May kopya ka ba?	Hast du eine Kopie?	kopya	0	0
+Mga henyo tayo.	Wir sind Genies.	henyo	0	0
+Medyo nilalagnat ako simula kaninang umaga.	Ich habe seit diesem Morgen leichtes Fieber.	kaninang	0	0
+Hindi na kita pinagkakatiwalaan.	Ich vertraue dir nicht mehr.	pinagkakatiwalaan	0	0
+Pasensiya na at hindi ako nakasagot sa iyo nang mas maaga.	Es tut mir leid, dass ich dir nicht früher geantwortet habe.	maaga	0	0
+Nagulat din ako riyan.	Das hat mich auch überrascht.	nagulat	0	0
+Ang sayang mag-iskeyting.	Rollschuhlaufen macht Spaß.	sayang	0	0
+Tinanong ako ng isang dayuhan kung nasaan ang estasyon.	Ein Ausländer fragte mich, wo sich die Haltestelle befindet.	estasyon	0	0
+Sobrang dami kong gustong ikuwento sa inyo.	Es gibt so viel, was ich euch erzählen möchte!	ikuwento	0	0
+Gusto ko ng matamis.	Ich will etwas Süßes.	matamis	0	0
+Wala akong kinalaman doon.	Ich habe nichts damit zu tun.	kinalaman	0	0
+Makakapunta po ba kayo?	Können Sie kommen?	makakapunta	0	0
+Tama ang hula ko.	Ich habe richtig geraten.	hula	0	0
+Naghelikopter ang presidente papunta sa siyudad.	Der Präsident kommt mit dem Hubschrauber in die Stadt.	presidente	0	0
+Nagsasara ang tindahan nang alas onse.	Der Laden schließt um elf.	nagsasara	0	0
+Nakahanda na ang hapunan.	Das Abendessen ist fertig.	hapunan	0	0
+Gusto kong kumausap ng abogado.	Ich möchte mit einem Anwalt sprechen.	kumausap	0	0
+Sikat ang kantang ito noong dekada setenta.	Dieses Lied war in den 1970ern beliebt.	dekada	0	0
+Wala pong puwedeng pumalit kay Tom.	Niemand kann Tom ersetzen.	pumalit	0	0
+Tumakbo palayo ang lalaki.	Der Mann lief fort.	palayo	0	0
+Palaboy po si Tom.	Tom ist obdachlos.	palaboy	0	0
+Pininturahan niya ng puti ang pader.	Sie hat die Wand weiß gestrichen.	pader	0	0
+Tumawa ba si Tom?	Hat Tom gelacht?	tumawa	0	0
+Maraming bahay po ang naanod ng baha.	Viele Häuser wurden durch die Flut fortgespült.	baha	0	0
+Nakahanda na ang pagkain.	Das Essen ist fertig.	nakahanda	0	0
+Hindi maganda sa sikmura ang pag-inom ng kape.	Kaffee trinken ist nicht gut für den Magen.	sikmura	0	0
+Kumakain si Dexter ng tosilog sa kusina.	Dexter isst Tosilog in der Küche.	kusina	0	0
+Nasa Asya ang Hapon.	Japan liegt in Asien.	asya	0	0
+Hindi ka maaaring maglaro.	Du darfst nicht spielen.	maglaro	0	0
+Humihinga ba siya?	Atmet er?	humihinga	0	0
+Ang taas ko ay 1.83 metro.	Ich bin 1,83 m groß.	metro	0	0
+Nasira ang telebisyon ko, kaya kinailangan kong ipaayos.	Mein Fernseher ging kaputt, also musste ich ihn reparieren lassen.	nasira	0	0
+Panauhin ako ni Tom.	Ich bin Toms Gast.	panauhin	0	0
+Maaari ka lamang gumastos ng hanggang 100 dolyar.	Du darfst maximal 100 Dollar ausgeben.	gumastos	0	0
+Ang laki ng awto.	Das Auto ist groß.	laki	0	0
+Ang lamig.	Es ist kühl.	lamig	0	0
+Hinanap ko po si Tom.	Ich habe Tom gesucht.	hinanap	0	0
+Hindi tayo makakaalis.	Wir können nicht gehen.	makakaalis	0	0
+Ayaw ko siyang pag-usapan.	Ich will nicht über sie sprechen.	pag-usapan	0	0
+Pinakasalan niya si Hiroshi nang labag sa kagustuhan niya.	Sie hat Hiroshi gegen ihren Willen geheiratet.	kagustuhan	0	0
+Nakausap ba ninyo si Tom kahapon?	Habt ihr gestern mit Tom gesprochen?	nakausap	0	0
+Ang Sahara ay malawak na desyerto.	Die Sahara ist eine weitläufige Wüste.	malawak	0	0
+Bumabangon po ako nang alas siyete.	Ich stehe um sieben Uhr auf.	alas	0	0
+Hindi ako nakakakita sa kanang mata.	Ich kann auf dem rechten Auge nichts sehen.	kanang	0	0
+Saan ba kayo nagtago?	Wo habt ihr euch versteckt?	nagtago	0	0
+Siya ay mayaman at makapangyarihan.	Er ist reich und mächtig.	makapangyarihan	0	0
+Nawalan po ng malay si Layla.	Layla wurde ohnmächtig.	malay	0	0
+Nalilito ka.	Du bist verwirrt.	nalilito	0	0
+Ako po ang papatay sa kanya.	Ich werde ihn umbringen.	papatay	0	0
+Isinabit niya ang kalendaryo sa pader.	Sie hängte den Kalender an die Wand.	kalendaryo	0	0
+Nakita kong nakahubad si Tom.	Ich sah Tom nackt.	nakahubad	0	0
+Gusto ko po sanang bisitahin ang nanay ninyo.	Ich würde gern Ihre Mutter besuchen.	bisitahin	0	0
+Bawal manigarilyo sa loob ng tren.	Rauchen ist im Zug verboten.	bawal	0	0
+Hinding-hindi po ako naggugupit ng kuko sa gabi.	Ich schneide meine Nägel niemals nachts.	kuko	0	0
+Mayroon po bang may gusto ng kape?	Will jemand Kaffee?	kape	0	0
+Ang siyang lumabag sa batas ay dapat parusahan.	Wer gegen das Gesetz verstößt, muss bestraft werden.	parusahan	0	0
+Napanalunan ni Tom ang premyo.	Tom hat den Preis gewonnen.	premyo	0	0
+Masarap po akong magluto.	Ich kann gut kochen.	magluto	0	0
+Makinig kayo nang maigi sa akin!	Hören Sie mir genau zu!	maigi	0	0
+Nagmula ang mga ninuno ni Tom sa Aprika.	Toms Vorfahren kamen aus Afrika.	ninuno	0	0
+Napansin iyon ng lahat.	Jeder hat das gemerkt.	napansin	0	0
+Tinawag ni Tom si Mary na isang sinungaling.	Tom nannte Mary eine Lügnerin.	tinawag	0	0
+Siya ay nagsabi na kung siya ay isang ibon siya ay lilipad patungo sa akin.	Er sagt, wenn er ein Vogel wäre, würde er zu mir fliegen.	patungo	0	0
+Sumasakit ang tiyan ko.	Mein Bauch tut weh.	tiyan	0	0
+May kabayo po akong gutom palagi.	Ich habe ein Pferd, das immer Hunger hat.	kabayo	0	0
+Umiinom po ako ng juice.	Ich trinke Saft.	juice	0	0
+Mas maganda ang pamamaraan mo.	Deine Methode ist besser.	pamamaraan	0	0
+May salang pagnanakaw si Tom.	Tom ist des Diebstahls schuldig.	pagnanakaw	0	0
+Kulay abo ang daga.	Die Maus ist grau.	daga	0	0
+Hindi siya magsasalita.	Er wird kein Wort sagen.	magsasalita	0	0
+Pinakasalan niya si Hiroshi nang labag sa kalooban niya.	Sie hat Hiroshi gegen ihren Willen geheiratet.	labag	0	0
+Ang haba nito masyado.	Es ist zu lang.	haba	0	0
+Sana walang makakita sa atin.	Ich hoffe, uns sieht niemand.	makakita	0	0
+Maingat po ako.	Ich bin vorsichtig.	maingat	0	0
+Hindi naging mabagsik si Tom.	Tom war nicht grausam.	mabagsik	0	0
+Kaninong opisina ito?	Wessen Büro ist das?	kaninong	0	0
+Malapit na po akong lumipat.	Ich werde bald umziehen.	lumipat	0	0
+Nalutas po namin ang suliranin sa loob ng isang linggo.	Wir haben das Problem in einer Woche gelöst.	nalutas	0	0
+Nakinig po sila ng radyo.	Sie hörten Radio.	nakinig	0	0
+Nanonood po ako ng telebisyon.	Ich sehe fern.	nanonood	0	0
+Opo, napakasarap po ng gatas.	Ja, die Milch ist sehr gut.	napakasarap	0	0
+Makikinig ka.	Du wirst zuhören.	makikinig	0	0
+Nakainom po sila.	Sie sind betrunken.	nakainom	0	0
+Puwede ka bang maghintay nang saglit?	Kannst du einen Augenblick warten?	saglit	0	0
+Astig!	Cool!	astig	0	0
+Huwag na huwag kang mawawalan ng pag-asa!	Verliere nie die Hoffnung!	mawawalan	0	0
+Hindi mo ako kailangang pasalamatan.	Das ist nicht der Rede wert.	pasalamatan	0	0
+Napakaganda po ng aklat na ito.	Dieses Buch ist sehr gut.	napakaganda	0	0
+Kung ako ikaw, mag-aaral ako nang mas mabuti.	Wenn ich du wäre, würde ich eifriger lernen.	mag-aaral	0	0
+Hulihin mo kaya ako!	Fang mich doch!	hulihin	0	0
+Halata ba?	Merkt man es?	halata	0	0
+Nagalit sa atin si Tom.	Tom wurde böse auf uns.	nagalit	0	0
+Nagugustuhan po ba ninyo ang pitakang ito?	Gefällt Ihnen dieses Portemonnaie?	nagugustuhan	0	0
+Hinuli ang kaibigan ko dahil sa pagmamaneho niya nang masyadong matulin.	Mein Freund wurde wegen zu schnellen Fahrens eingesperrt.	hinuli	0	0
+Kusa po itong nangyayari.	Es passiert automatisch.	kusa	0	0
+Naghahanda ako.	Ich mache mich fertig.	naghahanda	0	0
+Atake!	Angriff!	atake	0	0
+Kailangan po natin ng sariwang hangin.	Wir brauchen frische Luft.	sariwang	0	0
+Gusto ko ang baybay.	Ich mag den Strand.	baybay	0	0
+May isinuot pong kurbata si Tom.	Tom legte eine Krawatte an.	kurbata	0	0
+Mahilig ako sa gatas at tinapay.	Ich mag Milch und Brot.	gatas	0	0
+Si Johannes ay walang pakialam sa pakikipaglaban gamit ang mga armas, kung saan si Tom ay labis na gumon. Nakakita siya ng higit na kagalakan sa pagtugtog ng kanyang lira at kaakit-akit sa kagandahan ng mga tunog ng kanyang musika at kanyang pag-awit kaysa sa paghagupit ng mga tao nang may malupit na puwersa.	Johannes achtete den Kampf mit Waffen, dem Tom so verfallen war, gering. Er hatte viel mehr Freude daran, auf seiner Leier zu spielen und mit der Schönheit der Klänge seiner Musik und seines Gesangs zu verzaubern, statt mit roher Gewalt niederzustrecken.	labis	0	0
+Kailangan ko ng suporta.	Ich brauche Unterstützung.	suporta	0	0
+Naghanap ako ng trabaho.	Ich suchte Arbeit.	naghanap	0	0
+Masyado akong maraming nainom. Namamaga ang mukha ko.	Ich habe zu viel getrunken. Mein Gesicht ist geschwollen.	nainom	0	0
+Dapat kumilos ka nang mas paham.	Du musst weiser handeln.	paham	0	0
+Ang sarap ng malambot na tinapay.	Das weiche Brot ist lecker.	tinapay	0	0
+Tsaa ang iniinom ninyo.	Ihr trinkt Tee.	iniinom	0	0
+Bakit hindi kayo nagtanong sa akin?	Warum habt ihr mich nicht gefragt?	nagtanong	0	0
+Sumisigaw po si Tom.	Tom schreit.	sumisigaw	0	0
+Hahanap ako ng ibang trabaho.	Ich werde eine andere Anstellung finden.	hahanap	0	0
+Nakakakita ba kayo?	Können Sie sehen?	nakakakita	0	0
+Maligayang Pasko ng Pagkabuhay!	Frohe Ostern!	pagkabuhay	0	0
+Halos pitong bilyon na ang tao sa mundo.	Es gibt beinahe sieben Milliarden Menschen auf der Welt.	bilyon	0	0
+Wala namang nagsasabing hindi ka pwedeng mangisda.	Niemand sagt, dass du nicht fischen gehen kannst.	nagsasabing	0	0
+Huwag kang matutulog! Kung matutulog ka, mamamatay ka!	Nicht einschlafen! Wenn du einschläfst, stirbst du!	matutulog	0	0
+Huwag mo akong sisihin.	Gib mir nicht die Schuld.	sisihin	0	0
+Pumanaw po si Tom noong 2013.	Tom ist 2013 gestorben.	pumanaw	0	0
+Wala siyang ipinagbago mula nang huling beses ko siyang nakita.	Er hat sich kein bisschen verändert, seit ich ihn gesehen habe.	ipinagbago	0	0
+Hindi ako maaaring magtagal.	Ich kann nicht lange bleiben.	magtagal	0	0
+Nagtrabaho ka ba kagabi?	Haben Sie gestern Abend gearbeitet?	nagtrabaho	0	0
+Papunta po tayong kanluran.	Wir gehen nach Westen.	kanluran	0	0
+Pakiabot ng asin at paminta!	Reich mir bitte Salz und Pfeffer!	pakiabot	0	0
+Darating ako roon nang alas dos y medya, okey ba?	Ich werde um 2:30 dort sein, okay?	okey	0	0
+Masyado ninyong sineseryoso ang mga bagay-bagay.	Ihr nehmt immer alles zu ernst.	bagay-bagay	0	0
+Maaasahan mo ako bukas.	Du kannst mich morgen erwarten.	maaasahan	0	0
+Nakakalungkot ito.	Das ist traurig.	nakakalungkot	0	0
+Huli nang sampung minuto ang orasan.	Die Uhr geht zehn Minuten nach.	orasan	0	0
+Mahirap iyong paniwalaan.	Das ist schwer zu glauben.	paniwalaan	0	0
+May teorya ako.	Ich habe eine Theorie.	teorya	0	0
+Si Tom po ang mananalo, hindi po ba?	Tom wird gewinnen, nicht wahr?	mananalo	0	0
+Nakalimutan kong bayaran ang bayarin ng kuryente.	Ich habe vergessen, die Stromrechnung zu bezahlen.	kuryente	0	0
+Sa tingin ko, magtatanim na lang ako ng mais sa halip ng patatas ngayong taon.	Ich denke, dieses Jahr werde ich Mais statt Kartoffeln anbauen.	patatas	0	0
+Ang kapal ng mukha!	Wie arrogant!	kapal	0	0
+Suportahan mo si Tom!	Unterstütze Tom!	suportahan	0	0
+Nangangailangan po ako ng bagong sasakyan.	Ich benötige ein neues Auto.	nangangailangan	0	0
+Magkano po ang kalahating kilo?	Wie viel kostet ein halbes Kilo?	kilo	0	0
+Tinanong ko lang kung maaari ko bang hiramin ang libro?	Ich habe nur gefragt, ob ich mir das Buch leihen kann.	hiramin	0	0
+Sumobra na naman ang tulog namin.	Wir haben wieder verschlafen.	sumobra	0	0
+Sa tingin ko, bibigyan siya ng maling impresyon ng istoryang ito.	Ich glaube, diese Geschichte wird ihm einen falschen Eindruck geben.	impresyon	0	0
+Ako ang nagsulat ng aklat na ito.	Dieses Buch habe ich geschrieben.	nagsulat	0	0
+Gusto ko ang modelong ito.	Dieses Modell hier gefällt mir.	modelong	0	0
+Inayos po ni Tom ang higaan niya.	Tom machte sein Bett.	inayos	0	0
+Lumipad si Tom.	Tom ist geflogen.	lumipad	0	0
+Tama ang hinala ko.	Mit meinem Bauchgefühl lag ich richtig.	hinala	0	0
+May umikot na usap-usapan sa lungsod.	Ein Gerücht ging in der Stadt um.	usap-usapan	0	0
+Ihain ang pagkain sa plato.	Servier das Gericht auf einem Teller.	plato	0	0
+Naubos niya ang pera niya.	Er hat sein Geld verbraucht.	naubos	0	0
+Hindi pa dumarating ang bus.	Der Bus ist noch nicht gekommen.	dumarating	0	0
+Ang husay magsulat ni Tom.	Tom kann gut schreiben.	husay	0	0
+Bakit ba napakahalaga niyon?	Warum ist das so wichtig?	napakahalaga	0	0
+Tapos na ang tag-araw.	Der Sommer ist vorüber.	tag-araw	0	0
+Nilikha ng Diyos ang mundo sa loob ng anim na araw.	Gott erschuf die Welt in sechs Tagen.	nilikha	0	0
+Minamahal niya siya.	Sie liebt ihn.	minamahal	0	0
+Bumibili po siya ng salamin.	Er kauft eine Brille.	bumibili	0	0
+Hindi naging patas si Tom.	Tom war unfair.	patas	0	0
+Hinding-hindi po ako magsusuot ng ganoong sombrero.	So einen Hut trüge ich nie.	ganoong	0	0
+Hindi namin kayang kontrolin ang lagay ng panahon.	Wir können das Wetter nicht kontrollieren.	kontrolin	0	0
+Aling kulay ang gusto mo?	Welche Farbe gefällt dir?	aling	0	0
+Halos wala kang pinagbago.	Du hast dich kaum verändert.	pinagbago	0	0
+Ang Europa ay isa pong kontinente.	Europa ist ein Kontinent.	kontinente	0	0
+Wala akong katunayan.	Ich habe keinen Beweis.	katunayan	0	0
+Walang dudang walang hanggan ang sanlibutan.	Es besteht kein Zweifel, dass das Universum unendlich ist.	hanggan	0	0
+Naniniwala si Tom na kunwari lang ang paglapag sa buwan.	Tom glaubt, dass die Mondlandungen bloß inszeniert waren.	kunwari	0	0
+Ang karne ay simbolo ng sekso.	Fleisch ist ein Sexsymbol.	simbolo	0	0
+Salamat sa pagligtas sa akin.	Danke, dass du mich gerettet hast.	pagligtas	0	0
+Tinakpan niya ako ng kumot.	Sie hat mich mit einer Decke zugedeckt.	kumot	0	0
+Hindi tumutubo ang pera sa puno.	Geld wächst nicht auf Bäumen.	tumutubo	0	0
+Heto ang aking blog, na magpapakilala sa akin at maghahayag ukol sa aking pang-araw-araw na buhay.	Hier ist mein Blog, in dem ich mich vorstellen und von meinem Alltag erzählen werde.	pang-araw-araw	0	0
+Aling kandidato ang mas pipiliin ninyo?	Welchen Kandidaten findet ihr besser?	pipiliin	0	0
+Kaya bang bilhin ng pera ang suwerte?	Kann man mit Geld Glück kaufen?	suwerte	0	0
+Gumagamit ng maraming komplikadong makina ang pabrika.	In dieser Fabrik werden viele komplizierte Maschinen verwendet.	gumagamit	0	0
+Masyado ba akong maingay?	War ich zu laut?	maingay	0	0
+Minahal mo ba si Tom?	Haben Sie Tom geliebt?	minahal	0	0
+Babalikan kita.	Ich werde auf dich zurückkommen.	babalikan	0	0
+Hindi ako bayani.	Ich bin kein Held.	bayani	0	0
+Sariwang gulay lang ang kinakain ko.	Ich esse nur frisches Gemüse.	gulay	0	0
+Nalason po siya.	Sie wurde vergiftet.	nalason	0	0
+Itinanong ko po ang dahilan.	Ich fragte nach dem Grund.	itinanong	0	0
+Puwede ko na po bang kunin ang order ninyo?	Kann ich jetzt Ihre Bestellung aufnehmen?	order	0	0
+Maayos ang leche flan niya.	Ihr Leche Flan ist in Ordnung.	leche	0	0
+Ngumiti ka pa.	Lächle weiter.	ngumiti	0	0
+Gusto niya akong bolahin.	Sie wollte mir schmeicheln.	bolahin	0	0
+Ang tapang mo.	Du warst tapfer.	tapang	0	0
+Tinupad ko ang salita ko.	Ich habe mein Wort gehalten.	tinupad	0	0
+May ipinakita siya sa aking litrato ng kanyang ina noong mag-aaral pa siya.	Sie zeigte mir ein Bild ihrer Mutter als Schulkind.	ipinakita	0	0
+Salamat sa pagtulong ninyo!	Danke, dass ihr ausgeholfen habt!	pagtulong	0	0
+Tumalon po si Tom mula sa bintana ng kuwarto.	Tom sprang aus dem Schlafzimmerfenster.	tumalon	0	0
+Bumili po ako ng pulang kurbata.	Ich kaufte eine rote Krawatte.	pulang	0	0
+Gaano karaming tao po ang sakay ng barko?	Wie viele Menschen waren auf dem Schiff?	karaming	0	0
+Hindi mo kailangan sumagot sa tanong na ito.	Du musst auf diese Frage nicht antworten.	sumagot	0	0
+Binaril po ako ni Tom sa binti.	Tom hat mir ins Bein geschossen.	binti	0	0
+Kinamumuhian ko siya.	Ich hasse sie.	kinamumuhian	0	0
+Masayang tawirin ang karagatan sakay ng barko.	Es ist sehr angenehm, den Ozean per Schiff zu überqueren.	sakay	0	0
+Sisigaw tayo.	Wir werden schreien.	sisigaw	0	0
+Ang baho ng karneng ito.	Dieses Fleisch riecht schlecht.	baho	0	0
+Si Karl ang nagbabalat ng saging mo.	Karl schält deine Banane.	karl	0	0
+Na kay Tom po ang lisensiya ko sa pagmamaneho.	Tom hat meinen Führerschein.	pagmamaneho	0	0
+Sinabi ni Papa Francisco ni ang mga ateistang gumagawa ng kabutihan ay pupunta rin sa langit.	Papst Franziskus sagte, Atheisten, die Gutes tun, würden auch in den Himmel kommen.	francisco	0	0
+Nauunawaan mo iyon, hindi ba?	Du verstehst das, nicht wahr?	nauunawaan	0	0
+Pinaniwalaan ba iyon ni Tom?	Hat Tom das geglaubt?	pinaniwalaan	0	0
+Niluto ni Tom ang tanghalian.	Tom kochte das Mittagessen.	niluto	0	0
+Namatay ang kandila.	Die Kerze erlosch.	kandila	0	0
+Nakabalik na ako.	Ich bin zurückgekommen.	nakabalik	0	0
+Sinimulan na ni Tom.	Tom hat schon angefangen.	sinimulan	0	0
+Nawala ko ang kamera ko.	Ich habe meinen Fotoapparat verloren.	kamera	0	0
+Kanino ang aklat na ito?	Von wem ist dieses Buch?	aklat	0	0
+Gusto kong bumisita sa inyo.	Ich will Sie besuchen.	bumisita	0	0
+Sa kasamaang palad, totoo iyon.	Unglücklicherweise ist das wahr.	palad	0	0
+Sa kasamaang palad, totoo iyon.	Unglücklicherweise ist das wahr.	kasamaang	0	0
+Sa tingin ko inggit ka lang.	Ich glaube, du bist einfach nur eifersüchtig.	inggit	0	0
+Hindi na masama para sa isang baguhan!	Nicht schlecht für eine Anfängerin!	baguhan	0	0
+Legal ang prostitusyon sa Germany.	Prostitution ist legal in Deutschland.	legal	0	0
+Makakarating po ba sila bukas?	Ist es ihnen möglich morgen zu kommen?	makakarating	0	0
+Gagamitin ko ang gunting na iyan sa paggupit ng papel na dilaw.	Ich werde diese Schere benutzen, um das gelbe Papier zu schneiden.	gunting	0	0
+Sandali lang. Kukuha ako ng tuwalya.	Warte kurz. Ich hole ein Handtuch.	tuwalya	0	0
+Si Tom ang nagnakaw ng singsing.	Tom stahl den Ring.	nagnakaw	0	0
+Walang laman ang baterya ng kotse.	Die Autobatterie ist leer.	baterya	0	0
+Hindi ka ba payag dito?	Bist du damit nicht einverstanden?	payag	0	0
+Itikom mo ang bunganga mo!	Halt die Fresse!	bunganga	0	0
+Kamukha niya ang nanay niya.	Sie sieht wie ihre Mutter aus.	kamukha	0	0
+Ang Thai ay wikang opisyal ng Thailand.	Thai ist die offizielle Landessprache Thailands.	opisyal	0	0
+Nasasaktan ko ba kayo?	Tue ich euch weh?	nasasaktan	0	0
+Kailangan nating magtipid ng bala.	Wir müssen Munition sparen.	bala	0	0
+Naglakad ako papasok sa paaralan.	Ich bin zu Fuß zur Schule gegangen.	paaralan	0	0
+Gumana nang walang anumang problema.	Es funktionierte ohne Probleme.	gumana	0	0
+Mga engot sila.	Sie sind Idioten.	engot	0	0
+Posible pa rin po ito.	Es ist immer noch möglich.	posible	0	0
+Wala akong balak na pakasalan siya.	Ich habe nicht die Absicht, ihn zu heiraten.	pakasalan	0	0
+Magsasabi si Tom ng hindi.	Tom wird nein sagen.	magsasabi	0	0
+Sino pa ang natulungan mo?	Wem hast du noch geholfen?	natulungan	0	0
+Kinain mo na ang keyk?	Du hast den Kuchen schon gegessen?	kinain	0	0
+Isinama ni Tom si Maria.	Tom nahm Maria mit sich.	isinama	0	0
+Hindi kita hahayaang gawin iyon.	Ich werde es nicht zulassen, dass du das tust.	hahayaang	0	0
+Sumakay po kayo ng bus.	Nehmen Sie einen Bus.	bus	0	0
+Heto ang aking blog, na magpapakilala sa akin at maghahayag ukol sa aking pang-araw-araw na buhay.	Hier ist mein Blog, in dem ich mich vorstellen und von meinem Alltag erzählen werde.	ukol	0	0
+Ipapaalam ko sa inyo.	Ich werde es Sie wissen lassen.	ipapaalam	0	0
+Kailangan kong makalabas mula rito.	Ich muss hier raus.	makalabas	0	0
+Inimbitahan ba ninyo si Tom?	Haben Sie Tom eingeladen?	inimbitahan	0	0
+Hindi nailigtas ni Tom si Mary.	Tom konnte Mary nicht retten.	nailigtas	0	0
+Tom ang ipapangalan ko sa kanya.	Ich werde ihn Tom nennen.	ipapangalan	0	0
+Puwede po ba tayong mag-usap nang saglit?	Können wir Sie kurz sprechen?	mag-usap	0	0
+Nakatira siya sa kabila ng daan.	Er wohnt auf der anderen Straßenseite.	kabila	0	0
+Nakaharang ba ako sa daan mo?	Stehe ich Ihnen im Weg?	nakaharang	0	0
+Ano ang kaguluhang ito?	Was soll dieser ganze Lärm?	kaguluhang	0	0
+Mauunawaan nila ito.	Sie werden es verstehen.	mauunawaan	0	0
+Hindi ganoon katangkad si Tom.	Tom ist nicht so groß.	katangkad	0	0
+Nagtitinda ako ng mga damit onlayn.	Ich verkaufe Kleidung online.	nagtitinda	0	0
+Nakita natin ang unggoy sa zoo.	Wir haben den Affen im Zoo gesehen.	unggoy	0	0
+Hindi ka ba tumutulong kay Tom?	Helfen Sie Tom nicht?	tumutulong	0	0
+Lunukin mo ang tableta.	Schluck die Pille.	tableta	0	0
+Ang siyang hindi humihingi, walang natatanggap.	Wer um nichts bittet, bekommt nichts.	humihingi	0	0
+Nagpapasalamat akong buhay pa ako.	Ich bin dankbar, dass ich noch lebe.	nagpapasalamat	0	0
+Natakot akong hindian ito.	Ich hatte Angst davor abzulehnen.	natakot	0	0
+Humuhuni lang si Tom.	Tom summt gerade.	humuhuni	0	0
+Kumalma ang lahat.	Alle beruhigten sich.	kumalma	0	0
+Kinausap ba ninyo si Tom kahapon?	Habt ihr gestern mit Tom gesprochen?	kinausap	0	0
+Ang gandang tingnan ng mga ito.	Diese hier sehen gut aus.	gandang	0	0
+Pinayagan dapat ni Tom ang mga anak niyang magkamping kasama namin.	Tom hätte seinen Kindern erlauben sollen, mit uns zelten zu gehen.	pinayagan	0	0
+Sana kaya kong kumanta kagaya mo!	Ich wünschte, ich könnte so singen wie Sie!	kumanta	0	0
+Ang libangan ni Yumi ay ang pagkanta ng mga sikat na kanta.	Yumis Hobby ist es, Schlager zu singen.	pagkanta	0	0
+Binaril ni Tom ang sarili niya sa tuhod.	Tom hat sich selbst ins Knie geschossen.	tuhod	0	0
+Sumasakit ang panga ko.	Mir tut der Kiefer weh.	sumasakit	0	0
+Ito po ang unang opisyal na biyahe ng ministro.	Das ist die erste offizielle Reise des Ministers.	ministro	0	0
+Ang pinakamagandang paraan ng pagsulat ng liham ay ang isulat kung anuman ang nasa isip mo.	Die beste Art, Briefe zu schreiben, ist, alles, was in deinem Kopf ist, aufzuschreiben.	pinakamagandang	0	0
+Nakalimutan ni Tom na bayaran ang bayarin sa tubig.	Tom hat vergessen, die Wasserrechnung zu bezahlen.	bayarin	0	0
+Anu-ano ang mga ginawa mo sa mga taong ito?	Was hast du in diesen Jahren gemacht?	anu-ano	0	0
+Hindi ko makakalimutan si Tom.	Ich kann Tom nicht vergessen.	makakalimutan	0	0
+Si Johannes ay walang pakialam sa pakikipaglaban gamit ang mga armas, kung saan si Tom ay labis na gumon. Nakakita siya ng higit na kagalakan sa pagtugtog ng kanyang lira at kaakit-akit sa kagandahan ng mga tunog ng kanyang musika at kanyang pag-awit kaysa sa paghagupit ng mga tao nang may malupit na puwersa.	Johannes achtete den Kampf mit Waffen, dem Tom so verfallen war, gering. Er hatte viel mehr Freude daran, auf seiner Leier zu spielen und mit der Schönheit der Klänge seiner Musik und seines Gesangs zu verzaubern, statt mit roher Gewalt niederzustrecken.	kagandahan	0	0
+May barya ka ba?	Habt ihr Kleingeld?	barya	0	0
+Ano ang maibibigay mo sa akin?	Was kannst du mir geben?	maibibigay	0	0
+Armado po ba si Tom?	War Tom bewaffnet?	armado	0	0
+Tatlong taon na tayong magkakilala.	Wir kennen uns seit drei Jahren.	magkakilala	0	0
+Gusto kong manirahan sa Australia.	Ich möchte in Australien leben.	manirahan	0	0
+Heto ang aking blog, na magpapakilala sa akin at maghahayag ukol sa aking pang-araw-araw na buhay.	Hier ist mein Blog, in dem ich mich vorstellen und von meinem Alltag erzählen werde.	blog	0	0
+Labindalawang oras akong nasa tren.	Ich war zwölf Stunden in dem Zug.	labindalawang	0	0
+Sinong kandidato ang mas nagugustuhan 'nyo?	Welche Kandidatin finden Sie besser?	kandidato	0	0
+Mabubuksan mo ba?	Kannst du es aufmachen?	mabubuksan	0	0
+Mas malubha ang iyo.	Deine ist schlechter.	malubha	0	0
+Maligaya ako sa balitang ito.	Ich freue mich über diese Nachricht.	maligaya	0	0
+Wala akong katibayan.	Ich habe keinen Beweis.	katibayan	0	0
+Puwede mo bang lakasan ang boses mo? Hindi kita marinig.	Kannst du lauter sprechen? Ich höre dich nicht.	lakasan	0	0
+Naghanda siya ng kaunting meryenda para sa atin.	Sie hat uns einen kleinen Imbiss zubereitet.	naghanda	0	0
+Makukuha ko ba ang hinihiling ko?	Werde ich das bekommen, was ich mir wünsche?	hinihiling	0	0
+Isa iyong bagong karanasan para sa akin.	Das war für mich eine neue Erfahrung.	karanasan	0	0
+Ang isang dolyar ay katumbas ng isang daang sentimos.	Ein Dollar ist gleich hundert Cent.	katumbas	0	0
+Binayaran ako ni Tom.	Tom hat mich bezahlt.	binayaran	0	0
+Nakilala ko siya NANG LUBUSAN.	Ich habe sie RICHTIG gut kennengelernt.	lubusan	0	0
+Ang pagmamahal sa kalayaan ang nagdala sa amin dito.	Die Liebe zur Freiheit hat uns hergebracht.	kalayaan	0	0
+Halos pitong bilyon na ang tao sa mundo.	Es gibt beinahe sieben Milliarden Menschen auf der Welt.	pitong	0	0
+May kasama ako ngayong kliyente.	Ich habe gerade einen Kunden.	kliyente	0	0
+Tapusin natin ang laro.	Lass uns bis zum Ende des Spieles bleiben.	laro	0	0
+Kakausapin ko si Tom.	Ich werde mit Tom sprechen.	kakausapin	0	0
+Ubos na ang alak natin.	Wir haben kein Bier mehr.	ubos	0	0
+Sabi ng pahayagan, tinamaan daw ng bagyo ang Kyushu.	In den Zeitungen steht, dass der Taifun über Kyushu gezogen ist.	tinamaan	0	0
+Ilaan 'nyo ako ng upuan.	Halten Sie mir einen Platz frei.	ilaan	0	0
+Hinding-hindi po nagsusuot si Tom ng sombrero.	Tom trägt nie einen Hut.	nagsusuot	0	0
+Trenta anyos na po ako ngayon.	Ich bin jetzt dreißig.	anyos	0	0
+Ang laking tulong mo sa akin.	Du warst mir eine große Hilfe.	laking	0	0
+Sino ang nakabantay?	Wer hat Wache?	nakabantay	0	0
+Iniipon ko ang perang mayroon ako.	Ich spare das Geld, das ich habe.	iniipon	0	0
+Alerdyik ako sa alikabok.	Ich bin allergisch gegen Staub.	alikabok	0	0
+Paano mo siya kinumbinsi?	Wie hast du sie überzeugt?	kinumbinsi	0	0
+Puwede po ba akong magpakilala?	Darf ich mich vorstellen?	magpakilala	0	0
+Nagtuturo si Maria ng yoga.	Maria unterrichtet Yoga.	yoga	0	0
+Nasa loob si Tom ng gusali.	Tom ist im Gebäude.	gusali	0	0
+Matutulungan ka ni Tom.	Tom könnte Ihnen helfen.	matutulungan	0	0
+Hindi namin napigilan ang mga luha namin.	Wir konnten die Tränen nicht zurückhalten.	luha	0	0
+Nagmamakaawa akong tulungan mo kami.	Ich bitte dich, uns zu helfen.	nagmamakaawa	0	0
+Pinapunta ako rito ni Tom.	Tom hat mich hierher kommen lassen.	pinapunta	0	0
+Malaking kawalan po iyan.	Das ist ein schwerer Verlust.	kawalan	0	0
+Madalas humiga sa damo ang aking aso.	Mein Hund legt sich oft auf den Rasen.	damo	0	0
+Napakalaki ang kutsara ko!	Mein Löffel ist zu groß!	napakalaki	0	0
+Hanggang balikat ang buhok niya.	Das Haar geht ihr bis zu den Schultern.	balikat	0	0
+Nirerespeto ni Kay ang lahat kundi ang sarili niya.	Kay respektiert alles, bis auf sich selbst.	nirerespeto	0	0
+Nasa Boston pa rin si Tom.	Tom ist noch in Boston.	boston	0	0
+Hindi kami lumalaban.	Wir kämpfen nicht.	lumalaban	0	0
+Protektahan ninyo ang mga sarili ninyo.	Verteidigen Sie sich.	protektahan	0	0
+Tumuloy kami sa bahay ng tito namin.	Wir sind bei unserem Onkel geblieben.	tumuloy	0	0
+Kailangan kong mapanood ang pelikulang ito.	Ich muss diesen Film sehen.	pelikulang	0	0
+Huwag tumawid sa tulay na ito!	Fahre nicht über diese Brücke!	tulay	0	0
+Paalis na ang tren.	Der Zug fährt bald ab.	paalis	0	0
+Gusto mo bang maging aking kasintahan? □ Oo. □ Hindi. □ Siguro.	Möchtest Du meine Freundin sein? □ Ja. □ Nein. □ Vielleicht.	kasintahan	0	0
+Nagdala ang istorya ng mga luha sa kanyang mga mata.	Die Geschichte hat ihr Tränen in die Augen getrieben.	istorya	0	0
+Itay, kaya po ba ninyong magtago ng sikreto?	Vater, können Sie Geheimnisse behalten?	magtago	0	0
+Masyadong mahahaba ang mga buhok nila.	Sie haben zu lange Haare.	mahahaba	0	0
+Limang taon na ang lumipas nang huli kitang makita.	Ich habe dich vor fünf Jahren das letzte Mal gesehen.	lumipas	0	0
+Hindi ako ang pinagmulan ng aksidente.	Ich habe den Unfall nicht verursacht.	aksidente	0	0
+Hindi po ito gagana.	Das wird nicht funktionieren.	gagana	0	0
+Nagsalita si Tom nang malakas na pabulong.	Tom sprach in lautem Flüsterton.	pabulong	0	0
+Sa umpisa akala ko biro lang.	Anfangs hielt ich es für einen Scherz.	umpisa	0	0
+Nabali yata ang binti ko.	Ich glaube, ich habe mir mein Bein gebrochen.	nabali	0	0
+Hawak nila ang kompyuter ko at gusto kong maibalik ito sa akin.	Sie haben meinen Computer und ich will ihn zurück.	maibalik	0	0
+Palaging mayroong matututunan.	Es gibt immer noch etwas zu lernen.	matututunan	0	0
+Nakakapagsalita ba siya ng Ingles?	Spricht sie Englisch?	ingles	0	0
+Hirap makarinig si Tom.	Tom hört schlecht.	makarinig	0	0
+Sinasamahan ng tuta ang amo.	Das Hündchen begleitet die Besitzerin.	tuta	0	0
+Paano mo gustong magbayad?	Wie möchten Sie zahlen?	magbayad	0	0
+Iniipon ko ang perang mayroon ako.	Ich spare das Geld, das ich habe.	perang	0	0
+Ubos na ang gasolina natin.	Uns ging das Benzin aus.	gasolina	0	0
+Maiba tayo ng usapan.	Wechseln wir das Thema.	maiba	0	0
+Madalas akong magbasa ng mga libro sa Pranses.	Ich lese oft französische Bücher.	magbasa	0	0
+Masayang tinanggap ni Tom ang imbitasyon.	Tom nahm die Einladung mit Freude an.	imbitasyon	0	0
+Malusog po rati si Tom.	Früher war Tom gesund.	malusog	0	0
+Inaapi ng pamahalaan ng bansang ito ang kanyang mga mamamayan.	Die Regierung dieses Landes unterdrückt seine Bevölkerung.	pamahalaan	0	0
+Talagang makapal ang yelo.	Das Eis ist sehr dick.	makapal	0	0
+May ambisyon po si Tom.	Tom hat Ehrgeiz.	ambisyon	0	0
+Sa pagkakaalam ko, hindi siya kasal.	Soviel ich weiß, ist er nicht verheiratet.	pagkakaalam	0	0
+Ang Sahara ay malawak na desyerto.	Die Sahara ist eine riesengroße Wüste.	desyerto	0	0
+Mangingisda ako.	Ich gehe angeln.	mangingisda	0	0
+Bumibili siya ng maleta.	Er kauft einen Koffer.	maleta	0	0
+Ang lungkot nito.	Das ist traurig.	lungkot	0	0
+Tunay kang mandirigma.	Du bist ein wahrer Krieger.	mandirigma	0	0
+Pinagpapasyahan namin ang lahat nang magkakasama.	Wir entscheiden alles gemeinsam.	magkakasama	0	0
+"Gusto mo ba akong yakapin o halikan?" – "Parehas."	„Möchtest du mich umarmen oder küssen?“ – „Sowohl als auch.“	parehas	0	0
+Huwag umakyat sa pader.	Klettere nicht auf die Mauer.	umakyat	0	0
+Sana kasya na iyon.	Ich hoffe, das reicht.	kasya	0	0
+Makakahanap ka ng trabaho.	Du wirst einen Job finden.	makakahanap	0	0
+Samahan ninyo kami sa pagkain.	Esst mit uns.	samahan	0	0
+Patay na ang reyna ng mga bruha.	Die Königin der Hexen ist tot.	reyna	0	0
+Ang galang ninyo.	Sie sind höflich.	galang	0	0
+Naghalikan sila.	Sie küssten sich.	naghalikan	0	0
+Nagtataka ako kung bakit hindi ako tinawagan ni Tom.	Ich frage mich, warum mich Tom nicht angerufen hat.	nagtataka	0	0
+Saan ninyo nabili ang sombrerong ito?	Wo haben Sie diesen Hut gekauft?	sombrerong	0	0
+Naglakad ako papasok sa eskwela.	Ich ging zu Fuß zur Schule.	naglakad	0	0
+Mahilig ako sa jazz.	Ich mag Jazz.	jazz	0	0
+Nagdesisyon akong tanggapin ang alok na trabaho.	Ich habe mich dazu entschieden, das Stellenangebot anzunehmen.	nagdesisyon	0	0
+Magkano ang dapat kong iabot na tip?	Wie viel Trinkgeld sollte ich geben?	iabot	0	0
+Pinag-aalala ako ng ubo ninyo.	Euer Husten macht mir Sorgen.	ubo	0	0
+May suot ang salamin.	Ich trage eine Brille.	salamin	0	0
+Ang kalusugan ang pinakaimportante sa buhay ng tao.	Das Wichtigste im Leben ist die Gesundheit.	kalusugan	0	0
+Binabalatan ni Karl ang saging mo.	Karl schält deine Banane.	saging	0	0
+Malalaki ang mga bahay na iyon.	Diese Häuser sind groß.	malalaki	0	0
+Si Johannes ay walang pakialam sa pakikipaglaban gamit ang mga armas, kung saan si Tom ay labis na gumon. Nakakita siya ng higit na kagalakan sa pagtugtog ng kanyang lira at kaakit-akit sa kagandahan ng mga tunog ng kanyang musika at kanyang pag-awit kaysa sa paghagupit ng mga tao nang may malupit na puwersa.	Johannes achtete den Kampf mit Waffen, dem Tom so verfallen war, gering. Er hatte viel mehr Freude daran, auf seiner Leier zu spielen und mit der Schönheit der Klänge seiner Musik und seines Gesangs zu verzaubern, statt mit roher Gewalt niederzustrecken.	kaakit-akit	0	0
+Sinadya ba ninyo ito?	Haben Sie das absichtlich getan?	sinadya	0	0
+Ang kaligayahan ay hindi ang layunin. Ang kaligayahan ay ang daan.	Glück ist nicht das Ziel, Glück ist der Weg.	layunin	0	0
+Si Johannes ay walang pakialam sa pakikipaglaban gamit ang mga armas, kung saan si Tom ay labis na gumon. Nakakita siya ng higit na kagalakan sa pagtugtog ng kanyang lira at kaakit-akit sa kagandahan ng mga tunog ng kanyang musika at kanyang pag-awit kaysa sa paghagupit ng mga tao nang may malupit na puwersa.	Johannes achtete den Kampf mit Waffen, dem Tom so verfallen war, gering. Er hatte viel mehr Freude daran, auf seiner Leier zu spielen und mit der Schönheit der Klänge seiner Musik und seines Gesangs zu verzaubern, statt mit roher Gewalt niederzustrecken.	paghagupit	0	0
+Nanginginig si Tom.	Tom zittert.	nanginginig	0	0
+Kinakabahan si Tom.	Tom ist nervös.	kinakabahan	0	0
+Hindi ako natawa sa mga biro ni Tom.	Ich fand Toms Witze nicht lustig.	natawa	0	0
+Binilang ng koboy ang lahat ng mga baka.	Der Cowboy zählte alle Rinder.	binilang	0	0
+Ang malas mo.	Du hast Pech.	malas	0	0
+Mamili ka ng tao.	Wähle eine Person.	mamili	0	0
+Puwede mong ipaubaya iyon sa akin.	Das kannst du mir überlassen.	ipaubaya	0	0
+Tindero ako.	Ich bin Verkäufer.	tindero	0	0
+Naparami ako ng inom. Namamaga ang mukha ko.	Ich habe zu viel getrunken. Mein Gesicht ist geschwollen.	naparami	0	0
+May umikot na tsismis sa siyudad.	Ein Gerücht ging in der Stadt um.	umikot	0	0
+Si Johannes ay walang pakialam sa pakikipaglaban gamit ang mga armas, kung saan si Tom ay labis na gumon. Nakakita siya ng higit na kagalakan sa pagtugtog ng kanyang lira at kaakit-akit sa kagandahan ng mga tunog ng kanyang musika at kanyang pag-awit kaysa sa paghagupit ng mga tao nang may malupit na puwersa.	Johannes achtete den Kampf mit Waffen, dem Tom so verfallen war, gering. Er hatte viel mehr Freude daran, auf seiner Leier zu spielen und mit der Schönheit der Klänge seiner Musik und seines Gesangs zu verzaubern, statt mit roher Gewalt niederzustrecken.	armas	0	0
+Wala na tayong utang sa isa't-isa.	Wir schulden einander nichts mehr.	t-isa	0	0
+Wala iyang pinapatunayan.	Das beweist nichts.	pinapatunayan	0	0
+Hindi ka ba pumapayag dito?	Bist du damit nicht einverstanden?	pumapayag	0	0
+Suportado ko ang panukala.	Ich unterstütze den Vorschlag.	suportado	0	0
+Tinanggap niya po ang kanyang pagkatalo.	Er räumte seine Niederlage ein.	tinanggap	0	0
+Ano ba ang gusto mong pag-aralan?	Was willst du studieren?	pag-aralan	0	0
+Nagpapahinga lang ako.	Ich mache gerade Pause.	nagpapahinga	0	0
+Natanggap ko ang aking bonus.	Ich bekam meinen Bonus.	bonus	0	0
+Ang sariwa nito.	Das ist sehr frisch.	sariwa	0	0
+Natuwa ako nu'ng mabalitaan ko.	Ich habe mich gefreut, als ich die Nachricht hörte.	natuwa	0	0
+Nabigla rin po ako roon.	Das hat mich auch überrascht.	nabigla	0	0
+Naparami ako ng inom. Namamaga ang mukha ko.	Ich habe zu viel getrunken. Mein Gesicht ist geschwollen.	inom	0	0
+Sasamahan ko sina Tom at Maria.	Ich werde mit Tom und Maria sein.	sasamahan	0	0
+Hindi ko alam kung magkano yang dalawan bike na yan.	Ich weiß nicht, wie viel diese zwei Fahrräder da kosten.	bike	0	0
+Binigyan kami ni Tom ng pasalubong.	Tom hat uns ein Geschenk gegeben.	tom	0	0
+Isa sa mga kaibigan ko ang nagkumpuni ng bisikleta ko.	Einer meiner Freunde hat mir gestern mein Rad repariert.	bisikleta	0	0
+Makakayanan sana namin kung ginusto lang namin.	Wir hätten es gekonnt, wenn wir nur gewollt hätten.	ginusto	0	0
+Pansin po ba?	Merkt man es?	pansin	0	0
+Hindi ko po kayang patigilin si Tom.	Ich kann Tom nicht aufhalten.	patigilin	0	0
+Si Mary ay isang bruha.	Maria ist eine Hexe.	bruha	0	0
+Hindi ko inakala na gagawin talaga ni Tom.	Ich hätte nie gedacht, dass Tom das machen würde.	inakala	0	0
+Pirmahan mo iyan.	Unterschreib das.	pirmahan	0	0
+Dapat matuwa ako para kay Tom.	Ich sollte mich für Tom freuen.	matuwa	0	0
+Naligo ako.	Ich duschte.	naligo	0	0
+Nagpalipas ako ng araw kina Tom.	Ich verbrachte den Tag bei Tom.	kina	0	0
+Nakakatulong ang alak para bumaba ang kinain.	Wein fördert die Verdauung.	nakakatulong	0	0
+Sawang-sawa na ako sa Pranses.	Ich hab' die Nase voll von Französisch.	sawang-sawa	0	0
+Mga tatlumpung katao ang hinuli.	Ungefähr 300 Personen wurden festgenommen.	katao	0	0
+Inatake sa puso si Tom.	Tom hatte einen Herzinfarkt.	inatake	0	0
+Natakot akong umayaw riyan.	Ich hatte Angst davor abzulehnen.	umayaw	0	0
+Nalungkot po si Tom.	Tom war traurig.	nalungkot	0	0
+Mukhang iniiwasan niya siya.	Sie schien ihm aus dem Weg zu gehen.	iniiwasan	0	0
+Mukhang napakasaya niya.	Er scheint sehr glücklich zu sein.	napakasaya	0	0
+Kukunin ko ang walis.	Ich hole den Besen.	walis	0	0
+May hanep akong guro.	Ich habe eine tolle Lehrerin.	hanep	0	0
+Sinabi ni Papa Francisco ni ang mga ateong gumagawa ng kabutihan ay pupunta rin sa langit.	Papst Franziskus sagte, Atheisten, die Gutes tun, würden auch in den Himmel kommen.	kabutihan	0	0
+Palagi siyang umuuwi nang alas sais nang gabi.	Er kommt immer um sechs Uhr abends heim.	umuuwi	0	0
+Buong linggong umiwas si Tom kay Maria.	Tom ist Maria die ganze Woche aus dem Weg gegangen.	linggong	0	0
+Maiwan ka.	Bleiben Sie zurück.	maiwan	0	0
+Mag-ensayo tayo.	Lasst uns üben.	mag-ensayo	0	0
+Maligayang pagdating sa Japan.	Willkommen in Japan.	japan	0	0
+Kaya itong basahin ng kahit sino.	Jeder kann es lesen.	basahin	0	0
+Bumili sila ng bahay sa Kalye Park.	Sie kauften ein Haus in der Parkstraße.	park	0	0
+Nagwagi uli si Tom.	Tom hat wieder gewonnen.	nagwagi	0	0
+Inalukan ko si Tom nito.	Ich habe es Tom angeboten.	inalukan	0	0
+Ano ang iisipin ng mga kapitbahay?	Was sollen die Nachbarn denken?	iisipin	0	0
+Alin ang atin?	Welches gehört uns?	alin	0	0
+Magpakalalaki ka!	Benimm dich wie ein Mann!	magpakalalaki	0	0
+Ano ang pinagkaiba ng aso sa lobo?	Was ist der Unterschied zwischen einem Hund und einem Wolf?	pinagkaiba	0	0
+Sino pa ang tinulungan mo?	Wem hast du noch geholfen?	tinulungan	0	0
+Gagaling ba siya agad?	Wird sie bald wieder gesund?	gagaling	0	0
+Wala pong sinusunod ang pag-ibig.	Die Liebe gehorcht niemandem.	sinusunod	0	0
+Bakit tayo nangangarap?	Warum träumen wir?	nangangarap	0	0
+Huwag po ninyong paluin ang mga anak mo.	Schlagen Sie Ihre Kinder nicht.	paluin	0	0
+Nabalian ng braso si Tom.	Tom brach sich den Arm.	braso	0	0
+Hindi ka marunong sumayaw, 'no?	Du kannst nicht tanzen, nicht wahr?	sumayaw	0	0
+Hindi ako rebelde.	Ich bin kein Aufständischer.	rebelde	0	0
+Umulan ng niyebe.	Es schneite.	niyebe	0	0
+Baka umulan mamayang hapon.	Möglicherweise regnet es nachmittags.	umulan	0	0
+Mayroon ding bandila ng Esperanto.	Es gibt auch eine Esperantoflagge.	bandila	0	0
+Mabagal na naglakad ang batang babae.	Das Mädchen lief langsam.	mabagal	0	0
+Dapat matuto tayong tumira sa armonya sa kalikasan.	Wir müssen lernen, im Einklang mit der Natur zu leben.	matuto	0	0
+Marami kaming kinaing mansanas.	Wir haben viele Äpfel gegessen.	kinaing	0	0
+Nasaan ang mga dokumento ninyo?	Wo sind Ihre Dokumente?	dokumento	0	0
+Saan ninyo nabili ang sombrerong ito?	Wo haben Sie diesen Hut gekauft?	nabili	0	0
+Tumatanggap po ba kayo ng credit card?	Akzeptieren Sie Kreditkarten?	tumatanggap	0	0
+Narito ang lihim ko. Napakasimple nito: sa pamamagitan lamang ng puso makakakitang mabuti. Hindi kita ng mata ang pinakapuso ng mga bagay.	Hier ist mein Geheimnis. Es ist ganz einfach: man sieht nur mit dem Herzen gut. Das Wesentliche ist für die Augen unsichtbar.	napakasimple	0	0
+Napakabata niya.	Er ist sehr jung.	napakabata	0	0
+Nakakatuwang napapatulog ako nang makinig ako sa kantang ito.	Ich werde wahnsinnig müde, wenn ich mir dieses Lied anhöre.	nakakatuwang	0	0
+May kulang pa pong kahon.	Eine Kiste fehlt noch.	kahon	0	0
+Hindi ako pumasa sa iksamen.	Ich habe die Prüfung nicht bestanden.	pumasa	0	0
+Umupa kami ng apartment.	Wir mieteten eine Wohnung.	apartment	0	0
+Pinaniniwalaan ni Tom na peke ang paglapag sa buwan.	Tom glaubt, dass die Mondlandungen bloß inszeniert waren.	peke	0	0
+May nilalaro ka bang isport?	Betreibst du irgendwelche Sportarten?	nilalaro	0	0
+Gagawin ko ang lahat ng hihilingin mo.	Ich werde alles tun, was du verlangst.	hihilingin	0	0
+Paandarin mo ang kotse!	Lass den Wagen an!	paandarin	0	0
+Saluhin mo ang bola.	Fang den Ball.	saluhin	0	0
+Nasa kanila ang kompyuter ko at gusto kong mabawi ito.	Sie haben meinen Computer und ich will ihn zurück.	mabawi	0	0
+Nakipaglaban po si Tom.	Tom kämpfte.	nakipaglaban	0	0
+Napatay mo si Tom.	Du hast Tom getötet.	napatay	0	0
+Tinatakot ba ninyo ako?	Drohen Sie mir?	tinatakot	0	0
+Ang libangan po ni Yumi ay ang pagkanta ng mga sikat na kanta.	Yumis Hobby ist es, Schlager zu singen.	yumi	0	0
+Hindi ko pa rin natututunan kung paano magmaneho ng sasakyan.	Ich habe immer noch nicht gelernt, wie man Auto fährt.	magmaneho	0	0
+Ano kaya ang mararamdaman mo kung iniwan ka ng asawa mo?	Wie würdest du dich fühlen, wenn dich deine Frau verließe?	mararamdaman	0	0
+Hindi po natin napigilan ang mga luha natin.	Wir konnten die Tränen nicht zurückhalten.	napigilan	0	0
+Nagsalita si Tom tungkol sa musika.	Tom redete über Musik.	nagsalita	0	0
+Sinong miyembro ng pamilya mo ang pinakagusto mo?	Welches Mitglied deiner Familie magst du am meisten?	miyembro	0	0
+Ginawan ko si Mary ng manika.	Ich habe Mary eine Puppe gemacht.	manika	0	0
+Nainip agad si Tom.	Tom wurde schnell langweilig.	nainip	0	0
+Pinaputukan 'nyo po ba si Tom?	Haben Sie auf Tom geschossen?	pinaputukan	0	0
+May suot-suot pong salamin si Tom.	Tom trägt eine Brille.	suot-suot	0	0
+Hinayaan kong makapasok ang pusa.	Ich erlaubte der Katze hereinzukommen.	hinayaan	0	0
+Nakikita namin sila paminsan-minsan.	Wir sehen sie manchmal.	paminsan-minsan	0	0
+Mas maaga, mas mainam.	Je früher desto besser.	mainam	0	0
+Nauwi po si Tom sa kulungan.	Tom ist im Gefängnis gelandet.	nauwi	0	0
+Hindi kayo makakatakas.	Ihr könnt nicht entkommen.	makakatakas	0	0
+Kakailanganin po ninyo ng tulong.	Sie werden Hilfe brauchen.	kakailanganin	0	0
+Ayaw kong maligaw ka.	Ich möchte nicht, dass du verlierst.	maligaw	0	0
+Kulang ka sa pagsasanay.	Du hast nicht genug geübt.	pagsasanay	0	0
+Determinado akong isagawa ang planong ito.	Ich bin entschlossen, diesen Plan auszuführen.	planong	0	0
+Umpisahan natin dito!	Fangen wir hier an!	umpisahan	0	0
+Sa sunod na istasyon ako bababa.	An der nächsten Station steige ich aus.	bababa	0	0
+Magsasara ang eskuwelahan sa katapusan ng taon dahil sa kakulangan ng mag-aaral.	Die Schule wird Ende des Jahres wegen Schülermangels geschlossen.	magsasara	0	0
+Si Tom ang nagluto ng tanghalian.	Tom kochte das Mittagessen.	tanghalian	0	0
+Lalaki ba o babae ang biktima?	War das Opfer ein Mann oder eine Frau?	biktima	0	0
+Buksan mo ang mga kurtina at papasukin mo ang araw.	Mach die Vorhänge auf und lass die Sonne rein.	kurtina	0	0
+Wala na sa uso ang mga maiikling palda.	Miniröcke sind aus der Mode gekommen.	uso	0	0
+Sumang-ayon ako sa kanya.	Ich war einer Meinung mit ihr.	sumang-ayon	0	0
+Nasa likuran lang ako ni Tom.	Ich bin direkt hinter Tom.	likuran	0	0
+Talagang masarap itong sopas.	Diese Suppe ist wirklich sehr gut.	sopas	0	0
+Gusto ba ninyo ng almusal?	Möchten Sie Frühstück?	almusal	0	0
+Gusto mo ng mga kasagutan, hindi ba?	Du willst Antworten, nicht wahr?	kasagutan	0	0
+Nakita ko siya pagkalipas ng sampung taon.	Ich habe ihn nach zehn Jahren wieder gesehen.	pagkalipas	0	0
+Nainis ako.	Ich war frustriert.	nainis	0	0
+Sang-ayon ako sa kanya.	Ich bin einverstanden mit ihm.	sang-ayon	0	0
+Pasalitain mo ako.	Lass mich sprechen.	pasalitain	0	0
+Wala akong naaamoy.	Ich rieche nichts.	naaamoy	0	0
+Nagsasalita si Tom sa kanyang pagtulog.	Tom spricht im Schlaf.	pagtulog	0	0
+Palagi akong bumabangon nang alas sais.	Ich stehe immer um 6 Uhr auf.	bumabangon	0	0
+Nananaginip yata ako.	Ich glaube, ich träume.	nananaginip	0	0
+May dalawang kundisyon ako.	Ich habe zwei Bedingungen.	kundisyon	0	0
+Alam mo ba kung saan nila napag-alaman ito?	Weißt du, von wo sie es erfuhren?	napag-alaman	0	0
+Sino ang responsable?	Wer ist verantwortlich?	responsable	0	0
+Mas barako kaysa yaong kay Juan ang kape ko.	Mein Kaffee ist stärker als der von Johannes.	yaong	0	0
+Puwedeng dumito si Tom.	Tom kann hierbleiben.	dumito	0	0
+Isinilang ako noong 1960.	Ich wurde 1960 geboren.	isinilang	0	0
+Huwag mo siyang pababayaan.	Lass ihn nicht im Stich.	pababayaan	0	0
+Ipinangako niyang darating siya, pero hindi siya dumating.	Er versprach zu kommen, aber kam nicht.	ipinangako	0	0
+Natakot akong tumanggi rito.	Ich hatte Angst davor abzulehnen.	tumanggi	0	0
+Hindi ako binabayaran linggo-linggo.	Ich werde nicht pro Woche bezahlt.	binabayaran	0	0
+Bakit mahiyain si Tom?	Warum ist Tom schüchtern?	mahiyain	0	0
+Hindi namin iyon pinaniniwalaan.	Wir glauben das nicht.	pinaniniwalaan	0	0
+Niyakap niya po siya.	Sie hat ihn umarmt.	niyakap	0	0
+Ang hindi alam ang kanyang pinanggalingan, hindi alam ang kanyang paroroonan.	Wer nicht weiß, woher er kommt, weiß nicht, wohin er geht.	paroroonan	0	0
+Nagsinungaling sila sa amin.	Sie haben uns angelogen.	nagsinungaling	0	0
+Kanser ang ikinamatay ng tatay ko.	Mein Vater starb an Krebs.	ikinamatay	0	0
+Kinamuhian niya ang asawa niya.	Sie hasste ihren Mann.	kinamuhian	0	0
+Nakakapanghinayang iyon.	Das ist bedauerlich.	nakakapanghinayang	0	0
+Kulay rosas ang sasakyan ng kapatid ko.	Das Auto meiner Schwester ist pink.	rosas	0	0
+May amats si Tom.	Tom war betrunken.	amats	0	0
+Ang siyang lumabag sa batas ay dapat parusahan.	Wer gegen das Gesetz verstößt, muss bestraft werden.	lumabag	0	0
+Nagtitiwala ako kay Tom.	Ich vertraute Tom.	nagtitiwala	0	0
+Wala po yatang tao sa bahay.	Anscheinend ist keiner zu Hause.	yatang	0	0
+Bilog ang mundo, hindi patag.	Die Erde ist rund, nicht flach.	patag	0	0
+Ipagtanggol ninyo ang sarili ninyo.	Verteidigen Sie sich.	ipagtanggol	0	0
+Nagturo siya ng isang grupo ng mga kabataang Indiyano.	Er unterrichtete eine Gruppe indianischer Jungen.	kabataang	0	0
+Huwag ninyo silang pakikinggan.	Hört nicht auf sie.	pakikinggan	0	0
+Dinaya po si Tom.	Tom wurde betrogen.	dinaya	0	0
+Katawa-tawa po si Tom.	Tom ist lächerlich.	katawa-tawa	0	0
+Huwag ninyo akong isumbong.	Verpetzen Sie mich nicht.	isumbong	0	0
+Karpintero po ako.	Ich bin Tischler.	karpintero	0	0
+Naitago ko sa isang lugar.	Ich habe es irgendwo versteckt.	naitago	0	0
+Kamag-anak mo ba si Tom?	Bist du mit Tom verwandt?	kamag-anak	0	0
+Sakim po si Tom.	Tom war gierig.	sakim	0	0
+Iyan ang pinakamataas na gusaling nakita ko.	Das ist das höchste Gebäude, das ich je gesehen habe.	gusaling	0	0
+Tara, kain tayo ng burger.	Gehen wir einen Burger essen.	burger	0	0
+Mag-uusap po tayo bukas.	Wir werden morgen reden.	mag-uusap	0	0
+Gaano po ba iyan katagal?	Wie lange dauert das?	katagal	0	0
+Madalang lang akong uminom ng serbesa.	Ich trinke selten Bier.	madalang	0	0
+Gupitin mo sa dalawa.	Schneide es in zwei Teile.	gupitin	0	0
+Nakalabas ang sikreto.	Das Geheimnis sickerte durch.	nakalabas	0	0
+Gaano ba talaga kasama ang paninigarilyo?	Wie schädlich ist das Rauchen eigentlich?	paninigarilyo	0	0
+Bawal manigarilyo sa loob ng tren.	Rauchen ist im Zug verboten.	manigarilyo	0	0
+"Ano'ng araw ngayon?" "Miyerkules po."	„Welcher Tag ist heute?“ – „Mittwoch.“	miyerkules	0	0
+Ginawan niya tayo ng kaunting meryenda.	Sie hat uns einen kleinen Imbiss zubereitet.	ginawan	0	0
+Tinago ko sa isang lugar.	Ich habe es irgendwo versteckt.	tinago	0	0
+Kadiri ang amoy.	Es stank ekelhaft.	kadiri	0	0
+Hindi kayang mamuhay ng dalawang oso sa iisang kuweba.	Zwei Bären können nicht in einer Höhle leben.	mamuhay	0	0
+Mapapatawad ba ninyo ako?	Könnt ihr mir verzeihen?	mapapatawad	0	0
+Sinunod po ni Tom ang payo ko.	Tom folgte meinem Rat.	sinunod	0	0
+Magtsa muna kayo sa salas!	Trinkt erstmal Tee im Wohnzimmer!	salas	0	0
+Bakit ba ninyo ako ginising?	Warum haben Sie mich geweckt?	ginising	0	0
+Alam ko nang magbabalik ka.	Ich wusste, dass Sie wiederkämen.	magbabalik	0	0
+Walang dahilan para magkagulo.	Es gibt keinen Grund zur Aufregung.	magkagulo	0	0
+Hinahanap niya po ang pasukan.	Er sucht den Eingang.	pasukan	0	0
+Nakakakita po si Tom ng multo.	Tom kann Geister sehen.	multo	0	0
+Hiniling kong magkatotoo ito.	Ich wünschte, es wäre wahr.	magkatotoo	0	0
+Hindi kayang hulaan kung kailan magkakaroon ng lindol.	Man kann nicht vorhersagen, wann ein Erdbeben geschieht.	lindol	0	0
+Hindi ako sumusuko kailanman.	Ich gebe niemals auf.	sumusuko	0	0
+Huwag mag-alala! Darating si Tom at ililigtas niya tayo.	Keine Sorge! Tom kommt und rettet uns.	ililigtas	0	0
+Buksan po ang pintong ito.	Mach diese Tür auf.	pintong	0	0
+Ang taas ng lagnat ko.	Ich habe hohes Fieber.	lagnat	0	0
+May salang pagnanakaw si Tom.	Tom ist des Diebstahls schuldig.	salang	0	0
+Kung walang imahinasyon, nagiging kulungan ang utak ng tao.	Ohne Vorstellungskraft wird der Verstand der Menschen zum Gefängnis.	imahinasyon	0	0
+Nililinis ko ang mga bintana.	Ich putze die Fenster.	nililinis	0	0
+Sinaktan mo ba si Tom?	Habt ihr Tom geschlagen?	sinaktan	0	0
+"Gusto mo bang maging milyonaryo?" "Sinong may ayaw?"	„Willst du Millionär werden?“ – „Wer will das nicht?“	milyonaryo	0	0
+Napakayaman ko.	Ich bin sehr reich.	napakayaman	0	0
+Gusto kong maging kilalang aktres.	Ich will eine berühmte Schauspielerin werden.	kilalang	0	0
+May pinapangarap si Tom.	Tom hat Ehrgeiz.	pinapangarap	0	0
+Gusto mo ba ng salad?	Willst du Salat?	salad	0	0
+Ang sarap ng malambot na tinapay.	Das weiche Brot ist lecker.	malambot	0	0
+Tatlumpung taong gulang na po ako ngayon.	Ich bin jetzt dreißig.	gulang	0	0
+Ang kuya ng tatay ko at ang kuya ng nanay ko ay mga tito ko.	Der Bruder meines Vaters und der Bruder meiner Mutter sind meine Onkel.	tito	0	0
+Nagmadaling umuwi si Tom mula sa paaralan.	Tom eilte von der Schule nach Hause.	nagmadaling	0	0
+Huwag mong kalimutang magsuot ng kurbata.	Vergiss nicht, eine Krawatte zu tragen.	magsuot	0	0
+Pinaghandaan niya tayo ng meryenda.	Sie hat uns einen Imbiss zubereitet.	pinaghandaan	0	0
+Nagugutom ako kaya pumunta ako sa isang kainan.	Ich hatte Hunger und bin daher in ein Restaurant gegangen.	kainan	0	0
+Paabot ng asin at paminta!	Reich mir bitte Salz und Pfeffer!	asin	0	0
+Sinesante ako.	Ich wurde gefeuert.	sinesante	0	0
+Ano ang iisipin ng mga kapitbahay?	Was sollen die Nachbarn denken?	kapitbahay	0	0
+Ang Bali ay ang isla ng mga diyos at ng mga demonyo.	Bali ist die Insel der Götter und Dämonen.	bali	0	0
+Umupa po kami ng apartment.	Wir mieteten eine Wohnung.	umupa	0	0
+Puwede ka ba sa Martes?	Bist du am Dienstag frei?	martes	0	0
+Magpakabait kayo!	Seien Sie nett!	magpakabait	0	0
+Makakapasok ba ako?	Kann ich hereinkommen?	makakapasok	0	0
+Mga kuwarenta na siya.	Er ist ungefähr vierzig.	kuwarenta	0	0
+Araw at gabi po silang pinagtrabaho ng amo.	Der Chef ließ sie Tag und Nacht arbeiten.	pinagtrabaho	0	0
+Wala na pong makakapigil sa amin ngayon.	Niemand kann uns jetzt aufhalten.	makakapigil	0	0
+Kanin lang ang alam lutuin ng babae.	Die Frau kann nur Reis kochen.	kanin	0	0
+Bilog ang mundo, hindi patag.	Die Erde ist rund, nicht flach.	bilog	0	0
+Sobrang emosyonal mo.	Du bist sehr emotional.	emosyonal	0	0
+Mas gusto ni Jongjong ang Budismo kaysa sa ibang relihiyon.	Jongjong mag den Buddhismus lieber als alle anderen Religionen.	relihiyon	0	0
+Kaya mo bang lutasin ang problemang ito?	Können Sie dieses Problem lösen?	problemang	0	0
+Huwag na po ninyo akong guluhin!	Hören Sie auf, mich zu belästigen!	guluhin	0	0
+Iniinis ako niyan.	Das nervt mich.	iniinis	0	0
+Gusto natin ng hustisya.	Wir wollen Gerechtigkeit.	hustisya	0	0
+Gumigising po ako nang alas siyete.	Ich stehe um sieben Uhr auf.	siyete	0	0
+Phoenix ang kabisera ng Arizona.	Phoenix ist die Hauptstadt von Arizona.	arizona	0	0
+Hindi tayo nakikipaglaban.	Wir kämpfen nicht.	nakikipaglaban	0	0
+Gusto kong pumunta sa ibang bansa, gaya ng Italya at Espanya.	Ich möchte gern ins Ausland, nach Italien und Spanien zum Beispiel.	italya	0	0
+Ang dumi ng pantalon mo.	Deine Hose ist schmutzig.	dumi	0	0
+Kung minsan nawawalan tayo ng pasensiya para sa matatanda.	Manchmal fehlt uns die Geduld mit älteren Menschen.	nawawalan	0	0
+Nag-aalala si Tom dahil sa isang paparating na sitwasyon.	Tom macht sich Sorgen wegen einer bevorstehenden Situation.	paparating	0	0
+May kumalat na tsismis sa lungsod.	Ein Gerücht ging in der Stadt um.	kumalat	0	0
+Ang daming mga sabik na tagahanga sa loob ng istadyum.	Es waren viele begeisterte Anhänger im Stadion.	daming	0	0
+Mali po ang magsinungaling.	Es ist falsch zu lügen.	magsinungaling	0	0
+Naloko po si Tom.	Tom wurde betrogen.	naloko	0	0
+Magpakatotoo lang po kayo!	Seien Sie einfach Sie selbst!	magpakatotoo	0	0
+Hindi ako mapakali.	Ich bin ungeduldig.	mapakali	0	0
+Hindi iyon pagmamahalan.	Das ist keine Liebe.	pagmamahalan	0	0
+Mukhang umiiwas siya sa kanya.	Sie schien ihm aus dem Weg zu gehen.	umiiwas	0	0
+Mapagkakatiwalaan si Tom.	Man kann Tom vertrauen.	mapagkakatiwalaan	0	0
+Nagpapalit ako ng damit.	Ich ziehe mich um.	nagpapalit	0	0
+Gusto ko ng katas ng prutas.	Ich hätte gerne Fruchtsaft.	katas	0	0
+Hindi po lumalangoy si Tom.	Tom schwimmt gerade nicht.	lumalangoy	0	0
+Hihintayin namin dito.	Wir werden hier warten.	hihintayin	0	0
+Kasama ng tuta ang amo.	Das Hündchen begleitet die Besitzerin.	amo	0	0
+Nagsimulang umulan bago pa ako makabalik sa bahay.	Es fing an zu regnen, bevor ich wieder zu Hause war.	makabalik	0	0
+Sabi ng pahayagan, tinamaan daw ng bagyo ang Kyushu.	In den Zeitungen steht, dass der Taifun über Kyushu gezogen ist.	pahayagan	0	0
+Hindi ka nag-ensayo nang husto.	Du hast nicht genug geübt.	nag-ensayo	0	0
+Binisita ko po si Tom.	Ich besuchte Tom.	binisita	0	0
+Sana hindi ko na lang po kinanta ang awit na ito.	Ich wünschte, ich hätte das Lied nie gesungen.	kinanta	0	0
+Sana nakipagkita ako sa kanya.	Ich wünschte, ich hätte mich mit ihr getroffen.	nakipagkita	0	0
+Inumpisahan na ni Tom.	Tom hat schon angefangen.	inumpisahan	0	0
+Hindi po ordinaryong tao si Tom.	Tom ist kein einfacher Mann.	ordinaryong	0	0
+Sumusunod po ako sa mga bilin.	Ich befolge die Anweisungen.	sumusunod	0	0
+Ulitin mo.	Mach es nochmal.	ulitin	0	0
+Pinakawalan ng babae ang ibon.	Das Mädchen ließ den Vogel frei.	pinakawalan	0	0
+Mahilig ka ba sa mga insekto?	Magst du Insekten?	insekto	0	0
+Tinalikuran mo ang mga anak mo.	Du hast deine Kinder verlassen.	tinalikuran	0	0
+Salawal ko iyon.	Das ist meine Unterhose.	salawal	0	0
+Bumababa ng hagdan si Tom.	Tom kommt die Treppe herunter.	hagdan	0	0
+Paano ka natuto ng Esperanto?	Wie hast du Esperanto gelernt?	natuto	0	0
+Hinalikan ka ba ni Tom?	Hat Tom dich geküsst?	hinalikan	0	0
+Hindi ito kagaya ng nasa isip mo.	Es ist nicht so, wie du denkst.	kagaya	0	0
+Hindi ko masyadong maiintindihan kung anong pinagusapan nila.	Ich verstand nicht so viel von dem, über das sie redeten.	pinagusapan	0	0
+Nahiya po ako.	Ich schämte mich.	nahiya	0	0
+Tiktik si Tom.	Tom ist ein Spion.	tiktik	0	0
+Kaya 'nyo po bang lutasin ang problemang ito?	Können Sie dieses Problem lösen?	lutasin	0	0
+Ate ko po ang babaeng nakikipag-usap kay Mayumi.	Das Mädchen, das sich mit Mayumi unterhält, ist meine Schwester.	nakikipag-usap	0	0
+Hindi ko kayang palakihin ang anak natin nang mag-isa.	Ich kann unser Kind nicht alleine großziehen.	palakihin	0	0
+Bumoto ka ba?	Haben Sie gewählt?	bumoto	0	0
+Interesado talaga ako.	Ich bin auf jeden Fall interessiert.	interesado	0	0
+May nakapasok.	Jemand kam herein.	nakapasok	0	0
+Paalisin ninyo si Tom!	Lasst Tom gehen!	paalisin	0	0
+Masuwerte si Tomas.	Tom hat Glück.	masuwerte	0	0
+Para ba akong isang loko kung nagsasalita ako nang ganito?	Klinge ich wie ein Irrer, wenn ich so spreche?	loko	0	0
+Ang siyang walang hinihingi, walang natatanggap.	Wer um nichts bittet, bekommt nichts.	hinihingi	0	0
+Sino ang nagsusulat ng mga komentong ito?	Wer schreibt diese Kommentare?	nagsusulat	0	0
+Sana hindi ko na lang kinanta ang awit na ito.	Ich wünschte, ich hätte das Lied nie gesungen.	awit	0	0
+Maingay sa katabi.	Es ist laut nebenan.	katabi	0	0
+Inoorganisa ng sistemang ito ang kanyang sarili.	Dieses System organisiert sich selbst.	sistemang	0	0
+Napagdesisyunan kong tanggapin ang alok na trabaho.	Ich habe mich dazu entschieden, das Stellenangebot anzunehmen.	alok	0	0
+Humiling ka kapag may makita kang bulalakaw.	Wünsch dir etwas, wenn du eine Sternschnuppe siehst.	bulalakaw	0	0
+Ang dami mong itinuro sa akin.	Du hast mir so vieles beigebracht.	itinuro	0	0
+Hindi po ba ninyo tinutulungan si Tom?	Helfen Sie Tom nicht?	tinutulungan	0	0
+Hinding-hindi ako magsusuot ng ganoong sombrero.	So einen Hut trüge ich nie.	magsusuot	0	0
+Maaliwalas ang umaga.	Der Morgen war klar.	maaliwalas	0	0
+Ang laking pakinabang ng isang kabayo.	Ein Pferd ist sehr nützlich.	pakinabang	0	0
+Gusto mo bang marinig akong umawit?	Willst du mich singen hören?	umawit	0	0
+Lumilipad ang mga bubuyog sa mga bulaklak.	Die Bienen fliegen in den Blumen.	bubuyog	0	0
+Umaawit ang mga ibon sa mga puno.	In den Bäumen singen die Vögel.	umaawit	0	0
+Si Tom lang ang nag-iisang gustong umuwi nang maaga.	Tom ist der Einzige, der früher nach Hause will.	nag-iisang	0	0
+Ang pumapangalawa ay ang unang talo.	Der zweite Platz ist der erste Verlierer.	pumapangalawa	0	0
+Sinabihan ko si Tom na dapat siyang manatili riyan.	Ich habe Tom gesagt, dass er dableiben soll.	sinabihan	0	0
+Kumukulong po, pero hindi po umuulan.	Es donnert, aber regnet nicht.	kumukulong	0	0
+Pumalakpak ang mga tagapanood.	Das Publikum hat applaudiert.	pumalakpak	0	0
+Hindi nila ako puwedeng utusan.	Sie können mir nichts befehlen.	utusan	0	0
+Paano mo ako natunton?	Wie hast du mich aufgespürt?	natunton	0	0
+Mayamang-mayaman po ako.	Ich bin sehr reich.	mayamang-mayaman	0	0
+Binuksan ni Tom ang bintana.	Tom macht das Fenster auf.	binuksan	0	0
+Nakakapagsalita ba ang mga halaman?	Können Pflanzen sprechen?	nakakapagsalita	0	0
+Hindi siya nakakabasa.	Er kann nicht lesen.	nakakabasa	0	0
+Huwag ninyong pakialaman ang mga personal kong gawain!	Stecken Sie Ihre Nase bitte nicht in meine Privatangelegenheiten!	pakialaman	0	0
+Bakit hindi mo isama si Tom?	Warum nimmst du Tom nicht?	isama	0	0
+Nagbukas ba ang bangko kanina?	Hat die Bank heute geöffnet?	nagbukas	0	0
+Gumagamit ng maraming komplikadong makina ang pabrika.	In dieser Fabrik werden viele komplizierte Maschinen verwendet.	pabrika	0	0
+Upang mapansin ang kanyang kagandahan, kailangan mo lamang siyang tingnan.	Um ihre Schönheit zu erkennen, brauchst du sie bloß anzusehen.	mapansin	0	0
+Aling instrumento ang una ninyong natutunang tugtugin?	Welches Instrument habt ihr als erstes zu spielen gelernt?	tugtugin	0	0
+Kain tayo ng sushi!	Lasst uns Sushi essen!	kain	0	0
+Busog po si Tom.	Tom war satt.	busog	0	0
+Mula kay Tom ang regalong ito.	Dieses Geschenk ist von Tom.	regalong	0	0
+Sa madaling salita, kumita siya nang malaki.	In einem Wort: Er hat großen Gewinn gemacht.	kumita	0	0
+Tingnan po ninyong mabuti ang larawang ito!	Sehen Sie sich dieses Foto gut an!	larawang	0	0
+Ang dilim sa labas.	Es ist dunkel draußen.	dilim	0	0
+Gustong lumakas ni Tom.	Tom will stark werden.	lumakas	0	0
+Sanay tayo.	Wir sind erfahren.	sanay	0	0
+Puwede mo bang sabihin sa akin kung paano pumunta sa istasyon?	Könntest du mir bitte sagen, wie ich zum Bahnhof komme?	istasyon	0	0
+Huwag mong pagtawanan si Tom!	Mach dich nicht über Tom lustig!	pagtawanan	0	0
+Muntik na po akong tumama.	Ich lag fast richtig.	tumama	0	0
+Nahiwa ko ng kutsilyo ang daliri ko.	Ich habe mir mit einem Messer in den Finger geschnitten.	daliri	0	0
+Mahigpit siya sa mga anak niya.	Er war streng zu seinen Kindern.	mahigpit	0	0
+Sinusuportahan ko ang panukala.	Ich unterstütze den Vorschlag.	sinusuportahan	0	0
+Medyo nabawasan ako ng timbang.	Ich habe etwas abgenommen.	nabawasan	0	0
+Nagpakasal siya kay Hiroshi nang labag sa kalooban niya.	Sie hat Hiroshi gegen ihren Willen geheiratet.	nagpakasal	0	0
+Sawa ka na ba sa akin?	Hast du mich satt?	sawa	0	0
+Nagpasya akong tanggapin ang alok na trabaho.	Ich habe mich dazu entschieden, das Stellenangebot anzunehmen.	nagpasya	0	0
+Ang isang dolyar ay katumbas ng isang daang sentimos.	Ein Dollar ist gleich hundert Cent.	sentimos	0	0
+Huwag na kayong mag-away!	Hört auf zu kämpfen!	mag-away	0	0
+Napakalakas nito.	Es ist sehr laut.	napakalakas	0	0
+Itinaas niya ang mga kamay niya.	Sie hob die Hände.	itinaas	0	0
+Binabasa ko lahat ng klase ng mga aklat.	Ich lese alle Arten von Büchern.	binabasa	0	0
+Instrumento ba ang mayonesa?	Ist Mayonnaise ein Instrument?	instrumento	0	0
+Sana hindi ko na lang po kinanta ang kantang iyan.	Ich wünschte, ich hätte das Lied nie gesungen.	kantang	0	0
+Pansamantala lang ito.	Das ist nur vorübergehend.	pansamantala	0	0
+Ang pagkakaroon ng iisang wika ay hindi nangangahulugang pagkakaroon ng iisang opinyon.	Die gleiche Sprache zu haben, bedeutet nicht, dieselbe Meinung zu haben.	pagkakaroon	0	0
+Lampa si Tom.	Tom ist schwach.	lampa	0	0
+Ako ang mas nakakakilala sa kanya kumpara sa iba.	Ich kenne ihn besser, als alle anderen es tun.	kumpara	0	0
+Hindi ko iyon ipinagmamalaki.	Ich bin nicht stolz darauf.	ipinagmamalaki	0	0
+Ang daming mga sabik na tagahanga sa loob ng istadyum.	Es waren viele begeisterte Anhänger im Stadion.	sabik	0	0
+Mahilig akong gumawa ng panghimagas.	Ich mache gerne Nachtisch.	panghimagas	0	0
+Kilalang-kilala ko ang nanay mo.	Ich kannte deine Mutter gut.	kilalang-kilala	0	0
+Buong linggong umiwas si Tom kay Maria.	Tom ist Maria die ganze Woche aus dem Weg gegangen.	umiwas	0	0
+Maayos ang keso niya.	Sein Käse ist in Ordnung.	keso	0	0
+Ginagawa ko ang makakaya ko.	Ich tue mein Bestes.	makakaya	0	0
+Walang duda.	Zweifelsohne.	duda	0	0
+Ilabas mo ang pitaka mo.	Hol dein Portmonee raus.	pitaka	0	0
+Nakita namin ang unggoy sa zoo.	Wir haben den Affen im Zoo gesehen.	zoo	0	0
+Nakatulog ba kayo nang mahimbing?	Haben Sie gut geschlafen?	mahimbing	0	0
+Sa tingin ko po patapos na po kami.	Ich glaube, wir sind fast fertig.	patapos	0	0
+Tatayo po ako.	Ich werde stehen.	tatayo	0	0
+Tatawagan kita gabi-gabi.	Ich werde dich jeden Abend anrufen.	gabi-gabi	0	0
+Hindi ako makapagsalita ngayon.	Ich kann jetzt nicht reden.	makapagsalita	0	0
+Ayaw umandar ng sasakyan.	Der Wagen wollte nicht anspringen.	umandar	0	0
+Magdamag silang nagsayawan.	Sie haben die ganze Nacht lang getanzt.	magdamag	0	0
+Isauli 'nyo iyan.	Geben Sie es zurück.	isauli	0	0
+Lulundag po ako.	Ich springe.	lulundag	0	0
+Ako'y ikakasal sa darating na Linggo.	Ich werde nächsten Sonntag heiraten.	ikakasal	0	0
+Pinakasalan niya si Hiroshi nang labag sa kalooban niya.	Sie hat Hiroshi gegen ihren Willen geheiratet.	pinakasalan	0	0
+Ikaw ang eksperto.	Du bist der Fachmann.	eksperto	0	0
+Pinigil ko na ang pananagarilyo at parang bagong tao na ako.	Ich habe zu rauchen aufgehört und fühle mich wie ein neuer Mensch.	pinigil	0	0
+"Gusto mo ba akong yakapin o halikan?" – "Parehas."	„Möchtest du mich umarmen oder küssen?“ – „Sowohl als auch.“	yakapin	0	0
+Kinailangan kong buksan ang maleta ko.	Ich musste meinen Koffer öffnen.	kinailangan	0	0
+Pipigilan ko kayo.	Ich werde euch aufhalten.	pipigilan	0	0
+Gusto ko ng trabahong gusto ko.	Ich will einen Job, den ich mag.	trabahong	0	0
+Nagpasya silang magpakasal.	Sie haben sich entschieden zu heiraten.	magpakasal	0	0
+Pinagbintangan ko siya ng pandaraya.	Ich beschuldigte ihn des Betrugs.	pandaraya	0	0
+Ilang oras pa po ang natitira?	Wie viel Zeit ist übrig?	natitira	0	0
+Maaari ka bang magbigay ng alternatibong petsa?	Könntest du ein anderes Datum vorschlagen?	alternatibong	0	0
+Wala kaming makita maliban sa hamog.	Wir konnten nichts sehen, außer Nebel.	hamog	0	0
+Ang lahat ng bansa ay may kani-kanilang wika.	Jedes Volk hat seine eigene Sprache.	wika	0	0
+Wala sa amin ang kontra sa kanyang ideya.	Keiner von uns ist gegen seine Idee.	kontra	0	0
+Maging mapagmatyag.	Seid wachsam.	mapagmatyag	0	0
+Gagamitin ko ang gunting na iyan sa paggupit ng papel na dilaw.	Ich werde diese Schere benutzen, um das gelbe Papier zu schneiden.	dilaw	0	0
+Maganda po ang karneng ito.	Dieses Fleisch ist gut.	karneng	0	0
+Bukas po ang pamilihan mula Lunes hanggang Sabado.	Der Supermarkt ist von Montag bis Samstag geöffnet.	pamilihan	0	0
+Maraming mga bulaklak sa hardin.	Es gibt viele Blumen im Garten.	hardin	0	0
+Gusto kong mangibang bansa, gaya ng Italya at Espanya.	Ich möchte gern ins Ausland, nach Italien und Spanien zum Beispiel.	espanya	0	0
+Nagpuntang Estados Unidos para mag-aral ng medisina ang anak ko.	Mein Sohn ist zum Medizinstudium in die USA gegangen.	unidos	0	0
+Nagpuntang Estados Unidos para mag-aral ng medisina ang anak ko.	Mein Sohn ist zum Medizinstudium in die USA gegangen.	estados	0	0
+Hindi po nila iyon matatagpuan.	Sie werden es nicht finden.	matatagpuan	0	0
+Naunang kumain ang mga bata.	Die Kinder haben zuerst gegessen.	naunang	0	0
+Nakadepende ang lahat sa pera.	Alles hängt vom Geld ab.	nakadepende	0	0
+Interesado ka ba sa sining?	Interessierst du dich für Kunst?	sining	0	0
+Para saan po kayo nag-iipon?	Wofür sparen Sie?	nag-iipon	0	0
+Gusto ko ng katas ng prutas.	Ich hätte gerne Fruchtsaft.	prutas	0	0
+Nasa maling kalye ba ako?	Bin ich auf der falschen Straße?	kalye	0	0
+Pahingi ng isang piraso ng puting papel.	Gib mir ein Stück weißes Papier.	piraso	0	0
+Susundin ko si Tom.	Ich werde Tom folgen.	susundin	0	0
+Hindi kita sinisisi.	Ich gebe dir keine Schuld.	sinisisi	0	0
+Nakakabasa at nakakasulat si Tom.	Tom kann lesen und schreiben.	nakakasulat	0	0
+Natanggap mo ba ang mga bulaklak ko?	Hast du meine Blumen bekommen?	natanggap	0	0
+Ang siyang walang hinihingi, walang natatanggap.	Wer um nichts bittet, bekommt nichts.	natatanggap	0	0
+Pumili po kayo ng isang tao.	Wählen Sie eine Person aus.	pumili	0	0
+Mahusay magkalkula si Tom.	Tom kann gut rechnen.	magkalkula	0	0
+Isa akong robot.	Ich bin ein Roboter.	robot	0	0
+Magkano po ang dapat kong ibigay na tip?	Wie viel Trinkgeld sollte ich geben?	tip	0	0
+Giniginaw po sila.	Sie frieren.	giniginaw	0	0
+Ikaw ba ang bagong alalay?	Bist du der neue Assistent?	alalay	0	0
+Nagsimula po akong magsulat.	Ich fing an zu schreiben.	magsulat	0	0
+Ang Tatoeba ay isang kahong punong-puno ng mga magagandang karanasan at sorpresa!	Tatoeba ist ein Kästchen voller wunderbarer Erlebnisse und Überraschungen!	sorpresa	0	0
+Ang buhay sa Tiyera ay basado sa elementong karbon at baka iba sa ibang planeta.	Leben auf der Erde basiert auf dem Element Kohlenstoff, und vielleicht ist es auf anderen Planeten anders.	elementong	0	0
+Naliligo ka ba araw-araw?	Duschen Sie jeden Tag?	naliligo	0	0
+Lihim ang nilalaman ng liham.	Der Inhalt des Briefs war geheim.	nilalaman	0	0
+Nagbukas ba ang bangko ngayong araw?	Hat die Bank heute geöffnet?	bangko	0	0
+Propesor si Yeyeng sa eksobiyolohiya sa unibersidad.	Yeyeng ist Professor für Exobiologie an der Universität.	unibersidad	0	0
+Sundin ninyo ang mga patakaran!	Haltet euch an die Regeln!	patakaran	0	0
+Palaging bukas ang oportunidad na ito sa akin.	Die Möglichkeit steht mir immer offen.	oportunidad	0	0
+Huwag tumawid sa tulay na ito!	Fahre nicht über diese Brücke!	tumawid	0	0
+Sa wakas nakawala ako.	Schließlich entkam ich.	nakawala	0	0
+Mamahalin ninyo ang Australia.	Sie werden Australien lieben.	australia	0	0
+Namimili ka.	Du kaufst.	namimili	0	0
+Ang kaligayahan ay hindi ang layunin. Ang kaligayahan ay ang daan.	Glück ist nicht das Ziel, Glück ist der Weg.	kaligayahan	0	0
+Ang tapang ng inuming ito!	Dieses Getränk ist sehr stark!	inuming	0	0
+Pumunta si Tom para sunduin ako.	Tom kam, um mich abzuholen.	sunduin	0	0
+Susunduin kita sa loob ng sampung minuto.	Ich hole dich in zehn Minuten ab.	susunduin	0	0
+Nasaan po ang mga labahin?	Wo ist die Wäsche?	labahin	0	0
+Nawalan siya ng balanse at natumba.	Er verlor die Balance und fiel hin.	natumba	0	0
+Nagmula sila sa Sweden.	Sie kommen aus Schweden.	sweden	0	0
+May binibili akong sobre.	Ich kaufe einen Briefumschlag.	binibili	0	0

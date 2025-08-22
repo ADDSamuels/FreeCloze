@@ -1,6 +1,14 @@
+1129124	Jeg ved det ikke.	349062	Bilmiyorum.
+477010	Mange tak!	403944	Çok teşekkür ederiz!
+529118	En, to, tre, fire, fem, seks, syv, otte, ni, ti.	403980	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.
+529178	Et, to, tre, fire, fem, seks, syv, otte, ni, ti.	403980	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.
+618832	Jeg er tørstig.	403981	Susadım.
+612504	Jeg underviser.	459298	Öğretiyorum.
+2293850	Jeg er hjemme.	459505	Ben evdeyim.
 430095	Han tror det er umuligt for mig at bestige bjerget alene.	459554	O benim dağa tek başıma tırmanmamın imkansız olduğunu düşünüyor.
 430093	På trods af al sin rigdom og berømmelse, er han ulykkelig.	459555	Bütün serveti ve şöhretine rağmen, o mutsuz.
 430094	Jeg ved ikke hvad jeg skal gøre.	459556	Ne yapacağımı bilmiyorum.
+477537	Jeg er amerikaner.	474504	Ben Amerikanım.
 474874	Mit ur skal repareres.	474876	Saatimin onarılması gerekiyor.
 474877	Går dit ur rigtigt?	474884	Saatin doğru mu?
 474885	Der hænger et ur på væggen.	474887	Duvarda bir saat var.
@@ -8,60 +16,815 @@
 474908	På bordet var der en kat.	474909	Masanın üzerinde bir kedi var.
 474929	Island hørte til Danmark.	474936	İzlanda Danimarka'ya aitti.
 474935	Jeg kan tale esperanto som en indfødt.	474938	Esperanto'yu ana dilim gibi konuşabiliyorum.
+3652938	Jeg har brug for mere tid.	476727	Daha fazla zamana ihtiyacım var.
 476859	Hvis du sagde: "Jeg elsker dig", så ville jeg også sige det samme til dig.	476865	Eğer "Seni seviyorum" dersen, ben de aynısını sana söylerim.
 477003	Enhver by i USA har et bibliotek.	477009	Amerika'daki her şehrin bir kütüphanesi vardır.
 477024	"Er hun ung?" "Ja, det er hun."	477034	"O genç mi?" "Evet, genç."
 477032	Hendes hænder er kolde som is.	477037	Onun elleri buz kadar soğuktu.
+694453	Ja.	477084	Evet.
+2289827	Hun er meget god til at lave mad.	478375	O çok iyi yemek yapar.
 477544	Jeg kan ikke lide at studere.	478952	Ders çalışmayı sevmem.
 477536	Jeg har hvid skjorte på til hverdag.	478956	Hafta içleri beyaz gömlek giyerim.
+3696658	Hvorfor mig?	479144	Neden ben?
+707834	Hvorfor ikke?	479151	Neden olmasın?
+3614511	Sig det på en anden måde.	479167	Onu başka bir şekilde söyle.
+3652921	Hastværk er lastværk.	479270	Acele işe şeytan karışır.
+2355731	Der var for mange mennesker til koncerten.	479292	Konserde çok fazla kişi vardı.
 476028	Jeg kan lide hunden.	479949	Köpeği seviyorum.
 476030	Ferien er nu forbi.	479952	Tatil geçti artık.
 464081	Tooghalvtreds procent af britiske kvinder foretrækker chokolade frem for sex.	479954	Britanyalı kadınların yüzde elli ikisi çikolatayı sekse tercih ediyor.
 479824	Der er en flaske vin på bordet.	479955	Masanın üzerinde bir şişe şarap var.
 464617	Titanic sank på sin jomfrurejse.	479956	Titanik, geminin ilk seferinde battı.
 476988	Far vander blomsterne.	479957	Babam çiçekleri suluyor.
+3682678	Mit knæ bløder.	486310	Dizim kanıyor.
+2347471	Jeg taler ikke tysk.	486403	Almanca konuşmuyorum.
+475220	Jeg bor i Akasaka i Tokyo.	486784	Tokyo'daki Akasaka'da yaşıyorum.
+623277	Jeg glemte hans navn.	497720	Onun adını unuttum.
+3693441	Kontorets dør er gul.	499364	Ofisin kapısı sarıdır.
+3790146	De respekterer ham.	503385	Ona saygı duyuyorlar.
+476079	Hvilken frugt er grøn?	504009	Hangi meyve yeşildir?
+3872676	Kan jeg hjælpe?	509034	Yardım edebilir miyim?
+2279083	Jeg vil gerne blive her længere.	509300	Burada daha uzun kalmak istiyorum.
+3670651	Er mit svar korrekt?	511759	Benim cevabım doğru mu?
+2355626	Journalist: Købte De en kattekilling til hende?	515383	Muhabir: Ona bir yavru kedi mi almıştınız?
+3672326	Jeg tror du har ret.	585532	Sanırım sen haklısın.
+3595961	Tag det roligt.	585603	Sakin ol.
+3693391	Kirsebær er røde.	586217	Kirazlar kırmızıdır.
+3693458	Er den hvid?	588912	O beyaz mı?
+3695025	Tag din hat på.	599137	Şapkanı giy.
+3652484	Spis flere grøntsager.	600931	Daha fazla sebze ye.
+3629597	Vær venlig at tage tøj på.	614662	Lütfen giyinin.
+3672508	Jeg tror på dig.	639529	Sana inanıyorum.
+3669110	Hvad skal jeg købe?	674888	Ne almam gerekiyor?
+12135341	Sukker har vi ikke.	698240	Bizde şeker yok.
+2348919	Vi har to børn.	706329	Bizim iki çocuğumuz var.
+562252	Hvornår gik du i seng i går aftes?	710706	Dün gece ne zaman yattın?
+2338959	Vi fløj fra London til New York.	718106	Londra'dan New York'a uçtuk.
+2289836	Ret mig hvis jeg laver fejl.	764688	Eğer yanlış yaparsam beni düzelt
 618743	Hvad koster det?	765022	Fiyatı ne kadar?
+2429168	Hans navn er kendt af alle i denne by.	778925	Onun adı bu kasabada herkesçe bilinmektedir.
+3595938	Det er farligt at drikke for meget.	815710	Çok fazla içmek tehlikelidir.
+3658212	Jeg har været i Kina i mindre end en måned.	825592	Bir aydan kısa bir süredir Çin'de bulunuyorum.
+3695151	Nu er hun ikke længere ensom.	847982	Artık yalnız değil.
+3597692	Rygning dræber.	850246	Sigara içmek öldürür.
+3688072	Lysene er ikke tændt.	850991	Işıklar açık değil.
+3782872	Er jeg smuk eller ej?	856765	Yakışıklı mıyım yoksa değil miyim?
+3597731	Du skal stoppe med at ryge.	858105	Sigara içmeyi bırakmalısın.
+3652461	En gang til venligst.	858338	Bir kez daha lütfen.
+2381256	Vi talte om mange ting.	858432	Birçok şeyden bahsettik.
+2293841	Vi er en familie på fem.	858628	Beş kişilik bir aileyiz.
+3048544	Jeg kan ikke vente på dig.	859967	Ben seni bekleyemem.
+695666	Jeg er syg.	864821	Hastayım.
+3610246	Hold dine hænder rene.	864900	Ellerini temiz tut.
+3682673	Jeg har tennisalbue.	866873	Bende tenisçi dirseği var.
+3787972	To kaffe med mælk, tak.	866921	İki sütlü kahve, lütfen.
+3670596	Stil dit spørgsmål.	870204	Sorunu sor.
+3669112	Jeg køber denne.	870207	Bunu alacağım.
+2381254	Han stiller hele tiden dumme spørgsmål.	872091	O her zaman aptal sorular soruyor.
+2338910	De ventede på ham i timevis.	872097	Onu saatlerce beklediler.
+697160	Hvad har du?	872143	Neyin var?
+3250161	Dit svar er forkert.	874037	Cevabın yanlış.
+3614584	Mød Hr. Petit.	874040	Bay Petit ile buluş.
+3652488	Vi har brug for mere.	875004	Daha fazlasına ihtiyacımız var.
+3652489	Der er brug for mere.	875009	Daha fazla gerekli.
+3670652	Spørgsmålet blev besvaret.	875023	Soru cevaplandı.
+3688076	Jeg var på bjerget.	878279	Dağdaydım.
+3654109	Jeg kan bedre lide brød end ris.	927773	Ekmeği pirinçten daha çok severim.
+3371905	Mødes vi i morgen?	942003	Yarın buluşuyor muyuz?
+3610393	De tager afsted for at shoppe.	1003651	Alışverişe gidiyorlar.
+2796102	Han ser ældre ud end min bror.	1014645	O benim erkek kardeşimden daha büyük görünüyor.
+574687	Denne fugl kan ikke flyve.	1022046	Bu kuş uçamaz.
+3669100	Han køber medicin.	1022335	O ilaç satın alır.
+2355617	Han hvilede for en stund.	1022730	O bir süre dinlendi.
+3687977	En eller anden bankede på døren.	1030518	Biri kapıyı çaldı.
+3782861	Han kan tale både engelsk og fransk.	1031373	O, hem İngilizce hem Fransızca konuşabilir.
+3695015	Mine bukser er våde.	1032016	Benim pantolon ıslak.
+2338995	Er babyen vågnet op?	1032414	Bebek uyandı mı?
+628517	Jeg kommer.	1033862	Geliyorum.
+3670648	Marker det rigtige svar.	1034330	Doğru cevabı işaretleyin.
+3693457	Hvidt brød, tak.	1034355	Beyaz ekmek, lütfen.
+2355052	Jeg huskede alle.	1036033	Ben herkesi hatırladım.
+3654107	Fodbold er mere populært end baseball.	1037758	Futbol beyzboldan daha popüler.
+3614579	Alle tænker på den samme måde.	1038316	Herkes aynı şekilde düşünüyor.
+3672417	Alle tænker det samme.	1038317	Herkes aynı şeyi düşünüyor.
+2355715	Jeg var meget træt i dag.	1038377	Ben bugün çok yorgundum.
+3622678	Vær venlig at ringe igen.	1038875	Lütfen tekrar arayın.
+2328647	Må jeg gå en tur ud?	1043119	Yürüyüş için dışarı çıkabilir miyim?
+3652453	Jeg tilbereder sommetider aftensmad.	1046042	Bazen akşam yemeği pişiririm.
+2289819	Jeg vil gøre det, hvis de betaler mig.	1046298	Onlar bana ödeme yaparsa, onu yaparım.
+3682468	Vi lugter med vores næser.	1046758	Burunlarımızla koklarız.
+1914507	I begyndelsen skabte Gud himlen og jorden.	1048737	Allah önce yeri ve göğü yarattı.
+3660072	Hvornår så du sidst Özgür?	1049186	Tom'u en son ne zaman gördün?
+2355144	Jeg har netop gjort mit værelse rent.	1049877	Ben az önce odamı temizledim.
+3660098	Han har virkelig ændret sig siden sidste gang.	1050056	O gerçekten son zamandan beri çok değişti.
+3779565	Hun viste mig sin nye bil.	1050784	O, bana yeni arabasını gösterdi.
+3682555	Ret ryggen.	1057747	Sırtınızı dik tutun.
+3520523	Denne kniv skærer ikke godt.	1061206	Bu bıçak iyi kesmez.
+3614590	Mødte du hende?	1061680	Onunla buluştun mu?
+3658082	Du er ikke mindre flot end hende.	1061686	Ondan daha az güzel değilsin.
+2289857	Mor blev i bilen mens far handlede ind.	1061730	Babam alışveriş yaparken annem arabada kaldı.
+3597698	Må jeg ryge?	1063925	Sigara içebilir miyim?
+3597699	Kan jeg ryge?	1063925	Sigara içebilir miyim?
+3672156	Hvis jeg var en fugl, ville jeg flyve hen til dig.	1065942	Bir kuş olsam, sana uçarım.
+2138573	Jeres hus er stort.	1067178	Eviniz büyük.
+3696729	Vær ved stationen præcis kl. elleve.	1067374	Tam 11:00'de istasyonda olun.
+3672189	Jeg tror jeg kan.	1071064	Sanırım yapabilirim.
+1979381	Hun kan ikke blive enig med sig selv om hun skal få sig et arbejde eller begynde på universitetet.	1071554	Çalışmak ya da üniversiteye gitmek arasında karar veremiyorum.
+3654056	Guld vejer mere end jern.	1074660	Altın, demirden daha fazla çeker.
+692643	Hvis jeg var dig så ville jeg straks gå hjem.	1075283	Yerinde olsam derhal eve giderim.
+3614464	Hvilken vej er nærmest?	1103514	Hangi yol en yakın?
+3651955	Er morgenmaden klar?	1106559	Kahvaltı hazır mı?
+3664556	Hvornår og hvor bliver morgenmad serveret?	1106581	Kahvaltı ne zaman ve nerede servis edilmektedir?
+3669106	Penge kan ikke købe lykke.	1107927	Para mutluluğu satın alamaz.
+3669129	Guld kan ikke købe alt.	1107932	Altın her şeyi satın alamaz.
+3629765	Tom virkede forvirret.	1113868	Tom kafası karışmış görünüyor.
+3693438	Tom har en gul sportsvogn.	1114240	Tom'un sarı bir spor arabası var.
+3660099	Tom var stadig i Boston på dette tidspunkt sidste år.	1114282	Tom geçen yıl bu zaman hâlâ Boston'daydı.
+3696615	Det afhænger af sammenhængen.	1117367	Bu, bağlama bağlıdır.
+3688049	Hvad skete der i bussen?	1118837	Otobüste ne oldu?
+3778748	Hvad har Tom i sin hånd?	1121611	Tom'un elinde ne var?
+3682696	Den hat kostede mig ti dollars.	1128564	Bu şapka bana on dolara mal oldu.
+2338924	Tom glemte at tage sin medicin i morges.	1144027	Tom bu sabah ilacını almayı unuttu.
+3245518	Han er skuespiller.	1144566	O bir aktör.
+3672150	Jo større de er, jo tungere falder de.	1147305	Birlikten kuvvet doğar.
+3664457	Jeg rejste til Wien for første gang sidste år.	1163872	Geçen yıl ilk kez Viyana'ya gittim.
+3595900	Tom bestilte en drink.	1165022	Tom bir içki ısmarladı.
+3641199	Vær venlig at sende en ambulance.	1166903	Lütfen bir ambulans gönderin.
+3660100	Hvornår talte du sidst med Tom?	1168182	Tom'la en son ne zaman konuştun?
+3695029	Tom tog sin hat af.	1171617	Tom şapkasını çıkardı.
+3658035	Tom barberede sit hoved.	1175669	Tom başını tıraş etti.
+3629697	Tom blev solbrændt.	1182713	Tom güneş yanığı oldu.
+3629713	Tom blev røvet.	1182736	Tom soyuldu.
+3629770	Tom følte sig forvirret.	1185450	Tom şaşırmış hissetti.
+3698093	Tom taler ikke meget.	1188770	Tom çok konuşmaz.
+1568703	Elvis Presley lever!	1190328	Elvis Presley yaşıyor!
+3680652	Tom gjorde det hele selv.	1192684	Tom her şeyi kendisi yaptı.
+3654053	I skal spise mere.	1204408	Daha fazla yemelisiniz.
+3664462	Fangede du noget sidst du tog ud for at fiske?	1207204	Son kez balık tutmaya gittiğinde bir şey yakaladın mı?
+628514	Jeg kommer straks.	1207916	Derhal geliyorum.
 1097273	Vi betragtede ham som et geni.	1209349	Biz onu zeki olarak düşündük.
 1097276	Tak, hr.	1209350	Teşekkür ederim bayım.
+2381243	Er der noget jeg kan gøre for at hjælpe?	1212022	Yardım etmek için yapabileceğim bir şey var mı?
 623323	For mig er det vigtigt.	1214044	Benim için önemlidir.
+3614376	Han ombestemte sig.	1218639	Onun fikrini değiştirdi.
+3664560	Hvornår vil aftensmaden blive serveret?	1220000	Akşam yemeği ne zaman servis edilecek?
+3695027	Denne hat tilhører Tom.	1227023	Bu şapka Tom'a aittir.
+3664475	Jeg har lavet de samme fejl som jeg lavede sidste gang.	1228424	Geçen defa yaptığım aynı hataları yaptım.
+3604150	Betty kører hurtigt.	1231421	Betty hızlı araba sürer.
+3688113	Jeg sad ved siden af John.	1237295	John'un yanına oturdum.
+3688088	Ken sad ved siden af mig.	1237296	Ken yanıma oturdu.
+3622036	Lucy besøger af og til May.	1237880	Lucy ara sıra May'i ziyaret eder.
+3680672	Karen tog selv derhen.	1241442	Karen oraya kendisi gitti.
+2287695	Astronomi handler om stjerner og planeter.	1242172	Astronomi yıldızlar ve gezegenler ile ilgilenir.
+3680651	Tom gjorde det selv.	1247218	Tom onu kendisi yaptı.
+3629652	Jeg blev syg.	1249911	Hastalandım.
+3622624	Ringede du?	1249959	Sen aradın mı?
+628519	Jeg fryser.	1249979	Üşüyorum.
+3629762	Jeg er forvirret.	1250635	Kafam karıştı.
+3670615	Lad os spørge ham.	1251340	Onu soralım.
+3670561	Jeg solgte en bog.	1251405	Ben bir kitap sattım.
+3629599	Vær venlig at gå ind.	1251414	Lütfen içeri girin.
+945433	Han blev vred.	1251484	O sinirlendi.
+3629601	Bliv klippet.	1251577	Bir saç tıraşı ol.
+3595965	Tag din tid.	1251631	Acele etmeyin.
+763047	Vi ses!	1251638	Görüşürüz.
+3802195	Vi ses.	1251638	Görüşürüz.
+3664534	Læs denne bog.	1252166	Bu kitabı okuyun.
+3584718	Her kommer de.	1252174	İşte geliyorlar.
+3669109	Jeg skal købe en.	1252181	Ben bir tane almalıyım.
+3672168	Tænk over det.	1252184	Bunu düşünün.
+3682662	Jeg drejede til højre.	1252205	Ben sağa döndüm.
+3658029	Han havde ondt i hovedet.	1252268	Başı ağrıyordu.
+3629679	Jeg blev skilt.	1252343	Ben boşandım.
+3682675	Jeg slog min albue.	1252559	Dirseğimi incittim.
+3657904	Katte fanger mus.	1252563	Kediler fareleri yakalar.
+3672180	Mener du det?	1252603	Öyle düşünüyor musun?
+3687910	Lyset er tændt.	1253040	Işık açık.
+3622681	Vær venlig at ringe til ham.	1253204	Lütfen onu ara.
+3669107	Hvad købte I?	1253348	Ne satın aldınız?
+3687778	Jeg føler noget.	1253365	Ben bir şey hissediyorum.
+3670614	Spørg ham om det.	1253480	Bu konuda ona sorun.
+3614603	Kan du møde ham?	1254476	Onu görüşebilir misin?
+1798670	Han har problemer.	1254744	Onun sorunları var.
+3595887	Han plejede at drikke.	1254770	O eskiden içerdi.
+3693306	De er læger.	1254785	Onlar doktordur.
+3682456	Min næse klør.	1254870	Burnum kaşınıyor.
+3652926	Prøv den en gang mere.	1254930	Bir kez daha deneyin.
+3670625	Vær venlig ikke at spørge.	1254936	Lütfen sormayın.
+3695039	Tag jeres sko på.	1255041	Ayakkabılarınızı giyin.
+3622658	Kald på en ambulance.	1255043	Bir ambulans çağırın.
+3652916	Læs det en gang mere.	1255082	Onu bir kez daha okuyun.
+3687901	Bank på døren.	1255178	Kapıyı çal.
+3682236	Du lavede en fejl.	1255717	Bir hata yaptın.
+660642	Nu eller aldrig!	1255769	Ya şimdi ya da asla.
+3693465	Mine hunde er hvide.	1255852	Benim köpeklerim beyaz.
+3669147	Jeg købte den bil.	1255899	Ben şu arabayı satın aldım.
+3672426	Jeg tror han gjorde det.	1255999	Onun onu yaptığını düşünüyorum.
+3680770	Jeg vil tage afsted til fods.	1256020	Ben yaya gideceğim.
+3694958	Vær venlig at forklare det.	1256066	Lütfen bunu açıklayın.
+3680752	Min mave er fyldt op.	1256839	Midem dolu.
+3607946	Jeg så dig lave mad.	1256859	Senin yemek pişirmeni gördüm.
+3670623	Han spurgte efter dig.	1258777	O senin halini hatırını sordu.
+3682469	Han har en lang næse.	1258779	Onun uzun bir burnu vardır.
+3682551	Han lukkede sine øjne.	1258839	Gözlerini kapadı.
+3687788	Hun er over tyve.	1259459	O yirminin üzerinde.
+3680635	Jeg flyttede i sidste måned.	1259461	Ben geçen ay taşındım.
+3652438	På hvilket tidspunkt er der aftensmad?	1259758	Akşam yemeği saat kaçta?
+3672573	Jeg tror på hendes historie.	1261068	Ben onun hikayesine inanıyorum.
+3672427	Jeg tror hun er syg.	1261069	Onun hasta olduğunu düşünüyorum.
+3835300	Jeg har et forslag.	1261135	Benim bir önerim var.
+3779588	Skift dit tøj.	1261420	Giysilerini değiştir.
+3670638	Svar på mine spørgsmål.	1261579	Sorularıma cevap verin.
+2328654	Må jeg gå ud og lege?	1262448	Ben oynamak için dışarı çıkabilir miyim?
+3652883	Vi har brug for flere arbejdere.	1262457	Bizim daha fazla işçiye ihtiyacımız var.
+3641256	Send børnene i seng.	1265642	Çocukları yatağa gönder.
+3641204	Vær venlig at sende bud efter hjælp.	1266089	Lütfen yardım gönderin.
+3652918	Jo mere, jo bedre.	1266328	Ne kadar çok olursa, o kadar iyi.
+3610248	Gør køkkenet rent.	1266332	Mutfağı temizleyin.
+3672428	Jeg synes han er ærlig.	1267066	Onun dürüst olduğunu sanıyorum.
+3664549	Hun serverede kaffe til mig.	1267276	Bana kahve servisi yaptı.
+3782874	Går du eller ej?	1267407	Gidiyor musun yoksa gitmiyor musun?
+3670565	Hun solgte sin bil til ham.	1267641	O, ona arabasını sattı.
+3688156	Det er under stolen.	1269000	O, sandalyenin altında.
+497908	Hvor meget vil det koste?	1269065	Kaça mal olacak?
+1843562	Hvilken vej skal jeg gå?	1269070	Hangi yoldan gitmeliyim?
+3660025	Dette er sidste gang.	1269484	Bu, son kez.
+3680674	Hun var nødt til selv at gå.	1271140	Kendi gitmek zorunda kaldı.
+2377077	Han står tidligt op.	1271436	O erken kalkıyor.
+2796101	Tom ønsker mere kaffe.	1271918	Tom daha fazla kahve istiyor.
+3672424	Hvad fik dig til at tænke sådan?	1273072	Sizi böyle düşündüren nedir?
+3682524	En kanin har lange ører.	1273672	Bir tavşanın uzun kulakları vardır.
+3672553	Kan nogen tro på dig?	1273685	Herhangi biri sana inanabilir mi?
+3687969	Vi legede på stranden.	1274279	Biz sahilde oynadık.
+2365887	Jeg bør læse bogen.	1274344	Kitabı okumalıyım.
+3687986	Han hoppede på toget.	1274968	O, trene atladı.
+3614604	Mødet var lukket.	1276282	Toplantı kapatıldı.
+3688047	Toget afgik til tiden.	1276486	Tren zamanında ayrıldı.
+3652880	Du skal arbejde mere.	1277152	Daha çok çalışmalısın.
+3622043	Kyoto er værd at besøge.	1277183	Kyoto ziyaret etmeye değer.
+3678795	Du vil få en hård tid.	1278120	Zor bir zaman geçireceksin.
+3687860	Damen er over firs.	1278354	Bayan seksenin üzerinde.
+3682658	Drej til venstre ved hjørnet.	1278394	Köşede sola dön.
+3789796	Der mangler en side.	1279639	Eksik bir sayfa var.
+1979365	Lad være med at komme ind på mit værelse.	1280283	Odama gelme.
+3657909	Hun bliver let forkølet.	1281571	O kolayca soğuk alır.
+3597736	Min far ryger sjældent.	1282146	Babam nadiren sigara içer.
+3641317	Vær venlig at sende mig et brev.	1282271	Lütfen bana bir mektup gönder.
+3790577	Du er en god kunde.	1282415	Sen iyi bir müşterisin.
+3670630	Vær venlig at spørge en anden.	1282568	Lütfen başka birine sor.
+3695139	Lad os ikke diskutere mere.	1282932	Artık tartışmayalım.
+3682150	Hvor længe har du ventet?	1283040	Ne kadar bekledin?
+2377078	Hvor afgår det fra?	1283667	O nereden kalkıyor?
+2394081	Han malede døren blå.	1283722	Kapıyı maviye boyadı.
+1845956	En af hundene er i live.	1283761	Köpeklerden biri canlıdır.
+3610419	Butikken er lukket i dag.	1283793	Dükkân bugün kapalı.
+3614534	Vær venlig at gøre det på denne måde.	1284355	Lütfen onu bu şekilde yapın.
+3695012	Disse bukser er beskidte.	1284366	Bu pantolon kirli.
+3614556	Hvilken vej valgte du?	1284499	Hangi yolu seçtin?
+3670649	Hans svar var ikke korrekt.	1288687	Onun cevabı doğru değildi.
+3654108	Intet er mere vigtigt end helbredet.	1289023	Hiçbir şey sağlıktan daha önemli değildir.
+3652941	Vær venlig at tale højere.	1289207	Lütfen daha yüksek sesle konuşun.
+1979301	Min far kører på arbejde.	1289221	Babam işe arabayla gider.
+3693417	Jeg elsker min gule sweater.	1289315	Ben sarı kazağımı seviyorum.
+3688080	Tom åbnede for vandhanen.	1290682	Tom musluğu açtı.
+3670628	Tom spurgte om vej.	1290925	Tom adres sordu.
+3672131	Fluen er på loftet.	1294356	Sinek tavanda.
+3698089	Grønt går ikke sammen med rødt.	1296201	Yeşil kırmızı ile gitmez.
+3614535	Spørg politimanden om vej.	1296499	Polise yolu sor.
+3584728	Jeg tror de kommer.	1299055	Sanırım onlar geliyorlar.
+3678791	Alle havde en hård tid.	1300370	Herkes zor zaman geçirdi.
+3680640	Hun er sit gamle jeg igen.	1302522	O tekrar eskisi gibi.
+3688040	Flyet kom til tiden.	1303123	Uçak zamanında geldi.
+3621967	Mødet var i sidste måned.	1306913	Toplantı geçen aydı.
+6994711	Vand koger ved 100 grader.	1315350	Su 100 derecede kaynar.
+3696648	Tom er en pålidelig person.	1323825	Tom güvenilir bir kişidir.
+3698106	Tom kan ikke lide min familie.	1323896	Tom ailemi sevmez.
+3693311	Lægen kom med det samme.	1325052	Doktor hemen geldi.
+3641255	Vær venlig at sende en anden kopi.	1325082	Lütfen bana bir kopya daha gönder.
+3657952	Vi skyndte os for at nå bussen.	1328638	Biz otobüse yetişmek için acele ettik.
+3543047	Vi inviterede ham til vores hus.	1329577	Biz onu evimize davet ettik.
+3610404	Hun tog et andet sted hen for at shoppe.	1334706	O, başka bir yere alışverişe gitti.
+3621964	Skal du mødes med nogen her?	1343907	Burada biriyle buluşacak mısın?
+574632	Nogle af fuglene fløj ikke.	1344265	Kuşlardan bazıları uçamadı.
+3664553	Hvad blev der serveret til festen?	1344719	Partide ne servis edildi?
+3670637	Jesus svarede dem.	1359368	İsa onlara cevap verdi.
+3682558	Jeg har ondt i ryggen.	1370961	Sırtım ağrıyor.
+2338898	Vi ventede på dig hele dagen.	1385099	Bütün gün sizi bekledik.
+3595957	Pas på dig selv.	1408075	Kendine iyi bak.
+2355111	Er du begyndt at lære engelsk?	1411780	İngilizce çalışmaya başladın mı?
+3641259	Vær venlig at sende os mere information.	1420896	Lütfen bize daha fazla bilgi gönderin.
+2381252	Du er nødt til at spørge en anden.	1421228	Başka birine sormak zorunda kalacaksın.
+3693331	Hun spiser ikke andet end grøntsager.	1423499	O, sebzeden başka bir şey yemez.
+3642781	Ankara er hovedstaden i Tyrkiet.	1432088	Ankara Türkiye'nin başkentidir.
+10335578	Ankara er Tyrkiets hovedstad.	1432088	Ankara Türkiye'nin başkentidir.
+3678786	Jeg havde en hård tid.	1448843	Zor bir zaman geçirdim.
+3672509	Tro på dig selv.	1448941	Kendine inan.
+3670627	Spørg mig om noget lettere.	1449811	Bana daha kolay bir şey sor.
+3680774	Hvor lang tid tager det til fods?	1451872	Yaya olarak ne kadar zaman alır?
+3660044	Hvornår var det vi mødtes sidste gang?	1453073	En son ne zaman karşılaştık?
+3672149	Han er bange for at flyve i flyvemaskine.	1456774	O, bir uçakta uçmaktan korkuyor.
+3652464	Jeg vil gerne have mere.	1474199	Ben daha fazla istiyorum.
+3682605	Jeg har ondt i armen.	1474440	Kolum ağrıyor.
+3629773	Bring den herhen.	1474842	Onu buraya getir.
+671961	Han er en tyv.	1474868	O bir hırsızdır.
+3697847	Jeg hader mandage.	1475083	Pazartesilerden nefret ediyorum.
+3698098	Du ved det aldrig.	1475291	Asla bilmezsin.
+3693400	Dens farve er rød.	1477651	Onun rengi kırmızıdır.
+3680699	Respekter dig selv.	1477679	Kendinize saygı duyun.
+3687959	Han lå på sengen.	1479544	O, yatakta yatıyordu.
+3670620	Jeg spurgte efter ham.	1479590	Onun halini hatırını sordum.
+3652459	Tal langsommere.	1479904	Daha yavaş konuşun.
+3835377	Alle var tilfredse.	1480112	Herkes memnundu.
+3680415	Lad os lege gemme!	1480533	Hadi saklambaç oynayalım!
+3614576	Kender du vejen?	1481873	Yolu biliyor musun?
+3670539	Han lovede at sælge.	1482217	O, satmak için söz verdi.
+3670563	Hans roman solgte godt.	1482293	Onun romanı iyi sattı.
+3687942	Hold fast i rebet.	1482301	İpe tutun.
+3682576	Hun er allerede vendt tilbage.	1483768	O zaten döndü.
+3669149	Paraplyer sælger godt.	1483986	Şemsiyeler iyi satılır.
+3670645	Hvad svarede du?	1485321	Ne cevap verdin?
+3614610	Du skal møde ham.	1485389	Onu karşılamalısın.
+3694473	Jeg ønskede at fortælle dig det.	1486112	Sana anlatmak istedim.
+3697865	Er det lørdag i morgen?	1486197	Yarın Cumartesi midir?
+2796105	Hvem vil du gå med?	1487394	Kiminle gideceksin?
+3610409	Min indkøbstaske gik i stykker.	1487895	Alışveriş çantam kırıldı.
+3682534	Vi hører med vores ører.	1489222	Biz kulaklarımızla duyarız.
+3835293	Har du en løsning?	1489405	Bir çözümün var mı?
+3669113	Kan penge købe lykke?	1490665	Para mutluluk satın alabilir mi?
+3682651	Jim har brede skuldre.	1495462	Jim'in geniş omuzları var.
+3672200	Tænk på din fremtid.	1496410	Geleceğin hakkında düşün.
+3786039	Han er en barndomsven.	1496612	O, bir çocukluk arkadaşıdır.
+3680632	Hun gik langsomt fremad.	1498313	O, yavaşça ilerledi.
+3657940	Børn bliver let forkølet.	1502639	Çocuklar kolaylıkla üşütürler.
+3583359	Ken har for travlt til at komme.	1514201	Ken gelmek için çok meşgul.
+3664527	Han spiste dobbelt så meget som mig.	1515689	Benim yediğimin iki katı kadar çok yedi.
+3693420	Han bor i det gule hus.	1519075	O, şu sarı evde yaşıyor.
+3682190	De ventede på deres lærer.	1545772	Onlar öğretmenlerini beklediler.
+3597700	Susan ryger aldrig.	1547183	Susan hiç sigara içmez.
+3664513	Tom er dobbelt så tung som Mary.	1548700	Tom Mary'nin iki katı kadar ağırdır.
 1568721	Pigen ser drengen.	1568727	Kız oğlanı görüyor.
 1568767	Jeg er ikke sikker.	1568771	Emin değilim.
 1568776	Hvad mener du?	1568781	Ne düşünüyorsun?
 1568778	Hvem elsker du?	1568791	Kimi seviyorsun?
 654755	Hvornår kommer du?	1568812	Ne zaman geliyorsun?
+3664515	Tom tjener dobbelt så meget som Mary.	1585030	Tom Mary'nin iki katı kadar çok kazanır.
+3583366	Bryd dig ikke om at komme hjem til mig.	1588114	Evime gelmek için zahmet etmeyin.
+3835456	Han var tilfreds med resultatet.	1600226	Sonuçtan memnundu.
+3658017	Det lykkedes mig at nå det sidste tog.	1634315	Son treni yakalamayı başardım.
+5005727	Hvad skal jeg gøre, hvis jeg bliver angrebet af en gråbjørn?	1640417	Bir bozayı tarafından saldırıya uğrarsam ne yapmalıyım?
+3782879	Giv mig dine penge eller jeg tæsker dig.	1643436	Bana paranı ver yoksa seni döverim.
+2348885	Yokohama er en smuk havneby.	1645671	Yokohama güzel bir liman şehridir.
+3672145	Har du nogensinde set en elefant flyve?	1647665	Hiç filin uçtuğunu gördün mü?
+2348886	Han vil aldrig besøge byen igen.	1650442	Şehri asla tekrar ziyaret etmeyecek.
+3682103	Jeg vil gerne komme til jeres fest.	1651946	Partinize gelmek istiyorum.
+3664520	Mit rum er dobbelt så stort som dit.	1653476	Odam seninkinin iki katı kadar büyük.
+3658115	Tom spiser mindre end du tror.	1661797	Tom düşünebileceğinizden daha az yer.
+3533554	Han arbejdede for hårdt og blev syg.	1669243	Çok çalıştı, ve hasta oldu.
+3543147	Vi har det komfortabelt i vores nye hus.	1685862	Yeni evimizde rahatız.
+3688199	Hurtigt er det modsatte af langsomt.	1693585	Hızlı, yavaşın zıddıdır.
+3595968	Lyt til mit råd!	1707860	Tavsiyemi dinle!
+5005693	Jeg er velbekendt med emnet.	1720514	Konuyu gayet iyi biliyorum.
+5005696	Emnet er mig velbekendt.	1720514	Konuyu gayet iyi biliyorum.
+3680721	Vi beskyttede os selv imod fare.	1732546	Tehlikeye karşı kendimizi koruduk.
+3536860	Han tilskriver sin succes hårdt arbejde.	1735356	Başarısını çok çalışmaya bağlar.
+3664477	Sidst jeg så ham, havde han det ganske fint.	1755817	Onu son gördüğümde, oldukça iyiydi.
+3660039	Det er måske den sidste gang.	1755977	Son kez olabilir.
+3654105	Er engelsk sværere end japansk?	1760363	İngilizce Japoncadan daha zor mu?
 1761979	Jeg har købt dette kamera for 35000 yen.	1762113	Bu kamerayı 35,000 yene satın aldım.
+3693405	Er vinen rød?	1765196	Şarap kırmızı mı?
+3664519	Texas er næsten dobbelt så stor som Japan.	1765440	Teksas neredeyse Japonya'nın iki katı kadar büyüktür.
+3688256	De bor i det hus overfor vores.	1767018	Bizim evin karşısındaki evde yaşarlar.
+3669102	Jeg køber.	1844657	Satın alıyorum.
 1837288	Jeg har købt en Picasso.	1845588	Bir Picasso tablosu satın aldım.
+3682649	Jeg har ondt i skulderen.	1876717	Omuzum ağrıyor.
+3622025	Besøg os i morgen.	1928599	Bizi yarın ziyaret edin.
+1979613	Hvad tid står du normalt op om morgenen?	1965556	Her sabah genellikle saat kaçta kalkarsın?
+1979776	Når du lovet noget, må du også overholde det.	1979774	Mademki bir söz verdin, onu tutmalısın.
+3641172	Send ham ind.	1981585	Onu içeri gönderin.
+3664531	Dette job vil tage dobbelt så lang tid som jeg regnede med.	1984870	Bu iş beklediğimin iki katı kadar uzun sürecek.
+2355623	Har du valgt en interessant bog til din søn?	1988262	Oğlun için ilginç bir kitap seçtin mi?
+3680633	Fart på.	1995160	Acele et.
+3629734	Han slap væk.	1995236	Kaçtı.
+1790107	Jeg er ved at spise.	1995277	Yemek yiyorum.
+1790112	Jeg spiser.	1995277	Yemek yiyorum.
+1792072	Jeg sidder og spiser.	1995277	Yemek yiyorum.
+1484237	Jeg spiser frugt.	1995295	Ben meyve yerim.
+3596061	Tag min hånd.	1997194	Elimi tut.
+3680685	Jeg skar mig selv.	1997305	Kendimi kestim.
+3670568	Ingen spurgte.	1997521	Hiç kimse sormadı.
+3652486	Fortæl mig mere.	1998142	Bana biraz daha anlat.
+3778713	Vi har vin.	2000148	Şarabımız var.
+3682655	Allan forlod os.	2000212	Allan bizi terk etti.
+2796100	Ellers andet?	2000217	Başka bir şey var mı?
+3629815	Bring nøglen.	2000230	Anahtarı getir.
+3698070	Han elsker legetøj.	2000354	O oyuncakları sever.
+3680695	Jeg hader mig selv.	2000470	Kendimden nefret ediyorum.
+3571538	Jeg er ikke fuld.	2001447	Sarhoş değilim.
+3587112	Jeg er ikke træt.	2001451	Yorgun değilim.
+3596002	Det tager tid.	2001538	Bu zaman alır.
+3682607	De er bevæbnet.	2002322	Onlar silahlı.
+3687929	Stig på bussen.	2003321	Otobüse binin.
+3629627	Sov lidt.	2003416	Biraz uyu.
+3629625	Gå hen og skift tøj.	2003434	Git üstünü değiştir.
+3834990	Han fortjente det.	2003442	O bunu hak etti.
+3622686	Jeg ringede i forvejen.	2004225	Önceden telefonla aradım.
+3682095	Jeg vil gerne komme.	2004557	Gelmek istiyorum.
+3610261	Det er ikke rent.	2004823	Temiz değil.
+3694965	Lad mig forklare.	2005172	Açıklayayım.
+3622651	Nogen ringede.	2006790	Birisi aradı.
+3682554	Kom tilbage senere.	2009359	Sonra geri gel.
+3697823	Er det fredag i dag?	2012310	Bugün Cuma mı?
+3697976	Mary elsker nødder.	2012851	Mary fındık sever.
+3658026	Pas på dit hoved!	2015428	Kafana dikkat!
+3696686	Vi grinede begge.	2015456	İkimiz de güldük.
+3670631	Spørg ham om hans navn.	2017757	Ona adını sor.
+3595924	Han drikker ikke.	2018528	O içki içmez.
+3790009	Jeg er imod krig.	2019657	Savaşa karşıyım.
+3693411	Min blyant er rød.	2023451	Kalemim kırmızı.
+3669131	Ingen købte det.	2023458	Hiç kimse onu almadı.
+3680430	Vær venlig at gå tilbage.	2023480	Lütfen geriye gidin.
+3629731	Tingene blev mærkelige.	2023919	İşler tuhaflaştı.
+3789788	Dette manglede.	2024010	Bu eksikti.
+3682519	Vi har to ører.	2024254	İki kulağımız var.
+3614608	Hvem mødte du?	2024549	Kimle tanıştın?
+3672120	Medicinskabet står åbent!	2025260	Fermuarın açık!
+3672114	Kan alle fugle flyve?	2025615	Bütün kuşlar uçabilir mi?
+3687931	Klik på linket.	2025634	Linke tıklayınız.
+3669118	Købte du juice?	2025644	Meyve suyu aldın mı?
+1817287	Han sælger os papir.	2027093	Bize kâğıt satıyor.
+3670654	Jeg kunne ikke svare.	2027871	Cevap veremedim.
+3789809	Jeg mangler selvtillid.	2028753	Güven eksikliğim var.
+3672578	Jeg ønsker at tro.	2029751	İnanmak istiyorum.
+3682571	Vær venlig at støtte mig!	2034146	Lütfen beni destekleyin!
+3682573	Vær venlig at bakke mig op!	2034146	Lütfen beni destekleyin!
+3614419	Hun gik den vej.	2034665	O tarafa gitti.
+3652427	Tak for aftensmad.	2036638	Akşam yemeği için teşekkürler.
+3693560	Den sorte hund løb.	2036752	Siyah köpek koştu.
+3682465	Tom brækkede min næse.	2036931	Tom burnumu kırdı.
+3680412	Vi søger lykke.	2037499	Mutluluk arıyoruz.
+3693470	Hvorfor er sne hvid?	2038920	Kar niçin beyazdır?
+3652409	Aftensmaden var fremragende.	2039699	Akşam yemeği harikaydı.
+3610209	Vask dine hænder.	2043430	Ellerini temizle.
+3652500	Han fortjener mere.	2043436	O daha fazlasını hak ediyor.
+3652493	Jeg fortjener mere.	2043449	Daha fazlasını hak ediyorum.
+3694498	Hvad er meningen med livet?	2045087	Hayatın anlamı nedir?
+3670656	Jeg nægter at svare.	2048701	Cevap vermeyi reddediyorum.
+3672510	Ingen tror på mig.	2050157	Kimse bana inanmıyor.
+3682553	Hun har brune øjne.	2050528	Kahverengi gözleri var.
+3680426	Snegle bevæger sig langsomt.	2050726	Salyangozlar yavaş hareket eder.
+3682679	Prisen er rigtig.	2050881	Fiyat doğru.
+3604329	De kan alle køre.	2050937	Onların hepsi araba sürebilir.
+3682626	Pas på dine fingre!	2052623	Parmaklarına dikkat et!
+3698181	Du er ganske klog.	2054440	Oldukça zekisin.
+3614607	Kan vi mødes igen?	2056028	Tekrar buluşabilir miyiz?
+3688180	Han gjorde det modsatte.	2056296	Aksini yaptı.
+3641230	Han sender os blomster.	2056709	O bize çiçekler gönderir.
+3682594	Jeg har ondt i brystet.	2058016	Göğsüm ağrıyor.
+3584734	Jeg kommer fra fremtiden.	2059195	Ben gelecekten geliyorum.
+3789793	Der mangler noget.	2067554	Bir şey eksik.
+3790034	Du brød reglerne.	2072434	Kurallara karşı geldin.
+2328623	Du kan kalde mig Tom.	2072438	Bana Tom diyebilirsin.
+3672125	Er I klar til at flyve?	2072754	Uçmak için hazır mısınız?
+2355616	Har du nogensinde røget?	2077990	Hiç sigara içtin mi?
+3672581	Jeg tror altid på dig.	2080488	Ben her zaman sana inanırım.
+3614614	Lad os mødes på tirsdag.	2086547	Salı günü buluşalım.
+3687790	Vores ægteskab er ovre.	2086699	Evliliğimiz bitti.
+3641231	Send mig dit billede.	2086763	Bana resmini gönder.
+2344157	Hun gjorde værelset rent.	2086852	O, odayı temizledi.
+3693329	Hun sælger grøntsager.	2088003	O sebze satar.
+3680673	Hun prøvede det selv.	2088006	Onu kendisi denedi.
+3653607	Hun har flere bøger.	2088013	Onun daha çok kitabı var.
+3693297	Denne medicin smager meget dårligt.	2093909	Bu ilaç çok kötü tadıyor.
+3835216	Der er ingen løsning.	2099584	Hiçbir çözüm yok.
+3680637	Tom er egoistisk.	2105090	Tom bencil.
+3670540	Vi sælger appelsinjuice.	2109002	Portakal suyu satarız.
+3651960	Han spiste sin morgenmad færdig.	2114983	Kahvaltısını bitirdi.
+1915018	Han viste hende vejen.	2116194	Ona yolu gösterdi.
+3672585	Jeg tror på at kærlighed eksisterer.	2117116	Aşkın var olduğuna inanıyorum.
+3695146	Jeg kan ikke skrive mere.	2117288	Artık yazamam.
+1459162	Jeg taler ikke kinesisk.	2118452	Çince konuşmam.
+3672507	Jeg tror han tager fejl.	2121458	Onun yanlış olduğunu düşünüyorum..
+3672126	Jeg vil flyve til Tyskland.	2121803	Almanya'ya uçacağım.
+3614577	Er der ikke en anden vej?	2125763	Başka bir yolu yok mu?
+3654091	Det er mere end rigeligt.	2126323	Bu, yeterli miktardan daha fazla.
+3654112	Kvalitet er vigtigere end kvantitet.	2131700	Nitelik, nicelikten önemlidir.
+3687873	Læg den på bordet.	2135306	Onu masaya bırak.
+3670566	Hvem solgte denne bil til dig?	2144463	Bu arabayı sana kim sattı?
+3693429	Alle boldene er gule.	2146410	Tüm toplar sarı.
+3672186	Jeg tror jeg forstår.	2159171	Anladığımı düşünüyorum.
+2348911	Har hun børn?	2188939	Onun çocukları var mı?
+3660092	Hvornår så du ham sidst?	2197101	Onu en son ne zaman gördün?
 2263669	Hvorfor kom han ikke?	2263670	Neden gelmedi?
 2294446	Det er for dårligt.	2294453	Çok kötü.
+3693309	Kald på lægen!	2306991	Doktor çağır!
+3790043	Jeg sov foran TV'et.	2310938	Televizyonun karşısında uyudum.
 2332092	Jeg spiste det.	2332097	Onu yedim.
+3688175	Læg bogen ovenpå de andre.	2409732	Kitabı diğerlerinin üzerine koy.
+3680419	Tom flyttede.	2419933	Tom taşındı.
+2138552	Dit hus er stort.	2423746	Senin evin büyük.
+3678816	Den som søger, finder.	2430538	Arayan bulur.
+3687864	Lufthavnen er derovre.	2431408	Havaalanı orada.
+3664484	Hvornår lånte du sidst bøger fra biblioteket?	2436630	En son ne zaman kütüphaneden kitap ödünç aldın?
+3660051	Dette vil ikke blive den sidste gang.	2447798	Bu son kez olmayacak.
+4858825	Mit navn er ikke Tom.	2448012	Adım Tom değil.
+3682665	Vær venlig at dreje til højre.	2466881	Lütfen sağa dönün.
+2509743	Jeg sover ikke.	2476125	Ben uyumuyorum.
+3698095	Tom taler ikke med nogen.	2477145	Tom kimseyle konuşmaz.
+2853413	Sex er vigtigt for mig.	2483657	Seks benim için önemli.
+3664453	Hvornår så du sidst Tom smile?	2486876	Tom'un gülümsediğini en son ne zaman gördün?
+3695021	Jeg glemte min jakke.	2492909	Ceketimi unuttum.
+3670558	Jeg kan sælge dette.	2494404	Bunu satabilirim.
+3672269	Jeg skal tænke.	2498346	Düşünmeliyim.
+3682690	Hvad kostede det?	2499580	O neye mal oldu?
+3584738	Tom kommer i dag.	2501997	Tom bugün geliyor.
+3584745	Tom kommer herhen.	2502003	Tom buraya geliyor.
+3698100	Tom sover ikke her.	2503621	Tom burada uyumaz.
+3641325	Send mig ikke væk.	2506181	Beni kovmayın.
+3672268	Jeg tror Tom ved det.	2509397	Sanırım Tom biliyor.
+3641248	Sendte Tom dig?	2513151	Tom sana gönderdi mi?
+3680612	Tom flyttede tættere på.	2513247	Tom daha yakına taşındı.
+3612939	Vi spiste aftensmad på en restaurant.	2518374	Bir restoranda akşam yemeği yedik.
+3670610	Du spørger aldrig.	2519093	Sen asla soru sormazsın.
+3669146	Hvem købte det?	2522023	Onu kim aldı?
+3695019	Hvor er din jakke?	2522163	Ceketin nerede?
+3778739	Vi har alting.	2522785	Her şeyimiz var.
+3614394	Vend denne vej.	2522876	Bu şekilde çevirin.
+3682657	Drej til venstre her.	2522885	Burada sola dön.
+3652878	Prøv lidt mere.	2522917	Biraz daha dene.
+3672174	Tænk på i morgen.	2523038	Yarın hakkında düşünün.
+3672168	Tænk over det.	2523041	Onun hakkında düşünün.
+3652874	Der er mere.	2524026	Daha fazlası var.
+3693271	Tag Deres medicin.	2528811	İlacınızı alın.
+3596057	Tag min bil.	2528823	Arabamı al.
+3596052	Tag det hele.	2528831	Onun hepsini al.
+3596050	Gå en tur.	2528834	Yürüyüşe çıkın.
+3596049	Tag en lur.	2528836	Şekerleme yap.
+3596045	Tag en småkage.	2528838	Bir kurabiye al.
+3596044	Tag en pause.	2528842	Bir mola verin.
+3652512	Vis mig mere.	2528932	Bana daha fazlasını göster.
+3670600	Ingen spurgte dig.	2530820	Kimse seni sormadı.
+3614592	Mød mig i nat.	2530860	Bu gece benimle buluş.
+3614589	Mød mig nedenunder.	2530863	Benimle alt katta buluş.
+3672172	Lad mig tænke.	2530972	Düşüneyim.
+3543092	Forlad vores hus.	2530983	Evimizden ayrılın.
+3682568	Bare træk dig tilbage.	2531091	Sadece geri hareket edin.
+3604276	Bare fortsæt med at køre.	2531593	Sadece sürmeye devam et.
+2796104	Det er vores job.	2532645	O bizim işimiz.
+3693459	Den var hvid.	2550777	Beyazdı.
+3610233	Er det rent?	2558400	Temiz mi?
+3693448	Er den blå?	2558404	Mavi mi?
+3836009	Jeg har været overalt.	2558493	Her yerdeydim.
+3672266	Jeg tænker stadig.	2558601	Hâlâ düşünüyorum.
+3670527	Jeg sælger computere.	2569702	Bilgisayar satarım.
+3687783	Jeg har det varmt.	2572198	Sıcak hissediyorum.
+3694974	Jeg kan forklare.	2572334	Açıklayabilirim.
+3629866	Jeg bragte aftensmad.	2572886	Akşam yemeğini getirdim.
+3678821	Find en anden.	2574631	Başka birini bul.
+3682159	Alle andre ventede.	2574683	Başka herkes bekledi.
+3595868	Drik din mælk.	2574701	Sütünü iç.
+3669127	Køb den ikke.	2574792	Onu satın almayın.
+8374560	Min mobil ringer.	2577535	Telefonum çalıyor.
+3622692	Ring efter hjælp.	2578121	Yardım için ara.
+3629844	Hent din pung.	2578127	Cüzdanını getir.
+3629842	Bring mig penge.	2578133	Bana para getir.
+3629822	Bring det nærmere.	2578135	Onu daha yakına getir.
+3786010	Skønhed er subjektivt.	2578181	Güzellik özneldir.
+3652508	Vær mere præcis.	2578209	Daha dakik olun.
+3670655	Sikken et overfladisk svar.	2578957	Ne yüzeysel bir cevap!
+3651961	Tom lavede morgenmad.	2581351	Tom kahvaltı yaptı.
+3584754	Kommer Tom?	2583627	Tom geliyor mu?
+3584756	De kommer igen.	2583777	Onlar yine geliyorlar.
+3669124	De vil købe noget.	2583837	Onlar bir şey alacaklar.
+3622027	De besøgte os.	2585869	Bizi ziyaret ettiler.
+3669156	De sælger slik.	2585942	Şeker satıyorlar.
+3682559	De kom tilbage.	2586298	Onlar geri geldiler.
+3672549	De troede på Tom.	2586314	Onlar Tom'a inandılar.
+3672520	De tror på det.	2586317	Onlar ona inanıyorlar.
+3621956	Vi havde møder.	2587489	Toplantılarımız vardı.
+3614587	Vi kan mødes.	2591165	Tanışabiliriz.
+3696696	Vi vandt begge.	2591174	İkimiz de kazandık.
+3670642	Tom ønsker svar.	2594591	Tom cevapları ister.
+3629754	Tom kom nærmere.	2598742	Tom yakınlaştı.
+3604257	Tom begyndte at køre.	2598827	Tom araba sürmeye başladı.
+3610226	Tom begyndte at gøre rent.	2598833	Tom temizlemeye başladı.
+3595929	Tom bør ikke drikke.	2599965	Tom içki içmemeli.
+3696656	Fordi de ser fjernsyn.	2600648	Çünkü televizyon izliyorlar.
+3670640	Tom svarede med det samme.	2601856	Tom hemen cevap verdi.
+3698097	Tom stopper aldrig.	2603560	Tom asla durmaz.
+3698078	Tom kommer aldrig.	2604385	Tom asla gelmez.
+3680438	Tom fortsatte med at bevæge sig.	2605015	Tom hareket etmeye devam etti.
+3610222	Tom fortsatte med at gøre rent.	2605065	Tom temizlemeye devam etti.
+3669122	Tom køber ikke.	2605456	Tom satın almıyor.
+3629757	Tom skammede sig.	2614129	Tom utandı.
+3694972	Tom forklarede alt.	2614314	Tom her şeyi açıkladı.
+3652505	Tom forventede mere.	2614315	Tom daha fazla umuyordu.
+3670641	Tom kan svare.	2614472	Tom cevap verebilir.
+3629859	Tom bragte blomster.	2614485	Tom çiçekler getirdi.
+3622689	Tom ringede til alle.	2614504	Tom herkesi aradı.
+3670639	Lad Tom svare.	2617433	Tom'un cevap vermesine izin ver.
+3641185	Send Tom hjem.	2617471	Tom'u eve gönder.
+3641183	Send Tom ned.	2617473	Tom'u aşağıya gönder.
+3641177	Send Tom væk.	2617476	Tom'u uzağa gönder.
+3672512	Jeg troede på Tom.	2624195	Tom'a inandım.
+3672511	Jeg tror på Tom.	2624196	Tom'a inanıyorum.
+3672626	Tro ikke på Tom.	2625519	Tom'a inanma.
+3629818	Bring Tom tilbage.	2625560	Tom'u geri getir.
+3672201	Du tænker ikke.	2629081	Sen düşünmüyorsun.
+3584761	Du ignorerer mig.	2629325	Beni görmezden geliyorsun.
+3680405	Tom vil finde nogen.	2630703	Tom birini bulacak.
+3680403	Tom vil finde Mary.	2630706	Tom, Mary'yi bulacak.
+3595927	Jeg drikker aldrig alene.	2635628	Asla yalnız içki içmem.
+3680435	Vi bevæger os.	2637455	Biz hareket ediyoruz.
+3669103	Hvem køber?	2637929	Kim satın alıyor?
+2796106	Du er skarp.	2650479	Sen dolandırıcısın.
 2651685	Dette er en lang blyant.	2651689	Bu uzun bir kalem.
-2635713	Intet nyt er godt nyt.	3163840	Hiç haber olmaması iyi haberdir.
+3682209	Sendte du dem?	2673474	Onları gönderdin mi?
+3682194	Jeg kan ikke lide at vente.	2678999	Beklemekten hoşlanmam.
+3680771	Tom trådte på min fod.	2693228	Tom ayağıma bastı.
+3613874	Det var ikke dig, var det?	2698478	Sen değildin, değil mi?
+3680413	Har du lyst til at lege gemme?	2702434	Saklambaç oynamak ister misin?
+3578992	I er mine venner.	2714968	Arkadaşlarımsınız.
+3543123	Vi sælger ikke vores hus.	2715058	Evimizi satmıyoruz.
+3350910	Du har en smuk hest.	2725266	Atın güzel.
+3584770	Jeg kommer med Tom.	2725489	Tom'la geliyorum.
+3698072	Læser du ikke avis?	2730716	Gazete okumaz mısın?
+3610279	Det er blevet gjort rent.	2763061	Temizlendi.
+3698064	Tom åbnede skabet.	2769614	Tom dolabı açtı.
+2796093	Hvor gik den mand hen?	2792794	Bu adam nereye gitti?
+3688142	Vi sov under stjernerne.	2827762	Yıldızların altında uyuduk.
+3664455	Hvornår så du sidst dine børn?	2849956	Çocuklarınızı en son ne zaman gördünüz?
+3672270	Jeg tror du gik i panik.	2855760	Paniklediğini düşünüyorum.
+3622018	Jeg mødes ikke mere med Tom.	2866243	Artık Tom'la hiç karşılaşmıyorum.
+3672518	Vi tror på dig.	2872768	Sana inanıyoruz.
+3693304	Jeg har brug for den medicin.	2886401	O ilaca ihtiyacım var.
+3688265	Dette er det modsatte af hvad jeg forventede.	2886824	Bu, benim beklediğimin tersi.
+3621958	Jeg gik glip af mødet.	2895545	Toplantıyı kaçırdım.
+3657956	Jeg har en bus at nå.	2929800	Yetişecek bir otobüsüm var.
+3688071	Dobbeltklik på ikonet.	2940158	İkona çift tıkla.
+3680697	Jeg rettede mig selv.	2944029	Kendimi düzelttim.
+3687799	Sommeren er næsten ovre.	2944874	Yaz neredeyse bitti.
+3610415	Mange mennesker shopper her.	2944878	Burada birçok insan alışveriş yapar.
+3610416	Mange mennesker handler ind her.	2944878	Burada birçok insan alışveriş yapar.
+3660095	Hvornår besøgte du sidst Australien?	2946777	Avustralya'yı en son ne zaman ziyaret ettin?
+3687879	Tom gik ud på gaden.	2961826	Tom caddeye çıktı.
+3658157	Tom kom hertil for mindre end 10 minutter siden.	2978458	Tom on dakikadan daha az bir sürede buraya geldi.
+3610363	Min hund er ren.	2986382	Köpeğim temizdir.
+3680731	I skulle alle skamme jer.	2994443	Hepiniz kendinizden utanmalısınız.
+3697840	Tirsdag var det virkelig koldt.	2994893	Salı kesinlikle soğuktu.
+3680728	Vi vil gøre det selv.	2996722	Bunu kendimiz yapacağız.
+3641377	Hvor sendte de dig hen?	3035234	Seni nereye gönderdiler?
+3654104	Der var mere end en.	3035798	Birden daha fazla vardı.
+3543128	Gå ud af vores hus.	3055094	Evimizden çıkın.
+3595874	Drik mere vand.	3056421	Daha fazla su iç.
+3660041	Hvornår kører det sidste tog?	3062782	Son tren saat kaçta?
+3682241	Hvor fejlede vi?	3063465	Nerede hata yaptık?
+3696621	Du kan stole på Jack.	3112934	Jack'e güvenebilirsin.
+3670644	Jeg svarede ja.	3124877	Evet cevabı verdim.
+3658080	Vi har mindre end tre timer.	3143143	Üç saatten daha az zamanımız var.
+3610255	Vær venlig at vaske disse tallerkener op.	3151926	Lütfen bu tabakları yıka.
+3682197	Jeg vil ikke vente.	3173273	Beklemek istemiyorum.
+3687935	Lad lysene være tændt.	3189089	Işıkları açık bırak.
+3583477	Du havde ikke behøvet at komme så tidligt.	3196796	O kadar erken gelmek zorunda değildin.
+3614381	Jeg ombestemte mig.	3209284	Düşüncemi değiştirdim.
+3610380	Jeg elsker at shoppe.	3210647	Alışveriş yapmayı seviyorum.
+3786012	Det er din skønhed.	3239610	O senin güzelliğin.
+3682676	Mit knæ gør ondt.	3244731	Dizim acıyor.
+3614426	Uanset hvad, taber du.	3246236	Her halükarda kaybedersin.
+3629869	Tom bragte dette.	3283506	Tom bunu getirdi.
+3687800	Faren er ovre.	3295652	Tehlike bitti.
+3614582	Jeg viste Tom vejen.	3337238	Tom'a yolu gösterdim
+3682528	Jeg dækkede mine ører.	3339734	Kulaklarımı kapattım.
+3651954	Hvordan var frokosten?	3353204	Öğle yemeği nasıldı?
+3664450	Hvornår behandlede du sidst en patient?	3354876	En son ne zaman bir hastayı tedavi ettin?
+3744270	Jeg ønsker at forklare.	3374433	Açıklamak istiyorum.
+3614423	Jeg kender en vej.	3375660	Bir yol biliyorum.
+3641249	Send dem til mig.	3379894	Onları bana gönder.
+2485156	Jeg købte dette som en gave til min kæreste.	3389786	Bunu kız arkadaşım için hediye olarak almıştım.
+3658068	Kvinder tjener mindre end mænd.	3421179	Kadınlar erkeklerden daha az kazanır.
+3672107	Jeg kan flyve.	3425582	Uçabilirim.
+3672129	Udover det, kan jeg flyve.	3433255	Ek olarak, uçabilirim.
+3695023	Tag din jakke af.	3440751	Ceketini çıkar.
+3652410	Aftensmaden dufter lækkert.	3473510	Akşam yemeği nefis kokuyor.
+2650575	Jeg står til Deres tjeneste.	3475711	Size hizmet etmeye hazırım.
+3612951	Jeg elsker Toms restaurant.	3476440	Tom'un restoranını severim!
+3670647	Svaret irriterede mig.	3495128	Cevap beni öfkelendirdi.
+3578904	Er I to venner?	3529966	İkiniz arkadaş mısınız?
+3612942	Restauranten var næsten tom.	3530750	Restoran neredeyse boştu.
+3543103	Der er ikke nogen elevator i vores hus.	3530854	Evimizde asansör yok.
 615622	Tror du på spøgelser?	3560222	Hayaletlere inanır mısın?
+3612883	Er denne restaurant åben?	3564371	Bu restoran açık mı?
+5004698	Alle går.	3569094	Herkes gidiyor.
+3629641	Find et job!	3573091	Bir iş bul!
+3658069	Jeg har færre penge end dig.	3590911	Senden az param var.
+3664472	Sidst jeg så Tom var tre uger siden.	3592776	Tom'u en son gördüğümde üç hafta önceydi.
+3672191	Tænk før du taler.	3594775	Konuşmadan önce düşün.
+3629846	Hent en skovl.	3606408	Bir kürek getir!
+3664444	Hvornår betalte du sidste gang en bøde?	3610277	En son ne zaman bir para cezası ödedin?
+3696602	Om hvad?	3613327	Ne hakkında?
+3672147	Jeg kan lære dig at flyve.	3622379	Sana uçmayı öğretebilirim.
+3693322	Vi har frugt.	3648961	Meyvemiz var.
+3778747	Du har vand.	3648967	Senin suyun var.
+3698104	Han kan ikke lide æg.	3649608	Yumurta sevmez.
 3658050	Det gør ondt her.	3658055	Burası ağrıyor.
+3782870	Spise her eller tage med hjem?	3663484	Burada mı, paket mi?
+3835198	Hvor mange æbler var der i kassen?	3673889	Kutuda kaç tane elma vardı?
+5005656	Han tror på livet efter døden.	3790694	Ölümden sonraki yaşama inanıyor.
+3872701	Ønsker du at vi spiser middagsmad sammen?	3872591	Birlikte öğle yemeği yemek ister misin?
+3872681	Ønsker De en portion tærte mere?	3872610	Bir porsiyon turta daha ister misiniz?
+6951603	Hvorfor spinder katte?	3895866	Kediler neden mırlar?
+5004711	Tom opfordrede hans søn til at lære fransk.	4035674	Tom oğlunu Fransızca öğrenmesi için yüreklendirdi.
+4879641	Jeg er glad for at vi er blevet gift.	4074687	Evlendiğimize memnun oldum.
+4256130	Velkommen til Wikipedia.	4256150	Vikipedi'ye hoş geldiniz.
+10713475	Hvorfor gjorde de det?	4275264	Neden onlar onu yaptılar?
+12576018	Hvorfor siger alle det?	4302402	Neden herkes onu söylüyor?
+10567495	Hvor er jeg?	4387317	Neredeyim?
+4425288	Min far er i haven nu.	4424108	Babam şimdi bahçede.
+4425287	Bor du i Libanon?	4424239	Lübnan'da mı yaşıyorsun?
+4441359	Kom ikke ind i køkkenet.	4428592	Mutfağa gelmeyin.
+4441353	Denne klub har halvtreds medlemmer.	4431044	Bu kulübün elli üyesi var.
 4441311	Fuglen flyver i værelset.	4441337	Kuş odada uçuyor.
 4440991	Ja, jeg ved det.	4441340	Evet, onu biliyorum.
 4441255	Vores hus har en forhave.	4441343	Evimizin bir ön bahçesi var.
+4442341	Jeg kan lide kinesisk mad.	4442293	Çin yemeğini severim.
+4442333	Er der andet du er allergisk over for?	4442303	Başka herhangi bir şeye alerjin var mı?
+4510780	Jeg spiser pasta.	4447254	Makarna yiyorum.
+5004692	Hunden løber over vejen.	4512324	Köpek sokağın karşısına geçiyor.
+4378412	De hader edderkopper.	4562886	Onlar örümceklerden nefret eder.
+4879615	Jeg kan ikke lide hvad jeg ser.	4575703	Gördüğümü sevmiyorum.
+659997	Hvor langt er du henne i graviditeten?	4582175	Ne zamandır hamilesin?
+5005733	Jeg vil lave mine lektier lige efter aftensmaden.	4740944	Akşam yemeğinden hemen sonra ev ödevimi yapacağım.
+8138697	Ulven hyler.	4756971	Kurt ulur.
+10019544	De gennemsøgte huset.	4759530	Onlar evi aradılar.
+1786685	Algeriet er mit land.	4772859	Cezayir benim ülkem.
+5005647	Pigerne grinte højt.	4783732	Kızlar yüksek sesle güldü.
+8483013	Næsehornet er ikke en dinosaur.	4794894	Gergedan bir dinozor değildir.
+1528819	Hvem har skrevet "Fyrsten"?	4834245	"Prens"i kim yazdı?
 658639	Efteråret var langt og mildt.	4877407	Sonbahar uzun ve ılıktı.
+4858825	Mit navn er ikke Tom.	4989046	Benim adım Tom değil.
 4478531	Problemet er kendt af alle, men ingen taler om det.	5032409	Problem herkes tarafından biliniyor ama kimse onun hakkında konuşmuyor.
+5067214	Tyskland er ikke Kurdistan.	5068753	Almanya Kürdistan değildir.
+8955240	Store drenge græder ikke.	5361810	Büyük oğlanlar ağlamaz.
+10320865	Hvorfor er vi her?	5367556	Biz neden buradayız?
+11934997	Er du min mor?	5760564	Sen benim annem misin?
+7248721	Jeg har ølmave.	5866211	Bira göbeğim var.
+8821869	Jeg elsker semitiske sprog.	5933285	Semitik dilleri seviyorum.
+8821869	Jeg elsker semitiske sprog.	5933286	Sami dillerini severim.
+9828337	Jeg hedder Robin.	6176347	Benim adım Robin.
+614066	Taler du kinesisk?	6563290	Çince konuşuyor musun?
+12097096	Sami appellerer den afgørelse.	6719522	Sami o karara itiraz ediyor.
+7588255	Jeg elsker mine søstre.	7105862	Kız kardeşlerimi seviyorum.
+7588255	Jeg elsker mine søstre.	7105863	Kız kardeşlerimi severim.
+671959	Jeg spiser ikke.	7528018	Yemiyorum.
+671993	Jeg spiser en banan.	7528028	Muz yiyorum.
 6288186	Jeg har lavet muffins.	8080860	Kekler yaptım.
+8286509	Lær fransk.	8215183	Fransızca öğren.
+7756162	Mjaver Mao?	8307458	Mao miyavlar mı?
+8603885	Jeg er en kat.	8508425	Ben bir kediyim.
+8560037	Jeg ønsker ikke at mit land skal blive medlem af Den Europæiske Union.	8559170	Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.
+8607883	Tom er ikke Trump.	8608115	Tom Trump değil.
+8609396	Vi har en stegosaurus.	8613515	Stegosaurusumuz var.
+8721600	Vi er stærkere.	8721637	Daha güçlüyüz.
 3670555	Han sælger aviser til os.	8750632	Bize gazete satıyor.
 8761360	Jeg er bange for kakerlakker.	8761439	Hamamböceğinden korkarım.
+8787477	Der findes koalaer i Østrig.	8787300	Avusturya'da koala var.
+8796090	Jeg er et meget stabilt geni.	8788425	Ben çok dengeli bir dâhiyim.
+3807244	Hej.	9019449	Merhaba.
+9086112	Han er ikke soldat.	9084224	O asker değil.
+9086110	Jeg vil have en stor stol.	9084226	Büyük bir sandalye istiyorum.
+9086104	Solen er varm.	9084229	Güneş sıcaktır.
+9086106	Manden dræbte kvinden.	9084231	Adam kadını öldürdü.
+675007	Har du brug for en ambulance?	9310149	Ambulansa ihtiyacın var mı?
+11294348	Jeg har fire katte.	9646374	Dört kedim var.
 10197661	Jeg vil omformulere mit spørgsmål.	10198060	Sorumu başka bir şekilde ifade etmek istiyorum.
 10197560	Tom ønsker ikke at tale om det mere.	10198061	Tom bununla ilgili daha fazla konuşmak istemiyor.
 10197513	Sami ryger også cannabis.	10198062	Sami de ot içiyor.
 1568721	Pigen ser drengen.	10303189	Kız oğlanla görüşüyor.
+10471276	Hvorfor spiser du ikke?	10471213	Niye yemiyorsun?
+11132349	Jeg kan virkelig godt lide dette hus.	11100203	Bu evi bayağı beğeniyorum.
 11189960	Hvem er den berømteste krigsforbryder?	11190012	En meşhur savaş suçlusu kimdir?
+11215679	Europa eksisterer ikke.	11217897	Avrupa yok.
 11410128	Det her er den bedste guitar i butikken.	11443461	Bu; mağazadaki en iyi gitar.
 11410126	Du har mistet alt.	11443464	Her şeyi kaybettin.
 11410100	Hvordan gjorde du det uden hjælp?	11443470	Onu yardım olmadan nasıl yaptın?
 11410107	Hvad baserer du det udsagn på?	11443481	O açıklamayı neye dayandırıyorsun?
 11410098	Jeg tror ikke, du kan stole på dataene i registret.	11443494	Kayıtlardaki verilere güven duyabileceğini sanmıyorum.
 2500150	Udenrigsministeren sagde at denne krig var uundgåelig.	11679609	Dışişleri Bakanı bu savaşın kaçınılmaz olduğunu söyledi.
+11906868	Gud er homo.	11905860	Tanrı geydir.
+13380201	Jeg lever mellem to verdener.	11909479	İki dünya arasında yaşıyorum.
 12031325	Jeg venter på bus tretten.	12031327	13 numaralı otobüsü bekliyorum.
+12135222	Hvad hedder denne ø?	12126198	Bu adanın adı ne?
 12137472	Findes der en fiskerestaurant her?	12138110	Burada balık lokantası var mı?
+12137475	Er der en fiskerestaurant her?	12138110	Burada balık lokantası var mı?
 12136469	Vi plukkede blomster i haven.	12138115	Bahçede çiçek kopardık.
 12135498	I er ikke længere velkomne i mit hjem.	12138118	Artık evimde istenmiyorsunuz.
+4074920	Gud er overalt.	12160807	Tanrı her yerde.
+12311682	Gud er en elefant.	12311513	Tanrı bir fildir.
+12402464	Hvad hedder næste stop?	12402539	Gelecek istasyonun adı ne?
 12402480	Hvad hedder den næste station?	12402539	Gelecek istasyonun adı ne?
+12405575	Mine bøger er nye.	12404396	Benim kitaplarım yeni.
+12405609	Hvad hedder dette stoppested?	12405607	Bu istasyonun adı nedir?
+12406479	Maja Keuc er en slovensk sangerinde.	12406529	Maja Keuc Sloven şarkıcı.
+12426037	Vand er liv.	12426009	Su hayattır.
 8569058	Det er et interessant spørgsmål.	12614569	Bu ilginç bir soru .
 754388	Jeg blev gift da jeg var 19 år gammel.	12614570	19 yaşına geldiğimde evlendim.
 4356994	Moderen kildrede sit barn med en fjer.	12614572	Anne çocuğunu bir tüy ile gıdıkladı.
@@ -72,3 +835,19 @@
 10697168	Bliv ikke væk fra hinanden.	12614578	Birbirinizden ayrılmayın.
 12431195	Hvor meget koster 1 kg tomater?	12614579	1 kilo domates ne kadar?
 10739792	Tom havde ikke brillerne på.	12614582	Tom gözlük takmıyor.
+12679923	Jeg skriver et brev til Tom.	12654746	Tom'a mektup yazıyorum.
+12680140	Denne bogs forfatter har aldrig været i Rusland.	12659619	Bu kitabın yazarı hiç Rusya'da bulunmamış.
+12680141	Forfatteren til denne bog har aldrig været i Rusland.	12659619	Bu kitabın yazarı hiç Rusya'da bulunmamış.
+1877391	Jeg kan ikke ryge.	12955171	Sigara içmeyi bilmiyorum.
+13025553	Velkommen til Syrien!	13025519	Suriye'ye hoş geldiniz!
+13076017	Drikker du vand?	13042065	Su içiyor musun?
+13073273	Amerika er tilbage!	13073297	Amerika geri döndü!
+13076610	Spejl, spejl på væggen, hvem er den smukkeste af alle?	13076747	Ayna ayna söyle bana, benden güzeli var mı dünyada?
+13104065	Hunde er intelligente.	13104798	Köpekler zekidir.
+13231483	Egypten er en gave fra Nilen.	13229865	Mısır Nil'in hediyesidir.
+13231483	Egypten er en gave fra Nilen.	13231853	Mısır, Nil'in bir armağanıdır.
+13301352	Vi er alle dyr.	13300238	Hepimiz hayvanız.
+2654389	Jeg har en kat.	13310507	Benim bir kedim var.
+1385144	Gendarmer er også mennesker.	13323835	Jandarmalar da insandır.
+9268647	"Hvor er du?" "Jeg er her."	13354326	"Neredesin?" "Buradayım."
+13356275	Hvorfor er jeg her?	13355482	Neden buradayım?

@@ -1,0 +1,41 @@
+Προτιμώ να κολυμπάω στη θάλασσα.	Mas gusto kong lumangoy sa dagat.	να	0	0
+Μου αρέσει το τυρί για πρωινό.	Gusto ko ng keso para sa agahan.	το	0	0
+Δεν γεννήθηκα στη Γη.	Hindi ako pinanganak sa Tiyera.	δεν	0	0
+Η θάλασσα στην Ελλάδα είναι πανέμορφη.	Maganda ang dagat sa Gresya.	είναι	0	0
+Θα ήθελα τυρί για μεσημεριανό γεύμα.	Gusto ko ng keso para sa tanghalian.	θα	0	0
+Μου αρέσει το τυρί για πρωινό.	Gusto ko ng keso para sa agahan.	μου	0	0
+Θα ήθελα τυρί για μεσημεριανό γεύμα.	Gusto ko ng keso para sa tanghalian.	για	0	0
+Η αγαπημένη μου γλώσσα δεν είναι απλώς ένα όνειρο.	Hindi lamang pangarap ang paborito kong lengguwahe.	η	0	0
+Μπορώ να δω τη θάλασσα από το σπίτι.	Kita ko ang dagat mula sa bahay.	από	0	0
+Υπάρχει ένα μεγάλο πλοίο στη θάλασσα.	Mayroong isang malaking barko sa dagat.	ένα	0	0
+Μπορώ να δω τη θάλασσα από το σπίτι.	Kita ko ang dagat mula sa bahay.	τη	0	0
+Οι ναοί στην Ελλάδα είναι πανέμορφοι.	Maganda ang mga templo sa Gresya.	οι	0	0
+Η θάλασσα στην Ελλάδα είναι πανέμορφη.	Maganda ang dagat sa Gresya.	στην	0	0
+Υπάρχει ένα σπίτι δίπλα στη θάλασσα.	May bahay sa tabi ng dagat.	στη	0	0
+Μπορώ να δω τη θάλασσα από το σπίτι.	Kita ko ang dagat mula sa bahay.	μπορώ	0	0
+Υπάρχει ένα σπίτι δίπλα στη θάλασσα.	May bahay sa tabi ng dagat.	υπάρχει	0	0
+Μπορώ να δω τη θάλασσα από το σπίτι.	Kita ko ang dagat mula sa bahay.	σπίτι	0	0
+Μπορώ να δω τη θάλασσα από το σπίτι.	Kita ko ang dagat mula sa bahay.	δω	0	0
+Θα ήθελα τυρί για μεσημεριανό γεύμα.	Gusto ko ng keso para sa tanghalian.	ήθελα	0	0
+Μου αρέσει το τυρί για πρωινό.	Gusto ko ng keso para sa agahan.	αρέσει	0	0
+Η αγαπημένη μου γλώσσα δεν είναι απλώς ένα όνειρο.	Hindi lamang pangarap ang paborito kong lengguwahe.	απλώς	0	0
+Βοήθεια!	Tulong!	βοήθεια	0	0
+Υπάρχει ένα μεγάλο πλοίο στη θάλασσα.	Mayroong isang malaking barko sa dagat.	μεγάλο	0	0
+Δεν γεννήθηκα στη Γη.	Hindi ako pinanganak sa Tiyera.	γη	0	0
+Υπάρχει ένα σπίτι δίπλα στη θάλασσα.	May bahay sa tabi ng dagat.	δίπλα	0	0
+Υπάρχει ένα μεγάλο πλοίο στη θάλασσα.	Mayroong isang malaking barko sa dagat.	πλοίο	0	0
+Η αγαπημένη μου γλώσσα δεν είναι απλώς ένα όνειρο.	Hindi lamang pangarap ang paborito kong lengguwahe.	όνειρο	0	0
+Μου αρέσει το τυρί για πρωινό.	Gusto ko ng keso para sa agahan.	πρωινό	0	0
+Υπάρχει ένα μεγάλο πλοίο στη θάλασσα.	Mayroong isang malaking barko sa dagat.	θάλασσα	0	0
+Η αγαπημένη μου γλώσσα δεν είναι απλώς ένα όνειρο.	Hindi lamang pangarap ang paborito kong lengguwahe.	γλώσσα	0	0
+Θα ήθελα τυρί για μεσημεριανό γεύμα.	Gusto ko ng keso para sa tanghalian.	γεύμα	0	0
+Προτιμώ να κολυμπάω στη θάλασσα.	Mas gusto kong lumangoy sa dagat.	προτιμώ	0	0
+Η αγαπημένη μου γλώσσα δεν είναι απλώς ένα όνειρο.	Hindi lamang pangarap ang paborito kong lengguwahe.	αγαπημένη	0	0
+Μου αρέσει το τυρί για πρωινό.	Gusto ko ng keso para sa agahan.	τυρί	0	0
+Θα ήθελα τυρί για μεσημεριανό γεύμα.	Gusto ko ng keso para sa tanghalian.	μεσημεριανό	0	0
+Η θάλασσα στην Ελλάδα είναι πανέμορφη.	Maganda ang dagat sa Gresya.	πανέμορφη	0	0
+Δεν γεννήθηκα στη Γη.	Hindi ako pinanganak sa Tiyera.	γεννήθηκα	0	0
+Οι ναοί στην Ελλάδα είναι πανέμορφοι.	Maganda ang mga templo sa Gresya.	ελλάδα	0	0
+Προτιμά να κολυμπά στη θάλασσα.	Mas gusto niyang lumangoy sa dagat.	προτιμά	0	0
+Προτιμώ να κολυμπάω στη θάλασσα.	Mas gusto kong lumangoy sa dagat.	κολυμπάω	0	0
+Προτιμά να κολυμπά στη θάλασσα.	Mas gusto niyang lumangoy sa dagat.	κολυμπά	0	0

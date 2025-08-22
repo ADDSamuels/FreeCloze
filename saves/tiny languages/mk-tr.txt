@@ -1,0 +1,157 @@
+Сакам да ми ја најдеш.	Benim için onu bulmanı istiyorum.	да	0	0
+Зошто не јадеш?	Niye yemiyorsun?	не	0	0
+Колку се страшни болките?	Ağrı ne kadar şiddetli?	се	0	0
+Мојата вагина е прекрасна!	Benim vajinam güzeldir!	е	0	0
+Ердоган е претседател на Турција.	Erdoğan, Türkiye'nin başkanıdır.	на	0	0
+Решивме да не го отпуштаме.	Onu kovmamaya karar verdik.	го	0	0
+Имам некои работи што сакам да ги научам.	Öğrenmek istediğim bir şeyler var.	што	0	0
+Ќе ти го дадам ова бесплатно.	Bunu sana beleşe vereceğim.	ќе	0	0
+Авторот на оваа книга никогаш не бил во Русија.	Bu kitabın yazarı hiç Rusya'da bulunmamış.	во	0	0
+Оваа е книга за ѕвезди.	Bu yıldızlar hakkında bir kitaptır.	за	0	0
+Ќе ти го дадам ова бесплатно.	Bunu sana beleşe vereceğim.	ти	0	0
+Има копче на внатрешната страна од вратата.	Kapının iç tarafında bir buton var.	од	0	0
+Патот е покриен со мраз.	Yol buzla kaplı.	со	0	0
+Сакам да ми ја најдеш.	Benim için onu bulmanı istiyorum.	ми	0	0
+Сакам да ми ја најдеш.	Benim için onu bulmanı istiyorum.	ја	0	0
+Рацете му беа ладни како мраз.	Elleri buz gibi soğuktu.	како	0	0
+Јас имам куќа во планините.	Dağlarda bir evim var.	јас	0	0
+Имам некои работи што сакам да ги научам.	Öğrenmek istediğim bir şeyler var.	ги	0	0
+Ќе ти го дадам ова бесплатно.	Bunu sana beleşe vereceğim.	ова	0	0
+Зошто сум тука?	Neden buradayım?	сум	0	0
+Не го прашувам јас, те прашувам тебе.	Ona değil, sana soruyorum.	те	0	0
+Том има само една нога.	Tom'un sadece bir bacağı var.	само	0	0
+Дома ли е домаќинот?	Ev sahibi evde mi?	ли	0	0
+Ако имаш некакви предлози, со задоволство би ги сослушал.	Eğer herhangi bir önerilerin varsa, onları duymaktan mutlu olurum.	ако	0	0
+Тој ѝ даде играчка.	Ona oyuncak verdi.	тој	0	0
+Денот беше толку убав што отидовме да се прошетаме на планина.	O kadar güzel bir gündü ki dağlarda doğa yürüyüşüne çıktık.	беше	0	0
+Треба да правиш што год те усреќува.	Mutlu olmak için her ne gerekiyorsa yapmalısın.	треба	0	0
+Немаш многу пари.	Çok paran yok.	многу	0	0
+Да пробаме да му се јавиме на Том.	Tom'u aramayı deneyelim.	му	0	0
+Во Индија има многу реки.	Hindistan'da birçok nehir vardır.	има	0	0
+Том не може да е постар од мене.	Tom benden daha yaşlı olamaz.	може	0	0
+Том не може да е постар од мене.	Tom benden daha yaşlı olamaz.	мене	0	0
+Ако имаш некакви предлози, со задоволство би ги сослушал.	Eğer herhangi bir önerilerin varsa, onları duymaktan mutlu olurum.	би	0	0
+Каде сум?	Neredeyim?	каде	0	0
+Сакам да ми ја најдеш.	Benim için onu bulmanı istiyorum.	сакам	0	0
+Не го прашувам јас, те прашувам тебе.	Ona değil, sana soruyorum.	тебе	0	0
+Зошто сум тука?	Neden buradayım?	тука	0	0
+Зошто сум тука?	Neden buradayım?	зошто	0	0
+Има само еден начин да се реши ова.	Bunu halletmenin sadece bir yolu var.	еден	0	0
+Немам време денес.	Bugün zamanım yok.	време	0	0
+Јас имам пивски стомак.	Bira göbeğim var.	имам	0	0
+Не смееме да одиме.	Gidemeyiz.	одиме	0	0
+Можеш да го земеш бесплатно.	Ücretsiz alabilirsin.	можеш	0	0
+Колку се страшни болките?	Ağrı ne kadar şiddetli?	колку	0	0
+Денот беше толку убав што отидовме да се прошетаме на планина.	O kadar güzel bir gündü ki dağlarda doğa yürüyüşüne çıktık.	толку	0	0
+Авторот на оваа книга никогаш не бил во Русија.	Bu kitabın yazarı hiç Rusya'da bulunmamış.	никогаш	0	0
+Ако имаш некакви предлози, со задоволство би ги сослушал.	Eğer herhangi bir önerilerin varsa, onları duymaktan mutlu olurum.	имаш	0	0
+Том има само една нога.	Tom'un sadece bir bacağı var.	една	0	0
+Мојата вагина е прекрасна!	Benim vajinam güzeldir!	мојата	0	0
+Имам некои работи што сакам да ги научам.	Öğrenmek istediğim bir şeyler var.	работи	0	0
+Денес е ветровито, нели?	Bugün rüzgarlı, değil mi?	нели	0	0
+Оваа е книга за ѕвезди.	Bu yıldızlar hakkında bir kitaptır.	оваа	0	0
+Треба да правиш што год те усреќува.	Mutlu olmak için her ne gerekiyorsa yapmalısın.	правиш	0	0
+Том е постар отколку што изгледа.	Tom göründüğünden daha yaşlıdır.	изгледа	0	0
+Дома ли е домаќинот?	Ev sahibi evde mi?	дома	0	0
+Од кого бил откриен островот?	Ada kimin tarafından keşfedildi?	бил	0	0
+Немаш многу пари.	Çok paran yok.	пари	0	0
+Имам некои работи што сакам да ги научам.	Öğrenmek istediğim bir şeyler var.	некои	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	три	0	0
+Животот е мистерија.	Hayat bir sırdır.	животот	0	0
+Музиката пак засвири.	Müzik yeniden başladı.	пак	0	0
+Немам време денес.	Bugün zamanım yok.	немам	0	0
+Немам време денес.	Bugün zamanım yok.	денес	0	0
+Том не е мој тип.	Tom benim tipim değil.	мој	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	два	0	0
+Има само еден начин да се реши ова.	Bunu halletmenin sadece bir yolu var.	начин	0	0
+Рацете му беа ладни како мраз.	Elleri buz gibi soğuktu.	беа	0	0
+Има копче на внатрешната страна од вратата.	Kapının iç tarafında bir buton var.	страна	0	0
+Од кого бил откриен островот?	Ada kimin tarafından keşfedildi?	кого	0	0
+Тој ѝ даде играчка.	Ona oyuncak verdi.	даде	0	0
+Јас имам куќа во планините.	Dağlarda bir evim var.	куќа	0	0
+Том не е мој тип.	Tom benim tipim değil.	тип	0	0
+Има копче на внатрешната страна од вратата.	Kapının iç tarafında bir buton var.	вратата	0	0
+Ќе ти го дадам ова бесплатно.	Bunu sana beleşe vereceğim.	дадам	0	0
+Не сакам да те убијам.	Sizi öldürmek istemem.	убијам	0	0
+Немаш многу пари.	Çok paran yok.	немаш	0	0
+Патот е покриен со мраз.	Yol buzla kaplı.	патот	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	пет	0	0
+Тој е вистински алфа мажјак.	O hakikî bir alfa erkeği.	вистински	0	0
+Рацете му беа ладни како мраз.	Elleri buz gibi soğuktu.	рацете	0	0
+Том е постар отколку што изгледа.	Tom göründüğünden daha yaşlıdır.	отколку	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	четири	0	0
+Сакам да ми ја најдеш.	Benim için onu bulmanı istiyorum.	најдеш	0	0
+Денот беше толку убав што отидовме да се прошетаме на планина.	O kadar güzel bir gündü ki dağlarda doğa yürüyüşüne çıktık.	денот	0	0
+Почвата бе рохка.	Toprak yumuşaktı.	бе	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	шест	0	0
+Денот беше толку убав што отидовме да се прошетаме на планина.	O kadar güzel bir gündü ki dağlarda doğa yürüyüşüne çıktık.	убав	0	0
+Браво!	Bravo!	браво	0	0
+Не го прашувам јас, те прашувам тебе.	Ona değil, sana soruyorum.	прашувам	0	0
+Оваа е книга за ѕвезди.	Bu yıldızlar hakkında bir kitaptır.	книга	0	0
+Можеш да го земеш бесплатно.	Ücretsiz alabilirsin.	земеш	0	0
+Том не е мој тип.	Tom benim tipim değil.	том	0	0
+Ако имаш некакви предлози, со задоволство би ги сослушал.	Eğer herhangi bir önerilerin varsa, onları duymaktan mutlu olurum.	задоволство	0	0
+Мојата вагина е прекрасна!	Benim vajinam güzeldir!	прекрасна	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	десет	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	седум	0	0
+Патот е покриен со мраз.	Yol buzla kaplı.	мраз	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	осум	0	0
+Пливањето ги зајакнува нозете.	Yüzmek bacakları güçlendirir.	нозете	0	0
+Том не е млад.	Tom genç değildi.	млад	0	0
+Каде се наоѓа најблизката аптека?	En yakın eczane nerededir?	наоѓа	0	0
+Ердоган е претседател на Турција.	Erdoğan, Türkiye'nin başkanıdır.	претседател	0	0
+Од кого бил откриен островот?	Ada kimin tarafından keşfedildi?	островот	0	0
+Зошто не јадеш?	Niye yemiyorsun?	јадеш	0	0
+Јадам тестенина.	Makarna yiyorum.	јадам	0	0
+Има само еден начин да се реши ова.	Bunu halletmenin sadece bir yolu var.	реши	0	0
+Том има само една нога.	Tom'un sadece bir bacağı var.	нога	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	девет	0	0
+Имам некои работи што сакам да ги научам.	Öğrenmek istediğim bir şeyler var.	научам	0	0
+Не смееме да одиме.	Gidemeyiz.	смееме	0	0
+Го пропуштив натпреварот.	Yarışmayı kaçırdım.	натпреварот	0	0
+Музиката пак засвири.	Müzik yeniden başladı.	музиката	0	0
+Ако имаш некакви предлози, со задоволство би ги сослушал.	Eğer herhangi bir önerilerin varsa, onları duymaktan mutlu olurum.	некакви	0	0
+Да пробаме да му се јавиме на Том.	Tom'u aramayı deneyelim.	пробаме	0	0
+Да пробаме да му се јавиме на Том.	Tom'u aramayı deneyelim.	јавиме	0	0
+Ќе ти го дадам ова бесплатно.	Bunu sana beleşe vereceğim.	бесплатно	0	0
+Том е постар отколку што изгледа.	Tom göründüğünden daha yaşlıdır.	постар	0	0
+Авторот на оваа книга никогаш не бил во Русија.	Bu kitabın yazarı hiç Rusya'da bulunmamış.	русија	0	0
+Оваа е книга за ѕвезди.	Bu yıldızlar hakkında bir kitaptır.	ѕвезди	0	0
+Треба да правиш што год те усреќува.	Mutlu olmak için her ne gerekiyorsa yapmalısın.	год	0	0
+Тој е вистински алфа мажјак.	O hakikî bir alfa erkeği.	алфа	0	0
+Тој ѝ даде играчка.	Ona oyuncak verdi.	играчка	0	0
+Јас имам пивски стомак.	Bira göbeğim var.	стомак	0	0
+Јас имам куќа во планините.	Dağlarda bir evim var.	планините	0	0
+Во Индија има многу реки.	Hindistan'da birçok nehir vardır.	индија	0	0
+Денот беше толку убав што отидовме да се прошетаме на планина.	O kadar güzel bir gündü ki dağlarda doğa yürüyüşüne çıktık.	планина	0	0
+Го пропуштив натпреварот.	Yarışmayı kaçırdım.	пропуштив	0	0
+Денот беше толку убав што отидовме да се прошетаме на планина.	O kadar güzel bir gündü ki dağlarda doğa yürüyüşüne çıktık.	отидовме	0	0
+Има копче на внатрешната страна од вратата.	Kapının iç tarafında bir buton var.	копче	0	0
+Колку се страшни болките?	Ağrı ne kadar şiddetli?	страшни	0	0
+Денот беше толку убав што отидовме да се прошетаме на планина.	O kadar güzel bir gündü ki dağlarda doğa yürüyüşüne çıktık.	прошетаме	0	0
+Животот е мистерија.	Hayat bir sırdır.	мистерија	0	0
+Решивме да не го отпуштаме.	Onu kovmamaya karar verdik.	решивме	0	0
+Мојата вагина е прекрасна!	Benim vajinam güzeldir!	вагина	0	0
+Рацете му беа ладни како мраз.	Elleri buz gibi soğuktu.	ладни	0	0
+Има копче на внатрешната страна од вратата.	Kapının iç tarafında bir buton var.	внатрешната	0	0
+Во Индија има многу реки.	Hindistan'da birçok nehir vardır.	реки	0	0
+Патот е покриен со мраз.	Yol buzla kaplı.	покриен	0	0
+Ако имаш некакви предлози, со задоволство би ги сослушал.	Eğer herhangi bir önerilerin varsa, onları duymaktan mutlu olurum.	предлози	0	0
+Што собираш?	Ne biriktiriyorsun?	собираш	0	0
+Ердоган е претседател на Турција.	Erdoğan, Türkiye'nin başkanıdır.	турција	0	0
+Заборавивме.	Unuttuk.	заборавивме	0	0
+Тој е вистински алфа мажјак.	O hakikî bir alfa erkeği.	мажјак	0	0
+Од кого бил откриен островот?	Ada kimin tarafından keşfedildi?	откриен	0	0
+Дома ли е домаќинот?	Ev sahibi evde mi?	домаќинот	0	0
+Почвата бе рохка.	Toprak yumuşaktı.	почвата	0	0
+Авторот на оваа книга никогаш не бил во Русија.	Bu kitabın yazarı hiç Rusya'da bulunmamış.	авторот	0	0
+Каде се наоѓа најблизката аптека?	En yakın eczane nerededir?	аптека	0	0
+Том е рабин.	Tom bir haham.	рабин	0	0
+Колку се страшни болките?	Ağrı ne kadar şiddetli?	болките	0	0
+Треба да правиш што год те усреќува.	Mutlu olmak için her ne gerekiyorsa yapmalısın.	усреќува	0	0
+Носорозите не се диносауруси.	Gergedan bir dinozor değildir.	диносауруси	0	0
+Музиката пак засвири.	Müzik yeniden başladı.	засвири	0	0
+Денес е ветровито, нели?	Bugün rüzgarlı, değil mi?	ветровито	0	0
+Пливањето ги зајакнува нозете.	Yüzmek bacakları güçlendirir.	зајакнува	0	0
+Носорозите не се диносауруси.	Gergedan bir dinozor değildir.	носорозите	0	0
+Пливањето ги зајакнува нозете.	Yüzmek bacakları güçlendirir.	пливањето	0	0

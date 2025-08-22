@@ -1,0 +1,15 @@
+Јас имам пивски стомак.	Aš turiu alaus pilvą.	јас	0	0
+Кореец сум.	Aš korėjietis.	сум	0	0
+Добро утро!	Labą rytą!	добро	0	0
+Таа му купи куче.	Ji nupirko jam šunį.	му	0	0
+Таа му купи куче.	Ji nupirko jam šunį.	таа	0	0
+Јас имам пивски стомак.	Aš turiu alaus pilvą.	имам	0	0
+Добро утро!	Labą rytą!	утро	0	0
+Астероид експлодирал над Челjабинск, Русија.	Asteroidas sprogo virš Čeliabinsko Rusijoje.	над	0	0
+Таа му купи куче.	Ji nupirko jam šunį.	куче	0	0
+Таа му купи куче.	Ji nupirko jam šunį.	купи	0	0
+Астероид експлодирал над Челjабинск, Русија.	Asteroidas sprogo virš Čeliabinsko Rusijoje.	русија	0	0
+Јас имам пивски стомак.	Aš turiu alaus pilvą.	стомак	0	0
+Астероид експлодирал над Челjабинск, Русија.	Asteroidas sprogo virš Čeliabinsko Rusijoje.	експлодирал	0	0
+Астероид експлодирал над Челjабинск, Русија.	Asteroidas sprogo virš Čeliabinsko Rusijoje.	астероид	0	0
+Кореец сум.	Aš korėjietis.	кореец	0	0

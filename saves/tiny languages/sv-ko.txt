@@ -1,0 +1,64 @@
+Jag är korean.	한국 사람입니다.	jag	0	0
+Jag menar det verkligen.	정말 진심이야!	det	0	0
+Berlin är Tysklands huvudstad.	베를린은 독일의 수도입니다.	är	0	0
+Grekiska är svårt att lära sig.	그리스어를 배우는 것은 어렵다.	att	0	0
+Jag kan inte dricka kaffe.	커피를 못 마십니다.	inte	0	0
+Schweiz är beläget mellan Frankrike, Italien, Österrike och Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	och	0	0
+Tokyo är huvudstaden i Japan.	도쿄는 일본의 수도입니다.	i	0	0
+Är det här etiskt?	이거 윤리적이야?	här	0	0
+Jag kan inte dricka kaffe.	커피를 못 마십니다.	kan	0	0
+Taiwan är ett land.	대만은 국가입니다.	ett	0	0
+Varför ljuger ni?	왜 거짓말을 해요?	ni	0	0
+Jag vill inte leva.	살고 싶지 않아.	vill	0	0
+Ja eller nej?	예 혹은 아니오?	ja	0	0
+Jag vet.	알아.	vet	0	0
+Ja eller nej?	예 혹은 아니오?	nej	0	0
+Tom är min vän.	톰은 나의 친구다.	min	0	0
+Okej.	오케이.	okej	0	0
+Ja eller nej?	예 혹은 아니오?	eller	0	0
+Varför inte?	왜 아니야?	varför	0	0
+Alla visste.	모두가 알고 있었어.	alla	0	0
+Grekiska är svårt att lära sig.	그리스어를 배우는 것은 어렵다.	sig	0	0
+Tack.	감사합니다.	tack	0	0
+Apelsiner innehåller mycket C-vitamin.	오렌지는 많은 비타민C를 함유하고 있다.	mycket	0	0
+Jag menar det verkligen.	정말 진심이야!	menar	0	0
+Jag menar det verkligen.	정말 진심이야!	verkligen	0	0
+Alla visste.	모두가 알고 있었어.	visste	0	0
+Tom är min vän.	톰은 나의 친구다.	vän	0	0
+Frankrike ligger i Västeuropa.	프랑스는 서유럽에 있습니다.	ligger	0	0
+Grekiska är svårt att lära sig.	그리스어를 배우는 것은 어렵다.	svårt	0	0
+Schweiz är beläget mellan Frankrike, Italien, Österrike och Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	mellan	0	0
+Jag kan spela gitarr.	기타를 칠 줄 알아요.	spela	0	0
+Jag vill inte leva.	살고 싶지 않아.	leva	0	0
+Grekiska är svårt att lära sig.	그리스어를 배우는 것은 어렵다.	lära	0	0
+Tom är min vän.	톰은 나의 친구다.	tom	0	0
+Jag kan inte dricka kaffe.	커피를 못 마십니다.	kaffe	0	0
+Jag kan inte dricka kaffe.	커피를 못 마십니다.	dricka	0	0
+Taiwan är ett land.	대만은 국가입니다.	land	0	0
+Varför ljuger ni?	왜 거짓말을 해요?	ljuger	0	0
+Jag är Maria.	메리입니다.	maria	0	0
+Schweiz är beläget mellan Frankrike, Italien, Österrike och Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	frankrike	0	0
+Berlin är huvudstaden i Tyskland.	베를린은 독일의 수도입니다.	tyskland	0	0
+Apelsiner innehåller mycket C-vitamin.	오렌지는 많은 비타민C를 함유하고 있다.	innehåller	0	0
+Berlin är Tysklands huvudstad.	베를린은 독일의 수도입니다.	berlin	0	0
+Tokyo är huvudstad i Japan.	도쿄는 일본의 수도입니다.	japan	0	0
+Schweiz är beläget mellan Frankrike, Italien, Österrike och Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	italien	0	0
+Jag kan spela gitarr.	기타를 칠 줄 알아요.	gitarr	0	0
+Schweiz är beläget mellan Frankrike, Italien, Österrike och Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	schweiz	0	0
+Tokyo är huvudstaden i Japan.	도쿄는 일본의 수도입니다.	tokyo	0	0
+Grekiska är svårt att lära sig.	그리스어를 배우는 것은 어렵다.	grekiska	0	0
+Seoul är huvudstaden i Sydkorea.	서울은 한국의 수도입니다.	huvudstaden	0	0
+Schweiz är beläget mellan Frankrike, Italien, Österrike och Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	österrike	0	0
+Tokyo är Japans huvudstad.	도쿄는 일본의 수도입니다.	huvudstad	0	0
+Berlin är Tysklands huvudstad.	베를린은 독일의 수도입니다.	tysklands	0	0
+Apelsiner innehåller mycket C-vitamin.	오렌지는 많은 비타민C를 함유하고 있다.	apelsiner	0	0
+Tokyo är Japans huvudstad.	도쿄는 일본의 수도입니다.	japans	0	0
+Taiwan är ett land.	대만은 국가입니다.	taiwan	0	0
+Seoul är huvudstaden i Sydkorea.	서울은 한국의 수도예요.	seoul	0	0
+Är det här etiskt?	이거 윤리적이야?	etiskt	0	0
+Seoul är huvudstaden i Sydkorea.	서울은 한국의 수도입니다.	sydkorea	0	0
+Jag är korean.	한국 사람입니다.	korean	0	0
+Jag är egyptier.	이집트 사람입니다.	egyptier	0	0
+Frankrike ligger i Västeuropa.	프랑스는 서유럽에 있습니다.	västeuropa	0	0
+Apelsiner innehåller mycket C-vitamin.	오렌지는 많은 비타민C를 함유하고 있다.	c-vitamin	0	0
+Schweiz är beläget mellan Frankrike, Italien, Österrike och Tyskland.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	beläget	0	0

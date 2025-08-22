@@ -1,0 +1,426 @@
+Mano šeima susideda iš tėčio, mamos, sesers ir manęs.	Perheeni koostuu isästäni, äidistäni ja siskostani.	ir	0	0
+Aš nenoriu laukti taip ilgai.	En halua odottaa niin pitkään.	aš	0	0
+Tai yra tik laikinas pakoregavimas.	Se on vain väliaikainen korjaus.	tai	0	0
+Kad ir kas atsitiktų, aš pasiruošęs.	Tulkoon mitä tahansa, minä olen valmis.	kad	0	0
+Tu, tikriausiai, nori eiti namo.	Oletan, että haluat mennä kotiin.	tu	0	0
+Tomas ne anarchistas.	Tom ei ole anarkisti.	ne	0	0
+Kodėl čia taip tamsu? Įjunk šviesą!	Miksi täällä on niin pimeää? Laita valot päälle!	taip	0	0
+Jis greitai priprato prie šaltų orų.	Hän tottui pian kylmään säähän.	jis	0	0
+Tomas valgo tik tą ką jis nori valgyti.	Tom syö vain mitä hän haluaa syödä.	ką	0	0
+Čia yra mano širdis.	Siinä on minun sydämeni.	čia	0	0
+Jis buvo greitai priimtas į šeimą.	Hänet hyväksyttiin pian perheeseen.	į	0	0
+Miega kaip kūdikis.	Hän nukkuu kuin pikkuvauva.	kaip	0	0
+Aš greitai su tavimi susisieksiu.	Otan teihin yhteyttä pian.	su	0	0
+Ar tu mane pameni?	Muistatko minut?	ar	0	0
+Aš turiu katę ir šunį. Katė yra juoda, o šuo yra baltas.	Minulla on kissa ja koira. Kissa on musta ja koira valkoinen.	o	0	0
+Anksčiau ar vėliau jis man viską papasakos.	Hän kertoo kaiken minulle ennemmin tai myöhemmin.	man	0	0
+Kas tai atnešė?	Kuka toi tämän?	kas	0	0
+Mano šeima susideda iš tėčio, mamos, sesers ir manęs.	Perheeni koostuu isästäni, äidistäni ja siskostani.	mano	0	0
+Man patinka šunys, bet mano sesei patinka katės.	Minä pidän koirista, mutta minun siskoni pitää kissoista.	bet	0	0
+Vakar jis grįžo iš užsienio.	Hän palasi eilen kotiin ulkomailta.	iš	0	0
+Jis žino kur mes gyvename.	Hän tietää, missä asumme.	mes	0	0
+Tai yra tik laikina.	Se on vain väliaikainen.	tik	0	0
+Aš parašiau tau dainą.	Kirjoitin sinulle laulun.	tau	0	0
+Ji turi katę. Katė yra balta.	Hänellä on kissa. Kissa on valkoinen.	ji	0	0
+Kieno yra šis namas?	Kenen talo tämä on?	yra	0	0
+Jei nepasakysi mums, užmušim tave.	Jos et kerro meille, niin me tapamme sinut.	jei	0	0
+Po filmo jie užmigo.	He nukahtivat elokuvan jälkeen.	jie	0	0
+Mums reikia tavo patarimo.	Tarvitsemme sinun neuvoasi.	tavo	0	0
+Tas filmas buvo tikrai nuobodus.	Se elokuva oli tosi tylsä.	buvo	0	0
+Nėra nieko skaudesnio už savo mylimo vaiko netektį.	Ei ole mitään tuskallisempaa kuin menettää oma rakas lapsensa.	savo	0	0
+Kur tu gyveni?	Missä sinä asut?	kur	0	0
+Pasakyk, kai busi pasirengus.	Kun olet valmis, ilmoita minulle.	kai	0	0
+Ar norėtumėte dar vieną puodelį?	Haluatko toisen kupin?	dar	0	0
+Ar tu mane pameni?	Muistatko minut?	mane	0	0
+Norėjau dabar eiti miegoti.	Olin juuri aikeissa kömpiä sänkyyn.	dabar	0	0
+Tomas mažai kalba apie savo jaunystę.	Tom ei puhu paljon nuoruudestaan.	apie	0	0
+Ir viskas!	Ja sillä siisti!	viskas	0	0
+Ji už jį vyresnė.	Hän on häntä vanhempi.	jį	0	0
+Jei nepasakysi mums, užmušim tave.	Jos et kerro meille, niin me tapamme sinut.	tave	0	0
+Graži mergina atitraukė jo dėmesį.	Kaunis tyttö sai hänen mielenä muualle.	jo	0	0
+Aš jau pasiruošusi.	Olen jo valmis.	jau	0	0
+Tau nereikia dėl to jaudintis.	Sinun ei tarvitse olla siitä huolestunut.	to	0	0
+Kiek laiko ten gyvenai?	Kuinka kauan asuit siellä?	ten	0	0
+Man reikia tavo pagalbos.	Tarvitsen apuasi.	reikia	0	0
+Ji už jį vyresnė.	Hän on häntä vanhempi.	už	0	0
+Ji turi katę. Katė yra balta.	Hänellä on kissa. Kissa on valkoinen.	turi	0	0
+Kodėl čia taip tamsu? Įjunk šviesą!	Miksi täällä on niin pimeää? Laita valot päälle!	kodėl	0	0
+Po filmo jie užmigo.	He nukahtivat elokuvan jälkeen.	po	0	0
+Nėra nieko skaudesnio už savo mylimo vaiko netektį.	Ei ole mitään tuskallisempaa kuin menettää oma rakas lapsensa.	nieko	0	0
+Tau nereikia dėl to jaudintis.	Sinun ei tarvitse olla siitä huolestunut.	dėl	0	0
+Merės dukra žuvo per eismo įvykį.	Maryn tytär menehtyi onnettomuudessa.	per	0	0
+Čia blogas oras. Ar gali atidaryti langą?	Täällä on huono ilma. Voisitko avata ikkunan?	gali	0	0
+Negalėjau atitraukti savo akių nuo jūsų nuo tos minutės, kai įėjau į šį kambarį.	En ole saanut silmiäni irti sinusta siitä hetkestä kun tulin tähän huoneeseen.	jūsų	0	0
+Tas filmas buvo tikrai nuobodus.	Se elokuva oli tosi tylsä.	tikrai	0	0
+Tu, tikriausiai, nori eiti namo.	Oletan, että haluat mennä kotiin.	nori	0	0
+Negalėjau atitraukti savo akių nuo jūsų nuo tos minutės, kai įėjau į šį kambarį.	En ole saanut silmiäni irti sinusta siitä hetkestä kun tulin tähän huoneeseen.	nuo	0	0
+Aš turiu katę ir šunį. Katė yra juoda, o šuo yra baltas.	Minulla on kissa ja koira. Kissa on musta ja koira valkoinen.	turiu	0	0
+Rytoj jos gimtadienis.	Huomenna on hänen syntymäpäivänsä.	jos	0	0
+Mano šeima susideda iš tėčio, mamos, sesers ir manęs.	Perheeni koostuu isästäni, äidistäni ja siskostani.	manęs	0	0
+Jei nepasakysi mums, užmušim tave.	Jos et kerro meille, niin me tapamme sinut.	mums	0	0
+Visi žino kad šitas chemikalas yra pavojingas žmonėms.	Kaikki tietävät, että tämä kemikaali on ihmiselle haitallinen.	visi	0	0
+Ar žinai Tomo adresą?	Tiedätkö Tomin osoitteen?	žinai	0	0
+Dėl tavęs aš pasiruošęs padaryti bet ką.	Olen valmis mihin vain puolestasi.	tavęs	0	0
+Tomas valgo tik tą ką jis nori valgyti.	Tom syö vain mitä hän haluaa syödä.	tą	0	0
+Tobulų nėra.	Kukaan ei ole täydellinen.	nėra	0	0
+Pinigai neauga ant medžių.	Raha ei kasva puussa.	ant	0	0
+Mes praradome daug laiko.	Menetimme paljon aikaa.	daug	0	0
+Anksčiau ar vėliau jis man viską papasakos.	Hän kertoo kaiken minulle ennemmin tai myöhemmin.	viską	0	0
+Tas filmas buvo tikrai nuobodus.	Se elokuva oli tosi tylsä.	tas	0	0
+Jis greitai priprato prie šaltų orų.	Hän tottui pian kylmään säähän.	prie	0	0
+Aš skaičiuoju iki dešimties.	Minä lasken kymmeneen.	iki	0	0
+Nebegaliu daugiau taip gyventi.	En voi enää elää näin.	daugiau	0	0
+Ar galiu tave vadinti Tomu?	Voinko kutsua sinua Tomiksi?	galiu	0	0
+Manau, kad gandai yra teisingi.	Minun mielestäni huhu on totta.	manau	0	0
+Jis mus visus išgelbėjo.	Hän pelasti meidät kaikki.	mus	0	0
+Jis vis dar darbe.	Hän on vielä työssä.	vis	0	0
+Aš negaliu gyventi be tavęs.	En voi elää ilman sinua.	negaliu	0	0
+Aš negaliu gyventi be tavęs.	En voi elää ilman sinua.	be	0	0
+Kiek laiko ten gyvenai?	Kuinka kauan asuit siellä?	kiek	0	0
+Mano šeimą sudaro tėtis, mama, sesė ir aš.	Perheeni koostuu isästäni, äidistäni ja siskostani.	mama	0	0
+Aš esu vengras.	Olen unkarilainen.	esu	0	0
+Kokiose šalyse esi buvęs?	Missä maissa olet käynyt?	esi	0	0
+Niekada nebesužinosiu priežasties, dėl kurios jis man pamelavo.	En tule koskaan tietämään syytä miksi hän valehteli minulle.	niekada	0	0
+Turiu rytoj pasakyti jai tiesą.	Minun on kerrottava hänelle totuus huomenna.	pasakyti	0	0
+Tikiuosi, jog tai yra tik laikina problema.	Toivon, että se on vain väliaikainen ongelma.	jog	0	0
+Turiu rytoj pasakyti jai tiesą.	Minun on kerrottava hänelle totuus huomenna.	jai	0	0
+Ar norėtum dar vieną puodelį?	Haluatko toisen kupin?	vieną	0	0
+Ką tu šiandien valgysi pietums?	Mitä sinulla on tänään lounaaksi?	šiandien	0	0
+Niekas niekada nėra matęs Dievo.	Jumalaa ei kukaan ole koskaan nähnyt.	niekas	0	0
+Tomas atrodo ligotas.	Tom näyttää sairaalta.	atrodo	0	0
+Kuo tu vardu?	Mikä on nimesi?	kuo	0	0
+Kiek tau metų?	Kuinka vanha sinä olet?	metų	0	0
+Negalėjau patikėti tuo, ką mačiau.	En voinut uskoa sitä, mitä näin.	tuo	0	0
+Kiek laiko ten gyvenai?	Kuinka kauan asuit siellä?	laiko	0	0
+Man patinka šunys, bet mano sesei patinka katės.	Minä pidän koirista, mutta minun siskoni pitää kissoista.	patinka	0	0
+Perplaukčiau vandenyną, kad tik galėčiau vėl pamatyti tavo šypseną.	Uisin yli valtameren vain nähdäkseni sinun hymyilevän uudestaan.	vėl	0	0
+Jeigu norite.	Jos haluat.	jeigu	0	0
+Tau nereikia dėl to jaudintis.	Sinun ei tarvitse olla siitä huolestunut.	nereikia	0	0
+Negalėjau atitraukti savo akių nuo jūsų nuo tos minutės, kai įėjau į šį kambarį.	En ole saanut silmiäni irti sinusta siitä hetkestä kun tulin tähän huoneeseen.	šį	0	0
+Likime kartu.	Pysytään yhdessä.	kartu	0	0
+Puiku!	Siistiä!	puiku	0	0
+Aš esu visada pasiruošęs tau padėti.	Olen aina valmis auttamaan sinua.	visada	0	0
+Tu, tikriausiai, nori eiti namo.	Oletan, että haluat mennä kotiin.	namo	0	0
+Tomas buvo geras žmogus.	Tom oli hyvä mies.	žmogus	0	0
+Aš myliu šunis, tačiau mano sesė mėgsta kates.	Minä pidän koirista, mutta minun siskoni pitää kissoista.	tačiau	0	0
+Dėl tavęs aš pasiruošęs padaryti bet ką.	Olen valmis mihin vain puolestasi.	padaryti	0	0
+Jis mus visus išgelbėjo.	Hän pelasti meidät kaikki.	visus	0	0
+Aš nenoriu laukti taip ilgai.	En halua odottaa niin pitkään.	nenoriu	0	0
+Tomas buvo geras žmogus.	Tom oli hyvä mies.	geras	0	0
+Turiu eiti miegoti.	Minun täytyy mennä nukkumaan.	eiti	0	0
+Visa šalis buvo po sniegu.	Koko maa oli lumen vallassa.	visa	0	0
+Aš esu visada pasiruošęs tau padėti.	Olen aina valmis auttamaan sinua.	padėti	0	0
+Šis įrankis pravers kelionėje.	Tämä työkalu on kätevä matkalla.	šis	0	0
+Aš myliu šunis, tačiau mano sesė mėgsta kates.	Minä pidän koirista, mutta minun siskoni pitää kissoista.	myliu	0	0
+Pasakyk, kai busi pasirengus.	Kun olet valmis, ilmoita minulle.	pasakyk	0	0
+Ar čia galima rūkyti?	Saako täällä tupakoida?	galima	0	0
+Aš greitai su tavimi susisieksiu.	Otan teihin yhteyttä pian.	tavimi	0	0
+Norėjau dabar eiti miegoti.	Olin juuri aikeissa kömpiä sänkyyn.	norėjau	0	0
+Esu tikras kad jis yra pasiruošęs.	Olen varma, että hän on valmis.	tikras	0	0
+Norėčiau nusipirti žemėlapį.	Haluaisin ostaa kartan.	norėčiau	0	0
+Tikiuosi, jog tai yra tik laikina problema.	Toivon, että se on vain väliaikainen ongelma.	tikiuosi	0	0
+Aš greitai su jumis susisieksiu.	Otan teihin yhteyttä pian.	greitai	0	0
+Visi žino kad šitas chemikalas yra pavojingas žmonėms.	Kaikki tietävät, että tämä kemikaali on ihmiselle haitallinen.	žino	0	0
+Nuostabu!	Siistii!	nuostabu	0	0
+Negalėjau patikėti tuo, ką mačiau.	En voinut uskoa sitä, mitä näin.	mačiau	0	0
+Perplaukčiau vandenyną, kad tik galėčiau vėl pamatyti tavo šypseną.	Uisin yli valtameren vain nähdäkseni sinun hymyilevän uudestaan.	galėčiau	0	0
+Mano šeimą sudaro tėtis, mama, sesė ir aš.	Perheeni koostuu isästäni, äidistäni ja siskostani.	tėtis	0	0
+Turiu rytoj pasakyti jai tiesą.	Minun on kerrottava hänelle totuus huomenna.	rytoj	0	0
+Laikyk pinigus saugioje vietoje.	Säilytä rahoja turvallisessa paikassa.	pinigus	0	0
+Anksčiau ar vėliau jis man viską papasakos.	Hän kertoo kaiken minulle ennemmin tai myöhemmin.	anksčiau	0	0
+Jis/ji nori žinoti, kas atsiuntė gėlės.	Hän haluaa tietää, kuka lähetti kukat.	žinoti	0	0
+Kas atsitiko Tomui?	Mikä Tomia vaivaa?	atsitiko	0	0
+Negalėjau atitraukti savo akių nuo jūsų nuo tos minutės, kai įėjau į šį kambarį.	En ole saanut silmiäni irti sinusta siitä hetkestä kun tulin tähän huoneeseen.	tos	0	0
+Tu, tikriausiai, nori eiti namo.	Oletan, että haluat mennä kotiin.	tikriausiai	0	0
+Anksčiau ar vėliau jis man viską papasakos.	Hän kertoo kaiken minulle ennemmin tai myöhemmin.	vėliau	0	0
+Aš nenoriu laukti taip ilgai.	En halua odottaa niin pitkään.	ilgai	0	0
+Trys moterys nusišypsojo.	Naiskolmikko hymyili.	trys	0	0
+Perplaukčiau vandenyną, kad tik galėčiau vėl pamatyti tavo šypseną.	Uisin yli valtameren vain nähdäkseni sinun hymyilevän uudestaan.	pamatyti	0	0
+Vakar jis grįžo iš užsienio.	Hän palasi eilen kotiin ulkomailta.	vakar	0	0
+Mano žmona nekenčia kačių.	Vaimoni vihaa kissoja.	žmona	0	0
+Turiu rytoj pasakyti jai tiesą.	Minun on kerrottava hänelle totuus huomenna.	tiesą	0	0
+Tomas mažai kalba apie savo jaunystę.	Tom ei puhu paljon nuoruudestaan.	kalba	0	0
+Aš nesuprantu ką jis bando pasakyti.	En ymmärrä mitä hän yrittää sanoa.	nesuprantu	0	0
+Graži mergina atitraukė jo dėmesį.	Kaunis tyttö sai hänen mielenä muualle.	mergina	0	0
+Man reikia tavo pagalbos.	Tarvitsen apuasi.	pagalbos	0	0
+Aš greitai su jumis susisieksiu.	Otan teihin yhteyttä pian.	jumis	0	0
+Padėk tai ant stalo.	Laita se pöydälle.	padėk	0	0
+Blogai jaučiuosi.	Minulla on huono olo.	blogai	0	0
+Ar tai Tomas padarė?	Tekikö Tom sen?	padarė	0	0
+Kuo tu vardu?	Mikä on nimesi?	vardu	0	0
+Ar norite dar pyrago?	Haluatteko vielä piirakkaa?	norite	0	0
+Niekada nebesužinosiu priežasties, dėl kurios jis man pamelavo.	En tule koskaan tietämään syytä miksi hän valehteli minulle.	kurios	0	0
+Paskubėk, kitaip pavėluosi į traukinį.	Kiirehdi, tai myöhästyt junasta.	kitaip	0	0
+Niekas niekada nėra matęs Dievo.	Jumalaa ei kukaan ole koskaan nähnyt.	dievo	0	0
+Mano šeima susideda iš tėčio, mamos, sesers ir manęs.	Perheeni koostuu isästäni, äidistäni ja siskostani.	šeima	0	0
+Nemoku kalbėti vokiškai.	En puhu saksaa.	kalbėti	0	0
+Alkis- geriausias prieskonis.	Nälkä on paras mauste.	geriausias	0	0
+Ar tau nepatinka merginos?	Etkö tykkää tytöistä?	nepatinka	0	0
+Tomai, aš namie.	Tom, olen kotona.	namie	0	0
+Visi žino kad šitas chemikalas yra pavojingas žmonėms.	Kaikki tietävät, että tämä kemikaali on ihmiselle haitallinen.	šitas	0	0
+Tai išties nuostabi mintis.	Se on tosi siisti idea.	mintis	0	0
+Graži mergina atitraukė jo dėmesį.	Kaunis tyttö sai hänen mielenä muualle.	graži	0	0
+Aš negaliu gyventi be tavęs.	En voi elää ilman sinua.	gyventi	0	0
+Negalėjau patikėti tuo, ką mačiau.	En voinut uskoa sitä, mitä näin.	patikėti	0	0
+Mano brolis ieško buto.	Veljeni etsii asuntoa.	brolis	0	0
+Kad ir kas bebūtų, aš pasiruošęs.	Tulkoon mitä tahansa, minä olen valmis.	pasiruošęs	0	0
+Laikyk pinigus saugioje vietoje.	Säilytä rahoja turvallisessa paikassa.	vietoje	0	0
+Pinigai neauga ant medžių.	Raha ei kasva puussa.	pinigai	0	0
+Ar tavo motina namie?	Onko äitisi kotona?	motina	0	0
+Marija gyvena Kaire.	Mary asuu Kairossa.	gyvena	0	0
+Žiemą Suomijoje sninga, bet pavasarį būna šilta.	Suomessa sataa talvisin lunta, mutta kesäisin on lämmintä.	būna	0	0
+Ar tau nepatinka merginos?	Etkö tykkää tytöistä?	merginos	0	0
+Nupirkau jai naują automobilį.	Ostin hänelle uuden auton.	naują	0	0
+Aš kalbu su Tomu.	Puhun Tomin kanssa.	kalbu	0	0
+Aš greitai grįšiu.	Palaan pian.	grįšiu	0	0
+Aš bijau tamsos.	Minä pelkään pimeää.	bijau	0	0
+Aš blogai jaučiuosi.	Minulla on paha olo.	jaučiuosi	0	0
+Negalėjau atitraukti savo akių nuo jūsų nuo tos minutės, kai įėjau į šį kambarį.	En ole saanut silmiäni irti sinusta siitä hetkestä kun tulin tähän huoneeseen.	kambarį	0	0
+Kur eini?	Minne olet menossa?	eini	0	0
+Ar norėtum dar vieną puodelį?	Haluatko toisen kupin?	norėtum	0	0
+Tomas atsikėlė septintą valandą.	Tom nousi ylös 7:00.	valandą	0	0
+Susirinkimas baigėsi penktą.	Kokous päättyi viideltä.	baigėsi	0	0
+Tikiuosi, jog tai yra tik laikina problema.	Toivon, että se on vain väliaikainen ongelma.	problema	0	0
+Ar tu mane pameni?	Muistatko minut?	pameni	0	0
+Visi žino kad šitas chemikalas yra pavojingas žmonėms.	Kaikki tietävät, että tämä kemikaali on ihmiselle haitallinen.	žmonėms	0	0
+Merės dukra žuvo per eismo įvykį.	Maryn tytär menehtyi onnettomuudessa.	dukra	0	0
+Ką veiki?	Mitäs puuhaat?	veiki	0	0
+Padėk tai ant stalo.	Laita se pöydälle.	stalo	0	0
+Tas filmas buvo tikrai nuobodus.	Se elokuva oli tosi tylsä.	filmas	0	0
+Šioje upėje plaukioti yra pavojinga.	Siinä joessa on vaarallista uida.	šioje	0	0
+Tomai, aš namie.	Tom, olen kotona.	tomai	0	0
+Lauke šalta.	Ulkona on kylmä.	lauke	0	0
+Havajai dažnai vadinami Ramiojo vandenyno perlu.	Hawaijiin viitataan usein "Tyynenmeren helmenä".	dažnai	0	0
+Mano šeima susideda iš tėčio, mamos, sesers ir manęs.	Perheeni koostuu isästäni, äidistäni ja siskostani.	mamos	0	0
+Negalėjau atitraukti savo akių nuo jūsų nuo tos minutės, kai įėjau į šį kambarį.	En ole saanut silmiäni irti sinusta siitä hetkestä kun tulin tähän huoneeseen.	negalėjau	0	0
+Mano šeimą sudaro tėtis, mama, sesė ir aš.	Perheeni koostuu isästäni, äidistäni ja siskostani.	šeimą	0	0
+Kieno yra šis namas?	Kenen talo tämä on?	namas	0	0
+Tu geri arbatą.	Juot teetä.	geri	0	0
+Kieno eilė?	Kenen vuoro on?	kieno	0	0
+Tai išties nuostabi mintis.	Se on tosi siisti idea.	nuostabi	0	0
+Laikyk pinigus saugioje vietoje.	Säilytä rahoja turvallisessa paikassa.	laikyk	0	0
+Šuo buvo negyvas.	Se koira oli kuollut.	negyvas	0	0
+Turiu eiti miegoti.	Minun täytyy mennä nukkumaan.	miegoti	0	0
+Čia yra mano širdis.	Siinä on minun sydämeni.	širdis	0	0
+Čia blogas oras. Ar gali atidaryti langą?	Täällä on huono ilma. Voisitko avata ikkunan?	blogas	0	0
+Paskubėk, kitaip pavėluosi į traukinį.	Kiirehdi, tai myöhästyt junasta.	paskubėk	0	0
+Ketinu čia pasilikti keliom dienom.	Aion viipyä siellä pari päivää.	pasilikti	0	0
+Greitai iš pietų parskris kregždutės.	Pääskyset palaavat pian etelästä.	pietų	0	0
+Trys moterys nusišypsojo.	Naiskolmikko hymyili.	moterys	0	0
+Aš nesuprantu ką jis bando pasakyti.	En ymmärrä mitä hän yrittää sanoa.	bando	0	0
+Ar prisimeni mane?	Muistatko minut?	prisimeni	0	0
+Vakar jis grįžo iš užsienio.	Hän palasi eilen kotiin ulkomailta.	grįžo	0	0
+Tai išties nuostabi mintis.	Se on tosi siisti idea.	išties	0	0
+Aš nenoriu laukti taip ilgai.	En halua odottaa niin pitkään.	laukti	0	0
+Kraujas teka kraujagyslėse.	Veri virtaa suonissa.	kraujas	0	0
+Mano brolis ieško buto.	Veljeni etsii asuntoa.	ieško	0	0
+Nėra nieko skaudesnio už savo mylimo vaiko netektį.	Ei ole mitään tuskallisempaa kuin menettää oma rakas lapsensa.	vaiko	0	0
+Negalėjau atitraukti savo akių nuo jūsų nuo tos minutės, kai įėjau į šį kambarį.	En ole saanut silmiäni irti sinusta siitä hetkestä kun tulin tähän huoneeseen.	minutės	0	0
+Tomas valgo tik tą ką jis nori valgyti.	Tom syö vain mitä hän haluaa syödä.	valgyti	0	0
+Tomas mažai kalba apie savo jaunystę.	Tom ei puhu paljon nuoruudestaan.	mažai	0	0
+Kieno eilė?	Kenen vuoro on?	eilė	0	0
+Merės dukra žuvo per eismo įvykį.	Maryn tytär menehtyi onnettomuudessa.	žuvo	0	0
+Graži mergina atitraukė jo dėmesį.	Kaunis tyttö sai hänen mielenä muualle.	dėmesį	0	0
+Niekas niekada nėra matęs Dievo.	Jumalaa ei kukaan ole koskaan nähnyt.	matęs	0	0
+Šuo buvo negyvas.	Se koira oli kuollut.	šuo	0	0
+Žinai, aš padaryčiau viską dėl tavo gražių akių.	Sinä tiedät, että tekisin mitä tahansa kauniitten silmiesi vuoksi.	akių	0	0
+Kur tu gyveni?	Missä sinä asut?	gyveni	0	0
+Užeik, Tomai.	Tule sisään, Tom.	užeik	0	0
+Mano šeima susideda iš tėčio, mamos, sesers ir manęs.	Perheeni koostuu isästäni, äidistäni ja siskostani.	tėčio	0	0
+Lauke šalta.	Ulkona on kylmä.	šalta	0	0
+Jis vis dar darbe.	Hän on vielä työssä.	darbe	0	0
+Šioje upėje plaukioti yra pavojinga.	Siinä joessa on vaarallista uida.	pavojinga	0	0
+Atnešk man sausą rankšluostį.	Tuo minulle kuiva pyyhe.	atnešk	0	0
+Miega kaip kūdikis.	Hän nukkuu kuin pikkuvauva.	miega	0	0
+Kodėl čia taip tamsu? Įjunk šviesą!	Miksi täällä on niin pimeää? Laita valot päälle!	šviesą	0	0
+Kaip greitai Tomas kalba!	Miten nopeasti Tom puhuukaan!	tomas	0	0
+Jis/ji nori žinoti, kas atsiuntė gėlės.	Hän haluaa tietää, kuka lähetti kukat.	atsiuntė	0	0
+Kokiose šalyse esi buvęs?	Missä maissa olet käynyt?	buvęs	0	0
+Nupirkau jai naują automobilį.	Ostin uuden auton hänelle.	automobilį	0	0
+Aš myliu šunis, tačiau mano sesė mėgsta kates.	Minä pidän koirista, mutta minun siskoni pitää kissoista.	mėgsta	0	0
+Tatoeba yra kietas ir naudingas tinklalapis.	Tatoeba on siisti ja kätevä nettisivu.	kietas	0	0
+Čia blogas oras. Ar gali atidaryti langą?	Täällä on huono ilma. Voisitko avata ikkunan?	langą	0	0
+Negaliu atsiminti dainos žodžių.	En muista laulun sanoja.	žodžių	0	0
+Nebegaliu daugiau taip gyventi.	En voi enää elää näin.	nebegaliu	0	0
+Jis greitai taps tėvu.	Hänestä tulee pian isä.	tėvu	0	0
+Jis greitai taps tėvu.	Hänestä tulee pian isä.	taps	0	0
+Jis negėrė vyno.	Hän ei juonut viiniä.	vyno	0	0
+Aš parašiau tau dainą.	Kirjoitin sinulle laulun.	dainą	0	0
+Niekada nebesužinosiu priežasties, dėl kurios jis man pamelavo.	En tule koskaan tietämään syytä miksi hän valehteli minulle.	priežasties	0	0
+Tai tik laikinas sprendimas.	Se on vain väliaikainen ratkaisu.	sprendimas	0	0
+Visa šalis buvo po sniegu.	Koko maa oli lumen vallassa.	šalis	0	0
+Tai staigmena.	Tämä on yllätys.	staigmena	0	0
+Aš jau pasiruošusi.	Olen jo valmis.	pasiruošusi	0	0
+Miega kaip kūdikis.	Hän nukkuu kuin pikkuvauva.	kūdikis	0	0
+Tomai, aš grįžau.	Tom, tulin takaisin.	grįžau	0	0
+Čia blogas oras. Ar gali atidaryti langą?	Täällä on huono ilma. Voisitko avata ikkunan?	atidaryti	0	0
+Aš turiu katę ir šunį. Katė yra juoda, o šuo yra baltas.	Minulla on kissa ja koira. Kissa on musta ja koira valkoinen.	šunį	0	0
+Po filmo jie užmigo.	He nukahtivat elokuvan jälkeen.	filmo	0	0
+Ketinu čia pasilikti keliom dienom.	Aion viipyä siellä pari päivää.	ketinu	0	0
+Rytoj jos gimtadienis.	Huomenna on hänen syntymäpäivänsä.	gimtadienis	0	0
+Kiek kainuoja šis tušinukas?	Mitä tuo kynä maksaa?	kainuoja	0	0
+Jis mus visus išgelbėjo.	Hän pelasti meidät kaikki.	išgelbėjo	0	0
+Mano žmona nekenčia kačių.	Vaimoni vihaa kissoja.	nekenčia	0	0
+Marija gyvena Kaire.	Mary asuu Kairossa.	marija	0	0
+Čia blogas oras. Ar gali atidaryti langą?	Täällä on huono ilma. Voisitko avata ikkunan?	oras	0	0
+Ar galiu tave vadinti Tomu?	Voinko kutsua sinua Tomiksi?	vadinti	0	0
+Nemoku kalbėti vokiškai.	En puhu saksaa.	nemoku	0	0
+Tai kietai.	Se on siistiä.	kietai	0	0
+Tau nereikia dėl to jaudintis.	Sinun ei tarvitse olla siitä huolestunut.	jaudintis	0	0
+Visi žino kad šitas chemikalas yra pavojingas žmonėms.	Kaikki tietävät, että tämä kemikaali on ihmiselle haitallinen.	pavojingas	0	0
+Aš ne robotas.	En ole robotti.	robotas	0	0
+Ėjau su savo draugu/drauge apsipirkti.	Menin kaverini kanssa ostoksille.	ėjau	0	0
+Kad ir kas bebūtų, aš pasiruošęs.	Tulkoon mitä tahansa, minä olen valmis.	bebūtų	0	0
+Suskambo gaisro pavojaus signalas.	Palohälyytin soi.	signalas	0	0
+Nupirkau jai naują automobilį.	Ostin uuden auton hänelle.	nupirkau	0	0
+Tomas nemoka gaminti.	Tomi ei osaa laittaa ruokaa.	nemoka	0	0
+Ar žinai Tomo adresą?	Tiedätkö Tomin osoitteen?	adresą	0	0
+Žinai, aš padaryčiau viską dėl tavo gražių akių.	Sinä tiedät, että tekisin mitä tahansa kauniitten silmiesi vuoksi.	padaryčiau	0	0
+Paskubėk, kitaip pavėluosi į traukinį.	Kiirehdi, tai myöhästyt junasta.	traukinį	0	0
+Tomas vaikšto greitai.	Tom kävelee nopeasti.	vaikšto	0	0
+Tomas nėra turtingas.	Tomi ei ole rikas.	turtingas	0	0
+Aš tai pastebėjau tik vakar.	Huomasin sen vasta eilen.	pastebėjau	0	0
+Kodėl čia taip tamsu? Įjunk šviesą!	Miksi täällä on niin pimeää? Laita valot päälle!	įjunk	0	0
+Kas tai atnešė?	Kuka toi tämän?	atnešė	0	0
+Man patinka šunys, bet mano sesei patinka katės.	Minä pidän koirista, mutta minun siskoni pitää kissoista.	šunys	0	0
+Ar praradai protą?	Oletko menettänyt järkesi?	protą	0	0
+Tomas valgo tik tą ką jis nori valgyti.	Tom syö vain mitä hän haluaa syödä.	valgo	0	0
+Ji visada yra blogiausia klasėje.	Hän on aina huonoin luokallaan.	klasėje	0	0
+Aš bijau tamsos.	Minä pelkään pimeää.	tamsos	0	0
+Aš parašiau tau dainą.	Kirjoitin sinulle laulun.	parašiau	0	0
+Ar norėtumėte dar vieną puodelį?	Haluatko toisen kupin?	norėtumėte	0	0
+Čia yra pėlė! Pakviesk katę!	Täällä on hiiri. Kutsu kissa.	pakviesk	0	0
+Čia yra Tomo butas.	Tämä on Tomin asunto.	butas	0	0
+Mano šeima susideda iš tėčio, mamos, sesers ir manęs.	Perheeni koostuu isästäni, äidistäni ja siskostani.	sesers	0	0
+Havajai dažnai vadinami Ramiojo vandenyno perlu.	Hawaijiin viitataan usein "Tyynenmeren helmenä".	vandenyno	0	0
+Ji visada yra blogiausia klasėje.	Hän on aina huonoin luokallaan.	blogiausia	0	0
+Jis/ji nori žinoti, kas atsiuntė gėlės.	Hän haluaa tietää, kuka lähetti kukat.	gėlės	0	0
+Lapas krenta.	Lehti putoaa.	krenta	0	0
+Aš skaičiuoju iki dešimties.	Minä lasken kymmeneen.	dešimties	0	0
+Mano brolis ieško buto.	Veljeni etsii asuntoa.	buto	0	0
+Mes gyvename taikoje.	Elämme rauhassa.	gyvename	0	0
+Turiu staigmeną.	Minulla on yllätys.	staigmeną	0	0
+Kokiose šalyse esi buvusi?	Missä maissa olet käynyt?	buvusi	0	0
+Afrika yra žmonijos lopšys.	Afrikka on ihmiskunnan kehto.	žmonijos	0	0
+Aš bijau šunų.	Pelkään koiria.	šunų	0	0
+Negaliu atsiminti dainos žodžių.	En muista laulun sanoja.	dainos	0	0
+Aš turiu katę ir šunį. Katė yra juoda, o šuo yra baltas.	Minulla on kissa ja koira. Kissa on musta ja koira valkoinen.	juoda	0	0
+Tai mano kompiuteris.	Tämä on tietokoneeni.	kompiuteris	0	0
+Ar čia galima rūkyti?	Saako täällä tupakoida?	rūkyti	0	0
+Manau, kad gandai yra teisingi.	Minun mielestäni huhu on totta.	gandai	0	0
+Kodėl čia taip tamsu? Įjunk šviesą!	Miksi täällä on niin pimeää? Laita valot päälle!	tamsu	0	0
+Norėčiau nusipirti žemėlapį.	Haluaisin ostaa kartan.	žemėlapį	0	0
+Aš turiu katę ir šunį. Katė yra juoda, o šuo yra baltas.	Minulla on kissa ja koira. Kissa on musta ja koira valkoinen.	katė	0	0
+Vakar jis grįžo iš užsienio.	Hän palasi eilen kotiin ulkomailta.	užsienio	0	0
+Tomas nemoka gaminti.	Tomi ei osaa kokata.	gaminti	0	0
+Aš myliu šunis, tačiau mano sesė mėgsta kates.	Minä pidän koirista, mutta minun siskoni pitää kissoista.	šunis	0	0
+Mes praradome daug laiko.	Menetimme paljon aikaa.	praradome	0	0
+Ji turi katę. Katė yra balta.	Hänellä on kissa. Kissa on valkoinen.	balta	0	0
+Suskambo gaisro pavojaus signalas.	Palohälyytin soi.	pavojaus	0	0
+Mums reikia tavo patarimo.	Tarvitsemme sinun neuvoasi.	patarimo	0	0
+Nekalbu vokiškai.	En puhu saksaa.	nekalbu	0	0
+Tatoeba yra kietas ir naudingas tinklalapis.	Tatoeba on siisti ja kätevä nettisivu.	naudingas	0	0
+Tu geri arbatą.	Juot teetä.	arbatą	0	0
+Aš turiu katę ir šunį. Katė yra juoda, o šuo yra baltas.	Minulla on kissa ja koira. Kissa on musta ja koira valkoinen.	baltas	0	0
+Žiemą Suomijoje sninga, bet pavasarį būna šilta.	Suomessa sataa talvisin lunta, mutta kesäisin on lämmintä.	šilta	0	0
+Jis buvo greitai priimtas į šeimą.	Hänet hyväksyttiin pian perheeseen.	priimtas	0	0
+Nesijaučiu, kad bučiau ypatingai sumanus.	En tunne itseäni kovin fiksuksi.	ypatingai	0	0
+Pinigai neauga ant medžių.	Raha ei kasva puussa.	medžių	0	0
+Marija gyvena Kaire.	Mary asuu Kairossa.	kaire	0	0
+Ar norėtumėte dar vieną puodelį?	Haluatko toisen kupin?	puodelį	0	0
+Susirinkimas baigėsi penktą.	Kokous päättyi viideltä.	susirinkimas	0	0
+Susirinkimas baigėsi penktą.	Kokous päättyi viideltä.	penktą	0	0
+Ar praradai protą?	Oletko menettänyt järkesi?	praradai	0	0
+Man patinka šunys, bet mano sesei patinka katės.	Minä pidän koirista, mutta minun siskoni pitää kissoista.	katės	0	0
+Kraujas teka kraujagyslėse.	Veri virtaa suonissa.	teka	0	0
+Žiemą Suomijoje sninga, bet pavasarį būna šilta.	Suomessa sataa talvisin lunta, mutta kesäisin on lämmintä.	žiemą	0	0
+Ar norite dar pyrago?	Haluatteko vielä piirakkaa?	pyrago	0	0
+Jei nepasakysi mums, užmušim tave.	Jos et kerro meille, niin me tapamme sinut.	nepasakysi	0	0
+Perplaukčiau vandenyną, kad tik galėčiau vėl pamatyti tavo šypseną.	Uisin yli valtameren vain nähdäkseni sinun hymyilevän uudestaan.	vandenyną	0	0
+Mano šeimą sudaro tėtis, mama, sesė ir aš.	Perheeni koostuu isästäni, äidistäni ja siskostani.	sudaro	0	0
+Po filmo jie užmigo.	He nukahtivat elokuvan jälkeen.	užmigo	0	0
+Čia yra Tomo butas.	Tämä on Tomin asunto.	tomo	0	0
+Ką tu šiandien valgysi pietums?	Mitä sinulla on tänään lounaaksi?	pietums	0	0
+Žinai, aš padaryčiau viską dėl tavo gražių akių.	Sinä tiedät, että tekisin mitä tahansa kauniitten silmiesi vuoksi.	gražių	0	0
+Kad ir kas atsitiktų, aš pasiruošęs.	Tulkoon mitä tahansa, minä olen valmis.	atsitiktų	0	0
+Kiek laiko ten gyvenai?	Kuinka kauan asuit siellä?	gyvenai	0	0
+Nesijaučiu, kad bučiau ypatingai sumanus.	En tunne itseäni kovin fiksuksi.	nesijaučiu	0	0
+Suskambo gaisro pavojaus signalas.	Palohälyytin soi.	gaisro	0	0
+Merės dukra žuvo per eismo įvykį.	Maryn tytär menehtyi onnettomuudessa.	eismo	0	0
+Negaliu atsiminti dainos žodžių.	En muista laulun sanoja.	atsiminti	0	0
+Tai ganėtinai puiku.	Se on aika siistii.	ganėtinai	0	0
+Tas filmas buvo tikrai nuobodus.	Se elokuva oli tosi tylsä.	nuobodus	0	0
+Čia yra pėlė! Pakviesk katę!	Täällä on hiiri. Kutsu kissa.	katę	0	0
+Tomas vairuoja.	Tom ajaa autoa.	vairuoja	0	0
+Merės dukra žuvo per eismo įvykį.	Maryn tytär menehtyi onnettomuudessa.	įvykį	0	0
+Tomas atsikėlė septintą valandą.	Tom nousi ylös 7:00.	septintą	0	0
+Šis įrankis pravers kelionėje.	Tämä työkalu on kätevä matkalla.	pravers	0	0
+Alkis- geriausias virėjas.	Nälkä on paras mauste.	virėjas	0	0
+Nekalbu vokiškai.	En puhu saksaa.	vokiškai	0	0
+Man patinka šunys, bet mano sesei patinka katės.	Minä pidän koirista, mutta minun siskoni pitää kissoista.	sesei	0	0
+Atnešk man sausą rankšluostį.	Tuo minulle kuiva pyyhe.	rankšluostį	0	0
+Perplaukčiau vandenyną, kad tik galėčiau vėl pamatyti tavo šypseną.	Uisin yli valtameren vain nähdäkseni sinun hymyilevän uudestaan.	šypseną	0	0
+Tomas buvo tylus.	Tom oli hiljainen.	tylus	0	0
+Žiemą Suomijoje sninga, bet pavasarį būna šilta.	Suomessa sataa talvisin lunta, mutta kesäisin on lämmintä.	pavasarį	0	0
+Mano žmona nekenčia kačių.	Vaimoni vihaa kissoja.	kačių	0	0
+Ką tu šiandien valgysi pietums?	Mitä sinulla on tänään lounaaksi?	valgysi	0	0
+Anksčiau ar vėliau jis man viską papasakos.	Hän kertoo kaiken minulle ennemmin tai myöhemmin.	papasakos	0	0
+Kas atsitiko Tomui?	Mikä Tomia vaivaa?	tomui	0	0
+Ji už jį vyresnė.	Hän on häntä vanhempi.	vyresnė	0	0
+Aš skaičiuoju iki dešimties.	Minä lasken kymmeneen.	skaičiuoju	0	0
+Ėjau su savo draugu/drauge apsipirkti.	Menin kaverini kanssa ostoksille.	apsipirkti	0	0
+Jis greitai priprato prie šaltų orų.	Hän tottui pian kylmään säähän.	orų	0	0
+Šioje upėje plaukioti yra pavojinga.	Siinä joessa on vaarallista uida.	upėje	0	0
+Nesijaučiu, kad bučiau ypatingai sumanus.	En tunne itseäni kovin fiksuksi.	bučiau	0	0
+Pavasaris jau greitai.	Pian on kevät.	pavasaris	0	0
+Havajai dažnai vadinami Ramiojo vandenyno perlu.	Hawaijiin viitataan usein "Tyynenmeren helmenä".	vadinami	0	0
+Afrika yra žmonijos lopšys.	Afrikka on ihmiskunnan kehto.	afrika	0	0
+Pasakyk, kai busi pasirengus.	Kun olet valmis, ilmoita minulle.	busi	0	0
+Ketinu čia pasilikti keliom dienom.	Aion viipyä siellä pari päivää.	dienom	0	0
+Ar po stalu yra katė?	Onko pöydän alla kissa?	stalu	0	0
+Nesijaučiu, kad bučiau ypatingai sumanus.	En tunne itseäni kovin fiksuksi.	sumanus	0	0
+Kokiose šalyse esi buvusi?	Missä maissa olet käynyt?	šalyse	0	0
+Aš greitai su jumis susisieksiu.	Otan teihin yhteyttä pian.	susisieksiu	0	0
+Aš daug verkiau.	Itkin paljon.	verkiau	0	0
+Havajai dažnai vadinami Ramiojo vandenyno perlu.	Hawaijiin viitataan usein "Tyynenmeren helmenä".	ramiojo	0	0
+Mes gyvename visuomenėje.	Elämme yhteiskunnassa.	visuomenėje	0	0
+Negalėjau atitraukti savo akių nuo jūsų nuo tos minutės, kai įėjau į šį kambarį.	En ole saanut silmiäni irti sinusta siitä hetkestä kun tulin tähän huoneeseen.	įėjau	0	0
+Tikiuosi, jog tai yra tik laikina problema.	Toivon, että se on vain väliaikainen ongelma.	laikina	0	0
+Paskubėk, kitaip pavėluosi į traukinį.	Kiirehdi, tai myöhästyt junasta.	pavėluosi	0	0
+Šis įrankis pravers kelionėje.	Tämä työkalu on kätevä matkalla.	įrankis	0	0
+Mano šeima susideda iš tėčio, mamos, sesers ir manęs.	Perheeni koostuu isästäni, äidistäni ja siskostani.	susideda	0	0
+Šioje upėje plaukioti yra pavojinga.	Siinä joessa on vaarallista uida.	plaukioti	0	0
+Aš myliu šunis, tačiau mano sesė mėgsta kates.	Minä pidän koirista, mutta minun siskoni pitää kissoista.	kates	0	0
+Aš kalbu su Tomu.	Puhun Tomin kanssa.	tomu	0	0
+Ji turi ir trūkumų.	Hänessä on myös virheitä.	trūkumų	0	0
+Šis įrankis pravers kelionėje.	Tämä työkalu on kätevä matkalla.	kelionėje	0	0
+Mano šeimą sudaro tėtis, mama, sesė ir aš.	Perheeni koostuu isästäni, äidistäni ja siskostani.	sesė	0	0
+Manau, kad gandai yra teisingi.	Minun mielestäni huhu on totta.	teisingi	0	0
+Lapas krenta	Lehti putoaa.	lapas	0	0
+Merės dukra žuvo per eismo įvykį.	Maryn tytär menehtyi onnettomuudessa.	merės	0	0
+Aš dar nepasirengęs.	En ole vielä valmis.	nepasirengęs	0	0
+Laikyk pinigus saugioje vietoje.	Säilytä rahoja turvallisessa paikassa.	saugioje	0	0
+Trys moterys nusišypsojo.	Naiskolmikko hymyili.	nusišypsojo	0	0
+Nėra nieko skaudesnio už savo mylimo vaiko netektį.	Ei ole mitään tuskallisempaa kuin menettää oma rakas lapsensa.	mylimo	0	0
+Negalėjau atitraukti savo akių nuo jūsų nuo tos minutės, kai įėjau į šį kambarį.	En ole saanut silmiäni irti sinusta siitä hetkestä kun tulin tähän huoneeseen.	atitraukti	0	0
+Tomas mažai kalba apie savo jaunystę.	Tom ei puhu paljon nuoruudestaan.	jaunystę	0	0
+Tai yra tik laikinas pakoregavimas.	Se on vain väliaikainen korjaus.	laikinas	0	0
+Tomas atrodo ligotas.	Tom näyttää sairaalta.	ligotas	0	0
+Pinigai neauga ant medžių.	Raha ei kasva puussa.	neauga	0	0
+Aš bijau vorų.	Pelkään hämähäkkejä.	vorų	0	0
+Tomas atsikėlė septintą valandą.	Tom nousi ylös 7:00.	atsikėlė	0	0
+Pasakyk, kai busi pasirengus.	Kun olet valmis, ilmoita minulle.	pasirengus	0	0
+Ketinu čia pasilikti keliom dienom.	Aion viipyä siellä pari päivää.	keliom	0	0
+Mes gyvename taikoje.	Elämme rauhassa.	taikoje	0	0
+Suskambo gaisro pavojaus signalas.	Palohälyytin soi.	suskambo	0	0
+Kokiose šalyse esi buvusi?	Missä maissa olet käynyt?	kokiose	0	0
+Likime kartu.	Pysytään yhdessä.	likime	0	0
+Jis negėrė vyno.	Hän ei juonut viiniä.	negėrė	0	0
+Žiemą Suomijoje sninga, bet pavasarį būna šilta.	Suomessa sataa talvisin lunta, mutta kesäisin on lämmintä.	sninga	0	0
+Niekada nebesužinosiu priežasties, dėl kurios jis man pamelavo.	En tule koskaan tietämään syytä miksi hän valehteli minulle.	pamelavo	0	0
+Afrika yra žmonijos lopšys.	Afrikka on ihmiskunnan kehto.	lopšys	0	0
+Havajai dažnai vadinami Ramiojo vandenyno perlu.	Hawaijiin viitataan usein "Tyynenmeren helmenä".	havajai	0	0
+Nėra nieko skaudesnio už savo mylimo vaiko netektį.	Ei ole mitään tuskallisempaa kuin menettää oma rakas lapsensa.	netektį	0	0
+Jis greitai priprato prie šaltų orų.	Hän tottui pian kylmään säähän.	šaltų	0	0
+Visa šalis buvo po sniegu.	Koko maa oli lumen vallassa.	sniegu	0	0
+Tobulų nėra.	Kukaan ei ole täydellinen.	tobulų	0	0

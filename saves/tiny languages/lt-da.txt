@@ -1,0 +1,43 @@
+Aš turiu dvi dukras ir du sūnus.	Jeg har to døtre og to sønner.	ir	0	0
+Galbūt tu esi teisus, aš buvau savanaudiškas.	Måske har du ret, jeg har været egoistisk.	aš	0	0
+Galbūt tu esi teisus, aš buvau savanaudiškas.	Måske har du ret, jeg har været egoistisk.	tu	0	0
+Aš ne robotas.	Jeg er ikke en robot.	ne	0	0
+Taip.	Ja.	taip	0	0
+Ar kreipiesi į mane?	Henviser du til mig?	į	0	0
+Ar kreipiesi į mane?	Henviser du til mig?	ar	0	0
+Aš iš Rusijos.	Jeg er fra Rusland.	iš	0	0
+Afrika yra žmonijos lopšys.	Afrika er menneskehedens vugge.	yra	0	0
+Ar turi omeny mane?	Henviser du til mig?	mane	0	0
+Ar turi omeny mane?	Henviser du til mig?	turi	0	0
+Aš turiu dvi dukras ir du sūnus.	Jeg har to døtre og to sønner.	turiu	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	En, to, tre, fire, fem, seks, syv, otte, ni, ti.	vienas	0	0
+Galbūt tu esi teisus, aš buvau savanaudiškas.	Måske har du ret, jeg har været egoistisk.	esi	0	0
+Galbūt tu esi teisus, aš buvau savanaudiškas.	Måske har du ret, jeg har været egoistisk.	buvau	0	0
+Aš turiu dvi dukras ir du sūnus.	Jeg har to døtre og to sønner.	du	0	0
+Galbūt tu esi teisus, aš buvau savanaudiškas.	Måske har du ret, jeg har været egoistisk.	galbūt	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	En, to, tre, fire, fem, seks, syv, otte, ni, ti.	trys	0	0
+Aš turiu dvi dukras ir du sūnus.	Jeg har to døtre og to sønner.	dvi	0	0
+Aš turiu dvi dukras ir du sūnus.	Jeg har to døtre og to sønner.	sūnus	0	0
+Galbūt tu esi teisus, aš buvau savanaudiškas.	Måske har du ret, jeg har været egoistisk.	teisus	0	0
+Ar turi omeny mane?	Henviser du til mig?	omeny	0	0
+Ar norėtumetė puodelio kavos?	Vil du gerne have en kop kaffe?	kavos	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	En, to, tre, fire, fem, seks, syv, otte, ni, ti.	dešimt	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	En, to, tre, fire, fem, seks, syv, otte, ni, ti.	keturi	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	En, to, tre, fire, fem, seks, syv, otte, ni, ti.	penki	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	En, to, tre, fire, fem, seks, syv, otte, ni, ti.	šeši	0	0
+Aš nemoku anglų kalbos.	Jeg kan ikke engelsk.	kalbos	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	En, to, tre, fire, fem, seks, syv, otte, ni, ti.	septyni	0	0
+Aš nemoku anglų kalbos.	Jeg kan ikke engelsk.	nemoku	0	0
+Aš ne robotas.	Jeg er ikke en robot.	robotas	0	0
+Aš nemoku anglų kalbos.	Jeg kan ikke engelsk.	anglų	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	En, to, tre, fire, fem, seks, syv, otte, ni, ti.	devyni	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	En, to, tre, fire, fem, seks, syv, otte, ni, ti.	aštuoni	0	0
+Aš iš Rusijos.	Jeg er fra Rusland.	rusijos	0	0
+Afrika yra žmonijos lopšys.	Afrika er menneskehedens vugge.	žmonijos	0	0
+Ar norėtumetė puodelio kavos?	Vil du gerne have en kop kaffe?	puodelio	0	0
+Afrika yra žmonijos lopšys.	Afrika er menneskehedens vugge.	afrika	0	0
+Aš turiu dvi dukras ir du sūnus.	Jeg har to døtre og to sønner.	dukras	0	0
+Aš ne naivus.	Jeg er ikke naiv.	naivus	0	0
+Ar kreipiesi į mane?	Henviser du til mig?	kreipiesi	0	0
+Afrika yra žmonijos lopšys.	Afrika er menneskehedens vugge.	lopšys	0	0
+Stalinizmas yra rasizmas.	Stalinisme er racisme.	rasizmas	0	0

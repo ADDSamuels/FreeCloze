@@ -1,0 +1,1295 @@
+Jeg venter en kunde i dag.	Io sto aspettando un cliente oggi.	jeg	0	0
+Tag det roligt!	Calmati!	det	0	0
+Vaccinen er særdeles effektiv.	Il vaccino è estremamente efficace.	er	0	0
+Kan du lære mig fransk?	Puoi insegnarmi il francese?	du	0	0
+I går spillede de ikke tennis.	Non hanno giocato a tennis ieri.	ikke	0	0
+Den Europæiske Union blev skabt med det formål at gøre en ende på de mange blodige nabokrige, der kulminerede med den anden verdenskrig.	L’Unione europea viene posta in essere allo scopo di mettere fine alle guerre frequenti e sanguinose tra paesi vicini, culminate nella seconda guerra mondiale.	at	0	0
+Katten kan lide at lege i haven.	Il gatto ama giocare in giardino.	i	0	0
+Vi har en aftale.	Abbiamo un accordo.	en	0	0
+På trods af al sin rigdom og berømmelse, er han ulykkelig.	Nonostante tutta la sua ricchezza e fama, non è felice.	og	0	0
+Hvorfor har jeg brug for et alibi?	Perché ho bisogno di un alibi?	har	0	0
+Vi var nødt til at lukke vinduet på grund af myggene.	Abbiamo dovuto chiudere la finestra a causa delle zanzare.	vi	0	0
+Du må undskylde at jeg kom til at åbne dit brev ved et uheld.	Scusa per avere aperto la tua lettera per sbaglio.	til	0	0
+Jeg tror på Solen, selv når den ikke skinner. Jeg tror på kærligheden, selv når jeg ikke føler den. Jeg tror på Gud, selv når Han er tavs.	Io credo nel sole anche quando non splende. Io credo nell'amore anche quando non lo sento. Io credo in Dio anche quando tace.	på	0	0
+Hvad er dine planer for weekenden?	Quali sono i tuoi programmi per il fine settimana?	hvad	0	0
+Fremtiden vil ikke blive opbygget med magt eller ønsket om at erobre, men med tålmodig anvendelse af demokratiske metoder, konstruktiv samarbejdsånd og respekt for friheden.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	med	0	0
+Vær så venlig at slette denne fil!	Per piacere, cancelli questo file.	så	0	0
+Er du for eller imod abort?	Sei pro o contro l'aborto?	for	0	0
+Jeg vasker mig.	Io mi lavo.	mig	0	0
+Der blæste en kold vind.	Soffiava un vento freddo.	der	0	0
+Han plejede at drikke.	Aveva l'abitudine di bere.	han	0	0
+Det var pænt af dig at hjælpe mig med mine lektier.	È stato molto gentile da parte tua aiutarmi con i miei compiti.	dig	0	0
+Ingen af de fire drenge havde et alibi.	Nessuno dei quattro ragazzi aveva un alibi.	de	0	0
+Hun er den kedeligste pige jeg nogensinde har kendt.	È la ragazza più noiosa che io abbia mai conosciuto.	den	0	0
+Kan du huske at du har set mig tidligere?	Ti ricordi di avermi visto prima?	kan	0	0
+Han tager af sted til skolen klokken syv.	Esce per andare a scuola alle sette.	af	0	0
+Filmen var så trist at alle græd.	Il film era così triste che tutti hanno pianto.	var	0	0
+Jeg vil gifte mig med dig.	Voglio sposarti.	vil	0	0
+Er den her en hingst eller en hoppe?	Questo è uno stallone o una cavalla?	her	0	0
+Jeg har et midlertidigt kørekort.	Ho una patente provvisoria.	et	0	0
+Verdens ondskab skal fjernes.	Bisogna estirpare il male del mondo.	skal	0	0
+De taler ikke om det, men man kan se det.	Essi non ne parlano, ma si può vedere.	men	0	0
+Du må undskylde at jeg kom til at åbne dit brev ved et uheld.	Scusa per avere aperto la tua lettera per sbaglio.	ved	0	0
+Jeg stod op klokken fem om morgenen.	Mi sono alzato alle cinque del mattino.	om	0	0
+Jeg glæder mig naturligvis, men glem nu ikke at du gør alt det her først og fremmest for dig selv.	Naturalmente sono contento, ma per favore, non dimentichi che sta facendo tutto questo principalmente per se stesso.	nu	0	0
+Ja.	Sì.	ja	0	0
+Hvem som helst kan gøre det.	Chiunque riesce a farlo.	som	0	0
+Jeg tog det for givet at hun ville komme.	Ho dato per scontato che sarebbe venuta.	hun	0	0
+Nej tak.	No, grazie.	nej	0	0
+Min kat er faktisk sky.	Il fatto è che il mio gatto è timido.	min	0	0
+Sortes liv betyder noget.	Le vite nere contano.	noget	0	0
+Jeg forklarede ham det.	Gliel'ho spiegato.	ham	0	0
+Han lader altid vinduet være åbent, når han sover.	Lascia sempre la finestra aperta quando dorme.	være	0	0
+Du kan ikke se skoven for bare træer.	Non puoi vedere il bosco a causa dei molti alberi.	bare	0	0
+Din mor må have været smuk som ung.	Tua madre dev'essere stata bella da giovane.	din	0	0
+Hvor høj er den?	Quanto è alta?	hvor	0	0
+Dette er et varsel som vi må tage alvorligt.	Questo è un avvertimento che dobbiamo prendere sul serio.	må	0	0
+Gud er en cirkel, hvis omkreds er en lige linje.	Dio è un cerchio la cui circonferenza è una linea retta.	hvis	0	0
+Det var aldrig vanskeligt for os at finde noget at snakke om.	Per noi non c'è mai stato difficile da trovare qualcosa di cui parlare.	os	0	0
+Kom æggene i det kogende vand.	Metti le uova nell'acqua che bolle.	kom	0	0
+Lån ikke en lånt bog ud til en anden.	Non dare in prestito ad altri un libro prestato.	ud	0	0
+I San Marino smagte pizzaerne faktisk bedre end dem jeg spiste i Rom.	Le pizze a San Marino erano effettivamente più buone di quelle che ho mangiato a Roma.	dem	0	0
+Og Gud så at det var godt.	E Dio vide che questo era buono.	godt	0	0
+Han stjal penge fra mig.	Lui mi rubò dei soldi.	fra	0	0
+Jeg har plantet et æbletræ i min have.	Ho piantato un melo nel mio giardino.	have	0	0
+Jeg fortalte hende én gang for alle at jeg ikke ville tage med hende ud at handle.	Le ho detto una volta per tutte che non sarei andato a fare shopping con lei.	ville	0	0
+Det glæder mig at se dig igen.	Io sono contento di rivederti.	se	0	0
+Jeg glæder mig naturligvis, men glem nu ikke at du gør alt det her først og fremmest for dig selv.	Naturalmente sono contento, ma per favore, non dimentichi che sta facendo tutto questo principalmente per se stesso.	gør	0	0
+Hvorfor lyver I?	Perché mentite?	hvorfor	0	0
+Jeg fortalte hende én gang for alle at jeg ikke ville tage med hende ud at handle.	Le ho detto una volta per tutte che non sarei andato a fare shopping con lei.	alle	0	0
+Gud er en cirkel, hvis omkreds er en lige linje.	Dio è un cerchio la cui circonferenza è una linea retta.	lige	0	0
+Jeg stod op klokken fem om morgenen.	Mi sono alzata alle cinque del mattino.	op	0	0
+Jeg fortalte hende én gang for alle at jeg ikke ville tage med hende ud at handle.	Le ho detto una volta per tutte che non sarei andato a fare shopping con lei.	hende	0	0
+Vinteren nærmer sig.	L'inverno sta arrivando.	sig	0	0
+Hvordan går det?	Come va?	hvordan	0	0
+Jeg tror på Solen, selv når den ikke skinner. Jeg tror på kærligheden, selv når jeg ikke føler den. Jeg tror på Gud, selv når Han er tavs.	Io credo nel sole anche quando non splende. Io credo nell'amore anche quando non lo sento. Io credo in Dio anche quando tace.	tror	0	0
+Rødvin, tak.	Vino rosso, per piacere.	tak	0	0
+Hvem som helst kan gøre det.	Chiunque riesce a farlo.	gøre	0	0
+Vi har flere æbler end hvad vi kunne spise på en dag.	Abbiamo più mele di quelle che potremmo mangiare in un giorno.	kunne	0	0
+Lad os ikke ryge ud ad tangenten.	Non partiamo per la tangente.	lad	0	0
+Jeg kommer hjem halv tre.	Vengo a casa alle due e mezza.	kommer	0	0
+Han havde netop underskrevet en ny kontrakt.	Aveva appena firmato un nuovo contratto.	havde	0	0
+Er den her en hingst eller en hoppe?	Questo è uno stallone o una cavalla?	eller	0	0
+Vi har ikke meget til fælles.	Noi non abbiamo molto in comune.	meget	0	0
+Vil du ikke nok lade være med at besvare mine spørgsmål med et spørgsmål?	Ma la vuoi smettere di rispondere alle mie domande con una domanda?	nok	0	0
+Der var engang en kone, som så gerne ville have sig et lille bitte barn, men hun vidste slet ikke, hvor hun skulle få et fra.	C'era una volta una donna che desiderava molto avere una bambina, ma non sapeva come ottenerla.	få	0	0
+Han undslap med nød og næppe, da han gled på trappen.	L'ha scampata per un pelo quando è scivolato per le scale.	da	0	0
+Pigen har ingen mor.	La ragazza non ha una madre.	ingen	0	0
+De taler ikke om det, men man kan se det.	Essi non ne parlano, ma si può vedere.	man	0	0
+Du burde ikke gå ud.	Non dovresti andare fuori.	gå	0	0
+I går spillede de ikke tennis.	Non hanno giocato a tennis ieri.	går	0	0
+Hvem var Jesus?	Chi era Gesù?	hvem	0	0
+Hvis det regner i morgen, bliver jeg hjemme.	Se domani mattina piove sto a casa.	bliver	0	0
+Kooperativ læring er læring i små grupper hvor interaktioner er struktureret efter nøje gennemtænkte retningslinjer.	L'apprendimento cooperativo è un apprendimento in piccoli gruppi, in cui le interazioni sono strutturate secondo direttive accuratamente ponderate.	efter	0	0
+Hvad sagde du i går?	Che hai detto ieri?	sagde	0	0
+De besluttede sig for at rejse tilbage i tiden for at redde Tom.	Decisero di tornare indietro nel tempo per salvare Tom.	tilbage	0	0
+Når katten er ude, danser musene på bordet.	Quando il gatto non c'è i topi ballano.	når	0	0
+Dette forklarer alt!	Questo spiega tutto!	alt	0	0
+Tyskerne har også humor.	Anche i tedeschi hanno il senso dell'umorismo.	også	0	0
+Jeg ved at nogle personer påskønner mit arbejde.	So che alcune persone apprezzano il mio lavoro.	mit	0	0
+Åbn døren og luk hunden ind.	Apri la porta e lascia entrare il cane.	ind	0	0
+Vi har forpasset vores tog.	Abbiamo perso il nostro treno.	vores	0	0
+Hej!	Ciao!	hej	0	0
+Fire øjne ser mere end to.	Quattro occhi vedono più di due.	mere	0	0
+Dette fly er hans.	Questo aereo è suo.	hans	0	0
+Tom ønskede ikke at Maria skulle se ham i håndjern.	Tom non voleva che Mary lo vedesse in manette.	skulle	0	0
+Jeg blev ydmyget offentligt.	Sono stata umiliata in pubblico.	blev	0	0
+Jeg stoler ikke på nogen.	Io non mi fido di nessuno.	nogen	0	0
+Jeg er overbevist om at Maria aldrig vil miste håbet.	Sono convinto che Maria non perderà mai la speranza.	aldrig	0	0
+Han siger altid dårlige ting om sin kone.	Lui dice sempre delle cose brutte su sua moglie.	siger	0	0
+Jeg tror på Solen, selv når den ikke skinner. Jeg tror på kærligheden, selv når jeg ikke føler den. Jeg tror på Gud, selv når Han er tavs.	Io credo nel sole anche quando non splende. Io credo nell'amore anche quando non lo sento. Io credo in Dio anche quando tace.	selv	0	0
+Kaptajnen elsker sit skib som en far sit barn.	Il capitano ama la sua nave come un padre suo figlio.	far	0	0
+Klokken er kvart over ni om morgenen.	Sono le nove e un quarto del mattino.	over	0	0
+Jeg lever mellem to verdener.	Vivo tra due mondi.	to	0	0
+Kun ét minut.	Solo un minuto.	kun	0	0
+Fire øjne ser mere end to.	Quattro occhi vedono più di due.	ser	0	0
+Du må undskylde at jeg kom til at åbne dit brev ved et uheld.	Scusa per avere aperto la tua lettera per sbaglio.	dit	0	0
+Jeg forsøgte at advare jer.	Ho provato ad avvisarvi.	jer	0	0
+Det glæder mig at se dig igen.	Sono contento di rivederti.	igen	0	0
+Min mor havde ret.	Mia madre aveva ragione.	mor	0	0
+Tom tager ikke sit arbejde ret alvorligt.	Tom non prende il suo lavoro molto seriamente.	tager	0	0
+Nogen har fortalt mig at du har forladt din mand.	Qualcuno mi ha detto che hai lasciato tuo marito.	mand	0	0
+Hun forblev ugift hele livet.	È rimasta nubile per tutta la sua vita.	hele	0	0
+Jeg løber hver dag.	Corro ogni giorno.	dag	0	0
+Dette er et varsel som vi må tage alvorligt.	Questo è un avvertimento che dobbiamo prendere sul serio.	tage	0	0
+Vil du ikke nok lade være med at besvare mine spørgsmål med et spørgsmål?	Ma la vuoi smettere di rispondere alle mie domande con una domanda?	mine	0	0
+Nu er det tid til at sige godnat.	Adesso è ora di dire buona notte.	sige	0	0
+Jeg gjorde ingenting.	Non ho fatto niente.	gjorde	0	0
+Han var kortere end mig.	Lui era più basso di me.	end	0	0
+Undskyld mig.	Scusatemi.	undskyld	0	0
+A kommer før B i alfabetet.	L'A viene prima della B nell'alfabeto.	før	0	0
+Jeg har været her før.	Sono già stato qui.	været	0	0
+Jeg tog det for givet at hun ville komme.	Ho dato per scontato che sarebbe venuta.	komme	0	0
+Hold op med at besvare mine spørgsmål med et spørgsmål!	Smetti di rispondere alle mie domande con una domanda.	hold	0	0
+Stormen blæste tage væk og rykkede mange træer op med rod.	La tempesta ha strappato via i tetti e sradicato molti alberi.	væk	0	0
+Dette er den dårligste film jeg har set.	Questo è il peggior film che abbia mai visto.	dette	0	0
+Valgresultatet vil blive offentliggjort i morgen.	Il risultato delle elezioni sarà comunicato domani.	blive	0	0
+Hun er enogtredive år.	Ha trentun anni.	år	0	0
+Hids dig ned!	Calmati!	ned	0	0
+Denne artikel indeholder nogle helt nye idéer.	Questo articolo contiene alcune idee del tutto nuove.	helt	0	0
+Han fik det pludseligt dårligt.	Improvvisamente si è ammalato.	fik	0	0
+Fra tid til anden er det nødvendigt at reflektere over sit fremtidige liv.	Di tanto in tanto, è necessario meditare sulla propria vita futura.	tid	0	0
+Denne fisk lugter dårligt.	Questo pesce ha un cattivo odore.	denne	0	0
+Hemmeligheden bag god prosa ligger i sprogets rytme.	Il segreto di una buona prosa sta nel ritmo del linguaggio.	god	0	0
+I hvilken by holder bussen næste gang?	In quale città si ferma dopo l'autobus?	gang	0	0
+Jeg laver alt arbejdet.	Io faccio tutto il lavoro.	laver	0	0
+Denne artikel indeholder nogle helt nye idéer.	Questo articolo contiene alcune idee del tutto nuove.	nogle	0	0
+Lad os gå et andet sted hen.	Andiamo da qualche altra parte.	sted	0	0
+Det sneede uafbrudt i mange dage.	Nevicò senza posa per molti giorni.	mange	0	0
+Jeg tror at folk har en tendens til at fokusere på de forkerte ting.	Penso che le persone tendano a concentrarsi sulle cose sbagliate.	folk	0	0
+I øjeblikket skriver du dine sætninger på det forkerte sted. Du skal vælge "Contribute" i toppen af siden og så "Add sentences".	Al momento stai inserendo le tue frasi nel posto sbagliato. Dovresti selezionare "Contribuisci" in cima alla pagina e poi "Aggiungi frasi".	dine	0	0
+Tag ikke chancer.	Non corra rischi.	tag	0	0
+To ting er uendelige, universet og den menneskelige dumhed, men med hensyn til universet er jeg endnu ikke helt sikker.	Due cose sono infinite: l'universo e la stupidità umana, ma riguardo all'universo non sono ancora completamente sicuro.	ting	0	0
+I øjeblikket skriver du dine sætninger på det forkerte sted. Du skal vælge "Contribute" i toppen af siden og så "Add sentences".	Al momento sta inserendo le sue frasi nel posto sbagliato. Dovrebbe selezionare "Contribuisci" in cima alla pagina e poi "Aggiungi frasi".	siden	0	0
+Tom kan ikke finde ud af, hvordan han skal få kassen åbnet.	Tom non riesce a capire come aprire la scatola.	finde	0	0
+Han siger altid dårlige ting om sin kone.	Lui dice sempre delle cose brutte su sua moglie.	altid	0	0
+Hvorfor har jeg brug for et alibi?	Perché mi serve un alibi?	brug	0	0
+Jeg kommer hjem halv tre.	Vengo a casa alle due e mezza.	hjem	0	0
+Forventede du virkelig, at han ville fortælle dig sandheden?	Ti aspettavi davvero che ti dicesse la verità?	virkelig	0	0
+Den Europæiske Union blev skabt med det formål at gøre en ende på de mange blodige nabokrige, der kulminerede med den anden verdenskrig.	L’Unione europea viene posta in essere allo scopo di mettere fine alle guerre frequenti e sanguinose tra paesi vicini, culminate nella seconda guerra mondiale.	anden	0	0
+Denne lille historie er for simpel til at forklare alt.	Questa storiella è troppo semplice per spiegare tutto.	lille	0	0
+Vi kender hende ikke.	Non la conosciamo.	kender	0	0
+Er der andre der er blevet skadet?	Si è ferita altra gente?	andre	0	0
+Jeg elsker dig!	Ti amo!	elsker	0	0
+Vand er liv.	L'acqua è vita.	liv	0	0
+Vi har intet vand.	Non abbiamo acqua.	intet	0	0
+Jeg tog en taxi for at nå toget.	Ho preso un taxi per raggiungere il treno.	tog	0	0
+Min mor havde ret.	Mia madre aveva ragione.	ret	0	0
+Der var engang en kone, som så gerne ville have sig et lille bitte barn, men hun vidste slet ikke, hvor hun skulle få et fra.	C'era una volta una donna che desiderava molto avere una bambina, ma non sapeva come ottenerla.	gerne	0	0
+Uden tvivl!	Senza dubbio!	uden	0	0
+Hendes søster er en vidunderlig hustru og mor.	Sua sorella è una moglie e madre meravigliosa.	hendes	0	0
+Det passer mig vel.	Questo mi conviene bene.	vel	0	0
+"Kan du godt lide slanger?" "Selvfølgelig ikke."	"Ti piacciono i serpenti?" "Ovvio che no."	lide	0	0
+Det var pænt af dig at hjælpe mig med mine lektier.	È stato molto gentile da parte tua aiutarmi con i miei compiti.	hjælpe	0	0
+Dette er den dårligste film jeg har set.	Questo è il peggior film che io abbia mai visto.	set	0	0
+Jeg har tre brødre.	Io ho tre fratelli.	tre	0	0
+I begyndelsen skabte Gud himlen og jorden.	In principio Dio creò il cielo e la terra.	gud	0	0
+Jeg gik til fods i skole.	Sono andata a scuola a piedi.	gik	0	0
+I San Marino smagte pizzaerne faktisk bedre end dem jeg spiste i Rom.	Le pizze a San Marino erano effettivamente più buone di quelle che ho mangiato a Roma.	bedre	0	0
+Tom må være gået denne vej.	Tom dev'essere andato da questa parte.	vej	0	0
+Du har gjort det med vilje.	L'hai fatto apposta.	gjort	0	0
+Denne roman var et af hendes sidste værker.	Questo romanzo fu una delle sue ultime opere.	sidste	0	0
+Er slangen levende eller død?	Il serpente è vivo o morto?	død	0	0
+Der var engang en kone, som så gerne ville have sig et lille bitte barn, men hun vidste slet ikke, hvor hun skulle få et fra.	C'era una volta una donna che desiderava molto avere una bambina, ma non sapeva come ottenerla.	vidste	0	0
+Mary er nødt til at beskytte sin familie.	Mary deve proteggere la sua famiglia.	sin	0	0
+Jeg forstår hende ikke.	Io non la capisco.	forstår	0	0
+Jeg ved at nogle personer påskønner mit arbejde.	So che alcune persone apprezzano il mio lavoro.	arbejde	0	0
+Jeg tog en taxa for at nå toget.	Ho preso un taxi per raggiungere il treno.	nå	0	0
+Første, anden, tredje, fjerde, femte, sjette, syvende, ottende, niende, tiende ... næstsidste, sidste.	Primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo... penultimo, ultimo.	første	0	0
+Giv mig tusind kys!	Dammi mille baci.	giv	0	0
+Han stjal penge fra mig.	Mi rubò del denaro.	penge	0	0
+Jeg vil få brug for jeres hjælp.	Avrò bisogno del vostro aiuto.	hjælp	0	0
+Røgen er et tegn på at et eller andet sted nær ved os er der ild.	Il fumo è un segno che c'è del fuoco da qualche parte nelle vicinanze.	andet	0	0
+Lad os gå et andet sted hen.	Andiamo da qualche altra parte.	hen	0	0
+Tom er min ven.	Tom è mio amico.	ven	0	0
+Vi havde en behagelig aften.	Abbiamo trascorso una serata piacevole.	aften	0	0
+Er der andre der er blevet skadet?	Si sono ferite altre persone?	blevet	0	0
+Jeg vil få brug for jeres hjælp.	Avrò bisogno del vostro aiuto.	jeres	0	0
+Jeg vil give dig nogle eksempler.	Ti farò qualche esempio.	give	0	0
+Du burde ikke gå ud.	Non dovresti andare fuori.	burde	0	0
+Taler du makedonisk?	Parli macedone?	taler	0	0
+Længe leve kaosset!	Viva il caos!	længe	0	0
+De eneste nyttige svar er de, der rejser nye spørgsmål.	Le sole risposte utili sono quelle che propongono nuove domande.	eneste	0	0
+Premierministeren vil holde en pressekonference i morgen.	Il Primo Ministro terrà domani una conferenza stampa.	morgen	0	0
+Æblet er ikke helt modent endnu.	La mela non è ancora del tutto matura.	endnu	0	0
+I tre er under arrest.	Voi tre siete in arresto.	under	0	0
+Premierministeren vil holde en pressekonference i morgen.	Il Primo Ministro terrà domani una conferenza stampa.	holde	0	0
+Min bror fandt løsningen.	Mio fratello ha trovato la soluzione.	fandt	0	0
+Italien er et land, der synes at være uregerligt.	L'Italia è un paese che sembra ingovernabile.	synes	0	0
+Han står ikke tidligt op.	Non si alza presto.	står	0	0
+Jeg har mange venner.	Ho molti amici.	venner	0	0
+Forventede du virkelig, at han ville fortælle dig sandheden?	Ti aspettavi davvero che lui ti dicesse la verità?	fortælle	0	0
+To ting er uendelige, universet og den menneskelige dumhed, men med hensyn til universet er jeg endnu ikke helt sikker.	Due cose sono infinite: l'universo e la stupidità umana, ma riguardo all'universo non sono ancora completamente sicuro.	sikker	0	0
+Vær så venlig at slette denne fil!	Per piacere, cancelli questo file.	vær	0	0
+Doktor, mit navn er Mutaz.	Dottore, il mio nome è Mutaz.	navn	0	0
+Spørgsmålet kan kun tolkes på én måde.	La domanda ammette una sola interpretazione.	måde	0	0
+Han døde af kræft sidste år.	È morto di cancro l'anno scorso.	døde	0	0
+Bliv her hos os.	Resta qui con noi.	hos	0	0
+"Kan du godt lide slanger?" "Selvfølgelig ikke."	"Ti piacciono i serpenti?" "Ovvio che no."	selvfølgelig	0	0
+I hvilken by holder bussen næste gang?	In quale città si ferma dopo l'autobus?	holder	0	0
+Jeg hedder Jack.	Mi chiamo Jack.	hedder	0	0
+Jeg er nødt til at tage til Danmark i morgen.	Devo andare in Danimarca domani.	nødt	0	0
+Spis flere grøntsager.	Mangia più verdura.	flere	0	0
+Jeg løber hver dag.	Corro tutti i giorni.	hver	0	0
+Jeg glæder mig naturligvis, men glem nu ikke at du gør alt det her først og fremmest for dig selv.	Naturalmente sono contento, ma per favore, non dimentichi che sta facendo tutto questo principalmente per se stesso.	først	0	0
+Jeg har ikke engang et hus.	Io non ho neppure una casa.	engang	0	0
+Sortes liv betyder noget.	Le vite nere contano.	betyder	0	0
+Jeg var ude at fiske i mandags.	Sono andata a pescare lunedì scorso.	ude	0	0
+Hun kommer snart.	Lei verrà presto.	snart	0	0
+Pelikanen har en stor pose under næbet.	Il pellicano ha una grossa borsa sotto il becco.	stor	0	0
+Jeg er ikke bange.	Io non ho paura.	bange	0	0
+Vi må tænke på vores børn og børnebørn.	Dobbiamo pensare ai nostri figli e ai nostri nipoti.	børn	0	0
+I hvilken by holder bussen næste gang?	In quale città si ferma dopo l'autobus?	næste	0	0
+I San Marino smagte pizzaerne faktisk bedre end dem jeg spiste i Rom.	Le pizze a San Marino erano effettivamente più buone di quelle che ho mangiato a Roma.	faktisk	0	0
+Gav du drikkepenge?	Hai lasciato la mancia?	gav	0	0
+Hun er den kedeligste pige jeg nogensinde har kendt.	È la ragazza più noiosa che io abbia mai conosciuto.	pige	0	0
+Den engelske sætning er blevet ændret. Derfor vil jeg bede dig om at overveje om den tyske sætning skal ændres.	La frase inglese è stata modificata. Quindi vorrei chiedervi di prendere in considerazione se si vuole adattare la frase tedesca.	derfor	0	0
+Mary er nødt til at beskytte sin familie.	Mary deve proteggere la sua famiglia.	familie	0	0
+Japanere spiser tre gange om dagen.	I giapponesi mangiano tre volte al giorno.	gange	0	0
+De besluttede sig for at rejse tilbage i tiden for at redde Tom.	Decisero di tornare indietro nel tempo per salvare Tom.	tiden	0	0
+Mine bøger er nye.	I miei libri sono nuovi.	nye	0	0
+At læse er en af livets store glæder.	Leggere è uno dei più grandi piaceri della vita.	store	0	0
+Vil du ikke nok lade være med at besvare mine spørgsmål med et spørgsmål?	Ma la vuoi smettere di rispondere alle mie domande con una domanda?	lade	0	0
+Er du alene?	Sei da solo?	alene	0	0
+Jeg ville hellere sulte ihjel end stjæle.	Preferirei morire di fame piuttosto che rubare.	ihjel	0	0
+Det er min skyld, ikke din.	È colpa mia, non vostra.	skyld	0	0
+Den meget trætte gamle kone havde poser under øjnene.	La vecchia signora stanca aveva le borse sotto gli occhi.	gamle	0	0
+Det sneede uafbrudt i mange dage.	Nevicò senza posa per molti giorni.	dage	0	0
+Der er noget galt her.	C'è qualcosa di sbagliato qua.	galt	0	0
+Mennesker er altædende.	Gli esseri umani sono onnivori.	mennesker	0	0
+Den meget trætte gamle kone havde poser under øjnene.	La vecchia signora stanca aveva le borse sotto gli occhi.	kone	0	0
+Min bror har fundet løsningen.	Mio fratello ha trovato la soluzione.	fundet	0	0
+Den som kæmper, risikerer at tabe. Den som ikke kæmper, har allerede tabt.	Chi lotta può perdere, chi non lotta ha già perso.	allerede	0	0
+Jeg arbejder hver dag undtagen lørdag.	Lavoro tutti i giorni tranne il sabato.	arbejder	0	0
+Vi måtte lukke vinduet på grund af myggene.	Abbiamo dovuto chiudere la finestra a causa delle zanzare.	grund	0	0
+En kop kaffe koster én krone.	Una tazza di caffè costa una corona.	én	0	0
+Jeg stod op klokken fem om morgenen.	Mi sono alzata alle cinque del mattino.	fem	0	0
+Hvornår har du sidst lånt bøger på biblioteket?	Quand'è stata l'ultima volta che hai preso in prestito dei libri dalla biblioteca?	hvornår	0	0
+De blev taget på fersk gerning.	Furono presi in flagrante.	taget	0	0
+Jeg ønsker ikke jeres hjælp.	Io non voglio il vostro aiuto.	ønsker	0	0
+Dø ved kølle!	Muori al club!	dø	0	0
+Kan du huske at du har set mig tidligere?	Ti ricordi di avermi visto prima?	huske	0	0
+Du er ikke længere ung.	Tu non sei più giovane.	længere	0	0
+Disse sommerfugle er sjældne i vores land.	Queste farfalle sono rare nel nostro paese.	disse	0	0
+Farvel.	Arrivederci.	farvel	0	0
+Er du holdt op med at slå din kone?	Hai smesso di picchiare tua moglie?	slå	0	0
+Vi hørte at vejret var dårligt, så vi besluttede os for at aflyse turen.	Abbiamo sentito che il tempo era brutto, quindi abbiamo deciso di annullare il viaggio.	hørte	0	0
+Begge hunde sover.	Entrambi i cani stanno dormendo.	begge	0	0
+Ejer Tom en bil?	Tom ha una macchina?	bil	0	0
+Fra og med 1950 begynder de europæiske lande inden for rammerne af Det Europæiske Kul- og Stålfællesskab at nærme sig hinanden økonomisk og politisk for at sikre varig fred.	Negli anni Cinquanta la Comunità europea del carbone e dell’acciaio comincia ad unire i paesi europei sul piano economico e politico al fine di garantire una pace duratura.	hinanden	0	0
+Jeg har hørt den sang sunget på fransk.	Ho sentito quella canzone cantata in francese.	hørt	0	0
+Tegnet viser at svaret er rigtigt.	Il segno significa che la risposta è corretta.	rigtigt	0	0
+Der var engang en kone, som så gerne ville have sig et lille bitte barn, men hun vidste slet ikke, hvor hun skulle få et fra.	C'era una volta una donna che desiderava molto avere una bambina, ma non sapeva come ottenerla.	barn	0	0
+Tom har ikke tillid til politiet.	Tom non si fida della polizia.	politiet	0	0
+Stands bilen.	Fermate l'automobile.	bilen	0	0
+Jeg læste, at Brasiliens præsident er en kvinde. Hun hedder Dilma.	Ho letto che il presidente del Brasile è una donna. Si chiama Dilma.	kvinde	0	0
+Hører du fuglene synge?	Senti gli uccelli cantare?	hører	0	0
+To plus to er fire.	Due più due fa quattro.	fire	0	0
+Tom er kommet.	Tom è venuto.	kommet	0	0
+Jeg har ikke engang et hus.	Io non ho neanche una casa.	hus	0	0
+Fortæl mig din historie. Jeg er lutter øren.	Raccontami la tua storia. Sono tutto orecchie.	fortæl	0	0
+Jeg venter.	Io sto aspettando.	venter	0	0
+Han havde netop underskrevet en ny kontrakt.	Aveva appena firmato un nuovo contratto.	ny	0	0
+Heller ikke mig!	Neanch'io!	heller	0	0
+Vil du ikke nok lade være med at besvare mine spørgsmål med et spørgsmål?	Ma la vuoi smettere di rispondere alle mie domande con una domanda?	spørgsmål	0	0
+Min bror er en idiot.	Mio fratello è un idiota.	bror	0	0
+I hvilken by holder bussen næste gang?	In quale città si ferma dopo l'autobus?	hvilken	0	0
+Byen blev forsvaret af en stor hær.	La città fu difesa da un grande esercito.	byen	0	0
+Bliv her hos os.	Resta qui con noi.	bliv	0	0
+Tom må være gået denne vej.	Tom deve essere andato da questa parte.	gået	0	0
+Hun forblev ugift hele livet.	È rimasta nubile per tutta la sua vita.	livet	0	0
+Mussolini var leder af den fascistiske diktatur.	Mussolini era il capo della dittatura fascista.	leder	0	0
+Vi har indtil i morgen tidlig.	Abbiamo tempo fino a domani mattina presto.	indtil	0	0
+Jeg fortalte hende én gang for alle at jeg ikke ville tage med hende ud at handle.	Le ho detto una volta per tutte che non sarei andato a fare shopping con lei.	fortalte	0	0
+Fra og med 1950 begynder de europæiske lande inden for rammerne af Det Europæiske Kul- og Stålfællesskab at nærme sig hinanden økonomisk og politisk for at sikre varig fred.	Negli anni Cinquanta la Comunità europea del carbone e dell’acciaio comincia ad unire i paesi europei sul piano economico e politico al fine di garantire una pace duratura.	inden	0	0
+Jeg ville hellere sulte ihjel end stjæle.	Preferirei morire di fame piuttosto che rubare.	hellere	0	0
+Er du for eller imod abort?	Sei pro o contro l'aborto?	imod	0	0
+Jeg gjorde ingenting.	Non ho fatto nulla.	ingenting	0	0
+Han beklager sig hele tiden over dette og hint.	Si lamenta sempre di questo e quello.	beklager	0	0
+Kaptajnen elsker sit skib som en far sit barn.	Il capitano ama la sua nave come un padre suo figlio.	sit	0	0
+Jeg mangler ord.	Sono senza parole.	ord	0	0
+Han havde ondt i maven.	Aveva il mal di stomaco.	ondt	0	0
+Jeg stod sent op i morges.	Mi sono alzato tardi stamattina.	sent	0	0
+Han har problemer.	Ha dei problemi.	problemer	0	0
+Jeg tilbragte tolv timer i toget.	Sono stato nel treno per dodici ore.	timer	0	0
+Det er svært.	È difficile.	svært	0	0
+Hun er den kedeligste pige jeg nogensinde har kendt.	È la ragazza più noiosa che io abbia mai conosciuto.	nogensinde	0	0
+Hemmeligheden bag god prosa ligger i sprogets rytme.	Il segreto di una buona prosa sta nel ritmo del linguaggio.	bag	0	0
+Han lader altid vinduet være åbent, når han sover.	Lascia sempre la finestra aperta quando dorme.	lader	0	0
+Det var aldrig vanskeligt for os at finde noget at snakke om.	Per noi non c'è mai stato difficile da trovare qualcosa di cui parlare.	snakke	0	0
+I stedet for at græde, foretrækker jeg at handle.	Anziché piangere, preferisco agire.	stedet	0	0
+Klokken er halv ti.	Sono le nove e mezza.	ti	0	0
+Jeg dræbte dem.	Io li ho uccisi.	dræbte	0	0
+Tom udviklede sin egen strategi for at forføre en kvinde.	Tom ha sviluppato la sua strategia per sedurre una donna.	egen	0	0
+Han er for gammel til mig.	Lui è troppo vecchio per me.	gammel	0	0
+Han er hjemme.	Lui è a casa.	hjemme	0	0
+Tom og Mary bor på en gård og har 16 børn.	Tom e Mary vivono in una fattoria e hanno 16 figli.	bor	0	0
+Jeg vidste ikke du lavede mad.	Non sapevo che stessi facendo da mangiare.	mad	0	0
+Vi må tænke på vores børn og børnebørn.	Dobbiamo pensare ai nostri figli e ai nostri nipoti.	tænke	0	0
+Floden løber gennem dalen.	Il fiume scorre attraverso la valle.	gennem	0	0
+Jeg føler en tomhed i mit indre.	Io sento un vuoto dentro di me.	føler	0	0
+Lad os ikke ryge ud ad tangenten.	Non partiamo per la tangente.	ad	0	0
+1950’erne er præget af en kold krig mellem Øst og Vest.	Gli anni Cinquanta sono caratterizzati da una guerra fredda tra Est ed Ovest.	mellem	0	0
+Velkommen til Wikipedia.	Benvenuti su Wikipedia.	velkommen	0	0
+Tom måtte begynde forfra.	Tom doveva ripartire da capo.	måtte	0	0
+Jeg hader overraskelser.	Odio le sorprese.	hader	0	0
+Jeg hedder Jack.	Mi chiamo Jack.	jack	0	0
+Hunden løb efter katten.	Il cane corse dietro al gatto.	løb	0	0
+Vi har flere æbler end hvad vi kunne spise på en dag.	Abbiamo più mele di quelle che potremmo mangiare in un giorno.	spise	0	0
+Schweiz ligger mellem Frankrig, Italien, Østrig og Tyskland.	La Svizzera si trova tra Francia, Italia, Austria e Germania.	ligger	0	0
+Det ser slet ikke godt ud.	Non sembra affatto buono.	slet	0	0
+Åbn døren og luk hunden ind.	Aprite la porta e lasciate entrare il cane.	døren	0	0
+Astronomi handler om stjerner og planeter.	L'astronomia si occupa delle stelle e dei pianeti.	handler	0	0
+Det passer mig vel.	Questo mi conviene bene.	passer	0	0
+På trods af al sin rigdom og berømmelse, er han ulykkelig.	Nonostante tutta la sua ricchezza e fama, non è felice.	al	0	0
+Min kære lille kat har nu været væk i en uge.	Il mio caro piccolo gatto è sparito da una settimana.	uge	0	0
+Hun har en hund og seks katte.	Ha un cane e sei gatti.	seks	0	0
+Hendes søster er en vidunderlig hustru og mor.	Sua sorella è una moglie e madre meravigliosa.	søster	0	0
+Længe leve kaosset!	Viva il caos!	leve	0	0
+De besluttede sig for at rejse tilbage i tiden for at redde Tom.	Decisero di tornare indietro nel tempo per salvare Tom.	redde	0	0
+Er du holdt op med at slå din kone?	Hai smesso di picchiare tua moglie?	holdt	0	0
+Hvor er det en trist historie.	Che storia triste che è questa!	historie	0	0
+Han lukkede sine øjne.	Chiuse gli occhi.	sine	0	0
+Hvem som helst kan gøre det.	Chiunque riesce a farlo.	helst	0	0
+Katten sad fast oppe i træet.	Il gatto era incastrato nell'albero.	fast	0	0
+Tom talte.	Tom ha parlato.	talte	0	0
+Jeg glæder mig naturligvis, men glem nu ikke at du gør alt det her først og fremmest for dig selv.	Naturalmente sono contento, ma per favore, non dimentichi che sta facendo tutto questo principalmente per se stesso.	glem	0	0
+Auckland er en by i New Zealand.	Auckland è una città della Nuova Zelanda.	new	0	0
+Forventede du virkelig, at han ville fortælle dig sandheden?	Ti aspettavi davvero che lui ti dicesse la verità?	sandheden	0	0
+Han har for vane at spytte på jorden.	Ha l'abitudine di sputare per terra.	jorden	0	0
+Fra og med 1950 begynder de europæiske lande inden for rammerne af Det Europæiske Kul- og Stålfællesskab at nærme sig hinanden økonomisk og politisk for at sikre varig fred.	Negli anni Cinquanta la Comunità europea del carbone e dell’acciaio comincia ad unire i paesi europei sul piano economico e politico al fine di garantire una pace duratura.	begynder	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	måneder	0	0
+Jeg spiste en burger og gik derefter i seng.	Ho mangiato un hamburger e poi sono andato a letto.	seng	0	0
+Jeg vidste ikke du lavede mad.	Non sapevo che stessi facendo da mangiare.	lavede	0	0
+Hun blev gift som syttenårig.	Lei si è sposata a 17 anni.	gift	0	0
+Kan du lære mig fransk?	Puoi insegnarmi il francese?	lære	0	0
+Kom æggene i det kogende vand.	Metti le uova nell'acqua che bolle.	vand	0	0
+Ingen af de fire drenge havde et alibi.	Nessuno dei quattro ragazzi aveva un alibi.	drenge	0	0
+Kan du huske at du har set mig tidligere?	Ti ricordi di avermi visto prima?	tidligere	0	0
+Algier er mindre end Paris.	Algeri è più piccola di Parigi.	mindre	0	0
+Er jeg på den rigtige vej?	Sono sulla strada giusta?	rigtige	0	0
+Fire øjne ser mere end to.	Quattro occhi vedono più di due.	øjne	0	0
+Klokken er halv tre.	Sono le due e mezza.	klokken	0	0
+Det er hårdt.	È duro.	hårdt	0	0
+Japanere spiser tre gange om dagen.	I giapponesi mangiano tre volte al giorno.	dagen	0	0
+Du har en smuk stemme.	Tu hai una bella voce.	smuk	0	0
+Hun er blind på højre øje.	Il suo occhio destro è cieco.	øje	0	0
+Hans forældre var lærere.	I suoi genitori erano insegnanti.	forældre	0	0
+Jeg kan ikke forestille mig at et europæisk selskab ville få lov til at ødelægge en hel canadiske by, med alle dens huse, kirker og kirkegårde.	Non posso credere che a un'impresa europea sarebbe consentito demolire un'intera città canadese, con tutte le sue case, le chiese e i cimiteri.	lov	0	0
+Nogen har fortalt mig at du har forladt din mand.	Qualcuno mi ha detto che hai lasciato tuo marito.	fortalt	0	0
+Undgå slang hvis det er muligt.	Non usare slang se possibile.	muligt	0	0
+Jeg tager det som et tegn på kærlighed.	Lo prendo come un segno di amore.	kærlighed	0	0
+Jeg lever mellem to verdener.	Vivo tra due mondi.	lever	0	0
+Det er min mening.	Questa è la mia opinione.	mening	0	0
+Jeg laver alt arbejdet.	Io faccio tutto il lavoro.	arbejdet	0	0
+Tom laver ikke sjov.	Tom non sta scherzando.	sjov	0	0
+Kooperativ læring er læring i små grupper hvor interaktioner er struktureret efter nøje gennemtænkte retningslinjer.	L'apprendimento cooperativo è un apprendimento in piccoli gruppi, in cui le interazioni sono strutturate secondo direttive accuratamente ponderate.	små	0	0
+Åbn døren og luk hunden ind.	Apra la porta e faccia entrare il cane.	luk	0	0
+Tegnet viser at svaret er rigtigt.	Il segno significa che la risposta è corretta.	viser	0	0
+Fra og med 1950 begynder de europæiske lande inden for rammerne af Det Europæiske Kul- og Stålfællesskab at nærme sig hinanden økonomisk og politisk for at sikre varig fred.	Negli anni Cinquanta la Comunità europea del carbone e dell’acciaio comincia ad unire i paesi europei sul piano economico e politico al fine di garantire una pace duratura.	fred	0	0
+Vi har en aftale.	Abbiamo un accordo.	aftale	0	0
+Hvornår har du sidst lånt bøger på biblioteket?	Quand'è stata l'ultima volta che hai preso in prestito dei libri dalla biblioteca?	sidst	0	0
+Tom mødte Mary tre år siden.	Tom ha conosciuto Mary tre anni fa.	tom	0	0
+God rejse!	Buon viaggio!	rejse	0	0
+De eneste nyttige svar er de, der rejser nye spørgsmål.	Le sole risposte utili sono quelle che propongono nuove domande.	svar	0	0
+Han fik det pludseligt dårligt.	All'improvviso si è ammalato.	dårligt	0	0
+Det er klart at han stjal penge fra pengeskabet.	È chiaro che ha rubato i soldi dalla cassaforte.	klart	0	0
+Mary er nødt til at beskytte sin familie.	Mary deve proteggere la sua famiglia.	beskytte	0	0
+Der findes ingen hunde der er større end denne her.	Non ci sono cani più grossi di questo.	findes	0	0
+Tag det roligt!	Calmatevi!	roligt	0	0
+Det var meget let.	Era molto facile.	let	0	0
+Jeg vil gerne have nøglen til mit værelse.	La chiave della stanza, per favore.	værelse	0	0
+Jeg stod op klokken fem om morgenen.	Mi sono alzato alle cinque del mattino.	stod	0	0
+Den engelske sætning er blevet ændret. Derfor vil jeg bede dig om at overveje om den tyske sætning skal ændres.	La frase inglese è stata modificata. Quindi vorrei chiedervi di prendere in considerazione se si vuole adattare la frase tedesca.	bede	0	0
+Kartofler vokser godt i dette land.	Le patate crescono bene in questo paese.	land	0	0
+Katten sad fast oppe i træet.	Il gatto era incastrato nell'albero.	oppe	0	0
+Jeg er træt.	Io sono stanco.	træt	0	0
+Tidligere var vores by en landsby.	Prima la nostra città era un villaggio.	by	0	0
+Min kære lille kat har nu været væk i en uge.	Il mio caro piccolo gatto è sparito da una settimana.	kære	0	0
+Hvalpen vil sove.	Il cucciolo vuole dormire.	sove	0	0
+Min bror er en idiot.	Mio fratello è un idiota.	idiot	0	0
+Vi mangler penge.	Siamo a corto di soldi.	mangler	0	0
+Mere kaffe?	Ancora caffè?	kaffe	0	0
+Godmorgen.	Buongiorno.	godmorgen	0	0
+Hvad har Tom givet dig til jul?	Che cosa ti ha preso Tom per Natale?	givet	0	0
+Min smartphone er dum.	Il mio smartphone è stupido.	dum	0	0
+Jeg tror hun er syg. Hun har feber.	Penso che sia malata. Ha la febbre.	syg	0	0
+Hvorfor er egern så søde?	Perché gli scoiattoli sono così dolci?	søde	0	0
+Svar mig i det mindste.	Rispondimi almeno.	mindste	0	0
+Jeg har små hænder.	Ho le mani piccole.	hænder	0	0
+Det er at kaste perler for svin.	È come gettare perle ai porci.	svin	0	0
+Dette er den dårligste film jeg har set.	Questo è il peggior film che io abbia mai visto.	film	0	0
+1950’erne er præget af en kold krig mellem Øst og Vest.	Gli anni Cinquanta sono caratterizzati da una guerra fredda tra Est ed Ovest.	krig	0	0
+En million er et syvcifret tal.	Un milione è un numero a sette cifre.	tal	0	0
+Jeg kan skrive 50 ord i minuttet.	Posso digitare 50 parole al minuto.	skrive	0	0
+Min ansvarsfølelse er et fængsel.	Il mio senso di responsabilità è una prigione.	fængsel	0	0
+Han tager af sted til skolen klokken syv.	Esce per andare a scuola alle sette.	syv	0	0
+Der findes ingen hunde der er større end denne her.	Non ci sono cani più grossi di questo.	større	0	0
+Nu er det tid til at sige godnat.	Adesso è ora di dire buona notte.	godnat	0	0
+Den meget trætte gamle kone havde poser under øjnene.	La vecchia signora stanca aveva le borse sotto gli occhi.	øjnene	0	0
+Japanere spiser tre gange om dagen.	I giapponesi mangiano tre volte al giorno.	spiser	0	0
+Goddag.	Buongiorno.	goddag	0	0
+Hun har en hund og seks katte.	Ha un cane e sei gatti.	hund	0	0
+Han plejede at drikke.	Aveva l'abitudine di bere.	drikke	0	0
+Jeg fór vild.	Mi persi.	vild	0	0
+Tillykke med fødselsdagen, Rumænien!	Buon compleanno, Romania!	tillykke	0	0
+Man betaler renter på penge som man låner.	Si pagano gli interessi sul denaro che si prende in prestito.	betaler	0	0
+At læse er en af livets store glæder.	Leggere è uno dei più grandi piaceri della vita.	læse	0	0
+Han skød genvej.	Prese una scorciatoia.	skød	0	0
+Han blev vred.	Lui si è arrabbiato.	vred	0	0
+Jeg kan lide din skole.	Mi piace la tua scuola.	skole	0	0
+Godmorgen, Mike.	Buongiorno, Mike.	mike	0	0
+Hvor højt er det?	Quanto è alta?	højt	0	0
+Hun er blind på højre øje.	Il suo occhio destro è cieco.	højre	0	0
+Vær ikke bekymret.	Non ti preoccupare.	bekymret	0	0
+Utroligt! Esperanto er på andenpladsen.	Incredibile, l'esperanto ha raggiunto il secondo posto.	utroligt	0	0
+Tom er Marys onkel.	Tom è lo zio di Mary.	onkel	0	0
+Du må undskylde at jeg kom til at åbne dit brev ved et uheld.	Scusa per avere aperto la tua lettera per sbaglio.	åbne	0	0
+Hun havde ikke råd til det.	Lei non se lo poteva permettere.	råd	0	0
+Du kørte over for rødt lys.	Sei passata col rosso.	kørte	0	0
+Klokken er halv otte.	Sono le sette e mezza.	otte	0	0
+Han tager af sted til skolen klokken syv.	Esce per andare a scuola alle sette.	skolen	0	0
+Vær venlig at sende det til mig per fax.	Per favore, mandatemela via fax.	sende	0	0
+Jeg ville have brug for en evighed for at forklare alt.	Mi ci vorrebbe una vita per spiegare tutto.	forklare	0	0
+Denne blomst dufter dejligt.	Questo fiore ha un buon profumo.	dejligt	0	0
+Vi hørte at vejret var dårligt, så vi besluttede os for at aflyse turen.	Abbiamo sentito che il tempo era brutto, quindi abbiamo deciso di annullare il viaggio.	vejret	0	0
+I det land ændrer tingene sig ikke.	In questo paese le cose non cambiano.	tingene	0	0
+Pigen springer.	La ragazza salta.	pigen	0	0
+Din mor må have været smuk som ung.	Tua madre dev'essere stata bella da giovane.	ung	0	0
+Tordenen gjorde børnene bange.	Il tuono spaventò i bambini.	børnene	0	0
+Jeg er et menneske.	Sono una persona.	menneske	0	0
+Ulve angriber normalt ikke mennesker.	I lupi di solito non attaccano gli esseri umani.	normalt	0	0
+Den Europæiske Union blev skabt med det formål at gøre en ende på de mange blodige nabokrige, der kulminerede med den anden verdenskrig.	L’Unione europea viene posta in essere allo scopo di mettere fine alle guerre frequenti e sanguinose tra paesi vicini, culminate nella seconda guerra mondiale.	ende	0	0
+Det er en bog.	È un libro.	bog	0	0
+Tom mødte Mary tre år siden.	Tom ha conosciuto Mary tre anni fa.	mødte	0	0
+Hun har hvide tænder.	Ha i denti bianchi.	hvide	0	0
+Doktor, mit navn er Mutaz.	Dottore, il mio nome è Mutaz.	doktor	0	0
+Jeg kan lide dyr, for eksempel katte og hunde.	Mi piacciono gli animali, ad esempio i gatti e i cani.	dyr	0	0
+Han lader altid vinduet være åbent, når han sover.	Lascia sempre la finestra aperta quando dorme.	sover	0	0
+Tom er min læge.	Tom è il mio dottore.	læge	0	0
+Du kørte over for rødt lys.	Sei passato col rosso.	lys	0	0
+Hvorfor lyver I?	Perché mentite?	lyver	0	0
+Tom måtte begynde forfra.	Tom doveva ripartire da capo.	begynde	0	0
+Fra og med 1950 begynder de europæiske lande inden for rammerne af Det Europæiske Kul- og Stålfællesskab at nærme sig hinanden økonomisk og politisk for at sikre varig fred.	Negli anni Cinquanta la Comunità europea del carbone e dell’acciaio comincia ad unire i paesi europei sul piano economico e politico al fine di garantire una pace duratura.	sikre	0	0
+Han vil være en god lærer.	Sarà un bravo insegnante.	lærer	0	0
+Hun er den kedeligste pige jeg nogensinde har kendt.	È la ragazza più noiosa che io abbia mai conosciuto.	kendt	0	0
+Katten er sort.	Il gatto è nero.	sort	0	0
+Jeg skrev et brev.	Io ho scritto una lettera.	skrev	0	0
+I øjeblikket skriver du dine sætninger på det forkerte sted. Du skal vælge "Contribute" i toppen af siden og så "Add sentences".	Al momento state inserendo le vostre frasi nel posto sbagliato. Dovreste selezionare "Contribuisci" in cima alla pagina e poi "Aggiungi frasi".	skriver	0	0
+Jeg bor på landet.	Io vivo in campagna.	landet	0	0
+Jeg vidste ikke at du arbejdede her.	Non lo sapevo che lavoravi qui.	arbejdede	0	0
+Der er ingen der har løst problemet.	Nessuno ha risolto il problema.	problemet	0	0
+Tom har sine egne strategier for at forføre en kvinde.	Tom ha le sue strategie per sedurre una donna.	egne	0	0
+Katten sad fast oppe i træet.	Il gatto era incastrato nell'albero.	sad	0	0
+I er meget smukke.	Voi siete molto belle.	smukke	0	0
+Dette fly er hans.	Questo aeroplano è il suo.	fly	0	0
+Fare! Højspænding.	Pericolo! Alta tensione.	fare	0	0
+De eneste nyttige svar er de, der rejser nye spørgsmål.	Le sole risposte utili sono quelle che propongono nuove domande.	rejser	0	0
+Har I japansk øl?	Avete della birra giapponese?	øl	0	0
+Du kommer for tidligt.	Sei in anticipo.	tidligt	0	0
+Jeg er stolt af jer.	Sono orgogliosa di voi.	stolt	0	0
+Jeg løber hver dag.	Corro ogni giorno.	løber	0	0
+Han havde netop underskrevet en ny kontrakt.	Aveva appena firmato un nuovo contratto.	netop	0	0
+Døden søger sit bytte.	La morte sta cercando la sua preda.	døden	0	0
+Jeg kan ikke forestille mig at et europæisk selskab ville få lov til at ødelægge en hel canadiske by, med alle dens huse, kirker og kirkegårde.	Non posso credere che a un'impresa europea sarebbe consentito demolire un'intera città canadese, con tutte le sue case, le chiese e i cimiteri.	ødelægge	0	0
+Du har en smuk stemme.	Hai una bella voce.	stemme	0	0
+Jeg savner dig så meget!	Mi manchi assai!	savner	0	0
+Egypten er en gave fra Nilen.	L'Egitto è un dono del Nilo.	gave	0	0
+Jeg er i kontakt med Tom.	Sono in contatto con Tom.	kontakt	0	0
+Jeg stoler ikke på nogen.	Non mi fido di nessuno.	stoler	0	0
+Observationen af tyngdebølger vil starte en ny fase i studiet af universet.	Osservare le onde gravitazionali aprirà una nuova fase nello studio del cosmo.	starte	0	0
+Jeg læste, at Brasiliens præsident er en kvinde. Hun hedder Dilma.	Ho letto che il presidente del Brasile è una donna. Si chiama Dilma.	præsident	0	0
+Jeg er overbevist om at Maria aldrig vil miste håbet.	Sono convinto che Maria non perderà mai la speranza.	miste	0	0
+Kan du oversætte denne sang for mig?	Puoi tradurmi questa canzone?	sang	0	0
+Det var pænt af dig at hjælpe mig med mine lektier.	È stato molto gentile da parte tua aiutarmi con i miei compiti.	pænt	0	0
+Klokken er halv otte.	Sono le sette e mezza.	halv	0	0
+Kassen var åben og tom.	La scatola era aperta e vuota.	åben	0	0
+Jeg glæder mig naturligvis, men glem nu ikke at du gør alt det her først og fremmest for dig selv.	Naturalmente sono contento, ma per favore, non dimentichi che sta facendo tutto questo principalmente per se stesso.	naturligvis	0	0
+I øjeblikket skriver du dine sætninger på det forkerte sted. Du skal vælge "Contribute" i toppen af siden og så "Add sentences".	Al momento state inserendo le vostre frasi nel posto sbagliato. Dovreste selezionare "Contribuisci" in cima alla pagina e poi "Aggiungi frasi".	forkerte	0	0
+Lufthavnen var lukket på grund af tågen.	L'aeroporto era chiuso a causa della nebbia.	lukket	0	0
+Han stjal penge fra mig.	Lui mi rubò dei soldi.	stjal	0	0
+Tom mødte Mary tre år siden.	Tom ha conosciuto Mary tre anni fa.	mary	0	0
+Jeg hjalp min mor i køkkenet.	Io ho aiutato mia madre in cucina.	hjalp	0	0
+Han fortjener mere.	Si merita di più.	fortjener	0	0
+Du må undskylde at jeg kom til at åbne dit brev ved et uheld.	Scusa per avere aperto la tua lettera per sbaglio.	undskylde	0	0
+Der er cykelstier overalt!	Le piste ciclabili sono ovunque!	overalt	0	0
+Jeg ønskede at hyre en bus.	Volevo noleggiare un autobus.	ønskede	0	0
+Jeg var heldig.	Io ho avuto fortuna.	heldig	0	0
+Jeg har tre stykker bagage.	Ho tre bagagli.	stykker	0	0
+Alle veje fører til Rom.	Tutte le strade portano a Roma.	fører	0	0
+Himlen er blå.	Il cielo è blu.	blå	0	0
+Hvorfor har du spist alle jordbærrene jeg købte i går.	Perché hai mangiato tutte le fragole che ho comprato ieri?	købte	0	0
+A kommer før B i alfabetet.	L'A viene prima della B nell'alfabeto.	a	0	0
+Billedet minder mig om min barndom.	La foto mi riporta ai giorni della mia infanzia.	minder	0	0
+Hun har skrevet et kærestebrev til mig på esperanto.	Lei mi ha scritto una lettera d'amore in esperanto.	skrevet	0	0
+Gør ikke noget dumt.	Non faccia qualcosa di stupido.	dumt	0	0
+Verdens ondskab skal fjernes.	Bisogna estirpare il male del mondo.	verdens	0	0
+Hun er langtfra ærlig.	È lontana dall'essere onesta.	ærlig	0	0
+Han brød sit løfte.	Ha infranto la sua promessa.	brød	0	0
+Hvor høj er den?	Quanto è alta?	høj	0	0
+Jeg forsøgte at advare jer.	Ho provato ad avvisarvi.	forsøgte	0	0
+Drikker du meget kaffe?	Tu bevi molto caffè?	drikker	0	0
+Tom er ude af stand til at arbejde i denne uge.	Tom non è in grado di lavorare questa settimana.	stand	0	0
+Klokken er kvart over ni om morgenen.	Sono le nove e un quarto del mattino.	ni	0	0
+Jeg stod sent op i morges.	Mi sono alzato tardi stamattina.	morges	0	0
+Jeg er hurtigere end dig.	Sono più veloce di te.	hurtigere	0	0
+Første, anden, tredje, fjerde, femte, sjette, syvende, ottende, niende, tiende ... næstsidste, sidste.	Primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo... penultimo, ultimo.	tredje	0	0
+Jeg kan nemt overbevise dig om hans uskyld.	Posso convincerti facilmente della sua innocenza.	nemt	0	0
+Jeg løj.	Mentii.	løj	0	0
+Jeg forstår det som et tegn på kærlighed.	Lo prendo come un segno di amore.	tegn	0	0
+Er slangen levende eller død?	Il serpente è vivo o morto?	levende	0	0
+Jeg sov på båden.	Ho dormito sulla barca.	sov	0	0
+Røgen er et tegn på at et eller andet sted nær ved os er der ild.	Il fumo è un segno che c'è del fuoco da qualche parte nelle vicinanze.	nær	0	0
+Ejer Tom en bil?	Tom ha una macchina?	ejer	0	0
+Glædelig jul!	Buon Natale!	jul	0	0
+Kun ét minut.	Solo un minuto.	ét	0	0
+Fremtiden vil ikke blive opbygget med magt eller ønsket om at erobre, men med tålmodig anvendelse af demokratiske metoder, konstruktiv samarbejdsånd og respekt for friheden.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	respekt	0	0
+Katten kan lide at lege i haven.	Il gatto ama giocare in giardino.	lege	0	0
+Jeg taber ikke!	Non perderò!	taber	0	0
+Stol på mig.	Si fidi di me.	stol	0	0
+Vi måtte lukke vinduet på grund af myggene.	Abbiamo dovuto chiudere la finestra a causa delle zanzare.	lukke	0	0
+I øjeblikket skriver du dine sætninger på det forkerte sted. Du skal vælge "Contribute" i toppen af siden og så "Add sentences".	Al momento sta inserendo le sue frasi nel posto sbagliato. Dovrebbe selezionare "Contribuisci" in cima alla pagina e poi "Aggiungi frasi".	vælge	0	0
+Drengen kaster en sten.	Il ragazzo lancia una pietra.	drengen	0	0
+Han tjener til livets ophold ved at skrive.	Lui si guadagna da vivere scrivendo.	tjener	0	0
+Fremtiden vil ikke blive opbygget med magt eller ønsket om at erobre, men med tålmodig anvendelse af demokratiske metoder, konstruktiv samarbejdsånd og respekt for friheden.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	magt	0	0
+Jeg kan ikke forestille mig at et europæisk selskab ville få lov til at ødelægge en hel canadiske by, med alle dens huse, kirker og kirkegårde.	Non posso credere che a un'impresa europea sarebbe consentito demolire un'intera città canadese, con tutte le sue case, le chiese e i cimiteri.	hel	0	0
+Fremtiden vil ikke blive opbygget med magt eller ønsket om at erobre, men med tålmodig anvendelse af demokratiske metoder, konstruktiv samarbejdsånd og respekt for friheden.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	fremtiden	0	0
+Vær så venlig at slette denne fil!	Per piacere, cancellate questo file.	venlig	0	0
+Han gravede et hul i sandet.	Lui ha scavato un buco nella sabbia.	hul	0	0
+Har du nogensinde set en elefant flyve?	Hai mai visto un elefante volare?	flyve	0	0
+Giv mig tusind kys!	Dammi mille baci.	tusind	0	0
+Enig.	D'accordo.	enig	0	0
+Bagefter er man altid klogere.	Dopo sei sempre più intelligente.	bagefter	0	0
+Dette er et varsel som vi må tage alvorligt.	Questo è un avvertimento che dobbiamo prendere sul serio.	alvorligt	0	0
+Han plejede at drikke.	Lui aveva l'abitudine di bere.	plejede	0	0
+Fra tid til anden er det nødvendigt at reflektere over sit fremtidige liv.	Di tanto in tanto, è necessario meditare sulla propria vita futura.	nødvendigt	0	0
+Det var farligt.	Era pericoloso.	farligt	0	0
+Døden søger sit bytte.	La morte sta cercando la sua preda.	søger	0	0
+Biblioteket har en særlig afdeling for blinde.	La biblioteca della città ha una sezione speciale per non vedenti.	særlig	0	0
+Vi er ikke alene om at støtte planen.	Noi non siamo sole nel sostenere il piano.	planen	0	0
+Jeg arbejder endda om søndagen.	Io lavoro anche la domenica.	endda	0	0
+Hvem var Jesus?	Chi era Gesù?	jesus	0	0
+Han undslap med nød og næppe, da han gled på trappen.	L'ha scampata per un pelo quando è scivolato per le scale.	nød	0	0
+I begyndelsen skabte Gud himlen og jorden.	In principio Dio creò il cielo e la terra.	himlen	0	0
+Jeg læser alt.	Leggo tutto.	læser	0	0
+Åbn ikke de vinduer.	Non aprire quelle finestre.	åbn	0	0
+Røgen er et tegn på at et eller andet sted nær ved os er der ild.	Il fumo è un segno che c'è del fuoco da qualche parte nelle vicinanze.	ild	0	0
+Hun har hvide tænder.	Ha i denti bianchi.	tænder	0	0
+To glas æblejuice, tak!	Due bicchieri di succo di mela, per favore.	glas	0	0
+Hvad er dine planer for weekenden?	Quali sono i tuoi programmi per il fine settimana?	planer	0	0
+I Paris sner det.	Nevica a Parigi.	paris	0	0
+Du har gjort det med vilje.	L'hai fatto apposta.	vilje	0	0
+Det glæder mig at se dig igen.	Sono contento di rivederti.	glæder	0	0
+Æbler er røde.	Le mele sono rosse.	røde	0	0
+Han siger altid dårlige ting om sin kone.	Lui dice sempre delle cose brutte su sua moglie.	dårlige	0	0
+Undgå slang hvis det er muligt.	Non usare slang se possibile.	undgå	0	0
+Den som kæmper, risikerer at tabe. Den som ikke kæmper, har allerede tabt.	Chi lotta può perdere, chi non lotta ha già perso.	kæmper	0	0
+Intet er parat.	Niente è pronto.	parat	0	0
+Har du betalt huslejen?	Hai pagato l'affitto?	betalt	0	0
+Han begik selvmord.	Si è ucciso.	selvmord	0	0
+Giv mig tusind kys!	Dammi mille baci.	kys	0	0
+Jeg ville hellere sulte ihjel end stjæle.	Preferirei morire di fame piuttosto che rubare.	stjæle	0	0
+Han plejer at spytte på jorden.	Ha l'abitudine di sputare per terra.	plejer	0	0
+Kaptajnen elsker sit skib som en far sit barn.	Il capitano ama la sua nave come un padre suo figlio.	skib	0	0
+Den engelske sætning er blevet ændret. Derfor vil jeg bede dig om at overveje om den tyske sætning skal ændres.	La frase inglese è stata modificata. Quindi vorrei chiedervi di prendere in considerazione se si vuole adattare la frase tedesca.	ændret	0	0
+Det er gemt under sengen.	È nascosto sotto il letto.	sengen	0	0
+Den eneste forskel mellem mig og en tosse er at jeg ikke er tosset.	L'unica differenza tra me e un pazzo è che io non sono pazzo.	forskel	0	0
+Du kan ikke se skoven for bare træer.	Non puoi vedere il bosco a causa dei molti alberi.	skoven	0	0
+Vi er ikke alene om at støtte planen.	Noi non siamo sole nel sostenere il piano.	støtte	0	0
+Hvad er meningen med dette?	Qual è il significato di questo?	meningen	0	0
+Drengen kaster en sten.	Il ragazzo lancia una pietra.	sten	0	0
+Jeg har savnet dig.	Mi sei mancato.	savnet	0	0
+Jeg spiste en burger og gik derefter i seng.	Ho mangiato un hamburger e poi sono andato a letto.	derefter	0	0
+Skibet ligger i havnen.	La barca è al porto.	skibet	0	0
+Denne fisk lugter dårligt.	Questo pesce ha un cattivo odore.	fisk	0	0
+Hvilken overraskelse!	Che sorpresa!	overraskelse	0	0
+Om efteråret flyver trækfuglene sydover.	In autunno gli uccelli migratori volano a sud.	flyver	0	0
+Solen skinner.	Il sole brilla.	solen	0	0
+Det er en hemmelighed.	È un segreto.	hemmelighed	0	0
+Jeg kan ikke forestille mig at et europæisk selskab ville få lov til at ødelægge en hel canadiske by, med alle dens huse, kirker og kirkegårde.	Non posso credere che a un'impresa europea sarebbe consentito demolire un'intera città canadese, con tutte le sue case, le chiese e i cimiteri.	forestille	0	0
+I går spillede de ikke tennis.	Non hanno giocato a tennis ieri.	spillede	0	0
+Byen blev forsvaret af en stor hær.	La città fu difesa da un grande esercito.	hær	0	0
+Thomas Edison opfandt glødepæren.	Thomas Edison ha inventato la lampadina elettrica.	thomas	0	0
+Træ brænder.	Il legno brucia.	brænder	0	0
+Du er blevet fed.	Sei ingrassato.	fed	0	0
+Hvor meget koster denne vin?	Quanto costa questo vino?	vin	0	0
+Stikker disse insekter?	Questi insetti pungono?	stikker	0	0
+Denne fisk lugter dårligt.	Questo pesce ha un cattivo odore.	lugter	0	0
+Hvor meget koster denne vin?	Quanto costa questo vino?	koster	0	0
+Katten har sovet på bordet.	Il gatto si era addormentato sul tavolo.	bordet	0	0
+Åbn munden.	Apri la bocca.	munden	0	0
+Jeg kan ikke forestille mig at et europæisk selskab ville få lov til at ødelægge en hel canadiske by, med alle dens huse, kirker og kirkegårde.	Non posso credere che a un'impresa europea sarebbe consentito demolire un'intera città canadese, con tutte le sue case, le chiese e i cimiteri.	selskab	0	0
+Du må undskylde at jeg kom til at åbne dit brev ved et uheld.	Scusa per avere aperto la tua lettera per sbaglio.	uheld	0	0
+Hører du fuglene synge?	Senti gli uccelli cantare?	synge	0	0
+Bogen er lille.	Il libro è piccolo.	bogen	0	0
+Jeg vil gerne have nøglen til mit værelse.	La chiave della stanza, per favore.	nøglen	0	0
+Jeg vil gifte mig med dig.	Voglio sposarti.	gifte	0	0
+Uden tvivl!	Senza dubbio!	tvivl	0	0
+Jeg læste, at Brasiliens præsident er en kvinde. Hun hedder Dilma.	Ho letto che il presidente del Brasile è una donna. Si chiama Dilma.	læste	0	0
+Jeg ledte efter nøglen.	Cercavo la chiave.	ledte	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, hollandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	engelsk	0	0
+I det land ændrer tingene sig ikke.	In questo paese le cose non cambiano.	ændrer	0	0
+Den som kæmper, risikerer at tabe. Den som ikke kæmper, har allerede tabt.	Chi lotta può perdere, chi non lotta ha già perso.	tabt	0	0
+Filmen var så trist at alle græd.	Il film era così triste che tutti hanno pianto.	trist	0	0
+Kom herhen!	Vieni qui!	herhen	0	0
+Frisk frugt er godt for helbredet.	La frutta fresca fa bene alla salute.	frisk	0	0
+Jeg skrev et brev.	Io ho scritto una lettera.	brev	0	0
+Kun et minut.	Solo un minuto.	minut	0	0
+Amerika er tilbage!	L'America è tornata!	amerika	0	0
+En kop kaffe koster én krone.	Una tazza di caffè costa una corona.	kop	0	0
+Vi måtte lukke vinduet på grund af myggene.	Abbiamo dovuto chiudere la finestra a causa delle zanzare.	vinduet	0	0
+Er alle døre låst?	Tutte le porte sono chiuse a chiave?	låst	0	0
+Tegnet viser at svaret er rigtigt.	Il segno significa che la risposta è corretta.	svaret	0	0
+Træ brænder.	Il legno brucia.	træ	0	0
+Jeg har brødre.	Ho fratelli.	brødre	0	0
+Guld er mere værdifuld end jern.	L'oro è più prezioso del ferro.	guld	0	0
+En million er et syvcifret tal.	Un milione è un numero a sette cifre.	million	0	0
+Hvorfor har du spist alle jordbærrene jeg købte i går.	Perché hai mangiato tutte le fragole che ho comprato ieri?	spist	0	0
+Jeg kan ikke forestille mig at et europæisk selskab ville få lov til at ødelægge en hel canadiske by, med alle dens huse, kirker og kirkegårde.	Non posso credere che a un'impresa europea sarebbe consentito demolire un'intera città canadese, con tutte le sue case, le chiese e i cimiteri.	dens	0	0
+"Den gamle mand og havet" er en roman af Hemingway.	"Il vecchio e il mare" è un romanzo di Hemingway.	havet	0	0
+Jeg gik ud på trods af regnen.	Sono uscito malgrado la pioggia.	trods	0	0
+Den Europæiske Union blev skabt med det formål at gøre en ende på de mange blodige nabokrige, der kulminerede med den anden verdenskrig.	L’Unione europea viene posta in essere allo scopo di mettere fine alle guerre frequenti e sanguinose tra paesi vicini, culminate nella seconda guerra mondiale.	skabt	0	0
+Mine bøger er nye.	I miei libri sono nuovi.	bøger	0	0
+Billedet minder mig om min barndom.	La foto mi riporta ai giorni della mia infanzia.	billedet	0	0
+Kvinden kaldes Sue.	La donna si chiamava Sue.	kvinden	0	0
+Hun var ung og uskyldig.	Era giovane e innocente.	uskyldig	0	0
+Han er skyldig i tyveri.	Lui è colpevole di furto.	skyldig	0	0
+Han undslap med nød og næppe, da han gled på trappen.	L'ha scampata per un pelo quando è scivolato per le scale.	næppe	0	0
+Godaften!	Buonasera!	godaften	0	0
+Ild er meget farlig.	Il fuoco è molto pericoloso.	farlig	0	0
+Emily er ikke bange for edderkopper.	Emily non ha paura dei ragni.	emily	0	0
+Jeg ved at nogle personer påskønner mit arbejde.	So che alcune persone apprezzano il mio lavoro.	personer	0	0
+Jeg kan lide dyr, for eksempel katte og hunde.	Mi piacciono gli animali, ad esempio i gatti e i cani.	eksempel	0	0
+Har filmen undertekster?	Il film ha i sottotitoli ?	filmen	0	0
+Stormen blæste tage væk og rykkede mange træer op med rod.	La tempesta ha strappato via i tetti e sradicato molti alberi.	rod	0	0
+Jeg tilbragte tolv timer i toget.	Ho passato dodici ore in treno.	toget	0	0
+Spis flere grøntsager.	Mangia più verdura.	spis	0	0
+Tom ønskede ikke at Maria skulle se ham i håndjern.	Tom non voleva che Mary lo vedesse in manette.	maria	0	0
+Jeg spiste hele æblet.	Io mangiai tutta la mela.	spiste	0	0
+Min kære lille kat har nu været væk i en uge.	Il mio caro piccolo gatto è sparito da una settimana.	kat	0	0
+Adam har et æble og et adamsæble.	Adamo ha una mela e un pomo d’Adamo.	adam	0	0
+Kvinden kaldes Sue.	La donna si chiamava Sue.	kaldes	0	0
+Spørgsmålet kan kun tolkes på én måde.	La domanda ammette una sola interpretazione.	spørgsmålet	0	0
+Han brød sit løfte.	Infranse la sua promessa.	løfte	0	0
+Vi har indtil i morgen tidlig.	Abbiamo tempo fino a domani mattina presto.	tidlig	0	0
+Jeg hjalp min mor i køkkenet.	Ho aiutato mia madre in cucina.	køkkenet	0	0
+Der findes ingen hunde der er større end denne her.	Non ci sono cani più grossi di questo.	hunde	0	0
+Han lukkede sine øjne.	Chiuse gli occhi.	lukkede	0	0
+Tom er den perfekte syndebuk.	Tom è il perfetto capro espiatorio.	perfekte	0	0
+Det er tosset at spadsere i det vejr.	È da stupidi andare a passeggio con questo tempo.	tosset	0	0
+Nogen har fortalt mig at du har forladt din mand.	Qualcuno mi ha detto che hai lasciato tuo marito.	forladt	0	0
+I San Marino smagte pizzaerne faktisk bedre end dem jeg spiste i Rom.	Le pizze a San Marino erano effettivamente più buone di quelle che ho mangiato a Roma.	san	0	0
+Det er at kaste perler for svin.	È come gettare perle ai porci.	kaste	0	0
+Tom har ikke tillid til politiet.	Tom non si fida della polizia.	tillid	0	0
+Stands bilen.	Ferma l'auto.	stands	0	0
+Alle veje fører til Rom.	Tutte le strade portano a Roma.	rom	0	0
+Floden løber gennem dalen.	Il fiume scorre attraverso la valle.	floden	0	0
+I stedet for at græde, foretrækker jeg at handle.	Anziché piangere, preferisco agire.	foretrækker	0	0
+Mit sprog er ikke på listen!	La mia lingua non si trova sulla lista.	listen	0	0
+Jeg har sovet på båden.	Ho dormito sulla barca.	båden	0	0
+Dette forklarer alt!	Questo spiega tutto!	forklarer	0	0
+I stedet for at græde, foretrækker jeg at handle.	Anziché piangere, preferisco agire.	græde	0	0
+Jeg er vågen.	Io sono sveglio.	vågen	0	0
+Det regner ikke; det sner.	Non piove, nevica.	regner	0	0
+Vinteren nærmer sig.	L'inverno sta arrivando.	nærmer	0	0
+Nogle sætninger er for lange.	Alcune frasi sono troppo lunghe.	lange	0	0
+De danser.	Loro stanno danzando.	danser	0	0
+Jeg vil gerne have dig til at oversætte denne rapport til fransk.	Vorrei che traduceste questo rapporto in francese.	rapport	0	0
+Du stinker.	Puzzi.	stinker	0	0
+Glædelig jul!	Buon Natale!	glædelig	0	0
+Lad os ikke ryge ud ad tangenten.	Non partiamo per la tangente.	ryge	0	0
+Mars er den fjerde planet fra Solen.	Marte è il quarto pianeta a partire dal Sole.	planet	0	0
+I hvilken by holder bussen næste gang?	In quale città si ferma dopo l'autobus?	bussen	0	0
+I øjeblikket skriver du dine sætninger på det forkerte sted. Du skal vælge "Contribute" i toppen af siden og så "Add sentences".	Al momento stai inserendo le tue frasi nel posto sbagliato. Dovresti selezionare "Contribuisci" in cima alla pagina e poi "Aggiungi frasi".	toppen	0	0
+Det er gemt under sengen.	È nascosta sotto il letto.	gemt	0	0
+Dette brød er meget lækkert.	Questo pane è molto delizioso.	lækkert	0	0
+Åbn døren og luk hunden ind.	Apra la porta e faccia entrare il cane.	hunden	0	0
+Jeg arbejder hver dag undtagen lørdag.	Lavoro tutti i giorni tranne il sabato.	lørdag	0	0
+Hvad minder denne hat dig om?	Che cosa ti ricorda questo cappello?	hat	0	0
+Tom synger sommetider på fransk.	Tom a volte canta in francese.	synger	0	0
+Den som kæmper, risikerer at tabe. Den som ikke kæmper, har allerede tabt.	Chi lotta può perdere, chi non lotta ha già perso.	tabe	0	0
+Døden søger sit bytte.	La morte sta cercando la sua preda.	bytte	0	0
+Han var aldrig tilfreds.	Lui non era mai soddisfatto.	tilfreds	0	0
+Jeg går til stranden.	Vado in spiaggia.	stranden	0	0
+Ingen anelse!	Boh!	anelse	0	0
+I begyndelsen skabte Gud himlen og jorden.	In principio Dio creò il cielo e la terra.	begyndelsen	0	0
+Han begik selvmord.	Lui si è ucciso.	begik	0	0
+Katten har sovet på bordet.	Il gatto ha dormito sul tavolo.	sovet	0	0
+Drengen kaster en sten.	Il ragazzo lancia una pietra.	kaster	0	0
+Hun er blind på højre øje.	Il suo occhio destro è cieco.	blind	0	0
+Vi har ikke meget til fælles.	Noi non abbiamo molto in comune.	fælles	0	0
+Hendes søster er en vidunderlig hustru og mor.	Sua sorella è una moglie e madre meravigliosa.	hustru	0	0
+Tak for din forklaring.	Grazie per la tua spiegazione.	forklaring	0	0
+Jeg hader det engelske sprog og alt, hvad der har med det at gøre.	Odio l'inglese e tutto quello che lo circonda.	sprog	0	0
+Hun afviste mit forslag.	Ha rifiutato la mia proposta.	forslag	0	0
+I begyndelsen skabte Gud himlen og jorden.	In principio Dio creò il cielo e la terra.	skabte	0	0
+Biblioteket har en særlig afdeling for blinde.	La biblioteca della città ha una sezione speciale per non vedenti.	afdeling	0	0
+Der blæste en kold vind.	Soffiava un vento freddo.	kold	0	0
+Mødet blev aflyst.	La riunione è stata annullata.	mødet	0	0
+Han er bøsse.	È gay.	bøsse	0	0
+I stedet for at græde, foretrækker jeg at handle.	Anziché piangere, preferisco agire.	handle	0	0
+Klokken er kvart over ni om morgenen.	Sono le nove e un quarto del mattino.	morgenen	0	0
+Vi hørte at vejret var dårligt, så vi besluttede os for at aflyse turen.	Abbiamo sentito che il tempo era brutto, quindi abbiamo deciso di annullare il viaggio.	besluttede	0	0
+Lufthavnen var lukket på grund af tågen.	L'aeroporto era chiuso a causa della nebbia.	lufthavnen	0	0
+Kassen var åben og tom.	La scatola era aperta e vuota.	kassen	0	0
+Du er en engel!	Sei un angelo!	engel	0	0
+Fra og med 1950 begynder de europæiske lande inden for rammerne af Det Europæiske Kul- og Stålfællesskab at nærme sig hinanden økonomisk og politisk for at sikre varig fred.	Negli anni Cinquanta la Comunità europea del carbone e dell’acciaio comincia ad unire i paesi europei sul piano economico e politico al fine di garantire una pace duratura.	lande	0	0
+Der er to miles til banegården.	La stazione è a due miglia da qui.	miles	0	0
+Jeg føler mig ensom.	Mi sento sola.	ensom	0	0
+Solen er en stjerne.	Il Sole è una stella.	stjerne	0	0
+Den engelske sætning er blevet ændret. Derfor vil jeg bede dig om at overveje om den tyske sætning skal ændres.	La frase inglese è stata modificata. Quindi vorrei chiedervi di prendere in considerazione se si vuole adattare la frase tedesca.	overveje	0	0
+Hvordan spreder denne sygdom sig?	Come si diffonde questa malattia?	sygdom	0	0
+Jeg vågnede.	Mi sono svegliata.	vågnede	0	0
+Jeg arbejder hver dag undtagen lørdag.	Lavoro tutti i giorni tranne il sabato.	undtagen	0	0
+Vi hørte at vejret var dårligt, så vi besluttede os for at aflyse turen.	Abbiamo sentito che il tempo era brutto, quindi abbiamo deciso di annullare il viaggio.	turen	0	0
+Han havde ondt i maven.	Aveva il mal di stomaco.	maven	0	0
+Ulve angriber normalt ikke mennesker.	I lupi di solito non attaccano gli esseri umani.	angriber	0	0
+Schweiz ligger mellem Frankrig, Italien, Østrig og Tyskland.	La Svizzera si trova tra Francia, Italia, Austria e Germania.	frankrig	0	0
+Tom måtte begynde forfra.	Tom doveva ripartire da capo.	forfra	0	0
+Kaptajnen elsker sit skib som en far sit barn.	Il capitano ama la sua nave come un padre suo figlio.	kaptajnen	0	0
+Hvad er dine planer for weekenden?	Quali sono i tuoi programmi per il fine settimana?	weekenden	0	0
+Hvad kan vi byde gæsterne?	Cosa possiamo offrire agli ospiti?	byde	0	0
+Filmen var så trist at alle græd.	Il film era così triste che tutti hanno pianto.	græd	0	0
+Tom var nøgen.	Tom era nudo.	nøgen	0	0
+Han åbnede døren.	Lui aprì la porta.	åbnede	0	0
+Skal vi vædde?	Scommettiamo?	vædde	0	0
+Sikken en kæmpestor hund!	Che cane grande che è!	sikken	0	0
+Fremtiden vil ikke blive opbygget med magt eller ønsket om at erobre, men med tålmodig anvendelse af demokratiske metoder, konstruktiv samarbejdsånd og respekt for friheden.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	ønsket	0	0
+Pigen springer.	La ragazza sta saltando.	springer	0	0
+Dette ur er vandtæt.	Questo orologio è impermeabile.	ur	0	0
+Jeg er et menneske; intet menneskeligt er mig fremmed.	Sono un uomo: niente che sia umano reputo a me estraneo.	fremmed	0	0
+Vi lejede lejligheden.	Abbiamo preso in affitto l'appartamento.	lejligheden	0	0
+To plus to er fire.	Due più due fa quattro.	plus	0	0
+Den Europæiske Union blev skabt med det formål at gøre en ende på de mange blodige nabokrige, der kulminerede med den anden verdenskrig.	L’Unione europea viene posta in essere allo scopo di mettere fine alle guerre frequenti e sanguinose tra paesi vicini, culminate nella seconda guerra mondiale.	formål	0	0
+Solen går altid ned i vest.	Il sole tramonta sempre ad ovest.	vest	0	0
+Her er alt gennemsyret af historiens ånd.	Qui tutto è permeato dello spirito della storia.	ånd	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, nederlandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	fransk	0	0
+Dette er en advarsel som vi må tage alvorlig.	Questo è un avvertimento che dobbiamo prendere sul serio.	advarsel	0	0
+A kommer før B i alfabetet.	L'A viene prima della B nell'alfabeto.	b	0	0
+Kartofler vokser godt i dette land.	Le patate crescono bene in questo paese.	vokser	0	0
+Al vinen er blevet drukket.	Tutto il vino è stato bevuto.	drukket	0	0
+Han lader altid vinduet være åbent, når han sover.	Lascia sempre la finestra aperta quando dorme.	åbent	0	0
+Er den her en hingst eller en hoppe?	Questo è uno stallone o una cavalla?	hoppe	0	0
+Alle pattedyr producerer mælk.	Tutti i mammiferi producono latte.	mælk	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	april	0	0
+Mars er den fjerde planet fra Solen.	Marte è il quarto pianeta a partire dal Sole.	fjerde	0	0
+Kina er større end Japan.	La Cina è più grande del Giappone.	kina	0	0
+Dette er en advarsel som vi må tage alvorlig.	Questo è un avvertimento che dobbiamo prendere sul serio.	alvorlig	0	0
+Gud er en cirkel, hvis omkreds er en lige linje.	Dio è un cerchio la cui circonferenza è una linea retta.	linje	0	0
+Hvad koster en kasse øl?	Quanto costa una cassa di birra?	kasse	0	0
+Jeg er overbevist om at Maria aldrig vil miste håbet.	Sono convinto che Maria non perderà mai la speranza.	håbet	0	0
+I øjeblikket skriver du dine sætninger på det forkerte sted. Du skal vælge "Contribute" i toppen af siden og så "Add sentences".	Al momento stai inserendo le tue frasi nel posto sbagliato. Dovresti selezionare "Contribuisci" in cima alla pagina e poi "Aggiungi frasi".	øjeblikket	0	0
+Jeg er et meget stabilt geni.	Sono un genio molto stabile.	geni	0	0
+Hvad svarede du?	Cos'hai risposto?	svarede	0	0
+Vær venlig at sende det til mig per fax.	Per favore, mandatemela via fax.	per	0	0
+To ting er uendelige, universet og den menneskelige dumhed, men med hensyn til universet er jeg endnu ikke helt sikker.	Due cose sono infinite: l'universo e la stupidità umana, ma riguardo all'universo non sono ancora completamente sicuro.	hensyn	0	0
+Jeg føler en tomhed i mit indre.	Io sento un vuoto dentro di me.	indre	0	0
+Forventede du virkelig, at han ville fortælle dig sandheden?	Ti aspettavi davvero che ti dicesse la verità?	forventede	0	0
+Hendes søster er en vidunderlig hustru og mor.	Sua sorella è una moglie e madre meravigliosa.	vidunderlig	0	0
+Udfordr ikke skæbnen!	Non provochi il destino!	skæbnen	0	0
+Jeg forsøgte at advare jer.	Io ho provato ad avvisarvi.	advare	0	0
+Forhåbentlig!	Magari!	forhåbentlig	0	0
+Han døde af kræft sidste år.	È morto di cancro l'anno scorso.	kræft	0	0
+Tom og Mary kyssede hinanden farvel.	Tom e Mary si sono dati un bacio d'addio.	kyssede	0	0
+Jeg kan ikke forestille mig at et europæisk selskab ville få lov til at ødelægge en hel canadiske by, med alle dens huse, kirker og kirkegårde.	Non posso credere che a un'impresa europea sarebbe consentito demolire un'intera città canadese, con tutte le sue case, le chiese e i cimiteri.	huse	0	0
+Jeg tror på Solen, selv når den ikke skinner. Jeg tror på kærligheden, selv når jeg ikke føler den. Jeg tror på Gud, selv når Han er tavs.	Io credo nel sole anche quando non splende. Io credo nell'amore anche quando non lo sento. Io credo in Dio anche quando tace.	kærligheden	0	0
+Han havde netop underskrevet en ny kontrakt.	Aveva appena firmato un nuovo contratto.	kontrakt	0	0
+Det er en joke.	È una battuta.	joke	0	0
+"Tak for hjælpen." "Ingen årsag."	"Grazie per avermi aiutato." "Non c'è di che."	årsag	0	0
+Schweiz ligger mellem Frankrig, Italien, Østrig og Tyskland.	La Svizzera si trova tra Francia, Italia, Austria e Germania.	tyskland	0	0
+Alle veje fører til Helsingør.	Tutte le strade portano a Elsinore.	veje	0	0
+Der er ingen der har løst problemet.	Nessuno ha risolto il problema.	løst	0	0
+Katte har to ører.	I gatti hanno due orecchie.	ører	0	0
+"Tak for hjælpen." "Ingen årsag."	"Grazie per avermi aiutato." "Non c'è di che."	hjælpen	0	0
+Han er ombord i skibet.	Lui è a bordo della nave.	ombord	0	0
+Jeg venter en kunde i dag.	Sto aspettando un cliente oggi.	kunde	0	0
+Tag ikke chancer.	Non corra rischi.	chancer	0	0
+1950’erne er præget af en kold krig mellem Øst og Vest.	Gli anni Cinquanta sono caratterizzati da una guerra fredda tra Est ed Ovest.	øst	0	0
+Fuji-bjerget er Japans højeste bjerg.	Il monte Fuji è la più alta montagna del Giappone.	højeste	0	0
+Katten kan lide at lege i haven.	Il gatto ama giocare in giardino.	haven	0	0
+Jeg ønskede at hyre en bus.	Volevo noleggiare un autobus.	bus	0	0
+Du kørte over for rødt lys.	Sei passato col rosso.	rødt	0	0
+To ting er uendelige, universet og den menneskelige dumhed, men med hensyn til universet er jeg ikke sikker.	Due cose sono infinite: l'universo e la stupidità umana, ma riguardo l'universo non sono sicuro.	universet	0	0
+Søen er meget dyb.	Il lago è molto profondo.	dyb	0	0
+Søen er meget dyb.	Il lago è molto profondo.	søen	0	0
+Jeg kan nemt overbevise dig om hans uskyld.	Posso convincerti facilmente della sua innocenza.	overbevise	0	0
+Er der andre der er blevet skadet?	Si è ferita altra gente?	skadet	0	0
+Fyrre personer var til stede.	Quaranta persone erano presenti.	stede	0	0
+Han undslap med nød og næppe, da han gled på trappen.	L'ha scampata per un pelo quando è scivolato per le scale.	trappen	0	0
+Rusland invaderede Ukraine.	La Russia invase l'Ucraina.	rusland	0	0
+Er alle døre låst?	Tutte le porte sono chiuse a chiave?	døre	0	0
+Tom synger sommetider på fransk.	Tom a volte canta in francese.	sommetider	0	0
+Jeg tog en taxa for at nå toget.	Ho preso un taxi per raggiungere il treno.	taxa	0	0
+Jeg tog en taxi for at nå toget.	Ho preso un taxi per raggiungere il treno.	taxi	0	0
+Tom kan ikke finde ud af, hvordan han skal få kassen åbnet.	Tom non riesce a capire come aprire la scatola.	åbnet	0	0
+Disse artikler er ikke til salg.	Questi articoli non sono in vendita.	salg	0	0
+Had mig ikke!	Non odiarmi!	had	0	0
+To ting er uendelige, universet og den menneskelige dumhed, men med hensyn til universet er jeg endnu ikke helt sikker.	Due cose sono infinite: l'universo e la stupidità umana, ma riguardo all'universo non sono ancora completamente sicuro.	menneskelige	0	0
+Hvem har plantet træet?	Chi ha piantato l'albero?	træet	0	0
+Jeg tror at folk har en tendens til at fokusere på de forkerte ting.	Penso che le persone tendano a concentrarsi sulle cose sbagliate.	fokusere	0	0
+"Den gamle mand og havet" er en roman af Hemingway.	"Il vecchio e il mare" è un romanzo di Hemingway.	roman	0	0
+Jeg tilgiver dig.	Ti perdono.	tilgiver	0	0
+Første, anden, tredje, fjerde, femte, sjette, syvende, ottende, niende, tiende ... næstsidste, sidste.	Primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo... penultimo, ultimo.	femte	0	0
+Er I berømte?	Siete famosi?	berømte	0	0
+Han er en kujon.	Lui è un codardo.	kujon	0	0
+Jeg ville have brug for en evighed for at forklare alt.	Mi ci vorrebbe una vita per spiegare tutto.	evighed	0	0
+Hesten var helt mørk.	La casa era nel buio totale.	hesten	0	0
+Klokken er halv tolv.	Sono le undici e mezza.	tolv	0	0
+Stig på bussen!	Sali sul bus!	stig	0	0
+Han taler russisk.	Parla russo.	russisk	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	august	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, hollandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	tysk	0	0
+Penge symboliserer tingenes værdi.	Il denaro rappresenta il valore delle cose possedute.	værdi	0	0
+Denne artikel indeholder nogle helt nye idéer.	Questo articolo contiene alcune idee del tutto nuove.	artikel	0	0
+Stormen blæste tage væk og rykkede mange træer op med rode.	La tempesta ha strappato via i tetti e sradicato molti alberi.	træer	0	0
+Hvor er elevatoren?	Dove si trova l'ascensore?	elevatoren	0	0
+Denne artikel indeholder nogle helt nye idéer.	Questo articolo contiene alcune idee del tutto nuove.	indeholder	0	0
+Lån ikke en lånt bog ud til en anden.	Non dare in prestito ad altri un libro prestato.	lån	0	0
+Mennesket er et pattedyr.	L'uomo è un mammifero.	mennesket	0	0
+Pelikanen har en stor pose under næbet.	Il pellicano ha una grossa borsa sotto il becco.	pose	0	0
+Fra og med 1950 begynder de europæiske lande inden for rammerne af Det Europæiske Kul- og Stålfællesskab at nærme sig hinanden økonomisk og politisk for at sikre varig fred.	Negli anni Cinquanta la Comunità europea del carbone e dell’acciaio comincia ad unire i paesi europei sul piano economico e politico al fine di garantire una pace duratura.	politisk	0	0
+Den engelske sætning er blevet ændret. Derfor vil jeg bede dig om at overveje om den tyske sætning skal ændres.	La frase inglese è stata modificata. Quindi vorrei chiedervi di prendere in considerazione se si vuole adattare la frase tedesca.	tyske	0	0
+Verdens ondskab skal fjernes.	Bisogna estirpare il male del mondo.	ondskab	0	0
+Det blæser ikke så meget i dag.	Oggi non tira molto vento.	blæser	0	0
+Den som kæmper, risikerer at tabe. Den som ikke kæmper, har allerede tabt.	Chi lotta può perdere, chi non lotta ha già perso.	risikerer	0	0
+Jeg taler ikke kinesisk.	Non parlo cinese.	kinesisk	0	0
+Jeg er overbevist om at Maria aldrig vil miste håbet.	Sono convinto che Maria non perderà mai la speranza.	overbevist	0	0
+Jeg har et midlertidigt kørekort.	Ho una patente provvisoria.	kørekort	0	0
+Bagefter er man altid klogere.	Dopo sei sempre più intelligente.	klogere	0	0
+Tillykke med fødselsdagen, Muiriel!	Buon compleanno, Muiriel!	fødselsdagen	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	september	0	0
+Jeg hader at rede sengen.	Io odio rifare il letto.	rede	0	0
+Jeg tror på Solen, selv når den ikke skinner. Jeg tror på kærligheden, selv når jeg ikke føler den. Jeg tror på Gud, selv når Han er tavs.	Io credo nel sole anche quando non splende. Io credo nell'amore anche quando non lo sento. Io credo in Dio anche quando tace.	skinner	0	0
+Astronomi handler om stjerner og planeter.	L'astronomia si occupa delle stelle e dei pianeti.	stjerner	0	0
+Tom er en psykopat.	Tom è uno psicopatico.	psykopat	0	0
+Det var pænt af dig at hjælpe mig med mine lektier.	È stato molto gentile da parte tua aiutarmi con i miei compiti.	lektier	0	0
+Tyskerne har også humor.	Anche i tedeschi hanno il senso dell'umorismo.	tyskerne	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	juli	0	0
+Lær ydmyghed.	Impara l’umiltà.	lær	0	0
+Jeg blev ydmyget offentligt.	Sono stata umiliata in pubblico.	offentligt	0	0
+Denne artikel indeholder nogle helt nye idéer.	Questo articolo contiene alcune idee del tutto nuove.	idéer	0	0
+Isen smeltede.	Il ghiaccio si è sciolto.	isen	0	0
+Tom ønskede ikke at Maria skulle se ham i håndjern.	Tom non voleva che Mary lo vedesse in manette.	håndjern	0	0
+Der blæste en kold vind.	Soffiava un vento freddo.	vind	0	0
+Min brors guitar er ny.	La chitarra di mio fratello è nuova.	brors	0	0
+Tom er Marys eks.	Tom è l'ex di Mary.	eks	0	0
+Tom og Mary bor på en gård og har 16 børn.	Tom e Mary vivono in una fattoria e hanno 16 figli.	gård	0	0
+Hesten var helt mørk.	La casa era nel buio totale.	mørk	0	0
+Biblioteket har en særlig afdeling for blinde.	La biblioteca della città ha una sezione speciale per non vedenti.	biblioteket	0	0
+Vand består af ilt og brint.	L'acqua si compone di ossigeno e di idrogeno.	består	0	0
+Keder jeg dig?	Ti sto annoiando?	keder	0	0
+Kina er større end Japan.	La Cina è più grande del Giappone.	japan	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, nederlandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	dansk	0	0
+Det er ikke hvad jeg bestilte.	Non è quello che ho ordinato.	bestilte	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	juni	0	0
+Min far er jøde og min mor er araber.	Mio padre è ebreo e mia madre è araba.	jøde	0	0
+Frisk frugt er godt for helbredet.	La frutta fresca fa bene alla salute.	frugt	0	0
+En kop kaffe koster én krone.	Una tazza di caffè costa una corona.	krone	0	0
+Katten er sort.	Il gatto è nero.	katten	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, nederlandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	spansk	0	0
+Kvinden kaldes Sue.	La donna si chiamava Sue.	sue	0	0
+Skibet ligger i havnen.	La barca è al porto.	havnen	0	0
+Tidligere var vores by en landsby.	Prima la nostra città era un villaggio.	landsby	0	0
+Biblioteket har en særlig afdeling for blinde.	La biblioteca della città ha una sezione speciale per non vedenti.	blinde	0	0
+Canada er ikke et paradis.	Il Canada non è un paradiso.	canada	0	0
+Er det en udfordring?	È una sfida?	udfordring	0	0
+Esperanto er en enorm udvidelse af min horisont.	L'esperanto è una enorme espansione del mio orizzonte.	enorm	0	0
+Tom hviler sig.	Tom si sta riposando.	hviler	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	maj	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	oktober	0	0
+Jeg vasker mig.	Mi lavo.	vasker	0	0
+Hunde hader katte.	I cani odiano i gatti.	katte	0	0
+Denne blomst dufter godt.	Questo fiore ha un buon profumo.	dufter	0	0
+Hun skreg af skræk.	Lei urlò dal terrore.	skreg	0	0
+Jeg tror hun er syg. Hun har feber.	Penso che sia malata. Ha la febbre.	feber	0	0
+Han er en ulv i fåreklæder.	È un lupo vestito da agnello.	ulv	0	0
+Min kat er faktisk sky.	Il fatto è che la mia gatta è timida.	sky	0	0
+Hun er bevidstløs.	Lei è incosciente.	bevidstløs	0	0
+Observationen af tyngdebølger vil starte en ny fase i studiet af universet.	Osservare le onde gravitazionali aprirà una nuova fase nello studio del cosmo.	fase	0	0
+Det er tosset at spadsere i det vejr.	È da stupidi andare a passeggio con questo tempo.	vejr	0	0
+Hvorfor har jeg brug for et alibi?	Perché mi serve un alibi?	alibi	0	0
+Jeg har rådet hende til at tage morgentoget.	Le ho consigliato di prendere il treno della mattina.	rådet	0	0
+Stormen blæste tage væk og rykkede mange træer op med rod.	La tempesta ha strappato via i tetti e sradicato molti alberi.	stormen	0	0
+Fremtiden vil ikke blive opbygget med magt eller ønsket om at erobre, men med tålmodig anvendelse af demokratiske metoder, konstruktiv samarbejdsånd og respekt for friheden.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	metoder	0	0
+At læse er en af livets store glæder.	Leggere è uno dei più grandi piaceri della vita.	livets	0	0
+Er I trætte?	Siete stanchi?	trætte	0	0
+Denne lille historie er for simpel til at forklare alt.	Questa storiella è troppo semplice per spiegare tutto.	simpel	0	0
+Tyskerne har også humor.	Anche i tedeschi hanno il senso dell'umorismo.	humor	0	0
+Canada er ikke et paradis.	Il Canada non è un paradiso.	paradis	0	0
+Jeg bebrejder ham ikke.	Non lo incolpo.	bebrejder	0	0
+Jeg er ikke døv.	Non sono sordo.	døv	0	0
+Schweiz er beliggende mellem Frankrig, Italien, Østrig og Tyskland.	La Svizzera si trova tra Francia, Italia, Austria e Germania.	italien	0	0
+Det tog mig noget tid at overtale hende.	Ho avuto bisogno di un po' di tempo per convincerla.	overtale	0	0
+Hvor meget vejer du?	Quanto pesi?	vejer	0	0
+Jeg skammer mig over at være russer.	Mi vergogno di essere russo.	skammer	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	november	0	0
+Kooperativ læring er læring i små grupper hvor interaktioner er struktureret efter nøje gennemtænkte retningslinjer.	L'apprendimento cooperativo è un apprendimento in piccoli gruppi, in cui le interazioni sono strutturate secondo direttive accuratamente ponderate.	nøje	0	0
+Vand består af ilt og brint.	L'acqua è composta di ossigeno e idrogeno.	ilt	0	0
+Jeg har et midlertidigt kørekort.	Ho una patente provvisoria.	midlertidigt	0	0
+Hvordan spreder denne sygdom sig?	Come si diffonde questa malattia?	spreder	0	0
+På trods af al sin rigdom og berømmelse, er han ulykkelig.	Nonostante tutta la sua ricchezza e fama, non è felice.	ulykkelig	0	0
+Jeg traf ham i forgårs.	L'ho incontrato l'altro ieri.	traf	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	årets	0	0
+Jeg var ude at fiske i mandags.	Sono andata a pescare lunedì scorso.	fiske	0	0
+Vinteren nærmer sig.	Sta arrivando l'inverno.	vinteren	0	0
+Jeg gik ud på trods af regnen.	Sono uscito malgrado la pioggia.	regnen	0	0
+Der er intet tegn på liv på Mars.	Non c'è nessun segno di vita su Marte.	mars	0	0
+Mødet blev aflyst.	La riunione fu annullata.	aflyst	0	0
+Thomas Edison opfandt glødepæren.	Thomas Edison inventò la lampadina.	opfandt	0	0
+Hold op med at besvare mine spørgsmål med et spørgsmål!	Smetti di rispondere alle mie domande con una domanda.	besvare	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	marts	0	0
+Første, anden, tredje, fjerde, femte, sjette, syvende, ottende, niende, tiende ... næstsidste, sidste.	Primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo... penultimo, ultimo.	sjette	0	0
+Han har for vane at spytte på jorden.	Ha l'abitudine di sputare per terra.	vane	0	0
+Jeg ønskede at hyre en bus.	Volevo noleggiare un autobus.	hyre	0	0
+Hun svømmer.	Lei nuota.	svømmer	0	0
+Tom er egoistisk.	Tom è egoista.	egoistisk	0	0
+Picasso malede dette maleri i 1950.	Picasso ha dipinto questo quadro nel 1950.	maleri	0	0
+Fuji-bjerget er Japans højeste bjerg.	Il monte Fuji è la più alta montagna del Giappone.	bjerg	0	0
+Billedet minder mig om min barndom.	La foto mi riporta ai giorni della mia infanzia.	barndom	0	0
+Katte har ikke ejere; de har personale.	I gatti non hanno proprietari, hanno personale.	personale	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, hollandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	italiensk	0	0
+Han vil blive en god ægtemand.	Lui sarà un bravo marito.	ægtemand	0	0
+Byen blev forsvaret af en stor hær.	La città è stata difesa da un grande esercito.	forsvaret	0	0
+Tom udviklede sin egen strategi for at forføre en kvinde.	Tom ha sviluppato la sua strategia per sedurre una donna.	strategi	0	0
+Dette er et varsel som vi må tage alvorligt.	Questo è un avvertimento che dobbiamo prendere sul serio.	varsel	0	0
+Jeg bor i det nordlige Sverige.	Vivo nella Svezia settentrionale.	sverige	0	0
+Fremtiden vil ikke blive opbygget med magt eller ønsket om at erobre, men med tålmodig anvendelse af demokratiske metoder, konstruktiv samarbejdsånd og respekt for friheden.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	tålmodig	0	0
+Han havde netop underskrevet en ny kontrakt.	Aveva appena firmato un nuovo contratto.	underskrevet	0	0
+Tågen er lettet.	La nebbia si è sollevata.	lettet	0	0
+Gav du drikkepenge?	Hai lasciato la mancia?	drikkepenge	0	0
+Min brors guitar er ny.	La chitarra di mio fratello è nuova.	guitar	0	0
+Åbn ikke de vinduer.	Non apra quelle finestre.	vinduer	0	0
+Jeg bor i øjeblikket i Australien.	Attualmente vivo in Australia.	australien	0	0
+Den eneste forskel mellem mig og en tosse er at jeg ikke er tosset.	L'unica differenza tra me e un pazzo è che io non sono pazzo.	tosse	0	0
+Jeg hader det engelske sprog og alt, hvad der har med det at gøre.	Odio l'inglese e tutto quello che lo circonda.	engelske	0	0
+Jeg hader overraskelser.	Io odio le sorprese.	overraskelser	0	0
+Vi hørte at vejret var dårligt, så vi besluttede os for at aflyse turen.	Abbiamo sentito che il tempo era brutto, quindi abbiamo deciso di annullare il viaggio.	aflyse	0	0
+Hvorfor ler du?	Perché stai ridendo?	ler	0	0
+Vær så venlig at slette denne fil!	Per favore, cancellate questo file.	slette	0	0
+Løverne er i buret.	I leoni sono nella gabbia.	buret	0	0
+Den Europæiske Union blev skabt med det formål at gøre en ende på de mange blodige nabokrige, der kulminerede med den anden verdenskrig.	L’Unione europea viene posta in essere allo scopo di mettere fine alle guerre frequenti e sanguinose tra paesi vicini, culminate nella seconda guerra mondiale.	verdenskrig	0	0
+Denne blomst dufter dejligt.	Questo fiore ha un buon profumo.	blomst	0	0
+Kooperativ læring er læring i små grupper hvor interaktioner er struktureret efter nøje gennemtænkte retningslinjer.	L'apprendimento cooperativo è un apprendimento in piccoli gruppi, in cui le interazioni sono strutturate secondo direttive accuratamente ponderate.	grupper	0	0
+Observationen af tyngdebølger vil starte en ny fase i studiet af universet.	Osservare le onde gravitazionali aprirà una nuova fase nello studio del cosmo.	studiet	0	0
+Lyn er et elektrisk fænomen.	Il fulmine è un fenomeno elettrico.	lyn	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	december	0	0
+Vær så venlig at slette denne fil!	Per piacere, cancella questo file.	fil	0	0
+Du er en plage.	Tu sei una minaccia.	plage	0	0
+Jeg bor i det nordlige Sverige.	Vivo nella Svezia settentrionale.	nordlige	0	0
+Han er skyldig i tyveri.	È colpevole di furto.	tyveri	0	0
+Fra og med 1950 begynder de europæiske lande inden for rammerne af Det Europæiske Kul- og Stålfællesskab at nærme sig hinanden økonomisk og politisk for at sikre varig fred.	Negli anni Cinquanta la Comunità europea del carbone e dell’acciaio comincia ad unire i paesi europei sul piano economico e politico al fine di garantire una pace duratura.	økonomisk	0	0
+Første, anden, tredje, fjerde, femte, sjette, syvende, ottende, niende, tiende ... næstsidste, sidste.	Primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo... penultimo, ultimo.	syvende	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	januar	0	0
+Hemmeligheden bag god prosa ligger i sprogets rytme.	Il segreto di una buona prosa sta nel ritmo del linguaggio.	hemmeligheden	0	0
+Jeg tilbragte tolv timer i toget.	Sono stato nel treno per dodici ore.	tilbragte	0	0
+Gør dig ingen bekymringer.	Non si preoccupi.	bekymringer	0	0
+Man betaler renter på penge som man låner.	Si pagano gli interessi sul denaro che si prende in prestito.	låner	0	0
+Det er en kompliment.	È un complimento.	kompliment	0	0
+Guld er mere værdifuld end jern.	L'oro è più prezioso del ferro.	jern	0	0
+Det forenede folk vil aldrig blive besejret.	Il popolo unito non sarà mai sconfitto.	forenede	0	0
+Han undslap med nød og næppe, da han gled på trappen.	L'ha scampata per un pelo quando è scivolato per le scale.	gled	0	0
+Det er min hensigt.	È la mia intenzione.	hensigt	0	0
+Er det en flod?	È un fiume?	flod	0	0
+"Kan du godt lide slanger?" "Selvfølgelig ikke."	"Ti piacciono i serpenti?" "Ovviamente no."	slanger	0	0
+Jeg spiste en burger og gik derefter i seng.	Ho mangiato un hamburger e poi sono andato a letto.	burger	0	0
+Stormen blæste tage væk og rykkede mange træer op med rode.	La tempesta ha strappato via i tetti e sradicato molti alberi.	rode	0	0
+Tom har færre penge end sin bror.	Tom ha meno soldi di suo fratello.	færre	0	0
+En kop kaffe koster 1 kr.	Una tazza di caffè costa una corona.	kr	0	0
+Jeg har tre stykker bagage.	Ho tre bagagli.	bagage	0	0
+Jeg ville ikke satse på det.	Non ci scommetterei.	satse	0	0
+Hvad kan vi byde gæsterne?	Cosa possiamo offrire agli ospiti?	gæsterne	0	0
+Stikker disse insekter?	Questi insetti pungono?	insekter	0	0
+Har I japansk øl?	Avete della birra giapponese?	japansk	0	0
+Tom lo af Mary.	Tom ha riso di Mary.	lo	0	0
+Klokken er halv elleve.	Sono le dieci e mezza.	elleve	0	0
+Jeg er nødt til at tage til Danmark i morgen.	Devo andare in Danimarca domani.	danmark	0	0
+Han fik det pludseligt dårligt.	All'improvviso si ammalò.	pludseligt	0	0
+Han studerer fransk og webdesign.	Studia francese e web design.	studerer	0	0
+Han tjener til livets ophold ved at skrive.	Lui si guadagna da vivere scrivendo.	ophold	0	0
+Ulve angriber normalt ikke mennesker.	I lupi di solito non attaccano gli esseri umani.	ulve	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, nederlandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	officielle	0	0
+Kartofler vokser godt i dette land.	Le patate crescono bene in questo paese.	kartofler	0	0
+Guld er mere værdifuld end jern.	L'oro è più prezioso del ferro.	værdifuld	0	0
+Hun afviste mit forslag.	Ha rifiutato la mia proposta.	afviste	0	0
+Tegnet viser at svaret er rigtigt.	Il segno significa che la risposta è corretta.	tegnet	0	0
+Det er sengetid.	È ora di andare a letto.	sengetid	0	0
+Lyn er et elektrisk fænomen.	Il fulmine è un fenomeno elettrico.	elektrisk	0	0
+Ved du hvem der har opfundet mikroskopet?	Sai chi ha inventato il microscopio?	opfundet	0	0
+Tom tændte en tændstik.	Tom accese un fiammifero.	tændte	0	0
+Han gravede et hul i sandet.	Ha scavato un buco nella sabbia.	gravede	0	0
+Min bror har fundet løsningen.	Mio fratello ha trovato la soluzione.	løsningen	0	0
+De blev taget på fersk gerning.	Furono presi in flagrante.	gerning	0	0
+Al vinen er blevet drukket.	Tutto il vino è stato bevuto.	vinen	0	0
+Den engelske sætning er blevet ændret. Derfor vil jeg bede dig om at overveje om den tyske sætning skal ændres.	La frase inglese è stata modificata. Quindi vorrei chiedervi di prendere in considerazione se si vuole adattare la frase tedesca.	ændres	0	0
+Vi må tænke på vores børn og børnebørn.	Noi dobbiamo pensare ai nostri figli e ai nostri nipoti.	børnebørn	0	0
+Jeg gik til fods i skole.	Sono andata a scuola a piedi.	fods	0	0
+Universet er et mysterium.	L'Universo è un mistero.	mysterium	0	0
+Gud er en cirkel, hvis omkreds er en lige linje.	Dio è un cerchio la cui circonferenza è una linea retta.	cirkel	0	0
+Jeg kan ikke se gennem vægge.	Io non posso vedere attraverso i muri.	vægge	0	0
+Fuglen er i sin rede.	L'uccello è nel suo nido.	fuglen	0	0
+Schweiz ligger mellem Frankrig, Italien, Østrig og Tyskland.	La Svizzera si trova tra Francia, Italia, Austria e Germania.	schweiz	0	0
+Januar, februar, marts, april, maj, juni, juli, august, september, oktober, november og december er årets tolv måneder.	Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre sono i dodici mesi dell'anno.	februar	0	0
+Hvor højt er det tårn?	Quanto è alta quella torre?	tårn	0	0
+Jeg drejede til højre.	Ho voltato a destra.	drejede	0	0
+Hun har ikke nogen søskende.	Lei non ha fratelli e sorelle.	søskende	0	0
+Jeg lever mellem to verdener.	Vivo tra due mondi.	verdener	0	0
+Hans forældre var lærere.	I suoi genitori erano insegnanti.	lærere	0	0
+Er du for eller imod abort?	Sei pro o contro l'aborto?	abort	0	0
+København er en cykelvenlig by.	Copenhagen è una città amica delle biciclette.	københavn	0	0
+Fra tid til anden er det nødvendigt at reflektere over sit fremtidige liv.	Di tanto in tanto, è necessario meditare sulla propria vita futura.	fremtidige	0	0
+Gud er en elefant.	Dio è un elefante.	elefant	0	0
+Det var aldrig vanskeligt for os at finde noget at snakke om.	Per noi non c'è mai stato difficile da trovare qualcosa di cui parlare.	vanskeligt	0	0
+Hører du fuglene synge?	Senti gli uccelli cantare?	fuglene	0	0
+På trods af al sin rigdom og berømmelse, er han ulykkelig.	Nonostante tutta la sua ricchezza e fama, non è felice.	rigdom	0	0
+Tom udviklede sin egen strategi for at forføre en kvinde.	Tom ha sviluppato la sua strategia per sedurre una donna.	udviklede	0	0
+Latin er fremtidens sprog!	Il latino è la lingua del futuro!	latin	0	0
+Er slangen levende eller død?	Il serpente è vivo o morto?	slangen	0	0
+Picasso malede dette maleri i 1950.	Picasso ha dipinto questo quadro nel 1950.	malede	0	0
+Disse sommerfugle er sjældne i vores land.	Queste farfalle sono rare nel nostro paese.	sjældne	0	0
+Hvornår har du sidst lånt bøger på biblioteket?	Quand'è stata l'ultima volta che hai preso in prestito dei libri dalla biblioteca?	lånt	0	0
+Oversæt ikke denne sætning!	Non traduca questa frase!	sætning	0	0
+Jeg forklarede ham det.	Gliel'ho spiegato.	forklarede	0	0
+Jeg drikker kaffe på en café.	Sto bevendo caffè in un bar.	café	0	0
+Vaccinen er særdeles effektiv.	Il vaccino è estremamente efficace.	effektiv	0	0
+Han gravede et hul i sandet.	Scavò un buco nella sabbia.	sandet	0	0
+Jeg glæder mig naturligvis, men glem nu ikke at du gør alt det her først og fremmest for dig selv.	Naturalmente sono contento, ma per favore, non dimentichi che sta facendo tutto questo principalmente per se stesso.	fremmest	0	0
+Jeg har ingen appetit.	Non ho appetito.	appetit	0	0
+Det er klart at han stjal penge fra pengeskabet.	È chiaro che ha rubato i soldi dalla cassaforte.	pengeskabet	0	0
+Vand er en væske.	L'acqua è un liquido.	væske	0	0
+Fremtiden vil ikke blive opbygget med magt eller ønsket om at erobre, men med tålmodig anvendelse af demokratiske metoder, konstruktiv samarbejdsånd og respekt for friheden.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	friheden	0	0
+Jeg tror på Solen, selv når den ikke skinner. Jeg tror på kærligheden, selv når jeg ikke føler den. Jeg tror på Gud, selv når Han er tavs.	Io credo nel sole anche quando non splende. Io credo nell'amore anche quando non lo sento. Io credo in Dio anche quando tace.	tavs	0	0
+Han undslap med nød og næppe, da han gled på trappen.	L'ha scampata per un pelo quando è scivolato per le scale.	undslap	0	0
+Opfandt indianerne cigarerne?	Gli indiani hanno inventato i sigari?	indianerne	0	0
+Klokken er kvart i tre.	Sono le tre meno un quarto.	kvart	0	0
+Floden løber gennem dalen.	Il fiume scorre attraverso la valle.	dalen	0	0
+Den Europæiske Union blev skabt med det formål at gøre en ende på de mange blodige nabokrige, der kulminerede med den anden verdenskrig.	L’Unione europea viene posta in essere allo scopo di mettere fine alle guerre frequenti e sanguinose tra paesi vicini, culminate nella seconda guerra mondiale.	union	0	0
+Hvorfor er egern så søde?	Perché gli scoiattoli sono così carini?	egern	0	0
+I San Marino smagte pizzaerne faktisk bedre end dem jeg spiste i Rom.	Le pizze a San Marino erano effettivamente più buone di quelle che ho mangiato a Roma.	smagte	0	0
+Jeg kan nemt overbevise dig om hans uskyld.	Posso convincerti facilmente della sua innocenza.	uskyld	0	0
+Vi sulter.	Noi stiamo morendo di fame.	sulter	0	0
+Han skræller sit æble.	Lui pela la sua mela.	æble	0	0
+Alle var tilfredse.	Tutti erano soddisfatti.	tilfredse	0	0
+Jeg ville hellere sulte ihjel end stjæle.	Preferirei morire di fame piuttosto che rubare.	sulte	0	0
+Det forenede folk vil aldrig blive besejret.	Il popolo unito non sarà mai sconfitto.	besejret	0	0
+Hvem ledsager mig?	Chi mi accompagnerà?	ledsager	0	0
+Jeg er fra Tokyo.	Sono di Tokyo.	tokyo	0	0
+Vi lejede lejligheden.	Abbiamo preso in affitto l'appartamento.	lejede	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, nederlandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	græsk	0	0
+Tom er aggressiv.	Tom è aggressivo.	aggressiv	0	0
+Lufthavnen var lukket på grund af tågen.	L'aeroporto era chiuso per via della nebbia.	tågen	0	0
+Egypten er en gave fra Nilen.	L'Egitto è un dono del Nilo.	egypten	0	0
+Har du betalt huslejen?	Hai pagato l'affitto?	huslejen	0	0
+Jeg er et menneske; intet menneskeligt er mig fremmed.	Sono un uomo: niente che sia umano reputo a me estraneo.	menneskeligt	0	0
+Vi er alle overbeviste om hans uskyld.	Siamo tutti convinti della sua innocenza.	overbeviste	0	0
+Fisken lugter dårligt.	Il pesce ha un cattivo odore.	fisken	0	0
+Svensk er let.	Lo svedese è facile.	svensk	0	0
+Spis flere grøntsager.	Mangia più verdura.	grøntsager	0	0
+I går spillede de ikke tennis.	Non hanno giocato a tennis ieri.	tennis	0	0
+Vi har flere æbler end hvad vi kunne spise på en dag.	Abbiamo più mele di quelle che potremmo mangiare in un giorno.	æbler	0	0
+Vi havde en behagelig aften.	Abbiamo trascorso una serata piacevole.	behagelig	0	0
+Koalaer er ikke bjørne.	I koala non sono orsi.	bjørne	0	0
+Hun skreg af skræk.	Lei urlò dal terrore.	skræk	0	0
+Jeg er kineser.	Io sono cinese.	kineser	0	0
+Astronomi handler om stjerner og planeter.	L'astronomia si occupa delle stelle e dei pianeti.	planeter	0	0
+Partiet har altid ret.	Il partito ha sempre ragione.	partiet	0	0
+Stormen blæste tage væk og rykkede mange træer op med rode.	La tempesta ha strappato via i tetti e sradicato molti alberi.	blæste	0	0
+Den meget trætte gamle kone havde poser under øjnene.	La vecchia signora stanca aveva le borse sotto gli occhi.	poser	0	0
+Verdens ondskab skal fjernes.	Bisogna estirpare il male del mondo.	fjernes	0	0
+Fra og med 1950 begynder de europæiske lande inden for rammerne af Det Europæiske Kul- og Stålfællesskab at nærme sig hinanden økonomisk og politisk for at sikre varig fred.	Negli anni Cinquanta la Comunità europea del carbone e dell’acciaio comincia ad unire i paesi europei sul piano economico e politico al fine di garantire una pace duratura.	nærme	0	0
+Denne roman var et af hendes sidste værker.	Questo romanzo fu una delle sue ultime opere.	værker	0	0
+Jeg regner med at skippe frokosten.	Io ho intenzione di saltare il pranzo.	frokosten	0	0
+Han var kortere end mig.	Lui era più basso di me.	kortere	0	0
+Første, anden, tredje, fjerde, femte, sjette, syvende, ottende, niende, tiende ... næstsidste, sidste.	Primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo... penultimo, ultimo.	ottende	0	0
+Det er en sammensværgelse.	È un complotto.	sammensværgelse	0	0
+Han skød genvej.	Lui prese una scorciatoia.	genvej	0	0
+Den Europæiske Union blev skabt med det formål at gøre en ende på de mange blodige nabokrige, der kulminerede med den anden verdenskrig.	L’Unione europea viene posta in essere allo scopo di mettere fine alle guerre frequenti e sanguinose tra paesi vicini, culminate nella seconda guerra mondiale.	blodige	0	0
+Jeg skammer mig over at være russer.	Mi vergogno di essere russo.	russer	0	0
+Om efteråret flyver trækfuglene sydover.	In autunno gli uccelli migratori volano a sud.	efteråret	0	0
+To ting er uendelige, universet og den menneskelige dumhed, men med hensyn til universet er jeg ikke sikker.	Due cose sono infinite: l'universo e la stupidità umana, ma riguardo l'universo non sono sicuro.	uendelige	0	0
+Jeg har intet at prale af.	Non ho niente di cui vantarmi.	prale	0	0
+Har filmen undertekster?	Il film ha i sottotitoli ?	undertekster	0	0
+Fremtiden vil ikke blive opbygget med magt eller ønsket om at erobre, men med tålmodig anvendelse af demokratiske metoder, konstruktiv samarbejdsånd og respekt for friheden.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	erobre	0	0
+Jeg blev ydmyget offentligt.	Sono stata umiliata in pubblico.	ydmyget	0	0
+Jeg er dødtræt.	Sono stanco morto.	dødtræt	0	0
+Disse artikler er ikke til salg.	Questi articoli non sono in vendita.	artikler	0	0
+Tom elsker spaghetti.	Tom ama gli spaghetti.	spaghetti	0	0
+Hvis du ikke eksisterede, måtte jeg opfinde dig.	Se non ci fossi tu dovrei inventarti.	eksisterede	0	0
+Første, anden, tredje, fjerde, femte, sjette, syvende, ottende, niende, tiende ... næstsidste, sidste.	Primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo... penultimo, ultimo.	niende	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, nederlandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	irsk	0	0
+Kom æggene i det kogende vand.	Mettete le uova nell'acqua che bolle.	æggene	0	0
+Røgen er et tegn på at et eller andet sted nær ved os er der ild.	Il fumo è un segno che c'è del fuoco da qualche parte nelle vicinanze.	røgen	0	0
+Du er en sanger.	Tu sei un cantante.	sanger	0	0
+Her er alt gennemsyret af historiens ånd.	Qui tutto è permeato dello spirito della storia.	historiens	0	0
+Jeg vil gerne have dig til at oversætte denne rapport til fransk.	Vorrei che traducessi questo rapporto in francese.	oversætte	0	0
+Han plejer at spytte på jorden.	Ha l'abitudine di sputare per terra.	spytte	0	0
+Ikke alle hunde er intelligente.	Non tutti i cani sono intelligenti.	intelligente	0	0
+Alle pattedyr producerer mælk.	Tutti i mammiferi producono latte.	producerer	0	0
+Tom cykler til skole.	Tom va a scuola in bicicletta.	cykler	0	0
+På trods af al sin rigdom og berømmelse, er han ulykkelig.	Nonostante tutta la sua ricchezza e fama, non è felice.	berømmelse	0	0
+Jeg har plantet et æbletræ i min have.	Ho piantato un melo nel mio giardino.	plantet	0	0
+Tom er den perfekte syndebuk.	Tom è il perfetto capro espiatorio.	syndebuk	0	0
+Hemmeligheden bag god prosa ligger i sprogets rytme.	Il segreto di una buona prosa sta nel ritmo del linguaggio.	rytme	0	0
+Det er at kaste perler for svin.	È come gettare perle ai porci.	perler	0	0
+Tom har sine egne strategier til at forføre en kvinde.	Tom ha le sue strategie per sedurre una donna.	forføre	0	0
+Jeg arbejder endda om søndagen.	Io lavoro pure di domenica.	søndagen	0	0
+Isen er smeltet.	Il ghiaccio si è sciolto.	smeltet	0	0
+Første, anden, tredje, fjerde, femte, sjette, syvende, ottende, niende, tiende ... næstsidste, sidste.	Primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo... penultimo, ultimo.	tiende	0	0
+Jeg tror at folk har en tendens til at fokusere på de forkerte ting.	Penso che le persone tendano a concentrarsi sulle cose sbagliate.	tendens	0	0
+Der var engang en kone, som så gerne ville have sig et lille bitte barn, men hun vidste slet ikke, hvor hun skulle få et fra.	C'era una volta una donna che desiderava molto avere una bambina, ma non sapeva come ottenerla.	bitte	0	0
+Premierministeren vil holde en pressekonference i morgen.	Il Primo Ministro terrà domani una conferenza stampa.	pressekonference	0	0
+Jeg ved at nogle personer påskønner mit arbejde.	So che alcune persone apprezzano il mio lavoro.	påskønner	0	0
+Milano er hovedstaden i Lombardiet.	Milano è il capoluogo della Lombardia.	hovedstaden	0	0
+Emily er ikke bange for edderkopper.	Emily non ha paura dei ragni.	edderkopper	0	0
+Katte har ikke ejere; de har personale.	I gatti non hanno proprietari, hanno personale.	ejere	0	0
+Jeg er lutter øren.	Sono tutta orecchie.	lutter	0	0
+Premierministeren vil holde en pressekonference i morgen.	Il Primo Ministro terrà domani una conferenza stampa.	premierministeren	0	0
+Jeg er et meget stabilt geni.	Sono un genio molto stabile.	stabilt	0	0
+Rødvin, tak.	Vino rosso, per piacere.	rødvin	0	0
+Hun forblev ugift hele livet.	È rimasta nubile per tutta la sua vita.	forblev	0	0
+To ting er uendelige, universet og den menneskelige dumhed, men med hensyn til universet er jeg endnu ikke helt sikker.	Due cose sono infinite: l'universo e la stupidità umana, ma riguardo all'universo non sono ancora completamente sicuro.	dumhed	0	0
+Maja Keuc er en slovensk sangerinde.	Maja Keuc è una cantante slovena.	maja	0	0
+Jeg traf ham i forgårs.	L'ho incontrato l'altro ieri.	forgårs	0	0
+Latin er fremtidens sprog!	Il latino è la lingua del futuro!	fremtidens	0	0
+Sikken en kæmpestor hund!	Che cane enorme!	kæmpestor	0	0
+Fyrre personer var til stede.	Erano presenti quaranta persone.	fyrre	0	0
+Man betaler renter på penge som man låner.	Si pagano gli interessi sui soldi che si prendono in prestito.	renter	0	0
+Milano er hovedstaden i Lombardiet.	Milano è il capoluogo della Lombardia.	milano	0	0
+Elefanter drikker meget vand.	Gli elefanti bevono molta acqua.	elefanter	0	0
+Disse sommerfugle er sjældne i vores land.	Queste farfalle sono rare nel nostro paese.	sommerfugle	0	0
+Jeg er en turist.	Sono un turista.	turist	0	0
+Schweiz ligger mellem Frankrig, Italien, Østrig og Tyskland.	La Svizzera si trova tra Francia, Italia, Austria e Germania.	østrig	0	0
+Valgresultatet vil blive offentliggjort i morgen.	Il risultato delle elezioni sarà comunicato domani.	offentliggjort	0	0
+Vær venlig at sende det til mig per fax.	Per favore, mandatemela via fax.	fax	0	0
+Fremtiden vil ikke blive opbygget med magt eller ønsket om at erobre, men med tålmodig anvendelse af demokratiske metoder, konstruktiv samarbejdsånd og respekt for friheden.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	opbygget	0	0
+De blev taget på fersk gerning.	Furono presi in flagrante.	fersk	0	0
+Fra og med 1950 begynder de europæiske lande inden for rammerne af Det Europæiske Kul- og Stålfællesskab at nærme sig hinanden økonomisk og politisk for at sikre varig fred.	Negli anni Cinquanta la Comunità europea del carbone e dell’acciaio comincia ad unire i paesi europei sul piano economico e politico al fine di garantire una pace duratura.	europæiske	0	0
+I Paris sner det.	Nevica a Parigi.	sner	0	0
+Jeg har hørt den sang sunget på fransk.	Ho sentito quella canzone cantata in francese.	sunget	0	0
+Lyn er et elektrisk fænomen.	Il fulmine è un fenomeno elettrico.	fænomen	0	0
+Vi erklærede krig.	Dichiarammo guerra.	erklærede	0	0
+Vaccinen er særdeles effektiv.	Il vaccino è estremamente efficace.	særdeles	0	0
+Æblet er ikke helt modent endnu.	La mela non è ancora del tutto matura.	æblet	0	0
+Jeg kan ikke forestille mig at et europæisk selskab ville få lov til at ødelægge en hel canadiske by, med alle dens huse, kirker og kirkegårde.	Non posso credere che a un'impresa europea sarebbe consentito demolire un'intera città canadese, con tutte le sue case, le chiese e i cimiteri.	canadiske	0	0
+Hvis du ikke eksisterede, måtte jeg opfinde dig.	Se non ci fossi tu dovrei inventarti.	opfinde	0	0
+Det sneede uafbrudt i mange dage.	Nevicò senza posa per molti giorni.	uafbrudt	0	0
+Vaccinen er særdeles effektiv.	Il vaccino è estremamente efficace.	vaccinen	0	0
+Gud er en cirkel, hvis omkreds er en lige linje.	Dio è un cerchio la cui circonferenza è una linea retta.	omkreds	0	0
+Hun forblev ugift hele livet.	È rimasta nubile per tutta la sua vita.	ugift	0	0
+Toms hund skulle luftes.	Il cane di Tom aveva bisogno di andare fuori.	toms	0	0
+Stormen blæste tage væk og rykkede mange træer op med rod.	La tempesta ha strappato via i tetti e sradicato molti alberi.	rykkede	0	0
+Jeg kan skrive 50 ord i minuttet.	Sono capace di digitare 50 parole in un minuto.	minuttet	0	0
+Tom tændte en tændstik.	Tom accese un fiammifero.	tændstik	0	0
+Jeg kan ikke forestille mig at et europæisk selskab ville få lov til at ødelægge en hel canadiske by, med alle dens huse, kirker og kirkegårde.	Non posso credere che a un'impresa europea sarebbe consentito demolire un'intera città canadese, con tutte le sue case, le chiese e i cimiteri.	kirker	0	0
+Tom er Marys onkel.	Tom è lo zio di Mary.	marys	0	0
+Penge symboliserer tingenes værdi.	Il denaro rappresenta il valore delle cose possedute.	symboliserer	0	0
+Picasso malede dette maleri i 1950.	Picasso dipinse questo quadro nel 1950.	picasso	0	0
+Isen smeltede.	Il ghiaccio si è sciolto.	smeltede	0	0
+Du er afskyelig!	Tu sei disgustosa!	afskyelig	0	0
+Ukraines hovedstad er Kyiv.	La capitale dell'Ucraina è Kiev.	hovedstad	0	0
+Er den her en hingst eller en hoppe?	Questo è uno stallone o una giumenta?	hingst	0	0
+Thomas Edison opfandt glødepæren.	Thomas Edison inventò la lampadina elettrica.	edison	0	0
+Dette er den dårligste film jeg har set.	Questo è il peggior film che abbia mai visto.	dårligste	0	0
+I øjeblikket skriver du dine sætninger på det forkerte sted. Du skal vælge "Contribute" i toppen af siden og så "Add sentences".	Al momento stai inserendo le tue frasi nel posto sbagliato. Dovresti selezionare "Contribuisci" in cima alla pagina e poi "Aggiungi frasi".	sætninger	0	0
+"Den gamle mand og havet" er en roman af Hemingway.	"Il vecchio e il mare" è un romanzo di Hemingway.	hemingway	0	0
+Messing er en legering af kobber og zink.	L'ottone è una lega di rame e zinco.	kobber	0	0
+De eneste nyttige svar er de, der rejser nye spørgsmål.	Le sole risposte utili sono quelle che propongono nuove domande.	nyttige	0	0
+Manglen på åbenhed er problematisk.	La mancanza di trasparenza è problematica.	manglen	0	0
+Jeg kan ikke forestille mig at et europæisk selskab ville få lov til at ødelægge en hel canadiske by, med alle dens huse, kirker og kirkegårde.	Non posso credere che a un'impresa europea sarebbe consentito demolire un'intera città canadese, con tutte le sue case, le chiese e i cimiteri.	europæisk	0	0
+Alle pattedyr producerer mælk.	Tutti i mammiferi producono latte.	pattedyr	0	0
+Han ombestemte sig.	Ha cambiato idea.	ombestemte	0	0
+Rusland invaderede Ukraine.	La Russia ha invaso l'Ucraina.	ukraine	0	0
+Hids dig ned!	Calmati!	hids	0	0
+Lær ydmyghed.	Impara l’umiltà.	ydmyghed	0	0
+Fremtiden vil ikke blive opbygget med magt eller ønsket om at erobre, men med tålmodig anvendelse af demokratiske metoder, konstruktiv samarbejdsånd og respekt for friheden.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	demokratiske	0	0
+Dette ur er vandtæt.	Questo orologio è impermeabile.	vandtæt	0	0
+Jeg vil give dig nogle eksempler.	Ti farò qualche esempio.	eksempler	0	0
+Manglen på åbenhed er problematisk.	La mancanza di trasparenza è problematica.	problematisk	0	0
+Auckland er en by i New Zealand.	Auckland è una città della Nuova Zelanda.	zealand	0	0
+Æblet er ikke helt modent endnu.	La mela non è ancora del tutto matura.	modent	0	0
+Min far er jøde og min mor er araber.	Mio padre è ebreo e mia madre è araba.	araber	0	0
+Han er min halvbror.	È il mio fratellastro.	halvbror	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, hollandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	polsk	0	0
+Dø ved kølle!	Muori al club!	kølle	0	0
+Lazarus Zamenhof er polsk.	Lazare Zamenhof è polacco.	lazarus	0	0
+Rusland invaderede Ukraine.	La Russia invase l'Ucraina.	invaderede	0	0
+Tillykke med fødselsdagen, Rumænien!	Buon compleanno, Romania!	rumænien	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, hollandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	hollandsk	0	0
+Hun er langtfra ærlig.	È lontana dall'essere onesta.	langtfra	0	0
+Utroligt! Esperanto er på andenpladsen.	Incredibile, l'esperanto ha raggiunto il secondo posto.	andenpladsen	0	0
+Esperanto er en enorm udvidelse af min horisont.	L'esperanto è una enorme espansione del mio orizzonte.	horisont	0	0
+Japanere spiser tre gange om dagen.	I giapponesi mangiano tre volte al giorno.	japanere	0	0
+Jeg var ude at fiske i mandags.	Sono andata a pescare lunedì scorso.	mandags	0	0
+Han beklager sig hele tiden over dette og hint.	Si lamenta sempre di questo e quello.	hint	0	0
+Frisk frugt er godt for helbredet.	La frutta fresca fa bene alla salute.	helbredet	0	0
+Jeg føler en tomhed i mit indre.	Io sento un vuoto dentro di me.	tomhed	0	0
+Kom æggene i det kogende vand.	Mettete le uova nell'acqua che bolle.	kogende	0	0
+I tre er under arrest.	Voi tre siete in arresto.	arrest	0	0
+Vi har brug for værktøjer.	Ci servono degli strumenti.	værktøjer	0	0
+Esperanto er en enorm udvidelse af min horisont.	L'esperanto è una enorme espansione del mio orizzonte.	udvidelse	0	0
+Jeg er veganer.	Sono vegano.	veganer	0	0
+Han har ingen husdyr.	Non ha animali domestici.	husdyr	0	0
+Det schweiziske tastatur har ingen eszett.	La tastiera svizzera non ha la lettera ß.	schweiziske	0	0
+A kommer før B i alfabetet.	L'A viene prima della B nell'alfabeto.	alfabetet	0	0
+Lazarus Zamenhof er polak.	Lazare Zamenhof è polacco.	polak	0	0
+Fremtiden vil ikke blive opbygget med magt eller ønsket om at erobre, men med tålmodig anvendelse af demokratiske metoder, konstruktiv samarbejdsånd og respekt for friheden.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	anvendelse	0	0
+Løverne er i buret.	I leoni sono nella gabbia.	løverne	0	0
+Hvalpen vil sove.	Il cucciolo vuole dormire.	hvalpen	0	0
+EU har 24 officielle sprog.	L'UE ha 24 lingue ufficiali.	eu	0	0
+Det er tosset at spadsere i det vejr.	È da stupidi andare a passeggio con questo tempo.	spadsere	0	0
+Maja Keuc er en slovensk sangerinde.	Maja Keuc è una cantante slovena.	sangerinde	0	0
+Oversæt ikke denne sætning!	Non traducete questa frase!	oversæt	0	0
+Manglen på åbenhed er problematisk.	La mancanza di trasparenza è problematica.	åbenhed	0	0
+Kooperativ læring er læring i små grupper hvor interaktioner er struktureret efter nøje gennemtænkte retningslinjer.	L'apprendimento cooperativo è un apprendimento in piccoli gruppi, in cui le interazioni sono strutturate secondo direttive accuratamente ponderate.	retningslinjer	0	0
+Undgå slang hvis det er muligt.	Non usare slang se possibile.	slang	0	0
+I San Marino smagte pizzaerne faktisk bedre end dem jeg spiste i Rom.	Le pizze a San Marino erano effettivamente più buone di quelle che ho mangiato a Roma.	marino	0	0
+Tom har sine egne strategier for at forføre en kvinde.	Tom ha le sue strategie per sedurre una donna.	strategier	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, nederlandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	portugisisk	0	0
+Sikken stor lastvogn!	Che grosso camion!	lastvogn	0	0
+Mussolini var leder af den fascistiske diktatur.	Mussolini era il capo della dittatura fascista.	mussolini	0	0
+Penge symboliserer tingenes værdi.	Il denaro rappresenta il valore delle cose possedute.	tingenes	0	0
+Mussolini var leder af den fascistiske diktatur.	Mussolini era il capo della dittatura fascista.	diktatur	0	0
+Jeg er lutter øren.	Sono tutta orecchie.	øren	0	0
+1950’erne er præget af en kold krig mellem Øst og Vest.	Gli anni Cinquanta sono caratterizzati da una guerra fredda tra Est ed Ovest.	præget	0	0
+Er du et vidunderbarn?	Sei un bambino prodigio?	vidunderbarn	0	0
+Han er varetægtsfængslet.	È stato messo in custodia prima del processo.	varetægtsfængslet	0	0
+Fuji-bjerget er Japans højeste bjerg.	Il monte Fuji è la più alta montagna del Giappone.	japans	0	0
+Katedralen dominerer bybilledet.	La cattedrale domina l'immagine della città.	dominerer	0	0
+Katedralen dominerer bybilledet.	La cattedrale domina l'immagine della città.	katedralen	0	0
+Det schweiziske tastatur har ingen eszett.	La tastiera svizzera non ha la lettera ß.	tastatur	0	0
+Egypten er en gave fra Nilen.	L'Egitto è un dono del Nilo.	nilen	0	0
+Når katten er ude, danser musene på bordet.	Quando il gatto non c'è i topi ballano.	musene	0	0
+Messing er en legering af kobber og zink.	L'ottone è una lega di rame e zinco.	messing	0	0
+Han skræller sit æble.	Pela la sua mela.	skræller	0	0
+Han er taxachauffør.	Lui è un tassista.	taxachauffør	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, hollandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	ungarsk	0	0
+Længe leve kaosset!	Viva il caos!	kaosset	0	0
+Jeg fór vild.	Mi sono persa.	fór	0	0
+Fra tid til anden er det nødvendigt at reflektere over sit fremtidige liv.	Di tanto in tanto, è necessario meditare sulla propria vita futura.	reflektere	0	0
+Neymar er brasiliansk.	Neymar è brasiliano.	brasiliansk	0	0
+Fra og med 1950 begynder de europæiske lande inden for rammerne af Det Europæiske Kul- og Stålfællesskab at nærme sig hinanden økonomisk og politisk for at sikre varig fred.	Negli anni Cinquanta la Comunità europea del carbone e dell’acciaio comincia ad unire i paesi europei sul piano economico e politico al fine di garantire una pace duratura.	rammerne	0	0
+Fra og med 1950 begynder de europæiske lande inden for rammerne af Det Europæiske Kul- og Stålfællesskab at nærme sig hinanden økonomisk og politisk for at sikre varig fred.	Negli anni Cinquanta la Comunità europea del carbone e dell’acciaio comincia ad unire i paesi europei sul piano economico e politico al fine di garantire una pace duratura.	varig	0	0
+Sortes liv betyder noget.	Le vite nere sono importanti.	sortes	0	0
+Han er finne.	Lui è finlandese.	finne	0	0
+Vand består af ilt og brint.	L'acqua è composta di ossigeno e idrogeno.	brint	0	0
+Velkommen til Wikipedia.	Benvenuti su Wikipedia.	wikipedia	0	0
+Han kan gøre sig forståelig på engelsk.	Sa farsi capire in inglese.	forståelig	0	0
+Astronomi handler om stjerner og planeter.	L'astronomia si occupa delle stelle e dei pianeti.	astronomi	0	0
+Der er to miles til banegården.	La stazione è a due miglia da qui.	banegården	0	0
+To glas æblejuice, tak!	Due bicchieri di succo di mela, per piacere.	æblejuice	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, nederlandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	finsk	0	0
+Det sneede uafbrudt i mange dage.	Nevicò senza posa per molti giorni.	sneede	0	0
+Jeg regner med at skippe frokosten.	Io ho intenzione di saltare il pranzo.	skippe	0	0
+Ved du hvem der har opfundet mikroskopet?	Sai chi ha inventato il microscopio?	mikroskopet	0	0
+Spørgsmålet kan kun tolkes på én måde.	La domanda ammette una sola interpretazione.	tolkes	0	0
+Findes der mennesker, hvis modersmål er esperanto?	Ci sono persone la cui lingua madre è l'esperanto?	modersmål	0	0
+Jeg kan ikke forestille mig at et europæisk selskab ville få lov til at ødelægge en hel canadiske by, med alle dens huse, kirker og kirkegårde.	Non posso credere che a un'impresa europea sarebbe consentito demolire un'intera città canadese, con tutte le sue case, le chiese e i cimiteri.	kirkegårde	0	0
+Han er afroamerikaner.	È un afro-americano.	afroamerikaner	0	0
+Vi har forpasset vores tog.	Abbiamo perso il nostro treno.	forpasset	0	0
+Vi var nødt til at lukke vinduet på grund af myggene.	Abbiamo dovuto chiudere la finestra a causa delle zanzare.	myggene	0	0
+Fremtiden vil ikke blive opbygget med magt eller ønsket om at erobre, men med tålmodig anvendelse af demokratiske metoder, konstruktiv samarbejdsånd og respekt for friheden.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	konstruktiv	0	0
+Messing er en legering af kobber og zink.	L'ottone è una lega di rame e zinco.	legering	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, hollandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	tjekkisk	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, hollandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	rumænsk	0	0
+I San Marino smagte pizzaerne faktisk bedre end dem jeg spiste i Rom.	Le pizze a San Marino erano effettivamente più buone di quelle che ho mangiato a Roma.	pizzaerne	0	0
+Jeg elsker fredage!	Amo il venerdì!	fredage	0	0
+Hun er den kedeligste pige jeg nogensinde har kendt.	È la ragazza più noiosa che io abbia mai conosciuto.	kedeligste	0	0
+Messing er en legering af kobber og zink.	L'ottone è una lega di rame e zinco.	zink	0	0
+Han er en ulv i fåreklæder.	È un lupo vestito da agnello.	fåreklæder	0	0
+Jeg ved at Tom er fotogen.	So che Tom è fotogenico.	fotogen	0	0
+Mussolini var leder af den fascistiske diktatur.	Mussolini era il capo della dittatura fascista.	fascistiske	0	0
+Schweiz er beliggende mellem Frankrig, Italien, Østrig og Tyskland.	La Svizzera si trova tra Francia, Italia, Austria e Germania.	beliggende	0	0
+I øjeblikket skriver du dine sætninger på det forkerte sted. Du skal vælge "Contribute" i toppen af siden og så "Add sentences".	Al momento state inserendo le vostre frasi nel posto sbagliato. Dovreste selezionare "Contribuisci" in cima alla pagina e poi "Aggiungi frasi".	add	0	0
+Kooperativ læring er læring i små grupper hvor interaktioner er struktureret efter nøje gennemtænkte retningslinjer.	L'apprendimento cooperativo è un apprendimento in piccoli gruppi, in cui le interazioni sono strutturate secondo direttive accuratamente ponderate.	struktureret	0	0
+Fare! Højspænding.	Pericolo! Alta tensione.	højspænding	0	0
+Hun har skrevet et kærestebrev til mig på esperanto.	Lei mi ha scritto una lettera d'amore in esperanto.	kærestebrev	0	0
+Første, anden, tredje, fjerde, femte, sjette, syvende, ottende, niende, tiende ... næstsidste, sidste.	Primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo... penultimo, ultimo.	næstsidste	0	0
+Toms hund skulle luftes.	Il cane di Tom aveva bisogno di andare fuori.	luftes	0	0
+Efter os syndfloden.	Dopo di noi il diluvio.	syndfloden	0	0
+Her er alt gennemsyret af historiens ånd.	Qui tutto è permeato dello spirito della storia.	gennemsyret	0	0
+Tordenen gjorde børnene bange.	Il tuono ha spaventato i bambini.	tordenen	0	0
+Opfandt indianerne cigarerne?	Gli indiani hanno inventato i sigari?	cigarerne	0	0
+Kooperativ læring er læring i små grupper hvor interaktioner er struktureret efter nøje gennemtænkte retningslinjer.	L'apprendimento cooperativo è un apprendimento in piccoli gruppi, in cui le interazioni sono strutturate secondo direttive accuratamente ponderate.	læring	0	0
+EU har 24 officielle sprog: Engelsk, bulgarsk, tjekkisk, dansk, estisk, finsk, fransk, græsk, nederlandsk, kroatisk, irsk, litauisk, lettisk, ungarsk, maltesisk, tysk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk og italiensk.	L'UE ha 24 lingue ufficiali: inglese, bulgaro, ceco, danese, estone, finlandese, francese, greco, neerlandese, croato, irlandese, lituano, lettone, ungherese, maltese, tedesco, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese e italiano.	bulgarsk	0	0
+Min smartphone er dum.	Il mio smartphone è stupido.	smartphone	0	0
+Min ansvarsfølelse er et fængsel.	Il mio senso di responsabilità è una prigione.	ansvarsfølelse	0	0
+Adam har et æble og et adamsæble.	Adamo ha una mela e un pomo d’Adamo.	adamsæble	0	0

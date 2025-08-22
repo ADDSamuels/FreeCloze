@@ -1,0 +1,30 @@
+Aš ne poetas.	Εγώ δεν είμαι ποιητής.	aš	0	0
+Ne, ačiū.	Όχι, ευχαριστώ.	ne	0	0
+Taip, prašau.	Ναι, παρακαλώ.	taip	0	0
+Ar šis eržilas ar kumelė?	Αυτό είναι άλογο ή φοράδα;	ar	0	0
+Mano vardas yra Sally.	Το όνομά μου είναι Σάλι.	mano	0	0
+Mano šeimoje yra keturi žmonės.	Στην οικογένειά μου υπάρχουν τέσσερις άνθρωποι.	yra	0	0
+Ne, ačiū.	Όχι, ευχαριστώ.	ačiū	0	0
+Labas rytas.	Καλημέρα.	labas	0	0
+Taip, prašau.	Ναι, παρακαλώ.	prašau	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	vienas	0	0
+Mano šeimoje yra keturi žmonės.	Στην οικογένειά μου υπάρχουν τέσσερις άνθρωποι.	žmonės	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	du	0	0
+Ar šis eržilas ar kumelė?	Αυτό είναι άλογο ή φοράδα;	šis	0	0
+Mano vardas yra Sally.	Το όνομά μου είναι Σάλι.	vardas	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	trys	0	0
+Labas rytas.	Καλημέρα.	rytas	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	dešimt	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	keturi	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	penki	0	0
+Danguje pasirodė žvaigždės.	Τα αστέρια βγήκανε.	pasirodė	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	šeši	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	septyni	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	devyni	0	0
+Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	aštuoni	0	0
+Danguje pasirodė žvaigždės.	Τα αστέρια βγήκανε.	žvaigždės	0	0
+Danguje pasirodė žvaigždės.	Τα αστέρια βγήκανε.	danguje	0	0
+Mano šeimoje yra keturi žmonės.	Στην οικογένειά μου υπάρχουν τέσσερις άνθρωποι.	šeimoje	0	0
+Aš ne poetas.	Εγώ δεν είμαι ποιητής.	poetas	0	0
+Ar šis eržilas ar kumelė?	Αυτό είναι άλογο ή φοράδα;	eržilas	0	0
+Ar šis eržilas ar kumelė?	Αυτό είναι άλογο ή φοράδα;	kumelė	0	0

@@ -1,0 +1,750 @@
+El padre de ella es japonés.	Њен отац је Јапанац.	de	0	0
+No puedo cambiar lo que pasó ayer.	Не могу да променим оно што се десило јуче.	que	0	0
+Trabaja para vivir, no vivas para trabajar.	Ради како би живео, немој да живиш за посао.	no	0	0
+Voy a la playa.	Idem na plažu.	a	0	0
+Mi casa está cerca de la escuela.	Моја кућа је близу школе.	la	0	0
+El accidente causó el embotellamiento.	Nesreća je prouzrokovala zastoj.	el	0	0
+Tom habla español, y Betty también habla español.	Tom govori Španski; i Beti takođe govori Španski.	y	0	0
+Su cabello es como la seda.	Njena kosa je kao svila.	es	0	0
+Estoy en Londres.	Ja sam u Londonu.	en	0	0
+Pase lo que pase, estoy lista.	Што год да се догоди ја сам спремна.	lo	0	0
+Maria tiene un gato blanco.	Марија има белу мачку.	un	0	0
+¿Por qué siempre yo?	Zašto uvek ja?	por	0	0
+¿Qué tienes?	Шта имаш?	qué	0	0
+Ayer estaba tan agotado que me desplomé sobre el sofá.	Juče sam bio tako iscrpljen da sam se samo skljokao na sofu.	me	0	0
+Tom empezó a salir con una mujer mayor.	Tom je počeo da izlazi sa starijom ženom.	una	0	0
+Me encantan los idiomas.	Volim jezike.	los	0	0
+Tu problema se parece al mío.	Tvoj problem liči na moj.	se	0	0
+Te quiero.	Љубим те.	te	0	0
+Un cuadrilátero es una figura geométrica con cuatro lados y cuatro ángulos.	Četvorougao je geometrijska figura sa četiri stranice i četiri ugla.	con	0	0
+Esta es una pastilla para dormir muy fuerte.	Ovo je vrlo snažan lek za spavanje.	para	0	0
+Sí, éste está muy bien. ¿Cuánto vale?	Да, то је веома добро. Колико то кошта?	está	0	0
+Mi madre es griega.	Moja mati je Grkinja.	mi	0	0
+La mentira suena bien, pero me gustaría escuchar la pura verdad.	Та лаж лепо звучи, али ја бих желео да чујем чисту истину.	pero	0	0
+«¿Yo?» «¡Sí, tú!»	„Ja?“ - „Da, ti!“	sí	0	0
+Dude si quiere, pero yo estoy seguro de lo que le digo.	Сумњајте, ако хоћете, али ја сам сигуран о томе што вам кажем.	si	0	0
+Eso funcionó bien.	То је добро радило.	bien	0	0
+Tom no ha hecho eso.	Tom nije uradio to.	eso	0	0
+Se rieron de su error.	Они су се смејали због његове грешке.	su	0	0
+Las manzanas son rojas.	Јабуке су црвене.	las	0	0
+Yo no lo escogí.	Ја нисам изабрао њега.	yo	0	0
+¡El latín es la lengua del futuro!	Latinski je jezik budućnosti!	del	0	0
+Su cabello es como la seda.	Njena kosa je kao svila.	como	0	0
+Aquí no hace tanto frío como en Alaska.	Овде није тако хладно као на Аљасци.	aquí	0	0
+Intentaré responder a tu pregunta.	Pokušaću da odgovorim na tvoje pitanje.	tu	0	0
+Prefiero el vino tinto al blanco.	Више волим црвено него бело вино.	al	0	0
+¿Cuál es más grande: el Sol o la Tierra?	Šta je veće, Sunce ili Zemlja?	más	0	0
+Luigi es un chico que le gusta aprender.	Luiđi je dečak koji voli da uči.	le	0	0
+Esto no es una oración.	Ово није реченица.	esto	0	0
+Todo esto es increíblemente importante.	Sve ovo je neverovatno važno.	todo	0	0
+¡Ey, ya basta!	E, sad je dosta!	ya	0	0
+Pase lo que pase, estoy lista.	Што год да се догоди ја сам спремна.	estoy	0	0
+Ahora él vive en Tokio.	On sada živi u Tokiju.	ahora	0	0
+Muy bien, gracias.	Врло добро, хвала.	muy	0	0
+¡América ha vuelto!	Америка се вратила!	ha	0	0
+Esta es mi casa.	Ово је моја кућа.	esta	0	0
+Hay muchos huéspedes en esta habitación.	Много је гостију у тој соби.	hay	0	0
+El pescado es bueno para ti.	Riba je dobra za tebe.	bueno	0	0
+Tengo una revista en mi habitación.	Имам часопис у својој соби.	tengo	0	0
+Él es el autor del artículo.	Он је аутор чланка.	él	0	0
+¿Hasta cuando abusarás, Catilina, de nuestra paciencia?	Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	cuando	0	0
+¿Dónde estás?	Где си ти?	estás	0	0
+Sé que esto es extraño.	Znam da je ovo čudno.	sé	0	0
+«¿Yo?» «¡Sí, tú!»	„Ja?“ - „Da, ti!“	tú	0	0
+¿Quién nos ha traicionado?	Ко нас је издао?	nos	0	0
+"Gracias." "De nada."	"Хвала." "Нема на чему."	nada	0	0
+¿Cómo se llama?	Како се зове?	cómo	0	0
+Este es Tom.	To je Tom.	este	0	0
+¿Él habla inglés, francés o alemán?	Говори ли он енглески, француски или немачки?	o	0	0
+No le he visto desde entonces.	Od onda ga nisam video.	he	0	0
+Podría ser un arma.	To bi moglo da bude oružje.	ser	0	0
+¿Tom tiene experiencia?	Ima li Tom iskustva?	tiene	0	0
+No puedo hablar en inglés, mucho menos en español.	Не знам енглески, још мање шпански.	puedo	0	0
+El padre de ella es japonés.	Њен отац је Јапанац.	ella	0	0
+Me quiero casar.	Хоћу да се удам.	quiero	0	0
+Lo que puedes hacer hoy, nunca dejes para mañana.	Što možeš da uradiš danas, ne ostavljaj za sutra.	hacer	0	0
+El matrimonio real fue un gran espectáculo.	Kraljevsko venšanje je bilo veliki spektakl.	fue	0	0
+Gracias, chicos.	Хвала вам, момци.	gracias	0	0
+Érase una vez una bella princesa.	Nekada davno, živela je prelepa princeza.	vez	0	0
+Solo era cuestión de tiempo.	Било је само питање времена.	era	0	0
+Soy María.	Ја сам Марија.	soy	0	0
+Conozco a todos en la habitación.	Знам сваког у соби.	todos	0	0
+Las bolas son redondas.	Лопте су округле.	son	0	0
+Tienes hasta la medianoche.	Imaš vremena do ponoći.	tienes	0	0
+Creo que Tom mintió.	Verujem da je Tom lagao.	creo	0	0
+Voy a la playa.	Idem na plažu.	voy	0	0
+Ayer estaba tan agotado que me desplomé sobre el sofá.	Juče sam bio tako iscrpljen da sam se samo skljokao na sofu.	estaba	0	0
+Sé que eres rico.	Знам да си богат.	eres	0	0
+Ese chocolate tiene un sabor entre dulce y amargo.	Ova čokolada ima ukus između slatkog i gorkog.	ese	0	0
+Esta silla es para usted. ¡Siéntese!	Ова столица је за вас. Седите!	usted	0	0
+No le he visto desde entonces.	Od onda ga nisam videla.	entonces	0	0
+Hola Tom. Buenos días.	Здраво, Том. Добро јутро.	hola	0	0
+Solo era cuestión de tiempo.	Било је само питање времена.	solo	0	0
+La mentira suena bien, pero me gustaría escuchar la pura verdad.	Та лаж лепо звучи, али ја бих желео да чујем чисту истину.	verdad	0	0
+Después de salir de casa me di cuenta de que me dejé la llave dentro de la vivienda.	Pošto sam otputovao od kuće, shvatio sam da su moji ključevi ostali u stanu.	casa	0	0
+¡No tan rápido!	Не тако брзо!	tan	0	0
+¿Quién crees que ganó?	Šta misliš, ko je pobedio?	quién	0	0
+Miles perdieron sus hogares.	Hiljade je izgubilo svoje domove.	sus	0	0
+Solo era cuestión de tiempo.	Било је само питање времена.	tiempo	0	0
+Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	dos	0	0
+No mandes esa carta.	Nemoj da šalješ to pismo.	esa	0	0
+Lo que puedes hacer hoy, nunca dejes para mañana.	Što možeš da uradiš danas, ne ostavljaj za sutra.	nunca	0	0
+Dime dónde vives.	Reci mi gde živiš.	dónde	0	0
+Por favor, contácteme por correo.	Молим те,контактирај ме путем имејла.	favor	0	0
+No puedo hablar en inglés, mucho menos en español.	Не знам енглески, још мање шпански.	mucho	0	0
+¿Por qué quieres ser enfermera?	Zašto želiš da budeš medicinska sestra?	quieres	0	0
+Juan es mi mejor amigo.	Џон је мој добар друг.	mejor	0	0
+Aquí no hace tanto frío como en Alaska.	Овде није тако хладно као на Аљасци.	hace	0	0
+¿Alguna vez has reprobado un examen?	Da li si ikada pao ispit?	has	0	0
+Tom habla español, y Betty también habla español.	Tom govori Španski; i Beti takođe govori Španski.	también	0	0
+Ayer estaba tan agotado que me desplomé sobre el sofá.	Juče sam bio tako iscrpljen da sam se samo skljokao na sofu.	sobre	0	0
+Al principio Dios creó el cielo y la tierra.	У почетку Бог је створио небо и Земљу.	dios	0	0
+Sigo sin escribir bien en chino.	Još uvek ne pišem dobro kineski.	sin	0	0
+Tenemos dos niños.	Imamo dvoje dece.	tenemos	0	0
+¿Dónde están las jirafas?	Gde su žirafe?	están	0	0
+El pescado es bueno para ti.	Riba je dobra za tebe.	ti	0	0
+Atrápame si puedes.	Ухвати ме ако можеш.	puedes	0	0
+¿Puedo ver su licencia por favor?	Smem li da vidim Vašu vozačku dozvolu?	ver	0	0
+Pedro es un hombre sincero.	Петар је истинољубив човек.	hombre	0	0
+Su vida está en mis manos.	Njegov život je u mojim rukama.	vida	0	0
+Cuidado con no meterte en el camino de alguien.	Пази да не стојиш неком на путу.	alguien	0	0
+El bien gana siempre al mal.	Добро увек побеђује зло.	siempre	0	0
+¿Hasta cuando abusarás, Catilina, de nuestra paciencia?	Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	hasta	0	0
+¿Qué tiene usted ahí?	Šta imate tamo?	ahí	0	0
+Soy cuatro años menor que él.	Ја сам четири године млађи од њега.	años	0	0
+Mi perro a menudo finge estar dormido.	Moj pas se često pretvara da spava.	estar	0	0
+Este pájaro no vive ni en Japón ni en China.	Та птица не живи ни у Јапану ни у Кини.	ni	0	0
+Quiero un poco de dinero.	Hoću malo para.	poco	0	0
+Tuvimos un día ajetreado.	Imali smo naporan dan.	día	0	0
+Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	uno	0	0
+Tom no ha hecho eso.	Tom nije uradio to.	hecho	0	0
+Su vida está en mis manos.	Njegov život je u mojim rukama.	mis	0	0
+Sé que ella estará de acuerdo.	Znam da će se ona složiti.	acuerdo	0	0
+Tu problema se parece al mío.	Tvoj problem liči na moj.	parece	0	0
+El padre de ella es japonés.	Њен отац је Јапанац.	padre	0	0
+Mira esos patos en el lago.	Gledaj te patke na jezeru.	mira	0	0
+Tom está mintiendo. No hice lo que dijo.	Tom laže. Nisam to uradio šta je on rekao.	dijo	0	0
+Gracias a Dios que nadie resultó herido.	Hvala Bogu da niko nije bio povređen.	nadie	0	0
+Dude si quiere, pero yo estoy seguro de lo que le digo.	Сумњајте, ако хоћете, али ја сам сигуран о томе што вам кажем.	quiere	0	0
+Podría ser un arma.	To bi moglo da bude oružje.	podría	0	0
+No puedo hablar en inglés, mucho menos en español.	Не знам енглески, још мање шпански.	hablar	0	0
+Hay una hostilidad notable entre ellos.	Забележено је непријатељство између њих.	ellos	0	0
+De tal padre, tal hijo.	Kakav otac, takav sin.	tal	0	0
+Después de salir de casa me di cuenta de que me dejé la llave dentro de la vivienda.	Pošto sam otputovao od kuće, shvatio sam da su moji ključevi ostali u stanu.	después	0	0
+No le he visto desde entonces.	Од онда га нисам видела.	desde	0	0
+Quiero un poco de dinero.	Hoću malo para.	dinero	0	0
+Les enseñaré algunas fotos.	Показаћу вам неколико слика.	les	0	0
+El discurso de Tom ha estado muy interesante.	Tomov govor je bio prilično zanimljiv.	estado	0	0
+Lo que puedes hacer hoy, nunca dejes para mañana.	Što možeš da uradiš danas, ne ostavljaj za sutra.	mañana	0	0
+Mi madre es griega.	Moja mati je Grkinja.	madre	0	0
+¿Cuánto vale?	Koliko vredi to?	vale	0	0
+Estoy haciendo pan.	Печем хлеб.	haciendo	0	0
+Dude si quiere, pero yo estoy seguro de lo que le digo.	Сумњајте, ако хоћете, али ја сам сигуран о томе што вам кажем.	seguro	0	0
+Como se sabe, no hay límites para la perfección.	Perfekciji, koliko znamo, nema granica.	sabe	0	0
+Tus zapatos están aquí.	Твоје ципеле су овде.	tus	0	0
+El nuevo virus corona es muy infeccioso.	Нови коронавирус је веома заразан.	nuevo	0	0
+El hijo de Tom falleció en un accidente automovilístico el invierno pasado.	Tomov sin je poginuo u saobraćajnoj nesreći prošle zime.	hijo	0	0
+Allí se encuentra una magnífica playa de arena bordeada por un bonito paseo marítimo.	Tamo možeš da nađeš divnu peščanu plažu ograničenu lepom promenadom.	allí	0	0
+No puedo hablar en inglés, mucho menos en español.	Не знам енглески, још мање шпански.	menos	0	0
+Es mi amigo.	Он је мој друг.	amigo	0	0
+El matrimonio real fue un gran espectáculo.	Kraljevsko venšanje je bilo veliki spektakl.	gran	0	0
+Nuestro equipo llevaba camisetas rojas.	Naš tim je u crvenim majicama.	nuestro	0	0
+Tom empezó a salir con una mujer mayor.	Tom je počeo da izlazi sa starijom ženom.	mujer	0	0
+¡Hasta luego!	Довиђења!	luego	0	0
+¡Buenos días!	Dobro jutro!	días	0	0
+Como dice el refrán, el tiempo es oro.	Како каже пословица, време је новац.	dice	0	0
+Hoy, oímos una historia acerca de la extracción de biogas.	Данас смо чули причу о издвајању биогаса.	hoy	0	0
+Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	tres	0	0
+Maja Keuc es una buena cantante.	Maja Keuc je dobra pevačica.	buena	0	0
+Tengo todo lo que necesito.	Имам све што ми треба.	necesito	0	0
+Me gusta la comida coreana.	Волим корејску храну.	gusta	0	0
+Lo que se quería demostrar.	Što je bilo dokazati.	quería	0	0
+Aquí solía haber un gran parque.	Nekada je ovde bio veliki park.	haber	0	0
+¿Quién crees que ganó?	Šta misliš, ko je pobedio?	crees	0	0
+Espero que hayas tenido un buen fin de semana.	Nadam se da si imao lep vikend.	buen	0	0
+El japonés es nuestra lengua materna.	Јапански – наш матерњи језик.	nuestra	0	0
+El bien gana siempre al mal.	Добро увек побеђује зло.	mal	0	0
+Tu problema se parece al mío.	Tvoj problem liči na moj.	mío	0	0
+No le he visto desde entonces.	Од онда га нисам видео.	visto	0	0
+¿Qué tienen ahí?	Šta imate tamo?	tienen	0	0
+Lo hemos pasado bien cantando juntos.	Уживали смо певајући заједно.	hemos	0	0
+¿El cliente siempre tiene la razón?	Da li je mušterija uvek u pravu?	razón	0	0
+¿Alguna vez has reprobado un examen?	Da li si ikada pao ispit?	alguna	0	0
+Aquí no hace tanto frío como en Alaska.	Овде није тако хладно као на Аљасци.	tanto	0	0
+Tu problema se parece al mío.	Tvoj problem liči na moj.	problema	0	0
+A quien madruga Dios le ayuda.	Ко рано рани, две среће граби.	quien	0	0
+¡Creé en el amor!	Veruj u ljubav!	amor	0	0
+Hay una hostilidad notable entre ellos.	Забележено је непријатељство између њих.	entre	0	0
+El hijo de Tom falleció en un accidente automovilístico el invierno pasado.	Tomov sin je poginuo u saobraćajnoj nesreći prošle zime.	pasado	0	0
+Mira esos patos en el lago.	Gledaj te patke na jezeru.	esos	0	0
+Gracias, chicos.	Хвала вам, момци.	chicos	0	0
+Después de salir de casa me di cuenta de que me dejé la llave dentro de la vivienda.	Pošto sam otputovao od kuće, shvatio sam da su moji ključevi ostali u stanu.	cuenta	0	0
+Después de salir de casa me di cuenta de que me dejé la llave dentro de la vivienda.	Pošto sam otputovao od kuće, shvatio sam da su moji ključevi ostali u stanu.	salir	0	0
+Veo vuestra casa.	Vidim vašu kuću.	veo	0	0
+Somos viejos amigos.	Ми смо стари пријатељи.	amigos	0	0
+Somos hermano y hermana.	Ми смо брат и сестра.	hermano	0	0
+Dude si quiere, pero yo estoy seguro de lo que le digo.	Сумњајте, ако хоћете, али ја сам сигуран о томе што вам кажем.	digo	0	0
+¿Cuáles estudiantes van a tomar el examen?	Koji studenti će raditi test?	van	0	0
+Cuantas lenguas hablas, tantos hombres vales.	Koliko jezika znaš, toliko ljudi vrediš.	hombres	0	0
+¡Buenas noches y dulces sueños!	Laku noć i lepi snovi!	buenas	0	0
+Somos viejos amigos.	Ми смо стари пријатељи.	somos	0	0
+Ahora pueden irse.	Сада можете да идете.	pueden	0	0
+No puedo cambiar lo que pasó ayer.	Не могу да променим оно што се десило јуче.	pasó	0	0
+Luigi es un chico que le gusta estudiar.	Luiđi je dečak koji voli da uči.	chico	0	0
+Tom está mintiendo. No hice lo que dijo.	Tom laže. Nisam to uradio šta je on rekao.	hice	0	0
+Adiós.	Довиђења!	adiós	0	0
+En el universo hay muchas galaxias.	Postoji mnogo galaksija u univerzumu.	muchas	0	0
+El Gobierno tendría que derogar esas viejas normas.	Влада би требала да укине ова стара правила.	esas	0	0
+Cuidado con no meterte en el camino de alguien.	Пази да не стојиш неком на путу.	camino	0	0
+Los niños pequeños son incapaces de pensar de manera abstracta.	Мала деца нису способна да мисле на апстрактан начин.	manera	0	0
+El perro está muerto.	Pas je mrtav.	muerto	0	0
+¡No tan rápido!	Не тако брзо!	rápido	0	0
+¿Cuál es el examen más difícil de este año?	Koji je najteži ispit ove godine?	cuál	0	0
+A quien madruga Dios le ayuda.	Ко рано рани, две среће граби.	ayuda	0	0
+Hoy, oímos una historia acerca de la extracción de biogas.	Данас смо чули причу о издвајању биогаса.	historia	0	0
+Después de salir de casa me di cuenta de que me dejé la llave dentro de la vivienda.	Pošto sam otputovao od kuće, shvatio sam da su moji ključevi ostali u stanu.	dentro	0	0
+Cierra la puerta.	Zatvori vrata.	puerta	0	0
+Espero que hayas tenido un buen fin de semana.	Nadam se da si imao lep vikend.	semana	0	0
+Espero que hayas tenido un buen fin de semana.	Nadam se da si imao lep vikend.	espero	0	0
+Lo hemos pasado bien cantando juntos.	Уживали смо певајући заједно.	juntos	0	0
+¿Cuál es el examen más difícil de este año?	Koji je najteži ispit ove godine?	año	0	0
+Los niños pequeños son incapaces de pensar de manera abstracta.	Мала деца нису способна да мисле на апстрактан начин.	niños	0	0
+La ciudad está circundada por una muralla.	Grad je opasan gradskim zidinama.	ciudad	0	0
+Nuestra hija única murió de cáncer.	Naša jedina ćerka je umrla od raka.	hija	0	0
+La mentira suena bien, pero me gustaría escuchar la pura verdad.	Та лаж лепо звучи, али ја бих желео да чујем чисту истину.	gustaría	0	0
+Sí, éste está muy bien. ¿Cuánto vale?	Да, то је веома добро. Колико то кошта?	cuánto	0	0
+Os enseñaré algunas fotos.	Показаћу вам неколико слика.	os	0	0
+Hey, cálmate.	Hej, opusti se.	hey	0	0
+Siempre tengo problemas para que me entiendan.	Uvek imam problema da me razumeju.	problemas	0	0
+Nunca vi una estrella tan brillante como esa.	Никада нисам видео тако сјајну звезду као ову.	vi	0	0
+Todo esto es increíblemente importante.	Sve ovo je neverovatno važno.	importante	0	0
+El corazón late.	Srce bije.	corazón	0	0
+Tú y yo somos buenos amigos.	Ti i ja smo dobri prijatelji.	buenos	0	0
+A mi esposa le gusta su jardín.	Моја супруга воли своју башту.	esposa	0	0
+Su vida está en mis manos.	Njegov život je u mojim rukama.	manos	0	0
+No debes tocarlo.	Ne smeš to da diraš.	debes	0	0
+No cierres los ojos.	Ne zatvaraj oči.	ojos	0	0
+"No puedo encontrar a Tom." "Intenta llamarlo."	„Ne mogu da nađem Toma.‟ „Probaj da ga pozoveš.‟	encontrar	0	0
+Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	cinco	0	0
+Cuidado con no meterte en el camino de alguien.	Пази да не стојиш неком на путу.	cuidado	0	0
+Mi casa está cerca de la escuela.	Моја кућа је близу школе.	cerca	0	0
+En las noches de invierno, el bosque está lleno de huellas de pies y esquís.	U zimskim noćima šuma je ispunjena tragovima stopala i skija.	noches	0	0
+Espero que hayas tenido un buen fin de semana.	Nadam se da si imao lep vikend.	fin	0	0
+¿Cuáles estudiantes van a tomar el examen?	Koji studenti će raditi test?	tomar	0	0
+¿Cuándo vienes?	Kada dolaziš?	cuándo	0	0
+Nuestro equipo lleva camisetas rojas.	Naš tim je u crvenim majicama.	equipo	0	0
+¿Cuál es más grande: el Sol o la Tierra?	Šta je veće, Sunce ili Zemlja?	grande	0	0
+¿Cuál es el examen más difícil de este año?	Koji je najteži ispit ove godine?	difícil	0	0
+Le he dirigido la pregunta directamente al Primer Ministro.	Ја сам упутио питање директно премијеру.	primer	0	0
+Mi padre tiene un coche nuevo.	Мој отац има нов аутомобил.	coche	0	0
+Un, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	cuatro	0	0
+El perro se llama Ken.	Пас зове се Кен.	llama	0	0
+En el principio Dios creó los cielos y la tierra.	У почетку Бог је створио небо и Земљу.	tierra	0	0
+Los niños pequeños son incapaces de pensar de manera abstracta.	Мала деца нису способна да мисле на апстрактан начин.	pensar	0	0
+¿Tom se volvió loco?	Je li Tom poludeo?	loco	0	0
+Su cocina es cómoda para trabajar.	Ваша кухиња је угодна за рад.	trabajar	0	0
+Espero que hayas tenido un buen fin de semana.	Nadam se da si imao lep vikend.	tenido	0	0
+Juego al tenis.	Igram tenis.	juego	0	0
+Este artículo contiene algunas ideas totalmente nuevas.	Ovaj članak sadrži neke potpuno nove ideje.	algunas	0	0
+No podía aguantar más el dolor.	Више није могао да издржи бол.	podía	0	0
+Necesitamos dinero.	Treba nam novac.	necesitamos	0	0
+Hay muchos huéspedes en esta habitación.	Много је гостију у тој соби.	muchos	0	0
+Trabaja para vivir, no vivas para trabajar.	Ради како би живео, немој да живиш за посао.	vivir	0	0
+Mi hermana me abrió la puerta.	Moja sestra mi je otvorila vrata.	hermana	0	0
+Mi casa está cerca de la escuela.	Моја кућа је близу школе.	escuela	0	0
+Esta es una pastilla para dormir muy fuerte.	Ovo je vrlo snažan lek za spavanje.	fuerte	0	0
+Tom habla español, y Betty también habla español.	Tom govori Španski; i Beti takođe govori Španski.	habla	0	0
+Intentaré responder a tu pregunta.	Pokušaću da odgovorim na tvoje pitanje.	pregunta	0	0
+Tom empezó a salir con una mujer mayor.	Tom je počeo da izlazi sa starijom ženom.	mayor	0	0
+Me gusta la comida coreana.	Волим корејску храну.	comida	0	0
+Conozco a todos en la habitación.	Знам сваког у соби.	conozco	0	0
+Dame mil besos.	Дај ми хиљаду пољубаца.	dame	0	0
+Acabo de comer.	Upravo sam jeo.	comer	0	0
+Prefiero el vino tinto al blanco.	Више волим црвено него бело вино.	vino	0	0
+Pase lo que pase, estoy lista.	Што год да се догоди ја сам спремна.	lista	0	0
+Tomás tiene tres hijos grandes.	Tom ima tri odrasla sina.	hijos	0	0
+Hay muchos huéspedes en esta habitación.	Много је гостију у тој соби.	habitación	0	0
+Dime dónde viven.	Kaži mi gde živite.	dime	0	0
+Amo las matemáticas.	Ја волим математику.	amo	0	0
+Nuestra hija única murió de cáncer.	Naša jedina ćerka je umrla od raka.	única	0	0
+Podría ser un arma.	To bi moglo da bude oružje.	arma	0	0
+Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	seis	0	0
+Aquí está la oficina de correos y aquí está el banco.	Ово је пошта, а ово је банка.	oficina	0	0
+Estuve paseando para matar el tiempo.	Šetao sam se ulicama, da ubijem vreme.	matar	0	0
+Sé que ella estará de acuerdo.	Znam da će se ona složiti.	estará	0	0
+Ya he pensado acerca de eso.	Već sam razmišljao o tome.	acerca	0	0
+Esta es una pastilla para dormir muy fuerte.	Ovo je vrlo snažan lek za spavanje.	dormir	0	0
+Después de salir de casa me di cuenta de que me dejé la llave dentro de la vivienda.	Pošto sam otputovao od kuće, shvatio sam da su moji ključevi ostali u stanu.	di	0	0
+Su abuelo falleció en paz.	Његов деда преминуо је мирно.	paz	0	0
+Tom es un idiota útil.	Том је корисни идиот.	idiota	0	0
+¿Tienes un plan?	Da li imaš plan?	plan	0	0
+Nuestra hija única murió de cáncer.	Naša jedina ćerka je umrla od raka.	murió	0	0
+¡Ey, ya basta!	E, sad je dosta!	basta	0	0
+Cuando crezca, quiero ser un rey.	Када порастем хоћу да будем краљ.	rey	0	0
+Un, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	diez	0	0
+Nuestro equipo lleva camisetas rojas.	Naš tim je u crvenim majicama.	lleva	0	0
+Tomás tiene tres hijos grandes.	Tom ima tri odrasla sina.	grandes	0	0
+El matrimonio real fue un gran espectáculo.	Kraljevsko venšanje je bilo veliki spektakl.	real	0	0
+Su libro es rojo.	Његова књига је црвена.	libro	0	0
+¿Bebéis café?	Пијете ли кафу?	café	0	0
+Vuestro perro está aquí.	Ваш пас је овде.	perro	0	0
+Al principio Dios creó el cielo y la tierra.	У почетку Бог је створио небо и Земљу.	cielo	0	0
+Me llamo Jack.	Зовем се Џек.	jack	0	0
+Buen viaje.	Srećan put.	viaje	0	0
+La mentira suena bien, pero me gustaría escuchar la pura verdad.	Та лаж лепо звучи, али ја бих желео да чујем чисту истину.	suena	0	0
+Sé que esto es extraño.	Знам да је ово чудно.	extraño	0	0
+Éste es el castillo que visitamos la semana pasada.	Ово је замак који смо посетили прошле недеље.	éste	0	0
+Tom no sabe cómo usar un ordenador.	Tom ne zna kako da koristi računar.	usar	0	0
+Ayer estaba tan agotado que me desplomé sobre el sofá.	Juče sam bio tako iscrpljen da sam se samo skljokao na sofu.	ayer	0	0
+Odio a mi vecina.	Мрзим своју комшиницу.	odio	0	0
+¿Cuál es tu grupo sanguíneo?	Која је твоја крвна група?	grupo	0	0
+Acabo de comer.	Upravo sam jeo.	acabo	0	0
+No puedo cambiar lo que pasó ayer.	Не могу да променим оно што се десило јуче.	cambiar	0	0
+No seas estúpido.	Ne budi glup.	seas	0	0
+Él no es médico.	On nije doktor.	médico	0	0
+Se rieron de su error.	Они су се смејали због његове грешке.	error	0	0
+Él tiene una voz fuerte.	Он има јак глас.	voz	0	0
+¡El latín es la lengua del futuro!	Latinski je jezik budućnosti!	futuro	0	0
+¿Cómo se siente cuando repruebas el examen?	Kakav je osećaj kada padneš ispit?	siente	0	0
+Dame mil besos.	Дај ми хиљаду пољубаца.	mil	0	0
+Estuve paseando para matar el tiempo.	Šetao sam se ulicama, da ubijem vreme.	estuve	0	0
+¡América ha vuelto!	Америка се вратила!	vuelto	0	0
+No podía aguantar más el dolor.	Више није могао да издржи бол.	dolor	0	0
+Le encanta el café.	On voli kafu.	encanta	0	0
+¿Es tuyo?	Да ли је твоје?	tuyo	0	0
+Los planetas giran alrededor de una estrella.	Планете се окрећу око звезде.	alrededor	0	0
+Cuantas lenguas hablas, tantos hombres vales.	Koliko jezika znaš, toliko ljudi vrediš.	hablas	0	0
+Me llamo Jack.	Зовем се Џек.	llamo	0	0
+Ésta es mi mujer, Edita.	Ово је моја жена Едита.	ésta	0	0
+Pase lo que pase, estoy lista.	Што год да се догоди ја сам спремна.	pase	0	0
+He aprendido un montón.	Puno toga sam naučio.	montón	0	0
+El accidente causó el embotellamiento.	Nesreća je prouzrokovala zastoj.	accidente	0	0
+Ellas compraron una caja de galletas.	Они су купили кутију кекса.	ellas	0	0
+Ellas compraron una caja de galletas.	Они су купили кутију кекса.	caja	0	0
+Allí se encuentra una magnífica playa de arena bordeada por un bonito paseo marítimo.	Tamo možeš da nađeš divnu peščanu plažu ograničenu lepom promenadom.	bonito	0	0
+Dígame dónde vive.	Recite mi gde živite.	vive	0	0
+Hasta la vista.	Довиђења!	vista	0	0
+No seas estúpido.	Ne budi glup.	estúpido	0	0
+¿Cuál es más grande: el Sol o la Tierra?	Šta je veće, Sunce ili Zemlja?	sol	0	0
+No seas tonto.	Ne budi glup.	tonto	0	0
+Tengo tanta hambre como un lobo.	Gladan sam kao vuk.	hambre	0	0
+No mandes esa carta.	Nemoj da šalješ to pismo.	carta	0	0
+Este artículo contiene algunas ideas totalmente nuevas.	Ovaj članak sadrži neke potpuno nove ideje.	totalmente	0	0
+Un, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	siete	0	0
+Maria tiene un gato blanco.	Марија има белу мачку.	blanco	0	0
+Tom no volvió a casa.	Tom se nije vratio kući.	tom	0	0
+¿Usted aquí es profesor o alumno?	Да ли сте овде учитељ или ученик?	profesor	0	0
+Entra.	Uđi.	entra	0	0
+Interesante...	Занимљиво...	interesante	0	0
+La mentira suena bien, pero me gustaría escuchar la pura verdad.	Та лаж лепо звучи, али ја бих желео да чујем чисту истину.	escuchar	0	0
+Les enseñaré algunas fotos.	Показаћу вам неколико слика.	fotos	0	0
+El Gobierno tendría que derogar esas viejas normas.	Влада би требала да укине ова стара правила.	gobierno	0	0
+Vuelvo a las seis y media.	Vraćam se u 6:30 natrag.	media	0	0
+Egipto es un regalo del Nilo.	Египат је дар Нила.	regalo	0	0
+Ese chocolate tiene un sabor entre dulce y amargo.	Ova čokolada ima ukus između slatkog i gorkog.	dulce	0	0
+Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	ocho	0	0
+Ten cuidado.	Čuvaj se.	ten	0	0
+En el principio creó Dios los cielos y la tierra.	У почетку Бог је створио небо и Земљу.	principio	0	0
+El matrimonio real fue un gran espectáculo.	Kraljevsko venšanje je bilo veliki spektakl.	matrimonio	0	0
+Como dice el refrán, el tiempo es oro.	Како каже пословица, време је новац.	oro	0	0
+Allí se encuentra una magnífica playa de arena bordeada por un bonito paseo marítimo.	Tamo možeš da nađeš divnu peščanu plažu ograničenu lepom promenadom.	encuentra	0	0
+En las noches de invierno, el bosque está lleno de huellas de pies y esquís.	U zimskim noćima šuma je ispunjena tragovima stopala i skija.	pies	0	0
+Su abuelo falleció en paz.	Његов деда преминуо је мирно.	abuelo	0	0
+¡Salud!	Živeli!	salud	0	0
+Ya he pensado acerca de eso.	Već sam razmišljao o tome.	pensado	0	0
+Mi tía me regaló flores.	Moja tetka mi je dala cveće.	tía	0	0
+¿Cómo te llamas?	Како се ти зовеш?	llamas	0	0
+La cocina francesa es excelente.	Francuska kuhinja je odlična.	cocina	0	0
+Él es un chico inteligente.	Он је интелигентан дечак.	inteligente	0	0
+Es carne de mono.	То је месо мајмуна.	carne	0	0
+Aquí no hace tanto frío como en Alaska.	Овде није тако хладно као на Аљасци.	frío	0	0
+Trabaja para vivir, no vivas para trabajar.	Ради како би живела, немој да живиш за посао.	trabaja	0	0
+Deje de fumar.	Prestanite da pušite.	deje	0	0
+Le puso una cadena de oro al cuello.	Он је ставио златни ланац на њен врат.	puso	0	0
+Él seguido cambia de opinión.	On često menja svoje mišljenje.	opinión	0	0
+Wang Lao Ji no es una cerveza, es té.	Ванг Лао Ђи није пиво. Чај је.	cerveza	0	0
+El Gobierno tendría que derogar esas viejas normas.	Vlada bi trebala da ukine ova stara pravila.	tendría	0	0
+¿Cuántos exámenes tomaste este año?	Na koliko si ispita izašao ove godine?	cuántos	0	0
+¿Cuándo ocurrió?	Када се то догодило?	ocurrió	0	0
+¿Cuándo empieza el partido?	Када почиње игра?	partido	0	0
+Aquí está la oficina de correos y aquí está el banco.	Ово је пошта, а ово је банка.	banco	0	0
+Aquí solía haber un gran parque.	Nekada je ovde bio veliki park.	solía	0	0
+¿El cliente siempre tiene la razón?	Da li je mušterija uvek u pravu?	cliente	0	0
+Ahora pueden irse.	Сада можете да идете.	irse	0	0
+¿Cuándo vienes?	Kada dolaziš?	vienes	0	0
+¿Café o té?	Кафу или чај?	té	0	0
+Esta es la llave de mi apartamento.	Ево кључа од мог стана.	llave	0	0
+La cocina francesa es excelente.	Francuska kuhinja je odlična.	excelente	0	0
+¿Cuál es la diferencia entre religión y filosofía?	Koja je razlika između religije i filozofije?	diferencia	0	0
+En las noches de invierno, el bosque está lleno de huellas de pies y esquís.	U zimskim noćima šuma je ispunjena tragovima stopala i skija.	lleno	0	0
+Después de salir de casa me di cuenta de que me dejé la llave dentro de la vivienda.	Pošto sam otputovao od kuće, shvatio sam da su moji ključevi ostali u stanu.	dejé	0	0
+Sigo sin escribir bien en chino.	Још увек не пишем добро кинески.	escribir	0	0
+Nunca vi una estrella tan brillante como esa.	Никада нисам видео тако сјајну звезду као ову.	estrella	0	0
+Me duele el estómago.	Boli me stomak.	duele	0	0
+¡Buenas noches y dulces sueños!	Laku noć i lepi snovi!	sueños	0	0
+Miles perdieron sus hogares.	Hiljade je izgubilo svoje domove.	miles	0	0
+Lo que puedes hacer hoy, nunca dejes para mañana.	Što možeš da uradiš danas, ne ostavljaj za sutra.	dejes	0	0
+¿Tom tiene experiencia?	Ima li Tom iskustva?	experiencia	0	0
+Tus zapatos están aquí.	Твоје ципеле су овде.	zapatos	0	0
+Espero que hayas tenido un buen fin de semana.	Nadam se da si imao lep vikend.	hayas	0	0
+Hoy hablaremos del arte abstracto.	Данас ћемо причати о апстрактној уметности.	arte	0	0
+Luigi es un chico que le gusta aprender.	Luiđi je dečak koji voli da uči.	aprender	0	0
+Tuvimos un día ajetreado.	Imali smo naporan dan.	tuvimos	0	0
+Tom no volvió a casa.	Tom se nije vratio kući.	volvió	0	0
+Tengo muchos libros.	Ја имам много књига.	libros	0	0
+En el principio Dios creó los cielos y la tierra.	У почетку Бог је створио небо и Земљу.	cielos	0	0
+No pierdas la esperanza.	Не губи наду.	esperanza	0	0
+Solo era cuestión de tiempo.	Било је само питање времена.	cuestión	0	0
+Bob es mi cuate.	Bob je moj drug.	bob	0	0
+Sigo sin escribir bien en chino.	Још увек не пишем добро кинески.	sigo	0	0
+Esta es la llave de mi apartamento.	Ево кључа од мог стана.	apartamento	0	0
+¿Cuándo empieza el partido?	Када почиње игра?	empieza	0	0
+Estoy en Londres.	Ja sam u Londonu.	londres	0	0
+Tom empezó a salir con una mujer mayor.	Tom je počeo da izlazi sa starijom ženom.	empezó	0	0
+Vuelvo a las seis y media.	Vraćam se u 6:30 natrag.	vuelvo	0	0
+Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	nueve	0	0
+Su libro es rojo.	Његова књига је црвена.	rojo	0	0
+Le puso una cadena de oro al cuello.	Он је ставио златни ланац на њен врат.	cuello	0	0
+Siempre serás criticado.	Ti ćeš uvek biti kritikovan.	serás	0	0
+La mentira suena bien, pero me gustaría escuchar la pura verdad.	Та лаж лепо звучи, али ја бих желео да чујем чисту истину.	mentira	0	0
+Mi tía me regaló flores.	Moja tetka mi je dala cveće.	flores	0	0
+Cierra la puerta.	Zatvori vrata.	cierra	0	0
+La ciudad tiene una playa de arena muy larga.	Grad ima veoma dugačku peščanu plažu.	larga	0	0
+"No puedo encontrar a Tom." "Intenta llamarlo."	„Ne mogu da nađem Toma.‟ „Probaj da ga pozoveš.‟	intenta	0	0
+En las noches de invierno, el bosque está lleno de huellas de pies y esquís.	U zimskim noćima šuma je ispunjena tragovima stopala i skija.	bosque	0	0
+Sé que eres rico.	Знам да си богат.	rico	0	0
+¿Ya me toca?	Да ли сам на реду?	toca	0	0
+Nunca vi una estrella tan brillante como esa.	Никада нисам видео тако сјајну звезду као ову.	brillante	0	0
+Veo vuestra casa.	Vidim vašu kuću.	vuestra	0	0
+No puedo hablar en inglés, mucho menos en español.	Не знам енглески, још мање шпански.	inglés	0	0
+¿Cómo llamáis a vuestro perro?	Како зовете вашег пса?	vuestro	0	0
+¿Cuántas manzanas?	Koliko jabuka?	cuántas	0	0
+Mi perro a menudo finge estar dormido.	Moj pas se često pretvara da spava.	menudo	0	0
+Me interesa el alpinismo.	Zanima me planinarenje.	interesa	0	0
+No soy un soldado.	Ја нисам војник.	soldado	0	0
+¿Es mi turno?	Да ли сам на реду?	turno	0	0
+Hey, cálmate.	Hej, opusti se.	cálmate	0	0
+Prefiero el vino tinto al blanco.	Више волим црвено него бело вино.	prefiero	0	0
+Somos viejos amigos.	Ми смо стари пријатељи.	viejos	0	0
+Los niños pequeños son incapaces de pensar de manera abstracta.	Мала деца нису способна да мисле на апстрактан начин.	pequeños	0	0
+Él cortó el árbol para divertirse.	Он је исцепао стабло да би се забавио.	árbol	0	0
+Las tortugas no tienen dientes.	Kornjače nemaju zube.	dientes	0	0
+Maria tiene un gato blanco.	Марија има белу мачку.	gato	0	0
+Tengo tanta hambre como un lobo.	Gladan sam kao vuk.	tanta	0	0
+Éste es el castillo que visitamos la semana pasada.	Ово је замак који смо посетили прошле недеље.	pasada	0	0
+Estoy haciendo pan.	Печем хлеб.	pan	0	0
+Gracias a Dios que nadie resultó herido.	Hvala Bogu da niko nije bio povređen.	herido	0	0
+Soy María.	Ја сам Марија.	maría	0	0
+Esta silla es para usted. ¡Siéntese!	Ова столица је за вас. Седите!	silla	0	0
+Este artículo contiene algunas ideas totalmente nuevas.	Ovaj članak sadrži neke potpuno nove ideje.	ideas	0	0
+¿Bebe café?	Пијете ли кафу?	bebe	0	0
+La ciudad tiene una playa de arena muy larga.	Grad ima veoma dugačku peščanu plažu.	playa	0	0
+Su cabello es como la seda.	Njena kosa je kao svila.	cabello	0	0
+En las noches de invierno, el bosque está lleno de huellas de pies y esquís.	U zimskim noćima šuma je ispunjena tragovima stopala i skija.	huellas	0	0
+El bien gana siempre al mal.	Добро увек побеђује зло.	gana	0	0
+Aquí solía haber un gran parque.	Nekada je ovde bio veliki park.	parque	0	0
+Este artículo contiene algunas ideas totalmente nuevas.	Ovaj članak sadrži neke potpuno nove ideje.	nuevas	0	0
+La época de lluvias comienza en junio.	Сезона киша почиње у јуну.	época	0	0
+¿Qué desea?	Šta želite?	desea	0	0
+¡América ha vuelto!	Америка се вратила!	américa	0	0
+El matrimonio real fue un gran espectáculo.	Kraljevsko venšanje je bilo veliki spektakl.	espectáculo	0	0
+En el universo hay muchas galaxias.	Postoji mnogo galaksija u univerzumu.	universo	0	0
+Nuestro equipo llevaba camisetas rojas.	Naš tim je u crvenim majicama.	llevaba	0	0
+Érase una vez una bella princesa.	Nekada davno, živela je prelepa princeza.	princesa	0	0
+Cerca hay una parada de autobús.	U blizini se nalazi autobuska stanica.	autobús	0	0
+Allí se encuentra una magnífica playa de arena bordeada por un bonito paseo marítimo.	Tamo možeš da nađeš divnu peščanu plažu ograničenu lepom promenadom.	paseo	0	0
+Le he dirigido la pregunta directamente al Primer Ministro.	Ја сам упутио питање директно премијеру.	ministro	0	0
+¿Le diste una llave a Tom?	Jesi li dao Tomu ključ?	diste	0	0
+No conocía a todos en la habitación.	Нисам знала сваког у соби.	conocía	0	0
+Le he dirigido la pregunta directamente al Primer Ministro.	Ја сам упутио питање директно премијеру.	directamente	0	0
+Ella seguido cambia de opinión.	Она често мења своје мишљење.	cambia	0	0
+A mi esposa le gusta su jardín.	Моја супруга воли своју башту.	jardín	0	0
+¿Cuánto cuesta este sombrero?	Колико кошта овај шешир?	cuesta	0	0
+Tom está mintiendo. No hice lo que dijo.	Tom laže. Nisam to uradio šta je on rekao.	mintiendo	0	0
+¿Cuánto cuesta este sombrero?	Колико кошта овај шешир?	sombrero	0	0
+Soy cuatro años menor que él.	Ја сам четири године млађи од њега.	menor	0	0
+Este pájaro no vive ni en Japón ni en China.	Та птица не живи ни у Јапану ни у Кини.	china	0	0
+Recibí un correo electrónico de Tom esta mañana.	Jutros sam primio email od Toma.	correo	0	0
+Mi perro a menudo finge estar dormido.	Moj pas se često pretvara da spava.	dormido	0	0
+No estoy cien por cien seguro.	Nisam sto po sto siguran.	cien	0	0
+Cuantas lenguas hablas, tantos hombres vales.	Koliko jezika znaš, toliko ljudi vrediš.	tantos	0	0
+Dígame dónde vive.	Recite mi gde živite.	dígame	0	0
+¿Por qué quieres ser enfermera?	Zašto želiš da budeš medicinska sestra?	enfermera	0	0
+Érase una vez una bella princesa.	Nekada davno, živela je prelepa princeza.	bella	0	0
+La época de lluvias comienza en junio.	Сезона киша почиње у јуну.	comienza	0	0
+El japonés es nuestra lengua materna.	Јапански – наш матерњи језик.	lengua	0	0
+¿Cómo se siente cuando repruebas el examen?	Kakav je osećaj kada padneš ispit?	examen	0	0
+Un cuadrilátero es una figura geométrica con cuatro lados y cuatro ángulos.	Četvorougao je geometrijska figura sa četiri stranice i četiri ugla.	lados	0	0
+¿Él habla inglés, francés o alemán?	Говори ли он енглески, француски или немачки?	francés	0	0
+Esta silla es para usted. ¡Siéntese!	Ова столица је за вас. Седите!	siéntese	0	0
+Ese chocolate tiene un sabor entre dulce y amargo.	Ova čokolada ima ukus između slatkog i gorkog.	chocolate	0	0
+¿Hay conexión directa entre Varsovia y Berlín?	Postoji li direktna veza između Varšave i Berlina?	conexión	0	0
+Mira esos patos en el lago.	Gledaj te patke na jezeru.	lago	0	0
+El discurso de Tom ha estado muy interesante.	Tomov govor je bio prilično zanimljiv.	discurso	0	0
+¿Qué idioma hablan en Corea?	Kojim jezikom pričaju u Koreji?	hablan	0	0
+Nuestra hija única murió de cáncer.	Naša jedina ćerka je umrla od raka.	cáncer	0	0
+¡Felicidades!	Честитке!	felicidades	0	0
+Intentaré responder a tu pregunta.	Pokušaću da odgovorim na tvoje pitanje.	responder	0	0
+«¿Eres un estudiante japonés?» «Sí, lo soy».	"Da li si ti japanski student?" " Da, jesam".	estudiante	0	0
+Hoy es el Día Mundial de la Serpiente.	Данас је Светски дан змија.	mundial	0	0
+Alguien me robó el paraguas en la panadería.	Неко ми је украо кишобран у пекари.	robó	0	0
+¡Ey, ya basta!	E, sad je dosta!	ey	0	0
+Me duele el estómago.	Boli me stomak.	estómago	0	0
+¿Cuáles estudiantes van a tomar el examen?	Koji studenti će raditi test?	estudiantes	0	0
+¿Dónde trabajaba usted?	Gde ste radili?	trabajaba	0	0
+Díganme en dónde viven.	Recite mi gde živite.	viven	0	0
+Es carne de mono.	То је месо мајмуна.	mono	0	0
+Estoy aburrido.	Dosadno mi je.	aburrido	0	0
+Tom es un idiota útil.	Том је корисни идиот.	útil	0	0
+Éste es el castillo que visitamos la semana pasada.	Ово је замак који смо посетили прошле недеље.	castillo	0	0
+¿Cuáles estudiantes van a tomar el examen?	Koji studenti će raditi test?	cuáles	0	0
+Este artículo contiene algunas ideas totalmente nuevas.	Ovaj članak sadrži neke potpuno nove ideje.	artículo	0	0
+Hoy hablaremos del arte abstracto.	Данас ћемо причати о апстрактној уметности.	hablaremos	0	0
+Es un pescado.	Riba je.	pescado	0	0
+Luigi es un chico que le gusta estudiar.	Luiđi je dečak koji voli da uči.	estudiar	0	0
+Dime en dónde vives.	Reci mi gde živiš.	vives	0	0
+Le puso una cadena de oro al cuello.	Он је ставио златни ланац на њен врат.	cadena	0	0
+Deje de fumar.	Prestanite da pušite.	fumar	0	0
+Cerca hay una parada de autobús.	U blizini se nalazi autobuska stanica.	parada	0	0
+Funcionó bien.	To je dobro radilo.	funcionó	0	0
+Tengo tanta hambre como un lobo.	Gladan sam kao vuk.	lobo	0	0
+En las noches de invierno, el bosque está lleno de huellas de pies y esquís.	U zimskim noćima šuma je ispunjena tragovima stopala i skija.	invierno	0	0
+Allí se encuentra una magnífica playa de arena bordeada por un bonito paseo marítimo.	Tamo možeš da nađeš divnu peščanu plažu ograničenu lepom promenadom.	arena	0	0
+¿Puedo ver su licencia por favor?	Smem li da vidim Vašu vozačku dozvolu?	licencia	0	0
+Marina es de Rusia y Clarissa es de Suecia.	Marina je iz Rusije, a Clarissa je iz Švedske.	marina	0	0
+Me quiero casar.	Хоћу да се женим.	casar	0	0
+Recibí un correo electrónico de Tom esta mañana.	Jutros sam primio email od Toma.	recibí	0	0
+Ella tiene dos hermanas.	Она има две сестре.	hermanas	0	0
+¿Él habla inglés, francés o alemán?	Говори ли он енглески, француски или немачки?	alemán	0	0
+Tengo una revista en mi habitación.	Имам часопис у својој соби.	revista	0	0
+¿Hasta cuando abusarás, Catilina, de nuestra paciencia?	Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	paciencia	0	0
+Él seguido cambia de opinión.	On često menja svoje mišljenje.	seguido	0	0
+Él juega al golf.	Он игра голф.	juega	0	0
+El nuevo virus corona es muy infeccioso.	Нови коронавирус је веома заразан.	virus	0	0
+He aprendido un montón.	Puno toga sam naučio.	aprendido	0	0
+Cuantas lenguas hablas, tantos hombres vales.	Koliko jezika znaš, toliko ljudi vrediš.	cuantas	0	0
+¡Buenas noches y dulces sueños!	Laku noć i lepi snovi!	dulces	0	0
+Ayer estaba tan agotado que me desplomé sobre el sofá.	Juče sam bio tako iscrpljen da sam se samo skljokao na sofu.	sofá	0	0
+¿Quién crees que ganó?	Šta misliš, ko je pobedio?	ganó	0	0
+Es una muñeca.	То је лутка.	muñeca	0	0
+Este pájaro no vive ni en Japón ni en China.	Та птица не живи ни у Јапану ни у Кини.	pájaro	0	0
+La mentira suena bien, pero me gustaría escuchar la pura verdad.	Та лаж лепо звучи, али ја бих желео да чујем чисту истину.	pura	0	0
+Tenés hasta la medianoche.	Imaš vremena do ponoći.	medianoche	0	0
+¡Muera el colonialismo!	Смрт колонијализму!	muera	0	0
+Lo que se quería demostrar.	Što je bilo dokazati.	demostrar	0	0
+Me encantan los idiomas.	Volim jezike.	encantan	0	0
+Las bolas son redondas.	Лопте су округле.	bolas	0	0
+Juan es mi mejor amigo.	Џон је мој добар друг.	juan	0	0
+Sigo sin escribir bien en chino.	Још увек не пишем добро кинески.	chino	0	0
+¡Jaque mate!	Шах-мат!	mate	0	0
+La conferencia terminará mañana.	Конференција ће завршити сутра.	conferencia	0	0
+Ellas compraron una caja de galletas.	Они су купили кутију кекса.	galletas	0	0
+¿Dónde está el museo?	Где је музеј?	museo	0	0
+Ella es rica.	Ona je bogata.	rica	0	0
+Tom no sabe cómo usar un ordenador.	Tom ne zna kako da koristi računar.	ordenador	0	0
+Intentaré responder a tu pregunta.	Pokušaću da odgovorim na tvoje pitanje.	intentaré	0	0
+No puedo hablar en inglés, mucho menos en español.	Не знам енглески, још мање шпански.	español	0	0
+Él juega al golf.	Он игра голф.	golf	0	0
+Tom habla español, y Betty también habla español.	Tom govori Španski; i Beti takođe govori Španski.	betty	0	0
+Marina es de Rusia y Clarissa es de Suecia.	Marina je iz Rusije, a Clarissa je iz Švedske.	rusia	0	0
+Hoy es el Día Mundial de la Serpiente.	Данас је Светски дан змија.	serpiente	0	0
+Este pájaro no vive ni en Japón ni en China.	Та птица не живи ни у Јапану ни у Кини.	japón	0	0
+Pedro es un hombre sincero.	Петар је истинољубив човек.	sincero	0	0
+¿Qué deseas?	Šta želiš?	deseas	0	0
+Ese chocolate tiene un sabor entre dulce y amargo.	Ova čokolada ima ukus između slatkog i gorkog.	sabor	0	0
+Mi apellido es Wang.	Моје презиме је Ванг.	apellido	0	0
+¿Tienes arroz?	Imaš li pirinča?	arroz	0	0
+Gracias a Dios que nadie resultó herido.	Hvala Bogu da niko nije bio povređen.	resultó	0	0
+¿Cuántos exámenes tomaste este año?	Na koliko si ispita izašao ove godine?	tomaste	0	0
+No podía aguantar más el dolor.	Више није могао да издржи бол.	aguantar	0	0
+La capital de Serbia es Belgrado.	Главни град Србије је Београд.	capital	0	0
+Como se sabe, no hay límites para la perfección.	Perfekciji, koliko znamo, nema granica.	límites	0	0
+El Gobierno tendría que derogar esas viejas normas.	Vlada bi trebala da ukine ova stara pravila.	viejas	0	0
+¡Enhorabuena!	Čestitam!	enhorabuena	0	0
+Lo hemos pasado bien cantando juntos.	Уживали смо певајући заједно.	cantando	0	0
+¿Cuál es la diferencia entre religión y filosofía?	Koja je razlika između religije i filozofije?	religión	0	0
+El nuevo virus corona es muy infeccioso.	Нови коронавирус је веома заразан.	corona	0	0
+"No puedo encontrar a Tom." "Intenta llamarlo."	„Ne mogu da nađem Toma.‟ „Probaj da ga pozoveš.‟	llamarlo	0	0
+Pedro es un hombre sincero.	Петар је истинољубив човек.	pedro	0	0
+Mi hermana me abrió la puerta.	Moja sestra mi je otvorila vrata.	abrió	0	0
+Maja Keuc es una buena cantante.	Maja Keuc je dobra pevačica.	cantante	0	0
+Un cuadrilátero es una figura geométrica con cuatro lados y cuatro ángulos.	Četvorougao je geometrijska figura sa četiri stranice i četiri ugla.	figura	0	0
+Estoy armada.	Naoružana sam.	armada	0	0
+Su cocina es cómoda para trabajar.	Ваша кухиња је угодна за рад.	cómoda	0	0
+¿Hay conexión directa entre Varsovia y Berlín?	Postoji li direktna veza između Varšave i Berlina?	berlín	0	0
+Él te mintió.	Он те је лагао.	mintió	0	0
+Amo las matemáticas.	Ја волим математику.	matemáticas	0	0
+La época de lluvias comienza en junio.	Сезона киша почиње у јуну.	junio	0	0
+Todo esto es increíblemente importante.	Sve ovo je neverovatno važno.	increíblemente	0	0
+Les enseñaré algunas fotos.	Показаћу вам неколико слика.	enseñaré	0	0
+El perro se llama Ken.	Пас зове се Кен.	ken	0	0
+La cocina francesa es excelente.	Francuska kuhinja je odlična.	francesa	0	0
+Ahora no estoy estudiando.	Sada ne učim.	estudiando	0	0
+Estoy armado.	Naoružan sam.	armado	0	0
+Al principio Dios creó el cielo y la tierra.	У почетку Бог је створио небо и Земљу.	creó	0	0
+No pierdas la esperanza.	Не губи наду.	pierdas	0	0
+El Gobierno tendría que derogar esas viejas normas.	Vlada bi trebala da ukine ova stara pravila.	normas	0	0
+¿Qué idioma hablan en Corea?	Kojim jezikom pričaju u Koreji?	idioma	0	0
+Maria tiene un gato blanco.	Марија има белу мачку.	maria	0	0
+¿Cuántos exámenes tomaste este año?	Na koliko si ispita izašao ove godine?	exámenes	0	0
+¿Dónde está el vodka?	Gde je votka?	vodka	0	0
+¿Hay conexión directa entre Varsovia y Berlín?	Postoji li direktna veza između Varšave i Berlina?	directa	0	0
+Tom no comió mucho.	Tom nije jeo mnogo.	comió	0	0
+Él cortó el árbol para divertirse.	Он је исцепао стабло да би се забавио.	cortó	0	0
+Dame mil besos.	Дај ми хиљаду пољубаца.	besos	0	0
+Espérame por aquí por favor.	Чекај ме овде, молим те.	espérame	0	0
+¿Cuántas manzanas?	Koliko jabuka?	manzanas	0	0
+¿Qué lengua se habla en Corea?	Kojim jezikom pričaju u Koreji?	corea	0	0
+Cuidado con no meterte en el camino de alguien.	Pazi da ne stojiš nekom na putu.	meterte	0	0
+Él es el autor del artículo.	Он је аутор чланка.	autor	0	0
+El padre de él es japonés.	Његов отац је Јапанац.	japonés	0	0
+Este artículo contiene algunas ideas totalmente nuevas.	Ovaj članak sadrži neke potpuno nove ideje.	contiene	0	0
+Wang Lao Ji no es una cerveza, es té.	Ванг Лао Ђи није пиво. Чај је.	ji	0	0
+La avena es un alimento valioso.	Овас је драгоцена храна.	valioso	0	0
+¿En dónde compraste utensilios de cocina tan bonitos?	Где сте купили овако лепо посуђе?	compraste	0	0
+La conferencia terminará mañana.	Конференција ће завршити сутра.	terminará	0	0
+Juego al tenis.	Igram tenis.	tenis	0	0
+Miles perdieron sus hogares.	Hiljade je izgubilo svoje domove.	perdieron	0	0
+Una araña teje una telaraña.	Pauk plete mrežu.	araña	0	0
+Aquí está la oficina de correos y aquí está el banco.	Ово је пошта, а ово је банка.	correos	0	0
+Nuestro equipo llevaba camisetas rojas.	Naš tim je u crvenim majicama.	rojas	0	0
+Su cabello es como la seda.	Njena kosa je kao svila.	seda	0	0
+Ahora él vive en Tokio.	On sada živi u Tokiju.	tokio	0	0
+El accidente causó el embotellamiento.	Nesreća je prouzrokovala zastoj.	causó	0	0
+Esto no es una oración.	Ово није реченица.	oración	0	0
+Hoy es el Día Mundial del Elefante.	Данас је Светски дан слонова.	elefante	0	0
+Me gusta estudiar idiomas extranjeros.	Волим да студирам стране језике.	extranjeros	0	0
+¿En dónde compraste utensilios de cocina tan bonitos?	Где сте купили овако лепо посуђе?	bonitos	0	0
+¡Buen apetito!	Добар тек!	apetito	0	0
+Lo sabrán.	Znaće.	sabrán	0	0
+Hay muchos huéspedes en esta habitación.	Много је гостију у тој соби.	huéspedes	0	0
+Los planetas giran alrededor de una estrella.	Планете се окрећу око звезде.	planetas	0	0
+Estoy hambriento.	Gladan sam.	hambriento	0	0
+¿Es usted un cocinero hábil?	Да ли сте вешт кувар?	cocinero	0	0
+¿Cuál es la diferencia entre religión y filosofía?	Koja je razlika između religije i filozofije?	filosofía	0	0
+No me sé la contraseña.	Ne znam šifru.	contraseña	0	0
+Egipto es un regalo del Nilo.	Египат је дар Нила.	egipto	0	0
+Él cortó el árbol para divertirse.	Он је исцепао стабло да би се забавио.	divertirse	0	0
+Yo enseño.	Ja predajem.	enseño	0	0
+¿Quién nos ha traicionado?	Ко нас је издао?	traicionado	0	0
+Edimburgo es la capital de Escocia.	Единбург је главни град Шкотске.	escocia	0	0
+Los videos de YouTube son muy absurdos.	YouTube video materijali su vrlo besmisleni.	videos	0	0
+La avena es un alimento valioso.	Ovas je dragocena hrana.	alimento	0	0
+No recibirá ni un céntimo.	Nećete dobiti ni centa.	recibirá	0	0
+Odio a mi vecina.	Мрзим своју комшиницу.	vecina	0	0
+El trueno asustó a los niños.	Гром је уплашио децу.	asustó	0	0
+Ayer estaba tan agotado que me desplomé sobre el sofá.	Juče sam bio tako iscrpljen da sam se samo skljokao na sofu.	agotado	0	0
+Trabaja para vivir, no vivas para trabajar.	Ради како би живела, немој да живиш за посао.	vivas	0	0
+Recibí un correo electrónico de Tom esta mañana.	Jutros sam primio email od Toma.	electrónico	0	0
+Allí se encuentra una magnífica playa de arena bordeada por un bonito paseo marítimo.	Tamo možeš da nađeš divnu peščanu plažu ograničenu lepom promenadom.	magnífica	0	0
+Tenés hasta medianoche.	Imaš vremena do ponoći.	tenés	0	0
+Como se sabe, no hay límites para la perfección.	Perfekciji, koliko znamo, nema granica.	perfección	0	0
+Hoy, oímos una historia acerca de la extracción de biogas.	Данас смо чули причу о издвајању биогаса.	oímos	0	0
+Su abuelo falleció en paz.	Његов деда преминуо је мирно.	falleció	0	0
+Bésame.	Пољуби ме.	bésame	0	0
+¿Le gusta la comida picante?	Волите ли зачињена јела?	picante	0	0
+Yo soy Jorge.	Ја сам Хорхе.	jorge	0	0
+Estoy enseñando.	Ja predajem.	enseñando	0	0
+¡Chau!	Довиђења!	chau	0	0
+Miles perdieron sus hogares.	Hiljade je izgubilo svoje domove.	hogares	0	0
+¿Usted aquí es profesor o alumno?	Да ли сте овде учитељ или ученик?	alumno	0	0
+Le he dirigido la pregunta directamente al Primer Ministro.	Ја сам упутио питање директно премијеру.	dirigido	0	0
+Wang Lao Ji no es una cerveza, es té.	Ванг Лао Ђи није пиво. Чај је.	wang	0	0
+¿Cómo se dice "cat" en español?	Како се каже „мачка“ на шпанском?	cat	0	0
+Mi tía me regaló flores.	Moja tetka mi je dala cveće.	regaló	0	0
+Una muralla rodea la ciudad.	Grad je opasan gradskim zidinama.	rodea	0	0
+Alguien me robó el paraguas en la panadería.	Неко ми је украо кишобран у пекари.	paraguas	0	0
+Esta es una pastilla para dormir muy fuerte.	Ovo je vrlo snažan lek za spavanje.	pastilla	0	0
+¡El latín es la lengua del futuro!	Latinski je jezik budućnosti!	latín	0	0
+Marina es de Rusia y Clarissa es de Suecia.	Marina je iz Rusije, a Clarissa je iz Švedske.	suecia	0	0
+Chao.	Довиђења!	chao	0	0
+Aquí no hace tanto frío como en Alaska.	Овде није тако хладно као на Аљасци.	alaska	0	0
+Hay una hostilidad notable entre ellos.	Забележено је непријатељство између њих.	notable	0	0
+Nuestro equipo llevaba camisetas rojas.	Naš tim je u crvenim majicama.	camisetas	0	0
+Hey, calmado.	Hej, opušteno.	calmado	0	0
+El corazón late.	Srce bije.	late	0	0
+Mi perro a menudo finge estar dormido.	Moj pas se često pretvara da spava.	finge	0	0
+Cuando crezca, quiero ser un rey.	Када порастем хоћу да будем краљ.	crezca	0	0
+No debes tocarlo.	Ne smeš to da diraš.	tocarlo	0	0
+Díganme dónde viven.	Kažite mi gde živite.	díganme	0	0
+En el universo hay muchas galaxias.	Postoji mnogo galaksija u univerzumu.	galaxias	0	0
+Mira esos patos en el lago.	Gledaj te patke na jezeru.	patos	0	0
+Estuve paseando para matar el tiempo.	Šetao sam se ulicama, da ubijem vreme.	paseando	0	0
+El trueno asustó a los niños.	Гром је уплашио децу.	trueno	0	0
+¿Es usted un cocinero hábil?	Да ли сте вешт кувар?	hábil	0	0
+Estoy hambrienta.	Gladna sam.	hambrienta	0	0
+Hoy, oímos una historia acerca de la extracción de biogas.	Данас смо чули причу о издвајању биогаса.	extracción	0	0
+Las tortugas no tienen dientes.	Kornjače nemaju zube.	tortugas	0	0
+Resuelve el problema.	Reši problem.	resuelve	0	0
+Ese chocolate tiene un sabor entre dulce y amargo.	Ova čokolada ima ukus između slatkog i gorkog.	amargo	0	0
+Cuantas lenguas hablas, tantos hombres vales.	Koliko jezika znaš, toliko ljudi vrediš.	vales	0	0
+Ellas compraron una caja de galletas.	Они су купили кутију кекса.	compraron	0	0
+Me encantan los idiomas.	Volim jezike.	idiomas	0	0
+Prefiero el vino tinto al blanco.	Више волим црвено него бело вино.	tinto	0	0
+Dude si quiere, pero yo estoy seguro de lo que le digo.	Сумњајте, ако хоћете, али ја сам сигуран о томе што вам кажем.	dude	0	0
+No me interesaba.	Nije me zanimalo.	interesaba	0	0
+Después de salir de casa me di cuenta de que me dejé la llave dentro de la vivienda.	Pošto sam otputovao od kuće, shvatio sam da su moji ključevi ostali u stanu.	vivienda	0	0
+¿Cuál es tu grupo sanguíneo?	Која је твоја крвна група?	sanguíneo	0	0
+¿Dónde trabajaban?	Gde ste radili?	trabajaban	0	0
+¡Jaque mate!	Шах-мат!	jaque	0	0
+Los videos de YouTube son muy absurdos.	YouTube video materijali su vrlo besmisleni.	youtube	0	0
+La avena es un alimento valioso.	Овас је драгоцена храна.	avena	0	0
+Yo no lo escogí.	Ја нисам изабрао њега.	escogí	0	0
+Mi madre es griega.	Moja mati je Grkinja.	griega	0	0
+Cuantas lenguas hablas, tantos hombres vales.	Koliko jezika znaš, toliko ljudi vrediš.	lenguas	0	0
+Tomás tiene tres hijos grandes.	Tom ima tri odrasla sina.	tomás	0	0
+Aprendo coreano.	Učim korejski.	coreano	0	0
+No cierres los ojos.	Ne zatvaraj oči.	cierres	0	0
+Alguien me robó el paraguas en la panadería.	Неко ми је украо кишобран у пекари.	panadería	0	0
+¡Creé en el amor!	Veruj u ljubav!	creé	0	0
+¿Hay conexión directa entre Varsovia y Berlín?	Postoji li direktna veza između Varšave i Berlina?	varsovia	0	0
+¿Dónde trabajabas?	Gde si radila?	trabajabas	0	0
+La época de lluvias comienza en junio.	Сезона киша почиње у јуну.	lluvias	0	0
+Siempre tengo problemas para que me entiendan.	Uvek imam problema da me razumeju.	entiendan	0	0
+Un cuadrilátero es una figura geométrica con cuatro lados y cuatro ángulos.	Četvorougao je geometrijska figura sa četiri stranice i četiri ugla.	ángulos	0	0
+Luigi es un chico que le gusta aprender.	Luiđi je dečak koji voli da uči.	luigi	0	0
+La ciudad está circundada por una muralla.	Grad je opasan gradskim zidinama.	muralla	0	0
+No recibirá ni un céntimo.	Nećete dobiti ni centa.	céntimo	0	0
+Aprendo coreano.	Učim korejski.	aprendo	0	0
+Los niños pequeños son incapaces de pensar de manera abstracta.	Мала деца нису способна да мисле на апстрактан начин.	incapaces	0	0
+La ciudad es uno de los destinos vacacionales preferidos.	Grad je jedan od najpopularnijih britanskih mesta za odmor.	destinos	0	0
+Hay una hostilidad notable entre ellos.	Забележено је непријатељство између њих.	hostilidad	0	0
+Wang Lao Ji no es una cerveza, es té.	Ванг Лао Ђи није пиво. Чај је.	lao	0	0
+Egipto es un regalo del Nilo.	Египат је дар Нила.	nilo	0	0
+La capital de Serbia es Belgrado.	Главни град Србије је Београд.	serbia	0	0
+Los planetas giran alrededor de una estrella.	Планете се окрећу око звезде.	giran	0	0
+Maja Keuc es una buena cantante.	Maja Keuc je dobra pevačica.	maja	0	0
+¿Cómo llamáis a vuestro perro?	Како зовете вашег пса?	llamáis	0	0
+Me gusta la comida coreana.	Волим корејску храну.	coreana	0	0
+El japonés es nuestra lengua materna.	Јапански – наш матерњи језик.	materna	0	0
+La capital de Serbia es Belgrado.	Главни град Србије је Београд.	belgrado	0	0
+Como dice el refrán, el tiempo es oro.	Како каже пословица, време је новац.	refrán	0	0
+Se rieron de su error.	Они су се смејали због његове грешке.	rieron	0	0
+Edimburgo es la capital de Escocia.	Единбург је главни град Шкотске.	edimburgo	0	0
+El hijo de Tom falleció en un accidente automovilístico el invierno pasado.	Tomov sin je poginuo u saobraćajnoj nesreći prošle zime.	automovilístico	0	0
+Érase una vez una bella princesa.	Nekada davno, živela je prelepa princeza.	érase	0	0
+Soy ateo.	Ja sam ateista.	ateo	0	0
+Marina es de Rusia y Clarissa es de Suecia.	Marina je iz Rusije, a Clarissa je iz Švedske.	clarissa	0	0
+Una araña teje una telaraña.	Pauk plete mrežu.	telaraña	0	0
+Un cuadrilátero es una figura geométrica con cuatro lados y cuatro ángulos.	Četvorougao je geometrijska figura sa četiri stranice i četiri ugla.	cuadrilátero	0	0
+Allí se encuentra una magnífica playa de arena bordeada por un bonito paseo marítimo.	Tamo možeš da nađeš divnu peščanu plažu ograničenu lepom promenadom.	marítimo	0	0
+Éste es el castillo que visitamos la semana pasada.	Ово је замак који смо посетили прошле недеље.	visitamos	0	0
+Hoy hablaremos del arte abstracto.	Данас ћемо причати о апстрактној уметности.	abstracto	0	0
+No mandes esa carta.	Nemoj da šalješ to pismo.	mandes	0	0
+¡Abracadabra!	Абракадабра!	abracadabra	0	0
+Soy arqueólogo.	Ja sam arheolog.	arqueólogo	0	0
+¿En dónde compraste utensilios de cocina tan bonitos?	Где сте купили овако лепо посуђе?	utensilios	0	0
+¿Dónde está Teherán?	Gde je Teheran?	teherán	0	0
+La ciudad es uno de los destinos vacacionales preferidos.	Grad je jedan od najpopularnijih britanskih mesta za odmor.	preferidos	0	0
+Nieva.	Пада снег.	nieva	0	0
+Las bolas son redondas.	Лопте су округле.	redondas	0	0
+Siempre serás criticado.	Ti ćeš uvek biti kritikovan.	criticado	0	0
+Tuvimos un día ajetreado.	Imali smo naporan dan.	ajetreado	0	0
+En las noches de invierno, el bosque está lleno de huellas de pies y esquís.	U zimskim noćima šuma je ispunjena tragovima stopala i skija.	esquís	0	0
+Los videos de YouTube son muy absurdos.	YouTube video materijali su vrlo besmisleni.	absurdos	0	0
+Atrápame si puedes.	Ухвати ме ако можеш.	atrápame	0	0
+¿Dónde están las jirafas?	Gde su žirafe?	jirafas	0	0
+El accidente causó el embotellamiento.	Nesreća je prouzrokovala zastoj.	embotellamiento	0	0
+Una araña teje una telaraña.	Pauk plete mrežu.	teje	0	0
+Los niños pequeños son incapaces de pensar de manera abstracta.	Мала деца нису способна да мисле на апстрактан начин.	abstracta	0	0
+Bob es mi cuate.	Bob je moj drug.	cuate	0	0

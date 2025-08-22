@@ -1,0 +1,329 @@
+Немам дом во којшто би можел да се вратам.	Ich habe kein Haus, wohin ich zurückkehren könnte.	да	0	0
+Таа не сакаше да зборува за тоа.	Sie wollte nicht darüber reden.	не	0	0
+Моите оценки се надпросечни.	Meine Noten liegen über dem Durchschnitt.	се	0	0
+Новиот коронавирус е високо заразен.	Das neue Coronavirus ist sehr infektiös.	е	0	0
+Том не беше педер, но неговите пријатели сепак ѝ велеа на девојка му дека е.	Tom war nicht schwul, doch Toms Freunde sagten seiner Freundin, er sei ein Homosexueller.	на	0	0
+Не ѝ го разбра вицот.	Er verstand ihren Witz nicht.	го	0	0
+Никој не знае освен Том и мене.	Niemand weiß es, außer Tom und mir.	и	0	0
+Што имаш во чантата?	Was haben Sie in ihrer Tasche?	што	0	0
+Ми треба нешто на коешто ќе можам да пишувам.	Ich brauche etwas, worauf ich schreiben kann.	ќе	0	0
+Пред три години бев во Бостон.	Vor drei Jahren war ich in Boston.	во	0	0
+Тоа е добро или лошо за нас?	Ist das für uns gut oder schlecht?	за	0	0
+Тоа не работи.	Das funktioniert nicht.	тоа	0	0
+Ти треба работа.	Du brauchst eine Arbeit.	ти	0	0
+Знам дека не правиш така.	Ich weiß, dass du das nicht tust.	дека	0	0
+Атмосферата не штити од метеори.	Die Atmosphäre schützt uns vor Meteoren.	од	0	0
+Таа си ги украсови ѕидовите со постери.	Sie dekoriert sich die Wände mit Postern.	со	0	0
+Ми треба нешто на коешто ќе можам да пишувам.	Ich brauche etwas, worauf ich schreiben kann.	ми	0	0
+Зошто не си во Бостон?	Warum bist du nicht in Boston?	си	0	0
+Мислам дека знам како да ја најдам.	Ich glaube, ich weiß, wie sie zu finden ist.	ја	0	0
+Ќерка ми сака летно овошје, како црешни, лубеници и праски.	Meine Tochter ißt gerne Sommerfrüchte, wie zum Beispiel Kirschen, Wassermelonen und Pfirsiche.	како	0	0
+Јас живеам во Молдавија.	Ich wohne in Moldawien.	јас	0	0
+Се трудам да ги запамтам имињата на соѕвездијата.	Ich versuche, mir die Namen der Sternbilder zu merken.	ги	0	0
+Ова е најубавото време во годината.	Das ist die beste Zeit des Jahres.	ова	0	0
+Јас сум Бугарин.	Ich bin Bulgare.	сум	0	0
+Тоа е добро или лошо за нас?	Ist das für uns gut oder schlecht?	добро	0	0
+Мери ме потсеќа на мене на таа возраст.	Maria erinnert mich an mich selbst in dem Alter.	ме	0	0
+Том никогаш не те љубел.	Tom hat dich nie geliebt.	те	0	0
+Сите книжари се ѓаволи. Треба посебен пекол да се отвори само за нив.	Die Buchhändler sind alle des Teufels! Für sie sollte es eine eigene Hölle geben.	само	0	0
+Можеш ли да ме штитиш?	Kannst du mich beschützen?	ли	0	0
+Нема пирамиди во Европа.	In Europa gibt es keine Pyramiden.	нема	0	0
+Том не беше педер, но неговите пријатели сепак ѝ велеа на девојка му дека е.	Tom war nicht schwul, doch Toms Freunde sagten seiner Freundin, er sei ein Homosexueller.	но	0	0
+Тој живее просечен живот.	Er führt ein durchschnittliches Leben.	тој	0	0
+Нејзиниот талент за музика беше просечен.	Ihr musikalisches Talent war durchschnittlich.	беше	0	0
+Ти треба работа.	Du brauchst eine Arbeit.	треба	0	0
+Не плачам кога сум среќен.	Ich weine nicht, wenn ich glücklich bin.	кога	0	0
+Иако Том ми е комшија, не го познавам многу добро.	Obwohl Tom mein Nachbar ist, kenne ich ihn nicht allzu gut.	многу	0	0
+Мислам дека знам како да ја најдам.	Ich glaube, ich weiß, wie sie zu finden ist.	знам	0	0
+Том знае кој сум.	Tom weiß, wer ich bin.	кој	0	0
+Таа му најде седиште.	Sie hat für ihn einen Platz gefunden.	му	0	0
+Том има внук.	Tom hat einen Enkel.	има	0	0
+Имам нешто за него.	Ich habe etwas für ihn.	нешто	0	0
+Мери ме потсеќа на мене на таа возраст.	Maria erinnert mich an mich selbst in dem Alter.	мене	0	0
+Немам дом во којшто би можел да се вратам.	Ich habe kein Haus, wohin ich zurückkehren könnte.	би	0	0
+Каде е оригиналот?	Wo ist das Original?	каде	0	0
+Не сакам роденденска прослава.	Ich will keine Geburtstagsfeier.	сакам	0	0
+Зошто работиш тука?	Warum arbeitest du hier?	тука	0	0
+Дали работиш во центар?	Arbeitest du in der Stadt?	дали	0	0
+Знам дека не правиш така.	Ich weiß, dass du das nicht tust.	така	0	0
+Зошто зеваш?	Warum gähnst du?	зошто	0	0
+Сите книжари се ѓаволи. Треба посебен пекол да се отвори само за нив.	Die Buchhändler sind alle des Teufels! Für sie sollte es eine eigene Hölle geben.	сите	0	0
+Зошто ни помагаш?	Warum hilfst du uns?	ни	0	0
+Знаеш ли за кого зборувам?	Weißt du, von wem ich spreche?	знаеш	0	0
+Таа навистина ме пали.	Sie macht mich richtig an.	таа	0	0
+Каде можам да те најдам?	Wo kann ich dich finden?	можам	0	0
+Добив тројка по англиски.	Ich habe in Englisch eine Drei bekommen.	по	0	0
+Мислам дека знам како да го најдам.	Ich glaube, ich weiß, wie er zu finden ist.	мислам	0	0
+Баш истото му се случи на еден мој добар пријател.	Genau das gleiche ist einem guten Freund von mir auch passiert.	еден	0	0
+Тоа е добро или лошо за нас?	Ist das für uns gut oder schlecht?	или	0	0
+Ова е најубавото време во годината.	Das ist die beste Zeit des Jahres.	време	0	0
+Никој ништо нема.	Niemand hat etwas.	ништо	0	0
+Пред три години бев во Бостон.	Vor drei Jahren war ich in Boston.	пред	0	0
+Можеби ќе напишам книга.	Vielleicht schreibe ich ein Buch.	можеби	0	0
+Имам нешто за неа.	Ich habe etwas für sie.	имам	0	0
+Те молам врати ми се.	Bitte komm zu mir zurück!	молам	0	0
+Таа навистина ме пали.	Sie macht mich richtig an.	навистина	0	0
+Можеби можеш да помогнеш.	Vielleicht kannst du helfen.	можеш	0	0
+Имам нешто за него.	Ich habe etwas für ihn.	него	0	0
+Ти треба работа.	Du brauchst eine Arbeit.	работа	0	0
+Зошто е Дан толку насилен?	Warum ist Dan so gewalttätig?	толку	0	0
+Том никогаш не те љубел.	Tom hat dich nie geliebt.	никогаш	0	0
+Што имаш во чантата?	Was haben Sie in ihrer Tasche?	имаш	0	0
+Им верувам.	Ich glaube denen.	им	0	0
+Мојата постара сестра свири на клавир секој ден.	Meine ältere Schwester spielt jeden Tag Klavier.	мојата	0	0
+Која ти е омилена марка?	Was ist deine Lieblingsmarke?	која	0	0
+Том веќе не е во Бостон.	Tom ist nicht mehr in Boston.	веќе	0	0
+Тоа не работи.	Das klappt nicht.	работи	0	0
+Да, имаме две деца.	Ja, wir haben zwei Kinder.	имаме	0	0
+Пред три години бев во Бостон.	Vor drei Jahren war ich in Boston.	години	0	0
+Тоа е добро или лошо за нас?	Ist das für uns gut oder schlecht?	нас	0	0
+Мојата постара сестра свири на клавир секој ден.	Meine ältere Schwester spielt jeden Tag Klavier.	ден	0	0
+Оваа книга не се работи за лингвистика.	Dieses Buch handelt nicht von Linguistik.	оваа	0	0
+Фала за вчера.	Danke für gestern.	фала	0	0
+Знам дека не правиш така.	Ich weiß, dass du das nicht tust.	правиш	0	0
+Ќерка ми сака летно овошје, како црешни, лубеници и праски.	Meine Tochter ißt gerne Sommerfrüchte, wie zum Beispiel Kirschen, Wassermelonen und Pfirsiche.	сака	0	0
+Барем така рече тој.	Zumindest hat er das gesagt.	рече	0	0
+Пред три години бев во Бостон.	Vor drei Jahren war ich in Boston.	бев	0	0
+Баш истото му се случи на еден мој добар пријател.	Genau das gleiche ist einem guten Freund von mir auch passiert.	случи	0	0
+Никој ништо нема.	Niemand hat etwas.	никој	0	0
+Имам нешто за неа.	Ich habe etwas für sie.	неа	0	0
+Баш истото му се случи на еден мој добар пријател.	Genau das gleiche ist einem guten Freund von mir auch passiert.	добар	0	0
+Бразил бил откриен пред 515 години.	Brasilien wurde vor 515 Jahren entdeckt.	бил	0	0
+Сите книжари се ѓаволи. Треба посебен пекол да се отвори само за нив.	Die Buchhändler sind alle des Teufels! Für sie sollte es eine eigene Hölle geben.	нив	0	0
+Ѝ поставив неколку прашања.	Ich habe ihr einige Fragen gestellt.	неколку	0	0
+Тој живее просечен живот.	Er führt ein durchschnittliches Leben.	живот	0	0
+Мојата постара сестра свири на клавир секој ден.	Meine ältere Schwester spielt jeden Tag Klavier.	секој	0	0
+Никој не знае освен Том и мене.	Niemand weiß es, außer Tom und mir.	знае	0	0
+Имам право да критикувам.	Ich habe das Recht zu kritisieren.	право	0	0
+Моите оценки се надпросечни.	Meine Noten liegen über dem Durchschnitt.	моите	0	0
+Те молам врати ми се.	Bitte komm zu mir zurück!	врати	0	0
+Пред три години бев во Бостон.	Vor drei Jahren war ich in Boston.	три	0	0
+Моето име е Рикардо.	Ich heiße Ricardo.	моето	0	0
+Баш истото му се случи на еден мој добар пријател.	Genau das gleiche ist einem guten Freund von mir auch passiert.	баш	0	0
+Едно сениште врти низ Европа — сеништето на комунизмот.	Ein Gespenst geht um in Europa – das Gespenst des Kommunismus.	едно	0	0
+Не ми е убаво да ја чекам.	Ich mag nicht auf sie warten.	убаво	0	0
+Животот е мистерија.	Das Leben ist ein Mysterium.	животот	0	0
+Тоа беше проблем.	Das war ein Problem.	проблем	0	0
+Немам дом во којшто би можел да се вратам.	Ich habe kein Haus, wohin ich zurückkehren könnte.	немам	0	0
+Немам време да ти помогнам денес.	Ich habe heute keine Zeit, um dir zu helfen.	денес	0	0
+Баш истото му се случи на еден мој добар пријател.	Genau das gleiche ist einem guten Freund von mir auch passiert.	мој	0	0
+Моето име е Рикардо.	Ich heiße Ricardo.	име	0	0
+Том има две деца.	Tom hat zwei Kinder.	две	0	0
+Те слушнав како зборуваш на француски.	Ich habe dich Französisch sprechen hören.	зборуваш	0	0
+Едно сениште врти низ Европа — сеништето на комунизмот.	Ein Gespenst geht um in Europa – das Gespenst des Kommunismus.	низ	0	0
+Утре не работам.	Morgen arbeite ich nicht.	утре	0	0
+Баш истото му се случи на еден мој добар пријател.	Genau das gleiche ist einem guten Freund von mir auch passiert.	пријател	0	0
+Том има две деца.	Tom hat zwei Kinder.	деца	0	0
+Тоа е добро или лошо за нас?	Ist das für uns gut oder schlecht?	лошо	0	0
+Том не беше педер, но неговите пријатели сепак ѝ велеа на девојка му дека е.	Tom war nicht schwul, doch Toms Freunde sagten seiner Freundin, er sei ein Homosexueller.	девојка	0	0
+Моите оценки беа просечни.	Meine Schulnoten waren durchschnittlich.	беа	0	0
+Таа научи англиски неверојатно брзо.	Sie hat unwahrscheinlich schnell Englisch gelernt.	брзо	0	0
+Им верувам.	Ich glaube denen.	верувам	0	0
+Знаев дека ќе го најдеш.	Ich wußte, daß du ihn finden würdest.	знаев	0	0
+Ја остави во град.	Er hat sie in der Stadt gelassen.	остави	0	0
+Никој не знае освен Том и мене.	Niemand weiß es, außer Tom und mir.	освен	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Es gibt keinen Gott außer Allah, und Mohammed ist sein Prophet.	друго	0	0
+Немам дом во којшто би можел да се вратам.	Ich habe kein Haus, wohin ich zurückkehren könnte.	вратам	0	0
+Кого чекаме?	Auf wen warten wir?	кого	0	0
+Се надевам дека е доста.	Ich hoffe, das ist genug.	доста	0	0
+Нема долго да те држам.	Ich werde dich nicht lange aufhalten.	долго	0	0
+Таа не сакаше да зборува за тоа.	Sie wollte nicht darüber reden.	сакаше	0	0
+Том не беше педер, но неговите пријатели сепак ѝ велеа на девојка му дека е.	Tom war nicht schwul, doch Toms Freunde sagten seiner Freundin, er sei ein Homosexueller.	пријатели	0	0
+Знаеш ли за кого зборувам?	Weißt du, von wem ich spreche?	зборувам	0	0
+Немам време да ти помогнам денес.	Ich habe heute keine Zeit, um dir zu helfen.	помогнам	0	0
+Се надевам дека е доста.	Ich hoffe, das ist genug.	надевам	0	0
+Мислам дека знам како да го најдам.	Ich glaube, ich weiß, wie er zu finden ist.	најдам	0	0
+Зошто работите тука?	Warum arbeiten Sie hier?	работите	0	0
+Таа му најде седиште.	Sie hat für ihn einen Platz gefunden.	најде	0	0
+Барем така рече тој.	Zumindest hat er das gesagt.	барем	0	0
+Том не беше педер, но неговите пријатели сепак ѝ велеа на девојка му дека е.	Tom war nicht schwul, doch Toms Freunde sagten seiner Freundin, er sei ein Homosexueller.	сепак	0	0
+Ќерка ми сака летно овошје, како црешни, лубеници и праски.	Meine Tochter ißt gerne Sommerfrüchte, wie zum Beispiel Kirschen, Wassermelonen und Pfirsiche.	ќерка	0	0
+Не плачам кога сум среќен.	Ich weine nicht, wenn ich glücklich bin.	среќен	0	0
+Таа не сакаше да зборува за тоа.	Sie wollte nicht darüber reden.	зборува	0	0
+Те слушнав како зборуваш на француски.	Ich habe dich Französisch sprechen hören.	слушнав	0	0
+Утре не работам.	Morgen arbeite ich nicht.	работам	0	0
+Никаде не можев да ја најдам.	Ich konnte sie nirgendwo finden.	можев	0	0
+Оваа реченица има пет збора.	Dieser Satz hat fünf Wörter.	пет	0	0
+Том не беше педер, но неговите пријатели сепак ѝ велеа на девојка му дека е.	Tom war nicht schwul, doch Toms Freunde sagten seiner Freundin, er sei ein Homosexueller.	неговите	0	0
+Мојата постара сестра свири на клавир секој ден.	Meine ältere Schwester spielt jeden Tag Klavier.	сестра	0	0
+Немам дом во којшто би можел да се вратам.	Ich habe kein Haus, wohin ich zurückkehren könnte.	можел	0	0
+Сите книжари се ѓаволи. Треба посебен пекол да се отвори само за нив.	Die Buchhändler sind alle des Teufels! Für sie sollte es eine eigene Hölle geben.	отвори	0	0
+Ти треба нова кола.	Du brauchst ein neues Auto.	кола	0	0
+Не им треба причина.	Die brauchen keinen Grund.	причина	0	0
+Ја остави во град.	Er hat sie in der Stadt gelassen.	град	0	0
+Книгата е мала.	Das Buch ist klein.	мала	0	0
+Г-дин Танака е кавалер.	Herr Tanaka ist ein Kavalier.	г-дин	0	0
+Треба да зборуваме за него.	Wir müssen über ihn sprechen.	зборуваме	0	0
+Тој живее просечен живот.	Er führt ein durchschnittliches Leben.	живее	0	0
+Дали работиш во центар?	Arbeitest du in der Stadt?	работиш	0	0
+Ти треба нова кола.	Du brauchst ein neues Auto.	нова	0	0
+Не ми се верува дека ја пишувам реченицата.	Ich kann nicht glauben, dass ich diesen Satz schreibe.	верува	0	0
+Акцентот е на првиот слог од зборот.	Die Betonung liegt auf der ersten Silbe des Wortes.	првиот	0	0
+Знаев дека ќе го најдеш.	Ich wußte, daß du ihn finden würdest.	најдеш	0	0
+Кен има бело куче.	Ken hat einen weißen Hund.	куче	0	0
+Нејзиниот талент за музика беше просечен.	Ihr musikalisches Talent war durchschnittlich.	нејзиниот	0	0
+Фала за вчера.	Danke für gestern.	вчера	0	0
+Немам дом во којшто би можел да се вратам.	Ich habe kein Haus, wohin ich zurückkehren könnte.	дом	0	0
+Никаде не можев да ја најдам.	Ich konnte sie nirgendwo finden.	никаде	0	0
+Јазиците постојано се менуваат.	Sprachen verändern sich ständig.	постојано	0	0
+Таа научи англиски неверојатно брзо.	Sie hat unwahrscheinlich schnell Englisch gelernt.	неверојатно	0	0
+Баш истото му се случи на еден мој добар пријател.	Genau das gleiche ist einem guten Freund von mir auch passiert.	истото	0	0
+Том најверојатно фатил такси.	Tom hat wahrscheinlich ein Taxi genommen.	најверојатно	0	0
+Ѝ поставив неколку прашања.	Ich habe ihr einige Fragen gestellt.	прашања	0	0
+Не ми е убаво да ја чекам.	Ich mag nicht auf sie warten.	чекам	0	0
+Можеби можеш да помогнеш.	Vielleicht kannst du helfen.	помогнеш	0	0
+Иако Том ми е комшија, не го познавам многу добро.	Obwohl Tom mein Nachbar ist, kenne ich ihn nicht allzu gut.	познавам	0	0
+Иако Том ми е комшија, не го познавам многу добро.	Obwohl Tom mein Nachbar ist, kenne ich ihn nicht allzu gut.	иако	0	0
+Како најде каде живеам?	Wie hast du rausgefunden, wo ich wohne?	живеам	0	0
+Добив тројка по англиски.	Ich habe in Englisch eine Drei bekommen.	добив	0	0
+Зири беше во кревет.	Ziri lag im Bett.	кревет	0	0
+На Запад ништо ново.	Im Westen nichts Neues.	ново	0	0
+Можеби ќе напишам книга.	Vielleicht schreibe ich ein Buch.	книга	0	0
+Иако Том ми е комшија, не го познавам многу добро.	Obwohl Tom mein Nachbar ist, kenne ich ihn nicht allzu gut.	том	0	0
+Таа научи англиски неверојатно брзо.	Sie hat unwahrscheinlich schnell Englisch gelernt.	научи	0	0
+Том е идиот.	Tom ist ein Idiot.	идиот	0	0
+Мери е вдовица.	Maria ist Witwe.	мери	0	0
+Да, тоа е нормално.	Ja, das ist normal.	нормално	0	0
+Том има адвокат.	Tom hat einen Anwalt.	адвокат	0	0
+Кого чекаме?	Auf wen warten wir?	чекаме	0	0
+Новиот коронавирус е високо заразен.	Das neue Coronavirus ist sehr infektiös.	новиот	0	0
+Нејзиниот талент за музика беше просечен.	Ihr musikalisches Talent war durchschnittlich.	музика	0	0
+Зборувате ли македонски?	Sprechen Sie mazedonisch?	зборувате	0	0
+Книгата е мала.	Das Buch ist klein.	книгата	0	0
+Нема долго да те држам.	Ich werde dich nicht lange aufhalten.	држам	0	0
+Не ѝ го разбра вицот.	Er verstand ihren Witz nicht.	разбра	0	0
+Не можеш да спиеш тука.	Du kannst hier nicht schlafen.	спиеш	0	0
+Помага.	Das hilft.	помага	0	0
+Добив тројка по англиски.	Ich habe in Englisch eine Drei bekommen.	англиски	0	0
+Око за око, заб за заб.	Aug um Auge, Zahn um Zahn.	око	0	0
+Акцентот е на првиот слог од зборот.	Die Betonung liegt auf der ersten Silbe des Wortes.	зборот	0	0
+Не јадам остриги.	Ich esse keine Austern.	јадам	0	0
+Том најверојатно фатил такси.	Tom hat wahrscheinlich ein Taxi genommen.	такси	0	0
+Просто не можев.	Ich konnte es einfach nicht.	просто	0	0
+Дали работиш во центар?	Arbeitest du in der Stadt?	центар	0	0
+Едно сениште врти низ Европа — сеништето на комунизмот.	Ein Gespenst geht um in Europa – das Gespenst des Kommunismus.	врти	0	0
+Новиот коронавирус е високо заразен.	Das neue Coronavirus ist sehr infektiös.	високо	0	0
+На интернет сум.	Ich bin im Internet.	интернет	0	0
+Кој е таткото?	Wer ist der Vater?	таткото	0	0
+Обожавам капини.	Ich mag Brombeeren.	обожавам	0	0
+Напишав неколку стихотворби минатиот викенд.	Ich habe am letzten Wochenende ein paar Gedichte geschrieben.	викенд	0	0
+Напишав неколку стихотворби минатиот викенд.	Ich habe am letzten Wochenende ein paar Gedichte geschrieben.	минатиот	0	0
+Таа веќе за ништо не ми разговара.	Sie spricht mit mir über nichts mehr.	разговара	0	0
+Каде е банката?	Wo ist die Bank?	банката	0	0
+Сите книжари се ѓаволи. Треба посебен пекол да се отвори само за нив.	Die Buchhändler sind alle des Teufels! Für sie sollte es eine eigene Hölle geben.	посебен	0	0
+Нема пирамиди во Европа.	In Europa gibt es keine Pyramiden.	европа	0	0
+На Запад ништо ново.	Im Westen nichts Neues.	запад	0	0
+Мопсовите не се слатки.	Möpse sind nicht herzig.	слатки	0	0
+Фантастично!	Fantastisch!	фантастично	0	0
+Не сум храбар.	Ich bin nicht mutig.	храбар	0	0
+Сторив нешто неопростливо.	Ich habe etwas Unverzeihliches getan.	сторив	0	0
+Том не беше педер, но неговите пријатели сепак ѝ велеа на девојка му дека е.	Tom war nicht schwul, doch Toms Freunde sagten seiner Freundin, er sei ein Homosexueller.	педер	0	0
+Мери ме потсеќа на мене на таа возраст.	Maria erinnert mich an mich selbst in dem Alter.	возраст	0	0
+Ми треба нешто на коешто ќе можам да пишувам.	Ich brauche etwas, worauf ich schreiben kann.	пишувам	0	0
+Сите книжари се ѓаволи. Треба посебен пекол да се отвори само за нив.	Die Buchhändler sind alle des Teufels! Für sie sollte es eine eigene Hölle geben.	пекол	0	0
+Те слушнав како зборуваш на француски.	Ich habe dich Französisch sprechen hören.	француски	0	0
+Кен има бело куче.	Ken hat einen weißen Hund.	бело	0	0
+Нејзиниот талент за музика беше просечен.	Ihr musikalisches Talent war durchschnittlich.	талент	0	0
+Можеби ќе напишам книга.	Vielleicht schreibe ich ein Buch.	напишам	0	0
+Ова е најубавото време во годината.	Das ist die beste Zeit des Jahres.	годината	0	0
+Злото не е вечно.	Das Böse währt nicht ewig.	злото	0	0
+Том има внук.	Tom hat einen Enkel.	внук	0	0
+Злото не е вечно.	Das Böse währt nicht ewig.	вечно	0	0
+Мојата постара сестра свири на клавир секој ден.	Meine ältere Schwester spielt jeden Tag Klavier.	свири	0	0
+Јазиците постојано се менуваат.	Sprachen verändern sich ständig.	менуваат	0	0
+Учам јапонски.	Ich lerne Japanisch.	учам	0	0
+Зошто ни помагаш?	Warum hilfst du uns?	помагаш	0	0
+Се трудам да ги запамтам имињата на соѕвездијата.	Ich versuche, mir die Namen der Sternbilder zu merken.	имињата	0	0
+Напишав неколку стихотворби минатиот викенд.	Ich habe am letzten Wochenende ein paar Gedichte geschrieben.	напишав	0	0
+Таа навистина ме пали.	Sie macht mich richtig an.	пали	0	0
+Тукушто повратив.	Ich habe mich gerade übergeben.	тукушто	0	0
+Спиев на каучот.	Ich habe auf dem Sofa geschlafen.	спиев	0	0
+Таа си ги украсови ѕидовите со постери.	Sie dekoriert sich die Wände mit Postern.	ѕидовите	0	0
+Која ти е омилена марка?	Was ist deine Lieblingsmarke?	омилена	0	0
+Се трудам да ги запамтам имињата на соѕвездијата.	Ich versuche, mir die Namen der Sternbilder zu merken.	трудам	0	0
+Таа му најде седиште.	Sie hat für ihn einen Platz gefunden.	седиште	0	0
+Постојано го сонувам.	Ich träume andauernd von ihm.	сонувам	0	0
+Канада не е рај.	Kanada ist kein Paradies.	рај	0	0
+Зошто не си во Бостон?	Warum bist du nicht in Boston?	бостон	0	0
+Атмосферата не штити од метеори.	Die Atmosphäre schützt uns vor Meteoren.	штити	0	0
+Моника има љубовни маки.	Monika hat Liebeskummer.	моника	0	0
+Ѝ помогнав.	Ich habe ihr geholfen.	помогнав	0	0
+Спиев на каучот.	Ich habe auf dem Sofa geschlafen.	каучот	0	0
+Оваа реченица има пет збора.	Dieser Satz hat fünf Wörter.	збора	0	0
+Немам дом во којшто би можел да се вратам.	Ich habe kein Haus, wohin ich zurückkehren könnte.	којшто	0	0
+Зошто е Дан толку насилен?	Warum ist Dan so gewalttätig?	дан	0	0
+Не плачам кога сум среќен.	Ich weine nicht, wenn ich glücklich bin.	плачам	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Es gibt keinen Gott außer Allah, und Mohammed ist sein Prophet.	алах	0	0
+Канада не е рај.	Kanada ist kein Paradies.	канада	0	0
+Ќерка ми сака летно овошје, како црешни, лубеници и праски.	Meine Tochter ißt gerne Sommerfrüchte, wie zum Beispiel Kirschen, Wassermelonen und Pfirsiche.	овошје	0	0
+Животот е мистерија.	Das Leben ist ein Mysterium.	мистерија	0	0
+Учам јапонски.	Ich lerne Japanisch.	јапонски	0	0
+Том најверојатно фатил такси.	Tom hat wahrscheinlich ein Taxi genommen.	фатил	0	0
+Око за око, заб за заб.	Aug um Auge, Zahn um Zahn.	заб	0	0
+Што имаш во чантата?	Was haben Sie in ihrer Tasche?	чантата	0	0
+Оваа реченица има пет збора.	Dieser Satz hat fünf Wörter.	реченица	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Es gibt keinen Gott außer Allah, und Mohammed ist sein Prophet.	божјиот	0	0
+Не сакам роденденска прослава.	Ich will keine Geburtstagsfeier.	прослава	0	0
+Тоа е разумен компромис.	Das ist ein vernünftiger Kompromiß.	разумен	0	0
+Кен има бело куче.	Ken hat einen weißen Hund.	кен	0	0
+Мери е вдовица.	Maria ist Witwe.	вдовица	0	0
+Мојата постара сестра свири на клавир секој ден.	Meine ältere Schwester spielt jeden Tag Klavier.	постара	0	0
+Ова е најубавото време во годината.	Das ist die beste Zeit des Jahres.	најубавото	0	0
+Го испив јогуртот.	Ich habe den Joghurt gegessen.	испив	0	0
+Зошто е Дан толку насилен?	Warum ist Dan so gewalttätig?	насилен	0	0
+Зборувате ли македонски?	Sprechen Sie mazedonisch?	македонски	0	0
+Ѝ поставив неколку прашања.	Ich habe ihr einige Fragen gestellt.	поставив	0	0
+Бразил бил откриен пред 515 години.	Brasilien wurde vor 515 Jahren entdeckt.	бразил	0	0
+Добив тројка по англиски.	Ich habe in Englisch eine Drei bekommen.	тројка	0	0
+Атмосферата не штити од метеори.	Die Atmosphäre schützt uns vor Meteoren.	атмосферата	0	0
+Не сакам роденденска прослава.	Ich will keine Geburtstagsfeier.	роденденска	0	0
+Можеш ли да ме штитиш?	Kannst du mich beschützen?	штитиш	0	0
+Том не беше педер, но неговите пријатели сепак ѝ велеа на девојка му дека е.	Tom war nicht schwul, doch Toms Freunde sagten seiner Freundin, er sei ein Homosexueller.	велеа	0	0
+Новиот коронавирус е високо заразен.	Das neue Coronavirus ist sehr infektiös.	заразен	0	0
+Моника има љубовни маки.	Monika hat Liebeskummer.	маки	0	0
+Моника има љубовни маки.	Monika hat Liebeskummer.	љубовни	0	0
+Се трудам да ги запамтам имињата на соѕвездијата.	Ich versuche, mir die Namen der Sternbilder zu merken.	запамтам	0	0
+Каде е најблиската пицерија?	Wo ist die nächste Pizzeria?	најблиската	0	0
+Нејзиниот талент за музика беше просечен.	Ihr musikalisches Talent war durchschnittlich.	просечен	0	0
+Тоа е разумен компромис.	Das ist ein vernünftiger Kompromiß.	компромис	0	0
+Мери ме потсеќа на мене на таа возраст.	Maria erinnert mich an mich selbst in dem Alter.	потсеќа	0	0
+Бразил бил откриен пред 515 години.	Brasilien wurde vor 515 Jahren entdeckt.	откриен	0	0
+Која ти е омилена марка?	Was ist deine Lieblingsmarke?	марка	0	0
+Ми треба нешто на коешто ќе можам да пишувам.	Ich brauche etwas, worauf ich schreiben kann.	коешто	0	0
+Моите оценки беа просечни.	Meine Schulnoten waren durchschnittlich.	оценки	0	0
+Мојата постара сестра свири на клавир секој ден.	Meine ältere Schwester spielt jeden Tag Klavier.	клавир	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Es gibt keinen Gott außer Allah, und Mohammed ist sein Prophet.	пратеник	0	0
+Каде е оригиналот?	Wo ist das Original?	оригиналот	0	0
+Моето име е Рикардо.	Ich heiße Ricardo.	рикардо	0	0
+Не ми се верува дека ја пишувам реченицата.	Ich kann nicht glauben, dass ich diesen Satz schreibe.	реченицата	0	0
+Монасите медитираат.	Die Mönche meditieren.	монасите	0	0
+Акцентот е на првиот слог од зборот.	Die Betonung liegt auf der ersten Silbe des Wortes.	акцентот	0	0
+Тој е таксист.	Er ist Taxifahrer.	таксист	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Es gibt keinen Gott außer Allah, und Mohammed ist sein Prophet.	достојно	0	0
+Сите книжари се ѓаволи. Треба посебен пекол да се отвори само за нив.	Die Buchhändler sind alle des Teufels! Für sie sollte es eine eigene Hölle geben.	ѓаволи	0	0
+Тукушто повратив.	Ich habe mich gerade übergeben.	повратив	0	0
+Ќерка ми сака летно овошје, како црешни, лубеници и праски.	Meine Tochter ißt gerne Sommerfrüchte, wie zum Beispiel Kirschen, Wassermelonen und Pfirsiche.	праски	0	0
+Иако Том ми е комшија, не го познавам многу добро.	Obwohl Tom mein Nachbar ist, kenne ich ihn nicht allzu gut.	комшија	0	0
+Тој е стоматолог.	Er ist Zahnarzt.	стоматолог	0	0
+Не јадам остриги.	Ich esse keine Austern.	остриги	0	0
+Зошто се пакуваш?	Warum packst du?	пакуваш	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Es gibt keinen Gott außer Allah, und Mohammed ist sein Prophet.	мухамед	0	0
+Таа си ги украсови ѕидовите со постери.	Sie dekoriert sich die Wände mit Postern.	постери	0	0
+Зборувам дански, шведски и англиски.	Ich spreche Dänisch, Schwedisch und Englisch.	шведски	0	0
+Тој е заболекар.	Er ist Zahnarzt.	заболекар	0	0
+Едно сениште врти низ Европа — сеништето на комунизмот.	Ein Gespenst geht um in Europa – das Gespenst des Kommunismus.	комунизмот	0	0
+Том не е дипломат.	Tom ist kein Diplomat.	дипломат	0	0
+Јазиците постојано се менуваат.	Sprachen verändern sich ständig.	јазиците	0	0
+Ќерка ми сака летно овошје, како црешни, лубеници и праски.	Meine Tochter ißt gerne Sommerfrüchte, wie zum Beispiel Kirschen, Wassermelonen und Pfirsiche.	летно	0	0
+Нема пирамиди во Европа.	In Europa gibt es keine Pyramiden.	пирамиди	0	0
+Едно сениште врти низ Европа — сеништето на комунизмот.	Ein Gespenst geht um in Europa – das Gespenst des Kommunismus.	сениште	0	0
+Не ѝ го разбра вицот.	Er verstand ihren Witz nicht.	вицот	0	0
+Том е вдовец.	Tom ist Witwer.	вдовец	0	0
+Атмосферата не штити од метеори.	Die Atmosphäre schützt uns vor Meteoren.	метеори	0	0
+Г-дин Танака е кавалер.	Herr Tanaka ist ein Kavalier.	танака	0	0
+Каде е најблиската пицерија?	Wo ist die nächste Pizzeria?	пицерија	0	0
+Имам право да критикувам.	Ich habe das Recht zu kritisieren.	критикувам	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Es gibt keinen Gott außer Allah, und Mohammed ist sein Prophet.	божество	0	0
+Моите оценки беа просечни.	Meine Schulnoten waren durchschnittlich.	просечни	0	0
+Том никогаш не те љубел.	Tom hat dich nie geliebt.	љубел	0	0
+Акцентот е на првиот слог од зборот.	Die Betonung liegt auf der ersten Silbe des Wortes.	слог	0	0

@@ -1,8 +1,38 @@
+5349	뭔가 해보자!	335577	Kokeillaanpa jotakin!
+5350	자야 합니다.	335578	Minun täytyy mennä nukkumaan.
+2652639	제가 자야 돼요.	335578	Minun täytyy mennä nukkumaan.
+2652640	제가 자야 해요.	335578	Minun täytyy mennä nukkumaan.
+5351	뭐해?	335579	Mitä teet?
+2652642	뭐 해요?	335579	Mitä teet?
+2652693	뭐해요?	335579	Mitä teet?
+330718	사랑해요.	356198	Minä rakastan sinua.
+2730506	사랑합니다.	356198	Minä rakastan sinua.
+2812868	그분은 제 친구입니다.	368198	Hän on minun ystäväni.
+3160194	하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열.	423376	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.
+2812862	그분은 의사가 아닙니다.	426089	Hän ei ole lääkäri.
 480025	나는 책을 읽을 거예요.	738168	Minä luen kirjaa.
 472089	나는 한국말을 공부해요.	738173	Minä opiskelen koreaa.
+961739	저는 한국어를 공부해요.	738173	Minä opiskelen koreaa.
+3647145	한국말을 공부합니다.	738173	Minä opiskelen koreaa.
+5351	뭐해?	752728	Mitäs puuhaat?
+943236	나중에 보자!	752733	Nähdään myöhemmin!
+5351	뭐해?	770525	Mitä sinä teet?
+2652642	뭐 해요?	770525	Mitä sinä teet?
+2652693	뭐해요?	770525	Mitä sinä teet?
+2652694	뭐합니까?	770525	Mitä sinä teet?
+5351	뭐해?	770526	Mitä sä teet?
+2652642	뭐 해요?	770526	Mitä sä teet?
+2652693	뭐해요?	770526	Mitä sä teet?
+330718	사랑해요.	781068	Rakastan sinua.
 5358	모르겠어요.	917614	Minä en tiedä.
+373274	모르겠습니다.	917614	Minä en tiedä.
 5363	시간 있는지 잘 모르겠어요.	917615	En tiedä onko minulla aikaa.
+2652669	시간 있는지 잘 모르겠다.	917615	En tiedä onko minulla aikaa.
+2652670	시간 있는지 잘 모르겠습니다.	917615	En tiedä onko minulla aikaa.
 5383	더이상 어떻게 해야할지 모르겠어.	917638	En enää tiedä mitä minun pitäisi tehdä.
+982273	괜찮으세요?	982277	Oletko kunnossa?
+983604	집은 추위입니다.	983589	Talo on kylmä.
+5371	정말이에요?	1008327	Ihanko totta?
 1007999	공항에서부터 호텔까지는 거리가 얼마나 됩니까?	1008391	Kuinka pitkä matka on lentokentältä hotellille?
 1008623	내 생일은 11월 10일이다.	1009727	Minun syntymäpäiväni on marraskuun kymmenes päivä.
 1008622	내 생일은 3월 22일이다.	1009728	Minun syntymäpäiväni on maaliskuun kahdeskymmenestoinen päivä.
@@ -18,6 +48,7 @@
 1009263	제 이름은 잭입니다.	1009760	Minun nimeni on Jack.
 1009263	제 이름은 잭입니다.	1009761	Nimeni on Jack.
 1009263	제 이름은 잭입니다.	1009762	Olen nimeltäni Jack.
+1008627	그는 힘든 삶을 사랐다.	1009766	Hän on elänyt vaikean elämän.
 1008628	그녀는 힘든 삶을 살았다.	1009766	Hän on elänyt vaikean elämän.
 1008000	오사카에서부터 교토까지는 거리가 얼마나 됩니까?	1009772	Kuinka kaukana Osaka on Kiotosta?
 943243	이 자동차는 누구 것이지?	1009774	Kenen auto tämä on?
@@ -51,10 +82,14 @@
 471200	한국에 너희들을 만나요!	1010615	Tapaan teidät Koreassa!
 5365	저는 하루에 100유로를 법니다.	1010621	Tienaan sata euroa päivässä.
 5365	저는 하루에 100유로를 법니다.	1010622	Ansaitsen sata euroa päivässä.
+982273	괜찮으세요?	1011548	Onko kaikki okei?
+3604076	너는 날 천천히 죽이고 있어.	1011614	Tapat minut hitaasti.
+3604076	너는 날 천천히 죽이고 있어.	1011616	Otat minut hitaasti hengiltä.
 1013210	문은 자동으로 닫힌다.	1013263	Ovi menee automaattisesti kiinni.
 1013232	책상의 표면이 매끄럽다.	1013288	Kirjoituspöydän pinta on sileä.
 1013280	우리는 3시에 만난다.	1013291	Tapaamme kello kolme.
 1013280	우리는 3시에 만난다.	1013294	Tapaamme kello kolmelta.
+2059474	하지마!	1014404	Lopeta!
 1015636	그녀의 눈에 눈물이 고였다.	1018506	Kyyneleet herahtivat hänen silmiinsä.
 872033	저는 여자가 됐어요.	1018513	Minusta tuli nainen.
 507554	그는 8년동안 불어를 공부하고 있다.	1018516	Hän on opiskellut ranskaa kahdeksan vuoden ajan.
@@ -79,7 +114,6 @@
 906601	그들은 매월 한 번씩 연극을 보러 간다.	1018699	He käyvät teatterissa kerran kuukaudessa.
 472091	내친구는 한국어를 공부해요.	1018705	Ystäväni opiskelee koreaa.
 472091	내친구는 한국어를 공부해요.	1018706	Ystäväni opiskelevat koreaa.
-938435	눈은 햇빛에 녹았다.	1018717	Lumi sulaa auringossa.
 911210	자동차를 차고에 놓어두었다.	1018721	Ajoin auton sisään autotalliin.
 911210	자동차를 차고에 놓어두었다.	1018778	Ajoin auton sisään talliin.
 943289	나는 뉴욕에서 길을 잃었다.	1018780	Eksyin New Yorkissa.
@@ -99,6 +133,10 @@
 934031	나는 그 사람을 좋아한다.	1023153	Pidän hänestä.
 5401	이탈리아는 아주 아름다운 나라입니다.	1023157	Italia on hyvin kaunis maa.
 912385	음악 소리를 좀 줄이세요.	1023181	Laittaisitko musiikkia pienemmälle?
+5356	비밀번호는 "Muiriel" 입니다.	1030732	Salasana on ”Muiriel”.
+5357	곧 돌아올께요.	1030735	Palaan pian.
+2652661	빨리 갔다 올게요.	1030735	Palaan pian.
+2654599	빨리 갔다 올게.	1030735	Palaan pian.
 957287	너희들의 결혼을 축하해요.	1031635	Onnea vastanaineille.
 957287	너희들의 결혼을 축하해요.	1031636	Onnea hääparille.
 911962	나는 임신 4개월 째이다.	1031643	Olen neljännellä kuulla raskaana.
@@ -112,26 +150,65 @@
 385113	난 이렇게 비싼 식당에서 식사를 할 여유가 안되요.	1031665	Minulla ei ole varaa syödä näin kalliissa ravintolassa.
 961987	피터는 의사가 되고 싶어했어요.	1031668	Peter halusi tulla lääkäriksi.
 5355	Muiriel은 지금 20살입니다.	1031669	Muiriel on nyt kaksikymmentä.
+2652659	Muiriel은 지금 20살예요.	1031669	Muiriel on nyt kaksikymmentä.
+2652660	Muiriel은 지금 20살이야.	1031669	Muiriel on nyt kaksikymmentä.
 5355	Muiriel은 지금 20살입니다.	1031671	Muiriel on nyt kaksikymmentävuotias.
+2652659	Muiriel은 지금 20살예요.	1031671	Muiriel on nyt kaksikymmentävuotias.
+2652660	Muiriel은 지금 20살이야.	1031671	Muiriel on nyt kaksikymmentävuotias.
+3227792	호랑이도 제 말하면 온다.	1044065	Siinä paha missä mainitaan.
+911508	늦게 온 것을 용서해 주세요.	1044462	Anteeksi että olen myöhässä.
+3945032	우리는 자연스럽게 들리는 번역문을 원하며, 단어 대 단어로 직역한 번역문을 원하지 않습니다.	1060346	Haluamme luontevia käännöksiä, emme sanatarkkoja käännöksiä.
+1084667	어디에 가요?	1153244	Minne olet menossa?
+1637178	그녀는 은행에서 일한다.	1159790	Hän työskentelee pankissa.
+1637179	그는 은행에서 일한다.	1159790	Hän työskentelee pankissa.
+5367	보고 싶어.	1181175	Kaipaan sinua.
+1036487	다시 한번 해봐.	1181719	Yritä vielä kerran.
+5374	일본에 갈 수 있었으면 좋겠어요.	1186604	Olisi mukavaa, jos voisin matkustaa Japaniin.
+505455	그는 의사예요.	1213611	Hän on lääkäri.
+1036487	다시 한번 해봐.	1264804	Yritä uudestaan.
+5352	그것은 무엇입니까?	1485694	Mikä tämä on?
+2652643	그건 뭐예요?	1485694	Mikä tämä on?
+2652645	그건 뭐야?	1485694	Mikä tämä on?
+938500	오늘은 날씨가 덥다.	1575591	Tänään on kuuma.
+5360	뭐라고 말해야 할지 정말 모르겠어...	1609365	En oikein tiedä, mitä sanoa...
+1531875	감사합니다!	1614473	Kiitos!
+5352	그것은 무엇입니까?	1634218	Mitä tämä on?
+1637178	그녀는 은행에서 일한다.	1828830	Hän on töissä pankissa.
+1637179	그는 은행에서 일한다.	1828830	Hän on töissä pankissa.
+3633464	난 학교에 가기 싫어.	1831767	En tahdo mennä kouluun.
 505390	런던행 열차를 시간표 확인하세요.	1849307	Katso aikataulusta junia Lontooseen.
+5359	이건 절대 끝나지 않을거야.	1962098	Tämä ei lopu ikinä.
+942324	그 사람 어디 있지?	1966415	Missä hän on?
+5951774	그분은 어디에 겨십니까?	1966415	Missä hän on?
+5254827	거짓말 하지 마.	1979442	Älä valehtele!
+5254828	거짓말 하지 마세요.	1979442	Älä valehtele!
+978600	그는 좋은 사람이다.	2150544	Hän on hyvä ihminen.
 2156260	그넘은 버릇 없는 넘이야.	2156261	Tuolla tyypillä ei ole yhtään käytöstapoja.
 2156260	그넘은 버릇 없는 넘이야.	2156262	Onpa töykeä tyyppi.
 2156260	그넘은 버릇 없는 넘이야.	2156263	Onpa hän epäkohtelias.
 2156273	세상에 공짜가 어딨어?	2156274	Ilmaisia lounaita ei ole olemassa.
 2156273	세상에 공짜가 어딨어?	2156275	Onko tässä maailmassa muka ilmaisia asioita?
 2156273	세상에 공짜가 어딨어?	2170797	Kaikella on hintansa.
+5370	유감스럽게도 사실이네요.	2287192	Pitää paikkansa, ikävä kyllä.
+330718	사랑해요.	2390586	Rakastan sinua!
+5359	이건 절대 끝나지 않을거야.	2600941	Tämä ei tule koskaan loppumaan.
+5359	이건 절대 끝나지 않을거야.	2600943	Tämä ei lopu koskaan.
+2661368	나는 의사가 아닙니다.	2634743	En ole lääkäri.
 480025	나는 책을 읽을 거예요.	2662205	Minä aion lukea kirjaa.
 2148042	편지에 우표 붙이는거 잊지마.	2662207	Älä unohda liimata postimerkkiä kirjeeseen.
 1587036	전 한국 요리가 좋아요.	2662208	Minä tykkään korealaisesta ruoasta.
 938502	그는 스페인어뿐만 아니라, 프랑스어도 말한다.	2662213	Hän ei puhu ainoastaan espanjaa vaan myös ranskaa.
 938500	오늘은 날씨가 덥다.	2662214	Tänään on kuuma sää.
 1637164	이 책은 누구 것이지?	2662217	Kenen kirja tämä on?
+3948402	이것은 누구의 책입니까?	2662217	Kenen kirja tämä on?
+3948411	그 책은 누구의 것입니까?	2662217	Kenen kirja tämä on?
 373228	어제 지진이 있었어요.	2662218	Eilen oli maanjäristys.
 1533309	그 사람은 동작이 빨라요.	2662223	Hänen liikkeensä ovat nopeita.
 1533309	그 사람은 동작이 빨라요.	2662224	Hänen toimintansa on nopeaa.
 1218624	왜 그 단어를 잊어버렸니?	2662238	Miksi unohdan aina täysin sen sanan?
 1051959	너는 콧물이 흐른다.	2662244	Sinulla on nuha.
 1051959	너는 콧물이 흐른다.	2662245	Sinun nenäsi vuotaa.
+942144	즐거운 성탄절!	2662248	Hyvää joulua!
 942146	메리 크리스마스!	2662248	Hyvää joulua!
 1225837	그는 나를 만나서 왔어요.	2662249	Hän tuli tapaamaan minua.
 1013204	이 카메라가 어떻게 작동하지?	2662255	Miten tämä kamera toimii?
@@ -145,9 +222,33 @@
 1257634	선택은 괴로운 일이다.	2662300	Valitseminen on vaikea asia.
 911957	그녀는 행복한 유년시절을 보냈다.	2662304	Hän vietti onnellisen lapsuuden.
 961609	한국말을 이해하시지요?	2662310	Ymmärrät koreaa, etkö ymmärräkin?
+3944961	정확한 문장을 수정하지 마십시오. 대신 당신은 자연스럽게 들리는 다른 번역문을 제출할 수 있습니다.	2663887	Älä muuta lauseita, jotka ovat oikein. Voit sen sijaan lisätä luonnollisen kuuloisia vaihtoehtoisia käännöksiä.
+3944955	우리는 완전한 문장을 원합니다.	2663899	Me haluamme kokonaisia lauseita.
+3945032	우리는 자연스럽게 들리는 번역문을 원하며, 단어 대 단어로 직역한 번역문을 원하지 않습니다.	2663910	Haluamme luonnolliselta kuulostavia käännöksiä, emme suoria sanasta sanaan -käännöksiä.
+3944998	저작권이 있는 출처의 문장을 추가하지 마십시오.	2663914	Älä lisää lauseita, jotka ovat peräisin tekijänoikeussuojatuista lähteistä.
 2655683	장가들었느냐?	2666806	Menitkö naimisiin?
 2676099	중국에서 왔습니다.	2676107	Olen kotoisin Kiinasta.
 465576	비가 내려서 택시를 탔습니다.	2677893	Otin taksin, koska satoi vettä.
+5357	곧 돌아올께요.	2740005	Tulen pian takaisin.
+2652661	빨리 갔다 올게요.	2740005	Tulen pian takaisin.
+2654599	빨리 갔다 올게.	2740005	Tulen pian takaisin.
+5349	뭔가 해보자!	2740007	Yritetään jotain.
+5364	이 세상의 교육이 나를 실망시켜요.	2740012	Olen pettynyt tämän maailman koulutukseen.
+5362	이 사진 최근 거에요?	2740014	Onko se tuore kuva?
+5361	나는 산에 있었어.	2740015	Olin vuorilla.
+5367	보고 싶어.	2740017	Ikävöin sinua.
+5367	보고 싶어.	2740018	Minulla on sinua ikävä.
+5370	유감스럽게도 사실이네요.	2740025	Se on valitettavasti totta.
+5368	당신 좀 자야겠어요.	2740033	Sinun pitäisi nukkua.
+5371	정말이에요?	2740037	Oletko varma?
+2652677	정말이야?	2740037	Oletko varma?
+1084667	어디에 가요?	2743899	Mihin sinä olet menossa?
+911508	늦게 온 것을 용서해 주세요.	2748117	Anteeksi, että olen myöhässä.
+5355	Muiriel은 지금 20살입니다.	2766267	Muiriel on nyt 20.
+2652659	Muiriel은 지금 20살예요.	2766267	Muiriel on nyt 20.
+2652660	Muiriel은 지금 20살이야.	2766267	Muiriel on nyt 20.
+5372	일어났을 때 슬펐어.	2768262	Herätessäni olin surullinen.
+5372	일어났을 때 슬펐어.	2768263	Kun heräsin olin surullinen.
 2819627	우리는 집에 갑니다.	2826408	Me menemme kotiin.
 2819617	집에 가십시오.	2826409	Mene kotiin.
 2819617	집에 가십시오.	2826410	Menkää kotiin.
@@ -158,6 +259,7 @@
 2812869	이것은 그분의 집입니다.	2826417	Tämä on hänen talonsa.
 2812867	이것은 제 책입니다.	2826421	Tämä on minun kirjani.
 2812866	이것은 책입니다.	2826422	Tämä on kirja.
+982273	괜찮으세요?	2827168	Onko kaikki kunnossa?
 2812854	저는 학생이 아닙니다.	2830196	En ole opiskelija.
 5389	히로시는 이것 재미 있을 것 같다고 말한다.	2841831	Hiroshi sanoo: "Tämä vaikuttaa mielenkiintoiselta."
 5394	그러나 우주는 무한하다.	2841833	Mutta universumi on rajaton.
@@ -193,17 +295,62 @@
 1535346	너 도쿄 타워 본적 없지?	2913596	Olet nähnyt Tokyo Towerin, eikö niin?
 912391	그녀는 얼굴이 빨개졌다.	2913599	Hän punaistui.
 912391	그녀는 얼굴이 빨개졌다.	2913602	Hänen kasvonsa muuttuivat punaiseksi.
+5370	유감스럽게도 사실이네요.	2926653	Pitää valitettavasti paikkansa.
 2110906	네 탓은 아니야.	2930743	Ei se sinun syysi ole.
 2110906	네 탓은 아니야.	2930744	Ei se ole sinun vikasi.
+2242578	얼마에요?	3001314	Mitä se maksaa?
+5371	정말이에요?	3076448	Todellako?
+5367	보고 싶어.	3076914	Mulla on ikävä sua.
+5367	보고 싶어.	3076915	Mul on ikävä sua.
+3081413	나는 고양이 두 마리를 가지고 있다.	3081415	Minulla on kaksi kissaa.
+1084667	어디에 가요?	3086625	Minne olet matkalla?
 2654671	고생했어요	3206812	Kiitos suuresta vaivannäöstäsi.
+3944936	제가 좀 도와 드릴까요?	3214902	Voinko auttaa sinua?
+3944936	제가 좀 도와 드릴까요?	3214904	Voinko auttaa teitä?
+5369	나는 갈 거에요.	3216814	Minä menen.
+1084667	어디에 가요?	3217702	Mihin menet?
+1084667	어디에 가요?	3217703	Mihin olet matkalla?
 1169266	공부 해!	3239925	Opiskele!
-3247395	손바닥으로 하늘을 가리려한다.	3247398	Älä yritä kieltää totuutta itseltäsi.
+3944920	저를 좀 도와 주실래요?	3241889	Voisitko vähän auttaa minua?
+3246575	"Kaisha"를 영어로 어떻게 말해요?	3246660	Miten sanotaan "kaisha" englanniksi?
+5371	정말이에요?	3246836	Oikeesti?
 3247395	손바닥으로 하늘을 가리려한다.	3248842	Yrittää peittää koko taivaan kämmenellään.
 3247395	손바닥으로 하늘을 가리려한다.	3248848	Yrittää olla näkemättä totuutta.
+330713	넌 가야 해요.	3305458	Sinun täytyy mennä.
+5359	이건 절대 끝나지 않을거야.	3312553	Tämä ei pääty koskaan.
+5371	정말이에요?	3319089	Ihanko oikeesti?
+753730	여보세요?	3363529	Haloo?
+477031	대단히 감사합니다!	3363766	Kiitos todella paljon!
+5369	나는 갈 거에요.	3365267	Mä meen.
+1036487	다시 한번 해봐.	3372987	Yritä uudelleen.
+1036487	다시 한번 해봐.	3372988	Yritä vielä kerran uudelleen.
+982273	괜찮으세요?	3373206	Onko kaikki OK?
+982273	괜찮으세요?	3373207	Onko kaikki ihan hyvin?
+978600	그는 좋은 사람이다.	3373730	Hän on kiltti.
+978600	그는 좋은 사람이다.	3373747	Hän on kiva.
+978600	그는 좋은 사람이다.	3373749	Hän on kiva ihminen.
+1122147	배고파.	3374801	Mullon nälkä!
+1122147	배고파.	3374802	Mulla on nälkä!
+1084667	어디에 가요?	3381395	Mihin sinä menet?
+1084667	어디에 가요?	3381422	Minne sinä menet?
+1084667	어디에 가요?	3381433	Mihin matka?
+5400	난 쇼핑 가야되요, 한 시간 안에 돌아올게요.	3381585	Minun täytyy käydä ostoksilla. Tulen takaisin tunnin päästä.
+5349	뭔가 해보자!	3389510	Yritetäänpä tehdä jotain.
+3681057	톰은 전기기사다.	3390339	Tom on sähköinsinööri.
+1533101	그 여자는 오빠가 다섯명 있어.	3391140	Hänellä on viisi isoveljeä.
 5353	오늘은 6월 18일, Muiriel의 생일입니다!	3400229	Tänään on kahdeksastoista kuudetta, Muirielin syntymäpäivä!
 5353	오늘은 6월 18일, Muiriel의 생일입니다!	3400230	Tänään on kahdeksastoista kesäkuuta, Muirielin syntymäpäivä!
 5354	생일 축하해 Muiriel!	3400234	Hyvää syntymäpäivää, Muiriel!
 5373	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	3400316	Jokainen yksinäinen ihminen on yksin, koska hän pelkää muita ihmisiä.
+2884314	너는 아빠랑 똑같다.	3404767	Olet kuin ilmetty isäsi.
+2884314	너는 아빠랑 똑같다.	3404768	Olet aivan kuin isäsi.
+447682	나는 김밥을 먹고 싶어요.	3409736	Haluan syödä kimbapia.
+1756090	제안이 있습니다.	3409804	Minulla on ehdotus.
+1583322	지금 바빠요.	3412533	Minulla on nyt kiire.
+1587295	천천히 운전하세요.	3413754	Aja hitaasti.
+978692	문법은 매우 복잡하다.	3423331	Kielioppi on todella monimutkaista.
+978692	문법은 매우 복잡하다.	3423336	Kielioppi on todella mutkikasta.
+2242578	얼마에요?	3602188	Kuinka paljon se maksaa?
 3604047	매년 겨울에 내 입술이 튼다.	3604093	Minun huuleni rohtuvat joka talvi.
 3604082	나 오늘밤 너의 파티에 가도 돼?	3604180	Voinko minä tulla juhliisi tänä iltana?
 3604082	나 오늘밤 너의 파티에 가도 돼?	3604183	Sopiiko, että tulen juhliisi tänä iltana?
@@ -227,8 +374,8 @@
 3604073	이 건물은 현대적으로 보인다.	3610055	Tämä rakennus näyttää modernilta.
 3604071	난 내일 빌이 앤을 만나도록 했다.	3610061	Olen pannut Billin tapaamaan Annin huomenna.
 3604068	문제는 우리는 시간이 충분하지 않다는 것이다.	3610064	Ongelma on se, että meillä ei ole riittävästi aikaa.
-3604066	오랫동안 편지를 못 써서 죄송해요.	3610098	Anteeksi, että en ole kirjoittanut ikuisuuksiin.
 3604063	그녀는 너무 고집스러웠다.	3610119	Hän on todella itsepintainen.
+3604066	오랫동안 편지를 못 써서 죄송해요.	3610122	Anna anteeksi, etten ole kirjoittanut pitkään aikaan.
 3604064	빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다.	3610170	Jos laitat pillin sisään ennen kuin se täyttyy vedellä, voit vahvistaa sen helposti silmin nähden.
 3604053	톰은 정학을 당했다.	3610204	Tom erotettiin koulusta.
 3604070	나는 선택권이 없구나.	3610599	Minulla ei tosiaan ole valinnanvapautta.
@@ -240,16 +387,26 @@
 3614722	전하실 말씀 있으시면 남겨주세요.	3616095	Jos sinulla on välitettävä viesti, jätä se minulle.
 3614690	친구들이 슬퍼하는 여자를 위로해 주었다.	3616103	Ystävät lohduttivat surevaa naista.
 3604044	개구리가 우는 소리는 내가 잠드는 데 도움이 됐다.	3618032	Sammakkojen äänet auttoivat minua nukahtamaan.
+961977	어디에 가고 싶으세요?	3618121	Mihin sinä haluat mennä?
 3421774	어디 가고싶어요?	3618121	Mihin sinä haluat mennä?
 3421765	저 케익 맛있어요.	3618138	Tuo kakku maistuu hyvältä.
 3421765	저 케익 맛있어요.	3618140	Tuo kakku on hyvää.
 3401060	소년이 물을 마시고 있어요.	3618191	Poika juo vettä.
 3227070	내가 어릴 때는 강으로 수영하러 가곤 했었지.	3625337	Silloin kun olin nuori, minulla oli tapana käydä joessa uimassa.
 1587112	내가 어릴 때는 바다에 수영하러 가곤 했었지.	3625338	Silloin kun olin nuori, minulla oli tapana käydä meressä uimassa.
+1587112	내가 어릴 때는 바다에 수영하러 가곤 했었지.	3625341	Lapsena minulla oli tapana käydä meressä uimassa.
+3633464	난 학교에 가기 싫어.	3633444	En halua mennä kouluun.
+3610757	나 기대하고 있어.	3633990	Odotan sitä innolla.
 2852522	어제 몇명이서 동물원에 갔어요?	3653985	Kuinka monta ihmistä meni eilen eläintarhaan?
 2852341	당신은 삼일전에 일을 끝냈다고 말했다.	3654027	Kerroit, että olit saanut työt valmiiksi kolme päivää aikaisemmin.
+1008000	오사카에서부터 교토까지는 거리가 얼마나 됩니까?	3702195	Kuinka pitkä matka on Osakasta Kiotoon?
+1008000	오사카에서부터 교토까지는 거리가 얼마나 됩니까?	3702196	Kuinka pitkä matka Osakasta on Kiotoon?
 2881444	무료로 받을 수도 있어.	3739454	Voit saada sen ilmaiseksi.
 507532	저는 어제 영화를 보러 갔습니다.	3742772	Kävin katsomassa elokuvan eilen.
+941478	나는 지금 31살이다.	3778213	Olen nyt 30-vuotias.
+911885	이 텍스트를 일본어에서 불어로 번역하시오.	3798781	Käännä tämä teksti japanista ranskaksi.
+3944920	저를 좀 도와 주실래요?	3871884	Voisitko auttaa minua vähäsen?
+3950239	잔돈은 가지세요.	3940744	Pidä vaihtorahat.
 3950244	천천히 하세요.	3963272	Ei kiirettä.
 3950238	그 약을 먹으세요.	3963276	Ota se lääke.
 3950222	로프를 잡으세요.	3963277	Tartu köyteen.
@@ -263,3 +420,17 @@
 3947845	필기구 좀 주시겠습니까?	3993509	Voisitko antaa minulle kirjoitusvälineen?
 3948411	그 책은 누구의 것입니까?	3993537	Kenen on tämä kirja?
 4042841	그녀는 지나친 호기심으로 인해 상자을 열었다.	4043350	Hän oli niin utelias, että avasi laatikon.
+4952734	위험해, 차온다!	4992271	Varo, auto tulee!
+961592	저는 학생입니다.	5642916	Minä olen opiskelija.
+3421751	저는 학생이에요.	5642916	Minä olen opiskelija.
+3681070	일은 잘 되니?	5769847	Mites töissä?
+3681072	일은 어때?	5769847	Mites töissä?
+10622097	오케이.	5886421	Okei.
+978622	신의 존재를 믿니?	6191558	Uskotko sinä Jumalaan?
+6305175	이 피아노 몇 년이고 조율을 안 했나 보네.	6482476	Tätä pianoa ei ole varmaankaan viritetty moneen vuoteen.
+4623284	물고기를 모두 끓여 먹자!	6974619	Keitetään ja syödään kalat!
+6305130	그 소년들은 북쪽으로 갔다.	6976465	Pojat ovat menneet pohjoiseen.
+10574028	나는 결혼했다.	7524510	Olen naimisissa.
+4042820	이 책은 1689년에 출판되었다.	10025315	Tämä kirja julkaistiin vuonna 1689.
+869112	이건 어려워요.	10342606	Se on vaikeaa.
+8000352	톰은 유머감각이 없다.	10638854	Tomilla ei ole huumorintajua.

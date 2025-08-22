@@ -1,0 +1,2277 @@
+Jag kommer inte ihåg deras namn.	Я не помню их имена.	jag	0	0
+Det finns inga vilda isbjörnar i Norden.	В скандинавских странах нет диких белых медведей.	det	0	0
+Den här kameran är liten, men mycket bra.	Эта камера небольшая, но очень хорошая.	är	0	0
+Skyndar du dig inte, kommer du försent!	Если ты не поторопишься, то опоздаешь!	du	0	0
+Det är inte bra att bryta ett löfte.	Нехорошо нарушать обещание.	att	0	0
+Detta är inte acceptabelt.	Это недопустимо.	inte	0	0
+Jag fick en rutten en.	Мне попался гнилой.	en	0	0
+Sjutton gastar på död mans kista, yo-ho och en flaska med rom!	Семнадцать человек на сундук мертвеца, Йо-хо-хо, и бутылка рому!	och	0	0
+Jag har tappat bort mitt bagage.	Я потерял багаж.	har	0	0
+Vi var på bio i går.	Мы были в кинотеатре вчера.	vi	0	0
+Hon spenderade slut på sina pengar.	Она истратила все свои деньги.	på	0	0
+Hon har varit utan anställning i sex månader nu.	Она уже полгода не работает.	i	0	0
+Du ljuger för mig nu.	Ты меня сейчас обманываешь.	för	0	0
+Ung som han är kan han arbeta hela dagen lång.	Молодой человек, каковым он и является, может работать целый день.	han	0	0
+Hon vänsterprasslar med grannen.	Она изменяет с соседом.	med	0	0
+Han är lika lång som min far.	Он такого же роста, как мой отец.	som	0	0
+Jag bad henne om råd.	Я попросила её о совете.	om	0	0
+Var inte rädda!	Не бойся!	var	0	0
+Vad består aspirin av?	Из чего состоит аспирин?	vad	0	0
+Jag lät mig fotograferas.	Я позволил себя сфотографировать.	mig	0	0
+Är den här platsen upptagen?	Это место занято?	här	0	0
+Jag anbefaller dig åt Gud.	Препоручаю тебя Господу.	dig	0	0
+Gör det genast, så att du inte glömmer.	Сделай это сразу, чтобы не забыть.	så	0	0
+Får den här lådan plats i skåpbilen?	Есть ли место для этого ящика в фургоне?	den	0	0
+Jag kan inte stå ut med detta ljudet längre.	Я больше не могу терпеть этот шум.	kan	0	0
+Trevligt att höra att ni använder så artigt tilltal till en katt. Katter blir annars alltid duade, fast ingen katt någonsin har druckit duskål med någon.	Приятно слышать, что вы так вежливо обращаетесь с котом. Котам обычно почему-то говорят "ты", хотя ни один кот никогда ни с кем не пил брудершафта.	till	0	0
+De gick hand i hand till restaurangen.	Они шли в ресторан рука об руку.	de	0	0
+Han klär sig som en gentleman, men han talar och uppför sig som en clown.	Он одевается как джентльмен, но разговаривает и ведёт себя как клоун.	men	0	0
+Helga är ett svenskt namn.	Хельга — шведское имя.	ett	0	0
+Det är för mörkt för att jag ska kunna läsa.	Слишком темно, чтобы можно было читать.	ska	0	0
+Det låter som att ni hade en kul kväll i går.	Похоже, ты хорошо провёл прошлую ночь.	ni	0	0
+En av oss två måste göra det.	Один из вас двоих должен сделать это.	av	0	0
+Hon kunde inte komma för hon var sjuk.	Она не могла прийти, потому что была больна.	hon	0	0
+Du måste göra det, oavsett om du vill eller inte.	Ты должен это делать вне зависимости от того, хочешь ты этого или нет.	vill	0	0
+Nej... Jag menar ja.	Нет... То есть да.	ja	0	0
+Jag vet att jag inte vet.	Я знаю, что я не знаю.	vet	0	0
+Hör du mig bra nu?	Теперь ты хорошо меня слышишь?	nu	0	0
+Du skulle kunna sagt nej.	Ты мог бы сказать нет.	nej	0	0
+Det finns inget dåligt väder, bara dåliga kläder.	Нет плохой погоды, есть лишь плохая одежда.	bara	0	0
+Hur är läget? Hur har din dag varit i dag?	Как дела? Как прошёл сегодняшний день?	hur	0	0
+Hämta min verktygslåda.	Принесите мой ящик с инструментами.	min	0	0
+Kommer dag, kommer råd.	Утро вечера мудренее.	kommer	0	0
+Det där måste vara historiens rödaste finne.	Это, должно быть, самый красный прыщик в истории.	där	0	0
+Jag måste låsa upp den här dörren.	Мне нужно отпереть эту дверь.	måste	0	0
+Jag tycker inte om honom, men jag gillar henne.	Я не люблю его, но мне нравится она.	honom	0	0
+Jag visade dem hur man gör det.	Я показала им, как это сделать.	gör	0	0
+Brukar du öva på din handstil?	Ты обычно практикуешься в чистописании?	din	0	0
+Jag skulle gärna resa världen runt.	Я бы с удовольствием совершила кругосветное путешествие.	skulle	0	0
+När var den senaste gången du var på semester?	Вы когда последний раз были в отпуске?	när	0	0
+Minns du då Tom och Mary kom hit för första gången?	Ты помнишь, когда Том и Мэри впервые приехали сюда?	då	0	0
+Kom och träffa några av dina nya klasskamrater.	Познакомьтесь с вашими новыми одноклассниками.	kom	0	0
+Vill du ha mer kakor?	Хочешь ещё печенья?	ha	0	0
+Han är bra på att imitera hennes irländska accent.	Он хорошо изображает её ирландский акцент.	bra	0	0
+Får man röra den?	Это можно потрогать?	får	0	0
+Får man röra den?	Это можно трогать?	man	0	0
+Allting har ett pris, det goda visar sig vara dyrare än det onda.	У всего есть своя цена, хорошее дороже плохого.	vara	0	0
+Välj oss!	Выберите нас!	oss	0	0
+Hon ser ut som en grekisk gudinna.	Она похожа на греческую богиню.	ut	0	0
+Jag vill ha en båt som kan ta mig långt härifrån.	Хочу лодку, которая унесёт меня далеко отсюда.	ta	0	0
+Jag lämnar er inte.	Я вас не оставлю.	er	0	0
+En av oss två måste göra det.	Одна из вас двоих должна сделать это.	göra	0	0
+Är allt okej?	Всё в порядке?	okej	0	0
+Jag kan fortfarande inte bestämma mig om jag ska åka dit eller inte.	Я по-прежнему еще не решил, идти мне туда или нет.	eller	0	0
+Ingen av de fyra pojkarna hade alibi.	Ни у одного из четверых мальчиков не было алиби.	hade	0	0
+Han låtsades vara sjuk, så att han kunde vara frånvarande från skolan.	Он притворился больным, чтобы не ходить в школу.	från	0	0
+Varför är de rädda?	Почему они напуганы?	varför	0	0
+Hur mycket har du betalat för dem?	Сколько ты за них заплатил?	dem	0	0
+Tack för alla dina kommentarer!	Спасибо за все твои комментарии!	alla	0	0
+Hon tror alltid på mig.	Она всегда верит мне.	tror	0	0
+Tom bryr sig inte om vad de andra säger om honom.	Тому всё равно, что о нём говорят.	sig	0	0
+Är allt okej?	Всё в порядке?	allt	0	0
+Du måste hjälpa henne.	Тебе необходимо помочь ей.	henne	0	0
+Hon stiger upp klockan sju.	Она встает в семь.	upp	0	0
+Du verkade inte förstå vad Tom sa.	Похоже, ты не понял, о чём говорил Том.	sa	0	0
+Ingen kan fly.	Никто не сможет убежать.	ingen	0	0
+Tack för att ni kom.	Спасибо, что пришли.	tack	0	0
+Vi förbereder oss för att gå ut.	Мы готовимся к выходу.	gå	0	0
+Tom gick just in.	Том только что вошел.	in	0	0
+Har du fått löneförhöjning igen?	Ты снова получил прибавку к зарплате?	igen	0	0
+Jag måste få rätsida på det här.	Мне надо во всём этом разобраться.	få	0	0
+Vill du ha nåt att äta?	Хочешь поесть что-нибудь?	nåt	0	0
+Jag är väldigt glad att se dig igen.	Я очень рад видеть тебя снова.	se	0	0
+Det låter som att ni hade en kul kväll i går.	Похоже, ты хорошо провёл прошлую ночь.	går	0	0
+Jag har mycket att fundera på.	Мне нужно о многом подумать.	mycket	0	0
+Sjutton gastar på död mans kista. - Hej och hå och en flaska med rom!	Семнадцать человек на сундук мертвеца, Йо-хо-хо, и бутылка рому!	hej	0	0
+Vem är det som spelar gitarr?	Кто это на гитаре играет?	vem	0	0
+Det är kanske bättre att jag gör det.	А что, если я это сделаю?	kanske	0	0
+Det finns lite mjölk kvar i kylskåpet.	В холодильнике осталось немного молока.	lite	0	0
+Jag behöver solen.	Мне нужно солнце.	behöver	0	0
+Ser du någonting?	Ты что-нибудь видишь?	ser	0	0
+Han ska följa mitt råd.	Он последует моему совету.	mitt	0	0
+Min bror har aldrig bestigit Mt Fuji.	Мой брат никогда не поднимался на гору Фудзи.	aldrig	0	0
+Det finns lite mjölk kvar i kylskåpet.	В холодильнике осталось немного молока.	finns	0	0
+Är ni rädda än?	Вам уже страшно?	än	0	0
+Inget är så enkelt som det verkar.	Не всё так просто, как кажется.	inget	0	0
+Det här är just den ordbok jag har letat efter.	Это как раз тот словарь, который я искал.	efter	0	0
+Trevligt att höra att ni använder så artigt tilltal till en katt. Katter blir annars alltid duade, fast ingen katt någonsin har druckit duskål med någon.	Приятно слышать, что вы так вежливо обращаетесь с котом. Котам обычно почему-то говорят "ты", хотя ни один кот никогда ни с кем не пил брудершафта.	blir	0	0
+Vi kunde inte gå med på hans krav.	Мы не могли согласиться с его требованиями.	hans	0	0
+Det börjar bli dags att gå hem.	Уже пора идти домой.	bli	0	0
+En förkylning gjorde honom sängliggande.	Из-за простуды он оставался в постели.	gjorde	0	0
+Det är två elever borta idag.	Сегодня нет двоих учеников.	två	0	0
+Amerika är tillbaka!	Америка вернулась!	tillbaka	0	0
+Jag tar en kopp kaffe, tack.	Я возьму чашку кофе, спасибо.	tar	0	0
+Min mor är mer nervös över examensresultatet än vad jag är.	Моя мама больше нервничает по поводу результатов экзамена, чем я.	mer	0	0
+Jag behöver något för en vuxen.	Мне нужно что-нибудь для взрослого.	något	0	0
+Min mor är mer nervös över examensresultatet än vad jag är.	Моя мама больше нервничает по поводу результатов экзамена, чем я.	över	0	0
+Jag förstår inte vad du säger.	Я не понимаю, что ты говоришь.	säger	0	0
+Ursäkta att du fick vänta länge.	Извини, что тебе пришлось долго ждать.	fick	0	0
+Jag är inte nöjd med kvalitén på ditt arbete.	Я недоволен качеством Вашей работы.	ditt	0	0
+Ge mig en sked.	Дай мне ложку.	ge	0	0
+Jag önskar dig allt väl.	Желаю тебе всего хорошего.	väl	0	0
+Jag är också lärare.	Я тоже учитель.	också	0	0
+Var är min familj? Var är mina vänner?	Где моя семья, где мои друзья?	mina	0	0
+Jag anbefaller dig åt Gud.	Препоручаю тебя Господу.	åt	0	0
+Det är nog bäst att du är tyst.	Тебе лучше помолчать.	nog	0	0
+Vad fan gör du här?	Какого чёрта ты здесь делаешь?	fan	0	0
+Jag kunde inte fortsätta ljuga för Tom.	Я не мог продолжать лгать Тому.	kunde	0	0
+Jag har inte sett honom på några år.	Я не видел его несколько лет.	år	0	0
+Vad är det du vill säga egentligen?	Что ты хочешь сказать на самом деле?	säga	0	0
+Du kommer läsa det någon annan dag.	Прочитаешь как-нибудь в другой раз.	någon	0	0
+Min mamma lagar mat åt mig.	Моя мама готовит для меня.	mamma	0	0
+Hon har varit utan anställning i sex månader nu.	Она уже полгода не работает.	varit	0	0
+Slå dig ner!	Присаживайся!	ner	0	0
+Tom ville att Maria skulle samarbeta.	Том хотел, чтобы Мария сотрудничала.	ville	0	0
+Vänta fem minuter, är ni snälla.	Будьте добры, подождите пять минут.	vänta	0	0
+Tom bröt mot reglerna.	Том нарушил правила.	mot	0	0
+Han liknar sin pappa.	Он похож на своего отца.	pappa	0	0
+Landet har gemensamma gränser med två andra länder.	Страна имеет границу с двумя другими странами.	andra	0	0
+Du borde säga åt Mary att hon borde göra det så snart som möjligt.	Ты должен сказать Мэри, что она должна сделать это как можно скорее.	borde	0	0
+Jag känner en som kan gå på vatten.	Я знаю кое-кого, кто может ходить по воде.	känner	0	0
+Vi måste göra det som är rätt.	Мы должны делать то, что правильно.	rätt	0	0
+Han stod vid ingången.	Он стоял у входа.	vid	0	0
+Jag gjorde några ändringar.	Я внёс некоторые изменения.	några	0	0
+Jag spelade tennis hela dagen.	Я весь день играл в теннис.	hela	0	0
+Och Gud såg att det var gott.	И увидел Бог, что это хорошо.	såg	0	0
+Han borde inte komma tillbaka hit.	Он не должен возвращаться сюда.	hit	0	0
+Om du vill prata så prata.	Если хочешь говорить, говори.	prata	0	0
+Han kommer att komma.	Он придет.	komma	0	0
+Låt oss gå och sova.	Пошли спать.	låt	0	0
+Detta är inget misstag.	Это не ошибка.	detta	0	0
+President Grant hade inte gjort något olagligt.	Президент Грант не сделал ничего противозаконного.	gjort	0	0
+Jag blev bortförd av rymdvarelser.	Я был похищен инопланетянами.	blev	0	0
+Hon log åt sig själv i spegeln.	Она улыбнулась своему отражению в зеркале.	själv	0	0
+Jag måste ha passerat stationen medan jag tog en tupplur.	Должно быть, я проехал станцию, когда задремал.	tog	0	0
+Varför kommer du alltid för sent?	Почему ты всегда опаздываешь?	alltid	0	0
+Vår engelsklärare lägger vikt vid uttalet.	Наш преподаватель английского уделяет большое внимание произношению.	vår	0	0
+Nu behövs inte bara ord, utan också handling.	Сейчас необходимы не просто слова, но и действия.	utan	0	0
+Det var helt mitt fel.	Эта была полностью моя вина.	fel	0	0
+Jag kom hem sent.	Я пришёл домой поздно.	hem	0	0
+Tom har på sig hatt varje dag.	Том носит шляпу каждый день.	dag	0	0
+Tack för alla dina kommentarer!	Спасибо за все твои комментарии!	dina	0	0
+Jag kan inte leva ett sådant liv.	Я не могу жить такой жизнью.	liv	0	0
+Nej... Jag menar ja.	Нет... То есть да.	menar	0	0
+Hände det verkligen?	Это действительно случилось?	verkligen	0	0
+Sicken retsticka, va!	Какой же задира!	va	0	0
+Det där ordet förstår jag inte.	Я не понимаю это слово.	förstår	0	0
+Han liknar sin pappa.	Он похож на своего отца.	sin	0	0
+Det finns folk som läser böcker för att slå ihjäl tid.	Есть люди, которые читают книги, чтобы убить время.	tid	0	0
+Jag trodde att han var sjuk.	Я думала, что он болен.	trodde	0	0
+Jag gick upp klockan fem på morgonen.	Я встала в пять утра.	gick	0	0
+Älskar du din mor?	Ты любишь свою маму?	älskar	0	0
+Kan jag då kanske hjälpa er på något sätt?	Может, я смогу вам чем-нибудь помочь?	sätt	0	0
+Vad tänker jag på?	О чём я думаю?	tänker	0	0
+Döda!	Убей!	döda	0	0
+Jag vill veta vad det är som är roligt.	Я хочу знать, что здесь такого смешного.	veta	0	0
+Polisen har arresterat tre personer för lördagens inbrott.	Полиция арестовала трех человек за кражу со взломом в субботу.	tre	0	0
+Många träd tappar löven på vintern.	Многие деревья сбрасывают листья зимой.	många	0	0
+Jag iakttar gärna folk.	Я люблю смотреть на людей.	folk	0	0
+Det gör ont. Sluta!	Больно. Прекрати!	sluta	0	0
+Det är precis som jag förväntade mig.	Это именно то, что я и ожидал.	precis	0	0
+Spindlar har inga öron.	У пауков нет ушей.	inga	0	0
+Hennes mage skriker.	Её желудок урчит.	hennes	0	0
+Titta på skylten framför dig.	Посмотри на знак перед тобой.	titta	0	0
+Tom visste vad han gjorde.	Том знал, что делает.	visste	0	0
+Vilket djur gillar du mest?	Какое животное нравится тебе больше всего?	gillar	0	0
+Mary födde ett barn i lönndom.	Мария тайно родила ребенка.	barn	0	0
+Det är kanske bättre att jag gör det.	А что, если я это сделаю?	bättre	0	0
+Kan Tom hjälpa oss?	Может ли Том нам помочь?	hjälpa	0	0
+Vi träffades under ett ensamt träd.	Мы встретились под одиноким деревом.	under	0	0
+Det var en gång en olycklig, glömsk kille vid namn James, som ständigt förväxlade Mary med Maria. Därför hatade Maria honom i själ och hjärta.	Жил-был несчастный забывчивый парень по имени Джеймс, который всё время путал Мэри с Марией. Мария за это ненавидела его всеми фибрами души.	gång	0	0
+Han kan inte ha tappat bort sina nycklar.	Он не мог потерять свои ключи.	bort	0	0
+Vi behöver din hjälp.	Нам нужна твоя помощь.	hjälp	0	0
+Jag har små händer.	У меня маленькие руки.	händer	0	0
+Vad gör Jon just nu?	Что делает Джон прямо сейчас?	just	0	0
+Det var helt mitt fel.	Эта была полностью моя вина.	helt	0	0
+Säg bara vad jag ska göra!	Просто скажите мне, что делать!	säg	0	0
+Jag tycker inte om honom, men jag gillar henne.	Я не люблю его, но мне нравится она.	tycker	0	0
+Endast två saker är oändliga: universum och människans enfaldighet, och jag är inte säker gällande den första.	Только две вещи бесконечны - вселенная и человеческая глупость, и насчёт первой я не уверен.	första	0	0
+Sjutton gastar på död mans kista. - Hej och hå och en flaska med rom!	Семнадцать человек на сундук мертвеца, Йо-хо-хо, и бутылка рому!	död	0	0
+Håll er ur min väg.	Держитесь подальше от меня.	håll	0	0
+Hur länge kommer det här kalla vädret att hålla på?	Как долго продержится эта холодная погода?	länge	0	0
+Hör du mig bra nu?	Теперь ты хорошо меня слышишь?	hör	0	0
+Vi har sett vad Tom kan göra.	Мы видели, на что способен Том.	sett	0	0
+Jag är ledsen för det här.	Я сожалею об этом.	ledsen	0	0
+Vänta fem minuter, är ni snälla.	Будьте добры, подождите пять минут.	snälla	0	0
+Endast två saker är oändliga: universum och människans enfaldighet, och jag är inte säker gällande den första.	Только две вещи бесконечны - вселенная и человеческая глупость, и насчёт первой я не уверен.	saker	0	0
+Jag är tvungen att hitta ett deltidsarbete.	Мне нужно найти работу на неполный рабочий день.	hitta	0	0
+Jag kan fortfarande inte bestämma mig om jag ska åka dit eller inte.	Я по-прежнему еще не решил, идти мне туда или нет.	fortfarande	0	0
+Jag står inte ut med oljudet längre.	Я не могу больше терпеть этот шум.	står	0	0
+Jag behöver pengar.	Мне нужны деньги.	pengar	0	0
+God morgon.	Доброе утро.	god	0	0
+Det här året erbjuder vi samma språkkurs som i fjol.	В этом году мы предлагаем тот же языковой курс, что и в прошлом году.	samma	0	0
+Hon skrattar sällan, om ens någonsin.	Она редко, если вообще когда-нибудь, смеется.	ens	0	0
+Ursäkta. Jag skulle vilja hyra en bil.	Извините, я хотел бы арендовать машину.	ursäkta	0	0
+Jag heter Maria.	Меня зовут Мария.	heter	0	0
+Håller isen?	Лёд выдержит?	håller	0	0
+Vilken film vill du se?	Какой фильм ты хочешь посмотреть?	vilken	0	0
+I begynnelsen skapade Gud himmel och jord.	В начале Бог создал небо и землю.	gud	0	0
+Har du redan bokat våra platser på flygplanet?	Ты уже забронировал наши места в самолете?	våra	0	0
+Sydde du den här för hand?	Ты сшил это вручную?	hand	0	0
+Kan ni ta hand om våra husdjur medan vi är borta?	Ты мог бы присмотреть за нашими домашними животными, пока нас нет?	borta	0	0
+Olyckan hände plötsligt.	Авария произошла внезапно.	hände	0	0
+Han började häva ur sig svordomar.	Он начал ругаться.	ur	0	0
+Ditt problem liknar mitt.	Твоя проблема сходна с моей.	problem	0	0
+Han tog med sig en vän.	Он привёл с собой друга.	vän	0	0
+Jag tror att jag ska stanna här.	Думаю, я останусь здесь.	stanna	0	0
+Jag ska gå rakt på sak. Du får sparken.	Перейду прямо к сути дела. Вы уволены.	sak	0	0
+Jag förstår inte vad hon försöker säga.	Я не понимаю, что она пытается сказать.	försöker	0	0
+Det låter som att ni hade en kul kväll i går.	Похоже, ты хорошо провёл прошлую ночь.	låter	0	0
+Far ska opereras.	Отца будут оперировать.	far	0	0
+Det finns lite mjölk kvar i kylskåpet.	В холодильнике осталось немного молока.	kvar	0	0
+Polis är på väg.	Полиция уже едет.	väg	0	0
+Från tid till annan studerar jag esperanto.	Иногда я изучаю эсперанто.	annan	0	0
+Jag kan inte hitta Tom. Har han redan gått?	Не могу найти Тома. Он уже ушёл?	redan	0	0
+Jag översätter inte romaner längre.	Я больше не перевожу романы.	längre	0	0
+Pratar du svenska?	Вы говорите по-шведски?	pratar	0	0
+Ljudet är väldigt högt.	Звук очень громкий.	väldigt	0	0
+Vart är du på väg?	Куда ты путь держишь?	vart	0	0
+Jag kan fortfarande inte bestämma mig om jag ska åka dit eller inte.	Я по-прежнему еще не решила, идти мне туда или нет.	dit	0	0
+Vad ska du göra i kväll?	Что ты делаешь сегодня вечером?	kväll	0	0
+Vi ska få en ny lärare i morgon.	Завтра у нас будет новый учитель.	morgon	0	0
+Har du fått löneförhöjning igen?	Ты снова получил прибавку к зарплате?	fått	0	0
+Är vi framme snart?	Мы скоро приедем?	snart	0	0
+Jag kan vänta här ute.	Я могу подождать снаружи.	ute	0	0
+Du borde fråga honom om råd.	Тебе следует спросить у него совета.	fråga	0	0
+Han nådde sitt mål.	Он достиг своей цели.	sitt	0	0
+Sami var där borta hela tiden.	Сами был там все время.	tiden	0	0
+Kör!	Давай, жми!	kör	0	0
+Det var ett misstag från deras sida.	Это было ошибкой с их стороны.	deras	0	0
+Mitt namn är Sasja.	Моё имя Саша.	namn	0	0
+Inget är så enkelt som det verkar.	Не всё так просто, как кажется.	verkar	0	0
+De fick honom att tro att han är bäst.	Они заставили его поверить в то, что он лучше всех.	tro	0	0
+Min pappa promenerar varje dag.	Мой папа гуляет каждый день.	varje	0	0
+Det som göms i snö kommer fram i tö.	То, что спрятано в снегу, выходит наружу во время оттепели.	fram	0	0
+Låt oss hoppas på det bästa i alla fall.	В любом случае давайте надеяться на лучшее.	bästa	0	0
+Tanzanias president var tillsammans med sin fru på statsbesök i Finland år 1998.	Президент Танзании был вместе со своей супругой с государственным визитом в Финляндии в 1998 году.	fru	0	0
+Säkerhet kommer alltid först.	Безопасность прежде всего.	först	0	0
+Kom och träffa några av dina nya klasskamrater.	Познакомьтесь с вашими новыми одноклассниками.	träffa	0	0
+Detta är långt ifrån säkert.	Это нельзя утверждать категорично.	säkert	0	0
+Är lektionen redan slut?	Лекция уже закончилась?	slut	0	0
+Jag såg Tom för mindre än en timme sedan.	Я видел Тома меньше, чем час назад.	sedan	0	0
+Han sov över hos sin moster.	Он ночевал у тётки.	hos	0	0
+Ingenting här är mitt.	Здесь нет ничего моего.	ingenting	0	0
+Det var en gång en olycklig, glömsk kille vid namn James, som ständigt förväxlade Mary med Maria. Därför hatade Maria honom i själ och hjärta.	Жил-был несчастный забывчивый парень по имени Джеймс, который всё время путал Мэри с Марией. Мария за это ненавидела его всеми фибрами души.	därför	0	0
+Om jag var rik, skulle jag åka utomlands.	Если бы я был богат, то я бы поехал за границу.	åka	0	0
+Kan du visa mig vad du har köpt?	Покажешь мне, что ты купила?	visa	0	0
+Tom är säker.	Том уверен.	säker	0	0
+Lämna inte tv:n på!	Не оставляй телевизор включённым!	lämna	0	0
+När han kommer börjar vi.	Когда он придёт, мы начнём.	börjar	0	0
+Vart tog de vägen?	Куда они направились?	vägen	0	0
+Tom gav sig inte.	Том не сдавался.	gav	0	0
+Jag vill ha en båt som kan ta mig långt härifrån.	Хочу лодку, которая унесёт меня далеко отсюда.	härifrån	0	0
+De gav oss ett jobb.	Они поручили нам работу.	jobb	0	0
+Hur länge kommer det här kalla vädret att hålla på?	Как долго продержится эта холодная погода?	hålla	0	0
+Din son är en hjälte.	Твой сын - герой.	son	0	0
+Tom har stor respekt för Mary.	Том очень уважает Мэри.	stor	0	0
+Var är min familj? Var är mina vänner?	Где моя семья, где мои друзья?	vänner	0	0
+Hittade du det du sökte efter?	Ты нашёл, что искал?	hittade	0	0
+Låt oss hoppas på det bästa i alla fall.	В любом случае давайте надеяться на лучшее.	hoppas	0	0
+Tom investerade sina pengar i aktier.	Том вложил свои деньги в акции.	sina	0	0
+Jag hörde inte vad du sade.	Я не расслышал, что ты сказала.	hörde	0	0
+Vilket land är störst, Japan eller England?	Какая страна больше, Япония или Англия?	vilket	0	0
+Skulle du kunna kolla vad som går på bio nästa lördag?	Не мог бы ты посмотреть, что идет в кинотеатре в следующую субботу?	kolla	0	0
+Jag minns inte hennes namn.	Я не помню её имя.	minns	0	0
+Hon var väldigt rädd för honom.	Она его очень боялась.	rädd	0	0
+Vi skyndade oss, så att vi hann med den sista bussen.	Мы спешили, чтобы успеть на последний автобус.	sista	0	0
+Engelska studerar man även i Kina.	Английский изучают даже в Китае.	även	0	0
+Var är era väskor?	Где ваши сумки?	era	0	0
+Hon har varit utan anställning i sex månader nu.	Она уже полгода не работает.	sex	0	0
+Har du avbokat vårt bord?	Ты отменил наше бронирование столика?	vårt	0	0
+Skulle du kunna skriva ner länken till den sajten?	Не мог бы ты записать ссылку на этот сайт?	kunna	0	0
+Vi ses nästa vecka!	Увидимся на следующей неделе!	ses	0	0
+Finland var en del av Ryssland åren 1809–1917.	Финляндия была частью России в 1809-1917 годах.	del	0	0
+Han börjar skolan nästa år.	В следующем году он пойдёт в школу.	nästa	0	0
+Hon stannade fem dagar till.	Она осталась ещё на пять дней.	fem	0	0
+Hälsan är det viktigaste i livet.	Здоровье - это самое главное в жизни.	livet	0	0
+Mina böcker är nya.	Мои книги новые.	nya	0	0
+Bry dig inte om vad andra människor tycker.	Не переживай насчёт мнения других людей.	människor	0	0
+Följ den bilen.	Следуй за той машиной.	bilen	0	0
+Jag vet att jag kommer att dö.	Я знаю, что умру.	dö	0	0
+Jag vet inte riktigt än.	Я пока еще не знаю точно.	riktigt	0	0
+Jag klarar inte av sådana här filmer.	Я не выношу такие фильмы.	klarar	0	0
+Trevligt att höra att ni använder så artigt tilltal till en katt. Katter blir annars alltid duade, fast ingen katt någonsin har druckit duskål med någon.	Приятно слышать, что вы так вежливо обращаетесь с котом. Котам обычно почему-то говорят "ты", хотя ни один кот никогда ни с кем не пил брудершафта.	höra	0	0
+Den här kameran är liten, men mycket bra.	Эта камера небольшая, но очень хорошая.	liten	0	0
+Vad betyder ditt namn?	Что значит твоё имя?	betyder	0	0
+Tänk på vad du säger!	Думай, что говоришь!	tänk	0	0
+Lokalen har nu legat i träda ett tag.	Помещением уже некоторое время не пользовались.	tag	0	0
+Jag tycker om att lyssna på musik, speciellt jazz.	Мне нравится слушать музыку, особенно джаз.	lyssna	0	0
+Jag litar inte på polisen.	Я не доверяю полиции.	polisen	0	0
+Du kom ändå!	Ты все равно пришёл!	ändå	0	0
+Det är det dummaste som jag någonsin sagt.	Это самая глупая вещь, которую я когда-либо говорил.	sagt	0	0
+Jag är aldrig hemma på söndagar.	Я никогда не бываю дома по воскресеньям.	hemma	0	0
+Fastän det låter märkligt är det sant det hon sade.	Хотя это звучит странно, но то, что она сказала - правда.	sant	0	0
+Världen är en nation.	Мир - это нация.	världen	0	0
+Trevligt att höra att ni använder så artigt tilltal till en katt. Katter blir annars alltid duade, fast ingen katt någonsin har druckit duskål med någon.	Приятно слышать, что вы так вежливо обращаетесь с котом. Котам обычно почему-то говорят "ты", хотя ни один кот никогда ни с кем не пил брудершафта.	fast	0	0
+Jag är faktiskt väldigt upptagen.	На самом деле я очень занят.	faktiskt	0	0
+Vår skola ligger i den här byn.	Наша школа находится в этой деревне.	ligger	0	0
+Idag för mig, imorgon för dig.	Сегодня мне, завтра тебе.	idag	0	0
+Vänta fem minuter, är ni snälla.	Будьте добры, подождите пять минут.	minuter	0	0
+Var är min familj? Var är mina vänner?	Где моя семья, где мои друзья?	familj	0	0
+Hon hade ett litet runt föremål i handen.	В руке она держала небольшой круглый предмет.	runt	0	0
+Du har blivit tjock.	Ты растолстел.	blivit	0	0
+I så fall tror jag att du bör komma idag.	В таком случае я думаю, ты должен прийти сегодня.	fall	0	0
+Jag väntar på dig på mitt rum.	Я жду тебя в своей комнате.	väntar	0	0
+Sköldpaddan dog.	Черепаха умерла.	dog	0	0
+Ingen av de fyra pojkarna hade alibi.	Ни у одного из четверых мальчиков не было алиби.	fyra	0	0
+Han hade femtio dollar.	У него было пятьдесят долларов.	dollar	0	0
+Vi åker när det slutat regna.	Мы пойдём, когда кончится дождь.	åker	0	0
+Det var kul.	Это было весело.	kul	0	0
+Får jag tala med Tom?	Могу я поговорить с Томом?	tala	0	0
+Du luktar illa.	От тебя плохо пахнет.	illa	0	0
+Generellt sett lever kvinnor längre än män.	Вообще говоря, женщины живут дольше, чем мужчины.	män	0	0
+Jag försökte att undanröja alla tvivel.	Я постарался развеять любые сомнения.	försökte	0	0
+Melanie dödade oavsiktligt en fluga.	Мелани не нарочно убила муху.	dödade	0	0
+Vem som helst kan göra misstag.	Каждый может совершить ошибку.	helst	0	0
+Annars vet jag ingenting.	Я ничего не знаю, кроме этого.	annars	0	0
+Mitt liv har haft upp- och nedgångar.	В моей жизни были взлёты и падения.	haft	0	0
+Det var nästan som en dröm.	Это было почти как во сне.	nästan	0	0
+Jag vill inte bo ensam.	Я не хочу жить один.	ensam	0	0
+Tiden är inne nu.	Время пришло.	inne	0	0
+Han har lika många böcker som sin far.	У него столько же книг, сколько у его отца.	lika	0	0
+Lägg inte plånboken på elementet.	Не клади кошелёк на батарею.	lägg	0	0
+Vi är redo för detta.	Мы готовы к этому.	redo	0	0
+Sluta fråga mig om en drink! Gå och hämta en själv.	Хватит просить меня принести тебе напиток! Пойди и возьми себе сама.	hämta	0	0
+Min mamma jobbar på fabrik.	Моя мама работает на заводе.	jobbar	0	0
+Minns du då Tom och Mary kom hit för första gången?	Ты помнишь, когда Том и Мэри впервые приехали сюда?	gången	0	0
+Det är en ny bok.	Это новая книга.	ny	0	0
+Författaren av denna bok har aldrig varit i Ryssland.	Автор этой книги никогда не был в России.	denna	0	0
+Köttbullar skulle vara lagom stora, lagom runda och lagom bruna, säger Emils mor.	Фрикадельки должны быть в меру большие, в меру круглые и в меру поджаристые, говорит мама Эмиля.	stora	0	0
+Jag kan inte ta hennes plats som engelsklärare.	Я не могу занять её место преподавателя английского.	plats	0	0
+Vänta på er tur.	Подождите своей очереди.	tur	0	0
+Vi kan börja.	Мы можем начинать.	börja	0	0
+Jag visste att det skulle bli svårt att övertala Tom att hjälpa oss.	Я знал, что будет сложно убедить Тома нам помочь.	svårt	0	0
+Det är lugnt.	Всё нормально.	lugnt	0	0
+Jag vill ha en båt som kan ta mig långt härifrån.	Хочу лодку, которая унесёт меня далеко отсюда.	långt	0	0
+Vem är det som spelar gitarr?	Кто это на гитаре играет?	spelar	0	0
+Tom är en man, och jag är en kvinna.	Том - мужчина, а я женщина.	kvinna	0	0
+Tack, älskling.	Спасибо, моя дорогая.	älskling	0	0
+Tom kunde inte tro på det som hänt.	Том не мог поверить в то, что произошло.	hänt	0	0
+De skådelystna ställde sig kring hans nya bil.	Любопытствующие стояли вокруг его новой машины.	bil	0	0
+Vi är emot krig.	Мы против войны.	emot	0	0
+Du bör låta din son bli självständig.	Ты должен позволить своему сыну стать самостоятельным.	låta	0	0
+Tanzanias president var tillsammans med sin fru på statsbesök i Finland år 1998.	Президент Танзании был вместе со своей супругой с государственным визитом в Финляндии в 1998 году.	tillsammans	0	0
+Öppna flaskan, tack.	Пожалуйста, открой бутылку.	öppna	0	0
+Jag har inte hört någonting.	Я ничего не слышал.	hört	0	0
+Detta är huset som jag bodde i när jag var barn.	Это дом, в котором я жил, когда был ребёнком.	huset	0	0
+Han är min bror.	Он мой брат.	bror	0	0
+Telefonen ringer.	Телефон звонит.	ringer	0	0
+Jag skulle vilja be om en översättare.	Я хотел бы попросить переводчика.	be	0	0
+Tom sjunger ibland på franska.	Том иногда поёт на французском.	ibland	0	0
+Är ni rädda än?	Вам уже страшно?	rädda	0	0
+Och inte här heller.	И не здесь тоже.	heller	0	0
+Jag hittade en lösning, men jag hittade den så fort att det inte kan vara den rätta.	Я нашел решение, но я нашел его настолько быстро, что оно определенно не может быть верным.	fort	0	0
+Tom är glad av sig.	Том в хорошем настроении.	glad	0	0
+Jag kan inte hitta Tom. Har han redan gått?	Не могу найти Тома. Он уже ушёл?	gått	0	0
+Jag ser en man mellan träden.	Я вижу человека среди деревьев.	mellan	0	0
+Estniskan är nära besläktad med finskan.	Эстонский язык тесно связан с финским.	nära	0	0
+Detta är långt ifrån säkert.	Это нельзя утверждать категорично.	ifrån	0	0
+Har du ett hus i Italien?	У тебя есть дом в Италии?	hus	0	0
+Skulle du kunna ögna igenom de där papperen lite?	Не мог бы ты взглянуть на эти бумаги?	igenom	0	0
+Eftersom jag hade träffat honom en gång förut, kände jag igen honom direkt.	Я узнал его сразу же, так как я уже встречал его однажды до этого.	kände	0	0
+Vet du vilka färger hon tycker hon?	Ты знаешь, какие цвета ей нравятся?	vilka	0	0
+Tom bryr sig inte om vad de andra säger om honom.	Тому всё равно, что о нём говорят.	bryr	0	0
+Jag har inte ätit någonting på sex dagar.	Я не ел шесть дней.	dagar	0	0
+Det var en gång en olycklig, glömsk kille vid namn James, som ständigt förväxlade Mary med Maria. Därför hatade Maria honom i själ och hjärta.	Жил-был несчастный забывчивый парень по имени Джеймс, который всё время путал Мэри с Марией. Мария за это ненавидела его всеми фибрами души.	kille	0	0
+Jag vet att ni har viktigare saker att tänka på.	Я знаю, что у вас есть более важные дела, о которых нужно подумать.	tänka	0	0
+Vet ni var jag bor?	Вы знаете, где я живу?	bor	0	0
+Gärna för mig!	С удовольствием!	gärna	0	0
+Det fanns få barn i rummet.	В комнате находились несколько детей.	fanns	0	0
+Jag började att läsa boken.	Я начала читать книгу.	började	0	0
+Han sitter på stolen.	Он сидит на стуле.	sitter	0	0
+Det finns folk som läser böcker för att slå ihjäl tid.	Есть люди, которые читают книги, чтобы убить время.	slå	0	0
+Ännu en gång.	Ещё раз.	ännu	0	0
+En, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	Один, два, три, четыре, пять, шесть, семь, восемь, девять, десять.	tio	0	0
+Trevligt att höra att ni använder så artigt tilltal till en katt. Katter blir annars alltid duade, fast ingen katt någonsin har druckit duskål med någon.	Приятно слышать, что вы так вежливо обращаетесь с котом. Котам обычно почему-то говорят "ты", хотя ни один кот никогда ни с кем не пил брудершафта.	trevligt	0	0
+Jag skulle vilja se Tom.	Я хотел бы увидеть Тома.	vilja	0	0
+Och Gud såg att det var gott.	И увидел Бог, что это хорошо.	gott	0	0
+Jag kan spela gitarr.	Я умею играть на гитаре.	spela	0	0
+Lagom är bäst.	Всё хорошо в меру.	bäst	0	0
+Grafen är 200 gånger starkare än stål.	Графен в 200 раз прочнее стали.	gånger	0	0
+Dessa två bröder liknar varandra.	Эти два брата похожи.	varandra	0	0
+Hon är online flera timmar varje dag.	Она находится онлайн по несколько часов каждый день.	timmar	0	0
+Hon lever ett bekymmerslöst liv.	Она живёт беззаботной жизнью.	lever	0	0
+Vad gjorde Tom av pengarna?	Что сделал Том с деньгами?	pengarna	0	0
+Vill du ha nåt att äta?	Хочешь поесть что-нибудь?	äta	0	0
+Jag följer med dig och handlar.	Я пойду с тобой за покупками.	handlar	0	0
+Jag väntar på dig på mitt rum.	Я жду тебя в своей комнате.	rum	0	0
+Hon påminner särskilt om sin mor.	Она очень напоминает свою мать.	mor	0	0
+Det här gamla bordet används fortfarande.	Этот старый стол по-прежнему используется.	gamla	0	0
+Jag förstår inte ett ord.	Я не понимаю ни слова.	ord	0	0
+Jag kommer inte ihåg texten.	Я не могу вспомнить текст.	ihåg	0	0
+Jag tog mig friheten att ringa henne.	Я осмелился ей позвонить.	ringa	0	0
+Mannen åt upp brödet.	Мужчина съел хлеб.	mannen	0	0
+Nu är det dags för mig att krypa till kojs.	Мне пора в постель.	dags	0	0
+Eftersom jag hade träffat honom en gång förut, kände jag igen honom direkt.	Я узнал его сразу же, так как я уже встречал его однажды до этого.	eftersom	0	0
+Det är en gammal arbetsskada.	Это старая производственная травма.	gammal	0	0
+Jag var på jobbet.	Я была на работе.	jobbet	0	0
+Det är någon vid dörren.	Там кто-то у двери.	dörren	0	0
+Flickan är nu utom fara.	Девушка сейчас вне опасности.	fara	0	0
+Jag vill inte arbeta under dessa villkor.	Я не хочу работать в таких условиях.	dessa	0	0
+Människor dör varje dag.	Люди умирают каждый день.	dör	0	0
+Kan jag få ett par ostsmörgåsar?	Можно мне пару бутербродов с сыром?	par	0	0
+Jag bad honom om råd.	Я попросил его о совете.	bad	0	0
+Tom hjälper.	Том помогает.	hjälper	0	0
+Han reagerar inte alls.	Он никак не реагирует.	alls	0	0
+Det är nog bäst att du är tyst.	Тебе лучше помолчать.	tyst	0	0
+Jag har min egen teori.	У меня есть своя теория.	egen	0	0
+Tom har kommit tillbaka.	Том вернулся.	kommit	0	0
+Telefonen ringde.	Телефон звонил.	ringde	0	0
+Jag spelade tennis hela dagen.	Я весь день играл в теннис.	dagen	0	0
+Jag blev till slut klar med arbetet.	Я наконец закончил работу.	klar	0	0
+Är du galen?	У тебя крыша поехала?	galen	0	0
+Är Tom i stan?	Том в городе?	stan	0	0
+Jag kan inte leva ett sådant liv.	Я не могу жить такой жизнью.	leva	0	0
+Hur är det med din syster?	Как дела у твоей сестры?	syster	0	0
+Oroa dig inte.	Не волнуйтесь.	oroa	0	0
+Mary hjälpte sin mor att laga mat.	Мэри помогла матери приготовить еду.	mat	0	0
+Har du några vapen?	Носите ли вы оружие?	vapen	0	0
+John har en japansk bil.	У Джона есть японский автомобиль.	john	0	0
+Om ni vill tala med mig, så ring.	Если хотите поговорить со мной, то позвоните.	ring	0	0
+Jag sade aldrig att det inte var en bra idé.	Я никогда не говорил, что это плохая идея.	idé	0	0
+I dag arbetar han i stället för mig.	Сегодня он работает вместо меня.	stället	0	0
+Ingen visste vart han hade tagit vägen.	Никто не знал, куда он пошёл.	tagit	0	0
+Stå på öronen!	Осторожно, ты сейчас упадёшь!	stå	0	0
+Jag minns när Anna berättade att hon blivit kär.	Я помню, как Анна рассказала, что влюбилась.	berättade	0	0
+Det är ganska kallt.	Довольно холодно.	ganska	0	0
+Jag följer med dig och handlar.	Я пойду с тобой за покупками.	följer	0	0
+Mötet slutade klockan fem.	Встреча закончилась в пять.	klockan	0	0
+Har du hittat någonting?	Ты что-то нашёл?	hittat	0	0
+Låt mig följa dig hem.	Позволь мне проводить тебя домой.	följa	0	0
+Lätt fånget, lätt förgånget.	Бог дал, бог взял.	lätt	0	0
+Sami fortsatte försöka.	Сами продолжал попытки.	försöka	0	0
+Mitt namn är Jack.	Меня зовут Джек.	jack	0	0
+Jag har levt här under en lång tid.	Я живу здесь уже давно.	lång	0	0
+Det är ett yrke som jag aldrig hört talas om förut.	Я никогда раньше не слышал об этой профессии.	förut	0	0
+Detta kök är otroligt svårt att jobba i, då det helt och hållet saknar avställningsyta.	На этой кухне невероятно сложно работать, так как на ней совершенно не хватает места.	jobba	0	0
+Hon lärde sig latin i skolan.	Она учила латынь в школе.	skolan	0	0
+Vad letar du efter?	Что ты ищешь?	letar	0	0
+Hon är online flera timmar varje dag.	Она находится онлайн по несколько часов каждый день.	flera	0	0
+Jag gjorde ett försök att simma över floden.	Я сделал попытку переплыть через реку.	försök	0	0
+Vilket djur gillar du mest?	Какое животное нравится тебе больше всего?	mest	0	0
+Vårt skolbibliotek är väldigt litet, men det är nytt.	Наша школьная библиотека довольно маленькая, но она новая.	nytt	0	0
+Eftersom jag hade träffat honom en gång förut, kände jag igen honom direkt.	Я узнал его сразу же, так как я уже встречал его однажды до этого.	direkt	0	0
+Jag gillar inte kvinnor utan personalitet.	Мне не нравятся женщины без индивидуальности.	kvinnor	0	0
+Ett år består av tolv månader.	В году двенадцать месяцев.	månader	0	0
+Om det regnar stannar jag hemma.	Если пойдёт дождь, то я останусь дома.	stannar	0	0
+Du berättar inte sanningen.	Ты не говоришь всю правду.	sanningen	0	0
+Stämmer det, chefen?	Верно, шеф?	stämmer	0	0
+Tom lämnade hatten i bilen.	Том оставил шляпу в машине.	lämnade	0	0
+Han har ett stort hus och två bilar.	У него есть большой дом и две машины.	stort	0	0
+Tom lär sig engelska.	Том изучает английский.	lär	0	0
+Hon kan inte stoppa mig.	Она не может меня остановить.	stoppa	0	0
+De pratade hela natten.	Они говорили всю ночь.	pratade	0	0
+Jag talar engelska, franska och spanska.	Я говорю по-английски, по-французски и по-испански.	talar	0	0
+New York är en av de största städerna i världen.	Нью-Йорк - один из крупнейших городов в мире.	new	0	0
+Jag vill veta vad det är som är roligt.	Я хочу знать, что здесь такого смешного.	roligt	0	0
+En droppe blod föll till marken.	Капля крови упала на землю.	blod	0	0
+Allt var perfekt.	Всё было идеально.	perfekt	0	0
+Det är aldrig för sent för att lära.	Учиться никогда не поздно.	lära	0	0
+Ge mig lite vatten, och det snabbt.	Дай мне воды, быстрее.	vatten	0	0
+Jag skulle vilja skicka ett paket till Japan.	Я хочу отправить посылку в Японию.	skicka	0	0
+Min fru hatar katter.	Моя жена ненавидит кошек.	hatar	0	0
+Hans föräldrar älskar mig.	Его родители любят меня.	föräldrar	0	0
+Mary är nu en glad liten flicka.	Мэри теперь счастливая маленькая девочка.	flicka	0	0
+Leta vidare!	Поищи ещё!	vidare	0	0
+Det är bättre att ta det säkra före det osäkra.	Осторожность никогда не бывает лишней.	före	0	0
+Du kan lita på honom.	Ты можешь положиться на него.	lita	0	0
+Man får inte köra snabbare än hastighetsbegränsningen.	Нельзя ехать быстрее установленной скорости.	köra	0	0
+Skynda dig, annars missar du tåget.	Поторопись, а то опоздаешь на поезд.	skynda	0	0
+Skulle jag kunna få använda din telefon?	Можно мне воспользоваться твоим телефоном?	använda	0	0
+Jag har ont i halsen.	У меня болит горло.	ont	0	0
+Han ruskade på huvudet.	Он покачал головой.	huvudet	0	0
+Tom krävde en ursäkt.	Том потребовал извинений.	ursäkt	0	0
+Glöm inte det.	Не забудь об этом.	glöm	0	0
+Jag måste ha passerat stationen medan jag tog en tupplur.	Должно быть, я проехал станцию, когда задремал.	medan	0	0
+Jag önskar dig allt väl.	Желаю тебе всего хорошего.	önskar	0	0
+Vad fin det är! Gjorde du den helt själv?	Как красиво! Ты все сам это сделал?	fin	0	0
+Herr Smith har gjort det till en regel att ta en promenad varje morgon.	Мистер Смит взял за правило выходить на прогулку каждое утро.	herr	0	0
+Jag kom hem sent.	Я пришёл домой поздно.	sent	0	0
+Servrarna är nere.	Серверы не работают.	nere	0	0
+Det var fullmåne igår.	Вчера было полнолуние.	igår	0	0
+Jag behöver kärlek.	Мне нужна любовь.	kärlek	0	0
+Åldern spelar ingen roll.	Возраст не имеет значения.	roll	0	0
+Jag har en massa arbete att göra imorgon.	У меня завтра много работы.	imorgon	0	0
+Ingen vill arbeta utomhus under kalla dagar.	Никто не хочет работать на улице в холодные дни.	kalla	0	0
+Han blir sällan arg.	Он редко злится.	arg	0	0
+Nu kan jag sova i lugn och ro.	Теперь я могу спать спокойно.	lugn	0	0
+De snackade hela natten.	Они болтали всю ночь.	natten	0	0
+Jag lämnar böckerna här.	Я оставляю книги здесь.	lämnar	0	0
+Det är mycket viktigt att sopsortera.	Очень важно сортировать мусор.	viktigt	0	0
+Vår skola ligger på andra sidan floden.	Наша школа находится за рекой.	sidan	0	0
+Fortsätt andas.	Продолжай дышать.	fortsätt	0	0
+Vi bor i en vacker stad.	Мы живем в прекрасном городе.	vacker	0	0
+Vi behöver köpa vinäger.	Нам нужно купить уксус.	köpa	0	0
+Du är en idiot!	Ты идиот!	idiot	0	0
+När jag kom hem satt Ken och läste.	Кен читал, когда я вернулся домой.	satt	0	0
+Hon skrek för full hals.	Она кричала во всё горло.	full	0	0
+Vissa tycker att hemlagat är nyttigare än restaurangmat.	Некоторые считают, что домашняя еда полезнее, чем ресторанная.	vissa	0	0
+Tyvärr!	К сожалению!	tyvärr	0	0
+Att skriva dagbok hjälper oss att minnas små, dagliga saker.	Ведение дневника помогает запоминать мелкие, повседневные вещи.	skriva	0	0
+Låt oss gå och sova.	Пошли спать.	sova	0	0
+Du kan förstå svenska.	Вы понимаете по-шведски.	förstå	0	0
+Var snäll och gå ut!	Выйдите, прошу Вас!	snäll	0	0
+Hunden kom tillbaka helt avmagrad efter två veckor på rymmen.	Собака вернулась полностью истощенной после двух недель побега.	veckor	0	0
+De älskade det.	Им это понравилось.	älskade	0	0
+Tecknet visar att svaret är rätt.	Это знак, что ответ правильный.	visar	0	0
+Kom till saken!	Давай по делу.	saken	0	0
+Ge mig lite vatten, och det snabbt.	Дай мне воды, быстрее.	snabbt	0	0
+Jag tyckte om alltihop.	Мне всё понравилось.	tyckte	0	0
+Jag hittade ett väldigt trevligt ställe i går.	Вчера я нашел очень приятное местечко.	ställe	0	0
+Han hade tänkt att gifta sig med henne.	Он подумывал жениться на ней.	gifta	0	0
+Jag såg Tom för mindre än en timme sedan.	Я видел Тома меньше, чем час назад.	mindre	0	0
+Hon undrar vad du gjorde i går.	Ей интересно, чем ты занимался вчера.	undrar	0	0
+Han hade tänkt att gifta sig med henne.	Он подумывал жениться на ней.	tänkt	0	0
+Det där är din sida och det här är min.	Это твоя половина, а это моя.	sida	0	0
+Vi tittar på tv tillsammans.	Мы вместе смотрим телевизор.	tittar	0	0
+Vad hände med resten av maten?	Что случилось с остатками еды?	resten	0	0
+Det är inte så konstigt.	Это не так уж странно.	konstigt	0	0
+Träskonäbbar äter fisk.	Китоглавы питаются рыбой.	äter	0	0
+Vi ses nästa vecka!	Увидимся на следующей неделе!	vecka	0	0
+Jag sa att det var ok.	Я сказал, что всё в порядке.	ok	0	0
+Ärligt talat så är hon en opålitlig typ.	Честно говоря, она ненадёжна.	typ	0	0
+Det var en gång en olycklig, glömsk kille vid namn James, som ständigt förväxlade Mary med Maria. Därför hatade Maria honom i själ och hjärta.	Жил-был несчастный забывчивый парень по имени Джеймс, который всё время путал Мэри с Марией. Мария за это ненавидела его всеми фибрами души.	hjärta	0	0
+Detta är inget misstag.	Это не ошибка.	misstag	0	0
+Diplomerade imperialismens lakejer försöker att få en teoretisk grund för sina kannibalistiska praxis i kolonierna.	Дипломированные лакеи империализма пытаются подвести некую теоретическую базу под свою людоедскую практику в колониях.	grund	0	0
+Hon låg med slutna ögon på soffan.	Она лежала на кушетке с закрытыми глазами.	låg	0	0
+Följ den bilen.	Следуй за той машиной.	följ	0	0
+Absolut förbjudet.	Строго запрещено.	absolut	0	0
+Vi kommer att förklara det steg för steg.	Мы объясним этот вопрос шаг за шагом.	förklara	0	0
+Jag lät mig fotograferas.	Я позволила себя сфотографировать.	lät	0	0
+Svara!	Ответь!	svara	0	0
+Familjen är allt för oss.	Семья для нас всё.	familjen	0	0
+Vill ni att jag berättar en historia för er?	Хотите, я расскажу вам историю?	berättar	0	0
+Hon låg med slutna ögon på soffan.	Она лежала на кушетке с закрытыми глазами.	ögon	0	0
+Det är inte möjligt!	Это невозможно!	möjligt	0	0
+Välkommen till Japan.	Добро пожаловать в Японию.	välkommen	0	0
+Jag sköt mig själv i foten.	Я выстрелил себе в ногу.	sköt	0	0
+Vi blev goda vänner.	Мы стали хорошими друзьями.	goda	0	0
+Skriv en kort text om dig själv.	Напишите короткий текст о себе.	kort	0	0
+Hon är en person som kan konsten att vända motgång till framgång.	Она человек, который обладает искусством превращать невзгоды в успех.	person	0	0
+De frågade Kate om hon kunde sitta barnvakt åt barnet.	Они попросили Кейт присмотреть за ребёнком.	sitta	0	0
+Har du någonsin kysst en pojke?	Ты когда-нибудь целовала мальчика?	pojke	0	0
+Han höll sitt löfte.	Он сдержал своё обещание.	höll	0	0
+Otroligt!	Невероятно!	otroligt	0	0
+Jag kunde inte fortsätta ljuga för Tom.	Я не могла продолжать лгать Тому.	fortsätta	0	0
+Tom krävde en ursäkt.	Том потребовал извинений.	tom	0	0
+Hur använder man ätpinnar?	Как пользоваться палочками для еды?	använder	0	0
+Vi kommer att träffas imorgon.	Мы встретимся завтра.	träffas	0	0
+En, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	Один, два, три, четыре, пять, шесть, семь, восемь, девять, десять.	sju	0	0
+Barnen är inte i skolan idag.	Дети сегодня не в школе.	barnen	0	0
+Exakt.	Точно.	exakt	0	0
+Han var inte tillräckligt skicklig.	Он не был достаточно компетентным.	tillräckligt	0	0
+Det ser värre ut än det är.	Выглядит хуже, чем есть на самом деле.	värre	0	0
+Meningen är en ordagrann översättning från engelskan. Så talar man egentligen inte.	Предложение — дословный перевод с английского. Так, в общем-то, не говорят.	egentligen	0	0
+Vill ni att jag berättar en historia för er?	Хотите, я расскажу вам историю?	historia	0	0
+Han stod vid ingången.	Он стоял у входа.	stod	0	0
+Vår telefon fungerar inte längre. Jag skulle behöva laga den.	Наш телефон больше не работает. Я должен его починить.	fungerar	0	0
+Han åkte till Tokyo i går.	Он ездил в Токио вчера.	åkte	0	0
+Detta kök är otroligt svårt att jobba i, då det helt och hållet saknar avställningsyta.	На этой кухне невероятно сложно работать, так как на ней совершенно не хватает места.	saknar	0	0
+Det här är den högsta byggnad som jag någonsin har sett.	Это самое высокое здание, которое я когда-либо видела.	någonsin	0	0
+Jag har en massa arbete att göra imorgon.	У меня завтра много работы.	massa	0	0
+Du bör låta din son bli självständig.	Ты должен позволить своему сыну стать самостоятельным.	bör	0	0
+När var den senaste gången du var på semester?	Вы когда последний раз были в отпуске?	senaste	0	0
+Att skriva dagbok hjälper oss att minnas små, dagliga saker.	Ведение дневника помогает запоминать мелкие, повседневные вещи.	små	0	0
+Brukar du öva på din handstil?	Ты обычно практикуешься в чистописании?	brukar	0	0
+Jag märkte det inte förrän i går.	Я этого не замечал до вчерашнего дня.	förrän	0	0
+Jag vill inte bo ensam.	Я не хочу жить один.	bo	0	0
+Jag är trött på att vara pensionerad.	Я устал быть пенсионером.	trött	0	0
+Miljoner personer förstår omedelbart interlingua.	Миллионы людей сразу же понимают интерлингва.	miljoner	0	0
+Han låtsades vara sjuk, så att han kunde vara frånvarande från skolan.	Он притворился больным, чтобы не ходить в школу.	sjuk	0	0
+Jag ska hålla käften nu.	Я сейчас замолчу.	käften	0	0
+Vad sägs om lite fika?	Как насчёт небольшого перекуса?	sägs	0	0
+Han hade inte den blekaste aning om hur gammal hans farmor var.	Он не имел ни малейшего представления, сколько лет его бабушке.	aning	0	0
+Jag måste ställa en dum fråga.	Я должен задать глупый вопрос.	dum	0	0
+Det finns inget dåligt väder, bara dåliga kläder.	Нет плохой погоды, есть лишь плохая одежда.	dåligt	0	0
+De frågade Kate om hon kunde sitta barnvakt åt barnet.	Они попросили Кейт присмотреть за ребёнком.	frågade	0	0
+Vår engelsklärare lägger vikt vid uttalet.	Наш преподаватель английского уделяет большое внимание произношению.	lägger	0	0
+Jag drack en kopp kaffe på ett kafé i Stockholm.	Я выпил чашку кофе в кафе в Стокгольме.	kaffe	0	0
+Vi är bjudna på middag.	Мы приглашены на обед.	middag	0	0
+Du skulle behöva öva på din handstil.	Тебе нужно попрактиковаться в чистописании.	behöva	0	0
+Flygplanet ankommer klockan åtta.	Самолет прилетает в восемь.	åtta	0	0
+New York är en av de största städerna i världen.	Нью-Йорк - один из крупнейших городов в мире.	york	0	0
+Leta vidare!	Поищи ещё!	leta	0	0
+Vi måste ha någonting att leva för.	Нам нужно ради чего-то жить.	någonting	0	0
+Prata inte om det där framför honom.	Не говори об этом при нём.	framför	0	0
+Boten skall betalas i kontanter.	Штраф нужно заплатить наличными.	skall	0	0
+Hans pappa var polis.	Его отец был полицейским.	polis	0	0
+Detta är ett historiskt ögonblick.	Это исторический момент.	ögonblick	0	0
+Hur är läget? Hur har din dag varit i dag?	Как дела? Как прошёл сегодняшний день?	läget	0	0
+Skolbarn är förkylda dubbelt så ofta som vuxna.	Школьники простужаются вдвое чаще, чем взрослые.	ofta	0	0
+Vad vill ni ha att dricka? Kaffe?	Что вы будете пить? Кофе?	dricka	0	0
+Under den stalinistiska eran blev fångar i koncentrationsläger slavar i statens tjänst.	В сталинскую эпоху заключённые в концентрационных лагерях становились рабами на службе государства.	tjänst	0	0
+Stämmer det, chefen?	Верно, шеф?	chefen	0	0
+Jag gillade henne inte till en början, men nu gör jag det.	По началу она мне не нравилась, но сейчас уже нет.	början	0	0
+Inget är så enkelt som det verkar.	Не всё так просто, как кажется.	enkelt	0	0
+Han är ung, men han måste försörja en stor familj.	Он молод, но вынужден содержать большую семью.	ung	0	0
+Jag pluggade en stund i morse.	Я немного позанимался утром.	stund	0	0
+Det är för mörkt för att jag ska kunna läsa.	Слишком темно, чтобы можно было читать.	läsa	0	0
+Jag är inte nöjd med kvalitén på ditt arbete.	Я недоволен качеством Вашей работы.	arbete	0	0
+Jag älskar att resa.	Я люблю путешествовать.	resa	0	0
+Finns det mycket snö i ditt land?	В твоей стране много снега?	land	0	0
+Jag bad henne om råd.	Я попросила её о совете.	råd	0	0
+Varför skulle det vara en sådan dålig idé?	Почему это такая плохая идея?	dålig	0	0
+Han må vara ung, men han är verkligen en tillförlitlig person.	Он, возможно, ещё молод, но на него действительно можно положиться.	må	0	0
+Det funkar.	Это функционирует.	funkar	0	0
+Jag är tvungen att hitta ett deltidsarbete.	Мне нужно найти работу на неполный рабочий день.	tvungen	0	0
+Jag skriver en roman.	Я пишу роман.	skriver	0	0
+Vi är emot krig.	Мы против войны.	krig	0	0
+Mitt huvud värkte.	У меня болела голова.	huvud	0	0
+Omedvetet spelade vi dem i händerna.	Невольно мы сыграли им на руку.	händerna	0	0
+Hen är snygg och smart.	Он_а красив_ая и умн_ая.	smart	0	0
+Alla eleverna kommer från USA.	Все студенты из США.	usa	0	0
+Jag kommer tillbaka om en timme.	Я вернусь через час.	timme	0	0
+Vi fortsätter titta.	Мы продолжаем смотреть.	fortsätter	0	0
+Du har ett samtal.	Тебя просят к телефону.	samtal	0	0
+Oron avspeglades i hennes ansikte.	Тревога оставила свой след на её лице.	ansikte	0	0
+Tom beklagar.	Том извиняется.	beklagar	0	0
+Jag måste ställa en dum fråga.	Я должен задать глупый вопрос.	ställa	0	0
+Han menar allvar.	У него серьёзные намерения.	allvar	0	0
+Hur kommer det sig att himlen blir röd på kvällen?	Как так получается, что небо краснеет вечером?	kvällen	0	0
+Hans svar är rätt.	Его ответ правильный.	svar	0	0
+Finns det en telefon här?	Здесь есть телефон?	telefon	0	0
+Den gröna lampskärmen kastar ett varmt sken i rummet.	Зелёный абажур рассеивает по комнате тёплый свет.	rummet	0	0
+Förstår ni vad hon menade?	Ты понимаешь, что она имела в виду?	menade	0	0
+Tom ler inte särskilt ofta.	Том не часто улыбается.	särskilt	0	0
+Jag är ingen läkare.	Я не доктор.	läkare	0	0
+Landet har gemensamma gränser med två andra länder.	Страна имеет границу с двумя другими странами.	landet	0	0
+Du ljuger för mig nu.	Ты меня сейчас обманываешь.	ljuger	0	0
+Han såg henne djupt i ögonen.	Он посмотрел ей прямо в глаза.	ögonen	0	0
+De frågade Kate om hon kunde sitta barnvakt åt barnet.	Они попросили Кейт присмотреть за ребёнком.	barnet	0	0
+New York är en av de största städerna i världen.	Нью-Йорк - один из крупнейших городов в мире.	största	0	0
+Vi tittar på tv tillsammans.	Мы вместе смотрим телевизор.	tv	0	0
+Godmorgon, Mike.	Доброе утро, Майк.	mike	0	0
+Vem kommer att vinna i Ohio?	Кто победит в Огайо?	vinna	0	0
+Jag glömde stänga dörren.	Я забыл закрыть дверь.	glömde	0	0
+Du är människa.	Ты - человек.	människa	0	0
+Föraren körde om bilen.	Водитель вёл машину.	körde	0	0
+Jag älskar den här staden.	Мне нравится этот город.	staden	0	0
+”Du, min herre, är en imperialist!” ”Och du, min herre, är ett troll!”	"Сэр, вы империалист!" "А вы, сэр - тролль."	herre	0	0
+Vi satte oss i bilen.	Мы забрались в машину.	satte	0	0
+Vi lyssnar med öronen.	Мы слышим ушами.	lyssnar	0	0
+Du sover i mitt rum.	Ты спишь в моей комнате.	sover	0	0
+Trots att det regnade så spelade vi fotboll.	Несмотря на то, что шёл дождь, мы играли в футбол.	trots	0	0
+Kvinnan är naken.	Женщина обнажена.	kvinnan	0	0
+Tom ser sig omkring.	Том оглядывается.	omkring	0	0
+Han dömdes till livstids fängelse.	Он был приговорен к пожизненному заключению.	fängelse	0	0
+Flickan är nu utom fara.	Девушка сейчас вне опасности.	flickan	0	0
+Varför köpte du en sköldpadda?	Зачем ты купил черепаху?	köpte	0	0
+Den här medicinen passar inte mig.	Это лекарство мне не подходит.	passar	0	0
+Tom är stark.	Том сильный.	stark	0	0
+"Jag kan rita en perfekt cirkel på fri hand." "Ha! Det skulle jag bra gärna vilja se!"	"Я могу нарисовать идеальный круг от руки" - "Ха! Я хотел бы на это взглянуть!".	fri	0	0
+De diskuterade problemet.	Они обсуждали проблему.	problemet	0	0
+Min hund åt min läxa.	Моя собака съела мою домашку.	hund	0	0
+Fortsätt andas.	Продолжай дышать.	andas	0	0
+Njuter du av att förlora?	Тебе нравится проигрывать?	förlora	0	0
+Nu behövs inte bara ord, utan också handling.	Сейчас необходимы не просто слова, но и действия.	behövs	0	0
+Jag hittade en lösning, men jag hittade den så fort att det inte kan vara den rätta.	Я нашел решение, но я нашел его настолько быстро, что оно определенно не может быть верным.	rätta	0	0
+Allvarligt?	Серьёзно?	allvarligt	0	0
+Får man röra den?	Это можно потрогать?	röra	0	0
+Jag läste att Brasiliens president är en kvinna. Hon kallas Dilma.	Я читала, что президент Бразилии женщина. Её зовут Дилма.	kallas	0	0
+Jag är glad att jag har träffat dig.	Я рад, что встретил тебя.	träffat	0	0
+Det finns inget dåligt väder, bara dåliga kläder.	Нет плохой погоды, есть лишь плохая одежда.	kläder	0	0
+Jag ska gå rakt på sak. Du får sparken.	Перейду прямо к сути дела. Вы уволены.	rakt	0	0
+Allting har ett pris, det goda visar sig vara dyrare än det onda.	У всего есть своя цена, хорошее дороже плохого.	allting	0	0
+Bilden hänger upp och ned.	Картина висит вверх ногами.	ned	0	0
+Vi hoppas på fred.	Мы надеемся на мир.	fred	0	0
+Hennes vita skor lämnar mörkröda spår.	Её белые туфли оставляют тёмно-красные следы.	vita	0	0
+Jag litar inte på polisen.	Я не доверяю полиции.	litar	0	0
+Varför vill ni sälja den?	Почему вы хотите его продать?	sälja	0	0
+Dan och Linda flyttade så småningom till London.	Дэн и Линда в конце концов переехали в Лондон.	dan	0	0
+Jag gillade henne inte till en början, men nu gör jag det.	По началу она мне не нравилась, но сейчас уже нет.	gillade	0	0
+Jag har en katt och en hund. Katten är svart och hunden är vit.	У меня есть кошка и собака. Кошка чёрная, а собака белая.	svart	0	0
+Björnar älskar bär.	Медведи любят ягоды.	bär	0	0
+De har läst en intressant bok.	Они прочитали интересную книгу.	intressant	0	0
+Förutom engelska talar hon tyska.	Кроме английского он говорит еще по-немецки.	förutom	0	0
+Det finns bara tre tjejer i klassen.	В классе всего три девушки.	tjejer	0	0
+Detta är intressanta nyheter.	Это интересные новости.	nyheter	0	0
+Miljoner personer förstår omedelbart interlingua.	Миллионы людей сразу же понимают интерлингва.	personer	0	0
+Tjejen vankade framför huset.	Девушки вышли из дома прогуляться.	tjejen	0	0
+Det var inte en levande själ där.	Там не было ни одной живой души.	levande	0	0
+I dag arbetar han i stället för mig.	Сегодня он работает вместо меня.	arbetar	0	0
+Pluto är en planet.	Плутон - это планета.	planet	0	0
+Han är stolt över att ha tagit examen vid Tokyo Universitet.	Он гордится тем, что закончил Токийский университет.	stolt	0	0
+Vem har vi att tacka för penicillinets upptäckt?	Кого мы должны благодарить за открытие пенициллина?	tacka	0	0
+Det var en gång en olycklig, glömsk kille vid namn James, som ständigt förväxlade Mary med Maria. Därför hatade Maria honom i själ och hjärta.	Жил-был несчастный забывчивый парень по имени Джеймс, который всё время путал Мэри с Марией. Мария за это ненавидела его всеми фибрами души.	james	0	0
+Han drack en öl.	Он выпил кружку пива.	öl	0	0
+Han skrattade utan anledning.	Он рассмеялся без причины.	anledning	0	0
+Hon hade ett litet runt föremål i handen.	В руке она держала небольшой круглый предмет.	litet	0	0
+Pojken är som en miniatyr av sin far.	Мальчик - миниатюрная копия своего отца.	pojken	0	0
+Vilken film ska du se?	Какой фильм вы будете смотреть?	film	0	0
+Olyckan hände plötsligt.	Авария произошла внезапно.	plötsligt	0	0
+Avsnitt tolv är jättebra!	Двенадцатая серия великолепна!	jättebra	0	0
+Hen är snygg och smart.	Он_а красив_ая и умн_ая.	snygg	0	0
+Deras kontrakt går ut i slutet på den här månaden.	Их контракт истекает в этом месяце.	slutet	0	0
+Han tog tag i hennes hår.	Он схватил ее за волосы.	hår	0	0
+Ingen rök utan eld.	Где дым, там и огонь.	eld	0	0
+Hon lärde sig latin i skolan.	Она изучала латынь в школе.	lärde	0	0
+Vi ska mötas på stationen klockan nio.	Мы встречаемся на станции в девять.	nio	0	0
+Mary hjälpte sin mor att laga mat.	Мэри помогла матери приготовить еду.	hjälpte	0	0
+John och Mary har känt varandra sedan 1976.	Джон и Мэри знают друг друга с 1976 года.	känt	0	0
+Det ligger en bok om dans på skrivbordet.	На столе лежит книга о танце.	bok	0	0
+Alla hästar är djur, men inte alla djur är hästar.	Все лошади животные, но не все животные - лошади.	djur	0	0
+Det här är huset, i vilket min farbror bor.	Это дом, в котором живёт мой дядя.	farbror	0	0
+Både Tom och Mary är från Kanada.	И Том, и Мэри из Канады.	både	0	0
+Jag visade dem hur man gör det.	Я показал им, как это сделать.	visade	0	0
+Jag läste att Brasiliens president är en kvinna. Hon kallas Dilma.	Я читала, что президент Бразилии женщина. Её зовут Дилма.	president	0	0
+Jag pluggade en stund i morse.	Я немного позанималась утром.	morse	0	0
+Stora delar av publiken brast ut i skratt.	Большая часть публики рассмеялась.	delar	0	0
+Tydligen inte.	Очевидно, нет.	tydligen	0	0
+Det är ett väldigt farligt system.	Это довольно опасная система.	farligt	0	0
+De nykläckta fågelungarna var alldeles duniga.	Только что вылупившиеся птенцы были очень пушистыми.	alldeles	0	0
+Jag är säker på att hon inte kommer och träffar dig.	Я уверен, что она не придёт, чтобы встретиться с тобой.	träffar	0	0
+Bill Gates är världens rikaste man.	Билл Гейтс - самый богатый человек в мире.	världens	0	0
+Anfallaren gjorde ett mål i omklädningsrummet.	Нападающий забил гол в раздевалку.	mål	0	0
+De lät mig välja en present.	Они позволили мне выбрать подарок.	välja	0	0
+Han kan inte kontrollera sina känslor.	Он не может контролировать свои эмоции.	känslor	0	0
+Du kan klicka på pennan för att ändra meningar i efterhand.	Ты можешь нажать на ручку, чтобы позже изменить предложение.	ändra	0	0
+Han sov över hos sin moster.	Он ночевал у тётки.	sov	0	0
+Det här året erbjuder vi samma språkkurs som i fjol.	В этом году мы предлагаем тот же языковой курс, что и в прошлом году.	året	0	0
+Dags å sticka.	Пора идти.	sticka	0	0
+Hon bär alltid svarta kläder.	Она всегда носит чёрную одежду.	svarta	0	0
+Du är fantastisk.	Ты прекрасна.	fantastisk	0	0
+Ljudet är väldigt högt.	Звук очень громкий.	högt	0	0
+Mitt marsvin var min första flickvän.	Моя морская свинка была моей первой подругой.	flickvän	0	0
+Han stal plånboken av mig.	Он украл у меня кошелёк.	stal	0	0
+Fråga Alex.	Спроси Алекса.	alex	0	0
+Sådan här musik är inte min grej.	Такая музыка не в моём вкусе.	grej	0	0
+Fortsätt bara denna gata framåt ungefär 200 meter.	Просто продолжайте идти прямо по этой улице примерно двести метров.	meter	0	0
+Toms dröm är att bli rik.	Мечта Тома - разбогатеть.	dröm	0	0
+Någon hade sönder min kamera.	Кто-то сломал мою камеру.	sönder	0	0
+Jag är lite hungrig.	Я слегка голоден.	hungrig	0	0
+Fastighetsmäklaren ljög för paret.	Агент по недвижимости говорил паре неправду.	ljög	0	0
+Vi kommer att förklara det steg för steg.	Мы объясним этот вопрос шаг за шагом.	steg	0	0
+Vem tillhör månen?	Кому принадлежит Луна?	tillhör	0	0
+Vad är det där för slags träd?	Что это за дерево?	slags	0	0
+Försöker du fly?	Ты пытаешься сбежать?	fly	0	0
+Jag tycker om att lyssna på musik, speciellt jazz.	Мне нравится слушать музыку, особенно джаз.	speciellt	0	0
+Skådespelerskan har ett väldigt vackert namn.	У актрисы очень красивое имя.	vackert	0	0
+Omedvetet spelade vi dem i händerna.	Невольно мы сыграли им на руку.	spelade	0	0
+Den här pingvinungen är så söt!	Этот пингвинёнок такой классный.	söt	0	0
+Skämt åsido!	Шутки в сторону!	skämt	0	0
+Jag minns när Anna berättade att hon blivit kär.	Я помню, как Анна рассказала, что влюбилась.	kär	0	0
+Vad heter den här gatan?	Как называется эта улица?	gatan	0	0
+Musik är hennes passion.	Музыка ее страсть.	musik	0	0
+Mötet slutade klockan fem.	Встреча закончилась в пять.	slutade	0	0
+Jag är så upptagen att jag inte kan hjälpa er.	Я так занят, что не могу помочь вам.	upptagen	0	0
+Ärligt talat så är hon en opålitlig typ.	Честно говоря, она ненадёжна.	talat	0	0
+Säkerhet kommer alltid först.	Безопасность прежде всего.	säkerhet	0	0
+Dricker du kaffe?	Ты пьёшь кофе?	dricker	0	0
+Chefen! Allt är borta! Gipset tas bort! Kunden går därifrån.	Шеф, всё пропало! Гипс снимают, клиент уезжает.	därifrån	0	0
+Vi frågade honom vad han hette.	Мы спросили, как её зовут.	hette	0	0
+Jag älskar denna stad.	Я люблю этот город.	stad	0	0
+Fortsätt bara denna gata framåt ungefär 200 meter.	Просто продолжай идти прямо по этой улице примерно двести метров.	ungefär	0	0
+Stäng dörren.	Закрывай дверь.	stäng	0	0
+Skolans nivå är hög.	У школы высокий уровень.	hög	0	0
+Hon hade ett litet runt föremål i handen.	В руке она держала небольшой круглый предмет.	handen	0	0
+Kasta den bara.	Просто выбрось это.	kasta	0	0
+Kan vi inte byta samtalsämne.	Мы не можем сменить тему.	byta	0	0
+Kan jag få ett glas öl?	Можно мне бокал пива?	glas	0	0
+Det har börjat töa.	Началась оттепель.	börjat	0	0
+Jag är inte intresserad av modern konst.	Меня не интересует современное искусство.	intresserad	0	0
+Jag stod och väntade på en buss.	Я стоял в ожидании автобуса.	väntade	0	0
+Jag köper bara mjukt toalettpapper.	Я покупаю только мягкую туалетную бумагу.	köper	0	0
+Stora pojkar gråter inte.	Большие мальчики не плачут.	pojkar	0	0
+Tom är min make.	Том - мой муж.	make	0	0
+Jag kan också fråga henne om hon vill ta med sig sin nya pojkvän.	Я также могу спросить её, хочет ли она взять с собой своего нового парня.	pojkvän	0	0
+Kan du vara snäll och vänta en minut?	Подожди, пожалуйста, минутку.	minut	0	0
+Vilka vackra blommor!	Какие красивые цветы!	vackra	0	0
+Det finns inget dåligt väder, bara dåliga kläder.	Нет плохой погоды, есть лишь плохая одежда.	dåliga	0	0
+Hennes vita skor lämnar mörkröda spår.	Её белые туфли оставляют тёмно-красные следы.	spår	0	0
+Stör inte!	Не беспокоить!	stör	0	0
+Tom tittade in i lådan.	Том заглянул в коробку.	tittade	0	0
+Bilden hänger upp och ned.	Картина висит вверх ногами.	hänger	0	0
+Det finns inga matbutiker i närheten.	Поблизости нет продуктовых магазинов.	närheten	0	0
+En spegel reflekterar ljus.	Зеркало отражает свет.	ljus	0	0
+Jag ska till Paris i helgen.	Я поеду в Париж на выходные.	paris	0	0
+Du luktar illa.	От тебя плохо пахнет.	luktar	0	0
+Förstått?	Ясно?	förstått	0	0
+Sluta fråga mig om en drink! Gå och hämta en själv.	Хватит просить меня принести тебе напиток! Пойди и возьми себе сама.	drink	0	0
+Bob är min vän.	Боб — мой друг.	bob	0	0
+Jag skriver ett brev.	Я пишу письмо.	brev	0	0
+Detsamma.	Взаимно.	detsamma	0	0
+Vi är överens.	Мы пришли к соглашению.	överens	0	0
+Gissa!	Угадай!	gissa	0	0
+Å, det är en världslig sak!	О, дело житейское!	å	0	0
+Var någonstans ligger flygplatsen?	Где аэропорт?	någonstans	0	0
+Det är ett yrke som jag aldrig hört talas om förut.	Я никогда раньше не слышал об этой профессии.	talas	0	0
+Har du läst ut boken?	Ты дочитал книгу?	boken	0	0
+Bill Gates är världens rikaste man.	Билл Гейтс - самый богатый человек в мире.	bill	0	0
+Tom vägrar att arbeta.	Том отказывается работать.	arbeta	0	0
+Du är röd i ansiktet.	У тебя лицо красное.	ansiktet	0	0
+Han har en mörk röst.	У него низкий голос.	röst	0	0
+Det är bättre att ta det säkra före det osäkra.	Осторожность никогда не бывает лишней.	säkra	0	0
+Om du har läst ut boken, så skulle jag vilja låna den.	Если ты дочитала книгу, то я хочу её у тебя одолжить.	läst	0	0
+En skadad själ behöver bara lite kärlek och värme.	Раненой душе просто нужно немного любви и тепла.	själ	0	0
+En droppe blod föll till marken.	Капля крови упала на землю.	marken	0	0
+Jag bor i lägenhet.	Я живу в квартире.	lägenhet	0	0
+Du borde säga åt Mary att hon borde göra det så snart som möjligt.	Ты должен сказать Мэри, что она должна сделать это как можно скорее.	mary	0	0
+Vi visade honom bilder från Alperna.	Мы показали ему фотографии из Альп.	bilder	0	0
+Jag har allt under kontroll.	У меня всё под контролем.	kontroll	0	0
+Den är alldeles underbar.	Это просто замечательно.	underbar	0	0
+Varför läser du franska?	Почему ты читаешь по-французски?	läser	0	0
+Telefonen ringer.	Телефон звонит.	telefonen	0	0
+Jag uppskattar hennes uppriktighet.	Я ценю её искренность.	uppskattar	0	0
+Jag behöver en extra kudde.	Мне нужна еще одна подушка.	extra	0	0
+En skadad själ behöver bara lite kärlek och värme.	Раненой душе просто нужно немного любви и тепла.	skadad	0	0
+Allan har lämnat oss.	Аллан покинул нас.	lämnat	0	0
+Det är Tom som bestämmer.	Том здесь главный.	bestämmer	0	0
+Varför skulle det vara en sådan dålig idé?	Почему это такая плохая идея?	sådan	0	0
+Flickan är nu utom fara.	Девушка сейчас вне опасности.	utom	0	0
+Behöver du sällskap?	Тебе нужна компания?	sällskap	0	0
+Han läste papperet upp och ned.	Он читал газету вверх ногами.	läste	0	0
+Du verkade inte förstå vad Tom sa.	Похоже, ты не понял сказанное Томом.	verkade	0	0
+Ge mig tusen kyssar.	Дай мне тысячу поцелуев.	tusen	0	0
+Jag åkte till London.	Я ездила в Лондон.	london	0	0
+Ärligt talat, hans tal är alltid tråkiga.	Честно говоря, речи у него всегда скучные.	tal	0	0
+Är den här platsen upptagen?	Это место занято?	platsen	0	0
+Jag föreslog honom att hon skulle bli inbjuden till festen.	Я предложил ему пригласить её на праздник.	festen	0	0
+Gör det genast, så att du inte glömmer.	Сделай это сразу, а то забудешь.	glömmer	0	0
+Vad krävs för att man ska få lite hjälp?	Что нужно делать, чтобы получить небольшую помощь?	krävs	0	0
+Klockan är halv tio.	Сейчас половина десятого.	halv	0	0
+Kan jag låna din penna?	Могу я одолжить твою ручку?	låna	0	0
+Fortsätt bara denna gata framåt ungefär 200 meter.	Просто продолжайте идти прямо по этой улице примерно двести метров.	framåt	0	0
+Han kastade ett öga på sin klocka.	Он бросил взгляд на свои часы.	öga	0	0
+Tom har stor respekt för Mary.	Том очень уважает Мэри.	respekt	0	0
+Tom kunde inte lista ut hur han skulle få lådan öppnad.	Том не мог понять, как открыть коробку.	lista	0	0
+Min mor är mer nervös över examensresultatet än vad jag är.	Моя мама больше нервничает по поводу результатов экзамена, чем я.	nervös	0	0
+Prova den där skjortan.	Померь ту рубашку.	prova	0	0
+Jag är en överste.	Я — полковник.	överste	0	0
+Folket gjorde uppror mot tyrannin.	Народ восстал против тирании.	folket	0	0
+Hela historien är höljd i dunkel.	Вся история окутана тайной.	historien	0	0
+När öppnar affärerna?	Когда открываются магазины?	öppnar	0	0
+Det är farligt att bo bredvid en vulkan.	Опасно жить около вулкана.	bredvid	0	0
+Detta är huset som jag bodde i när jag var barn.	Это дом, в котором я жил в детстве.	bodde	0	0
+Jag tar det som ett tecken på kärlek.	Я это воспринимаю как признак любви.	tecken	0	0
+Gör det genast, så att du inte glömmer.	Сделай это сразу, а то забудешь.	genast	0	0
+Jag trodde att jag förstod dig.	Я думала, что поняла тебя.	förstod	0	0
+Min bror är äldre än jag.	Мой брат старше меня.	äldre	0	0
+Jag bad Gud om en cykel, men jag insåg att det var inte hans metod. Så jag stal en cykel och bad Gud om förlåtelse.	Я попросил у Бога велосипед, но понял, что это не его метод. Поэтому я украл велосипед и попросил у Бога прощения.	insåg	0	0
+Kunskap är makt.	Знание - сила.	makt	0	0
+Skeppet kapsejsade.	Корабль перевернулся.	skeppet	0	0
+Det är en hemlighet.	Это тайна.	hemlighet	0	0
+Du måste passa din hund.	Ты должен следить за своей собакой.	passa	0	0
+Ingen trodde på det jag sade.	Никто не поверил тому, что я сказал.	sade	0	0
+Du måste göra det, oavsett om du vill eller inte.	Ты должен это делать вне зависимости от того, хочешь ты этого или нет.	oavsett	0	0
+En droppe blod föll till marken.	Капля крови упала на землю.	föll	0	0
+Det finns öar i havet.	В море есть острова.	havet	0	0
+Uppgiftens värde är grundat i det som den innebär.	Ценность задачи заключается в выполнении.	innebär	0	0
+Hur mycket kostar den här radion?	Сколько стоит это радио?	kostar	0	0
+De använder teleskop för att betrakta himlen.	Они используют телескоп для наблюдения за небом.	himlen	0	0
+Vad hände med resten av maten?	Что случилось с остатками еды?	maten	0	0
+Snabbare, högre, starkare.	Быстрее, выше, сильнее.	högre	0	0
+Te utan is.	Чай безо льда.	te	0	0
+Jag behöver solen.	Мне нужно солнце.	solen	0	0
+De ser honom som en hjälte.	Они считают его героем.	hjälte	0	0
+Du kanske kommer att lyckas.	Возможно, тебе повезёт.	lyckas	0	0
+Han såg henne djupt i ögonen.	Он посмотрел ей прямо в глаза.	djupt	0	0
+Jag har en katt och en hund. Katten är svart och hunden är vit.	У меня есть кот и собака. Кот чёрный, а собака белая.	vit	0	0
+Katten flydde med en bit fisk från köket.	Кот выбежал из кухни с куском рыбы.	bit	0	0
+Han är upprörd.	Он расстроен.	upprörd	0	0
+En grupp maskerade män attackerade Tom.	Группа мужчин в масках напала на Тома.	grupp	0	0
+Piano och gitarr är vanliga ackompanjemangsinstrument.	Пианино и гитара обычно являются аккомпанирующими инструментами.	vanliga	0	0
+Jag gick upp klockan fem på morgonen.	Я встал в пять утра.	morgonen	0	0
+Han är från England, men är väldigt dålig på engelska.	Он из Англии, но очень плохо говорит по-английски.	engelska	0	0
+Jag lämnade nyckeln i rummet.	Я оставил ключ в комнате.	nyckeln	0	0
+Kan jag få ett glas vin?	Можно мне бокал вина?	vin	0	0
+Jag kunde inte fortsätta ljuga för Tom.	Я не могла продолжать лгать Тому.	ljuga	0	0
+Jag ändrade meningen.	Я изменил предложение.	meningen	0	0
+Tom bröt mot reglerna.	Том нарушил правила.	bröt	0	0
+Det där ordet förstår jag inte.	Я не понимаю это слово.	ordet	0	0
+Missade jag någonting?	Я что-то пропустил?	missade	0	0
+Använd endast auktoritativa källor.	Используй только авторитетные источники.	endast	0	0
+Läs högt 5 minuter per dag.	Читай вслух по пять минут в день.	per	0	0
+Han sprang så fort som han kunde.	Он бежал так быстро как мог.	sprang	0	0
+Dan och Linda flyttade så småningom till London.	Дэн и Линда в конце концов переехали в Лондон.	flyttade	0	0
+Han ser ut som en ärlig person.	Он кажется честным человеком.	ärlig	0	0
+Jag minns när Anna berättade att hon blivit kär.	Я помню, как Анна рассказала, что влюбилась.	anna	0	0
+Vår telefon fungerar inte längre. Jag skulle behöva laga den.	Наш телефон больше не работает. Я должен его починить.	laga	0	0
+Imorgon ska jag stanna på kontoret.	Завтра я останусь в офисе.	kontoret	0	0
+Kungen lät avrätta sin älskarinna.	Король казнил свою любовницу.	kungen	0	0
+Jane låtsades alltid att hon var väldigt rik.	Джейн всегда притворялась, что она очень богата.	jane	0	0
+Ett år har tolv månader.	В году двенадцать месяцев.	tolv	0	0
+Den gröna lampskärmen kastar ett varmt sken i rummet.	Зелёный абажур рассеивает по комнате тёплый свет.	varmt	0	0
+Jag glömde stänga dörren.	Я забыл закрыть дверь.	stänga	0	0
+Katten har sovit på bordet.	Кошка спала на столе.	bordet	0	0
+Krig är helvetet.	Война - это ад.	helvetet	0	0
+Att skriva dagbok hjälper oss att minnas små, dagliga saker.	Ведение дневника помогает запоминать мелкие, повседневные вещи.	minnas	0	0
+Jag är inte nöjd med kvalitén på ditt arbete.	Я недоволен качеством Вашей работы.	nöjd	0	0
+Grafen är ett ämne som består av rent kol.	Графен является веществом, состоящим из чистого углерода.	rent	0	0
+Ingen har lagt ned så mycket tid och ork i projektet som hon.	Никто не вложил столько времени и сил в этот проект, как она.	lagt	0	0
+Ät upp det där brödet!	Доедай этот хлеб!	ät	0	0
+Han tjänar ett leverne.	Он зарабатывает на жизнь.	tjänar	0	0
+Han sa att han hade skrivit.	Он сказал, что написал.	skrivit	0	0
+Vad spännande!	Как захватывающе!	spännande	0	0
+Redan tanken på att han skulle lämna honom gav honom en stor klump i halsen.	Сама мысль о том, что он бросит его, вызывала у него появление кома в горле.	tanken	0	0
+Jag vill ha en båt som kan ta mig långt härifrån.	Хочу лодку, которая унесёт меня далеко отсюда.	båt	0	0
+Vi träffades under ett ensamt träd.	Мы встретились под одиноким деревом.	träffades	0	0
+Jag föddes samma år som farfar dog.	Я родился в тот год, когда умер дедушка.	föddes	0	0
+Papper är vitt.	Бумага белая.	papper	0	0
+Allt är i sin ordning här.	Здесь всё в порядке.	ordning	0	0
+Man får inte bryta sitt löfte.	Нельзя нарушать своё обещание.	bryta	0	0
+Finland var en del av Ryssland åren 1809–1917.	Финляндия была частью России в 1809-1917 годах.	åren	0	0
+Använd endast auktoritativa källor.	Используй только авторитетные источники.	använd	0	0
+Det finns folk som läser böcker för att slå ihjäl tid.	Есть люди, которые читают книги, чтобы убить время.	ihjäl	0	0
+Tom vägrar att arbeta.	Том отказывается работать.	vägrar	0	0
+Bilden hänger upp och ned.	Картина висит вверх ногами.	bilden	0	0
+Jag föddes samma år som farfar dog.	Я родился в тот год, когда умер дедушка.	farfar	0	0
+Ärligt talat så är hon en opålitlig typ.	Честно говоря, она ненадёжна.	ärligt	0	0
+Fåglarna flyger.	Птицы летают.	flyger	0	0
+Du tappade din blyertspenna.	Ты уронил карандаш.	tappade	0	0
+Han gillar att sjunga populära sånger.	Ему нравится петь популярные песни.	sjunga	0	0
+Vampyren suger mitt blod.	Вампир сосёт мою кровь.	suger	0	0
+Lämna dörren öppen när du går!	Оставь дверь открытой, когда пойдёшь!	öppen	0	0
+Allting har ett pris, det goda visar sig vara dyrare än det onda.	У всего есть своя цена, хорошее дороже плохого.	pris	0	0
+Skriv tydligt, tack.	Пиши разборчиво, пожалуйста.	skriv	0	0
+Meningen är en ordagrann översättning från engelskan. Så talar man egentligen inte.	Предложение — дословный перевод с английского. Так, в общем-то, не говорят.	översättning	0	0
+Jag växte upp i den södra delen av Chicago.	Я вырос на юге Чикаго.	delen	0	0
+Kan du säga mig hur man går till amerikanska ambassaden?	Не могли бы Вы объяснить мне, как добраться до американского посольства?	amerikanska	0	0
+Jag har en katt och en hund. Katten är svart och hunden är vit.	У меня есть кот и собака. Кот чёрный, а собака белая.	hunden	0	0
+Paula måste hjälpa hennes pappa i köket.	Пауле нужно помочь отцу на кухне.	köket	0	0
+Tjuven bröt upp fönstret.	Вор разбил окно.	fönstret	0	0
+Hon var ung och oskyldig.	Она была молода и невинна.	oskyldig	0	0
+Vatten kokar vid hundra grader.	Вода закипает при ста градусах.	hundra	0	0
+En dag fann jag en bok där.	Однажды я нашёл там книгу.	fann	0	0
+Hon hamnade i trångmål.	Она попала в беду.	hamnade	0	0
+Bry dig inte om andra.	Не беспокойся о других.	bry	0	0
+Hon har ett väldigt häftigt temperament.	У неё очень крутой нрав.	häftigt	0	0
+Ett gäng maskerade män attackerade Tom.	На Тома напала банда в масках.	gäng	0	0
+Jag har inte ätit någonting på sex dagar.	Я не ел шесть дней.	ätit	0	0
+Jag har ett par skor.	У меня есть пара туфель.	skor	0	0
+Är vi framme snart?	Мы скоро приедем?	framme	0	0
+Jag är också lärare.	Я тоже учитель.	lärare	0	0
+Jag springer två gånger per vecka.	Я бегаю два раза в неделю.	springer	0	0
+Det är ganska kallt.	Довольно холодно.	kallt	0	0
+Du måste vara på stationen senast klockan fem.	Ты должен быть на станции самое позднее в пять.	senast	0	0
+Tom bröt mot reglerna.	Том нарушил правила.	reglerna	0	0
+Jag ser din häst.	Я вижу твою лошадь.	häst	0	0
+De frågade Kate om hon kunde sitta barnvakt åt barnet.	Они спросили Кейт, может ли она присмотреть за ребёнком.	kate	0	0
+Jag har två bröder.	У меня два брата.	bröder	0	0
+Jag gömmer ingenting.	Я ничего не скрываю.	gömmer	0	0
+Jag heter Maria.	Меня зовут Мария.	maria	0	0
+Tecknet visar att svaret är rätt.	Это знак, что ответ правильный.	svaret	0	0
+De två männen var kompanjoner.	Двое мужчин были деловыми партнёрами.	männen	0	0
+Han har ett stort hus och två bilar.	У него есть большой дом и две машины.	bilar	0	0
+Jag har inte ätit ordentligt på en vecka.	Я не ел как следует целую неделю.	ordentligt	0	0
+Man får inte köra snabbare än hastighetsbegränsningen.	Нельзя ехать быстрее установленной скорости.	snabbare	0	0
+Hon är en person som kan konsten att vända motgång till framgång.	Она человек, который обладает искусством превращать невзгоды в успех.	vända	0	0
+Kan du visa mig vad du har köpt?	Покажешь мне, что ты купил?	köpt	0	0
+Hur många självmord tror du att det sker varje år i Japan?	Сколько, ты думаешь, происходит самоубийств ежегодно в Японии?	självmord	0	0
+Om jag var rik, skulle jag åka utomlands.	Если бы я был богат, то я бы поехал за границу.	rik	0	0
+Kolumbus fann Amerika år 1492.	Колумб обнаружил Америку в 1492 году.	amerika	0	0
+Bestämt inte.	Точно нет.	bestämt	0	0
+Tiga är guld.	Молчание - золото.	guld	0	0
+Listan är oändlig.	Список можно продолжать бесконечно.	listan	0	0
+Han har bott på det där hotellet de fem senaste dagarna.	Он живёт в этом отеле в течение последних пяти дней.	hotellet	0	0
+Hon kan inte kontrollera sina känslor.	Она не может контролировать свои эмоции.	kontrollera	0	0
+Jag tycker att det är ganska konstigt att han inte skulle veta någonting sådant.	Я думаю, это странно, что он не знает таких вещей.	sådant	0	0
+Jag vill inte att Tom ska sjunga på vårt bröllop.	Я не хочу, чтобы Том пел на нашей свадьбе.	bröllop	0	0
+Vi använder endast tio procent av hjärnan.	Мы используем мозг только на десять процентов.	procent	0	0
+Jag har ont i halsen.	У меня болит горло.	halsen	0	0
+Borsta dina tänder.	Почисть зубы.	tänder	0	0
+Den cancerformen är tack och lov mycket ovanlig.	К счастью, эта форма рака очень необычна.	lov	0	0
+Bastun är varm, ifall någon vill gå.	Сауна горячая, если кто-то хочет пойти.	varm	0	0
+Egypten är en gåva av Nilen.	Египет – дар Нила.	gåva	0	0
+Strävan efter sanning är beundransvärd.	Стремление к истине достойно восхищения.	sanning	0	0
+Han är från England, men är väldigt dålig på engelska.	Он родом из Англии, но очень плохо говорит по-английски.	england	0	0
+Jag ska gå rakt på sak. Du får sparken.	Перейду прямо к сути дела. Вы уволены.	sparken	0	0
+Vems gitarr är det här?	Чья эта гитара?	vems	0	0
+Öppna munnen!	Рот открой!	munnen	0	0
+En jordbävning förstörde byggnaden.	Землетрясение разрушило здание.	förstörde	0	0
+Hon har köpt en ny dator.	Она купила новый компьютер.	dator	0	0
+Jag växte upp i den södra delen av Chicago.	Я вырос на юге Чикаго.	växte	0	0
+Jag går till stranden.	Я иду на пляж.	stranden	0	0
+Det finns ett hotell där.	Там есть отель.	hotell	0	0
+Hur lagar man den här?	Как это исправить?	lagar	0	0
+Tom glömde nästan bort mötet.	Том чуть не забыл о встрече.	mötet	0	0
+Den här kameran är liten, men mycket bra.	Эта камера небольшая, но очень хорошая.	kameran	0	0
+Skynda dig, annars missar du tåget.	Поторопись, а то опоздаешь на поезд.	tåget	0	0
+Umgås du mycket med dina syskon?	Ты проводишь много времени со своими братьями и сёстрами?	umgås	0	0
+Invånarna på ön är vänliga.	Жители острова дружелюбны.	ön	0	0
+Vilken skola är bäst?	Какая школа лучшая?	skola	0	0
+Vi har inga hemligheter.	У нас нет секретов.	hemligheter	0	0
+Varje år publiceras det många böcker.	Каждый год выходит много книг.	böcker	0	0
+Hon liknar sin mor.	Она похожа на свою мать.	liknar	0	0
+Tvinga inte på mig dina åsikter.	Не навязывай мне своё мнение.	tvinga	0	0
+Skriv en kort text om dig själv.	Напишите короткий текст о себе.	text	0	0
+Håll mun!	Замолчи!	mun	0	0
+Många träd tappar sina löv på vintern.	Многие деревья сбрасывают листву зимой.	träd	0	0
+Hon bjöd alla på en pralin.	Она пригласила всех на пралине.	bjöd	0	0
+Den finansiella situationen förvärras vecka för vecka.	Финансовая ситуация становится хуже неделя за неделей.	situationen	0	0
+Jag ska till Paris i helgen.	Я поеду в Париж на выходные.	helgen	0	0
+Vi använder endast tio procent av hjärnan.	Мы используем мозг только на десять процентов.	hjärnan	0	0
+Han stannade till framför dem.	Он вдруг остановился перед ними.	stannade	0	0
+Alice är min mamma.	Алиса - моя мама.	alice	0	0
+Jag är ingen soldat.	Я не солдат.	soldat	0	0
+En jordbävning förstörde byggnaden.	Землетрясение разрушило здание.	byggnaden	0	0
+Jag gjorde ett försök att simma över floden.	Я сделал попытку переплыть через реку.	floden	0	0
+Hur många självmord tror du att det sker varje år i Japan?	Сколько, ты думаешь, происходит самоубийств ежегодно в Японии?	sker	0	0
+Du måste vara på stationen senast klockan fem.	Ты должен быть на станции самое позднее в пять.	stationen	0	0
+Min pappa har åkt för att fiska.	Мой папа ушёл на рыбалку.	åkt	0	0
+Skratta inte!	Не смейся!	skratta	0	0
+Miljoner personer förstår omedelbart interlingua.	Миллионы людей сразу же понимают интерлингва.	omedelbart	0	0
+Kom när du besegrar onda drakar, erövrar alla slott och alla prinsessor.	Приходи, когда победишь всех злых драконов, завоюешь все замки и всех принцесс.	onda	0	0
+I begynnelsen skapade Gud himmel och jord.	В начале сотворил Бог небо и землю.	skapade	0	0
+Hon skrattar sällan, om ens någonsin.	Она редко, если вообще когда-нибудь, смеется.	skrattar	0	0
+Grafen är 200 gånger starkare än stål.	Графен в 200 раз прочнее стали.	starkare	0	0
+Jag har gjort mig fin i håret.	Я сделал себе причёску.	håret	0	0
+Katten flydde med en bit fisk från köket.	Кот выбежал из кухни с куском рыбы.	fisk	0	0
+Hästen hoppar.	Лошадь прыгает.	hoppar	0	0
+Hon köpte en bok i affären.	Она купила в магазине книгу.	affären	0	0
+Under den stalinistiska eran blev fångar i koncentrationsläger slavar i statens tjänst.	В сталинскую эпоху заключённые в концентрационных лагерях становились рабами на службе государства.	fångar	0	0
+Te utan is.	Чай безо льда.	is	0	0
+Mannen vaknar.	Мужчина просыпается.	vaknar	0	0
+Jag klarar inte av sådana här filmer.	Я не выношу такие фильмы.	sådana	0	0
+Det här är den högsta byggnad som jag någonsin har sett.	Это самое высокое здание, которое я когда-либо видела.	högsta	0	0
+De lät mig välja en present.	Они позволили мне выбрать подарок.	present	0	0
+När åkte du till Rom?	Когда ты ездил в Рим?	rom	0	0
+Jag har tappat bort mitt bagage.	Я потерял багаж.	tappat	0	0
+Vi skyndade oss, så att vi hann med den sista bussen.	Мы спешили, чтобы успеть на последний автобус.	bussen	0	0
+Luft är osynligt.	Воздух невидим.	luft	0	0
+Vi har ägg.	У нас есть яйца.	ägg	0	0
+Under förhöret bekände han sin skuld.	Во время допроса он признал свою вину.	skuld	0	0
+Jag kan fortfarande inte bestämma mig om jag ska åka dit eller inte.	Я по-прежнему еще не решил, идти мне туда или нет.	bestämma	0	0
+Tom svetsade samman de två rören.	Том сварил две трубы.	samman	0	0
+Vi åker när det slutat regna.	Мы пойдём, когда кончится дождь.	slutat	0	0
+Har du avbokat vårt bord?	Ты отменил наше бронирование столика?	bord	0	0
+Jag kommer att sakna det.	Я буду скучать по этому.	sakna	0	0
+Han läser tidningen.	Он читает газету.	tidningen	0	0
+De är på god fot med sina grannar.	Они хорошо ладят с соседями.	fot	0	0
+Hur kommer det sig att himlen blir röd på kvällen?	Как так получается, что небо краснеет вечером?	röd	0	0
+I morgon är det hans födelsedag.	Завтра у него день рождения.	födelsedag	0	0
+Jag tyckte om alltihop.	Мне всё понравилось.	alltihop	0	0
+Hon påminner särskilt om sin mor.	Она очень напоминает свою мать.	påminner	0	0
+Bastun är varm, ifall någon vill gå.	Сауна горячая, если кто-то хочет пойти.	ifall	0	0
+Jag gick i samma klass som henne på högstadiet och gymnasiet.	Мы были в одном классе в гимназии.	klass	0	0
+Hälsan är det viktigaste i livet.	Здоровье - это самое главное в жизни.	viktigaste	0	0
+Han drack en öl.	Он выпил кружку пива.	drack	0	0
+Påven Francis återvänder till Rio år 2016.	Папа римский Франциск вернется в Рио в 2016.	återvänder	0	0
+Denna byggnad är gjord av sten.	Это здание построено из камня.	sten	0	0
+Han hoppade på tåget.	Он запрыгнул в поезд.	hoppade	0	0
+När stänger butiken?	Когда магазин закрывается?	stänger	0	0
+Har du redan bokat våra platser på flygplanet?	Ты уже забронировал наши места в самолете?	platser	0	0
+Hon är på intet vis självisk.	Она ни в коем случае не эгоистка.	vis	0	0
+När var du senast på semester?	Вы когда последний раз были в отпуске?	semester	0	0
+Här är vår adress.	Вот наш адрес.	adress	0	0
+Pojken kastar en sten.	Мальчик бросает камень.	kastar	0	0
+Det är för mörkt för att jag ska kunna läsa.	Слишком темно, чтобы можно было читать.	mörkt	0	0
+Dagens match är avgörande.	Сегодняшняя игра — решающая.	match	0	0
+Vi skattade oss lyckliga som överlevde.	Мы считали, что нам повезло, что мы выжили.	lyckliga	0	0
+Märkligt.	Странно.	märkligt	0	0
+Företaget gick i konkurs.	Предприятие обанкротилось.	företaget	0	0
+Skynda dig, annars missar du tåget.	Поторопись, а то опоздаешь на поезд.	missar	0	0
+Vilken av dessa hundar är din?	Которая из этих собак твоя?	hundar	0	0
+Han har bott på det där hotellet de fem senaste dagarna.	Он живёт в этом отеле в течение последних пяти дней.	dagarna	0	0
+Tom lurade dig.	Том солгал тебе.	lurade	0	0
+De skådelystna ställde sig kring hans nya bil.	Любопытствующие стояли вокруг его новой машины.	ställde	0	0
+Jag är förvånad att han antog erbjudandet.	Удивительно, что он принял предложение.	förvånad	0	0
+Han har spelat schack sedan han gick på high school.	Он играет в шахматы с тех пор, как он был в школе.	high	0	0
+Detta kök är otroligt svårt att jobba i, då det helt och hållet saknar avställningsyta.	На этой кухне невероятно сложно работать, так как на ней совершенно не хватает места.	hållet	0	0
+Barnuppfostran är en hård uppgift.	Воспитание детей - сложная работа.	hård	0	0
+Det här är just den ordbok jag har letat efter.	Это как раз тот словарь, который я искал.	letat	0	0
+Ta det inte personligt.	Не принимай близко к сердцу.	personligt	0	0
+Han kastade ett öga på sin klocka.	Он бросил взгляд на свои часы.	kastade	0	0
+Lek inte med elden.	Не играйте с огнём.	lek	0	0
+Brevets innehåll var hemligt.	Содержание письма было секретным.	hemligt	0	0
+Jag måste fundera på det här.	Мне нужно над этим подумать.	fundera	0	0
+Många vackra blommor blommar på våren.	Множество прелестных цветов расцветают весной.	blommor	0	0
+Jag blev till slut klar med arbetet.	Я наконец закончил работу.	arbetet	0	0
+Jag vet inte vem som sjunger denna sång.	Я не знаю, кто поёт эту песню.	sjunger	0	0
+Hittade du det du sökte efter?	Ты нашёл, что искал?	sökte	0	0
+Dagens match är avgörande.	Сегодняшняя игра — решающая.	dagens	0	0
+Läs högt 5 minuter per dag.	Читай вслух по пять минут в день.	läs	0	0
+När de möter varandra, grälar de utan undantag.	Они всегда ссорятся при встрече.	möter	0	0
+De rika är inte alltid lyckliga.	Богатые не всегда счастливы.	rika	0	0
+Tom står högt i kurs hos flickorna.	Том пользуется большим уважением среди девушек.	flickorna	0	0
+Stadens snabba tillväxt överraskade oss.	Мы были удивлены стремительным ростом города.	snabba	0	0
+Jag gråter aldrig.	Я никогда не плачу.	gråter	0	0
+Hon har stora bröst.	У неё большая грудь.	bröst	0	0
+Klubben har trettio medlemmar.	В клубе тридцать членов.	klubben	0	0
+Min syster leker med dockan.	Моя сестра играет с куклой.	leker	0	0
+Vi skyndade oss, så att vi hann med den sista bussen.	Мы спешили, чтобы успеть на последний автобус.	hann	0	0
+Det är ett väldigt farligt system.	Это довольно опасная система.	system	0	0
+Han hade inte den blekaste aning om hur gammal hans farmor var.	Он не имел ни малейшего представления, сколько лет его бабушке.	farmor	0	0
+Han förlät sin fiende.	Он простил своего врага.	fiende	0	0
+Det är ovanligt.	Это необычно.	ovanligt	0	0
+Tom sjunger ibland på franska.	Том иногда поёт на французском.	franska	0	0
+Det här äpplet smakar dåligt.	Это плохое яблоко.	smakar	0	0
+Det där är inte en kniv. Det HÄR är en kniv!	Это не нож. Вот ЭТО - нож!	kniv	0	0
+Han lekte med sin katt.	Он играл со своим котом.	katt	0	0
+Hans mage skriker.	У него урчит в животе.	skriker	0	0
+Vet du vilken färg han gillar?	Ты знаешь, какой цвет ему нравится?	färg	0	0
+Jag är vilse. Kan du hjälpa mig?	Я заблудилась. Вы не могли бы мне помочь?	vilse	0	0
+Jag behöver något för en vuxen.	Мне нужно что-нибудь для взрослого.	vuxen	0	0
+Kostar en kopp kaffe en krona?	Стоит ли чашка кофе крону?	kopp	0	0
+Förutom engelska talar hon tyska.	Кроме английского он говорит еще по-немецки.	tyska	0	0
+Var still.	Будь спокоен.	still	0	0
+Deras kontrakt går ut i slutet på den här månaden.	Их контракт истекает в этом месяце.	månaden	0	0
+Var är han född och uppvuxen?	Где он родился и вырос?	född	0	0
+Läkaren rådde honom att sluta röka.	Врач посоветовал ему бросить курить.	röka	0	0
+Jag skriver en mening på tyska.	Я пишу предложение по-немецки.	mening	0	0
+Vi har överlevt ännu en kall vinter.	Мы пережили ещё одну холодную зиму.	kall	0	0
+Stig inte upp.	Не вставай.	stig	0	0
+Hon öppnade dörren.	Она открыла дверь.	öppnade	0	0
+Dörren öppnades långsamt.	Дверь открылась медленно.	långsamt	0	0
+Lägenheten är utrustad med splitter ny kyl och frys.	Квартира оснащена совершенно новым холодильником с морозильной камерой.	lägenheten	0	0
+Papper är vitt.	Бумага белая.	vitt	0	0
+Jag älskar dej.	Я люблю тебя.	dej	0	0
+Lokalen har nu legat i träda ett tag.	Помещением уже некоторое время не пользовались.	legat	0	0
+Grekiska är inget lätt språk.	Греческий - язык непростой.	språk	0	0
+Tom är från Mars, och Mary är från Venus.	Том с Марса, а Мэри с Венеры.	mars	0	0
+Detta är mannen vars resväska jag fann.	Это тот человек, чей чемодан я нашёл.	vars	0	0
+Kvinnan är naken.	Женщина голая.	naken	0	0
+Tom kunde inte lista ut hur han skulle få lådan öppnad.	Том не мог понять, как открыть коробку.	lådan	0	0
+Skulle du kunna kolla vad som går på bio nästa lördag?	Не мог бы ты посмотреть, что идет в кинотеатре в следующую субботу?	lördag	0	0
+Jag är av en annan åsikt.	Я так не думаю.	åsikt	0	0
+Vår skola ligger i den här byn.	Наша школа находится в этой деревне.	byn	0	0
+Ladugården brinner.	Сарай горит.	brinner	0	0
+Sjutton gastar på död mans kista, yo-ho och en flaska med rom!	Семнадцать человек на сундук мертвеца, Йо-хо-хо, и бутылка рому!	flaska	0	0
+Jag älskar Kalifornien.	Я люблю Калифорнию.	kalifornien	0	0
+Vi skattade oss lyckliga som överlevde.	Мы считали, что нам повезло, что мы выжили.	överlevde	0	0
+Den mörka dimman från Medelhavet lade sig över den stad som prokuratorn hatade.	Тьма, пришедшая со Средиземного моря, накрыла ненавидимый прокуратором город.	lade	0	0
+Jag klarar inte av sådana här filmer.	Я не выношу такие фильмы.	filmer	0	0
+I Europa och Amerika ser de hunden som en familjemedlem.	В Европе и Америке собаку считают членом семьи.	europa	0	0
+Trevligt att höra att ni använder så artigt tilltal till en katt. Katter blir annars alltid duade, fast ingen katt någonsin har druckit duskål med någon.	Приятно слышать, что вы так вежливо обращаетесь с котом. Котам обычно почему-то говорят "ты", хотя ни один кот никогда ни с кем не пил брудершафта.	druckit	0	0
+Han klär sig som en gentleman, men han talar och uppför sig som en clown.	Он одевается как джентльмен, но разговаривает и ведёт себя как клоун.	uppför	0	0
+Vi har inget behov av assistans.	Нам не нужна помощь.	behov	0	0
+Klockan är halv elva.	Сейчас половина одиннадцатого.	elva	0	0
+Finns det många lagårdar i denna by?	В этой деревне много коровников?	by	0	0
+Detta är fakta.	Таковы факты.	fakta	0	0
+Jag stjäl inte.	Я не ворую.	stjäl	0	0
+Skriv tydligt, tack.	Пиши разборчиво, пожалуйста.	tydligt	0	0
+Läkaren rådde honom att sluta röka.	Врач посоветовал ему бросить курить.	läkaren	0	0
+Ingen av de fyra pojkarna hade alibi.	Ни у одного из четверых мальчиков не было алиби.	pojkarna	0	0
+Jag kan inte finna min flickväns klitoris.	Я не могу найти клитор у своей подруги.	finna	0	0
+Jag växte upp i den södra delen av Chicago.	Я вырос на юге Чикаго.	chicago	0	0
+Är det ledigt?	Это бесплатно?	ledigt	0	0
+Jag vet inte vem som sjunger denna sång.	Я не знаю, кто поёт эту песню.	sång	0	0
+Alla hästar är djur, men inte alla djur är hästar.	Все лошади животные, но не все животные - лошади.	hästar	0	0
+Robin är Batmans vän.	Робин - друг Бэтмана.	robin	0	0
+Var är flygplatsen?	Где аэропорт?	flygplatsen	0	0
+Jag vet att ni har viktigare saker att tänka på.	Я знаю, что у вас есть более важные дела, о которых нужно подумать.	viktigare	0	0
+Hon skrek för full hals.	Она орала во всё горло.	skrek	0	0
+Skriv aldrig orden ”borsjtj” och ”sjtji” på tyska!	Никогда не пишите слова "борщ" и "щи" по-немецки!	orden	0	0
+Skolans nivå är hög.	У школы высокий уровень.	nivå	0	0
+Konst har inga gränser.	Искусство не имеет границ.	konst	0	0
+Universum är ett mysterium.	Вселенная — это загадка.	universum	0	0
+Hur mycket kostar den här radion?	Сколько стоит это радио?	radion	0	0
+Så modig du är!	Какая ты храбрая!	modig	0	0
+Det här året erbjuder vi samma språkkurs som i fjol.	В этом году мы предлагаем тот же языковой курс, что и в прошлом году.	erbjuder	0	0
+Den mörka dimman från Medelhavet lade sig över den stad som prokuratorn hatade.	Тьма, пришедшая со Средиземного моря, накрыла ненавидимый прокуратором город.	mörka	0	0
+Jag tror att hon är ledig i morgon.	Я думаю, что она завтра свободна.	ledig	0	0
+Lek inte med elden.	Не играй с огнём.	elden	0	0
+Jag måste bara snygga till håret.	Мне лишь нужно поправить волосы.	snygga	0	0
+Sverige har hjälpt mig att vara mig själv.	Швеция помогла мне быть самим собой.	hjälpt	0	0
+Sjutton gastar på död mans kista, yo-ho och en flaska med rom!	Семнадцать человек на сундук мертвеца, Йо-хо-хо, и бутылка рому!	mans	0	0
+Vi ses på måndag.	Увидимся в понедельник.	måndag	0	0
+Antonio gömde babyn i varuvagnen.	Антонио спрятал младенца в тележке для покупок.	gömde	0	0
+Det kan jag se med blotta ögat.	Это я могу видеть невооружённым глазом.	ögat	0	0
+Herr Smith har gjort det till en regel att ta en promenad varje morgon.	Мистер Смит взял за правило выходить на прогулку каждое утро.	smith	0	0
+Jag ser månen och stjärnorna.	Я вижу луну и звёзды.	månen	0	0
+Tom var nyfiken.	Тому было любопытно.	nyfiken	0	0
+Det finns lite mjölk kvar i kylskåpet.	В холодильнике осталось немного молока.	mjölk	0	0
+Varning! Vått golv.	Внимание! Скользкий пол.	varning	0	0
+Kusingifte ökar risken för ärftliga sjukdomar.	Брак между двоюродными братьями и сёстрами увеличивает риск наследственных заболеваний.	risken	0	0
+Min kollega har en stor hals.	У моего коллеги большая шея.	kollega	0	0
+Dan och Linda flyttade så småningom till London.	Дэн и Линда в конце концов переехали в Лондон.	linda	0	0
+Det ligger en bok om dans på skrivbordet.	На столе лежит книга о танце.	dans	0	0
+Folk är konstiga.	Люди странные.	konstiga	0	0
+Skolbarn är förkylda dubbelt så ofta som vuxna.	Школьники простужаются вдвое чаще, чем взрослые.	vuxna	0	0
+Jag har ett rött hus.	У меня красный дом.	rött	0	0
+Tappa aldrig hoppet!	Никогда не теряй надежды!	tappa	0	0
+Var bor din morfar?	Где живёт твой дедушка?	morfar	0	0
+Jag vill veta detaljer.	Я хочу узнать все обстоятельства дела.	detaljer	0	0
+Många träd tappar sina löv på vintern.	Многие деревья сбрасывают листву зимой.	tappar	0	0
+Vatten kokar vid 100 grader Celsius.	Вода закипает при 100 градусах по Цельсию.	grader	0	0
+Någon gjorde sönder min kamera.	Кто-то сломал мою камеру.	kamera	0	0
+Jag hittade en lösning, men jag hittade den så fort att det inte kan vara den rätta.	Я нашел решение, но я нашел его настолько быстро, что оно определенно не может быть верным.	lösning	0	0
+Han har spelat schack sedan han gick på high school.	Он играет в шахматы с тех пор, как он был в школе.	spelat	0	0
+Katten flydde med en bit fisk från köket.	Кот выбежал из кухни с куском рыбы.	flydde	0	0
+”Vårt tåg går klockan nio.” ”Oroa dig inte. Vi hinner.”	"Наш поезд отходит в 9 часов". - "Не волнуйся. Мы успеем".	tåg	0	0
+Jag gjorde ett försök att simma över floden.	Я сделала попытку переплыть через реку.	simma	0	0
+För motivation krävs ofta intresse.	Для мотивации часто необходим интерес.	intresse	0	0
+Tom ville hämnas.	Том жаждал мести.	hämnas	0	0
+Den gröna lampskärmen kastar ett varmt sken i rummet.	Зелёный абажур рассеивает по комнате тёплый свет.	gröna	0	0
+Engelska studerar man även i Kina.	Английский изучают даже в Китае.	kina	0	0
+Tycker ni om sommaren?	Вы любите лето?	sommaren	0	0
+Mitt livs ljus slocknar snart.	Свеча моей жизни скоро потухнет.	livs	0	0
+Våran trädgård var full av ogräs.	В нашем саду было полно сорняков.	våran	0	0
+Barnuppfostran är en hård uppgift.	Воспитание детей - сложная работа.	uppgift	0	0
+Mitt samvete är rent.	Моя совесть чиста.	samvete	0	0
+Tom står högt i kurs hos flickorna.	Том пользуется большим уважением среди девушек.	kurs	0	0
+Han har spelat schack sedan han gick på high school.	Он играет в шахматы с тех пор, как он был в школе.	school	0	0
+Min klocka är tio.	На моих часах десять.	klocka	0	0
+Ljudet är väldigt högt.	Звук очень громкий.	ljudet	0	0
+Katten har sovit på bordet.	Кошка спала на столе.	sovit	0	0
+På onsdag träffar jag kunder.	Я встречаюсь с покупателями в среду.	kunder	0	0
+Lysande!	Блестяще!	lysande	0	0
+På två drag kommer Kasparov att ställa motståndaren i schack.	Через два хода Каспаров поставит сопернику шах.	drag	0	0
+Nu kan jag sova i lugn och ro.	Теперь я могу спать спокойно.	ro	0	0
+Jag har min egen teori.	У меня есть своя теория.	teori	0	0
+Herr Smith har gjort det till en regel att ta en promenad varje morgon.	Мистер Смит взял за правило выходить на прогулку каждое утро.	promenad	0	0
+Prinsessan låg med slutna ögon.	Принцесса лежала с закрытыми глазами.	prinsessan	0	0
+"Jag kan rita en perfekt cirkel på fri hand." "Ha! Det skulle jag bra gärna vilja se!"	"Я могу нарисовать идеальный круг от руки" - "Ха! Я хотел бы на это взглянуть!".	rita	0	0
+Den mörka dimman från Medelhavet lade sig över den stad som prokuratorn hatade.	Тьма, пришедшая со Средиземного моря, накрыла ненавидимый прокуратором город.	hatade	0	0
+Jag har levt här under en lång tid.	Я живу здесь уже давно.	levt	0	0
+Strunt samma.	Неважно.	strunt	0	0
+Jag ändrade meningen.	Я изменила предложение.	ändrade	0	0
+Lider du av sömnlöshet?	Ты страдаешь от бессонницы?	lider	0	0
+Vem har vi att tacka för penicillinets upptäckt?	Кого мы должны благодарить за открытие пенициллина?	upptäckt	0	0
+Jag beter mig inte som du.	Я не веду себя как ты.	beter	0	0
+Han gillar att lyssna på radio.	Ему нравится слушать радио.	radio	0	0
+Finns det en bank i närheten?	Здесь поблизости есть банк?	bank	0	0
+Han har bott på det där hotellet de fem senaste dagarna.	Он живёт в этом отеле в течение последних пяти дней.	bott	0	0
+Den här bokens författare har aldrig varit i Ryssland.	Автор этой книги никогда не был в России.	författare	0	0
+Hade han strukit sina byxor?	Он отутюжил свои брюки?	byxor	0	0
+Välj oss!	Выберите нас!	välj	0	0
+Jag vill att du håller ditt löfte.	Я хочу, чтобы ты сдержал своё обещание.	löfte	0	0
+Några säger att han aldrig har funnits.	Некоторые говорят, что он никогда не существовал.	funnits	0	0
+Deras kontrakt går ut i slutet på den här månaden.	Их контракт истекает в этом месяце.	kontrakt	0	0
+Jag märkte det inte förrän i går.	Я этого не замечал до вчерашнего дня.	märkte	0	0
+Var ligger den ryska ambassaden?	Где находится российское посольство?	ryska	0	0
+Det här är ditt bröd.	Это твой хлеб.	bröd	0	0
+Han försökte att studera hela natten, dock i onödan.	Он пытался заниматься всю ночь, но тщетно.	dock	0	0
+En man hotade hivsmitta två sjuksköterskor.	Один человек угрожал заразить СПИДом двух медсестёр.	hotade	0	0
+Jag skulle vilja veta anledningen.	Я хочу знать причину.	anledningen	0	0
+Hans mage skriker.	У него урчит в животе.	mage	0	0
+Hon låg med slutna ögon på soffan.	Она лежала на кушетке с закрытыми глазами.	soffan	0	0
+I begynnelsen skapade Gud himmel och jord.	В начале сотворил Бог небо и землю.	jord	0	0
+Jag blev fullständigt genomblöt av regnskuren.	Я промок насквозь под дождём.	fullständigt	0	0
+Hästen hoppar.	Лошадь прыгает.	hästen	0	0
+Internet är en labyrint.	Интернет - это лабиринт.	internet	0	0
+Jag är rädd att jag behöver mer tid för att övertyga honom.	Боюсь, мне понадобится больше времени, чтобы его убедить.	övertyga	0	0
+Är det fritt?	Это бесплатно?	fritt	0	0
+President Grant hade inte gjort något olagligt.	Президент Грант не сделал ничего противозаконного.	olagligt	0	0
+Tystnad är guld.	Молчание - золото.	tystnad	0	0
+Det är färdigt nu.	Теперь готово.	färdigt	0	0
+Chefen! Allt är borta! Gipset tas bort! Kunden går därifrån.	Шеф, всё пропало! Гипс снимают, клиент уезжает.	tas	0	0
+Får man filma här?	Можно здесь снимать?	filma	0	0
+De skådelystna ställde sig kring hans nya bil.	Любопытствующие стояли вокруг его новой машины.	kring	0	0
+Han respekterar inte mig.	Он меня не уважает.	respekterar	0	0
+Det finns en restaurang här.	Здесь есть ресторан.	restaurang	0	0
+Hon skrattar sällan, om ens någonsin.	Она редко, если вообще когда-нибудь, смеется.	sällan	0	0
+Hen grät.	Он_а плачет.	grät	0	0
+Vi kan ta itu med det.	Мы можем с этим справиться.	itu	0	0
+Stora delar av publiken brast ut i skratt.	Большая часть публики расхохоталась.	publiken	0	0
+Jag döljer ingenting.	Я ничего не скрываю.	döljer	0	0
+Trots att han äter som en fågel, går han bara mer och mer upp i vikt.	Несмотря на то, что он ест столько же, сколько птица, он продолжает набирать в весе.	fågel	0	0
+Jag går och klär på mig.	Пойду оденусь.	klär	0	0
+Ingen rök utan eld.	Дыма без огня не бывает.	rök	0	0
+Sami fortsatte försöka.	Сами попробовал ещё раз.	fortsatte	0	0
+Tom ville att Maria skulle samarbeta.	Том хотел, чтобы Мария сотрудничала.	samarbeta	0	0
+Tiden läker alla sår.	Время всё лечит.	sår	0	0
+Mari och Maki är systrar.	Мари и Маки - сёстры.	systrar	0	0
+Han sov över hos sin moster.	Он ночевал у тётки.	moster	0	0
+Jag skulle vilja skicka ett paket till Japan.	Я хочу отправить посылку в Японию.	paket	0	0
+Tom har inte hatt på sig varje dag.	Том не носит шляпу каждый день.	hatt	0	0
+Hur mycket har du betalat för dem?	Сколько ты за них заплатила?	betalat	0	0
+De fångade en tjuv.	Они поймали вора.	tjuv	0	0
+Ta av dig skorna.	Сними свою обувь.	skorna	0	0
+Tom skar löken i halvringar.	Том порезал лук полукольцами.	skar	0	0
+Han hängde upp sina ytterkläder i tamburen.	Свою верхнюю одежду он повесил в коридоре.	hängde	0	0
+Mitt barn har försvunnit.	У меня потерялся ребёнок.	försvunnit	0	0
+Ursäkta. Jag skulle vilja hyra en bil.	Извините, я хотел бы арендовать машину.	hyra	0	0
+”Tack så mycket”, sa han med ett leende.	"Большое спасибо", - сказал он с улыбкой.	leende	0	0
+Han är stolt över att ha tagit examen vid Tokyo Universitet.	Он гордится тем, что закончил Токийский университет.	examen	0	0
+Är ni färdiga nu?	Вы уже закончили?	färdiga	0	0
+Vi översatte rapporten från engelska till afrikaans.	Мы перевели доклад с английского на африкаанс.	rapporten	0	0
+Jag måste låsa upp den här dörren.	Мне нужно отпереть эту дверь.	låsa	0	0
+Jag vill se gatorna.	Я хочу увидеть улицы.	gatorna	0	0
+Ett lågtrycksområde täcker hela Skandinavien med växlande vind och molnighet.	Область низкого давления с переменным ветром и облачностью охватывает всю Скандинавию.	täcker	0	0
+Trots att det regnade så spelade vi fotboll.	Несмотря на то, что шёл дождь, мы играли в футбол.	fotboll	0	0
+Han fryser om händerna.	У него замёрзли руки.	fryser	0	0
+Afrika är mänsklighetens vagga.	Африка является колыбелью человечества.	afrika	0	0
+Bryt chokladen i små bitar.	Разломайте шоколад на маленькие кусочки.	bitar	0	0
+Det är så typiskt dig.	Это так похоже на тебя.	typiskt	0	0
+Herr Smith har gjort det till en regel att ta en promenad varje morgon.	Мистер Смит взял за правило выходить на прогулку каждое утро.	regel	0	0
+Spindlar har inga öron.	У пауков нет ушей.	öron	0	0
+Jag kan bekräfta det där.	Я могу это подтвердить.	bekräfta	0	0
+Grönt är min favoritfärg.	Зелёный - мой любимый цвет.	grönt	0	0
+Han fick inte av sig byxorna.	Он не мог снять штаны.	byxorna	0	0
+Nu är det officiellt.	Теперь это официально.	officiellt	0	0
+Jag föddes med tolv fingrar.	Я родился с двенадцатью пальцами.	fingrar	0	0
+Polisen har arresterat tre personer för lördagens inbrott.	Полиция арестовала трех человек за кражу со взломом в субботу.	inbrott	0	0
+Han reste under täcknamn.	Он путешествовал под псевдонимом.	reste	0	0
+Disneyland var mycket intressant. Du borde ha följt med oss.	В Диснейленде было очень интересно. Тебе следовало пойти с нами.	följt	0	0
+Vår engelsklärare lägger vikt vid uttalet.	Наш преподаватель английского уделяет большое внимание произношению.	vikt	0	0
+Den där klänningen passar dig bra.	То платье тебе идёт.	klänningen	0	0
+De gick hand i hand till restaurangen.	Они пошли в ресторан рука об руку.	restaurangen	0	0
+Nyfikenhet dödade katten.	Любопытство кошку сгубило.	katten	0	0
+Jag fångade en fluga.	Я поймал муху.	fångade	0	0
+Borsta tänderna.	Почисть зубы.	tänderna	0	0
+Hur länge kommer det här kalla vädret att hålla på?	Как долго продержится эта холодная погода?	vädret	0	0
+Jag hörde röster.	Я услышал голоса.	röster	0	0
+Mitt fullständiga namn är Ricardo Vernaut Junior.	Моё полное имя — Рикардо Вернаут-младший.	junior	0	0
+Jag köpte två biljetter till Malmö.	Я купил два билета в Мальмё.	biljetter	0	0
+Skolbarn är förkylda dubbelt så ofta som vuxna.	Школьники болеют простудой вдвое чаще, чем взрослые.	dubbelt	0	0
+Tom ler inte särskilt ofta.	Том не часто улыбается.	ler	0	0
+Tom vittnade under Marys rättegång.	Том был свидетелем в суде по делу Мэри.	rättegång	0	0
+Avsnitt tolv är jättebra!	Двенадцатая серия великолепна!	avsnitt	0	0
+Fattigdom är ingen skam.	Бедность не порок.	skam	0	0
+Det här är väldigt läskigt.	Это очень страшно.	läskigt	0	0
+Hon är en person som kan konsten att vända motgång till framgång.	Она человек, который обладает искусством превращать невзгоды в успех.	framgång	0	0
+Vi är från Ryssland.	Мы из России.	ryssland	0	0
+När jag steg upp i dag hade jag ont i nacken.	Когда я проснулась сегодня утром у меня болела шея.	nacken	0	0
+Han kan inte ha tappat bort sina nycklar.	Он не мог потерять свои ключи.	nycklar	0	0
+Jag tror på hennes berättelse.	Я верю ее рассказу.	berättelse	0	0
+Jag vill inte arbeta under dessa villkor.	Я не хочу работать в таких условиях.	villkor	0	0
+Trädet är grönt.	Дерево зелёное.	trädet	0	0
+Han sitter på stolen.	Он сидит на стуле.	stolen	0	0
+Vi var på bio i går.	Мы ходили в кинотеатр вчера.	bio	0	0
+Boten skall betalas i kontanter.	Штраф нужно заплатить наличными.	kontanter	0	0
+Äpplet är sött.	Яблоко сладкое.	sött	0	0
+President Grant hade inte gjort något olagligt.	Президент Грант не сделал ничего противозаконного.	grant	0	0
+Min hund åt min läxa.	Моя собака съела моё домашнее задание.	läxa	0	0
+Tom får rösta.	Том может голосовать.	rösta	0	0
+Han är extremt pratsam.	Он очень разговорчив.	extremt	0	0
+Det här gamla bordet används fortfarande.	Этот старый стол по-прежнему используется.	används	0	0
+Nancy, här är ett brev till dig.	Нэнси, тебе письмо.	nancy	0	0
+Det finns en buss här.	Здесь есть автобус.	buss	0	0
+Bryt chokladen i små bitar.	Разломайте шоколад на маленькие кусочки.	bryt	0	0
+Det finns inga vilda isbjörnar i Norden.	В скандинавских странах нет диких белых медведей.	vilda	0	0
+Han har en mörk röst.	У него низкий голос.	mörk	0	0
+Druskininkai är en stad i södra Lettland.	Друскининкай - город на юге Литвы.	södra	0	0
+Jag är inte intresserad av politik överhuvudtaget.	Меня вообще не интересует политика.	politik	0	0
+Jag är bara en kund.	Я всего лишь клиент.	kund	0	0
+Kusingifte ökar risken för ärftliga sjukdomar.	Брак между двоюродными братьями и сёстрами увеличивает риск наследственных заболеваний.	ökar	0	0
+Herr Berg hjälper dig.	Господин Берг помогает тебе.	berg	0	0
+Han bodde på en ö.	Он жил на острове.	ö	0	0
+Torka byxorna på elementet.	Высуши штаны на батарее.	torka	0	0
+Vi kunde inte gå med på hans krav.	Мы не могли согласиться с его требованиями.	krav	0	0
+Skämta inte med mig!	Давай без шуток!	skämta	0	0
+Jag sköt mig själv i foten.	Я выстрелил себе в ногу.	foten	0	0
+Uppgiftens värde är grundat i det som den innebär.	Ценность задачи заключается в выполнении.	värde	0	0
+De kämpade för religionsfrihet.	Они боролись за свободу вероисповедания.	kämpade	0	0
+Sjutton gastar på död mans kista, yo-ho och en flaska med rom!	Семнадцать человек на сундук мертвеца, Йо-хо-хо, и бутылка рому!	sjutton	0	0
+Hon hade ett litet runt föremål i handen.	В руке она держала небольшой круглый предмет.	föremål	0	0
+Hur många självmord tror du att det sker varje år i Japan?	Сколько, ты думаешь, происходит самоубийств ежегодно в Японии?	japan	0	0
+Denna byggnad är gjord av sten.	Это здание построено из камня.	gjord	0	0
+Jag talar spanska.	Я говорю по-испански.	spanska	0	0
+Jag skriver en roman.	Я пишу роман.	roman	0	0
+Sötningsmedel har till mångt och mycket samma effekt som socker.	Подсластители имеют тот же эффект, что и сахар.	socker	0	0
+Du är känslig.	Ты чувствительный.	känslig	0	0
+Kunskap är makt.	Знание - сила.	kunskap	0	0
+Detta är ett litet steg för en människa men ett jättekliv för mänskligheten.	Это один маленький шаг для человека и гигантский прыжок для человечества.	mänskligheten	0	0
+Jag bad Gud om en cykel, men jag insåg att det var inte hans metod. Så jag stal en cykel och bad Gud om förlåtelse.	Я попросил у Бога велосипед, но понял, что это не его метод. Поэтому я украл велосипед и попросил у Бога прощения.	förlåtelse	0	0
+Öppna flaskan, tack.	Пожалуйста, открой бутылку.	flaskan	0	0
+Modersmålet är en oersättlig skatt.	Родной язык — незаменимое сокровище.	skatt	0	0
+Känner du någon i Boston?	Ты знаешь кого-нибудь в Бостоне?	boston	0	0
+Herr Wang kom till Japan för att studera japanska.	Господин Ванг прибыл в Японию, чтобы учить японский язык.	studera	0	0
+Tom är också jude.	Том тоже еврей.	jude	0	0
+Hämta mig dagens tidning.	Принеси мне сегодняшнюю газету.	tidning	0	0
+Jag försökte att undanröja alla tvivel.	Я постарался развеять любые сомнения.	tvivel	0	0
+Egendom är stöld.	Собственность есть кража.	egendom	0	0
+Hon log åt sig själv i spegeln.	Она улыбнулась своему отражению в зеркале.	spegeln	0	0
+Kan jag låna din penna?	Могу я одолжить у тебя ручку?	penna	0	0
+Plötsligt kysste hon mig.	Внезапно она поцеловала меня.	kysste	0	0
+Är ni fortfarande arga på mig?	Вы все еще злитесь на меня?	arga	0	0
+Han sitter på en stol.	Он сидит на стуле.	stol	0	0
+Har du ett hus i Italien?	У тебя есть дом в Италии?	italien	0	0
+Har han accepterat vår inbjudan?	Он принял наше приглашение?	inbjudan	0	0
+Ska vi beställa?	Закажем?	beställa	0	0
+Hon stiger upp klockan sju.	Она встает в семь.	stiger	0	0
+Han har en djup röst.	У него низкий голос.	djup	0	0
+Jag gillar inte modern jazz.	Мне не нравится современный джаз.	modern	0	0
+Vill du ha mer kakor?	Хочешь ещё печенья?	kakor	0	0
+Olyckan hände plötsligt.	Авария произошла внезапно.	olyckan	0	0
+Jag ser månen och stjärnorna.	Я вижу луну и звёзды.	stjärnorna	0	0
+Godmorgon, Mike.	Доброе утро, Майк.	godmorgon	0	0
+Konst har inga gränser.	Искусство не имеет границ.	gränser	0	0
+Han skrek för full hals.	Он кричал во всё горло.	hals	0	0
+Han skrattade utan anledning.	Он рассмеялся без причины.	skrattade	0	0
+Vill du ha en banan?	Хочешь банан?	banan	0	0
+Mina ekonomiska bekymmer är över.	Мои финансовые тревоги позади.	bekymmer	0	0
+Förbannat.	Проклятье!	förbannat	0	0
+De är på god fot med sina grannar.	Они хорошо ладят с соседями.	grannar	0	0
+Han brast i gråt.	Он разразился слезами.	gråt	0	0
+Ibland besannas drömmen.	Мечты иногда сбываются.	drömmen	0	0
+Fåglar flyger.	Птицы летают.	fåglar	0	0
+Jag kommer att anmäla.	Я буду жаловаться.	anmäla	0	0
+Ingen av de fyra pojkarna hade alibi.	Ни у одного из четверых мальчиков не было алиби.	alibi	0	0
+Han gnäller alltid på dålig medicinsk behandling.	Он постоянно жалуется на плохое медицинское обслуживание.	behandling	0	0
+Elefanter är enorma djur.	Слоны - огромные животные.	enorma	0	0
+Han återvände till sitt rum.	Он вернулся в свою комнату.	återvände	0	0
+Tappa aldrig hoppet!	Никогда не теряй надежды!	hoppet	0	0
+Kan du beskriva honom?	Ты сможешь его описать?	beskriva	0	0
+Landet har gemensamma gränser med två andra länder.	Страна имеет границу с двумя другими странами.	länder	0	0
+Jag vill somna.	Я хочу спать.	somna	0	0
+Jag visste att det skulle bli svårt att övertala Tom att hjälpa oss.	Я знал, что будет сложно убедить Тома нам помочь.	övertala	0	0
+Alla dörrar i huset var stängda.	Все двери в доме были закрыты.	dörrar	0	0
+Marina är från Ryssland och Clarissa är från Sverige.	Марина из России, а Кларисса - из Швеции.	sverige	0	0
+När öppnar affärerna?	Когда открываются магазины?	affärerna	0	0
+Livet är så orättvist.	Жизнь так несправедлива.	orättvist	0	0
+Det är precis som jag förväntade mig.	Это именно то, что я и ожидал.	förväntade	0	0
+Jag hatar vintern.	Я ненавижу зиму.	vintern	0	0
+Han sparkade mig på ballarna.	Он пнул меня по яйцам.	sparkade	0	0
+Vem sitter vanligtvis på åsnebänken?	Кто обычно сидит на камчатке?	vanligtvis	0	0
+Rökning kan orsaka impotens.	Курение может вызывать импотенцию.	orsaka	0	0
+De frågade Kate om hon kunde sitta barnvakt åt barnet.	Они спросили Кейт, может ли она присмотреть за ребёнком.	barnvakt	0	0
+De antog förslaget.	Они приняли предложение.	antog	0	0
+En grupp maskerade män attackerade Tom.	Группа мужчин в масках напала на Тома.	attackerade	0	0
+Det är förbjudet att vistas innanför avspärrningarna.	Находиться внутри заграждения запрещено.	förbjudet	0	0
+Klubben har trettio medlemmar.	В клубе тридцать членов.	medlemmar	0	0
+Det var en gång en olycklig, glömsk kille vid namn James, som ständigt förväxlade Mary med Maria. Därför hatade Maria honom i själ och hjärta.	Жил-был несчастный забывчивый парень по имени Джеймс, который всё время путал Мэри с Марией. Мария за это ненавидела его всеми фибрами души.	olycklig	0	0
+Har du sökt i arkivet?	Ты смотрел в архиве?	sökt	0	0
+Påven Francis återvänder till Rio år 2016.	Папа римский Франциск вернется в Рио в 2016.	francis	0	0
+Jag hade huvudvärk.	У меня болела голова.	huvudvärk	0	0
+Njuter du av att förlora?	Тебе нравится проигрывать?	njuter	0	0
+Grafen är ett ämne som består av rent kol.	Графен является веществом, состоящим из чистого углерода.	ämne	0	0
+Det finns ingen slump.	Нет ничего случайного.	slump	0	0
+Moder Teresa föddes i Jugoslavien år 1910.	Мать Тереза ​​родилась в Югославии в 1910 году.	moder	0	0
+Brukar du öva på din handstil?	Ты обычно практикуешься в чистописании?	öva	0	0
+När stänger butiken?	Когда закрывается магазин?	butiken	0	0
+Tom hoppas att se dig i oktober.	Том надеется увидеть тебя в октябре.	oktober	0	0
+Denna byggnad är gjord av sten.	Это здание построено из камня.	byggnad	0	0
+Det finns fem fiskar i mitt akvarium.	В моём аквариуме пять рыбок.	fiskar	0	0
+Håller isen?	Лёд выдержит?	isen	0	0
+Jag ser en man mellan träden.	Я вижу человека среди деревьев.	träden	0	0
+Mörker är frånvaro av ljus.	Тьма - это отсутствие света.	mörker	0	0
+Jag är politiker.	Я политик.	politiker	0	0
+Det var få elever kvar i klassrummet.	В классе оставалось мало учеников.	elever	0	0
+Vi förbereder oss för att gå ut.	Мы готовимся к выходу.	förbereder	0	0
+Stå på öronen!	Осторожно, ты сейчас упадёшь!	öronen	0	0
+Ni var inte särskilt trevliga.	Вы были не очень милы.	trevliga	0	0
+Ingen har lagt ned så mycket tid och ork i projektet som hon.	Никто не вложил столько времени и сил в этот проект, как она.	projektet	0	0
+Jag behöver en sekreterare.	Мне нужен секретарь.	sekreterare	0	0
+Jag ville inte spendera mer tid på att arbeta med det där projektet.	Я не хотел больше тратить время на этот проект.	spendera	0	0
+De är korta och smala.	Они короткие и узкие.	korta	0	0
+Tack för gåvan. Det är precis vad jag önskade mig.	Спасибо за подарок. Это как раз то, чего я хотел.	önskade	0	0
+Är ni lediga?	Вы свободны?	lediga	0	0
+Försök å stoppa me ru!	Попробуй меня остановить!	me	0	0
+Jag bad Gud om en cykel, men jag insåg att det var inte hans metod. Så jag stal en cykel och bad Gud om förlåtelse.	Я попросил у Бога велосипед, но понял, что это не его метод. Поэтому я украл велосипед и попросил у Бога прощения.	cykel	0	0
+Tom lämnade hatten i bilen.	Том оставил шляпу в машине.	hatten	0	0
+Tom lekte katt och råtta med Mary.	Том играл с Марией в кошки-мышки.	lekte	0	0
+Vi behöver verktyg.	Нам нужны инструменты.	verktyg	0	0
+Jag kommer att klaga.	Я буду жаловаться.	klaga	0	0
+Det blir fyra kronor, tack.	С вас четыре кроны, пожалуйста.	kronor	0	0
+Orkanen Sandy är på väg.	Надвигается ураган Сэнди.	sandy	0	0
+Vi tycker inte om regn.	Нам не нравится дождь.	regn	0	0
+Fastighetsmäklaren ljög för paret.	Агент по недвижимости говорил паре неправду.	paret	0	0
+Tom simmade med hajar.	Том плавал с акулами.	hajar	0	0
+Tom lånade en bok från Mary.	Том одолжил книгу у Мэри.	lånade	0	0
+Det var en gång en olycklig, glömsk kille vid namn James, som ständigt förväxlade Mary med Maria. Därför hatade Maria honom i själ och hjärta.	Жил-был несчастный забывчивый парень по имени Джеймс, который всё время путал Мэри с Марией. Мария за это ненавидела его всеми фибрами души.	ständigt	0	0
+När man har feber är det bäst att stanna hemma.	Когда у тебя жар, лучше всего остаться дома.	feber	0	0
+Du har blivit tjock.	Ты растолстел.	tjock	0	0
+Jane låtsades alltid att hon var väldigt rik.	Джейн всегда притворялась, что она очень богата.	låtsades	0	0
+Jag är törstig.	Я хочу пить.	törstig	0	0
+Under den stalinistiska eran blev fångar i koncentrationsläger slavar i statens tjänst.	В сталинскую эпоху заключённые в концентрационных лагерях становились рабами на службе государства.	slavar	0	0
+Jag vill ha tårta.	Я хочу торт.	tårta	0	0
+Den här medicinen passar inte mig.	Это лекарство мне не подходит.	medicinen	0	0
+Kojan stacks i brand.	Хижина в огне.	brand	0	0
+Jag sparar till en moped.	Я коплю на мопед.	sparar	0	0
+Ursäkta, var ligger posten?	Простите, где находится почта?	posten	0	0
+”Hur är det fatt?” frågade en liten vit kanin.	«Что случилось?» - спросил маленький белый кролик.	kanin	0	0
+Färgen är lite för mörk.	Цвет немного темноват.	färgen	0	0
+Jag talar inte kinesiska.	Я не говорю по-китайски.	kinesiska	0	0
+Är ni hungriga ännu?	Вы ещё не проголодались?	hungriga	0	0
+Tom tycker att danska är världens vackraste språk.	Том думает, что датский — самый красивый язык в мире.	vackraste	0	0
+Både Tom och Mary är från Kanada.	И Том, и Мэри из Канады.	kanada	0	0
+Det är mycket farligt att gå här om nätterna.	Здесь очень опасно ходить ночью.	nätterna	0	0
+Köttbullar skulle vara lagom stora, lagom runda och lagom bruna, säger Emils mor.	Фрикадельки должны быть в меру большие, в меру круглые и в меру поджаристые, говорит мама Эмиля.	runda	0	0
+Jag måste pissa.	Мне нужно пописать.	pissa	0	0
+Det är förbjudet att framföra fordon här.	Здесь запрещено передвигаться на транспортном средстве.	fordon	0	0
+Detta är intressanta nyheter.	Это интересные новости.	intressanta	0	0
+Stora delar av publiken brast ut i skratt.	Большая часть публики расхохоталась.	skratt	0	0
+Det som göms i snö kommer fram i tö.	То, что спрятано в снегу, выходит наружу во время оттепели.	snö	0	0
+Våran trädgård var full av ogräs.	В нашем саду было полно сорняков.	trädgård	0	0
+Det är ett yrke som jag aldrig hört talas om förut.	Я никогда раньше не слышал об этой профессии.	yrke	0	0
+Tror du att vi borde överge skeppet?	Ты думаешь, что мы должны покинуть корабль?	överge	0	0
+Han somnade in från en evig dvala.	Он уснул вечным сном.	somnade	0	0
+Heather tror mig.	Хизер верит мне.	heather	0	0
+Grafen är ett ämne som består av rent kol.	Графен является веществом, состоящим из чистого углерода.	består	0	0
+Ut med språket!	Ну, говори же!	språket	0	0
+Jag var hungrig som en varg.	Я был голоден как волк.	varg	0	0
+När de möter varandra, grälar de utan undantag.	Они всегда ссорятся при встрече.	undantag	0	0
+Tom gillar inte att prata om sport.	Тому не нравится говорить о спорте.	sport	0	0
+Tom lekte katt och råtta med Mary.	Том играл с Марией в кошки-мышки.	råtta	0	0
+Regnet stod som spön i backen.	Дождь полил как из ведра.	regnet	0	0
+Vi måste respektera varandra.	Мы должны уважать друг друга.	respektera	0	0
+I begynnelsen skapade Gud himmel och jord.	В начале сотворил Бог небо и землю.	himmel	0	0
+De sökte alla det försvunna barnet.	Они все искали пропавшего ребёнка.	försvunna	0	0
+Jag behöver dina åsikter.	Мне нужны ваши мнения!	åsikter	0	0
+Musik är hennes passion.	Музыка ее страсть.	passion	0	0
+Vi ses på onsdag!	Увидимся в среду!	onsdag	0	0
+Jag lämnar böckerna här.	Я оставляю книги здесь.	böckerna	0	0
+Jag gillar den långsamma rytmen i den där sången.	Мне нравится медленный ритм этой песни.	sången	0	0
+Han var inte tillräckligt skicklig.	Он не был достаточно компетентным.	skicklig	0	0
+Hon är intelligent.	Она умная.	intelligent	0	0
+Trevligt att höra att ni använder så artigt tilltal till en katt. Katter blir annars alltid duade, fast ingen katt någonsin har druckit duskål med någon.	Приятно слышать, что вы так вежливо обращаетесь с котом. Котам обычно почему-то говорят "ты", хотя ни один кот никогда ни с кем не пил брудершафта.	katter	0	0
+När jag kom hem satt Ken och läste.	Кен читал, когда я вернулся домой.	ken	0	0
+En hund sitter på mattan.	На ковре сидит собака.	mattan	0	0
+Han klär sig som en gentleman, men han talar och uppför sig som en clown.	Он одевается как джентльмен, но разговаривает и ведёт себя как клоун.	gentleman	0	0
+Vi har överlevt ännu en kall vinter.	Мы пережили ещё одну холодную зиму.	överlevt	0	0
+Jag tycker om frukt.	Я люблю фрукты.	frukt	0	0
+Att skriva dagbok hjälper oss att minnas små, dagliga saker.	Ведение дневника помогает запоминать мелкие, повседневные вещи.	dagbok	0	0
+Dagens match är avgörande.	Сегодняшняя игра — решающая.	avgörande	0	0
+Jag blev bortförd av utomjordingar.	Я был похищен инопланетянами.	utomjordingar	0	0
+Prova den skjortan.	Примерь эту рубашку.	skjortan	0	0
+Tom tvättar bilen.	Том моет машину.	tvättar	0	0
+Nu behövs inte bara ord, utan också handling.	Сейчас необходимы не просто слова, но и действия.	handling	0	0
+Det finns inget dåligt väder, bara dåliga kläder.	Нет плохой погоды, есть лишь плохая одежда.	väder	0	0
+En skadad själ behöver bara lite kärlek och värme.	Раненой душе просто нужно немного любви и тепла.	värme	0	0
+Hinduismen är en polyteistisk religion.	Индуизм — политеистическая религия.	religion	0	0
+Om jag var rik, skulle jag åka utomlands.	Если бы я был богат, то я бы поехал за границу.	utomlands	0	0
+Nästan alla löv har fallit av.	Почти все листья опали.	fallit	0	0
+På två drag kommer Kasparov att ställa motståndaren i schack.	Через два хода Каспаров поставит сопернику шах.	schack	0	0
+Har jag fått några telefonsamtal?	Мне звонили?	telefonsamtal	0	0
+Han reagerar inte alls.	Он никак не реагирует.	reagerar	0	0
+Jag ser ett vitt lejon.	Я вижу белого льва.	lejon	0	0
+Dessa skorna är för dyra.	Эти туфли слишком дорогие.	dyra	0	0
+Stadens snabba tillväxt överraskade oss.	Мы были удивлены стремительным ростом города.	stadens	0	0
+Jag bor nu i Australien.	Я сейчас живу в Австралии.	australien	0	0
+Jag tog mig friheten att ringa henne.	Я осмелился ей позвонить.	friheten	0	0
+Antonio gömde babyn i varuvagnen.	Антонио спрятал младенца в тележке для покупок.	babyn	0	0
+Jag skulle köpa den, men den är för dyr.	Я бы купил его, но он стоит слишком дорого.	dyr	0	0
+Endast två saker är oändliga: universum och människans enfaldighet, och jag är inte säker gällande den första.	Только две вещи бесконечны - вселенная и человеческая глупость, и насчёт первой я не уверен.	människans	0	0
+De snackade hela natten.	Они болтали всю ночь.	snackade	0	0
+Har du redan bokat våra platser på flygplanet?	Ты уже забронировал наши места в самолете?	bokat	0	0
+Jag pratar inte japanska.	Я не говорю по-японски.	japanska	0	0
+Var snäll och avbryt mig inte.	Пожалуйста, не перебивайте меня.	avbryt	0	0
+Vi trodde att det var ett flygande tefat.	Мы подумали, что это летающая тарелка.	flygande	0	0
+Det är troligtvis hemsökt.	Наверное, там обитают привидения.	troligtvis	0	0
+Invånarna på ön är vänliga.	Жители острова дружелюбны.	vänliga	0	0
+Han talar inte lika flytande engelska som du.	Он не так свободно говорит по-английски, как ты.	flytande	0	0
+Jag skaffade en åt oss.	Я купил одну нам.	skaffade	0	0
+Vem äter bin?	Кто ест пчёл?	bin	0	0
+Använd endast auktoritativa källor.	Используй только авторитетные источники.	källor	0	0
+Jag föreslog honom att hon skulle bli inbjuden till festen.	Я предложил ему пригласить её на праздник.	föreslog	0	0
+Denna blomma är gul, men alla de andra är blåa.	Этот цветок жёлтый, а все остальные - голубые.	gul	0	0
+Gillar du golf?	Тебе нравится гольф?	golf	0	0
+Är du döv?	Ты глухой?	döv	0	0
+Få rätsida på tankarna.	Очисти свой разум.	tankarna	0	0
+Det finns bara tre tjejer i klassen.	В классе всего три девушки.	klassen	0	0
+Du är en bra kock.	Ты хороший повар.	kock	0	0
+Fågeln vippar på stjärten.	Птичка трясёт хвостом.	fågeln	0	0
+Kom när du besegrar onda drakar, erövrar alla slott och alla prinsessor.	Приходи, когда победишь всех злых драконов, завоюешь все замки и всех принцесс.	slott	0	0
+Under den stalinistiska eran blev fångar i koncentrationsläger slavar i statens tjänst.	В сталинскую эпоху заключённые в концентрационных лагерях становились рабами на службе государства.	eran	0	0
+Vilken årstid gillar du mest, våren eller hösten?	Какое время года тебе нравится больше, весна или осень?	våren	0	0
+Varför studerar ni franska?	Для чего ты изучаешь французский?	studerar	0	0
+Folket gjorde uppror mot tyrannin.	Народ восстал против тирании.	uppror	0	0
+Denna blomma är gul, men alla de andra är blåa.	Этот цветок жёлтый, а все остальные - голубые.	blomma	0	0
+Lämnade du dricks?	Ты оставил чаевые?	dricks	0	0
+De buteljerade vinet.	Они разлили вино по бутылкам.	vinet	0	0
+Dan och Linda flyttade så småningom till London.	Дэн и Линда в конце концов переехали в Лондон.	småningom	0	0
+Jag talar inte italienska.	Я не говорю по-итальянски.	italienska	0	0
+Min pappa har åkt för att fiska.	Мой папа ушёл на рыбалку.	fiska	0	0
+Sötningsmedel har till mångt och mycket samma effekt som socker.	Подсластители имеют тот же эффект, что и сахар.	effekt	0	0
+Sluta stirra.	Хватит пялиться.	stirra	0	0
+Vet du vilka färger han tycker om?	Ты знаешь, какие цвета ему нравятся?	färger	0	0
+Grafen är 200 gånger starkare än stål.	Графен в 200 раз прочнее стали.	stål	0	0
+Pratar du svenska?	Вы говорите по-шведски?	svenska	0	0
+Ärligt talat, hans tal är alltid tråkiga.	Честно говоря, речи у него всегда скучные.	tråkiga	0	0
+Jag är förvånad att han antog erbjudandet.	Удивительно, что он принял предложение.	erbjudandet	0	0
+Är lektionen redan slut?	Лекция уже закончилась?	lektionen	0	0
+Föraren körde om bilen.	Водитель вёл машину.	föraren	0	0
+Antonio dolde spädbarnet i kundvagnen.	Антонио спрятал младенца в тележке для покупок.	antonio	0	0
+Om det regnar stannar jag hemma.	Если пойдёт дождь, то я останусь дома.	regnar	0	0
+Jag drack en kopp kaffe på ett kafé i Stockholm.	Я выпил чашку кофе в кафе в Стокгольме.	stockholm	0	0
+Finns den här i blått?	Это есть в голубом цвете?	blått	0	0
+Var ligger den danska ambassaden?	Где датское посольство?	ambassaden	0	0
+Skyndar du dig inte, kommer du försent!	Если ты не поторопишься, то опоздаешь!	försent	0	0
+Kusingifte ökar risken för ärftliga sjukdomar.	Брак между двоюродными братьями и сёстрами увеличивает риск наследственных заболеваний.	sjukdomar	0	0
+Hon är på intet vis självisk.	Она нисколько не эгоистка.	självisk	0	0
+Egendom är stöld.	Собственность есть кража.	stöld	0	0
+Titta på skylten framför dig.	Посмотри на знак перед тобой.	skylten	0	0
+Tom gav mig trettio dollar.	Том дал мне тридцать долларов.	trettio	0	0
+Slips passar dig.	Галстук тебе идёт.	slips	0	0
+Kostar en kopp kaffe en krona?	Стоит ли чашка кофе крону?	krona	0	0
+Han nådde sitt mål.	Он достиг своей цели.	nådde	0	0
+Jag är tio minuter försenad.	Я опоздал на десять минут.	försenad	0	0
+Kom så går vi och simmar.	Давай пойдём поплаваем.	simmar	0	0
+Det gläder mig att du kommer ihåg.	Я рада, что ты помнишь.	gläder	0	0
+Det här året erbjuder vi samma språkkurs som i fjol.	В этом году мы предлагаем тот же языковой курс, что и в прошлом году.	fjol	0	0
+Ett lågtrycksområde täcker hela Skandinavien med växlande vind och molnighet.	Область низкого давления с переменным ветром и облачностью охватывает всю Скандинавию.	vind	0	0
+Varför ser ni så ledsna ut?	Почему ты такой грустный?	ledsna	0	0
+Umgås du mycket med dina syskon?	Ты проводишь много времени со своими братьями и сёстрами?	syskon	0	0
+Kan ni ta hand om våra husdjur medan vi är borta?	Ты мог бы присмотреть за нашими домашними животными, пока нас нет?	husdjur	0	0
+Min kudde är så mjuk!	Моя подушка такая мягкая!	mjuk	0	0
+Vad gör Jon just nu?	Что делает Джон прямо сейчас?	jon	0	0
+Jag kan spela gitarr.	Я умею играть на гитаре.	gitarr	0	0
+Piano och gitarr är vanliga ackompanjemangsinstrument.	Пианино и гитара обычно являются аккомпанирующими инструментами.	piano	0	0
+Den cancerformen är tack och lov mycket ovanlig.	К счастью, эта форма рака очень необычна.	ovanlig	0	0
+Detta måste genast stoppas.	Это должно прекратиться немедленно.	stoppas	0	0
+Ge mig en torr handduk!	Дай мне сухое полотенце!	torr	0	0
+Han hade femtio dollar.	У него было пятьдесят долларов.	femtio	0	0
+Var är era väskor?	Где ваши сумки?	väskor	0	0
+Endast två saker är oändliga: universum och människans enfaldighet, och jag är inte säker gällande den första.	Только две вещи бесконечны - вселенная и человеческая глупость, и насчёт первой я не уверен.	gällande	0	0
+Detta kök är otroligt svårt att jobba i, då det helt och hållet saknar avställningsyta.	На этой кухне невероятно сложно работать, так как на ней совершенно не хватает места.	kök	0	0
+Jag gick i samma klass som henne på högstadiet och gymnasiet.	Мы с ней были в одном классе в старшей школе и в гимназии.	gymnasiet	0	0
+Grafen är ett ämne som består av rent kol.	Графен является веществом, состоящим из чистого углерода.	kol	0	0
+Han är stolt över att vara musiker.	Он гордится быть музыкантом.	musiker	0	0
+Den här stolen är mycket bekväm.	Этот стул очень удобный.	bekväm	0	0
+Jag kommer inte ihåg texten.	Я не могу вспомнить текст.	texten	0	0
+Ingen vill arbeta utomhus under kalla dagar.	Никто не хочет работать на улице в холодные дни.	utomhus	0	0
+Isen smälter.	Лёд тает.	smälter	0	0
+Han är ung, men han måste försörja en stor familj.	Он молод, но вынужден содержать большую семью.	försörja	0	0
+Han är stolt över att ha tagit examen vid Tokyo Universitet.	Он гордится тем, что закончил Токийский университет.	universitet	0	0
+Tom krävde en ursäkt.	Том потребовал извинений.	krävde	0	0
+Vi har för många lektioner.	У нас слишком много уроков.	lektioner	0	0
+Universum är ett mysterium.	Вселенная — это загадка.	mysterium	0	0
+Min favoritfärg är orange.	Мой любимый цвет — оранжевый.	orange	0	0
+Skyndar du dig inte, kommer du försent!	Если ты не поторопишься, то опоздаешь!	skyndar	0	0
+Tom investerade sina pengar i aktier.	Том вложил свои деньги в акции.	aktier	0	0
+Tack för alla dina kommentarer!	Спасибо за все твои комментарии!	kommentarer	0	0
+Har du studerat utomlands?	Ты учился за границей?	studerat	0	0
+Världen är en nation.	Мир - это нация.	nation	0	0
+Jag blev kidnappad av rymdvarelser.	Я был похищен инопланетянами.	kidnappad	0	0
+Jag studerade en stund i morse.	Я немного позанималась утром.	studerade	0	0
+Köttbullar skulle vara lagom stora, lagom runda och lagom bruna, säger Emils mor.	Фрикадельки должны быть в меру большие, в меру круглые и в меру поджаристые, говорит мама Эмиля.	bruna	0	0
+Lite smör och bröd.	Немного хлеба и масла.	smör	0	0
+Jag är inte intresserad av politik överhuvudtaget.	Меня вообще не интересует политика.	överhuvudtaget	0	0
+Vi kör på Stockholms gator.	Мы едем по улицам Стокгольма.	gator	0	0
+Liisa är en aktiv och energisk ung kvinna.	Лиза - активная и энергичная молодая женщина.	aktiv	0	0
+De dricker cola.	Они пьют колу.	cola	0	0
+Du får inte parkera bilen på denna gata.	На этой улице нельзя парковаться.	parkera	0	0
+Apor gillar bananer.	Обезьяны любят бананы.	apor	0	0
+Sjutton gastar på död mans kista. - Hej och hå och en flaska med rom!	Семнадцать человек на сундук мертвеца, Йо-хо-хо, и бутылка рому!	kista	0	0
+En spegel reflekterar ljus.	Зеркало отражает свет.	spegel	0	0
+Hon är på intet vis självisk.	Она ни в коем случае не эгоистка.	intet	0	0
+Mina ekonomiska bekymmer är över.	Мои финансовые тревоги позади.	ekonomiska	0	0
+Fåglarna flyger.	Птицы летают.	fåglarna	0	0
+Hon är online flera timmar varje dag.	Она находится онлайн по несколько часов каждый день.	online	0	0
+Jag skriver en uppsats om franska revolutionen.	Я пишу доклад о французской революции.	revolutionen	0	0
+Åldern spelar ingen roll.	Возраст не имеет значения.	åldern	0	0
+Hans fru födde tvillingar.	У его жены родились близнецы.	tvillingar	0	0
+Han gnäller alltid på dålig medicinsk behandling.	Он постоянно жалуется на плохое медицинское обслуживание.	medicinsk	0	0
+Vi träffades under ett ensamt träd.	Мы встретились под одиноким деревом.	ensamt	0	0
+Ansökan avslogs.	Заявка была отклонена.	ansökan	0	0
+Du får inte smita.	Тебе не удастся сбежать.	smita	0	0
+Hon log åt sig själv i spegeln.	Она улыбнулась своему отражению в зеркале.	log	0	0
+Påvens sändebud hade inte anlänt ännu.	Посланник Папы ещё не прибыл.	anlänt	0	0
+EU har 24 officiella språk.	В ЕС 24 официальных языка.	officiella	0	0
+Det ligger en bok om dans på skrivbordet.	На столе лежит книга о танце.	skrivbordet	0	0
+Det var lätt att gissa Toms lösenord.	Пароль Тома было легко угадать.	lösenord	0	0
+Han har på sig strumpor och skor.	Он носит носки и ботинки.	strumpor	0	0
+Vem kommer att vinna i Ohio?	Кто победит в Огайо?	ohio	0	0
+Tom är trogen Mary.	Том верен Мэри.	trogen	0	0
+Skolans nivå är hög.	У школы высокий уровень.	skolans	0	0
+Nu är det dags för mig att krypa till kojs.	Мне пора в постель.	krypa	0	0
+Ukraina påbjöds allmän mobilisering.	Украина объявляет всеобщую мобилизацию.	allmän	0	0
+Jag har tappat bort mitt bagage.	Я потеряла багаж.	bagage	0	0
+Hon tittade storögt på slottets storslagna väggar.	Она широко раскрытыми глазами смотрела на великолепные стены замка.	väggar	0	0
+Han somnade in från en evig dvala.	Он уснул вечным сном.	evig	0	0
+Fortsätt bara denna gata framåt ungefär 200 meter.	Просто продолжай идти прямо по этой улице примерно двести метров.	gata	0	0
+Människor har stora hjärnor.	У людей большой мозг.	hjärnor	0	0
+Under förhöret bekände han sin skuld.	Во время допроса он признал свою вину.	förhöret	0	0
+"Jag kan rita en perfekt cirkel på fri hand." "Ha! Det skulle jag bra gärna vilja se!"	"Я могу нарисовать идеальный круг от руки" - "Ха! Я хотел бы на это взглянуть!".	cirkel	0	0
+En gammal man vilade sig i skuggan av trädet.	Старик отдыхал в тени дерева.	skuggan	0	0
+Lägg inte plånboken på elementet.	Не клади кошелёк на батарею.	plånboken	0	0
+Han drunknade nästan i floden.	Он чуть не утонул в реке.	drunknade	0	0
+Han har vaknat Tom.	Он разбудил Тома.	vaknat	0	0
+Påven Francis återvänder till Rio år 2016.	Папа римский Франциск вернется в Рио в 2016.	påven	0	0
+Ät dina grönsaker.	Ешь свои овощи.	grönsaker	0	0
+Ge mig en torr handduk!	Дай мне сухое полотенце!	handduk	0	0
+Hur är det? Jag har inte sett dig på evigheter!	Как дела? Я тебя сто лет не видела!	evigheter	0	0
+Det läker av sig själv.	Само заживёт.	läker	0	0
+Han försökte att studera hela natten, dock i onödan.	Он пытался заниматься всю ночь, но тщетно.	onödan	0	0
+Vi känner till legenden om Robin Hood.	Мы знаем легенду о Робине Гуде.	legenden	0	0
+Han stekte pannkakor i en gjutjärnspanna.	Он жарил блины на чугунной сковородке.	pannkakor	0	0
+Vilken anskrämlig soffa.	Какой отвратительный диван.	soffa	0	0
+Påven Francis återvänder till Rio år 2016.	Папа римский Франциск вернется в Рио в 2016.	rio	0	0
+Det är förbjudet att vistas innanför avspärrningarna.	Находиться внутри заграждения запрещено.	innanför	0	0
+Kati Wolf är en ungersk sångerska.	Кати Вольф — венгерская певица.	wolf	0	0
+Författaren av den här boken har aldrig varit i Ryssland.	Автор этой книги никогда не был в России.	författaren	0	0
+Vindruvorna är så sura att jag inte kan äta dem.	Виноград настолько кислый, что я не могу его есть.	sura	0	0
+Tom är blond.	Том блондин.	blond	0	0
+Stackare!	Бедняга!	stackare	0	0
+Hon spenderade slut på sina pengar.	Она истратила все свои деньги.	spenderade	0	0
+Egypten är en gåva av Nilen.	Египет – дар Нила.	egypten	0	0
+Paula måste hjälpa hennes pappa i köket.	Пауле нужно помочь отцу на кухне.	paula	0	0
+Hon är väldigt rädd för ormar.	Она ужасно боится змей.	ormar	0	0
+Han har tio kor.	У него десять коров.	kor	0	0
+Kungen lät avrätta sin älskarinna.	Король казнил свою любовницу.	älskarinna	0	0
+Geparden är det snabbaste djuret i världen.	Гепард - самое быстрое животное в мире.	djuret	0	0
+Han stod vid ingången.	Он стоял у входа.	ingången	0	0
+Jag måste ha passerat stationen medan jag tog en tupplur.	Должно быть, я проехал станцию, когда задремал.	passerat	0	0
+Hon är en person som kan konsten att vända motgång till framgång.	Она человек, который обладает искусством превращать невзгоды в успех.	konsten	0	0
+Jag har biljetterna.	Билеты у меня.	biljetterna	0	0
+En droppe blod föll till marken.	Капля крови упала на землю.	droppe	0	0
+Katten stirrade intensivt på honom med sina stora, runda, blåa ögon.	Кошка пристально смотрела на него своими большими круглыми голубыми глазами.	stirrade	0	0
+Hon vänsterprasslar med grannen.	Она изменяет с соседом.	grannen	0	0
+Tiga är guld.	Молчание - золото.	tiga	0	0
+Vet du var fru Hudson bor?	Знаешь ли ты, где живет миссис Хадсон?	hudson	0	0
+Min far lyssnar på klassisk musik.	Мой отец слушает классическую музыку.	klassisk	0	0
+Vi känner till legenden om Robin Hood.	Мы знаем легенду о Робине Гуде.	hood	0	0
+Jag kommer från Norge.	Я из Норвегии.	norge	0	0
+Jag bad Gud om en cykel, men jag insåg att det var inte hans metod. Så jag stal en cykel och bad Gud om förlåtelse.	Я попросил у Бога велосипед, но понял, что это не его метод. Поэтому я украл велосипед и попросил у Бога прощения.	metod	0	0
+Mitt korttidsminne blir kortare och kortare.	Моя кратковременная память становится всё короче и короче.	kortare	0	0
+Mary födde ett barn i hemlighet.	Мария тайно родила ребенка.	födde	0	0
+Tre öl och en tequila tack!	Три пива и одну текилу, пожалуйста!	tequila	0	0
+Vatten kokar vid hundra grader.	Вода кипит при ста градусах.	kokar	0	0
+Gud är en elefant.	Бог — слон.	elefant	0	0
+Geparden är det snabbaste djuret i världen.	Гепард - самое быстрое животное в мире.	snabbaste	0	0
+Landet har gemensamma gränser med två andra länder.	Страна имеет границу с двумя другими странами.	gemensamma	0	0
+Han klär sig som en gentleman, men han talar och uppför sig som en clown.	Он одевается как джентльмен, но разговаривает и ведёт себя как клоун.	clown	0	0
+Tack för gåvan. Det är precis vad jag önskade mig.	Спасибо за подарок. Это именно то, что я хотел.	gåvan	0	0
+Han kände medlidande med oss.	Ему было нас жалко.	medlidande	0	0
+Melanie dödade oavsiktligt en fluga.	Мелани не нарочно убила муху.	melanie	0	0
+Alla dörrar i huset var stängda.	Все двери в доме были закрыты.	stängda	0	0
+Det finns en smörgås här.	Тут есть бутерброд.	smörgås	0	0
+Jag är från Tokyo, Japan.	Я из Токио, Япония.	tokyo	0	0
+Jag ska inte förråda Tom.	Я не предам Тома.	förråda	0	0
+Hon lärde sig latin i skolan.	Она изучала латынь в школе.	latin	0	0
+Min syster leker med dockan.	Моя сестра играет с куклой.	dockan	0	0
+Lagom, tack!	Достаточно, спасибо!	lagom	0	0
+Moder Teresa föddes i Jugoslavien år 1910.	Мать Тереза ​​родилась в Югославии в 1910 году.	teresa	0	0
+Vi har överlevt ännu en kall vinter.	Мы пережили ещё одну холодную зиму.	vinter	0	0
+Nyfikenhet dödade katten.	Любопытство кошку сгубило.	nyfikenhet	0	0
+Jag måste bege mig nu.	Я должен сейчас уйти.	bege	0	0
+Vi ska mötas på stationen klockan nio.	Мы встречаемся на станции в девять.	mötas	0	0
+Där blev han anfallen av rebellerna.	Там на него напали повстанцы.	rebellerna	0	0
+Jag måste ha passerat stationen medan jag tog en tupplur.	Должно быть, я проехал станцию, когда задремал.	tupplur	0	0
+Köpenhamn är Danmarks huvudstad.	Копенгаген - столица Дании.	köpenhamn	0	0
+De diskuterade problemet.	Они обсуждали проблему.	diskuterade	0	0
+Du kan klicka på pennan för att ändra meningar i efterhand.	Ты можешь нажать на ручку, чтобы позже изменить предложение.	pennan	0	0
+Företaget gick i konkurs.	Предприятие обанкротилось.	konkurs	0	0
+Jag instämmer.	Я согласен.	instämmer	0	0
+Tjuven bröt upp fönstret.	Вор разбил окно.	tjuven	0	0
+Han är istadig som en åsna.	Он упёртый, как осёл.	åsna	0	0
+Inget är viktigare än medkänsla.	Нет ничего важнее, чем сострадание.	medkänsla	0	0
+Fastän det låter märkligt är det sant det hon sade.	Хотя это звучит странно, но то, что она сказала - правда.	fastän	0	0
+Min kudde är så mjuk!	Моя подушка такая мягкая!	kudde	0	0
+Min mamma jobbar på fabrik.	Моя мама работает на заводе.	fabrik	0	0
+Vi åker när det slutat regna.	Мы пойдём, когда кончится дождь.	regna	0	0
+Dimman var så tjock att jag inte kunde se vart jag var på väg.	Туман был настолько густым, что я не мог видеть, куда иду.	dimman	0	0
+Far ska opereras.	Отцу предстоит операция.	opereras	0	0
+Grekiska är inget lätt språk.	Греческий - язык непростой.	grekiska	0	0
+Tom är min tandläkare.	Том мой дантист.	tandläkare	0	0
+Får jag besvära Er med en anhållan?	Могу я побеспокоить Вас одной просьбой?	besvära	0	0
+Varför ignorerar Tom mig?	Почему Том меня игнорирует?	ignorerar	0	0
+Får den här lådan plats i skåpbilen?	Есть ли место для этого ящика в фургоне?	skåpbilen	0	0
+Var finns det en flygplats?	Где аэропорт?	flygplats	0	0
+Hur effektiv är den?	Насколько это эффективно?	effektiv	0	0
+När var det du klippte dig senast?	Когда ты последний раз стригся?	klippte	0	0
+Håll avståndet.	Соблюдай дистанцию.	avståndet	0	0
+Gapa.	Открой рот.	gapa	0	0
+Stadens snabba tillväxt överraskade oss.	Мы были удивлены стремительным ростом города.	överraskade	0	0
+Jag föreslog honom att hon skulle bli inbjuden till festen.	Я предложил ему пригласить её на праздник.	inbjuden	0	0
+Jag klarar inte av synen av blod.	Я не выношу вида крови.	synen	0	0
+Jag protesterade när kyparen försökte ta min tallrik.	Я запротестовала, когда официант попытался забрать мою тарелку.	tallrik	0	0
+Hon har precis genomgått en abort.	Она только что сделала аборт.	abort	0	0
+Han lade steken i frysen.	Он положил стейки в морозилку.	frysen	0	0
+Har du någonsin kysst en pojke?	Ты когда-нибудь целовала мальчика?	kysst	0	0
+De antog förslaget.	Они приняли предложение.	förslaget	0	0
+Vilken årstid gillar du mest, våren eller hösten?	Какое время года тебе нравится больше, весна или осень?	hösten	0	0
+Jag fångade en fluga.	Я поймал муху.	fluga	0	0
+Glad internationell kvinnodag.	С Восьмым марта!	internationell	0	0
+Tom är Marys svåger.	Том — зять Мэри.	svåger	0	0
+Jag köper bara mjukt toalettpapper.	Я покупаю только мягкую туалетную бумагу.	mjukt	0	0
+Katten stirrade intensivt på honom med sina stora, runda, blåa ögon.	Кошка пристально смотрела на него своими большими круглыми голубыми глазами.	blåa	0	0
+Vår tid är begränsad.	Наше время ограничено.	begränsad	0	0
+Alla eleverna kommer från USA.	Все студенты из США.	eleverna	0	0
+Jag gav Tom ett äpple.	Я дала Тому яблоко.	äpple	0	0
+Jag fick en rutten en.	Мне попался гнилой.	rutten	0	0
+Vad har du för argument?	Каковы твои аргументы?	argument	0	0
+Invånarna på ön är vänliga.	Жители острова дружелюбны.	invånarna	0	0
+Antonio dolde spädbarnet i butiksvagnen.	Антонио спрятал младенца в тележке для покупок.	dolde	0	0
+Det är förbjudet att framföra fordon här.	Здесь запрещено передвигаться на транспортном средстве.	framföra	0	0
+Har du en djup tallrik till soppan?	У тебя есть глубокая тарелка для супа?	soppan	0	0
+Han gillar att sjunga populära sånger.	Ему нравится петь популярные песни.	sånger	0	0
+Vilken tid avgår bussen till flygplatsen?	Когда идёт экспресс до аэропорта?	avgår	0	0
+Kom snarast möjligt.	Приходи как можно скорее.	snarast	0	0
+Marina är från Ryssland och Clarissa är från Sverige.	Марина из России, а Кларисса - из Швеции.	marina	0	0
+Han gillar att sjunga populära sånger.	Ему нравится петь популярные песни.	populära	0	0
+Vilket land är störst, Japan eller England?	Какая страна больше, Япония или Англия?	störst	0	0
+Det finns lite mjölk kvar i kylskåpet.	В холодильнике осталось немного молока.	kylskåpet	0	0
+Allan har lämnat oss.	Аллан покинул нас.	allan	0	0
+Två personer kommer in på den här biljetten.	По этому билету могут пройти два человека.	biljetten	0	0
+Han skilde äggulan från äggvitan.	Он отделил желток от белка.	skilde	0	0
+Skulle du kunna skriva ner länken till den sajten?	Не мог бы ты записать ссылку на этот сайт?	länken	0	0
+Björnar älskar bär.	Медведи любят ягоды.	björnar	0	0
+Brukar du öva på din handstil?	Ты работаешь над улучшением своего почерка?	handstil	0	0
+Han har målat av en hund.	Он нарисовал собаку.	målat	0	0
+Mörker är frånvaro av ljus.	Тьма - это отсутствие света.	frånvaro	0	0
+Jag tycker om att lyssna på musik, speciellt jazz.	Мне нравится слушать музыку, особенно джаз.	jazz	0	0
+Afrika är mänsklighetens vagga.	Африка является колыбелью человечества.	mänsklighetens	0	0
+Jag spelade tennis hela dagen.	Я весь день играл в теннис.	tennis	0	0
+Var ligger Mississippi?	Где находится Миссисипи?	mississippi	0	0
+Jag kan inte stoppa blödningen.	Не могу остановить кровотечение.	blödningen	0	0
+Jag skriver en uppsats om franska revolutionen.	Я пишу доклад о французской революции.	uppsats	0	0
+Greta går till ambassaden.	Грета идёт в посольство.	greta	0	0
+Han gnäller alltid på dålig medicinsk behandling.	Он постоянно жалуется на плохое медицинское обслуживание.	gnäller	0	0
+Regnet stod som spön i backen.	Дождь полил как из ведра.	backen	0	0
+Mannen åt upp brödet.	Мужчина съел хлеб.	brödet	0	0
+Jag antog utmaningen.	Я принял вызов.	utmaningen	0	0
+Han har gjort en målning av en hund.	Он нарисовал собаку.	målning	0	0
+Vem åt den sista kakan?	Кто съел последнюю печеньку?	kakan	0	0
+Hon simmade.	Она плавала.	simmade	0	0
+Har han accepterat vår inbjudan?	Он принял наше приглашение?	accepterat	0	0
+Var är min ryggsäck?	Где мой рюкзак?	ryggsäck	0	0
+Tom är odödlig.	Том бессмертен.	odödlig	0	0
+Det är det dummaste som jag någonsin sagt.	Это самая глупая вещь, которую я когда-либо говорил.	dummaste	0	0
+Chefen! Allt är borta! Gipset tas bort! Kunden går därifrån.	Шеф, всё пропало! Гипс снимают, клиент уезжает.	kunden	0	0
+Att skriva dagbok hjälper oss att minnas små, dagliga saker.	Ведение дневника помогает запоминать мелкие, повседневные вещи.	dagliga	0	0
+Vilken hylla är den på?	На какой он полке?	hylla	0	0
+Borsta dina tänder.	Почисть зубы.	borsta	0	0
+Varning! Vått golv.	Внимание! Скользкий пол.	golv	0	0
+Behöver ni lift?	Вас подвезти?	lift	0	0
+Vilken liten svans den där hunden har.	Какой же маленький хвостик у этой собаки.	svans	0	0
+Barnet är redan döpt.	Ребёнок уже принял крещение.	döpt	0	0
+Det där måste vara historiens rödaste finne.	Это, должно быть, самый красный прыщик в истории.	historiens	0	0
+Tom är från Mars, och Mary är från Venus.	Том с Марса, а Мэри с Венеры.	venus	0	0
+Min mage skriker av hunger.	Мой желудок урчит от голода.	hunger	0	0
+Skulle du kunna ögna igenom de där papperen lite?	Не мог бы ты взглянуть на эти бумаги?	papperen	0	0
+Han dömdes till livstids fängelse.	Он был приговорен к пожизненному заключению.	dömdes	0	0
+Ge mig en sked.	Дай мне ложку.	sked	0	0
+Denna skrivmaskin har använts mycket.	Этой печатной машинкой много пользовались.	använts	0	0
+Han är poet.	Он поэт.	poet	0	0
+Han låtsades vara sjuk, så att han kunde vara frånvarande från skolan.	Он притворился больным, чтобы не ходить в школу.	frånvarande	0	0
+Den gröna lampskärmen kastar ett varmt sken i rummet.	Зелёный абажур рассеивает по комнате тёплый свет.	sken	0	0
+Hon är gammal och erfaren.	Она старая и опытная.	erfaren	0	0
+Seoul är huvudstaden i Sydkorea.	Сеул является столицей Южной Кореи.	huvudstaden	0	0
+Det var fullmåne i går.	Вчера было полнолуние.	fullmåne	0	0
+Kungen lät avrätta sin älskarinna.	Король казнил свою любовницу.	avrätta	0	0
+Jag är trött på att vara pensionerad.	Я устал быть пенсионером.	pensionerad	0	0
+Det är bättre att ta det säkra före det osäkra.	Осторожность никогда не бывает лишней.	osäkra	0	0
+Spindlar har inga öron.	У пауков нет ушей.	spindlar	0	0
+Vi har listat ut det.	Мы разобрались с этим.	listat	0	0
+John har en japansk bil.	У Джона есть японский автомобиль.	japansk	0	0
+Tom var komiker.	Том - комик.	komiker	0	0
+Kom när du besegrar onda drakar, erövrar alla slott och alla prinsessor.	Приходи, когда победишь всех злых драконов, завоюешь все замки и всех принцесс.	drakar	0	0
+Han är emot rökning.	Он против курения.	rökning	0	0
+Har du sökt i arkivet?	Ты смотрел в архиве?	arkivet	0	0
+Bill Gates är världens rikaste man.	Билл Гейтс - самый богатый человек в мире.	gates	0	0
+Bromsa.	Притормози!	bromsa	0	0
+Jag tycker att du är lite för noggrann.	Я думаю, что ты слишком осторожный.	noggrann	0	0
+Tom svetsade samman de två rören.	Том сварил две трубы.	rören	0	0
+Är du en sångare?	Ты певец?	sångare	0	0
+Hunden kom tillbaka helt avmagrad efter två veckor på rymmen.	Собака вернулась полностью истощенной после двух недель побега.	rymmen	0	0
+Endast två saker är oändliga: universum och människans enfaldighet, och jag är inte säker gällande den första.	Только две вещи бесконечны - вселенная и человеческая глупость, и насчёт первой я не уверен.	oändliga	0	0
+Hon ser ut som en grekisk gudinna.	Она похожа на греческую богиню.	gudinna	0	0
+De använder teleskop för att betrakta himlen.	Они используют телескоп для наблюдения за небом.	betrakta	0	0
+Katten stirrade intensivt på honom med sina stora, runda, blåa ögon.	Кошка пристально смотрела на него своими большими круглыми голубыми глазами.	intensivt	0	0
+Har du redan bokat våra platser på flygplanet?	Ты уже забронировал наши места в самолете?	flygplanet	0	0
+De frös ut henne.	Они заморозили её.	frös	0	0
+De är korta och smala.	Они короткие и узкие.	smala	0	0
+Vi kysstes bara.	Мы только поцеловались.	kysstes	0	0
+Han är bra på att imitera hennes irländska accent.	Он хорошо изображает её ирландский акцент.	irländska	0	0
+Många träd tappar sina löv på vintern.	Многие деревья сбрасывают листву зимой.	löv	0	0
+Maja Keuc är en slovensk sångerska.	Майа Кеуц — словенская певица.	maja	0	0
+Ge mig tusen kyssar.	Дай мне тысячу поцелуев.	kyssar	0	0
+De två männen var kompanjoner.	Двое мужчин были деловыми партнёрами.	kompanjoner	0	0
+Jag gjorde några ändringar.	Я внёс некоторые изменения.	ändringar	0	0
+Han har solglasögon.	На нём солнечные очки.	solglasögon	0	0
+Kan du hjälpa mig att diska?	Можешь помочь мне с посудой?	diska	0	0
+Får man fotografera här?	Здесь можно фотографировать?	fotografera	0	0
+Var ligger den danska ambassaden?	Где находится датское посольство?	danska	0	0
+Elefanter är enorma djur.	Слоны - огромные животные.	elefanter	0	0
+Hälsan är det viktigaste i livet.	Здоровье - это самое главное в жизни.	hälsan	0	0
+Tom är adopterad.	Том усыновлён.	adopterad	0	0
+Jag studerar spanska den här terminen.	В этом семестре я изучаю испанский.	terminen	0	0
+Bill Gates är världens rikaste man.	Билл Гейтс является самым богатым человеком в мире.	rikaste	0	0
+Lokalen har nu legat i träda ett tag.	Помещением уже некоторое время не пользовались.	lokalen	0	0
+Jag pluggade en stund i morse.	Я немного позанималась утром.	pluggade	0	0
+En jordbävning förstörde byggnaden.	Землетрясение разрушило здание.	jordbävning	0	0
+Det svider till, men sedan går det över.	Поболит и перестанет.	svider	0	0
+Var parkerade du bilen?	Где ты припарковал машину?	parkerade	0	0
+Huset inrymmer femtio lägenheter.	В доме пятьдесят квартир.	lägenheter	0	0
+Frys!	Замри!	frys	0	0
+New York är en av de största städerna i världen.	Нью-Йорк - один из крупнейших городов в мире.	städerna	0	0
+Han är bra på att imitera hennes irländska accent.	Он хорошо изображает её ирландский акцент.	accent	0	0
+Hur mäter jag min midja och höft?	Как мне измерить талию и бедра?	mäter	0	0
+Han var väldigt tålmodig.	Он был очень терпелив.	tålmodig	0	0
+Ta av dig slipsen.	Сними галстук.	slipsen	0	0
+Fattigdom är ingen skam.	Бедность не порок.	fattigdom	0	0
+Teven fungerar inte.	Телевизор не работает.	teven	0	0
+Finland var en del av Ryssland åren 1809–1917.	Финляндия была частью России в 1809-1917 годах.	finland	0	0
+Det är förbjudet att vistas innanför avspärrningarna.	Находиться внутри заграждения запрещено.	vistas	0	0
+Boten skall betalas i kontanter.	Штраф нужно заплатить наличными.	betalas	0	0
+Detta är mannen vars resväska jag fann.	Это тот человек, чей чемодан я нашёл.	resväska	0	0
+Han läste papperet upp och ned.	Он читал газету вверх ногами.	papperet	0	0
+Dörren öppnades långsamt.	Дверь открылась медленно.	öppnades	0	0
+Tom vittnade under Marys rättegång.	Том был свидетелем в суде по делу Мэри.	vittnade	0	0
+När man talar om trollen!	Помяни черта, он и появится!	trollen	0	0
+Detta är ett historiskt ögonblick.	Это исторический момент.	historiskt	0	0
+Apor gillar bananer.	Обезьяны любят бананы.	bananer	0	0
+Orkanen Sandy är på väg.	Надвигается ураган Сэнди.	orkanen	0	0
+Du bör låta din son bli självständig.	Ты должен позволить своему сыну стать самостоятельным.	självständig	0	0
+Jag är aldrig hemma på söndagar.	Я никогда не бываю дома по воскресеньям.	söndagar	0	0
+Tecknet visar att svaret är rätt.	Это знак, что ответ правильный.	tecknet	0	0
+När de möter varandra, grälar de utan undantag.	Они всегда ссорятся при встрече.	grälar	0	0
+Tom är inte vegetarian.	Том не вегетарианец.	vegetarian	0	0
+Vad sägs om lite fika?	Как насчёт небольшого перекуса?	fika	0	0
+Jag har aldrig sett ett rött kylskåp.	Я никогда не видел красных холодильников.	kylskåp	0	0
+Det är troligtvis hemsökt.	Наверное, там обитают привидения.	hemsökt	0	0
+Var är din spade?	Где твоя лопата?	spade	0	0
+Vi bakar kakor.	Мы печём торты.	bakar	0	0
+Under den stalinistiska eran blev fångar i koncentrationsläger slavar i statens tjänst.	В сталинскую эпоху заключённые в концентрационных лагерях становились рабами на службе государства.	statens	0	0
+Det kan jag se med blotta ögat.	Это я могу видеть невооружённым глазом.	blotta	0	0
+Välkommen till Syrien!	Добро пожаловать в Сирию!	syrien	0	0
+Det regnade inte i går.	Вчера дождя не было.	regnade	0	0
+Australien är inte Österrike.	Австралия не Австрия.	österrike	0	0
+Kom när du besegrar onda drakar, erövrar alla slott och alla prinsessor.	Приходи, когда победишь всех злых драконов, завоюешь все замки и всех принцесс.	besegrar	0	0
+Den här bäcken svämmar över varje vår.	Каждую весну этот ручей переполняется.	bäcken	0	0
+Konflikter finns på alla arbetsplatser.	Конфликты имеют место на каждом рабочем месте.	konflikter	0	0
+Tom var ogift.	Том был холостяком.	ogift	0	0
+Jag beundrade hans generositet.	Я восхищался его щедростью.	beundrade	0	0
+Jag blev bortförd av utomjordingar.	Я был похищен инопланетянами.	bortförd	0	0
+I morgon ska jag åka till Shanghai.	Завтра я еду в Шанхай.	shanghai	0	0
+Tom är min systerson.	Том - сын моей сестры.	systerson	0	0
+Han förlät sin fiende.	Он простил своего врага.	förlät	0	0
+Jag använder Google nästan varje dag.	Я пользуюсь Гуглом почти каждый день.	google	0	0
+Varför köpte du en sköldpadda?	Зачем ты купил черепаху?	sköldpadda	0	0
+Det är förnedrande för henne.	Это унизительно для неё.	förnedrande	0	0
+Trevligt att höra att ni använder så artigt tilltal till en katt. Katter blir annars alltid duade, fast ingen katt någonsin har druckit duskål med någon.	Приятно слышать, что вы так вежливо обращаетесь с котом. Котам обычно почему-то говорят "ты", хотя ни один кот никогда ни с кем не пил брудершафта.	artigt	0	0
+Läkaren rådde honom att sluta röka.	Врач посоветовал ему бросить курить.	rådde	0	0
+Tuppen är stolt över sin kam.	Петух гордится своим гребешком.	kam	0	0
+Tom älskade Marias franska brytning.	Том любил французский акцент Марии.	brytning	0	0
+Det här äpplet smakar dåligt.	Это плохое яблоко.	äpplet	0	0
+Hur många delfiner finns det på detta oceanarium?	Сколько дельфинов в этом океанариуме?	delfiner	0	0
+Det var få elever kvar i klassrummet.	В классе оставалось мало учеников.	klassrummet	0	0
+Ett gäng maskerade män attackerade Tom.	На Тома напала банда в масках.	maskerade	0	0
+Jag drack en kopp kaffe på ett kafé i Stockholm.	Я выпил чашку кофе в кафе в Стокгольме.	kafé	0	0
+Vad består aspirin av?	Из чего состоит аспирин?	aspirin	0	0
+Lokalen har nu legat i träda ett tag.	Помещением уже некоторое время не пользовались.	träda	0	0
+Han är kanske fransman.	Может быть, он француз.	fransman	0	0
+Det klappar på dörren.	В дверь стучат.	klappar	0	0
+Du kan klicka på pennan för att ändra meningar i efterhand.	Ты можешь нажать на ручку, чтобы позже изменить предложение.	meningar	0	0
+Sydde du den här för hand?	Ты сшил это вручную?	sydde	0	0
+En förkylning gjorde honom sängliggande.	Из-за простуды он оставался в постели.	förkylning	0	0
+Vi är döva.	Мы глухие.	döva	0	0
+Hon ser ut som en grekisk gudinna.	Она похожа на греческую богиню.	grekisk	0	0
+Hon slöt sina ögon.	Она закрыла глаза.	slöt	0	0
+Duka!	Накрывай на стол!	duka	0	0
+Hon har ett väldigt häftigt temperament.	У неё очень крутой нрав.	temperament	0	0
+Jag iakttar gärna folk.	Я люблю смотреть на людей.	iakttar	0	0
+Brevets innehåll var hemligt.	Содержание письма было секретным.	innehåll	0	0
+Bratislava är Slovakiens huvudstad.	Братислава - столица Словакии.	huvudstad	0	0
+I Europa och Amerika ser de hunden som en familjemedlem.	В Европе и Америке собаку считают членом семьи.	familjemedlem	0	0
+Jupiter är en planet.	Юпитер - это планета.	jupiter	0	0
+Norska liknar svenska och danska.	Норвежский похож на шведский и датский.	norska	0	0
+Jag gick i samma klass som henne på högstadiet och gymnasiet.	Мы были в одном классе в гимназии.	högstadiet	0	0
+Hon har astma.	У нее астма.	astma	0	0
+Allting har ett pris, det goda visar sig vara dyrare än det onda.	У всего есть своя цена, хорошее дороже плохого.	dyrare	0	0
+Ärligt talat så är hon en opålitlig typ.	Честно говоря, она ненадёжна.	opålitlig	0	0
+Vår lärare är alltid i tid till lektionerna.	Наш преподаватель всегда приходит вовремя на лекции.	lektionerna	0	0
+Listan är oändlig.	Список можно продолжать бесконечно.	oändlig	0	0
+Hon har varit utan anställning i sex månader nu.	Она уже полгода не работает.	anställning	0	0
+Påvens sändebud hade inte anlänt ännu.	Посланник Папы ещё не прибыл.	sändebud	0	0
+Pluto är en planet.	Плутон - это планета.	pluto	0	0
+Har du fått löneförhöjning igen?	Ты снова получил прибавку к зарплате?	löneförhöjning	0	0
+Det blev oavgjort.	Была ничья.	oavgjort	0	0
+Herr Wang kom till Japan för att studera japanska.	Господин Ванг прибыл в Японию, чтобы учить японский язык.	wang	0	0
+Weigongcuns tunnelbanestation har tre utgångar.	Станция пекинского метрополитена Вэйгунцунь имеет три выхода.	utgångar	0	0
+Jag älskar avsnitt som Tom förekommer i.	Мне нравятся серии, в которых появляется Том.	förekommer	0	0
+Jag gillar den långsamma rytmen i den där sången.	Мне нравится медленный ритм этой песни.	långsamma	0	0
+Hon hatade vanilj.	Она ненавидела ваниль.	vanilj	0	0
+Jag skulle vilja be om en översättare.	Я хотел бы попросить переводчика.	översättare	0	0
+Kan vi inte byta samtalsämne.	Мы не можем изменить тему.	samtalsämne	0	0
+Det är farligt att bo bredvid en vulkan.	Опасно жить около вулкана.	vulkan	0	0
+Han brast i gråt.	Он разразился слезами.	brast	0	0
+Behöver du paraply?	Вам нужен зонт?	paraply	0	0
+Han arbetar på ett laboratorium.	Он работает в лаборатории.	laboratorium	0	0
+Skeppet var på väg till Kairo.	Корабль направлялся в Каир.	kairo	0	0
+Internet är en labyrint.	Интернет - это лабиринт.	labyrint	0	0
+Strävan efter sanning är beundransvärd.	Стремление к истине достойно восхищения.	strävan	0	0
+Helga är ett svenskt namn.	Хельга — шведское имя.	helga	0	0
+Disneyland var mycket intressant. Du borde ha följt med oss.	В Диснейленде было очень интересно. Тебе следовало пойти с нами.	disneyland	0	0
+Om du vill köpa ett koppel, gå till en zooaffär.	Если ты хочешь купить поводок, иди в зоомагазин.	koppel	0	0
+Jag beundrade hans generositet.	Я восхищалась его щедростью.	generositet	0	0
+Är detta en hingst eller ett sto?	Это жеребец или кобыла?	hingst	0	0
+Djurparken är öppen.	Зоопарк открыт.	djurparken	0	0
+För motivation krävs ofta intresse.	Для мотивации часто необходим интерес.	motivation	0	0
+Han dömdes till livstids fängelse.	Он был приговорен к пожизненному заключению.	livstids	0	0
+Vampyren suger mitt blod.	Вампир сосёт мою кровь.	vampyren	0	0
+Anfallaren gjorde ett mål i omklädningsrummet.	Нападающий забил гол в раздевалку.	omklädningsrummet	0	0
+Ukraina påbjöds allmän mobilisering.	Украина объявляет всеобщую мобилизацию.	ukraina	0	0
+Sjutton gastar på död mans kista. - Hej och hå och en flaska med rom!	Семнадцать человек на сундук мертвеца, Йо-хо-хо, и бутылка рому!	hå	0	0
+Jag har trög mage.	У меня вялый живот.	trög	0	0
+Mitt livs ljus slocknar snart.	Свеча моей жизни скоро потухнет.	slocknar	0	0
+Han är mycket skicklig på att teckna.	У него большой опыт в рисовании.	teckna	0	0
+Det finns inga vilda isbjörnar i Norden.	В скандинавских странах нет диких белых медведей.	norden	0	0
+Mitt namn är Ludvig.	Меня зовут Людвиг.	ludvig	0	0
+Vi är bjudna på middag.	Мы приглашены на обед.	bjudna	0	0
+Toms dröm är att bli rik.	Том мечтает стать очень богатым.	toms	0	0
+Du kan klicka på pennan för att ändra meningar i efterhand.	Ты можешь нажать на ручку, чтобы позже изменить предложение.	klicka	0	0
+Skorna skavde så att hon fick sår på hälarna.	Обувь натирала так, что у неё появились мозоли на пятках.	hälarna	0	0
+Var är han född och uppvuxen?	Где он родился и вырос?	uppvuxen	0	0
+Maja Keuc är en slovensk sångerska.	Майа Кеуц — словенская певица.	sångerska	0	0
+Jag översätter inte romaner längre.	Я больше не перевожу романы.	romaner	0	0
+Ni måste vara försiktigare.	Вы должны быть осторожнее.	försiktigare	0	0
+Jag gillar den långsamma rytmen i den där sången.	Мне нравится медленный ритм этой песни.	rytmen	0	0
+Min pappa promenerar varje dag.	Мой папа прогуливается каждый день.	promenerar	0	0
+Några säger att han aldrig existerat.	Некоторые говорят, что он никогда не существовал.	existerat	0	0
+Det var ett oförlåtligt misstag.	Это была непростительная ошибка.	oförlåtligt	0	0
+Den finansiella situationen förvärras vecka för vecka.	Финансовая ситуация становится хуже неделя за неделей.	finansiella	0	0
+Hon tittade storögt på slottets storslagna väggar.	Она широко раскрытыми глазами смотрела на великолепные стены замка.	storslagna	0	0
+Bryt chokladen i små bitar.	Разломайте шоколад на маленькие кусочки.	chokladen	0	0
+Mitt fullständiga namn är Ricardo Vernaut Junior.	Моё полное имя — Рикардо Вернаут-младший.	ricardo	0	0
+Stockholm är Sveriges huvudstad.	Стокгольм - это столица Швеции.	sveriges	0	0
+Det ligger en apelsin på bordet.	На столе лежит апельсин.	apelsin	0	0
+Han föll ner i den bottenlösa gropen.	Он упал в бездонную яму.	gropen	0	0
+Varning! Vått golv.	Внимание! Скользкий пол.	vått	0	0
+Luft är osynligt.	Воздух невидим.	osynligt	0	0
+Tom investerade sina pengar i aktier.	Том вложил свои деньги в акции.	investerade	0	0
+Våran trädgård var full av ogräs.	В нашем саду было полно сорняков.	ogräs	0	0
+Där blev han anfallen av rebellerna.	Там на него напали повстанцы.	anfallen	0	0
+Stadens snabba tillväxt överraskade oss.	Мы были удивлены стремительным ростом города.	tillväxt	0	0
+Jag har alla världens länders flaggor.	У меня есть флаги каждой страны мира.	flaggor	0	0
+Vi skyndade oss, så att vi hann med den sista bussen.	Мы спешили, чтобы успеть на последний автобус.	skyndade	0	0
+Ni är så ondskefulla!	Вы такие злые!	ondskefulla	0	0
+Dörrklockan ringde.	Зазвонил дверной звонок.	dörrklockan	0	0
+Ungerskan är avlägset besläktad med finskan.	Венгерский язык - дальний родственник финского языка.	avlägset	0	0
+De har köpt nya högtalare.	Они купили новые колонки.	högtalare	0	0
+Hon har precis genomgått en abort.	Она только что сделала аборт.	genomgått	0	0
+Jag cyklade enhjuling idag.	Я сегодня катался на одноколесном велосипеде.	cyklade	0	0
+Lägenheten är utrustad med splitter ny kyl och frys.	Квартира оснащена совершенно новым холодильником с морозильной камерой.	kyl	0	0
+Köttbullar skulle vara lagom stora, lagom runda och lagom bruna, säger Emils mor.	Фрикадельки должны быть в меру большие, в меру круглые и в меру поджаристые, говорит мама Эмиля.	köttbullar	0	0
+På två drag kommer Kasparov att ställa motståndaren i schack.	Через два хода Каспаров поставит сопернику шах.	motståndaren	0	0
+Klockan fyra går hon till frisören.	В четыре часа она идёт в парикмахерскую.	frisören	0	0
+Det finns öar i havet.	В море есть острова.	öar	0	0
+Marina är från Ryssland och Clarissa är från Sverige.	Марина из России, а Кларисса - из Швеции.	clarissa	0	0
+Många vackra blommor blommar på våren.	Множество прелестных цветов расцветают весной.	blommar	0	0
+Redan tanken på att han skulle lämna honom gav honom en stor klump i halsen.	Сама мысль о том, что он бросит его, вызывала у него появление кома в горле.	klump	0	0
+Hur mäter jag min midja och höft?	Как мне измерить талию и бедра?	höft	0	0
+De har goda förbindelser med grannländerna.	У них хорошие отношения с соседними странами.	förbindelser	0	0
+Tom vittnade under Marys rättegång.	Том был свидетелем в суде по делу Мэри.	marys	0	0
+Vi har inget behov av assistans.	Нам не нужна помощь.	assistans	0	0
+Jag blev bortförd av rymdvarelser.	Я был похищен инопланетянами.	rymdvarelser	0	0
+Jag köpte två biljetter till Malmö.	Я купил два билета в Мальмё.	malmö	0	0
+Det är nästan dags för gästen att anlända.	Гости должны прийти с минуты на минуту.	anlända	0	0
+Han är bra på att imitera hennes irländska accent.	Он хорошо изображает её ирландский акцент.	imitera	0	0
+Fågeln vippar på stjärten.	Птичка трясёт хвостом.	stjärten	0	0
+De använder teleskop för att betrakta himlen.	Они используют телескоп для наблюдения за небом.	teleskop	0	0
+En gammal man vilade sig i skuggan av trädet.	Старик отдыхал в тени дерева.	vilade	0	0
+Melanie dödade oavsiktligt en fluga.	Мелани не нарочно убила муху.	oavsiktligt	0	0
+Mitt fullständiga namn är Ricardo Vernaut Junior.	Моё полное имя — Рикардо Вернаут-младший.	fullständiga	0	0
+Är du hemma i morgon vid lunchtid?	Ты будешь завтра дома в обеденное время?	lunchtid	0	0
+Du kan klicka på pennan för att ändra meningar i efterhand.	Ты можешь нажать на ручку, чтобы позже изменить предложение.	efterhand	0	0
+Sköldpaddan dog.	Черепаха умерла.	sköldpaddan	0	0
+Att sträva efter sanning är beundransvärt.	Стремление к истине достойно восхищения.	beundransvärt	0	0
+Vilken lång gurka!	Какой длинный огурец!	gurka	0	0
+Mari och Maki är systrar.	Мари и Маки - сёстры.	mari	0	0
+Tom studerar arkitektur.	Том изучает архитектуру.	arkitektur	0	0
+Nunnorna sjunger.	Монахини поют.	nunnorna	0	0
+Jag kan inte finna min flickväns klitoris.	Я не могу найти клитор моей подружки.	flickväns	0	0
+Det är höjt över allt tvivel.	Это вне всяких сомнений.	höjt	0	0
+Skulle du kunna skriva ner länken till den sajten?	Не мог бы ты записать ссылку на этот сайт?	sajten	0	0
+Detta är inte acceptabelt.	Это недопустимо.	acceptabelt	0	0
+Jag protesterade när kyparen försökte ta min tallrik.	Я запротестовала, когда официант попытался забрать мою тарелку.	protesterade	0	0
+Till min förvåning så hade han en vacker röst.	К моему удивлению, у него был красивый голос.	förvåning	0	0
+Rödvin, tack.	Красное вино, пожалуйста.	rödvin	0	0
+Italien är omgivet av Medelhavet.	Италию окружает Средиземное море.	medelhavet	0	0
+Lägenheten är utrustad med splitter ny kyl och frys.	Квартира оснащена совершенно новым холодильником с морозильной камерой.	utrustad	0	0
+Många träd tappar löven på vintern.	Многие деревья сбрасывают листья зимой.	löven	0	0
+Denna skrivmaskin har använts mycket.	Этой печатной машинкой много пользовались.	skrivmaskin	0	0
+Afrika är mänsklighetens vagga.	Африка - колыбель человечества.	vagga	0	0
+Lägenheten är utrustad med splitter ny kyl och frys.	Квартира оснащена совершенно новым холодильником с морозильной камерой.	splitter	0	0
+Grönt är min favoritfärg.	Зелёный - мой любимый цвет.	favoritfärg	0	0
+Han sparkade mig på ballarna.	Он пнул меня по яйцам.	ballarna	0	0
+Generellt sett lever kvinnor längre än män.	Вообще говоря, женщины живут дольше, чем мужчины.	generellt	0	0
+Han tjänar ett leverne.	Он зарабатывает на жизнь.	leverne	0	0
+Jag protesterade när kyparen försökte ta min tallrik.	Я запротестовала, когда официант попытался забрать мою тарелку.	kyparen	0	0
+I år är det jag som har kokat knäcken.	В этом году я приготовил карамель из патоки.	kokat	0	0
+Jag uppskattar hennes uppriktighet.	Я ценю её искренность.	uppriktighet	0	0
+Under den stalinistiska eran blev fångar i koncentrationsläger slavar i statens tjänst.	В сталинскую эпоху заключённые в концентрационных лагерях становились рабами на службе государства.	koncentrationsläger	0	0
+Jag står inte ut med oljudet längre.	Я не могу больше терпеть этот шум.	oljudet	0	0
+Att sträva efter sanning är beundransvärt.	Стремление к истине достойно восхищения.	sträva	0	0
+Han började häva ur sig svordomar.	Он начал ругаться.	häva	0	0
+Vi visade honom bilder från Alperna.	Мы показали ему фотографии из Альп.	alperna	0	0
+Diplomerade imperialismens lakejer försöker att få en teoretisk grund för sina kannibalistiska praxis i kolonierna.	Дипломированные лакеи империализма пытаются подвести некую теоретическую базу под свою людоедскую практику в колониях.	kolonierna	0	0
+Oron avspeglades i hennes ansikte.	Тревога отразилась на её лице.	oron	0	0
+Kom och träffa några av dina nya klasskamrater.	Познакомьтесь с вашими новыми одноклассниками.	klasskamrater	0	0
+I begynnelsen skapade Gud himmel och jord.	В начале сотворил Бог небо и землю.	begynnelsen	0	0
+EU har 24 officiella språk.	В ЕС 24 официальных языка.	eu	0	0
+Det är nästan dags för gästen att anlända.	Гости должны прийти с минуты на минуту.	gästen	0	0
+Tom älskade Marias franska brytning.	Том любил французский акцент Марии.	marias	0	0
+Hemma talar vi turkiska.	Дома мы говорим по-турецки.	turkiska	0	0
+Han låg med slutna ögon på soffan.	Он лежал на кушетке с закрытыми глазами.	slutna	0	0
+Han började häva ur sig svordomar.	Он начал ругаться.	svordomar	0	0
+Den finansiella situationen förvärras vecka för vecka.	Финансовая ситуация становится хуже неделя за неделей.	förvärras	0	0
+Jag är socialarbetare.	Я соцработник.	socialarbetare	0	0
+Va köpte ru?	Что ты купил?	ru	0	0
+Uppgiftens värde är grundat i det som den innebär.	Ценность задачи заключается в выполнении.	grundat	0	0
+Jag köper bara mjukt toalettpapper.	Я покупаю только мягкую туалетную бумагу.	toalettpapper	0	0
+Skulle jag kunna få mer potatismos.	Можно мне еще пюре?	potatismos	0	0
+Du får inte vidröra konstverken.	Произведения искусства трогать нельзя.	vidröra	0	0
+Tuppen är stolt över sin kam.	Петух гордится своим гребешком.	tuppen	0	0
+Sami fortsatte försöka.	Он продолжал пытаться.	sami	0	0
+Min bror dog i en trafikolycka.	Мой брат погиб в автокатастрофе.	trafikolycka	0	0
+Det där måste vara historiens rödaste finne.	Это, должно быть, самый красный прыщик в истории.	finne	0	0
+En man hotade hivsmitta två sjuksköterskor.	Один человек угрожал заразить СПИДом двух медсестёр.	sjuksköterskor	0	0
+Jag kan inte finna min flickväns klitoris.	Я не могу найти клитор у своей подруги.	klitoris	0	0
+Jag översätter inte romaner längre.	Я больше не перевожу романы.	översätter	0	0
+Ge mig skeden.	Дай мне ложку.	skeden	0	0
+Sami hotade Layla med en kniv.	Сами угрожал Лейле ножом.	layla	0	0
+Bastun är varm, ifall någon vill gå.	Сауна горячая, если кто-то хочет пойти.	bastun	0	0
+Omedvetet spelade vi dem i händerna.	Невольно мы сыграли им на руку.	omedvetet	0	0
+Han är extremt pratsam.	Он очень разговорчив.	pratsam	0	0
+Tack på förhand.	Заранее спасибо.	förhand	0	0
+Det finns fem fiskar i mitt akvarium.	У меня в аквариуме пять рыбок.	akvarium	0	0
+Huvudstaden i Ukraina är Kiev.	Столица Украины - Киев.	kiev	0	0
+Varje år publiceras det många böcker.	Каждый год выходит много книг.	publiceras	0	0
+Polisen har arresterat tre personer för lördagens inbrott.	Полиция арестовала трех человек за кражу со взломом в субботу.	arresterat	0	0
+Vi trodde att det var ett flygande tefat.	Мы подумали, что это летающая тарелка.	tefat	0	0
+Apport!	Апорт!	apport	0	0
+Jag sover i genomsnitt sex timmar om dagen.	В среднем я сплю шесть часов в день.	genomsnitt	0	0
+De bor på landet på somrarna.	Летом они живут на даче.	somrarna	0	0
+Hen kan sjunga bra.	Он_а хорошо умеет петь.	hen	0	0
+Han är en programmerare.	Он программист.	programmerare	0	0
+Seoul är huvudstaden i Sydkorea.	Сеул - столица Южной Кореи.	seoul	0	0
+Jag är optimist.	Я оптимист.	optimist	0	0
+Vi behöver köpa vinäger.	Нам нужно купить уксус.	vinäger	0	0
+Kom när du besegrar onda drakar, erövrar alla slott och alla prinsessor.	Приходи, когда победишь всех злых драконов, завоюешь все замки и всех принцесс.	prinsessor	0	0
+Manuskript brinner inte.	Рукописи не горят.	manuskript	0	0
+Hon är en person som kan konsten att vända motgång till framgång.	Она человек, который обладает искусством превращать невзгоды в успех.	motgång	0	0
+Ibland besannas drömmen.	Мечты иногда сбываются.	besannas	0	0
+Moder Teresa föddes i Jugoslavien år 1910.	Мать Тереза ​​родилась в Югославии в 1910 году.	jugoslavien	0	0
+Sikten försämrades.	Видимость ухудшилась.	sikten	0	0
+Ska vi följas åt till skolan?	Ты пойдёшь со мной в школу?	följas	0	0
+Jag försökte att undanröja alla tvivel.	Я постарался развеять любые сомнения.	undanröja	0	0
+Dagen gryr.	Рассветает.	gryr	0	0
+Han lade steken i frysen.	Он положил стейки в морозилку.	steken	0	0
+Han somnade in från en evig dvala.	Он уснул вечным сном.	dvala	0	0
+Jag blev fullständigt genomblöt av regnskuren.	Я промок насквозь под дождём.	genomblöt	0	0
+Lägg inte plånboken på elementet.	Не клади кошелёк на батарею.	elementet	0	0
+Han sitter i isoleringscell.	Он сидит в одиночной камере.	isoleringscell	0	0
+Huset har sålts.	Дом был продан.	sålts	0	0
+Det finns en hållplats här.	Здесь есть автобусная остановка.	hållplats	0	0
+Din cykel är mycket nyare än min.	Твой велик гораздо новее моего.	nyare	0	0
+Jag är fransyska.	Я француженка.	fransyska	0	0
+Lider du av sömnlöshet?	Ты страдаешь от бессонницы?	sömnlöshet	0	0
+Har du borstat dina tänder?	Ты почистил зубы?	borstat	0	0
+När öppnar butikerna?	Когда открываются магазины?	butikerna	0	0
+Jag fick en skriftlig inbjudan.	Я получил письменное приглашение.	skriftlig	0	0
+Hur mäter jag min midja och höft?	Как мне измерить талию и бедра?	midja	0	0
+Köpenhamn är Danmarks huvudstad.	Копенгаген - столица Дании.	danmarks	0	0
+Det latinska substantivet "hortus" hör till o-deklinationen.	Латинское существительное «hortus» относится к o-склонению.	latinska	0	0
+Tom är ett intellektuellt begåvat barn.	Том — умственно одарённый ребёнок.	intellektuellt	0	0
+Hade han strukit sina byxor?	Он отутюжил свои брюки?	strukit	0	0
+Tom svettades.	Том потел.	svettades	0	0
+Han är taxichaufför.	Он таксист.	taxichaufför	0	0
+En spegel reflekterar ljus.	Зеркало отражает свет.	reflekterar	0	0
+Varför har koalor ingen navel?	Почему у коал нет пупка?	navel	0	0
+Helga är ett svenskt namn.	Хельга — шведское имя.	svenskt	0	0
+Påvens sändebud hade inte anlänt ännu.	Посланник Папы ещё не прибыл.	påvens	0	0
+Varför har du kommit till Malaysia?	Почему ты приехал в Малайзию?	malaysia	0	0
+Diplomerade imperialismens lakejer försöker att få en teoretisk grund för sina kannibalistiska praxis i kolonierna.	Дипломированные лакеи империализма пытаются подвести некую теоретическую базу под свою людоедскую практику в колониях.	teoretisk	0	0
+Meningen är en ordagrann översättning från engelskan. Så talar man egentligen inte.	Предложение — дословный перевод с английского. Так, в общем-то, не говорят.	engelskan	0	0
+Min bror har aldrig bestigit Mt Fuji.	Мой брат никогда не поднимался на гору Фудзи.	mt	0	0
+Mitt marsvin var min första flickvän.	Моя морская свинка была моей первой подругой.	marsvin	0	0
+De här hörlurarna fungerar inte.	Эти наушники не работают.	hörlurarna	0	0
+Få rätsida på tankarna.	Очисти свой разум.	rätsida	0	0
+Du kommer med undanflykter.	Ты тянешь время.	undanflykter	0	0
+Han hade inte den blekaste aning om hur gammal hans farmor var.	Он не имел ни малейшего представления, сколько лет его бабушке.	blekaste	0	0
+Diplomerade imperialismens lakejer försöker att få en teoretisk grund för sina kannibalistiska praxis i kolonierna.	Дипломированные лакеи империализма пытаются подвести некую теоретическую базу под свою людоедскую практику в колониях.	praxis	0	0
+Skådespelerskan har ett väldigt vackert namn.	У актрисы очень красивое имя.	skådespelerskan	0	0
+Servrarna är nere.	Серверы не работают.	servrarna	0	0
+I år är det jag som har kokat knäcken.	В этом году я приготовил карамель из патоки.	knäcken	0	0
+Du är karismatisk.	Ты харизматичен.	karismatisk	0	0
+Tom är en shaman.	Том — шаман.	shaman	0	0
+Nästa anhalt: Stockholm.	Следующая станция - Стокгольм.	anhalt	0	0
+Hämta min verktygslåda.	Принесите мой ящик с инструментами.	verktygslåda	0	0
+Han strödde lite socker på gröten.	Он посыпал кашу сахаром.	gröten	0	0
+Tom kunde inte lista ut hur han skulle få lådan öppnad.	Том не мог понять, как открыть коробку.	öppnad	0	0
+Hon är en tillförlitlig person.	Она надёжный человек.	tillförlitlig	0	0
+Han fick ett undvikande svar.	Ему дали уклончивый ответ.	undvikande	0	0
+Detta är ett akutfall.	Это срочный случай.	akutfall	0	0
+Jag sparar till en moped.	Я коплю на мопед.	moped	0	0
+Tom är plastikkirurg.	Том пластический хирург.	plastikkirurg	0	0
+Tom skar löken i halvringar.	Том порезал лук полукольцами.	löken	0	0
+Jag behöver en ordbok.	Мне нужен словарь.	ordbok	0	0
+Egypten är en gåva av Nilen.	Египет – дар Нила.	nilen	0	0
+Tom blev ofta retad i skolan.	В школе Тома часто дразнили.	retad	0	0
+Är du partisk?	Ты предвзят?	partisk	0	0
+De genomsökte huset.	Они обыскали дом.	genomsökte	0	0
+Vilken årstid gillar du mest, våren eller hösten?	Какое время года тебе нравится больше, весна или осень?	årstid	0	0
+Var är äpplena?	Где яблоки?	äpplena	0	0
+Under förhöret bekände han sin skuld.	Во время допроса он признал свою вину.	bekände	0	0
+Den här bokens författare har aldrig varit i Ryssland.	Автор этой книги никогда не был в России.	bokens	0	0
+Det var en gång en olycklig, glömsk kille vid namn James, som ständigt förväxlade Mary med Maria. Därför hatade Maria honom i själ och hjärta.	Жил-был несчастный забывчивый парень по имени Джеймс, который всё время путал Мэри с Марией. Мария за это ненавидела его всеми фибрами души.	glömsk	0	0
+Tom trollar bara.	Том просто троллит.	trollar	0	0
+Liisa är en aktiv och energisk ung kvinna.	Лиза - активная и энергичная молодая женщина.	energisk	0	0
+Skämt åsido!	Шутки в сторону!	åsido	0	0
+De var medlemmar av medelklassen.	Они принадлежали к среднему классу.	medelklassen	0	0
+I närheten finns ett postkontor.	Поблизости есть почтовое отделение.	postkontor	0	0
+Chefen! Allt är borta! Gipset tas bort! Kunden går därifrån.	Шеф, всё пропало! Гипс снимают, клиент уезжает.	gipset	0	0
+Abbedissan frågade Mary om hon var helt säker på att klosterlivet passar henne.	Аббатисса спросила у Мэри, совершенно ли та уверена, что ей подходит монастырская жизнь.	abbedissan	0	0
+Är detta en hingst eller ett sto?	Это жеребец или кобыла?	sto	0	0
+Den här bäcken svämmar över varje vår.	Каждую весну этот ручей переполняется.	svämmar	0	0
+Han har tio kossor.	У него десять коров.	kossor	0	0
+En förkylning gjorde honom sängliggande.	Из-за простуды он оставался в кровати.	sängliggande	0	0
+Det snöade.	Шёл снег.	snöade	0	0
+Strävan efter sanning är beundransvärd.	Стремление к истине достойно восхищения.	beundransvärd	0	0
+Det här läkemedlet passar inte mig.	Это лекарственное средство мне не подходит.	läkemedlet	0	0
+Barnen knuffades.	Дети толкались.	knuffades	0	0
+Kojan stacks i brand.	Хижина в огне.	kojan	0	0
+Hela historien är höljd i dunkel.	Вся история окутана тайной.	dunkel	0	0
+Ta ut avfallet.	Вынеси мусор.	avfallet	0	0
+Han antastade henne.	Он приставал к ней.	antastade	0	0
+Seoul är huvudstaden i Sydkorea.	Сеул - столица Южной Кореи.	sydkorea	0	0
+Flygplanet ankommer klockan åtta.	Самолет прилетает в восемь.	ankommer	0	0
+Ingen har lagt ned så mycket tid och ork i projektet som hon.	Никто не вложил столько времени и сил в этот проект, как она.	ork	0	0
+Kojan stacks i brand.	Хижина в огне.	stacks	0	0
+Lämna inte tv:n på!	Не оставляй телевизор включённым!	tvn	0	0
+Kom när du besegrar onda drakar, erövrar alla slott och alla prinsessor.	Приходи, когда победишь всех злых драконов, завоюешь все замки и всех принцесс.	erövrar	0	0
+Jag lät mig fotograferas.	Я позволил себя сфотографировать.	fotograferas	0	0
+Vatten kokar vid 100 grader Celsius.	Вода закипает при 100 градусах по Цельсию.	celsius	0	0
+Modersmålet är en oersättlig skatt.	Родной язык — незаменимое сокровище.	oersättlig	0	0
+Ett lågtrycksområde täcker hela Skandinavien med växlande vind och molnighet.	Область низкого давления с переменным ветром и облачностью охватывает всю Скандинавию.	skandinavien	0	0
+Skolbarn är förkylda dubbelt så ofta som vuxna.	Школьники болеют простудой вдвое чаще, чем взрослые.	skolbarn	0	0
+Det var inte en kotte där.	Там не было ни одной живой души.	kotte	0	0
+Han stekte pannkakor i en gjutjärnspanna.	Он жарил блины на чугунной сковородке.	stekte	0	0
+Har du avbokat vårt bord?	Ты отменил наше бронирование столика?	avbokat	0	0
+Boten skall betalas i kontanter.	Штраф нужно заплатить наличными.	boten	0	0
+Finns det en busshållplats här i närheten?	Здесь поблизости есть автобусная остановка?	busshållplats	0	0
+Diplomerade imperialismens lakejer försöker att få en teoretisk grund för sina kannibalistiska praxis i kolonierna.	Дипломированные лакеи империализма пытаются подвести некую теоретическую базу под свою людоедскую практику в колониях.	lakejer	0	0
+Det finns inga vilda isbjörnar i Norden.	В скандинавских странах нет диких белых медведей.	isbjörnar	0	0
+Sicken retsticka, va!	Какой же задира!	retsticka	0	0
+Rökning kan orsaka impotens.	Курение может вызывать импотенцию.	impotens	0	0
+Hur mycket förbrukar den här bilen?	Какой расход топлива у этого автомобиля?	förbrukar	0	0
+Jag googlar nästan varje dag.	Я пользуюсь Гуглом почти каждый день.	googlar	0	0
+Du kan använda ett lexikon till den här tentamen.	Ты можешь пользоваться словарем на этом экзамене.	lexikon	0	0
+Tomi älskar anime som en tokstolle.	Том обожает аниме.	tokstolle	0	0
+Vi översatte rapporten från engelska till afrikaans.	Мы перевели доклад с английского на африкаанс.	översatte	0	0
+Den här fågeln är utrotningshotad.	Эта птица находится под угрозой вымирания.	utrotningshotad	0	0
+Å, det är en världslig sak!	О, дело житейское!	världslig	0	0
+Vår engelsklärare lägger vikt vid uttalet.	Наш преподаватель английского уделяет большое внимание произношению.	engelsklärare	0	0
+Du kan ändra det under inställningar.	Ты можешь изменить это в настройках.	inställningar	0	0
+Det är förbjudet att vistas innanför avspärrningarna.	Находиться внутри заграждения запрещено.	avspärrningarna	0	0
+Hon tittade storögt på slottets storslagna väggar.	Она широко раскрытыми глазами смотрела на великолепные стены замка.	slottets	0	0
+Hur använder man ätpinnar?	Как пользоваться палочками для еды?	ätpinnar	0	0
+Pojken är som en miniatyr av sin far.	Мальчик - миниатюрная копия своего отца.	miniatyr	0	0
+Jag är inte nöjd med kvalitén på ditt arbete.	Я недоволен качеством Вашей работы.	kvalitén	0	0
+Vissa tycker att hemlagat är nyttigare än restaurangmat.	Некоторые считают, что домашняя еда полезнее, чем ресторанная.	hemlagat	0	0
+Hon lider av alexi.	Она страдает алектическим расстройством чтения.	alexi	0	0
+Uranus är en planet.	Уран - это планета.	uranus	0	0
+Sjutton gastar på död mans kista. - Hej och hå och en flaska med rom!	Семнадцать человек на сундук мертвеца, Йо-хо-хо, и бутылка рому!	gastar	0	0
+Katten jamar.	Кошка мяукает.	jamar	0	0
+Jag läste att Brasiliens president är en kvinna. Hon kallas Dilma.	Я читал, что президент Бразилии — женщина. Её зовут Дилма.	brasiliens	0	0
+Isländska är mitt favoritspråk.	Исландский - мой любимый язык.	isländska	0	0
+Han reste under täcknamn.	Он путешествовал под псевдонимом.	täcknamn	0	0
+Det var en gång en olycklig, glömsk kille vid namn James, som ständigt förväxlade Mary med Maria. Därför hatade Maria honom i själ och hjärta.	Жил-был несчастный забывчивый парень по имени Джеймс, который всё время путал Мэри с Марией. Мария за это ненавидела его всеми фибрами души.	förväxlade	0	0
+Min bror har aldrig bestigit Mt Fuji.	Мой брат никогда не поднимался на гору Фудзи.	fuji	0	0
+Jag arbetar 3 timmar varje söndagsmorgon.	Я работаю по три часа по утрам каждое воскресенье.	söndagsmorgon	0	0
+Konflikter finns på alla arbetsplatser.	Конфликты имеют место на каждом рабочем месте.	arbetsplatser	0	0
+Min bror har aldrig bestigit Mt Fuji.	Мой брат никогда не поднимался на гору Фудзи.	bestigit	0	0
+Liisa är en aktiv och energisk ung kvinna.	Лиза - активная и энергичная молодая женщина.	liisa	0	0
+Lätt fånget, lätt förgånget.	Легко полученное легко теряется.	förgånget	0	0
+Sötningsmedel har till mångt och mycket samma effekt som socker.	Подсластители имеют тот же эффект, что и сахар.	sötningsmedel	0	0
+Många bäckar små blir en stor å.	С миру по нитке - голому рубаха.	bäckar	0	0
+Han hittade en gammal diskett.	Он нашел старую дискету.	diskett	0	0
+Druskininkai är en stad i södra Lettland.	Друскининкай - город на юге Литвы.	lettland	0	0
+Det har snöat.	Шёл снег.	snöat	0	0
+Robin är Batmans vän.	Робин - друг Бэтмана.	batmans	0	0
+Får jag besvära Er med en anhållan?	Могу я побеспокоить Вас одной просьбой?	anhållan	0	0
+Vi kör på Stockholms gator.	Мы едем по улицам Стокгольма.	stockholms	0	0
+Hans anhållan avslogs.	Его просьба была отклонена.	avslogs	0	0
+Barnuppfostran är en hård uppgift.	Воспитание детей - сложная работа.	barnuppfostran	0	0
+Du tappade din blyertspenna.	Ты уронил карандаш.	blyertspenna	0	0
+Vissa tycker att hemlagat är nyttigare än restaurangmat.	Некоторые считают, что домашняя еда полезнее, чем ресторанная.	nyttigare	0	0
+Kati Wolf är en ungersk sångerska.	Кати Вольф — венгерская певица.	ungersk	0	0
+Jag har alla världens länders flaggor.	У меня есть флаги каждой страны мира.	länders	0	0
+Hon har självmordstankar.	У нее суицидальные мысли.	självmordstankar	0	0
+Italien är omgivet av Medelhavet.	Италию окружает Средиземное море.	omgivet	0	0
+Lätt fånget, lätt förgånget.	Легко полученное легко теряется.	fånget	0	0
+Tom är ett intellektuellt begåvat barn.	Том — умственно одарённый ребёнок.	begåvat	0	0
+Jag vägrar att använda plastpåsar.	Я отказываюсь использовать пластиковые пакеты.	plastpåsar	0	0
+Hindi och Urdu är samma språk.	Хинди и урду — один и тот же язык.	hindi	0	0
+Min mage kurrar.	У меня урчит в животе.	kurrar	0	0
+Bilen täcktes i ett avgasmoln.	Машину окутало облако выхлопных газов.	täcktes	0	0
+Vår engelsklärare lägger vikt vid uttalet.	Наш преподаватель английского уделяет большое внимание произношению.	uttalet	0	0
+Du får inte vidröra konstverken.	Произведения искусства трогать нельзя.	konstverken	0	0
+Det som göms i snö kommer upp i tö.	То, что спрятано в снегу, выходит наружу во время оттепели.	göms	0	0
+Jag bor i Yokohama.	Я живу в Иокогаме.	yokohama	0	0
+Hon hamnade i trångmål.	Она попала в беду.	trångmål	0	0
+Han föll ner i den bottenlösa gropen.	Он упал в бездонную яму.	bottenlösa	0	0
+Skolbarn är förkylda dubbelt så ofta som vuxna.	Школьники болеют простудой вдвое чаще, чем взрослые.	förkylda	0	0

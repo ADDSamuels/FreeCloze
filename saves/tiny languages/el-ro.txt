@@ -1,0 +1,282 @@
+Μ' αρέσει να κάνω σκι.	Îmi place să schiez.	να	0	0
+Το όνομά μου είναι Ριχάρδος.	Mă numesc Ricardo.	το	0	0
+Δεν την καταλαβαίνω.	Nu o înțeleg.	δεν	0	0
+Που είναι η οικογένειά του;	Unde este familia lui?	είναι	0	0
+Δε θα μείνω μαζί σας.	Nu voi locui cu voi.	θα	0	0
+Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	Marina este din Rusia, iar Clarissa este din Suedia.	και	0	0
+Ήσουν πάντα στο μυαλό μου.	Ai fost mereu în mintea mea.	μου	0	0
+Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	M-am întâlnit față în față cu fostul meu soț.	με	0	0
+Όταν την συνάντησα για πρώτη φορά ήταν κοντά στα 30.	Când am întâlnit-o pentru prima oară, avea aproape 30 de ani.	για	0	0
+Όταν την συνάντησα για πρώτη φορά ήταν κοντά στα 30.	Când am întâlnit-o pentru prima oară, avea aproape 30 de ani.	την	0	0
+Ο Τομ μ' αγαπούσε.	Tom mă iubea.	ο	0	0
+Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	Predarea este cea mai bună formă de învățare.	η	0	0
+Θα τον δούμε αργότερα.	Îl vom vedea mai târziu.	τον	0	0
+Τα λιοντάρια είναι στο κελί.	Leii sunt în cușcă.	τα	0	0
+Που είναι η οικογένειά του;	Unde este familia lui?	που	0	0
+Δεν κοιμάμαι εξαιτίας σου.	Nu pot dormi din cauza ta.	σου	0	0
+Βοήθησέ με, σε παρακαλώ.	Ajută-mă, te rog.	σε	0	0
+Αυτό είναι άλογο ή φοράδα;	E armăsar sau iapă?	αυτό	0	0
+Του 'δειξα το δωμάτιό μου.	I-am arătat camera mea.	του	0	0
+Τι ώρα ανοίγει το κατάστημα;	La ce oră se deschide magazinul?	τι	0	0
+Ξεχάσαμε ότι δε σας αρέσει η πίτσα.	Am uitat că nu-ți place pizza.	ότι	0	0
+Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	Marina este din Rusia, iar Clarissa este din Suedia.	από	0	0
+Τα λιοντάρια είναι στο κελί.	Leii sunt în cușcă.	στο	0	0
+Ο δάσκαλός μας της ιστορίας έχει την ήσυχη σοφία της κουκουβάγιας.	Profesorul nostru de istorie are înțelepciunea pașnică a unei bufnițe.	της	0	0
+Ναι.	Da.	ναι	0	0
+Θέλω ένα καλύτερο αυτού.	Vreau unul mai bun decât acesta.	ένα	0	0
+Ο Τομ παρακολούθησε προσεκτικά τη Μαίρη.	Tom a urmărit-o atent pe Mary.	τη	0	0
+Το ψυγείο δεν είναι άδειο, εκτός αν ο επισκευαστής πήρε την τελευταία μπύρα.	Frigiderul nu este gol decât dacă tehnicianul a băut ultima bere.	αν	0	0
+Μπορούμε να μιλήσουμε εδώ;	Putem vorbi aici?	εδώ	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Hârtia, o invenție chineză veche de aproximativ două mii de ani, a lăsat o amprentă de neșters asupra tuturor culturilor.	μια	0	0
+Ξεχάσαμε ότι δε σας αρέσει η πίτσα.	Am uitat că nu-ți place pizza.	σας	0	0
+Ποιες σχέσεις έχεις με τους γείτονές σου;	Care este relația ta cu vecinii tăi?	τους	0	0
+Όταν την συνάντησα για πρώτη φορά ήταν κοντά στα 30.	Când am întâlnit-o pentru prima oară, avea aproape 30 de ani.	ήταν	0	0
+Μόλις έφτασε εδώ το αεροπλάνο μας.	Avionul nostru tocmai a ajuns aici.	μας	0	0
+Δεν έχω καμία ιδέα πότε πρέπει να το κάνω.	Habar n-am când trebuie s-o fac.	πρέπει	0	0
+Γιατί είσαι τόσο λυπημένη;	De ce ești atât de tristă?	είσαι	0	0
+Είμαι γιατρός.	Sunt medic.	είμαι	0	0
+Ο Τομ μπορεί να ακούσει τη Μαίρη πολύ καλά.	Tom poate să o audă pe Mary foarte bine.	πολύ	0	0
+Γιατί είσαι τόσο λυπημένη;	De ce ești atât de tristă?	γιατί	0	0
+Θα τα βάψω μαύρα τώρα.	O să le vopsesc în negru acum.	τώρα	0	0
+Εγώ είμαι ελεύθερος άνθρωπος.	Sunt un om liber.	εγώ	0	0
+Ο Τομ έδειξε κάτι στη Μαίρη.	Tom i-a arătat ceva lui Mary.	κάτι	0	0
+Αυτός έχει ένα σκύλο.	El are un câine.	έχει	0	0
+Δεν τις καταλαβαίνω.	Nu le înțeleg.	τις	0	0
+Δεν έχω καμία ιδέα πότε πρέπει να το κάνω.	Habar n-am când trebuie s-o fac.	έχω	0	0
+Δε θα μείνω μαζί σας.	Nu voi locui cu voi.	δε	0	0
+Μην σπάσεις καθρέφτη.	Nu sparge niciodată o oglindă.	μην	0	0
+Ο Τομ μπορεί να ακούσει τη Μαίρη πολύ καλά.	Tom poate să o audă pe Mary foarte bine.	καλά	0	0
+Αυτή πήρε δώρο από το αγόρι της.	Ea a primit un cadou de la iubitul ei.	αυτή	0	0
+Θέλω ένα καλύτερο αυτού.	Vreau unul mai bun decât acesta.	θέλω	0	0
+Όταν την συνάντησα για πρώτη φορά ήταν κοντά στα 30.	Când am întâlnit-o pentru prima oară, avea aproape 30 de ani.	όταν	0	0
+Ο Τομ έδειξε κάτι στη Μαίρη.	Tom i-a arătat ceva lui Mary.	στη	0	0
+Δεν μπορώ πια να ζω.	Nu mai pot trăi.	μπορώ	0	0
+Ποιες σχέσεις έχεις με τους γείτονές σου;	Care este relația ta cu vecinii tăi?	έχεις	0	0
+Έλα μαζί μου στη Βοστώνη.	Hai cu mine în Boston.	μαζί	0	0
+Παραιτήθηκε απ' όλα τα δικαιώματά του.	A renunțat la toate drepturile sale.	όλα	0	0
+Αυτό είναι άλογο ή φοράδα;	E armăsar sau iapă?	ή	0	0
+Αποφάσισα να το κάνω.	Am decis să fac asta.	κάνω	0	0
+Γιατί είσαι τόσο λυπημένη;	De ce ești atât de tristă?	τόσο	0	0
+Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	Ea te poate pune la închisoare pentru adulter.	μπορεί	0	0
+Έλα μαζί μου στη Βοστώνη.	Hai cu mine în Boston.	έλα	0	0
+Όταν την συνάντησα για πρώτη φορά ήταν κοντά στα 30.	Când am întâlnit-o pentru prima oară, avea aproape 30 de ani.	στα	0	0
+Υπάρχει απευθείας πτήση από το Τόκιο για το Λονδίνο.	Există zbor direct din Tokio spre Londra.	υπάρχει	0	0
+Είναι ακόμα ζωντανός.	E încă în viață.	ακόμα	0	0
+Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	Ea te poate pune la închisoare pentru adulter.	μέσα	0	0
+Αυτός έχει ένα σκύλο.	El are un câine.	αυτός	0	0
+Παρακαλώ, δώσε μου αυτό το στυλό.	Dă-mi și mie te rog stiloul acesta.	παρακαλώ	0	0
+Ένας άλλος κόσμος είναι δυνατός.	O altă lume este posibilă.	ένας	0	0
+Γιατί πάντα μου πας κόντρα;	De ce ești mereu împotriva mea?	πάντα	0	0
+Είναι λίγο αργά για καφέ.	E cam târziu pentru o cafea.	λίγο	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Hârtia, o invenție chineză veche de aproximativ două mii de ani, a lăsat o amprentă de neșters asupra tuturor culturilor.	δύο	0	0
+Σηκώνομαι στις οχτώ.	Mă trezesc la opt.	στις	0	0
+Τι ώρα ανοίγει το κατάστημα;	La ce oră se deschide magazinul?	ώρα	0	0
+Όταν την συνάντησα για πρώτη φορά ήταν κοντά στα 30.	Când am întâlnit-o pentru prima oară, avea aproape 30 de ani.	φορά	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Hârtia, o invenție chineză veche de aproximativ două mii de ani, a lăsat o amprentă de neșters asupra tuturor culturilor.	χρόνια	0	0
+Είστε αξιόπιστοι;	Sunteți de încredere?	είστε	0	0
+Η καλή μέρα το πρωί είναι γνωστή.	Ziua bună, de dimineață se cunoaște.	καλή	0	0
+Η καλή μέρα το πρωί είναι γνωστή.	Ziua bună, de dimineață se cunoaște.	μέρα	0	0
+Μπορούμε να μιλήσουμε εδώ;	Putem vorbi aici?	μπορούμε	0	0
+Μόλις έφτασε εδώ το αεροπλάνο μας.	Avionul nostru tocmai a ajuns aici.	μόλις	0	0
+Ο Τομ θα πάει στη Βοστώνη.	Tom se va duce în Boston.	πάει	0	0
+Μου αρέσει να μελετώ ξένες γλώσσες.	Îmi place să studiez limbi străine.	αρέσει	0	0
+Πόσο καιρό έμεινες;	Cât timp ai stat?	πόσο	0	0
+Γιατί πάντα μου πας κόντρα;	De ce ești mereu împotriva mea?	πας	0	0
+Έμεινε σιωπηλός για μια στιγμή.	A tăcut un moment.	στιγμή	0	0
+πιστεύω ότι εκείνο είναι ένα μεγάλο λάθος.	Cred că aceasta este o mare greșeală.	λάθος	0	0
+Ήσουν πάντα στο μυαλό μου.	Ai fost mereu în mintea mea.	ήσουν	0	0
+πιστεύω ότι εκείνο είναι ένα μεγάλο λάθος.	Cred că aceasta este o mare greșeală.	πιστεύω	0	0
+Αυτό είναι το δικό μου αυτοκίνητο.	Asta e propria mea mașină.	δικό	0	0
+Δεν έχω καμία ιδέα πότε πρέπει να το κάνω.	Habar n-am când trebuie s-o fac.	ιδέα	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Hârtia, o invenție chineză veche de aproximativ două mii de ani, a lăsat o amprentă de neșters asupra tuturor culturilor.	όλους	0	0
+Πόσο καιρό έμεινες;	Cât timp ai stat?	καιρό	0	0
+Το ψυγείο δεν είναι άδειο, εκτός αν ο επισκευαστής πήρε την τελευταία μπύρα.	Frigiderul nu este gol decât dacă tehnicianul a băut ultima bere.	εκτός	0	0
+Το ψυγείο δεν είναι άδειο, εκτός αν ο επισκευαστής πήρε την τελευταία μπύρα.	Frigiderul nu este gol decât dacă tehnicianul a băut ultima bere.	τελευταία	0	0
+Όταν την συνάντησα για πρώτη φορά ήταν κοντά στα 30.	Când am întâlnit-o pentru prima oară, avea aproape 30 de ani.	πρώτη	0	0
+Δεν τις καταλαβαίνω.	Nu le înțeleg.	καταλαβαίνω	0	0
+Ρωτήστε τον πότε φεύγει το επόμενο αεροπλάνο.	Întrebați-l când pleacă următorul avion.	πότε	0	0
+Δεν μπορώ πια να ζω.	Nu mai pot trăi.	πια	0	0
+Όταν την συνάντησα για πρώτη φορά ήταν κοντά στα 30.	Când am întâlnit-o pentru prima oară, avea aproape 30 de ani.	κοντά	0	0
+Αυτή επίσης αγόρασε λεξικό.	Ea și-a cumpărat un dicționar.	επίσης	0	0
+Χρειάζεστε βοήθεια.	Aveți nevoie de ajutor.	βοήθεια	0	0
+Εγώ είμαι ελεύθερος άνθρωπος.	Sunt un om liber.	άνθρωπος	0	0
+πιστεύω ότι εκείνο είναι ένα μεγάλο λάθος.	Cred că aceasta este o mare greșeală.	μεγάλο	0	0
+Αυτή πήρε δώρο από το αγόρι της.	Ea a primit un cadou de la iubitul ei.	πήρε	0	0
+Θα τον δούμε αργότερα.	Îl vom vedea mai târziu.	δούμε	0	0
+Η καλή μέρα το πρωί είναι γνωστή.	Ziua bună, de dimineață se cunoaște.	πρωί	0	0
+Όλες ήταν χαρούμενες.	Toate erau fericite.	όλες	0	0
+Θέλω ένα καλύτερο αυτού.	Vreau unul mai bun decât acesta.	καλύτερο	0	0
+Ο Θωμάς μελετάει στο διπλανό δωμάτιο.	Thomas studiază în camera de lângă.	δωμάτιο	0	0
+Παρακαλώ, δώσε μου αυτό το στυλό.	Dă-mi și mie te rog stiloul acesta.	δώσε	0	0
+Δεν έχω καμία ιδέα πότε πρέπει να το κάνω.	Habar n-am când trebuie s-o fac.	καμία	0	0
+Αυτή πήρε δώρο από το αγόρι της.	Ea a primit un cadou de la iubitul ei.	αγόρι	0	0
+Πέθανε σε ηλικία 70 ετών.	A decedat la 70 de ani.	πέθανε	0	0
+Τα λέμε αργότερα!	Ne mai auzim!	λέμε	0	0
+Τα λέμε αργότερα!	Ne mai auzim!	αργότερα	0	0
+Ποιός θα πληρώσει το λογαριασμό;	Cine plătește nota?	ποιός	0	0
+Ήσουν πάντα στο μυαλό μου.	Ai fost mereu în mintea mea.	μυαλό	0	0
+Ένας άλλος κόσμος είναι δυνατός.	O altă lume este posibilă.	κόσμος	0	0
+Δε θα φτάσεις εγκαίρως στο σχολείο.	N-o să ajungi la timp la școală.	σχολείο	0	0
+Ένας άλλος κόσμος είναι δυνατός.	O altă lume este posibilă.	άλλος	0	0
+Μπορούμε να μιλήσουμε εδώ;	Putem vorbi aici?	μιλήσουμε	0	0
+Είναι λίγο αργά για καφέ.	E cam târziu pentru o cafea.	αργά	0	0
+πιστεύω ότι εκείνο είναι ένα μεγάλο λάθος.	Cred că aceasta este o mare greșeală.	εκείνο	0	0
+Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	M-am întâlnit față în față cu fostul meu soț.	ήρθα	0	0
+Το όνομά μου είναι Ριχάρδος.	Mă numesc Ricardo.	όνομά	0	0
+Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	M-am întâlnit față în față cu fostul meu soț.	άντρα	0	0
+Αυτό είναι το δικό μου αυτοκίνητο.	Asta e propria mea mașină.	αυτοκίνητο	0	0
+Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	Predarea este cea mai bună formă de învățare.	καλύτερη	0	0
+Δε θα μείνω μαζί σας.	Nu voi locui cu voi.	μείνω	0	0
+Τον θεωρώ αληθινό φίλο.	Îl socotesc un prieten adevărat.	φίλο	0	0
+Είναι λίγο αργά για καφέ.	E cam târziu pentru o cafea.	καφέ	0	0
+Δε το 'χα καταλάβει ότι θα 'ταν τόσο εύκολο να το κάνω.	Nu înțelesesem că e atât de ușor s-o fac.	εύκολο	0	0
+Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	M-am întâlnit față în față cu fostul meu soț.	πρόσωπο	0	0
+Καληνύχτα. Όνειρα γλυκά.	Noapte bună. Vise dulci.	καληνύχτα	0	0
+Τα αστεία δεν της αρέσουν.	Nu-i plac glumele.	αρέσουν	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Hârtia, o invenție chineză veche de aproximativ două mii de ani, a lăsat o amprentă de neșters asupra tuturor culturilor.	άφησε	0	0
+Θέλω ένα καλύτερο αυτού.	Vreau unul mai bun decât acesta.	αυτού	0	0
+Είμαι γιατρός.	Sunt medic.	γιατρός	0	0
+Αυτός πέρασε τα σύνορα.	A trecut frontiera.	πέρασε	0	0
+Ο Τομ μπορεί να ακούσει τη Μαίρη πολύ καλά.	Tom poate să o audă pe Mary foarte bine.	ακούσει	0	0
+Που είναι η οικογένειά του;	Unde este familia lui?	οικογένειά	0	0
+Αυτή πήρε δώρο από το αγόρι της.	Ea a primit un cadou de la iubitul ei.	δώρο	0	0
+Αυτό το τριαντάφυλλο είναι πολύ όμορφο.	Acest trandafir este foarte frumos.	όμορφο	0	0
+Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	M-am întâlnit față în față cu fostul meu soț.	πρώην	0	0
+Ολα μαύρα εξαιτίας σου.	Situația este gravă din cauza ta.	εξαιτίας	0	0
+Ο Τομ έδειξε κάτι στη Μαίρη.	Tom i-a arătat ceva lui Mary.	τομ	0	0
+Αυτός είναι αδερφός μου.	E fratele meu.	αδερφός	0	0
+Είναι ακόμα ζωντανός.	E încă în viață.	ζωντανός	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Hârtia, o invenție chineză veche de aproximativ două mii de ani, a lăsat o amprentă de neșters asupra tuturor culturilor.	χιλιάδες	0	0
+Ρωτήστε τον πότε φεύγει το επόμενο αεροπλάνο.	Întrebați-l când pleacă următorul avion.	επόμενο	0	0
+Η τηλεόραση δε λειτουργεί.	Televizorul nu funcționează.	τηλεόραση	0	0
+Ρωτήστε τον πότε φεύγει το επόμενο αεροπλάνο.	Întrebați-l când pleacă următorul avion.	αεροπλάνο	0	0
+Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	Ea te poate pune la închisoare pentru adulter.	βάλει	0	0
+Δε το 'χα καταλάβει ότι θα 'ταν τόσο εύκολο να το κάνω.	Nu înțelesesem că e atât de ușor s-o fac.	καταλάβει	0	0
+Δεν μπορώ να καταλάβω.	Nu pot să înțeleg.	καταλάβω	0	0
+Ολα μαύρα εξαιτίας σου.	Situația este gravă din cauza ta.	ολα	0	0
+Τον θεωρώ αληθινό φίλο.	Îl socotesc un prieten adevărat.	αληθινό	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Hârtia, o invenție chineză veche de aproximativ două mii de ani, a lăsat o amprentă de neșters asupra tuturor culturilor.	ηλικία	0	0
+Του 'δειξα το δωμάτιό μου.	I-am arătat camera mea.	δωμάτιό	0	0
+Μίλα καθαρά.	Vorbește clar.	μίλα	0	0
+Πέθανε σε ηλικία 70 ετών.	A decedat la 70 de ani.	ετών	0	0
+Αυτό είναι άλογο ή φοράδα;	E armăsar sau iapă?	άλογο	0	0
+Ρωτήστε τον πότε φεύγει το επόμενο αεροπλάνο.	Întrebați-l când pleacă următorul avion.	φεύγει	0	0
+Το ψυγείο δεν είναι άδειο, εκτός αν ο επισκευαστής πήρε την τελευταία μπύρα.	Frigiderul nu este gol decât dacă tehnicianul a băut ultima bere.	μπύρα	0	0
+Ο Τομ παρακολούθησε προσεκτικά τη Μαίρη.	Tom a urmărit-o atent pe Mary.	μαίρη	0	0
+Η τηλεόραση δε λειτουργεί.	Televizorul nu funcționează.	λειτουργεί	0	0
+Υπάρχει απευθείας πτήση από το Τόκιο για το Λονδίνο.	Există zbor direct din Tokio spre Londra.	λονδίνο	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Hârtia, o invenție chineză veche de aproximativ două mii de ani, a lăsat o amprentă de neșters asupra tuturor culturilor.	ίχνη	0	0
+Θα πληρώσω το λογαριασμό.	Voi plăti nota.	λογαριασμό	0	0
+Εγώ είμαι ελεύθερος άνθρωπος.	Sunt un om liber.	ελεύθερος	0	0
+Μόλις έφτασε εδώ το αεροπλάνο μας.	Avionul nostru tocmai a ajuns aici.	έφτασε	0	0
+Δεν μπορώ πια να ζω.	Nu mai pot trăi.	ζω	0	0
+Σε παρακαλώ, βοήθησέ με.	Te rog, ajută-mă.	βοήθησέ	0	0
+Δε το 'χα καταλάβει ότι θα 'ταν τόσο εύκολο να το κάνω.	Nu înțelesesem că e atât de ușor s-o fac.	χα	0	0
+Υπάρχει απευθείας πτήση από το Τόκιο για το Λονδίνο.	Există zbor direct din Tokio spre Londra.	πτήση	0	0
+Έμεινε σιωπηλός για μια στιγμή.	A tăcut un moment.	έμεινε	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Hârtia, o invenție chineză veche de aproximativ două mii de ani, a lăsat o amprentă de neșters asupra tuturor culturilor.	χαρτί	0	0
+Θα πληρώσω το λογαριασμό.	Voi plăti nota.	πληρώσω	0	0
+Μίλα καθαρά.	Vorbește clar.	καθαρά	0	0
+Καληνύχτα. Όνειρα γλυκά.	Noapte bună. Vise dulci.	όνειρα	0	0
+Μιλάτε γαλλικά;	Vorbiți franceza?	μιλάτε	0	0
+Αυτός έχει ένα σκύλο.	El are un câine.	σκύλο	0	0
+Ποιός θα πληρώσει το λογαριασμό;	Cine plătește nota?	πληρώσει	0	0
+Τα αστεία δεν της αρέσουν.	Nu-i plac glumele.	αστεία	0	0
+Ο δάσκαλός μας της ιστορίας έχει την ήσυχη σοφία της κουκουβάγιας.	Profesorul nostru de istorie are înțelepciunea pașnică a unei bufnițe.	ήσυχη	0	0
+Ο Τομ παρακολούθησε προσεκτικά τη Μαίρη.	Tom a urmărit-o atent pe Mary.	προσεκτικά	0	0
+Αποφάσισα να το κάνω.	Am decis să fac asta.	αποφάσισα	0	0
+Χρειάζεστε βοήθεια.	Aveți nevoie de ajutor.	χρειάζεστε	0	0
+Ένας άλλος κόσμος είναι δυνατός.	O altă lume este posibilă.	δυνατός	0	0
+Ποιες σχέσεις έχεις με τους γείτονές σου;	Care este relația ta cu vecinii tăi?	σχέσεις	0	0
+Η αυτοκτονία είναι πράξη απόγνωσης.	Sinuciderea este un act de disperare.	πράξη	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Hârtia, o invenție chineză veche de aproximativ două mii de ani, a lăsat o amprentă de neșters asupra tuturor culturilor.	περί	0	0
+Αυτή επίσης αγόρασε λεξικό.	Ea și-a cumpărat un dicționar.	αγόρασε	0	0
+Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	Predarea este cea mai bună formă de învățare.	μορφή	0	0
+Σας παρακαλώ, βοηθήστε με.	Vă rog, ajutați-mă.	βοηθήστε	0	0
+Καληνύχτα. Όνειρα γλυκά.	Noapte bună. Vise dulci.	γλυκά	0	0
+Είμαι λίγο κουρασμένος.	Sunt puțin obosit.	κουρασμένος	0	0
+Το ψυγείο δεν είναι άδειο, εκτός αν ο επισκευαστής πήρε την τελευταία μπύρα.	Frigiderul nu este gol decât dacă tehnicianul a băut ultima bere.	άδειο	0	0
+Δε το 'χα καταλάβει ότι θα 'ταν τόσο εύκολο να το κάνω.	Nu înțelesesem că e atât de ușor s-o fac.	ταν	0	0
+Καφέ πίνεις;	Bei cafea?	πίνεις	0	0
+Αυτός πέρασε τα σύνορα.	A trecut frontiera.	σύνορα	0	0
+Ο Τομ μ' αγαπούσε.	Tom mă iubea.	αγαπούσε	0	0
+Ο Τομ έδειξε κάτι στη Μαίρη.	Tom i-a arătat ceva lui Mary.	έδειξε	0	0
+Τον θεωρώ αληθινό φίλο.	Îl socotesc un prieten adevărat.	θεωρώ	0	0
+Τι ώρα ανοίγει το κατάστημα;	La ce oră se deschide magazinul?	κατάστημα	0	0
+Ξεχάσαμε ότι δε σας αρέσει η πίτσα.	Am uitat că nu-ți place pizza.	πίτσα	0	0
+Τα λιοντάρια είναι στο κελί.	Leii sunt în cușcă.	κελί	0	0
+Ο δάσκαλός μας της ιστορίας έχει την ήσυχη σοφία της κουκουβάγιας.	Profesorul nostru de istorie are înțelepciunea pașnică a unei bufnițe.	σοφία	0	0
+Τι ώρα ανοίγει το κατάστημα;	La ce oră se deschide magazinul?	ανοίγει	0	0
+Η αυτοκτονία είναι πράξη απόγνωσης.	Sinuciderea este un act de disperare.	αυτοκτονία	0	0
+Το ψυγείο δεν είναι άδειο, εκτός αν ο επισκευαστής πήρε την τελευταία μπύρα.	Frigiderul nu este gol decât dacă tehnicianul a băut ultima bere.	ψυγείο	0	0
+Αυτός είναι ευγενικός.	El este amabil.	ευγενικός	0	0
+Διαβάζω.	Citesc.	διαβάζω	0	0
+Ο δάσκαλός μας της ιστορίας έχει την ήσυχη σοφία της κουκουβάγιας.	Profesorul nostru de istorie are înțelepciunea pașnică a unei bufnițe.	ιστορίας	0	0
+Ποιες σχέσεις έχεις με τους γείτονές σου;	Care este relația ta cu vecinii tăi?	ποιες	0	0
+Δεν κοιμάμαι εξαιτίας σου.	Nu pot dormi din cauza ta.	κοιμάμαι	0	0
+Όταν την συνάντησα για πρώτη φορά ήταν κοντά στα 30.	Când am întâlnit-o pentru prima oară, avea aproape 30 de ani.	συνάντησα	0	0
+Σηκώνομαι στις οχτώ.	Mă trezesc la opt.	οχτώ	0	0
+Δε θα φτάσεις εγκαίρως στο σχολείο.	N-o să ajungi la timp la școală.	φτάσεις	0	0
+Πότε το τελείωσες;	Când ai terminat-o?	τελείωσες	0	0
+Η καλή μέρα το πρωί είναι γνωστή.	Ziua bună, de dimineață se cunoaște.	γνωστή	0	0
+Θα τα βάψω μαύρα τώρα.	O să le vopsesc în negru acum.	μαύρα	0	0
+Μην σπάσεις καθρέφτη.	Nu sparge niciodată o oglindă.	καθρέφτη	0	0
+Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	Ea te poate pune la închisoare pentru adulter.	κλουβί	0	0
+Μιλάτε γαλλικά;	Vorbiți franceza?	γαλλικά	0	0
+Μου αρέσουν τα μαθηματικά.	Îmi place matematica.	μαθηματικά	0	0
+Παρακαλώ, δώσε μου αυτό το στυλό.	Dă-mi și mie te rog stiloul acesta.	στυλό	0	0
+Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	Marina este din Rusia, iar Clarissa este din Suedia.	ρωσία	0	0
+Ανέβασα την ένταση της τηλεόρασης.	Am dat volumul mai tare la televizor.	ένταση	0	0
+Υπάρχει απευθείας πτήση από το Τόκιο για το Λονδίνο.	Există zbor direct din Tokio spre Londra.	απευθείας	0	0
+Αναλαμβάνω το λογαριασμό.	Mă ocup eu de notă.	αναλαμβάνω	0	0
+Μην σπάσεις καθρέφτη.	Nu sparge niciodată o oglindă.	σπάσεις	0	0
+Στέκομαι φρουρός.	Eu stau de pază.	στέκομαι	0	0
+Μ' αρέσει να κάνω σκι.	Îmi place să schiez.	σκι	0	0
+Πόσο καιρό έμεινες;	Cât timp ai stat?	έμεινες	0	0
+Ρωτήστε τον πότε φεύγει το επόμενο αεροπλάνο.	Întrebați-l când pleacă următorul avion.	ρωτήστε	0	0
+Δε θα φτάσεις εγκαίρως στο σχολείο.	N-o să ajungi la timp la școală.	εγκαίρως	0	0
+Μου αρέσει το τένις.	Îmi place tenisul.	τένις	0	0
+Γιατί πάντα μου πας κόντρα;	De ce ești mereu împotriva mea?	κόντρα	0	0
+Στέκομαι φρουρός.	Stau de pază.	φρουρός	0	0
+Ο Τομ θα πάει στη Βοστώνη.	Tom se va duce în Boston.	βοστώνη	0	0
+Μου αρέσει να μελετώ ξένες γλώσσες.	Îmi place să studiez limbi străine.	γλώσσες	0	0
+Παραιτήθηκε απ' όλα τα δικαιώματά του.	A renunțat la toate drepturile sale.	παραιτήθηκε	0	0
+Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	Marina este din Rusia, iar Clarissa este din Suedia.	μαρίνα	0	0
+Ο Θωμάς μελετάει στο διπλανό δωμάτιο.	Thomas studiază în camera de lângă.	διπλανό	0	0
+Παραιτήθηκε απ' όλα τα δικαιώματά του.	A renunțat la toate drepturile sale.	δικαιώματά	0	0
+Ο Τομ με αγάπησε.	Tom m-a iubit.	αγάπησε	0	0
+Γιατί είσαι τόσο λυπημένη;	De ce ești atât de tristă?	λυπημένη	0	0
+Έμεινε σιωπηλός για μια στιγμή.	A tăcut un moment.	σιωπηλός	0	0
+Υπάρχει απευθείας πτήση από το Τόκιο για το Λονδίνο.	Există zbor direct din Tokio spre Londra.	τόκιο	0	0
+Ανέβασα την ένταση της τηλεόρασης.	Am dat volumul mai tare la televizor.	τηλεόρασης	0	0
+Τα λιοντάρια είναι στο κελί.	Leii sunt în cușcă.	λιοντάρια	0	0
+Αυτό το τριαντάφυλλο είναι πολύ όμορφο.	Acest trandafir este foarte frumos.	τριαντάφυλλο	0	0
+Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	Marina este din Rusia, iar Clarissa este din Suedia.	σουηδία	0	0
+Αυτή επίσης αγόρασε λεξικό.	Ea și-a cumpărat un dicționar.	λεξικό	0	0
+Ποιες σχέσεις έχεις με τους γείτονές σου;	Care este relația ta cu vecinii tăi?	γείτονές	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Hârtia, o invenție chineză veche de aproximativ două mii de ani, a lăsat o amprentă de neșters asupra tuturor culturilor.	εφεύρεση	0	0
+Ξεχάσαμε ότι δε σας αρέσει η πίτσα.	Am uitat că nu-ți place pizza.	ξεχάσαμε	0	0
+Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	Predarea este cea mai bună formă de învățare.	διδασκαλία	0	0
+Μου αρέσει να μελετώ ξένες γλώσσες.	Îmi place să studiez limbi străine.	ξένες	0	0
+Ο δάσκαλός μας της ιστορίας έχει την ήσυχη σοφία της κουκουβάγιας.	Profesorul nostru de istorie are înțelepciunea pașnică a unei bufnițe.	δάσκαλός	0	0
+Ο Τομ παρακολούθησε προσεκτικά τη Μαίρη.	Tom a urmărit-o atent pe Mary.	παρακολούθησε	0	0
+Όλες ήταν χαρούμενες.	Toate erau fericite.	χαρούμενες	0	0
+Σηκώνομαι στις οχτώ.	Mă trezesc la opt.	σηκώνομαι	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Hârtia, o invenție chineză veche de aproximativ două mii de ani, a lăsat o amprentă de neșters asupra tuturor culturilor.	πολιτισμούς	0	0
+Αυτό είναι άλογο ή φοράδα;	E armăsar sau iapă?	φοράδα	0	0
+Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	Ea te poate pune la închisoare pentru adulter.	μοιχεία	0	0
+Θα τα βάψω μαύρα τώρα.	O să le vopsesc în negru acum.	βάψω	0	0
+Μου αρέσει να μελετώ ξένες γλώσσες.	Îmi place să studiez limbi străine.	μελετώ	0	0
+Μ' αρέσει να κολυμπάω.	Îmi place să înot.	κολυμπάω	0	0
+Το όνομά μου είναι Ριχάρδος.	Mă numesc Ricardo.	ριχάρδος	0	0
+Μελετάω.	Învăț.	μελετάω	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Hârtia, o invenție chineză veche de aproximativ două mii de ani, a lăsat o amprentă de neșters asupra tuturor culturilor.	κινεζική	0	0
+Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	Marina este din Rusia, iar Clarissa este din Suedia.	κλαρίσα	0	0
+Ανέβασα την ένταση της τηλεόρασης.	Am dat volumul mai tare la televizor.	ανέβασα	0	0
+Ο Θωμάς μελετάει στο διπλανό δωμάτιο.	Thomas studiază în camera de lângă.	μελετάει	0	0
+Γείτσες!	Hapciu!	γείτσες	0	0
+Νυχτώνει.	Se înserează.	νυχτώνει	0	0
+Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	Predarea este cea mai bună formă de învățare.	μάθησης	0	0
+Η αυτοκτονία είναι πράξη απόγνωσης.	Sinuciderea este un act de disperare.	απόγνωσης	0	0
+Είστε αξιόπιστοι;	Sunteți de încredere?	αξιόπιστοι	0	0
+Ο δάσκαλός μας της ιστορίας έχει την ήσυχη σοφία της κουκουβάγιας.	Profesorul nostru de istorie are înțelepciunea pașnică a unei bufnițe.	κουκουβάγιας	0	0

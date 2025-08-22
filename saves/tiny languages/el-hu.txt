@@ -1,0 +1,179 @@
+Πώς μπορούμε να προστατευτούμε από τον κορωνοϊό;	Hogyan védekezhetünk a koronavírus ellen?	να	0	0
+Σηκώθηκα στις πέντε το πρωί.	Reggel ötkor keltem.	το	0	0
+Δεν το περίμενα αυτό.	Erre nem számítottam.	δεν	0	0
+Ο σταθμός είναι κοντά από 'δω.	A pályaudvar itt van nem messze.	είναι	0	0
+Θα ήθελα να πάμε στην Αίγυπτο.	Szeretnék Egyiptomba menni.	θα	0	0
+Είναι εννέα και μισή.	Fél tíz van.	και	0	0
+Το όνομά μου είναι Ριχάρδος.	A nevem Ricardo.	μου	0	0
+Με συγχωρείς που σε διακόπτω.	Bocsáss meg, hogy félbeszakítalak.	με	0	0
+Θέλω την αλήθεια.	Az igazságot akarom.	την	0	0
+Ο σταθμός είναι κοντά από 'δω.	A pályaudvar itt van nem messze.	ο	0	0
+Η Γη περιστρέφεται γύρω από τον Ήλιο.	A Föld kering a Nap körül.	η	0	0
+Η Γη περιστρέφεται γύρω από τον Ήλιο.	A Föld a Nap körül forog.	τον	0	0
+Η μητρική μου γλώσσα είναι τα Ουγγρικά.	Anyanyelvem a magyar.	τα	0	0
+Χαίρομαι που σας βλέπω.	Örülök, hogy látlak titeket.	που	0	0
+Γεια σου, κόσμε!	Halló, világ!	σου	0	0
+Χαίρομαι που σε βλέπω.	Örülök, hogy látlak.	σε	0	0
+Δεν το περίμενα αυτό.	Erre nem számítottam.	αυτό	0	0
+Του τσαγκάρη το παιδί παλιοπάπουτσα φορεί.	A szabónak nincs ruhája.	του	0	0
+Τι χρώμα έχει η θάλασσα;	Milyen színű a tenger?	τι	0	0
+Πώς μπορούμε να προστατευτούμε από τον κορωνοϊό;	Hogyan védekezhetünk a koronavírus ellen?	από	0	0
+Οι περισσότεροι μαθητές πηγαίνουν με τα πόδια στο σχολείο.	A legtöbb tanuló gyalog megy az iskolába.	στο	0	0
+Τι είναι ο πληθυσμός της Γαλλίας;	Mekkora Franciaország lakossága?	της	0	0
+Προς μεγάλη τους έκπληξη βρέθηκαν μπροστά σε ένα αρχαίο ναυάγιο.	Nagy meglepetésükre egy ősi hajóroncs előtt találták magukat.	ένα	0	0
+Η δύναμη εν τη ενώσει.	Egységben az erő.	τη	0	0
+Χαίρομαι που σας βλέπω.	Örülök, hogy látlak titeket.	σας	0	0
+Ο Τομ μισεί τους αλλοδαπούς.	Tom utálja a külföldieket.	τους	0	0
+Ήταν πολύ ζεστό.	Nagyon forró volt.	ήταν	0	0
+Πώς είσαι;	Hogy vagy?	είσαι	0	0
+Είμαι χαρούμενη που σας συνάντησα τελικά.	Örülök, hogy végre találkoztam veled.	είμαι	0	0
+Είμαστε οι πρώτοι.	Mi vagyunk az elsők.	οι	0	0
+Πάω στην παραλία.	Megyek a strandra.	στην	0	0
+Το νερό ήταν πολύ ζεστό.	Nagyon forró volt a víz.	πολύ	0	0
+Το βλέπω πως έκανα λάθος.	Látom, hogy nem volt igazam.	πως	0	0
+Εγώ δεν είμαι λεσβία.	Nem vagyok leszbikus.	εγώ	0	0
+Τι χρώμα έχει η θάλασσα;	Milyen színű a tenger?	έχει	0	0
+Έχω ένα γιο.	Van egy fiam.	έχω	0	0
+Θέλεις δε θέλεις.	Akár tetszik, akár nem.	δε	0	0
+Καλά Χριστούγεννα!	Boldog Karácsonyt!	καλά	0	0
+Όταν μεγαλώσω, θέλω να γίνω πυροσβέστης	Ha felnövök, tűzoltó szeretnék lenni.	θέλω	0	0
+Όταν μεγαλώσω, θέλω να γίνω πυροσβέστης	Ha felnövök, tűzoltó szeretnék lenni.	όταν	0	0
+Ενημέρωσα το λογισμικό στη νεότερη έκδοση.	A szoftvert a legújabb verzióra frissítettem.	στη	0	0
+Δεν μπορώ να καταλάβω.	Nem tudom megérteni.	μπορώ	0	0
+Τί κάνεις;	Hogy vagy?	κάνεις	0	0
+Ο Τομ πίνει μόνο νερό.	Tamás csak vizet iszik.	μόνο	0	0
+Πώς είσαι;	Hogy vagy?	πώς	0	0
+Ποτέ δεν προλαβαίνεις.	Te soha nem érsz rá.	ποτέ	0	0
+Αυτά είναι δικά μου.	Ezek az enyéim.	αυτά	0	0
+Θα ήθελα να πάμε στην Αίγυπτο.	Szeretnék Egyiptomba menni.	πάμε	0	0
+Πηγαίνω στο σπίτι σου.	Éppen hozzátok megyek.	σπίτι	0	0
+Πού μένεις;	Hol laksz?	πού	0	0
+Είμαστε οι πρώτοι.	Mi vagyunk az elsők.	είμαστε	0	0
+Γεια σου, κόσμε!	Helló, világ!	γεια	0	0
+Θέλω την αλήθεια.	Az igazságot akarom.	αλήθεια	0	0
+Είναι δύο και τέταρτο.	Negyed három van.	δύο	0	0
+Όλοι την αγαπούν.	Mindenki szereti őt.	όλοι	0	0
+Θέλεις δε θέλεις.	Akár tetszik, akár nem.	θέλεις	0	0
+Ο σταθμός είναι κοντά από 'δω.	A pályaudvar itt van nem messze.	δω	0	0
+Θέλω να πάω στην Βραζιλια.	Brazíliába akarok menni.	πάω	0	0
+Είναι μία παρά τέταρτο.	Háromnegyed egy van.	μία	0	0
+Σηκώθηκα στις πέντε το πρωί.	Reggel ötkor keltem.	στις	0	0
+Θα ήθελα να πάμε στην Αίγυπτο.	Szeretnék Egyiptomba menni.	ήθελα	0	0
+Ουτε θεό ούτε αφέντη.	Nem ismer se istent, se embert.	ούτε	0	0
+Πώς μπορούμε να προστατευτούμε από τον κορωνοϊό;	Hogyan védekezhetünk a koronavírus ellen?	μπορούμε	0	0
+Σήμερα είναι Τρίτη.	Kedd van ma.	σήμερα	0	0
+Πόσο μου λείπεις!	Mennyire hiányzol nekem!	πόσο	0	0
+Το βλέπω πως έκανα λάθος.	Látom, hogy nem volt igazam.	έκανα	0	0
+Το βλέπω πως έκανα λάθος.	Látom, hogy nem volt igazam.	λάθος	0	0
+Του τσαγκάρη το παιδί παλιοπάπουτσα φορεί.	A szabónak nincs ruhája.	παιδί	0	0
+Χαίρομαι που σας βλέπω.	Örülök, hogy látlak titeket.	βλέπω	0	0
+Ο πατέρας του Τομ ήταν Εβραίος.	Tom apja zsidó volt.	πατέρας	0	0
+Προς μεγάλη τους έκπληξη βρέθηκαν μπροστά σε ένα αρχαίο ναυάγιο.	Nagy meglepetésükre egy ősi hajóroncs előtt találták magukat.	προς	0	0
+Προς μεγάλη τους έκπληξη βρέθηκαν μπροστά σε ένα αρχαίο ναυάγιο.	Nagy meglepetésükre egy ősi hajóroncs előtt találták magukat.	μεγάλη	0	0
+Τί κάνεις;	Hogy vagy?	τί	0	0
+Ο σταθμός είναι κοντά από 'δω.	A pályaudvar itt van nem messze.	κοντά	0	0
+Είναι παράξενος τύπος.	Fura madár.	τύπος	0	0
+Σηκώθηκα στις πέντε το πρωί.	Reggel ötkor keltem.	πρωί	0	0
+Προς μεγάλη τους έκπληξη βρέθηκαν μπροστά σε ένα αρχαίο ναυάγιο.	Nagy meglepetésükre egy ősi hajóroncs előtt találták magukat.	μπροστά	0	0
+Χαίρομαι που σας βλέπω.	Örülök, hogy látlak titeket.	χαίρομαι	0	0
+Μιλάς Ελληνικά;	Beszélsz görögül?	μιλάς	0	0
+Σ' αγαπώ.	Szeretlek.	αγαπώ	0	0
+Είναι τρεις παρά τέταρτο.	Háromnegyed három van.	τρεις	0	0
+Το νερό ήταν πολύ ζεστό.	Nagyon forró volt a víz.	νερό	0	0
+Σηκώθηκα στις πέντε το πρωί.	Reggel ötkor keltem.	πέντε	0	0
+Οι περισσότεροι μαθητές πηγαίνουν με τα πόδια στο σχολείο.	A legtöbb tanuló gyalog megy az iskolába.	σχολείο	0	0
+Η Γη περιστρέφεται γύρω από τον Ήλιο.	A Föld forog a Nap körül.	γύρω	0	0
+Το όνομά μου είναι Ριχάρδος.	A nevem Ricardo.	όνομά	0	0
+Οι περισσότεροι μαθητές πηγαίνουν με τα πόδια στο σχολείο.	A legtöbb tanuló gyalog megy az iskolába.	πόδια	0	0
+Είμαι χαρούμενη που σας συνάντησα τελικά.	Örülök, hogy végre találkoztam veled.	τελικά	0	0
+Η δύναμη εν τη ενώσει.	Egységben az erő.	δύναμη	0	0
+Η Γη περιστρέφεται γύρω από τον Ήλιο.	A Föld a Nap körül kering.	γη	0	0
+Έχω ένα γιο.	Van egy fiam.	γιο	0	0
+Μιλάω Ρωσικά.	Beszélek oroszul.	μιλάω	0	0
+Είναι οχτώ παρά τέταρτο.	Háromnegyed nyolc van.	παρά	0	0
+Όταν μεγαλώσω, θέλω να γίνω πυροσβέστης	Ha felnövök, tűzoltó szeretnék lenni.	γίνω	0	0
+Αυτά είναι δικά μου.	Ezek az enyéim.	δικά	0	0
+Δεν το περίμενα αυτό.	Erre nem számítottam.	περίμενα	0	0
+Ο Τομ μιλά λίγα Γαλλικά.	Tomi keveset beszél franciául.	λίγα	0	0
+Ουτε θεό ούτε αφέντη.	Nem ismer se istent, se embert.	θεό	0	0
+Η δύναμη εν τη ενώσει.	Egységben az erő.	εν	0	0
+Με συγχωρείς που σε διακόπτω.	Bocsáss meg, hogy félbeszakítalak.	συγχωρείς	0	0
+Ο Τομ μιλά λίγα Γαλλικά.	Tomi keveset beszél franciául.	τομ	0	0
+Προς μεγάλη τους έκπληξη βρέθηκαν μπροστά σε ένα αρχαίο ναυάγιο.	Nagy meglepetésükre egy ősi hajóroncs előtt találták magukat.	έκπληξη	0	0
+Η Ελένη είναι δεκαεφτά χρονών.	Helén tizenhét éves.	χρονών	0	0
+Πηγαίνω στο σπίτι σου.	Éppen hozzátok megyek.	πηγαίνω	0	0
+Δεν μπορώ να καταλάβω.	Nem tudom megérteni.	καταλάβω	0	0
+Καλά Χριστούγεννα!	Boldog Karácsonyt!	χριστούγεννα	0	0
+Τι χρώμα έχει η θάλασσα;	Milyen színű a tenger?	θάλασσα	0	0
+Χτες ήταν Παρασκευή.	Tegnap péntek volt.	χτες	0	0
+Είναι εννέα και μισή.	Fél tíz van.	μισή	0	0
+Η μητρική μου γλώσσα είναι τα Ουγγρικά.	Anyanyelvem a magyar.	γλώσσα	0	0
+Σήμερα είναι Τρίτη.	Ma kedd van.	τρίτη	0	0
+Οι περισσότεροι μαθητές πηγαίνουν με τα πόδια στο σχολείο.	A legtöbb tanuló gyalog megy az iskolába.	περισσότεροι	0	0
+Τι χρώμα έχει η θάλασσα;	Milyen színű a tenger?	χρώμα	0	0
+Μιλάτε Γιαπωνέζικα;	Beszél ön japánul?	μιλάτε	0	0
+Είμαι χαρούμενη που σας συνάντησα τελικά.	Örülök, hogy végre találkoztam veled.	χαρούμενη	0	0
+Είναι οκτώ παρά τέταρτο.	Háromnegyed nyolc van.	οκτώ	0	0
+Πάω στην παραλία.	Megyek a strandra.	παραλία	0	0
+Πού μένεις;	Hol laksz?	μένεις	0	0
+Σήμερα είναι Παρασκευή.	Ma péntek van.	παρασκευή	0	0
+Το νερό ήταν πολύ ζεστό.	Nagyon forró volt a víz.	ζεστό	0	0
+Η Γη περιστρέφεται γύρω από τον Ήλιο.	A Föld kering a Nap körül.	ήλιο	0	0
+Σήμερα είναι Δευτέρα.	Hétfő van ma.	δευτέρα	0	0
+Ουτε θεό ούτε αφέντη.	Nem ismer se istent, se embert.	αφέντη	0	0
+Σήμερα είναι Πέμπτη.	Csütörtök van ma.	πέμπτη	0	0
+Ο Τομ μισεί τους αλλοδαπούς.	Tom utálja a külföldieket.	μισεί	0	0
+Οι περισσότεροι μαθητές πηγαίνουν με τα πόδια στο σχολείο.	A legtöbb tanuló gyalog megy az iskolába.	πηγαίνουν	0	0
+Πόσο μου λείπεις!	Mennyire hiányzol nekem!	λείπεις	0	0
+Οι περισσότεροι μαθητές πηγαίνουν με τα πόδια στο σχολείο.	A legtöbb tanuló gyalog megy az iskolába.	μαθητές	0	0
+Είναι εννέα και μισή.	Fél tíz van.	εννέα	0	0
+Είμαι χαρούμενη που σας συνάντησα τελικά.	Örülök, hogy végre találkoztam veled.	συνάντησα	0	0
+Δέχεστε πιστωτικές κάρτες;	Elfogadnak hitelkártyát?	κάρτες	0	0
+Είναι οχτώ παρά τέταρτο.	Háromnegyed nyolc van.	οχτώ	0	0
+Προς μεγάλη τους έκπληξη βρέθηκαν μπροστά σε ένα αρχαίο ναυάγιο.	Nagy meglepetésükre egy ősi hajóroncs előtt találták magukat.	βρέθηκαν	0	0
+Ο Τομ πίνει μόνο νερό.	Tamás csak vizet iszik.	πίνει	0	0
+Είναι δώδεκα και τέταρτο.	Negyed egy van.	δώδεκα	0	0
+Είμαστε οι πρώτοι.	Mi vagyunk az elsők.	πρώτοι	0	0
+Είναι δύο και τέταρτο.	Negyed három van.	τέταρτο	0	0
+Σήμερα είναι Τετάρτη.	Szerda van ma.	τετάρτη	0	0
+Ο Τομ μιλά λίγα Γαλλικά.	Tomi keveset beszél franciául.	γαλλικά	0	0
+Ουτε θεό ούτε αφέντη.	Nem ismer se istent, se embert.	ουτε	0	0
+Ο Τομ μιλά λίγα Γαλλικά.	Tomi keveset beszél franciául.	μιλά	0	0
+Ενημέρωσα το λογισμικό στη νεότερη έκδοση.	A szoftvert a legújabb verzióra frissítettem.	έκδοση	0	0
+Με συγχωρείς που σε διακόπτω.	Bocsáss meg, hogy félbeszakítalak.	διακόπτω	0	0
+Ο σταθμός είναι κοντά από 'δω.	A pályaudvar itt van nem messze.	σταθμός	0	0
+Όλοι την αγαπούν.	Mindenki szereti őt.	αγαπούν	0	0
+Μιλάτε Ισπανικά;	Beszél ön spanyolul?	ισπανικά	0	0
+Είναι παράξενος τύπος.	Fura madár.	παράξενος	0	0
+Ο πατέρας του Τομ ήταν Εβραίος.	Tom apja zsidó volt.	εβραίος	0	0
+Εγώ δεν είμαι λεσβία.	Nem vagyok leszbikus.	λεσβία	0	0
+Τι είναι ο πληθυσμός της Γαλλίας;	Mekkora Franciaország lakossága?	γαλλίας	0	0
+Όταν μεγαλώσω, θέλω να γίνω πυροσβέστης	Ha felnövök, tűzoltó szeretnék lenni.	μεγαλώσω	0	0
+Δέχεστε πιστωτικές κάρτες;	Elfogadnak hitelkártyát?	πιστωτικές	0	0
+Ενημέρωσα το λογισμικό στη νεότερη έκδοση.	A szoftvert a legújabb verzióra frissítettem.	λογισμικό	0	0
+Προς μεγάλη τους έκπληξη βρέθηκαν μπροστά σε ένα αρχαίο ναυάγιο.	Nagy meglepetésükre egy ősi hajóroncs előtt találták magukat.	αρχαίο	0	0
+Θα ήθελα να πάμε στην Αίγυπτο.	Szeretnék Egyiptomba menni.	αίγυπτο	0	0
+Μιλάς Ελληνικά;	Beszélsz görögül?	ελληνικά	0	0
+Σηκώθηκα στις πέντε το πρωί.	Reggel ötkor keltem.	σηκώθηκα	0	0
+Όταν μεγαλώσω, θέλω να γίνω πυροσβέστης	Ha felnövök, tűzoltó szeretnék lenni.	πυροσβέστης	0	0
+Ενημέρωσα το λογισμικό στη νεότερη έκδοση.	A szoftvert a legújabb verzióra frissítettem.	νεότερη	0	0
+Δέχεστε πιστωτικές κάρτες;	Elfogadnak hitelkártyát?	δέχεστε	0	0
+Γεια σου, κόσμε!	Helló, világ!	κόσμε	0	0
+Προλαβαίνουμε.	Ráérünk.	προλαβαίνουμε	0	0
+Τι είναι ο πληθυσμός της Γαλλίας;	Mekkora Franciaország lakossága?	πληθυσμός	0	0
+Προς μεγάλη τους έκπληξη βρέθηκαν μπροστά σε ένα αρχαίο ναυάγιο.	Nagy meglepetésükre egy ősi hajóroncs előtt találták magukat.	ναυάγιο	0	0
+Η Γη περιστρέφεται γύρω από τον Ήλιο.	A Föld a Nap körül forog.	περιστρέφεται	0	0
+Μιλάτε Ρωσικά;	Beszél ön oroszul?	ρωσικά	0	0
+Μιλάτε αραβικά;	Beszél ön arabul?	αραβικά	0	0
+Η δύναμη εν τη ενώσει.	Egységben az erő.	ενώσει	0	0
+Η μητρική μου γλώσσα είναι τα Ουγγρικά.	Anyanyelvem a magyar.	μητρική	0	0
+Ενημέρωσα το λογισμικό στη νεότερη έκδοση.	A szoftvert a legújabb verzióra frissítettem.	ενημέρωσα	0	0
+Μιλάτε Ιαπωνικά;	Beszél ön japánul?	ιαπωνικά	0	0
+Η Ελένη είναι δεκαεφτά χρονών.	Helén tizenhét éves.	ελένη	0	0
+Ποτέ δεν προλαβαίνεις.	Te soha nem érsz rá.	προλαβαίνεις	0	0
+Μιλάτε Εβραϊκά;	Beszél ön héberül?	εβραϊκά	0	0
+Μιλάτε Γιαπωνέζικα;	Beszél ön japánul?	γιαπωνέζικα	0	0
+Το όνομά μου είναι Ριχάρδος.	A nevem Ricardo.	ριχάρδος	0	0
+Η Ελένη είναι δεκαεφτά χρονών.	Helén tizenhét éves.	δεκαεφτά	0	0
+Πώς μπορούμε να προστατευτούμε από τον κορωνοϊό;	Hogyan védekezhetünk a koronavírus ellen?	προστατευτούμε	0	0
+Ο Τομ μισεί τους αλλοδαπούς.	Tom utálja a külföldieket.	αλλοδαπούς	0	0

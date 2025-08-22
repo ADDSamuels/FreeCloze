@@ -1,0 +1,316 @@
+Tenho uma surpresa para você. Espero que goste.	Turiu tau staigmeną. Tikiuosi, ji tau patiks.	que	0	0
+A árvore é verde.	Medis yra žalias.	a	0	0
+A África é o berço da humanidade.	Afrika yra žmonijos lopšys.	o	0	0
+Ela não teve escolha, além de se casar com o homem velho.	Ji neturėjo kitos išeities, kaip ištekėti už senio.	não	0	0
+Existem várias maneiras de medir a velocidade.	Yra keli būdai greičiui išmatuoti.	de	0	0
+Esta cama é muito confortável.	Ši lova labai patogi.	é	0	0
+No outono, as folhas ficam vermelhas e douradas.	Rudenį medžių lapai tampa raudoni ir geltoni.	e	0	0
+Eu quero um cachorro.	Aš noriu šuns.	um	0	0
+Por que não dá para beber cerveja no parque?	Kodėl parke negalima alaus gerti?	para	0	0
+Eu gosto de férias.	Aš mėgstu atostogas.	eu	0	0
+Nem uma palavra!	Nieko nesakyk.	uma	0	0
+"Onde está a Laura?" "Ela está na cozinha."	''Kur Laura?'' ''Ji virtuvėje.''	está	0	0
+Se você dirige rápido ou devagar, prossiga com cuidado.	Ar tu greitai važiuoji, ar lėtai, tačiau važiuok atsargiai.	com	0	0
+Ela não teve escolha, além de se casar com o homem velho.	Ji neturėjo kitos išeities, kaip ištekėti už senio.	se	0	0
+Eu queria tanto falar com todas as pessoas do mundo.	Jeigu tik aš galėčiau pasikalbėti su visais pasaulio žmonėmis!	do	0	0
+Desliga o teu motor, por favor.	Būk geras, išjunk variklį.	por	0	0
+Nós aprendemos com os nossos erros.	Mes iš savo klaidų mokomės.	os	0	0
+Ele me escreveu uma longa carta.	Jis man parašė ilgą laišką.	ele	0	0
+A entrada custa seis euros, mas aos domingos é de graça.	Įėjimas kainuoja šešis eurus, tačiau sekmadieniais jis yra nemokamas.	mas	0	0
+Estes textos foram escritos em hebraico, não em aramaico.	Šie tekstai buvo parašyti hebrajų, o ne aramėjų kalba.	em	0	0
+Tenho certeza que ele será bem sucedido.	Esu tikras, kad jam pasiseks.	bem	0	0
+Isso me deixa nervosa.	Tai mane nervina.	isso	0	0
+Moramos perto da estação.	Mes gyvename arti stoties.	da	0	0
+Eu nunca como carne.	Aš niekada nevalgau mėsos	como	0	0
+Sim, por favor.	Taip, prašau.	sim	0	0
+As crianças gostam de iogurte.	Vaikai mėgsta jogurtą.	as	0	0
+Tom ganhou um prêmio no concurso de ortografia.	Tomas laimėjo prizą rašybos konkurse.	no	0	0
+Geralmente se diz que as mulheres vivem mais que os homens.	Paprastai sakoma, kad moterys gyvena ilgiau už vyrus.	mais	0	0
+"Onde está a Laura?" "Ela está na cozinha."	''Kur Laura?'' ''Ji virtuvėje.''	na	0	0
+Meu nome é Sally.	Mano vardas yra Sally.	meu	0	0
+Se você me ajudar, tentarei de novo.	Jei padėsi man, aš pamėginsiu dar kartą.	me	0	0
+Esta cama é muito confortável.	Ši lova labai patogi.	muito	0	0
+Ele foi aceito na faculdade.	Jis buvo priimtas į universitetą.	foi	0	0
+Ela estaria chocada se soubesse o resultado.	Ji būtų šokiruota, jei ji sužinotų rezultatus.	ela	0	0
+Diga a ela que estou no escritório.	Pasakyk jai, kad aš esu biure.	estou	0	0
+Já que eu perdi o trem, eu tive que esperar pelo outro por cerca de uma hora.	Kadangi pavėlavau į traukinį, teko laukti sekančio apie valandą.	já	0	0
+Minha casa não tem telhado.	Mano namas neturi stogo.	minha	0	0
+Espero estar sempre ao seu lado.	Tikiuosi visada būti šalia tavęs.	ao	0	0
+Minha casa não tem telhado.	Mano namas neturi stogo.	tem	0	0
+Eu tenho um laptop.	Turiu laptopa.	tenho	0	0
+Eu vou dizer de novo.	Aš pasakysiu tai vėl.	vou	0	0
+Eu não sei inglês.	Aš nemoku anglų kalbos.	sei	0	0
+Eu desejo a você um feliz natal e um feliz ano novo.	Aš jums linkiu linksmų Kalėdų ir laimingų Naujųjų metų.	você	0	0
+Ela deve ter estudado na França, vendo como ela fala francês fluentemente.	Kadangi ji laisvai kalba prancūziškai, tai tikėtina ji mokėsi Prancūzijoje.	ter	0	0
+O jardineiro era um assassino.	Sodininkas buvo galvažudys.	era	0	0
+O Tom sabe quem sou?	Ar Tomas žino, kas aš esu?	quem	0	0
+Onde fica a Namíbia?	Kur randasi Namibija?	onde	0	0
+Se você dirige rápido ou devagar, prossiga com cuidado.	Ar tu greitai važiuoji, ar lėtai, tačiau važiuok atsargiai.	ou	0	0
+Eu vou dizer de novo.	Aš pasakysiu tai vėl.	dizer	0	0
+Eles são pilotos.	Jie pilotai.	são	0	0
+Não quero limpar a bosta do cachorro.	Nenoriu valyti šunų šūdo.	quero	0	0
+O cachorro estava morto.	Šuo buvo negyvas.	estava	0	0
+Não sou ingênuo.	Aš ne naivus.	sou	0	0
+Peguei seu guarda-chuva por engano.	Per klaidą paėmiau tavo skėtį.	seu	0	0
+Pode me trazer um copo de chá?	Gal galėčiau gauti stiklinę arbatos?	pode	0	0
+Esta cama é muito confortável.	Ši lova labai patogi.	esta	0	0
+Eles são pilotos.	Jie pilotai.	eles	0	0
+Nós aprendemos com os nossos erros.	Mes iš savo klaidų mokomės.	nós	0	0
+Dez anos se passaram desde a sua morte.	Dešimt metų prabėgo nuo jo mirties.	sua	0	0
+Eu gostaria de ver meus pais.	Aš norėčiau pamatyti savo tėvus.	ver	0	0
+Minha casa não tem telhado.	Mano namas neturi stogo.	casa	0	0
+Eu nunca como carne.	Aš niekada nevalgau mėsos	nunca	0	0
+Não sou assim.	Aš ne toks.	assim	0	0
+Eu sou teu irmão.	Aš esu tavo brolis.	teu	0	0
+Eu queria tanto falar com todas as pessoas do mundo.	Jeigu tik aš galėčiau pasikalbėti su visais pasaulio žmonėmis!	falar	0	0
+Alguém já lhe disse quanto você é bonita?	Ar kas nors tau yra sakęs kokia tu graži?	disse	0	0
+Meu pai ouve música clássica.	Mano tėvas klauso klasikinės muzikos.	pai	0	0
+De quem é a vez?	Kieno eilė?	vez	0	0
+Por quê?	Kodėl?	quê	0	0
+Sim, por favor.	Taip, prašau.	favor	0	0
+Não, obrigado.	Ne, ačiū.	obrigado	0	0
+Espero estar sempre ao seu lado.	Tikiuosi visada būti šalia tavęs.	sempre	0	0
+Alguém já lhe disse quanto você é bonita?	Ar kas nors tau yra sakęs kokia tu graži?	alguém	0	0
+Nem uma palavra!	Nieko nesakyk.	nem	0	0
+Dez anos se passaram desde a sua morte.	Dešimt metų prabėgo nuo jo mirties.	anos	0	0
+Sem saber o que dizer, ela permaneceu em silêncio.	Nežinodama, ką pasakyti, ji tylėjo.	sem	0	0
+Espero estar sempre ao seu lado.	Tikiuosi visada būti šalia tavęs.	estar	0	0
+Ela não teve escolha, além de se casar com o homem velho.	Ji neturėjo kitos išeities, kaip ištekėti už senio.	homem	0	0
+Eu queria tanto falar com todas as pessoas do mundo.	Jeigu tik aš galėčiau pasikalbėti su visais pasaulio žmonėmis!	pessoas	0	0
+Maria se apaixonou pelo Japão.	Merė įsimylėjo Japoniją.	pelo	0	0
+O Tom sabe quem sou?	Ar Tomas žino, kas aš esu?	sabe	0	0
+Um, dois, três, quatro, cinco, seis, sete, oito, nove, dez.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	dois	0	0
+Alguém já lhe disse quanto você é bonita?	Ar kas nors tau yra sakęs kokia tu graži?	lhe	0	0
+Ela perguntou por vocês.	Ji apie jus klausė.	vocês	0	0
+Sem saber o que dizer, ela permaneceu em silêncio.	Nežinodama, ką pasakyti, ji tylėjo.	saber	0	0
+Ela deve ter estudado na França, vendo como ela fala francês fluentemente.	Kadangi ji laisvai kalba prancūziškai, tai tikėtina ji mokėsi Prancūzijoje.	deve	0	0
+Eu queria tanto falar com todas as pessoas do mundo.	Jeigu tik aš galėčiau pasikalbėti su visais pasaulio žmonėmis!	queria	0	0
+Eu gostaria de ver meus pais.	Aš norėčiau pamatyti savo tėvus.	meus	0	0
+Tenho certeza que ele será bem sucedido.	Esu tikras, kad jam pasiseks.	certeza	0	0
+Geralmente se diz que as mulheres vivem mais que os homens.	Paprastai sakoma, kad moterys gyvena ilgiau už vyrus.	diz	0	0
+Meu nome é Sally.	Mano vardas yra Sally.	nome	0	0
+Já que eu perdi o trem, eu tive que esperar pelo outro por cerca de uma hora.	Kadangi pavėlavau į traukinį, teko laukti sekančio apie valandą.	outro	0	0
+É inútil tentar se lembrar de todas as palavras do dicionário.	Beprasmiška bandyti išmokti atmintinai visus žodyno žodžius.	tentar	0	0
+Alguém já lhe disse quanto você é bonita?	Ar kas nors tau yra sakęs kokia tu graži?	quanto	0	0
+Um, dois, três, quatro, cinco, seis, sete, oito, nove, dez.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	três	0	0
+Eu queria tanto falar com todas as pessoas do mundo.	Jeigu tik aš galėčiau pasikalbėti su visais pasaulio žmonėmis!	mundo	0	0
+Espero estar sempre ao seu lado.	Tikiuosi visada būti šalia tavęs.	lado	0	0
+Você fez isso por conta própria?	Ar padarei šitą pats?	fez	0	0
+Se você me ajudar, tentarei de novo.	Jei padėsi man, aš pamėginsiu dar kartą.	novo	0	0
+É inútil tentar se lembrar de todas as palavras do dicionário.	Beprasmiška bandyti išmokti atmintinai visus žodyno žodžius.	todas	0	0
+A entrada custa seis euros, mas aos domingos é de graça.	Įėjimas kainuoja šešis eurus, tačiau sekmadieniais jis yra nemokamas.	aos	0	0
+Tenho certeza que ele será bem sucedido.	Esu tikras, kad jam pasiseks.	será	0	0
+Eu fui a Paris.	Nuvykau į Paryžių.	fui	0	0
+Eu tenho duas filhas e dois filhos.	Aš turiu dvi dukras ir du sūnus.	duas	0	0
+Já que eu perdi o trem, eu tive que esperar pelo outro por cerca de uma hora.	Kadangi pavėlavau į traukinį, teko laukti sekančio apie valandą.	hora	0	0
+Eu gosto de frango.	Aš mėgstu vištieną.	gosto	0	0
+Geralmente se diz que as mulheres vivem mais que os homens.	Paprastai sakoma, kad moterys gyvena ilgiau už vyrus.	homens	0	0
+Dez anos se passaram desde a sua morte.	Dešimt metų prabėgo nuo jo mirties.	desde	0	0
+Nós somos ricas.	Mes turtingi.	somos	0	0
+Onde fica a Namíbia?	Kur randasi Namibija?	fica	0	0
+Se você me ajudar, tentarei de novo.	Jei padėsi man, aš pamėginsiu dar kartą.	ajudar	0	0
+Estes textos foram escritos em hebraico, não em aramaico.	Šie tekstai buvo parašyti hebrajų, o ne aramėjų kalba.	foram	0	0
+Eu queria tanto falar com todas as pessoas do mundo.	Jeigu tik aš galėčiau pasikalbėti su visais pasaulio žmonėmis!	tanto	0	0
+Eu sou teu irmão.	Aš esu tavo brolis.	irmão	0	0
+O cachorro estava morto.	Šuo buvo negyvas.	morto	0	0
+Dez anos se passaram desde a sua morte.	Dešimt metų prabėgo nuo jo mirties.	morte	0	0
+Eu desejo a você um feliz natal e um feliz ano novo.	Aš jums linkiu linksmų Kalėdų ir laimingų Naujųjų metų.	feliz	0	0
+Já que eu perdi o trem, eu tive que esperar pelo outro por cerca de uma hora.	Kadangi pavėlavau į traukinį, teko laukti sekančio apie valandą.	tive	0	0
+Gostaria de nadar neste rio.	Norėčiau paplaukioti šioje upėje.	neste	0	0
+Estes textos foram escritos em hebraico, não em aramaico.	Šie tekstai buvo parašyti hebrajų, o ne aramėjų kalba.	estes	0	0
+Tenho uma surpresa para você. Espero que goste.	Turiu tau staigmeną. Tikiuosi, ji tau patiks.	espero	0	0
+Eu desejo a você um feliz natal e um feliz ano novo.	Aš jums linkiu linksmų Kalėdų ir laimingų Naujųjų metų.	ano	0	0
+Você fez isso por conta própria?	Ar padarei šitą pats?	conta	0	0
+Estas caixas são frágeis.	Šios dėžės yra trapios.	estas	0	0
+Moramos perto da estação.	Mes gyvename arti stoties.	perto	0	0
+Se você dirige rápido ou devagar, prossiga com cuidado.	Ar tu greitai važiuoji, ar lėtai, tačiau važiuok atsargiai.	cuidado	0	0
+Nós aprendemos com os nossos erros.	Mes iš savo klaidų mokomės.	nossos	0	0
+Um, dois, três, quatro, cinco, seis, sete, oito, nove, dez.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	cinco	0	0
+Ela deve ter estudado na França, vendo como ela fala francês fluentemente.	Kadangi ji laisvai kalba prancūziškai, tai tikėtina ji mokėsi Prancūzijoje.	fala	0	0
+Meu pai ouve música clássica.	Mano tėvas klauso klasikinės muzikos.	ouve	0	0
+Não havia muitas médicas nessa época.	Tais lakais moterų gydytojų nebuvo daug.	havia	0	0
+Por que não dá para beber cerveja no parque?	Kodėl parke negalima alaus gerti?	dá	0	0
+Você está no meu coração.	Tu esi mano širdyje.	coração	0	0
+Ela não teve escolha, além de se casar com o homem velho.	Ji neturėjo kitos išeities, kaip ištekėti už senio.	teve	0	0
+Não havia muitas médicas nessa época.	Tais lakais moterų gydytojų nebuvo daug.	muitas	0	0
+Um, dois, três, quatro, cinco, seis, sete, oito, nove, dez.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	quatro	0	0
+Se você dirige rápido ou devagar, prossiga com cuidado.	Ar tu greitai važiuoji, ar lėtai, tačiau važiuok atsargiai.	rápido	0	0
+Geralmente se diz que as mulheres vivem mais que os homens.	Paprastai sakoma, kad moterys gyvena ilgiau už vyrus.	mulheres	0	0
+Eu gostaria de ver meus pais.	Aš norėčiau pamatyti savo tėvus.	pais	0	0
+As crianças gostam de iogurte.	Vaikai mėgsta jogurtą.	crianças	0	0
+Eu tenho duas filhas e dois filhos.	Aš turiu dvi dukras ir du sūnus.	filhos	0	0
+Já que eu perdi o trem, eu tive que esperar pelo outro por cerca de uma hora.	Kadangi pavėlavau į traukinį, teko laukti sekančio apie valandą.	esperar	0	0
+Ela não teve escolha, além de se casar com o homem velho.	Ji neturėjo kitos išeities, kaip ištekėti už senio.	velho	0	0
+Ela não teve escolha, além de se casar com o homem velho.	Ji neturėjo kitos išeities, kaip ištekėti už senio.	além	0	0
+Um, dois, três, quatro, cinco, seis, sete, oito, nove, dez.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	seis	0	0
+Isso me deixa nervosa.	Tai mane nervina.	deixa	0	0
+Diga a ela que estou no escritório.	Pasakyk jai, kad aš esu biure.	diga	0	0
+Esta cama é muito confortável.	Ši lova labai patogi.	cama	0	0
+Nem uma palavra!	Nieko nesakyk.	palavra	0	0
+Gostaria de nadar neste rio.	Norėčiau paplaukioti šioje upėje.	gostaria	0	0
+Meu pai ouve música clássica.	Mano tėvas klauso klasikinės muzikos.	música	0	0
+Por que não dá para beber cerveja no parque?	Kodėl parke negalima alaus gerti?	beber	0	0
+Toma o que quiseres.	Paimk ką nori.	toma	0	0
+Dez anos se passaram desde a sua morte.	Dešimt metų prabėgo nuo jo mirties.	dez	0	0
+O jardineiro era um assassino.	Sodininkas buvo galvažudys.	assassino	0	0
+Eu desejo a você um feliz natal e um feliz ano novo.	Aš jums linkiu linksmų Kalėdų ir laimingų Naujųjų metų.	natal	0	0
+Toma o que quiseres.	Paimk ką nori.	quiseres	0	0
+Você fez isso por conta própria?	Ar padarei šitą pats?	própria	0	0
+É inútil tentar se lembrar de todas as palavras do dicionário.	Beprasmiška bandyti išmokti atmintinai visus žodyno žodžius.	palavras	0	0
+Diga a ela que estou no escritório.	Pasakyk jai, kad aš esu biure.	escritório	0	0
+Alguém já lhe disse quanto você é bonita?	Ar kas nors tau yra sakęs kokia tu graži?	bonita	0	0
+Tom tem doze irmãos.	Tomas turi dvylika brolių.	tom	0	0
+Tomás pos os livros na mesa.	Tomas padėjo knygas ant stalo.	mesa	0	0
+Ela não teve escolha, além de se casar com o homem velho.	Ji neturėjo kitos išeities, kaip ištekėti už senio.	escolha	0	0
+Um, dois, três, quatro, cinco, seis, sete, oito, nove, dez.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	sete	0	0
+Não havia muitas médicas nessa época.	Tais lakais moterų gydytojų nebuvo daug.	nessa	0	0
+Ele me escreveu uma longa carta.	Jis man parašė ilgą laišką.	carta	0	0
+Ele é professor.	Jis yra mokytojas.	professor	0	0
+Ela não teve escolha, além de se casar com o homem velho.	Ji neturėjo kitos išeities, kaip ištekėti už senio.	casar	0	0
+Pode me trazer um copo de chá?	Gal galėčiau gauti stiklinę arbatos?	trazer	0	0
+Esta escada tem quantos degraus?	Kiek pakopų yra laiptuose?	quantos	0	0
+Um, dois, três, quatro, cinco, seis, sete, oito, nove, dez.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	oito	0	0
+Tenho uma surpresa para você. Espero que goste.	Turiu tau staigmeną. Tikiuosi, ji tau patiks.	surpresa	0	0
+Já que eu perdi o trem, eu tive que esperar pelo outro por cerca de uma hora.	Kadangi pavėlavau į traukinį, teko laukti sekančio apie valandą.	cerca	0	0
+A sopa está quente.	Sriuba yra karšta.	quente	0	0
+Já que eu perdi o trem, eu tive que esperar pelo outro por cerca de uma hora.	Kadangi pavėlavau į traukinį, teko laukti sekančio apie valandą.	perdi	0	0
+Eu nunca como carne.	Aš niekada nevalgau mėsos	carne	0	0
+Ela estaria chocada se soubesse o resultado.	Ji būtų šokiruota, jei ji sužinotų rezultatus.	estaria	0	0
+Por que não dá para beber cerveja no parque?	Kodėl parke negalima alaus gerti?	cerveja	0	0
+A entrada custa seis euros, mas aos domingos é de graça.	Įėjimas kainuoja šešis eurus, tačiau sekmadieniais jis yra nemokamas.	entrada	0	0
+Gostaria de nadar neste rio.	Norėčiau paplaukioti šioje upėje.	rio	0	0
+Tom tem doze irmãos.	Tomas turi dvylika brolių.	irmãos	0	0
+"Onde está a Laura?" "Ela está na cozinha."	''Kur Laura?'' ''Ji virtuvėje.''	cozinha	0	0
+Existem várias maneiras de medir a velocidade.	Yra keli būdai greičiui išmatuoti.	existem	0	0
+Pode me trazer um copo de chá?	Gal galėčiau gauti stiklinę arbatos?	chá	0	0
+É inútil tentar se lembrar de todas as palavras do dicionário.	Beprasmiška bandyti išmokti atmintinai visus žodyno žodžius.	lembrar	0	0
+Eu desejo a você um feliz natal e um feliz ano novo.	Aš jums linkiu linksmų Kalėdų ir laimingų Naujųjų metų.	desejo	0	0
+Tomás pos os livros na mesa.	Tomas padėjo knygas ant stalo.	livros	0	0
+Sem saber o que dizer, ela permaneceu em silêncio.	Nežinodama, ką pasakyti, ji tylėjo.	silêncio	0	0
+Não quero limpar a bosta do cachorro.	Nenoriu valyti šunų šūdo.	limpar	0	0
+Um, dois, três, quatro, cinco, seis, sete, oito, nove, dez.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	nove	0	0
+No outono, as folhas ficam vermelhas e douradas.	Rudenį medžių lapai tampa raudoni ir geltoni.	ficam	0	0
+A entrada custa seis euros, mas aos domingos é de graça.	Įėjimas kainuoja šešis eurus, tačiau sekmadieniais jis yra nemokamas.	graça	0	0
+Moramos perto da estação.	Mes gyvename arti stoties.	estação	0	0
+Existem várias maneiras de medir a velocidade.	Yra keli būdai greičiui išmatuoti.	várias	0	0
+Eu fui a Paris.	Nuvykau į Paryžių.	paris	0	0
+Pode me trazer um copo de chá?	Gal galėčiau gauti stiklinę arbatos?	copo	0	0
+Por que não dá para beber cerveja no parque?	Kodėl parke negalima alaus gerti?	parque	0	0
+Eu não sei inglês.	Aš nemoku anglų kalbos.	inglês	0	0
+Se você dirige rápido ou devagar, prossiga com cuidado.	Ar tu greitai važiuoji, ar lėtai, tačiau važiuok atsargiai.	devagar	0	0
+Eu gosto de férias.	Aš mėgstu atostogas.	férias	0	0
+Ele me escreveu uma longa carta.	Jis man parašė ilgą laišką.	longa	0	0
+Falas híndi?	Ar tu kalbi hindi kalba?	falas	0	0
+Eu não gosto de filmes tristes.	Aš nemėgstu liūdnų filmų.	filmes	0	0
+Esta maçã está doce.	Šis obuolys yra saldus.	doce	0	0
+As crianças gostam de iogurte.	Vaikai mėgsta jogurtą.	gostam	0	0
+A árvore é verde.	Medis yra žalias.	árvore	0	0
+Os marinheiros abandonaram o navio em chamas.	Jūreiviai paliko degantį laivą.	chamas	0	0
+Ele foi aceito na faculdade.	Jis buvo priimtas į universitetą.	faculdade	0	0
+O gato me assustou.	Katė išgąsdino mane.	gato	0	0
+Existem várias maneiras de medir a velocidade.	Yra keli būdai greičiui išmatuoti.	velocidade	0	0
+A árvore é verde.	Medis yra žalias.	verde	0	0
+Tanto Tom, quanto Maria são do Canadá.	Ir Tomas, ir Marija yra iš Kanados.	maria	0	0
+Não havia muitas médicas nessa época.	Tais lakais moterų gydytojų nebuvo daug.	época	0	0
+Os marinheiros abandonaram o navio em chamas.	Jūreiviai paliko degantį laivą.	navio	0	0
+Ela estaria chocada se soubesse o resultado.	Ji būtų šokiruota, jei ji sužinotų rezultatus.	soubesse	0	0
+Isso me deixa nervoso.	Tai mane nervina.	nervoso	0	0
+Ela estaria chocada se soubesse o resultado.	Ji būtų šokiruota, jei ji sužinotų rezultatus.	resultado	0	0
+Não toque o vidro.	Nelieskite stiklo.	toque	0	0
+Ela deve ter estudado na França, vendo como ela fala francês fluentemente.	Kadangi ji laisvai kalba prancūziškai, tai tikėtina ji mokėsi Prancūzijoje.	frança	0	0
+Dez anos se passaram desde a sua morte.	Dešimt metų praėjo nuo jo mirties.	passaram	0	0
+Ele me escreveu uma longa carta.	Jis man parašė ilgą laišką.	escreveu	0	0
+Tom ganhou um prêmio no concurso de ortografia.	Tomas laimėjo prizą rašybos konkurse.	ganhou	0	0
+Nós aprendemos com os nossos erros.	Mes iš savo klaidų mokomės.	erros	0	0
+A entrada custa seis euros, mas aos domingos é de graça.	Įėjimas kainuoja šešis eurus, tačiau sekmadieniais jis yra nemokamas.	custa	0	0
+Ela deve ter estudado na França, vendo como ela fala francês fluentemente.	Kadangi ji laisvai kalba prancūziškai, tai tikėtina ji mokėsi Prancūzijoje.	francês	0	0
+A África é o berço da humanidade.	Afrika yra žmonijos lopšys.	humanidade	0	0
+É inútil tentar se lembrar de todas as palavras do dicionário.	Beprasmiška bandyti išmokti atmintinai visus žodyno žodžius.	inútil	0	0
+Ele foi aceito na faculdade.	Jis buvo priimtas į universitetą.	aceito	0	0
+Minha casa não tem telhado.	Mano namas neturi stogo.	telhado	0	0
+Desliga o teu motor, por favor.	Būk geras, išjunk variklį.	motor	0	0
+Geralmente se diz que as mulheres vivem mais que os homens.	Paprastai sakoma, kad moterys gyvena ilgiau už vyrus.	vivem	0	0
+Esta cama é muito confortável.	Ši lova labai patogi.	confortável	0	0
+"Onde está a Laura?" "Ela está na cozinha."	''Kur Laura?'' ''Ji virtuvėje.''	laura	0	0
+Não toque o vidro.	Nelieskite stiklo.	vidro	0	0
+Eu vou repetir.	Aš pasakysiu tai vėl.	repetir	0	0
+Ela deve ter estudado na França, vendo como ela fala francês fluentemente.	Kadangi ji laisvai kalba prancūziškai, tai tikėtina ji mokėsi Prancūzijoje.	vendo	0	0
+Existem várias maneiras de medir a velocidade.	Yra keli būdai greičiui išmatuoti.	maneiras	0	0
+Ela perguntou por vocês.	Ji apie jus klausė.	perguntou	0	0
+A África é o berço da humanidade.	Afrika yra žmonijos lopšys.	áfrica	0	0
+Gostaria de nadar neste rio.	Norėčiau paplaukioti šioje upėje.	nadar	0	0
+Isso me deixa nervosa.	Tai mane nervina.	nervosa	0	0
+Caixas de papelão são frágeis.	Kartoninės dėžės yra trapios.	caixas	0	0
+A sopa está quente.	Sriuba yra karšta.	sopa	0	0
+Meu nome é Sally.	Mano vardas yra Sally.	sally	0	0
+Peguei seu guarda-chuva por engano.	Per klaidą paėmiau tavo skėtį.	engano	0	0
+Eu gosto de frango.	Aš mėgstu vištieną.	frango	0	0
+Desliga o teu motor, por favor.	Būk geras, išjunk variklį.	desliga	0	0
+Tom ganhou um prêmio no concurso de ortografia.	Tomas laimėjo prizą rašybos konkurse.	concurso	0	0
+Eu não sou de Boston.	Aš ne iš Bostono.	boston	0	0
+Eu tenho duas filhas e dois filhos.	Aš turiu dvi dukras ir du sūnus.	filhas	0	0
+Tom tem doze irmãos.	Tomas turi dvylika brolių.	doze	0	0
+Geralmente se diz que as mulheres vivem mais que os homens.	Paprastai sakoma, kad moterys gyvena ilgiau už vyrus.	geralmente	0	0
+Tenho uma surpresa para você. Espero que goste.	Turiu tau staigmeną. Tikiuosi, ji tau patiks.	goste	0	0
+Maria se apaixonou pelo Japão.	Merė įsimylėjo Japoniją.	japão	0	0
+Tchau!	Viso gero.	tchau	0	0
+O cachorro estava morto.	Šuo buvo negyvas.	cachorro	0	0
+Esta escada tem quantos degraus?	Kiek pakopų yra laiptuose?	escada	0	0
+No outono, as folhas ficam vermelhas e douradas.	Rudenį medžių lapai tampa raudoni ir geltoni.	folhas	0	0
+Peguei seu guarda-chuva por engano.	Per klaidą paėmiau tavo skėtį.	peguei	0	0
+Esta maçã está doce.	Šis obuolys yra saldus.	maçã	0	0
+Existem sobreviventes?	Ar yra likusių gyvų?	sobreviventes	0	0
+Tanto Tom, quanto Maria são do Canadá.	Ir Tomas, ir Marija yra iš Kanados.	canadá	0	0
+A entrada custa seis euros, mas aos domingos é de graça.	Įėjimas kainuoja šešis eurus, tačiau sekmadieniais jis yra nemokamas.	euros	0	0
+Eles são pilotos.	Jie pilotai.	pilotos	0	0
+No outono, as folhas ficam vermelhas e douradas.	Rudenį medžių lapai tampa raudoni ir geltoni.	outono	0	0
+Eu não gosto de filmes tristes.	Aš nemėgstu liūdnų filmų.	tristes	0	0
+Nós aprendemos com os nossos erros.	Mes iš savo klaidų mokomės.	aprendemos	0	0
+Não sou poeta.	Aš ne poetas.	poeta	0	0
+No outono, as folhas ficam vermelhas e douradas.	Rudenį medžių lapai tampa raudoni ir geltoni.	vermelhas	0	0
+Já que eu perdi o trem, eu tive que esperar pelo outro por cerca de uma hora.	Kadangi pavėlavau į traukinį, teko laukti sekančio apie valandą.	trem	0	0
+Tenho certeza que ele será bem sucedido.	Esu tikras, kad jam pasiseks.	sucedido	0	0
+Se você dirige rápido ou devagar, prossiga com cuidado.	Ar tu greitai važiuoji, ar lėtai, tačiau važiuok atsargiai.	prossiga	0	0
+Se você dirige rápido ou devagar, prossiga com cuidado.	Ar tu greitai važiuoji, ar lėtai, tačiau važiuok atsargiai.	dirige	0	0
+Se você me ajudar, tentarei de novo.	Jei padėsi man, aš pamėginsiu dar kartą.	tentarei	0	0
+A entrada custa seis euros, mas aos domingos é de graça.	Įėjimas kainuoja šešis eurus, tačiau sekmadieniais jis yra nemokamas.	domingos	0	0
+A África é o berço da humanidade.	Afrika yra žmonijos lopšys.	berço	0	0
+Meu pai ouve música clássica.	Mano tėvas klauso klasikinės muzikos.	clássica	0	0
+Ela é italiana?	Ar ji italė?	italiana	0	0
+A gata me assustou.	Katė išgąsdino mane.	gata	0	0
+Não havia muitas médicas nessa época.	Tais lakais moterų gydytojų nebuvo daug.	médicas	0	0
+Existem várias maneiras de medir a velocidade.	Yra keli būdai greičiui išmatuoti.	medir	0	0
+Os marinheiros abandonaram o navio em chamas.	Jūreiviai paliko degantį laivą.	marinheiros	0	0
+Nós somos ricas.	Mes turtingi.	ricas	0	0
+O jardineiro era um assassino.	Sodininkas buvo galvažudys.	jardineiro	0	0
+A gata me assustou.	Katė išgąsdino mane.	assustou	0	0
+Esta escada tem quantos degraus?	Kiek pakopų yra laiptuose?	degraus	0	0
+Não quero limpar a bosta do cachorro.	Nenoriu valyti šunų šūdo.	bosta	0	0
+As crianças gostam de iogurte.	Vaikai mėgsta jogurtą.	iogurte	0	0
+Estes textos foram escritos em hebraico, não em aramaico.	Šie tekstai buvo parašyti hebrajų, o ne aramėjų kalba.	escritos	0	0
+Ela estaria chocada se soubesse o resultado.	Ji būtų šokiruota, jei ji sužinotų rezultatus.	chocada	0	0
+É inútil tentar se lembrar de todas as palavras do dicionário.	Beprasmiška bandyti išmokti atmintinai visus žodyno žodžius.	dicionário	0	0
+Peguei seu guarda-chuva por engano.	Per klaidą paėmiau tavo skėtį.	guarda-chuva	0	0
+Eu sou um gênio!	Aš genijus!	gênio	0	0
+Tom ganhou um prêmio no concurso de ortografia.	Tomas laimėjo prizą rašybos konkurse.	prêmio	0	0
+Estes textos foram escritos em hebraico, não em aramaico.	Šie tekstai buvo parašyti hebrajų, o ne aramėjų kalba.	textos	0	0
+Ela deve ter estudado na França, vendo como ela fala francês fluentemente.	Kadangi ji laisvai kalba prancūziškai, tai tikėtina ji mokėsi Prancūzijoje.	estudado	0	0
+Eu viajo.	Aš keliauju.	viajo	0	0
+Os marinheiros abandonaram o navio em chamas.	Jūreiviai paliko degantį laivą.	abandonaram	0	0
+Maria se apaixonou pelo Japão.	Merė įsimylėjo Japoniją.	apaixonou	0	0
+Tomás pos os livros na mesa.	Tomas padėjo knygas ant stalo.	tomás	0	0
+Não sou pessimista.	Aš ne pesimistas.	pessimista	0	0
+Sem saber o que dizer, ela permaneceu em silêncio.	Nežinodama, ką pasakyti, ji tylėjo.	permaneceu	0	0
+Caixas de papelão são frágeis.	Kartoninės dėžės yra trapios.	frágeis	0	0
+Moramos perto da estação.	Mes gyvename arti stoties.	moramos	0	0
+Tom não é pediatra.	Tomas ne pediatras.	pediatra	0	0
+Eu tenho um laptop.	Turiu laptopa.	laptop	0	0
+Ela o cumprimentou alegremente.	Ji sutiko jį džiugiai.	alegremente	0	0
+No outono, as folhas ficam vermelhas e douradas.	Rudenį medžių lapai tampa raudoni ir geltoni.	douradas	0	0
+Tomás pos os livros na mesa.	Tomas padėjo knygas ant stalo.	pos	0	0
+Estes textos foram escritos em hebraico, não em aramaico.	Šie tekstai buvo parašyti hebrajų, o ne aramėjų kalba.	hebraico	0	0
+Tom ganhou um prêmio no concurso de ortografia.	Tomas laimėjo prizą rašybos konkurse.	ortografia	0	0
+Você fala hindi?	Ar tu kalbi hindi kalba?	hindi	0	0
+Não sou ingênuo.	Aš ne naivus.	ingênuo	0	0
+Caixas de papelão são frágeis.	Kartoninės dėžės yra trapios.	papelão	0	0
+Ela deve ter estudado na França, vendo como ela fala francês fluentemente.	Kadangi ji laisvai kalba prancūziškai, tai tikėtina ji mokėsi Prancūzijoje.	fluentemente	0	0

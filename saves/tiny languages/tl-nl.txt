@@ -1,0 +1,202 @@
+Phoenix ang kabisera ng Arizona.	Phoenix is de hoofdstad van Arizona.	ang	0	0
+May bulaklak sa mesa.	Op de tafel ligt een bloem.	sa	0	0
+Ang Sahara ay malawak na desyerto.	De Sahara is een uitgestrekte woestijn.	na	0	0
+Umiinom ka ba ng tsa, o kape?	Drinkt u thee of koffie?	ng	0	0
+Isulat mo ang pangalan mo dito.	Schrijf je naam hier op.	mo	0	0
+Ang pangalan ko po ay Maria.	Mijn naam is Maria.	ko	0	0
+Hindi Tom ang pangalan ko.	Mijn naam is niet Tom.	hindi	0	0
+Ako si Makisig.	Ik ben Makisig.	ako	0	0
+Sino ka ba?	Wie ben jij?	ka	0	0
+Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag en zondag zijn de zeven dagen van de week.	at	0	0
+Ang mga ibon ay pula.	De vogels zijn rood.	mga	0	0
+Ang mga ibon ay pula.	De vogels zijn rood.	ay	0	0
+Isa lang ang sagot.	Er is maar één oplossing.	lang	0	0
+Lalaki ba o babae ang biktima?	Was het slachtoffer een man of een vrouw?	ba	0	0
+Ayaw ko ito.	Dat wil ik niet.	ito	0	0
+May aso siya.	Hij heeft een hond.	siya	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Dit is mijn geheim, het is heel eenvoudig: alleen met het hart kun je goed zien. Het wezenlijke is voor de ogen onzichtbaar.	kung	0	0
+May isang puting na pusa si Maria.	Maria heeft een witte kat.	isang	0	0
+Ako si Maria.	Ik ben Maria.	si	0	0
+Ano ang kasiyahan?	Wat is geluk?	ano	0	0
+Sino po kayo?	Wie bent u?	kayo	0	0
+Isulat mo ang pangalan mo dito.	Schrijf je naam hier op.	dito	0	0
+May isang itim na pusa si Tom.	Tom heeft een zwarte kat.	may	0	0
+Bakit nandito tayo?	Waarom zijn we hier?	tayo	0	0
+Binasa ko ang lahat nitong libro.	Ik heb het boek helemaal uitgelezen.	lahat	0	0
+Maaga pa.	Het is nog vroeg.	pa	0	0
+Tubig nga po.	Water alsjeblieft.	nga	0	0
+"Gusto niya ang musika." "Ako rin."	"Zij houdt van muziek." "Ik ook."	gusto	0	0
+Oo.	Ja.	oo	0	0
+Pinatay ni Trump si Epstein.	Trump heeft Epstein vermoord.	ni	0	0
+"Gusto niya ang musika." "Ako rin."	"Zij houdt van muziek." "Ik ook."	niya	0	0
+Wala akong awto.	Ik heb geen auto.	wala	0	0
+Lalaki ba o babae ang biktima?	Was het slachtoffer een man of een vrouw?	o	0	0
+Ngayon ang aking kaarawan.	Vandaag is het mijn verjaardag.	ngayon	0	0
+Wala akong awto.	Ik heb geen auto.	akong	0	0
+Bakit nandito tayo?	Waarom zijn we hier?	bakit	0	0
+Hindi ko kaya.	Ik kan niet.	kaya	0	0
+Di na nila ipinagbibili yung produkto.	Ze verkopen het product niet langer meer.	di	0	0
+Hindi ko iyon magagawa.	Ik kan het niet doen.	iyon	0	0
+Talaga?	Echt?	talaga	0	0
+Ano ang ibig sabihin niyan?	Wat betekent dat?	sabihin	0	0
+Isa lang ang solusyon.	Er is maar één oplossing.	isa	0	0
+Sumisinag ang araw nang maliwanag.	De zon scheen helder.	nang	0	0
+Siya ang aking guro.	Zij is mijn lerares.	aking	0	0
+Nasa hardin ako.	Ik ben in de tuin.	nasa	0	0
+Nasaan yung aklat?	Waar is het boek?	yung	0	0
+Sino ka?	Wie ben jij?	sino	0	0
+Di na nila ipinagbibili yung produkto.	Ze verkopen het product niet langer meer.	nila	0	0
+Mahal kita.	Ik hou van jou.	kita	0	0
+Naniniwala ako sa Diyos.	Ik geloof in God.	diyos	0	0
+Meron ka bang Facebook account?	Heb je een Facebook-account?	meron	0	0
+Saan nakatayo ang katedral?	Waar staat de kathedraal?	saan	0	0
+"Gusto niya ang musika." "Ako rin."	"Zij houdt van muziek." "Ik ook."	rin	0	0
+Meron ka bang Facebook account?	Heb je een Facebook-account?	bang	0	0
+Dapat matuto tayong tumira sa armonya sa kalikasan.	We moeten leren in harmonie leven met de natuur.	dapat	0	0
+Ano ang iyong katutubong wika?	Wat is uw moedertaal?	iyong	0	0
+Ano ang petsa ngayong araw?	Welke datum is het vandaag?	araw	0	0
+Ako po si Tom.	Ik ben Tom.	po	0	0
+Kay gandang siyudad!	Wat een prachtige stad!	kay	0	0
+Nag-iiba ang mundo bawat minuto.	De wereld verandert elke minuut.	mundo	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Dit is mijn geheim, het is heel eenvoudig: alleen met het hart kun je goed zien. Het wezenlijke is voor de ogen onzichtbaar.	tama	0	0
+Ano ang ibig sabihin niyan?	Wat betekent dat?	ibig	0	0
+Nasaan kayo?	Waar zijn jullie?	nasaan	0	0
+Hindi ako puwede.	Ik kan niet.	puwede	0	0
+Magandang gabi!	Goedenacht!	gabi	0	0
+Bakit nandito tayo?	Waarom zijn we hier?	nandito	0	0
+Sa kaniya ito.	Dit is van haar.	kaniya	0	0
+Nasa bahay ako.	Ik ben thuis.	bahay	0	0
+Ang hindi magandang panahon ay hindi hadlang.	Slecht weer is geen hinderpaal.	magandang	0	0
+Kumilos ka na parang lalaki!	Gedraag je als een man!	parang	0	0
+Ang pangalan ko ay Edgar Degas.	Mijn naam is Edgar Degas.	pangalan	0	0
+Ayaw ko ito.	Dat wil ik niet.	ayaw	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Dit is mijn geheim, het is heel eenvoudig: alleen met het hart kun je goed zien. Het wezenlijke is voor de ogen onzichtbaar.	lamang	0	0
+Tubig nga po.	Water alsjeblieft.	tubig	0	0
+Ano ang ibig sabihin nito?	Wat betekent het?	nito	0	0
+Nakaupo ang dalawang bata sa bakod.	Twee kinderen zitten op een hek.	bata	0	0
+Dapat matuto tayong tumira sa armonya sa kalikasan.	We moeten leren in harmonie leven met de natuur.	tayong	0	0
+Bukas ay isang bagong araw.	Morgen is een nieuwe dag.	bagong	0	0
+Ang hindi magandang panahon ay hindi hadlang.	Slecht weer is geen hinderpaal.	panahon	0	0
+Isa, dalawa, tatlo, apat, lima.	Een, twee, drie, vier, vijf.	dalawa	0	0
+Mahal kita.	Ik hou van jou.	mahal	0	0
+Kumilos ka na parang lalaki!	Gedraag je als een man!	lalaki	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Dit is mijn geheim, het is heel eenvoudig: alleen met het hart kun je goed zien. Het wezenlijke is voor de ogen onzichtbaar.	nakikita	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Dit is mijn geheim, het is heel eenvoudig: alleen met het hart kun je goed zien. Het wezenlijke is voor de ogen onzichtbaar.	puso	0	0
+Nakaupo ang dalawang bata sa bakod.	Twee kinderen zitten op een hek.	dalawang	0	0
+Bukas ay isang bagong araw.	Morgen is een nieuwe dag.	bukas	0	0
+Kamusta?	Hoe gaat het?	kamusta	0	0
+Lalaki ba o babae ang biktima?	Was het slachtoffer een man of een vrouw?	babae	0	0
+Aso ako.	Ik ben een hond.	aso	0	0
+Hello, ako po si Tom.	Hallo, ik ben Tom.	hello	0	0
+Ano ang petsa ngayong araw?	Welke datum is het vandaag?	ngayong	0	0
+Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag en zondag zijn de zeven dagen van de week.	linggo	0	0
+Magandang umaga po.	Goedemorgen.	umaga	0	0
+Pantasyang hayop ang dragon.	De draak is een fantasiebeest.	hayop	0	0
+Lupa! Lupa!	Land! Land!	lupa	0	0
+Nag-iiba ang mundo bawat minuto.	De wereld verandert elke minuut.	bawat	0	0
+Malaki ang oso.	De beer is groot.	malaki	0	0
+Nasaan ang kotse?	Waar is de auto?	kotse	0	0
+Nag-aaral akong magsalita ng Filipino.	Ik leer Filipijns te spreken.	magsalita	0	0
+Masaya si Tom.	Tom is gelukkig.	masaya	0	0
+Hindi ko iyon magagawa.	Ik kan het niet doen.	magagawa	0	0
+Doktor ang asawa ko.	Mijn vrouw is arts.	asawa	0	0
+Nag-iiba ang mundo bawat minuto.	De wereld verandert elke minuut.	minuto	0	0
+Importante ang pamilya.	Het gezin is belangrijk.	pamilya	0	0
+Pula ang dugo.	Bloed is rood.	dugo	0	0
+Binasa ko ang lahat nitong libro.	Ik heb het boek helemaal uitgelezen.	nitong	0	0
+Pinatay ni Trump si Epstein.	Trump heeft Epstein vermoord.	pinatay	0	0
+Kuwarto ko ito.	Dit is mijn kamer.	kuwarto	0	0
+Mahirap ito.	Het is moeilijk.	mahirap	0	0
+Tahimik!	Houd je mond.	tahimik	0	0
+Pantasyang hayop ang dragon.	De draak is een fantasiebeest.	dragon	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Dit is mijn geheim, het is heel eenvoudig: alleen met het hart kun je goed zien. Het wezenlijke is voor de ogen onzichtbaar.	narito	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Dit is mijn geheim, het is heel eenvoudig: alleen met het hart kun je goed zien. Het wezenlijke is voor de ogen onzichtbaar.	mahalaga	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Dit is mijn geheim, het is heel eenvoudig: alleen met het hart kun je goed zien. Het wezenlijke is voor de ogen onzichtbaar.	mata	0	0
+Ngayon ang aking kaarawan.	Vandaag is het mijn verjaardag.	kaarawan	0	0
+May pusa siya.	Ze heeft een kat.	pusa	0	0
+Nasaan yung libro?	Waar is het boek?	libro	0	0
+Meron ka bang Facebook account?	Heb je een Facebook-account?	facebook	0	0
+Nasaan ang itim na pusa?	Waar is de zwarte kat?	itim	0	0
+Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	tatlo	0	0
+Dapat matuto tayong tumira sa armonya sa kalikasan.	We moeten leren in harmonie leven met de natuur.	kalikasan	0	0
+Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	apat	0	0
+Ano ang ibig sabihin niyan?	Wat betekent dat?	niyan	0	0
+Isda po iyon.	Dit is een vis.	isda	0	0
+Maligayang kaarawan!	Gelukkige verjaardag!	maligayang	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Dit is mijn geheim, het is heel eenvoudig: alleen met het hart kun je goed zien. Het wezenlijke is voor de ogen onzichtbaar.	lihim	0	0
+Importante ang pamilya.	Het gezin is belangrijk.	importante	0	0
+Ang mga ibon ay pula.	De vogels zijn rood.	ibon	0	0
+Bakit bughaw ang langit?	Waarom is de hemel blauw?	langit	0	0
+Ano ang pinagkaiba ng aso sa lobo?	Wat is het verschil tussen een hond en een wolf?	lobo	0	0
+Mag-Ingat sa Aso!	Pas op voor de hond!	mag-ingat	0	0
+Kumakain pa ako.	Ik ben nog aan het eten.	kumakain	0	0
+Mainit ngayon.	Het is heet vandaag.	mainit	0	0
+France ay sa Kanlurang Europa.	Frankrijk ligt in West-Europa.	france	0	0
+Naniniwala ako sa Diyos.	Ik geloof in God.	naniniwala	0	0
+Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	anim	0	0
+Bobo ka.	Je bent dom.	bobo	0	0
+Hindi ako guro.	Ik ben geen leraar.	guro	0	0
+Doktor ang asawa ko.	Mijn vrouw is arts.	doktor	0	0
+Si Mary ay isang bruha.	Maria is een heks.	mary	0	0
+Magtanong ka!	Vraag!	magtanong	0	0
+Nag-aaral ako.	Ik leer.	nag-aaral	0	0
+Kumilos ka na parang lalaki!	Gedraag je als een man!	kumilos	0	0
+May bulaklak sa mesa.	Op de tafel ligt een bloem.	bulaklak	0	0
+France ay sa Kanlurang Europa.	Frankrijk ligt in West-Europa.	europa	0	0
+Kay gandang siyudad!	Wat een prachtige stad!	siyudad	0	0
+Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag en zondag zijn de zeven dagen van de week.	biyernes	0	0
+Dapat matuto tayong tumira sa armonya sa kalikasan.	We moeten leren in harmonie leven met de natuur.	tumira	0	0
+Saan nakatayo ang katedral?	Waar staat de kathedraal?	nakatayo	0	0
+Umiinom ka ba ng tsa, o kape?	Drinkt u thee of koffie?	umiinom	0	0
+Sumisinag ang araw nang maliwanag.	De zon scheen helder.	maliwanag	0	0
+Isa lang ang sagot.	Er is maar één oplossing.	sagot	0	0
+Malaki ang oso.	De beer is groot.	oso	0	0
+Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	sampu	0	0
+Bitawan mo siya.	Laat hem los.	bitawan	0	0
+Nakaupo ang dalawang bata sa bakod.	Twee kinderen zitten op een hek.	nakaupo	0	0
+May isang puting na pusa si Maria.	Maria heeft een witte kat.	maria	0	0
+May isang puting na pusa si Maria.	Maria heeft een witte kat.	puting	0	0
+Isa lang ang solusyon.	Er is maar één oplossing.	solusyon	0	0
+May bulaklak sa mesa.	Op de tafel ligt een bloem.	mesa	0	0
+Isa, dalawa, tatlo, apat, lima.	Een, twee, drie, vier, vijf.	lima	0	0
+Ano ang petsa ngayon?	Welke datum is het vandaag?	petsa	0	0
+France ay sa Kanlurang Europa.	Frankrijk ligt in West-Europa.	kanlurang	0	0
+Hindi ako perpekto.	Ik ben niet perfect.	perpekto	0	0
+Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	siyam	0	0
+Ano ang kasiyahan?	Wat is geluk?	kasiyahan	0	0
+Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag en zondag zijn de zeven dagen van de week.	huwebes	0	0
+Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag en zondag zijn de zeven dagen van de week.	lunes	0	0
+Ano ang kabisera ng Haiti?	Wat is de hoofdstad van Haïti?	haiti	0	0
+Natalo ang Alemanya at Hapon.	Duitsland en Japan werden verslagen.	hapon	0	0
+Isulat mo ang pangalan mo dito.	Schrijf je naam hier op.	isulat	0	0
+Sikreto iyon.	Dat is een geheim.	sikreto	0	0
+Matanda ako.	Ik ben oud.	matanda	0	0
+Maaga pa.	Het is nog vroeg.	maaga	0	0
+Ang Sahara ay malawak na desyerto.	De Sahara is een uitgestrekte woestijn.	malawak	0	0
+Umiinom ka ba ng tsa, o kape?	Drinkt u thee of koffie?	kape	0	0
+Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	walo	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Dit is mijn geheim, het is heel eenvoudig: alleen met het hart kun je goed zien. Het wezenlijke is voor de ogen onzichtbaar.	nakakakita	0	0
+Ang pangalan ko ay Wang.	Mijn naam is Wang.	wang	0	0
+Meron ka bang Facebook account?	Heb je een Facebook-account?	account	0	0
+Nasaan ang aklat?	Waar is het boek?	aklat	0	0
+Kay gandang siyudad!	Wat een prachtige stad!	gandang	0	0
+Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag en zondag zijn de zeven dagen van de week.	pitong	0	0
+Alerdyik ako sa alikabok.	Ik ben allergisch voor stof.	alikabok	0	0
+Ang Sahara ay malawak na desyerto.	De Sahara is een uitgestrekte woestijn.	desyerto	0	0
+Ako po si Tom.	Ik ben Tom.	tom	0	0
+Si Mary ay isang bruha.	Maria is een heks.	bruha	0	0
+Ano ang iyong katutubong wika?	Wat is uw moedertaal?	katutubong	0	0
+Ano ang pinagkaiba ng aso sa lobo?	Wat is het verschil tussen een hond en een wolf?	pinagkaiba	0	0
+Dapat matuto tayong tumira sa armonya sa kalikasan.	We moeten leren in harmonie leven met de natuur.	matuto	0	0
+Lalaki ba o babae ang biktima?	Was het slachtoffer een man of een vrouw?	biktima	0	0
+Bilog ang mundo, hindi patag.	De aarde is rond, niet plat.	patag	0	0
+Di na nila ipinagbibili yung produkto.	Ze verkopen het product niet langer meer.	produkto	0	0
+Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag en zondag zijn de zeven dagen van de week.	miyerkules	0	0
+May narangha ang prut salad ko.	Er zijn sinaasappels in mijn fruitsalade.	salad	0	0
+Lunes, Martes, Miyerkules, Huwebes, Biyernes, Sabado at Linggo ang pitong araw ng linggo.	Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag en zondag zijn de zeven dagen van de week.	martes	0	0
+Bilog ang mundo, hindi patag.	De aarde is rond, niet plat.	bilog	0	0
+Saan nakatayo ang katedral?	Waar staat de kathedraal?	katedral	0	0
+Phoenix ang kabisera ng Arizona.	Phoenix is de hoofdstad van Arizona.	arizona	0	0
+Ano ang iyong katutubong wika?	Wat is uw moedertaal?	wika	0	0
+Nasa hardin ako.	Ik ben in de tuin.	hardin	0	0
+Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.	pito	0	0

@@ -1,0 +1,973 @@
+Sono le otto e un quarto.	Είναι οκτώ και τέταρτο.	e	0	0
+Non ha la patente di guida.	Δεν έχει δίπλωμα.	non	0	0
+Per favore, annota quello che sto per dire.	Παρακαλώ, γράψε αυτό που πρόκειται να πω.	che	0	0
+Ve ne andate di già?	Φεύγετε κιόλας;	di	0	0
+Mi fa male la testa.	Έχω πονοκέφαλο.	la	0	0
+Questo è il luogo peggiore del mondo.	Αυτό είναι το χειρότερο μέρος στον κόσμο.	il	0	0
+Sono le otto e un quarto.	Είναι οκτώ και τέταρτο.	un	0	0
+Va a studiare in Lituania?	Θα σπουδάζετε στην Λιθουανία;	a	0	0
+Può metterti in prigione per adulterio.	Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	per	0	0
+Pietro è partito ieri per Salonicco. Starà via una settimana.	Ο Πέτρος έφυγε χτες για Θεσσαλονίκη. Θα λείψει μια βδομάδα.	è	0	0
+Non vai a costruire biblioteche in Paraguay?	Δεν θα πάς να φτιάξεις βιβλιοθήκες στην Παραγουάη;	in	0	0
+Pietro è partito ieri per Salonicco. Starà via una settimana.	Ο Πέτρος έφυγε χτες για Θεσσαλονίκη. Θα λείψει μια βδομάδα.	una	0	0
+Mi sono alzato alle cinque del mattino.	Σηκώθηκα στις πέντε το πρωί.	mi	0	0
+Non sono d'accordo con te.	Δεν συμφωνώ μαζί σου.	sono	0	0
+L'ho vista con i miei occhi.	Την έχω δει με τα μάτια μου.	ho	0	0
+L'occitano non è un dialetto del francese.	Τα οξιτανικά δεν είναι διάλεκτος των γαλλικών.	l'	0	0
+"Come si pronuncia il simbolo @ in questa lingua?" "Chiocciola."	«Πώς ονομάζεται το σημείο @ σ' αυτή τη γλώσσα;» «Παπάκι.»	si	0	0
+Lei ha comprato due paia di calze.	Αυτή αγόρασε δύο ζευγάρια κάλτσες.	ha	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	ma	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	lo	0	0
+Cosa fate alla domenica?	Τι κάνετε την Κυριακή;	cosa	0	0
+Non sono d'accordo con te.	Δεν συμφωνώ μαζί σου.	con	0	0
+No, questo è di seconda mano.	Όχι, αυτό είναι από δεύτερο χέρι.	no	0	0
+Mi piace studiare le lingue straniere.	Μου αρέσει να μελετώ ξένες γλώσσες.	le	0	0
+Non ricordo come ti chiami.	Δε θυμάμαι το όνομά σου.	ti	0	0
+Pensa solo a se stessa.	Σκέφτεται μόνο τον εαυτό της.	se	0	0
+È un lupo vestito da agnello.	Είναι μία σιγανοπαπαδιά αυτός.	da	0	0
+Amo i miei genitori.	Αγαπώ τους γονείς μου.	i	0	0
+Come si chiama questo albero?	Πώς ονομάζεται το δέντρο αυτό;	come	0	0
+Io ho 25 anni.	Είμαι είκοσι πέντε ετών.	io	0	0
+So cosa ci hai detto.	Ξέρω τι μας είπες.	ci	0	0
+Mi hai sentito?	Με ακούς;	hai	0	0
+Questo è uno stallone o una cavalla?	Αυτό είναι άλογο ή φοράδα;	questo	0	0
+Io mi conosco molto bene.	Γνωρίζω πολύ καλά τον εαυτό μου.	bene	0	0
+Perché sei venuto qui stamattina?	Γιατί ήρθες εδώ σήμερα το πρωί;	qui	0	0
+A proposito, tu di dove sei?	Τέλος πάντων, από που είσαι;	sei	0	0
+Mi sono alzata alle cinque del mattino.	Σηκώθηκα στις πέντε το πρωί.	del	0	0
+Tra l'altro, tu di dove sei?	Τέλος πάντων, από που είσαι;	tu	0	0
+L'ha fatto da solo ieri.	Χθες το έκανε μόνος του.	solo	0	0
+Non posso lo dire al mio padre.	Δε μπορώ να το πω στον πατέρα μου.	mio	0	0
+Il suo letto è accanto al muro.	Το κρεβάτι της είναι δίπλα στον τοίχο.	al	0	0
+Che cosa volete da me?	Τι θέλετε από μένα;	me	0	0
+Anche per il semplice volo di una farfalla è necessario tutto il cielo.	Ακόμα και για το απλό πέταγμα μιας πεταλούδας χρειάζεται ολόκληρος ο ουρανός.	tutto	0	0
+"La ringrazio molto!" "Non c'è di che."	« Ευχαριστώ πολύ! » - « Τίποτα. »	c'	0	0
+Te ne vai già?	Φεύγεις κιόλας;	te	0	0
+Era una bella giornata, ma non potevo uscire.	Ήταν μια όμορφη μέρα, αλλά δεν μπορούσα να βγω έξω.	era	0	0
+Io non mangio mai della carne.	Δεν τρώω ποτέ κρέας.	della	0	0
+Mia moglie voleva adottare un bambino.	Η σύζυγος μου ήθελε να υιοθετήσει ένα μωρό.	mia	0	0
+Ho fatto un po' di ricerche.	Έκανα λίγη έρευνα.	fatto	0	0
+Cosa vorresti fare ora?	Τι θα ήθελες να κάνεις τώρα;	fare	0	0
+Tom disse che voleva essere vostro amico.	Ο Τομ είπε ότι ήθελε να είναι φίλος σας.	essere	0	0
+So cosa ci ha detto.	Ξέρω τι μας είπε.	so	0	0
+Giocavo spesso a tennis quando ero giovane.	Έπαιζα συχνά τέννις όταν ήμουν ακόμα νέος.	quando	0	0
+Sì.	Ναι.	sì	0	0
+Ci sono dieci gradi sotto zero ora.	Τώρα έχει δέκα βαθμούς κάτω απ'το μηδέν.	ora	0	0
+Lei ha comprato due paia di calze.	Αυτή αγόρασε δύο ζευγάρια κάλτσες.	lei	0	0
+Non le piacciono gli scherzi.	Τα αστεία δεν της αρέσουν.	gli	0	0
+Ne sei così sicuro.	Είσαι τόσο σίγουρος.	ne	0	0
+Oh mio Dio! Tom mi ha guardato!	Θεέ μου! Ο Τομ με κοίταξε!	oh	0	0
+Amo questa città.	Αγαπάω αυτήν την πόλη.	questa	0	0
+Avete detto che avevate fame.	Έχετε πει ότι πεινούσατε.	detto	0	0
+Vieni alla festa, OK?	Έλα στη γιορτή, εντάξει;	ok	0	0
+Va a studiare in Lituania?	Θα σπουδάζετε στην Λιθουανία;	va	0	0
+Noi sappiamo quello che vogliamo.	Ξέρουμε τι θέλουμε.	quello	0	0
+Non mangio mai carne.	Δεν τρώω ποτέ κρέας.	mai	0	0
+Io mangio carne tre volte alla settimana.	Τρώω κρέας τρείς φορές την εβδομάδα.	alla	0	0
+Questo è uno stallone o una cavalla?	Αυτό είναι άλογο ή φοράδα;	o	0	0
+Anche il servizio militare è un dovere patriottico.	Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	anche	0	0
+Il matrimonio non è stato consumato.	Ο γάμος δεν ολοκληρώθηκε.	stato	0	0
+Abbiamo venduto la nostra casa ieri.	Χθες πουλήσαμε το σπίτι μας.	abbiamo	0	0
+Perché tutti mi guardano?	Γιατί με κοιτάνε όλοι;	tutti	0	0
+Il contratto di lavoro era corredato da un elenco completo dei benefici e degli obblighi per entrambe le parti.	Η σύμβαση εργασίας συνοδευόταν από πλήρη κατάλογο παροχών και υποχρεώσεων και για τα δύο μέρη.	dei	0	0
+No, grazie. Io non bevo birra.	Όχι, ευχαριστώ. Δεν πίνω μπίρα.	grazie	0	0
+Chi ha scritto la Bibbia?	Ποιος έγραψε τη Βίβλο;	chi	0	0
+La donna sta leggendo.	Η γυναίκα διαβάζει.	sta	0	0
+Sono molto timida.	Είμαι πολύ ντροπαλή.	molto	0	0
+È più facile dirlo che farlo.	Αυτό είναι εύκολο να το λες, δύσκολο να το κάνεις.	più	0	0
+Voglio bere un caffè.	Θέλω να πιώ ένα καφέ.	voglio	0	0
+Perché stanno parlando in francese?	Γιατί μιλάτε στα γαλλικά;	perché	0	0
+Qual è il tuo soprannome?	Ποιο είναι το ψευδώνυμό σας;	tuo	0	0
+Penso che questo sia un grosso errore.	πιστεύω ότι εκείνο είναι ένα μεγάλο λάθος.	sia	0	0
+Cominciò ad insegnare il berbero nel 2004.	Ξεκίνησε να διδάξω τα βερβερικά το 2004.	nel	0	0
+Lui ha provato a imparare il francese.	Προσπάθησε να μάθει Γαλλικά.	lui	0	0
+Non posso lo dire al mio padre.	Δε μπορώ να το πω στον πατέρα μου.	posso	0	0
+È la tua unica speranza.	Είναι η μόνη σου ελπίδα.	tua	0	0
+Riesci a ricordare il suo nome?	Μπορείς να θυμηθείς το όνομά του;	suo	0	0
+C'è qualcosa di particolare?	Υπάρχει κάτι το ιδιαίτερο;	qualcosa	0	0
+Noi siamo i genitori di Tom.	Είμαστε οι γονείς του Θωμά.	siamo	0	0
+Non mi perdonerebbe mai un'infedeltà.	Δεν θα μου συγχωρούσε ποτέ μια απιστία.	un'	0	0
+Magari fosse davvero così!	Μακάρι να ήταν στα αλήθεια έτσι.	davvero	0	0
+Quel monumento non l'ho ancora visto.	Δεν έχω δει εκείνο το μνημείο.	ancora	0	0
+Non lo so dove hanno nascosto la chiave.	Δεν ξέρω πού έκρυψαν το κλειδί.	hanno	0	0
+Come stai?	Τί κάνεις;	stai	0	0
+Sono nato venti anni fa.	Γεννήθηκα πριν είκοσι χρόνια.	fa	0	0
+Per la sua donna nutre una gelosia morbosa.	Ζηλεύει παθολογικά τη γυναίκα του.	sua	0	0
+Magari fosse davvero così!	Μακάρι να ήταν στα αλήθεια έτσι.	così	0	0
+Dobbiamo vendere la nostra casa.	Πρέπει να πουλήσουμε το σπίτι μας.	casa	0	0
+Uno stallone è un maschio di cavallo.	Ένας επιβήτορας είναι ένα αρσενικό άλογο.	uno	0	0
+Tra l'altro, tu di dove sei?	Τέλος πάντων, από που είσαι;	dove	0	0
+Siete tedesche, vero?	Είστε γερμανοί, έτσι δεν είναι;	vero	0	0
+Cosa vuoi da me?	Τι θες από μένα;	vuoi	0	0
+Noi vogliamo fare qualcosa di interessante.	Θέλουμε να κάνουμε κάτι ενδιαφέρον.	noi	0	0
+Voi due state andando a Phoenix?	Οι δύο σας πάτε στο Φοίνιξ;	due	0	0
+Per favore, annota quello che sto per dire.	Παρακαλώ, γράψε αυτό που πρόκειται να πω.	dire	0	0
+Non sono d'accordo con te.	Δεν συμφωνώ μαζί σου.	d'	0	0
+Questa scatola contiene delle mele.	Το κουτί αυτό περιέχει μήλα.	delle	0	0
+Fuma sempre.	Πάντα καπνίζει αυτός.	sempre	0	0
+Tra l'altro, tu di dove sei?	Τέλος πάντων, από που είσαι;	altro	0	0
+Per favore, annota quello che sto per dire.	Παρακαλώ, γράψε αυτό που πρόκειται να πω.	sto	0	0
+Non volevano andare in Albania.	Δεν ήθελαν να πάνε στην Αλβανία.	andare	0	0
+Cominciò ad insegnare il berbero nel 2004.	Άρχησε να διδάξω τα βερβερικά το 2004.	ad	0	0
+Io non sono arrabbiato con loro.	Δεν είμαι θυμωμένος μαζί τους.	loro	0	0
+Quel monumento non l'ho ancora visto.	Δεν έχω δει εκείνο το μνημείο.	quel	0	0
+Il tempo passò molto in fretta.	Ο χρόνος πέρασε πολύ γρήγορα.	tempo	0	0
+Nella vostra famiglia sono tutti alti.	Στην οικογένειά σας είναι όλοι ψηλοί.	nella	0	0
+Vi stanno cercando.	Σας ψάχνουν.	vi	0	0
+La vita e la morte sono le due facce della stessa moneta.	Ζωή και θάνατος είναι δυο πλευρές του ίδιου νομίσματος.	vita	0	0
+Puoi prendere in prestito una copia da qualsiasi biblioteca pubblica.	Μπορείς να δανειστέις ένα αντίγραφο από οποιαδήποτε δημόσια βιβλιοθήκη.	puoi	0	0
+Entrambi andarono alla finestra per guardare fuori.	Και οι δύο πήγανε στο παράθυρο για να κοιτάξουν έξω.	fuori	0	0
+La carta, un'invenzione cinese vecchia di circa duemila anni, ha lasciato un segno indelebile in tutte le culture.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	anni	0	0
+Perché così tante frasi interessanti non vengono mai adottate da coloro la cui lingua madre è la lingua in cui quelle frasi sono state scritte?	Γιατί τόσες πολλές ενδιαφέρουσες φράσεις δεν υιοθετούνται ποτέ από εκείνους των οποίων η μητρική γλώσσα είναι η γλώσσα στην οποία γράφτηκαν αυτές οι φράσεις;	cui	0	0
+Ogni vigilia di Natale andiamo in chiesa.	Κάθε παραμονή Χριστουγέννων πηγαίνουμε στην εκκλησία.	andiamo	0	0
+Gennaio è il primo mese dell'anno.	Ο Ιανουάριος είναι ο πρώτος μήνας του χρόνου.	dell'	0	0
+Io ho visto la ragazza.	Είδα το κορίτσι.	visto	0	0
+Qualcuno tossì.	Κάποιος έβηξε.	qualcuno	0	0
+Lui l'ha vista all'aeroporto.	Αυτός την είδε στον αεροδρόμιο.	all'	0	0
+Penso che ti piaccia il tuo lavoro.	Νομίζω ότι σου αρέσει η δουλειά σου.	lavoro	0	0
+Voi lavorate duramente.	Εργάζεστε σκληρά.	voi	0	0
+Ciao!	Άντε γεια.	ciao	0	0
+Né Dio né padrone.	Ουτε θεό ούτε αφέντη.	dio	0	0
+L'ho visto soltanto una volta.	Τον είδα μόνο μια φορά.	volta	0	0
+Cosa vorreste fare adesso?	Τι θα θέλατε να κάνετε τώρα;	adesso	0	0
+Sono un uomo libero.	Εγώ είμαι ελεύθερος άνθρωπος.	uomo	0	0
+Mio padre è alto.	Ο πατέρας μου είναι ψηλός.	padre	0	0
+Ho bisogno di più esempi per sapere come si usa questa parola.	Χρειάζομαι περισσότερα παραδείγματα, για να ξέρω πώς χρησιμοποιείται αυτή η λέξη.	bisogno	0	0
+Considero Tom un amico.	Θεωρώ τον Τομ φίλο.	amico	0	0
+Questo è il posto peggiore del mondo.	Αυτό είναι το χειρότερο μέρος στον κόσμο.	posto	0	0
+Non ditelo a nessuno.	Μην πείτε ούτε λέξη γι΄αυτό σε κανέναν.	nessuno	0	0
+Andò via senza dire nulla.	Αυτός έφυγε χωρίς να πει τίποτε.	via	0	0
+Io vengo dal Brasile.	Είμαι από τη Βραζιλία.	dal	0	0
+Dice che non vuole farlo.	Λέει ότι δεν θέλει να το κάνει.	vuole	0	0
+Sua sorella sembra essere giovane.	Η αδερφή της φαίνεται νέα.	sembra	0	0
+Il giorno in cui l'Europa cesserà di parlare le sue molte lingue sarà il giorno in cui l'Europa cesserà di esistere come idea e come progetto.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	giorno	0	0
+Mio nonno fa una passeggiata ogni mattina.	Ο παππούς μου κάνει βόλτα κάθε πρωί.	ogni	0	0
+Insegnare è il modo migliore per imparare.	Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	modo	0	0
+Andò via senza dire nulla.	Αυτός έφυγε χωρίς να πει τίποτε.	senza	0	0
+Speravo di vedere Tom.	Ήλπιζα να δω τον Τομ.	vedere	0	0
+Dobbiamo vendere la nostra casa.	Πρέπει να πουλήσουμε το σπίτι μας.	dobbiamo	0	0
+Il signor Sato parla bene l'inglese.	Ο κ. Σάτο μιλάει καλά Αγγλικά.	signor	0	0
+Qualche volta dovremo parlarne con calma.	Θα έπρεπε κάποτε να συνομιλήσουμε με ηρεμία.	qualche	0	0
+Penso che Tom sia orribile.	Σκέφτομαι ότι ο Τομ είναι απαίσιος.	penso	0	0
+Ecco il mio numero.	Ορίστε το νούμερό μου.	ecco	0	0
+Il giorno in cui l'Europa cesserà di parlare le sue molte lingue sarà il giorno in cui l'Europa cesserà di esistere come idea e come progetto.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	parlare	0	0
+Tra l'altro, tu di dove sei?	Τέλος πάντων, από που είσαι;	tra	0	0
+Te ne vai di già?	Φεύγεις κιόλας;	già	0	0
+Vengo dalla Danimarca.	Εγώ είμαι από τη Δανία.	dalla	0	0
+Le mie scarpe sono troppo piccole.	Τα παπούτσια μου είναι πάρα πολύ μικρά.	troppo	0	0
+Magari fosse davvero così!	Μακάρι να ήταν στα αλήθεια έτσι.	fosse	0	0
+Come lo possiamo mettere in pratica?	Πώς μπορούμε να το πραγματοποιήσουμε;	possiamo	0	0
+Ce la farò.	Θα τα καταφέρω.	ce	0	0
+Il computer è nuovo.	Ο υπολογιστής είναι καινούργιος.	nuovo	0	0
+Mi fa male la testa.	Έχω πονοκέφαλο.	male	0	0
+Perché così tante frasi interessanti non vengono mai adottate da coloro la cui lingua madre è la lingua in cui quelle frasi sono state scritte?	Γιατί τόσες πολλές ενδιαφέρουσες φράσεις δεν υιοθετούνται ποτέ από εκείνους των οποίων η μητρική γλώσσα είναι η γλώσσα στην οποία γράφτηκαν αυτές οι φράσεις;	madre	0	0
+Avete detto che avevate fame.	Έχετε πει ότι πεινούσατε.	avete	0	0
+Mi manchi tanto, amore!	Μου λείπεις τόσο πολύ αγάπη μου.	tanto	0	0
+Voglio chiederti un favore.	Θέλω να σου ζητήσω μια χάρη.	favore	0	0
+Non vai a costruire biblioteche in Paraguay?	Δεν θα πάς να φτιάξεις βιβλιοθήκες στην Παραγουάη;	vai	0	0
+Sulla parete ci sono quattro quadri.	Υπάρχουν τέσσερις εικόνες στην τοίχο.	sulla	0	0
+Avete sentito giusto.	Σωστά ακούσατε.	giusto	0	0
+Sa che sono più anziana di lei.	Ξέρει ότι είμαι γεροντότερη από αυτή.	sa	0	0
+L'ho vista con i miei occhi.	Την είδα με τα μάτια μου.	miei	0	0
+È più facile dirlo che farlo.	Αυτό είναι εύκολο να το λες, δύσκολο να το κάνεις.	farlo	0	0
+Mi sono alzata alle cinque del mattino.	Σηκώθηκα στις πέντε το πρωί.	alle	0	0
+Giocavo spesso a tennis quando ero giovane.	Έπαιζα συχνά τέννις όταν ήμουν ακόμα νέος.	ero	0	0
+Sono persone molto importanti.	Είναι πολύ σημαντικά πρόσωπα.	persone	0	0
+Il nostro aereo è appena arrivato.	Μόλις έφτασε εδώ το αεροπλάνο μας.	nostro	0	0
+La mia casa è vicina al grande albero.	Το σπίτι μου είναι δίπλα στο μεγάλο δέντρο.	grande	0	0
+In che modo il contesto può aiutarci a capire il significato?	Πώς μπορούν να μας βοηθούν τα συμφραζόμενα να κατανοούμε τη σημασία;	può	0	0
+Il nostro aereo è appena arrivato.	Μόλις έφτασε εδώ το αεροπλάνο μας.	appena	0	0
+Qualcuno potrebbe spiegarmelo?	Μπορεί κανείς να μου το εξηγήσει;	potrebbe	0	0
+Dice che lo ha fatto.	Είπε ότι το έκανε.	dice	0	0
+So di non sapere nulla.	Ἓν οἶδα ὅτι ουδὲν οἶδα.	sapere	0	0
+Ho due fratelli e tre sorelle.	Έχω δυο αδερφούς και τρεις αδερφές.	tre	0	0
+Oggi è mercoledì.	Σήμερα είναι Τετάρτη.	oggi	0	0
+Mi piace il sole.	Λατρεύω τον ήλιο.	piace	0	0
+Lui accettò la mia idea.	Δέχτηκε την ιδέα μου.	idea	0	0
+Siete tedesche, vero?	Είστε γερμανοί, έτσι δεν είναι;	siete	0	0
+Ha scritto ai suoi genitori.	Αυτός έγραψε στους γονείς του.	ai	0	0
+Lesse una storia a suo figlio.	Διάβασε μία ιστορία στον γιο του.	figlio	0	0
+Sono d'accordo con te.	Συμφωνώ μαζί σου.	accordo	0	0
+Ne sei così sicuro.	Είσαι τόσο σίγουρος.	sicuro	0	0
+Vieni alla festa, OK?	Έλα στη γιορτή, εντάξει;	vieni	0	0
+Il contratto di lavoro era corredato da un elenco completo dei benefici e degli obblighi per entrambe le parti.	Η σύμβαση εργασίας συνοδευόταν από πλήρη κατάλογο παροχών και υποχρεώσεων και για τα δύο μέρη.	degli	0	0
+Ho trovato difficoltà a risolvere il problema.	Το βρήκα δύσκολο να λύσω το πρόβλημα.	trovato	0	0
+Solo i pazzi dicono queste parole.	Τέτοιες λέξεις λένε μόνο οι τρελοί.	queste	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	forza	0	0
+Dov'è l'ambasciata greca?	Πού είναι η ελληνική πρεσβεία;	dov'	0	0
+La carta, un'invenzione cinese vecchia di circa duemila anni, ha lasciato un segno indelebile in tutte le culture.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	tutte	0	0
+Faccio la guardia.	Στέκομαι φρουρός.	faccio	0	0
+Riesci a ricordare il suo nome?	Μπορείς να θυμηθείς το όνομά του;	nome	0	0
+Ho trovato difficoltà a risolvere il problema.	Το βρήκα δύσκολο να λύσω το πρόβλημα.	problema	0	0
+Ricordo di aver visto la regina.	Θυμάμαι που είδα τη βασίλισσα.	aver	0	0
+Ciao mondo!	Γεια σου, κόσμε!	mondo	0	0
+Hai tutta la vita davanti a te.	Η ζωή είναι μπροστά σου.	tutta	0	0
+Non capisci nulla.	Δεν καταλαβαίνεις τίποτα.	nulla	0	0
+Dobbiamo vendere la nostra casa.	Πρέπει να πουλήσουμε το σπίτι μας.	nostra	0	0
+La donna sta leggendo.	Η γυναίκα διαβάζει.	donna	0	0
+Mi sono ritrovata faccia a faccia con il mio ex marito.	Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	faccia	0	0
+Vuoi essere la mia ragazza?	Θέλεις να γίνεις η κοπέλα μου;	ragazza	0	0
+Sono la pecora nera della famiglia.	Είμαι το μαύρο πρόβατο της οικογένειας.	famiglia	0	0
+Il ragazzo ha sete.	Το αγόρι διψάει.	ragazzo	0	0
+Non volevo chiudere la porta.	Δεν ήθελα να κλείσω την πόρτα.	volevo	0	0
+Hai sentito correttamente.	Σωστά άκουσες.	sentito	0	0
+Pensa solo a se stesso.	Σκέφτεται μόνο τον εαυτό του.	stesso	0	0
+Il giorno in cui l'Europa cesserà di parlare le sue molte lingue sarà il giorno in cui l'Europa cesserà di esistere come idea e come progetto.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	sarà	0	0
+Mi piacciono i tuoi capelli.	Μου αρέσουν τα μαλλιά σου.	tuoi	0	0
+Mangio carne tre volte alla settimana.	Τρώω κρέας τρείς φορές την εβδομάδα.	volte	0	0
+Mi fa male la testa.	Έχω πονοκέφαλο.	testa	0	0
+Ci sono dieci gradi sotto zero adesso.	Τώρα έχει δέκα βαθμούς κάτω απ'το μηδέν.	sotto	0	0
+Ha scritto ai suoi genitori.	Αυτός έγραψε στους γονείς του.	suoi	0	0
+Non vado a fare affari in Francia.	Δεν πάω να κάνω δουλειές στη Γαλλία.	vado	0	0
+Era una bella giornata, ma non potevo uscire.	Ήταν μια όμορφη μέρα, αλλά δεν μπορούσα να βγω έξω.	bella	0	0
+Dissero che erano stanche di perdere.	Είπαν πως κουράζονται να χάνουν.	erano	0	0
+Puoi prendere in prestito una copia da qualsiasi biblioteca pubblica.	Μπορείς να δανειστέις ένα αντίγραφο από οποιαδήποτε δημόσια βιβλιοθήκη.	prendere	0	0
+Non volevo chiudere la porta.	Δεν ήθελα να κλείσω την πόρτα.	porta	0	0
+Mia moglie voleva adottare un bambino.	Η σύζυγος μου ήθελε να υιοθετήσει ένα μωρό.	moglie	0	0
+Vorrei andare in Egitto.	Θα ήθελα να πάμε στην Αίγυπτο.	vorrei	0	0
+Lesse una storia a suo figlio.	Διάβασε μία ιστορία στον γιο του.	storia	0	0
+Vi stanno cercando.	Σας ψάχνουν.	cercando	0	0
+Io sono pronto.	Είμαι έτοιμος.	pronto	0	0
+Sono le tre meno un quarto.	Είναι τρεις παρά τέταρτο.	meno	0	0
+Non capisco la sua domanda.	Δεν καταλαβαίνω την ερώτησή σου.	capisco	0	0
+La polizia non credé alla sua storia.	Η αστυνομία δεν πίστεψε την ιστορία της.	polizia	0	0
+Io sono nato lì.	Γεννήθηκα εκεί.	lì	0	0
+Perché stanno parlando in francese?	Γιατί μιλάτε στα γαλλικά;	stanno	0	0
+Il suo letto è accanto al muro.	Το κρεβάτι της είναι δίπλα στον τοίχο.	letto	0	0
+Tom era come un fratello per me.	Ο Θωμάς ήταν σαν αδελφός για μένα.	fratello	0	0
+Sto nell'ombra.	Στέκομαι στη σκιά.	nell'	0	0
+Venite a trovarci domani.	Επισκευθείτε μας αύριο.	domani	0	0
+L'amore è una cosa importante.	Η αγάπη είναι σημαντικό πράγμα.	amore	0	0
+Perché così tante frasi interessanti non vengono mai adottate da coloro la cui lingua madre è la lingua in cui quelle frasi sono state scritte?	Γιατί τόσες πολλές ενδιαφέρουσες φράσεις δεν υιοθετούνται ποτέ από εκείνους των οποίων η μητρική γλώσσα είναι η γλώσσα στην οποία γράφτηκαν αυτές οι φράσεις;	state	0	0
+Dia questa macchina a Tom.	Δώστε αυτό το αυτοκίνητο στον Τομ.	macchina	0	0
+La bomba è esplosa da due giorni.	Βόμβα εξεράγη πριν δύο μέρες.	giorni	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	nemmeno	0	0
+No, questo è di seconda mano.	Όχι, αυτό είναι από δεύτερο χέρι.	mano	0	0
+Perché volevi andare negli Stati Uniti?	Γιατί ήθελες να πάς στις Ηνωμένες Πολιτείες;	stati	0	0
+Mia moglie voleva adottare un bambino.	Η σύζυγος μου ήθελε να υιοθετήσει ένα μωρό.	bambino	0	0
+Perché così tante frasi interessanti non vengono mai adottate da coloro la cui lingua madre è la lingua in cui quelle frasi sono state scritte?	Γιατί τόσες πολλές ενδιαφέρουσες φράσεις δεν υιοθετούνται ποτέ από εκείνους των οποίων η μητρική γλώσσα είναι η γλώσσα στην οποία γράφτηκαν αυτές οι φράσεις;	quelle	0	0
+Il primo tempo si è concluso ieri.	Χθες τελείωσε η πρώτη περίοδος.	primo	0	0
+Tom disse che voleva essere vostro amico.	Ο Τομ έλεγε ότι ήθελε να είναι φίλος σας.	vostro	0	0
+Non so neanche il suo indirizzo.	Δε γνωρίζω καν τη διεύθυνσή σας.	neanche	0	0
+La vita e la morte sono le due facce della stessa moneta.	Ζωή και θάνατος είναι δυο πλευρές του ίδιου νομίσματος.	morte	0	0
+Non sono qua adesso, vero?	Δεν είναι εδώ τώρα, έτσι;	qua	0	0
+Buon Natale!	Καλά Χριστούγεννα!	buon	0	0
+Felice anno nuovo!	Καλή χρονιά!	anno	0	0
+Le mie scarpe sono troppo piccole.	Τα παπούτσια μου είναι πάρα πολύ μικρά.	mie	0	0
+Portatemi il giornale di oggi, per piacere.	Φέρτε μου την σημερίνη εφημερίδα, παρακαλώ.	piacere	0	0
+Pensa solo a se stessa.	Σκέφτεται μόνο τον εαυτό της.	stessa	0	0
+Mi sento felice.	Αισθάνομαι ευτυχισμένος.	felice	0	0
+Quale vuoi?	Ποια θέλεις;	quale	0	0
+Ne voglio uno migliore di questo.	Θέλω ένα καλύτερο αυτού.	migliore	0	0
+È mia figlia.	Αυτή είναι κόρη μου.	figlia	0	0
+Mi sento felice.	Αισθάνομαι ευτυχισμένος.	sento	0	0
+Il Texas confina col Messico.	Το Τέξας συνορεύει με το Μεξικό.	col	0	0
+Magari fosse vero.	Μακάρι να ήταν αλήθεια.	magari	0	0
+La Terra gira intorno al Sole.	Η Γη περιστρέφεται γύρω από τον Ήλιο.	terra	0	0
+Nella vostra famiglia sono tutti alti.	Στην οικογένειά σας είναι όλοι ψηλοί.	vostra	0	0
+Sto aspettando una telefonata importante.	Περιμένω ένα σημαντικό τηλεφώνημα.	importante	0	0
+Maria ha sussurrato le sue condoglianze alla vedova.	Η Μαρία ψιθύρισε τα συλλυπητήριά της στη χήρα.	sue	0	0
+Io mangio carne tre volte alla settimana.	Τρώω κρέας τρείς φορές την εβδομάδα.	settimana	0	0
+Era una bella giornata, ma non potevo uscire.	Ήταν μια όμορφη μέρα, αλλά δεν μπορούσα να βγω έξω.	uscire	0	0
+Tom ha parlato.	Ο Τομ μίλησε.	parlato	0	0
+L'ho vista con i miei occhi.	Την είδα με τα μάτια μου.	occhi	0	0
+Non ho detto la mia ultima parola!	Δεν είπα την τελευταία λέξη!	ultima	0	0
+Un altro mondo è possibile.	Ένας άλλος κόσμος είναι δυνατός.	possibile	0	0
+L'ospedale è vicino alla scuola.	Το νοσοκομείο είναι δίπλα στο σχολείο.	scuola	0	0
+Un uomo stava pescando sulla riva opposta.	Ένας άντρας ψάρευε στην απέναντι όχθη.	stava	0	0
+Non riesco a dormire a causa tua.	Δεν κοιμάμαι εξαιτίας σου.	riesco	0	0
+Come si chiama questo albero?	Πώς ονομάζεται το δέντρο αυτό;	chiama	0	0
+Cinquanta famiglie vivono in questo piccolo villaggio.	Πενήντα οικογένειες ζουν σε αυτό το μικρό χωριό.	piccolo	0	0
+Chiamerò più tardi.	Θα τηλεφωνήσω αργότερα.	tardi	0	0
+Mi sono ritrovata faccia a faccia con il mio ex marito.	Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	marito	0	0
+Perché sei venuto qui stamattina?	Γιατί ήρθες εδώ σήμερα το πρωί;	venuto	0	0
+Ho incontrato tuo padre ieri.	Συνάντησα τον πατέρα σου χθες.	ieri	0	0
+Spero di no.	Δεν ελπίζω.	spero	0	0
+La carta, un'invenzione cinese vecchia di circa duemila anni, ha lasciato un segno indelebile in tutte le culture.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	lasciato	0	0
+Lo so che ciò è strano.	Ξέρω ότι αυτό είναι παράξενο.	ciò	0	0
+Tom stava parlando.	Ο Τομ μίλησε.	parlando	0	0
+Ecco il mio numero.	Ορίστε το νούμερό μου.	numero	0	0
+Essere grasso è un problema serio per me.	Το να είσαι παχύς είναι ένα σοβαρό πρόβλημα για μένα.	serio	0	0
+Non ci hanno permesso di entrare.	Δεν μας επέτρεψαν να μπούμε μέσα.	entrare	0	0
+Puoi prendere in prestito una copia da qualsiasi biblioteca pubblica.	Μπορείς να δανειστέις ένα αντίγραφο από οποιαδήποτε δημόσια βιβλιοθήκη.	qualsiasi	0	0
+Pensa solo a se stesso.	Σκέφτεται μόνο τον εαυτό του.	pensa	0	0
+L'acqua è composta da idrogeno e ossigeno.	Το νερό αποτελείται από υδρογόνο και οξυγόνο.	acqua	0	0
+È ancora addormentata nella sua stanza.	Κοιμάται ακόμη στο δωμάτιό της.	stanza	0	0
+Disse che stava soffrendo di un forte mal di testa.	Είπε ότι το κεφάλι του πονάει πάρα πολύ.	forte	0	0
+Amo i miei genitori.	Αγαπώ τους γονείς μου.	amo	0	0
+Chi ha inventato il telefono?	Ποιος ανακάλυψε το τηλέφωνο;	telefono	0	0
+Mia moglie voleva adottare un bambino.	Η σύζυγος μου ήθελε να υιοθετήσει ένα μωρό.	voleva	0	0
+L'ospedale è vicino alla scuola.	Το νοσοκομείο είναι δίπλα στο σχολείο.	vicino	0	0
+In che modo il contesto può aiutarci a capire il significato?	Πώς μπορούν να μας βοηθούν τα συμφραζόμενα να κατανοούμε τη σημασία;	capire	0	0
+Mi sono alzato alle cinque del mattino.	Σηκώθηκα στις πέντε το πρωί.	cinque	0	0
+Lo so che ciò è strano.	Ξέρω ότι αυτό είναι παράξενο.	strano	0	0
+Accetto le tue condizioni.	Αποδέχομαι τους όρους σου.	tue	0	0
+Voi due state andando a Phoenix?	Οι δύο σας πάτε στο Φοίνιξ;	andando	0	0
+Noi sappiamo quello che vogliamo.	Ξέρουμε τι θέλουμε.	sappiamo	0	0
+Vieni alla festa, OK?	Έλα στη γιορτή, εντάξει;	festa	0	0
+Le tradizioni non hanno più alcun senso.	Οι παραδόσεις πλέον δεν έχουν κανέναν νόημα.	senso	0	0
+Sulla parete ci sono quattro quadri.	Υπάρχουν τέσσερις εικόνες στην τοίχο.	quattro	0	0
+Sua sorella sembra essere giovane.	Η αδερφή του φαίνεται νέα.	sorella	0	0
+Ellen non parla l'inglese.	Η Έλενα δεν μιλάει αγγλικά.	parla	0	0
+Giri la chiave verso destra.	Γύρνα το κλειδί προς τα δεξιά.	verso	0	0
+Sono incinta di quattro mesi.	Είμαι τεσσάρων μηνών έγκυος.	mesi	0	0
+È la tua unica speranza.	Είναι η μόνη σου ελπίδα.	unica	0	0
+Non capisco la sua domanda.	Δεν καταλαβαίνω την ερώτησή σου.	domanda	0	0
+La Coca-Cola inventò la Fanta, in piena Seconda Guerra Mondiale, per il mercato tedesco.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	guerra	0	0
+Mi conosco molto bene.	Γνωρίζω πολύ καλά τον εαυτό μου.	conosco	0	0
+Qual è la capitale di Haiti?	Ποια είναι η πρωτεύουσα της Αϊτής;	qual	0	0
+L'ho vista con i miei occhi.	Την είδα με τα μάτια μου.	vista	0	0
+Non ricordo come ti chiami.	Δε θυμάμαι το όνομά σου.	ricordo	0	0
+Il conto, per favore.	Τον λογαριασμό, παρακαλώ.	conto	0	0
+Dissero che erano stanche di perdere.	Είπαν πως κουράζονται να χάνουν.	perdere	0	0
+Non hanno figli, che io sappia.	Δεν έχουν παιδιά, απ' ότι ξέρω.	figli	0	0
+Mi piace lavorare con Tom.	Μου αρέσει να δουλεύω με τον Τομ.	lavorare	0	0
+Cosa fate di domenica?	Τι κάνετε την Κυριακή;	fate	0	0
+Ho bisogno di più esempi per sapere come si usa questa parola.	Χρειάζομαι περισσότερα παραδείγματα, για να ξέρω πώς χρησιμοποιείται αυτή η λέξη.	parola	0	0
+Mi piace camminare a piedi nudi sull'erba.	Με ευχαριστεί να περπατάω ξυπόλυτη πάνω στο γκαζόν.	piedi	0	0
+Cosa volete da me?	Τι θέλετε από μένα;	volete	0	0
+Io non sono perfetto.	Δεν είμαι τέλειος.	perfetto	0	0
+Io non voglio mangiare.	Δε θέλω να φάω.	mangiare	0	0
+Entrambi andarono alla finestra per guardare fuori.	Και οι δύο πήγανε στο παράθυρο για να κοιτάξουν έξω.	entrambi	0	0
+Non vado a fare affari in Francia.	Δεν πάω να κάνω δουλειές στη Γαλλία.	affari	0	0
+È più facile dirlo che farlo.	Αυτό είναι εύκολο να το λες, δύσκολο να το κάνεις.	facile	0	0
+Ce la farò.	Θα τα καταφέρω.	farò	0	0
+Non bisogna mettere il carro davanti ai buoi.	Μην κουνάς τα πόδια σου πριν καβαλικέψεις.	davanti	0	0
+Dammi il cinque.	Κόλλα το.	dammi	0	0
+Quanti anni ha?	Πόσο χρονών είναι;	quanti	0	0
+Il matrimonio non è stato consumato.	Ο γάμος δεν ολοκληρώθηκε.	matrimonio	0	0
+John ama Mary.	Ο Τζον αγαπάει τη Μαίρη.	john	0	0
+Molti cittadini si sono uniti all'esercito.	Πολλοί πολίτες εντάχθηκαν στο στρατό.	molti	0	0
+Guardatemi negli occhi!	Κοιτάξτε με στα μάτια!	negli	0	0
+Non riesco a dormire a causa tua.	Δεν κοιμάμαι εξαιτίας σου.	causa	0	0
+Non bisogna mettere il carro davanti ai buoi.	Μην κουνάς τα πόδια σου πριν καβαλικέψεις.	mettere	0	0
+Sappiamo quello che vogliamo.	Ξέρουμε τι θέλουμε.	vogliamo	0	0
+Ha risposto ai suoi genitori.	Αυτός απάντησε στους γονείς του.	genitori	0	0
+Potete proteggermi.	Μπορείτε να με προστατέψετε.	potete	0	0
+Amo questa città.	Αγαπάω αυτήν την πόλη.	città	0	0
+L'ospedale è vicino alla scuola.	Το νοσοκομείο είναι δίπλα στο σχολείο.	ospedale	0	0
+La casa di Tom fu distrutta da un uragano.	Το σπίτι του Τομ καταστράφηκε από έναν τυφώνα.	fu	0	0
+Chi l'ha scritto?	Ποιο το έγραψε;	scritto	0	0
+Smettila di piangere.	Κόψε το κλάμα.	smettila	0	0
+Tom aprì la scatola con attenzione.	Ο Τομ άνοιξε προσεκτικά το κουτί.	attenzione	0	0
+Voglio bere un caffè.	Θέλω να πιώ ένα καφέ.	bere	0	0
+La situazione è migliorata.	Η κατάσταση έχει βελτιωθεί.	situazione	0	0
+Penso che Tom sia un ottimo giocatore.	Πιστεύω ότι ο Θωμάς είναι πολύ καλός παίχτης.	ottimo	0	0
+Lui ha provato a imparare il francese.	Προσπάθησε να μάθει Γαλλικά.	provato	0	0
+Solo i pazzi dicono queste parole.	Τέτοιες λέξεις λένε μόνο οι τρελοί.	parole	0	0
+Solo i pazzi dicono queste parole.	Τέτοιες λέξεις λένε μόνο οι τρελοί.	dicono	0	0
+Abita a New York.	Μένει στη Νέα Υόρκη.	new	0	0
+"Di che nazionalità sono le nostre zie?" "Cinese."	"Ποίο είναι η έθνοηκότητα των θείων μας;" "Κινεζική."	nostre	0	0
+Il nostro aereo è appena arrivato.	Μόλις έφτασε εδώ το αεροπλάνο μας.	arrivato	0	0
+Mi piace camminare a piedi nudi sull'erba.	Με ευχαριστεί να περπατάω ξυπόλυτη πάνω στο γκαζόν.	sull'	0	0
+Ve ne andate di già?	Φεύγετε κιόλας;	andate	0	0
+Non capisci nulla.	Δεν καταλαβαίνεις τίποτα.	capisci	0	0
+Ha trascorso il pomeriggio leggendo un libro.	Αυτός πέρασε το απόγευμα διαβάζοντας ένα βιβλίο.	libro	0	0
+Questa è la mia amica.	Αυτή είναι η φίλη μου.	amica	0	0
+Non portare il tuo cane.	Μην φέρεις τον σκύλο σου.	portare	0	0
+Io ho visto Tom danzare molte volte.	Είδα τον Τομ να χωρέψει μερικές πολλές φορές.	molte	0	0
+È più facile dirlo che farlo.	Αυτό είναι εύκολο να το λες, δύσκολο να το κάνεις.	dirlo	0	0
+Ho alcuni libri francesi.	Έχω μερικά γαλλικά βιβλία.	alcuni	0	0
+Può metterti in prigione per adulterio.	Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	prigione	0	0
+Era una bella giornata, ma non potevo uscire.	Ήταν μια όμορφη μέρα, αλλά δεν μπορούσα να βγω έξω.	giornata	0	0
+Il padre è buono.	Ο πατέρας είναι καλός.	buono	0	0
+Parli italiano?	Μιλάς ιταλικά;	parli	0	0
+Voglio dormire.	Θέλω να κοιμηθώ.	dormire	0	0
+Ci sono dieci gradi sotto zero adesso.	Τώρα έχει δέκα βαθμούς κάτω απ'το μηδέν.	dieci	0	0
+Anche per il semplice volo di una farfalla è necessario tutto il cielo.	Ακόμα και για το απλό πέταγμα μιας πεταλούδας χρειάζεται ολόκληρος ο ουρανός.	cielo	0	0
+Entrambi andarono alla finestra per guardare fuori.	Και οι δύο πήγανε στο παράθυρο για να κοιτάξουν έξω.	guardare	0	0
+Non portare il tuo cane.	Μην φέρεις τον σκύλο σου.	cane	0	0
+Sua sorella sembra essere giovane.	Η αδερφή της φαίνεται νέα.	giovane	0	0
+Mi piacciono i tuoi capelli.	Μου αρέσουν τα μαλλιά σου.	capelli	0	0
+Questa è la verità.	Αυτή είναι η αλήθεια.	verità	0	0
+Il ventilatore non funziona.	Ο ανεμιστήρας δε δουλεύει.	funziona	0	0
+Mio padre è alto.	Ο πατέρας μου είναι ψηλός.	alto	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	futuro	0	0
+Il tempo passò molto in fretta.	Ο χρόνος πέρασε πολύ γρήγορα.	fretta	0	0
+La carne costa cara al giorno d'oggi.	Στις μέρες μας το κρέας είναι ακριβό.	cara	0	0
+Finalmente!	Επιτέλους!	finalmente	0	0
+Io odio il latte.	Μισώ το γάλα.	odio	0	0
+Di solito io non mangio carne rossa.	Δεν τρώω συνήθως κόκκινο κρέας.	solito	0	0
+Sei una brava amica.	Είσαι μια καλή φίλη.	brava	0	0
+Sei una vera bambola oggi!	Κούκλα είσαι σήμερα!	vera	0	0
+Anche per il semplice volo di una farfalla è necessario tutto il cielo.	Ακόμα και για το απλό πέταγμα μιας πεταλούδας χρειάζεται ολόκληρος ο ουρανός.	semplice	0	0
+Non ci hanno permesso di entrare.	Δεν μας επέτρεψαν να μπούμε μέσα.	permesso	0	0
+A lui piace giocare a calcio.	Του αρέσει να παίζει ποδόσφαιρο.	giocare	0	0
+La carta, un'invenzione cinese vecchia di circa duemila anni, ha lasciato un segno indelebile in tutte le culture.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	circa	0	0
+Buon Natale!	Καλά Χριστούγεννα!	natale	0	0
+Occhio per occhio, dente per dente.	Οφθαλμό αντί οφθαλμού και οδόντα αντί οδόντος.	occhio	0	0
+Io sono pronta.	Είμαι έτοιμη.	pronta	0	0
+Mio nonno fa una passeggiata ogni mattina.	Ο παππούς μου κάνει βόλτα κάθε πρωί.	mattina	0	0
+Abita a New York.	Μένει στη Νέα Υόρκη.	york	0	0
+Se togli due da dieci resta otto.	Δέκα μείον δύο ίσον οχτώ.	resta	0	0
+L'ho visto soltanto una volta.	Τον είδα μόνο μια φορά.	soltanto	0	0
+Gennaio è il primo mese dell'anno.	Ο Ιανουάριος είναι ο πρώτος μήνας του χρόνου.	mese	0	0
+Venite a trovarci domani.	Επισκευθείτε μας αύριο.	venite	0	0
+Non ricordo come ti chiami.	Δε θυμάμαι το όνομά σου.	chiami	0	0
+La carta, un'invenzione cinese vecchia di circa duemila anni, ha lasciato un segno indelebile in tutte le culture.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	vecchia	0	0
+Io sono un uomo libero.	Εγώ είμαι ελεύθερος άνθρωπος.	libero	0	0
+A me non piacciono i cani grandi.	Δεν μου αρέσουν τα μεγάλα σκυλιά.	grandi	0	0
+Faceva caldo, così ho aperto la finestra.	Ήταν ζεστά, κι έτσι άνοιξα το παράθυρο.	faceva	0	0
+Non mi piacciono i cani grandi.	Δεν μου αρέσουν τα μεγάλα σκυλιά.	piacciono	0	0
+Sono felice di vederti.	Χαίρομαι που σε βλέπω.	vederti	0	0
+Bisogna battere il ferro finché è caldo.	Στη βράση κολλάει το σίδερο.	finché	0	0
+Tom sta giocando a tennis.	Ο Τομ παίζει τένις.	tom	0	0
+Mi chiesero di leggere loro alcune poesie.	Μου ζήτησαν να τους διαβάσω μερικά ποιήματα.	alcune	0	0
+Grazie mille!	Ευχαριστώ πολύ!	mille	0	0
+La Terra gira intorno al Sole.	Η Γη περιστρέφεται γύρω από τον Ήλιο.	sole	0	0
+Giocavo spesso a tennis quando ero giovane.	Έπαιζα συχνά τέννις όταν ήμουν ακόμα νέος.	spesso	0	0
+Guardate! C'è un gatto nella cucina.	Δείτε! Μια γάτα στην κουζίνα.	guardate	0	0
+Perché volevi andare negli Stati Uniti?	Γιατί ήθελες να πάς στις Ηνωμένες Πολιτείες;	volevi	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	rispetto	0	0
+Ve ne andate già?	Φεύγετε κιόλας;	ve	0	0
+Penso che questo sia un grosso errore.	πιστεύω ότι εκείνο είναι ένα μεγάλο λάθος.	errore	0	0
+Mike tornò dalla biblioteca alle cinque.	Ο Μάικ επέστρεψε από τη βιβλιοθήκη στις πέντε.	mike	0	0
+Sanno tutto.	Τα ξέρουν όλα.	sanno	0	0
+Darò un'occhiata più tardi.	Θα ρίξω μια ματιά αργότερα.	occhiata	0	0
+Anche il servizio militare è un dovere patriottico.	Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	servizio	0	0
+Non è un medico, ma un infermiere.	Δεν είναι γιατρός, παρά νοσηλευτής.	medico	0	0
+Avete detto che avevate fame.	Έχετε πει ότι πεινούσατε.	fame	0	0
+Non hanno figli, che io sappia.	Δεν έχουν παιδιά, απ' ότι ξέρω.	sappia	0	0
+Riesci a ricordare il suo nome?	Μπορείς να θυμηθείς το όνομά του;	riesci	0	0
+Vengo dal Brasile.	Είμαι από τη Βραζιλία.	vengo	0	0
+A proposito, tu di dove sei?	Τέλος πάντων, από που είσαι;	proposito	0	0
+Perché così tante frasi interessanti non vengono mai adottate da coloro la cui lingua madre è la lingua in cui quelle frasi sono state scritte?	Γιατί τόσες πολλές ενδιαφέρουσες φράσεις δεν υιοθετούνται ποτέ από εκείνους των οποίων η μητρική γλώσσα είναι η γλώσσα στην οποία γράφτηκαν αυτές οι φράσεις;	tante	0	0
+Ti riconosco dal filo terribile della tua spada.	Σε γνωρίζω από την κόψη του σπαθιού την τρομερή.	terribile	0	0
+Bisogna battere il ferro finché è caldo.	Στη βράση κολλάει το σίδερο.	bisogna	0	0
+Dov'è l'uscita?	Πού είναι η έξοδος;	uscita	0	0
+Tom disse che voleva essere vostro amico.	Ο Τομ έλεγε ότι ήθελε να είναι φίλος σας.	disse	0	0
+La Terra gira intorno al Sole.	Η Γη περιστρέφεται γύρω από τον Ήλιο.	intorno	0	0
+Penso che questo sia un grosso errore.	πιστεύω ότι εκείνο είναι ένα μεγάλο λάθος.	grosso	0	0
+Giri la chiave verso destra.	Γύρνα το κλειδί προς τα δεξιά.	chiave	0	0
+Noi vogliamo fare qualcosa di interessante.	Θέλουμε να κάνουμε κάτι ενδιαφέρον.	interessante	0	0
+Il nostro aereo è appena arrivato.	Μόλις έφτασε εδώ το αεροπλάνο μας.	aereo	0	0
+Mi guardi quando le parlo!	Κοίταξέ με όταν σου μιλάω!	guardi	0	0
+No, questo è di seconda mano.	Όχι, αυτό είναι από δεύτερο χέρι.	seconda	0	0
+Il contratto di lavoro era corredato da un elenco completo dei benefici e degli obblighi per entrambe le parti.	Η σύμβαση εργασίας συνοδευόταν από πλήρη κατάλογο παροχών και υποχρεώσεων και για τα δύο μέρη.	parti	0	0
+Non vale la pena.	Δεν αξίζει τον κόπο.	vale	0	0
+È una perdita di tempo e di denaro.	Αυτό είναι σπατάλη χρόνου και χρήµατος.	denaro	0	0
+È un lupo vestito da agnello.	Είναι αυτός μια σιγανοπαπαδίτσα.	vestito	0	0
+La carta, un'invenzione cinese vecchia di circa duemila anni, ha lasciato un segno indelebile in tutte le culture.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	carta	0	0
+Mi sono ritrovata faccia a faccia con il mio ex marito.	Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	ex	0	0
+Era una bella giornata, ma non potevo uscire.	Ήταν μια όμορφη μέρα, αλλά δεν μπορούσα να βγω έξω.	potevo	0	0
+Sono le otto e un quarto.	Είναι οκτώ και τέταρτο.	otto	0	0
+Sto aspettando la sua telefonata.	Περιμένω το τηλεφώνημά του.	aspettando	0	0
+Tutti noi parliamo in inglese.	Όλοι μας μιλάμε Αγγλικά.	parliamo	0	0
+Era un tranquillo pomeriggio invernale.	Ήταν ένα ήσυχο χειμωνιάτικο απόγευμα.	tranquillo	0	0
+Qualche volta dovremo parlarne con calma.	Θα έπρεπε κάποτε να συνομιλήσουμε με ηρεμία.	calma	0	0
+Non vale la pena.	Δεν αξίζει τον κόπο.	pena	0	0
+Aspettate laggiù.	Περιμένετε εκεί.	aspettate	0	0
+Questo è il luogo peggiore del mondo.	Αυτό είναι το χειρότερο μέρος στον κόσμο.	luogo	0	0
+Apre la lettera.	Ανοίγει το γράμμα.	lettera	0	0
+Perché così tante frasi interessanti non vengono mai adottate da coloro la cui lingua madre è la lingua in cui quelle frasi sono state scritte?	Γιατί τόσες πολλές ενδιαφέρουσες φράσεις δεν υιοθετούνται ποτέ από εκείνους των οποίων η μητρική γλώσσα είναι η γλώσσα στην οποία γράφτηκαν αυτές οι φράσεις;	vengono	0	0
+La definizione di "famiglia" è cambiata nel corso degli anni.	Ο ορισμός της "οικογένειας" έχει αλλάξει με τα χρόνια.	corso	0	0
+Non voglio né carne né pesce.	Δε θέλω ούτε ψάρι ούτε κρέας.	né	0	0
+Perché sei venuto qui stamattina?	Γιατί ήρθες εδώ σήμερα το πρωί;	stamattina	0	0
+Nuotare fa bene alla salute.	Το κολύμπι κάνει καλό στην υγεία.	salute	0	0
+Il computer è nuovo.	Ο υπολογιστής είναι καινούργιος.	computer	0	0
+Mi guardi quando le parlo!	Κοίταξέ με όταν σου μιλάω!	parlo	0	0
+Fa freddo.	Κάνει κρύο.	freddo	0	0
+Molti cittadini si sono uniti all'esercito.	Πολλοί πολίτες εντάχθηκαν στο στρατό.	esercito	0	0
+Faccio la guardia.	Στέκομαι φρουρός.	guardia	0	0
+No, grazie. Non bevo birra.	Όχι, ευχαριστώ. Δεν πίνω μπίρα.	birra	0	0
+Non è tutto oro quello che luccica.	Ό,τι λάμπει δεν είναι χρυσός.	oro	0	0
+Guardate! C'è un gatto nella cucina.	Δείτε! Μια γάτα στην κουζίνα.	cucina	0	0
+Io non sono in forma.	Δεν είμαι σε φόρμα.	forma	0	0
+Ho incontrato tuo padre ieri.	Συνάντησα τον πατέρα σου χθες.	incontrato	0	0
+Hanno attraversato il confine carichi di droga.	Πέρασαν τα σύνορα φορτωμένοι ναρκωτικά.	droga	0	0
+Anche per il semplice volo di una farfalla è necessario tutto il cielo.	Ακόμα και για το απλό πέταγμα μιας πεταλούδας χρειάζεται ολόκληρος ο ουρανός.	necessario	0	0
+Mio nonno fa una passeggiata ogni mattina.	Ο παππούς μου κάνει βόλτα κάθε πρωί.	nonno	0	0
+La Coca-Cola inventò la Fanta, in piena Seconda Guerra Mondiale, per il mercato tedesco.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	piena	0	0
+Qualche volta dovremo parlarne con calma.	Θα έπρεπε κάποτε να συνομιλήσουμε με ηρεμία.	parlarne	0	0
+Ricordo di aver visto la regina.	Θυμάμαι που είδα τη βασίλισσα.	regina	0	0
+Perché ha aperto la scatola?	Γιατί άνοιξες το κουτί;	aperto	0	0
+Ogni vigilia di Natale andiamo in chiesa.	Κάθε παραμονή Χριστουγέννων πηγαίνουμε στην εκκλησία.	chiesa	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	paziente	0	0
+Le mie scarpe sono troppo piccole.	Τα παπούτσια μου είναι πάρα πολύ μικρά.	scarpe	0	0
+Ho bisogno di più esempi per sapere come si usa questa parola.	Χρειάζομαι περισσότερα παραδείγματα, για να ξέρω πώς χρησιμοποιείται αυτή η λέξη.	usa	0	0
+Le tradizioni non hanno più alcun senso.	Οι παραδόσεις πλέον δεν έχουν κανέναν νόημα.	alcun	0	0
+Gira a sinistra.	Στρίψε αριστερά.	sinistra	0	0
+Tom comprò qualche fiore a Mary.	Ο Τομ έφερε στη Μαίρη μερικά λουλούδια.	mary	0	0
+Lei ha comprato due paia di calze.	Αυτή αγόρασε δύο ζευγάρια κάλτσες.	comprato	0	0
+Uno stallone è un maschio di cavallo.	Ένας επιβήτορας είναι ένα αρσενικό άλογο.	cavallo	0	0
+Sono incinta di quattro mesi.	Είμαι τεσσάρων μηνών έγκυος.	incinta	0	0
+Mio fratello minore sta imparando a leggere in inglese.	Ο μικρός μου αδερφός μου μαθαίνει να διαβάζει αγγλικά.	inglese	0	0
+Anche per il semplice volo di una farfalla è necessario tutto il cielo.	Ακόμα και για το απλό πέταγμα μιας πεταλούδας χρειάζεται ολόκληρος ο ουρανός.	volo	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	attraverso	0	0
+Perché volevi andare negli Stati Uniti?	Γιατί ήθελες να πάς στις Ηνωμένες Πολιτείες;	uniti	0	0
+Non mangio mai carne.	Δεν τρώω ποτέ κρέας.	carne	0	0
+Ho già lavorato in un ristorante.	Έχω δουλέψει σε ένα εστιατόριο.	lavorato	0	0
+Faceva caldo, così ho aperto la finestra.	Ήταν ζεστά, κι έτσι άνοιξα το παράθυρο.	caldo	0	0
+Mi chiesero di leggere loro alcune poesie.	Μου ζήτησαν να τους διαβάσω μερικά ποιήματα.	leggere	0	0
+Era un tranquillo pomeriggio invernale.	Ήταν ένα ήσυχο χειμωνιάτικο απόγευμα.	pomeriggio	0	0
+Giri la chiave verso destra.	Γύρνα το κλειδί προς τα δεξιά.	destra	0	0
+"La ringrazio molto!" "Non c'è di che."	« Ευχαριστώ πολύ! » - « Τίποτα. »	ringrazio	0	0
+Perché mi stanno guardando tutti?	Γιατί με κοιτάνε όλοι;	guardando	0	0
+Ogni mattina bevo caffè con latte.	Κάθε πρωί πίνω καφέ με γάλα.	caffè	0	0
+Tom ha una barca.	Ο Τομ έχει μια βάρκα.	barca	0	0
+Dia questa macchina a Tom.	Δώστε αυτό το αυτοκίνητο στον Τομ.	dia	0	0
+Perché vuoi partire oggi?	Γιατί θέλεις να φύγεις σήμερα;	partire	0	0
+Voi pensate che io sia un dittatore?	Πιστεύετε πως είμαι δικτάτορας;	pensate	0	0
+Sono sposato.	Είμαι παντρεμένος.	sposato	0	0
+John ama Mary.	Ο Τζον αγαπάει τη Μαίρη.	ama	0	0
+La bomba è esplosa da due giorni.	Βόμβα εξεράγη πριν δύο μέρες.	bomba	0	0
+La carta, un'invenzione cinese vecchia di circa duemila anni, ha lasciato un segno indelebile in tutte le culture.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	segno	0	0
+Il cane non ha mangiato la carne.	Ο σκύλος δεν έφαγε το κρέας.	mangiato	0	0
+È la tua unica speranza.	Είναι η μόνη σου ελπίδα.	speranza	0	0
+Vorrei annullare il mio biglietto.	Θα 'θελα να ακυρώσω το εισιτήριό μου.	biglietto	0	0
+Cosa vorresti fare ora?	Τι θα ήθελες να κάνεις τώρα;	vorresti	0	0
+Io non so dove hanno nascosto la chiave.	Δεν ξέρω πού έκρυψαν το κλειδί.	nascosto	0	0
+Ho due fratelli e tre sorelle.	Έχω δυο αδερφούς και τρεις αδερφές.	fratelli	0	0
+Non so neanche il suo indirizzo.	Δε γνωρίζω καν τη διεύθυνσή σας.	indirizzo	0	0
+La smetta di piangere.	Κόψε το κλάμα.	piangere	0	0
+Non ha la patente di guida.	Δεν έχει δίπλωμα.	guida	0	0
+Il prezzo era scandaloso.	Η τιμή ήταν εξωφρενική.	prezzo	0	0
+Io non sono arrabbiato con loro.	Δεν είμαι θυμωμένος μαζί τους.	arrabbiato	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	verrà	0	0
+Penso che Tom sia orribile.	Σκέφτομαι ότι ο Τομ είναι απαίσιος.	orribile	0	0
+Vorrei imparare il russo.	Θέλω να μάθω Ρώσικα.	imparare	0	0
+Il giorno in cui l'Europa cesserà di parlare le sue molte lingue sarà il giorno in cui l'Europa cesserà di esistere come idea e come progetto.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	progetto	0	0
+Entrambi andarono alla finestra per guardare fuori.	Και οι δύο πήγανε στο παράθυρο για να κοιτάξουν έξω.	finestra	0	0
+Gli americani mangiano molta carne.	Οι Αμερικανοί τρώνε πολύ κρέας.	molta	0	0
+Ho già lavorato in un ristorante.	Έχω δουλέψει σε ένα εστιατόριο.	ristorante	0	0
+Sono le nove e mezza.	Είναι εννέα και μισή.	nove	0	0
+Non sono perfetta.	Δεν είμαι τέλεια.	perfetta	0	0
+Ho alcuni libri francesi.	Έχω μερικά γαλλικά βιβλία.	libri	0	0
+Non si può cominciare la casa dal tetto.	Μην κουνάς τα πόδια σου πριν καβαλικέψεις.	cominciare	0	0
+Il suo letto è accanto al muro.	Το κρεβάτι του είναι δίπλα στον τοίχο.	muro	0	0
+Voglio aiutarla a studiare il francese.	Θέλω να της μάθω γαλλικά.	aiutarla	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	spirito	0	0
+"Come pronunciate il simbolo @ in questa lingua?" "Chiocciola."	«Πώς ονομάζεται το σημείο @ σ' αυτή τη γλώσσα;» «Παπάκι.»	lingua	0	0
+Ho fatto un po' di ricerche.	Έκανα λίγη έρευνα.	po'	0	0
+Il suo letto è accanto al muro.	Το κρεβάτι του είναι δίπλα στον τοίχο.	accanto	0	0
+Sono un eroe.	Είμαι ήρωας.	eroe	0	0
+Il contratto di lavoro era corredato da un elenco completo dei benefici e degli obblighi per entrambe le parti.	Η σύμβαση εργασίας συνοδευόταν από πλήρη κατάλογο παροχών και υποχρεώσεων και για τα δύο μέρη.	entrambe	0	0
+Qualche volta dovremo parlarne con calma.	Θα έπρεπε κάποτε να συνομιλήσουμε με ηρεμία.	dovremo	0	0
+Hai due fiori.	Έχεις δυο λουλούδια.	fiori	0	0
+Loro sono una perfetta coppia.	Αυτά είναι ένα τέλειο ζευγάρι.	coppia	0	0
+Tom mangia molta frutta.	Ο Τρώει πολλά φρούτα.	mangia	0	0
+Non volevo chiudere la porta.	Δεν ήθελα να κλείσω την πόρτα.	chiudere	0	0
+La carne costa cara al giorno d'oggi.	Στις μέρες μας το κρέας είναι ακριβό.	costa	0	0
+Aspettate laggiù.	Περιμένετε εκεί.	laggiù	0	0
+Perché hai aperto la scatola?	Γιατί άνοιξες το κουτί;	scatola	0	0
+Come si chiama questo albero?	Πώς ονομάζεται το δέντρο αυτό;	albero	0	0
+Qual è il vostro colore preferito?	Ποιο είναι το αγαπημένο σας χρώμα;	colore	0	0
+Qual è il vostro colore preferito?	Ποιο είναι το αγαπημένο σας χρώμα;	preferito	0	0
+A me non piacciono i cani grandi.	Δεν μου αρέσουν τα μεγάλα σκυλιά.	cani	0	0
+Accetta carte di credito?	Δέχεστε πιστωτική κάρτα;	carte	0	0
+Carne o pesce?	Κρέας ή ψάρι;	pesce	0	0
+Sono nato venti anni fa.	Γεννήθηκα πριν είκοσι χρόνια.	nato	0	0
+La vita è breve.	Η ζωή είναι μικρή.	breve	0	0
+Ho trovato difficoltà a risolvere il problema.	Το βρήκα δύσκολο να λύσω το πρόβλημα.	risolvere	0	0
+Io non voglio ballare.	Δε θέλω να χορέψω.	ballare	0	0
+Maria è amica di Tom.	Η Μαίρη είναι φίλη του Τομ.	maria	0	0
+Il contratto di lavoro era corredato da un elenco completo dei benefici e degli obblighi per entrambe le parti.	Η σύμβαση εργασίας συνοδευόταν από πλήρη κατάλογο παροχών και υποχρεώσεων και για τα δύο μέρη.	contratto	0	0
+Tom dipende da Mary.	Ο Τομ είναι εξαρτημένος από την Μαίρη.	dipende	0	0
+Riesci a ricordare il suo nome?	Μπορείς να θυμηθείς το όνομά του;	ricordare	0	0
+Dobbiamo vendere la nostra casa.	Πρέπει να πουλήσουμε το σπίτι μας.	vendere	0	0
+Perché stanno parlando in francese?	Γιατί μιλάτε στα γαλλικά;	francese	0	0
+Voglio chiederti un favore.	Θέλω να σου ζητήσω μια χάρη.	chiederti	0	0
+Mi faresti una cortesia?	Θα μου κάνεις μια χάρη;	faresti	0	0
+Questo è il luogo peggiore del mondo.	Αυτό είναι το χειρότερο μέρος στον κόσμο.	peggiore	0	0
+Ogni mattina bevo caffè con latte.	Κάθε πρωί πίνω καφέ με γάλα.	latte	0	0
+Guardate! C'è un gatto nella cucina.	Δείτε! Μια γάτα στην κουζίνα.	gatto	0	0
+Ha risposto ai suoi genitori.	Αυτός απάντησε στους γονείς του.	risposto	0	0
+Accetto le tue condizioni.	Αποδέχομαι τους όρους σου.	condizioni	0	0
+Loro sono persone molto importanti.	Είναι πολύ σημαντικά πρόσωπα.	importanti	0	0
+C'è qualcosa di particolare?	Υπάρχει κάτι το ιδιαίτερο;	particolare	0	0
+Buonasera!	Καλησπέρα.	buonasera	0	0
+La Coca-Cola inventò la Fanta, in piena Seconda Guerra Mondiale, per il mercato tedesco.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	mercato	0	0
+Speravo di vedere Tom.	Ήλπιζα να δω τον Τομ.	speravo	0	0
+Io non sono malato.	Δεν είμαι άρρωστος.	malato	0	0
+Ha spostato una sedia.	Μετακίνησε μια καρέκλα.	sedia	0	0
+Beve una bottiglia di latte ogni mattina.	Κάθε πρωί αυτή πίνει ένα μπουκάλι γάλα.	bottiglia	0	0
+È una perdita di tempo e di denaro.	Αυτό είναι σπατάλη χρόνου και χρήµατος.	perdita	0	0
+Mi piace camminare a piedi nudi sull'erba.	Με ευχαριστεί να περπατάω ξυπόλυτη πάνω στο γκαζόν.	camminare	0	0
+Come lo possiamo mettere in pratica?	Πώς μπορούμε να το πραγματοποιήσουμε;	pratica	0	0
+Gli americani mangiano molta carne.	Οι Αμερικανοί τρώνε πολύ κρέας.	americani	0	0
+Cinquanta famiglie vivono in questo piccolo villaggio.	Πενήντα οικογένειες ζουν σε αυτό το μικρό χωριό.	villaggio	0	0
+Anche il servizio militare è un dovere patriottico.	Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	dovere	0	0
+Non mi aspettavo questo.	Δεν το περίμενα αυτό.	aspettavo	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	desiderio	0	0
+Non si preoccupi. La aiuterò.	Μην ανησυχείς εγώ θα σε βοηθήσω	preoccupi	0	0
+Non si può cominciare la casa dal tetto.	Μην κουνάς τα πόδια σου πριν καβαλικέψεις.	tetto	0	0
+Ci conosciamo molto bene.	Γνωριζόμαστε πολύ καλά.	conosciamo	0	0
+Sono sposata.	Είμαι παντρεμένη.	sposata	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	cancro	0	0
+Ti riconosco dal filo terribile della tua spada.	Σε γνωρίζω από την κόψη του σπαθιού την τρομερή.	spada	0	0
+Vado in spiaggia.	Πάω στην παραλία.	spiaggia	0	0
+Sto aspettando una telefonata importante.	Περιμένω ένα σημαντικό τηλεφώνημα.	telefonata	0	0
+Il contratto di lavoro era corredato da un elenco completo dei benefici e degli obblighi per entrambe le parti.	Η σύμβαση εργασίας συνοδευόταν από πλήρη κατάλογο παροχών και υποχρεώσεων και για τα δύο μέρη.	completo	0	0
+Il maiale è rosa.	Το γουρούνι είναι ροζ.	rosa	0	0
+Sono le nove e mezza.	Είναι εννέα και μισή.	mezza	0	0
+Oh mio Dio! Tom mi ha guardato!	Θεέ μου! Ο Τομ με κοίταξε!	guardato	0	0
+Abbiamo venduto la nostra casa ieri.	Χθες πουλήσαμε το σπίτι μας.	venduto	0	0
+Mi piace camminare a piedi nudi sull'erba.	Με ευχαριστεί να περπατάω ξυπόλυτη πάνω στο γκαζόν.	erba	0	0
+Pietro è partito ieri per Salonicco. Starà via una settimana.	Ο Πέτρος έφυγε χτες για Θεσσαλονίκη. Θα λείψει μια βδομάδα.	partito	0	0
+Sono la pecora nera della famiglia.	Είμαι το μαύρο πρόβατο της οικογένειας.	nera	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	segni	0	0
+Sbagliando s'impara.	Το πάθος γίνεται μάθος.	s'	0	0
+Portatemi il giornale di oggi, per piacere.	Φέρτε μου την σημερίνη εφημερίδα, παρακαλώ.	giornale	0	0
+La mia casa è vicina al grande albero.	Το σπίτι μου είναι δίπλα στο μεγάλο δέντρο.	vicina	0	0
+Anche il servizio militare è un dovere patriottico.	Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	militare	0	0
+Né Dio né padrone.	Ουτε θεό ούτε αφέντη.	padrone	0	0
+Ci sono dieci gradi sotto zero ora.	Τώρα έχει δέκα βαθμούς κάτω απ'το μηδέν.	zero	0	0
+Mi sono alzata alle cinque del mattino.	Σηκώθηκα στις πέντε το πρωί.	mattino	0	0
+Solo i pazzi dicono queste parole.	Τέτοιες λέξεις λένε μόνο οι τρελοί.	pazzi	0	0
+Sono nata venti anni fa.	Γεννήθηκα πριν είκοσι χρόνια.	venti	0	0
+Io parto domenica.	Θα φύγω την Κυριακή.	domenica	0	0
+Non volevano andare in Albania.	Δεν ήθελαν να πάνε στην Αλβανία.	volevano	0	0
+Cinquanta famiglie vivono in questo piccolo villaggio.	Πενήντα οικογένειες ζουν σε αυτό το μικρό χωριό.	famiglie	0	0
+La Terra gira intorno al Sole.	Η Γη περιστρέφεται γύρω από τον Ήλιο.	gira	0	0
+La casa è rossa.	Το σπίτι είναι κόκκινο.	rossa	0	0
+Disse che stava soffrendo di un forte mal di testa.	Είπε ότι το κεφάλι του πονάει πάρα πολύ.	mal	0	0
+Tom non ha interesse nella scienza.	Ο Τομ δεν ενδιαφέρεται για την επιστήμη.	interesse	0	0
+Non vado a fare affari in Francia.	Δεν πάω να κάνω δουλειές στη Γαλλία.	francia	0	0
+Gli studenti risero.	Οι μαθητές γέλασαν.	studenti	0	0
+Il lago è molto profondo.	Η λίμνη είναι πολύ βαθιά.	profondo	0	0
+È un lupo vestito da agnello.	Είναι μία σιγανοπαπαδιά αυτός.	lupo	0	0
+Le mie scarpe sono troppo piccole.	Τα παπούτσια μου είναι πάρα πολύ μικρά.	piccole	0	0
+Ha rinunciato a tutti i suoi diritti.	Παραιτήθηκε απ' όλα τα δικαιώματά του.	diritti	0	0
+Chi ha mangiato il pane?	Ποιος έφαγε το ψωμί;	pane	0	0
+La scatola è molto pesante.	Το κουτί είναι πολύ βαρύ.	pesante	0	0
+Lui l'ha vista all'aeroporto.	Αυτός την είδε στον αεροδρόμιο.	aeroporto	0	0
+Non vai a costruire biblioteche in Paraguay?	Δεν θα πάς να φτιάξεις βιβλιοθήκες στην Παραγουάη;	costruire	0	0
+Tu sei ricco.	Είσαι πλούσιος.	ricco	0	0
+Voglio andare in Inghilterra.	Θέλω να πάω στην Αγγλία.	inghilterra	0	0
+Tornate domani.	Ελάτε πάλι αύριο.	tornate	0	0
+Non le piacciono gli scherzi.	Τα αστεία δεν της αρέσουν.	scherzi	0	0
+In che modo il contesto può aiutarci a capire il significato?	Πώς μπορούν να μας βοηθούν τα συμφραζόμενα να κατανοούμε τη σημασία;	aiutarci	0	0
+Penso che ti piaccia il tuo lavoro.	Νομίζω ότι σου αρέσει η δουλειά σου.	piaccia	0	0
+Accetta carte di credito?	Δέχεστε πιστωτική κάρτα;	credito	0	0
+È l'una meno un quarto.	Είναι μία παρά τέταρτο.	quarto	0	0
+Darò un'occhiata più tardi.	Θα ρίξω μια ματιά αργότερα.	darò	0	0
+La carta, un'invenzione cinese vecchia di circa duemila anni, ha lasciato un segno indelebile in tutte le culture.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	cinese	0	0
+Mi piace studiare le lingue straniere.	Μου αρέσει να μελετώ ξένες γλώσσες.	studiare	0	0
+Puoi prendere in prestito una copia da qualsiasi biblioteca pubblica.	Μπορείς να δανειστέις ένα αντίγραφο από οποιαδήποτε δημόσια βιβλιοθήκη.	prestito	0	0
+Non mi fido degli stranieri.	Δεν εμπιστεύομαι τους ξένους.	fido	0	0
+A lui piace giocare a calcio.	Του αρέσει να παίζει ποδόσφαιρο.	calcio	0	0
+Ho fatto un po' di ricerche.	Έκανα λίγη έρευνα.	ricerche	0	0
+Il lago è molto profondo.	Η λίμνη είναι πολύ βαθιά.	lago	0	0
+Il maiale è rosa.	Το γουρούνι είναι ροζ.	maiale	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	costruito	0	0
+Sto nell'ombra.	Στέκομαι στη σκιά.	ombra	0	0
+Puoi prendere in prestito una copia da qualsiasi biblioteca pubblica.	Μπορείς να δανειστέις ένα αντίγραφο από οποιαδήποτε δημόσια βιβλιοθήκη.	copia	0	0
+Venne da solo, senza di lei.	'Ηρθα μόνος, χωρίς αυτήν.	venne	0	0
+Sono malata.	Είμαι άρρωστη.	malata	0	0
+Può metterti in prigione per adulterio.	Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	metterti	0	0
+Uno stallone è un maschio di cavallo.	Ένας επιβήτορας είναι ένα αρσενικό άλογο.	maschio	0	0
+Tom ha risolto il mistero.	Ο Τομ έλυσε το μυστήριο.	risolto	0	0
+Tom sta giocando a tennis.	Ο Τομ παίζει τένις.	giocando	0	0
+Sembra essere interessato a lei.	Φαίνεται ότι αυτή τον ενδιαφέρει αυτή.	interessato	0	0
+Perché così tante frasi interessanti non vengono mai adottate da coloro la cui lingua madre è la lingua in cui quelle frasi sono state scritte?	Γιατί τόσες πολλές ενδιαφέρουσες φράσεις δεν υιοθετούνται ποτέ από εκείνους των οποίων η μητρική γλώσσα είναι η γλώσσα στην οποία γράφτηκαν αυτές οι φράσεις;	coloro	0	0
+Ho due fratelli e tre sorelle.	Έχω δυο αδερφούς και τρεις αδερφές.	sorelle	0	0
+Tom andò ad un concerto.	Ο Τομ πήγε σε μία συναυλία.	concerto	0	0
+La mia migliore amica era americana.	Η αγαπημένη μου φίλη ήταν Αμερικανίδα.	americana	0	0
+La proprietà è un furto.	Η ιδιοκτησία είναι κλοπή.	furto	0	0
+Il voto è un dovere patriottico.	Η ψηφοφορία είναι ένα πατριωτικό καθήκον.	voto	0	0
+Mio nonno fa una passeggiata ogni mattina.	Ο παππούς μου κάνει βόλτα κάθε πρωί.	passeggiata	0	0
+Tom non ha interesse nella scienza.	Ο Τομ δεν ενδιαφέρεται για την επιστήμη.	scienza	0	0
+Vorremmo ordinare diciotto tonnellate di olio d'oliva.	Θα θέλαμε να παραγγείλουμε 18 τόνους ελαιόλαδο.	vorremmo	0	0
+Il giorno in cui l'Europa cesserà di parlare le sue molte lingue sarà il giorno in cui l'Europa cesserà di esistere come idea e come progetto.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	europa	0	0
+Mi manchi tanto, amore!	Μου λείπεις τόσο πολύ αγάπη μου.	manchi	0	0
+Ti riconosco dal filo terribile della tua spada.	Σε γνωρίζω από την κόψη του σπαθιού την τρομερή.	filo	0	0
+Tom gioca a tennis.	Ο Τομ παίζει τένις.	gioca	0	0
+Il Texas confina col Messico.	Το Τέξας συνορεύει με το Μεξικό.	messico	0	0
+Sono nata venti anni fa.	Γεννήθηκα πριν είκοσι χρόνια.	nata	0	0
+Cinquanta famiglie vivono in questo piccolo villaggio.	Πενήντα οικογένειες ζουν σε αυτό το μικρό χωριό.	vivono	0	0
+Chi ha inventato il telefono?	Ποιος ανακάλυψε το τηλέφωνο;	inventato	0	0
+Hanno attraversato il confine carichi di droga.	Πέρασαν τα σύνορα φορτωμένοι ναρκωτικά.	confine	0	0
+In che modo il contesto può aiutarci a capire il significato?	Πώς μπορούν να μας βοηθούν τα συμφραζόμενα να κατανοούμε τη σημασία;	significato	0	0
+La Coca-Cola inventò la Fanta, in piena Seconda Guerra Mondiale, per il mercato tedesco.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	tedesco	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	dodici	0	0
+Tom non lo direbbe mai.	Ο Τομ δεν θα το έλεγε ποτέ αυτό.	direbbe	0	0
+Pietro è partito ieri per Salonicco. Starà via una settimana.	Ο Πέτρος έφυγε χτες για Θεσσαλονίκη. Θα λείψει μια βδομάδα.	starà	0	0
+Voglio chiederle un favore.	Θέλω να σας ζητήσω μια χάρη.	chiederle	0	0
+Puoi prendere in prestito una copia da qualsiasi biblioteca pubblica.	Μπορείς να δανειστέις ένα αντίγραφο από οποιαδήποτε δημόσια βιβλιοθήκη.	pubblica	0	0
+Non siamo ricchi.	Δεν είμαστε πλούσιοι.	ricchi	0	0
+Mangi carne o sei vegetariano?	Τρως κρέας ή είσαι χορτοφάγος;	mangi	0	0
+Mike tornò dalla biblioteca alle cinque.	Ο Μάικ επέστρεψε από τη βιβλιοθήκη στις πέντε.	biblioteca	0	0
+La proprietà è un furto.	Η ιδιοκτησία είναι κλοπή.	proprietà	0	0
+Tom è orgoglioso di Mary.	Ο Τομ είναι περήφανος για τη Μαίρη.	orgoglioso	0	0
+Essere grasso è un problema serio per me.	Το να είσαι παχύς είναι ένα σοβαρό πρόβλημα για μένα.	grasso	0	0
+Ci sono dieci gradi sotto zero ora.	Τώρα έχει δέκα βαθμούς κάτω απ'το μηδέν.	gradi	0	0
+La Coca-Cola inventò la Fanta, in piena Seconda Guerra Mondiale, per il mercato tedesco.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	mondiale	0	0
+Hai del riso?	Έχετε ρύζι;	riso	0	0
+Vorrei imparare il russo.	Θέλω να μάθω Ρώσικα.	russo	0	0
+Bisogna battere il ferro finché è caldo.	Στη βράση κολλάει το σίδερο.	ferro	0	0
+Nella vostra famiglia sono tutti alti.	Στην οικογένειά σας είναι όλοι ψηλοί.	alti	0	0
+Bisogna battere il ferro finché è caldo.	Στη βράση κολλάει το σίδερο.	battere	0	0
+Vorremmo ordinare diciotto tonnellate di olio d'oliva.	Θα θέλαμε να παραγγείλουμε 18 τόνους ελαιόλαδο.	olio	0	0
+Non mangio mai della carne.	Δεν τρώω ποτέ κρέας.	mangio	0	0
+Tom risolse il mistero.	Ο Τομ έλυσε το μυστήριο.	mistero	0	0
+Giri la chiave verso destra.	Γύρνα το κλειδί προς τα δεξιά.	giri	0	0
+Berlino è la capitale della Germania.	Το Βερολίνο είναι η πρωτεύουσα της Γερμανίας.	germania	0	0
+Sono molto deluso.	Είμαι πολύ απογοητευμένος.	deluso	0	0
+Avete detto che avevate fame.	Έχετε πει ότι πεινούσατε.	avevate	0	0
+Il Texas confina col Messico.	Το Τέξας συνορεύει με το Μεξικό.	texas	0	0
+Accetto le tue condizioni.	Αποδέχομαι τους όρους σου.	accetto	0	0
+No, grazie. Non bevo birra.	Όχι, ευχαριστώ. Δεν πίνω μπίρα.	bevo	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	pesci	0	0
+Molti cittadini si sono uniti all'esercito.	Πολλοί πολίτες εντάχθηκαν στο στρατό.	cittadini	0	0
+Apre la lettera.	Ανοίγει το γράμμα.	apre	0	0
+Penso che Tom sia un ottimo giocatore.	Πιστεύω ότι ο Θωμάς είναι πολύ καλός παίχτης.	giocatore	0	0
+Tu odi Tom.	Μισείς τον Τομ.	odi	0	0
+"Dove andranno domani?" "In Inghilterra."	«Πού θα πάτε αύριο;» «Στην Αγγλία.»	andranno	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	vergine	0	0
+La definizione di "famiglia" è cambiata nel corso degli anni.	Ο ορισμός της "οικογένειας" έχει αλλάξει με τα χρόνια.	cambiata	0	0
+Il fratello scrive.	Ο αδελφός γράφει.	scrive	0	0
+Avete mai cantato in giapponese?	Έχετε ήδη τραγουδήσει στα ιαπωνικά;	giapponese	0	0
+Tom mangia molta frutta.	Ο Τρώει πολλά φρούτα.	frutta	0	0
+Non parlo spagnolo.	Δεν μιλώ ισπανικά.	spagnolo	0	0
+Voglio una coperta.	Θέλω μια κουβέρτα.	coperta	0	0
+Perché lui non danza più con me?	Γιατί αυτός δεν χορεύει πια με μένα;	danza	0	0
+Io parto domenica.	Θα φύγω την Κυριακή.	parto	0	0
+Chi ha scritto la Bibbia?	Ποιος έγραψε τη Βίβλο;	bibbia	0	0
+Parla italiano.	Μιλάει Ιταλικά.	italiano	0	0
+La sorella di Marie è timida e maldestra.	Η αδελφή της Μαίρης είναι ντροπαλή κι αδέξια.	marie	0	0
+Al giorno d'oggi non ci sono ninja o samurai in Giappone.	Στις μέρες μας δεν υπάρχουν πλέον Νίντζα και Σαμουράι στην Ιαπωνία.	giappone	0	0
+Ellen non parla l'inglese.	Η Έλενα δεν μιλάει αγγλικά.	ellen	0	0
+Il ragazzo ha sete.	Το αγόρι διψάει.	sete	0	0
+L'acqua è composta da idrogeno e ossigeno.	Το νερό αποτελείται από υδρογόνο και οξυγόνο.	ossigeno	0	0
+Che Dio mi perdoni.	Ας με συγχωρήσει ο Θεός!	perdoni	0	0
+Sono felice di vedervi.	Χαίρομαι που σας βλέπω.	vedervi	0	0
+Non bisogna mettere il carro davanti ai buoi.	Μην κουνάς τα πόδια σου πριν καβαλικέψεις.	carro	0	0
+Tom comprò qualche fiore a Mary.	Ο Τομ έφερε μερικά λουλούδια στη Μαίρη.	fiore	0	0
+Non ha la patente di guida.	Δεν έχει δίπλωμα.	patente	0	0
+Nuotare fa bene alla salute.	Το κολύμπι κάνει καλό στην υγεία.	nuotare	0	0
+Mi faresti una cortesia?	Θα μου κάνεις μια χάρη;	cortesia	0	0
+"Come si pronuncia il simbolo @ in questa lingua?" "Chiocciola."	«Πώς ονομάζεται το σημείο @ σ' αυτή τη γλώσσα;» «Παπάκι.»	simbolo	0	0
+Mio fratello minore sta imparando a leggere in inglese.	Ο μικρός μου αδερφός μου μαθαίνει να διαβάζει αγγλικά.	minore	0	0
+Ho alcuni libri francesi.	Έχω μερικά γαλλικά βιβλία.	francesi	0	0
+Venite a trovarci domani.	Επισκευθείτε μας αύριο.	trovarci	0	0
+Accetta carte di credito?	Δέχεστε πιστωτική κάρτα;	accetta	0	0
+Ho trovato difficoltà a risolvere il problema.	Το βρήκα δύσκολο να λύσω το πρόβλημα.	difficoltà	0	0
+Se togli due da dieci resta otto.	Δέκα μείον δύο ίσον οχτώ.	togli	0	0
+Cominciò ad insegnare il berbero nel 2004.	Άρχησε να διδάξω τα βερβερικά το 2004.	insegnare	0	0
+Il padre di Tom era ebreo.	Ο πατέρας του Τομ ήταν Εβραίος.	ebreo	0	0
+Beve una bottiglia di latte ogni mattina.	Κάθε πρωί αυτή πίνει ένα μπουκάλι γάλα.	beve	0	0
+La casa di Tom fu distrutta da un uragano.	Το σπίτι του Τομ καταστράφηκε από έναν τυφώνα.	distrutta	0	0
+Le castagne arrostite sono un alimento invernale popolare.	Τα ψητά κάστανα είναι δημοφιλές φαγητό τον χειμώνα.	popolare	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	leone	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	metodo	0	0
+Abita a New York.	Μένει στη Νέα Υόρκη.	abita	0	0
+Mi sono alzato alle cinque del mattino.	Σηκώθηκα στις πέντε το πρωί.	alzato	0	0
+Sei una vera bambola oggi!	Κούκλα είσαι σήμερα!	bambola	0	0
+Vorremmo ordinare diciotto tonnellate di olio d'oliva.	Θα θέλαμε να παραγγείλουμε 18 τόνους ελαιόλαδο.	ordinare	0	0
+La smetta di piangere.	Κόψε το κλάμα.	smetta	0	0
+Non è un medico, ma un infermiere.	Δεν είναι γιατρός, παρά νοσηλευτής.	infermiere	0	0
+Ti riconosco dal filo terribile della tua spada.	Σε γνωρίζω από την κόψη του σπαθιού την τρομερή.	riconosco	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	gemelli	0	0
+Maria ha sussurrato le sue condoglianze alla vedova.	Η Μαρία ψιθύρισε τα συλλυπητήριά της στη χήρα.	vedova	0	0
+La vita e la morte sono le due facce della stessa moneta.	Ζωή και θάνατος είναι δυο πλευρές του ίδιου νομίσματος.	facce	0	0
+La donna sta leggendo.	Η γυναίκα διαβάζει.	leggendo	0	0
+L'alluminio è un metallo.	Το αλουμίνιο είναι μέταλλο.	metallo	0	0
+Berlino è la capitale della Germania.	Το Βερολίνο είναι η πρωτεύουσα της Γερμανίας.	capitale	0	0
+Voi lavorate duramente.	Εργάζεστε σκληρά.	duramente	0	0
+Io non leggo.	Δεν διαβάζω.	leggo	0	0
+Berlino è la capitale della Germania.	Το Βερολίνο είναι η πρωτεύουσα της Γερμανίας.	berlino	0	0
+Questa scatola contiene delle mele.	Το κουτί αυτό περιέχει μήλα.	contiene	0	0
+Perché tutti mi guardano?	Γιατί με κοιτάνε όλοι;	guardano	0	0
+Sbagliando s'impara.	Το πάθος γίνεται μάθος.	impara	0	0
+Ha rinunciato a tutti i suoi diritti.	Παραιτήθηκε απ' όλα τα δικαιώματά του.	rinunciato	0	0
+Dov'è l'ambasciata greca?	Πού είναι η ελληνική πρεσβεία;	ambasciata	0	0
+Chiamerò più tardi.	Θα τηλεφωνήσω αργότερα.	chiamerò	0	0
+Ha spostato una sedia.	Μετακίνησε μια καρέκλα.	spostato	0	0
+Ha trascorso il pomeriggio leggendo un libro.	Αυτός πέρασε το απόγευμα διαβάζοντας ένα βιβλίο.	trascorso	0	0
+Gli americani mangiano molta carne.	Οι Αμερικανοί τρώνε πολύ κρέας.	mangiano	0	0
+Perché così tante frasi interessanti non vengono mai adottate da coloro la cui lingua madre è la lingua in cui quelle frasi sono state scritte?	Γιατί τόσες πολλές ενδιαφέρουσες φράσεις δεν υιοθετούνται ποτέ από εκείνους των οποίων η μητρική γλώσσα είναι η γλώσσα στην οποία γράφτηκαν αυτές οι φράσεις;	interessanti	0	0
+La vita e la morte sono le due facce della stessa moneta.	Ζωή και θάνατος είναι δυο πλευρές του ίδιου νομίσματος.	moneta	0	0
+Cinquanta famiglie vivono in questo piccolo villaggio.	Πενήντα οικογένειες ζουν σε αυτό το μικρό χωριό.	cinquanta	0	0
+L'iridio è uno degli elementi più rari.	Το ιρίδιο είναι ένα από τα σπανιότερα ατομικά στοιχεία.	elementi	0	0
+Questa scatola contiene delle mele.	Το κουτί αυτό περιέχει μήλα.	mele	0	0
+"Di che nazionalità erano le tue insegnanti?" "Argentina."	"Από που ήρθαν οι καθηγήτριες σου" "Από την Αργεντινή."	insegnanti	0	0
+Non bevo alcool.	Δεν πίνω αλκοόλ.	alcool	0	0
+Sulla parete ci sono quattro quadri.	Υπάρχουν τέσσερις εικόνες στην τοίχο.	parete	0	0
+Il contratto di lavoro era corredato da un elenco completo dei benefici e degli obblighi per entrambe le parti.	Η σύμβαση εργασίας συνοδευόταν από πλήρη κατάλογο παροχών και υποχρεώσεων και για τα δύο μέρη.	elenco	0	0
+Io vengo da Tokyo.	Είμαι από το Τόκιο.	tokyo	0	0
+Il primo tempo si è concluso ieri.	Χθες τελείωσε η πρώτη περίοδος.	concluso	0	0
+Io vorrei annullare il mio biglietto.	Θα 'θελα να ακυρώσω το εισιτήριό μου.	annullare	0	0
+Maria ha sussurrato le sue condoglianze alla vedova.	Η Μαρία ψιθύρισε τα συλλυπητήριά της στη χήρα.	condoglianze	0	0
+Hanno attraversato il confine carichi di droga.	Πέρασαν τα σύνορα φορτωμένοι ναρκωτικά.	attraversato	0	0
+Occhio per occhio, dente per dente.	Οφθαλμό αντί οφθαλμού και οδόντα αντί οδόντος.	dente	0	0
+Tom andò ad un concerto.	Ο Τομ πήγε σε μία συναυλία.	andò	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	toro	0	0
+Lei è una giovane studentessa.	Είναι μια νεαρή μαθήτρια.	studentessa	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	consenso	0	0
+Giocavo spesso a tennis quando ero giovane.	Έπαιζα συχνά τέννις όταν ήμουν ακόμα νέος.	tennis	0	0
+Sulla parete ci sono quattro quadri.	Υπάρχουν τέσσερις εικόνες στην τοίχο.	quadri	0	0
+Non mi fido degli stranieri.	Δεν εμπιστεύομαι τους ξένους.	stranieri	0	0
+Non ci sono commenti per ora.	Δεν υπάρχουν σχόλια προς στιγμήν.	commenti	0	0
+Dissero che erano stanche di perdere.	Είπαν πως κουράζονται να χάνουν.	dissero	0	0
+Al giorno d'oggi non ci sono ninja o samurai in Giappone.	Στις μέρες μας δεν υπάρχουν πλέον Νίντζα και Σαμουράι στην Ιαπωνία.	ninja	0	0
+Gennaio è il primo mese dell'anno.	Ο Ιανουάριος είναι ο πρώτος μήνας του χρόνου.	gennaio	0	0
+Disse che stava soffrendo di un forte mal di testa.	Είπε ότι το κεφάλι του πονάει πάρα πολύ.	soffrendo	0	0
+Un uomo stava pescando sulla riva opposta.	Ένας άντρας ψάρευε στην απέναντι όχθη.	riva	0	0
+Mi piace camminare a piedi nudi sull'erba.	Με ευχαριστεί να περπατάω ξυπόλυτη πάνω στο γκαζόν.	nudi	0	0
+È ancora addormentata nella sua stanza.	Κοιμάται ακόμη στο δωμάτιό της.	addormentata	0	0
+I miei genitori non mi capiscono.	Οι γονείς μου δεν με καταλαβαίνουν.	capiscono	0	0
+Potete proteggermi.	Μπορείτε να με προστατέψετε.	proteggermi	0	0
+Io sono molto delusa.	Είμαι πολύ απογοητευμένη.	delusa	0	0
+Non si preoccupi. La aiuterò.	Μην ανησυχείς εγώ θα σε βοηθήσω	aiuterò	0	0
+Vorrei chiedervi un favore.	Θα ήθελα να σας ζητήσω μια χάρη.	chiedervi	0	0
+Sbagliando s'impara.	Το πάθος γίνεται μάθος.	sbagliando	0	0
+Il giorno in cui l'Europa cesserà di parlare le sue molte lingue sarà il giorno in cui l'Europa cesserà di esistere come idea e come progetto.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	esistere	0	0
+Ho trent'anni.	Είμαι τριάντα ετών.	trent'	0	0
+Le sedie sono sotto l'albero.	Οι καρέκλες είναι κάτω από το δέντρο.	sedie	0	0
+Qual è il tuo soprannome?	Ποιο είναι το ψευδώνυμό σας;	soprannome	0	0
+Vendono pesce e carne.	Αυτοί πουλάνε ψάρι και κρέας.	vendono	0	0
+Sono molto timido.	Είμαι πολύ ντροπαλός.	timido	0	0
+Oggi è mercoledì.	Σήμερα είναι Τετάρτη.	mercoledì	0	0
+La definizione di "famiglia" è cambiata nel corso degli anni.	Ο ορισμός της "οικογένειας" έχει αλλάξει με τα χρόνια.	definizione	0	0
+Per la sua donna nutre una gelosia morbosa.	Ζηλεύει παθολογικά τη γυναίκα του.	gelosia	0	0
+Hanno visitato la Svizzera.	Έχουν πάει στην Ελβετία.	svizzera	0	0
+Mi chiesero di leggere loro alcune poesie.	Μου ζήτησαν να τους διαβάσω μερικά ποιήματα.	poesie	0	0
+Fuma sempre.	Πάντα καπνίζει αυτός.	fuma	0	0
+Perché così tante frasi interessanti non vengono mai adottate da coloro la cui lingua madre è la lingua in cui quelle frasi sono state scritte?	Γιατί τόσες πολλές ενδιαφέρουσες φράσεις δεν υιοθετούνται ποτέ από εκείνους των οποίων η μητρική γλώσσα είναι η γλώσσα στην οποία γράφτηκαν αυτές οι φράσεις;	scritte	0	0
+Ogni vigilia di Natale andiamo in chiesa.	Κάθε παραμονή Χριστουγέννων πηγαίνουμε στην εκκλησία.	vigilia	0	0
+Mi sono alzata alle cinque del mattino.	Σηκώθηκα στις πέντε το πρωί.	alzata	0	0
+Mio fratello minore sta imparando a leggere in inglese.	Ο μικρός μου αδερφός μου μαθαίνει να διαβάζει αγγλικά.	imparando	0	0
+Vorremmo ordinare diciotto tonnellate di olio d'oliva.	Θα θέλαμε να παραγγείλουμε 18 τόνους ελαιόλαδο.	tonnellate	0	0
+Cosa vorreste fare adesso?	Τι θα θέλατε να κάνετε τώρα;	vorreste	0	0
+Portatemi il giornale di oggi, per piacere.	Φέρτε μου την σημερίνη εφημερίδα, παρακαλώ.	portatemi	0	0
+Io parlo tre lingue.	Μιλώ τρεις γλώσσες.	lingue	0	0
+Pietro è partito ieri per Salonicco. Starà via una settimana.	Ο Πέτρος έφυγε χτες για Θεσσαλονίκη. Θα λείψει μια βδομάδα.	pietro	0	0
+Perché così tante frasi interessanti non vengono mai adottate da coloro la cui lingua madre è la lingua in cui quelle frasi sono state scritte?	Γιατί τόσες πολλές ενδιαφέρουσες φράσεις δεν υιοθετούνται ποτέ από εκείνους των οποίων η μητρική γλώσσα είναι η γλώσσα στην οποία γράφτηκαν αυτές οι φράσεις;	frasi	0	0
+Voi lavorate duramente.	Εργάζεστε σκληρά.	lavorate	0	0
+Voi due state andando a Phoenix?	Οι δύο σας πάτε στο Φοίνιξ;	phoenix	0	0
+La Grecia ha molte isole.	Η Ελλάδα έχει πολά νεισιά.	isole	0	0
+"Di che nazionalità sono i tuoi nonni?" "Lettone."	"Ποια είναι η εθνικότητα του παππού σου και της γιαγιάς σου;" "Λετονική."	nonni	0	0
+Io vengo dal Brasile.	Είμαι από τη Βραζιλία.	brasile	0	0
+È un lupo vestito da agnello.	Είναι αυτός μια σιγανοπαπαδίτσα.	agnello	0	0
+Al giorno d'oggi non ci sono ninja o samurai in Giappone.	Στις μέρες μας δεν υπάρχουν πλέον Νίντζα και Σαμουράι στην Ιαπωνία.	samurai	0	0
+Considero Tom un amico.	Θεωρώ τον Τομ φίλο.	considero	0	0
+Avete sentito correttamente.	Σωστά ακούσατε.	correttamente	0	0
+Lei comprò due paia di calze.	Αυτή αγόρασε δύο ζευγάρια κάλτσες.	calze	0	0
+Sa che sono più anziana di lei.	Ξέρει ότι είμαι γεροντότερη από αυτή.	anziana	0	0
+Vorrei andare in Egitto.	Θα ήθελα να πάμε στην Αίγυπτο.	egitto	0	0
+Ci aspettavamo molto da lui.	Περιμέναμε πολλά από αυτόν.	aspettavamo	0	0
+Avete mai cantato in giapponese?	Έχετε ήδη τραγουδήσει στα ιαπωνικά;	cantato	0	0
+Vorremmo ordinare diciotto tonnellate di olio d'oliva.	Θα θέλαμε να παραγγείλουμε 18 τόνους ελαιόλαδο.	diciotto	0	0
+Mi sono ritrovata faccia a faccia con il mio ex marito.	Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	ritrovata	0	0
+Oggi la carne è costosa.	Στις μέρες μας το κρέας είναι ακριβό.	costosa	0	0
+Solitamente io non mangio carne rossa.	Δεν τρώω συνήθως κόκκινο κρέας.	solitamente	0	0
+La casa di Tom fu distrutta da un uragano.	Το σπίτι του Τομ καταστράφηκε από έναν τυφώνα.	uragano	0	0
+La carta, un'invenzione cinese vecchia di circa duemila anni, ha lasciato un segno indelebile in tutte le culture.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	invenzione	0	0
+I leoni sono carnivori.	Τα λιοντάρια είναι σαρκοφάγα.	leoni	0	0
+Sono la pecora nera della famiglia.	Είμαι το μαύρο πρόβατο της οικογένειας.	pecora	0	0
+In che modo il contesto può aiutarci a capire il significato?	Πώς μπορούν να μας βοηθούν τα συμφραζόμενα να κατανοούμε τη σημασία;	contesto	0	0
+Anche per il semplice volo di una farfalla è necessario tutto il cielo.	Ακόμα και για το απλό πέταγμα μιας πεταλούδας χρειάζεται ολόκληρος ο ουρανός.	farfalla	0	0
+Il contratto di lavoro era corredato da un elenco completo dei benefici e degli obblighi per entrambe le parti.	Η σύμβαση εργασίας συνοδευόταν από πλήρη κατάλογο παροχών και υποχρεώσεων και για τα δύο μέρη.	benefici	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	conquista	0	0
+La Grecia ha molte isole.	Η Ελλάδα έχει πολά νεισιά.	grecia	0	0
+Guardatemi negli occhi!	Κοιτάξτε με στα μάτια!	guardatemi	0	0
+Hanno visitato la Svizzera.	Έχουν πάει στην Ελβετία.	visitato	0	0
+Ho venticinque anni.	Είμαι είκοσι πέντε ετών.	venticinque	0	0
+La bomba è esplosa da due giorni.	Βόμβα εξεράγη πριν δύο μέρες.	esplosa	0	0
+Le tradizioni non hanno più alcun senso.	Οι παραδόσεις πλέον δεν έχουν κανέναν νόημα.	tradizioni	0	0
+Ci sono duemila libri.	Αυτή έχει δύο χιλιάδες βιβλία.	duemila	0	0
+Io sono molto timida.	Είμαι πολύ ντροπαλή.	timida	0	0
+L'aglio fa bene alla salute.	Το σκόρδο κάνει καλό στην υγεία.	aglio	0	0
+Non costringermi a trascinarti!	Μην με κάνεις να σε σέρνω!	costringermi	0	0
+Come si pronuncia questa parola?	Πώς προφέρεται αυτή η λέξη;	pronuncia	0	0
+Cominciò ad insegnare il berbero nel 2004.	Άρχησε να διδάξω τα βερβερικά το 2004.	cominciò	0	0
+Mia moglie voleva adottare un bambino.	Η σύζυγος μου ήθελε να υιοθετήσει ένα μωρό.	adottare	0	0
+Questo è uno stallone o una cavalla?	Αυτό είναι άλογο ή φοράδα;	stallone	0	0
+E tu sei un lavoratore non qualificato.	Και είσαι άτεχνος εργάτης.	lavoratore	0	0
+Nessuno crederà a questo.	Κανένας δεν θα το πιστέψει.	crederà	0	0
+Mike tornò dalla biblioteca alle cinque.	Ο Μάικ επέστρεψε από τη βιβλιοθήκη στις πέντε.	tornò	0	0
+Avete la diarrea?	Έχετε διάρροια;	diarrea	0	0
+E tu sei un lavoratore non qualificato.	Και είσαι άτεχνος εργάτης.	qualificato	0	0
+Un uomo stava pescando sulla riva opposta.	Ένας άντρας ψάρευε στην απέναντι όχθη.	opposta	0	0
+Non ditelo a nessuno.	Μην πείτε ούτε λέξη γι΄αυτό σε κανέναν.	ditelo	0	0
+Entrambi andarono alla finestra per guardare fuori.	Και οι δύο πήγανε στο παράθυρο για να κοιτάξουν έξω.	andarono	0	0
+Sono Ricardo.	Είμαι ο Ρίχαρδος.	ricardo	0	0
+Hanno attraversato il confine carichi di droga.	Πέρασαν τα σύνορα φορτωμένοι ναρκωτικά.	carichi	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	acquario	0	0
+Il matrimonio non è stato consumato.	Ο γάμος δεν ολοκληρώθηκε.	consumato	0	0
+Per la sua donna nutre una gelosia morbosa.	Ζηλεύει παθολογικά τη γυναίκα του.	nutre	0	0
+"Di che nazionalità erano le tue insegnanti?" "Argentina."	"Από που ήρθαν οι καθηγήτριες σου" "Από την Αργεντινή."	argentina	0	0
+L'acqua è composta da idrogeno e ossigeno.	Το νερό αποτελείται από υδρογόνο και οξυγόνο.	composta	0	0
+Giocavo spesso a tennis quando ero giovane.	Έπαιζα συχνά τέννις όταν ήμουν ακόμα νέος.	giocavo	0	0
+Quel monumento non l'ho ancora visto.	Δεν έχω δει εκείνο το μνημείο.	monumento	0	0
+L'iridio è uno degli elementi più rari.	Το ιρίδιο είναι ένα από τα σπανιότερα ατομικά στοιχεία.	rari	0	0
+Vengo dalla Danimarca.	Εγώ είμαι από τη Δανία.	danimarca	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	democratico	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	applicazione	0	0
+Il contratto di lavoro era corredato da un elenco completo dei benefici e degli obblighi per entrambe le parti.	Η σύμβαση εργασίας συνοδευόταν από πλήρη κατάλογο παροχών και υποχρεώσεων και για τα δύο μέρη.	obblighi	0	0
+L'occitano non è un dialetto del francese.	Τα οξιτανικά δεν είναι διάλεκτος των γαλλικών.	dialetto	0	0
+La carta, un'invenzione cinese vecchia di circa duemila anni, ha lasciato un segno indelebile in tutte le culture.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	culture	0	0
+Io ho visto Tom danzare molte volte.	Είδα τον Τομ να χωρέψει μερικές πολλές φορές.	danzare	0	0
+L'acqua è composta da idrogeno e ossigeno.	Το νερό αποτελείται από υδρογόνο και οξυγόνο.	idrogeno	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	bilancia	0	0
+La situazione è migliorata.	Η κατάσταση έχει βελτιωθεί.	migliorata	0	0
+Dov'è l'ambasciata greca?	Πού είναι η ελληνική πρεσβεία;	greca	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	scorpione	0	0
+Smettiamo di giocare a tennis.	Ας σταματήσουμε να παίζουμε τένις.	smettiamo	0	0
+Non andate a insegnare in Ucraina?	Πάτε να διδάσκετε στην Ουκρανία;	ucraina	0	0
+Lei ha comprato due paia di calze.	Αυτή αγόρασε δύο ζευγάρια κάλτσες.	paia	0	0
+L'alluminio è un metallo.	Το αλουμίνιο είναι μέταλλο.	alluminio	0	0
+Mi annoia.	Τον βαριέμαι.	annoia	0	0
+Può metterti in prigione per adulterio.	Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	adulterio	0	0
+Non sono più vegetariano.	Δεν είμαι πια χορτοφάγος.	vegetariano	0	0
+Vorremmo ordinare diciotto tonnellate di olio d'oliva.	Θα θέλαμε να παραγγείλουμε 18 τόνους ελαιόλαδο.	oliva	0	0
+Non fatene parola ad alcuno.	Μην πείτε ούτε λέξη γι΄αυτό σε κανέναν.	alcuno	0	0
+Il tempo passò molto in fretta.	Ο χρόνος πέρασε πολύ γρήγορα.	passò	0	0
+Non sono canadesi, vero?	Δεν είναι καναδές, έτσι;	canadesi	0	0
+Le castagne arrostite sono un alimento invernale popolare.	Τα ψητά κάστανα είναι δημοφιλές φαγητό τον χειμώνα.	invernale	0	0
+Siete tedesche, vero?	Είστε γερμανοί, έτσι δεν είναι;	tedesche	0	0
+Tom aspetterà.	Ο Τομ θα περιμένει.	aspetterà	0	0
+Ho bisogno di più esempi per sapere come si usa questa parola.	Χρειάζομαι περισσότερα παραδείγματα, για να ξέρω πώς χρησιμοποιείται αυτή η λέξη.	esempi	0	0
+Tom parlò.	Ο Τομ μίλησε.	parlò	0	0
+Qual è la capitale di Haiti?	Ποια είναι η πρωτεύουσα της Αϊτής;	haiti	0	0
+Il prezzo era scandaloso.	Η τιμή ήταν εξωφρενική.	scandaloso	0	0
+Mi piacciono le lingue straniere.	Οι ξένες γλώσσες μου αρέσουν.	straniere	0	0
+Pensate che io sia un dittatore?	Πιστεύετε πως είμαι δικτάτορας;	dittatore	0	0
+Il ventilatore non funziona.	Ο ανεμιστήρας δε δουλεύει.	ventilatore	0	0
+"Di che nazionalità sono le nostre zie?" "Cinese."	"Ποίο είναι η έθνοηκότητα των θείων μας;" "Κινεζική."	zie	0	0
+La Coca-Cola inventò la Fanta, in piena Seconda Guerra Mondiale, per il mercato tedesco.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	coca-cola	0	0
+Non parlo ungherese.	Δε μιλάω Ουγγρικά.	ungherese	0	0
+Il signor Sato parla bene l'inglese.	Ο κ. Σάτο μιλάει καλά Αγγλικά.	sato	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	ariete	0	0
+Questo è uno stallone o una cavalla?	Αυτό είναι άλογο ή φοράδα;	cavalla	0	0
+Mi chiesero di leggere loro alcune poesie.	Μου ζήτησαν να τους διαβάσω μερικά ποιήματα.	chiesero	0	0
+Tom aprì la scatola con attenzione.	Ο Τομ άνοιξε προσεκτικά το κουτί.	aprì	0	0
+Qualcuno potrebbe spiegarmelo?	Μπορεί κανείς να μου το εξηγήσει;	spiegarmelo	0	0
+Dissero che erano stanche di perdere.	Είπαν πως κουράζονται να χάνουν.	stanche	0	0
+Non costringermi a trascinarti!	Μην με κάνεις να σε σέρνω!	trascinarti	0	0
+Non bisogna mettere il carro davanti ai buoi.	Μην κουνάς τα πόδια σου πριν καβαλικέψεις.	buoi	0	0
+No problem.	Δεν υπάρχει πρόβλημα.	problem	0	0
+Lei comprò due paia di calze.	Αυτή αγόρασε δύο ζευγάρια κάλτσες.	comprò	0	0
+Maria ha sussurrato le sue condoglianze alla vedova.	Η Μαρία ψιθύρισε τα συλλυπητήριά της στη χήρα.	sussurrato	0	0
+Il voto è un dovere patriottico.	Η ψηφοφορία είναι ένα πατριωτικό καθήκον.	patriottico	0	0
+Non volevano andare in Albania.	Δεν ήθελαν να πάνε στην Αλβανία.	albania	0	0
+Non vai a costruire biblioteche in Paraguay?	Δεν θα πάς να φτιάξεις βιβλιοθήκες στην Παραγουάη;	biblioteche	0	0
+Pioverà oggi?	Θα βρέξει σήμερα;	pioverà	0	0
+Non mi perdonerebbe mai un'infedeltà.	Δεν θα μου συγχωρούσε ποτέ μια απιστία.	infedeltà	0	0
+Oggi compio quattro anni.	Σήμερα γίνομαι τεσσάρων χρονών.	compio	0	0
+"Di che nazionalità sono le nostre zie?" "Cinese."	"Ποίο είναι η έθνοηκότητα των θείων μας;" "Κινεζική."	nazionalità	0	0
+Un uomo stava pescando sulla riva opposta.	Ένας άντρας ψάρευε στην απέναντι όχθη.	pescando	0	0
+La carta, un'invenzione cinese vecchia di circa duemila anni, ha lasciato un segno indelebile in tutte le culture.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	indelebile	0	0
+Le castagne arrostite sono un alimento invernale popolare.	Τα ψητά κάστανα είναι δημοφιλές φαγητό τον χειμώνα.	castagne	0	0
+Non mi perdonerebbe mai un'infedeltà.	Δεν θα μου συγχωρούσε ποτέ μια απιστία.	perdonerebbe	0	0
+Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	costruttivo	0	0
+Lui accettò la mia idea.	Δέχτηκε την ιδέα μου.	accettò	0	0
+La sorella di Marie è timida e maldestra.	Η αδελφή της Μαίρης είναι ντροπαλή κι αδέξια.	maldestra	0	0
+"Come pronunciate il simbolo @ in questa lingua?" "Chiocciola."	«Πώς ονομάζεται το σημείο @ σ' αυτή τη γλώσσα;» «Παπάκι.»	pronunciate	0	0
+Non è tutto oro quello che luccica.	Ό,τι λάμπει δεν είναι χρυσός.	luccica	0	0
+Rubò qualcosa da lei.	Έκλεψε κατί απο αυτή.	rubò	0	0
+Non fatene parola ad alcuno.	Μην πείτε ούτε λέξη γι΄αυτό σε κανέναν.	fatene	0	0
+Lesse una storia a suo figlio.	Διάβασε μία ιστορία στον γιο του.	lesse	0	0
+Le castagne arrostite sono un alimento invernale popolare.	Τα ψητά κάστανα είναι δημοφιλές φαγητό τον χειμώνα.	alimento	0	0
+Per la sua donna nutre una gelosia morbosa.	Ζηλεύει παθολογικά τη γυναίκα του.	morbosa	0	0
+Non vai a costruire biblioteche in Paraguay?	Δεν θα πάς να φτιάξεις βιβλιοθήκες στην Παραγουάη;	paraguay	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	sagittario	0	0
+"Di che nazionalità sono i tuoi nonni?" "Lettone."	"Ποια είναι η εθνικότητα του παππού σου και της γιαγιάς σου;" "Λετονική."	lettone	0	0
+I leoni sono carnivori.	Τα λιοντάρια είναι σαρκοφάγα.	carnivori	0	0
+Siamo calciatori.	Είμαστε ποδοσφαιριστές.	calciatori	0	0
+La Coca-Cola inventò la Fanta, in piena Seconda Guerra Mondiale, per il mercato tedesco.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	inventò	0	0
+Questo è uno stallone o una giumenta?	Αυτό είναι άλογο ή φοράδα;	giumenta	0	0
+Va a studiare in Lituania?	Θα σπουδάζετε στην Λιθουανία;	lituania	0	0
+La Coca-Cola inventò la Fanta, in piena Seconda Guerra Mondiale, per il mercato tedesco.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	fanta	0	0
+I dodici segni zodiacali sono: Ariete, Toro, Gemelli, Cancro, Leone, Vergine, Bilancia, Scorpione, Sagittario, Capricorno, Acquario, Pesci.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	capricorno	0	0
+Il giorno in cui l'Europa cesserà di parlare le sue molte lingue sarà il giorno in cui l'Europa cesserà di esistere come idea e come progetto.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	cesserà	0	0

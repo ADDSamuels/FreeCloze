@@ -1,0 +1,466 @@
+Ona nie jest zwyczajną piosenkarką.	Она није обична певачица.	nie	0	0
+Czy to miłość?	Да ли је то љубав?	to	0	0
+Nocą wszystko się uspokaja.	Ноћу све мирује.	się	0	0
+Nikt nie mieszka w tym domu.	Niko ne živi u ovoj kući.	w	0	0
+Tom nie potrafi odegrać bezbłędnie ani jednej piosenki na swoim ukulele.	Том на свом укулеле не може да одсвира ниједну песму без погрешке.	na	0	0
+Mam kota i psa. Kot jest czarny, a pies biały.	Имам мачку и пса. Мачка је црна, а пас бео.	i	0	0
+Myślę, że jego życie jest w niebezpieczeństwie.	Ја мислим да је његов живот у опасности.	że	0	0
+Ona robi kwiatki z papieru.	Она прави цветове од папира.	z	0	0
+Nie wiem, co to jest.	Ја не знам шта је то.	co	0	0
+Myślę, że jego życie jest w niebezpieczeństwie.	Ја мислим да је његов живот у опасности.	jest	0	0
+Musisz iść do szkoły.	Moraš da ideš u školu.	do	0	0
+Nie tak szybko!	Не тако брзо!	tak	0	0
+O czym mówisz?	О чему причаш?	o	0	0
+Jak wabi się wasz pies?	Како зовете вашег пса?	jak	0	0
+Naukowiec jest znany nie tylko w Japonii, ale i w innych krajach.	Научник је познат не само у Јапану, него и у другим земљама.	ale	0	0
+Mam kota i psa. Kot jest czarny, a pies biały.	Имам мачку и пса. Мачка је црна, а пас бео.	a	0	0
+Bill jest dwa lata ode mnie młodszy.	Бил је две године млађи од мене.	mnie	0	0
+Ten strój mi odpowiada.	Та одећа ми одговара.	mi	0	0
+Za moim domem jest kościół.	Iza moje kuće je crkva.	za	0	0
+Mój brat jest starszy ode mnie, ale jest trzy centymetry niższy jak ja.	Мој брат је старији од мене, али је три сантиметра нижи него ја.	ja	0	0
+Nikt nie mieszka w tym domu.	Niko ne živi u ovoj kući.	tym	0	0
+Ona nauczyła go historii rodziny.	Она га је учила о историји породице.	go	0	0
+Bardzo jestem ci wdzięczny za pomoc.	Veoma sam ti zahvalan na pomoći.	ci	0	0
+Naukowiec jest znany nie tylko w Japonii, ale i w innych krajach.	Научник је познат не само у Јапану, него и у другим земљама.	tylko	0	0
+Co jest większe: Słońce czy Ziemia?	Šta je veće, Sunce ili Zemlja?	czy	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	może	0	0
+Bardzo jestem ci wdzięczny za pomoc.	Veoma sam ti zahvalan na pomoći.	jestem	0	0
+Jej suka ma trzy szczenięta.	Њена куја има три штенета.	ma	0	0
+"Ja?" - "Tak, ty!"	„Ja?“ - „Da, ti!“	ty	0	0
+Jak miło cię znów widzieć, Tom!	Веома м и је драго да те видим помово, Том!	cię	0	0
+Mam wszystko, czego potrzebuję.	Имам све што ми треба.	mam	0	0
+Czekam już pół godziny.	Чекам већ пола сата.	już	0	0
+Pracuję dla was.	Ја радим за вас.	dla	0	0
+Nie wiem, co to jest.	Ја не знам шта је то.	wiem	0	0
+To jest człowiek, którego dobrze znam.	To je čovek, kojeg dobro poznajem.	dobrze	0	0
+Myślę, więc jestem.	мислим, дакле постојим.	więc	0	0
+Supermarket jest otwarty od poniedziałku do soboty	Supermarket je otvoren od ponedeljka do subote.	od	0	0
+Niech pan położy to na stole.	Stavite to na sto.	pan	0	0
+Mam wszystko, czego potrzebuję.	Имам све што ми треба.	wszystko	0	0
+Chcę być dziennikarką.	Желим да будем новинарка.	być	0	0
+Jak się masz?	Како си?	masz	0	0
+Mogę przyjść?	Да ли можеш да дођеш?	mogę	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	proszę	0	0
+Jej suka ma trzy szczenięta.	Њена куја има три штенета.	jej	0	0
+Gdzie są żyrafy?	Gde su žirafe?	są	0	0
+Gdzie są żyrafy?	Gde su žirafe?	gdzie	0	0
+Kiedy zacząłeś uczyć się angielskiego?	Kada si započeo da učiš engleski?	kiedy	0	0
+Ten, kto urodził się w Armenii, jest Armeńczykiem.	Онај који се роди у Арменији је арменац.	ten	0	0
+On ma złamane serce.	Сломљено му је срце.	on	0	0
+Brakowało nam ciebie wczoraj na uroczystości.	Veoma si nam nedostajao juče na slavlju.	ciebie	0	0
+Chcesz iść dziś wieczorem razem ze mną do kina?	Хоћеш ли да вечерас идемо заједно у биоскоп?	ze	0	0
+Kim byś chciał, abym był?	Шта би хтео да будеш?	był	0	0
+Nowy koronawirus jest bardzo zakaźny.	Нови коронавирус је веома заразан.	bardzo	0	0
+Myślę, że jego życie jest w niebezpieczeństwie.	Ја мислим да је његов живот у опасности.	jego	0	0
+Chcę być dziennikarką.	Želim da budem novinarka.	chcę	0	0
+Niech pani położy to na stole.	Stavite to na sto.	pani	0	0
+Zaczekajmy jeszcze pięć minut.	Хајде да сачекамо још пет минута.	jeszcze	0	0
+Mój brat jest starszy ode mnie, ale jest trzy centymetry niższy jak ja.	Мој брат је старији од мене, али је три сантиметра нижи него ја.	mój	0	0
+Lekarz mu powiedział, żeby ograniczył picie alkoholu.	Лекар му је рекао да смањи пијење алкохола.	żeby	0	0
+Chcesz iść dziś wieczorem razem ze mną do kina?	Хоћеш ли да вечерас идемо заједно у биоскоп?	chcesz	0	0
+Proszę nie robić tutaj zdjęć.	Молим вас да овде не фотографишете.	tutaj	0	0
+Mężczyźni nigdy nie dorastają.	Мушкарци никад не одрасту.	nigdy	0	0
+Ten, kto urodził się w Armenii, jest Armeńczykiem.	Онај који се роди у Арменији је арменац.	kto	0	0
+Możesz przyjść?	Да ли можеш да дођеш?	możesz	0	0
+Lekarz mu powiedział, żeby ograniczył picie alkoholu.	Лекар му је рекао да смањи пијење алкохола.	mu	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	dziękuję	0	0
+Nikt nie mieszka w tym domu.	Niko ne živi u ovoj kući.	domu	0	0
+Ona robi kwiatki z papieru.	Она прави цветове од папира.	ona	0	0
+Dobro zawsze zwycięża zło.	Добро увек побеђује зло.	zawsze	0	0
+Brakowało nam ciebie wczoraj na uroczystości.	Veoma si nam nedostajao juče na slavlju.	nam	0	0
+Moja siostra widziała to na własne oczy.	Moja sestra je to videla sopstvenim očima.	moja	0	0
+Musisz iść do szkoły.	Moraš da ideš u školu.	musisz	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	je	0	0
+On zupełnie się nie nadaje do tej pracy.	Potpuno je neadekvatan za taj posao.	tej	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	ktoś	0	0
+To moje.	То је моје.	moje	0	0
+Nie mogę powiedzieć ci prawdy.	Ne mogu ti reci istinu.	powiedzieć	0	0
+Daj mu czas.	Дај му времена.	czas	0	0
+Gdzie jest twój ojciec?	Gde je tvoj otac?	twój	0	0
+Ta zła wiadomość wywołała burzliwą reakcję.	Ta loša vest je izazvala burne reakcije.	ta	0	0
+Jak mam to objaśnić, żeby wszyscy zrozumieli?	Kako da to objasnim da svi razumeju?	wszyscy	0	0
+Chcesz iść dziś wieczorem razem ze mną do kina?	Хоћеш ли да вечерас идемо заједно у биоскоп?	razem	0	0
+Chcesz iść dziś wieczorem razem ze mną do kina?	Хоћеш ли да вечерас идемо заједно у биоскоп?	mną	0	0
+Mam wszystko, czego potrzebuję.	Имам све што ми треба.	czego	0	0
+Myślę, więc jestem.	мислим, дакле постојим.	myślę	0	0
+Jak długo, Katylino, będziesz nadużywał naszej cierpliwości?	Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	będziesz	0	0
+Lepiej milczeć, niż mówić głupoty.	Боље је ћутати него говорити глупости.	niż	0	0
+Powiadają: Psy szczekają, karawana idzie dalej	Каже се: Пси лају а људи путују.	dalej	0	0
+O czym mówisz?	О чему причаш?	czym	0	0
+Pracuję dla was.	Ја радим за вас.	was	0	0
+Dziś mam dobry apetyt.	Данас имам добар апетит.	dobry	0	0
+Myślę, że jego życie jest w niebezpieczeństwie.	Ја мислим да је његов живот у опасности.	życie	0	0
+Lepiej milczeć, niż mówić głupoty.	Боље је ћутати него говорити глупости.	lepiej	0	0
+Nie można robić dwóch rzeczy jednocześnie.	Не могу да се раде две ствари у исто време.	rzeczy	0	0
+Jaka jest twoja grupa krwi?	Која је твоја крвна група?	twoja	0	0
+Kim byś chciał, abym był?	Шта би хтео да будеш?	kim	0	0
+Niech pan położy to na stole.	Stavite to na sto.	niech	0	0
+Lekarz mu powiedział, żeby ograniczył picie alkoholu.	Лекар му је рекао да смањи пијење алкохола.	powiedział	0	0
+Daj mi tysiąc pocałunków.	Дај ми хиљаду пољубаца.	daj	0	0
+Żyjesz w moim sercu.	Živiš u mojem srcu.	moim	0	0
+Nikt nie mieszka w tym domu.	Niko ne živi u ovoj kući.	nikt	0	0
+Nie chcę pracować w tych warunkach.	Ne želim da radim pod ovim uslovima.	tych	0	0
+Spacerowałam ulicami, aby zabić czas.	Šetala sam se ulicama, da ubijem vreme.	aby	0	0
+Wygląda na to, że ten diament jest prawdziwy.	Izgleda da je taj dijamant pravi.	wygląda	0	0
+Jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	jeden	0	0
+Samochód mojego ojca jest nowy.	Auto mog oca je nov.	mojego	0	0
+Dziś na ulicy ktoś mi dał ulotkę propagandową.	Данас ми је на улици неко дао пропагандни листић.	dziś	0	0
+Jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	dwa	0	0
+Jest wiele galaktyk we wszechświecie.	Postoji mnogo galaksija u univerzumu.	wiele	0	0
+Oni jedzą kanapkę.	Oni jedu sendvič.	oni	0	0
+To niewesołe miejsce.	То је невесело место.	miejsce	0	0
+Musisz iść do szkoły.	Moraš da ideš u školu.	iść	0	0
+On śpiewał kilka starych piosenek.	On je pevao nekoliko starih pesama.	kilka	0	0
+Nie piję dużo piwa.	Ја не пијем много пива.	dużo	0	0
+Ona próbowała ukryć swoje uczucia.	Она је покушала да сакрије своја осећања.	swoje	0	0
+Jak wam się podobało w Stanach Zjednoczonych?	Како вам се допало у Сједињеним Државама?	wam	0	0
+Przykro mi, ta książka jest wyprzedana.	Žao mi je, ta knjiga je rasprodata.	przykro	0	0
+Nie można robić dwóch rzeczy jednocześnie.	Не могу да се раде две ствари у исто време.	można	0	0
+Kupiłem tę książkę wczoraj.	Ја сам јуче купио ту књигу.	tę	0	0
+On zupełnie się nie nadaje do tej pracy.	Потпуно је неадекватан за тај посао.	pracy	0	0
+Nie można robić dwóch rzeczy jednocześnie.	Не могу да се раде две ствари у исто време.	robić	0	0
+O czym mówisz?	О чему причаш?	mówisz	0	0
+Nie tak szybko!	Не тако брзо!	szybko	0	0
+Nie uwierzysz, co mi się dzisiaj przydarzyło.	Nećeš verovati šta mi se danas desilo.	dzisiaj	0	0
+Mój brat jest starszy ode mnie, ale jest trzy centymetry niższy jak ja.	Мој брат је старији од мене, али је три сантиметра нижи него ја.	trzy	0	0
+Gdzie jest twój ojciec?	Gde je tvoj otac?	ojciec	0	0
+Tom nie potrafi odegrać bezbłędnie ani jednej piosenki na swoim ukulele.	Том на свом укулеле не може да одсвира ниједну песму без погрешке.	ani	0	0
+Ona robi kwiatki z papieru.	Она прави цветове од папира.	robi	0	0
+Jest pełen życia.	Pun je života.	życia	0	0
+Jak długo, Katylino, będziesz nadużywał naszej cierpliwości?	Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	długo	0	0
+Ziro, nie jest konieczne, żebyś jutro szedł do szkoły.	Зиро, није неопходно да сутра идеш у школу.	jutro	0	0
+Ziro, nie jest konieczne, żebyś jutro szedł do szkoły.	Зиро, није неопходно да сутра идеш у школу.	żebyś	0	0
+Mam wszystko, czego potrzebuję.	Имам све што ми треба.	potrzebuję	0	0
+Dziecko kartkuje książeczkę obrazkową.	Дете прелистава сликовницу.	dziecko	0	0
+Chodzimy do szkoły każdego dnia oprócz niedzieli.	Idemo u školu svaki dan sem nedeljom.	dnia	0	0
+Nasz kraj jest mieszaniną narodowości.	Наша држава је мешавина нација.	nasz	0	0
+Kim byś chciał, abym był?	Шта би хтео да будеш?	chciał	0	0
+To jest człowiek, którego dobrze znam.	To je čovek, kojeg dobro poznajem.	znam	0	0
+Lepiej milczeć, niż mówić głupoty.	Боље је ћутати него говорити глупости.	mówić	0	0
+Spacerowałam ulicami, aby zabić czas.	Šetala sam se ulicama, da ubijem vreme.	zabić	0	0
+Jest wiele galaktyk we wszechświecie.	Postoji mnogo galaksija u univerzumu.	we	0	0
+Jak miło cię znów widzieć, Tom!	Веома м и је драго да те видим помово, Том!	miło	0	0
+Zaczekajmy jeszcze pięć minut.	Хајде да сачекамо још пет минута.	minut	0	0
+Zawsze mów prawdę.	Uvek govori istinu.	mów	0	0
+Nie dam wam moich pieniędzy.	Нећу да ти дам мој новац.	moich	0	0
+Człowiek w 70% składa się z wody.	Човека чини 70% вода.	człowiek	0	0
+To jest człowiek, którego dobrze znam.	To je čovek, kojeg dobro poznajem.	którego	0	0
+Samochód mojego ojca jest nowy.	Auto mog oca je nov.	ojca	0	0
+Bill jest dwa lata ode mnie młodszy.	Бил је две године млађи од мене.	lata	0	0
+Oto szpital, w którym się urodziłem.	Ево болнице у којој сам се ја родио.	którym	0	0
+Jutro rano idziemy.	Сутра ујутро идемо.	idziemy	0	0
+Kim byś chciał, abym był?	Шта би хтео да будеш?	byś	0	0
+Nowy koronawirus jest bardzo zakaźny.	Нови коронавирус је веома заразан.	nowy	0	0
+Brakowało nam ciebie wczoraj na uroczystości.	Veoma si nam nedostajao juče na slavlju.	wczoraj	0	0
+O której godzinie zwykle wstajesz?	Када обично устајеш?	której	0	0
+Idę na plażę.	Idem na plažu.	idę	0	0
+Tom nie potrafi odegrać bezbłędnie ani jednej piosenki na swoim ukulele.	Том на свом укулеле не може да одсвира ниједну песму без погрешке.	swoim	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	których	0	0
+Moja siostra widziała to na własne oczy.	Moja sestra je to videla sopstvenim očima.	oczy	0	0
+Jutro rano idziemy.	Сутра ујутро идемо.	rano	0	0
+Samochód mojego ojca jest nowy.	Auto mog oca je nov.	samochód	0	0
+Nie można robić dwóch rzeczy jednocześnie.	Не могу да се раде две ствари у исто време.	dwóch	0	0
+Jedna jaskółka wiosny nie czyni.	Једна ласта не чини пролеће.	jedna	0	0
+Na stole stoi butelka wina.	Na stolu stoji flaša vina.	wina	0	0
+Spadają liście, idzie jesień.	Лишће опада, долази јесен.	idzie	0	0
+Oto szpital, w którym się urodziłem.	Ево болнице у којој сам се ја родио.	oto	0	0
+Nie dam wam moich pieniędzy.	Нећу да ти дам мој новац.	dam	0	0
+Na świecie jest ponad siedem tysięcy języków.	У свету је више од седам хиљада језика.	świecie	0	0
+Jak miło cię znów widzieć, Tom!	Веома м и је драго да те видим помово, Том!	znów	0	0
+Jak miło cię znów widzieć, Tom!	Веома м и је драго да те видим помово, Том!	widzieć	0	0
+Zawsze mów prawdę.	Uvek govori istinu.	prawdę	0	0
+Śmierć kolonializmowi!	Смрт колонијализму!	śmierć	0	0
+Nie dam wam moich pieniędzy.	Нећу да ти дам мој новац.	pieniędzy	0	0
+Wierzę ci w stu procentach.	Verujem ti sto posto.	wierzę	0	0
+Naukowiec jest znany nie tylko w Japonii, ale i w innych krajach.	Научник је познат не само у Јапану, него и у другим земљама.	innych	0	0
+Kobiety pracują.	Žene rade.	kobiety	0	0
+Czy to miłość?	Да ли је то љубав?	miłość	0	0
+Jak długo, Katylino, będziesz nadużywał naszej cierpliwości?	Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	naszej	0	0
+Serce bije.	Srce bije.	serce	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	inny	0	0
+Ta zła wiadomość wywołała burzliwą reakcję.	Ta loša vest je izazvala burne reakcije.	wiadomość	0	0
+Zaczekajmy jeszcze pięć minut.	Хајде да сачекамо још пет минута.	pięć	0	0
+Chodzimy do szkoły każdego dnia oprócz niedzieli.	Idemo u školu svaki dan sem nedeljom.	każdego	0	0
+Czekam już pół godziny.	Чекам већ пола сата.	godziny	0	0
+Mam plan.	Имам план.	plan	0	0
+Planujemy wycieczkę do Nowego Jorku	Планирамо путовање у Њујорк.	nowego	0	0
+Wzrost kwartalny w wysokoości 1,2 proc. oznacza wzrost roczny w wysokości 4,8 proc.	Тромесечни раст од 1,2% значи годишњи раст од 4,9%.	oznacza	0	0
+Pies to najlepszy przyjaciel człowieka.	Пас је најбољи човеков пријатељ.	człowieka	0	0
+Ona nauczyła go historii rodziny.	Она га је учила о историји породице.	rodziny	0	0
+Na początku stworzył Bóg niebo i ziemię.	У почетку Бог је створио небо и Земљу.	bóg	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	możecie	0	0
+Jaka jest twoja grupa krwi?	Која је твоја крвна група?	krwi	0	0
+Ziro, nie jest konieczne, żebyś jutro szedł do szkoły.	Зиро, није неопходно да сутра идеш у школу.	szkoły	0	0
+Bardzo jestem ci wdzięczny za pomoc.	Veoma sam ti zahvalan na pomoći.	pomoc	0	0
+Jaka jest twoja grupa krwi?	Која је твоја крвна група?	jaka	0	0
+Jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	cztery	0	0
+John lubi grać w szachy.	Џон воли да игра шах.	john	0	0
+Mój brat jest starszy ode mnie, ale jest trzy centymetry niższy jak ja.	Мој брат је старији од мене, али је три сантиметра нижи него ја.	brat	0	0
+Chcecie herbatę czy kawę?	Желите ли чај или кафу?	chcecie	0	0
+Ona mieszka daleko ode mnie.	Она живи далеко од мене.	daleko	0	0
+Czekam już pół godziny.	Чекам већ пола сата.	pół	0	0
+Bill jest dwa lata ode mnie młodszy.	Бил је две године млађи од мене.	ode	0	0
+Chcesz iść dziś wieczorem razem ze mną do kina?	Хоћеш ли да вечерас идемо заједно у биоскоп?	wieczorem	0	0
+Pies lubi mięso.	Пас воли месо.	lubi	0	0
+Człowiek w 70% składa się z wody.	Човека чини 70% вода.	wody	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	zna	0	0
+Książka jest mała.	Књига је мала.	mała	0	0
+Nie chcę pracować w tych warunkach.	Ne želim da radim pod ovim uslovima.	pracować	0	0
+On zupełnie się nie nadaje do tej pracy.	Потпуно је неадекватан за тај посао.	zupełnie	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	uwagę	0	0
+Dziś na ulicy ktoś mi dał ulotkę propagandową.	Данас ми је на улици неко дао пропагандни листић.	dał	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	małe	0	0
+Na świecie jest ponad siedem tysięcy języków.	У свету је више од седам хиљада језика.	ponad	0	0
+Na początku stworzył Bóg niebo i ziemię.	У почетку Бог је створио небо и Земљу.	początku	0	0
+Pies to najlepszy przyjaciel człowieka.	Пас је најбољи човеков пријатељ.	przyjaciel	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	wielkie	0	0
+Pokaż mi dzisiejszą gazetę.	Покажи ми данашње новине.	pokaż	0	0
+Moja siostra widziała to na własne oczy.	Moja sestra je to videla sopstvenim očima.	siostra	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	oraz	0	0
+Historia się powtarza.	Историја се понавља.	historia	0	0
+Mam rodzinę.	Imam porodicu.	rodzinę	0	0
+Tom nie potrafi odegrać bezbłędnie ani jednej piosenki na swoim ukulele.	Том на свом укулеле не може да одсвира ниједну песму без погрешке.	jednej	0	0
+Pies to najlepszy przyjaciel człowieka.	Пас је најбољи човеков пријатељ.	najlepszy	0	0
+Łatwo przyszło, łatwo poszło.	Како дошло, тако и отишло.	łatwo	0	0
+Pracuję dla was.	Ја радим за вас.	pracuję	0	0
+Jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	sześć	0	0
+Ta zła wiadomość wywołała burzliwą reakcję.	Ta loša vest je izazvala burne reakcije.	zła	0	0
+Gdzie jest Tom?	Gde je Tom?	tom	0	0
+Boję się.	Plašim se.	boję	0	0
+Ona nauczyła go historii rodziny.	Она га је учила о историји породице.	historii	0	0
+Wietnam ma około dwudziestu milionów wierzących.	Вијетнам има око 20 милиона верника.	około	0	0
+O której godzinie zwykle wstajesz?	Када обично устајеш?	zwykle	0	0
+Wygląda na to, że ten diament jest prawdziwy.	Izgleda da je taj dijamant pravi.	prawdziwy	0	0
+Dziś na ulicy ktoś mi dał ulotkę propagandową.	Данас ми је на улици неко дао пропагандни листић.	ulicy	0	0
+On jest moim najlepszym przyjacielem.	Он је мој најбољи пријатељ.	przyjacielem	0	0
+Na świecie jest ponad siedem tysięcy języków.	У свету је више од седам хиљада језика.	tysięcy	0	0
+Nikt nie mieszka w tym domu.	Niko ne živi u ovoj kući.	mieszka	0	0
+Na początku stworzył Bóg niebo i ziemię.	У почетку Бог је створио небо и Земљу.	ziemię	0	0
+John lubi grać w szachy.	Џон воли да игра шах.	grać	0	0
+Psy i koty nie są przyjaciółmi.	Пси и мачке нису пријатељи.	przyjaciółmi	0	0
+Możesz przyjść?	Да ли можеш да дођеш?	przyjść	0	0
+Otwórz oczy.	Отвори очи.	otwórz	0	0
+Łatwo przyszło, łatwo poszło.	Како дошло, тако и отишло.	poszło	0	0
+Psia buda stoi na podwórku.	Псећа кућица стоји у дворишту.	stoi	0	0
+Jak wabi się wasz pies?	Како зовете вашег пса?	wasz	0	0
+Planujemy wycieczkę do Nowego Jorku	Планирамо путовање у Њујорк.	jorku	0	0
+Liść jest częścią rośliny.	Лист је део биљке.	częścią	0	0
+Tom nie potrafi odegrać bezbłędnie ani jednej piosenki na swoim ukulele.	Том на свом укулеле не може да одсвира ниједну песму без погрешке.	potrafi	0	0
+Moja siostra widziała to na własne oczy.	Moja sestra je to videla sopstvenim očima.	własne	0	0
+Wietnam ma około dwudziestu milionów wierzących.	Вијетнам има око 20 милиона верника.	milionów	0	0
+Mam kota i psa. Kot jest czarny, a pies biały.	Имам мачку и пса. Мачка је црна, а пас бео.	pies	0	0
+Książkę znajdziesz w księgarni.	Tu knjigu ćeš pronaći u biblioteci.	znajdziesz	0	0
+Mam kota i psa. Kot jest czarny, a pies biały.	Имам мачку и пса. Мачка је црна, а пас бео.	psa	0	0
+Jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	dziesięć	0	0
+Ta książka jest ładnie ilustrowana.	Ова књига је лепо илустрована.	ładnie	0	0
+On jest moim najlepszym przyjacielem.	Он је мој најбољи пријатељ.	najlepszym	0	0
+On zwykle pije piwo.	Он обично пије пиво.	piwo	0	0
+Na świecie jest ponad siedem tysięcy języków.	У свету је више од седам хиљада језика.	siedem	0	0
+Wolałby pan herbatę czy kawę?	Желите ли чај или кафу?	kawę	0	0
+Chodzimy do szkoły każdego dnia oprócz niedzieli.	Idemo u školu svaki dan sem nedeljom.	oprócz	0	0
+Lekarz mu powiedział, żeby ograniczył picie alkoholu.	Лекар му је рекао да смањи пијење алкохола.	lekarz	0	0
+Nasz kraj jest mieszaniną narodowości.	Наша држава је мешавина нација.	kraj	0	0
+Żyjesz w moim sercu.	Živiš u mojem srcu.	żyjesz	0	0
+Jaka jest twoja grupa krwi?	Која је твоја крвна група?	grupa	0	0
+Czy mogę zapłacić kartą kredytową?	Mogu li da plaćam kreditnom karticom?	zapłacić	0	0
+Bill jest dwa lata ode mnie młodszy.	Бил је две године млађи од мене.	bill	0	0
+Nie mogę powiedzieć ci prawdy.	Ne mogu ti reci istinu.	prawdy	0	0
+Jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	osiem	0	0
+Książkę znajdziesz w księgarni.	Tu knjigu ćeš pronaći u biblioteci.	książkę	0	0
+Co jest większe: Słońce czy Ziemia?	Šta je veće, Sunce ili Zemlja?	słońce	0	0
+Ona próbowała ukryć swoje uczucia.	Она је покушала да сакрије своја осећања.	uczucia	0	0
+Jestem lekarzem.	Ja sam lekar.	lekarzem	0	0
+Czekam już pół godziny.	Чекам већ пола сата.	czekam	0	0
+Liście na drzewie szeleszczą od wiatru.	Лишће на дрвету трепери од ветра.	liście	0	0
+Moja siostra widziała to na własne oczy.	Moja sestra je to videla sopstvenim očima.	widziała	0	0
+Odłóż pistolet na stół.	Spusti pištolj na sto.	odłóż	0	0
+Kim byś chciał, abym był?	Шта би хтео да будеш?	abym	0	0
+Podwórko jest pełne liści.	Двориште је препуно лишћа.	pełne	0	0
+Mam kota i psa. Kot jest czarny, a pies biały.	Имам мачку и пса. Мачка је црна, а пас бео.	czarny	0	0
+Otwórz usta!	Otvori usta!	usta	0	0
+Znalazła czterolistną koniczynę.	Она је нашла детелину са четири листа.	znalazła	0	0
+Za moim domem jest kościół.	Iza moje kuće je crkva.	domem	0	0
+Mam kota i psa. Kot jest czarny, a pies biały.	Имам мачку и пса. Мачка је црна, а пас бео.	biały	0	0
+Co jest większe: Słońce czy Ziemia?	Šta je veće, Sunce ili Zemlja?	ziemia	0	0
+Mężczyźni nigdy nie dorastają.	Мушкарци никад не одрасту.	mężczyźni	0	0
+Żyjesz w moim sercu.	Živiš u mojem srcu.	sercu	0	0
+Kiedy zacząłeś uczyć się angielskiego?	Kada si započeo da učiš engleski?	uczyć	0	0
+Odłóż pistolet na stół.	Spusti pištolj na sto.	pistolet	0	0
+Ona próbowała ukryć swoje uczucia.	Она је покушала да сакрије своја осећања.	ukryć	0	0
+Jedna jaskółka wiosny nie czyni.	Једна ласта не чини пролеће.	czyni	0	0
+Psy łowieckie są szybkie.	Ловачки пси су брзи.	psy	0	0
+Co jest większe: Słońce czy Ziemia?	Šta je veće, Sunce ili Zemlja?	większe	0	0
+Ten strój mi odpowiada.	Та одећа ми одговара.	odpowiada	0	0
+Na początku stworzył Bóg niebo i ziemię.	У почетку Бог је створио небо и Земљу.	niebo	0	0
+Ziro, nie jest konieczne, żebyś jutro szedł do szkoły.	Зиро, није неопходно да сутра идеш у школу.	konieczne	0	0
+Proszę położyć to na stole.	Stavite to na sto.	stole	0	0
+Proszę nie robić tutaj zdjęć.	Молим вас да овде не фотографишете.	zdjęć	0	0
+Kompozytorzy komponują muzykę.	Композитори компонују музику.	muzykę	0	0
+Kupiłem tę książkę wczoraj.	Ја сам јуче купио ту књигу.	kupiłem	0	0
+Jak wam się podobało w Stanach Zjednoczonych?	Како вам се допало у Сједињеним Државама?	podobało	0	0
+Gdzie jest hotel?	Где се назали хотел?	hotel	0	0
+Jest pełen życia.	On je pun života.	pełen	0	0
+Wiatr unosi kartki papieru.	Ветар носи листове папира.	wiatr	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	znacie	0	0
+Przykro mi, ta książka jest wyprzedana.	Žao mi je, ta knjiga je rasprodata.	książka	0	0
+Oto szpital, w którym się urodziłem.	Ево болнице у којој сам се ја родио.	szpital	0	0
+Mój brat jest starszy ode mnie, ale jest trzy centymetry niższy jak ja.	Мој брат је старији од мене, али је три сантиметра нижи него ја.	starszy	0	0
+On śpiewał kilka starych piosenek.	On je pevao nekoliko starih pesama.	starych	0	0
+Proszę położyć to na stole.	Stavite to na sto.	położyć	0	0
+Łatwo przyszło, łatwo poszło.	Како дошло, тако и отишло.	przyszło	0	0
+Daj mi tysiąc pocałunków.	Дај ми хиљаду пољубаца.	tysiąc	0	0
+Nie piję dużo piwa.	Ја не пијем много пива.	piwa	0	0
+Bardzo jestem ci wdzięczny za pomoc.	Veoma sam ti zahvalan na pomoći.	wdzięczny	0	0
+Brakowało nam ciebie wczoraj na uroczystości.	Веома си нам недостајао јуче на слављу.	brakowało	0	0
+Jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	dziewięć	0	0
+Umieram z głodu!	Umirem od gladi!	umieram	0	0
+Nie wszystko złoto, co się świeci.	Nije zlato sve što sija.	złoto	0	0
+Jej suka ma trzy szczenięta.	Њена куја има три штенета.	suka	0	0
+To szczenię bardzo głośno szczeka.	То псетанце веома гласно лаје.	głośno	0	0
+Dobro zawsze zwycięża zło.	Добро увек побеђује зло.	zło	0	0
+Tom nie potrafi odegrać bezbłędnie ani jednej piosenki na swoim ukulele.	Том на свом укулеле не може да одсвира ниједну песму без погрешке.	piosenki	0	0
+Naukowiec jest znany nie tylko w Japonii, ale i w innych krajach.	Научник је познат не само у Јапану, него и у другим земљама.	znany	0	0
+Kobiety pracują.	Žene rade.	pracują	0	0
+Wzrost kwartalny w wysokoości 1,2 proc. oznacza wzrost roczny w wysokości 4,8 proc.	Тромесечни раст од 1,2% значи годишњи раст од 4,9%.	wysokości	0	0
+To jest drzewo liściaste.	Ово је лиснато дрво.	drzewo	0	0
+Myślę, że jego życie jest w niebezpieczeństwie.	Ја мислим да је његов живот у опасности.	niebezpieczeństwie	0	0
+Pada deszcz.	Pada kiša.	deszcz	0	0
+Za moim domem jest kościół.	Iza moje kuće je crkva.	kościół	0	0
+Chcecie herbatę czy kawę?	Желите ли чај или кафу?	herbatę	0	0
+Ona próbowała ukryć swoje uczucia.	Она је покушала да сакрије своја осећања.	próbowała	0	0
+Pies lubi mięso.	Пас воли месо.	mięso	0	0
+Mam kota i psa. Kot jest czarny, a pies biały.	Имам мачку и пса. Мачка је црна, а пас бео.	kota	0	0
+Nie można robić dwóch rzeczy jednocześnie.	Не могу да се раде две ствари у исто време.	jednocześnie	0	0
+Mam kota i psa. Kot jest czarny, a pies biały.	Имам мачку и пса. Мачка је црна, а пас бео.	kot	0	0
+Umieram z głodu!	Umirem od gladi!	głodu	0	0
+Nie uwierzysz, co mi się dzisiaj przydarzyło.	Nećeš verovati šta mi se danas desilo.	uwierzysz	0	0
+Jak wam się podobało w Stanach Zjednoczonych?	Како вам се допало у Сједињеним Државама?	zjednoczonych	0	0
+Nie jestem bogaty.	Nisam bogat.	bogaty	0	0
+Człowiek w 70% składa się z wody.	Човека чини 70% вода.	składa	0	0
+Odłóż pistolet na stół.	Spusti pištolj na sto.	stół	0	0
+Na początku stworzył Bóg niebo i ziemię.	У почетку Бог је створио небо и Земљу.	stworzył	0	0
+Tom zgubił kapelusz.	Tom je izgubio šešir.	kapelusz	0	0
+Łazienka jest na piętrze.	Купатило је на спрату.	piętrze	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	dodać	0	0
+Chcesz iść dziś wieczorem razem ze mną do kina?	Хоћеш ли да вечерас идемо заједно у биоскоп?	kina	0	0
+Lekarz mu powiedział, żeby ograniczył picie alkoholu.	Лекар му је рекао да смањи пијење алкохола.	alkoholu	0	0
+Ten strój mi odpowiada.	Та одећа ми одговара.	strój	0	0
+Nocą wszystko się uspokaja.	Ноћу све мирује.	nocą	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	zdania	0	0
+Planujemy wycieczkę do Nowego Jorku	Планирамо путовање у Њујорк.	wycieczkę	0	0
+Supermarket jest otwarty od poniedziałku do soboty	Supermarket je otvoren od ponedeljka do subote.	otwarty	0	0
+Pada deszcz.	Pada kiša.	pada	0	0
+O której godzinie zwykle wstajesz?	Када обично устајеш?	godzinie	0	0
+Nie piję dużo piwa.	Ја не пијем много пива.	piję	0	0
+Serce bije.	Srce bije.	bije	0	0
+Wierzę ci w stu procentach.	Verujem ti sto posto.	stu	0	0
+Dobro zawsze zwycięża zło.	Добро увек побеђује зло.	dobro	0	0
+On zupełnie się nie nadaje do tej pracy.	Потпуно је неадекватан за тај посао.	nadaje	0	0
+On zwykle pije piwo.	Он обично пије пиво.	pije	0	0
+Piekę chleb.	Печем хлеб.	chleb	0	0
+Psy łowieckie są szybkie.	Ловачки пси су брзи.	szybkie	0	0
+Bill jest dwa lata ode mnie młodszy.	Бил је две године млађи од мене.	młodszy	0	0
+Nie jestem żołnierzem.	Ја нисам војник.	żołnierzem	0	0
+Kiedy zacząłeś uczyć się angielskiego?	Kada si započeo da učiš engleski?	zacząłeś	0	0
+Wiatr unosi kartki papieru.	Ветар носи листове папира.	papieru	0	0
+Jak wam się podobało w Stanach Zjednoczonych?	Како вам се допало у Сједињеним Државама?	stanach	0	0
+Oni jedzą kanapkę.	Oni jedu sendvič.	kanapkę	0	0
+Ziro, nie jest konieczne, żebyś jutro szedł do szkoły.	Зиро, није неопходно да сутра идеш у школу.	szedł	0	0
+Naukowiec jest znany nie tylko w Japonii, ale i w innych krajach.	Научник је познат не само у Јапану, него и у другим земљама.	japonii	0	0
+Ten, kto urodził się w Armenii, jest Armeńczykiem.	Онај који се роди у Арменији је арменац.	urodził	0	0
+Tom czyta.	Том чита.	czyta	0	0
+Jak długo, Katylino, będziesz nadużywał naszej cierpliwości?	Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	cierpliwości	0	0
+Psy i koty nie są przyjaciółmi.	Пси и мачке нису пријатељи.	koty	0	0
+Nie chcę pracować w tych warunkach.	Ne želim da radim pod ovim uslovima.	warunkach	0	0
+Wzrost kwartalny w wysokoości 1,2 proc. oznacza wzrost roczny w wysokości 4,8 proc.	Тромесечни раст од 1,2% значи годишњи раст од 4,9%.	wzrost	0	0
+Następujący fragment jest cytatem ze znanej bajki.	Следећи део је цитат из познате бајке.	fragment	0	0
+Oto szpital, w którym się urodziłem.	Ево болнице у којој сам се ја родио.	urodziłem	0	0
+Kiedy zacząłeś uczyć się angielskiego?	Kada si započeo da učiš engleski?	angielskiego	0	0
+Lepiej milczeć, niż mówić głupoty.	Боље је ћутати него говорити глупости.	głupoty	0	0
+Oni jedzą kanapkę.	Oni jedu sendvič.	jedzą	0	0
+On ma złamane serce.	Сломљено му је срце.	złamane	0	0
+Idę na plażę.	Idem na plažu.	plażę	0	0
+Pokaż mi dzisiejszą gazetę.	Покажи ми данашње новине.	gazetę	0	0
+Lekarz mu powiedział, żeby ograniczył picie alkoholu.	Лекар му је рекао да смањи пијење алкохола.	picie	0	0
+Jest wiele galaktyk we wszechświecie.	Postoji mnogo galaksija u univerzumu.	wszechświecie	0	0
+Liście na drzewie szeleszczą od wiatru.	Лишће на дрвету трепери од ветра.	wiatru	0	0
+Ona nauczyła go historii rodziny.	Она га је учила о историји породице.	nauczyła	0	0
+Tom zgubił kapelusz.	Tom je izgubio šešir.	zgubił	0	0
+Łazienka jest na piętrze.	Купатило је на спрату.	łazienka	0	0
+Liście na drzewie szeleszczą od wiatru.	Лишће на дрвету трепери од ветра.	drzewie	0	0
+On śpiewał kilka starych piosenek.	On je pevao nekoliko starih pesama.	piosenek	0	0
+Następujący fragment jest cytatem ze znanej bajki.	Следећи део је цитат из познате бајке.	bajki	0	0
+Na stole stoi butelka wina.	Na stolu stoji flaša vina.	butelka	0	0
+Nie uwierzysz, co mi się dzisiaj przydarzyło.	Nećeš verovati šta mi se danas desilo.	przydarzyło	0	0
+Historia się powtarza.	Историја се понавља.	powtarza	0	0
+Nie wszystko złoto, co się świeci.	Nije zlato sve što sija.	świeci	0	0
+Liść jest częścią rośliny.	Лист је део биљке.	rośliny	0	0
+Tom jest głuchy.	Tom je gluv.	głuchy	0	0
+Ona jest bogata.	Ona je bogata.	bogata	0	0
+Wiatr unosi kartki papieru.	Ветар носи листове папира.	kartki	0	0
+Dziś mam dobry apetyt.	Данас имам добар апетит.	apetyt	0	0
+Ta zła wiadomość wywołała burzliwą reakcję.	Ta loša vest je izazvala burne reakcije.	reakcję	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	litery	0	0
+Czy mogę zapłacić kartą kredytową?	Mogu li da plaćam kreditnom karticom?	kartą	0	0
+Psia buda stoi na podwórku.	Псећа кућица стоји у дворишту.	podwórku	0	0
+Chodzimy do szkoły każdego dnia oprócz niedzieli.	Idemo u školu svaki dan sem nedeljom.	chodzimy	0	0
+Wygląda na to, że ten diament jest prawdziwy.	Izgleda da je taj dijamant pravi.	diament	0	0
+Pokaż mi dzisiejszą gazetę.	Покажи ми данашње новине.	dzisiejszą	0	0
+John lubi grać w szachy.	Џон воли да игра шах.	szachy	0	0
+Mogę zapłacić kartą kredytową?	Mogu li da plaćam kreditnom karticom?	kredytową	0	0
+Naukowiec jest znany nie tylko w Japonii, ale i w innych krajach.	Научник је познат не само у Јапану, него и у другим земљама.	naukowiec	0	0
+On śpiewał kilka starych piosenek.	On je pevao nekoliko starih pesama.	śpiewał	0	0
+Tom nie potrafi odegrać bezbłędnie ani jednej piosenki na swoim ukulele.	Том на свом укулеле не може да одсвира ниједну песму без погрешке.	odegrać	0	0
+Wietnam ma około dwudziestu milionów wierzących.	Вијетнам има око 20 милиона верника.	dwudziestu	0	0
+Na początku Bóg stworzył niebiosa i ziemię.	У почетку Бог је створио небо и Земљу.	niebiosa	0	0
+Jak mam to objaśnić, żeby wszyscy zrozumieli?	Kako da to objasnim da svi razumeju?	zrozumieli	0	0
+Supermarket jest otwarty od poniedziałku do soboty	Supermarket je otvoren od ponedeljka do subote.	poniedziałku	0	0
+Ktoś jest za ścianą.	Неко је иза зида.	ścianą	0	0
+Lepiej milczeć, niż mówić głupoty.	Боље је ћутати него говорити глупости.	milczeć	0	0
+Supermarket jest otwarty od poniedziałku do soboty	Supermarket je otvoren od ponedeljka do subote.	soboty	0	0
+Powiadają: Psy szczekają, karawana idzie dalej	Каже се: Пси лају а људи путују.	powiadają	0	0
+Spadają liście, idzie jesień.	Лишће опада, долази јесен.	spadają	0	0
+Jedna jaskółka wiosny nie czyni.	Једна ласта не чини пролеће.	wiosny	0	0
+Naukowiec jest znany nie tylko w Japonii, ale i w innych krajach.	Научник је познат не само у Јапану, него и у другим земљама.	krajach	0	0
+Połóżcie to na stole.	Stavite to na sto.	połóżcie	0	0
+Brakowało nam ciebie wczoraj na uroczystości.	Veoma si nam nedostajao juče na slavlju.	uroczystości	0	0
+Planujemy wycieczkę do Nowego Jorku	Планирамо путовање у Њујорк.	planujemy	0	0
+Ona robi kwiatki z papieru.	Она прави цветове од папира.	kwiatki	0	0
+Podwórko jest pełne liści.	Двориште је препуно лишћа.	liści	0	0
+Podwórko jest pełne liści.	Двориште је препуно лишћа.	podwórko	0	0
+Chodzimy do szkoły każdego dnia oprócz niedzieli.	Idemo u školu svaki dan sem nedeljom.	niedzieli	0	0
+Spadają liście, idzie jesień.	Лишће опада, долази јесен.	jesień	0	0
+Wiatr unosi kartki papieru.	Ветар носи листове папира.	unosi	0	0
+Książkę znajdziesz w księgarni.	Tu knjigu ćeš pronaći u biblioteci.	księgarni	0	0
+Wierzę ci w stu procentach.	Verujem ti sto posto.	procentach	0	0
+Wolałby pan herbatę czy kawę?	Желите ли чај или кафу?	wolałby	0	0
+Nocą wszystko się uspokaja.	Ноћу све мирује.	uspokaja	0	0
+Chcę być dziennikarką.	Желим да будем новинарка.	dziennikarką	0	0
+Jak wabi się wasz pies?	Како зовете вашег пса?	wabi	0	0
+Niech pan położy to na stole.	Stavite to na sto.	położy	0	0
+Następujący fragment jest cytatem ze znanej bajki.	Следећи део је цитат из познате бајке.	znanej	0	0
+Na świecie jest ponad siedem tysięcy języków.	У свету је више од седам хиљада језика.	języków	0	0
+Mężczyźni nigdy nie dorastają.	Мушкарци никад не одрасту.	dorastają	0	0
+Psia buda stoi na podwórku.	Псећа кућица стоји у дворишту.	psia	0	0
+Liść jest częścią rośliny.	Лист је део биљке.	liść	0	0
+Mój brat jest starszy ode mnie, ale jest trzy centymetry niższy jak ja.	Мој брат је старији од мене, али је три сантиметра нижи него ја.	niższy	0	0
+Spacerowałam ulicami, aby zabić czas.	Šetala sam se ulicama, da ubijem vreme.	ulicami	0	0
+Dobro zawsze zwycięża zło.	Добро увек побеђује зло.	zwycięża	0	0
+Ona nie jest zwyczajną piosenkarką.	Она није обична певачица.	piosenkarką	0	0
+O której zwykle wstajesz?	Када обично устајеш?	wstajesz	0	0
+Zaczekajmy jeszcze pięć minut.	Хајде да сачекамо још пет минута.	zaczekajmy	0	0
+Dziecko kartkuje książeczkę obrazkową.	Дете прелистава сликовницу.	książeczkę	0	0
+Ta zła wiadomość wywołała burzliwą reakcję.	Ta loša vest je izazvala burne reakcije.	wywołała	0	0
+To szczenię bardzo głośno szczeka.	То псетанце веома гласно лаје.	szczeka	0	0
+Wietnam ma około dwudziestu milionów wierzących.	Вијетнам има око 20 милиона верника.	wietnam	0	0
+Psia buda stoi na podwórku.	Псећа кућица стоји у дворишту.	buda	0	0
+Daj mi tysiąc pocałunków.	Дај ми хиљаду пољубаца.	pocałunków	0	0
+Dziś na ulicy ktoś mi dał ulotkę propagandową.	Данас ми је на улици неко дао пропагандни листић.	ulotkę	0	0
+Jest wiele galaktyk we wszechświecie.	Postoji mnogo galaksija u univerzumu.	galaktyk	0	0
+Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	Možete dodati rečenice čije prevode ne znate. Možda neko drugi zna.Pazite molim Vas na veliko i malo slovo i interpunkciju!Hvala.	zwracajcie	0	0
+Ona nie jest zwyczajną piosenkarką.	Она није обична певачица.	zwyczajną	0	0
+Mój brat jest starszy ode mnie, ale jest trzy centymetry niższy jak ja.	Мој брат је старији од мене, али је три сантиметра нижи него ја.	centymetry	0	0
+Wzrost kwartalny w wysokoości 1,2 proc. oznacza wzrost roczny w wysokości 4,8 proc.	Тромесечни раст од 1,2% значи годишњи раст од 4,9%.	roczny	0	0
+Supermarket jest otwarty od poniedziałku do soboty	Supermarket je otvoren od ponedeljka do subote.	supermarket	0	0
+Następujący fragment jest cytatem ze znanej bajki.	Следећи део је цитат из познате бајке.	następujący	0	0
+Nasz kraj jest mieszaniną narodowości.	Наша држава је мешавина нација.	narodowości	0	0

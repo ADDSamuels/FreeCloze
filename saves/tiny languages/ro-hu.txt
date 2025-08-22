@@ -1,0 +1,1395 @@
+De ce întrebi?	Miért kérdezed?	de	0	0
+Nu mă pot decide dacă să le spun sau nu despre petrecere.	Nem tudom eldönteni, hogy szóljak-e nekik a buliról.	nu	0	0
+Nu vreau să vorbesc cu dumneavoastră.	Nem akarok magával beszélni.	să	0	0
+Astăzi am cumpărat o duzină de creioane.	Vettem ma tizenkét ceruzát.	o	0	0
+Mașina lui Tom tocmai a intrat în parcare.	Tom autója épp behajtott a parkolóba.	în	0	0
+Ce doriți: ceai sau cafea?	Mit kíván, teát vagy kávét?	ce	0	0
+Nu e o idee bună.	Ez nem jó ötlet.	e	0	0
+Tom spune că crede că nu există viață pe Marte.	Tom azt mondta, hogy szerinte nincs élet a Marson.	că	0	0
+Ea lucrează zi şi noapte.	Éjjel-nappal dolgozik.	şi	0	0
+Am văzut jocul de la început la sfârșit.	Láttam a játszmát az elejétől a végéig.	la	0	0
+A plouat neîntrerupt.	Szüntelenül esett.	a	0	0
+Am făcut o escală de două ore într-un mic port pitoresc pentru a ne aproviziona cu provizii.	Két órás megállót tartottunk egy festői kis kikötőben, hogy feltöltsük a készleteinket.	cu	0	0
+Pe vârful dealului sunt ruinele unui vechi castel.	A dombtetőn egy régi vár romjai vannak.	pe	0	0
+Nu am văzut niciodată un asemenea peisaj frumos.	Nem láttam még soha ilyen szép tájat.	am	0	0
+Ăsta este un oraș foarte frumos.	Ez tényleg szép város.	un	0	0
+Ceea ce nu mă ucide, mă face mai puternic.	Ami nem öl meg, az megerősít.	mai	0	0
+Nu vrea să vorbească despre asta.	Nem akar erről beszélni.	asta	0	0
+Tom spunea că Mary este prea tânără pentru a conduce.	Tom azt mondta, hogy Mary túl fiatal a vezetéshez.	pentru	0	0
+Tom spunea că Mary este prea tânără pentru a conduce.	Tom azt mondta, hogy Mary túl fiatal a vezetéshez.	este	0	0
+Ştiu că nu sunt suficient de bun pentru el.	Tudom, hogy nem vagyok elég jó neki.	sunt	0	0
+- Unde ai fost? - Am fost la dentist.	- Hol voltál? - Fogorvosnál.	ai	0	0
+Te deranjează?	Zavar téged?	te	0	0
+El era bine.	Jól volt.	bine	0	0
+Nu putem da vina pe ei.	Nem hibáztathatjuk őket.	da	0	0
+Tom nu este la fel de activ ca fratele său.	Tom nem olyan aktív, mint a bátyja.	ca	0	0
+Scuze, dar nu pot să te urmez; gândurile tale sunt destul de tulburi.	Bocs, de nem tudlak követni; elég zavarosak a gondolataid.	dar	0	0
+După câteva minute Maria a început să se plictisească.	Pár perc elteltével unatkozni kezdett Mari.	se	0	0
+Preţurile vor creşte din ce în ce mai mult.	Az árak egyre növekedni fognak.	din	0	0
+Cine a fost aici?	Ki volt itt?	fost	0	0
+Care este al meu?	Melyik az enyém?	care	0	0
+Schimbarea orei va fi duminică seara.	Az óraátállítás vasárnap este lesz.	fi	0	0
+Mă numesc Ricardo.	A nevem Ricardo.	mă	0	0
+Eu sunt vegetarian.	Vegetáriánus vagyok.	eu	0	0
+Te rog ia loc aici.	Kérlek, foglalj helyet.	aici	0	0
+Profesorul a desemnat un substitut pentru a preda lecția în absența sa.	A tanár kijelölt egy helyettest, hogy tartsa meg az órát a távollétében.	sa	0	0
+Tehnica de tăiere nu doar formează forma pomului, ci poate crește și producția dacă este realizată corect.	A metszés technikája nemcsak a fa formáját alakítja, hanem a terméshozamot is növelheti, ha megfelelően végzik el.	dacă	0	0
+A zis că trebuie să păstrăm secretul.	Azt mondta, hogy meg kell őriznünk a titkot.	trebuie	0	0
+Va ploua azi.	Esni fog ma.	va	0	0
+Cum a fost la școală azi?	Milyen volt ma a suli?	cum	0	0
+Aș face altfel decât ai făcut tu.	Máshogy csinálnám, mint ahogy te csináltad.	tu	0	0
+Ea a plecat acum o oră.	Elment egy órája.	acum	0	0
+El nu este un student obișnuit.	Ő nem egy szokványos hallgató.	el	0	0
+Spune-mi ce ar trebui să fac.	Mondd meg, mitévő legyek.	ar	0	0
+Mary este fiica lui Tom.	Mary Tom lánya.	lui	0	0
+Vreți să mâncați ceva?	Szeretnétek enni valamit?	ceva	0	0
+Când pisica nu-i acasă, joacă şoarecii pe masă.	Ha nincs otthon a macska, cincognak az egerek.	când	0	0
+Trebuie doar să studiezi din greu.	Csak keményen kell tanulnod.	doar	0	0
+Ei spun că lui nu-i place să studieze.	Azt mondják, nem szeret tanulni.	ei	0	0
+Ne conferă un avantaj.	Előnyhöz juttat minket.	ne	0	0
+Ești mai curajos decât mine.	Bátrabb vagy, mint én.	mine	0	0
+Nu sunt pentru tine.	Nem neked vannak.	tine	0	0
+Tehnica de tăiere nu doar formează pomul, ci poate crește și producția dacă este realizată corect.	A metszés technikája nemcsak a fa formáját alakítja, hanem a terméshozamot is növelheti, ha megfelelően végzik el.	poate	0	0
+Pot să vă întreb ceva?	Kérdezhetek valamit?	pot	0	0
+Voi pleca.	Elmegyek.	voi	0	0
+Să-mi zici dacă există ceva ce pot face.	Mondd, ha van valami, amit tehetek.	face	0	0
+Cred că e prea scump.	Túl drágának tartom.	cred	0	0
+Îmi bag picioarele!	Nem érdekel.	îmi	0	0
+Toți au râs zgomotos la glumă.	A viccen mindenki hangosan röhögött.	au	0	0
+Sprijinit de brațul fotoliului confortabil, am citit cartea mea preferată.	A kényelmes fotel karfájára támaszkodva olvastam a kedvenc könyvemet.	mea	0	0
+Ți-am spus să stai în mașină.	Mondtam, hogy maradj a kocsiban!	spus	0	0
+Ştiu că nu sunt suficient de bun pentru el.	Tudom, hogy nem vagyok elég jó neki.	ştiu	0	0
+Unde te duci?	Hova mész?	unde	0	0
+Pot să vă întreb ceva?	Kérdezhetek valamit?	vă	0	0
+Doar peste cadavrul meu!	Csak a holttestemen át!	meu	0	0
+Ea nu vorbea cu el.	Nem beszélt vele.	ea	0	0
+Tom arată mult mai bine astăzi.	Tom sokkal jobban néz ki ma.	mult	0	0
+Vreau să îmi sărut iubita!	Meg akarom csókolni a szerelmemet!	vreau	0	0
+Am scris multe scrisori unul altuia în trecut, dar corespondența noastră s-a întrerupt.	Sok levelet írtunk korábban egymásnak, de a levelezésünk abbamaradt.	s-a	0	0
+Actorul a vorbit pe șleau despre umilințele și eșecurile din viața sa.	A színész kertelés nélkül beszélt az életében elszenvedett megaláztatásokról és kudarcokról.	despre	0	0
+Nu vrei să te gândești la Tom, nu-i așa?	Nem akarsz Tomra gondolni, ugye?	vrei	0	0
+Este vișină sau cireașă?	Ez meggy vagy cseresznye?	sau	0	0
+Îmi strici tot planul.	Elrontod az egész tervemet.	tot	0	0
+Eu sunt foarte ocupată astăzi.	Ma nagyon elfoglalt vagyok.	foarte	0	0
+Îmi pare rău, nu pot sta mult.	Sajnálom, nem tudok sokáig maradni.	pare	0	0
+Plouă acolo?	Ott esik?	acolo	0	0
+Chiar dacă era obosit, lucra.	Fáradt volt, de mégis dolgozott.	chiar	0	0
+Noi nu l-am văzut pe Tom.	Mi nem láttuk Tomot.	noi	0	0
+Nu e o idee bună.	Nem jó ötlet.	bună	0	0
+Te admir pentru reacția ta la provocări.	Csodálom, ahogy a kihívásokra reagálsz.	ta	0	0
+Păcat că a murit Vasile, era un muncitor bun.	Kár, hogy meghalt Vasile, jó munkás volt.	era	0	0
+Din moment ce nu ai nimic de făcut, de ce nu vii cu mine la pescuit în acest weekend?	Ha már úgysincs mit csinálnod, miért nem jössz velem horgászni a hétvégén?	nimic	0	0
+Salut, ce faci?	Szia! Hogy vagy?	faci	0	0
+Tom are o experienţă bogata în lucru cu computatoarele.	Tominak nagy tapasztalata van a számítógépes munkában.	are	0	0
+Am făcut o escală de două ore într-un mic port pitoresc pentru a ne aproviziona cu provizii.	Két órás megállót tartottunk egy festői kis kikötőben, hogy feltöltsük a készleteinket.	făcut	0	0
+Știi cine a inventat microscopul?	Tudod, ki találta fel a mikroszkópot?	cine	0	0
+N-am avut nici o alternativă.	Nem volt más választásom.	nici	0	0
+S-ar putea să mă întâlnesc cu Tom mâine.	Lehet, hogy találkozom Tommal holnap.	putea	0	0
+Ce pot să fac pentru tine?	Mit tehetek érted?	fac	0	0
+Vreau ca această treabă să fie terminată până la cinci.	Azt akarom, hogy ez a feladat legyen elvégezve ötre.	fie	0	0
+Avem nevoie de ajutorul vostru!	Szükségünk van a segítségetekre!	nevoie	0	0
+Spune-mi ce ar trebui să fac.	Mondd meg, mitévő legyek.	trebui	0	0
+Faceți rău că fumați!	Roszul teszi, hogy cigarettázik!	rău	0	0
+Tom este aici de atunci.	Tom itt van azóta.	atunci	0	0
+Abia ne ajunge timp să mâncăm dejunul.	Alig jutott idő arra, hogy megreggelizzünk.	timp	0	0
+Nu mi-ai spus niciodată numele tău.	Soha nem mondtad el a nevedet.	tău	0	0
+Ei spun că lui nu-i place să studieze.	Azt mondják, nem szeret tanulni.	spun	0	0
+Care este diferența dintre Judo și Ju-jitsu?	Mi a különbség a dzsúdó és a dzsiudzsicu között?	și	0	0
+O bere, vă rog!	Egy sört, legyen szíves!	rog	0	0
+El nu ştie aproape nimic despre acest animal.	Szinte semmit nem tud erről az állatról.	acest	0	0
+Îţi place floarea aceasta?	Tetszik neked ez a virág?	îţi	0	0
+Ei spun că lui nu-i place să studieze.	Azt mondják, nem szeret tanulni.	nu-i	0	0
+Tom spune că va câștiga.	Tom azt mondja, hogy nyerni fog.	spune	0	0
+În echipa noastră, avem întotdeauna un substitut pregătit pentru orice eventualitate.	A csapatunkban mindig van egy helyettes, aki készen áll bármilyen eshetőségre.	avem	0	0
+Nu este primul, ci al doilea.	Nem az első, hanem a második.	al	0	0
+Nu mă pot decide dacă să le spun sau nu despre petrecere.	Nem tudom eldönteni, hogy szóljak-e nekik a buliról.	le	0	0
+După câteva minute Maria a început să se plictisească.	Pár perc elteltével unatkozni kezdett Mari.	după	0	0
+Toți vom muri mai devreme sau mai târziu.	Mind meghalunk előbb vagy utóbb.	vom	0	0
+Deci, ce părere ai?	Tehát mi a véleményed?	deci	0	0
+Nu îl voi uita niciodată.	Őt soha nem fogom én elfelejteni.	îl	0	0
+Cred că e prea scump.	Túl drágának tartom.	prea	0	0
+Continuă să-l cauți pe Tom.	Keresd tovább Tomot.	să-l	0	0
+Cineva ar trebui să vorbească cu Tom.	Valakinek beszélnie kéne Tommal.	cineva	0	0
+Toate animalele sunt egale.	Minden állat egyenlő.	toate	0	0
+Eu am patruzeci de ani.	Negyven éves vagyok.	ani	0	0
+Eu sunt cel care plătește.	Én vagyok az, aki fizet.	cel	0	0
+Suntem aici.	Itt vagyunk.	suntem	0	0
+Nu vei cânta?	Nem fogsz énekelni?	vei	0	0
+Sunt băiat bun.	Én jó fiú vagyok.	bun	0	0
+Sunt sigur de asta.	Biztos vagyok benne.	sigur	0	0
+Tom și Mary vor avea un copil.	Tomnak és Marynek gyerekük lesz.	vor	0	0
+Fratele meu este un burlac convins și nu vrea să se căsătorească.	A bátyám meggyőződéses agglegény, és nem akar megházasodni.	vrea	0	0
+Sunt insule pe mare.	A tengerben vannak szigetek.	mare	0	0
+Ce fel de mâncare îi place lui Tom?	Tom milyen ételt szeret?	îi	0	0
+Câte ligheane ai stricat până acuma?	Hány lavórt törtél össze idáig?	până	0	0
+Cât timp a trecut de când te-am văzut ultima dată?	Mennyi idő telt el azóta, hogy utoljára láttalak?	cât	0	0
+Crezi că un pic de sare ar îmbunătăți gustul?	Gondolod, hogy egy kis só javítana az ízen?	crezi	0	0
+Nu știu dacă nașul și nașa fiului meu sunt încă în viață.	Nem tudom, hogy a fiam keresztapja és keresztanyja él-e még.	încă	0	0
+Ți-am spus să stai în mașină.	Mondtam, hogy maradj a kocsiban!	stai	0	0
+"Ești atât de frumoasă. Care-i numele tău?" "Vezi de treaba ta."	"Olyan szép vagy. Mi a neved?" "Törődj a magad dolgával."	atât	0	0
+Nimeni nu poate ști totul.	Senki sem tudhat mindent.	totul	0	0
+Tom și Mary vor avea un copil.	Tomnak és Marynek gyerekük lesz.	avea	0	0
+A venit seara.	Eljött az este.	venit	0	0
+Ceea ce spui acum nu este în concordanță cu ceea ce ai spus mai devreme.	Amit most mondasz, nincs összhangban azzal, amit korábban mondtál.	spui	0	0
+Aparatul ăsta de radio nu funcționează.	Ez a rádiókészülék nem működik.	ăsta	0	0
+N-am avut nici o alternativă.	Nem volt más választásom.	avut	0	0
+M-am săturat!	Betelt a pohár!	m-am	0	0
+Tom are o experienţă bogata în lucru cu computatoarele.	Tominak nagy tapasztalata van a számítógépes munkában.	lucru	0	0
+Noi nu l-am văzut pe Tom.	Mi nem láttuk Tomot.	văzut	0	0
+Tom nu este la fel de activ ca fratele său.	Tom nem olyan aktív, mint az öccse.	fel	0	0
+Nu am curajul să-i cer şefului meu să-mi împrumute maşina lui.	Nincs bátorságom kölcsönkérni a főnököm autóját.	să-i	0	0
+Nu putem da vina pe ei.	Nem hibáztathatjuk őket.	putem	0	0
+Ceea ce spui acum nu este în concordanță cu ceea ce ai spus mai devreme.	Amit most mondasz, nincs összhangban azzal, amit korábban mondtál.	ceea	0	0
+N-am reușit s-o înțeleg.	Nem tudtam megérteni.	n-am	0	0
+Nu am curajul să-i cer şefului meu să-mi împrumute maşina lui.	Nincs bátorságom kölcsönkérni a főnököm autóját.	să-mi	0	0
+Orezul este fără gust.	A rizs ízetlen.	fără	0	0
+Mama mi-a cumpărat o fustă nouă.	Anyu vett nekem egy új szoknyát.	mama	0	0
+Nu-mi place gustul.	Nekem ez az íz nem jön be.	place	0	0
+Eu sunt mai frumos decât tine.	Szebb vagyok, mint te.	decât	0	0
+Nu îl voi uita niciodată.	Őt soha nem fogom én elfelejteni.	niciodată	0	0
+Mi-a fost furat portofelul din buzunarul interior.	Ellopták a tárcámat a belső zsebemből.	mi-a	0	0
+N-am reușit s-o înțeleg.	Nem értettem meg.	s-o	0	0
+Mergi înainte!	Menj előre!	înainte	0	0
+Îmi văd familia.	Látom a családomat.	văd	0	0
+Ei bine, să mergem.	Akkor, menjünk.	mergem	0	0
+Am scris multe scrisori unul altuia în trecut, dar corespondența noastră s-a întrerupt.	Sok levelet írtunk korábban egymásnak, de a levelezésünk abbamaradt.	unul	0	0
+Uite, ninge!	Nézd csak, havazik.	uite	0	0
+Există vreo lege despre traversarea printr-un loc nepermis?	Van valamilyen törvény a szabálytalan átkelésről?	loc	0	0
+Nimeni nu este invulnerabil.	Senki sem sebezhetetlen.	nimeni	0	0
+Am băut toată noaptea.	Egész éjjel ittam.	toată	0	0
+Mai întâi Franța, apoi Irak.	Előbb Franciaország, aztán Irak.	apoi	0	0
+Dacă vezi o greșeală, atunci corecteaz-o!	Ha látsz egy hibát, javítsd ki!	vezi	0	0
+Mi-a dat zece sute de yeni.	Adott nekem tízezer jent.	dat	0	0
+Am doi fii.	Két fiam van.	fii	0	0
+L-am auzit pe Tom plângând în camera lui.	Hallottam Tomot sírni a szobájában.	l-am	0	0
+Mașina mea are un număr de înmatriculare nou.	Az autómnak új rendszáma van.	nou	0	0
+Câți oameni tineri cunoști care dețin la fel de multe mașini ca Tom?	Hány olyan fiatalt ismersz, akik annyi autóval rendelkeznek, mint Tom?	oameni	0	0
+Te rog ia loc aici.	Kérlek, foglalj helyet.	ia	0	0
+Ar trebui să încerci într-o zi!	Ki kéne próbálnod egyszer!	zi	0	0
+Vino acasă.	Gyere haza!	acasă	0	0
+Ea s-a confruntat cu multe greutăți.	Sok nehézséggel szembesült.	multe	0	0
+Pe jos, treizeci de minute, cu autobuzul douăzeci de minute.	Gyalog harminc perc, busszal húsz perc.	jos	0	0
+Lumea vorbește engleză.	A világ angolul beszél.	lumea	0	0
+Mama a cumpărat două sticle de suc de portocale.	Anya vett két üveg narancslevet.	două	0	0
+Nu-mi plac copiii.	Nem szeretem a gyerekeket.	nu-mi	0	0
+În timpul tăierii de primăvară, grădinarul a tăiat cu grijă ramurile moarte pentru ca pomul să crească noi lăstari și să fie mai sănătos.	A tavaszi metszés során a kertész gondosan levágta az elhalt ágakat, hogy a fa új hajtásokat növesszen, és egészségesebb legyen.	timpul	0	0
+Această bere conţine 5 % alcool.	Ez a sör 5% alkoholt tartalmaz.	această	0	0
+Clădirea se poate prăbuși în orice moment.	Az épület bármelyik pillanatban összedőlhet.	orice	0	0
+Am crezut că am auzit vocea cuiva în bucătărie.	Azt hittem, valakinek a hangját hallom a konyhából.	auzit	0	0
+Unu plus doi egal trei.	Egy meg kettő egyenlő három.	doi	0	0
+Am luat o decizie.	Döntöttem.	luat	0	0
+Există o limită de două bagaje pentru fiecare pasager.	Kétcsomagos limit érvényes minden utasra.	fiecare	0	0
+Doar peste cadavrul meu!	Csak a holttestemen át!	peste	0	0
+Ar trebui să încerci într-o zi!	Ki kéne próbálnod egyszer!	într-o	0	0
+Închide ușa aia blestemată!	Csukd be azt az átkozott ajtót!	aia	0	0
+Aș dori să fiu iubit. (Ady Endre)	Szeretném, ha szeretnének. (Ady Endre)	fiu	0	0
+Care este diferența dintre Judo și Ju-jitsu?	Mi a különbség a dzsúdó és a dzsiudzsicu között?	dintre	0	0
+Voi merge dacă tu mergi.	Megyek, ha te is.	merge	0	0
+Călătoria lor a fost amânată din cauza ploii.	Az utazásuk el lett napolva az eső miatt.	lor	0	0
+Unu, doi, trei, patru, cinci, șase, șapte, opt, nouă, zece.	Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	trei	0	0
+Nu mi-ai spus niciodată numele tău.	Soha nem mondtad el a nevedet.	numele	0	0
+Copiii au făcut un om de zăpadă gigantic.	A gyerekek készítettek egy hatalmas hóembert.	om	0	0
+Franța este cea mai vizitată țară din lume.	Franciaország a leglátogatottabb ország a világon.	cea	0	0
+Aladdin a găsit o lampă fermecată.	Aladdin talált egy bűvös lámpát.	găsit	0	0
+Am construit această casă cu propriile mele mâini.	A tulajdon kezeimmel építettem ezt a házat.	mele	0	0
+Te-ai juca cu mine?	Játszanál velem?	te-ai	0	0
+Cât costă cartea aceasta?	Mennyibe kerül ez a könyv?	aceasta	0	0
+A venit Tom deja?	Megjött már Tom?	deja	0	0
+Bună ziua!	Jó napot!	ziua	0	0
+Mă duc la școală.	Megyek az iskolába.	duc	0	0
+Cât timp a trecut de când te-am văzut ultima dată?	Mennyi idő telt el azóta, hogy utoljára láttalak?	dată	0	0
+I-am dat câteva cărți.	Adtam neki pár könyvet.	i-am	0	0
+Vino încoace!	Gyere ide!	vino	0	0
+Destul!	Elég!	destul	0	0
+După câteva minute Maria a început să se plictisească.	Pár perc elteltével unatkozni kezdett Mari.	câteva	0	0
+Să-mi zici dacă există ceva ce pot face.	Szólj, ha tehetek valamit.	există	0	0
+Serios?	Komolyan?	serios	0	0
+Cina este gata.	Kész a vacsora!	gata	0	0
+Vorbesc araba.	Beszélek arabul.	vorbesc	0	0
+Nu munci prea mult, ok?	Ne dolgozz túl sokat, oké?	ok	0	0
+Ești mândru de tatăl tău?	Büszke vagy édesapádra?	tatăl	0	0
+El nu ştie aproape nimic despre acest animal.	Szinte semmit nem tud erről az állatról.	aproape	0	0
+O să te dau în judecată.	Be foglak perelni.	dau	0	0
+Vinul îl beau numai cu apă.	Csak vízzel iszom a bort.	numai	0	0
+Avionul nostru a făcut o escală la Londra înainte de a continua spre destinația finală.	A repülőgépünk leszállt Londonban, mielőtt folytatta volna útját a végső célállomás felé.	nostru	0	0
+Este adevărat că bărbații au pielea mai grasă decât femeile?	Igaz-e, hogy a férfiak bőre zsírosabb, mint a nőké?	adevărat	0	0
+Am scris multe scrisori unul altuia în trecut, dar corespondența noastră s-a întrerupt.	Sok levelet írtunk korábban egymásnak, de a levelezésünk abbamaradt.	noastră	0	0
+Într-un permis de conducere românesc se găsește de obicei un singur talon.	Egy román jogosítványban általában egy betétlap található.	într-un	0	0
+Vin de la școală.	Az iskolából jövök.	vin	0	0
+M-a făcut să râd.	Megnevettetett.	m-a	0	0
+E locul meu de muncă.	Ez a munkahelyem.	locul	0	0
+Scuze, dar nu pot să te urmez; gândurile tale sunt destul de tulburi.	Bocs, de nem tudlak követni; elég zavarosak a gondolataid.	scuze	0	0
+Cine este bărbatul acesta?	Ki ez a férfi?	acesta	0	0
+Sper că John vine.	Remélem, hogy John eljön.	vine	0	0
+El poate să înoate repede.	Tud gyorsan úszni.	repede	0	0
+A zis că trebuie să păstrăm secretul.	Azt mondta, hogy meg kell őriznünk a titkot.	zis	0	0
+Ori merge Tom, ori eu.	Vagy Tom megy, vagy én.	ori	0	0
+Cât timp a trecut de când te-am văzut ultima dată?	Mennyi idő telt el azóta, hogy utoljára láttalak?	te-am	0	0
+Nici eu n-o pot explica.	Én sem tudom megmagyarázni.	n-o	0	0
+Nu am putut găsi acel cuvânt în dicționar.	Nem találtuk meg ezt a szót a szótárban.	putut	0	0
+În timpul tăierii de primăvară, grădinarul a tăiat cu grijă ramurile moarte pentru ca pomul să crească noi lăstari și să fie mai sănătos.	A tavaszi metszés során a kertész gondosan levágta az elhalt ágakat, hogy a fa új hajtásokat növesszen, és egészségesebb legyen.	grijă	0	0
+Îmi pare rău că nu am răspuns mai devreme scrisorii tale.	Bocsánat, hogy nem válaszoltam korábban a leveledre.	tale	0	0
+Este doar un singur mod de a face asta.	Ezt csak egy módon lehet megcsinálni.	singur	0	0
+Pe prima pagină a cărții vechi, într-un cartuș decorativ, sunt înscrise numele autorului și anul ediției.	A régi könyv első oldalán egy díszes keretben szerepel a szerző neve és a kiadás éve.	prima	0	0
+Casa se află pe vârful dealului, de unde se deschide o priveliște frumoasă asupra văii.	A ház a dombtetőn áll, ahonnan gyönyörű kilátás nyílik a völgyre.	casa	0	0
+Tom a ajuns ultimul.	Tomi érkezett utolsóként.	ajuns	0	0
+Exact!	Pontosan!	exact	0	0
+El nu ştie aproape nimic despre acest animal.	Szinte semmit nem tud erről az állatról.	ştie	0	0
+Nu l-a plăcut asta când s-a mutat în acest oraș, dar între timp s-a obișnuit.	Nem tetszett neki ez ebben a városban, amikor ideköltözött, de időközben hozzászokott.	l-a	0	0
+Ai perfectă dreptate.	Teljesen igazad van.	dreptate	0	0
+Aș vrea să simt gustul buzelor tale.	Érezni szeretném az ajkaid ízét.	simt	0	0
+Mașina lui Tom tocmai a intrat în parcare.	Tom autója épp behajtott a parkolóba.	tocmai	0	0
+Noapte bună și somn ușor!	Jó éjt, aludj jól!	noapte	0	0
+El va veni mai devreme sau mai târziu.	El fog jönni előbb vagy utóbb.	târziu	0	0
+Cât timp a trecut de când te-am văzut ultima dată?	Mennyi idő telt el azóta, hogy utoljára láttalak?	trecut	0	0
+Tom este mereu primul care ajunge aici.	Tom mindig az első, aki ideér.	mereu	0	0
+Schimbarea orei va fi duminică seara.	Az óraátállítás vasárnap este lesz.	seara	0	0
+Merg bine lucrurile?	Jól mennek a dolgok?	lucrurile	0	0
+Pe vârful dealului sunt ruinele unui vechi castel.	A dombtetőn egy régi vár romjai vannak.	unui	0	0
+Reclamantul și pârâtul au mers împreună la tribunal.	A felperes és az alperes együtt mentek a bíróságra.	împreună	0	0
+Din păcate, domnul director este plecat.	Sajnos az igazgató úr házon kívül van.	plecat	0	0
+Am crezut că am auzit vocea cuiva în bucătărie.	Azt hittem, valakinek a hangját hallom a konyhából.	crezut	0	0
+Ne-am întâlnit ieri.	Tegnap találkoztunk.	ne-am	0	0
+Avionul nostru a făcut o escală la Londra înainte de a continua spre destinația finală.	A repülőgépünk leszállt Londonban, mielőtt folytatta volna útját a végső célállomás felé.	spre	0	0
+Va ploua azi.	Esni fog ma.	azi	0	0
+Destul de departe.	Elég messze.	departe	0	0
+Țineți minte aceste reguli.	Tartsd észben ezeket a szabályokat.	aceste	0	0
+Prietenul nostru a terminat cursa al doilea.	A barátunk a második helyen fejezte be a versenyt.	terminat	0	0
+De-abia plecasem de acasă când a început ploaia.	Alig mentem el hazulról, amikor elkezdett esni.	început	0	0
+Trebuia să cumpărăm trei sticle de vin.	Három üveg bort kellett volna vennünk.	trebuia	0	0
+Iubesc lasagna.	Szeretem a lasagnát.	iubesc	0	0
+Cred că m-ai confundat cu altcineva.	Azt hiszem, összetévesztettél valaki mással.	m-ai	0	0
+De-abia am sosit. Nici măcar nu mi-am despachetat bagajele.	Most érkeztem meg. Még ki se pakoltam a csomagokat.	măcar	0	0
+Nu avem timp de pierdut.	Nincs vesztegetni való időnk.	pierdut	0	0
+Aveți copii?	Vannak gyerekei?	copii	0	0
+Eu sunt mai frumos decât tine.	Szebb vagyok, mint te.	frumos	0	0
+Îi voi suna mâine când voi veni acasă.	Felhívom őket holnap, amikor hazajöttem.	mâine	0	0
+Sincer să fiu, n-ai dreptate.	Hogy őszinte legyek, nincs igazad.	n-ai	0	0
+De-abia am sosit. Nici măcar nu mi-am despachetat bagajele.	Most érkeztem meg. Még ki se pakoltam a csomagokat.	mi-am	0	0
+Noapte bună, mamă.	Jó éjszakát, anya!	mamă	0	0
+Toți prietenii mei o plac pe ea.	Az összes barátom kedveli őt.	mei	0	0
+"Ești atât de frumoasă. Care-i numele tău?" "Vezi de treaba ta."	"Olyan szép vagy. Mi a neved?" "Törődj a magad dolgával."	treaba	0	0
+L-ai cunoscut la universitate?	Az egyetemen ismerted meg?	l-ai	0	0
+Tată, unde ești?	Hol vagy, apu?	tată	0	0
+N-a venit nimeni să-l ajute.	Senki nem jött, hogy segítsen neki.	n-a	0	0
+S-ar putea să mă întâlnesc cu Tom mâine.	Lehet, hogy találkozom Tommal holnap.	s-ar	0	0
+Trebuie doar să studiezi din greu.	Csak keményen kell tanulnod.	greu	0	0
+Nu mi-ai spus niciodată numele tău.	Soha nem mondtad el a nevedet.	mi-ai	0	0
+După câteva minute Maria a început să se plictisească.	Pár perc elteltével unatkozni kezdett Mari.	minute	0	0
+Îmi dai o pungă de hârtie pentru cumpărături?	Adsz nekem egy papírtasakot a vásárláshoz?	dai	0	0
+Păcat că a murit Vasile, era un muncitor bun.	Kár, hogy meghalt Vasile, jó munkás volt.	murit	0	0
+Bine, cum vă pot ajuta?	Rendben, hogy segíthetek?	ajuta	0	0
+Nu e o idee bună.	Nem jó ötlet.	idee	0	0
+Tom și Mary vor avea un copil.	Tomnak és Marynek gyerekük lesz.	copil	0	0
+Cât timp a trecut de când te-am văzut ultima dată?	Mennyi idő telt el azóta, hogy utoljára láttalak?	ultima	0	0
+Ai un moment liber?	Ráérsz egy pillanatra?	moment	0	0
+Acel tip este nebun!	Őrült ez a fickó!	tip	0	0
+Tom este mereu primul care ajunge aici.	Tom mindig az első, aki ideér.	primul	0	0
+Uitați-vă numai, cât e de frumoasă femeia aceea!	Nézze csak, milyen szép az az asszony!	aceea	0	0
+Sper că Tom și Mary sunt la școală.	Remélem, hogy Tom és Mary az iskolában vannak.	sper	0	0
+În zilele noastre, din ce în ce mai mulți oameni preferă viața la țară față de viața la oraș.	Napjainkban egyre több ember preferálja a falusi életet a városi élettel szemben.	noastre	0	0
+Nu-mi place să merg pe motocicletă.	Nem szeretek motorozni.	merg	0	0
+Crezi că un pic de sare ar îmbunătăți gustul?	Gondolod, hogy egy kis só javítana az ízen?	pic	0	0
+Sportivii s-au pregătit intens pentru concursul de natație.	A sportolók keményen készültek az úszóversenyre.	s-au	0	0
+M-am dus cu ea.	Elmentem vele.	dus	0	0
+Spune-mi ce ar trebui să fac.	Mondd meg, mitévő legyek.	spune-mi	0	0
+Este doar vorbărie, nu-l lua în serios!	Ez csak szövegelés, ne vedd komolyan!	lua	0	0
+Vântul bătea din ce în ce mai tare.	A szél egyre erősebben fújt.	tare	0	0
+Cred că am înţeles.	Azt hiszem, megértettem.	înţeles	0	0
+Există vreo lege despre traversarea printr-un loc nepermis?	Van valamilyen törvény a szabálytalan átkelésről?	vreo	0	0
+Este doar vorbărie, nu-l lua în serios!	Ez csak szövegelés, ne vedd komolyan!	nu-l	0	0
+Călătoria lor a fost amânată din cauza ploii.	Az utazásuk el lett napolva az eső miatt.	cauza	0	0
+Nu l-a plăcut asta când s-a mutat în acest oraș, dar între timp s-a obișnuit.	Nem tetszett neki ez ebben a városban, amikor ideköltözött, de időközben hozzászokott.	între	0	0
+Tom este mereu primul care ajunge aici.	Tom mindig elsőnek ér ide.	ajunge	0	0
+Unde te duci?	Hová mész?	duci	0	0
+Nu tot ce-i este permis lui Jupiter nu-i este permis și unui bou.	Amit szabad Jupiternek, nem szabad a kisökörnek.	ce-i	0	0
+Trebuia să-mi fi adus camera.	El kellett volna hozni a kamerámat.	camera	0	0
+Ajutor!	Segítség!	ajutor	0	0
+Am băut toată noaptea.	Egész éjjel ittam.	noaptea	0	0
+Trebuie să vorbim.	Beszélnünk kell.	vorbim	0	0
+Tehnica de tăiere nu doar formează forma pomului, ci poate crește și producția dacă este realizată corect.	A metszés technikája nemcsak a fa formáját alakítja, hanem a terméshozamot is növelheti, ha megfelelően végzik el.	corect	0	0
+Femeia aia mă sperie, întotdeauna țipă și vorbește cu ea însăși.	Megrémít az a nő, folyton visít és magában beszél.	întotdeauna	0	0
+Am încercat să-l oprim.	Megpróbáltuk megállítani.	încercat	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	ele	0	0
+Poftim?	Hogy mondja?	poftim	0	0
+Am dormit doar două ore.	Mindössze két órát aludtam.	ore	0	0
+Bunul a fost supus unei inspecții minuțioase înainte de expediție.	Az áru alapos ellenőrzésen esett át a kiszállítás előtt.	unei	0	0
+Pentru mine, nu e o problemă.	Számomra ez nem probléma.	problemă	0	0
+Actorul a vorbit pe șleau despre umilințele și eșecurile din viața sa.	A színész kertelés nélkül beszélt az életében elszenvedett megaláztatásokról és kudarcokról.	vorbit	0	0
+Trebuia să-mi fi adus camera.	El kellett volna hozni a kamerámat.	adus	0	0
+Îmi văd familia.	Látom a családomat.	familia	0	0
+E luni, știi.	Tudod, hétfő van.	luni	0	0
+Din moment ce nu ai nimic de făcut, de ce nu vii cu mine la pescuit în acest weekend?	Ha már úgysincs mit csinálnod, miért nem jössz velem horgászni a hétvégén?	vii	0	0
+Nu am curajul să-i cer şefului meu să-mi împrumute maşina lui.	Nincs bátorságom megkérni a főnökömet, hogy kölcsönadja az autóját.	cer	0	0
+Crede în visele tale, oricât de imposibile ar părea.	Higgy az álmaidban, akármennyire lehetetlennek tűnnek.	crede	0	0
+Copiii ascultă cu plăcere aceeași povești din nou și din nou.	A gyerekek szívesen hallgatják meg ugyanazt a történetet újra és újra.	ascultă	0	0
+Aceasta este o casă albastră.	Ez egy kék ház.	casă	0	0
+Această nava se duce la Vancouver.	Ez a hajó Vancouverbe megy.	duce	0	0
+Dă-mi pușca.	Add a puskát!	dă-mi	0	0
+Mă bucur să vă fac cunoștința.	Örülök, hogy megismerhetlek titeket.	bucur	0	0
+Am uitat.	Elfelejtettem.	uitat	0	0
+Îl cunosc.	Ismerem őt.	cunosc	0	0
+Nu am putut găsi acel cuvânt în dicționar.	Nem találtam meg ezt a szót a szótárban.	acel	0	0
+Are încredere în mine.	Bízik bennem.	încredere	0	0
+Îţi aminteşti acest joc?	Emlékszel erre a játékra?	joc	0	0
+Unde mergi astăzi?	Hová mész ma?	mergi	0	0
+Nu am primit niciun ajutor pentru a finaliza sarcina.	Semmilyen segítséget nem kaptam a feladat elvégzéséhez.	primit	0	0
+Nu am văzut niciodată un asemenea peisaj frumos.	Nem láttam még soha ilyen szép tájat.	asemenea	0	0
+Franța este cea mai vizitată țară din lume.	Franciaország a leglátogatottabb ország a világon.	lume	0	0
+Mary este de acord cu el.	Mary egyetért vele.	acord	0	0
+Unu, doi, trei, patru, cinci, șase, șapte, opt, nouă, zece.	Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	cinci	0	0
+Voi veni cu bicicletă.	Kerékpárral jövök.	veni	0	0
+Avem patru ore de limba franceză pe săptămână.	Négy francia óránk van egy héten.	patru	0	0
+Tom nu este la fel de activ ca fratele său.	Tom nem olyan aktív, mint a bátyja.	fratele	0	0
+Salut, ce faci?	Szia! Hogy vagy?	salut	0	0
+Comparativ cu vechiul model, acesta este mult mai uşor de folosit.	A régi modellhez képest, ezt sokkal könnyebb kezelni.	uşor	0	0
+Nu am curajul să-i cer şefului meu să-mi împrumute maşina lui.	Nincs bátorságom megkérni a főnökömet, hogy kölcsönadja az autóját.	maşina	0	0
+Am un prieten al cărui tată este profesor.	Van egy barátom, akinek az apja tanító.	prieten	0	0
+E important.	Fontos.	important	0	0
+Nu am putut găsi acel cuvânt în dicționar.	Nem találtam meg ezt a szót a szótárban.	găsi	0	0
+Câte mere vrei?	Mennyi almát akarsz?	câte	0	0
+Nu putem da vina pe ei.	Nem hibáztathatjuk őket.	vina	0	0
+Să-mi zici dacă există ceva ce pot face.	Szólj, ha tehetek valamit.	zici	0	0
+Nu-mi pasă de ce.	Nem érdekel, miért.	pasă	0	0
+Este doar un singur mod de a face asta.	Ezt csak egy módon lehet megcsinálni.	mod	0	0
+Vă rog să nu faceţi asta.	Kérem, ne csinálja ezt.	faceţi	0	0
+Tom are o maşină sport galbenă.	Tomnak sárga sportautója van.	maşină	0	0
+A sunat telefonul.	Szólt a telefon.	sunat	0	0
+Ești atent la mine?	Figyelsz te rám?	ești	0	0
+Nu știu!	Nem tudom!	știu	0	0
+Tom și Mary sunt buni prieteni.	Tom és Mary jó barátok.	prieteni	0	0
+Primul tren pleacă la 4:00 dimineața.	Az első vonat reggel 4 órakor indul.	pleacă	0	0
+Drum bun.	Szerencsés utat!	drum	0	0
+El flirtează cu alte fete de pe Facebook.	Más lányokkal flörtöl a Facebookon.	alte	0	0
+După ceasul meu de mână este ora zece.	A karórám szerint tíz óra van.	ora	0	0
+Mi-e totuna, numai cu orez nu.	Mindegy, csak rizzsel nem.	mi-e	0	0
+Am făcut o escală de două ore într-un mic port pitoresc pentru a ne aproviziona cu provizii.	Két órás megállót tartottunk egy festői kis kikötőben, hogy feltöltsük a készleteinket.	mic	0	0
+Accentul în acest cuvânt cade pe a doua silabă.	A hangsúly ebben a szóban a második szótagra esik.	doua	0	0
+Tom arată mult mai bine astăzi.	Tom sokkal jobban néz ki ma.	arată	0	0
+În Japonia noul an școlar începe în aprilie.	Japánban az új tanév áprilisban kezdődik.	începe	0	0
+A cumpărat o pereche nouă de pantofi.	Vett egy pár új cipőt.	nouă	0	0
+Instalatorul a făcut o treabă de mântuială.	A szerelő hevenyészett munkát végzett.	treabă	0	0
+Mă doare capul.	Fáj a fejem.	capul	0	0
+Nu am apă caldă.	Nincs meleg vizem.	apă	0	0
+Alo!	Hali!	alo	0	0
+Noroc!	Egészségedre!	noroc	0	0
+Nu știi adevărul.	Nem tudod az igazságot.	adevărul	0	0
+Ești foarte frumoasă.	Nagyon szép vagy.	frumoasă	0	0
+Asta nu e împotriva regulilor?	Ez nincs ellen a szabályoknak?	împotriva	0	0
+Inima îmi bătea din ce în ce mai repede.	Egyre gyorsabban vert a szívem.	inima	0	0
+Nu lăsa pe mâine ce poți face astăzi.	Amit ma megtehetsz, ne halaszd holnapra.	lăsa	0	0
+Părinții tăi știu că ești însărcinată?	A szüleid tudják, hogy terhes vagy?	tăi	0	0
+Nu am primit niciun ajutor pentru a finaliza sarcina.	Semmilyen segítséget nem kaptam a feladat elvégzéséhez.	niciun	0	0
+Voi rămâne acasă astăzi.	Ma itthon maradok.	rămâne	0	0
+Nu a spus când se va întoarce.	Nem mondta, mikor fog visszajönni.	întoarce	0	0
+Nu contează.	Nem számít.	contează	0	0
+Ești prietenul meu.	A barátom vagy.	prietenul	0	0
+Nu vrei să te gândești la Tom, nu-i așa?	Nem akarsz Tomra gondolni, ugye?	așa	0	0
+Astăzi am vizitat un muzeu.	Ma meglátogattam egy múzeumot.	astăzi	0	0
+Voi pleca.	Elmegyek.	pleca	0	0
+Din păcate, domnul director este plecat.	Sajnos az igazgató úr házon kívül van.	domnul	0	0
+Copiii au făcut un om de zăpadă gigantic.	A gyerekek készítettek egy hatalmas hóembert.	copiii	0	0
+Încerc să aprofundez cunoștințele mele de limbă engleză.	Próbálom elmélyíteni az angoltudásomat.	încerc	0	0
+Reclamantul și pârâtul au mers împreună la tribunal.	A felperes és az alperes együtt mentek a bíróságra.	mers	0	0
+Tom nu este la fel de activ ca fratele său.	Tom nem olyan aktív, mint a bátyja.	său	0	0
+Sunt bine, mersi că întrebi.	Köszönöm kérdésed, jól vagyok.	mersi	0	0
+Mary este fiica lui Tom.	Mary Tom lánya.	fiica	0	0
+Acum un an am cumpărat o rochie cu cordon lat.	Egy évvel ezelőt vettem egy ruhát, széles övvel.	an	0	0
+Nu bea deloc.	Egyáltalán nem iszik.	deloc	0	0
+Sunt John.	John vagyok.	john	0	0
+Țineți minte aceste reguli.	Tartsd észben ezeket a szabályokat.	minte	0	0
+Pot să vă întreb ceva?	Kérdezhetek valamit?	întreb	0	0
+Ea a plecat acum o oră.	Elment egy órája.	oră	0	0
+Perfect!	Tökéletes!	perfect	0	0
+Nu îl voi uita niciodată.	Őt soha nem fogom én elfelejteni.	uita	0	0
+Sunt multe orașe mari în Brazilia.	Braziliában sok nagyváros van.	mari	0	0
+Știi cine a inventat microscopul?	Tudod, ki találta fel a mikroszkópot?	știi	0	0
+Trebuie să plecăm mai devreme sau mai târziu.	Előbb-utóbb mennünk kell.	plecăm	0	0
+Îmi pare rău, nu pot sta mult.	Sajnálom, nem tudok sokáig maradni.	sta	0	0
+Unde erai ieri?	Hol voltál tegnap?	erai	0	0
+Tom e o persoană minunată.	Tom csodálatos ember.	persoană	0	0
+Tom a recunoscut că ceea ce a zis mai devreme nu era adevărat.	Tom elismerte, hogy amit korábban mondott, nem volt igaz.	devreme	0	0
+E locul meu de muncă.	Ez a munkahelyem.	muncă	0	0
+Sora mea seamănă cu bunica mea.	A lánytestvérem hasonlít a nagymamámra.	sora	0	0
+Ești fericit acum?	Most boldog vagy?	fericit	0	0
+Nu-mi plac copiii.	Nem szeretem a gyerekeket.	plac	0	0
+Nu sunt sigură de ce au fost forțați să închidă restaurantul.	Nem vagyok biztos benne, miért kötelezték bezárni az éttermet.	sigură	0	0
+La revedere!	A mielőbbi viszontlátásra!	revedere	0	0
+Mary este sora mai mică a lui Tom.	Mary, Tom húga.	mică	0	0
+Sună bine!	Jól hangzik!	sună	0	0
+Acel tip este nebun!	Őrült ez a fickó!	nebun	0	0
+Tom și Mary sunt buni prieteni.	Tom és Mary jó barátok.	buni	0	0
+Nu am uitat să-ți aduc cartea pe care mi-ai cerut-o.	Nem felejtettem el elhozni a könyvet, amit kértél.	aduc	0	0
+Mașina lui Tom tocmai a intrat în parcare.	Tom autója épp behajtott a parkolóba.	intrat	0	0
+În timpul tăierii de primăvară, grădinarul a tăiat cu grijă ramurile moarte pentru ca pomul să crească noi lăstari și să fie mai sănătos.	A tavaszi metszés során a kertész gondosan levágta az elhalt ágakat, hogy a fa új hajtásokat növesszen, és egészségesebb legyen.	moarte	0	0
+L-ai cunoscut la universitate?	Az egyetemen ismerted meg?	cunoscut	0	0
+Păstrează restul.	Tartsa meg az aprót!	restul	0	0
+Unde găsesc un restaurant bun?	Hol találok egy jó éttermet?	găsesc	0	0
+Mi-ar plăcea să studiez la Paris.	Szeretnék Párizsban tanulni.	mi-ar	0	0
+Sistemul indică faptul că nu am permisiunea necesară pentru a șterge folderul.	A rendszer jelzi, hogy nincs meg a szükséges jogosultságom a mappa törléséhez.	faptul	0	0
+Casa se află pe vârful dealului, de unde se deschide o priveliște frumoasă asupra văii.	A ház a dombtetőn áll, ahonnan gyönyörű kilátás nyílik a völgyre.	asupra	0	0
+Am aflat de ce a întârziat Tom.	Megtudtam, miért késett Tom.	aflat	0	0
+Tom a ajuns ultimul.	Tomi érkezett utolsóként.	ultimul	0	0
+În echipa noastră, avem întotdeauna un substitut pregătit pentru orice eventualitate.	A csapatunkban mindig van egy helyettes, aki készen áll bármilyen eshetőségre.	echipa	0	0
+Mai întâi Franța, apoi Irak.	Előbb Franciaország, aztán Irak.	întâi	0	0
+Care-i situația?	Mi a helyzet?	care-i	0	0
+Foc!	Tűz van!	foc	0	0
+Vaca noastră nu ne dă lapte.	A tehenünk nem ad tejet.	dă	0	0
+Aș face altfel decât ai făcut tu.	Máshogy csinálnám, mint ahogy te csináltad.	altfel	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	unele	0	0
+Nu deschide fereastra!	Ne nyisd ki az ablakot!	deschide	0	0
+A scris ceva în caietul ei.	Beírt valamit a füzetébe.	scris	0	0
+Abia ne ajunge timp să mâncăm dejunul.	Alig jutott idő arra, hogy megreggelizzünk.	abia	0	0
+Câinii latră, carvana trece.	A kutya ugat, a karaván halad.	trece	0	0
+Cred că m-ai confundat cu altcineva.	Azt hiszem, összetévesztettél valaki mással.	altcineva	0	0
+Toți prietenii mei o plac pe ea.	Az összes barátom kedveli őt.	prietenii	0	0
+Am cumpărat-o ieri.	Tegnap vettem.	ieri	0	0
+Aș dori un măr.	Szeretnék egy almát.	dori	0	0
+Salut tuturor!	Sziasztok!	tuturor	0	0
+A moștenit trăsăturile mamei sale.	Az anyja vonásait örökölte.	sale	0	0
+Comparativ cu vechiul model, acesta este mult mai uşor de folosit.	A régi modellhez képest, ezt sokkal könnyebb kezelni.	folosit	0	0
+Ea vorbeşte fluent engleza.	Folyékonyan beszéli az angolt.	vorbeşte	0	0
+Eu sunt liber.	Szabad vagyok.	liber	0	0
+Sunt într-adevăr un idiot.	Igazán idióta vagyok.	într-adevăr	0	0
+Mă uit la televizor.	Tévét nézek.	uit	0	0
+Sunt băiat bun.	Én jó fiú vagyok.	băiat	0	0
+El bea prea multă bere.	Túl sok sört iszik.	multă	0	0
+Tehnica de tăiere nu doar formează pomul, ci poate crește și producția dacă este realizată corect.	A metszés technikája nemcsak a fa formáját alakítja, hanem a terméshozamot is növelheti, ha megfelelően végzik el.	ci	0	0
+Unu plus doi egal trei.	Egy meg kettő egyenlő három.	plus	0	0
+Ne-am întâlnit ieri.	Tegnap találkoztunk.	întâlnit	0	0
+Toți vom muri mai devreme sau mai târziu.	Mind meghalunk előbb vagy utóbb.	muri	0	0
+Cum se zice asta în italiană?	Hogy van ez olaszul?	zice	0	0
+Ştiu că nu sunt suficient de bun pentru el.	Tudom, hogy nem vagyok elég jó neki.	suficient	0	0
+Copiii ascultă cu plăcere aceeași povești din nou și din nou.	A gyerekek szívesen hallgatják meg ugyanazt a történetet újra és újra.	plăcere	0	0
+Nu mă pot decide dacă să le spun sau nu despre petrecere.	Nem tudom eldönteni, hogy szóljak-e nekik a buliról.	petrecere	0	0
+Nu l-a plăcut asta când s-a mutat în acest oraș, dar între timp s-a obișnuit.	Nem tetszett neki ez ebben a városban, amikor ideköltözött, de időközben hozzászokott.	plăcut	0	0
+Ochi pentru ochi și dinte pentru dinte.	Szemet szemért, fogat fogért.	ochi	0	0
+Ceea ce nu mă ucide, mă face mai puternic.	Ami nem öl meg, az megerősít.	ucide	0	0
+Telefonul meu s-a stricat.	Meghibásodott a telefonom.	telefonul	0	0
+Casa voastră este mare.	Nagy a házatok.	voastră	0	0
+Nu știu dacă pot veni mâine la întâlnire.	Nem tudom, hogy holnap el tudok-e jönni a találkozóra.	întâlnire	0	0
+Cheamă poliția!	Hívd a rendőrséget!	cheamă	0	0
+Ești complet nebun.	Teljesen bolond vagy.	complet	0	0
+Este asta dragoste?	Ez szerelem?	dragoste	0	0
+Unu, doi, trei, patru, cinci, șase, șapte, opt, nouă, zece.	Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	zece	0	0
+Sincer să fiu, n-ai dreptate.	Hogy őszinte legyek, nincs igazad.	sincer	0	0
+Unu plus doi egal trei.	Egy meg kettő egyenlő három.	unu	0	0
+Într-un permis de conducere românesc se găsește de obicei un singur talon.	Egy román jogosítványban általában egy betétlap található.	obicei	0	0
+Nu vreau să vorbesc cu dumneavoastră.	Nem akarok önnel beszélni.	dumneavoastră	0	0
+Pe vârful dealului sunt ruinele unui vechi castel.	A dombtetőn egy régi vár romjai vannak.	vechi	0	0
+Voi fi mai bine într-un minut.	Egy perc, és jobban leszek.	minut	0	0
+Hans este un om de afaceri german.	Hans egy német üzletember.	afaceri	0	0
+Mi-ar plăcea să studiez la Paris.	Szeretnék Párizsban tanulni.	plăcea	0	0
+Ce fel de mâncare îi place lui Tom?	Tom milyen ételt szeret?	mâncare	0	0
+Pe prima pagină a cărții vechi, într-un cartuș decorativ, sunt înscrise numele autorului și anul ediției.	A régi könyv első oldalán egy díszes keretben szerepel a szerző neve és a kiadás éve.	anul	0	0
+Trebuie să schimb trenul la următoarea stație pentru a prinde corespondența spre București.	Át kell szállnom a következő állomáson, hogy elérjem a csatlakozást Bukarest felé.	schimb	0	0
+Răspunde la întrebare!	Felelj a kérdésre!	întrebare	0	0
+Ceea ce nu mă ucide, mă face mai puternic.	Ami nem öl meg, az megerősít.	puternic	0	0
+Poate ar trebui să rămâi acolo.	Talán ott kellene maradnod.	rămâi	0	0
+Îţi aminteşti acest joc?	Emlékszel erre a játékra?	aminteşti	0	0
+Mi-a fost furat portofelul din buzunarul interior.	Ellopták a tárcámat a belső zsebemből.	furat	0	0
+Avem nevoie de ajutorul vostru!	Szükségünk van a segítségetekre!	ajutorul	0	0
+Ce doriți: ceai sau cafea?	Mit kértek: teát vagy kávét?	cafea	0	0
+Scuză-mă, ce e ceasul?	Elnézést, hány óra van?	scuză-mă	0	0
+Nu vreau să lucrez.	Nem akarok dolgozni.	lucrez	0	0
+A răpus dușmanul într-o luptă.	Legyőzte az ellenséget egy csatában.	luptă	0	0
+Ce ai întrebat?	Mit kérdeztél?	întrebat	0	0
+A moștenit trăsăturile mamei sale.	Az anyja vonásait örökölte.	mamei	0	0
+După ceasul meu de mână este ora zece.	A karórám szerint tíz óra van.	mână	0	0
+Mai bine mor de foame decât să fur.	Inkább éhen halok, mint hogy lopjak.	mor	0	0
+Eu am băut apa.	Megittam a vizet.	apa	0	0
+Avem patru ore de limba franceză pe săptămână.	Négy francia óránk van egy héten.	săptămână	0	0
+Le-a dat câteva mere.	Adott nekik néhány almát.	le-a	0	0
+Cred că Tom a făcut o greșeală.	Azt hiszem, Tom hibázott.	tom	0	0
+Uitați-vă numai, cât e de frumoasă femeia aceea!	Nézze csak, milyen szép az az asszony!	femeia	0	0
+El flirtează cu alte fete de pe Facebook.	Más lányokkal flörtöl a Facebookon.	fete	0	0
+N-a venit nimeni să-l ajute.	Senki nem jött, hogy segítsen neki.	ajute	0	0
+Sunt aici în birou.	Itt vagyok az irodában.	birou	0	0
+Tom și-a pregătit micul dejun încet, nu se grăbea nicăieri.	Tom ráérősen készítette el a reggelijét, nem sietett sehová.	pregătit	0	0
+A cui e cartea?	Kié a könyv?	cui	0	0
+Am citit în ziar despre accident.	Olvastam az újságban a balesetről.	accident	0	0
+Ar trebui să încerci într-o zi!	Ki kéne próbálnod egyszer!	încerci	0	0
+Continuă să-l cauți pe Tom.	Keresd tovább Tomot.	continuă	0	0
+Limba rusă e foarte greu de învăţat.	Az orosz nyelvet nagyon nehéz megtanulni.	învăţat	0	0
+Nu am înțeles penultimul rând.	Nem értettem az utolsó előtti sort.	rând	0	0
+Băiatul a sărit curajos de pe stâncă în apă.	A fiú bátran beugrott a szikláról a vízbe.	băiatul	0	0
+Mary își caută câinele.	Mary keresi a kutyáját.	caută	0	0
+Tom nu părea speriat.	Tom nem tűnt ijedtnek.	speriat	0	0
+Nu puteți folosi acest robinet; este stricat.	Nem használhatja azt a csapot; elromlott.	folosi	0	0
+Urăsc chimia.	Gyűlölöm a kémiát.	urăsc	0	0
+Îmi strici tot planul.	Elrontod az egész tervemet.	planul	0	0
+Îi voi suna mâine când voi veni acasă.	Felhívom őket holnap, amikor hazajöttem.	suna	0	0
+Ai închis ușile?	Bezártad az ajtókat?	închis	0	0
+A fost primul om care a escaladat M. Fuji iarna.	Ő volt az első ember, aki megmászta a Fudzsit télen.	m	0	0
+Mor de foame!	Meghalok az éhségtől!	foame	0	0
+Am citit o carte în timp ce mâncam.	Könyvet olvastunk, miközben ettünk.	citit	0	0
+Este un secret?	Titok?	secret	0	0
+Ea lucrează zi şi noapte.	Éjjel-nappal dolgozik.	lucrează	0	0
+Mulțumesc pentru prânz!	Köszönöm az ebédet!	mulțumesc	0	0
+O pisică a fost pe masă.	Az asztalon volt egy macska.	masă	0	0
+Fetele se joacă cu păpușa.	A lányok a babával játszanak.	fetele	0	0
+Am citit o carte în timp ce mâncam.	Könyvet olvastam, miközben ettem.	carte	0	0
+Casa se află pe vârful dealului, de unde se deschide o priveliște frumoasă asupra văii.	A ház a dombtetőn áll, ahonnan gyönyörű kilátás nyílik a völgyre.	află	0	0
+Este adevărat că bărbații au pielea mai grasă decât femeile?	Igaz-e, hogy a férfiak bőre zsírosabb, mint a nőké?	femeile	0	0
+Nu-ți fie teamă.	Ne félj.	teamă	0	0
+El bea prea multă bere.	Túl sok sört iszik.	bea	0	0
+Avem nevoie de ajutorul vostru!	Szükségünk van a segítségetekre!	vostru	0	0
+Ești atent la mine?	Figyelsz rám?	atent	0	0
+Nu am băut laptele.	Nem ittam meg a tejet.	băut	0	0
+Nu am uitat să-ți aduc cartea pe care mi-ai cerut-o.	Nem felejtettem el elhozni a könyvet, amit kértél.	cartea	0	0
+De ce ești ocupat astăzi?	Miért vagy elfoglalt ma?	ocupat	0	0
+Cina este gata.	A vacsora kész.	cina	0	0
+Nu am putut găsi acel cuvânt în dicționar.	Nem találtuk meg ezt a szót a szótárban.	cuvânt	0	0
+Ai grijă să dormi suficient.	Ügyelj arra, hogy kialudd magad.	dormi	0	0
+Răspunde la întrebare!	Felelj a kérdésre!	răspunde	0	0
+Îmi pare rău că nu am răspuns mai devreme scrisorii tale.	Bocsánat, hogy nem válaszoltam korábban a leveledre.	răspuns	0	0
+Nu te uită la mine!	Ne nézz rám!	uită	0	0
+Aș dori să fiu iubit. (Ady Endre)	Szeretném, ha szeretnének. (Ady Endre)	iubit	0	0
+Ea părea fericită.	Boldognak tűnt.	fericită	0	0
+Avionul nostru a făcut o escală la Londra înainte de a continua spre destinația finală.	A repülőgépünk leszállt Londonban, mielőtt folytatta volna útját a végső célállomás felé.	continua	0	0
+De abia știu de unde să încep.	Alig tudom, honnan kezdjem.	încep	0	0
+Crăciun fericit!	Boldog karácsonyt!	crăciun	0	0
+Tom este rănit.	Tom megsérült.	rănit	0	0
+În Japonia noul an școlar începe în aprilie.	Japánban az új tanév áprilisban kezdődik.	noul	0	0
+Tom spunea că Mary este prea tânără pentru a conduce.	Tom azt mondta, hogy Mary túl fiatal a vezetéshez.	conduce	0	0
+Nu vrea să vorbească despre asta.	Nem akar erről beszélni.	vorbească	0	0
+Tom spunea că Mary este prea tânără pentru a conduce.	Tom azt mondta, hogy Mary túl fiatal a vezetéshez.	spunea	0	0
+Mă doare capul.	Megfájdult a fejem.	doare	0	0
+Apa este rece.	A víz hideg.	rece	0	0
+Îmi bag picioarele!	Meg se baszom.	picioarele	0	0
+Trebuie să schimb trenul la următoarea stație pentru a prinde corespondența spre București.	Át kell szállnom a következő állomáson, hogy elérjem a csatlakozást Bukarest felé.	prinde	0	0
+Care câine e negru?	Melyik kutya fekete?	negru	0	0
+Nu-mi place muzica clasică.	Nem jön be nekem a klasszikus zene.	muzica	0	0
+Ai întârziat la serviciu.	Késtél a munkából.	serviciu	0	0
+Când ajungem?	Mikor érkezünk?	ajungem	0	0
+Tom și-a pregătit micul dejun încet, nu se grăbea nicăieri.	Tom ráérősen készítette el a reggelijét, nem sietett sehová.	micul	0	0
+Unu, doi, trei, patru, cinci, șase, șapte, opt, nouă, zece.	Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	opt	0	0
+Părea tânăr.	Fiatalnak tűnt.	părea	0	0
+Un măr pe zi ține doctorul departe.	Minden nap egy alma, az orvost távol tartja.	doctorul	0	0
+Tom și-a pregătit micul dejun încet, nu se grăbea nicăieri.	Tom ráérősen készítette el a reggelijét, nem sietett sehová.	încet	0	0
+Negocierile pentru un armistițiu au fost dificile, dar au avut succes.	A fegyverszünetről szóló tárgyalások nehéznek bizonyultak, de sikerrel jártak.	succes	0	0
+Ai mâncat tot?	Mindent megettél?	mâncat	0	0
+Energia solară devine din ce în ce mai ieftină.	A napenergia egyre olcsóbbá válik.	devine	0	0
+Vreau un câine.	Akarok egy kutyát.	câine	0	0
+Mary este mama lui Tom.	Mary Tom édesanyja.	mary	0	0
+Sistemul indică faptul că nu am permisiunea necesară pentru a șterge folderul.	A rendszer jelzi, hogy nincs meg a szükséges jogosultságom a mappa törléséhez.	sistemul	0	0
+Închide ușa aia blestemată!	Csukd be azt az átkozott ajtót!	închide	0	0
+Am văzut jocul de la început la sfârșit.	Láttam a játszmát az elejétől a végéig.	jocul	0	0
+Trăiesc în Ucraina.	Ukrajnában élnek.	trăiesc	0	0
+A cumpărat o pereche nouă de pantofi.	Vett egy új pár cipőt.	cumpărat	0	0
+Această nava se duce la Vancouver.	Ez a hajó Vancouverbe megy.	nava	0	0
+Va ploua diseară.	Ma este eső lesz.	diseară	0	0
+Antoine Lavoisier s-a născut la Paris, Franța.	Antoine Lavoisier Franciaországban született, Párizsban.	născut	0	0
+Nu este primul, ci al doilea.	Nem az első, hanem a második.	doilea	0	0
+Aș vrea să vă spun ceva.	Szeretnék mondani valamit.	aș	0	0
+Bate vântul.	Fúj a szél.	bate	0	0
+O bere, te rog!	Egy sört, legyél szíves!	bere	0	0
+Păcat că a murit Vasile, era un muncitor bun.	Kár, hogy meghalt Vasile, jó munkás volt.	păcat	0	0
+Când m-am trezit, m-am întristat.	Amikor felébredtem, elszomorodtam.	trezit	0	0
+Chiar dacă era obosit, lucra.	Fáradt volt, de mégis dolgozott.	lucra	0	0
+Părea tânăr.	Fiatalnak tűnt.	tânăr	0	0
+Tom era foarte bolnav.	Tom tényleg beteg volt.	bolnav	0	0
+Tom e o persoană minunată.	Tom csodálatos ember.	minunată	0	0
+Te poți odihni.	Pihenhetsz.	poți	0	0
+Sunt obosit. A fost o zi lungă.	Fáradt vagyok. Hosszú volt a nap.	lungă	0	0
+Te deranjează?	Zavar téged?	deranjează	0	0
+Am o grămadă de prieteni în Australia.	Egy csomó barátom van Ausztráliában.	grămadă	0	0
+De ce întrebi?	Miért kérdezed?	întrebi	0	0
+Tom și-a pregătit micul dejun încet, nu se grăbea nicăieri.	Tom ráérősen készítette el a reggelijét, nem sietett sehová.	nicăieri	0	0
+Unde și când ai primit acest cadou?	Hol és mikor kaptad ezt az ajándékot?	cadou	0	0
+Te joci cu mine, István?	Játszol velem, István?	joci	0	0
+Am crezut că am auzit vocea cuiva în bucătărie.	Azt hittem, valakinek a hangját hallom a konyhából.	cuiva	0	0
+Voi trăi.	Élni fogok.	trăi	0	0
+Depinde de situație.	A helyzettől függ.	depinde	0	0
+În zilele noastre, din ce în ce mai mulți oameni preferă viața la țară față de viața la oraș.	Napjainkban egyre több ember preferálja a falusi életet a városi élettel szemben.	zilele	0	0
+Ea este mult mai grea decât el.	Sokkal súlyosabb, mint ő.	grea	0	0
+Cine se va căsători cu mine? Doar viitorul poate spune.	Ki fog összeházasodni velem? Csak a jövő mondhatja meg.	viitorul	0	0
+Am făcut o escală de două ore într-un mic port pitoresc pentru a ne aproviziona cu provizii.	Két órás megállót tartottunk egy festői kis kikötőben, hogy feltöltsük a készleteinket.	port	0	0
+Când pisica nu-i acasă, joacă şoarecii pe masă.	Ha nincs otthon a macska, cincognak az egerek.	joacă	0	0
+Sunt într-adevăr un idiot.	Igazán idióta vagyok.	idiot	0	0
+Mi-ar plăcea să studiez la Paris.	Szeretnék Párizsban tanulni.	paris	0	0
+Mașina mea are un număr de înmatriculare nou.	Az autómnak új rendszáma van.	număr	0	0
+Nu l-a plăcut asta când s-a mutat în acest oraș, dar între timp s-a obișnuit.	Nem tetszett neki ez ebben a városban, amikor ideköltözött, de időközben hozzászokott.	mutat	0	0
+De-abia am sosit. Nici măcar nu mi-am despachetat bagajele.	Most érkeztem meg. Még ki se pakoltam a csomagokat.	sosit	0	0
+Mă numesc Ricardo.	A nevem Ricardo.	numesc	0	0
+Ce doriți: ceai sau cafea?	Mit kíván, teát vagy kávét?	ceai	0	0
+Dă-l încoace!	Add ide!	încoace	0	0
+Am vorbit cu Sandra despre o problemă importantă.	Szandrával egy fontos kérdésről beszéltem.	importantă	0	0
+Este o prietenă?	Ő egy barát?	prietenă	0	0
+Toți au râs zgomotos la glumă.	A viccen mindenki hangosan röhögött.	glumă	0	0
+Trebuie să plătesc chiria.	Ki kell fizetnem a lakbért.	plătesc	0	0
+Te-ai juca cu mine?	Játszanál velem?	juca	0	0
+Trebuie să beau.	Innom kell.	beau	0	0
+Deci, ce părere ai?	Tehát mi a véleményed?	părere	0	0
+Crocodilii nu mănâncă niciodată ciocolată.	A krokodilok sosem esznek csokoládét.	mănâncă	0	0
+Am aflat de ce a întârziat Tom.	Megtudtam, miért késett Tom.	întârziat	0	0
+S-ar putea să mă întâlnesc cu Tom mâine.	Lehet, hogy találkozom Tommal holnap.	întâlnesc	0	0
+Ăsta este filmul meu favorit.	Ez a kedvenc filmem.	filmul	0	0
+Studentul acesta este american.	Ez a hallgató amerikai.	american	0	0
+Îmi place să dorm.	Szeretek aludni.	dorm	0	0
+Avionul nostru a făcut o escală la Londra înainte de a continua spre destinația finală.	A repülőgépünk leszállt Londonban, mielőtt folytatta volna útját a végső célállomás felé.	londra	0	0
+Sora mea seamănă cu bunica mea.	A lánytestvérem hasonlít a nagymamámra.	bunica	0	0
+Trebuie să schimb trenul la următoarea stație pentru a prinde corespondența spre București.	Át kell szállnom a következő állomáson, hogy elérjem a csatlakozást Bukarest felé.	următoarea	0	0
+Am crezut că am auzit vocea cuiva în bucătărie.	Azt hittem, valakinek a hangját hallom a konyhából.	vocea	0	0
+Unde este centrul orașului?	Hol van a városközpont?	centrul	0	0
+Mi-a dat zece sute de yeni.	Adott nekem tízezer jent.	sute	0	0
+De unde ați cumpărat portocalele?	Hol vettétek a narancsot?	ați	0	0
+Tom și-a pregătit micul dejun încet, nu se grăbea nicăieri.	Tom ráérősen készítette el a reggelijét, nem sietett sehová.	dejun	0	0
+Sunt obosit.	Fáradt vagyok.	obosit	0	0
+Sunteți ascultători în fiecare zi.	Minden nap engedelmesek vagytok.	sunteți	0	0
+Ești bătrân.	Öreg vagy.	bătrân	0	0
+M-am săturat!	Elegem van!	săturat	0	0
+Fratele meu este un burlac convins și nu vrea să se căsătorească.	A bátyám meggyőződéses agglegény, és nem akar megházasodni.	convins	0	0
+Tom știe că Mary nu cunoaște răspunsul.	Tom tudja, hogy Mary nem tudja a választ.	răspunsul	0	0
+Cât costă pe cutie?	Mennyibe kerül doboza?	cutie	0	0
+Ai vrea să mergi la o plimbare?	Szeretnél sétálni egyet?	plimbare	0	0
+Aparatul ăsta de radio nu funcționează.	Ez a rádiókészülék nem működik.	radio	0	0
+Ai perfectă dreptate.	Teljesen igazad van.	perfectă	0	0
+Eu voi plăti.	Én fizetek.	plăti	0	0
+Am primit o scrisoare de la un vechi prieten din străinătate.	Kaptam egy levelet egy régi barátomtól külföldről.	scrisoare	0	0
+Scuză-mă, ce e ceasul?	Elnézést, hány óra van?	ceasul	0	0
+Avem patru ore de limba franceză pe săptămână.	Négy francia óránk van egy héten.	limba	0	0
+Am dormit doar două ore.	Mindössze két órát aludtam.	dormit	0	0
+Excelent!	Kiváló!	excelent	0	0
+Zece puști rusești și o pușcă turcească au fost găsite în podul casei.	Tíz orosz és egy török puskát találtak a ház padlásán.	casei	0	0
+Am construit această casă cu propriile mele mâini.	A tulajdon kezeimmel építettem ezt a házat.	mâini	0	0
+Avionul nostru a făcut o escală la Londra înainte de a continua spre destinația finală.	A repülőgépünk leszállt Londonban, mielőtt folytatta volna útját a végső célállomás felé.	avionul	0	0
+Când vrei să mănânci?	Mikor akarsz enni?	mănânci	0	0
+Ești mândru de tatăl tău?	Büszke vagy édesapádra?	mândru	0	0
+Nu știu unde sunt cheile mele.	Nem tudom, hol vannak a kulcsaim.	cheile	0	0
+Din păcate, domnul director este plecat.	Sajnos az igazgató úr házon kívül van.	păcate	0	0
+Viața seamănă cu o călătorie.	Az élet hasonlít egy utazásra.	călătorie	0	0
+Somn ușor!	Szép álmokat!	somn	0	0
+Ridică-te, te rog!	Állj fel, kérlek!	ridică-te	0	0
+Sunt liberă.	Szabad vagyok.	liberă	0	0
+Am găsit-o ieri.	Tegnap találtuk.	găsit-o	0	0
+Ai hrănit câinele?	Megetetted a kutyát?	câinele	0	0
+După câteva minute Maria a început să se plictisească.	Pár perc elteltével unatkozni kezdett Mari.	maria	0	0
+Am un prieten al cărui tată este profesor.	Van egy barátom, akinek az apja tanító.	profesor	0	0
+Ăsta este un lucru extrem de neobişnuit.	Ez rendkívül szokatlan dolog.	extrem	0	0
+Mulțumesc pentru prânz!	Köszi az ebédet!	prânz	0	0
+Speranța moare ultima.	A remény hal meg utoljára.	moare	0	0
+Am băut un pahar de cola.	Megittam egy pohár kólát.	pahar	0	0
+Asta nu este permis.	Ezt nem szabad.	permis	0	0
+Am încercat să-l oprim.	Megpróbáltuk megállítani.	oprim	0	0
+Ieri l-am vizitat pe bunicul meu.	Tegnap meglátogattam a nagyapámat.	bunicul	0	0
+Pisica ta este neagră.	A macskád fekete.	neagră	0	0
+Excursioniștii au ajuns pe vârful dealului și s-au odihnit puțin.	A kirándulók felértek a dombtetőre, és megpihentek egy kicsit.	puțin	0	0
+Trist!	Szomorú!	trist	0	0
+Mi-a fost furat portofelul din buzunarul interior.	Ellopták a tárcámat a belső zsebemből.	interior	0	0
+Doar peste cadavrul meu!	Csak a holttestemen át!	cadavrul	0	0
+Guvernul e corupt!	Korrupt a kormány!	guvernul	0	0
+Nici eu n-o pot explica.	Én sem tudom megmagyarázni.	explica	0	0
+Ea tremură de frig.	Reszketett a hidegtől.	frig	0	0
+Ce vârstă ai?	Hány éves vagy?	vârstă	0	0
+Câte ligheane ai stricat până acuma?	Hány lavórt törtél össze idáig?	stricat	0	0
+Soarele strălucește.	Süt a nap.	soarele	0	0
+Am luat o decizie.	Hoztam egy döntést.	decizie	0	0
+Viața seamănă cu o călătorie.	Az élet hasonlít egy utazásra.	viața	0	0
+Tom spunea că Mary este prea tânără pentru a conduce.	Tom azt mondta, hogy Mary túl fiatal a vezetéshez.	tânără	0	0
+Îmi place să citesc.	Szeretek olvasni.	citesc	0	0
+Vinul e poezie turnată într-o sticlă.	A bor palackba zárt költemény.	sticlă	0	0
+Toți prietenii mei o plac pe ea.	Az összes barátom kedveli őt.	toți	0	0
+În timpul tăierii de primăvară, grădinarul a tăiat cu grijă ramurile moarte pentru ca pomul să crească noi lăstari și să fie mai sănătos.	A tavaszi metszés során a kertész gondosan levágta az elhalt ágakat, hogy a fa új hajtásokat növesszen, és egészségesebb legyen.	tăiat	0	0
+El nu ştie aproape nimic despre acest animal.	Szinte semmit nem tud erről az állatról.	animal	0	0
+Mănânc fructe și beau apă.	Gyümölcsöt eszem és vizet iszom.	mănânc	0	0
+Unde găsesc un restaurant bun?	Hol találok egy jó éttermet?	restaurant	0	0
+Ești somnoros, dragule?	Álmos vagy, drágám?	dragule	0	0
+Tom nu este în patul lui.	Tom nincs az ágyában.	patul	0	0
+Tom nu părea beat.	Tom nem tűnt részegnek.	beat	0	0
+Îți place să dansezi?	Szeretsz táncolni?	îți	0	0
+Am crezut că am auzit vocea cuiva în bucătărie.	Azt hittem, valakinek a hangját hallom a konyhából.	bucătărie	0	0
+Acțiunile guvernului au fost condamnate la nivel mondial.	A kormány intézkedéseit világszinten elítélték.	nivel	0	0
+Franţa este în Europa de Vest.	Franciaország Nyugat-Európában van.	vest	0	0
+Croitorul meu este bogat.	A szabóm gazdag.	bogat	0	0
+Este adevărat că bărbații au pielea mai grasă decât femeile?	Igaz-e, hogy a férfiak bőre zsírosabb, mint a nőké?	pielea	0	0
+Zilele de naștere sunt importante.	A születésnapok fontosak.	importante	0	0
+Am construit această casă cu propriile mele mâini.	A saját kezeimmel építettem ezt a házat.	construit	0	0
+Eu locuiesc în București.	Bukarestben lakom.	locuiesc	0	0
+Vreau să îmi sărut iubita!	Meg akarom csókolni a szerelmemet!	iubita	0	0
+Cumpăr doar mașini de culoare galbenă.	Csak sárga autókat veszek.	cumpăr	0	0
+Cine este bărbatul acesta?	Ki ez a férfi?	bărbatul	0	0
+Ne-am întâlnit la biserică.	A templomban találkoztunk.	biserică	0	0
+Cumpăr doar mașini de culoare galbenă.	Csak sárga autókat veszek.	culoare	0	0
+Îmi bag picioarele!	Nem érdekel.	bag	0	0
+Să mergem să jucăm fotbal.	Menjünk focizni.	jucăm	0	0
+Să mergem să jucăm fotbal.	Menjünk focizni.	fotbal	0	0
+O să te dau în judecată.	Be foglak perelni.	judecată	0	0
+Nu puteți folosi acest robinet; este stricat.	Nem használhatja azt a csapot; elromlott.	puteți	0	0
+Părinții tăi știu că ești însărcinată?	A szüleid tudják, hogy terhes vagy?	însărcinată	0	0
+Toate drumurile duc la Roma.	Minden út Rómába vezet.	roma	0	0
+Am băut lapte.	Tejet ittam.	lapte	0	0
+Primul tren pleacă la 4:00 dimineața.	Az első vonat reggel 4 órakor indul.	tren	0	0
+Orezul este fără gust.	A rizs ízetlen.	gust	0	0
+Nervos? Eu? Nu!	Ideges? Én? Nem!	nervos	0	0
+Trebuie să schimb trenul la următoarea stație pentru a prinde corespondența spre București.	Át kell szállnom a következő állomáson, hogy elérjem a csatlakozást Bukarest felé.	trenul	0	0
+Câți oameni tineri cunoști care dețin la fel de multe mașini ca Tom?	Hány olyan fiatalt ismersz, akik annyi autóval rendelkeznek, mint Tom?	tineri	0	0
+Mă uit la televizor.	Televíziót nézek.	televizor	0	0
+Nu am uitat să-ți aduc cartea pe care mi-ai cerut-o.	Nem felejtettem el elhozni a könyvet, amit kértél.	să-ți	0	0
+Nu știu dacă nașul și nașa fiului meu sunt încă în viață.	Nem tudom, hogy a fiam keresztapja és keresztanyja él-e még.	fiului	0	0
+Toți au râs zgomotos la glumă.	A viccen mindenki hangosan röhögött.	râs	0	0
+Preţurile vor creşte din ce în ce mai mult.	Az árak egyre növekedni fognak.	creşte	0	0
+A cumpărat o pereche nouă de pantofi.	Vett egy pár új cipőt.	pereche	0	0
+Nu am chef.	Nem én vagyok a főnök.	chef	0	0
+A zis că trebuie să păstrăm secretul.	Azt mondta, hogy meg kell őriznünk a titkot.	secretul	0	0
+Lacul este albastru.	A tó kék.	albastru	0	0
+Aveți copii?	Vannak gyerekei?	aveți	0	0
+Viața seamănă cu o călătorie.	Az élet hasonlít egy utazásra.	seamănă	0	0
+Dispari!	Tűnés!	dispari	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	altele	0	0
+Nu avem destule informații.	Nincs elég információnk.	destule	0	0
+Din păcate, domnul director este plecat.	Sajnos az igazgató úr házon kívül van.	director	0	0
+Profesorul a desemnat un substitut pentru a preda lecția în absența sa.	A tanár kijelölt egy helyettest, hogy tartsa meg az órát a távollétében.	profesorul	0	0
+Unde e stația de autobuz?	Hol van a buszmegálló?	autobuz	0	0
+Îmi dai o pungă de hârtie pentru cumpărături?	Adsz nekem egy papírtasakot a vásárláshoz?	hârtie	0	0
+Comparativ cu vechiul model, acesta este mult mai uşor de folosit.	A régi modellhez képest, ezt sokkal könnyebb kezelni.	model	0	0
+Tom știe că Mary nu cunoaște răspunsul.	Tom tudja, hogy Mary nem tudja a választ.	știe	0	0
+Vreau să îmi sărut iubita!	Meg akarom csókolni a szerelmemet!	sărut	0	0
+Tehnica de tăiere nu doar formează forma pomului, ci poate crește și producția dacă este realizată corect.	A metszés technikája nemcsak a fa formáját alakítja, hanem a terméshozamot is növelheti, ha megfelelően végzik el.	forma	0	0
+Tom spune că crede că nu există viață pe Marte.	Tom azt mondta, hogy szerinte nincs élet a Marson.	viață	0	0
+Abia ne ajunge timp să mâncăm dejunul.	Alig jutott idő arra, hogy megreggelizzünk.	mâncăm	0	0
+Cât costă rochia aceasta?	Mennyibe kerül ez a szoknya?	rochia	0	0
+Cred c-am exagerat puțin.	Azt hiszem, picit túlzásokba estem.	c-am	0	0
+Am comandat pizza.	Rendeltem pizzát.	pizza	0	0
+Femeia aia mă sperie, întotdeauna țipă și vorbește cu ea însăși.	Megrémít az a nő, folyton visít és magában beszél.	sperie	0	0
+Cât costă?	Mennyibe kerül?	costă	0	0
+Tom a recunoscut că ceea ce a zis mai devreme nu era adevărat.	Tom elismerte, hogy amit korábban mondott, nem volt igaz.	recunoscut	0	0
+Există vreo lege despre traversarea printr-un loc nepermis?	Van valamilyen törvény a szabálytalan átkelésről?	lege	0	0
+Sună-mă dacă plouă.	Hívj fel, ha esik.	sună-mă	0	0
+Tom are o experienţă bogata în lucru cu computatoarele.	Tominak nagy tapasztalata van a számítógépes munkában.	experienţă	0	0
+Vai!	Hű!	vai	0	0
+Redistribuirea averii este un subiect controversat.	A javak újraosztása megosztó téma.	subiect	0	0
+Sunt gay.	Meleg vagyok.	gay	0	0
+Câinele doarme.	A kutya alszik.	doarme	0	0
+A cumpărat o pereche nouă de pantofi.	Vett egy pár új cipőt.	pantofi	0	0
+Clădirea se poate prăbuși în orice moment.	Az épület bármelyik pillanatban összedőlhet.	clădirea	0	0
+Nu sunt medic.	Nem vagyok orvos.	medic	0	0
+Vrea un ceas ca al tău.	Egy olyan órát akar, mint a tied.	ceas	0	0
+Să înceapă sărbătoarea.	Kezdődjék az ünnepség.	înceapă	0	0
+Elbrus este cel mai înalt munte din Europa.	Európában Elbrusz a legmagasabb hegy.	înalt	0	0
+Ești bolnavă?	Beteg vagy?	bolnavă	0	0
+Sistemul indică faptul că nu am permisiunea necesară pentru a șterge folderul.	A rendszer jelzi, hogy nincs meg a szükséges jogosultságom a mappa törléséhez.	permisiunea	0	0
+Într-un permis de conducere românesc se găsește de obicei un singur talon.	Egy román jogosítványban általában egy betétlap található.	conducere	0	0
+Tom are o maşină sport galbenă.	Tomnak sárga sportautója van.	sport	0	0
+Acceptați cărți de credit?	Elfogadnak hitelkártyát?	credit	0	0
+Elbrus este cel mai înalt munte din Europa.	Európában Elbrusz a legmagasabb hegy.	europa	0	0
+Am construit această casă cu propriile mele mâini.	A saját kezeimmel építettem ezt a házat.	propriile	0	0
+Se vând greble?	Árulnak gereblyét?	vând	0	0
+Isus nu era creștin.	Jézus nem volt keresztény.	isus	0	0
+Băiatul a sărit curajos de pe stâncă în apă.	A fiú bátran beugrott a szikláról a vízbe.	sărit	0	0
+Din moment ce nu ai nimic de făcut, de ce nu vii cu mine la pescuit în acest weekend?	Ha már úgysincs mit csinálnod, miért nem jössz velem horgászni a hétvégén?	weekend	0	0
+Acum un an am cumpărat o rochie cu cordon lat.	Egy évvel ezelőt vettem egy ruhát, széles övvel.	rochie	0	0
+Am nevoie de niște ajutor.	Kellene nekem egy kis segítség.	niște	0	0
+Mă scuzați că vă deranjez.	Elnézést, hogy zavarom.	deranjez	0	0
+Calculatoarele personale sunt foarte de folos.	A személyi számítógépek nagyon hasznosak.	folos	0	0
+Nu vei cânta?	Nem fogsz énekelni?	cânta	0	0
+Aceasta este o chestiune de gust.	Ez ízlés kérdése.	chestiune	0	0
+Nu slăbi brusc, ci treptat, căci este rău pentru sănătate.	Ne fogyj hirtelen, hanem fokozatosan, mert az rossz az egészségnek.	brusc	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	umane	0	0
+Teribil!	Rettenetes!	teribil	0	0
+Reclamantul și pârâtul au mers împreună la tribunal.	A felperes és az alperes együtt mentek a bíróságra.	tribunal	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	spiritul	0	0
+Arată-mi!	Mutasd csak!	arată-mi	0	0
+Nu mă pot decide dacă să le spun sau nu despre petrecere.	Nem tudom eldönteni, hogy szóljak-e nekik a buliról.	decide	0	0
+Țineți minte aceste reguli.	Tartsd észben ezeket a szabályokat.	reguli	0	0
+Eu sunt foarte ocupată astăzi.	Ma nagyon elfoglalt vagyok.	ocupată	0	0
+Toate animalele sunt egale.	Minden állat egyenlő.	animalele	0	0
+Ea nu vorbea cu el.	Nem beszélt vele.	vorbea	0	0
+Nu-mi voi aminti de ea.	Nem fogok emlékezni rá.	aminti	0	0
+Nu am curajul să-i cer şefului meu să-mi împrumute maşina lui.	Nincs bátorságom megkérni a főnökömet, hogy kölcsönadja az autóját.	curajul	0	0
+Pisica este mică.	A macska kicsi.	pisica	0	0
+Azi a fost ceremonia de încheiere a anului școlar 2008.	Ma volt a 2008-as évzáró ünnepség.	anului	0	0
+Vă deranjăm, băieți?	Zavarunk titeket, srácok?	băieți	0	0
+Examenul e duminică!	Vasárnap van a vizsga!	duminică	0	0
+Ce ai visat?	Mit álmodtál?	visat	0	0
+Ești mai curajos decât mine.	Bátrabb vagy, mint én.	curajos	0	0
+Nu-mi deranja cercurile!	Ne zavard köreimet!	deranja	0	0
+Școala este închisă.	Zárva tart az iskola.	închisă	0	0
+Energia solară devine din ce în ce mai ieftină.	A napenergia egyre olcsóbbá válik.	energia	0	0
+Crede în visele tale, oricât de imposibile ar părea.	Higgy az álmaidban, akármennyire lehetetlennek tűnnek.	visele	0	0
+Unde e cartea de telefoane?	Hol van a telefonkönyv?	telefoane	0	0
+Prietenul nostru a terminat cursa al doilea.	A barátunk a második helyen fejezte be a versenyt.	cursa	0	0
+Crocodilii nu mănâncă niciodată ciocolată.	A krokodilok sosem esznek csokoládét.	ciocolată	0	0
+Te ador.	Imádlak.	ador	0	0
+Calculatoarele personale sunt foarte de folos.	A személyi számítógépek nagyon hasznosak.	personale	0	0
+Câte ligheane ai stricat până acuma?	Hány lavórt törtél össze idáig?	acuma	0	0
+Mănânc pâine.	Eszem kenyeret.	pâine	0	0
+Știi cine a inventat microscopul?	Tudod, ki találta fel a mikroszkópot?	inventat	0	0
+Comparativ cu vechiul model, acesta este mult mai uşor de folosit.	A régi modellhez képest, ezt sokkal könnyebb kezelni.	vechiul	0	0
+Sprijinit de brațul fotoliului confortabil, am citit cartea mea preferată.	A kényelmes fotel karfájára támaszkodva olvastam a kedvenc könyvemet.	confortabil	0	0
+Călătoria lor a fost amânată din cauza ploii.	Az utazásuk el lett napolva az eső miatt.	călătoria	0	0
+Atomii nu pot fi văzuți cu ochiul liber.	Az atomok szabad szemmel nem láthatóak.	ochiul	0	0
+De abia ziua următoare ei au găsit-o.	Csak másnap találták meg.	următoare	0	0
+Prânzul este gata.	Az ebéd kész.	prânzul	0	0
+Vasile așa mi-a dat de înțeles că vrea să vândă casa.	Vasile értésemre adta, hogy el akarja adni a házat.	înțeles	0	0
+Mașina lui Tom tocmai a intrat în parcare.	Tom autója épp behajtott a parkolóba.	parcare	0	0
+Ambii câini dorm.	Mindkét kutya alszik.	câini	0	0
+Copacul cade.	Dől a fa.	cade	0	0
+Nu slăbi brusc, ci treptat, căci este rău pentru sănătate.	Ne fogyj hirtelen, hanem fokozatosan, mert az rossz az egészségnek.	căci	0	0
+Mama a cumpărat două sticle de suc de portocale.	Anya vett két üveg narancslevet.	suc	0	0
+Respectați viteză legală!	Tartsa be a sebességkorlátozást!	viteză	0	0
+Articolul exprimă opinia personală a autorului.	A cikk az írója véleményét tükrözi.	personală	0	0
+Nu deschide fereastra!	Ne nyisd ki az ablakot!	fereastra	0	0
+Prețurile depind de cerere și ofertă.	Az árak a kereslettől és a kínálattól függenek.	ofertă	0	0
+Nu știi asta cu siguranță.	Ezt nem tudod biztosra.	siguranță	0	0
+Lumea vorbește engleză.	A világ angolul beszél.	engleză	0	0
+Franţa este în Europa de Vest.	Franciaország Nyugat-Európában van.	franţa	0	0
+Am citit în ziar despre accident.	Olvastam az újságban a balesetről.	ziar	0	0
+Elbrus este cel mai înalt munte din Europa.	Európában Elbrusz a legmagasabb hegy.	munte	0	0
+Pe jos, treizeci de minute, cu autobuzul douăzeci de minute.	Gyalog harminc perc, busszal húsz perc.	autobuzul	0	0
+Sunt curios.	Kíváncsi vagyok.	curios	0	0
+Pe coasta dealului se aliniază pomi fructiferi și viță de vie.	A domboldalon gyümölcsfák és szőlőtőkék sorakoznak.	vie	0	0
+Am comandat pizza.	Rendeltem pizzát.	comandat	0	0
+Această bere conţine 5 % alcool.	Ez a sör 5% alkoholt tartalmaz.	alcool	0	0
+Cred că e prea scump.	Túl drágának tartom.	scump	0	0
+Intrarea oprită!	Tilos a bemenet!	intrarea	0	0
+Sunt obosită.	Fáradt vagyok.	obosită	0	0
+Avionul nostru a făcut o escală la Londra înainte de a continua spre destinația finală.	A repülőgépünk leszállt Londonban, mielőtt folytatta volna útját a végső célállomás felé.	finală	0	0
+Crede în visele tale, oricât de imposibile ar părea.	Higgy az álmaidban, akármennyire lehetetlennek tűnnek.	oricât	0	0
+Crezi că un pic de sare ar îmbunătăți gustul?	Gondolod, hogy egy kis só javítana az ízen?	sare	0	0
+Aparatul ăsta de radio nu funcționează.	Ez a rádiókészülék nem működik.	aparatul	0	0
+Îmi dai o pungă de hârtie pentru cumpărături?	Adsz nekem egy papírtasakot a vásárláshoz?	cumpărături	0	0
+Noapte bună și somn ușor!	Jó éjt, aludj jól!	ușor	0	0
+Vântul bătea din ce în ce mai tare.	A szél egyre erősebben fújt.	vântul	0	0
+De-abia am sosit. Nici măcar nu mi-am despachetat bagajele.	Most érkeztem meg. Még ki se pakoltam a csomagokat.	bagajele	0	0
+În timpul tăierii de primăvară, grădinarul a tăiat cu grijă ramurile moarte pentru ca pomul să crească noi lăstari și să fie mai sănătos.	A tavaszi metszés során a kertész gondosan levágta az elhalt ágakat, hogy a fa új hajtásokat növesszen, és egészségesebb legyen.	sănătos	0	0
+Acțiunile guvernului au fost condamnate la nivel mondial.	A kormány intézkedéseit világszinten elítélték.	mondial	0	0
+Nici Tom nici Mary nu locuiește în Boston.	Sem Tom, sem Mary nem Bostonban él.	boston	0	0
+Vreau să părăsesc Parisul.	El akarom hagyni Párizst.	părăsesc	0	0
+Ți-am spus să stai în mașină.	Mondtam, hogy maradj a kocsiban!	ți-am	0	0
+Nu pot să pornesc motorul. E stricat.	Nem tudom beindítani a motort. Bedöglött.	motorul	0	0
+Plantele au nevoie de ploaie.	A növényeknek szükségük van esőre.	ploaie	0	0
+Ea este ca o fiică pentru mine.	Ő olyan, mintha a saját lányom lenne.	fiică	0	0
+Am scris multe scrisori unul altuia în trecut, dar corespondența noastră s-a întrerupt.	Sok levelet írtunk korábban egymásnak, de a levelezésünk abbamaradt.	scrisori	0	0
+Păstrează restul.	Tartsa meg az aprót!	păstrează	0	0
+Din păcate încă nu știm ce ne așteaptă.	Mi még sajnos nem tudjuk, hogy mi vár ránk.	știm	0	0
+Scuze, dar nu pot să te urmez; gândurile tale sunt destul de tulburi.	Bocs, de nem tudlak követni; elég zavarosak a gondolataid.	gândurile	0	0
+Am talent?	Van tehetségem?	talent	0	0
+Îți place să dansezi?	Szeretsz táncolni?	dansezi	0	0
+Nu veți veni mâine?	Nem jöttök holnap?	veți	0	0
+Cine se va căsători cu mine? Doar viitorul poate spune.	Ki fog összeházasodni velem? Csak a jövő mondhatja meg.	căsători	0	0
+Nu slăbi brusc, ci treptat, căci este rău pentru sănătate.	Ne fogyj hirtelen, hanem fokozatosan, mert az rossz az egészségnek.	sănătate	0	0
+Din moment ce nu ai nimic de făcut, de ce nu vii cu mine la pescuit în acest weekend?	Ha már úgysincs mit csinálnod, miért nem jössz velem horgászni a hétvégén?	pescuit	0	0
+Cred că gramatica maghiară este dificilă.	Szerintem a magyar nyelvtan nehéz.	dificilă	0	0
+Câinii latră, carvana trece.	A kutya ugat, a karaván halad.	câinii	0	0
+Ce marfă!	Nagyon menő!	marfă	0	0
+Vorbește mai rar ca să te înțelegem.	Beszélj lassabban, hogy megértsünk.	rar	0	0
+Ai studiat ieri?	Tanultál tegnap?	studiat	0	0
+Tom a completat formularul greșit.	Tom rosszul töltötte ki az űrlapot.	greșit	0	0
+Prețurile depind de cerere și ofertă.	Az árak a kereslettől és a kínálattól függenek.	cerere	0	0
+Faceți rău că fumați!	Roszul teszi, hogy cigarettázik!	faceți	0	0
+Ea vorbeşte fluent engleza.	Folyékonyan beszéli az angolt.	engleza	0	0
+Mănânc fructe și beau apă.	Gyümölcsöt eszem és vizet iszom.	fructe	0	0
+O pisică a fost pe masă.	Az asztalon volt egy macska.	pisică	0	0
+M-am simțit atras de ea.	Vonzalmat éreztem iránta.	atras	0	0
+Vreau să trăiesc în Italia.	Olaszországban akarok élni.	italia	0	0
+Ieri a fost joi.	Tegnap csütörtök volt.	joi	0	0
+Nu înțeleg.	Nem értem.	înțeleg	0	0
+Nu am primit niciun ajutor pentru a finaliza sarcina.	Semmilyen segítséget nem kaptam a feladat elvégzéséhez.	sarcina	0	0
+Există o corelație directă între efort și succes.	Közvetlen összefüggés van az erőfeszítés és a siker között.	efort	0	0
+De-abia plecasem de acasă când a început ploaia.	Alig mentem el hazulról, amikor elkezdett esni.	de-abia	0	0
+Carnea are un gust rău.	Rossz íze van a húsnak.	carnea	0	0
+În timpul tăierii de primăvară, grădinarul a tăiat cu grijă ramurile moarte pentru ca pomul să crească noi lăstari și să fie mai sănătos.	A tavaszi metszés során a kertész gondosan levágta az elhalt ágakat, hogy a fa új hajtásokat növesszen, és egészségesebb legyen.	crească	0	0
+Acțiunile guvernului au fost condamnate la nivel mondial.	A kormány intézkedéseit világszinten elítélték.	guvernului	0	0
+Plata!	Fizetek!	plata	0	0
+Nu l-a plăcut asta când s-a mutat în acest oraș, dar între timp s-a obișnuit.	Nem tetszett neki ez ebben a városban, amikor ideköltözött, de időközben hozzászokott.	oraș	0	0
+Am un prieten al cărui tată este profesor.	Van egy barátom, akinek az apja tanító.	cărui	0	0
+Nu vorbești engleza?	Nem beszélsz angolul?	vorbești	0	0
+Florile sunt galbene.	A virágok sárgák.	florile	0	0
+Spune-mi o gluma!	Mondj egy viccet!	gluma	0	0
+Această mașină nu este a mea.	Nem az enyém ez az autó.	mașină	0	0
+Excursioniștii au ajuns pe vârful dealului și s-au odihnit puțin.	A kirándulók felértek a dombtetőre, és megpihentek egy kicsit.	vârful	0	0
+Vă rog o cravată albastră, cu picățele albe!	Kérek egy fehérpettyes kék nyakkendőt!	albe	0	0
+Substitutul a făcut o treabă excelentă în locul colegului său bolnav.	A helyettes kiváló munkát végzett a beteg kollégája helyett.	excelentă	0	0
+A zis că trebuie să păstrăm secretul.	Azt mondta, hogy meg kell őriznünk a titkot.	păstrăm	0	0
+Pe coasta dealului se aliniază pomi fructiferi și viță de vie.	A domboldalon gyümölcsfák és szőlőtőkék sorakoznak.	coasta	0	0
+Vinul e poezie turnată într-o sticlă.	A bor palackba zárt költemény.	vinul	0	0
+Copiii au făcut un om de zăpadă gigantic.	A gyerekek készítettek egy hatalmas hóembert.	zăpadă	0	0
+M-a făcut să râd.	Megnevettetett.	râd	0	0
+Acest student este american.	Ez a tanuló amerikai.	student	0	0
+Vasile așa mi-a dat de înțeles că vrea să vândă casa.	Vasile értésemre adta, hogy el akarja adni a házat.	vândă	0	0
+Articolul exprimă opinia personală a autorului.	A cikk az írója véleményét tükrözi.	articolul	0	0
+Ce doriți?	Mit parancsol?	doriți	0	0
+Ăsta este un lucru extrem de neobişnuit.	Ez rendkívül szokatlan dolog.	neobişnuit	0	0
+Ne conferă un avantaj.	Előnyhöz juttat minket.	avantaj	0	0
+Din păcate încă nu știm ce ne așteaptă.	Mi még sajnos nem tudjuk, hogy mi vár ránk.	așteaptă	0	0
+Nu-mi plac filmele.	Nem szeretem a filmeket.	filmele	0	0
+Nu am apă caldă.	Nincs meleg vizem.	caldă	0	0
+Aceasta este o casă albastră.	Ez egy kék ház.	albastră	0	0
+Articolul exprimă opinia personală a autorului.	A cikk az írója véleményét tükrözi.	opinia	0	0
+A venit Crăciunul.	Eljött a karácsony.	crăciunul	0	0
+Zece puști rusești și o pușcă turcească au fost găsite în podul casei.	Tíz orosz és egy török puskát találtak a ház padlásán.	podul	0	0
+Închide ușa aia blestemată!	Csukd be azt az átkozott ajtót!	ușa	0	0
+Există vreo lege despre traversarea printr-un loc nepermis?	Van valamilyen törvény a szabálytalan átkelésről?	printr-un	0	0
+Nu sunt sigură de ce au fost forțați să închidă restaurantul.	Nem vagyok biztos benne, miért kötelezték bezárni az éttermet.	restaurantul	0	0
+Hristos a înviat!	Krisztus feltámadt!	hristos	0	0
+Pe vârful dealului sunt ruinele unui vechi castel.	A dombtetőn egy régi vár romjai vannak.	castel	0	0
+Nu vreau să merg la școală.	Nem akarok iskolába menni.	școală	0	0
+Există o limită de două bagaje pentru fiecare pasager.	Kétcsomagos limit érvényes minden utasra.	limită	0	0
+Mi-a fost furat portofelul din buzunarul interior.	Ellopták a tárcámat a belső zsebemből.	portofelul	0	0
+Trecere oprită!	Tilos az átjárás!	trecere	0	0
+În zilele noastre, din ce în ce mai mulți oameni preferă viața la țară față de viața la oraș.	Napjainkban egyre több ember preferálja a falusi életet a városi élettel szemben.	față	0	0
+Am auzit că Tom plănuiește să se mute la Boston.	Hallottam, hogy Tom Bostonba készül költözni.	mute	0	0
+În Japonia noul an școlar începe în aprilie.	Japánban az új tanév áprilisban kezdődik.	japonia	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	libere	0	0
+Tom spune că crede că nu există viață pe Marte.	Tom azt mondta, hogy szerinte nincs élet a Marson.	marte	0	0
+Sistemul indică faptul că nu am permisiunea necesară pentru a șterge folderul.	A rendszer jelzi, hogy nincs meg a szükséges jogosultságom a mappa törléséhez.	indică	0	0
+Râul s-a revărsat din cauza ploilor torențiale.	A folyó kiáradt a heves esőzések miatt.	râul	0	0
+Schimbarea orei va fi duminică seara.	Az óraátállítás vasárnap este lesz.	schimbarea	0	0
+În zilele noastre, din ce în ce mai mulți oameni preferă viața la țară față de viața la oraș.	Napjainkban egyre több ember preferálja a falusi életet a városi élettel szemben.	mulți	0	0
+Ieri l-am vizitat pe bunicul meu.	Tegnap meglátogattam a nagyapámat.	vizitat	0	0
+Avem patru ore de limba franceză pe săptămână.	Négy francia óránk van egy héten.	franceză	0	0
+Pe prima pagină a cărții vechi, într-un cartuș decorativ, sunt înscrise numele autorului și anul ediției.	A régi könyv első oldalán egy díszes keretben szerepel a szerző neve és a kiadás éve.	pagină	0	0
+Hans este un om de afaceri german.	Hans egy német üzletember.	german	0	0
+Nu-mi place gustul.	Nem szeretem ezt az ízt.	gustul	0	0
+Ești nervoasă.	Ideges vagy.	nervoasă	0	0
+Bună dimineața!	Jó reggelt!	dimineața	0	0
+Te gândești adesea la ea?	Gyakran gondolsz rá?	adesea	0	0
+A fost primul om care a escaladat M. Fuji iarna.	Ő volt az első ember, aki megmászta a Fudzsit télen.	iarna	0	0
+Bunul a fost supus unei inspecții minuțioase înainte de expediție.	Az áru alapos ellenőrzésen esett át a kiszállítás előtt.	bunul	0	0
+Un măr pe zi ține doctorul departe.	Minden nap egy alma, az orvost távol tartja.	ține	0	0
+Mi-e o foame de lup.	Farkaséhes vagyok.	lup	0	0
+Dă-l încoace!	Add ide!	dă-l	0	0
+Tu ai un zâmbet frumos.	Szép a mosolyod.	zâmbet	0	0
+Am cumpărat o mașină folosită.	Egy használt autót vettem.	folosită	0	0
+În Japonia noul an școlar începe în aprilie.	Japánban az új tanév áprilisban kezdődik.	aprilie	0	0
+Plouă cu găleata.	Mintha dézsából öntenék.	plouă	0	0
+Este preocupată de sănătatea ei.	Aggódik az egészsége miatt.	sănătatea	0	0
+Unu, doi, trei, patru, cinci, șase, șapte, opt, nouă, zece.	Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	șase	0	0
+Iubesc ploaia.	Szeretem az esőt.	ploaia	0	0
+Încerc să aprofundez cunoștințele mele de limbă engleză.	Próbálom elmélyíteni az angoltudásomat.	limbă	0	0
+Pe jos, treizeci de minute, cu autobuzul douăzeci de minute.	Gyalog harminc perc, busszal húsz perc.	douăzeci	0	0
+Zece puști rusești și o pușcă turcească au fost găsite în podul casei.	Tíz orosz és egy török puskát találtak a ház padlásán.	găsite	0	0
+Mi-e totuna, numai cu orez nu.	Mindegy, csak rizzsel nem.	orez	0	0
+Sistemul indică faptul că nu am permisiunea necesară pentru a șterge folderul.	A rendszer jelzi, hogy nincs meg a szükséges jogosultságom a mappa törléséhez.	necesară	0	0
+Nu-ți fie teamă.	Ne félj.	nu-ți	0	0
+Trebuie să plătesc chiria.	Ki kell fizetnem a lakbért.	chiria	0	0
+Din cauza copacilor nu vezi pădurea.	Nem látja a fától az erdőt.	pădurea	0	0
+Această bere conţine 5 % alcool.	Ez a sör 5% alkoholt tartalmaz.	conţine	0	0
+Supa aceasta are gust de pește.	Halízű ez a leves.	supa	0	0
+Rock-ul este muzica preferată a tinerilor.	A rock a fiatalok kedvenc zenéje.	preferată	0	0
+Biletele, vă rog!	Jegyeket kérem!	biletele	0	0
+Îmi dai o pungă de hârtie pentru cumpărături?	Adsz nekem egy papírtasakot a vásárláshoz?	pungă	0	0
+Scuze, dar nu pot să te urmez; gândurile tale sunt destul de tulburi.	Bocs, de nem tudlak követni; elég zavarosak a gondolataid.	urmez	0	0
+Fratele meu este un burlac convins și nu vrea să se căsătorească.	A bátyám meggyőződéses agglegény, és nem akar megházasodni.	căsătorească	0	0
+Îmi place să înot.	Szeretek úszni.	înot	0	0
+Nu am curajul să-i cer şefului meu să-mi împrumute maşina lui.	Nincs bátorságom kölcsönkérni a főnököm autóját.	şefului	0	0
+Am scris multe scrisori unul altuia în trecut, dar corespondența noastră s-a întrerupt.	Sok levelet írtunk korábban egymásnak, de a levelezésünk abbamaradt.	altuia	0	0
+Este enorm.	Ez hatalmas.	enorm	0	0
+Sunteți bolnavi!	Betegek vagytok!	bolnavi	0	0
+Mai înfloresc în vale florile din grădini.	Még nyílnak a völgyben a kerti virágok...	vale	0	0
+Îmi strici tot planul.	Elrontod az egész tervemet.	strici	0	0
+Sami a făcut o descoperire groaznică.	Sami egy szörnyű felfedezést tett.	groaznică	0	0
+Cred c-am exagerat puțin.	Azt hiszem, picit túlzásokba estem.	exagerat	0	0
+Unu plus doi egal trei.	Egy meg kettő egyenlő három.	egal	0	0
+Pula mea!	Faszom!	pula	0	0
+Mașina mea are un număr de înmatriculare nou.	Az autómnak új rendszáma van.	mașina	0	0
+Câte mere vrei?	Mennyi almát akarsz?	mere	0	0
+A venit preotul.	Megjött a pap.	preotul	0	0
+Profesorul a desemnat un substitut pentru a preda lecția în absența sa.	A tanár kijelölt egy helyettest, hogy tartsa meg az órát a távollétében.	preda	0	0
+Lacul este albastru.	A tó kék.	lacul	0	0
+Nu e destul de mare pentru a lua permisul de conducere.	Ő még nem elég idős ahhoz, hogy megszerezze a jogosítványt.	permisul	0	0
+L-ai cunoscut la universitate?	Az egyetemen ismerted meg?	universitate	0	0
+Mi-a fost furat portofelul din buzunarul interior.	Ellopták a tárcámat a belső zsebemből.	buzunarul	0	0
+Trebuia să cumpărăm trei sticle de vin.	Három üveg bort kellett volna vennünk.	cumpărăm	0	0
+Am făcut o escală de două ore într-un mic port pitoresc pentru a ne aproviziona cu provizii.	Két órás megállót tartottunk egy festői kis kikötőben, hogy feltöltsük a készleteinket.	provizii	0	0
+Nu știam de unde a venit.	Nem tudtam, honnan jött.	știam	0	0
+Nu sunt sigură de ce au fost forțați să închidă restaurantul.	Nem vagyok biztos benne, miért kötelezték bezárni az éttermet.	închidă	0	0
+Am scris multe scrisori unul altuia în trecut, dar corespondența noastră s-a întrerupt.	Sok levelet írtunk korábban egymásnak, de a levelezésünk abbamaradt.	întrerupt	0	0
+Ziceam doar!	Csak mondtam!	ziceam	0	0
+Te admir pentru reacția ta la provocări.	Csodálom, ahogy a kihívásokra reagálsz.	admir	0	0
+Poftă bună!	Jó étvágyat!	poftă	0	0
+Astăzi am vizitat un muzeu.	Ma meglátogattam egy múzeumot.	muzeu	0	0
+Allen e poet.	Allen költő.	allen	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	drepturi	0	0
+Nimeni nu poate ști totul.	Senki sem tudhat mindent.	ști	0	0
+Mama a cumpărat două sticle de suc de portocale.	Anya vett két üveg narancslevet.	sticle	0	0
+Tom nu joacă tenis foarte bine.	Tom nem teniszezik túl jól.	tenis	0	0
+Tom nu este la fel de activ ca fratele său.	Tom nem olyan aktív, mint az öccse.	activ	0	0
+Cheamă poliția!	Hívd a rendőrséget!	poliția	0	0
+Mai bine mor de foame decât să fur.	Inkább éhen halok, mint hogy lopjak.	fur	0	0
+Cred că este foarte important ca tu să mergi în Australia.	Szerintem nagyon fontos, hogy elmenj Ausztráliába.	australia	0	0
+E un preparat tipic unguresc.	Ez egy tipikus magyar fogás.	tipic	0	0
+Sportivii s-au pregătit intens pentru concursul de natație.	A sportolók keményen készültek az úszóversenyre.	concursul	0	0
+El flirtează cu alte fete de pe Facebook.	Más lányokkal flörtöl a Facebookon.	facebook	0	0
+În timpul tăierii de primăvară, grădinarul a tăiat cu grijă ramurile moarte pentru ca pomul să crească noi lăstari și să fie mai sănătos.	A tavaszi metszés során a kertész gondosan levágta az elhalt ágakat, hogy a fa új hajtásokat növesszen, és egészségesebb legyen.	primăvară	0	0
+Ăsta este filmul meu favorit.	Ez a kedvenc filmem.	favorit	0	0
+Părinții tăi știu că ești însărcinată?	A szüleid tudják, hogy terhes vagy?	părinții	0	0
+Voi veni cu bicicletă.	Kerékpárral jövök.	bicicletă	0	0
+Aștept cu nerăbdare.	Türelmetlenül várok.	nerăbdare	0	0
+Ce animal este maro?	Melyik állat barna?	maro	0	0
+Negocierile pentru un armistițiu au fost dificile, dar au avut succes.	A fegyverszünetről szóló tárgyalások nehéznek bizonyultak, de sikerrel jártak.	dificile	0	0
+Ambii câini dorm.	Mindkét kutya alszik.	ambii	0	0
+Mai întâi Franța, apoi Irak.	Előbb Franciaország, aztán Irak.	irak	0	0
+Nu am băut laptele.	Nem ittam meg a tejet.	laptele	0	0
+Poftiți. Luați loc.	Tessék. Foglaljon helyet.	luați	0	0
+A venit taxiul.	Megjött a taxi.	taxiul	0	0
+Mănânc un măr.	Eszek egy almát.	măr	0	0
+Examenul e duminică!	Vasárnap van a vizsga!	examenul	0	0
+Toate drumurile duc la Roma.	Minden út Rómába vezet.	drumurile	0	0
+Vorbește puțin engleza.	Egy kicsit beszél angolul.	vorbește	0	0
+Este adevărat că bărbații au pielea mai grasă decât femeile?	Igaz-e, hogy a férfiak bőre zsírosabb, mint a nőké?	grasă	0	0
+Graba strică treaba.	Lassan járj, tovább érsz.	strică	0	0
+Vreau ca această treabă să fie terminată până la cinci.	Azt akarom, hogy ez a feladat legyen elvégezve ötre.	terminată	0	0
+Întotdeauna întârzie.	Mindig elkésik.	întârzie	0	0
+Copiii ascultă cu plăcere aceeași povești din nou și din nou.	A gyerekek szívesen hallgatják meg ugyanazt a történetet újra és újra.	aceeași	0	0
+Sunt nori pe cer.	Felhők vannak az égen.	nori	0	0
+Azi a fost ceremonia de încheiere a anului școlar 2008.	Ma volt a 2008-as évzáró ünnepség.	ceremonia	0	0
+Există o corelație directă între efort și succes.	Közvetlen összefüggés van az erőfeszítés és a siker között.	directă	0	0
+Am vorbit cu Sandra despre o problemă importantă.	Szandrával egy fontos kérdésről beszéltem.	sandra	0	0
+Rosa e portugheză, dar locuiește în Franța.	Rosa portugál, de Franciaországban lakik.	rosa	0	0
+Copacul cade.	Dől a fa.	copacul	0	0
+El este un oaspete nedorit.	Ő egy nem szívesen látott vendég.	oaspete	0	0
+Funcționează din nou.	Újra működik.	funcționează	0	0
+Unde este aeroportul?	Hol van a repülőtér?	aeroportul	0	0
+Te iubesc, îngerul meu.	Szeretlek, angyalom.	îngerul	0	0
+Te rog închide geamul.	Légy szíves csukd be az ablakot!	geamul	0	0
+Ursul este mare.	A medve nagy.	ursul	0	0
+Mary își caută câinele.	Mary keresi a kutyáját.	își	0	0
+Respectați viteză legală!	Tartsa be a sebességkorlátozást!	legală	0	0
+Vinul e poezie turnată într-o sticlă.	A bor palackba zárt költemény.	poezie	0	0
+Îmi place zâmbetul tău.	Tetszik a mosolyod.	zâmbetul	0	0
+Astăzi am cumpărat o duzină de creioane.	Vettem ma tizenkét ceruzát.	duzină	0	0
+Am actualizat software-ul la cea mai nouă versiune.	A szoftvert a legújabb verzióra frissítettem.	versiune	0	0
+Călătoresc mult.	Sokat utazom.	călătoresc	0	0
+Sportivii s-au pregătit intens pentru concursul de natație.	A sportolók keményen készültek az úszóversenyre.	intens	0	0
+N-am avut nici o alternativă.	Nem volt más választásom.	alternativă	0	0
+Abia îmi terminasem treaba când cineva a sunat la ușă.	Alighogy végeztem a dolgommal, valaki csöngetett az ajtón.	ușă	0	0
+Sami a făcut o descoperire groaznică.	Sami egy szörnyű felfedezést tett.	descoperire	0	0
+Guvernul e corupt!	Korrupt a kormány!	corupt	0	0
+Hans este un om de afaceri german.	Hans egy német üzletember.	hans	0	0
+Nu pot să pornesc motorul. E stricat.	Nem tudom beindítani a motort. Bedöglött.	pornesc	0	0
+Matematica este o materie bună.	A matematika jó tantárgy.	materie	0	0
+M-am simțit atras de ea.	Vonzalmat éreztem iránta.	simțit	0	0
+A răsărit soarele.	Felkelt a nap.	răsărit	0	0
+Am cumpărat-o ieri.	Tegnap vettem.	cumpărat-o	0	0
+Nu avem destule informații.	Nincs elég információnk.	informații	0	0
+Băiatul a sărit curajos de pe stâncă în apă.	A fiú bátran beugrott a szikláról a vízbe.	stâncă	0	0
+Tehnica de tăiere nu doar formează pomul, ci poate crește și producția dacă este realizată corect.	A metszés technikája nemcsak a fa formáját alakítja, hanem a terméshozamot is növelheti, ha megfelelően végzik el.	formează	0	0
+Casa sa este foarte modernă.	Nagyon modern a háza.	modernă	0	0
+În zilele noastre, din ce în ce mai mulți oameni preferă viața la țară față de viața la oraș.	Napjainkban egyre több ember preferálja a falusi életet a városi élettel szemben.	preferă	0	0
+Pe jos, treizeci de minute, cu autobuzul douăzeci de minute.	Gyalog harminc perc, busszal húsz perc.	treizeci	0	0
+Sunt poponar.	Homár vagyok.	poponar	0	0
+Vaca noastră nu ne dă lapte.	A tehenünk nem ad tejet.	vaca	0	0
+Cine sunt eu să-l critic?	Ki vagyok én, hogy kritizáljam?	critic	0	0
+Graba strică treaba.	Lassan járj, tovább érsz.	graba	0	0
+L-am auzit pe Tom plângând în camera lui.	Hallottam Tomot sírni a szobájában.	plângând	0	0
+Tehnica de tăiere nu doar formează pomul, ci poate crește și producția dacă este realizată corect.	A metszés technikája nemcsak a fa formáját alakítja, hanem a terméshozamot is növelheti, ha megfelelően végzik el.	tehnica	0	0
+Ochi pentru ochi și dinte pentru dinte.	Szemet szemért, fogat fogért.	dinte	0	0
+Ai hrănit câinele?	Megetetted a kutyát?	hrănit	0	0
+Cred că Tom a făcut o greșeală.	Azt hiszem, Tom hibázott.	greșeală	0	0
+Cum putem să ne protejăm de coronavirus?	Hogyan védekezhetünk a koronavírus ellen?	protejăm	0	0
+Mama a cumpărat două sticle de suc de portocale.	Anya vett két üveg narancslevet.	portocale	0	0
+Tom a spus că dorește să studieze în străinătate.	Tom azt mondta, hogy külföldön szeretne tanulni.	străinătate	0	0
+Vă rog o cravată albastră, cu picățele albe!	Kérek egy fehérpettyes kék nyakkendőt!	cravată	0	0
+Mi-ar plăcea să studiez la Paris.	Szeretnék Párizsban tanulni.	studiez	0	0
+Mașina mea are un număr de înmatriculare nou.	Az autómnak új rendszáma van.	înmatriculare	0	0
+Închide ușa aia blestemată!	Csukd be azt az átkozott ajtót!	blestemată	0	0
+Nu-mi place să merg pe motocicletă.	Nem szeretek motorozni.	motocicletă	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	nasc	0	0
+Tom spune că va câștiga.	Tom azt mondja, hogy győzni fog.	câștiga	0	0
+Unu, doi, trei, patru, cinci, șase, șapte, opt, nouă, zece.	Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	șapte	0	0
+- Unde ai fost? - Am fost la dentist.	- Hol voltál? - Fogorvosnál.	dentist	0	0
+Franța este cea mai vizitată țară din lume.	Franciaország a leglátogatottabb ország a világon.	țară	0	0
+Va ploua diseară.	Ma este eső lesz.	ploua	0	0
+Nu munci prea mult, ok?	Ne dolgozz túl sokat, oké?	munci	0	0
+Am băut un pahar de cola.	Megittam egy pohár kólát.	cola	0	0
+Nu am uitat să-ți aduc cartea pe care mi-ai cerut-o.	Nem felejtettem el elhozni a könyvet, amit kértél.	cerut-o	0	0
+Sunt multe orașe mari în Brazilia.	Braziliában sok nagyváros van.	brazilia	0	0
+Este un taur.	Ez egy bika.	taur	0	0
+N-am reușit s-o înțeleg.	Nem tudtam megérteni.	reușit	0	0
+Energia solară devine din ce în ce mai ieftină.	A napenergia egyre olcsóbbá válik.	ieftină	0	0
+Matematica este o materie bună.	A matematika jó tantárgy.	matematica	0	0
+Bunul a fost supus unei inspecții minuțioase înainte de expediție.	Az áru alapos ellenőrzésen esett át a kiszállítás előtt.	supus	0	0
+Tom are o maşină sport galbenă.	Tomnak van egy sárga sportkocsija.	galbenă	0	0
+Există o limită de două bagaje pentru fiecare pasager.	Kétcsomagos limit érvényes minden utasra.	bagaje	0	0
+Păcat că a murit Vasile, era un muncitor bun.	Kár, hogy meghalt Vasile, jó munkás volt.	muncitor	0	0
+Nu-mi place muzica clasică.	Nem jön be nekem a klasszikus zene.	clasică	0	0
+Te poți odihni.	Pihenhetsz.	odihni	0	0
+Capitala Olandei este Amsterdam.	Hollandia fővárosa Amszterdam.	capitala	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	demnitate	0	0
+Sper că nu te plictisesc.	Remélem, nem untatlak.	plictisesc	0	0
+Îți place floarea aceasta?	Tetszik neked ez a virág?	floarea	0	0
+Aștept cu nerăbdare.	Türelmetlenül várok.	aștept	0	0
+Allen e poet.	Allen költő.	poet	0	0
+Cum se zice asta în italiană?	Hogy van ez olaszul?	italiană	0	0
+Plantele au nevoie de ploaie.	A növényeknek szükségük van esőre.	plantele	0	0
+Vorbiți spaniola?	Beszéltek spanyolul?	spaniola	0	0
+Atenție!	Figyelem!	atenție	0	0
+Accentul în acest cuvânt cade pe a doua silabă.	A hangsúly ebben a szóban a második szótagra esik.	accentul	0	0
+Europa este un continent.	Európa egy kontinens.	continent	0	0
+Vreau să părăsesc Parisul.	El akarom hagyni Párizst.	parisul	0	0
+Nu tot ce-i este permis lui Jupiter nu-i este permis și unui bou.	Amit szabad Jupiternek, nem szabad a kisökörnek.	jupiter	0	0
+Vorbești japoneză?	Beszélsz te japánul?	japoneză	0	0
+Ea s-a confruntat cu multe greutăți.	Sok nehézséggel szembesült.	confruntat	0	0
+Luarea florilor este interzisă.	Tilos leszedni a virágokat.	interzisă	0	0
+Mulțumim!	Köszönjük!	mulțumim	0	0
+E departe gara?	Messze van az állomás?	gara	0	0
+Hristos a înviat, aleluia! - Adevărat a înviat, aleluia!	Krisztus feltámadott, hallelúja! - Valóban feltámadott, hallelúja!	aleluia	0	0
+Tom a completat formularul greșit.	Tom rosszul töltötte ki az űrlapot.	completat	0	0
+Tom și-a pregătit micul dejun încet, nu se grăbea nicăieri.	Tom ráérősen készítette el a reggelijét, nem sietett sehová.	și-a	0	0
+Nu am văzut niciodată un asemenea peisaj frumos.	Nem láttam még soha ilyen szép tájat.	peisaj	0	0
+Antoine Lavoisier s-a născut la Paris, Franța.	Antoine Lavoisier Franciaországban született, Párizsban.	antoine	0	0
+Îți țin pumnii!	Szorítok neked!	pumnii	0	0
+Am văzut jocul de la început la sfârșit.	Láttam a játszmát az elejétől a végéig.	sfârșit	0	0
+Porecla mea este "Itch".	A becenevem "Itch".	porecla	0	0
+Vântul bătea din ce în ce mai tare.	A szél egyre erősebben fújt.	bătea	0	0
+Te gândești adesea la ea?	Gyakran gondolsz rá?	gândești	0	0
+În echipa noastră, avem întotdeauna un substitut pregătit pentru orice eventualitate.	A csapatunkban mindig van egy helyettes, aki készen áll bármilyen eshetőségre.	eventualitate	0	0
+Nu vorbesc rusă.	Nem beszélek oroszul.	rusă	0	0
+Trebuie doar să studiezi din greu.	Csak keményen kell tanulnod.	studiezi	0	0
+Sunt insule pe mare.	A tengerben vannak szigetek.	insule	0	0
+Nu e împotriva regulilor?	Ez nincs ellen a szabályoknak?	regulilor	0	0
+Timpul nostru este limitat.	Az időnk véges.	limitat	0	0
+Învățăm să citim și să scriem.	Írni és olvasni tanulunk.	scriem	0	0
+Cu cât mai mult străduiesc, cu atât mai mult greșesc.	Minél jobban igyekszem, annál többet hibázok.	străduiesc	0	0
+Curăță cartofii și morcovii.	Hámozza a burgonyát és a sárgarépát.	cartofii	0	0
+Unde este încărcătura mea?	Hol van a szállítmányom?	încărcătura	0	0
+Schimbarea orei va fi duminică seara.	Az óraátállítás vasárnap este lesz.	orei	0	0
+El numără repede.	Gyorsan számol.	numără	0	0
+Ai mâncat usturoi?	Ettél fokhagymát?	usturoi	0	0
+Învățăm să citim și să scriem.	Írni és olvasni tanulunk.	citim	0	0
+Prețurile depind de cerere și ofertă.	Az árak a kereslettől és a kínálattól függenek.	depind	0	0
+Capitala Olandei este Amsterdam.	Hollandia fővárosa Amszterdam.	amsterdam	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	egale	0	0
+Tom a completat formularul greșit.	Tom rosszul töltötte ki az űrlapot.	formularul	0	0
+Profesorul a desemnat un substitut pentru a preda lecția în absența sa.	A tanár kijelölt egy helyettest, hogy tartsa meg az órát a távollétében.	desemnat	0	0
+Ea tremură de frig.	Reszketett a hidegtől.	tremură	0	0
+Trecere oprită!	Tilos az átjárás!	oprită	0	0
+Depinde de situație.	A helyzettől függ.	situație	0	0
+El poate să înoate repede.	Tud gyorsan úszni.	înoate	0	0
+Există o limită de două bagaje pentru fiecare pasager.	Kétcsomagos limit érvényes minden utasra.	pasager	0	0
+Cred că m-ai confundat cu altcineva.	Azt hiszem, összetévesztettél valaki mással.	confundat	0	0
+Energia solară devine din ce în ce mai ieftină.	A napenergia egyre olcsóbbá válik.	solară	0	0
+El are un fiu și două fiice.	Egy fia és két lánya van.	fiice	0	0
+Rock-ul este muzica preferată a tinerilor.	A rock a fiatalok kedvenc zenéje.	tinerilor	0	0
+Zilele de naștere sunt importante.	A születésnapok fontosak.	naștere	0	0
+Eu am patruzeci de ani.	Negyven éves vagyok.	patruzeci	0	0
+Intrarea gratuită.	A belépés díjtalan.	gratuită	0	0
+Zarurile au fost aruncate.	A kocka el van vetve.	aruncate	0	0
+Am citit o carte în timp ce mâncam.	Könyvet olvastunk, miközben ettünk.	mâncam	0	0
+Câți oameni tineri cunoști care dețin la fel de multe mașini ca Tom?	Hány olyan fiatalt ismersz, akik annyi autóval rendelkeznek, mint Tom?	cunoști	0	0
+Fratele meu este un burlac convins și nu vrea să se căsătorească.	A bátyám meggyőződéses agglegény, és nem akar megházasodni.	burlac	0	0
+Care-i situația?	Mi a helyzet?	situația	0	0
+Nu slăbi brusc, ci treptat, căci este rău pentru sănătate.	Ne fogyj hirtelen, hanem fokozatosan, mert az rossz az egészségnek.	treptat	0	0
+A venit metroul.	Megjött a metró.	metroul	0	0
+Să înceapă sărbătoarea.	Kezdődjék az ünnepség.	sărbătoarea	0	0
+Sprijinit de brațul fotoliului confortabil, am citit cartea mea preferată.	A kényelmes fotel karfájára támaszkodva olvastam a kedvenc könyvemet.	sprijinit	0	0
+Eu sunt Ricardo.	Ricardo vagyok.	ricardo	0	0
+Florile sunt galbene.	A virágok sárgák.	galbene	0	0
+Speranța moare ultima.	A remény hal meg utoljára.	speranța	0	0
+Plouă cu găleata.	Úgy esik, mintha dézsából öntenék.	găleata	0	0
+Acum un an am cumpărat o rochie cu cordon lat.	Egy évvel ezelőt vettem egy ruhát, széles övvel.	lat	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	comporte	0	0
+Toți au râs zgomotos la glumă.	A viccen mindenki hangosan röhögött.	zgomotos	0	0
+Școala este închisă.	Zárva tart az iskola.	școala	0	0
+Negocierile pentru un armistițiu au fost dificile, dar au avut succes.	A fegyverszünetről szóló tárgyalások nehéznek bizonyultak, de sikerrel jártak.	negocierile	0	0
+Tehnica de tăiere nu doar formează pomul, ci poate crește și producția dacă este realizată corect.	A metszés technikája nemcsak a fa formáját alakítja, hanem a terméshozamot is növelheti, ha megfelelően végzik el.	realizată	0	0
+Tom a spus că dorește să studieze în străinătate.	Tom azt mondta, hogy külföldön szeretne tanulni.	studieze	0	0
+Țineți minte aceste reguli.	Tartsd észben ezeket a szabályokat.	țineți	0	0
+Eu sunt vegetarian.	Vegetáriánus vagyok.	vegetarian	0	0
+I-am dat câteva cărți.	Adtam neki pár könyvet.	cărți	0	0
+Nu tot ce-i este permis lui Jupiter nu-i este permis și unui bou.	Amit szabad Jupiternek, nem szabad a kisökörnek.	bou	0	0
+Cu sifon? Nu. Cu apă minerală.	Szódavízzel? Nem. Ásvanyvízzel.	sifon	0	0
+Preţurile vor creşte din ce în ce mai mult.	Az árak egyre növekedni fognak.	preţurile	0	0
+Vă deranjăm, băieți?	Zavarunk titeket, srácok?	deranjăm	0	0
+Supa aceasta are gust de pește.	Halízű ez a leves.	pește	0	0
+Sunt întru totul de acord.	Mindenben egyetértek.	întru	0	0
+Șah mat!	Sakk-matt!	mat	0	0
+Aladdin a găsit o lampă fermecată.	Aladdin talált egy bűvös lámpát.	lampă	0	0
+Vreți pește?	Kértek halat?	vreți	0	0
+Unde este centrul orașului?	Hol van a városközpont?	orașului	0	0
+Dacă te plictisești, poți să contribui pe Tatoeba.	Ha unatkozol, hozzájárulhatsz a Tatoebához.	contribui	0	0
+Mama mi-a cumpărat o fustă nouă.	Anyu vett nekem egy új szoknyát.	fustă	0	0
+Iubesc lasagna.	Szeretem a lasagnát.	lasagna	0	0
+Actorul a vorbit pe șleau despre umilințele și eșecurile din viața sa.	A színész kertelés nélkül beszélt az életében elszenvedett megaláztatásokról és kudarcokról.	actorul	0	0
+Hristos a înviat!	Krisztus feltámadt!	înviat	0	0
+Din cauza copacilor nu vezi pădurea.	Nem látja a fától az erdőt.	copacilor	0	0
+Luarea florilor este interzisă.	Tilos leszedni a virágokat.	luarea	0	0
+Iarna în Romania ninge mult.	Romániában sokat havazik télen.	ninge	0	0
+Nu am fost în Franța, nici în Belgia.	Nem jártam Franciaországban, sem Belgiumban.	belgia	0	0
+Calculatoarele personale sunt foarte de folos.	A személyi számítógépek nagyon hasznosak.	calculatoarele	0	0
+Bunica mea trăiește la țară.	A nagymamám vidéken él.	trăiește	0	0
+Dați-mi vă rog un kilogram de mere.	Kérek egy kiló almát.	kilogram	0	0
+Nu am curajul să-i cer şefului meu să-mi împrumute maşina lui.	Nincs bátorságom megkérni a főnökömet, hogy kölcsönadja az autóját.	împrumute	0	0
+Câți oameni tineri cunoști care dețin la fel de multe mașini ca Tom?	Hány olyan fiatalt ismersz, akik annyi autóval rendelkeznek, mint Tom?	câți	0	0
+Pe vârful dealului sunt ruinele unui vechi castel.	A dombtetőn egy régi vár romjai vannak.	ruinele	0	0
+Cumpăr doar mașini de culoare galbenă.	Kizárólag sárga színű gépkocsikat vásárolok.	mașini	0	0
+Excursioniștii au ajuns pe vârful dealului și s-au odihnit puțin.	A kirándulók felértek a dombtetőre, és megpihentek egy kicsit.	odihnit	0	0
+Cu sifon? Nu. Cu apă minerală.	Szódavízzel? Nem. Ásvanyvízzel.	minerală	0	0
+Nu puteți folosi acest robinet; este stricat.	Nem használhatja azt a csapot; elromlott.	robinet	0	0
+Îți țin pumnii!	Szorítok neked!	țin	0	0
+Franța este adiacentă Spaniei.	Franciaország szomszédos Spanyolországgal.	spaniei	0	0
+Orezul este fără gust.	A rizsnek nincs íze.	orezul	0	0
+Leii sunt în cușcă.	Az oroszlánok a ketrecben vannak.	leii	0	0
+Știai că....?	Tudtad, hogy...?	știai	0	0
+A plouat neîntrerupt.	Szüntelenül esett.	plouat	0	0
+Elefantul e mare.	Az elefánt nagy.	elefantul	0	0
+A înjumătățit mărul.	Az almát megfelezte.	mărul	0	0
+Copiii au făcut un om de zăpadă gigantic.	A gyerekek készítettek egy hatalmas hóembert.	gigantic	0	0
+Comparativ cu vechiul model, acesta este mult mai uşor de folosit.	A régi modellhez képest, ezt sokkal könnyebb kezelni.	comparativ	0	0
+România este o țară frumoasă.	Románia egy gyönyörű ország.	românia	0	0
+Dicționarul ăsta nu are copertă.	Ennek a szótárnak nincs borítója.	copertă	0	0
+Tom știe că Mary nu cunoaște răspunsul.	Tom tudja, hogy Mary nem tudja a választ.	cunoaște	0	0
+Tom are o experienţă bogata în lucru cu computatoarele.	Tominak nagy tapasztalata van a számítógépes munkában.	bogata	0	0
+Tehnica de tăiere nu doar formează pomul, ci poate crește și producția dacă este realizată corect.	A metszés technikája nemcsak a fa formáját alakítja, hanem a terméshozamot is növelheti, ha megfelelően végzik el.	pomul	0	0
+Sprijinit de brațul fotoliului confortabil, am citit cartea mea preferată.	A kényelmes fotel karfájára támaszkodva olvastam a kedvenc könyvemet.	brațul	0	0
+Aceasta e o gâscă?	Ez liba?	gâscă	0	0
+Pe coasta dealului se aliniază pomi fructiferi și viță de vie.	A domboldalon gyümölcsfák és szőlőtőkék sorakoznak.	dealului	0	0
+Zarurile au fost aruncate.	A kocka el van vetve.	zarurile	0	0
+Căutați muncă?	Munkát keres?	căutați	0	0
+Mă scuzați că vă deranjez.	Elnézést, hogy zavarom.	scuzați	0	0
+Nu-mi place gustul alcoolului.	Nem szeretem az alkohol ízét.	alcoolului	0	0
+Te admir pentru reacția ta la provocări.	Csodálom, ahogy a kihívásokra reagálsz.	provocări	0	0
+Coca-Cola conține cafeină?	A Coca-Cola tartalmaz koffeint?	coca-cola	0	0
+Carnea e roșie.	A hús piros.	roșie	0	0
+Mi-a dat zece sute de yeni.	Adott nekem tízezer jent.	yeni	0	0
+Tehnica de tăiere nu doar formează pomul, ci poate crește și producția dacă este realizată corect.	A metszés technikája nemcsak a fa formáját alakítja, hanem a terméshozamot is növelheti, ha megfelelően végzik el.	crește	0	0
+Nu am primit niciun ajutor pentru a finaliza sarcina.	Semmilyen segítséget nem kaptam a feladat elvégzéséhez.	finaliza	0	0
+Câinii latră, carvana trece.	A kutya ugat, a karaván halad.	latră	0	0
+Tehnica de tăiere nu doar formează pomul, ci poate crește și producția dacă este realizată corect.	A metszés technikája nemcsak a fa formáját alakítja, hanem a terméshozamot is növelheti, ha megfelelően végzik el.	tăiere	0	0
+A scris ceva în caietul ei.	Beírt valamit a füzetébe.	caietul	0	0
+Nu am fost în Franța, nici în Belgia.	Nem jártam Franciaországban, sem Belgiumban.	franța	0	0
+E un preparat tipic unguresc.	Ez egy tipikus magyar fogás.	preparat	0	0
+Nu vorbesc japoneza.	Nem beszélek japánul.	japoneza	0	0
+Crede în visele tale, oricât de imposibile ar părea.	Higgy az álmaidban, akármennyire lehetetlennek tűnnek.	imposibile	0	0
+Nu l-a plăcut asta când s-a mutat în acest oraș, dar între timp s-a obișnuit.	Nem tetszett neki ez ebben a városban, amikor ideköltözött, de időközben hozzászokott.	obișnuit	0	0
+Câinele este deștept.	A kutya okos.	deștept	0	0
+Trăiesc în Ucraina.	Ukrajnában élnek.	ucraina	0	0
+Copiii ascultă cu plăcere aceeași povești din nou și din nou.	A gyerekek szívesen hallgatják meg ugyanazt a történetet újra és újra.	povești	0	0
+Eu sunt vegetariană.	Vegetáriánus vagyok.	vegetariană	0	0
+Astăzi am cumpărat o duzină de creioane.	Vettem ma tizenkét ceruzát.	creioane	0	0
+Sistemul indică faptul că nu am permisiunea necesară pentru a șterge folderul.	A rendszer jelzi, hogy nincs meg a szükséges jogosultságom a mappa törléséhez.	șterge	0	0
+Rosa e portugheză, dar locuiește în Franța.	Rosa portugál, de Franciaországban lakik.	locuiește	0	0
+Ferească Domnul!	Isten ments!	ferească	0	0
+Unde e stația de autobuz?	Hol van a buszmegálló?	stația	0	0
+Nu-mi deranja cercurile!	Ne zavard köreimet!	cercurile	0	0
+Este preocupată de sănătatea ei.	Aggódik az egészsége miatt.	preocupată	0	0
+Articolul exprimă opinia personală a autorului.	A cikk az írója véleményét tükrözi.	exprimă	0	0
+Această nava se duce la Vancouver.	Ez a hajó Vancouverbe megy.	vancouver	0	0
+Care este diferența dintre Judo și Ju-jitsu?	Mi a különbség a dzsúdó és a dzsiudzsicu között?	diferența	0	0
+Continuă să-l cauți pe Tom.	Keresd tovább Tomot.	cauți	0	0
+Sunt Gregor.	Gregor vagyok.	gregor	0	0
+Studentul acesta este american.	Ez a hallgató amerikai.	studentul	0	0
+Trebuie să schimb trenul la următoarea stație pentru a prinde corespondența spre București.	Át kell szállnom a következő állomáson, hogy elérjem a csatlakozást Bukarest felé.	stație	0	0
+În timpul tăierii de primăvară, grădinarul a tăiat cu grijă ramurile moarte pentru ca pomul să crească noi lăstari și să fie mai sănătos.	A tavaszi metszés során a kertész gondosan levágta az elhalt ágakat, hogy a fa új hajtásokat növesszen, és egészségesebb legyen.	grădinarul	0	0
+Urăsc chimia.	Gyűlölöm a kémiát.	chimia	0	0
+Scuze, dar nu pot să te urmez; gândurile tale sunt destul de tulburi.	Bocs, de nem tudlak követni; elég zavarosak a gondolataid.	tulburi	0	0
+Mă deranjează gălăgia.	Zavar a zaj.	gălăgia	0	0
+Aladdin a găsit o lampă fermecată.	Aladdin talált egy csodalámpát.	fermecată	0	0
+Mi-e totuna, numai cu orez nu.	Mindegy, csak rizzsel nem.	totuna	0	0
+E mai ușor să pescuiești în apă tulbure.	Zavaros vízben könnyebb halászni.	tulbure	0	0
+Te rog, curăță cartofii.	Kérlek, hámozd meg a burgonyát.	curăță	0	0
+Substitutul a făcut o treabă excelentă în locul colegului său bolnav.	A helyettes kiváló munkát végzett a beteg kollégája helyett.	colegului	0	0
+Unde există voință, există soluție.	Ahol akarat van, ott út is van.	soluție	0	0
+Este adevărat că bărbații au pielea mai grasă decât femeile?	Igaz-e, hogy a férfiak bőre zsírosabb, mint a nőké?	bărbații	0	0
+Luarea florilor este interzisă.	Tilos leszedni a virágokat.	florilor	0	0
+Călătoria lor a fost amânată din cauza ploii.	Az utazásuk el lett napolva az eső miatt.	ploii	0	0
+Ea vorbeşte fluent engleza.	Folyékonyan beszéli az angolt.	fluent	0	0
+Într-un permis de conducere românesc se găsește de obicei un singur talon.	Egy román jogosítványban általában egy betétlap található.	găsește	0	0
+Ai închis ușile?	Bezártad az ajtókat?	ușile	0	0
+Este foarte înțelept.	Ő nagyon bölcs.	înțelept	0	0
+Nu slăbi brusc, ci treptat, căci este rău pentru sănătate.	Ne fogyj hirtelen, hanem fokozatosan, mert az rossz az egészségnek.	slăbi	0	0
+Am actualizat software-ul la cea mai nouă versiune.	A szoftvert a legújabb verzióra frissítettem.	software-ul	0	0
+Ridică-te și te prezintă-te, te rog.	Állj fel és mutatkozz be, légy szíves!	prezintă-te	0	0
+Mai înfloresc în vale florile din grădini.	Még nyílnak a völgyben a kerti virágok...	grădini	0	0
+Când pisica nu-i acasă, joacă şoarecii pe masă.	Ha nincs otthon a macska, cincognak az egerek.	şoarecii	0	0
+Azi a fost ceremonia de încheiere a anului școlar 2008.	Ma volt a 2008-as évzáró ünnepség.	încheiere	0	0
+Câți oameni tineri cunoști care dețin la fel de multe mașini ca Tom?	Hány olyan fiatalt ismersz, akik annyi autóval rendelkeznek, mint Tom?	dețin	0	0
+Ești somnoros, dragule?	Álmos vagy, drágám?	somnoros	0	0
+Când m-am trezit, m-am întristat.	Amikor felébredtem, elszomorodtam.	întristat	0	0
+Tom nu este pianist.	Tom nem zongorista.	pianist	0	0
+Mai înfloresc în vale florile din grădini.	Még nyílnak a völgyben a kerti virágok...	înfloresc	0	0
+Abia îmi terminasem treaba când cineva a sunat la ușă.	Alighogy végeztem a dolgommal, valaki csöngetett az ajtón.	terminasem	0	0
+Sunt mulțumit.	Elégedett vagyok.	mulțumit	0	0
+Călătoria lor a fost amânată din cauza ploii.	Az utazásuk el lett napolva az eső miatt.	amânată	0	0
+El are trei frați.	Három fiútestvére van.	frați	0	0
+Instalatorul a făcut o treabă de mântuială.	A szerelő hevenyészett munkát végzett.	instalatorul	0	0
+A moștenit trăsăturile mamei sale.	Az anyja vonásait örökölte.	trăsăturile	0	0
+Vorbiți spaniola?	Beszéltek spanyolul?	vorbiți	0	0
+Pe coasta dealului se aliniază pomi fructiferi și viță de vie.	A domboldalon gyümölcsfák és szőlőtőkék sorakoznak.	pomi	0	0
+Capitala Serbiei este Belgrad.	Szerbia fővárosa Belgrád.	belgrad	0	0
+Zece puști rusești și o pușcă turcească au fost găsite în podul casei.	Tíz orosz és egy török puskát találtak a ház padlásán.	pușcă	0	0
+Acum un an am cumpărat o rochie cu cordon lat.	Egy évvel ezelőt vettem egy ruhát, széles övvel.	cordon	0	0
+Eu sunt cel care plătește.	Én vagyok az, aki fizet.	plătește	0	0
+Femeia aia mă sperie, întotdeauna țipă și vorbește cu ea însăși.	Megrémít az a nő, folyton visít és magában beszél.	însăși	0	0
+Cred că am stricat-o.	Azt hiszem, tönkretettem.	stricat-o	0	0
+Acțiunile guvernului au fost condamnate la nivel mondial.	A kormány intézkedéseit világszinten elítélték.	acțiunile	0	0
+El flirtează cu alte fete de pe Facebook.	Más lányokkal flörtöl a Facebookon.	flirtează	0	0
+Tom a spus că dorește să studieze în străinătate.	Tom azt mondta, hogy külföldön szeretne tanulni.	dorește	0	0
+Tom a curățat cartofii.	Tom meghámozta a burgonyát.	curățat	0	0
+Atomii nu pot fi văzuți cu ochiul liber.	Az atomok szabad szemmel nem láthatóak.	atomii	0	0
+Redistribuirea averii este un subiect controversat.	A vagyon újraosztása megosztó téma.	averii	0	0
+Sami a făcut o descoperire groaznică.	Sami egy szörnyű felfedezést tett.	sami	0	0
+Intrați.	Jöjjön be!	intrați	0	0
+Restaurarea este o muncă îndelungată și minuțioasă.	A restaurálás hosszadalmas és aprólékos munka.	îndelungată	0	0
+Ne conferă un avantaj.	Előnyhöz juttat minket.	conferă	0	0
+Nu mă voi sătura niciodată să-ți mulțumesc.	Soha nem fáradok bele, hogy köszönetet mondjak neked.	sătura	0	0
+Îmi pare rău că nu am răspuns mai devreme scrisorii tale.	Bocsánat, hogy nem válaszoltam korábban a leveledre.	scrisorii	0	0
+Iarna în Romania ninge mult.	Romániában sokat havazik télen.	romania	0	0
+În timpul tăierii de primăvară, grădinarul a tăiat cu grijă ramurile moarte pentru ca pomul să crească noi lăstari și să fie mai sănătos.	A tavaszi metszés során a kertész gondosan levágta az elhalt ágakat, hogy a fa új hajtásokat növesszen, és egészségesebb legyen.	ramurile	0	0
+Rosa e portugheză, dar locuiește în Franța.	Rosa portugál, de Franciaországban lakik.	portugheză	0	0
+Crocodilii nu mănâncă niciodată ciocolată.	A krokodilok sosem esznek csokoládét.	crocodilii	0	0
+Este doar vorbărie, nu-l lua în serios!	Ez csak szövegelés, ne vedd komolyan!	vorbărie	0	0
+El este un oaspete nedorit.	Ő egy nem szívesen látott vendég.	nedorit	0	0
+Leii sunt în cușcă.	Az oroszlánok a ketrecben vannak.	cușcă	0	0
+Vorbește mai rar ca să te înțelegem.	Beszélj lassabban, hogy megértsünk.	înțelegem	0	0
+Casa se află pe vârful dealului, de unde se deschide o priveliște frumoasă asupra văii.	A ház a dombtetőn áll, ahonnan gyönyörű kilátás nyílik a völgyre.	văii	0	0
+De-abia am sosit. Nici măcar nu mi-am despachetat bagajele.	Most érkeztem meg. Még ki se pakoltam a csomagokat.	despachetat	0	0
+Redistribuirea averii este un subiect controversat.	A javak újraosztása megosztó téma.	controversat	0	0
+Aș vrea să simt gustul buzelor tale.	Érezni szeretném az ajkaid ízét.	buzelor	0	0
+A răpus dușmanul într-o luptă.	Legyőzte az ellenséget egy csatában.	răpus	0	0
+Croitorul meu este bogat.	A szabóm gazdag.	croitorul	0	0
+Vorbesc araba.	Beszélek arabul.	araba	0	0
+Abia ne ajunge timp să mâncăm dejunul.	Alig jutott idő arra, hogy megreggelizzünk.	dejunul	0	0
+Femeia aia mă sperie, întotdeauna țipă și vorbește cu ea însăși.	Megrémít az a nő, folyton visít és magában beszél.	țipă	0	0
+Curăță cartofii și morcovii.	Pucolja a burgonyát és a sárgarépát.	morcovii	0	0
+Aladdin a găsit o lampă fermecată.	Aladdin talált egy bűvös lámpát.	aladdin	0	0
+Crezi în existența fantomelor?	Hiszel a szellemek létezésében?	fantomelor	0	0
+Pe coasta dealului se aliniază pomi fructiferi și viță de vie.	A domboldalon gyümölcsfák és szőlőtőkék sorakoznak.	aliniază	0	0
+A fost primul om care a escaladat M. Fuji iarna.	Ő volt az első ember, aki megmászta a Fudzsit télen.	escaladat	0	0
+Restaurarea este o muncă îndelungată și minuțioasă.	A restaurálás hosszadalmas és aprólékos munka.	restaurarea	0	0
+Beduinii trăiesc în deșert.	A beduinok a sivatagban élnek.	deșert	0	0
+Sunteți ascultători în fiecare zi.	Minden nap engedelmesek vagytok.	ascultători	0	0
+Am actualizat software-ul la cea mai nouă versiune.	A szoftvert a legújabb verzióra frissítettem.	actualizat	0	0
+Articolul exprimă opinia personală a autorului.	A cikk az írója véleményét tükrözi.	autorului	0	0
+Instalatorul a făcut o treabă de mântuială.	A szerelő hevenyészett munkát végzett.	mântuială	0	0
+Într-un permis de conducere românesc se găsește de obicei un singur talon.	Egy román jogosítványban általában egy betétlap található.	talon	0	0
+Există vreo lege despre traversarea printr-un loc nepermis?	Van valamilyen törvény a szabálytalan átkelésről?	traversarea	0	0
+Care este diferența dintre Judo și Ju-jitsu?	Mi a különbség a dzsúdó és a dzsiudzsicu között?	judo	0	0
+Am mulți clienți.	Sok ügyfelem van.	clienți	0	0
+Avionul nostru a făcut o escală la Londra înainte de a continua spre destinația finală.	A repülőgépünk leszállt Londonban, mielőtt folytatta volna útját a végső célállomás felé.	escală	0	0
+Coca-Cola conține cafeină?	A Coca-Cola tartalmaz koffeint?	conține	0	0
+A răpus dușmanul într-o luptă.	Legyőzte az ellenséget egy csatában.	dușmanul	0	0
+Cred că gramatica maghiară este dificilă.	Szerintem a magyar nyelvtan nehéz.	gramatica	0	0
+Sunt multe orașe mari în Brazilia.	Braziliában sok nagyváros van.	orașe	0	0
+A fost primul om care a escaladat M. Fuji iarna.	Ő volt az első ember, aki megmászta a Fudzsit télen.	fuji	0	0
+Șah mat!	Sakk-matt!	șah	0	0
+Sportivii s-au pregătit intens pentru concursul de natație.	A sportolók keményen készültek az úszóversenyre.	sportivii	0	0
+Tom și-a pregătit micul dejun încet, nu se grăbea nicăieri.	Tom ráérősen készítette el a reggelijét, nem sietett sehová.	grăbea	0	0
+În echipa noastră, avem întotdeauna un substitut pregătit pentru orice eventualitate.	A csapatunkban mindig van egy helyettes, aki készen áll bármilyen eshetőségre.	substitut	0	0
+Zece puști rusești și o pușcă turcească au fost găsite în podul casei.	Tíz orosz és egy török puskát találtak a ház padlásán.	turcească	0	0
+Reclamantul și pârâtul au mers împreună la tribunal.	A felperes és az alperes együtt mentek a bíróságra.	reclamantul	0	0
+Zece puști rusești și o pușcă turcească au fost găsite în podul casei.	Tíz orosz és egy török puskát találtak a ház padlásán.	puști	0	0
+Reclamantul și pârâtul au mers împreună la tribunal.	A felperes és az alperes együtt mentek a bíróságra.	pârâtul	0	0
+Profesorul a desemnat un substitut pentru a preda lecția în absența sa.	A tanár kijelölt egy helyettest, hogy tartsa meg az órát a távollétében.	lecția	0	0
+Coca-Cola conține cafeină?	A Coca-Cola tartalmaz koffeint?	cafeină	0	0
+A nins ieri.	Tegnap havazott.	nins	0	0
+Ea a mers să se tundă.	Elment levágatni a haját.	tundă	0	0
+Unde există voință, există soluție.	Ahol akarat van, ott út is van.	voință	0	0
+Am făcut o escală de două ore într-un mic port pitoresc pentru a ne aproviziona cu provizii.	Két órás megállót tartottunk egy festői kis kikötőben, hogy feltöltsük a készleteinket.	aproviziona	0	0
+Crezi în existența fantomelor?	Hiszel a szellemek létezésében?	existența	0	0
+A plouat neîntrerupt.	Szüntelenül esett.	neîntrerupt	0	0
+După câteva minute Maria a început să se plictisească.	Pár perc elteltével unatkozni kezdett Mari.	plictisească	0	0
+Isus nu era creștin.	Jézus nem volt keresztény.	creștin	0	0
+Am făcut o escală de două ore într-un mic port pitoresc pentru a ne aproviziona cu provizii.	Két órás megállót tartottunk egy festői kis kikötőben, hogy feltöltsük a készleteinket.	pitoresc	0	0
+De unde ați cumpărat portocalele?	Hol vettétek a narancsot?	portocalele	0	0
+Râul s-a revărsat din cauza ploilor torențiale.	A folyó kiáradt a heves esőzések miatt.	revărsat	0	0
+De-abia plecasem de acasă când a început ploaia.	Alig mentem el hazulról, amikor elkezdett esni.	plecasem	0	0
+Vorbești suedeza?	Beszélsz svédül?	suedeza	0	0
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.	Minden emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.	conștiință	0	0
+Unde locuiești?	Hol laksz?	locuiești	0	0
+Acțiunile guvernului au fost condamnate la nivel mondial.	A kormány intézkedéseit világszinten elítélték.	condamnate	0	0
+Uitați-vă numai, cât e de frumoasă femeia aceea!	Nézze csak, milyen szép az az asszony!	uitați-vă	0	0
+Încerc să aprofundez cunoștințele mele de limbă engleză.	Próbálom elmélyíteni az angoltudásomat.	cunoștințele	0	0
+Știi cine a inventat microscopul?	Tudod, ki találta fel a mikroszkópot?	microscopul	0	0

@@ -1,0 +1,334 @@
+Δεν ξέρω τι πρέπει να κάνω.	Nie wiem, co powinienem zrobić.	να	0	0
+Σας αρέσει αυτό το χρώμα;	Podoba się panu ten kolor?	το	0	0
+Δεν μιλώ ισπανικά.	Nie mówię po hiszpańsku.	δεν	0	0
+Η λίμνη είναι πολύ βαθιά.	Jezioro jest bardzo głębokie.	είναι	0	0
+Δεν μπορώ να προβλέψω τι θα συμβεί.	Nie mogę przewidzieć, co się stanie.	θα	0	0
+Δεν έχει καμία διαφορά όποιο και να διαλέξεις.	Nie będzie miało znaczenia, który wybierzesz.	και	0	0
+Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	Stanęłam twarzą w twarz z moim byłym mężem.	μου	0	0
+Με λένε Φαρσάντ.	Nazywam się Farshad.	με	0	0
+Σε ευχαριστώ για όλα.	Dzięki za wszystko.	για	0	0
+Η Τουρκία ήταν ισχυρότερη απ' την Ελλάδα.	Turcja była silniejsza od Grecji.	την	0	0
+Ήρθα! Ο; Έχουμε καλεσμένο;	Wróciłem! O! Mamy gości?	ο	0	0
+Είναι η σειρά μου να πληρώσω;	To moja kolej płacenia?	η	0	0
+Συνάντησα τον πατέρα σου χθες.	Wczoraj spotkałem twojego ojca.	τον	0	0
+Όλα τα ανθρώπινα όντα είναι θνητά.	Wszyscy ludzie są śmiertelni.	τα	0	0
+Χαίρομαι που σας βλέπω.	Cieszę się, że was widzę.	που	0	0
+Γεια σου.	Serwus!	σου	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Papier, chiński wynalazek mający około dwóch tysięcy lat, pozostawił niezatarty ślad we wszystkich kulturach.	σε	0	0
+Αυτό το λεξικό είναι ενημερωμένο.	Ten słownik jest aktualny.	αυτό	0	0
+Τι ώρα θα έρθει το τέλος του κόσμου;	O której godzinie nadejdzie koniec świata?	του	0	0
+Τι ώρα θα έρθει το τέλος του κόσμου;	O której godzinie nadejdzie koniec świata?	τι	0	0
+πιστεύω ότι εκείνο είναι ένα μεγάλο λάθος.	Myślę, że to duży błąd.	ότι	0	0
+Τέλος πάντων, από που είσαι;	Na marginesie, skąd jesteś?	από	0	0
+Τους αρέσει να παίζουν στο χιόνι.	Lubią się bawić w śniegu.	στο	0	0
+Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	Nauczanie to najlepszy sposób na naukę.	της	0	0
+Γιατί όχι;	Czemu nie?	όχι	0	0
+Ναι.	Tak.	ναι	0	0
+Θέλω ένα καλύτερο αυτού.	Chcę lepszego niż ten.	ένα	0	0
+Είναι τη τρίτη μεγαλύτερη πόλη της Σερβίας.	To trzecie co do wielkości miasto Serbii.	τη	0	0
+Η ελευθερία είναι άχρηστη αν δεν την ασκείτε.	Wolność jest bezużyteczna jeśli się jej nie używa.	αν	0	0
+Ο Τομ είναι ξανά εδώ.	Tom znów jest tu.	εδώ	0	0
+Έχω μια ερώτηση.	Mam pytanie.	μια	0	0
+Χαίρομαι που σας βλέπω.	Cieszę się, że was widzę.	σας	0	0
+Τους αρέσει να παίζουν στο χιόνι.	Lubią się bawić w śniegu.	τους	0	0
+Η Τουρκία ήταν ισχυρότερη απ' την Ελλάδα.	Turcja była silniejsza od Grecji.	ήταν	0	0
+Ένα συν δύο μας κάνει τρία.	Jeden plus dwa to trzy.	μας	0	0
+Δεν ξέρω τι πρέπει να κάνω.	Nie wiem, co powinienem zrobić.	πρέπει	0	0
+Τέλος πάντων, από που είσαι;	Na marginesie, skąd jesteś?	είσαι	0	0
+Είμαι Γάλλος.	Jestem Francuzem.	είμαι	0	0
+Οι γονείς μου δεν με καταλαβαίνουν.	Moi rodzice nie rozumieją mnie.	οι	0	0
+Μένω στην πόλη.	Mieszkam w mieście.	στην	0	0
+Η λίμνη είναι πολύ βαθιά.	Jezioro jest bardzo głębokie.	πολύ	0	0
+Γιατί όχι;	Czemu nie?	γιατί	0	0
+Εγώ μόλις ήρθα στο σπίτι.	Właśnie wróciłem do domu.	εγώ	0	0
+Το μέγεθος δεν έχει σημασία.	Rozmiar nie ma znaczenia.	έχει	0	0
+Δεν ξέρω.	Nie wiem.	ξέρω	0	0
+Έχω τύψεις που του αρνήθηκα τη βοήθειά μου.	Mam wyrzuty sumienia, bo odmówiłe/am mu pomocy.	έχω	0	0
+Δύο καρπούζια κάτω από μια μασχάλη δε χωράνε.	Nie można się rozdwoić.	δε	0	0
+Πόσο βαθιά είναι αυτή η λίμνη;	Jak głębokie jest to jezioro?	αυτή	0	0
+Θέλω ένα καλύτερο αυτού.	Chcę lepszego niż ten.	θέλω	0	0
+Αυτό είναι το σπίτι που έμενα όταν ήμουνα παιδί.	To jest dom, w którym mieszkałem gdy byłem dzieckiem.	όταν	0	0
+Πίστευε στον εαυτό σου.	Uwierz w siebie.	στον	0	0
+Ο εχθρός ήρθε στη χώρα μας.	Nieprzyjaciel przyszedł do naszego kraju.	στη	0	0
+Δεν μπορώ να προβλέψω τι θα συμβεί.	Nie mogę przewidzieć, co się stanie.	μπορώ	0	0
+Ξέρεις να κάνεις ζογκλερικά;	Czy wiesz jak żonglować?	ξέρεις	0	0
+Έχεις χαθεί;	Zgubił się pan?	έχεις	0	0
+Ξέρεις να κάνεις ζογκλερικά;	Czy wiesz jak żonglować?	κάνεις	0	0
+Τέτοιες λέξεις λένε μόνο οι τρελοί.	Tylko szaleńcy wypowiadają takie słowa.	μόνο	0	0
+Κανείς δε μένει εκεί.	Nikt tam nie mieszka.	εκεί	0	0
+Όλα τα ανθρώπινα όντα είναι θνητά.	Wszyscy ludzie są śmiertelni.	όλα	0	0
+Ευχαριστώ για το τηλεφώνημα.	Dziękuję za telefon.	ευχαριστώ	0	0
+Κρέας ή ψάρι;	Mięso czy ryba?	ή	0	0
+Πώς είναι ο καιρός εκεί;	Jaka jest tam pogoda?	πώς	0	0
+Δεν ξέρω τι πρέπει να κάνω.	Nie wiem, co powinienem zrobić.	κάνω	0	0
+Αυτός μπορεί να έρθει αύριο.	On może przyjść jutro.	μπορεί	0	0
+Ένα συν δύο μας κάνει τρία.	Jeden plus dwa to trzy.	κάνει	0	0
+Δεν υπάρχει πρόβλημα.	Nie ma problemu.	υπάρχει	0	0
+Έπαιζα συχνά τέννις όταν ήμουν ακόμα νέος.	Jak byłem młody, często grałem w tenisa.	ακόμα	0	0
+Πάμε σινεμά;	Idziemy do kina?	πάμε	0	0
+Αυτό είναι το σπίτι που έμενα όταν ήμουνα παιδί.	To jest dom, w którym mieszkałem gdy byłem dzieckiem.	σπίτι	0	0
+Αυτός έγραψε στους γονείς του.	Napisał do swoich rodziców.	αυτός	0	0
+Ήρθα! Ο; Έχουμε καλεσμένο;	Wróciłem! O! Mamy gości?	έχουμε	0	0
+Παρακαλώ, θέλω ένα εισιτήριο για τη Βαρσοβία.	Poproszę bilet do Warszawy.	παρακαλώ	0	0
+Πού είναι η τράπεζα;	Gdzie jest bank?	πού	0	0
+Ξέρω τα πάντα.	Ja wiem wszystko.	πάντα	0	0
+Γεια σου.	Serwus!	γεια	0	0
+Ποιος εφηύρε το τηλέφωνο;	Kto wynalazł telefon?	ποιος	0	0
+Λείπουν δύο σελίδες από το βιβλίο.	W książce brakuje dwóch stron.	δύο	0	0
+Πάω στην παραλία.	Idę na plażę.	πάω	0	0
+Σας είπα ήδη ότι δεν είναι εδώ.	Mówiłem ci już, że jej już tu nie ma.	είπα	0	0
+Έπαιζα συχνά τέννις όταν ήμουν ακόμα νέος.	Jak byłem młody, często grałem w tenisa.	ήμουν	0	0
+Σηκώθηκα στις πέντε το πρωί.	Wstałam o piątej rano.	στις	0	0
+Κοίτα με.	Popatrz na mnie.	κοίτα	0	0
+Τι ώρα θα έρθει το τέλος του κόσμου;	O której godzinie nadejdzie koniec świata?	ώρα	0	0
+Τι θες από μένα;	Czego chcesz ode mnie?	μένα	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Papier, chiński wynalazek mający około dwóch tysięcy lat, pozostawił niezatarty ślad we wszystkich kulturach.	χρόνια	0	0
+Θα ήθελα να σου ζητήσω μια χάρη.	Chciałbym cię poprosić o przysługę.	ήθελα	0	0
+Πες μου το όνομα του ένατου μήνα.	Powiedz mi nazwę dziewiątego miesiąca.	πες	0	0
+Καλή ερώτηση.	Dobre pytanie.	καλή	0	0
+Χωρίς λέξη!	Ani słowa!	χωρίς	0	0
+Δύο καρπούζια κάτω από μια μασχάλη δε χωράνε.	Nie można się rozdwoić.	κάτω	0	0
+Εγώ μόλις ήρθα στο σπίτι.	Właśnie wróciłem do domu.	μόλις	0	0
+Κανείς δε μένει εκεί.	Nikt tam nie mieszka.	κανείς	0	0
+Τι θες από μένα;	Czego chcesz ode mnie?	θες	0	0
+Σήμερα είναι Παρασκευή;	Czy dzisiaj jest piątek?	σήμερα	0	0
+Μου αρέσει να μελετώ ξένες γλώσσες.	Lubię uczyć się języków obcych.	αρέσει	0	0
+Πόσο βαθιά είναι αυτή η λίμνη;	Jak głębokie jest to jezioro?	πόσο	0	0
+Έκανα λάθος.	Zrobiłem błąd.	έκανα	0	0
+Έχω πολλά σχέδια για το μέλλον.	Mam wiele planów na przyszłość.	πολλά	0	0
+Κάναμε ένα τεράστιο λάθος.	Zrobiliśmy poważny błąd.	λάθος	0	0
+Δεν μπορώ να προβλέψω τι θα γίνει.	Nie mogę przewidzieć, co się stanie.	γίνει	0	0
+Δεν υπάρχει πρόβλημα.	Nie ma problemu.	πρόβλημα	0	0
+Αυτό είναι το σπίτι που έμενα όταν ήμουνα παιδί.	To jest dom, w którym mieszkałem gdy byłem dzieckiem.	παιδί	0	0
+Αυτό είναι όλο.	To wszystko.	όλο	0	0
+Χαίρομαι που σας βλέπω.	Cieszę się, że was widzę.	βλέπω	0	0
+πιστεύω ότι εκείνο είναι ένα μεγάλο λάθος.	Myślę, że to duży błąd.	πιστεύω	0	0
+Αυτός έγραψε στους γονείς του.	Napisał do swoich rodziców.	στους	0	0
+Έχω μια Βιετναμέζα φίλη. Τη λένε Τιέν.	Mam przyjaciółkę Wietnamkę. Ma na imię Tiên.	λένε	0	0
+Σας είπα ήδη ότι δεν είναι εδώ.	Mówiłem ci już, że go już tu nie ma.	ήδη	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Papier, chiński wynalazek mający około dwóch tysięcy lat, pozostawił niezatarty ślad we wszystkich kulturach.	όλους	0	0
+Ένα και δύο κάνουν τρία.	Jeden plus dwa równa się trzy.	κάνουν	0	0
+Συγνώμη, έχω χαθεί.	Przepraszam, zgubiłem się.	συγνώμη	0	0
+Πες μου το όνομα του ένατου μήνα.	Powiedz mi nazwę dziewiątego miesiąca.	όνομα	0	0
+Συνάντησα τον πατέρα σου χθες.	Wczoraj spotkałem twojego ojca.	πατέρα	0	0
+Αυτός μπορεί να έρθει αύριο.	On może przyjść jutro.	αύριο	0	0
+Νόμιζα ότι ζούσες στη Βοστώνη.	Myślałem, że mieszkasz w Bostonie.	νόμιζα	0	0
+Δεν καταλαβαίνω.	Nie rozumiem.	καταλαβαίνω	0	0
+Τι ώρα θα έρθει το τέλος του κόσμου;	O której godzinie nadejdzie koniec świata?	τέλος	0	0
+Ο Τομ είναι ξανά εδώ.	Tom znów jest tu.	ξανά	0	0
+Πότε γεννήθηκε;	Kiedy się urodziła?	πότε	0	0
+Ο εχθρός ήρθε στη χώρα μας.	Nieprzyjaciel przyszedł do naszego kraju.	ήρθε	0	0
+Πίστευε στον εαυτό σου.	Uwierz w siebie.	εαυτό	0	0
+Θα σου δείξω την πόλη.	Oprowadzę pana po mieście.	πόλη	0	0
+Δε σ' αγαπώ πια.	Już cię nie kocham.	πια	0	0
+Τι θέλετε από μένα;	Czego ode mnie chcecie?	θέλετε	0	0
+Σε χρειάζομαι.	Potrzebuję cię.	χρειάζομαι	0	0
+Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	Służba wojskowa to także obowiązek patriotyczny.	επίσης	0	0
+Αυτός μπορεί να έρθει αύριο.	On może przyjść jutro.	έρθει	0	0
+πιστεύω ότι εκείνο είναι ένα μεγάλο λάθος.	Myślę, że to duży błąd.	μεγάλο	0	0
+Σηκώθηκα στις πέντε το πρωί.	Wstałem o piątej rano.	πρωί	0	0
+Θέλω ένα καλύτερο αυτού.	Chcę lepszego niż ten.	καλύτερο	0	0
+Το φιλμ κράτησε δύο ώρες.	Film trwał 2 godziny.	ώρες	0	0
+Θα σε βοηθήσω.	Pomogę ci.	βοηθήσω	0	0
+Χαίρομαι που σας βλέπω.	Cieszę się, że was widzę.	χαίρομαι	0	0
+Μιλάς αγγλικά;	Mówisz po angielsku?	μιλάς	0	0
+Αγαπώ τους γονείς μου.	Kocham moich rodziców.	αγαπώ	0	0
+Έχεις οικογένεια;	Masz rodzinę?	οικογένεια	0	0
+Δεν έχει καμία διαφορά όποιο και να διαλέξεις.	Nie będzie miało znaczenia, który wybierzesz.	καμία	0	0
+Ποιος ανακάλυψε το τηλέφωνο;	Kto wynalazł telefon?	τηλέφωνο	0	0
+Συνάντησα τον πατέρα σου χθες.	Wczoraj spotkałem twojego ojca.	χθες	0	0
+Σηκώθηκα στις πέντε το πρωί.	Wstałem o piątej rano.	πέντε	0	0
+Ένα συν δύο ίσον τρία.	Jeden plus dwa to trzy.	τρία	0	0
+Δεν μπορώ να προβλέψω τι θα συμβεί.	Nie mogę przewidzieć, co się stanie.	συμβεί	0	0
+Είναι αργά.	Późno już.	αργά	0	0
+πιστεύω ότι εκείνο είναι ένα μεγάλο λάθος.	Myślę, że to duży błąd.	εκείνο	0	0
+Ήρθα! Ο; Έχουμε καλεσμένο;	Wróciłem! O! Mamy gości?	ήρθα	0	0
+Το μέγεθος δεν έχει σημασία.	Rozmiar nie ma znaczenia.	σημασία	0	0
+Θα ήθελα να σου ζητήσω μια χάρη.	Chciałbym cię poprosić o przysługę.	χάρη	0	0
+Αυτό δεν είναι όνομά μου.	To nie jest moje imię.	όνομά	0	0
+Με συγχωρείτε, που είναι το ταχυδρομείο;	Przepraszam, gdzie jest poczta?	συγχωρείτε	0	0
+Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	Stanęłam twarzą w twarz z moim byłym mężem.	άντρα	0	0
+Αυτός έγραψε στους γονείς του.	Napisał do swoich rodziców.	γονείς	0	0
+Τα Ιρλανδικά είναι μια όμορφη γλώσσα.	Irlandzki jest pięknym językiem.	όμορφη	0	0
+Είναι πολύ νέο.	To nówka sztuka.	νέο	0	0
+Κάναμε ένα τεράστιο λάθος.	Zrobiliśmy poważny błąd.	κάναμε	0	0
+Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	Nauczanie to najlepszy sposób na naukę.	καλύτερη	0	0
+Είναι γιατρός ο κύριος;	Czy pan jest lekarzem?	κύριος	0	0
+Ο εχθρός ήρθε στη χώρα μας.	Nieprzyjaciel przyszedł do naszego kraju.	χώρα	0	0
+Λείπουν δύο σελίδες από το βιβλίο.	W książce brakuje dwóch stron.	βιβλίο	0	0
+Ξέρεις την ταινία Avatar?	Znasz film Avatar?	ταινία	0	0
+Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	Stanęłam twarzą w twarz z moim byłym mężem.	πρόσωπο	0	0
+Καληνύχτα.	Dobranoc.	καληνύχτα	0	0
+Δε μιλάω Ιαπωνικά.	Nie mówię po japońsku.	μιλάω	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Papier, chiński wynalazek mający około dwóch tysięcy lat, pozostawił niezatarty ślad we wszystkich kulturach.	άφησε	0	0
+Καλή ερώτηση.	Dobre pytanie.	ερώτηση	0	0
+Θέλω ένα καλύτερο αυτού.	Chcę lepszego niż ten.	αυτού	0	0
+Έχω μια Βιετναμέζα φίλη. Τη λένε Τιέν.	Mam przyjaciółkę Wietnamkę. Ma na imię Tiên.	φίλη	0	0
+Είναι η σειρά μου να πληρώσω;	To moja kolej płacenia?	σειρά	0	0
+Είναι γιατρός ο κύριος;	Czy pan jest lekarzem?	γιατρός	0	0
+Χωρίς λέξη!	Ani słowa!	λέξη	0	0
+Δέκα μείον δύο ίσον οχτώ.	Dziesięć odjąć dwa daje osiem.	δέκα	0	0
+Έχω πολλά σχέδια για το μέλλον.	Mam wiele planów na przyszłość.	μέλλον	0	0
+Θα σου δείξω την πόλη.	Oprowadzę pana po mieście.	δείξω	0	0
+Έχεις λείψει τόσα χρόνια.	Tęskniłeś przez wszystkie te lata.	τόσα	0	0
+Πες μου το όνομα του ένατου μήνα.	Powiedz mi nazwę dziewiątego miesiąca.	μήνα	0	0
+Δεν τρώω συνήθως κόκκινο κρέας.	Zwykle nie jem czerwonego mięsa.	συνήθως	0	0
+Πώς είναι ο καιρός εκεί;	Jaka jest tam pogoda?	καιρός	0	0
+Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	Stanęłam twarzą w twarz z moim byłym mężem.	πρώην	0	0
+Δεν κοιμάμαι εξαιτίας σου.	Nie mogę spać przez ciebie.	εξαιτίας	0	0
+Έπαιζα συχνά τέννις όταν ήμουν ακόμα νέος.	Jak byłem młody, często grałem w tenisa.	συχνά	0	0
+Αυτό δεν μ' αφορά.	To mnie nie dotyczy.	αφορά	0	0
+Ο Τομ είναι ξανά εδώ.	Tom znów jest tu.	τομ	0	0
+Κανείς δε μένει εκεί.	Nikt tam nie mieszka.	μένει	0	0
+Τέλος πάντων, από που είσαι;	Na marginesie, skąd jesteś?	πάντων	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Papier, chiński wynalazek mający około dwóch tysięcy lat, pozostawił niezatarty ślad we wszystkich kulturach.	χιλιάδες	0	0
+Μόλις έφτασε εδώ το αεροπλάνο μας.	Nasz samolot właśnie tu przyleciał.	αεροπλάνο	0	0
+Τι ώρα θα έρθει το τέλος του κόσμου;	O której godzinie nadejdzie koniec świata?	κόσμου	0	0
+Θα ήθελα να σου ζητήσω μια χάρη.	Chciałbym cię poprosić o przysługę.	ζητήσω	0	0
+Η Ελένη είναι δεκαεφτά χρονών.	Helen ma siedemnaście lat.	χρονών	0	0
+Έπαιζα συχνά τέννις όταν ήμουν ακόμα νέος.	Jak byłem młody, często grałem w tenisa.	νέος	0	0
+Δεν έχει καμία διαφορά όποιο και να διαλέξεις.	Nie będzie miało znaczenia, który wybierzesz.	διαφορά	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Papier, chiński wynalazek mający około dwóch tysięcy lat, pozostawił niezatarty ślad we wszystkich kulturach.	ηλικία	0	0
+Τσάι χωρίς πάγο.	Herbata bez lodu.	τσάι	0	0
+Είναι τη τρίτη μεγαλύτερη πόλη της Σερβίας.	To trzecie co do wielkości miasto Serbii.	μεγαλύτερη	0	0
+Έχω πολλά σχέδια για το μέλλον.	Mam wiele planów na przyszłość.	σχέδια	0	0
+Χτες ήταν Πέμπτη.	Wczoraj był czwartek.	χτες	0	0
+Είναι εννέα και μισή.	Jest wpół do dziesiątej.	μισή	0	0
+Τα Ιρλανδικά είναι μια όμορφη γλώσσα.	Irlandzki jest pięknym językiem.	γλώσσα	0	0
+Πού είναι η τράπεζα;	Gdzie jest ten bank?	τράπεζα	0	0
+Η λίμνη είναι πολύ βαθιά.	Jezioro jest bardzo głębokie.	βαθιά	0	0
+Έχω τύψεις που του αρνήθηκα τη βοήθειά μου.	Mam wyrzuty sumienia, bo odmówiłe/am mu pomocy.	βοήθειά	0	0
+Δεν τρώω συνήθως κόκκινο κρέας.	Zwykle nie jem czerwonego mięsa.	κόκκινο	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Papier, chiński wynalazek mający około dwóch tysięcy lat, pozostawił niezatarty ślad we wszystkich kulturach.	ίχνη	0	0
+Τέτοιες λέξεις λένε μόνο οι τρελοί.	Tylko szaleńcy wypowiadają takie słowa.	λέξεις	0	0
+Τον λογαριασμό, παρακαλώ.	Poproszę rachunek.	λογαριασμό	0	0
+Μόλις έφτασε εδώ το αεροπλάνο μας.	Nasz samolot właśnie tu przyleciał.	έφτασε	0	0
+Είναι τη τρίτη μεγαλύτερη πόλη της Σερβίας.	To trzecie co do wielkości miasto Serbii.	τρίτη	0	0
+Ο Τομ μίλησε.	Tom mówił.	μίλησε	0	0
+Σας αρέσει αυτό το χρώμα;	Podoba się panu ten kolor?	χρώμα	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Papier, chiński wynalazek mający około dwóch tysięcy lat, pozostawił niezatarty ślad we wszystkich kulturach.	χαρτί	0	0
+Είναι η σειρά μου να πληρώσω;	To moja kolej płacenia?	πληρώσω	0	0
+Καληνύχτα και όνειρα γλυκά.	Dobranoc, śnij dobrze.	όνειρα	0	0
+Τέτοιες λέξεις λένε μόνο οι τρελοί.	Tylko szaleńcy wypowiadają takie słowa.	τέτοιες	0	0
+Η ελευθερία είναι άχρηστη αν δεν την ασκείτε.	Wolność jest bezużyteczna jeśli się jej nie używa.	ελευθερία	0	0
+Ευχαριστώ για το τηλεφώνημα.	Dziękuję za telefon.	τηλεφώνημα	0	0
+Μαθαίνω να παίζω τένις.	Umiem grać w tenisa.	παίζω	0	0
+Πάω στην παραλία.	Idę na plażę.	παραλία	0	0
+Μένω στην πόλη.	Mieszkam w mieście.	μένω	0	0
+Σήμερα είναι Παρασκευή;	Czy dzisiaj jest piątek?	παρασκευή	0	0
+Κρέας ή ψάρι;	Mięso czy ryba?	κρέας	0	0
+Αυτός έγραψε στους γονείς του.	Napisał do swoich rodziców.	έγραψε	0	0
+Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	Służba wojskowa to także obowiązek patriotyczny.	καθήκον	0	0
+Κάναμε ένα τεράστιο λάθος.	Zrobiliśmy poważny błąd.	τεράστιο	0	0
+Μιλάς αγγλικά;	Mówisz po angielsku?	αγγλικά	0	0
+Πόσο βαθιά είναι αυτή η λίμνη;	Jak głębokie jest to jezioro?	λίμνη	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Papier, chiński wynalazek mający około dwóch tysięcy lat, pozostawił niezatarty ślad we wszystkich kulturach.	περί	0	0
+Πίστευε στον εαυτό σου.	Uwierz w siebie.	πίστευε	0	0
+Είσαι παντρεμένος;	Jesteś żonaty?	παντρεμένος	0	0
+Κρέας ή ψάρι;	Mięso czy ryba?	ψάρι	0	0
+Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	Nauczanie to najlepszy sposób na naukę.	μορφή	0	0
+Καληνύχτα και όνειρα γλυκά.	Dobranoc, śnij dobrze.	γλυκά	0	0
+Το φιλμ κράτησε δύο ώρες.	Film trwał 2 godziny.	κράτησε	0	0
+Κάνει ζέστη σήμερα.	Gorąco dziś.	ζέστη	0	0
+Είμαι πολύ κουρασμένος.	Jestem bardzo zmęczony.	κουρασμένος	0	0
+Δεν τρώω συνήθως κόκκινο κρέας.	Zwykle nie jem czerwonego mięsa.	τρώω	0	0
+Τσάι χωρίς πάγο.	Herbata bez lodu.	πάγο	0	0
+Τους αρέσει να παίζουν στο χιόνι.	Lubią się bawić w śniegu.	παίζουν	0	0
+Χτες ήταν Πέμπτη.	Wczoraj był czwartek.	πέμπτη	0	0
+Ο εχθρός ήρθε στη χώρα μας.	Nieprzyjaciel przyszedł do naszego kraju.	εχθρός	0	0
+Το μέγεθος δεν έχει σημασία.	Rozmiar nie ma znaczenia.	μέγεθος	0	0
+Κανείς δεν με καταλαβαίνει.	Nikt mnie nie rozumie.	καταλαβαίνει	0	0
+Έχεις χαθεί;	Zgubił się pan?	χαθεί	0	0
+Ένα συν δύο μας κάνει τρία.	Jeden plus dwa równa się trzy.	συν	0	0
+Γεννήθηκε στην Αθήνα το 1956.	Urodził się w Atenach w roku 1956.	γεννήθηκε	0	0
+Είμαι πολύ κουρασμένη.	Jestem bardzo zmęczona.	κουρασμένη	0	0
+Λείπουν δύο σελίδες από το βιβλίο.	W książce brakuje dwóch stron.	λείπουν	0	0
+Είναι πλούσιος.	Jest bogaty.	πλούσιος	0	0
+Δεν διαβάζω.	Nie czytam.	διαβάζω	0	0
+Παρακαλώ, θέλω ένα εισιτήριο για τη Βαρσοβία.	Poproszę bilet do Warszawy.	εισιτήριο	0	0
+Είναι εννέα και μισή.	Jest wpół do dziesiątej.	εννέα	0	0
+Τρώνε μήλα.	Jedzą jabłka.	τρώνε	0	0
+Δεν κοιμάμαι εξαιτίας σου.	Nie mogę spać przez ciebie.	κοιμάμαι	0	0
+Συνάντησα τον πατέρα σου χθες.	Wczoraj spotkałem twojego ojca.	συνάντησα	0	0
+Δέκα μείον δύο ίσον οχτώ.	Dziesięć odjąć dwa daje osiem.	οχτώ	0	0
+Στέκομαι στη σκιά.	Stoję w cieniu.	σκιά	0	0
+Ποιος ανακάλυψε το τηλέφωνο;	Kto wynalazł telefon?	ανακάλυψε	0	0
+Πάμε σινεμά;	Idziemy do kina?	σινεμά	0	0
+Πού είναι το μουσείο;	Gdzie jest muzeum?	μουσείο	0	0
+Τους αρέσει να παίζουν στο χιόνι.	Lubią się bawić w śniegu.	χιόνι	0	0
+Τέτοιες λέξεις λένε μόνο οι τρελοί.	Tylko szaleńcy wypowiadają takie słowa.	τρελοί	0	0
+Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	Służba wojskowa to także obowiązek patriotyczny.	στρατιωτική	0	0
+Μαθαίνω να παίζω τένις.	Umiem grać w tenisa.	μαθαίνω	0	0
+Είμαι 25 χρόνων.	Mam 25 lat.	χρόνων	0	0
+Αυτό είναι το σπίτι που έμενα όταν ήμουνα παιδί.	To jest dom, w którym mieszkałem gdy byłem dzieckiem.	ήμουνα	0	0
+Δεν έχει καμία διαφορά όποιο και να διαλέξεις.	Nie będzie miało znaczenia, który wybierzesz.	διαλέξεις	0	0
+Έχεις λείψει τόσα χρόνια.	Tęskniłeś przez wszystkie te lata.	λείψει	0	0
+Οι γονείς μου δε μιλούν αγγλικά.	Moi rodzice nie mówią po angielsku.	μιλούν	0	0
+Λείπουν δύο σελίδες από το βιβλίο.	W książce brakuje dwóch stron.	σελίδες	0	0
+Δεν έχει καμία διαφορά όποιο και να διαλέξεις.	Nie będzie miało znaczenia, który wybierzesz.	όποιο	0	0
+Έπαιζα συχνά τέννις όταν ήμουν ακόμα νέος.	Jak byłem młody, często grałem w tenisa.	έπαιζα	0	0
+Δεν μιλώ ισπανικά.	Nie mówię po hiszpańsku.	μιλώ	0	0
+Όλα τα ανθρώπινα όντα είναι θνητά.	Wszyscy ludzie są śmiertelni.	ανθρώπινα	0	0
+Αυτό είναι το σπίτι που έμενα όταν ήμουνα παιδί.	To jest dom, w którym mieszkałem gdy byłem dzieckiem.	έμενα	0	0
+Το φιλμ κράτησε δύο ώρες.	Film trwał 2 godziny.	φιλμ	0	0
+Ο υπολογιστής είναι καινούργιος.	Ten komputer jest nowy.	υπολογιστής	0	0
+Οι γονείς μου δεν με καταλαβαίνουν.	Moi rodzice nie rozumieją mnie.	καταλαβαίνουν	0	0
+Ήτανε μεθυσμένοι.	Byli pijani.	ήτανε	0	0
+Στέκομαι στη σκιά.	Stoję w cieniu.	στέκομαι	0	0
+Με συγχωρείτε, που είναι το ταχυδρομείο;	Przepraszam, gdzie jest poczta?	ταχυδρομείο	0	0
+Δεν μιλώ ισπανικά.	Nie mówię po hiszpańsku.	ισπανικά	0	0
+Έχω τύψεις που του αρνήθηκα τη βοήθειά μου.	Mam wyrzuty sumienia, bo odmówiłe/am mu pomocy.	τύψεις	0	0
+Πότε έφτασες;	Kiedy przyjechałeś?	έφτασες	0	0
+Ο υπολογιστής είναι καινούργιος.	Ten komputer jest nowy.	καινούργιος	0	0
+Όλα τα ανθρώπινα όντα είναι θνητά.	Wszyscy ludzie są śmiertelni.	όντα	0	0
+Μαθαίνω να παίζω τένις.	Umiem grać w tenisa.	τένις	0	0
+Δεν είναι φτωχή.	Ona nie jest biedna.	φτωχή	0	0
+Τρώνε μήλα.	Jedzą jabłka.	μήλα	0	0
+Νόμιζα ότι ζούσες στη Βοστώνη.	Myślałem, że mieszkasz w Bostonie.	βοστώνη	0	0
+Η ελευθερία είναι άχρηστη αν δεν την ασκείτε.	Wolność jest bezużyteczna jeśli się jej nie używa.	άχρηστη	0	0
+Η ψηφοφορία είναι ένα πατριωτικό καθήκον.	Głosowanie to patriotyczny obowiązek.	ψηφοφορία	0	0
+Μου αρέσει να μελετώ ξένες γλώσσες.	Lubię uczyć się języków obcych.	γλώσσες	0	0
+Παραιτήθηκε απ' όλα τα δικαιώματά του.	Zrzekł się wszystkich swoich praw.	παραιτήθηκε	0	0
+Παραιτήθηκε απ' όλα τα δικαιώματά του.	Zrzekł się wszystkich swoich praw.	δικαιώματά	0	0
+Είμαι Γάλλος.	Jestem Francuzem.	γάλλος	0	0
+Η Τουρκία ήταν ισχυρότερη απ' την Ελλάδα.	Turcja była silniejsza od Grecji.	ελλάδα	0	0
+Μιλάς Κινέζικα;	Mówisz po chińsku?	κινέζικα	0	0
+Δέκα μείον δύο ίσον οχτώ.	Dziesięć odjąć dwa daje osiem.	μείον	0	0
+Μαθαίνουμε να διαβάζουμε και να γράφουμε.	Uczymy się czytać i pisać.	μαθαίνουμε	0	0
+Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	Służba wojskowa to także obowiązek patriotyczny.	θητεία	0	0
+Έχω τύψεις που του αρνήθηκα τη βοήθειά μου.	Mam wyrzuty sumienia, bo odmówiłe/am mu pomocy.	αρνήθηκα	0	0
+Ήρθα! Ο; Έχουμε καλεσμένο;	Wróciłem! O! Mamy gości?	καλεσμένο	0	0
+Νόμιζα ότι ζούσες στη Βοστώνη.	Myślałem, że mieszkasz w Bostonie.	ζούσες	0	0
+Σηκώθηκα στις πέντε το πρωί.	Wstałem o piątej rano.	σηκώθηκα	0	0
+Είναι χορευτής.	On jest tancerzem.	χορευτής	0	0
+Ήτανε μεθυσμένοι.	Byli pijani.	μεθυσμένοι	0	0
+Αυτό το λεξικό είναι ενημερωμένο.	Ten słownik jest aktualny.	λεξικό	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Papier, chiński wynalazek mający około dwóch tysięcy lat, pozostawił niezatarty ślad we wszystkich kulturach.	εφεύρεση	0	0
+Είμαι χορτοφάγος.	Jestem wegetarianinem.	χορτοφάγος	0	0
+Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	Nauczanie to najlepszy sposób na naukę.	διδασκαλία	0	0
+Μαθαίνουμε να διαβάζουμε και να γράφουμε.	Uczymy się czytać i pisać.	γράφουμε	0	0
+Μου αρέσει να μελετώ ξένες γλώσσες.	Lubię uczyć się języków obcych.	ξένες	0	0
+Γεννήθηκε στην Αθήνα το 1956.	Urodził się w Atenach w roku 1956.	αθήνα	0	0
+Η Τουρκία ήταν ισχυρότερη απ' την Ελλάδα.	Turcja była silniejsza od Grecji.	τουρκία	0	0
+Μαθαίνουμε να διαβάζουμε και να γράφουμε.	Uczymy się czytać i pisać.	διαβάζουμε	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Papier, chiński wynalazek mający około dwóch tysięcy lat, pozostawił niezatarty ślad we wszystkich kulturach.	πολιτισμούς	0	0
+Δύο καρπούζια κάτω από μια μασχάλη δε χωράνε.	Nie można się rozdwoić.	χωράνε	0	0
+Δε μιλάω Ιαπωνικά.	Nie mówię po japońsku.	ιαπωνικά	0	0
+Η Τουρκία ήταν ισχυρότερη απ' την Ελλάδα.	Turcja była silniejsza od Grecji.	ισχυρότερη	0	0
+Η Ελένη είναι δεκαεφτά χρονών.	Helen ma siedemnaście lat.	ελένη	0	0
+Παρακαλώ, θέλω ένα εισιτήριο για τη Βαρσοβία.	Poproszę bilet do Warszawy.	βαρσοβία	0	0
+Ποιος εφηύρε το τηλέφωνο;	Kto wynalazł telefon?	εφηύρε	0	0
+Είσαι απρόβλεπτη.	Jesteś nieprzewidywalna.	απρόβλεπτη	0	0
+Μου αρέσει να μελετώ ξένες γλώσσες.	Lubię uczyć się języków obcych.	μελετώ	0	0
+Ένα συν δύο ίσον τρία.	Jeden plus dwa to trzy.	ίσον	0	0
+Έπαιζα συχνά τέννις όταν ήμουν ακόμα νέος.	Jak byłem młody, często grałem w tenisa.	τέννις	0	0
+Είσαι απρόβλεπτος.	Jesteś nieprzewidywalny.	απρόβλεπτος	0	0
+Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	Papier, chiński wynalazek mający około dwóch tysięcy lat, pozostawił niezatarty ślad we wszystkich kulturach.	κινεζική	0	0
+Η Ελένη είναι δεκαεφτά χρονών.	Helen ma siedemnaście lat.	δεκαεφτά	0	0
+Δεν μπορώ να προβλέψω τι θα συμβεί.	Nie mogę przewidzieć, co się stanie.	προβλέψω	0	0
+Δύο καρπούζια κάτω από μια μασχάλη δε χωράνε.	Nie można się rozdwoić.	μασχάλη	0	0
+Η ψηφοφορία είναι ένα πατριωτικό καθήκον.	Głosowanie to patriotyczny obowiązek.	πατριωτικό	0	0
+Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	Nauczanie to najlepszy sposób na naukę.	μάθησης	0	0
+Ξέρεις την ταινία Avatar?	Znasz film Avatar?	avatar	0	0
+Ο Τομ ήταν βρόμικος.	Tom był brudny.	βρόμικος	0	0
+Δύο καρπούζια κάτω από μια μασχάλη δε χωράνε.	Nie można się rozdwoić.	καρπούζια	0	0

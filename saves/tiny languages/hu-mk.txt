@@ -1,0 +1,229 @@
+Ez a banán még éretlen.	Бананава сѐ уште не созреала.	a	0	0
+Mária nem a lánytestvérem.	Мери не ми е сестра.	nem	0	0
+Tom nem az esetem.	Том не е мој тип.	az	0	0
+Gondolod, hogy szexi vagyok?	Мислиш ли дека сум секси?	hogy	0	0
+És te?	А ти?	és	0	0
+Ez egy szék.	Тоа е стол.	egy	0	0
+Hétfő van.	Понеделник е.	van	0	0
+Ez az év legjobb időszaka.	Ова е најубавото време во годината.	ez	0	0
+A sorsod meg van írva.	Судбината веќе ти е одредена.	meg	0	0
+Tomnak csak egy lába van.	Том има само една нога.	csak	0	0
+Tudod, mi a hosszú élet titka?	Знаеш ли е што е тајната за долг живот?	mi	0	0
+Én nem vagyok diák.	Не сум студент.	én	0	0
+Ez volt a hibád.	Твоја грешка беше.	volt	0	0
+Te nem vagy ember.	Ти не си човек.	vagy	0	0
+Kell egy kis segítség.	Ми треба мала помош.	kell	0	0
+El tudsz számolni tízig franciául?	Знаеш ли да изброиш до десет на француски.	el	0	0
+Mennyi ideje ülünk már itt?	Колку време веќе седиме тука?	itt	0	0
+Mennyi ideje ülünk már itt?	Колку време веќе седиме тука?	már	0	0
+Még.	Повеќе.	még	0	0
+Ne várj!	Не чекај.	ne	0	0
+Te nem vagy ember.	Ти не си човек.	te	0	0
+Mit olvas Tom?	Што чита Том?	mit	0	0
+Alkoholista vagyok. Drogfüggő vagyok. Meleg vagyok. Egy géniusz vagyok.	Јас сум алкохоличар. Јас сум наркоман. Јас сум хомосексуалец. Јас сум гениј.	vagyok	0	0
+Az időjárás jó.	Времето е добро.	jó	0	0
+Nem tudom pontosan.	Не знам точно.	tudom	0	0
+Miért találták fel a pénzt?	Зошто ги измислиле парите?	miért	0	0
+A szemei olyanok, mint a zafír.	Очите му се како сафири.	mint	0	0
+A múlt héten nagyon beteg volt.	Тој беше многу болен минатата недела.	nagyon	0	0
+Nincs kutyám.	Немам куче.	nincs	0	0
+Nekem ez fontos.	Мене важно ми е.	nekem	0	0
+Le.	Надолу.	le	0	0
+Miért találták fel a pénzt?	Зошто ги измислиле парите?	fel	0	0
+Tudod, mi a hosszú élet titka?	Знаеш ли е што е тајната за долг живот?	tudod	0	0
+Mindig.	Секогаш.	mindig	0	0
+Talán segíteni kellenünk nekik.	Можеби треба да им помогнеме.	talán	0	0
+Köszönöm az ajándékot.	Фала за подарокот.	köszönöm	0	0
+Hol van a patika?	Каде е аптеката?	hol	0	0
+Kell egy kis segítség.	Ми треба мала помош.	kis	0	0
+A szerelem nem elég.	Љубовта не е доволна.	elég	0	0
+Látsz valamit?	Гледаш ли нешто?	valamit	0	0
+Milyen magas az Eiffel-torony?	Колку е висока Ајфеловата кула?	milyen	0	0
+Ma szerda van.	Денес е среда.	ma	0	0
+Tom egész nap a Bibliát olvassa.	Том ја чита Библијата цел ден.	egész	0	0
+Magyarok vagyunk.	Ние сме Унгарци.	vagyunk	0	0
+Új szomszédaink vannak.	Имаме нови соседи.	vannak	0	0
+Tom házas ember.	Том е женет човек.	ember	0	0
+Tamásnak nincs sok pénze a bankban.	Том нема многу пари во банка.	sok	0	0
+Két nőt látok.	Гледам две жени.	két	0	0
+Új szomszédaink vannak.	Имаме нови комшии.	új	0	0
+Mikroszkópot akarok.	Јас сакам микроскоп.	akarok	0	0
+Tom egész nap a Bibliát olvassa.	Том ја чита Библијата цел ден.	nap	0	0
+Nincs otthon senki.	Никој нема дома.	senki	0	0
+Szép a puncim!	Мојата вагина е прекрасна!	szép	0	0
+Várj!	Почекај.	várj	0	0
+Tudok jönni.	Можам да дојдам.	tudok	0	0
+Ez az év legjobb időszaka.	Ова е најубавото време во годината.	legjobb	0	0
+Szerinted Obama tud spanyolul?	Мислиш ли дека Обама зборува шпански?	tud	0	0
+Te vagy az egyetlen, akit szeretek.	Ти си единствениот што го љубам.	egyetlen	0	0
+Tom gyakran megy Bostonba.	Том често оди во Бостон.	megy	0	0
+Holnap nem dolgozom.	Утре не работам.	holnap	0	0
+Nem tudom pontosan.	Не знам точно.	pontosan	0	0
+Erről már sokat hallottam.	Имам слушано многу за тоа.	erről	0	0
+Az idő repül.	Времето лета.	idő	0	0
+Megint.	Повторно.	megint	0	0
+A lány ír nemzetiségű.	Девојката е Ирка.	lány	0	0
+Erről már sokat hallottam.	Имам слушано многу за тоа.	hallottam	0	0
+El tudsz számolni tízig franciául?	Знаеш ли да изброиш до десет на француски.	tudsz	0	0
+Erről már sokat hallottam.	Имам слушано многу за тоа.	sokat	0	0
+Talán segíteni kellenünk nekik.	Можеби треба да им помогнеме.	nekik	0	0
+Mennyi ideje ülünk már itt?	Колку време веќе седиме тука?	ideje	0	0
+Tom vett magának egy új szaxofontokot.	Том купи нова футрола за својот саксофон.	magának	0	0
+Tegnap halat ettem.	Вчера јадев риба.	tegnap	0	0
+Nekem ez fontos.	Мене важно ми е.	fontos	0	0
+Te vagy az egyetlen, akit szeretek.	Ти си единствениот што го љубам.	akit	0	0
+Miért találták fel a pénzt?	Зошто ги измислиле парите?	pénzt	0	0
+Állj!	Стој!	állj	0	0
+Tom nem a fiam.	Том не е мојот син.	fiam	0	0
+Szeretem a málnát.	Сакам малини.	szeretem	0	0
+Szerinted Obama tud spanyolul?	Мислиш ли дека Обама зборува шпански?	szerinted	0	0
+Ez egy régi vicc.	Тоа е стар виц.	régi	0	0
+Talán segíteni kellenünk nekik.	Можеби треба да им помогнеме.	segíteni	0	0
+Légy kreatív!	Биди креативен.	légy	0	0
+Gondolod, hogy szexi vagyok?	Мислиш ли дека сум секси?	gondolod	0	0
+Mennyi ideje ülünk már itt?	Колку време веќе седиме тука?	mennyi	0	0
+Nem beszélek japánul.	Јас не зборувам јапонски.	beszélek	0	0
+Ez az év legjobb időszaka.	Ова е најубавото време во годината.	év	0	0
+Öreg.	Стари.	öreg	0	0
+Nincs otthon senki.	Никој нема дома.	otthon	0	0
+Tudod, mi a hosszú élet titka?	Знаеш ли е што е тајната за долг живот?	élet	0	0
+Ez a könyv nem nyelvészetről szól.	Оваа книга не се работи за лингвистика.	szól	0	0
+Tudod, mi a hosszú élet titka?	Знаеш ли е што е тајната за долг живот?	hosszú	0	0
+John New Yorkban él.	Џон живее во Њујорк.	john	0	0
+John New Yorkban él.	Џон живее во Њујорк.	new	0	0
+A tenger mellett lakunk.	Живееме покрај морето.	mellett	0	0
+A múlt héten nagyon beteg volt.	Тој беше многу болен минатата недела.	beteg	0	0
+Tudok jönni.	Можам да дојдам.	jönni	0	0
+John New Yorkban él.	Џон живее во Њујорк.	él	0	0
+Csodálatos!	Прекрасно!	csodálatos	0	0
+Tomnak nincsenek barátai.	Том нема пријатели.	nincsenek	0	0
+A múlt héten nagyon beteg volt.	Тој беше многу болен минатата недела.	héten	0	0
+Kell egy kis segítség.	Ми треба мала помош.	segítség	0	0
+A múlt héten nagyon beteg volt.	Тој беше многу болен минатата недела.	múlt	0	0
+Alkoholista vagyok. Drogfüggő vagyok. Meleg vagyok. Egy géniusz vagyok.	Јас сум алкохоличар. Јас сум наркоман. Јас сум хомосексуалец. Јас сум гениј.	meleg	0	0
+Fáj a fogam.	Ме боли забот.	fáj	0	0
+Ez a sziget amerikai felségterület.	Овој остров е америчка територија.	amerikai	0	0
+Tom nem makacs.	Том не е тврдоглав.	tom	0	0
+Okos.	Умен.	okos	0	0
+A férjem orvos.	Маж ми е лекар.	orvos	0	0
+A nyelvek folyton változnak.	Јазиците постојано се менуваат.	folyton	0	0
+A szerelem nem elég.	Љубовта не е доволна.	szerelem	0	0
+Hallom, kérdezősködtél utánam.	Слушам дека си се распрашувал за мене.	hallom	0	0
+Bostonban dolgozom.	Работам во Бостон.	dolgozom	0	0
+Két nőt látok.	Гледам две жени.	nőt	0	0
+Legyél kreatív!	Биди креативен.	legyél	0	0
+Két nőt látok.	Гледам две жени.	látok	0	0
+Milyen magas az Eiffel-torony?	Колку е висока Ајфеловата кула?	magas	0	0
+Vizet iszom.	Пијам вода.	vizet	0	0
+Tom kávét iszik.	Том пие кафе.	kávét	0	0
+Nem ismersz véletlenül egy Tom Jackson nevű férfit?	Да не знаеш случајно човек по име Том Џексон?	nevű	0	0
+A férjem orvos.	Маж ми е лекар.	férjem	0	0
+Tom gyakran megy Bostonba.	Том често оди во Бостон.	gyakran	0	0
+Bolond.	Глупави.	bolond	0	0
+Te vagy az egyetlen, akit szeretek.	Ти си единствениот што го љубам.	szeretek	0	0
+Fantasztikus!	Фантастично!	fantasztikus	0	0
+Tom vett magának egy új szaxofontokot.	Том купи нова футрола за својот саксофон.	vett	0	0
+Kivel élsz?	Со кого живееш?	kivel	0	0
+Nem ismersz véletlenül egy Tom Jackson nevű férfit?	Да не знаеш случајно човек по име Том Џексон?	véletlenül	0	0
+Nem írtam a naplómba már egy hete.	Не сум пишувал во дневник веќе една недела.	hete	0	0
+Tom gazdag.	Том е богат.	gazdag	0	0
+Ez egy régi vicc.	Тоа е стар виц.	vicc	0	0
+Nincs munkám.	Немам работа.	munkám	0	0
+Nem ismersz véletlenül egy Tom Jackson nevű férfit?	Да не знаеш случајно човек по име Том Џексон?	férfit	0	0
+Látsz valamit?	Гледаш ли нешто?	látsz	0	0
+Van egy zöld ingem.	Имам зелена кошула.	zöld	0	0
+A zene a hobbim.	Музиката е моето хоби.	zene	0	0
+A szemei olyanok, mint a zafír.	Очите му се како сафири.	olyanok	0	0
+Miért alszik Tom?	Зошто спие Том?	alszik	0	0
+Nem írtam a naplómba már egy hete.	Не сум пишувал во дневник веќе една недела.	írtam	0	0
+Ez a könyv nem nyelvészetről szól.	Оваа книга не се работи за лингвистика.	könyv	0	0
+Nem ismersz véletlenül egy Tom Jackson nevű férfit?	Да не знаеш случајно човек по име Том Џексон?	ismersz	0	0
+A beduinok a sivatagban élnek.	Бедуините живеат во пустина.	élnek	0	0
+Miért találták fel a pénzt?	Зошто ги измислиле парите?	találták	0	0
+Ez volt a hibád.	Твоја грешка беше.	hibád	0	0
+Köszönöm az ajándékot.	Фала за подарокот.	ajándékot	0	0
+Gondolod, hogy szexi vagyok?	Мислиш ли дека сум секси?	szexi	0	0
+Kivel élsz?	Со кого живееш?	élsz	0	0
+A lány ír nemzetiségű.	Девојката е Ирка.	ír	0	0
+Az új koronavírus erősen fertőző.	Новиот коронавирус е високо заразен.	erősen	0	0
+Hallom, kérdezősködtél utánam.	Слушам дека си се распрашувал за мене.	utánam	0	0
+Nem ismersz véletlenül egy Tom Jackson nevű férfit?	Да не знаеш случајно човек по име Том Џексон?	jackson	0	0
+Eszem gyümölcsöt.	Јадам овошје.	eszem	0	0
+A majmokat ketrecekben tartják.	Мајмуните се чуваат во кафези.	tartják	0	0
+Tomnak nincsenek barátai.	Том нема пријатели.	barátai	0	0
+Tom házas ember.	Том е женет човек.	házas	0	0
+Tamásnak nincs sok pénze a bankban.	Том нема многу пари во банка.	pénze	0	0
+Tegnap halat ettem.	Вчера јадев риба.	ettem	0	0
+John New Yorkban él.	Џон живее во Њујорк.	yorkban	0	0
+Két gyermekem van.	Имам две деца.	gyermekem	0	0
+Vizet iszom.	Пијам вода.	iszom	0	0
+Tom még szűz	Том е се уште девственик.	szűz	0	0
+A sorsod meg van írva.	Судбината веќе ти е одредена.	írva	0	0
+A tenger mellett lakunk.	Живееме покрај морето.	tenger	0	0
+Tom kávét iszik.	Том пие кафе.	iszik	0	0
+Tomnak csak egy lába van.	Том има само една нога.	lába	0	0
+A szoftvert a legújabb verzióra frissítettem.	Го ажурирав софтверот до најновата верзија.	legújabb	0	0
+Én nem vagyok diák.	Не сум студент.	diák	0	0
+Tom kém.	Том е шпион.	kém	0	0
+Tegnap halat ettem.	Вчера јадев риба.	halat	0	0
+Ez a sziget amerikai felségterület.	Овој остров е америчка територија.	sziget	0	0
+Tom parókát visel.	Том носи перика.	visel	0	0
+Jogom van kritizálni.	Имам право да критикувам.	jogom	0	0
+Az idő repül.	Времето лета.	repül	0	0
+Tom nem makacs.	Том не е тврдоглав.	makacs	0	0
+Tomnak van samponja a szemében.	На Том му влезе малку шампон во очите.	szemében	0	0
+Tom egész nap a Bibliát olvassa.	Том ја чита Библијата цел ден.	olvassa	0	0
+A nyelvek folyton változnak.	Јазиците постојано се менуваат.	változnak	0	0
+Mária nem a lánytestvérem.	Мери не ми е сестра.	mária	0	0
+Gyakran olvasok könyveket.	Често читам книги.	könyveket	0	0
+A tej savanyú ízű.	Млеково е киселкасто.	tej	0	0
+Mennyi ideje ülünk már itt?	Колку време веќе седиме тука?	ülünk	0	0
+A szemei olyanok, mint a zafír.	Очите му се како сафири.	szemei	0	0
+Tudod, mi a hosszú élet titka?	Знаеш ли е што е тајната за долг живот?	titka	0	0
+Ez egy szék.	Тоа е стол.	szék	0	0
+Alkoholista vagyok. Drogfüggő vagyok. Meleg vagyok. Egy géniusz vagyok.	Јас сум алкохоличар. Јас сум наркоман. Јас сум хомосексуалец. Јас сум гениј.	alkoholista	0	0
+El tudsz számolni tízig franciául?	Знаеш ли да изброиш до десет на француски.	számolni	0	0
+Az időjárás jó.	Времето е добро.	időjárás	0	0
+Hétfő van.	Понеделник е.	hétfő	0	0
+Tamásnak nincs sok pénze a bankban.	Том нема многу пари во банка.	bankban	0	0
+A beduinok a sivatagban élnek.	Бедуините живеат во пустина.	sivatagban	0	0
+Gyakran olvasok könyveket.	Често читам книги.	olvasok	0	0
+Légy kreatív!	Биди креативен.	kreatív	0	0
+Tamás jó munkás.	Том е добар работник.	munkás	0	0
+Mit olvas Tom?	Што чита Том?	olvas	0	0
+El tudsz számolni tízig franciául?	Знаеш ли да изброиш до десет на француски.	franciául	0	0
+Nincs kutyám.	Немам куче.	kutyám	0	0
+Ma szerda van.	Денес е среда.	szerda	0	0
+Szerinted Obama tud spanyolul?	Мислиш ли дека Обама зборува шпански?	spanyolul	0	0
+Tom kommunista.	Том е комунист.	kommunista	0	0
+A tenger mellett lakunk.	Живееме покрај морето.	lakunk	0	0
+Az új koronavírus erősen fertőző.	Новиот коронавирус е високо заразен.	fertőző	0	0
+Tom nem az esetem.	Том не е мој тип.	esetem	0	0
+Eszem gyümölcsöt.	Јадам овошје.	gyümölcsöt	0	0
+Bostonban dolgozom.	Работам во Бостон.	bostonban	0	0
+A tej savanyú ízű.	Млеково е киселкасто.	savanyú	0	0
+Fáj a fogam.	Ме боли забот.	fogam	0	0
+Ez a banán még éretlen.	Бананава сѐ уште не созреала.	banán	0	0
+Szerinted Obama tud spanyolul?	Мислиш ли дека Обама зборува шпански?	obama	0	0
+A tej savanyú ízű.	Млеково е киселкасто.	ízű	0	0
+A sorsod meg van írva.	Судбината веќе ти е одредена.	sorsod	0	0
+Tom egész nap a Bibliát olvassa.	Том ја чита Библијата цел ден.	bibliát	0	0
+Ez a barack még éretlen.	Праскава е сѐ уште зелена.	barack	0	0
+Ez a banán még éretlen.	Бананава сѐ уште не созреала.	éretlen	0	0
+Alkoholista vagyok. Drogfüggő vagyok. Meleg vagyok. Egy géniusz vagyok.	Јас сум алкохоличар. Јас сум наркоман. Јас сум хомосексуалец. Јас сум гениј.	drogfüggő	0	0
+Fáj a torkom.	Ме боли грлото.	torkom	0	0
+Tom gyakran megy Bostonba.	Том често оди во Бостон.	bostonba	0	0
+Van egy zöld ingem.	Имам зелена кошула.	ingem	0	0
+Ez az év legjobb időszaka.	Ова е најубавото време во годината.	időszaka	0	0
+Tom parókát visel.	Том носи перика.	parókát	0	0
+Tomnak nincsenek barátai.	Том нема пријатели.	tomnak	0	0
+Nem beszélek japánul.	Јас не зборувам јапонски.	japánul	0	0
+El tudsz számolni tízig franciául?	Знаеш ли да изброиш до десет на француски.	tízig	0	0
+Tamás jó munkás.	Том е добар работник.	tamás	0	0
+A zene a hobbim.	Музиката е моето хоби.	hobbim	0	0
+Alkoholista vagyok. Drogfüggő vagyok. Meleg vagyok. Egy géniusz vagyok.	Јас сум алкохоличар. Јас сум наркоман. Јас сум хомосексуалец. Јас сум гениј.	géniusz	0	0
+A szoftvert a legújabb verzióra frissítettem.	Го ажурирав софтверот до најновата верзија.	szoftvert	0	0
+Jogom van kritizálni.	Имам право да критикувам.	kritizálni	0	0
+A majmokat ketrecekben tartják.	Мајмуните се чуваат во кафези.	majmokat	0	0
+Borecetet öntöttem a salátámra.	Си ја прелив салатата со вински оцет.	öntöttem	0	0
+Új szomszédaink vannak.	Имаме нови соседи.	szomszédaink	0	0

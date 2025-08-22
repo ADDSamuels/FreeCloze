@@ -1,0 +1,580 @@
+Jag kommer från Beijing.	Я з Пекіну.	jag	0	0
+Det är stört omöjligt.	Це ніяк не можливо.	det	0	0
+Jag är din bror.	Я - твій брат.	är	0	0
+Du har två böcker.	У тебе дві книжки.	du	0	0
+Och Gud såg att det var gott.	І побачив Бог, що це добре.	att	0	0
+Jag talar inte finska.	Я не говорю фінською.	inte	0	0
+Det stod en älg mitt på vägen.	Посеред дороги стояв лось.	en	0	0
+I begynnelsen skapade Gud himmel och jord.	На початку Бог створив Небо та землю.	och	0	0
+Du har två böcker.	У тебе дві книжки.	har	0	0
+När börjar vi?	Коли ми починаємо?	vi	0	0
+Hon kommer förhoppningsvis på festen.	Сподіваюся, вона прийде на вечірку.	på	0	0
+Han har en arbetsintervju i morgon.	У нього завтра співбесіда.	i	0	0
+Han är för gammal för er.	Він занадто старий для вас.	för	0	0
+Han kan spela såg.	Він вміє грати на пилі.	han	0	0
+Hon pratar med oss.	Вона розмовляє з нами.	med	0	0
+Han frös som en hund.	Він замерз як собака.	som	0	0
+Jag har ont om tid.	У мене мало часу.	om	0	0
+Hennes pappa var polis.	Її тато був міліціонером.	var	0	0
+Vad är ett palindrom?	Що таке паліндром?	vad	0	0
+Varför ignorerar Tom mig?	Чому Том ігнорує мене?	mig	0	0
+Är de här blommorna riktiga?	Ці квіти справжні?	här	0	0
+Jag vill gå med dig.	Я хочу піти з Вами.	dig	0	0
+Livet är så orättvist.	Життя таке несправедливе.	så	0	0
+Den finansiella situationen förvärras vecka för vecka.	Фінансова ситуація стає гірше тиждень за тижнем.	den	0	0
+Vi kan börja.	Ми можемо почати.	kan	0	0
+Får det vara en bulle till kaffet?	Можна булочку до кави?	till	0	0
+De har uppfört en stor staty på torget.	Вони встановили велику статую на площі.	de	0	0
+Är detta en hingst eller ett sto?	Це жеребець чи кобила?	ett	0	0
+Jag ska åka till Paris i höst.	Я поїду в Париж восени.	ska	0	0
+Ska ni resa utomlands i vinter?	Поїдемо за кордон зимою?	ni	0	0
+Hon gör berlocker av plexiglas.	Вона робить брелоки з оргскла.	av	0	0
+Hon slog henne i ansiktet.	Він ударив її в обличчя.	hon	0	0
+Jag vill ha ett äpple.	Я хочу яблуко.	vill	0	0
+Tom tackade ja till erbjudandet.	Том прийняв пропозицію.	ja	0	0
+Jag vet en väg.	Я знаю один шлях.	vet	0	0
+Nu förstår jag allt.	Тепер я все розумію.	nu	0	0
+Vi har bara en timme.	У нас є лише одна година.	bara	0	0
+Hej Mimi! Hur mår du?	Привіт, Мімі! Як справи?	hur	0	0
+Jag har glömt min kod!	Я забула свій код!	min	0	0
+Jag kommer från Beijing.	Я з Пекіну.	kommer	0	0
+Är det där plastblommor?	Це штучні квіти?	där	0	0
+Du måste hjälpa henne.	Ти маєш їй допомогти.	måste	0	0
+Jag ska fråga honom imorgon.	Я запитаю його завтра.	honom	0	0
+Gör inga oljud, tack.	Не шуміть, будь ласка.	gör	0	0
+Vem är Tatoeba? Din nya flickvän?	Хто така Татоеба? Твоя нова дівчина?	din	0	0
+Jag skulle dö utan dig.	Я б померла без тебе.	skulle	0	0
+När börjar vi?	Коли ми починаємо?	när	0	0
+Jag vill ha ett äpple.	Я хочу яблуко.	ha	0	0
+Du får stanna.	Можеш залишитись.	får	0	0
+I Sverige byter man julklappar på julafton.	В Швеціі на Святий вечір люди дарують один одному подарунки.	man	0	0
+Får det vara en bulle till kaffet?	Можна булочку до кави?	vara	0	0
+Ingenting kan hindra oss nu.	Тепер нам ніщо не може завадити.	oss	0	0
+Du ser ut som Harry Potter.	Ти схожий на Гаррі Поттера.	ut	0	0
+Kan jag ringa er?	Я можу вам потелефонувати?	er	0	0
+Vad har du tänkt göra?	Що ви планували робити?	göra	0	0
+Jag sade att det var okej.	Я сказала, що це окей.	okej	0	0
+Är detta en hingst eller ett sto?	Це жеребець чи кобила?	eller	0	0
+Du kommer från Sverige.	Ти з Швеції.	från	0	0
+Varför?	Чому?	varför	0	0
+Gillar du dem?	Тобі вони подобаються?	dem	0	0
+Hon har läst alla Muminböcker.	Вона прочитала всі книги про Мумі-тролів.	alla	0	0
+Han kände sig utfryst.	Я відчуваю, що мене ігнорують.	sig	0	0
+Det är säkert att anta att allt som angriparen säger är lögn.	Можна з упевненістю припустити, що все, що говорить агресор, - це брехня.	allt	0	0
+Tro inte på henne, hon ljuger alltid.	Не вір їй, вона завжди бреше.	henne	0	0
+Han brukar stiga upp klockan sex.	Він звичайно встає о шостій.	upp	0	0
+”Tack så mycket”, sa han med ett leende.	«Щиро дякую», — сказав він з посмішкою.	sa	0	0
+Ingen kommentar.	Без коментарів.	ingen	0	0
+Gör inga oljud, tack.	Не шуміть, будь ласка.	tack	0	0
+Jag orkar inte gå längre.	Я не маю сил іти далі.	gå	0	0
+Tom kysste Mary igen.	Том знову поцілував Мері.	igen	0	0
+Kan du inte se den?	Ти цього не бачиш?	se	0	0
+Hur går din dag?	Як проходить твій день?	går	0	0
+Alpfloran är mycket speciell.	Альпійська флора дуже особлива.	mycket	0	0
+Hej Mimi! Hur mår du?	Привіт, Мімі! Як справи?	hej	0	0
+Vem är Tatoeba? Din nya flickvän?	Хто така Татоеба? Твоя нова дівчина?	vem	0	0
+Ja, lite grand.	Так, трохи.	lite	0	0
+Jag behöver en sekreterare.	Мені потрібний секретар.	behöver	0	0
+Du ser ut som Harry Potter.	Ти схожий на Гаррі Поттера.	ser	0	0
+Mitt namn är Jack.	Мене звуть Джек.	mitt	0	0
+Jag dricker aldrig öl.	Я ніколи не п'ю пиво.	aldrig	0	0
+Finns det mycket snö i ditt land?	У твоїй країні багато снігу?	finns	0	0
+Den är inte färdig än.	Це ще не готове.	än	0	0
+Inget jag gjorde hjälpte.	Нічого з того, що я зробила, не допомогло.	inget	0	0
+Hans karriär rivstartar.	Його кар'єра почалася дуже стрімко.	hans	0	0
+Hon ska bli lärare.	Вона стане вчителькою.	bli	0	0
+Inget jag gjorde hjälpte.	Нічого з того, що я зробила, не допомогло.	gjorde	0	0
+Två vuxenbiljetter och tre barnbiljetter till London, tack!	Два квитка для дорослих і три дитячих квитка до Лондона, будь ласка!	två	0	0
+Vill du ha mer kakor?	Бажаєш ще печива?	mer	0	0
+Har du installerat något antivirusprogram?	Ти встановила якусь антивірусну програму?	något	0	0
+Jag är stolt över er.	Я пишаюсь вами.	över	0	0
+Hör du vad jag säger?	Ти чуєш, що я кажу?	säger	0	0
+Jag fick vad jag ville ha.	Я отримала те, що хотіла.	fick	0	0
+Finns det mycket snö i ditt land?	У твоїй країні багато снігу?	ditt	0	0
+Ge mig tusen kyssar.	Дай мені тисячу поцілунків.	ge	0	0
+Jag är också lärare.	Я теж учитель.	också	0	0
+Min hund åt min läxa.	Мій собака з'їв мою домашню роботу.	åt	0	0
+Han är nästan tjugo år.	Йому майже двадцять.	år	0	0
+Jag missade att säga att jag inte kan komma.	Я не мала можливості сказати, що не можу прийти.	säga	0	0
+Jag fick vad jag ville ha.	Я отримала те, що хотіла.	ville	0	0
+Vänta. Skjut inte än.	Зачекай. Ще не стріляй.	vänta	0	0
+Hennes pappa var polis.	Її тато був міліціонером.	pappa	0	0
+Tom har rätt.	Том має рацію.	rätt	0	0
+Vatten kokar vid hundra grader.	Вода кипить при ста градусах.	vid	0	0
+Han kan spela såg.	Він вміє грати на пилі.	såg	0	0
+Jag kommer hit varje dag.	Я приходжу сюди кожного дня.	hit	0	0
+Varför kan Tom inte komma?	Чому Том не може прийти?	komma	0	0
+Detta är en ateistisk förening.	Це атеїстична організація.	detta	0	0
+De tog av sig sina jackor.	Вони зняли куртки.	tog	0	0
+Han använder alltid en exklusiv aftershave.	Він завжди використовує ексклюзивний лосьйон після гоління.	alltid	0	0
+Jag skulle dö utan dig.	Я б померла без тебе.	utan	0	0
+Han äter en hamburgare i bilen på vägen hem.	Він їсть гамбургер у машині по дорозі додому.	hem	0	0
+Hon spelar piano varje dag.	Вона щодня грає на фортепіано.	dag	0	0
+En av dina knappar har lossnat.	Один із ґудзиків розстібнувся.	dina	0	0
+Du förstår mig.	Ти мене розумієш.	förstår	0	0
+Han lekte med sin katt.	Він грав зі своєю кішкою.	sin	0	0
+Jag har ont om tid.	У мене мало часу.	tid	0	0
+Jag gick upp klockan fem på morgonen.	Я встала о п'ятій ранку.	gick	0	0
+Min katt älskar räkor.	Мій кіт любить креветки.	älskar	0	0
+Berätta mer.	Розкажіть більше.	berätta	0	0
+Han drack tre glas vatten.	Він випив три склянки води.	tre	0	0
+Jag har fått många nya vänner.	Я знайшла багато нових друзів.	många	0	0
+Gör inga oljud, tack.	Не шуміть, будь ласка.	inga	0	0
+De loggade hennes ip-adress.	Вони записали його IP-адресу.	hennes	0	0
+Jag gillar inte fisk.	Я не люблю рибу.	gillar	0	0
+Barn tycker om sagor.	Діти люблять казки.	barn	0	0
+Du måste hjälpa henne.	Тобі необхідно допомогти їй.	hjälpa	0	0
+Det händer ingenting.	Нічого не відбувається.	händer	0	0
+Hans amorbåge är helt perfekt.	Контур його верхньої губи просто ідеальний.	helt	0	0
+Barn tycker om sagor.	Діти люблять казки.	tycker	0	0
+Hur länge ännu, Catilina, skall du missbruka vårt tålamod?	Як довго, Катиліно, будеш зловживати нашим терпінням?	länge	0	0
+Hör du vad jag säger?	Ти чуєш, що я кажу?	hör	0	0
+Vänta fem minuter, är ni snälla.	Будь ласка, зачекайте ще п'ять хвилин.	snälla	0	0
+Hon har mycket pengar.	В неї багато грошей.	pengar	0	0
+Huvudstaden i Finland heter Helsingfors.	Столиця Фінляндії називається Гельсінкі.	heter	0	0
+Håller du med?	Ти згідна?	håller	0	0
+Vilken sorts lakrits är din favorit?	Локричні цукерки якого виду твої улюблені?	vilken	0	0
+Gud är en elefant.	Бог — слон.	gud	0	0
+Hej Mimi! Hur mår du?	Привіт, Мімі! Як справи?	mår	0	0
+Har ni problem med något?	У вас з чимось проблеми?	problem	0	0
+Min vän lär sig koreanska.	Мій друг вчить корейську.	vän	0	0
+Du får stanna.	Можеш залишитись.	stanna	0	0
+Min far är engelsklärare.	Мій батько - викладач англійської.	far	0	0
+Jag vet en väg.	Я знаю один шлях.	väg	0	0
+Optimister lever längre.	Оптимісти живуть довше.	längre	0	0
+Hon pratar med oss.	Вона розмовляє з нами.	pratar	0	0
+Han är väldigt utmanande.	Він надзвичайно задирливий.	väldigt	0	0
+Han har en arbetsintervju i morgon.	У нього завтра співбесіда.	morgon	0	0
+Jag har fått många nya vänner.	Я знайшла багато нових друзів.	fått	0	0
+Ska vi äta ute på fredag?	Поїмо в п'ятницю не вдома?	ute	0	0
+Jag ska fråga honom imorgon.	Я запитаю його завтра.	fråga	0	0
+Mitt namn är Jack.	Мене звуть Джек.	namn	0	0
+Tro inte på henne, hon ljuger alltid.	Не вір їй, вона завжди бреше.	tro	0	0
+Hon spelar piano varje dag.	Вона щодня грає на фортепіано.	varje	0	0
+Det är säkert att anta att allt som angriparen säger är lögn.	Можна з упевненістю припустити, що все, що говорить агресор, - це брехня.	säkert	0	0
+Vi har helt slut på bröd.	В нас повністю закінчився хліб.	slut	0	0
+Jag döljer ingenting.	Я нічого не приховую.	ingenting	0	0
+Jag ska åka till Paris i höst.	Я поїду в Париж восени.	åka	0	0
+När börjar vi?	Коли ми починаємо?	börjar	0	0
+Det stod en älg mitt på vägen.	Посеред дороги стояв лось.	vägen	0	0
+Tom gav Mary en banan.	Том дав Мері банан.	gav	0	0
+Jag har hittat ett jobb.	Я знайшла роботу.	jobb	0	0
+De har uppfört en stor staty på torget.	Вони встановили велику статую на площі.	stor	0	0
+Jag har fått många nya vänner.	Я знайшла багато нових друзів.	vänner	0	0
+Ingen gjorde något annat.	Ніхто більше нічого не робив.	annat	0	0
+Tom investerade sina pengar i aktier.	Том вклав свої гроші в акції.	sina	0	0
+Vilket land!	Що за країна!	vilket	0	0
+Minns du dem?	Ти їх пам'ятаєш?	minns	0	0
+Det latinska verbet har sex infinitiver.	У латинського дієслова шість інфінітивів.	sex	0	0
+Hur länge ännu, Catilina, skall du missbruka vårt tålamod?	Як довго, Катиліно, будеш зловживати нашим терпінням?	vårt	0	0
+Vänta fem minuter, är ni snälla.	Будь ласка, зачекайте ще п'ять хвилин.	fem	0	0
+Livet är så orättvist.	Життя таке несправедливе.	livet	0	0
+Vem är Tatoeba? Din nya flickvän?	Хто така Татоеба? Твоя нова дівчина?	nya	0	0
+Han äter en hamburgare i bilen på vägen hem.	Він їсть гамбургер у машині по дорозі додому.	bilen	0	0
+Jag skulle dö utan dig.	Я б померла без тебе.	dö	0	0
+Vet du vad det betyder?	Ти знаєш, що це значить?	betyder	0	0
+Tänk på din framtid.	Подумай про своє майбутнє.	tänk	0	0
+Han är inte hemma ännu.	Він ще не вдома.	hemma	0	0
+Det finns mer än 4000 språk i världen.	У світі налічується більше ніж 4000 мов.	världen	0	0
+Stationen ligger nära hotellet.	Станція знаходиться біля готелю.	ligger	0	0
+Vänta fem minuter, är ni snälla.	Будь ласка, зачекайте ще п'ять хвилин.	minuter	0	0
+Jag kommer inte från en rik familj.	Я не з багатої родини.	familj	0	0
+Jag väntar på er.	Я чекаю на вас.	väntar	0	0
+Det fortsatte att snöa i fyra dagar.	Сніг йшов чотири дні.	fyra	0	0
+Du ska tala svenska.	Ви говоритимете шведською.	tala	0	0
+Män är svin.	Чоловіки — свині.	män	0	0
+Jag fick nästan en hjärtattack.	Мене трохи удар не вхопив.	nästan	0	0
+Jag var inte ensam.	Я був не один.	ensam	0	0
+Han stannade inne på hotellet.	Він залишився в готелі.	inne	0	0
+Stora pojkar gråter inte.	Великі хлопці не плачуть.	stora	0	0
+Han väntade på sin tur.	Він чекав на свою чергу.	tur	0	0
+Vi kan börja.	Ми можемо почати.	börja	0	0
+Hon spelar piano varje dag.	Вона щодня грає на фортепіано.	spelar	0	0
+Jag läste att Brasiliens president är en kvinna. Hon kallas Dilma.	Я читав, що президентом Бразилії є жінка. Її звати Ділма.	kvinna	0	0
+Var är min bil?	Де моя машина?	bil	0	0
+Kan du öppna dörren åt mig?	Можеш відкрити мені двері?	öppna	0	0
+Släpp henne!	Відпусти її!	släpp	0	0
+Dörren till huset var olåst.	Двері в будинку були відчинені.	huset	0	0
+Jag är din bror.	Я - твій брат.	bror	0	0
+Katter är rädda för hundar.	Коти бояться собак.	rädda	0	0
+Glad mors dag!	З Днем матері!	glad	0	0
+Stationen ligger nära hotellet.	Станція знаходиться біля готелю.	nära	0	0
+Alla hus i området är larmade.	У всіх будинках в районі стоїть сигналізація.	hus	0	0
+Han kände sig utfryst.	Я відчуваю, що мене ігнорують.	kände	0	0
+Jag bryr mig inte om vad Tom gör.	Мене не цікавить, що робить Том.	bryr	0	0
+Det fortsatte att snöa i fyra dagar.	Сніг йшов чотири дні.	dagar	0	0
+Jag bor på Malta.	Я живу на Мальті.	bor	0	0
+Hur länge ännu, Catilina, skall du missbruka vårt tålamod?	Як довго, Катиліно, будеш зловживати нашим терпінням?	ännu	0	0
+Klockan är halv tio.	Зараз пів на десяту.	tio	0	0
+Och Gud såg att det var gott.	І побачив Бог, що це добре.	gott	0	0
+Han kan spela såg.	Він вміє грати на пилі.	spela	0	0
+Optimister lever längre.	Оптимісти живуть довше.	lever	0	0
+Ska vi äta ute på fredag?	Поїмо в п'ятницю не вдома?	äta	0	0
+Kan jag ringa er?	Я можу вам потелефонувати?	ringa	0	0
+Vem är den rikaste mannen i Australien?	Хто найбагатіша людина Австралії?	mannen	0	0
+Han är för gammal för er.	Він занадто старий для вас.	gammal	0	0
+Dörren till huset var olåst.	Двері в будинку були відчинені.	dörren	0	0
+Jag har ett par päron.	Я маю пару груш.	par	0	0
+Klockan fyra går hon till frisören.	О четвертій вона йде в перукарню.	klockan	0	0
+Jag har hittat ett jobb.	Я знайшла роботу.	hittat	0	0
+Lätt fånget, lätt förgånget.	Легко знайшов - легко втратив.	lätt	0	0
+Jag ska försöka.	Я попробую.	försöka	0	0
+Mitt namn är Jack.	Мене звати Джек.	jack	0	0
+Skolan är privatägd.	Школа знаходиться в приватній власності.	skolan	0	0
+Ett år har tolv månader.	В році дванадцять місяців.	månader	0	0
+Ja, det stämmer.	Так, це правда.	stämmer	0	0
+Min vän lär sig koreanska.	Мій друг вчить корейську.	lär	0	0
+Jag talar inte finska.	Я не говорю фінською.	talar	0	0
+En hund har fyra ben.	У собаки чотири ноги.	ben	0	0
+Hans amorbåge är helt perfekt.	Контур його верхньої губи просто ідеальний.	perfekt	0	0
+Det är aldrig för sent för att lära.	Вчитися ніколи не пізно.	lära	0	0
+Vatten kokar vid hundra grader.	Вода кипить при ста градусах.	vatten	0	0
+Jag hatar min granne.	Я ненавиджу мого сусіда.	hatar	0	0
+Jag har ont om tid.	У мене мало часу.	ont	0	0
+Glöm inte biljetten.	Не забудьте квиток.	glöm	0	0
+Det är aldrig för sent för att lära.	Вчитися ніколи не пізно.	sent	0	0
+Jag ska fråga honom imorgon.	Я запитаю його завтра.	imorgon	0	0
+Snygg tjej!	Гарна дівчина!	tjej	0	0
+Vi bor i en vacker stad.	Ми живемо в прекрасному місті.	vacker	0	0
+Tom är en nyttig idiot.	Том — корисний ідіот.	idiot	0	0
+Kan du vara snäll och vänta en minut?	Чи не могли б ви зачекати хвилинку?	snäll	0	0
+Vad har du tänkt göra?	Що ви планували робити?	tänkt	0	0
+Hon äter frukost på hotellet halv åtta på morgonen.	Вона снідатиме у готелі пів восьмої ранку.	äter	0	0
+Den finansiella situationen förvärras vecka för vecka.	Фінансова ситуація стає гірше тиждень за тижнем.	vecka	0	0
+Följ oss i sociala medier.	Читайте нас у соцмережах.	följ	0	0
+Jag kan förklara det här.	Я можу це пояснити.	förklara	0	0
+Jag har svarta ögon.	У мене чорні очі.	ögon	0	0
+Välkommen till Japan.	Ласкаво просимо до Японії.	välkommen	0	0
+Hjärtat slår.	Серце б'ється.	slår	0	0
+Tom är en nyttig idiot.	Том — корисний ідіот.	tom	0	0
+Han använder alltid en exklusiv aftershave.	Він завжди використовує ексклюзивний лосьйон після гоління.	använder	0	0
+Har du pojk- eller flickvän? Var träffade du hen?	У вас є хлопець чи дівчина? Де ви зустрілися?	träffade	0	0
+Det stod en älg mitt på vägen.	Посеред дороги стояв лось.	stod	0	0
+Jag saknar Boston.	Я сумую за Бостоном.	saknar	0	0
+Hon slog henne i ansiktet.	Він ударив її в обличчя.	slog	0	0
+Han brukar stiga upp klockan sex.	Він звичайно встає о шостій.	brukar	0	0
+Hälsa Tom tack från mig.	Передай Томові мою подяку.	hälsa	0	0
+Jag dricker kaffe.	Я п’ю каву.	kaffe	0	0
+Hon äter frukost på hotellet halv åtta på morgonen.	Вона снідатиме у готелі пів восьмої ранку.	åtta	0	0
+Konferensen slutar klockan nio på kvällen.	Конференція закінчується о дев'ятій вечора.	slutar	0	0
+Hur länge ännu, Catilina, skall du missbruka vårt tålamod?	Як довго, Катиліно, будеш зловживати нашим терпінням?	skall	0	0
+Hennes pappa var polis.	Її тато був міліціонером.	polis	0	0
+Chai-te innehåller ofta kardemumma.	У чаї масала часто є кардамон.	ofta	0	0
+Det är en början.	Це початок.	början	0	0
+Detta är ett mycket ansträngande arbete.	Це дуже виснажлива праця.	arbete	0	0
+Ska ni resa utomlands i vinter?	Поїдемо за кордон зимою?	resa	0	0
+Finns det mycket snö i ditt land?	У твоїй країні багато снігу?	land	0	0
+Krig är helvetet.	Війна — це пекло.	krig	0	0
+Vi har bara en timme.	У нас є лише одна година.	timme	0	0
+Konferensen slutar klockan nio på kvällen.	Конференція закінчується о дев'ятій вечора.	kvällen	0	0
+Jag är ingen läkare.	Я не лікар.	läkare	0	0
+Turismen i landet blomstrade.	Туризм у країні процвітав.	landet	0	0
+Tro inte på henne, hon ljuger alltid.	Не вір їй, вона завжди бреше.	ljuger	0	0
+Tack för en trevlig diskussion!	Дякую за цікаву дискусію!	trevlig	0	0
+Tom är stark.	Том сильний.	stark	0	0
+Lös problemet.	Виріши проблему.	problemet	0	0
+Min hund åt min läxa.	Мій собака з'їв мою домашню роботу.	hund	0	0
+Jag läste att Brasiliens president är en kvinna. Hon kallas Dilma.	Я читав, що президентом Бразилії є жінка. Її звати Ділма.	kallas	0	0
+Vänta. Skjut inte än.	Зачекай. Ще не стріляй.	skjut	0	0
+Jag litar på er alla.	Я вірю вам усім.	litar	0	0
+Han arbetar inte här längre.	Він більше тут не працює.	arbetar	0	0
+Jag är stolt över er.	Я пишаюсь вами.	stolt	0	0
+Jag dricker aldrig öl.	Я ніколи не п'ю пиво.	öl	0	0
+Pojken hoppar.	Хлопець стрибає.	pojken	0	0
+Snygg tjej!	Гарна дівчина!	snygg	0	0
+Är de här blommorna riktiga?	Ці квіти справжні?	riktiga	0	0
+Konferensen slutar klockan nio på kvällen.	Конференція закінчується о дев'ятій вечора.	nio	0	0
+Inget jag gjorde hjälpte.	Нічого з того, що я зробила, не допомогло.	hjälpte	0	0
+Hon läser en bok.	Вона читає книжку.	bok	0	0
+Jag läste att Brasiliens president är en kvinna. Hon kallas Dilma.	Я читав, що президентом Бразилії є жінка. Її звати Ділма.	president	0	0
+Det är stört omöjligt.	Це ніяк не можливо.	omöjligt	0	0
+Jag har svarta ögon.	У мене чорні очі.	svarta	0	0
+Hjärtat slår.	Серце б'ється.	hjärtat	0	0
+Jag har glömt min kod!	Я забула свій код!	glömt	0	0
+Vem är Tatoeba? Din nya flickvän?	Хто така Татоеба? Твоя нова дівчина?	flickvän	0	0
+Fastighetsmäklaren ljög för paret.	Агент з нерухомості говорив парі неправду.	ljög	0	0
+Han spelade tennis.	Він грав у теніс.	spelade	0	0
+Festen slutade klockan nio.	Вечірка закінчилася о дев'ятій.	slutade	0	0
+Jag dricker kaffe.	Я п’ю каву.	dricker	0	0
+Du ser ut som Harry Potter.	Ти схожий на Гаррі Поттера.	harry	0	0
+Vi bor i en vacker stad.	Ми живемо в прекрасному місті.	stad	0	0
+Jag tog med lunch till dig.	Я принесла тобі обід.	lunch	0	0
+Alla hus i området är larmade.	У всіх будинках в районі стоїть сигналізація.	området	0	0
+Han drack tre glas vatten.	Він випив три склянки води.	glas	0	0
+Han väntade på sin tur.	Він чекав на свою чергу.	väntade	0	0
+Stora pojkar gråter inte.	Великі хлопці не плачуть.	pojkar	0	0
+Kan du vara snäll och vänta en minut?	Чи не могли б ви зачекати хвилинку?	minut	0	0
+Jag har ingenstans att gå.	Мені немає куди йти.	ingenstans	0	0
+Jag ska åka till Paris i höst.	Я поїду в Париж восени.	paris	0	0
+Hon slog henne i ansiktet.	Він ударив її в обличчя.	ansiktet	0	0
+Hon har läst alla Muminböcker.	Вона прочитала всі книги про Мумі-тролів.	läst	0	0
+Tom gav Mary en banan.	Том дав Мері банан.	mary	0	0
+Hon läser en bok.	Вона читає книжку.	läser	0	0
+Vilken sorts lakrits är din favorit?	Локричні цукерки якого виду твої улюблені?	sorts	0	0
+Jag är doktor.	Я лікар.	doktor	0	0
+Jag läste att Brasiliens president är en kvinna. Hon kallas Dilma.	Я читав, що президентом Бразилії є жінка. Її звати Ділма.	läste	0	0
+Ge mig tusen kyssar.	Дай мені тисячу поцілунків.	tusen	0	0
+Två vuxenbiljetter och tre barnbiljetter till London, tack!	Два квитка для дорослих і три дитячих квитка до Лондона, будь ласка!	london	0	0
+Festen slutade klockan nio.	Вечірка закінчилася о дев'ятій.	festen	0	0
+Det här är mitt skepp.	Це мій корабель.	skepp	0	0
+Klockan är halv tio.	Зараз пів на десяту.	halv	0	0
+Religion är ett opium för folket.	Релігія - опіум для народу.	folket	0	0
+Jag sade att det var okej.	Я сказала, що це окей.	sade	0	0
+Tänk på din framtid.	Подумайте про своє майбутнє.	framtid	0	0
+Jag behöver dig i mitt lag.	Ти потрібна в моїй команді.	lag	0	0
+Snabbare, högre, starkare.	Швидше, вище, сильніше.	högre	0	0
+Te utan is.	Чай без льоду.	te	0	0
+Jag är en hjälte.	Я герой.	hjälte	0	0
+Jag har en vit häst.	Я маю білого коня.	vit	0	0
+Hon äter frukost på hotellet halv åtta på morgonen.	Вона снідатиме у готелі пів восьмої ранку.	morgonen	0	0
+Jag ändrade meningen.	Я змінив речення.	meningen	0	0
+Jag missade att säga att jag inte kan komma.	Я не мала можливості сказати, що не можу прийти.	missade	0	0
+Han är ärlig.	Він чесний.	ärlig	0	0
+Hon äter frukost på hotellet halv åtta på morgonen.	Вона снідатиме у готелі пів восьмої ранку.	frukost	0	0
+Ett år har tolv månader.	В році дванадцять місяців.	tolv	0	0
+Ära åt Ukraina!	Слава Україні!	ära	0	0
+Krig är helvetet.	Війна — це пекло.	helvetet	0	0
+Ät lunch med mig.	Пообідай зі мною.	ät	0	0
+Tom bor på en båt.	Том живе на човні.	båt	0	0
+Vi behöver papper.	Нам потрібен папір.	papper	0	0
+Den homofobiska retoriken har avmattats med åren.	Гомофобна риторика з роками ослабла.	åren	0	0
+Min dörr är alltid öppen.	Мої двері завжди відчинені.	öppen	0	0
+Det är en adekvat översättning.	Це точний переклад.	översättning	0	0
+Alpfloran är mycket speciell.	Альпійська флора дуже особлива.	speciell	0	0
+Vatten kokar vid hundra grader.	Вода кипить при ста градусах.	hundra	0	0
+Jag är också lärare.	Я теж учитель.	lärare	0	0
+Vem springer snabbast i din klass?	Хто в твоєму класі найшвидше бігає?	springer	0	0
+Jag har en vit häst.	Я маю білого коня.	häst	0	0
+Snabbare, högre, starkare.	Швидше, вище, сильніше.	snabbare	0	0
+Jag kommer inte från en rik familj.	Я не з багатої родини.	rik	0	0
+Hon äter frukost på hotellet halv åtta på morgonen.	Вона снідатиме у готелі пів восьмої ранку.	hotellet	0	0
+Den är inte färdig än.	Це ще не готове.	färdig	0	0
+En jordbävning förstörde byggnaden.	Землетрус зруйнував будівлю.	förstörde	0	0
+Jag använder en dator.	Я користуюся комп'ютером.	dator	0	0
+Män är svin.	Чоловіки — свині.	svin	0	0
+Du har två böcker.	У тебе дві книжки.	böcker	0	0
+Den finansiella situationen förvärras vecka för vecka.	Фінансова ситуація стає гірше тиждень за тижнем.	situationen	0	0
+Han stannade inne på hotellet.	Він залишився в готелі.	stannade	0	0
+Jag är ingen soldat.	Я не солдат.	soldat	0	0
+Hans karriär rivstartar.	Його кар'єра почалася дуже стрімко.	karriär	0	0
+En jordbävning förstörde byggnaden.	Землетрус зруйнував будівлю.	byggnaden	0	0
+Stationen ligger nära hotellet.	Станція знаходиться біля готелю.	stationen	0	0
+I begynnelsen skapade Gud himmel och jord.	На початку Бог створив Небо та землю.	skapade	0	0
+Hon skrattar aldrig.	Вона ніколи не сміється.	skrattar	0	0
+Snabbare, högre, starkare.	Швидше, вище, сильніше.	starkare	0	0
+Min dörr är alltid öppen.	Мої двері завжди відчинені.	dörr	0	0
+Hajar äter fisk.	Акули їдять рибу.	fisk	0	0
+Pojken hoppar.	Хлопець стрибає.	hoppar	0	0
+Behöver vi något från affären?	Тобі щось треба з магазину?	affären	0	0
+Ingenting kan hindra oss nu.	Тепер нам ніщо не може завадити.	hindra	0	0
+Te utan is.	Чай без льоду.	is	0	0
+De närmar sig.	Вони наближаються.	närmar	0	0
+Vi åt ägg.	Ми їли яйця.	ägg	0	0
+Det är säkert att anta att allt som angriparen säger är lögn.	Можна з упевненістю припустити, що все, що говорить агресор, - це брехня.	lögn	0	0
+Vem springer snabbast i din klass?	Хто в твоєму класі найшвидше бігає?	klass	0	0
+Han drack tre glas vatten.	Він випив три склянки води.	drack	0	0
+Jag orkar inte gå längre.	Я не маю сил іти далі.	orkar	0	0
+Katter är rädda för hundar.	Коти бояться собак.	hundar	0	0
+Är det en fälla?	Це пастка?	fälla	0	0
+Stora pojkar gråter inte.	Великі хлопці не плачуть.	gråter	0	0
+Tom lekte katt och råtta med Mary.	Том грав з Мері в кішки-мишки.	katt	0	0
+Dörren är låst.	Двері замкнені.	låst	0	0
+I Sverige byter man julklappar på julafton.	В Швеціі на Святий вечір люди дарують один одному подарунки.	byter	0	0
+Ska vi äta ute på fredag?	Сходимо кудись поїсти в п'ятницю?	fredag	0	0
+Papper är vitt.	Папір білий.	vitt	0	0
+Det finns mer än 4000 språk i världen.	У світі налічується більше ніж 4000 мов.	språk	0	0
+Klockan är halv elva.	Зараз пів на одинадцяту.	elva	0	0
+Robin är Batmans vän.	Робін - друг Бетмена.	robin	0	0
+Varför lyssnade du inte på mig?	Чому ти мене не послухала?	lyssnade	0	0
+Vilken sorts lakrits är din favorit?	Локричні цукерки якого виду твої улюблені?	favorit	0	0
+Det gör ont i benet nu.	Зараз в мене болить нога.	benet	0	0
+Pfirsichbaeumchen är från Tyskland.	Пфірзіхбеумхен з Німеччини.	tyskland	0	0
+De förklarade sig oskyldiga.	Вони заявили, що вони не винні.	oskyldiga	0	0
+Vatten kokar vid hundra grader.	Вода кипить при ста градусах.	grader	0	0
+Det finns ingen lösning.	Рішення немає.	lösning	0	0
+Han är nästan tjugo år.	Йому майже двадцять.	tjugo	0	0
+Jag har glömt min kod!	Я забула свій код!	kod	0	0
+Hur länge ännu, Catilina, skall du missbruka vårt tålamod?	Як довго, Катиліно, будеш зловживати нашим терпінням?	tålamod	0	0
+Lös problemet.	Виріши проблему.	lös	0	0
+Jag ändrade meningen.	Я змінив речення.	ändrade	0	0
+Jag vill ha en förklaring.	Я хочу почути пояснення.	förklaring	0	0
+Harry är en amerikansk skådespelare.	Гарі — американський актор.	amerikansk	0	0
+Vi har helt slut på bröd.	В нас повністю закінчився хліб.	bröd	0	0
+Kyckling, tack.	Курку, будь ласка.	kyckling	0	0
+I begynnelsen skapade Gud himmel och jord.	На початку Бог створив Небо та землю.	jord	0	0
+Är giraffer farliga?	Чи жирафи небезпечні?	farliga	0	0
+Jag döljer ingenting.	Я нічого не приховую.	döljer	0	0
+Det fortsatte att snöa i fyra dagar.	Сніг йшов чотири дні.	fortsatte	0	0
+Vi är lite sena.	Ми трошки спізнилися.	sena	0	0
+”Tack så mycket”, sa han med ett leende.	«Щиро дякую», — сказав він з посмішкою.	leende	0	0
+Jag hatar min granne.	Я ненавиджу мого сусіда.	granne	0	0
+Vi har aldrig behövt det.	Нам це ніколи не було потрібно.	behövt	0	0
+Afrika är mänsklighetens vagga.	Африка є колискою людства.	afrika	0	0
+Chai-te innehåller ofta kardemumma.	У чаї масала часто є кардамон.	innehåller	0	0
+Katten jamar.	Кіт нявкає.	katten	0	0
+Glad mors dag!	З Днем матері!	mors	0	0
+Min hund åt min läxa.	Мій собака з'їв мою домашню роботу.	läxa	0	0
+Detta är en katastrof.	Це катастрофа.	katastrof	0	0
+Välkommen till Japan.	Ласкаво просимо до Японії.	japan	0	0
+Jag saknar Boston.	Я сумую за Бостоном.	boston	0	0
+Egendom är stöld.	Власність є крадіжка.	egendom	0	0
+Hon kommer förhoppningsvis på festen.	Сподіваюся, вона прийде на вечірку.	förhoppningsvis	0	0
+Tom kysste Mary igen.	Том знову поцілував Мері.	kysste	0	0
+Din analys är korrekt.	Ваш аналіз правильний.	korrekt	0	0
+Vill du ha mer kakor?	Бажаєш ще печива?	kakor	0	0
+Harry är en amerikansk skådespelare.	Гарі — американський актор.	skådespelare	0	0
+Det är säkert att anta att allt som angriparen säger är lögn.	Можна з упевненістю припустити, що все, що говорить агресор, - це брехня.	anta	0	0
+Tom gav Mary en banan.	Том дав Мері банан.	banan	0	0
+Du kommer från Sverige.	Ти з Швеції.	sverige	0	0
+Livet är så orättvist.	Життя таке несправедливе.	orättvist	0	0
+Barnaga är förbjudet i Sverige.	У Швеції заборонені тілесні покарання.	förbjudet	0	0
+Får det vara en bulle till kaffet?	Можна булочку до кави?	kaffet	0	0
+Ja, lite grand.	Так, трохи.	grand	0	0
+Isen smälter.	Лід тане.	isen	0	0
+Jag är politiker.	Я політик.	politiker	0	0
+Han brukar stiga upp klockan sex.	Він звичайно встає о шостій.	stiga	0	0
+De är allierade.	Вони союзники.	allierade	0	0
+Jag behöver en sekreterare.	Мені потрібна секретарка.	sekreterare	0	0
+Tom lekte katt och råtta med Mary.	Том грав з Мері в кішки-мишки.	lekte	0	0
+Fastighetsmäklaren ljög för paret.	Агент з нерухомості говорив парі неправду.	paret	0	0
+Hajar äter fisk.	Акули їдять рибу.	hajar	0	0
+Är Tom kristen?	Чи Том християнин?	kristen	0	0
+Vad har du i din påse?	Що у Вас у сумцi?	påse	0	0
+Finns det mycket snö i ditt land?	У твоїй країні багато снігу?	snö	0	0
+Jag fick nästan en hjärtattack.	Мене трохи удар не вхопив.	hjärtattack	0	0
+Tom lekte katt och råtta med Mary.	Том грав з Мері в кішки-мишки.	råtta	0	0
+I begynnelsen skapade Gud himmel och jord.	На початку Бог створив Небо та землю.	himmel	0	0
+Katter är rädda för hundar.	Коти бояться собак.	katter	0	0
+Tom är populär.	Том популярний.	populär	0	0
+Är de här blommorna riktiga?	Ці квіти справжні?	blommorna	0	0
+Följ oss i sociala medier.	Читайте нас у соцмережах.	sociala	0	0
+Religion är ett opium för folket.	Релігія - опіум для народу.	religion	0	0
+Ska ni resa utomlands i vinter?	Поїдемо за кордон зимою?	utomlands	0	0
+Vem är den rikaste mannen i Australien?	Хто найбагатіша людина Австралії?	australien	0	0
+De förklarade sig oskyldiga.	Вони заявили, що вони не винні.	förklarade	0	0
+Han studerar affärsjuridik.	Він вивчає економічне право.	studerar	0	0
+Jag dricker en läsk.	Я п'ю лимонад.	läsk	0	0
+Du ska tala svenska.	Ви говоритимете шведською.	svenska	0	0
+Tom tackade ja till erbjudandet.	Том прийняв пропозицію.	erbjudandet	0	0
+Det finns yoghurt i kylen.	У холодильнику є йогурт.	kylen	0	0
+Egendom är stöld.	Власність є крадіжка.	stöld	0	0
+Hon spelar piano varje dag.	Вона щодня грає на фортепіано.	piano	0	0
+Tom tackade ja till erbjudandet.	Том прийняв пропозицію.	tackade	0	0
+Ge mig en torr handduk!	Дайте мені сухий рушник!	torr	0	0
+I Sverige byter man julklappar på julafton.	В Швеціі на Святий вечір люди дарують один одному подарунки.	julafton	0	0
+Han äter en hamburgare i bilen på vägen hem.	Він їсть гамбургер у машині по дорозі додому.	hamburgare	0	0
+Ingen kommentar.	Без коментарів.	kommentar	0	0
+Jag har aldrig rökt.	Я ніколи не палила.	rökt	0	0
+Isen smälter.	Лід тане.	smälter	0	0
+Tom investerade sina pengar i aktier.	Том вклав свої гроші в акції.	aktier	0	0
+Apor gillar bananer.	Мавпи люблять банани.	apor	0	0
+Din analys är korrekt.	Ваш аналіз правильний.	analys	0	0
+Ge mig en torr handduk!	Дайте мені сухий рушник!	handduk	0	0
+Jag är arbetslös.	Я безробітний.	arbetslös	0	0
+En av dina knappar har lossnat.	Один із ґудзиків розстібнувся.	knappar	0	0
+Vatten kokar vid hundra grader.	Вода кипить при ста градусах.	kokar	0	0
+Gud är en elefant.	Бог — це слон.	elefant	0	0
+Min bror bor i Tokyo.	Мій брат живе в Токіо.	tokyo	0	0
+Ska ni resa utomlands i vinter?	Поїдемо за кордон зимою?	vinter	0	0
+Jag instämmer.	Я згідна.	instämmer	0	0
+Du ser ut som Harry Potter.	Ти схожий на Гаррі Поттера.	potter	0	0
+Vad är demokrati?	Що таке демократія?	demokrati	0	0
+Dublin ligger på Irland.	Дублін знаходиться в Ірландії.	irland	0	0
+Varför ignorerar Tom mig?	Чому Том ігнорує мене?	ignorerar	0	0
+Tom bluffar.	Том блефує.	bluffar	0	0
+De har uppfört en stor staty på torget.	Вони встановили велику статую на площі.	torget	0	0
+Barn tycker om sagor.	Діти люблять казки.	sagor	0	0
+Jag vill ha ett äpple.	Я хочу яблуко.	äpple	0	0
+Tack för en trevlig diskussion!	Дякую за цікаву дискусію!	diskussion	0	0
+Vad har du för argument?	Що в тебе за аргумент?	argument	0	0
+Glöm inte biljetten.	Не забудьте квиток.	biljetten	0	0
+Afrika är mänsklighetens vagga.	Африка є колискою людства.	mänsklighetens	0	0
+Han spelade tennis.	Він грав у теніс.	tennis	0	0
+Var ligger Mississippi?	Де знаходиться Міссісіпі?	mississippi	0	0
+Brödet är färskt.	Хліб свіжий.	brödet	0	0
+Hej Mimi! Hur mår du?	Привіт, Мімі! Як справи?	mimi	0	0
+Brödet är färskt.	Хліб свіжий.	färskt	0	0
+Det är stört omöjligt.	Це ніяк не можливо.	stört	0	0
+Riga är huvudstaden i Lettland.	Рига — столиця Латвії.	huvudstaden	0	0
+Det är min replik.	Це моя репліка.	replik	0	0
+Är du en sångare?	Ти співак?	sångare	0	0
+Han frös som en hund.	Він замерз як собака.	frös	0	0
+Ge mig tusen kyssar.	Дай мені тисячу поцілунків.	kyssar	0	0
+Jag ska åka till Paris i höst.	Я поїду в Париж восени.	höst	0	0
+Vem är den rikaste mannen i Australien?	Хто найбагатіша людина Австралії?	rikaste	0	0
+En jordbävning förstörde byggnaden.	Землетрус зруйнував будівлю.	jordbävning	0	0
+Min katt älskar räkor.	Мій кіт любить креветки.	räkor	0	0
+I Finland finns det 187 888 sjöar.	У Фінляндії 187 888 озер.	finland	0	0
+Följ oss i sociala medier.	Читайте нас у соцмережах.	medier	0	0
+Detta är en ateistisk förening.	Це атеїстична організація.	förening	0	0
+Konferensen slutar klockan nio på kvällen.	Конференція закінчується о дев'ятій вечора.	konferensen	0	0
+Apor gillar bananer.	Мавпи люблять банани.	bananer	0	0
+De har uppfört en stor staty på torget.	Вони встановили велику статую на площі.	staty	0	0
+Tom är inte vegetarian.	Том не вегетаріанець.	vegetarian	0	0
+Ska vi fika?	Влаштуємо фіку?	fika	0	0
+Dörren till huset var olåst.	Двері в будинку були відчинені.	olåst	0	0
+I Sverige byter man julklappar på julafton.	В Швеціі на Святий вечір люди дарують один одному подарунки.	julklappar	0	0
+Gör inga oljud, tack.	Не шуміть, будь ласка.	oljud	0	0
+Vem springer snabbast i din klass?	Хто в твоєму класі найшвидше бігає?	snabbast	0	0
+Det finns yoghurt i kylen.	У холодильнику є йогурт.	yoghurt	0	0
+Vad är Ungerns huvudstad?	Яка столиця Угорщини?	huvudstad	0	0
+Dublin ligger på Irland.	Дублін знаходиться в Ірландії.	dublin	0	0
+Tom är pedofil.	Том педофіл.	pedofil	0	0
+Religion är ett opium för folket.	Релігія - опіум народу.	opium	0	0
+Är detta en hingst eller ett sto?	Це жеребець чи кобила?	hingst	0	0
+Huvudstaden i Ukraina är Kiev.	Столиця України - Київ.	ukraina	0	0
+Finlands huvudstad heter Helsingfors.	Столиця Фінляндії називається Гельсінкі.	helsingfors	0	0
+Den finansiella situationen förvärras vecka för vecka.	Фінансова ситуація стає гірше тиждень за тижнем.	finansiella	0	0
+Glad påsk!	Вітаю з Великоднем!	påsk	0	0
+Han använder alltid en exklusiv aftershave.	Він завжди використовує ексклюзивний лосьйон після гоління.	exklusiv	0	0
+Han är väldigt utmanande.	Він надзвичайно задирливий.	utmanande	0	0
+Tom investerade sina pengar i aktier.	Том вклав свої гроші в акції.	investerade	0	0
+Det stod en älg mitt på vägen.	Посеред дороги стояв лось.	älg	0	0
+Klockan fyra går han till frisören.	О четвертій він іде в перукарню.	frisören	0	0
+Får det vara en bulle till kaffet?	Можна булочку до кави?	bulle	0	0
+Min vän lär sig koreanska.	Мій друг вчить корейську.	koreanska	0	0
+De har uppfört en stor staty på torget.	Вони встановили велику статую на площі.	uppfört	0	0
+Det är säkert att anta att allt som angriparen säger är lögn.	Можна з упевненістю припустити, що все, що говорить агресор, - це брехня.	angriparen	0	0
+Tom är en nyttig idiot.	Том — корисний ідіот.	nyttig	0	0
+Afrika är mänsklighetens vagga.	Африка є колискою людства.	vagga	0	0
+Har du installerat något antivirusprogram?	Ти встановила якусь антивірусну програму?	installerat	0	0
+Jag talar inte finska.	Я не говорю фінською.	finska	0	0
+I begynnelsen skapade Gud himmel och jord.	На початку Бог створив Небо та землю.	begynnelsen	0	0
+Den finansiella situationen förvärras vecka för vecka.	Фінансова ситуація стає гірше тиждень за тижнем.	förvärras	0	0
+Jag har ett par päron.	Я маю пару груш.	päron	0	0
+Huvudstaden i Ukraina är Kiev.	Столиця України - Київ.	kiev	0	0
+De tog av sig sina jackor.	Вони зняли куртки.	jackor	0	0
+Har du pojk- eller flickvän? Var träffade du hen?	У вас є хлопець чи дівчина? Де ви зустрілися?	hen	0	0
+Han är en programmerare.	Він програміст.	programmerare	0	0
+Hur länge ännu, Catilina, skall du missbruka vårt tålamod?	Як довго, Катиліно, будеш зловживати нашим терпінням?	missbruka	0	0
+Seoul är huvudstaden i Sydkorea.	Сеул — столиця Південної Кореї.	seoul	0	0
+I Finland finns det 187 888 sjöar.	У Фінляндії 187 888 озер.	sjöar	0	0
+Alla hus i området är larmade.	У всіх будинках в районі стоїть сигналізація.	larmade	0	0
+Det fortsatte att snöa i fyra dagar.	Сніг йшов чотири дні.	snöa	0	0
+Detta är ett mycket ansträngande arbete.	Це дуже виснажлива праця.	ansträngande	0	0
+Det latinska verbet har sex infinitiver.	У латинського дієслова шість інфінітивів.	latinska	0	0
+Vilken sorts lakrits är din favorit?	Локричні цукерки якого виду твої улюблені?	lakrits	0	0
+De loggade hennes ip-adress.	Вони записали його IP-адресу.	loggade	0	0
+Jag kommer från Beijing.	Я з Пекіну.	beijing	0	0
+En av dina knappar har lossnat.	Один із ґудзиків розстібнувся.	lossnat	0	0
+Det är en ordbok.	Це словник.	ordbok	0	0
+De genomsökte huset.	Вони обшукали будинок.	genomsökte	0	0
+De loggade hennes ip-adress.	Вони записали його IP-адресу.	ip-adress	0	0
+Är detta en hingst eller ett sto?	Це жеребець чи кобила?	sto	0	0
+Jag bor på Malta.	Я живу на Мальті.	malta	0	0
+Seoul är huvudstaden i Sydkorea.	Сеул — столиця Південної Кореї.	sydkorea	0	0
+Turismen i landet blomstrade.	Туризм у країні процвітав.	blomstrade	0	0
+Finlands huvudstad heter Helsingfors.	Столиця Фінляндії називається Гельсінкі.	finlands	0	0
+Är giraffer farliga?	Чи жирафи небезпечні?	giraffer	0	0
+Vill du ha påtår?	Бажаєте ще філіжаночку?	påtår	0	0
+Min far är engelsklärare.	Мій батько - викладач англійської.	engelsklärare	0	0
+Min hund jamar.	Мій собака нявчить.	jamar	0	0
+Jag läste att Brasiliens president är en kvinna. Hon kallas Dilma.	Я читав, що президентом Бразилії є жінка. Її звати Ділма.	brasiliens	0	0
+Riga är huvudstaden i Lettland.	Рига — столиця Латвії.	riga	0	0
+Lätt fånget, lätt förgånget.	Бог дав, бог і взяв.	förgånget	0	0
+Hon bor i Kyoto.	Вона живе в Кіото.	kyoto	0	0
+Riga är huvudstaden i Lettland.	Рига — столиця Латвії.	lettland	0	0
+Robin är Batmans vän.	Робін - друг Бетмена.	batmans	0	0
+Lätt fånget, lätt förgånget.	Легко знайшов - легко втратив.	fånget	0	0
+Han kände sig utfryst.	Я відчуваю, що мене ігнорують.	utfryst	0	0
+Turismen i landet blomstrade.	Туризм у країні процвітав.	turismen	0	0

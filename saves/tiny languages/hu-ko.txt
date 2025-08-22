@@ -1,0 +1,600 @@
+Az a dolog csalódást okozott.	그것은 실망스러웠다.	a	0	0
+Nem akar szembesülni a tényekkel.	손바닥으로 하늘을 가리려한다.	nem	0	0
+Ő volt az osztály legrosszabb tanulója.	그는 반에서 꼴찌였습니다.	az	0	0
+Tom el fog menni oda, hogy találkozzon veled.	톰이 너를 만나러 거기에 갈 거야.	hogy	0	0
+Tom és Mária egy nagyon kicsi lakásban élnek.	톰과 메리는 매우 작은 아파트에 살고 있어요.	és	0	0
+Menjünk egy japán étterembe!	일식집 가자.	egy	0	0
+Minden problémára van megoldás.	그 모든 문제의 해답이 있다.	van	0	0
+Úgy gondolom, hogy ez a legjobb módja.	내 생각에는 이게 가장 좋은 방법 같아.	ez	0	0
+Azonban az ellenkezője is mindig igaz.	그러나, 그 반대도 또한 항상 진실이다.	is	0	0
+Miért nem csinálhatják meg?	그들은 왜 그것을 할 수 없죠?	meg	0	0
+Csak tarsd meg!	그냥 그거 가져.	csak	0	0
+Ha az időjárás megengedi, holnap megkezdjük az utazást.	날씨가 허락한다면, 우리는 내일 여행을 시작할 것이다.	ha	0	0
+Mi majd kezelésbe vesszük.	우리가 그것을 맡겠다. (처리하겠다.)	mi	0	0
+Én hoztam meg minden döntést.	모든 결정은 제가 했습니다.	én	0	0
+Azt Tom már megcsinálta.	톰은 그것을 이미 했어.	azt	0	0
+A kompközlekedés megszűnt, mert már nem volt gazdaságos.	더 이상 경제적이지 않아서 여객선 운항을 멈췄다.	volt	0	0
+Igen vagy nem?	예 혹은 아니오?	igen	0	0
+Ma itthon maradsz, vagy mész iskolába?	오늘 집에 있겠습니까, 학교에 가겠습니까?	vagy	0	0
+Mikor belépsz, mosd tisztára a kezedet és a lábadat, és meg kell mosnod a fogadat is.	들어오면 손과 발을 깨끗이 씻고, 양치질도 해야 돼요.	kell	0	0
+Olvassa el ezt a könyvet!	이 책을 읽으세요.	el	0	0
+Tom nem tudja, miért vagyok még itt.	톰은 제가 왜 여기 있는지 아직 모릅니다.	itt	0	0
+A kompközlekedés megszűnt, mert már nem volt gazdaságos.	더 이상 경제적이지 않아서 여객선 운항을 멈췄다.	már	0	0
+Tom nem tudja, miért vagyok még itt.	톰은 제가 왜 여기 있는지 아직 모릅니다.	még	0	0
+Ne bánj velem így!	나를 그렇게 대하지 마.	ne	0	0
+Az az ember, aki mindezeket nekünk adta, éppen te vagy.	우리에게 이 모든 걸 준 사람이 바로 당신이다.	te	0	0
+A lány könnyekben tört ki, amint meghallotta a híreket.	그녀는 그 소식을 듣자마자 울음을 터뜨렸다.	ki	0	0
+Mit szólnál egy kávéhoz?	커피 한 잔 어때요?	mit	0	0
+Tomnak oda kell adnom ezt a könyvet.	톰에게 이 책을 줘야 합니다.	ezt	0	0
+Ember vagyok.	나는 인간이야.	vagyok	0	0
+Most a reptéren vagyok.	나는 지금 공항에 있습니다.	most	0	0
+Jó reggelt!	좋은 아침이예요.	jó	0	0
+Még nem tudom, hogy a jövő hét után láthatom-e újra.	다음 주 후에 다시 볼 수 있을 지 아직 몰라요.	tudom	0	0
+Úgy gondolod, hogy Tom hazudik?	너는 톰이 거짓말을 하고 있다고 생각하니?	úgy	0	0
+Tom nem tudja, miért vagyok még itt.	톰은 제가 왜 여기 있는지 아직 모릅니다.	miért	0	0
+Az a két férfi olyan, mint a tűz és a víz.	그 두 남자들은 마치 불과 물 같다.	mint	0	0
+Ő rendben lesz.	괜찮을 겁니다.	ő	0	0
+Mostantól jól figyelj arra, amit mondok.	지금부터 제 얘기 잘 들으세요.	jól	0	0
+10 perc elég lesz?	10분 정도면 되시겠습니까?	lesz	0	0
+Ma az éjszakai égbolton a csillagok nagyon fényesen ragyognak.	오늘 밤 하늘에는 별들이 아주 밝게 빛나고 있어.	nagyon	0	0
+Nincs légkondid?	에어컨이 없나요?	nincs	0	0
+A kompközlekedés megszűnt, mert már nem volt gazdaságos.	더 이상 경제적이지 않아서 여객선 운항을 멈췄다.	mert	0	0
+Minden problémára van megoldás.	그 모든 문제의 해답이 있다.	minden	0	0
+Óh... senki sem fordítja le a mondataimat.	이런... 아무도 내가 만든 문장을 번역 안 해.	sem	0	0
+Mostantól jól figyelj arra, amit mondok.	지금부터 제 얘기 잘 들으세요.	amit	0	0
+Ez olyan furcsa?	그렇게 이상해?	olyan	0	0
+Minden rendben lesz.	괜찮을 겁니다.	rendben	0	0
+Mit nézel így?	왜 그렇게 봐요?	így	0	0
+Megint csukd be a szemed.	눈을 다시 감으세요.	be	0	0
+Oké.	오케이.	oké	0	0
+Azt odaadta nekem.	그가 그것을 내게 줬어요.	nekem	0	0
+Óh... senki sem fordítja le a mondataimat.	이런... 아무도 내가 만든 문장을 번역 안 해.	le	0	0
+Tom egy tehetős házban nőtt fel.	톰은 부유한 집안에서 자랐다.	fel	0	0
+Mi majd kezelésbe vesszük.	우리가 그것을 맡겠다. (처리하겠다.)	majd	0	0
+Mindig, amikor fölállok, szédülök.	일어날 때 마다 어지러워.	mindig	0	0
+Köszönöm!	감사합니다!	köszönöm	0	0
+Az ételen kívül semmi másra nem tudsz gondolni.	너는 음식 생각 밖에 안 한다.	semmi	0	0
+Pont te vagy, aki mindezeket nekünk adta.	우리에게 이 모든 걸 준 사람이 바로 당신이다.	aki	0	0
+Mindig, amikor fölállok, szédülök.	일어날 때 마다 어지러워.	amikor	0	0
+Hol van a repülőtér?	공항은 어디에 있습니까?	hol	0	0
+Nem mondtál neki semmit?	너 그 사람에게 아무말도 안했지?	neki	0	0
+Csak azt mondom neked, amit hallottam.	나는 내가 들은 걸 너에게 말해주는 것뿐이다.	neked	0	0
+Tényleg nem akarom, hogy az hiányozzon nekem.	나는 정말로 그것을 놓치고 싶지 않다.	tényleg	0	0
+Azt hiszem, amit Tom csinál, az csodálatos.	나는 탐이 하고 있는 일이놀랍다고 생각한다.	hiszem	0	0
+10 perc elég lesz?	10분 정도면 되시겠습니까?	elég	0	0
+Tom el fog menni oda, hogy találkozzon veled.	톰이 너를 만나러 거기에 갈 거야.	fog	0	0
+Ó, ez csodálatos.	아, 신기합니다.	ó	0	0
+Ezek a tieid, igaz?	이것들 네 것이지, 맞지?	igaz	0	0
+Milyen kicsi a világ!	세상 참 좁네요!	milyen	0	0
+Hat óra harminckor vissza fogok jönni.	난 6시 반에 돌아올 거야.	vissza	0	0
+Eldöntöttem, hogy a szerelemhez ragaszkodom. A gyűlölet túl nagy teher a vállamon.	나는 사랑을 고수하기로 했다. 증오는 짊어지기에 너무 큰 짐이다.	nagy	0	0
+Tom nem tudja, miért vagyok még itt.	톰은 제가 왜 여기 있는지 아직 모릅니다.	tudja	0	0
+Ma délután szabad vagyok.	오늘 오후는 한가합니다.	ma	0	0
+Jövő héten pénteken egész délelőtt lesz időm.	내주 금요일 오전 내내 시간이 있습니다.	egész	0	0
+Nem sajnálom.	후회 없습니다.	sajnálom	0	0
+Mikor meghalok, ezt a gyűrűt akarom viselni.	만약 내가 죽어도 이 반지는 지니고 싶다.	mikor	0	0
+Három ember enyhén megsérült.	세 사람이 약간 다쳤다.	ember	0	0
+Mi történt kettőtökkel?	둘이 어떻게 된건데?	történt	0	0
+Túl nehéz a számomra elolvasni ezt az angol könyvet.	이 영어 책은 내가 읽기엔 너무 어렵다.	túl	0	0
+Tom sok segítséget kapott.	톰은 많은 도움을 받았다.	sok	0	0
+Tom azt mondta, megcsókolja Máriát.	톰은 메리에게 키스할 것이라고 말했다.	mondta	0	0
+Az a két férfi olyan, mint a tűz és a víz.	그 두 남자들은 마치 불과 물 같다.	két	0	0
+Szia, Tom!	안녕, 톰!	szia	0	0
+Ismer engem?	날 알아요?	engem	0	0
+Ne bánj velem így!	나를 그렇게 대하지 마.	velem	0	0
+Mostantól jól figyelj arra, amit mondok.	지금부터 제 얘기 잘 들으세요.	arra	0	0
+Mondtam Tomnak, hogy azt ne használja.	난 톰한테 그걸 쓰지 말라고 말했다.	mondtam	0	0
+Értesz koreaiul, ugye?	한국말을 이해하시지요?	ugye	0	0
+Azt titokban kellett tartanunk.	우리는 그것을 비밀에 부쳐야 했다.	kellett	0	0
+Nincs más választás, mint várni.	기다릴 수 밖에 없다.	más	0	0
+Nem mondtál neki semmit?	너 그 사람에게 아무말도 안했지?	semmit	0	0
+Kérem, később hívjon a szállodában.	나중에 호텔로 연락 바랍니다.	kérem	0	0
+Ma az időjárás a tegnapinál sokkal jobb.	오늘 날씨가 어제보다 더 좋다.	jobb	0	0
+Tom el fog menni oda, hogy találkozzon veled.	톰이 너를 만나러 거기에 갈 거야.	veled	0	0
+Inni akarok.	마시고 싶어요.	akarok	0	0
+Mikor meghalok, ezt a gyűrűt akarom viselni.	만약 내가 죽어도 이 반지는 지니고 싶다.	akarom	0	0
+Kérlek, várj, míg megjövök.	제가 올 때까지 기다려 주세요.	kérlek	0	0
+Legyen szíves várni, míg megérkezem.	제가 올 때까지 기다려 주세요.	legyen	0	0
+Kate minden nap sok tejet iszik.	케이트는 매일 우유를 많이 마신다.	nap	0	0
+Nem akar szembesülni a tényekkel.	손바닥으로 하늘을 가리려한다.	akar	0	0
+Elviszem magát a kórházba.	내가 병원으로 데려다 줄게요.	magát	0	0
+Ki az, aki Tommal együtt a kocsiban van?	차 안에 Tom과 같이 있는 사람이 누구야?	együtt	0	0
+Miért nézel így rám?	왜 그렇게 봐요?	rám	0	0
+Óh... senki sem fordítja le a mondataimat.	이런... 아무도 내가 만든 문장을 번역 안 해.	senki	0	0
+Tom az első sorban ült.	톰은 앞 줄에 앉았다.	első	0	0
+Ezek a diákok koreaiak.	이 학생들이 한국사람이다.	ezek	0	0
+Még nem tudom, hogy a jövő hét után láthatom-e újra.	다음 주 후에 다시 볼 수 있을 지 아직 몰라요.	után	0	0
+Mit tudsz róla?	그에 대해서 뭘 알아?	róla	0	0
+Kérlek, várj, míg megjövök.	제가 올 때까지 기다려 주세요.	várj	0	0
+Hogyan védekezhetünk a koronavírus ellen?	코로나 바이러스로부터 어떻게 우리 몸을 지킬 수 있을까요?	hogyan	0	0
+Még nem tudom, hogy a jövő hét után láthatom-e újra.	다음 주 후에 다시 볼 수 있을 지 아직 몰라요.	újra	0	0
+Nem tudok válaszolni a kérdésedre.	나는 네 질문에 답할 수 없어.	tudok	0	0
+Nem tudom a választ az ön kérdésére.	나는 네 질문에 답할 수 없어.	ön	0	0
+Az a dolog csalódást okozott.	그것은 실망스러웠다.	dolog	0	0
+Nem igazán szeretem a banánt.	나는 바나나를 별로 좋아하지 않아요.	igazán	0	0
+Három órán belül oda fogunk érni.	3시간 안에 거기에 도착할 겁니다.	oda	0	0
+Itt fogok maradni, amíg vissza nem jössz.	나는 네가 돌아올 때까지 여기에 있을 것이다.	amíg	0	0
+Jövőre Ausztráliába megyek.	나는 내년에 호주에 간다.	megyek	0	0
+Úgy tűnik, Tom igencsak álmos.	톰은 상당히 졸려 보인다.	tűnik	0	0
+Hideg lett az időjárás.	날씨가 추워졌어요.	lett	0	0
+Megkértem azt az embert, hogy készítsen néhány képet.	내가 그 사람한테 사진 좀 찍어 달라고 했어요.	néhány	0	0
+Jumi egyre jobban beszél koreaiul.	유미 씨는 갈수록 한국어를 잘 해요.	jobban	0	0
+Ebben az országban nehéz munkát találni.	이 나라에서 일자리를 찾는 것은 어렵다.	ebben	0	0
+Azt hiszem, ez a legjobb módja.	내 생각에는 이게 가장 좋은 방법 같아.	legjobb	0	0
+Ez teljesen abszurd.	그것은 완전히 터무니없는 짓이다.	teljesen	0	0
+Mostantól jól figyelj arra, amit mondok.	지금부터 제 얘기 잘 들으세요.	figyelj	0	0
+Három ember enyhén megsérült.	세 사람이 약간 다쳤다.	három	0	0
+Egyetlen biciklije sincsen.	그는 자전거가 하나도 없다.	egyetlen	0	0
+Egyedül fogok élni.	혼자 살거야.	egyedül	0	0
+Menjünk egy japán étterembe!	일식집 가자.	menjünk	0	0
+Azt ők miért nem tehetik meg?	그들은 왜 그것을 할 수 없죠?	ők	0	0
+Ne hazudj nekünk!	우리에게 거짓말 하지 마.	nekünk	0	0
+Holnap reggel 6 órára ébresztőt szeretnék kérni.	내일 아침 6시에 모닝콜 부탁합니다.	holnap	0	0
+Meg tudjuk csinálni Tom segítsége nélkül is.	우리는 톰의 도움없이 이것을 할 수 있다.	nélkül	0	0
+Itt fogok maradni, amíg vissza nem jössz.	나는 네가 돌아올 때까지 여기에 있을 것이다.	fogok	0	0
+Meg tudjuk csinálni Tom segítsége nélkül is.	우리는 톰의 도움없이 이것을 할 수 있다.	tudjuk	0	0
+Azt mondták nekünk, hogy Tom abba akarja hagyni az iskolát.	우린 톰이 학교를 중퇴하려 한다는 말을 들었다.	akarja	0	0
+Csak azt mondom neked, amit hallottam.	나는 내가 들은 걸 너에게 말해주는 것뿐이다.	mondom	0	0
+Lehűlt az idő.	날씨가 추워졌어요.	idő	0	0
+Megint csukd be a szemed.	눈을 다시 감으세요.	megint	0	0
+Látni akarom a nevetésedet.	난 당신이 웃는 걸 보고 싶어요.	látni	0	0
+Túl nehéz a számomra elolvasni ezt az angol könyvet.	이 영어 책은 내가 읽기엔 너무 어렵다.	nehéz	0	0
+A lány könnyekben tört ki, amint meghallotta a híreket.	그녀는 그 소식을 듣자마자 울음을 터뜨렸다.	lány	0	0
+Remélem, hogy összetépted az utolsó levelemet.	내 마지막 편지는 찢어 버렸길 바란다.	remélem	0	0
+Csak azt mondom neked, amit hallottam.	나는 내가 들은 걸 너에게 말해주는 것뿐이다.	hallottam	0	0
+Postán el fogom küldeni azt a könyvet.	그 책을 우편으로 보낼게요.	fogom	0	0
+Helló, hogy vagy?	안녕! 잘 지내?	helló	0	0
+Pont te vagy, aki mindezeket nekünk adta.	우리에게 이 모든 걸 준 사람이 바로 당신이다.	pont	0	0
+Az ételen kívül semmi másra nem tudsz gondolni.	너는 음식 생각 밖에 안 한다.	tudsz	0	0
+A nevem Cyril, örülök, hogy megismerhetem.	내 이름은 시릴이에요, 만나서 반가워요.	örülök	0	0
+Remélem, hogy összetépted az utolsó levelemet.	내 마지막 편지는 찢어 버렸길 바란다.	utolsó	0	0
+Tom el fog menni oda, hogy találkozzon veled.	톰이 너를 만나러 거기에 갈 거야.	menni	0	0
+Holnap reggel 6 órára ébresztőt szeretnék kérni.	내일 아침 6시에 모닝콜 부탁합니다.	szeretnék	0	0
+Kérem, később hívjon a szállodában.	나중에 호텔로 연락 바랍니다.	később	0	0
+Ezen kívül nincs más képem őróla.	그 남자 사진이 이것 밖에 없어요.	ezen	0	0
+Kösz!	고마워.	kösz	0	0
+Ma az időjárás a tegnapinál sokkal jobb.	오늘 날씨가 어제보다 더 좋다.	sokkal	0	0
+Meg tudjuk csinálni Tom segítsége nélkül is.	우리는 톰의 도움없이 이것을 할 수 있다.	csinálni	0	0
+Az a két férfi olyan, mint a tűz és a víz.	그 두 남자들은 마치 불과 물 같다.	férfi	0	0
+Srácok, Koreában találkozunk.	한국에 너희들을 만나요!	srácok	0	0
+Sok pénzt kerestem a nyáron.	여름에 돈 많이 벌었어요.	pénzt	0	0
+Annak a nőnek hat bátyja van.	그 여자는 오빠가 다섯명 있어.	annak	0	0
+Holnap reggel 6 órára ébresztőt szeretnék kérni.	내일 아침 6시에 모닝콜 부탁합니다.	reggel	0	0
+Én másképp gondolom, mint te.	제 생각은 당신과 다릅니다.	gondolom	0	0
+Nincs mit tenni, csak várni.	기다릴 수 밖에 없다.	tenni	0	0
+Azt mondták nekünk, hogy Tom abba akarja hagyni az iskolát.	우린 톰이 학교를 중퇴하려 한다는 말을 들었다.	abba	0	0
+Nagyon szeretem a havat.	난 눈이 정말 좋아.	szeretem	0	0
+Csak egy dolgot ígérj meg nekem.	하나만 약속해 줘.	dolgot	0	0
+Nem tudom, hogy tudok-e segíteni neked.	널 도와 줄 수 있는지 모르겠다.	segíteni	0	0
+Októberben ismét találkozunk.	우리는 10월에 다시 만날 것이다.	találkozunk	0	0
+Mi a világ leghosszabb folyójának a neve?	세계의 가장 긴 강의 이름이 뭐지?	világ	0	0
+Ez még nem volt 10 perc.	아직 10 분 안 됬어요.	perc	0	0
+Jumi egyre jobban beszél koreaiul.	유미 씨는 갈수록 한국어를 잘 해요.	beszél	0	0
+Kérlek, várj, míg megjövök.	제가 올 때까지 기다려 주세요.	míg	0	0
+Majdnem minden nap csinálom azt.	나는 그것을 거의 매일 한다.	majdnem	0	0
+Nagyon korán jöttem.	제가 많이 일찍 왔어요.	jöttem	0	0
+Hogyan védekezhetünk a koronavírus ellen?	코로나 바이러스로부터 어떻게 우리 몸을 지킬 수 있을까요?	ellen	0	0
+Ma délután szabad vagyok.	오늘 오후는 한가합니다.	szabad	0	0
+Három meg öt az nyolc.	3 더하기 5는 8이다.	öt	0	0
+Hat óra harminckor vissza fogok jönni.	난 6시 반에 돌아올 거야.	óra	0	0
+Tom a barátom.	톰은 나의 친구다.	barátom	0	0
+Mi a világ leghosszabb folyójának a neve?	세계의 가장 긴 강의 이름이 뭐지?	neve	0	0
+Köszi!	고마워!	köszi	0	0
+Ma itthon maradsz, vagy mész iskolába?	오늘 집에 있겠습니까, 학교에 가겠습니까?	mész	0	0
+Ez az enyém?	이거 내꺼니?	enyém	0	0
+Tom éppen kávét iszik.	톰은 커피를 마시고 있어.	éppen	0	0
+Ne légy kíváncsi!	궁금해 하지 마요.	légy	0	0
+Amint meghallotta a híreket, sírásra fakadt.	그녀는 그 소식을 듣자마자 울음을 터뜨렸다.	amint	0	0
+Bocsánatot kérek, hogy reggel olyan korán hívtam.	너무 이른 아침에 전화를 해서 죄송합니다.	kérek	0	0
+Úgy gondolod, hogy Tom hazudik?	너는 톰이 거짓말을 하고 있다고 생각하니?	gondolod	0	0
+Jó napot!	안녕하세요?	napot	0	0
+A táj gyönyörű és a szívem békés.	풍경은 아름답고 마음은 평화롭습니다.	gyönyörű	0	0
+Három órán belül oda fogunk érni.	3시간 안에 거기에 도착할 겁니다.	fogunk	0	0
+Nem vagyok vicces ember.	난 재미없는 사람이야.	vicces	0	0
+Rúgd teljes erőből!	최대한 세게 차세요.	teljes	0	0
+Egész éjjel esett az eső.	밤새 비가 내렸다.	éjjel	0	0
+Megkértem azt az embert, hogy készítsen néhány képet.	내가 그 사람한테 사진 좀 찍어 달라고 했어요.	embert	0	0
+Tett feljelentést a rendőrségen?	경찰에 신고는 하셨습니까?	tett	0	0
+Csak fogd és vidd!	그냥 그거 가져.	fogd	0	0
+Azt hiszem, amit Tom csinál, az csodálatos.	나는 탐이 하고 있는 일이놀랍다고 생각한다.	csinál	0	0
+Mióta hallgatsz apádra?	니가 언제부터 아버지 말을 들었어?	mióta	0	0
+A házam tiszta.	우리집은 깨끗해요.	tiszta	0	0
+John koreai filmet akar nézni?	존이 한국 영화를 보고 싶어해요?	john	0	0
+A repülőtér nagyon közel van.	공항은 아주 가까이 있습니다.	közel	0	0
+Jó reggelt!	좋은 아침이예요.	reggelt	0	0
+Még nem tudom, hogy a jövő hét után láthatom-e újra.	다음 주 후에 다시 볼 수 있을 지 아직 몰라요.	hét	0	0
+Ez olyan furcsa?	그렇게 이상해?	furcsa	0	0
+Ebben az országban nehéz munkát találni.	이 나라에서 일자리를 찾는 것은 어렵다.	munkát	0	0
+Annak a nőnek hat bátyja van.	그 여자는 오빠가 다섯명 있어.	hat	0	0
+Jól ismerem Tomot.	나는 톰을 잘 안다.	ismerem	0	0
+Itt fogok maradni, amíg vissza nem jössz.	나는 네가 돌아올 때까지 여기에 있을 것이다.	jössz	0	0
+A rendőrség nem találta meg a holttestet.	경찰은 시신을 찾지 못했다.	rendőrség	0	0
+Hat óra harminckor vissza fogok jönni.	난 6시 반에 돌아올 거야.	jönni	0	0
+Ez erkölcsi kérdés.	그것은 도덕적인 문제이다.	kérdés	0	0
+Észak-Koreát koreai nyelven Csoszannak hívják.	북한은 한국어로 "조선"이라고 불린다.	hívják	0	0
+Három órán belül oda fogunk érni.	3시간 안에 거기에 도착할 겁니다.	belül	0	0
+Ó, ez csodálatos.	아, 신기합니다.	csodálatos	0	0
+A táj gyönyörű és a szívem békés.	풍경은 아름답고 마음은 평화롭습니다.	szívem	0	0
+Nem mondtam, hogy segítséget kérek tőled.	너한테 도와달라고 안했거든.	tőled	0	0
+Ő szebb, mint bárki más.	그녀는 누구보다도 아름다워요.	bárki	0	0
+A köldököm nagyobb a hasamnál.	배보다 배꼽이 크다.	nagyobb	0	0
+Jövő héten pénteken egész délelőtt szabad vagyok.	내주 금요일 오전 내내 시간이 있습니다.	héten	0	0
+A nevem Cyril, örülök, hogy megismerhetem.	내 이름은 시릴이에요, 만나서 반가워요.	nevem	0	0
+Ezen kívül nincs más képem őróla.	그 남자 사진이 이것 밖에 없어요.	kívül	0	0
+Mit nézel így?	왜 그렇게 봐요?	nézel	0	0
+Tavaly semmi különöset nem csináltam.	나는 작년에는 별로 한 일이 없다.	csináltam	0	0
+Egyedül fogok élni.	혼자 살거야.	élni	0	0
+Jumi egyre jobban beszél koreaiul.	유미 씨는 갈수록 한국어를 잘 해요.	egyre	0	0
+Szükségünk van magára.	우리는 당신이 필요해요.	szükségünk	0	0
+Brazília a legnagyobb ország Dél-Amerikában.	브라질은 남미에서 가장 큰 나라입니다.	legnagyobb	0	0
+Meg tudnád adni a telefonszámodat?	전화번호 좀 줄래요?	adni	0	0
+Senki nem ejti ki úgy azt a szót.	그 누구도 그 단어를 그렇게 발음하지 않는다.	szót	0	0
+Például ez egy toll.	예를 들어서, 이게 펜이다.	például	0	0
+Azt mondták nekünk, hogy Tom abba akarja hagyni az iskolát.	우린 톰이 학교를 중퇴하려 한다는 말을 들었다.	mondták	0	0
+Tom és Mária egy nagyon kicsi lakásban élnek.	톰과 메리는 매우 작은 아파트에 살고 있어요.	kicsi	0	0
+A ház kitakarítása három órát vett igénybe.	집을 청소하는데 3시간이 걸렸습니다.	ház	0	0
+Tom eléggé álmosnak látszik.	톰은 상당히 졸려 보인다.	eléggé	0	0
+A mai időjárás a tegnapinál sokkal szebb.	오늘의 날씨가 어제보다 더 아름답다.	mai	0	0
+Tom eléggé álmosnak látszik.	톰은 상당히 졸려 보인다.	látszik	0	0
+Mostantól jól figyelj arra, amit mondok.	지금부터 제 얘기 잘 들으세요.	mondok	0	0
+Nem mondtál neki semmit?	너 그 사람에게 아무말도 안했지?	mondtál	0	0
+Tom sok segítséget kapott.	톰은 많은 도움을 받았다.	kapott	0	0
+Ez nem szar, ez sár.	이거 똥 아니고 진흙이야.	szar	0	0
+Tom a külvárosban nőtt fel.	Tom은 교외에서 자랐다.	tom	0	0
+Én hoztam meg minden döntést.	모든 결정은 제가 했습니다.	hoztam	0	0
+Ő egy elkényeztetett kölyök.	그넘은 버릇 없는 넘이야.	kölyök	0	0
+Szükségünk van magára.	우리는 당신이 필요해요.	magára	0	0
+Ma itthon maradsz, vagy mész iskolába?	오늘 집에 있겠습니까, 학교에 가겠습니까?	itthon	0	0
+Az a két férfi olyan, mint a tűz és a víz.	그 두 남자들은 마치 불과 물 같다.	víz	0	0
+John koreai filmet akar nézni?	존이 한국 영화를 보고 싶어해요?	nézni	0	0
+Túl nehéz a számomra elolvasni ezt az angol könyvet.	이 영어 책은 내가 읽기엔 너무 어렵다.	számomra	0	0
+Mi szél hozta önt Koreába?	한국에는 무슨 일로 오셨습니까?	önt	0	0
+Még nem tudom, hogy a jövő hét után láthatom-e újra.	다음 주 후에 다시 볼 수 있을 지 아직 몰라요.	jövő	0	0
+Ebben az országban nehéz munkát találni.	이 나라에서 일자리를 찾는 것은 어렵다.	találni	0	0
+Bocsánatot kérek, hogy reggel olyan korán hívtam.	너무 이른 아침에 전화를 해서 죄송합니다.	bocsánatot	0	0
+Tom egy tehetős házban nőtt fel.	톰은 부유한 집안에서 자랐다.	házban	0	0
+Szereted a teát?	차 좋아해?	szereted	0	0
+Túl sötét van, hogy jól lássam.	너무 어두워서 잘 볼 수 없다.	sötét	0	0
+Kicsi az a sárga játék.	그 노란색 장난감은 작다.	játék	0	0
+Itt fogok maradni, amíg vissza nem jössz.	나는 네가 돌아올 때까지 여기에 있을 것이다.	maradni	0	0
+Az a két férfi olyan, mint a tűz és a víz.	그 두 남자들은 마치 불과 물 같다.	tűz	0	0
+Azt mondták nekünk, hogy Tom abba akarja hagyni az iskolát.	우린 톰이 학교를 중퇴하려 한다는 말을 들었다.	hagyni	0	0
+Koreai ételt akarok enni.	한국 음식을 먹고 싶어요.	enni	0	0
+Hideg lett az időjárás.	날씨가 추워졌어요.	hideg	0	0
+Megkértem azt az embert, hogy készítsen néhány képet.	내가 그 사람한테 사진 좀 찍어 달라고 했어요.	képet	0	0
+Az az ember, aki mindezeket nekünk adta, éppen te vagy.	우리에게 이 모든 걸 준 사람이 바로 당신이다.	adta	0	0
+Csak fogd és vidd!	그냥 그거 가져.	vidd	0	0
+Tom éppen kávét iszik.	톰은 커피를 마시고 있어.	kávét	0	0
+Ne légy kíváncsi!	궁금해 하지 마요.	kíváncsi	0	0
+Nehéz csupán egy lábbal futni.	다리 하나만으로는 뛰기 어렵다.	csupán	0	0
+Mostantól jól figyelj arra, amit mondok.	지금부터 제 얘기 잘 들으세요.	mostantól	0	0
+Októberben ismét találkozunk.	우리는 10월에 다시 만날 것이다.	ismét	0	0
+Minden finom.	전부가 맛있어요!	finom	0	0
+Szeretek másokon segíteni.	나는 남을 돕는 것을 좋아한다.	szeretek	0	0
+Jövő héten pénteken egész délelőtt lesz időm.	내주 금요일 오전 내내 시간이 있습니다.	időm	0	0
+A ház kitakarítása három órát vett igénybe.	집을 청소하는데 3시간이 걸렸습니다.	vett	0	0
+A ház kitakarítása három órát vett igénybe.	집을 청소하는데 3시간이 걸렸습니다.	órát	0	0
+Nagyon korán jöttem.	제가 많이 일찍 왔어요.	korán	0	0
+Majdnem minden nap csinálom azt.	나는 그것을 거의 매일 한다.	csinálom	0	0
+Holnap reggel 6 órára ébresztőt szeretnék kérni.	내일 아침 6시에 모닝콜 부탁합니다.	kérni	0	0
+Mi szél hozta önt Koreába?	한국에는 무슨 일로 오셨습니까?	hozta	0	0
+Három meg öt az nyolc.	3 더하기 5는 8이다.	nyolc	0	0
+Meg tudná adni a telefonszámát?	전화번호 좀 줄래요?	tudná	0	0
+Egész éjjel esett az eső.	밤새 비가 내렸다.	esett	0	0
+Nincs más választás, mint várni.	기다릴 수 밖에 없다.	várni	0	0
+Nem tudom a választ az ön kérdésére.	나는 네 질문에 답할 수 없어.	választ	0	0
+Óh... senki sem fordítja le a mondataimat.	이런... 아무도 내가 만든 문장을 번역 안 해.	óh	0	0
+Elviszlek a kórházba.	내가 병원으로 데려다 줄게요.	kórházba	0	0
+Ma itthon maradsz, vagy mész iskolába?	오늘 집에 있겠습니까, 학교에 가겠습니까?	maradsz	0	0
+Ma délután szabad vagyok.	오늘 오후는 한가합니다.	délután	0	0
+Három órán belül oda fogunk érni.	3시간 안에 거기에 도착할 겁니다.	órán	0	0
+Tom lecsapta a telefont.	톰은 전화기를 쾅 놓았다.	telefont	0	0
+Kicsi lakásban élek.	나는 작은 아파트에서 살아.	élek	0	0
+Nem mondtam, hogy segítséget kérek tőled.	너한테 도와달라고 안했거든.	segítséget	0	0
+Gázszagot érzek.	가스 냄새가 난다.	érzek	0	0
+Ő volt az osztály legrosszabb tanulója.	그는 반에서 꼴찌였습니다.	legrosszabb	0	0
+Meg tudnád adni a telefonszámodat?	전화번호 좀 줄래요?	tudnád	0	0
+Túl nehéz a számomra elolvasni ezt az angol könyvet.	이 영어 책은 내가 읽기엔 너무 어렵다.	könyvet	0	0
+Ma itthon maradsz, vagy mész iskolába?	오늘 집에 있겠습니까, 학교에 가겠습니까?	iskolába	0	0
+John koreai filmet akar nézni?	존이 한국 영화를 보고 싶어해요?	filmet	0	0
+Megint csukd be a szemed.	눈을 다시 감으세요.	szemed	0	0
+Azonban az ellenkezője is mindig igaz.	그러나, 그 반대도 또한 항상 진실이다.	azonban	0	0
+Inni akarok.	마시고 싶어요.	inni	0	0
+A kagyló puhatestű állat?	홍합은 연체 동물입니까?	állat	0	0
+Kate minden nap sok tejet iszik.	케이트는 매일 우유를 많이 마신다.	kate	0	0
+Elvesztettem az esernyőmet.	나는 우산을 잃어버렸다.	elvesztettem	0	0
+Brazília a legnagyobb ország Dél-Amerikában.	브라질은 남미에서 가장 큰 나라입니다.	ország	0	0
+Éppen szálláshelyet keresünk.	숙박 시설을 찾고 있습니다.	keresünk	0	0
+Úgy gondolod, hogy Tom hazudik?	너는 톰이 거짓말을 하고 있다고 생각하니?	hazudik	0	0
+Az ételen kívül semmi másra nem tudsz gondolni.	너는 음식 생각 밖에 안 한다.	gondolni	0	0
+Túl nehéz a számomra elolvasni ezt az angol könyvet.	이 영어 책은 내가 읽기엔 너무 어렵다.	angol	0	0
+Ki az, aki Tommal együtt a kocsiban van?	차 안에 Tom과 같이 있는 사람이 누구야?	kocsiban	0	0
+Túl sötét van, hogy jól lássam.	너무 어두워서 잘 볼 수 없다.	lássam	0	0
+Tavaly semmi különöset nem csináltam.	나는 작년에는 별로 한 일이 없다.	tavaly	0	0
+Mi szél hozta önt Koreába?	한국에는 무슨 일로 오셨습니까?	szél	0	0
+Ismer engem?	날 알아요?	ismer	0	0
+Most egyetértek Tom véleményével.	나는 이제 톰의 의견에 동의한다.	egyetértek	0	0
+A rendőrség nem találta meg a holttestet.	경찰은 시신을 찾지 못했다.	találta	0	0
+A legjobban az őszt szeretem.	가을을 제일 좋아해요.	legjobban	0	0
+Ismersz engem?	날 알아요?	ismersz	0	0
+Azt titokban kellett tartanunk.	우리는 그것을 비밀에 부쳐야 했다.	titokban	0	0
+Tom és Mari egy nagyon pici apartmanban élnek.	톰과 메리는 매우 작은 아파트에 살고 있어요.	élnek	0	0
+Legyen szíves várni, míg megérkezem.	제가 올 때까지 기다려 주세요.	szíves	0	0
+Az arany ára naponta változik.	금값은 매일 변한다.	arany	0	0
+Szereted a teát?	차 좋아해?	teát	0	0
+Minden problémára van megoldás.	그 모든 문제의 해답이 있다.	megoldás	0	0
+Mondtam Tomnak, hogy azt ne használja.	난 톰한테 그걸 쓰지 말라고 말했다.	használja	0	0
+Úgy gondolom, hogy ez a legjobb módja.	내 생각에는 이게 가장 좋은 방법 같아.	módja	0	0
+Ez a kamera olcsó.	이 카메라는 쌉니다.	kamera	0	0
+Én hoztam meg minden döntést.	모든 결정은 제가 했습니다.	döntést	0	0
+Én másképp gondolom, mint te.	제 생각은 당신과 다릅니다.	másképp	0	0
+Mit szólnál egy kávéhoz?	커피 한 잔 어때요?	szólnál	0	0
+Bocsánatot kérek, hogy reggel olyan korán hívtam.	너무 이른 아침에 전화를 해서 죄송합니다.	hívtam	0	0
+Tom baromi erősen rúgta el a labdát.	톰은 정말 세게 공을 찼습니다.	erősen	0	0
+Kérem, később hívjon a szállodában.	나중에 호텔로 연락 바랍니다.	hívjon	0	0
+Annak a nőnek hat bátyja van.	그 여자는 오빠가 다섯명 있어.	nőnek	0	0
+A lány átadta a helyét egy idős hölgynek a buszon.	그 여자아이는 버스 안에서 노부인에게 자리를 내주었다.	idős	0	0
+A német barátom neve Hans.	내 독일인 친구 이름은 한스예요.	német	0	0
+Sok pénzt kerestem a nyáron.	여름에 돈 많이 벌었어요.	kerestem	0	0
+Három ember enyhén megsérült.	세 사람이 약간 다쳤다.	megsérült	0	0
+A gyerekeim nagyon szeretik az állatokat.	우리 애들은 동물을 정말 좋아해요.	szeretik	0	0
+Meghívott engem vacsorára.	그는 나를 저녁 식사에 초대했다.	vacsorára	0	0
+Köszönöm, hogy eljöttél.	와줘서 고마워.	eljöttél	0	0
+Kedvelem a koreai ételeket.	전 한국 요리를 좋아해요.	kedvelem	0	0
+Elviszem magát a kórházba.	내가 병원으로 데려다 줄게요.	elviszem	0	0
+Tom két sorral előttem ült.	탐은 나보다 2줄 앞에 앉았다.	előttem	0	0
+Menjünk egy japán étterembe!	일식집 가자.	japán	0	0
+Nehéz koreaiul tanulni, igaz?	한국말을 배우기가 힘들죠.	tanulni	0	0
+Koreai ételt akarok enni.	한국 음식을 먹고 싶어요.	ételt	0	0
+Ebben az országban nehéz munkát találni.	이 나라에서 일자리를 찾는 것은 어렵다.	országban	0	0
+Az ételen kívül semmi másra nem tudsz gondolni.	너는 음식 생각 밖에 안 한다.	másra	0	0
+Mikor meghalok, ezt a gyűrűt akarom viselni.	만약 내가 죽어도 이 반지는 지니고 싶다.	meghalok	0	0
+A házhozszállított étel megfelel?	배달음식으로 괜찮아요?	étel	0	0
+Értesz koreaiul, ugye?	한국말을 이해하시지요?	értesz	0	0
+Egész éjjel esett az eső.	밤새 비가 내렸다.	eső	0	0
+A kaját megrendelted?	밥은 시켰어요?	kaját	0	0
+A rendelt kaja jó lesz?	배달음식으로 괜찮아요?	kaja	0	0
+Holnap reggel 6 órára ébresztőt szeretnék kérni.	내일 아침 6시에 모닝콜 부탁합니다.	órára	0	0
+A házhozszállított étel megfelel?	배달음식으로 괜찮아요?	megfelel	0	0
+18 évesen végeztük el a középiskolát.	우리는 18살에 고등학교를 졸업합니다.	évesen	0	0
+Nincs más választás, mint várni.	기다릴 수 밖에 없다.	választás	0	0
+Repülővel mentünk Koreába.	우리는 비행기로 한국에 갔다.	mentünk	0	0
+Kicsi az a sárga játék.	그 노란색 장난감은 작다.	sárga	0	0
+Postán el fogom küldeni azt a könyvet.	그 책을 우편으로 보낼게요.	küldeni	0	0
+Ez a kamera olcsó.	이 카메라는 쌉니다.	olcsó	0	0
+A macska kenyeret eszik.	고양이는 빵을 먹는다.	eszik	0	0
+Tom két sorral előttem ült.	탐은 나보다 2줄 앞에 앉았다.	ült	0	0
+Az a dolog csalódást okozott.	그것은 실망스러웠다.	okozott	0	0
+A lány átadta a helyét egy idős hölgynek a buszon.	그 여자아이는 버스 안에서 노부인에게 자리를 내주었다.	helyét	0	0
+A macska kenyeret eszik.	고양이는 빵을 먹는다.	macska	0	0
+Nem tudlak elfelejteni.	너를 잊을 수 없어.	elfelejteni	0	0
+Tom elkezdte énekelni a "Happy Birthday"-t.	Tom이 "Happy Birthday" 노래를 부르기 시작했다.	énekelni	0	0
+Három órán belül oda fogunk érni.	3시간 안에 거기에 도착할 겁니다.	érni	0	0
+Ő volt az osztály legrosszabb tanulója.	그는 반에서 꼴찌였습니다.	osztály	0	0
+Tom baromi erősen rúgta el a labdát.	톰은 정말 세게 공을 찼습니다.	labdát	0	0
+Az arany ára naponta változik.	금값은 매일 변한다.	változik	0	0
+A lány könnyekben tört ki, amint meghallotta a híreket.	그녀는 그 소식을 듣자마자 울음을 터뜨렸다.	híreket	0	0
+Az arany ára naponta változik.	금값은 매일 변한다.	naponta	0	0
+Sok pénzt kerestem a nyáron.	여름에 돈 많이 벌었어요.	nyáron	0	0
+A Nílus a leghosszabb folyó Afrikában.	나일강은 아프리카에서 가장 긴 강이다.	folyó	0	0
+Nehéz csupán egy lábbal futni.	다리 하나만으로는 뛰기 어렵다.	futni	0	0
+A 7. emeleten lakunk.	우리는 7층에 산다.	emeleten	0	0
+Ma az éjszakai égbolton a csillagok nagyon fényesen ragyognak.	오늘 밤 하늘에는 별들이 아주 밝게 빛나고 있어.	éjszakai	0	0
+Az arany ára naponta változik.	금값은 매일 변한다.	ára	0	0
+Annak a nőnek hat bátyja van.	그 여자는 오빠가 다섯명 있어.	bátyja	0	0
+Mikor meghalok, ezt a gyűrűt akarom viselni.	만약 내가 죽어도 이 반지는 지니고 싶다.	gyűrűt	0	0
+Jövő héten pénteken egész délelőtt szabad vagyok.	내주 금요일 오전 내내 시간이 있습니다.	pénteken	0	0
+Mi majd kezelésbe vesszük.	우리가 그것을 맡겠다. (처리하겠다.)	vesszük	0	0
+Nem tudlak elfelejteni.	너를 잊을 수 없어.	tudlak	0	0
+Tom éppen kávét iszik.	톰은 커피를 마시고 있어.	iszik	0	0
+Tom egy tehetős házban nőtt fel.	톰은 부유한 집안에서 자랐다.	nőtt	0	0
+Egy kicsi apartmanban lakom.	나는 작은 아파트에서 살아.	lakom	0	0
+A barátaimmal focimeccset nézünk a tévében.	친구와 같이 텔레비전에서 축구시합을 봅니다.	tévében	0	0
+Tom az első sorban ült.	톰은 앞 줄에 앉았다.	sorban	0	0
+Az por gyógyszer.	저것은 가루약이다.	gyógyszer	0	0
+Csukd be az ablakot, nagyon huzat van.	황소바람이 들어오니 창문을 닫아라!	csukd	0	0
+A házam tiszta.	우리집은 깨끗해요.	házam	0	0
+Nem bánom.	후회 없습니다.	bánom	0	0
+A rendőrség nem találta meg a holttestet.	경찰은 시신을 찾지 못했다.	holttestet	0	0
+A lány könnyekben tört ki, amint meghallotta a híreket.	그녀는 그 소식을 듣자마자 울음을 터뜨렸다.	tört	0	0
+Ma az éjszakai égbolton a csillagok nagyon fényesen ragyognak.	오늘 밤 하늘에는 별들이 아주 밝게 빛나고 있어.	csillagok	0	0
+Jövőre Ausztráliába megyek.	나는 내년에 호주에 간다.	jövőre	0	0
+Nem tudok válaszolni a kérdésedre.	나는 네 질문에 답할 수 없어.	válaszolni	0	0
+Elviszlek a kórházba.	내가 병원으로 데려다 줄게요.	elviszlek	0	0
+Az a dolog csalódást okozott.	그것은 실망스러웠다.	csalódást	0	0
+A mai időjárás a tegnapinál sokkal szebb.	오늘의 날씨가 어제보다 더 아름다워요.	szebb	0	0
+Olvasd el ezt a könyvet!	이 책을 읽으세요.	olvasd	0	0
+Mikor meghalok, ezt a gyűrűt akarom viselni.	만약 내가 죽어도 이 반지는 지니고 싶다.	viselni	0	0
+Maximális erővel rúgd!	최대한 세게 차세요.	erővel	0	0
+Csukd be az ablakot, nagyon huzat van.	황소바람이 들어오니 창문을 닫아라!	ablakot	0	0
+A reggelit 7 órakor szolgálják fel.	아침식사는 오전 7시에 제공됩니다.	órakor	0	0
+Azt mondták nekünk, hogy Tom abba akarja hagyni az iskolát.	우린 톰이 학교를 중퇴하려 한다는 말을 들었다.	iskolát	0	0
+Pici lakásban lakom.	나는 작은 아파트에서 살아.	pici	0	0
+Megkértem azt az embert, hogy készítsen néhány képet.	내가 그 사람한테 사진 좀 찍어 달라고 했어요.	megkértem	0	0
+A reggelit 7 órakor szolgálják fel.	아침식사는 오전 7시에 제공됩니다.	reggelit	0	0
+Kate minden nap sok tejet iszik.	케이트는 매일 우유를 많이 마신다.	tejet	0	0
+Ha az időjárás megengedi, holnap megkezdjük az utazást.	날씨가 허락한다면, 우리는 내일 여행을 시작할 것이다.	megengedi	0	0
+Tomi eladta a kocsiját Marinak.	톰은 그의 차를 메리에게 팔았다.	kocsiját	0	0
+Tomnak oda kell adnom ezt a könyvet.	톰에게 이 책을 줘야 합니다.	adnom	0	0
+A barátaimmal focimeccset nézünk a tévében.	친구와 같이 텔레비전에서 축구시합을 봅니다.	nézünk	0	0
+A gyerekeim nagyon szeretik az állatokat.	우리 애들은 동물을 정말 좋아해요.	gyerekeim	0	0
+A táj gyönyörű és a szívem békés.	풍경은 아름답고 마음은 평화롭습니다.	békés	0	0
+Azt titokban kellett tartanunk.	우리는 그것을 비밀에 부쳐야 했다.	tartanunk	0	0
+Kicsi lakásban élek.	나는 작은 아파트에서 살아.	lakásban	0	0
+Rizs süti van?	경단 있어?	süti	0	0
+Mikor belépsz, mosd tisztára a kezedet és a lábadat, és meg kell mosnod a fogadat is.	들어오면 손과 발을 깨끗이 씻고, 양치질도 해야 돼요.	tisztára	0	0
+Olvassa el ezt a könyvet!	이 책을 읽으세요.	olvassa	0	0
+Mária vagyok.	메리입니다.	mária	0	0
+Tom baromi erősen rúgta el a labdát.	톰은 정말 세게 공을 찼습니다.	baromi	0	0
+Görög vagyok.	저는 그리스 사람입니다.	görög	0	0
+Ne hazudj nekünk!	우리에게 거짓말 하지 마.	hazudj	0	0
+Az por gyógyszer.	저것은 가루약이다.	por	0	0
+Utolsó figyelmeztetés!	마지막 경고다!	figyelmeztetés	0	0
+Szeretek az interneten böngészni.	나는 인터넷에 들어가 서핑하기를 좋아한다.	interneten	0	0
+Azt Tom már megcsinálta.	톰은 그것을 이미 했어.	megcsinálta	0	0
+A macska kenyeret eszik.	고양이는 빵을 먹는다.	kenyeret	0	0
+A gyerekeim nagyon szeretik az állatokat.	우리 애들은 동물을 정말 좋아해요.	állatokat	0	0
+A szobatársam kínaiul tanul.	내 룸메이트는 중국어를 공부하고 있어요.	tanul	0	0
+Az a gyógyszer hatásos volt.	그 약은 효과가 있었다.	hatásos	0	0
+Tom elkezdte énekelni a "Happy Birthday"-t.	Tom이 "Happy Birthday" 노래를 부르기 시작했다.	happy	0	0
+Kedvelem a koreai ételeket.	전 한국 요리를 좋아해요.	koreai	0	0
+A lány átadta a helyét egy idős hölgynek a buszon.	그 여자아이는 버스 안에서 노부인에게 자리를 내주었다.	hölgynek	0	0
+Jövő héten pénteken egész délelőtt szabad vagyok.	내주 금요일 오전 내내 시간이 있습니다.	délelőtt	0	0
+Tett feljelentést a rendőrségen?	경찰에 신고는 하셨습니까?	rendőrségen	0	0
+Mióta hallgatsz apádra?	니가 언제부터 아버지 말을 들었어?	hallgatsz	0	0
+Tom elkezdte énekelni a "Happy Birthday"-t.	Tom이 "Happy Birthday" 노래를 부르기 시작했다.	elkezdte	0	0
+Ezek a diákok koreaiak.	이 학생들이 한국사람이다.	diákok	0	0
+A rendelt kaja jó lesz?	배달음식으로 괜찮아요?	rendelt	0	0
+Mi majd elintézzük.	우리가 그것을 맡겠다. (처리하겠다.)	elintézzük	0	0
+Meghívott engem vacsorára.	그는 나를 저녁 식사에 초대했다.	meghívott	0	0
+Most a reptéren vagyok.	나는 지금 공항에 있습니다.	reptéren	0	0
+A nevem Cyril, örülök, hogy megismerhetem.	내 이름은 시릴이에요, 만나서 반가워요.	megismerhetem	0	0
+Úgy tűnik, Tom igencsak álmos.	톰은 상당히 졸려 보인다.	igencsak	0	0
+Franciaország Nyugat-Európában van.	프랑스는 서유럽에 있습니다.	franciaország	0	0
+Ez erkölcsi kérdés.	그것은 도덕적인 문제이다.	erkölcsi	0	0
+Ma az időjárás a tegnapinál sokkal jobb.	오늘 날씨가 어제보다 더 좋다.	időjárás	0	0
+Dél-Koreát koreai nyelven Hánguknak hívják.	남한은 한국어로 "한국"이라고 불린다.	nyelven	0	0
+Tomi eladta a kocsiját Marinak.	톰은 그의 차를 메리에게 팔았다.	eladta	0	0
+A házunk tiszta.	우리집은 깨끗해요.	házunk	0	0
+Eldöntöttem, hogy a szerelemhez ragaszkodom. A gyűlölet túl nagy teher a vállamon.	나는 사랑을 고수하기로 했다. 증오는 짊어지기에 너무 큰 짐이다.	gyűlölet	0	0
+Eldöntöttem, hogy a szerelemhez ragaszkodom. A gyűlölet túl nagy teher a vállamon.	나는 사랑을 고수하기로 했다. 증오는 짊어지기에 너무 큰 짐이다.	teher	0	0
+Menjünk egy japán étterembe!	일식집 가자.	étterembe	0	0
+Tom el fog menni oda, hogy találkozzon veled.	톰이 너를 만나러 거기에 갈 거야.	találkozzon	0	0
+A lány átadta a helyét egy idős hölgynek a buszon.	그 여자아이는 버스 안에서 노부인에게 자리를 내주었다.	buszon	0	0
+Eldöntöttem, hogy a szerelemhez ragaszkodom. A gyűlölet túl nagy teher a vállamon.	나는 사랑을 고수하기로 했다. 증오는 짊어지기에 너무 큰 짐이다.	ragaszkodom	0	0
+Mikor belépsz, mosd tisztára a kezedet és a lábadat, és meg kell mosnod a fogadat is.	들어오면 손과 발을 깨끗이 씻고, 양치질도 해야 돼요.	kezedet	0	0
+A tenyerével akarja eltakarni az eget.	손바닥으로 하늘을 가리려한다.	eget	0	0
+Ez az olló nem vág jól.	이 가위 잘 안들어요.	vág	0	0
+A barátaimmal focimeccset nézünk a tévében.	친구와 같이 텔레비전에서 축구시합을 봅니다.	barátaimmal	0	0
+Túl nehéz a számomra elolvasni ezt az angol könyvet.	이 영어 책은 내가 읽기엔 너무 어렵다.	elolvasni	0	0
+Például ez egy toll.	예를 들어서, 이게 펜이다.	toll	0	0
+A német barátom neve Hans.	내 독일인 친구 이름은 한스예요.	hans	0	0
+Eldöntöttem, hogy a szerelemhez ragaszkodom. A gyűlölet túl nagy teher a vállamon.	나는 사랑을 고수하기로 했다. 증오는 짊어지기에 너무 큰 짐이다.	eldöntöttem	0	0
+Ez teljesen abszurd.	그것은 완전히 터무니없는 짓이다.	abszurd	0	0
+Kilencezer-kilencszázkilencvenkilenc meg egy az tízezer.	구천구백구십구 더하기 일은 만이다.	tízezer	0	0
+A ház kitakarítása három órát vett igénybe.	집을 청소하는데 3시간이 걸렸습니다.	igénybe	0	0
+A mai autók eltérnek a 70-es évekbeli gépkocsiktól.	요즘 자동차들은 70년대의 자동차들과는 다르다.	autók	0	0
+Nehéz csupán egy lábbal futni.	다리 하나만으로는 뛰기 어렵다.	lábbal	0	0
+Meg tudjuk csinálni Tom segítsége nélkül is.	우리는 톰의 도움없이 이것을 할 수 있다.	segítsége	0	0
+Ki tanította ezt?	그걸 누가 가르쳐 줬어요?	tanította	0	0
+Kérem, később hívjon a szállodában.	나중에 호텔로 연락 바랍니다.	szállodában	0	0
+Tom zenész.	톰은 음악가이다.	zenész	0	0
+Azt odaadta nekem.	그가 그것을 내게 줬어요.	odaadta	0	0
+Tom nem sovány.	톰은 마르지 않았다.	sovány	0	0
+A 7. emeleten lakunk.	우리는 7층에 산다.	lakunk	0	0
+A kompközlekedés megszűnt, mert már nem volt gazdaságos.	더 이상 경제적이지 않아서 여객선 운항을 멈췄다.	megszűnt	0	0
+Azt ők miért nem tehetik meg?	그들은 왜 그것을 할 수 없죠?	tehetik	0	0
+Ha az időjárás megengedi, holnap megkezdjük az utazást.	날씨가 허락한다면, 우리는 내일 여행을 시작할 것이다.	utazást	0	0
+A Nílus a leghosszabb folyó Afrikában.	나일강은 아프리카에서 가장 긴 강이다.	afrikában	0	0
+A mai autók eltérnek a 70-es évekbeli gépkocsiktól.	요즘 자동차들은 70년대의 자동차들과는 다르다.	70-es	0	0
+Úgy tűnik, Tom igencsak álmos.	톰은 상당히 졸려 보인다.	álmos	0	0
+Könyörtelen ember vagy.	넌 무자비한 사람.	könyörtelen	0	0
+Rizs süti van?	경단 있어?	rizs	0	0
+A lány átadta a helyét egy idős hölgynek a buszon.	그 여자아이는 버스 안에서 노부인에게 자리를 내주었다.	átadta	0	0
+Maximális erővel rúgd!	최대한 세게 차세요.	maximális	0	0
+Maximális erővel rúgd!	최대한 세게 차세요.	rúgd	0	0
+Mikor belépsz, mosd tisztára a kezedet és a lábadat, és meg kell mosnod a fogadat is.	들어오면 손과 발을 깨끗이 씻고, 양치질도 해야 돼요.	mosd	0	0
+Ezen kívül nincs más képem őróla.	그 남자 사진이 이것 밖에 없어요.	képem	0	0
+Unatkozom.	난 지루해.	unatkozom	0	0
+A nevem Cyril, örülök, hogy megismerhetem.	내 이름은 시릴이에요, 만나서 반가워요.	cyril	0	0
+Az az én felelősségem.	그건 내 책임이다.	felelősségem	0	0
+Kifordította a kabátját.	그는 코트를 뒤집었다.	kabátját	0	0
+Megkértem azt az embert, hogy készítsen néhány képet.	내가 그 사람한테 사진 좀 찍어 달라고 했어요.	készítsen	0	0
+Meg tudná adni a telefonszámát?	전화번호 좀 줄래요?	telefonszámát	0	0
+Három ember enyhén megsérült.	세 사람이 약간 다쳤다.	enyhén	0	0
+Kedvelem a koreai ételeket.	전 한국 요리를 좋아해요.	ételeket	0	0
+Csak egy kérésem van.	부탁은 하나뿐	kérésem	0	0
+Tett feljelentést a rendőrségen?	경찰에 신고는 하셨습니까?	feljelentést	0	0
+Ezek a tieid, igaz?	이것들 네 것이지, 맞지?	tieid	0	0
+Vállalatok százai szenvednek.	수백개의 기업들이 고통 받고 있습니다.	szenvednek	0	0
+Egyetlen biciklije sincsen.	그는 자전거가 하나도 없다.	sincsen	0	0
+Szeretem a házamat.	난 내 집이 좋아.	házamat	0	0
+Ne hazudjon nekünk!	우리에게 거짓말 하지 마.	hazudjon	0	0
+Mindig, amikor fölállok, szédülök.	일어날 때 마다 어지러워.	szédülök	0	0
+Mi a világ leghosszabb folyójának a neve?	세계의 가장 긴 강의 이름이 뭐지?	leghosszabb	0	0
+Postán el fogom küldeni azt a könyvet.	그 책을 우편으로 보낼게요.	postán	0	0
+Ő egy elkényeztetett kölyök.	그넘은 버릇 없는 넘이야.	elkényeztetett	0	0
+Az esküvőnk holnap van.	우리의 결혼식은 내일이다.	esküvőnk	0	0
+Ez az olló nem vág jól.	이 가위 잘 안들어요.	olló	0	0
+A szobatársam kínaiul tanul.	내 룸메이트는 중국어를 공부하고 있어요.	szobatársam	0	0
+Azonban az ellenkezője is mindig igaz.	그러나, 그 반대도 또한 항상 진실이다.	ellenkezője	0	0
+Amint meghallotta a híreket, sírásra fakadt.	그녀는 그 소식을 듣자마자 울음을 터뜨렸다.	meghallotta	0	0
+Mióta hallgatsz apádra?	니가 언제부터 아버지 말을 들었어?	apádra	0	0
+Hol van a repülőtér?	공항은 어디에 있습니까?	repülőtér	0	0
+Ne bánj velem így!	나를 그렇게 대하지 마.	bánj	0	0
+Volt tehetsége a festéshez.	그는 그림에 재능이 있었다.	tehetsége	0	0
+Repülővel mentünk Koreába.	우리는 비행기로 한국에 갔다.	repülővel	0	0
+Nem akar szembesülni a tényekkel.	손바닥으로 하늘을 가리려한다.	tényekkel	0	0
+Harcoljunk!	한판 붙자.	harcoljunk	0	0
+Srácok, Koreában találkozunk.	한국에 너희들을 만나요!	koreában	0	0
+Tavaly semmi különöset nem csináltam.	나는 작년에는 별로 한 일이 없다.	különöset	0	0
+Takarítsd ki a szobádat.	네 침실 좀 정리해라.	takarítsd	0	0
+Ez nem szar, ez sár.	이거 똥 아니고 진흙이야.	sár	0	0
+Reggel mindig 6 óra 30 perckor kelek.	나는 항상 아침 6시 30분에 일어난다.	kelek	0	0
+Jól ismerem Tomot.	나는 톰을 잘 안다.	tomot	0	0
+Nem igazán szeretem a banánt.	나는 바나나를 별로 좋아하지 않아요.	banánt	0	0
+Mikor belépsz, mosd tisztára a kezedet és a lábadat, és meg kell mosnod a fogadat is.	들어오면 손과 발을 깨끗이 씻고, 양치질도 해야 돼요.	lábadat	0	0
+A kagyló puhatestű állat?	홍합은 연체 동물입니까?	kagyló	0	0
+Nem szeretem a zajos bulikat.	저는 떠들썩한 잔치를 안 좋아해요.	zajos	0	0
+Nem tudom a választ az ön kérdésére.	나는 네 질문에 답할 수 없어.	kérdésére	0	0
+Ma az éjszakai égbolton a csillagok nagyon fényesen ragyognak.	오늘 밤 하늘에는 별들이 아주 밝게 빛나고 있어.	fényesen	0	0
+Szeretek másokon segíteni.	나는 남을 돕는 것을 좋아한다.	másokon	0	0
+A reggelit 7 órakor szolgálják fel.	아침식사는 오전 7시에 제공됩니다.	szolgálják	0	0
+A mai autók eltérnek a 70-es évekbeli gépkocsiktól.	요즘 자동차들은 70년대의 자동차들과는 다르다.	évekbeli	0	0
+Ha az időjárás megengedi, holnap megkezdjük az utazást.	날씨가 허락한다면, 우리는 내일 여행을 시작할 것이다.	megkezdjük	0	0
+A táj gyönyörű.	풍경은 아름답습니다.	táj	0	0
+Nem tudom, hogy tudok-e segíteni neked.	널 도와 줄 수 있는지 모르겠다.	tudok-e	0	0
+Mikor belépsz, mosd tisztára a kezedet és a lábadat, és meg kell mosnod a fogadat is.	들어오면 손과 발을 깨끗이 씻고, 양치질도 해야 돼요.	belépsz	0	0
+Mi majd kezelésbe vesszük.	우리가 그것을 맡겠다. (처리하겠다.)	kezelésbe	0	0
+Igazán szeretem a havat.	난 눈이 정말 좋아.	havat	0	0
+Ezt tapasztalatból tudom.	이건 내 경험으로 안다.	tapasztalatból	0	0
+Az kiábrándító volt.	그것은 실망스러웠다.	kiábrándító	0	0
+Vállalatok százai szenvednek.	수백개의 기업들이 고통 받고 있습니다.	vállalatok	0	0
+Senki nem ejti ki úgy azt a szót.	그 누구도 그 단어를 그렇게 발음하지 않는다.	ejti	0	0
+Tudom, hogy mindnyájatokban megbízhatok.	나는 내가 너희 모두를 믿을 수 있다는 것을 안다.	megbízhatok	0	0
+Az én elképzeléseim különböznek a tieidtől.	제 생각은 당신과 다릅니다.	különböznek	0	0
+A szobatársam kínaiul tanul.	내 룸메이트는 중국어를 공부하고 있어요.	kínaiul	0	0
+Minden problémára van megoldás.	그 모든 문제의 해답이 있다.	problémára	0	0
+Tomnak oda kell adnom ezt a könyvet.	톰에게 이 책을 줘야 합니다.	tomnak	0	0
+Szétszórt vagyok.	나는 체계적이지 못하다.	szétszórt	0	0
+Nem tudok válaszolni a kérdésedre.	나는 네 질문에 답할 수 없어.	kérdésedre	0	0
+Ki az, aki Tommal együtt a kocsiban van?	차 안에 Tom과 같이 있는 사람이 누구야?	tommal	0	0
+Takarítsd ki a szobádat.	네 침실 좀 정리해라.	szobádat	0	0
+Tom baromi erősen rúgta el a labdát.	톰은 정말 세게 공을 찼습니다.	rúgta	0	0
+Jövőre Ausztráliába megyek.	나는 내년에 호주에 간다.	ausztráliába	0	0
+Csak egy dolgot ígérj meg nekem.	하나만 약속해 줘.	ígérj	0	0
+Tom a szomszédunk.	톰은 우리의 옆집 이웃이다.	szomszédunk	0	0
+Tom és Mari egy nagyon pici apartmanban élnek.	톰과 메리는 매우 작은 아파트에 살고 있어요.	mari	0	0
+Eldöntöttem, hogy a szerelemhez ragaszkodom. A gyűlölet túl nagy teher a vállamon.	나는 사랑을 고수하기로 했다. 증오는 짊어지기에 너무 큰 짐이다.	vállamon	0	0
+Nem szeretem a zajos bulikat.	저는 떠들썩한 잔치를 안 좋아해요.	bulikat	0	0
+Tom a külvárosban nőtt fel.	Tom은 교외에서 자랐다.	külvárosban	0	0
+Ateista vagyok.	나는 무신론자이다.	ateista	0	0
+Repülővel mentünk Koreába.	우리는 비행기로 한국에 갔다.	koreába	0	0
+Óh... senki sem fordítja le a mondataimat.	이런... 아무도 내가 만든 문장을 번역 안 해.	fordítja	0	0
+Brazília a legnagyobb ország Dél-Amerikában.	브라질은 남미에서 가장 큰 나라입니다.	dél-amerikában	0	0
+Vállalatok százai szenvednek.	수백개의 기업들이 고통 받고 있습니다.	százai	0	0
+Reggel mindig 6 óra 30 perckor kelek.	나는 항상 아침 6시 30분에 일어난다.	perckor	0	0
+Brazília a legnagyobb ország Dél-Amerikában.	브라질은 남미에서 가장 큰 나라입니다.	brazília	0	0
+Csukd be az ablakot, nagyon huzat van.	황소바람이 들어오니 창문을 닫아라!	huzat	0	0
+Tom egy tehetős házban nőtt fel.	톰은 부유한 집안에서 자랐다.	tehetős	0	0
+18 évesen végeztük el a középiskolát.	우리는 18살에 고등학교를 졸업합니다.	középiskolát	0	0
+Rúgd teljes erőből!	최대한 세게 차세요.	erőből	0	0
+Októberben ismét találkozunk.	우리는 10월에 다시 만날 것이다.	októberben	0	0
+Ma az éjszakai égbolton a csillagok nagyon fényesen ragyognak.	오늘 밤 하늘에는 별들이 아주 밝게 빛나고 있어.	égbolton	0	0
+Ma az éjszakai égbolton a csillagok nagyon fényesen ragyognak.	오늘 밤 하늘에는 별들이 아주 밝게 빛나고 있어.	ragyognak	0	0
+Küzdjünk meg!	한판 붙자.	küzdjünk	0	0
+Tom azt mondta, megcsókolja Máriát.	톰은 메리에게 키스할 것이라고 말했다.	megcsókolja	0	0
+18 évesen végeztük el a középiskolát.	우리는 18살에 고등학교를 졸업합니다.	végeztük	0	0
+Jumi egyre jobban beszél koreaiul.	유미 씨는 갈수록 한국어를 잘 해요.	koreaiul	0	0
+Remélem, hogy összetépted az utolsó levelemet.	내 마지막 편지는 찢어 버렸길 바란다.	levelemet	0	0
+Amint meghallotta a híreket, sírásra fakadt.	그녀는 그 소식을 듣자마자 울음을 터뜨렸다.	fakadt	0	0
+Győzz le!	한판 붙자.	győzz	0	0
+Eldöntöttem, hogy a szerelemhez ragaszkodom. A gyűlölet túl nagy teher a vállamon.	나는 사랑을 고수하기로 했다. 증오는 짊어지기에 너무 큰 짐이다.	szerelemhez	0	0
+Mit szólnál egy kávéhoz?	커피 한 잔 어때요?	kávéhoz	0	0
+Van egy ikertestvérem.	내게는 쌍둥이 언니가 있다.	ikertestvérem	0	0
+Tom azt mondta, megcsókolja Máriát.	톰은 메리에게 키스할 것이라고 말했다.	máriát	0	0
+Mi a hobbid?	취미가 뭡니까?	hobbid	0	0
+Holnap reggel 6 órára ébresztőt szeretnék kérni.	내일 아침 6시에 모닝콜 부탁합니다.	ébresztőt	0	0
+Ez az én számítógépem.	이건 내 컴퓨터예요.	számítógépem	0	0
+Az az ember, aki mindezeket nekünk adta, éppen te vagy.	우리에게 이 모든 걸 준 사람이 바로 당신이다.	mindezeket	0	0
+A Nílus a leghosszabb folyó Afrikában.	나일강은 아프리카에서 가장 긴 강이다.	nílus	0	0

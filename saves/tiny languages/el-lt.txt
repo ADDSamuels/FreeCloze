@@ -1,0 +1,36 @@
+Το όνομά μου είναι Σάλι.	Mano vardas yra Sally.	το	0	0
+Δεν είμαι ποιητής.	Aš ne poetas.	δεν	0	0
+Αυτό είναι άλογο ή φοράδα;	Ar šis eržilas ar kumelė?	είναι	0	0
+Στην οικογένειά μου υπάρχουν τέσσερις άνθρωποι.	Mano šeimoje yra keturi žmonės.	μου	0	0
+Τα αστέρια βγήκανε.	Danguje pasirodė žvaigždės.	τα	0	0
+Αυτό είναι άλογο ή φοράδα;	Ar šis eržilas ar kumelė?	αυτό	0	0
+Όχι, ευχαριστώ.	Ne, ačiū.	όχι	0	0
+Ναι, παρακαλώ.	Taip, prašau.	ναι	0	0
+Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	ένα	0	0
+Είμαι Κορεάτης.	Aš korėjietis.	είμαι	0	0
+Στην οικογένειά μου υπάρχουν τέσσερις άνθρωποι.	Mano šeimoje yra keturi žmonės.	στην	0	0
+Εγώ δεν είμαι ποιητής.	Aš ne poetas.	εγώ	0	0
+Όχι, ευχαριστώ.	Ne, ačiū.	ευχαριστώ	0	0
+Αυτό είναι άλογο ή φοράδα;	Ar šis eržilas ar kumelė?	ή	0	0
+Ναι, παρακαλώ.	Taip, prašau.	παρακαλώ	0	0
+Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	δύο	0	0
+Στην οικογένειά μου υπάρχουν τέσσερις άνθρωποι.	Mano šeimoje yra keturi žmonės.	υπάρχουν	0	0
+Στην οικογένειά μου υπάρχουν τέσσερις άνθρωποι.	Mano šeimoje yra keturi žmonės.	άνθρωποι	0	0
+Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	πέντε	0	0
+Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	τρία	0	0
+Καλημέρα.	Labas rytas.	καλημέρα	0	0
+Το όνομά μου είναι Σάλι.	Mano vardas yra Sally.	όνομά	0	0
+Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	έξι	0	0
+Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	δέκα	0	0
+Στην οικογένειά μου υπάρχουν τέσσερις άνθρωποι.	Mano šeimoje yra keturi žmonės.	οικογένειά	0	0
+Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	τέσσερα	0	0
+Στην οικογένειά μου υπάρχουν τέσσερις άνθρωποι.	Mano šeimoje yra keturi žmonės.	τέσσερις	0	0
+Αυτό είναι άλογο ή φοράδα;	Ar šis eržilas ar kumelė?	άλογο	0	0
+Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	επτά	0	0
+Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	οκτώ	0	0
+Τα αστέρια βγήκανε.	Danguje pasirodė žvaigždės.	αστέρια	0	0
+Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	Vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni, dešimt.	εννέα	0	0
+Το όνομά μου είναι Σάλι.	Mano vardas yra Sally.	σάλι	0	0
+Δεν είμαι ποιητής.	Aš ne poetas.	ποιητής	0	0
+Αυτό είναι άλογο ή φοράδα;	Ar šis eržilas ar kumelė?	φοράδα	0	0
+Είμαι Κορεάτης.	Aš korėjietis.	κορεάτης	0	0

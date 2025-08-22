@@ -1,0 +1,2019 @@
+Je ne lis pas de BD.	Δε διαβάζω κόμικς.	de	0	0
+Je joue au foot.	Παίζω ποδόσφαιρο.	je	0	0
+Ce cadeau est pour mon amie.	Αυτό το δώρο είναι για τη φίλη μου.	est	0	0
+A Naples un enfant sur trois ne va pas à l'école.	Στη Νάπολη ένα από τα τρία παιδιά δεν πηγαίνει στο σχολείο.	pas	0	0
+Je ne veux même pas le savoir.	Δε θέλω ούτε να το ξέρω.	le	0	0
+Vous avez dit que vous étiez heureuse.	Είπατε ότι είστε ευτυχισμένη.	que	0	0
+La cuisine de ma mère me manque.	Μου λείπει η μαγειρική της μαμάς μου.	la	0	0
+Et vous êtes un travailleur non qualifié.	Και είσαι άτεχνος εργάτης.	vous	0	0
+Tu es de deux ans plus jeune que moi.	Είσαι δύο χρόνια πιο μικρός από εμένα.	tu	0	0
+J'ai acheté un nouveau sac.	Αγόρασα μια καινούρια τσάντα.	un	0	0
+Aujourd'hui c'est samedi.	Σήμερα είναι Σάββατο.	c'	0	0
+Cet ascenseur est capable de transporter 10 personnes à la fois.	Αυτό το ασανσέρ μπορεί να μεταφέρει δέκα άτομα σε μια στιγμή.	à	0	0
+Je suis brésilien, et toi ?	Είμαι βραζιλιάνος. Εσύ;	et	0	0
+Quand il n'y a pas de sonnette, je frappe à la porte.	Όταν δεν υπάρχει κουδούνι χτυπώ την πόρτα.	il	0	0
+Il y a un coffre-fort dans le bureau de Tom.	Υπάρχει ένα χρηματοκιβώτιο στο γραφείο του Τομ.	a	0	0
+Celui-ci est arrivé à l'heure malgré la pluie.	Αυτός έφτασε στην ώρα του παρά τη βροχή.	l'	0	0
+Je ne veux ni de la viande ni du poisson.	Δε θέλω ούτε ψάρι ούτε κρέας.	ne	0	0
+J'adore les mathématiques.	Λατρεύω τα μαθηματικά.	les	0	0
+J'ai dix stylos.	Έχω δέκα στυλούς.	j'	0	0
+J'en sais déjà assez long sur vous.	Ξέρω ήδη αρκετά για σάς.	en	0	0
+On ne peut pas être au four et au moulin.	Δύο καρπούζια κάτω από μια μασχάλη δε χωράνε.	on	0	0
+Ça dépend du temps.	Εξαρτάται από τον καιρό.	ça	0	0
+Il faut des efforts pour apprendre une autre langue.	Χρειάζεται προσπάθεια για να μάθεις μια άλλη γλώσσα.	une	0	0
+Cette femme déborde d'énergie.	Αυτή η γυναίκα ξεχειλίζει από ενέργεια.	d'	0	0
+Il est facile de se perdre dans ce dédale de ruelles.	Είναι εύκολο να χαθείτε σε αυτό το λαβύρινθο από σοκάκια.	ce	0	0
+Qu'as-tu fait de mon stylo ? Il était ici il y a une minute.	Τι έχεις κάνει με τον στυλό μου; Ήταν εδώ πριν από ένα λεπτό.	qu'	0	0
+Que dis-tu de sortir pour une courte promenade ?	Τι λες για έναν περίπατο;	pour	0	0
+Je n'ai pas le temps.	Δεν έχω χρόνο.	ai	0	0
+L'oreiller n'est pas propre.	Το μαξιλάρι δεν είναι καθαρό.	n'	0	0
+J'ai des remords de lui avoir refusé mon aide.	Έχω τύψεις που του αρνήθηκα τη βοήθειά μου.	des	0	0
+Tom, il y a ton téléphone qui sonne.	Τομ, το τηλέφωνό σου χτυπάει.	qui	0	0
+J'aime écouter de la musique, mais j'aime encore plus en jouer.	Μου αρέσει να ακούω μουσική, αλλά ακόμα περισσότερο μου αρέσει να παίζω.	mais	0	0
+Dans votre famille tous sont grands.	Στην οικογένειά σας είναι όλοι ψηλοί.	dans	0	0
+Aujourd'hui nous sommes jeudi.	Σήμερα είναι Πέμπτη.	nous	0	0
+Elle vit seule.	Ζεί μόνη.	elle	0	0
+Je me connais très bien.	Γνωρίζω πολύ καλά τον εαυτό μου.	me	0	0
+J'ai très bien dormi.	Κοιμήθηκα πολύ καλά.	bien	0	0
+Est-ce que ça va si je reste ici ?	Είναι εντάξει αν μείνω εδώ;	si	0	0
+Elle travaillait du matin au soir.	Δούλευε απ'το πρωί ως το βράδυ.	du	0	0
+Quand il n'y a pas de sonnette, je frappe à la porte.	Όταν δεν υπάρχει κουδούνι χτυπώ την πόρτα.	y	0	0
+Je suis plus intelligente que toi.	Είμαι εξυπνότερη από σένα.	suis	0	0
+Peu m'importe que vous me croyez ou non.	Λίγο με νοιάζει είτε με πιστεύετε είτε όχι.	non	0	0
+Je t'aime !	Σ'αγαπώ.	t'	0	0
+Je coupe le pain avec un couteau.	Κόβω το ψωμί με μαχαίρι.	avec	0	0
+Je veux que tu me racontes tout.	Θέλω να μου τα πεις όλα.	tout	0	0
+Tom aime les chiens plus que les chats.	Ο Τομ αγαπάει τα σκυλιά περισσότερο από τις γάτες.	plus	0	0
+Où est mon fils ?	Πού είναι ο γιός μου;	mon	0	0
+Je pense que tu m'as menti.	Νομίζω πως μου είπες ψέματα.	m'	0	0
+Je sais que je te reverrai.	Ξέρω ότι θα σε δω ξανά.	te	0	0
+Il parle au téléphone.	Μιλάει στο τηλέφωνο.	au	0	0
+Qu'as-tu fait de mon stylo ? Il était ici il y a une minute.	Τι έχεις κάνει με τον στυλό μου; Ήταν εδώ πριν από ένα λεπτό.	fait	0	0
+Vous êtes plus grand que moi.	Είστε ψηλότερος από μένα.	moi	0	0
+Appelez un médecin, s'il vous plaît !	Φωνάξτε έναν γιατρό, παρακαλώ!	s'	0	0
+« Parlez-vous grec ? » « Oui, je parle un peu le grec, très peu. »	«Μιλάτε ελληικά;» «Ναι, μιλώ λίγο ελληνικά, πολύ λίγο.»	oui	0	0
+A Naples un enfant sur trois ne va pas à l'école.	Στη Νάπολη ένα από τα τρία παιδιά δεν πηγαίνει στο σχολείο.	va	0	0
+Elle était si effrayée qu'elle ne pouvait prononcer un seul mot.	Αυτή ήταν τόσο φοβισμένη που δεν μπορούσε να προφέρει ούτε λέξη.	était	0	0
+Je pense que tu as tort.	Πιστεύω ότι κάνεις λάθος.	as	0	0
+J'ignore si je peux le faire.	Δεν ξέρω αν μπορώ να το κάνω.	faire	0	0
+Ils ont perdu à nouveau.	Πάλι έχασαν.	ils	0	0
+Il existe une légende sur la façon dont le pont a été construit.	Υπάρχει ένας θρύλος για το πώς χτίστηκε η γέφυρα.	sur	0	0
+Ils achèteraient n'importe quoi en vacances.	Θα αγόραζαν οτιδήποτε στις διακοπές.	quoi	0	0
+Les femmes se sont battues dans ce pays-ci pour la liberté.	Οι γυναίκες αγωνίζονται σε αυτή εδώ τη χώρα για την ελευθερία.	se	0	0
+Le chat est comme l'être humain.	Η γάτα είναι σαν ανθρώπινο πλάσμα.	comme	0	0
+Je sais que je ne sais rien.	Ἓν οἶδα ὅτι ουδὲν οἶδα.	sais	0	0
+Être mère est plus difficile que je ne le pensais.	Το να είμαι μητέρα είναι πιο δύσκολο απ' ό,τι νόμιζα.	être	0	0
+Je veux un avocat.	Θέλω ένα δικηγόρο.	veux	0	0
+J'ai marché jusqu'ici.	Περπάτησα ως εδώ.	ici	0	0
+Ma maison est à côté du grand arbre.	Το σπίτι μου είναι δίπλα στο μεγάλο δέντρο.	ma	0	0
+Tu iras chez toi et y resteras.	Θα πάτε σπίτι σας και εκεί θα μείνετε.	toi	0	0
+Est-ce que ça va si je reste ici ?	Είναι εντάξει αν μείνω εδώ;	est-ce	0	0
+Je lui ai dit d'attendre un peu.	Της ζήτησα να περιμένει γία λίγο.	dit	0	0
+Elle a témoigné contre lui.	Κατέθεσε εναντίον του.	lui	0	0
+J'admire votre talent.	Θαυμάζω το ταλέντο σας.	votre	0	0
+Tu n'es pas obligé me dire ça.	Δε χρειάζεται να μου το πεις αυτό.	es	0	0
+Pourquoi as-tu ouvert la boîte ?	Γιατί άνοιξες το κουτί;	pourquoi	0	0
+Je suis sûr que tu as trouvé ces pierres près du lac où nous nous sommes baignés.	Είμαι σίγουρος ότι βρήκες αυτές τις πέτρες κοντά στη λίμνη όπου κάναμε μπάνιο.	où	0	0
+Il sera là dans dix minutes.	Θα είναι εκεί σε δέκα λεπτά.	là	0	0
+Elle n'a rien payé.	Δεν πλήρωσε τίποτα.	rien	0	0
+Je ne veux pas être impliqué dans cette histoire.	Δε θέλω να εμπλακώ σε αυτή την ιστορία.	cette	0	0
+Dans votre famille tous sont grands.	Στην οικογένειά σας είναι όλοι ψηλοί.	sont	0	0
+Les parents de Tom ont divorcé quand il était encore très jeune.	Οι γονείς του Τομ πήραν διαζύγιο, όταν ήταν ακόμα πολύ μικρός.	quand	0	0
+Tu peux me déposer devant chez moi ?	Μπορείτε να με αφήσετε μπροστά στο σπίτι μου;	peux	0	0
+Vous n'êtes pas obligées de me dire ça.	Δε χρειάζεται να μου το πείτε αυτό.	dire	0	0
+Son passe-temps, c'est la collection de timbres.	Το χόμπι της είναι η συλλογή γραμματοσήμων .	son	0	0
+Si vous avez vomi, combien de fois ?	Αν έχετε κάνει εμετό, πόσες φορές;	avez	0	0
+Chaque matin je vais à l'école.	Πάω κάθε πρωί σχολείο.	vais	0	0
+Et alors, ça t'a plu ?	Λοιπόν, σου άρεσε;	alors	0	0
+Est-ce ton premier jour à l'école ?	Είναι η πρώτη σου μέρα στο σχολείο;	ton	0	0
+« Comment prononce-t-on le symbole @ dans cette langue ? » « Arobase. »	«Πώς ονομάζεται το σημείο @ σ' αυτή τη γλώσσα;» «Παπάκι.»	comment	0	0
+Tom a été arrêté par la police.	Ο Τομ συνελήφθη από την αστυνομία.	par	0	0
+La liberté ou la mort.	Ελευθερία ή θάνατος.	ou	0	0
+Si voter changeait quelque chose, on l'aurait interdit.	Αν οι εκλογές αλλάζαν κάτι, θα ήταν παράνομες.	chose	0	0
+Ce qui est bon pour toi est bon pour moi.	Ότι είναι καλό για σένα, είναι καλό για μένα.	bon	0	0
+Elles n'ont pas besoin d'argent.	Δε χρειάζονται χρήματα.	ont	0	0
+Merci beaucoup pour ta lettre.	Ευχαριστώ πολύ για το γράμμα σου.	merci	0	0
+Quand la loi n’est pas juste, la justice passe avant la loi.	Όταν ο νόμος δεν είναι δίκαιος, η δικαιοσύνη προηγείται του νόμου.	juste	0	0
+Notre jardin est grand et très fleuri.	Ο κήπος μας είναι μεγάλος και έχει πολλά λουλούδια.	très	0	0
+As-tu jamais mangé à ce restaurant ?	Έχεις φάει ποτέ σ' αυτό το εστιατόριο;	jamais	0	0
+J'ai été malade.	Ήμουν άρρωστη.	été	0	0
+Un homme qui court après un chien n'est pas à moitié aussi ridicule qu'un homme qui court après une femme.	Ένας άνδρας που τρέχει ξωπίσω από ένα σκύλο δεν είναι ούτε το μισό τόσο γελοίος όσο ένας άνδρας που τρέχει ξωπίσω από μια γυναίκα.	aussi	0	0
+Je me souviens l'avoir vue une fois.	Θυμάμαι ότι την είδα μια φορά.	avoir	0	0
+C'est vraiment un problème.	Αυτό είναι όντως ένα πρόβλημα.	vraiment	0	0
+Je croyais que tu serais heureux de me voir.	Νόμιζα πως θα ήσουν ευτυχής που με βλέπεις.	voir	0	0
+Je suis revenue le même jour.	Επέστρεψα την ίδια μέρα.	même	0	0
+Il ne voyait sa petite amie que le dimanche.	Έβλεπε την κοπέλα του μόνο τις Κυριακές.	sa	0	0
+Maintenant nous allons au lit.	Τώρα πάμε για ύπνο.	maintenant	0	0
+Qu'est-ce là qui monte du désert, comme une colonne de fumée, vapeur de myrrhe et d'encens et de tous parfums exotiques ?	Τι είναι αυτό που αναδύεται από την έρημο, σαν στήλη καπνού, ατμούς μύρου και θυμιάματος και όλα τα εξωτικά αρώματα;	tous	0	0
+On ne peut pas être au four et au moulin.	Δύο καρπούζια κάτω από μια μασχάλη δε χωράνε.	peut	0	0
+J'ai deux filles.	Έχω δύο κόρες.	deux	0	0
+Ces montres ne fonctionnent pas.	Αυτά τα ρολόγια δεν δουλεύουν.	ces	0	0
+Vous n'êtes pas médecin.	Δεν είστε γιατρός.	êtes	0	0
+Vous vous en allez déjà ?	Φεύγετε κιόλας;	allez	0	0
+Merci beaucoup pour ta lettre.	Ευχαριστώ πολύ για το γράμμα σου.	ta	0	0
+Un autre monde est possible.	Ένας άλλος κόσμος είναι δυνατός.	autre	0	0
+Reste encore un peu.	Κάτσε λίγο ακόμα.	peu	0	0
+Nous avons peu de temps. Dépêchons-nous.	Έχουμε λίγο χρόνο. Ας βιαστούμε.	temps	0	0
+Il y a quelque chose que je ne comprends pas.	Υπάρχει κάτι, που δεν καταλαβαίνω.	quelque	0	0
+Fais ce que ton père te dit.	Κάνε ό,τι σου λέει ο πατέρας σου.	fais	0	0
+Tom est du genre à toujours réclamer que quelque chose soit fait plutôt que de demander que cela soit fait.	Ο Τομ είναι ο τύπος που πάντα εκλιπαρεί να γίνει κάτι αντί να ζητά να γίνει.	toujours	0	0
+Je suis proche de la quarantaine et je suis encore célibataire.	Κοντεύω στα σαράντα και είμαι ακόμα ανύπαντρος.	encore	0	0
+As-tu besoin de notre aide ?	Χρειάζεσαι τη βοήθειά μας;	notre	0	0
+Je n'oublie pas mes amis.	Δεν ξεχνώ τους φίλους μου.	mes	0	0
+Elles n'ont pas besoin d'argent.	Δε χρειάζονται χρήματα.	besoin	0	0
+Il y avait de l'empathie dans ses yeux.	Υπήρχε εμπάθεια στα μάτια του.	avait	0	0
+Je ne suis pas d'accord avec toi.	Δεν συμφωνώ μαζί σου.	accord	0	0
+Il faut des efforts pour apprendre une autre langue.	Χρειάζεται προσπάθεια για να μάθεις μια άλλη γλώσσα.	faut	0	0
+Ce que je sais de la morale, c'est au football que je le dois.	Όλα όσα ξέρω για την ηθική τα οφείλω στο ποδόσφαιρο.	dois	0	0
+La vie est belle.	Η ζωή είναι όμορφη.	vie	0	0
+Peut-être la prochaine fois.	Ίσως την επόμενη φορά.	peut-être	0	0
+Je veux aller chez moi. J'ai une femme et des enfants.	Θέλω να πάω σπίτι. Έχω γυναίκα και παιδιά.	aller	0	0
+Je ne l'ai vu qu'une fois.	Τον είδα μόνο μια φορά.	fois	0	0
+J'ai vu cinq hommes.	Είδα πέντε άντρες.	vu	0	0
+Il pleut aujourd'hui ; où ai-je donc mon parapluie ?	Βρέχει σήμερα. Πού έχω όμως την ομπρέλα μου;	donc	0	0
+Je bois le thé sans sucre.	Πίνω το τσάι χωρίς ζάχαρη.	sans	0	0
+Salut, Monde !	Γεια σου, κόσμε!	monde	0	0
+J'étais bien.	Ήμουν μια χαρά.	étais	0	0
+« Me comprenez-vous ? » « Je vous comprends parce que vous parlez lentement. »	«Με καταλαβαίνετε;» «Σας καταλαβαίνω γιατί μιλάτε αργά.»	parce	0	0
+Vous lavez-vous les mains avant de manger ?	Πλένετε τα χέρια σας πριν τον φαγητό;	avant	0	0
+Tu es sûr que tu n'as pas froid ?	Είσαι σίγουρος ότι δεν κρυώνεις;	sûr	0	0
+La bigamie, c'est quand on a une femme de trop.	Η διγαμία είναι όταν έχει κανείς μιά γυναίκα παραπάνω.	trop	0	0
+Quelqu'un a ri.	Κάποιος γέλασε.	quelqu'	0	0
+Puis-je parler à Tom, s'il vous plait ?	Μπορώ να μιλήσω στον Τομ, παρακαλώ;	parler	0	0
+Il ne restait personne d'autre que moi.	Κανένας δεν έμεινε, εκτός από μένα.	personne	0	0
+Je suis désolée. Je n'avais pas l'intention de te faire pleurer.	Συγγνωμη ,δεν ήθελα να σε κάνω να κλάψεις.	avais	0	0
+Je ne peux pas le dire à mon père.	Δε μπορώ να το πω στον πατέρα μου.	père	0	0
+Je crois qu'il va venir, mais je n'en suis pas sûr.	Νομίζω ότι θα έρθει, αλλά δεν είμαι σίγουρος.	crois	0	0
+La poussière cendre le paysage après l'éruption.	Μετά την έκρηξη, η σκόνη έκανε τις γύρω περιοχές γκρίζες	après	0	0
+J’obéis aux vouloirs d’une fille aux yeux pers.	Υπακούω στις επιθυμίες μιας κοπέλας με γαλαζοπράσινα μάτια.	aux	0	0
+Mars est le dieu de la guerre.	Ο Άρης είναι Θεός του πολέμου.	dieu	0	0
+Il est avec ses parents.	Αυτός είναι με τους γονείς του.	ses	0	0
+Je pense que tu te trompes.	Πιστεύω ότι κάνεις λάθος.	pense	0	0
+Je suppose que j'ai eu tort.	Υποθέτω πως είχα άδικο.	eu	0	0
+J'aime les pommes.	Λατρεύω τα μήλα.	aime	0	0
+Tom et Marie ont passé leur lune de miel à l’étranger.	Ο Τομ και η Μαρία πήγαν στο εξωτερικό για μήνα του μέλιτος.	leur	0	0
+Un homme à la mer !	Άνθρωπος στη θάλασσα!	homme	0	0
+Je viens de Boston.	Είμαι απ' τη Βοστώνη.	viens	0	0
+Il a salué la femme.	Αυτός χαιρέτησε τη γυναίκα.	femme	0	0
+Le fort doit aider le faible.	Ο δυνατός πρέπει να βοηθά τον αδύνατο.	doit	0	0
+Il n'est pire sourd que celui qui ne veut pas entendre.	Κανείς δεν είναι πιο κουφός από αυτόν που δεν θέλει να ακούσει.	veut	0	0
+Je suis né il y a 20 ans.	Γεννήθηκα πριν είκοσι χρόνια.	ans	0	0
+Ce médicament soigne le mal de tête.	Αυτό το φάρμακο βοηθάει για τον πονοκέφαλο.	mal	0	0
+Je t'attendais chez nous il y a une heure.	Σε περίμενα σπίτι μας εδώ και μία ώρα.	chez	0	0
+Tu t'en vas déjà ?	Φεύγεις κιόλας;	déjà	0	0
+Tom et Sue se connaissent depuis 1985.	Ο Τομ και η Σου γνωρίζονται από το 1985.	depuis	0	0
+Ma sœur aime beaucoup les enfants.	Η αδερφή μου αγαπάει πολύ τα παιδιά.	beaucoup	0	0
+Aimez vos camarades ! Aimez vos parents ! Aimez votre pays !	Αγαπήστε τους συντρόφους σας! Αγαπήστε τους γονείς σας! Αγαπήστε την πατρίδα σας!	vos	0	0
+Je ne suis pas sûr que ce soit une bonne idée.	Δεν είμαι σίγουρος ότι αυτή είναι καλή ιδέα.	bonne	0	0
+Je suis mort de fatigue.	Ψόφησα από την κούραση.	mort	0	0
+Je pense que nous ferions mieux de recommencer du départ.	Νομίζω πως θα κάναμε καλύτερα να ξεκινήσουμε πάλι από την αρχή.	mieux	0	0
+Tu t'en vas déjà ?	Φεύγεις κιόλας;	vas	0	0
+Marie est devenue une fille très charmante. Elle est brune et a les yeux verts comme sa mère.	Η Μαρί έχει γίνει ένα πολύ γοητευτικό κορίτσι. Είναι μελαχρινή και έχει πράσινα μάτια όπως η μητέρα της.	mère	0	0
+Au Japon, il sera difficile de trouver les livres qui sont sur cette liste.	Τα βιβλία σε εκείνο κατάλογο θα είναι δύσκολα να βρεθούν στην Ιαπωνία.	sera	0	0
+Elle fait l'insouciante, comme si elle n'était encore qu'une petite fille.	Συμπεριφέρεται χωρίς έγνοιες, σαν να είναι ακόμα μικρό κορίτσι.	fille	0	0
+Je ne veux pas de tes excuses.	Δε θέλω τις απολογίες σου.	tes	0	0
+Je veux que ces gens sortent d'ici.	Θέλω αυτοί οι άνθρωποι να βγούν από εδώ.	gens	0	0
+Quel était ton lieu de résidence ?	Ποιός ήταν ο τόπος διαμονής σου;	quel	0	0
+Tu vois la maison blanche ?	Το βλέπεις το άσπρο σπίτι;	vois	0	0
+Je suis désolé mais vos excuses sont inacceptables.	Λυπάμαι αλλά οι δικαιολογίες σου είναι απαράδεκτες.	désolé	0	0
+Nous avons étudié tout l'après-midi.	Διαβάζαμε όλο το απόγευμα.	avons	0	0
+Cinquante familles vivent dans ce petit village.	Πενήντα οικογένειες ζουν σε αυτό το μικρό χωριό.	petit	0	0
+Voyez-vous la maison blanche ?	Το βλέπετε το άσπρο σπίτι;	maison	0	0
+Je doute que ce soit de quelque intérêt pour vous.	Αμφιβάλλω πως αυτό θα έχει κάποιο ενδιαφέρον για σας.	soit	0	0
+Voudriez-vous expliquer cela ?	Θα θέλατε να το εξηγήσετε αυτό;	cela	0	0
+Toute sa famille va bien.	Όλοι στην οικογενειά του είναι εντάξει.	toute	0	0
+Elle travaillait du matin au soir.	Δούλευε απ'το πρωί ως το βράδυ.	soir	0	0
+Il est passé près de moi sans me regarder.	Αυτός πέρασε δίπλα μου, χωρίς να με κοιτάξει.	passé	0	0
+Je prends un bain une fois par jour.	Κάνω μπάνιο μια φορά την ημέρα.	jour	0	0
+Nous devons résister de toutes nos forces.	Πρέπει να αντισταθούμε με όλες μας τις δυνάμεις.	nos	0	0
+J'ai besoin de plus d'exemples pour savoir comment ce mot est utilisé.	Χρειάζομαι περισσότερα παραδείγματα, για να ξέρω πώς χρησιμοποιείται αυτή η λέξη.	savoir	0	0
+De leurs ennemis les sages apprennent bien des choses.	Άνθρωποι με φρόνηση πολλές φορές μαθαίνουν πολλά από τους εχθρούς τους.	choses	0	0
+Salut, mon ami. Comment allez-vous?	Γεια σου, φίλε μου. Τι κάνεις;	salut	0	0
+Je veux que cet ordinateur soit réparé.	Θέλω αυτός ο υπολογιστής να επισκευαστεί.	cet	0	0
+Quel est le nom de la plus haute montagne dans ce pays ?	Ποιο είναι το όνομα του πιο ψηλού βουνού σε εκείνη τη χώρα;	nom	0	0
+Ils n'ont pas besoin d'argent.	Δε χρειάζονται χρήματα.	argent	0	0
+Bonjour !	Καλημέρα!	bonjour	0	0
+Bonne nuit !	Καληνύχτα.	nuit	0	0
+Il est huit heures moins le quart.	Είναι οκτώ παρά τέταρτο.	moins	0	0
+L'automne arrive.	Έρχεται το φθινόπωρο.	arrive	0	0
+Reste encore un peu.	Κάτσε λίγο ακόμα.	reste	0	0
+Il a beaucoup de travail en ce moment.	Αυτός έχει πολλή δουλειά σ' αυτή τη στιγμή.	moment	0	0
+Je ne voulais pas fermer la porte.	Δεν ήθελα να κλείσω την πόρτα.	voulais	0	0
+Tu ne seras pas seul.	Δε θα είσαι μόνος.	seul	0	0
+Je ne peux pas l'aider.	Δεν μπορώ να τον βοηθήσω.	aider	0	0
+Vous avez l'air triste.	Φαίνεστε θλιμμένος.	air	0	0
+C'est bête de détester toutes les roses, sous prétexte qu'une d'entre elles t'a piqué.	Είναι ανόητο να μισείς όλα τα τριαντάφυλλα μόνο και μόνο επειδή ένα από αυτά σε τσίμπησε.	entre	0	0
+Est-ce que Papa est dans la cuisine ?	Είναι ο μπαμπάς στην κουζίνα;	papa	0	0
+Mon oncle d'Amérique passe toujours ses congés en Europe.	Ο θείος μου από τις ΗΠΑ περνάει πάντα τις διακοπές του στην Ευρώπη.	passe	0	0
+C'est vraiment un problème.	Αυτό είναι όντως ένα πρόβλημα.	problème	0	0
+J'ai peur de mon chef.	Φοβάμαι το αφεντικό μου.	peur	0	0
+Regarde le ciel.	Κοίτα τον ουρανό.	regarde	0	0
+Tom est un bon gars.	Ο Τομ είναι καλό αγόρι.	gars	0	0
+Je suis sûr que tu as trouvé ces pierres près du lac où nous nous sommes baignés.	Είμαι σίγουρος ότι βρήκες αυτές τις πέτρες κοντά στη λίμνη όπου κάναμε μπάνιο.	trouvé	0	0
+Le fils prodigue est rentré à la maison.	Ο άσωτος υιός επέστρεψε σπίτι.	fils	0	0
+J'attends un coup de fil important.	Περιμένω ένα σημαντικό τηλεφώνημα.	attends	0	0
+J'ai marché jusqu'ici.	Περπάτησα ως εδώ.	jusqu'	0	0
+Au Japon, il sera difficile de trouver les livres qui sont sur cette liste.	Τα βιβλία σε εκείνο κατάλογο θα είναι δύσκολα να βρεθούν στην Ιαπωνία.	trouver	0	0
+Je mange de la viande trois fois par semaine.	Τρώω κρέας τρείς φορές την εβδομάδα.	trois	0	0
+J'en sais déjà assez long sur vous.	Ξέρω ήδη αρκετά για σένα.	assez	0	0
+Il est le mouton noir de la famille.	Είναι το μαύρο πρόβατο της οικογένειας.	famille	0	0
+Nous devons résister de toutes nos forces.	Πρέπει να αντισταθούμε με όλες μας τις δυνάμεις.	toutes	0	0
+Du poisson s'il vous plaît.	Ψάρι, παρακαλώ.	plaît	0	0
+Il pourrait ne pas venir.	Μπορεί να μην έρθει.	pourrait	0	0
+Le travail ne tardera pas à finir.	Η δουλειά δεν θα αργήσει να τελειώσει.	travail	0	0
+J'ai pris une précieuse leçon.	Πήρα ένα πολύτιμο μάθημα.	pris	0	0
+Il n'a pas pu trouver d'emploi.	Δεν βρήκε δουλειά.	pu	0	0
+Ce médicament soigne le mal de tête.	Αυτό το φάρμακο βοηθάει για τον πονοκέφαλο.	tête	0	0
+Quelle belle vue !	Τι ωραία θέα!	quelle	0	0
+Elle sait parler le russe.	Αυτή γνωρίζει να ομιλεί ρώσικα.	sait	0	0
+Je suis sûr que tu as trouvé ces pierres près du lac où nous nous sommes baignés.	Είμαι σίγουρος ότι βρήκες αυτές τις πέτρες κοντά στη λίμνη όπου κάναμε μπάνιο.	sommes	0	0
+Tout d'abord il faut que j'appelle Jim.	Πρώτα πρώτα, πρέπει να καλέσω στον Jim.	appelle	0	0
+Il reviendra dans quelques jours.	Αυτός θα επιστρέψει σε μερικές μέρες.	quelques	0	0
+Ne faites jamais quoi que ce soit pour simplement prouver que vous en êtes capables.	Ποτέ μην κάνετε κάτι μόνον για να αποδείξετε, ότι μπορείτε.	faites	0	0
+Le mariage est une aventure, comme de partir à la guerre.	Ο γάμος είναι μιά περιπέτεια, όπως όταν πηγαίνεις στον πόλεμο.	partir	0	0
+Il marche vite.	Βαδίζει γρήγορα.	vite	0	0
+Arrête de traîner les pieds.	Σταμάτα να σέρνεις τα πόδια σου.	arrête	0	0
+Elle vit seule.	Ζεί μόνη.	seule	0	0
+Si je pouvais faire un vœu, ce serait de mettre fin au chômage dans le monde entier.	Αν μπορούσα να κάνω μια ευχή, θα ήταν να τερματιστεί η ανεργία σε όλον τον κόσμο.	serait	0	0
+Il a décidé de vendre sa voiture.	Αυτός αποφάσισε να πουλήσει το αυτοκίνητό του.	voiture	0	0
+Combien d'enfants avez-vous déjà ?	Πόσα παιδιά έχετε;	enfants	0	0
+Je vais le tuer.	Θα τον σκοτώσω.	tuer	0	0
+Ce billet est valable pendant trois jours.	Αυτό το εισιτήριο ισχύει για τρεις ημέρες.	pendant	0	0
+Je crois que c'est une bonne idée.	Νομίζω ότι αυτό είναι μια καλή ιδέα.	idée	0	0
+Je n'ai vraiment pas de chance !	Πραγματικά δεν έχω τύχη!	chance	0	0
+L'hôtelier parle anglais, français et grec.	Ο ξενοδόχος μιλάει αγγλικά, γαλλικά και ελληνικά.	parle	0	0
+Si voter changeait quelque chose, on l'aurait interdit.	Αν οι εκλογές αλλάζαν κάτι, θα ήταν παράνομες.	aurait	0	0
+Je veux ma part de l'argent.	Θέλω το μερίδιό μου από τα χρήματα.	part	0	0
+Elles ont perdu à nouveau.	Πάλι έχασαν.	elles	0	0
+Il reviendra dans quelques jours.	Αυτός θα επιστρέψει σε μερικές μέρες.	jours	0	0
+Vous êtes plus grand que moi.	Είστε ψηλότερος από μένα.	grand	0	0
+La police va-t-elle venir ?	Θα έρθει η αστυνομία;	venir	0	0
+Salut, mon ami. Comment allez-vous?	Γεια σου, φίλε μου. Τι κάνεις;	ami	0	0
+Ne remets pas à demain ce que tu peux faire le jour-même.	Μην αναβάλλεις για αύριο ό,τι μπορείς να κάνεις σήμερα.	demain	0	0
+Je téléphonerai plus tard.	Θα τηλεφωνήσω αργότερα.	tard	0	0
+Il faudra passer par-dessus mon cadavre !	Πρέπει να περάσεις πάνω από το πτώμα μου!	passer	0	0
+Je n'ai pas de petite copine.	Δεν έχω κοπέλα.	petite	0	0
+Si un jour les nombreuses langues européennes viennent à disparaître, ce jour-là l’Europe – en tant que concept et projet – cessera d’exister.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	tant	0	0
+Je ne connais pas les faits.	Δε γνωρίζω τα γεγονότα.	connais	0	0
+Pour combien de jours vas-tu à Mykonos ?	Για πόσες μέρες πας στη Μύκονο;	combien	0	0
+Je me sens mal aujourd'hui.	Σήμερα αισθάνομαι άσχημα.	sens	0	0
+Vous pouvez téléphoner à Tom.	Μπορείτε να τηλεφωνήσετε στον Τομ.	pouvez	0	0
+Nous poussons la porte, et nous entrons dedans.	Σπρώχνομε την πόρτα και μπαίνουμε μέσα.	porte	0	0
+Que dis-tu de sortir pour une courte promenade ?	Τι λες για έναν περίπατο;	sortir	0	0
+Il est une heure moins vingt-cinq.	Είναι μία παρά είκοσι πέντε.	heure	0	0
+Il faut faire contre mauvaise fortune bon cœur.	Η φτώχια θέλει καλοπέραση.	contre	0	0
+J'attends un coup de fil important.	Περιμένω ένα σημαντικό τηλεφώνημα.	coup	0	0
+Tu ne comprends pas les femmes, Tom.	Δεν καταλαβαίνεις τις γυναίκες, Τομ.	comprends	0	0
+J'ai entendu un bruit de frein.	Άκουσα ένα θόρυβο φρένων.	entendu	0	0
+Notre avion vient d'arriver.	Μόλις έφτασε εδώ το αεροπλάνο μας.	vient	0	0
+Maintenant nous allons au lit.	Τώρα πάμε για ύπνο.	allons	0	0
+Nous avons grandi ensemble.	Μεγαλώσαμε μαζί.	ensemble	0	0
+Elles ont perdu à nouveau.	Πάλι έχασαν.	nouveau	0	0
+Je ne veux que votre amour.	Δε θέλω παρά την αγάπη σας.	amour	0	0
+Peu m'importe que vous me croyez ou non.	Λίγο με νοιάζει είτε με πιστεύετε είτε όχι.	importe	0	0
+Avez-vous perdu beaucoup de sang ?	Χάσατε πολύ αίμα;	sang	0	0
+Je suis désolée. Je n'avais pas l'intention de te faire pleurer.	Συγγνωμη ,δεν ήθελα να σε κάνω να κλάψεις.	désolée	0	0
+C'est bête de détester toutes les roses, sous prétexte qu'une d'entre elles t'a piqué.	Είναι ανόητο να μισείς όλα τα τριαντάφυλλα μόνο και μόνο επειδή ένα από αυτά σε τσίμπησε.	sous	0	0
+Combien de temps vas-tu rester au Japon ?	Πόσο καιρό θα μείνεις στην Ιαπωνία;	rester	0	0
+Je suis déçu que mes amis ne soient pas là.	Είμαι απογοητευμένος που οι φίλοι μου δεν είναι εδώ.	amis	0	0
+Je prends un bain une fois par jour.	Κάνω μπάνιο μια φορά την ημέρα.	prends	0	0
+Tous les hommes sont mortels, or les Grecs sont des hommes, donc les Grecs sont mortels.	Όλοι οι άνθρωποι είναι θνητοί, όλοι οι Έλληνες είναι άνθρωποι, επομένως όλοι οι Έλληνες είναι θνητοί.	hommes	0	0
+Personne n'a répondu à ma question.	Κανένας δεν απάντησε στην ερώτησή μου.	question	0	0
+La proue est la partie avant d'un bateau.	Η πλώρη είναι το μπροστινό μέρος του πλοίου.	partie	0	0
+Nous ne pouvons changer l'histoire, mais nous pouvons apprendre d'elle.	Δεν μπορούμε να αλλάξουμε την ιστορία, αλλά μπορούμε να μάθουμε από αυτή.	histoire	0	0
+Tu devrais m'écouter.	Πρέπει να με ακούσεις.	devrais	0	0
+Avez-vous besoin de notre aide ?	Χρειάζεστε τη βοήθειά μας;	aide	0	0
+Je ne peux pas me souvenir quand nous nous sommes rencontrés pour la dernière fois.	Δεν μπορώ να θυμηθώ, πότε συναντηθήκαμε για τελευταία φορά.	dernière	0	0
+Leur demande était pressante.	Το αίτημά τους ήταν πιεστικό.	demande	0	0
+Je pensais que tu étais blessé.	Νόμιζα πως ήσουν τραυματισμένος.	pensais	0	0
+Je n'aime pas ce genre de romans.	Δε μου αρέσει αυτό το ύφος μυθιστορημάτων.	genre	0	0
+Il nous donna non seulement des habits, mais aussi un peu d'argent.	Δε μας έδωσε μόνο ρούχα αλλά και λίγα χρήματα.	seulement	0	0
+Tom a été arrêté par la police.	Ο Τομ συνελήφθη από την αστυνομία.	police	0	0
+J'ai faim car je n'ai pas déjeuné.	Είμαι πεινασμένος επειδή δεν έφαγα μεσημεριανό.	car	0	0
+Tom et Nancy ont rompu le mois dernier.	Ο Τομ και η Νάνση τα χάλασαν το μήνα που μας πέρασε.	mois	0	0
+Mon frère est aussi ma sœur.	Ο αδελφός μου είναι επίσης η αδελφή μου.	frère	0	0
+John n'a aucun ami ici.	Ο Τζον δεν έχει φίλους εδώ.	aucun	0	0
+Il ne faut pas mettre la charrue devant les bœufs.	Μην κουνάς τα πόδια σου πριν καβαλικέψεις.	mettre	0	0
+Les miracles existent vraiment et nous croyons en eux.	Τα Θαύματα υπάρχουν στην πραγματικότητα, και εμείς πιστεύουμε σε αυτά.	eux	0	0
+Je vous laisse tirer vos propres conclusions.	Σας αφήνω να βγάλετε τα δικά σας συμπεράσματα.	laisse	0	0
+Chaque matin, je bois du café avec du lait.	Κάθε πρωί πίνω καφέ με γάλα.	chaque	0	0
+Tataouine est une ville du Maroc en face du détroit de Gibraltar et à 40 kilomètres à l'est de Tanger.	Το Τετουάν είναι μια πόλη του Μαρόκου απέναντι από το στενό του Γιβραλτάρ και 40 χιλιόμετρα ανατολικά της Ταγγέρης.	ville	0	0
+Celui-ci est arrivé à l'heure malgré la pluie.	Αυτός έφτασε στην ώρα του παρά τη βροχή.	arrivé	0	0
+Tom a parlé.	Ο Τομ μίλαγε.	parlé	0	0
+Avez-vous une bicyclette ?	Έχετε ποδήλατο;	avez-vous	0	0
+Ils vont dans la mauvaise direction.	Πηγαίνουν στη λάθος κατεύθυνση.	vont	0	0
+Cet article n'a aucune valeur.	Αυτό το άρθρο δεν έχει καμιά αξία.	aucune	0	0
+Il est trois heures et demie.	Είναι τρεισήμισι.	heures	0	0
+Il dort comme un bébé.	Κοιμάται σαν μωρό.	bébé	0	0
+Je ne veux pas revoir Tom.	Δε θέλω να ξαναδώ τον Τομ.	revoir	0	0
+Je suppose que tu ne m'as pas tout à fait compris.	Υποθέτω πως δε με έχεις καταλάβει πλήρως.	compris	0	0
+Il ne sait ni lire ni écrire.	Δεν ξέρει ούτε να γράφει ούτε να διαβάζει.	ni	0	0
+Je ne savais pas que tu étais un danseur professionnel.	Δεν ήξερα ότι είσαι επαγγελματίας χορευτής.	savais	0	0
+De leurs ennemis les sages apprennent bien des choses.	Άνθρωποι με φρόνηση πολλές φορές μαθαίνουν πολλά από τους εχθρούς τους.	leurs	0	0
+Si seulement mes oncles étaient millionnaires !	Να ήταν μονάχα οι θείοι μου εκατομμυριούχοι!	étaient	0	0
+Attention !	Προσοχή!	attention	0	0
+Peux-tu me donner un exemple ?	Μπορείς να μας δώσεις ένα παράδειγμα;	donner	0	0
+Je ne veux pas commenter cette affaire.	Δεν θέλω να σχολιάσω αυτή την υπόθεση.	affaire	0	0
+Je pensais que tu pourrais m'aider.	Νόμιζα πως θα μπορούσες να με βοηθήσεις.	pourrais	0	0
+Le bateau a sombré corps et biens.	Το πλοίο ναυάγησε χωρίς ούτε έναν επιζόντα.	corps	0	0
+Il existe une légende sur la façon dont le pont a été construit.	Υπάρχει ένας θρύλος για το πώς χτίστηκε η γέφυρα.	façon	0	0
+Sami a donné les clés à Leila.	Ο Σαμί έδωσε τα κλειδιά στη Λέιλα.	donné	0	0
+Tom est-il en train de rêver ?	Ονειρεύεται ο Τομ;	est-il	0	0
+Voici mon numéro de téléphone et mon courriel.	Εδώ είναι το τηλέφωνό μου και το e-mail.	voici	0	0
+Par quel train partiras-tu ?	Με ποιό τρένο θα φύγεις;	train	0	0
+Dieu est un cercle dont la circonférence est une droite.	Ο Θεός είναι ένας κύκλος του οποίου η περιφέρεια είναι μια ευθεία.	dont	0	0
+Écoute, j'ai besoin de te voir.	Άκου· έχω ανάγκη να σε δω.	écoute	0	0
+Il y avait de l'empathie dans ses yeux.	Υπήρχε εμπάθεια στα μάτια του.	yeux	0	0
+Excusez-moi. Où se trouve la boulangerie ?	Συγγνώμη. Πού είναι το αρτοποιείο;	trouve	0	0
+Je ferai tout ce qui est en mon pouvoir pour t'aider.	Θα κάνω ό,τι περνάει από το χέρι μου για να σε βοηθήσω.	pouvoir	0	0
+Elles ont perdu à nouveau.	Πάλι έχασαν.	perdu	0	0
+Est-ce ton premier jour à l'école ?	Είναι η πρώτη σου μέρα στο σχολείο;	premier	0	0
+Ma maison est à côté du grand arbre.	Το σπίτι μου είναι δίπλα στο μεγάλο δέντρο.	côté	0	0
+C'est une fleur tellement belle !	Είναι ένα τόσο ωραίο λουλούδι!	tellement	0	0
+Ouvre la paume de ta main.	Άνοιξε την παλάμη του χεριού σου.	main	0	0
+Je me tiens à l'ombre.	Στέκομαι στη σκιά.	tiens	0	0
+Je suis enfant unique.	Είμαι μοναχοπαίδι.	enfant	0	0
+Je suis plus vieux que lui.	Είμαι μεγαλύτερος απ' αυτόν.	vieux	0	0
+Levez-vous tôt demain matin !	Σηκωθείτε νωρίς αύριο το πρωί.	matin	0	0
+Pourquoi es-tu venu ici ce matin ?	Γιατί ήρθες εδώ σήμερα το πρωί;	venu	0	0
+Je suis né là-bas.	Γεννήθηκα εκεί.	là-bas	0	0
+Arrête tout de suite.	Σταμάτα αμέσως.	suite	0	0
+Je serai là dans quinze minutes.	Θα είμαι εκεί σε δεκαπέντε λεπτά.	minutes	0	0
+Elle lui a demandé de l'argent.	Αυτή του ζήτησε χρήματα.	demandé	0	0
+Il ne faut pas mettre la charrue devant les bœufs.	Μην κουνάς τα πόδια σου πριν καβαλικέψεις.	devant	0	0
+Personne ne peut m'arrêter.	Κανείς δεν μπορεί να με σταματήσει.	arrêter	0	0
+Je ne peux pas dormir à cause de toi.	Δεν κοιμάμαι εξαιτίας σου.	cause	0	0
+Vous pouvez utiliser ma nouvelle voiture.	Μπορείτε να χρησιμοποιήσετε το καινούργιο μου αυτοκίνητο.	nouvelle	0	0
+Je l'ai mise dans ta chambre.	Το έβαλα στο δωμάτιό σου.	chambre	0	0
+On ne peut apprendre au crabe à marcher droit.	Δεν μπορείς να διδάξεις ένα καβούρι να περπατάει ευθεία.	droit	0	0
+Il est parti sans rien dire.	Αυτός έφυγε χωρίς να πει τίποτε.	parti	0	0
+Je l'ai mis dans ta chambre.	Το έβαλα στο δωμάτιό σου.	mis	0	0
+Je n'aime pas l'eau minérale.	Δε μου αρέσει το μεταλλικό νερό.	eau	0	0
+Son compte rendu de l'accident concorde avec le vôtre.	Η αναφορά της για το ατύχημα συμπίπτει με τη δική σας	compte	0	0
+Tom ne le dirait jamais.	Ο Τομ δεν θα το έλεγε ποτέ αυτό.	dirait	0	0
+Le tremblement de terre s'est produit à minuit.	Ο σεισμός σημειώθηκε τα μεσάνυχτα.	terre	0	0
+Tel Aviv est une belle ville.	Το Τελ Αβίβ είναι μια όμορφη πόλη.	belle	0	0
+J'espère que non.	Ελπίζω πως όχι.	espère	0	0
+J'aimerais acheter une caméra comme celle-ci.	Θα ήθελα να πάρω μια κάμερα σαν αυτήν.	aimerais	0	0
+Qu'as-tu fait de mon stylo ? Il était ici il y a une minute.	Τι έχεις κάνει με τον στυλό μου; Ήταν εδώ πριν από ένα λεπτό.	as-tu	0	0
+Ton mari te trompe.	Ο σύζυγός σου σε απατάει.	mari	0	0
+La vie ne donne pas de cadeaux.	Η ζωή δεν δίνει δώρα.	donne	0	0
+Si je pouvais faire un vœu, ce serait de mettre fin au chômage dans le monde entier.	Αν μπορούσα να κάνω μια ευχή, θα ήταν να τερματιστεί η ανεργία σε όλον τον κόσμο.	fin	0	0
+Il faut le voir pour le croire.	Πρέπει να το δεις για να το πιστέψεις.	croire	0	0
+Je n'aime pas les gros chiens.	Δεν μου αρέσουν τα μεγάλα σκυλιά.	gros	0	0
+Selon l'un des gestionnaires de corpus, le berbère est une langue unique plutôt qu'un groupe de langues.	Σύμφωνα με έναν από τους διευθυντές του σώματος, τα βερβερικά είναι μια ενιαία γλώσσα και όχι μια ομάδα γλωσσών.	plutôt	0	0
+Je suis prêt.	Είμαι έτοιμος.	prêt	0	0
+J'ai deux filles.	Έχω δύο κόρες.	filles	0	0
+Il y a un coffre-fort dans le bureau de Tom.	Υπάρχει ένα χρηματοκιβώτιο στο γραφείο του Τομ.	bureau	0	0
+Tu vas mourir.	Θα πεθάνεις.	mourir	0	0
+Je n'ai reçu ta lettre qu'hier.	Μόλις πήρα το γράμμα σου χθές.	hier	0	0
+Je veux une réponse de ta part aussi tôt que possible.	Θέλω μιά απάντηση από σένα κατά το δυνατό συντομότερα.	possible	0	0
+Il aime jouer au foot.	Του αρέσει να παίζει ποδόσφαιρο.	jouer	0	0
+Tom est du genre à toujours réclamer que quelque chose soit fait plutôt que de demander que cela soit fait.	Ο Τομ είναι ο τύπος που πάντα εκλιπαρεί να γίνει κάτι αντί να ζητά να γίνει.	demander	0	0
+Il n'est pire sourd que celui qui ne veut pas entendre.	Κανείς δεν είναι πιο κουφός από αυτόν που δεν θέλει να ακούσει.	celui	0	0
+Il est non seulement intelligent, mais aussi beau.	Αυτός δεν είναι μόνο έξυπνος, αλλά και ωραίος.	beau	0	0
+Jane s'est mariée jeune.	Η Τζέιν παντρεύτηκε νέα.	jeune	0	0
+N'y a-t-il aucune alternative à votre méthode ?	Υπάρχει καμία εναλλακτική στη μέθοδό σας;	a-t-il	0	0
+Je veux que tu me dises la vérité.	Θέλω να μου πεις την αλήθεια.	vérité	0	0
+Je suis allée à ton école.	Πήγα στο σχολείο σου.	école	0	0
+J'ai peur de mon chef.	Φοβάμαι το αφεντικό μου.	chef	0	0
+Vous ne comprenez pas les femmes, Tom.	Δεν καταλαβαίνετε τις γυναίκες, Τομ.	femmes	0	0
+Tout ce que je sais, c'est qu'elle est partie la semaine dernière.	Το μόνο που ξέρω είναι ότι έφυγε την περασμένη εβδομάδα.	semaine	0	0
+Cet homme veut vivre une vie heureuse.	Αυτός ο άνθρωπος θέλει να ζήσει ευτυχισμένη ζωή.	vivre	0	0
+Aujourd'hui fut une journée très difficile.	Σήμερα ήταν πολύ δύσκολη μέρα.	journée	0	0
+Tom, il y a ton téléphone qui sonne.	Τομ, το τηλέφωνό σου χτυπάει.	téléphone	0	0
+Il est passé près de moi sans me regarder.	Αυτός πέρασε δίπλα μου, χωρίς να με κοιτάξει.	près	0	0
+J'en veux un meilleur que ça.	Θέλω ένα καλύτερο αυτού.	meilleur	0	0
+Vous devez venir avec moi.	Πρέπει να 'ρθείτε μαζί μου.	devez	0	0
+Vous lavez-vous les mains avant de manger ?	Πλένετε τα χέρια σας πριν τον φαγητό;	mains	0	0
+Tu ne penses pas que tu exagères un peu ?	Δεν νομίζεις ότι υπερβάλλεις λίγο;	penses	0	0
+Je te prie de m'excuser si je t'ai blessé.	Σε παρακαλώ να με συγχωρήσεις εάν σε έχω πληγώσει.	prie	0	0
+Tu es plus grande que moi.	Είσαι ψηλότερη από μένα.	grande	0	0
+Vous lavez-vous les mains avant de manger ?	Πλένετε τα χέρια σας πριν τον φαγητό;	manger	0	0
+Notre avion vient d'arriver.	Μόλις έφτασε εδώ το αεροπλάνο μας.	arriver	0	0
+Elle travaille aussi dur que n'importe qui.	Αυτή δουλεύει τόσο σκληρά όσο οποιοσδήποτε άλλος.	dur	0	0
+Le mariage est une aventure, comme de partir à la guerre.	Ο γάμος είναι μιά περιπέτεια, όπως όταν πηγαίνεις στον πόλεμο.	guerre	0	0
+J'ai appelé à l'aide.	Ζήτησα βοήθεια.	appelé	0	0
+Il marche rapidement.	Βαδίζει γρήγορα.	marche	0	0
+Tu seras en sécurité.	Θα είσαι ασφαλής.	sécurité	0	0
+« Le garçon parle-t-il français ? » « Non, il ne parle pas français, il parle grec. »	«Μιλάει γαλλικά το γκαρσονι;» «Όχι, δε μιλάει γαλλικά, μιλάει ελληνικά.»	garçon	0	0
+Essaie cela !	Δοκίμασε αυτό!	essaie	0	0
+J'attends un coup de fil important.	Περιμένω ένα σημαντικό τηλεφώνημα.	important	0	0
+Les abeilles font du miel.	Οι μέλισσες κάνουν μέλι.	font	0	0
+Le fort doit aider le faible.	Ο δυνατός πρέπει να βοηθά τον αδύνατο.	fort	0	0
+Il est presque toujours chez lui.	Είναι σχεδόν πάντα σπίτι του.	presque	0	0
+Ils peuvent faire leurs activités de plein air dans le parc, à l'ombre des grands arbres.	Μπορούν να κάνουν τις υπαίθριες δραστηριότητες τους στο πάρκο, στη σκιά των μεγάλων δέντρων.	plein	0	0
+Le mariage est une aventure, comme de partir à la guerre.	Ο γάμος είναι μιά περιπέτεια, όπως όταν πηγαίνεις στον πόλεμο.	mariage	0	0
+Les parents de Tom ont divorcé quand il était encore très jeune.	Οι γονείς του Τομ πήραν διαζύγιο, όταν ήταν ακόμα πολύ μικρός.	parents	0	0
+Tom et Nancy ont rompu le mois dernier.	Ο Τομ και η Νάνση τα χάλασαν το μήνα που μας πέρασε.	dernier	0	0
+Je l'aime comme un fou.	Τον αγαπάω σαν τρελός.	fou	0	0
+L'avenir appartient à ceux qui croient à la beauté de leurs rêves.	Το μέλλον ανήκει σε εκείνους που πιστεύουν στην ομορφιά των ονείρων τους.	ceux	0	0
+J'ai failli tomber.	Παραλίγο να πέσω.	tomber	0	0
+Je lui ai dit d'attendre un peu.	Της ζήτησα να περιμένει γία λίγο.	attendre	0	0
+Quelle belle vue !	Τι ωραία θέα!	vue	0	0
+Je me souviens du visage de l'homme, mais j'ai oublié son nom.	Θυμάμαι το πρόσωπο του άντρα, αλλά ξέχασα το όνομά του.	souviens	0	0
+As-tu envie d'une balade à vélo ?	Έχεις όρεξη για μιά βόλτα με ποδήλατο;	envie	0	0
+Malheureux au jeu, heureux en amour.	Όποιος χάνει στα χαρτιά, κερδίζει στην αγάπη.	jeu	0	0
+J'aime mon pays.	Αγαπώ τη χώρα μου.	pays	0	0
+Il est en garde à vue.	Είναι υπό κράτηση.	garde	0	0
+Nous avons choisi le numéro au hasard.	Διαλέξαμε τον αριθμό στην τύχη.	numéro	0	0
+Combien de personnes vivent en Australie ?	Πόσοι άνθρωποι ζουν στην Αυστραλία;	personnes	0	0
+Je me suis levée à cinq heures du matin.	Σηκώθηκα στις πέντε το πρωί.	cinq	0	0
+Tu es parfait à tout.	Είσαι σε όλα τέλειος.	parfait	0	0
+Excusez-moi, combien cela coûte ?	Παρακαλώ, πόσο κάνει αντό;	excusez-moi	0	0
+Le papier, invention chinoise vieille d’environ deux mille ans, a laissé une marque indélébile sur toutes les civilisations.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	laissé	0	0
+Et c'est ainsi que je fis la connaissance du petit prince.	Και κάπως έτσι γνώρισα τον μικρό πρίγκιπα.	ainsi	0	0
+Donne-moi une minute.	Δώστε μου ένα λεπτό.	minute	0	0
+Il a essayé, et il l'a fait.	Προσπάθησε και το κατάφερε.	essayé	0	0
+Disposez-vous d'un instant ?	Έχετε μια στιγμή;	instant	0	0
+Je serai libre à sept heures.	Θα είμαι ελεύθερος στις επτά η ώρα.	serai	0	0
+Elle peut te mettre en prison pour adultère.	Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	prison	0	0
+Donnez-moi du temps pour y penser.	Δώστε μου λίγο χρόνο να το σκεφτώ.	penser	0	0
+Comment prononce-t-on ce mot ?	Πώς προφέρεται αυτή η λέξη;	mot	0	0
+Je fis semblant de travailler.	Έκανα πως δουλεύω.	travailler	0	0
+Il est quatre heures et demie du matin.	Είναι τέσσερις και μισή το πρωί.	quatre	0	0
+Je vais regarder la télé.	Θα παρακολουθήσω τηλεόραση.	regarder	0	0
+Pourquoi n'êtes-vous pas venu ?	Γιατί δεν ήρθατε;	êtes-vous	0	0
+Les chauves-souris sont des animaux qui volent la nuit et qui dorment parfois dans des grottes.	Οι νυχτερίδες είναι ζώα που πετούν τη νύχτα και μερικές φορές κοιμούνται σε σπηλιές.	parfois	0	0
+Il faut que tu voies ce film.	Πρέπει να δεις αυτή την ταινία.	film	0	0
+Tout d'abord il faut que j'appelle Jim.	Πρώτα πρώτα, πρέπει να καλέσω στον Jim.	abord	0	0
+Est-ce que vous voyez la maison blanche ?	Το βλέπετε το άσπρο σπίτι;	voyez	0	0
+C'est facile.	Αυτό είναι εύκολο.	facile	0	0
+Je croyais que tu serais heureux de me voir.	Νόμιζα πως θα ήσουν ευτυχής που με βλέπεις.	croyais	0	0
+Cela m'a fait changer d'avis.	Αυτό με έκανε να αλλάξω γνώμη.	changer	0	0
+Il n'est pire sourd que celui qui ne veut pas entendre.	Κανείς δεν είναι πιο κουφός από αυτόν που δεν θέλει να ακούσει.	entendre	0	0
+Oui, avec plaisir !	Ναι, ευχαρίστως.	plaisir	0	0
+Tu as dit que tu étais heureux.	Είπες ότι είσαι ευτυχισμένος.	heureux	0	0
+« Que voudriez-vous ? » « Je voudrais un chien. »	"Τι θα θέλατε;" "Θα ήθελα έναν σκύλο."	voudrais	0	0
+Pourquoi n'es-tu pas venu ?	Γιατί δεν ήρθες;	es-tu	0	0
+Le verre est propre.	Το ποτήρι είναι καθαρό.	propre	0	0
+Vous avez dit que vous étiez heureuse.	Είπατε ότι είστε ευτυχισμένη.	étiez	0	0
+À qui le tour ?	Τίνος σειρά είναι;	tour	0	0
+Il fera chaud aujourd'hui.	Θα κάνει ζέστη σήμερα.	fera	0	0
+Tu ne croiras pas ce qui est arrivé ensuite.	Δε θα πιστέψεις τι έγινε μετά.	ensuite	0	0
+Maintenant nous allons au lit.	Τώρα πάμε για ύπνο.	lit	0	0
+Il travaille huit heures par jour.	Αυτός δουλεύει οχτώ ώρες την ημέρα.	travaille	0	0
+J'adore mes parents.	Αγαπώ τους γονείς μου.	adore	0	0
+Thomas est amoureux de sa meilleure amie.	Ο Τομά είναι ερωτευμένος με την καλύτερή του φίλη.	amie	0	0
+Je veux juste vous le rendre.	Θέλω απλά να σας το ανταποδώσω.	rendre	0	0
+Une voiture a coupé la route.	Ένα αυτοκίνητο έκανε προσπέραση.	route	0	0
+Le couple avait déjà versé un acompte pour le lieu de l'événement, pour le photographe et pour la créatrice de la robe de mariée.	Το ζευγάρι είχε ήδη δώσει προκαταβολή στον χώρο της εκδήλωσης, στον φωτογράφο και στην σχεδιάστρια του νυφικού.	lieu	0	0
+Janvier est le premier mois de l'année.	Ο Ιανουάριος είναι ο πρώτος μήνας του χρόνου.	année	0	0
+On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.	Μπορείτε να δείτε καθαρά μόνο με την καρδιά σας. Αυτό που είναι ουσιώδες είναι αόρατο στο μάτι.	voit	0	0
+À quelle heure commence l'examen ?	Τι ώρα αρχίζει το διαγώνισμα;	commence	0	0
+Êtes-vous hors de service cette nuit ?	Είστε εκτός υπηρεσίας σήμερα το βράδυ;	service	0	0
+Le service militaire est aussi un devoir patriotique.	Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	devoir	0	0
+Être mère est plus difficile que je ne le pensais.	Το να είμαι μητέρα είναι πιο δύσκολο απ' ό,τι νόμιζα.	difficile	0	0
+Il n'est pire sourd que celui qui ne veut pas entendre.	Κανείς δεν είναι πιο κουφός από αυτόν που δεν θέλει να ακούσει.	pire	0	0
+Les ennemis d'hier peuvent être les amis de demain.	Οι χθεσινοί εχθροί μπορεί να είναι οι αυριανοί φίλοι.	peuvent	0	0
+Je n'ai rien a dire à ce sujet.	Δεν έχω να πω τίποτα πάνω σ' αυτό το θέμα.	sujet	0	0
+Je m'en vais, mais l'État demeurera toujours.	Εγώ φεύγω, αλλά το κράτος θα παραμείνει πάντα.	état	0	0
+Je ne signerai pas ceci.	Δε θα το υπογράψω αυτό.	ceci	0	0
+Une langue est un grand trésor qu'il ne faut pas perdre.	Η γλώσσα είναι ένας μεγάλος θησαυρός που δεν πρέπει να χαθεί.	perdre	0	0
+Elle est morte dans ses bras.	Αυτή του πέθανε στα χέρια του.	morte	0	0
+La cascade faisait beaucoup de bruit.	Ο καταρράκτης έκανε πολύ θόρυβο.	faisait	0	0
+Je me souviens du visage de l'homme, mais j'ai oublié son nom.	Θυμάμαι το πρόσωπο του άντρα, αλλά ξέχασα το όνομά του.	oublié	0	0
+Arrêtez tout de suite.	Σταματήστε αμέσως.	arrêtez	0	0
+Je ferai tout ce qui est en mon pouvoir pour vous aider.	Θα κάνω ό,τι περνάει από το χέρι μου για να σας βοηθήσω.	ferai	0	0
+Je croyais que tu serais heureux de me voir.	Νόμιζα πως θα ήσουν ευτυχής που με βλέπεις.	serais	0	0
+Il est encore trop tôt.	Είναι ακόμα πολύ νωρίς.	tôt	0	0
+Je dois payer le loyer.	Έχω να πληρώσω το νοίκι.	payer	0	0
+Roberto rencontre Jun dans les rues de la ville et dès lors, une étrange symbiose entre les deux commence.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	dès	0	0
+C'est dommage que tu ne pouvais pas venir.	Κρίμα που δεν μπορούσες να έρθεις.	pouvais	0	0
+Merci, et reviens vite.	Ευχαριστώ και επιστρέψτε γρήγορα.	reviens	0	0
+Ma femme s'est bien occupée du chien.	Η γυναίκα μου ασχολείται πολύ με το σκύλο.	chien	0	0
+Vous pensez qu'ils me soupçonnent ?	Νομίζεις ότι με υποπτεύονται;	pensez	0	0
+Elle adore le café.	Λατρεύει τον καφέ.	café	0	0
+Tom est très calme.	Ο Τομ είναι πολύ ήσυχος.	calme	0	0
+Cherche dans le dictionnaire les mots que tu ne connais pas.	Ψάξε στο λεξικό τις λέξεις που δε γνωρίζεις.	cherche	0	0
+Il faut que tu lui parles.	Πρέπει να της μιλήσεις.	parles	0	0
+Ferme la fenêtre.	Κλείσε το παράθυρο.	ferme	0	0
+Il faut faire contre mauvaise fortune bon cœur.	Η φτώχια θέλει καλοπέραση.	cœur	0	0
+Il ne reviendrait sûrement pas.	Σίγουρα δεν θα επέστρεφε.	sûrement	0	0
+Le verre est propre.	Το ποτήρι είναι καθαρό.	verre	0	0
+Est-ce que tu aimes la musique ?	Σ' αρέσει η μουσική;	aimes	0	0
+Nous devons immédiatement le sauver.	Πρέπει να τον σώσουμε άμεσα.	devons	0	0
+Je doute qu'il pleuvra.	Αμφιβάλλω πως θα βρέξει.	doute	0	0
+J'aime la musique.	Μ' αρέσει η μουσική.	musique	0	0
+Surgit la question : « Internet est-il aussi un moyen de communication de masse ? »	Τίθεται το ερώτημα: " Είναι και το ίντερνετ ένα μέσο μαζικής ενημέρωσης; "	moyen	0	0
+Puis-je t'aider ?	Μπορώ να σε βοηθήσω;	puis-je	0	0
+Je ne vais pas vous faire changer d'avis.	Δεν πρόκειται να σας αλλάξω γνώμη.	avis	0	0
+Nous devons immédiatement le sauver.	Πρέπει να τον σώσουμε άμεσα.	sauver	0	0
+La société Coca-Cola inventa le Fanta, en pleine Seconde Guerre mondiale, pour le marché allemand.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	seconde	0	0
+J'ai du mal à comprendre ce qu'ils disent.	Δυσκολεύομαι να καταλάβω τι λένε.	comprendre	0	0
+L'amour lui a fait perdre l'esprit.	Ο έρωτας τον έκανε να χάσει τα μυαλά του.	esprit	0	0
+J'ai marché jusqu'ici.	Περπάτησα ως εδώ.	marché	0	0
+Fous le camp !	Τσακίσου!	fous	0	0
+Laisse-moi rire !	Ας γελάσω!	laisse-moi	0	0
+Haut les mains !	Ψηλά τα χέρια!	haut	0	0
+Dis-lui que tu es malade.	Πες της ότι είσαι άρρωστη.	malade	0	0
+Ma vue a changé.	Η οπτική μου έχει αλλάξει.	changé	0	0
+C'est très gentil de votre part.	Αυτό είναι πολύ ευγενικό εκ μέρους σας.	gentil	0	0
+Je suis allé à votre école.	Πήγα στο σχολείο σας.	allé	0	0
+Un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	six	0	0
+Tout est plus simple.	Όλα είναι πιο απλά.	simple	0	0
+John Locke, le philosophe bien connu de la liberté, était actionnaire de la Royal African Company, qui achetait et vendait des esclaves.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	john	0	0
+Il n'est pire eau que celle qui dort.	Τα σιγανά ποτάμια να φοβάσαι.	celle	0	0
+Je suppose que j'ai eu tort.	Υποθέτω πως είχα άδικο.	suppose	0	0
+Ce chemin est dangereux.	Αυτό το μονοπάτι είναι επικίνδυνο.	chemin	0	0
+Elle est morte dans ses bras.	Αυτή του πέθανε στα χέρια του.	bras	0	0
+J'ai l'intention d'aller en France l'année prochaine.	Σκοπεύω τον επόμενο χρόνο να πάω στη Γαλλία.	prochaine	0	0
+Tom a quelque chose sur son visage.	Ο Τομ έχει κάτι πάνω στο πρόσωπό του.	visage	0	0
+L'enseignement est la meilleure forme d'apprentissage.	Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	meilleure	0	0
+Je me suis retrouvée face à face avec mon ex-mari.	Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	face	0	0
+Je pense que nous allons être en retard.	Νομίζω πως θα αργήσουμε.	retard	0	0
+Il me l'a écrit en latin.	Μου το έγραψε στα λατινικά.	écrit	0	0
+Ce livre a pour sujet les étoiles.	Αυτό το βιβλίο είναι για τα αστέρια.	livre	0	0
+Quand avez-vous eu votre dernier rapport sexuel ?	Πότε είχατε την τελευταία σας σεξουαλική επαφή;	rapport	0	0
+Voulez-vous déjeuner avec moi ?	Θέλετε να γευματίσετε μαζί μου;	voulez-vous	0	0
+Et mes deux chats sont morts.	Κι οι δύο γάτες μου ψόφησαν.	morts	0	0
+Nous ne pouvons pas boire de lait.	Δεν μπορούμε να πιούμε γάλα.	boire	0	0
+M. Smith a été annoncé comme le nouveau président.	Ανακοινώθηκε ότι ο κ. Σμιθ θα ήταν ο επόμενος πρόεδρος.	président	0	0
+Puis-je parler à Tom, s'il vous plait ?	Μπορώ να μιλήσω στον Τομ, παρακαλώ;	plait	0	0
+Je bois le thé sans sucre.	Πίνω το τσάι χωρίς ζάχαρη.	bois	0	0
+Il y a une erreur dans cette phrase.	Υπάρχει ένα λάθος σε αυτή τη φράση.	erreur	0	0
+Il habite à New York.	Μένει στη Νέα Υόρκη.	new	0	0
+Je n'oublierai jamais notre premier rendez-vous.	Δεν θα ξεχάσω ποτέ το πρώτο μας ραντεβού.	rendez-vous	0	0
+Bob ne joue pas que de la guitare, il joue aussi de la flûte.	Ο Μπομπ δεν παίζει μόνο κιθάρα αλλά και φλάουτο.	joue	0	0
+Je suis pauvre.	Είμαι φτωχός.	pauvre	0	0
+Je veux devenir linguiste.	Θέλω να γίνω γλωσσολόγος.	devenir	0	0
+Je suis enchanté de vous rencontrer.	Είμαι ευτυχής που σας συναντώ.	rencontrer	0	0
+La vapeur sort de la marmite.	Από την κατσαρόλα βγαίνει ατμός.	sort	0	0
+Il ne pouvait pas jouer de la guitare.	Δεν μπορούσε να παίξει κιθάρα.	pouvait	0	0
+Souvent femme varie, bien fol est qui s’y fie.	Οι γυναίκες συχνά διαφέρουν και είναι ανόητο να βασίζεστε σε αυτές.	souvent	0	0
+Je n'ai reçu ta lettre qu'hier.	Μόλις πήρα το γράμμα σου χθές.	reçu	0	0
+Ayant fermé toutes les portes, je suis allé dormir.	Κλείνοντας όλες τις πόρτες, πήγα για ύπνο.	dormir	0	0
+On se verra au nouvel an.	Θα ιδωθούμε τον καινούριο χρόνο.	an	0	0
+Selon l'un des gestionnaires de corpus, le berbère est une langue unique plutôt qu'un groupe de langues.	Σύμφωνα με έναν από τους διευθυντές του σώματος, τα βερβερικά είναι μια ενιαία γλώσσα και όχι μια ομάδα γλωσσών.	groupe	0	0
+Un voyage jusqu'à la lune n'est plus un rêve.	Ένα ταξίδι στο φεγγάρι δεν είναι πλέον ένα όνειρο.	rêve	0	0
+Cela n'est pas sur la carte.	Αυτό δεν υπάρχει στο χάρτη.	carte	0	0
+La cuisine de ma mère me manque.	Μου λείπει η μαγειρική της μαμάς μου.	manque	0	0
+Elle m'a envoyé une lettre.	Αυτή μου έστειλε ένα γράμμα.	envoyé	0	0
+Écoutez, j'ai besoin de vous voir.	Ακούστε· έχω ανάγκη να σας δω.	écoutez	0	0
+Laissez-moi seule, s'il vous plaît.	Άσε με ν' απομείνω μόνη μου, σε παρακαλώ.	laissez-moi	0	0
+Es-tu content ?	Είσαι ικανοποιημένος;	content	0	0
+J'ai un secret.	Έχω ένα μυστικό.	secret	0	0
+Une bonne pensée m'est venue à l'esprit.	Μια καλή σκέψη πέρασε απ'το μυαλό μου.	venue	0	0
+Ce n'est pas cher.	Δεν είναι ακριβό.	cher	0	0
+Dis-moi le nom du neuvième mois.	Πες μου το όνομα του ένατου μήνα.	dis-moi	0	0
+J'ai acheté un nouveau sac.	Αγόρασα μια καινούρια τσάντα.	sac	0	0
+J'aimerais acheter une caméra comme celle-ci.	Θα ήθελα να πάρω μια κάμερα σαν αυτήν.	acheter	0	0
+Il n'a pas même reconnu ma voix.	Δεν αναγνώρισε καν τη φωνή μου.	voix	0	0
+Chaque veille de Noël, nous allons à l'église.	Κάθε παραμονή Χριστουγέννων πηγαίνουμε στην εκκλησία.	noël	0	0
+Une ampoule est un globe en verre qui fait de la lumière grâce à l'électricité.	Ένας λαμπτήρας είναι μια γυάλινη σφαίρα που παράγει φως χρησιμοποιώντας ηλεκτρική ενέργεια.	grâce	0	0
+Ni Dieu, ni maître.	Ουτε θεό ούτε αφέντη.	maître	0	0
+Ils vont dans la mauvaise direction.	Πηγαίνουν στη λάθος κατεύθυνση.	mauvaise	0	0
+Pouvez-vous deviner mon âge ?	Μπορείτε να μαντέψετε την ηλικία μου;	âge	0	0
+J'en sais déjà assez long sur vous.	Ξέρω ήδη αρκετά για σένα.	long	0	0
+Les fenêtres donnent sur la rue.	Τα παράθυρα βλέπουν στο δρόμο.	rue	0	0
+Je vous laisse tirer vos propres conclusions.	Σας αφήνω να βγάλετε τα δικά σας συμπεράσματα.	tirer	0	0
+On ne peut apprendre au crabe à marcher droit.	Δεν μπορείς να διδάξεις ένα καβούρι να περπατάει ευθεία.	apprendre	0	0
+Il a les cheveux blonds.	Έχει ξανθιά μαλλιά.	cheveux	0	0
+Il est le mouton noir de la famille.	Είναι το μαύρο πρόβατο της οικογένειας.	noir	0	0
+Ils n'avaient pas peur.	Αυτοί δε φοβήθηκαν.	avaient	0	0
+J'ai peur de mon patron.	Φοβάμαι το αφεντικό μου.	patron	0	0
+Je veux un avocat.	Θέλω ένα δικηγόρο.	avocat	0	0
+Ça n'a pas force de loi.	Δεν είναι νομικά δεσμευτικό.	force	0	0
+Pouvez-vous vous rappeler l'accident de façon précise ?	Μπορείτε να θυμηθείτε το ατύχημα με ακρίβεια;	accident	0	0
+Il sera là dans dix minutes.	Θα 'ναι εκεί σε δέκα λεπτά.	dix	0	0
+Le poisson cru n'est pas à mon goût.	Το ωμό ψάρι δεν είναι του γούστου μου.	cru	0	0
+Je déteste les gens qui parlent comme ça.	Μισώ τους ανθρώπους που μιλάν έτσι.	déteste	0	0
+C'est incroyable.	Είν' απίστευτο.	incroyable	0	0
+Bon voyage !	Καλό ταξίδι.	voyage	0	0
+J'ai sommeil, d'ailleurs il est tard.	Νυστάζω, εξάλλου είναι αργά.	ailleurs	0	0
+Je n'oublie pas mes amis.	Δεν ξεχνώ τους φίλους μου.	oublie	0	0
+Pour moi ce nuage ressemble à un lapin.	Αυτό το σύννεφο μου μοιάζει σαν κουνέλι.	ressemble	0	0
+Bienvenue.	Καλώς ήρθατε.	bienvenue	0	0
+Je peux te protéger.	Μπορώ να σε προστατέψω.	protéger	0	0
+Le bibliothécaire vous montrera comment utiliser le catalogue en ligne.	Ο βιβλιοθηκονόμος θα σας δείξει πως χρησιμοποιούμε τον διαδικτυακό κατάλογο.	utiliser	0	0
+C'est une situation inédite.	Αυτή είναι μια πρωτοφανής κατάσταση.	situation	0	0
+J'aurai faim.	Θα πεινάσω.	aurai	0	0
+J'ai laissé mes clés sur la table. Veux-tu bien me les apporter ?	Άφησα τα κλειδιά μου στο τραπέζι. Μπορείς να μου τα φέρεις, σε παρακαλώ;	veux-tu	0	0
+Ne faites jamais quoi que ce soit pour simplement prouver que vous en êtes capables.	Ποτέ μην κάνετε κάτι μόνον για να αποδείξετε, ότι μπορείτε.	simplement	0	0
+Qui est ton metteur en scène préféré ?	Ποιός είναι ο αγαπημένος σου σκηνοθέτης;	scène	0	0
+Je montre les photos à ma sœur.	Δείχνω τις φωτογραφίες στην αδελφή μου.	sœur	0	0
+Je suis prête.	Είμαι έτοιμη.	prête	0	0
+Mon oncle et ma tante vivent en France.	Ο θείος μου και η θεία μου ζουν στη Γαλλία.	oncle	0	0
+Vous devriez m'écouter.	Πρέπει να με ακούσετε.	devriez	0	0
+Au Japon, il sera difficile de trouver les livres qui sont sur cette liste.	Τα βιβλία σε εκείνο κατάλογο θα είναι δύσκολα να βρεθούν στην Ιαπωνία.	liste	0	0
+Elle se plaignait d'une douleur sourde dans le dos.	Διαμαρτυρήθηκε για ένα έντονο πόνο στην πλάτη.	dos	0	0
+Il habite à New York.	Μένει στη Νέα Υόρκη.	york	0	0
+Le génocide arménien est un crime contre l'humanité.	Η γενοκτονία των Αρμενίων είναι έγκλημα κατά της ανθρωπότητας.	crime	0	0
+Joyeux anniversaire.	Χαρούμενα γενέθλια.	anniversaire	0	0
+Le travail ne tardera pas à finir.	Η δουλειά δεν θα αργήσει να τελειώσει.	finir	0	0
+Je voulais retourner à votre village.	Ήθελα να ξαναγυρίσω στο χωριό σας.	retourner	0	0
+Le couteau est sale.	Το μαχαίρι είναι βρόμικο.	sale	0	0
+Je serai libre à sept heures.	Θα είμαι ελεύθερη στις επτά η ώρα.	libre	0	0
+Mon père a arrêté de fumer.	Ο πατέρας μου έκοψε το κάπνισμα.	arrêté	0	0
+Tom est arrivé à l'hôtel.	Ο Τομ έφτασε στο ξενοδοχείο.	hôtel	0	0
+J'ai rencontré ton père hier.	Συνάντησα τον πατέρα σου χθες.	rencontré	0	0
+Cherche dans le dictionnaire les mots que tu ne connais pas.	Ψάξε στο λεξικό τις λέξεις που δε γνωρίζεις.	mots	0	0
+Il a décidé de vendre sa voiture.	Αυτός αποφάσισε να πουλήσει το αυτοκίνητό του.	décidé	0	0
+Je ne veux pas rater l'avion.	Δεν θέλω να χάσω την πτήση.	avion	0	0
+J'ai laissé mes clés sur la table. Veux-tu bien me les apporter ?	Άφησα τα κλειδιά μου στο τραπέζι. Μπορείς να μου τα φέρεις, σε παρακαλώ;	table	0	0
+J'aime le vin rouge.	Μ' αρέσει το κόκκινο κρασί.	rouge	0	0
+Je montre les photos à ma sœur.	Δείχνω τις φωτογραφίες στην αδελφή μου.	photos	0	0
+Appelez un médecin, s'il vous plaît !	Φωνάξτε έναν γιατρό, παρακαλώ!	médecin	0	0
+Tu seras en sécurité.	Θα είσαι ασφαλής.	seras	0	0
+La proue est la partie avant d'un bateau.	Η πλώρη είναι το μπροστινό μέρος του πλοίου.	bateau	0	0
+Mon dernier mari était vraiment stupide.	Ο τελευταίος μου άντρας ήταν πολύ ηλίθιος.	stupide	0	0
+Elles avaient faim.	Ήταν πεινασμένες.	faim	0	0
+La Terre tourne autour du Soleil.	Η Γη περιστρέφεται γύρω από τον Ήλιο.	autour	0	0
+Peu m'importe que vous me croyez ou non.	Λίγο με νοιάζει είτε με πιστεύετε είτε όχι.	croyez	0	0
+Je savais que je ne devais pas lui rendre visite, j'allai pourtant la voir.	Ήξερα πως δεν έπρεπε να την επισκεφτώ, ωστόσο πήγα να τη δω.	devais	0	0
+Le bibliothécaire vous montrera comment utiliser le catalogue en ligne.	Ο βιβλιοθηκονόμος θα σας δείξει πως χρησιμοποιούμε τον διαδικτυακό κατάλογο.	ligne	0	0
+Ton frère est très en colère.	Ο αδελφός σου είναι πολύ θυμωμένος.	colère	0	0
+Avons-nous gagné ?	Νικήσαμε;	gagné	0	0
+Tous les hommes sont mortels, or les Grecs sont des hommes, donc les Grecs sont mortels.	Όλοι οι άνθρωποι είναι θνητοί, όλοι οι Έλληνες είναι άνθρωποι, επομένως όλοι οι Έλληνες είναι θνητοί.	or	0	0
+Êtes-vous hors de service cette nuit ?	Είστε εκτός υπηρεσίας σήμερα το βράδυ;	hors	0	0
+Vous avez dit que vous étiez heureuse.	Είπατε ότι είστε ευτυχισμένη.	heureuse	0	0
+Elle est non seulement intelligente, mais aussi jolie.	Δεν είναι μόνο έξυπνη αλλά και όμορφη.	jolie	0	0
+Est-ce que vous parlez espéranto ?	Μιλάτε Εσπεράντο;	parlez	0	0
+Je vous ai acheté un cadeau.	Σας αγόρασα ένα δώρο.	cadeau	0	0
+Quelqu'un pourrait-il me l'expliquer ?	Μπορεί κανείς να μου το εξηγήσει;	expliquer	0	0
+Emily m'a volé mon cœur.	Η Αιμιλία μου έκλεψε την καρδιά.	volé	0	0
+J'ai plusieurs amis qui vivent à Boston.	Έχω πολλούς φίλους, που ζουν στη Βοστώνη.	plusieurs	0	0
+Tourne à gauche.	Στρίψε αριστερά.	gauche	0	0
+J'ai dormi neuf heures.	Κοιμήθηκα εννιά ώρες.	neuf	0	0
+Ouvre la paume de ta main.	Άνοιξε την παλάμη του χεριού σου.	ouvre	0	0
+Nous poussons la porte, et nous entrons dedans.	Σπρώχνομε την πόρτα και μπαίνουμε μέσα.	dedans	0	0
+J'ai du mal à comprendre ce qu'ils disent.	Δυσκολεύομαι να καταλάβω τι λένε.	disent	0	0
+Nous ne pouvons changer l'histoire, mais nous pouvons apprendre d'elle.	Δεν μπορούμε να αλλάξουμε την ιστορία, αλλά μπορούμε να μάθουμε από αυτή.	pouvons	0	0
+La réponse est « oui ».	Η απάντηση είναι ναι.	réponse	0	0
+La lumière brille dans les ténèbres.	Το φως λάμπει στο σκοτάδι.	lumière	0	0
+Arrête de traîner les pieds.	Σταμάτα να σέρνεις τα πόδια σου.	pieds	0	0
+Je montre les photos à ma sœur.	Δείχνω τις φωτογραφίες στην αδελφή μου.	montre	0	0
+Il a déjà un pied dans la tombe.	Έχει ήδη ένα πόδι στον τάφο.	pied	0	0
+Mon grand-père va marcher tous les matins.	Ο παππούς μου κάνει βόλτα κάθε πρωί.	marcher	0	0
+Il est onze heures, les enfants doivent aller au lit, ils ont école demain.	Η ώρα είναι έντεκα, πρέπει τα παιδιά να πάνε για ύπνο, έχουν σχολείο αύριο.	doivent	0	0
+Pour combien de jours vas-tu à Mykonos ?	Για πόσες μέρες πας στη Μύκονο;	vas-tu	0	0
+La Terre tourne autour du Soleil.	Η Γη περιστρέφεται γύρω από τον Ήλιο.	soleil	0	0
+Arrêtez-vous au coin.	Σταματήστε στη γωνία.	coin	0	0
+J'ignore si je peux le faire.	Δεν ξέρω αν μπορώ να το κάνω.	ignore	0	0
+Un homme qui court après un chien n'est pas à moitié aussi ridicule qu'un homme qui court après une femme.	Ένας άνδρας που τρέχει ξωπίσω από ένα σκύλο δεν είναι ούτε το μισό τόσο γελοίος όσο ένας άνδρας που τρέχει ξωπίσω από μια γυναίκα.	moitié	0	0
+Selon l'un des gestionnaires de corpus, le berbère est une langue unique plutôt qu'un groupe de langues.	Σύμφωνα με έναν από τους διευθυντές του σώματος, τα βερβερικά είναι μια ενιαία γλώσσα και όχι μια ομάδα γλωσσών.	selon	0	0
+Je pense que c'est une grosse erreur.	πιστεύω ότι εκείνο είναι ένα μεγάλο λάθος.	grosse	0	0
+Il n'y avait rien dans la chambre, excepté une vieille chaise.	Δεν υπήρχε τίποτα στο δωμάτιο εκτός από μία παλιά καρέκλα.	vieille	0	0
+Qu'est-ce qui te rend heureux ?	Τι σε κάνει χαρούμενο;	rend	0	0
+Où est la sortie ?	Πού είναι η έξοδος;	sortie	0	0
+J'aime lire des livres.	Μου αρέσει να διαβάζω βιβλία.	lire	0	0
+Je l'ai informée de mon arrivée.	Την ενημέρωσα για την άφιξή μου.	arrivée	0	0
+Le photocopillage tue le livre.	Η φωτοτυπία σκοτώνει το βιβλίο.	tue	0	0
+Laquelle est votre guitare ?	Ποια είναι η κιθάρα σας;	laquelle	0	0
+Il fait chaud aujourd'hui.	Κάνει ζέστη σήμερα.	chaud	0	0
+Que fais-tu ?	Τί κάνεις;	fais-tu	0	0
+Tom habite dans une caravane.	Ο Τομ μένει σε τροχόσπιτο.	tom	0	0
+Elle est un très bon professeur.	Αυτή είναι πολύ καλή δασκάλα.	professeur	0	0
+Quand la loi n’est pas juste, la justice passe avant la loi.	Όταν ο νόμος δεν είναι δίκαιος, η δικαιοσύνη προηγείται του νόμου.	loi	0	0
+Donne-moi un verre d'eau.	Δώσε μου ένα ποτήρι νερό.	donne-moi	0	0
+Je n'ai reçu ta lettre qu'hier.	Μόλις πήρα το γράμμα σου χθές.	lettre	0	0
+L'enseignement est la meilleure forme d'apprentissage.	Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	forme	0	0
+On se connaît très bien.	Γνωριζόμαστε πολύ καλά.	connaît	0	0
+Tom a ignoré le conseil de Mary.	Ο Τομ αγνόησε τη συμβουλή της Μαίρης.	conseil	0	0
+Ce chemin est dangereux.	Αυτό το μονοπάτι είναι επικίνδυνο.	dangereux	0	0
+Je te jure qu'il ne m'a rien dit.	Στο ορκίζομαι ότι δεν μου είχε πει τίποτα.	jure	0	0
+Il fait un peu froid.	Κάνει λίγο κρύο.	froid	0	0
+Comment allez-vous ?	Πώς είστε;	allez-vous	0	0
+Je pense que nous sommes presque prêts.	Νομίζω πως είμαστε σχεδόν έτοιμοι.	prêts	0	0
+La classe ne commence pas avant huit heures et demie.	Το μάθημα δεν ξεκινά πριν τις οκτώ και μισή.	classe	0	0
+L'orchestre a bien joué.	Η ορχήστρα έπαιξε καλά.	joué	0	0
+Nous devons choisir une personne appropriée pour chaque poste.	Θα πρέπει να επιλέξουμε το κατάλληλο πρόσωπο για κάθε θέση.	poste	0	0
+Je l'appelle Mike.	Τον φωνάζω Μάικ.	mike	0	0
+J'ai trouvé la boîte vide.	Βρήκα το άδειο κουτί.	boîte	0	0
+Je savais que je ne devais pas lui rendre visite, j'allai pourtant la voir.	Ήξερα πως δεν έπρεπε να την επισκεφτώ, ωστόσο πήγα να τη δω.	visite	0	0
+Le juge l'a condamné à mort.	Ο δικαστής τον καταδίκασε σε θάνατο.	juge	0	0
+J'ai besoin de bons conseils.	Έχω ανάγκη από καλές συμβουλές.	bons	0	0
+Tom est vivant.	Ο Τομ είναι ζωντανός.	vivant	0	0
+Regarde le ciel.	Κοίτα τον ουρανό.	ciel	0	0
+J'ai lu les journaux.	Διάβασα εφημερίδες.	lu	0	0
+Essaie d'aimer tout le monde.	Προσπάθησε να αγαπάς όλους.	aimer	0	0
+Mon petit frère est en train de regarder la télé.	Ο νεότερος μου αδελφός βλέπει την τηλεόραση.	télé	0	0
+Vous devriez m'écouter.	Πρέπει να μ' ακούσετε.	écouter	0	0
+Je savais que je ne devais pas lui rendre visite, j'allai pourtant la voir.	Ήξερα πως δεν έπρεπε να την επισκεφτώ, ωστόσο πήγα να τη δω.	pourtant	0	0
+Vous avez l'air triste.	Φαίνεστε θλιμμένος.	triste	0	0
+Dieu est un cercle dont la circonférence est une droite.	Ο Θεός είναι ένας κύκλος του οποίου η περιφέρεια είναι μια ευθεία.	droite	0	0
+Il a déjà un pied dans la tombe.	Έχει ήδη ένα πόδι στον τάφο.	tombe	0	0
+Je vais ouvrir la porte.	Θα ανοίξω την πόρτα.	ouvrir	0	0
+Le futur ne sera pas construit par la force, ni par le désir de conquête, mais à travers l’application patiente de la méthode démocratique, l’esprit de consensus constructif et le respect de la liberté.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	travers	0	0
+Le bonheur c'est la santé.	Η ευτυχία είναι η υγεία.	santé	0	0
+Celui-ci est allé se coucher tôt.	Αυτός πήγε νωρίς για ύπνο.	coucher	0	0
+Elle chante souvent quand elle fait la vaisselle dans la cuisine.	Συχνά τραγουδάει όταν πλένει τα πιάτα στην κουζίνα.	cuisine	0	0
+Je monte la garde.	Στέκομαι φρουρός.	monte	0	0
+Pouvez-vous vous rappeler l'accident de façon précise ?	Μπορείτε να θυμηθείτε το ατύχημα με ακρίβεια;	pouvez-vous	0	0
+« Gol » signifie « vide » en roumain.	Στα ρουμανικά, "gol" σημαίνει "άδειο".	signifie	0	0
+Aimes-tu le vin blanc ?	Σου αρέσει το λευκό κρασί;	blanc	0	0
+La musique pour piano apaise l'âme.	Η μουσική του πιάνου ηρεμεί την ψυχή.	âme	0	0
+Apprends à penser de manière positive !	Μάθε να σκέπτεσαι με θετικό τρόπο!	manière	0	0
+Je mange le crabe.	Εγώ τρώω τον κάβουρα.	mange	0	0
+Georgie vit avec moi.	Η Τζόρτζι μένει μαζί μου.	vit	0	0
+Le petit déjeuner était très bon.	Το πρωινό ήταν πολύ καλό.	déjeuner	0	0
+Ça sera différent.	Αυτό θα είναι διαφορετικό.	différent	0	0
+Le gouvernement exécute les ordres des banquiers.	Η κυβέρνηση εκτελεί τις εντολές των τραπεζιτών.	ordres	0	0
+Où avez-vous trouvé la clé ?	Πού βρήκατε το κλειδί;	clé	0	0
+Il fait de ma vie un enfer.	Μου κάνει τη ζωή μου κόλαση.	enfer	0	0
+Il a décidé de vendre sa voiture.	Αυτός αποφάσισε να πουλήσει το αυτοκίνητό του.	vendre	0	0
+Je me sens un peu responsable.	Αισθάνομαι λίγο υπεύθυνος.	responsable	0	0
+Elle a acheté deux paires de chaussettes.	Αυτή αγόρασε δύο ζευγάρια κάλτσες.	acheté	0	0
+Roberto rencontre Jun dans les rues de la ville et dès lors, une étrange symbiose entre les deux commence.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	étrange	0	0
+Si un jour les nombreuses langues européennes viennent à disparaître, ce jour-là l’Europe – en tant que concept et projet – cessera d’exister.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	viennent	0	0
+Cet ascenseur est capable de transporter 10 personnes à la fois.	Αυτό το ασανσέρ μπορεί να μεταφέρει δέκα άτομα σε μια στιγμή.	capable	0	0
+C'est à nous d'écrire l'histoire.	Στο χέρι μας είναι να γράψουμε ιστορία.	écrire	0	0
+Je préfère le café.	Προτιμώ τον καφέ.	préfère	0	0
+Je me sens coupable.	Αισθάνομαι ένοχη.	coupable	0	0
+Laisse-moi rire !	Ας γελάσω!	rire	0	0
+Elle n'a rien payé.	Δεν πλήρωσε τίποτα.	payé	0	0
+Ne changez pas de cheval au milieu de la rivière.	Μην αλλάζετε άλογο στα μισά του ποταμού.	milieu	0	0
+M. Smith a été annoncé comme le nouveau président.	Ανακοινώθηκε ότι ο κ. Σμιθ θα ήταν ο επόμενος πρόεδρος.	m	0	0
+Nous avons choisi le numéro au hasard.	Διαλέξαμε τον αριθμό στην τύχη.	choisi	0	0
+John Locke, le philosophe bien connu de la liberté, était actionnaire de la Royal African Company, qui achetait et vendait des esclaves.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	connu	0	0
+Je suis allée à ton école.	Πήγα στο σχολείο σου.	allée	0	0
+Je doute que ce soit de quelque intérêt pour vous.	Αμφιβάλλω πως αυτό θα έχει κάποιο ενδιαφέρον για σας.	intérêt	0	0
+Ne changez pas de cheval au milieu de la rivière.	Μην αλλάζετε άλογο στα μισά του ποταμού.	cheval	0	0
+Un tel mot n'existe pas en russe.	Δεν υπάρχει τέτοια λέξη στη ρωσική γλώσσα.	existe	0	0
+Un tel mot n'existe pas en russe.	Δεν υπάρχει τέτοια λέξη στη ρωσική γλώσσα.	tel	0	0
+La société Coca-Cola inventa le Fanta, en pleine Seconde Guerre mondiale, pour le marché allemand.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	pleine	0	0
+Thomas est amoureux de sa meilleure amie.	Ο Τομά είναι ερωτευμένος με την καλύτερή του φίλη.	amoureux	0	0
+Ils ont traversé la frontière chargés de drogue.	Πέρασαν τα σύνορα φορτωμένοι ναρκωτικά.	drogue	0	0
+Paul est né à Rome.	Ο Παύλος γεννήθηκε στη Ρώμη.	paul	0	0
+Cette radio est-elle la vôtre ?	Αυτό το ραδιόφωνο είναι δικό σας;	est-elle	0	0
+Le gouvernement exécute les ordres des banquiers.	Η κυβέρνηση εκτελεί τις εντολές των τραπεζιτών.	gouvernement	0	0
+Je te dirai.	Θα σου πω.	dirai	0	0
+Le magazine s'adresse aux adolescents.	Το περιοδικό απευθύνεται σε εφήβους.	adresse	0	0
+Où est le journal ?	Πού είναι η εφημερίδα;	journal	0	0
+Ce thé sent bon.	Αυτό το τσάι μυρίζει ωραία.	sent	0	0
+Mettez-vous dans ma peau.	Ελάτε στη θέση μου.	peau	0	0
+Le peuple, c'est moi.	Ο λαός είμαι εγώ.	peuple	0	0
+« Liberté, Egalité, Fraternité » est un exemple de devise tripartite.	«Ελευθερία, Ισότητα, Αδελφότητα» είναι ένα παράδειγμα τριμερούς σύνθημα.	exemple	0	0
+Je me fiche de savoir s'ils s'échappent à l'étranger.	Στ’ αρχίδια μου αν ξεφύγουν στο εξωτερικό.	fiche	0	0
+Je promets que je ne le ferai plus.	Υπόσχομαι πως δε θα το ξανακάνω.	promets	0	0
+Je te prie de m'excuser si je t'ai blessé.	Σε παρακαλώ να με συγχωρήσεις εάν σε έχω πληγώσει.	blessé	0	0
+La société évolue.	Η κοινωνία εξελίσσεται.	société	0	0
+Je suppose que j'ai eu tort.	Υποθέτω πως είχα άδικο.	tort	0	0
+Je serai libre à sept heures.	Θα είμαι ελεύθερη στις επτά η ώρα.	sept	0	0
+Elles le savent déjà.	Το ξέρουν ήδη.	savent	0	0
+Quelqu’un a ouvert la porte.	Κάποιος άνοιξε την πόρτα.	ouvert	0	0
+Je suis un héros.	Είμαι ήρωας.	héros	0	0
+Je pense que vous m'avez menti.	Νομίζω πως μου είπατε ψέματα.	menti	0	0
+Un homme à la mer !	Άνθρωπος στη θάλασσα!	mer	0	0
+Puis-je avoir une autre bière, s'il vous plaît ?	Μπορώ να έχω άλλη μια μπύρα, παρακαλώ;	bière	0	0
+Le cuisinier est assis dans la cuisine.	Ο μάγειρας κάθεται στην κουζίνα.	assis	0	0
+Je veux une nouvelle robe.	Θέλω ένα καινούριο φόρεμα.	robe	0	0
+Aujourd'hui fut une journée très difficile.	Σήμερα ήταν πολύ δύσκολη μέρα.	fut	0	0
+Il y a deux mille livres.	Αυτή έχει δύο χιλιάδες βιβλία.	livres	0	0
+Seuls les fous disent de tels mots.	Τέτοιες λέξεις λένε μόνο οι τρελοί.	seuls	0	0
+Fils de pute !	Πουτάνας γιέ!	pute	0	0
+L'entrée pour le concert coûte plus qu'une entrée de cinéma.	Η είσοδος στο κοντσέρτο κοστίζει περισσότερο απ΄αυτή στον κινηματογράφο.	entrée	0	0
+La propriété, c'est le vol.	Η ιδιοκτησία είναι κλοπή.	vol	0	0
+Aimez-vous le vin rouge ?	Σας αρέσει το κόκκινο κρασί;	vin	0	0
+C'est dommage que tu ne pouvais pas venir.	Κρίμα που δεν μπορούσες να έρθεις.	dommage	0	0
+Rappelle-toi ces règles.	Θυμίσου αυτούς τους κανόνες.	règles	0	0
+Quand la loi n’est pas juste, la justice passe avant la loi.	Όταν ο νόμος δεν είναι δίκαιος, η δικαιοσύνη προηγείται του νόμου.	justice	0	0
+Je pense que nous ferions mieux de recommencer du départ.	Νομίζω πως θα κάναμε καλύτερα να ξεκινήσουμε πάλι από την αρχή.	départ	0	0
+La cascade faisait beaucoup de bruit.	Ο καταρράκτης έκανε πολύ θόρυβο.	bruit	0	0
+Depuis combien de temps êtes-vous enceinte ?	Πόσο καιρό είστε έγκυος;	enceinte	0	0
+Je l'ai mise dans ta chambre.	Το έβαλα στο δωμάτιό σου.	mise	0	0
+Il a environ quarante ans.	Είναι περίπου 40 χρονών.	environ	0	0
+Je te reconnais au tranchant terrible de ton épée.	Σε γνωρίζω από την κόψη του σπαθιού την τρομερή.	terrible	0	0
+Ma position a changé.	Η στάση μου έχει αλλάξει.	position	0	0
+Le chat est comme l'être humain.	Η γάτα είναι σαν ανθρώπινο πλάσμα.	humain	0	0
+L'avenir appartient à ceux qui croient à la beauté de leurs rêves.	Το μέλλον ανήκει σε εκείνους που πιστεύουν στην ομορφιά των ονείρων τους.	avenir	0	0
+L'avenir appartient à ceux qui croient à la beauté de leurs rêves.	Το μέλλον ανήκει σε εκείνους που πιστεύουν στην ομορφιά των ονείρων τους.	rêves	0	0
+C'est bête de détester toutes les roses, sous prétexte qu'une d'entre elles t'a piqué.	Είναι ανόητο να μισείς όλα τα τριαντάφυλλα μόνο και μόνο επειδή ένα από αυτά σε τσίμπησε.	bête	0	0
+Tom a donné un peu de nourriture à Marie.	Ο Τομ έδωσε λίγη τροφή στη Μαρία.	nourriture	0	0
+Je dois aller à la banque ce matin.	Πρέπει να πάω στην τράπεζα το πρωί.	banque	0	0
+Nous étions tous fatigués.	Ήμασταν όλοι κουρασμένοι.	étions	0	0
+Tom et Marie ont passé leur lune de miel à l’étranger.	Ο Τομ και η Μαρία πήγαν στο εξωτερικό για μήνα του μέλιτος.	lune	0	0
+John Locke, le philosophe bien connu de la liberté, était actionnaire de la Royal African Company, qui achetait et vendait des esclaves.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	liberté	0	0
+Cette radio est-elle la vôtre ?	Αυτό το ραδιόφωνο είναι δικό σας;	radio	0	0
+Il est trop tard. On se verra à la maison.	Είναι πολύ αργά. Θα τα πούμε σπίτι.	verra	0	0
+Je bois le thé sans sucre.	Πίνω τσάι χωρίς ζάχαρη.	thé	0	0
+J'ai besoin de plus d'exemples pour savoir comment ce mot est utilisé.	Χρειάζομαι περισσότερα παραδείγματα, για να ξέρω πώς χρησιμοποιείται αυτή η λέξη.	utilisé	0	0
+C'est en 1989 que le mur de Berlin a été abattu.	Το τείχος του Βερολίνου έπεσε το 1989.	mur	0	0
+Je suis revenu le même jour.	Επέστρεψα την ίδια μέρα.	revenu	0	0
+Londres est son deuxième lieu de résidence.	Το Λονδίνο είναι το δεύτερο σπίτι της.	deuxième	0	0
+Un homme qui court après un chien n'est pas à moitié aussi ridicule qu'un homme qui court après une femme.	Ένας άνδρας που τρέχει ξωπίσω από ένα σκύλο δεν είναι ούτε το μισό τόσο γελοίος όσο ένας άνδρας που τρέχει ξωπίσω από μια γυναίκα.	ridicule	0	0
+Appelez un médecin, s'il vous plaît !	Φωνάξτε έναν γιατρό, παρακαλώ!	appelez	0	0
+Je n'ai pas de petite copine.	Δεν έχω κοπέλα.	copine	0	0
+Mes parents ne parlent pas l'anglais.	Οι γονείς μου δε μιλούν αγγλικά.	anglais	0	0
+Ayant fermé toutes les portes, je suis allé dormir.	Κλείνοντας όλες τις πόρτες, πήγα για ύπνο.	portes	0	0
+Il faudra passer par-dessus mon cadavre !	Πρέπει να περάσεις πάνω από το πτώμα μου!	faudra	0	0
+Tom est occupé à préparer son voyage.	Ο Τομ είναι απασχολημένος με την προετοιμασία του ταξιδιού του.	occupé	0	0
+Ils peuvent faire leurs activités de plein air dans le parc, à l'ombre des grands arbres.	Μπορούν να κάνουν τις υπαίθριες δραστηριότητες τους στο πάρκο, στη σκιά των μεγάλων δέντρων.	grands	0	0
+Ça ne me dérange pas.	Δεν με πειράζει.	dérange	0	0
+Savez-vous ce que je veux ?	Ξέρετε τι θέλω;	savez-vous	0	0
+Je me souviens d'avoir vu la reine.	Θυμάμαι που είδα τη βασίλισσα.	reine	0	0
+Heather me croit.	Η Χέδερ με πιστεύει.	croit	0	0
+Chaque veille de Noël, nous allons à l'église.	Κάθε παραμονή Χριστουγέννων πηγαίνουμε στην εκκλησία.	église	0	0
+« Gol » signifie « vide » en roumain.	Στα ρουμανικά, "gol" σημαίνει "άδειο".	vide	0	0
+Elle n'a pas de permis de conduire.	Δεν έχει δίπλωμα.	conduire	0	0
+Il est tombé de la chaise en changeant l'ampoule.	Έπεσε από την καρέκλα ενώ άλλαζε τη λάμπα.	tombé	0	0
+Il travaille huit heures par jour.	Αυτός δουλεύει οχτώ ώρες την ημέρα.	huit	0	0
+Les avions permettent aux gens de rapidement parcourir de grandes distances.	Τα αεροπλάνα δίνουν τη δυνατότητα στους ανθρώπους να ταξιδεύουν μεγάλες αποστάσεις γρήγορα.	avions	0	0
+Vous ne comprenez pas les femmes, Tom.	Δεν καταλαβαίνετε τις γυναίκες, Τομ.	comprenez	0	0
+Le Brésil est le plus grand pays d'Amérique du Sud.	Η Βραζιλία είναι η μεγαλύτερη χώρα στη Νότια Αμερική.	sud	0	0
+Je m'intéresse beaucoup aux animaux et au respect de la Nature.	Ενδιαφέρομαι πολύ για τα ζώα και την προστασία της φύσης.	intéresse	0	0
+Après la mort de ses parents, il a été élevé par sa tante.	Μετά το θάνατο των γονιών του, τον μεγάλωσε η θεία του.	tante	0	0
+Je te prie de m'excuser si je t'ai blessé.	Σε παρακαλώ να με συγχωρήσεις εάν σε έχω πληγώσει.	excuser	0	0
+Elle a ouvert un nouveau magasin.	Αυτή άνοιξε καινούργιο κατάστημα.	magasin	0	0
+Je ne veux pas me marier.	Δεν θέλω να παντρευτώ.	marier	0	0
+De nos jours, la viande est chère.	Στις μέρες μας το κρέας είναι ακριβό.	chère	0	0
+Je ne peux pas me souvenir quand nous nous sommes rencontrés pour la dernière fois.	Δεν μπορώ να θυμηθώ, πότε συναντηθήκαμε για τελευταία φορά.	souvenir	0	0
+Je suis proche de la quarantaine et je suis encore célibataire.	Κοντεύω στα σαράντα και είμαι ακόμα ανύπαντρος.	proche	0	0
+Elle se plaignait d'une douleur sourde dans le dos.	Διαμαρτυρήθηκε για ένα έντονο πόνο στην πλάτη.	douleur	0	0
+C'est vraiment merveilleux !	Είναι πράγματι εκπληκτικό!	merveilleux	0	0
+Mon oncle d'Amérique passe toujours ses congés en Europe.	Ο θείος μου από τις ΗΠΑ περνάει πάντα τις διακοπές του στην Ευρώπη.	amérique	0	0
+As-tu fermé la fenêtre ?	Έκλεισες το παράθυρο;	fenêtre	0	0
+Peux-tu le prouver ?	Μπορείς να το αποδείξεις;	peux-tu	0	0
+Si un jour les nombreuses langues européennes viennent à disparaître, ce jour-là l’Europe – en tant que concept et projet – cessera d’exister.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	projet	0	0
+Il n'habite pas dans mon quartier.	Δε ζει στη γειτονιά μου.	quartier	0	0
+Tu es très rapide.	Είσαι πολύ γρήγορος.	rapide	0	0
+Lorsque tu entres sur l'autoroute, passe en cinquième !	Μόλις βγεις στην εθνική οδό, βάλε πέμπτη.	lorsque	0	0
+Son compte rendu de l'accident concorde avec le vôtre.	Η αναφορά της για το ατύχημα συμπίπτει με τη δική σας	rendu	0	0
+Tourne à gauche.	Στρίψε αριστερά.	tourne	0	0
+Je ne veux pas danser.	Δε θέλω να χορέψω.	danser	0	0
+Bob est mon ami.	Ο Μπομπ είναι φίλος μου.	bob	0	0
+Ce commerce a de nombreux clients.	Αυτό το κατάστημα έχει πολλούς πελάτες.	clients	0	0
+Aimez vos camarades ! Aimez vos parents ! Aimez votre pays !	Αγαπήστε τους συντρόφους σας! Αγαπήστε τους γονείς σας! Αγαπήστε την πατρίδα σας!	aimez	0	0
+Ces derniers temps avez-vous un sentiment de soif plus prononcé ?	Τον τελευταίο καιρό έχετε ένα πιό έντονο αίσθημα δίψας;	derniers	0	0
+J'irai à Athènes.	Θα πάω στην Αθήνα.	irai	0	0
+Dis-le-lui, connard !	Πες της, ρε μαλάκα!	connard	0	0
+Non, il est d'occasion.	Όχι, αυτό είναι από δεύτερο χέρι.	occasion	0	0
+Ne faites jamais quoi que ce soit pour simplement prouver que vous en êtes capables.	Ποτέ μην κάνετε κάτι μόνον για να αποδείξετε, ότι μπορείτε.	prouver	0	0
+Beaucoup de chauffeurs de camion ne respectent pas du tout les conditions météorologiques.	Πολλοί φορτηγατζήδες δε σέβονται καθόλου τις καιρικές συνθήκες.	camion	0	0
+Je voulais retourner à votre village.	Ήθελα να ξαναγυρίσω στο χωριό σας.	village	0	0
+Le cochon est rose.	Το γουρούνι είναι ροζ.	rose	0	0
+As-tu jamais mangé dans ce restaurant ?	Έχεις φάει ποτέ σ' αυτό το εστιατόριο;	mangé	0	0
+Roberto rencontre Jun dans les rues de la ville et dès lors, une étrange symbiose entre les deux commence.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	rencontre	0	0
+Je l'apprécie.	Το εκτιμώ.	apprécie	0	0
+Jane s'est mariée jeune.	Η Τζέιν παντρεύτηκε νέα.	jane	0	0
+Nous savons ce que nous voulons.	Ξέρουμε τι θέλουμε.	savons	0	0
+Je m'intéresse beaucoup aux animaux et au respect de la Nature.	Ενδιαφέρομαι πολύ για τα ζώα και την προστασία της φύσης.	respect	0	0
+Ils achèteraient n'importe quoi en vacances.	Θα αγόραζαν οτιδήποτε στις διακοπές.	vacances	0	0
+Nous devons choisir une personne appropriée pour chaque poste.	Θα πρέπει να επιλέξουμε το κατάλληλο πρόσωπο για κάθε θέση.	choisir	0	0
+Je ne m'attendais pas à ce que tu dises ça.	Δεν περίμενα να το πεις αυτό.	attendais	0	0
+L'ordinateur est neuf.	Ο υπολογιστής είναι καινούργιος.	ordinateur	0	0
+Je m'intéresse beaucoup aux animaux et au respect de la Nature.	Ενδιαφέρομαι πολύ για τα ζώα και την προστασία της φύσης.	nature	0	0
+Pouvez-vous vous rappeler l'accident de façon précise ?	Μπορείτε να θυμηθείτε το ατύχημα με ακρίβεια;	rappeler	0	0
+Cette femme déborde d'énergie.	Αυτή η γυναίκα ξεχειλίζει από ενέργεια.	énergie	0	0
+Il a un cœur de pierre.	Είναι άκαρδος.	pierre	0	0
+Il n'est pas marié.	Δεν είναι παντρεμένος.	marié	0	0
+En 1493, le Vatican a offert l'Amérique à l'Espagne et l'Afrique noire au Portugal « pour que les nations barbares soient réduites à la foi catholique ».	Το 1493, το Βατικανό έδωσε την Αμερική στην Ισπανία και τη μαύρη Αφρική στην Πορτογαλία «προκειμένου τα βαρβαρικά έθνη να περιοριστούν στην Καθολική πίστη».	soient	0	0
+Pour préparer une ratatouille, il faut beaucoup de légumes, et, en particulier, des poivrons.	Για να προετοιμάσετε το ρατατούιγ, χρειάζεστε πολλά λαχανικά και, ειδικότερα, πιπεριές.	préparer	0	0
+Un homme qui court après un chien n'est pas à moitié aussi ridicule qu'un homme qui court après une femme.	Ένας άνδρας που τρέχει ξωπίσω από ένα σκύλο δεν είναι ούτε το μισό τόσο γελοίος όσο ένας άνδρας που τρέχει ξωπίσω από μια γυναίκα.	court	0	0
+Qu'ai-je fait ?	Τι έκανα;	ai-je	0	0
+Je prenais un bain.	Έκανα μπάνιο.	bain	0	0
+Mary se regarda dans le miroir.	Κοίταξε τον εαυτό της στον καθρέφτη.	mary	0	0
+Tout d'abord il faut que j'appelle Jim.	Πρώτα πρώτα, πρέπει να καλέσω στον Jim.	jim	0	0
+Nous devons immédiatement le sauver.	Πρέπει να τον σώσουμε άμεσα.	immédiatement	0	0
+Cette bête est énorme !	Αυτό το ζώο είναι τεράστιο!	énorme	0	0
+Ce vase brisé est à mon grand-père.	Εκείνο το σπασμένο βάζο είναι του παππού μου.	grand-père	0	0
+Le futur ne sera pas construit par la force, ni par le désir de conquête, mais à travers l’application patiente de la méthode démocratique, l’esprit de consensus constructif et le respect de la liberté.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	futur	0	0
+Veuillez ne pas toucher les fleurs.	Παρακαλώ σας, μην αγγίζετε τα λουλούδια.	fleurs	0	0
+Le Japon est un pays riche.	Η Ιαπωνία είναι μια πλούσια χώρα.	riche	0	0
+Je ne connais pas les faits.	Δε γνωρίζω τα γεγονότα.	faits	0	0
+Achille était un ancien héros Grec.	Ο Αχιλλέας ήταν ένας Έλληνας αρχαίος ήρωας.	ancien	0	0
+Je refuse d'accepter ça.	Αρνούμαι να το δεχτώ αυτό.	accepter	0	0
+Les médecins sauvent des vies.	Οι γιατροί σώζουν ζωές.	vies	0	0
+Où est la brosse à dents?	Πού είναι η οδοντόβουρτσα;	dents	0	0
+« J'ai envie de jouer aux cartes. » « Moi aussi. »	Έχω όρεξη να παίξω χαρτιά. Και εγώ επίσης.	cartes	0	0
+Le bus part tous les quarts d'heure.	Το λεωφορείο φεύγει κάθε δεκαπέντε λεπτά.	bus	0	0
+Veuillez tourner à droite à la prochaine intersection.	Παρακαλώ στρίψε δεξιά στην επόμενη διασταύρωση.	tourner	0	0
+Ne pas toucher le fruit ! S'il vous plaît.	Μην αγγίζεις στο φρούτο! Παρακαλώ!	toucher	0	0
+Il a une mémoire photographique.	Έχει φωτογραφική μνήμη.	mémoire	0	0
+Elle est mariée à un Américain.	Είναι παντρεμένη μ' έναν Αμερικάνο.	mariée	0	0
+Le vent souffle.	Φυσάει ο άνεμος.	vent	0	0
+Donnez-moi un café s'il vous plaît.	Δώστε μου έναν καφέ, σας παρακαλώ.	donnez-moi	0	0
+Le chat est comme l'être humain.	Η γάτα είναι σαν ανθρώπινο πλάσμα.	chat	0	0
+Le couteau est sale.	Το μαχαίρι είναι βρόμικο.	couteau	0	0
+J'ai étudié le français à l'université.	Σπούδασα Γαλλικά στο κολέγιο.	université	0	0
+Le papier, invention chinoise vieille d’environ deux mille ans, a laissé une marque indélébile sur toutes les civilisations.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	papier	0	0
+As-tu remarqué la magnificence des cathédrales françaises ?	Έχετε παρατηρήσει τη μεγαλοπρέπεια των καθεδρικών ναών της Γαλλίας;	remarqué	0	0
+Robert et Martine sont des noms étrangers.	Ρομπέρ και Μαρτίν είναι ξένα ονόματα.	noms	0	0
+Il a toujours vécu à Tokyo.	Αυτός πάντα ζούσε στο Τόκιο.	vécu	0	0
+L'avenir appartient à ceux qui croient à la beauté de leurs rêves.	Το μέλλον ανήκει σε εκείνους που πιστεύουν στην ομορφιά των ονείρων τους.	beauté	0	0
+Nous avons étudié tout l'après-midi.	Μελετούσαμε όλο το απόγευμα.	après-midi	0	0
+Le vin était excellent.	Το κρασί ήταν εξαιρετικό.	excellent	0	0
+Assieds-toi avec moi.	Κάτσε λίγο μαζί μου.	assieds-toi	0	0
+Je l'ai vu de mes propres yeux.	Το έχω δει με τα μάτια μου.	propres	0	0
+Le couple avait déjà versé un acompte pour le lieu de l'événement, pour le photographe et pour la créatrice de la robe de mariée.	Το ζευγάρι είχε ήδη δώσει προκαταβολή στον χώρο της εκδήλωσης, στον φωτογράφο και στην σχεδιάστρια του νυφικού.	couple	0	0
+Elle n'a pas de permis de conduire.	Δεν έχει δίπλωμα.	permis	0	0
+Le papier, invention chinoise vieille d’environ deux mille ans, a laissé une marque indélébile sur toutes les civilisations.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	mille	0	0
+Joyeux Noël !	Καλά Χριστούγεννα!	joyeux	0	0
+Le bonheur c'est la santé.	Η ευτυχία είναι η υγεία.	bonheur	0	0
+Qui d'autre vous a aidé ?	Ποιος άλλος σας βοήθησε;	aidé	0	0
+Vous nagez mieux que Marie.	Εσείς κολυμπάτε καλύτερα από τη Μαίρη.	marie	0	0
+Avez-vous jamais mangé dans ce restaurant ?	Έχετε φάει ποτέ σ' αυτό το εστιατόριο;	restaurant	0	0
+Voyez-vous la maison blanche ?	Το βλέπετε το άσπρο σπίτι;	blanche	0	0
+Je coupe le pain avec un couteau.	Κόβω το ψωμί με μαχαίρι.	coupe	0	0
+Et c'est ainsi que je fis la connaissance du petit prince.	Και κάπως έτσι γνώρισα τον μικρό πρίγκιπα.	prince	0	0
+Je refuse de permettre ça.	Αρνούμαι να το επιτρέψω αυτό.	refuse	0	0
+J'ai apporté une pizza.	Έφερα ένα πίτσα.	apporté	0	0
+Roberto rencontre Jun dans les rues de la ville et dès lors, une étrange symbiose entre les deux commence.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	lors	0	0
+S'il te plaît dis-lui d'attendre.	Σας παρακαλώ πείτε του να περιμένει.	dis-lui	0	0
+Je ne l'ai pas tuée.	Δεν τη σκότωσα.	tuée	0	0
+Le fils prodigue est rentré à la maison.	Ο άσωτος υιός επέστρεψε σπίτι.	rentré	0	0
+Quels sont tes plans pour le week-end ?	Τι σκοπεύεις να κάνεις το Σαββατοκύριακο;	week-end	0	0
+Je suis désolé mais vos excuses sont inacceptables.	Λυπάμαι αλλά οι δικαιολογίες σου είναι απαράδεκτες.	excuses	0	0
+Je ne bois pas d'alcool.	Δεν πίνω αλκοόλ.	alcool	0	0
+J'attends un coup de fil important.	Περιμένω ένα σημαντικό τηλεφώνημα.	fil	0	0
+Tu ne te rends pas compte de la chance que tu as.	Δε συνειδητοποιείς την τύχη που έχεις.	rends	0	0
+Londres est son deuxième lieu de résidence.	Το Λονδίνο είναι το δεύτερο σπίτι της.	londres	0	0
+Je veux la remercier.	Θέλω να την ευχαριστήσω.	remercier	0	0
+J'aimerais acheter une caméra comme celle-ci.	Θα ήθελα να πάρω μια κάμερα σαν αυτήν.	caméra	0	0
+Je suis désolée. Je n'avais pas l'intention de te faire pleurer.	Συγγνωμη ,δεν ήθελα να σε κάνω να κλάψεις.	pleurer	0	0
+Ouvrez votre livre en page dix.	Ανοίξτε το βιβλίο σας στη σελίδα δέκα.	ouvrez	0	0
+Si je pouvais faire un vœu, ce serait de mettre fin au chômage dans le monde entier.	Αν μπορούσα να κάνω μια ευχή, θα ήταν να τερματιστεί η ανεργία σε όλον τον κόσμο.	entier	0	0
+Je ne voulais pas fermer la porte.	Δεν ήθελα να κλείσω την πόρτα.	fermer	0	0
+Les chevaux sont des animaux.	Τα άλογα είναι ζώα.	animaux	0	0
+J'ai pris l'ascenseur jusqu'au troisième étage.	Πήρα το ασανσέρ μέχρι τον τρίτο όροφο.	étage	0	0
+La Turquie ferme tous les points de passage de sa frontière avec la Syrie.	Η Τουρκία κλείνει όλα τα συνοριακά σημεία με τη Συρία.	points	0	0
+N'oubliez pas de poster la lettre, je vous prie.	Σας παρακαλώ, μην ξεχάσετε να ταχυδρομήσετε αυτό το γράμμα.	oubliez	0	0
+Il faut des efforts pour apprendre une autre langue.	Χρειάζεται προσπάθεια για να μάθεις μια άλλη γλώσσα.	langue	0	0
+Ils vont dans la mauvaise direction.	Πηγαίνουν στη λάθος κατεύθυνση.	direction	0	0
+Veuillez tourner à droite à la prochaine intersection.	Παρακαλώ στρίψε δεξιά στην επόμενη διασταύρωση.	veuillez	0	0
+Quelle est ta couleur préférée ?	Ποιο είναι το αγαπημένο σου χρώμα;	couleur	0	0
+Où avez-vous trouvé les clés ?	Πού βρήκατε τα κλειδιά;	clés	0	0
+J'ai pris l'ascenseur jusqu'au troisième étage.	Πήρα το ασανσέρ μέχρι τον τρίτο όροφο.	troisième	0	0
+Le fort doit aider le faible.	Ο δυνατός πρέπει να βοηθά τον αδύνατο.	faible	0	0
+J'ai failli rater le train.	Παραλίγο να χάσω το τρένο.	failli	0	0
+Je ne peux pas courir aussi vite que vous.	Δε μπορώ να τρέξω τόσο γρήγορα όσο εσείς.	courir	0	0
+Elle est mariée à un Américain.	Είναι παντρεμένη με έναν Αμερικάνο.	américain	0	0
+Je veux des détails.	Θέλω λεπτομέρειες.	détails	0	0
+Il existe une légende sur la façon dont le pont a été construit.	Υπάρχει ένας θρύλος για το πώς χτίστηκε η γέφυρα.	pont	0	0
+Regarde-moi.	Κοίτα με.	regarde-moi	0	0
+Du poisson s'il vous plaît.	Ψάρι, παρακαλώ.	poisson	0	0
+Il ne pense qu'à lui-même.	Σκέφτεται μόνο τον εαυτό του.	lui-même	0	0
+Je n'aime pas les gros chiens.	Δεν μου αρέσουν τα μεγάλα σκυλιά.	chiens	0	0
+Combien de temps avez-vous l'intention de rester ?	Πόσον καιρό σκοπεύετε να μείνετε;	intention	0	0
+Le poisson cru n'est pas à mon goût.	Το ωμό ψάρι δεν είναι του γούστου μου.	goût	0	0
+Sais-tu ce que je veux ?	Ξέρεις τι θέλω;	sais-tu	0	0
+Nous ne pouvons pas boire de lait.	Δεν μπορούμε να πιούμε γάλα.	lait	0	0
+Tom ne parle pas français.	Ο Τομ δε μιλάει Γαλλικά.	français	0	0
+En 1493, le Vatican a offert l'Amérique à l'Espagne et l'Afrique noire au Portugal « pour que les nations barbares soient réduites à la foi catholique ».	Το 1493, το Βατικανό έδωσε την Αμερική στην Ισπανία και τη μαύρη Αφρική στην Πορτογαλία «προκειμένου τα βαρβαρικά έθνη να περιοριστούν στην Καθολική πίστη».	foi	0	0
+Qui est ton metteur en scène préféré ?	Ποιός είναι ο αγαπημένος σου σκηνοθέτης;	préféré	0	0
+Calme-toi.	Ηρέμησε.	calme-toi	0	0
+Selon l'un des gestionnaires de corpus, le berbère est une langue unique plutôt qu'un groupe de langues.	Σύμφωνα με έναν από τους διευθυντές του σώματος, τα βερβερικά είναι μια ενιαία γλώσσα και όχι μια ομάδα γλωσσών.	unique	0	0
+À qui appartient ce livre ?	Ποιανού είναι το βιβλίο;	appartient	0	0
+Quels sont tes plans pour le week-end ?	Τι σκοπεύεις να κάνεις το Σαββατοκύριακο;	quels	0	0
+L'âne a adoré les laitues que tu lui as données.	Ο γάιδαρος αγάπησε τα μαρούλια που του έδινες.	données	0	0
+Robert et Martine sont des noms étrangers.	Ρομπέρ και Μαρτίν είναι ξένα ονόματα.	robert	0	0
+C'est une œuvre d'art remarquable.	Είναι αριστούργημα	art	0	0
+Les avions permettent aux gens de rapidement parcourir de grandes distances.	Τα αεροπλάνα δίνουν τη δυνατότητα στους ανθρώπους να ταξιδεύουν μεγάλες αποστάσεις γρήγορα.	rapidement	0	0
+Il a grossi, depuis que je l'ai vu la fois passée.	Πάχυνε από την τελευταία φορά που τον είδα.	passée	0	0
+Vous n'êtes pas obligé de me dire ça.	Δε χρειάζεται να μου το πείτε αυτό.	obligé	0	0
+Sa mère vit seule à la campagne.	Η μητέρα της μένει μόνη της στην ύπαιθρο.	campagne	0	0
+Nous avons choisi le nombre au hasard.	Διαλέξαμε τον αριθμό στην τύχη.	nombre	0	0
+Il est non seulement intelligent, mais aussi beau.	Αυτός δεν είναι μόνο έξυπνος, αλλά και ωραίος.	intelligent	0	0
+Ma mère a coupé le gâteau.	Η μητέρα μου έκοψε την τούρτα.	gâteau	0	0
+Ça dépend du temps.	Εξαρτάται από τον καιρό.	dépend	0	0
+La joie était dessinée sur son visage.	Η χαρά ήταν ζωγραφισμένη στο πρόσωπό του.	joie	0	0
+Celui-ci est arrivé à l'heure malgré la pluie.	Αυτός έφτασε στην ώρα του παρά τη βροχή.	malgré	0	0
+Nous devons résister de toutes nos forces.	Πρέπει να αντισταθούμε με όλες μας τις δυνάμεις.	forces	0	0
+Le ventilateur ne fonctionne pas.	Ο ανεμιστήρας δε δουλεύει.	fonctionne	0	0
+En 1493, le Vatican a offert l'Amérique à l'Espagne et l'Afrique noire au Portugal « pour que les nations barbares soient réduites à la foi catholique ».	Το 1493, το Βατικανό έδωσε την Αμερική στην Ισπανία και τη μαύρη Αφρική στην Πορτογαλία «προκειμένου τα βαρβαρικά έθνη να περιοριστούν στην Καθολική πίστη».	noire	0	0
+Les résultats étaient les suivants.	Τα αποτελέσματα ήταν τα ακόλουθα.	résultats	0	0
+L'entrée pour le concert coûte plus qu'une entrée de cinéma.	Η είσοδος στο κοντσέρτο κοστίζει περισσότερο απ΄αυτή στον κινηματογράφο.	cinéma	0	0
+On se verra au nouvel an.	Θα ιδωθούμε τον καινούριο χρόνο.	nouvel	0	0
+Je suis né en 1979.	Γεννήθηκα το 1979.	né	0	0
+Le soleil est notre source d'énergie la plus importante.	Ο Ήλιος είναι η πιο σημαντηκή μας πηγή ενέργειας.	importante	0	0
+Nous savons ce que nous voulons.	Ξέρουμε τι θέλουμε.	voulons	0	0
+Je comprends parfaitement.	Καταλαβαίνω απόλυτα.	parfaitement	0	0
+Le tremblement de terre s'est produit à minuit.	Ο σεισμός σημειώθηκε τα μεσάνυχτα.	produit	0	0
+Vous êtes parfaite à tout.	Είστε σε όλα τέλεια.	parfaite	0	0
+La plante meurt sans eau.	Το φυτό πεθαίνει χωρίς νερό.	meurt	0	0
+Ayant fermé toutes les portes, je suis allé dormir.	Κλείνοντας όλες τις πόρτες, πήγα για ύπνο.	fermé	0	0
+Il était envieux de mon succès.	Ζήλεψε την επιτυχία μου.	succès	0	0
+Personne ne me comprend.	Κανείς δεν με καταλαβαίνει.	comprend	0	0
+La femme mange du pain.	Η γυναίκα τρώει ψωμί.	pain	0	0
+Celui-ci est arrivé à l'heure malgré la pluie.	Αυτός έφτασε στην ώρα του παρά τη βροχή.	celui-ci	0	0
+Il vend des voitures.	Πουλάει αυτοκίνητα.	voitures	0	0
+Ma maison est à côté du grand arbre.	Το σπίτι μου είναι δίπλα στο μεγάλο δέντρο.	arbre	0	0
+Nous l'avons élu pour qu'il soit maire.	Τον εκλέξαμε για δήμαρχο.	maire	0	0
+Le dé est jeté.	Ο κύβος ερρίφθη.	jeté	0	0
+Cet article n'a aucune valeur.	Αυτό το άρθρο δεν έχει καμιά αξία.	valeur	0	0
+Je veux une couverture.	Θέλω μια κουβέρτα.	couverture	0	0
+Cet article n'a aucune valeur.	Αυτό το άρθρο δεν έχει καμιά αξία.	article	0	0
+La colombe au col noir roucoule sur les toits, et sur les flots dormants se répand une voix, une voix qui cadence une langue divine, et d'un accent si doux, que l'amour s'y devine.	Το περιστέρι με το μαύρο κολάρο γουργουρίζει στις στέγες, και πάνω από τα κύματα που κοιμούνται απλώνεται μια φωνή, μια φωνή που σημειώνει μια θεϊκή γλώσσα, και με μια προφορά τόσο γλυκιά που μαντεύεται η αγάπη μέσα της.	doux	0	0
+Ils peuvent faire leurs activités de plein air dans le parc, à l'ombre des grands arbres.	Μπορούν να κάνουν τις υπαίθριες δραστηριότητες τους στο πάρκο, στη σκιά των μεγάλων δέντρων.	parc	0	0
+Je vais à la plage.	Πάω στην παραλία.	plage	0	0
+Tom est membre.	Ο Τομ είναι μέλος.	membre	0	0
+Nous avons choisi le numéro au hasard.	Διαλέξαμε τον αριθμό στην τύχη.	hasard	0	0
+Nous ne parlons pas français.	Δε μιλάμε Γαλλικά.	parlons	0	0
+Notre jardin est grand et très fleuri.	Ο κήπος μας είναι μεγάλος και έχει πολλά λουλούδια.	jardin	0	0
+Le printemps est la saison que j'aime le mieux.	Η άνοιξη είναι η αγαπημένη μου εποχή του χρόνου.	saison	0	0
+Quand il n'y a pas de sonnette, je frappe à la porte.	Όταν δεν υπάρχει κουδούνι χτυπώ την πόρτα.	frappe	0	0
+Je suis enchanté de vous rencontrer.	Είμαι ευτυχής που σας συναντώ.	enchanté	0	0
+Je ne peux pas abandonner maintenant.	Δεν μπορώ να παραιτηθώ τώρα.	abandonner	0	0
+Je l'apporte immédiatement.	Θα το φέρω άμεσα.	apporte	0	0
+Je prépare le thé.	Ετοιμάζω τσάι.	prépare	0	0
+Combien y a-t-il de mètres dans un kilomètre ?	Πόσα μέτρα έχει ένα χιλιόμετρο;	mètres	0	0
+Personne n'a répondu à ma question.	Κανένας δεν απάντησε στην ερώτησή μου.	répondu	0	0
+Le soleil est notre source d'énergie la plus importante.	Ο Ήλιος είναι η πιο σημαντηκή μας πηγή ενέργειας.	source	0	0
+J'ai l'intention d'aller en France l'année prochaine.	Σκοπεύω τον επόμενο χρόνο να πάω στη Γαλλία.	france	0	0
+Aujourd'hui, c'est samedi.	Σήμερα είναι Σάββατο.	samedi	0	0
+Les Étatsuniens mangent beaucoup de viande.	Οι Αμερικανοί τρώνε πολύ κρέας.	viande	0	0
+Vous êtes plus grandes que moi.	Είστε ψηλότερες από μένα.	grandes	0	0
+Ouvrez votre livre page dix.	Ανοίξτε το βιβλίο σας στη σελίδα δέκα.	page	0	0
+Celui qui conduit, c’est celui qui ne boit pas.	Αυτός που οδηγεί είναι αυτός που δε πίνει.	conduit	0	0
+La Turquie ferme tous les points de passage de sa frontière avec la Syrie.	Η Τουρκία κλείνει όλα τα συνοριακά σημεία με τη Συρία.	passage	0	0
+J'accepte tes conditions.	Αποδέχομαι τους όρους σου.	accepte	0	0
+Je t'aime, mon trésor.	Σ' αγαπώ, μωρό μου.	trésor	0	0
+C'est une perte de temps et d'argent.	Αυτό είναι σπατάλη χρόνου και χρήµατος.	perte	0	0
+Je suis un étranger.	Ξένος είμαι.	étranger	0	0
+Il faut que Marie vienne.	Πρέπει να έρθει η Μαρία.	vienne	0	0
+Le papier, invention chinoise vieille d’environ deux mille ans, a laissé une marque indélébile sur toutes les civilisations.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	marque	0	0
+Merci, tu es fantastique.	Ευχαριστώ, είσαι φανταστικός!	fantastique	0	0
+« La porte est-elle ouverte ou fermée ? » « Elle est fermée, je l'ouvre. »	«Η πόρτα είναι ανοιχτή ή κλειστή;» «Η πόρτα είναι κλειστή, την ανοίγω.»	ouverte	0	0
+Deux billets pour San Diego, s'il vous plaît.	Δύο εισιτήρια για Σαν Ντιέγκο, παρακαλώ.	san	0	0
+Les chevaux sont des animaux.	Τα άλογα είναι ζώα.	chevaux	0	0
+J'habite au rez-de-chaussée.	Μένω στο ισόγειο.	habite	0	0
+Je suis encore fatigué.	Η κούρασή μου δε σταμάτησε ακόμα.	fatigué	0	0
+Deux billets pour San Diego, s'il vous plaît.	Δύο εισιτήρια για Σαν Ντιέγκο, παρακαλώ.	billets	0	0
+Tu n'as pas besoin de me convaincre.	Δε χρειάζεται να με πείσεις.	convaincre	0	0
+Les îles Vierges britanniques sont un paradis fiscal.	Οι Βρετανικές Παρθένες Νήσοι είναι ένας φορολογικός παράδεισος.	paradis	0	0
+Je ne regarde pas cette émission.	Δε βλέπω αυτή την εκπομπή.	émission	0	0
+Vous faites quoi, dimanche?	Τι κάνετε την Κυριακή;	dimanche	0	0
+Quels sont tes plans pour le week-end ?	Τι σκοπεύεις να κάνεις το Σαββατοκύριακο;	plans	0	0
+Les ennemis d'hier peuvent être les amis de demain.	Οι χθεσινοί εχθροί μπορεί να είναι οι αυριανοί φίλοι.	ennemis	0	0
+Et c'est ainsi que je fis la connaissance du petit prince.	Και κάπως έτσι γνώρισα τον μικρό πρίγκιπα.	connaissance	0	0
+Ces derniers temps avez-vous un sentiment de soif plus prononcé ?	Τον τελευταίο καιρό έχετε ένα πιό έντονο αίσθημα δίψας;	sentiment	0	0
+J'espérais voir Tom.	Ήλπιζα να δω τον Τομ.	espérais	0	0
+Cette radio est-elle la vôtre ?	Αυτό το ραδιόφωνο είναι δικό σας;	vôtre	0	0
+C'est un mensonge !	Είναι ψέμα!	mensonge	0	0
+La victoire appartient au plus opiniâtre.	Η νίκη ανήκει στους πιο πεισματάρηδες.	victoire	0	0
+Il a renoncé à tous ses droits.	Παραιτήθηκε απ' όλα τα δικαιώματά του.	droits	0	0
+Une voiture a coupé la route.	Ένα αυτοκίνητο έκανε προσπέραση.	coupé	0	0
+Descends d'une octave.	Πήγαινε μια οκτάβα πιο κάτω τώρα.	descends	0	0
+Les scientifiques ne savent pas encore soigner le cancer.	Οι επιστήμονες δε γνωρίζουν ακόμα να θεραπεύσουν τον καρκίνο.	cancer	0	0
+L'histoire se répète.	Η ιστορία επαναλαμβάνεται.	répète	0	0
+Si voter changeait quelque chose, on l'aurait interdit.	Αν οι εκλογές αλλάζαν κάτι, θα ήταν παράνομες.	interdit	0	0
+Il n'a pas pu contrôler sa colère.	Δεν μπόρεσε να συγκρατήσει τον θυμό του.	contrôler	0	0
+Elle travaille dans un salon de coiffure.	Εργάζεται σε κομμωτήριο.	salon	0	0
+Je pense que nous serons ici en sécurité.	Νομίζω πως εδώ θα είμαστε ασφαλείς.	serons	0	0
+À la maison, c'est la femme qui porte le pantalon.	Στο σπίτι, η γυναίκα κάνει κουμάντο.	pantalon	0	0
+J'ai fait semblant de travailler.	Έκανα πως δούλευα.	semblant	0	0
+En 1493, le Vatican a offert l'Amérique à l'Espagne et l'Afrique noire au Portugal « pour que les nations barbares soient réduites à la foi catholique ».	Το 1493, το Βατικανό έδωσε την Αμερική στην Ισπανία και τη μαύρη Αφρική στην Πορτογαλία «προκειμένου τα βαρβαρικά έθνη να περιοριστούν στην Καθολική πίστη».	offert	0	0
+Les enfants ont beaucoup grandi ces derniers mois.	Τα παιδιά μεγάλωσαν πολύ τους τελευταίους μήνες.	grandi	0	0
+La fin justifie les moyens.	Ο σκοπός αγιάζει τα μέσα.	moyens	0	0
+Tom, il y a ton téléphone qui sonne.	Τομ, το τηλέφωνό σου χτυπάει.	sonne	0	0
+Il a été condamné à la perpétuité. Jusqu'à aujourd'hui, il prétend être innocent.	Καταδικάστηκε σε ισόβια. Μέχρι σήμερα ισχυρίζεται πως είναι αθώος.	innocent	0	0
+N'importe quel médecin vous dira de ne pas fumer.	Οποιοσδήποτε γιατρός θα σας πει να μην καπνίζετε.	dira	0	0
+L'alphabet cyrillique a été créé à partir de l'alphabet grec.	Το κυριλλικό αλφάβητο δημιουργήθηκε με βάση το ελληνικό αλφάβητο.	créé	0	0
+Je ne peux plus supporter cette chaleur.	Δεν μπορώ πια να υποφέρω αυτή τη ζέστη.	supporter	0	0
+Quel métier ton père exerce-t-il ?	Τι δουλειά κάνει ο πατέρας σου;	métier	0	0
+Tom nous trouvera.	Θα μας βρει ο Τομ.	trouvera	0	0
+Le service militaire est aussi un devoir patriotique.	Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	militaire	0	0
+J'ai dormi, et toi ?	Εγώ κοιμήθηκα, εσύ;	dormi	0	0
+J'ai pris une précieuse leçon.	Πήρα ένα πολύτιμο μάθημα.	leçon	0	0
+Pour moi, c'est du chinois.	Είναι για μένα κινέζικα.	chinois	0	0
+Rome est une ville ancienne.	Η Ρώμη είναι αρχαία πόλη.	ancienne	0	0
+Je ne lis pas de bédés.	Δε διαβάζω κόμικς.	lis	0	0
+Thomas ouvrit la boite avec attention.	Ο Τομ άνοιξε προσεκτικά το κουτί.	thomas	0	0
+Est-ce qu'il dort ?	Κοιμάται;	dort	0	0
+Marie est devenue une fille très charmante. Elle est brune et a les yeux verts comme sa mère.	Η Μαρί έχει γίνει ένα πολύ γοητευτικό κορίτσι. Είναι μελαχρινή και έχει πράσινα μάτια όπως η μητέρα της.	devenue	0	0
+Tom respire normalement.	Ο Τομ αναπνέει κανονικά.	respire	0	0
+Quel est le nom de la plus haute montagne dans ce pays ?	Ποιο είναι το όνομα του πιο ψηλού βουνού σε εκείνη τη χώρα;	haute	0	0
+Nous avons peint la porte en vert.	Βάψαμε πράσινη την πόρτα.	vert	0	0
+Emily m'a volé mon cœur.	Η Αιμιλία μου έκλεψε την καρδιά.	emily	0	0
+J'ai des remords de lui avoir refusé mon aide.	Έχω τύψεις που του αρνήθηκα τη βοήθειά μου.	refusé	0	0
+La fille a une souris.	Το κορίτσι έχει ένα ποντίκι.	souris	0	0
+Il chante l'amour.	Τραγουδάει για την αγάπη.	chante	0	0
+Celle-ci ouvre la fenêtre.	Αυτή ανοίγει το παράθυρο.	celle-ci	0	0
+Ce livre a pour sujet les étoiles.	Αυτό το βιβλίο είναι για τα αστέρια.	étoiles	0	0
+Je refuse de permettre ça.	Αρνούμαι να το επιτρέψω αυτό.	permettre	0	0
+Celui-ci est arrivé à l'heure malgré la pluie.	Αυτός έφτασε στην ώρα του παρά τη βροχή.	pluie	0	0
+L'amitié est un soutien dans les moments difficiles.	Η φιλία είναι στήριγμα στις δύσκολες στιγμές.	moments	0	0
+Je me tiens à l'ombre.	Στέκομαι στη σκιά.	ombre	0	0
+Rome est une ville ancienne.	Η Ρώμη είναι αρχαία πόλη.	rome	0	0
+J'admire ton talent.	Θαυμάζω το ταλέντο σου.	talent	0	0
+Je veux aller en Angleterre.	Θέλω να πάω στην Αγγλία.	angleterre	0	0
+J'aime la neige.	Μου αρέσει το χιόνι.	neige	0	0
+Il porte une chemise de coton blanc.	Φοράει ένα λευκό βαμβακερό πουκάμισο.	chemise	0	0
+Il n'a pas pu trouver d'emploi.	Δεν βρήκε δουλειά.	emploi	0	0
+Tom et Marie parlent généralement français entre eux.	Τομ και η Μαίρη συνήθως μιλούν ο ένας στον άλλον στα Γαλλικά.	parlent	0	0
+Le garçon jette une pierre.	Το αγόρι πετάει μια πέτρα.	jette	0	0
+Elle a déplacé une chaise.	Μετακίνησε μια καρέκλα.	chaise	0	0
+Il fait dix degrés en-dessous de zéro.	Τώρα έχει δέκα βαθμούς κάτω απ'το μηδέν.	zéro	0	0
+J'ai sommeil, d'ailleurs il est tard.	Νυστάζω, εξάλλου είναι αργά.	sommeil	0	0
+Nous sommes allés voir un film.	Πήγαμε να δούμε μία ταινία.	allés	0	0
+Cinquante familles vivent dans ce petit village.	Πενήντα οικογένειες ζουν σε αυτό το μικρό χωριό.	familles	0	0
+J'ai adopté un ours.	Υιοθέτησα μια αρκούδα.	ours	0	0
+À quelle heure commence l'examen ?	Τι ώρα αρχίζει το διαγώνισμα;	examen	0	0
+J'ai obtenu ce que tu voulais.	Πήρα αυτό που ήθελες.	obtenu	0	0
+C'est évident.	Είναι προφανές.	évident	0	0
+Aujourd'hui, c'est lundi.	Σήμερα είναι Δευτέρα.	lundi	0	0
+Berlin se situe sur la rivière Spree.	Το Βερολίνο βρίσκεται στον ποταμό Σπρε.	rivière	0	0
+Quel est le nom de la plus haute montagne dans ce pays ?	Ποιο είναι το όνομα του πιο ψηλού βουνού σε εκείνη τη χώρα;	montagne	0	0
+Tom n'aidait pas les pauvres.	Ο Τομ δε βοήθησε τους φτωχούς.	pauvres	0	0
+Apportez-moi mes lunettes.	Φέρτε μου τα γυαλιά μου.	lunettes	0	0
+J'ai lu les journaux.	Διάβασα εφημερίδες.	journaux	0	0
+Il faut faire contre mauvaise fortune bon cœur.	Η φτώχια θέλει καλοπέραση.	fortune	0	0
+Je veux des réponses.	Θέλω απαντήσεις.	réponses	0	0
+Il ne pense pas que son père reviendra.	Δεν πιστεύει ότι ο πατέρας του θα επιστρέψει.	reviendra	0	0
+Tom était là une heure plus tôt que Maria.	Ο Τομ ήταν εδώ μια ώρα νωρίτερα από τη Μαρία.	maria	0	0
+Je te reconnais au tranchant terrible de ton épée.	Σε γνωρίζω από την κόψη του σπαθιού την τρομερή.	épée	0	0
+Cette radio est-elle la tienne ?	Αυτό το ραδιόφωνο είναι δικό σου;	tienne	0	0
+Elle travaillait du matin au soir.	Δούλευε απ'το πρωί ως το βράδυ.	travaillait	0	0
+Pourquoi t'es-tu réveillé si tôt ?	Γιατί ξύπνησες τόσο νωρίς;	réveillé	0	0
+L'amitié est un soutien dans les moments difficiles.	Η φιλία είναι στήριγμα στις δύσκολες στιγμές.	amitié	0	0
+Marina fait pousser des roses rares.	Η Μαρίνα καλλιεργεί σπάνια τριαντάφυλλα.	pousser	0	0
+Ce commerce a de nombreux clients.	Αυτό το κατάστημα έχει πολλούς πελάτες.	nombreux	0	0
+Je lui ai brisé le cœur mais je l'aime.	Του ράγησα την καρδιά, αλλά τον αγαπάω.	brisé	0	0
+Le tremblement de terre s'est produit à minuit.	Ο σεισμός σημειώθηκε τα μεσάνυχτα.	minuit	0	0
+Je suis sûr que tu as trouvé ces pierres près du lac où nous nous sommes baignés.	Είμαι σίγουρος ότι βρήκες αυτές τις πέτρες κοντά στη λίμνη όπου κάναμε μπάνιο.	lac	0	0
+L'entrée pour le concert coûte plus qu'une entrée de cinéma.	Η είσοδος στο κοντσέρτο κοστίζει περισσότερο απ΄αυτή στον κινηματογράφο.	concert	0	0
+L'entrée pour le concert coûte plus qu'une entrée de cinéma.	Η είσοδος στο κοντσέρτο κοστίζει περισσότερο απ΄αυτή στον κινηματογράφο.	coûte	0	0
+Le vent souffle.	Φυσάει ο άνεμος.	souffle	0	0
+Tom achète des bananes.	Ο Τομ αγοράζει μπανάνες.	achète	0	0
+M. Smith a été annoncé comme le nouveau président.	Ανακοινώθηκε ότι ο κ. Σμιθ θα ήταν ο επόμενος πρόεδρος.	smith	0	0
+Est-ce que tu sais comment aller à la gare ferroviaire ?	Ξέρετε πώς να φτάσετε στο σιδηροδρομικό σταθμό;	gare	0	0
+L'amitié est un soutien dans les moments difficiles.	Η φιλία είναι στήριγμα στις δύσκολες στιγμές.	soutien	0	0
+Que vous ont-ils fait ?	Τι σας έχουν κάνει;	ont-ils	0	0
+Avez-vous réellement vu l'accident ?	Έχετε δει πράγματι το ατύχημα;	réellement	0	0
+La colombe au col noir roucoule sur les toits, et sur les flots dormants se répand une voix, une voix qui cadence une langue divine, et d'un accent si doux, que l'amour s'y devine.	Το περιστέρι με το μαύρο κολάρο γουργουρίζει στις στέγες, και πάνω από τα κύματα που κοιμούνται απλώνεται μια φωνή, μια φωνή που σημειώνει μια θεϊκή γλώσσα, και με μια προφορά τόσο γλυκιά που μαντεύεται η αγάπη μέσα της.	devine	0	0
+Pour préparer une ratatouille, il faut beaucoup de légumes, et, en particulier, des poivrons.	Για να προετοιμάσετε το ρατατούιγ, χρειάζεστε πολλά λαχανικά και, ειδικότερα, πιπεριές.	particulier	0	0
+Il vadrouille dans les rues.	Περιπλανιέται στους δρόμους.	rues	0	0
+J'ai eu du mal à résoudre le problème.	Το βρήκα δύσκολο να λύσω το πρόβλημα.	résoudre	0	0
+Elle est différente.	Είναι διαφορετική.	différente	0	0
+Je te reconnais au tranchant terrible de ton épée.	Σε γνωρίζω από την κόψη του σπαθιού την τρομερή.	reconnais	0	0
+Je n'aime pas le fromage.	Δε μ' αρέσει το τυρί.	fromage	0	0
+Ayant fermé toutes les portes, je suis allé dormir.	Κλείνοντας όλες τις πόρτες, πήγα για ύπνο.	ayant	0	0
+Je ne peux plus supporter cette chaleur.	Δεν μπορώ πια να υποφέρω αυτή τη ζέστη.	chaleur	0	0
+Si un jour les nombreuses langues européennes viennent à disparaître, ce jour-là l’Europe – en tant que concept et projet – cessera d’exister.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	disparaître	0	0
+Mon oncle d'Amérique passe toujours ses congés en Europe.	Ο θείος μου από τις ΗΠΑ περνάει πάντα τις διακοπές του στην Ευρώπη.	europe	0	0
+Ma femme s'est bien occupée du chien.	Η γυναίκα μου ασχολείται πολύ με το σκύλο.	occupée	0	0
+Ne pas déranger, s'il vous plaît !	Παρακαλώ μην ενοχλείτε!	déranger	0	0
+Je ne la verrai plus.	Δε θα τη δω πιά.	verrai	0	0
+Je suis très fatiguée.	Είμαι πολύ κουρασμένη.	fatiguée	0	0
+La vie ne donne pas de cadeaux.	Η ζωή δεν δίνει δώρα.	cadeaux	0	0
+Tu es un menteur.	Είσαι ένας ψεύτης.	menteur	0	0
+Vive le Québec libre !	Ζήτω το ελεύθερο Κεμπέκ!	vive	0	0
+J'écris une lettre.	Γράφω ένα γράμμα.	écris	0	0
+Il décida d'arrêter de fumer.	Αποφάσισε να κόψει το τσιγάρο.	fumer	0	0
+Après la mort de ses parents, il a été élevé par sa tante.	Μετά το θάνατο των γονιών του, τον μεγάλωσε η θεία του.	élevé	0	0
+Ces mensonges sont impardonnables.	Αυτά τα ψέματα είναι ασυγχώρητα.	mensonges	0	0
+Je pense que nous pourrions nous aider l'un l'autre.	Πιστεύω πως θα μπορούσαμε να βοηθήσουμε ο ένας τον άλλο.	pourrions	0	0
+Je suis revenue le même jour.	Επέστρεψα την ίδια μέρα.	revenue	0	0
+Ce billet est valable pendant trois jours.	Αυτό το εισιτήριο ισχύει για τρεις ημέρες.	billet	0	0
+Il n'était pas jaloux.	Δε ζήλευε.	jaloux	0	0
+Cette caisse contient des pommes.	Το κουτί αυτό περιέχει μήλα.	caisse	0	0
+Parlez-vous russe ?	Μιλάτε Ρωσικά;	russe	0	0
+Écoutez-moi !	Ακούστε με!	écoutez-moi	0	0
+Je bois le thé sans sucre.	Πίνω το τσάι χωρίς ζάχαρη.	sucre	0	0
+J'aime étudier les langues étrangères.	Μου αρέσει να μελετώ ξένες γλώσσες.	étudier	0	0
+Ton mari te trompe.	Ο σύζυγός σου σε απατάει.	trompe	0	0
+Péché avoué est à demi pardonné.	Μια αμαρτία που εξομολογείται συγχωρείται κατά το ήμισυ.	demi	0	0
+Je n'ai pas besoin d'avocats.	Δε χρειάζομαι δικηγόρο.	avocats	0	0
+Ne m'abandonne pas !	Μη με εγκαταλείπεις!	abandonne	0	0
+J'ai apporté une pizza.	Έφερα ένα πίτσα.	pizza	0	0
+Nous sommes médecins.	Είμαστε γιατροί.	médecins	0	0
+Le mariage est une aventure, comme de partir à la guerre.	Ο γάμος είναι μιά περιπέτεια, όπως όταν πηγαίνεις στον πόλεμο.	aventure	0	0
+Je suis plus intelligente que vous.	Είμαι εξυπνότερη από σας.	intelligente	0	0
+Je veux que tu me racontes tout.	Θέλω να μου τα πεις όλα.	racontes	0	0
+Peux-tu deviner mon âge ?	Μπορείς να μαντέψεις την ηλικία μου;	deviner	0	0
+Je pense que nous ferions mieux de recommencer du départ.	Νομίζω πως θα κάναμε καλύτερα να ξεκινήσουμε πάλι από την αρχή.	recommencer	0	0
+Que dis-tu de sortir pour une courte promenade ?	Τι λες για έναν περίπατο;	dis-tu	0	0
+Le futur ne sera pas construit par la force, ni par le désir de conquête, mais à travers l’application patiente de la méthode démocratique, l’esprit de consensus constructif et le respect de la liberté.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	construit	0	0
+La propriété, c'est le vol.	Η ιδιοκτησία είναι κλοπή.	propriété	0	0
+Il a tort, mais il est trop têtu pour l'admettre.	Έχει άδικο αλλά είναι πολύ ξεροκέφαλος να το παραδεχτεί.	admettre	0	0
+La foule applaudit.	Το κοινό χειροκρότησε.	foule	0	0
+Il est allé faire du ski en hiver.	Αυτός πήγαινε για σκι κατά τη διάρκεια του χειμώνα.	hiver	0	0
+Le génocide arménien est un crime contre l'humanité.	Η γενοκτονία των Αρμενίων είναι έγκλημα κατά της ανθρωπότητας.	humanité	0	0
+Pour moi ce nuage ressemble à un lapin.	Αυτό το σύννεφο μου μοιάζει σαν κουνέλι.	lapin	0	0
+Qu'est-ce là qui monte du désert, comme une colonne de fumée, vapeur de myrrhe et d'encens et de tous parfums exotiques ?	Τι είναι αυτό που αναδύεται από την έρημο, σαν στήλη καπνού, ατμούς μύρου και θυμιάματος και όλα τα εξωτικά αρώματα;	désert	0	0
+Les États-Unis d'Amérique sont un pays démocratique.	Οι Ηνωμένες Πολιτείες της Αμερικής είναι μια δημοκρατική χώρα.	états-unis	0	0
+Ils peuvent faire leurs activités de plein air dans le parc, à l'ombre des grands arbres.	Μπορούν να κάνουν τις υπαίθριες δραστηριότητες τους στο πάρκο, στη σκιά των μεγάλων δέντρων.	arbres	0	0
+J'ai besoin de bons conseils.	Έχω ανάγκη από καλές συμβουλές.	conseils	0	0
+Et ça recommence !	Πάλι τα ίδια!	recommence	0	0
+J'ai pris l'ascenseur jusqu'au troisième étage.	Πήρα το ασανσέρ μέχρι τον τρίτο όροφο.	ascenseur	0	0
+Mars est le dieu de la guerre.	Ο Άρης είναι Θεός του πολέμου.	mars	0	0
+Pourquoi ne dites-vous pas quelque chose ?	Γιατί δε λέτε κάτι;	dites-vous	0	0
+Je ne veux pas être impliqué dans cette histoire.	Δε θέλω να εμπλακώ σε αυτή την ιστορία.	impliqué	0	0
+Il faudra passer par-dessus mon cadavre !	Πρέπει να περάσεις πάνω από το πτώμα μου!	cadavre	0	0
+Arrête de traîner les pieds.	Σταμάτα να σέρνεις τα πόδια σου.	traîner	0	0
+Ils ont traversé la frontière chargés de drogue.	Πέρασαν τα σύνορα φορτωμένοι ναρκωτικά.	traversé	0	0
+Je suis une chanteuse américaine.	Είμαι αμερικανίδα τραγουδίστρια.	américaine	0	0
+L'avenir appartient à ceux qui croient à la beauté de leurs rêves.	Το μέλλον ανήκει σε εκείνους που πιστεύουν στην ομορφιά των ονείρων τους.	croient	0	0
+Ils ont traversé la frontière chargés de drogue.	Πέρασαν τα σύνορα φορτωμένοι ναρκωτικά.	frontière	0	0
+Je hais l'hiver.	Μισώ το χειμώνα.	hais	0	0
+Mes enfants vivent à Boston.	Τα παιδιά μου ζουν στη Βοστώνη.	vivent	0	0
+As-tu envie d'une balade à vélo ?	Έχεις όρεξη για μιά βόλτα με ποδήλατο;	vélo	0	0
+Elle a torturé un prisonnier.	Βασάνισε έναν φυλακισμένο.	prisonnier	0	0
+Regardez-moi dans les yeux !	Κοιτάξτε με στα μάτια!	regardez-moi	0	0
+Tom et Nancy ont rompu le mois dernier.	Ο Τομ και η Νάνση τα χάλασαν τον περασμένο μήνα.	rompu	0	0
+Je ne peux pas me souvenir quand nous nous sommes rencontrés pour la dernière fois.	Δεν μπορώ να θυμηθώ, πότε συναντηθήκαμε για τελευταία φορά.	rencontrés	0	0
+Mon estomac me fait mal.	Μου πονάει το στομάχι.	estomac	0	0
+Il nous donna non seulement des habits, mais aussi un peu d'argent.	Δε μας έδωσε μόνο ρούχα αλλά και λίγα χρήματα.	donna	0	0
+J'ai failli rater le train.	Παραλίγο να χάσω το τρένο.	rater	0	0
+Qui a inventé le piano ?	Ποιός εφηύρε το πιάνο;	inventé	0	0
+Ces étudiants sont Coréens.	Αυτοί οι μαθητές είναι Κορεάτες.	étudiants	0	0
+Calmez-vous.	Ηρεμήστε.	calmez-vous	0	0
+Il n'a pas même reconnu ma voix.	Δεν αναγνώρισε καν τη φωνή μου.	reconnu	0	0
+Le garçon est un loup déguisé en mouton.	Είναι αυτός μια σιγανοπαπαδίτσα.	loup	0	0
+Comment allons-nous faire ça ?	Πώς θα το κάνουμε αυτό;	allons-nous	0	0
+Veux-tu m'accompagner ?	Θες να με συνοδέψεις;	accompagner	0	0
+Essayons encore une fois.	Ας προσπαθήσουμε άλλη μια φορά.	essayons	0	0
+En 1493, le Vatican a offert l'Amérique à l'Espagne et l'Afrique noire au Portugal « pour que les nations barbares soient réduites à la foi catholique ».	Το 1493, το Βατικανό έδωσε την Αμερική στην Ισπανία και τη μαύρη Αφρική στην Πορτογαλία «προκειμένου τα βαρβαρικά έθνη να περιοριστούν στην Καθολική πίστη».	afrique	0	0
+Quel est le salaire minimum en République tchèque ?	Ποιος είναι ο κατώτατος μισθός στην Τσεχία;	salaire	0	0
+Chaque veille de Noël, nous allons à l'église.	Κάθε παραμονή Χριστουγέννων πηγαίνουμε στην εκκλησία.	veille	0	0
+Le lac est très profond.	Η λίμνη είναι πολύ βαθιά.	profond	0	0
+Je ne savais pas que tu étais un danseur professionnel.	Δεν ήξερα ότι είσαι επαγγελματίας χορευτής.	professionnel	0	0
+Je te recommande la lecture de ce roman.	Σου συνιστώ να διαβάσεις αυτό το μυθιστόρημα.	roman	0	0
+Je suis proche de la quarantaine et je suis encore célibataire.	Κοντεύω στα σαράντα και είμαι ακόμα ανύπαντρος.	célibataire	0	0
+C'est une fleur tellement belle !	Είναι ένα τόσο ωραίο λουλούδι!	fleur	0	0
+Aujourd'hui, on est jeudi.	Σήμερα είναι Πέμπτη.	jeudi	0	0
+Je ne m'attendais pas à ce que vous disiez ça.	Δεν περίμενα να το πείτε αυτό.	disiez	0	0
+Tom respire normalement.	Ο Τομ αναπνέει κανονικά.	normalement	0	0
+Le canapé est inconfortable.	Ο καναπές είναι άβολος.	canapé	0	0
+Sommes-nous d'accord ?	Είμαστε εντάξει ;	sommes-nous	0	0
+Je pense que c'est correct.	Θεωρώ πως είναι σωστό.	correct	0	0
+Ces derniers temps avez-vous un sentiment de soif plus prononcé ?	Τον τελευταίο καιρό έχετε ένα πιό έντονο αίσθημα δίψας;	soif	0	0
+J'accepte tes conditions.	Αποδέχομαι τους όρους σου.	conditions	0	0
+Les abeilles font du miel.	Οι μέλισσες κάνουν μέλι.	miel	0	0
+Tataouine est une ville du Maroc en face du détroit de Gibraltar et à 40 kilomètres à l'est de Tanger.	Το Τετουάν είναι μια πόλη του Μαρόκου απέναντι από το στενό του Γιβραλτάρ και 40 χιλιόμετρα ανατολικά της Ταγγέρης.	kilomètres	0	0
+Tom est mon voisin.	Ο Τομ είναι γείτονάς μου.	voisin	0	0
+Qui a inventé le piano ?	Ποιός εφηύρε το πιάνο;	piano	0	0
+Tu manques d'imagination.	Στερείσαι φαντασίας.	manques	0	0
+Nous sommes dans une bibliothèque.	Είμαστε σε μιά βιβλιοθήκη.	bibliothèque	0	0
+Le futur ne sera pas construit par la force, ni par le désir de conquête, mais à travers l’application patiente de la méthode démocratique, l’esprit de consensus constructif et le respect de la liberté.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	désir	0	0
+J'accepte, mais à une condition.	Δέχομαι, αλλά υπό έναν όρο.	condition	0	0
+Qu'est-ce là qui monte du désert, comme une colonne de fumée, vapeur de myrrhe et d'encens et de tous parfums exotiques ?	Τι είναι αυτό που αναδύεται από την έρημο, σαν στήλη καπνού, ατμούς μύρου και θυμιάματος και όλα τα εξωτικά αρώματα;	fumée	0	0
+Robert et Martine sont des noms étrangers.	Ρομπέρ και Μαρτίν είναι ξένα ονόματα.	étrangers	0	0
+Je suis Japonais.	Είμαι Γιαπωνέζος.	japonais	0	0
+Les scientifiques ne savent pas encore soigner le cancer.	Οι επιστήμονες δε γνωρίζουν ακόμα να θεραπεύσουν τον καρκίνο.	soigner	0	0
+Papa ne mange pas beaucoup de fruits.	Ο μπαμπάς δεν τρώει πολλά φρούτα.	fruits	0	0
+Mary se regarda dans le miroir.	Κοίταξε τον εαυτό της στον καθρέφτη.	miroir	0	0
+J'aime le jaune.	Μου αρέσει το κίτρινο.	jaune	0	0
+Il faut des efforts pour apprendre une autre langue.	Χρειάζεται προσπάθεια για να μάθεις μια άλλη γλώσσα.	efforts	0	0
+Tu es trop jeune pour voyager seul.	Είσαι πολύ νέος για να ταξιδεύεις μόνος.	voyager	0	0
+Je joue au foot.	Παίζω ποδόσφαιρο.	foot	0	0
+Les poissons ne peuvent pas vivre hors de l'eau.	Τα ψάρια δεν μπορούν να ζήσουν έξω από το νερό.	poissons	0	0
+L'auto est bleue.	Το αυτοκίνητο είναι μπλε.	bleue	0	0
+Un plus deux est égal à trois.	Ένα και δύο κάνουν τρία.	égal	0	0
+C'est une œuvre d'art remarquable.	Είναι αριστούργημα	œuvre	0	0
+Où étiez-vous hier ?	Πού ήσαστε χτες;	étiez-vous	0	0
+J'apprends l'espagnol.	Μαθαίνω ισπανικά.	apprends	0	0
+Je suis d'accord avec cette proposition.	Είμαι σύμφωνος με την πρόταση.	proposition	0	0
+Il ne voyait sa petite amie que le dimanche.	Έβλεπε την κοπέλα του μόνο τις Κυριακές.	voyait	0	0
+Je ne veux pas regarder la télévision ce soir.	Δεν πρόκειται να δω τη τηλεόραση το βράδυ.	télévision	0	0
+Ce que je sais de la morale, c'est au football que je le dois.	Όλα όσα ξέρω για την ηθική τα οφείλω στο ποδόσφαιρο.	football	0	0
+Le cochon est rose.	Το γουρούνι είναι ροζ.	cochon	0	0
+Il a été condamné à la perpétuité. Jusqu'à aujourd'hui, il prétend être innocent.	Καταδικάστηκε σε ισόβια. Μέχρι σήμερα ισχυρίζεται πως είναι αθώος.	condamné	0	0
+La poussière cendre le paysage après l'éruption.	Μετά την έκρηξη, η σκόνη έκανε τις γύρω περιοχές γκρίζες	poussière	0	0
+Ne le fais pas exprès.	Μην το κάνεις σκόπιμα.	exprès	0	0
+J'étais dans les montagnes.	Ήμουν στα βουνά.	montagnes	0	0
+Le printemps est la saison que j'aime le mieux.	Η άνοιξη είναι η αγαπημένη μου εποχή του χρόνου.	printemps	0	0
+Il existe une légende sur la façon dont le pont a été construit.	Υπάρχει ένας θρύλος για το πώς χτίστηκε η γέφυρα.	légende	0	0
+Comment le contexte peut-il nous aider à comprendre le sens ?	Πώς μπορούν να μας βοηθούν τα συμφραζόμενα να κατανοούμε τη σημασία;	peut-il	0	0
+Vous n'étiez pas malades.	Δεν ήσασταν άρρωστοι.	malades	0	0
+Ils nous connaissent.	Αυτοί μας ξέρουν.	connaissent	0	0
+Elle ne pense qu'à elle-même.	Σκέφτεται μόνο τον εαυτό της.	elle-même	0	0
+Une bonne pensée m'est venue à l'esprit.	Μια καλή σκέψη πέρασε απ'το μυαλό μου.	pensée	0	0
+J'ai 38,9 de fièvre.	Έχω πυρετό 38,9.	fièvre	0	0
+Marie est devenue une fille très charmante. Elle est brune et a les yeux verts comme sa mère.	Η Μαρί έχει γίνει ένα πολύ γοητευτικό κορίτσι. Είναι μελαχρινή και έχει πράσινα μάτια όπως η μητέρα της.	charmante	0	0
+Elle est née en 1960.	Γεννήθηκε το 1960.	née	0	0
+Tu peux me déposer devant chez moi ?	Μπορείτε να με αφήσετε μπροστά στο σπίτι μου;	déposer	0	0
+Tu manques d'imagination.	Στερείσαι φαντασίας.	imagination	0	0
+Les voyez-vous ?	Τους βλέπετε;	voyez-vous	0	0
+Le magazine s'adresse aux adolescents.	Το περιοδικό απευθύνεται σε εφήβους.	magazine	0	0
+Il vend des voitures.	Πουλάει αυτοκίνητα.	vend	0	0
+Dieu est un cercle dont la circonférence est une droite.	Ο Θεός είναι ένας κύκλος του οποίου η περιφέρεια είναι μια ευθεία.	cercle	0	0
+Mes enfants vivent à Boston.	Τα παιδιά μου ζουν στη Βοστώνη.	boston	0	0
+Tu ne peux pas avoir le beurre et l'argent du beurre.	Δε μπορείς να έχεις την πίτα ολόκληρη και το σκύλο χορτάτο.	beurre	0	0
+Quelle est ta couleur préférée ?	Ποιο είναι το αγαπημένο σου χρώμα;	préférée	0	0
+La société Coca-Cola inventa le Fanta, en pleine Seconde Guerre mondiale, pour le marché allemand.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	allemand	0	0
+Combien de temps vas-tu rester au Japon ?	Πόσο καιρό θα μείνεις στην Ιαπωνία;	japon	0	0
+Malheureux au jeu, heureux en amour.	Όποιος χάνει στα χαρτιά, κερδίζει στην αγάπη.	malheureux	0	0
+J'aime la couleur orange.	Μου αρέσει το πορτοκαλί χρώμα.	orange	0	0
+Le futur ne sera pas construit par la force, ni par le désir de conquête, mais à travers l’application patiente de la méthode démocratique, l’esprit de consensus constructif et le respect de la liberté.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	patiente	0	0
+Nous voudrions commander 18 tonnes d'huile d'olive.	Θα θέλαμε να παραγγείλουμε 18 τόνους ελαιόλαδο.	huile	0	0
+Je suis retourné au Japon.	Γύρισα στην Ιαπωνία.	retourné	0	0
+On a planté des fleurs de toutes les couleurs dans notre jardin.	Φυτέψαμε λουλούδια όλων των χρωμάτων στον κήπο μας.	couleurs	0	0
+La nuit était froide.	Η νύχτα ήταν κρύα.	froide	0	0
+Les pirates ont enterré le trésor.	Οι πειρατές έθαψαν τον θησαυρό στη γη.	enterré	0	0
+Il a un bon alibi.	Έχει ένα καλό άλλοθι.	alibi	0	0
+Mes parents disaient qu'il faut respecter les aînés.	Οι γονείς μου έλεγαν, ότι πρέπει να σεβόμαστε τους ηλικιωμένους.	respecter	0	0
+Les fenêtres donnent sur la rue.	Τα παράθυρα βλέπουν στο δρόμο.	donnent	0	0
+C'est une cave.	Αυτή είναι μια σπηλιά.	cave	0	0
+Tu iras chez toi et y resteras.	Θα πάτε σπίτι σας και εκεί θα μείνετε.	iras	0	0
+L'amitié est un soutien dans les moments difficiles.	Η φιλία είναι στήριγμα στις δύσκολες στιγμές.	difficiles	0	0
+Berlin est la capitale de l'Allemagne.	Το Βερολίνο είναι η πρωτεύουσα της Γερμανίας.	allemagne	0	0
+Je dois payer le loyer.	Έχω να πληρώσω το νοίκι.	loyer	0	0
+Tu n'es pas obligée de me dire ça.	Δε χρειάζεται να μου το πεις αυτό.	obligée	0	0
+Il boit du thé en écoutant de la musique.	Πίνει τσάι ενώ ακούει μουσική.	boit	0	0
+Et alors, ça t'a plu ?	Λοιπόν, σου άρεσε;	plu	0	0
+Elle a épousé un Américain.	Παντρεύτηκε ένα Αμερικάνο.	épousé	0	0
+Péché avoué est à demi pardonné.	Μια αμαρτία που εξομολογείται συγχωρείται κατά το ήμισυ.	péché	0	0
+Quand avez-vous eu votre dernier rapport sexuel ?	Πότε είχατε την τελευταία σας σεξουαλική επαφή;	sexuel	0	0
+Thomas ouvrit la boite avec attention.	Ο Τομ άνοιξε προσεκτικά το κουτί.	boite	0	0
+Avons-nous gagné ?	Νικήσαμε;	avons-nous	0	0
+La viande est moins sèche quand on la fait cuire au four à basse température.	Το κρέας είναι λιγότερο στεγνό όταν ψήνεται στο φούρνο σε χαμηλές θερμοκρασίες.	température	0	0
+Elle a les yeux bleus.	Έχει γαλάζια μάτια.	bleus	0	0
+J'adore les pommes.	Λατρεύω τα μήλα.	pommes	0	0
+« La porte est-elle ouverte ou fermée ? » « Elle est fermée, je l'ouvre. »	«Η πόρτα είναι ανοιχτή ή κλειστή;» «Η πόρτα είναι κλειστή, την ανοίγω.»	fermée	0	0
+L'Espéranto, langue officielle de l'Union européenne, maintenant !	Εσπεράντο, η επίσημη γλώσσα της Ευρωπαϊκής Ένωσης, τώρα!	union	0	0
+J'ai deux chats.	Έχω δύο γάτες.	chats	0	0
+Si un jour les nombreuses langues européennes viennent à disparaître, ce jour-là l’Europe – en tant que concept et projet – cessera d’exister.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	jour-là	0	0
+Le bateau a sombré corps et biens.	Το πλοίο ναυάγησε χωρίς ούτε έναν επιζόντα.	biens	0	0
+Je suis déçu que mes amis ne soient pas là.	Είμαι απογοητευμένος που οι φίλοι μου δεν είναι εδώ.	déçu	0	0
+Qui a écrit la Bible ?	Ποιος έγραψε τη Βίβλο;	bible	0	0
+Je suis sûr que tu as trouvé ces pierres près du lac où nous nous sommes baignés.	Είμαι σίγουρος ότι βρήκες αυτές τις πέτρες κοντά στη λίμνη όπου κάναμε μπάνιο.	pierres	0	0
+Souviens-toi de ces règles.	Θυμίσου αυτούς τους κανόνες.	souviens-toi	0	0
+Nous voudrions commander 18 tonnes d'huile d'olive.	Θα θέλαμε να παραγγείλουμε 18 τόνους ελαιόλαδο.	commander	0	0
+Elle n'aime pas les blagues.	Τα αστεία δεν της αρέσουν.	blagues	0	0
+Nous nous sommes tous deux séparés l'année dernière.	Οι δυό μας χωρίσαμε την περασμένη χρονιά.	séparés	0	0
+Je veux que ces gens sortent d'ici.	Θέλω αυτοί οι άνθρωποι να βγούν από εδώ.	sortent	0	0
+Il ne restait personne d'autre que moi.	Κανένας δεν έμεινε, εκτός από μένα.	restait	0	0
+Son passe-temps, c'est la collection de timbres.	Το χόμπι της είναι η συλλογή γραμματοσήμων .	collection	0	0
+Ne faites pas de plaisanteries stupides !	Μην κάνετε ανόητα αστεία!	stupides	0	0
+Surgit la question : « Internet est-il aussi un moyen de communication de masse ? »	Τίθεται το ερώτημα: " Είναι και το ίντερνετ ένα μέσο μαζικής ενημέρωσης; "	communication	0	0
+Si un jour les nombreuses langues européennes viennent à disparaître, ce jour-là l’Europe – en tant que concept et projet – cessera d’exister.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	nombreuses	0	0
+Une ampoule est un globe en verre qui fait de la lumière grâce à l'électricité.	Ένας λαμπτήρας είναι μια γυάλινη σφαίρα που παράγει φως χρησιμοποιώντας ηλεκτρική ενέργεια.	électricité	0	0
+Ce commerce a de nombreux clients.	Αυτό το κατάστημα έχει πολλούς πελάτες.	commerce	0	0
+L'âne a adoré les laitues que tu lui as données.	Ο γάιδαρος αγάπησε τα μαρούλια που του έδινες.	adoré	0	0
+Tom et Nancy ont rompu le mois dernier.	Ο Τομ και η Νάνση τα χάλασαν το μήνα που μας πέρασε.	nancy	0	0
+Les fenêtres donnent sur la rue.	Τα παράθυρα βλέπουν στο δρόμο.	fenêtres	0	0
+Nous avons étudié tout l'après-midi.	Μελετούσαμε όλο το απόγευμα.	étudié	0	0
+Tom est-il en train de rêver ?	Ονειρεύεται ο Τομ;	rêver	0	0
+Excusez-moi de vous interrompre.	Με συγχωρείτε που σας διακόπτω.	interrompre	0	0
+Puis-je éteindre la lumière ?	Μπορώ να σβήσω το φως;	éteindre	0	0
+Elle a deux sœurs.	Έχει δυο αδερφές.	sœurs	0	0
+Marina vient de Russie et Clarissa de Suède.	Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	russie	0	0
+J'apprends l'espagnol.	Μαθαίνω ισπανικά.	espagnol	0	0
+Cherche, et tu trouveras.	Ψάξε και θα το βρεις.	trouveras	0	0
+Tom était très fâché.	Ο Τομ ήταν πολύ θυμωμένος.	fâché	0	0
+L'iridium est un des éléments les plus rares.	Το ιρίδιο είναι ένα από τα σπανιότερα ατομικά στοιχεία.	éléments	0	0
+Je te recommande la lecture de ce roman.	Σου συνιστώ να διαβάσεις αυτό το μυθιστόρημα.	lecture	0	0
+Aimez vos camarades de classe ! Aimez vos parents ! Aimez votre pays !	Αγαπήστε τους συμμαθητές σας! Αγαπήστε τους γονείς σας! Αγαπήστε την πατρίδα σας!	camarades	0	0
+Nous devons résister de toutes nos forces.	Πρέπει να αντισταθούμε με όλες μας τις δυνάμεις.	résister	0	0
+Marina fait pousser des roses rares.	Η Μαρίνα καλλιεργεί σπάνια τριαντάφυλλα.	roses	0	0
+Il est douze heures et quart.	Είναι δώδεκα και τέταρτο.	douze	0	0
+Aidez Tom, s'il vous plaît.	Βοηθήστε τον Τομ, σας παρακαλώ.	aidez	0	0
+Il ne pouvait pas jouer de la guitare.	Δεν μπορούσε να παίξει κιθάρα.	guitare	0	0
+Que dis-tu de sortir pour une courte promenade ?	Τι λες για έναν περίπατο;	courte	0	0
+La colombe au col noir roucoule sur les toits, et sur les flots dormants se répand une voix, une voix qui cadence une langue divine, et d'un accent si doux, que l'amour s'y devine.	Το περιστέρι με το μαύρο κολάρο γουργουρίζει στις στέγες, και πάνω από τα κύματα που κοιμούνται απλώνεται μια φωνή, μια φωνή που σημειώνει μια θεϊκή γλώσσα, και με μια προφορά τόσο γλυκιά που μαντεύεται η αγάπη μέσα της.	accent	0	0
+Parlez-vous espéranto ?	Μιλάτε Εσπεράντο;	parlez-vous	0	0
+Ça dépend de la personnalité de l'individu.	Εξαρτάται από την προσωπικότητα του ατόμου.	personnalité	0	0
+Tom a dépassé mes attentes.	Ο Τομ ξεπέρασε τις προσδοκίες μου.	dépassé	0	0
+Bon appétit !	Καλή όρεξη!	appétit	0	0
+Elle ne fume pas.	Δεν καπνίζει.	fume	0	0
+Je ne comprends pas cette phrase.	Δεν καταλαβαίνω αυτή τη πρόταση.	phrase	0	0
+Je me suis levé à onze heures.	Ξύπνησα στις έντεκα η ώρα.	levé	0	0
+Je ne veux pas cuisiner.	Δε θέλω να μαγειρέψω.	cuisiner	0	0
+Il faut que tu voies ce film.	Πρέπει να δεις αυτή την ταινία.	voies	0	0
+Le stylo à bille est sur la table.	Η πένα είναι επάνω στο τραπέζι.	stylo	0	0
+Tom et Sue se connaissent depuis 1985.	Ο Τομ και η Σου γνωρίζονται από το 1985.	sue	0	0
+Le riz a bon goût.	Το ρύζι είναι νόστιμο.	riz	0	0
+L'aluminium est un métal.	Το αλουμίνιο είναι μέταλλο.	métal	0	0
+Il fait dix degrés en-dessous de zéro.	Τώρα έχει δέκα βαθμούς κάτω απ'το μηδέν.	degrés	0	0
+Le futur ne sera pas construit par la force, ni par le désir de conquête, mais à travers l’application patiente de la méthode démocratique, l’esprit de consensus constructif et le respect de la liberté.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	méthode	0	0
+Sa mère parle italien.	Η μητέρα της μιλάει Ιταλικά.	italien	0	0
+Je mange une pomme et elle mange du pain.	Τρώω ένα μήλο και τρώει ψωμί.	pomme	0	0
+Ne remets pas à demain ce que tu peux faire aujourd'hui.	Μην αναβάλλεις για αύριο ό,τι μπορείς να κάνεις σήμερα.	remets	0	0
+C'est en 1989 que le mur de Berlin a été abattu.	Το τείχος του Βερολίνου έπεσε το 1989.	abattu	0	0
+Il nous donna non seulement des habits, mais aussi un peu d'argent.	Δε μας έδωσε μόνο ρούχα αλλά και λίγα χρήματα.	habits	0	0
+J'enseigne la langue française.	Διδάσκω τη γαλλική γλώσσα.	enseigne	0	0
+Le couple avait déjà versé un acompte pour le lieu de l'événement, pour le photographe et pour la créatrice de la robe de mariée.	Το ζευγάρι είχε ήδη δώσει προκαταβολή στον χώρο της εκδήλωσης, στον φωτογράφο και στην σχεδιάστρια του νυφικού.	événement	0	0
+Je veux que tu me dises la vérité.	Θέλω να μου πεις την αλήθεια.	dises	0	0
+La lumière brille dans les ténèbres.	Το φως λάμπει στο σκοτάδι.	ténèbres	0	0
+Je pense que tu te trompes.	Πιστεύω ότι κάνεις λάθος.	trompes	0	0
+Je la considère comme ma sœur.	Την βλέπω σαν να'ναι αδερφή μου.	considère	0	0
+Je me suis retrouvée face à face avec mon ex-mari.	Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	retrouvée	0	0
+Il est douze heures et quart.	Είναι δώδεκα και τέταρτο.	quart	0	0
+Tu manges de la viande ou tu es végétarien ?	Τρως κρέας ή είσαι χορτοφάγος;	manges	0	0
+La sœur de Marie est timide et maladroite.	Η αδελφή της Μαίρης είναι ντροπαλή κι αδέξια.	timide	0	0
+On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.	Μπορείτε να δείτε καθαρά μόνο με την καρδιά σας. Αυτό που είναι ουσιώδες είναι αόρατο στο μάτι.	invisible	0	0
+Vous ne ririez jamais aux blagues d'oncle Albert.	Δεν θα γελούσες ποτέ με τα αστεία του θείου Αλμπέρτο.	albert	0	0
+Cette caisse contient des pommes.	Το κουτί αυτό περιέχει μήλα.	contient	0	0
+En 1493, le Vatican a offert l'Amérique à l'Espagne et l'Afrique noire au Portugal « pour que les nations barbares soient réduites à la foi catholique ».	Το 1493, το Βατικανό έδωσε την Αμερική στην Ισπανία και τη μαύρη Αφρική στην Πορτογαλία «προκειμένου τα βαρβαρικά έθνη να περιοριστούν στην Καθολική πίστη».	espagne	0	0
+Si voter changeait quelque chose, on l'aurait interdit.	Αν οι εκλογές αλλάζαν κάτι, θα ήταν παράνομες.	voter	0	0
+John Locke, le philosophe bien connu de la liberté, était actionnaire de la Royal African Company, qui achetait et vendait des esclaves.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	esclaves	0	0
+La société Coca-Cola inventa le Fanta, en pleine Seconde Guerre mondiale, pour le marché allemand.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	mondiale	0	0
+J'admire ton talent.	Θαυμάζω το ταλέντο σου.	admire	0	0
+Ce que je sais de la morale, c'est au football que je le dois.	Όλα όσα ξέρω για την ηθική τα οφείλω στο ποδόσφαιρο.	morale	0	0
+Je joue au baseball.	Παίζω μπέισμπολ.	baseball	0	0
+Reste-t-il du sel ?	Έχει μείνει καθόλου αλάτι;	sel	0	0
+J'aime jouer au poker.	Μ' αρέσει να παίζω πόκερ.	poker	0	0
+Je n'oublierai jamais notre premier rendez-vous.	Δεν θα ξεχάσω ποτέ το πρώτο μας ραντεβού.	oublierai	0	0
+Il a toujours vécu à Tokyo.	Αυτός πάντα ζούσε στο Τόκιο.	tokyo	0	0
+Je m'appelle Jules.	Με λένε Ιούλιος.	jules	0	0
+Ne pas toucher le fruit ! S'il vous plaît.	Μην αγγίζεις στο φρούτο! Παρακαλώ!	fruit	0	0
+Ils peuvent faire leurs activités de plein air dans le parc, à l'ombre des grands arbres.	Μπορούν να κάνουν τις υπαίθριες δραστηριότητες τους στο πάρκο, στη σκιά των μεγάλων δέντρων.	activités	0	0
+Il aime tous les animaux à l'exception des chevaux.	Του αρέσουν όλα τα ζώα εκτός από τα άλογα.	exception	0	0
+La viande est moins sèche quand on la fait cuire au four à basse température.	Το κρέας είναι λιγότερο στεγνό όταν ψήνεται στο φούρνο σε χαμηλές θερμοκρασίες.	four	0	0
+Je pense que vous connaissiez mon père.	Νομίζω πως γνωρίζατε τον πατέρα μου.	connaissiez	0	0
+Je serai là dans quinze minutes.	Θα είμαι εκεί σε δεκαπέντε λεπτά.	quinze	0	0
+Vous vivez chez vos parents ?	Ζείτε με τους γονείς σας;	vivez	0	0
+On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.	Μπορείτε να δείτε καθαρά μόνο με την καρδιά σας. Αυτό που είναι ουσιώδες είναι αόρατο στο μάτι.	essentiel	0	0
+Les eaux calmes sont profondes.	Τα σιγανά ποτάμια να φοβάσαι.	eaux	0	0
+La mer est verte.	Η θάλασσα είναι πράσινη.	verte	0	0
+« Comment prononce-t-on le symbole @ dans cette langue ? » « Arobase. »	«Πώς ονομάζεται το σημείο @ σ' αυτή τη γλώσσα;» «Παπάκι.»	symbole	0	0
+Les scientifiques ne savent pas encore soigner le cancer.	Οι επιστήμονες δε γνωρίζουν ακόμα να θεραπεύσουν τον καρκίνο.	scientifiques	0	0
+La plante meurt sans eau.	Το φυτό πεθαίνει χωρίς νερό.	plante	0	0
+Trois bières et une téquila s'il vous plaît !	Τρεις μπύρες και μια τεκίλα παρακαλώ!	bières	0	0
+Berlin se situe sur la rivière Spree.	Το Βερολίνο βρίσκεται στον ποταμό Σπρε.	berlin	0	0
+On a planté des fleurs de toutes les couleurs dans notre jardin.	Φυτέψαμε λουλούδια όλων των χρωμάτων στον κήπο μας.	planté	0	0
+Je me suis cachée sous la table.	Κρύφτηκα κάτω από το τραπέζι.	cachée	0	0
+Lorsque tu entres sur l'autoroute, passe en cinquième !	Μόλις βγεις στην εθνική οδό, βάλε πέμπτη.	autoroute	0	0
+C'est bête de détester toutes les roses, sous prétexte qu'une d'entre elles t'a piqué.	Είναι ανόητο να μισείς όλα τα τριαντάφυλλα μόνο και μόνο επειδή ένα από αυτά σε τσίμπησε.	piqué	0	0
+Elles sont toutes mortes.	Όλες έχουν πεθάνει.	mortes	0	0
+Ce médicament soigne le mal de tête.	Αυτό το φάρμακο βοηθάει για τον πονοκέφαλο.	médicament	0	0
+J'ai trente ans.	Είμαι τριάντα χρόνων.	trente	0	0
+Nous voudrions commander 18 tonnes d'huile d'olive.	Θα θέλαμε να παραγγείλουμε 18 τόνους ελαιόλαδο.	tonnes	0	0
+Vous n'étiez pas prêtes.	Δεν ήσασταν έτοιμες.	prêtes	0	0
+Que le temps a filé !	Πώς πέρασε η ώρα!	filé	0	0
+Ils se ressemblent l'un l'autre comme deux gouttes d'eau.	Μοιάζουν σα δυό σταγόνες νερό.	ressemblent	0	0
+Les miracles existent vraiment et nous croyons en eux.	Τα Θαύματα υπάρχουν στην πραγματικότητα, και εμείς πιστεύουμε σε αυτά.	existent	0	0
+Je suis né le 4 juin 1974.	Γεννήθηκα στις 4 Ιουνίου 1974.	juin	0	0
+Péché avoué est à demi pardonné.	Μια αμαρτία που εξομολογείται συγχωρείται κατά το ήμισυ.	avoué	0	0
+Quel est le salaire minimum en République tchèque ?	Ποιος είναι ο κατώτατος μισθός στην Τσεχία;	république	0	0
+Son père lui a laissé la maison dans son testament.	Ο πατέρας της τής άφησε το σπίτι στη διαθήκη του.	testament	0	0
+La viande est moins sèche quand on la fait cuire au four à basse température.	Το κρέας είναι λιγότερο στεγνό όταν ψήνεται στο φούρνο σε χαμηλές θερμοκρασίες.	basse	0	0
+Traduis ce texte.	Μετάφρασε αυτό το κείμενο.	texte	0	0
+Peux-tu le décrire ?	Μπορείς να το περιγράψεις;	décrire	0	0
+Rappelle-toi ces règles.	Θυμίσου αυτούς τους κανόνες.	rappelle-toi	0	0
+Il a été condamné à la perpétuité. Jusqu'à aujourd'hui, il prétend être innocent.	Καταδικάστηκε σε ισόβια. Μέχρι σήμερα ισχυρίζεται πως είναι αθώος.	prétend	0	0
+Vous pouvez téléphoner à Tom.	Μπορείτε να τηλεφωνήσετε στον Τομ.	téléphoner	0	0
+L'auto est bleue.	Το αυτοκίνητο είναι μπλε.	auto	0	0
+Mettez-vous dans ma peau.	Ελάτε στη θέση μου.	mettez-vous	0	0
+Nous n’avons pas de pape !	Δεν έχουμε Πάπα!	pape	0	0
+C'est une œuvre d'art remarquable.	Είναι αριστούργημα	remarquable	0	0
+Elle a acheté deux paires de chaussettes.	Αυτή αγόρασε δύο ζευγάρια κάλτσες.	chaussettes	0	0
+Quel est le salaire minimum en République tchèque ?	Ποιος είναι ο κατώτατος μισθός στην Τσεχία;	minimum	0	0
+Seuls les fous disent de tels mots.	Τέτοιες λέξεις λένε μόνο οι τρελοί.	tels	0	0
+Le manque d'argent est la racine de tous les péchés.	Η έλλειψη χρημάτων είναι η αιτία κάθε κακίας.	péchés	0	0
+Nous l'avons élu pour qu'il soit maire.	Τον εκλέξαμε για δήμαρχο.	élu	0	0
+Il n'y a pas beaucoup de meubles dans ma maison.	Δεν υπάρχουν πολλά έπιπλα μέσα στο σπίτι μου.	meubles	0	0
+J'enseigne la langue française.	Διδάσκω τη γαλλική γλώσσα.	française	0	0
+Qu'est-ce que vous voudriez faire maintenant ?	Τι θα θέλατε να κάνετε τώρα;	voudriez	0	0
+Il n'est pire sourd que celui qui ne veut pas entendre.	Κανείς δεν είναι πιο κουφός από αυτόν που δεν θέλει να ακούσει.	sourd	0	0
+Je vais faire une sieste.	Λέω να πάρω έναν υπνάκο.	sieste	0	0
+Quel était ton lieu de résidence ?	Ποιός ήταν ο τόπος διαμονής σου;	résidence	0	0
+Je jouais ici.	Έπαιζα εδώ.	jouais	0	0
+Vous appelleriez les pompiers pour sauver une fourmi ?	Θα καλούσατε την πυροσβεστική για να σώσετε ένα μυρμήγκι;	pompiers	0	0
+De quoi parles-tu ?	Για ποιο πράγμα μιλάς;	parles-tu	0	0
+Heather me croit.	Η Χέδερ με πιστεύει.	heather	0	0
+John Locke, le philosophe bien connu de la liberté, était actionnaire de la Royal African Company, qui achetait et vendait des esclaves.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	royal	0	0
+Ne faites jamais quoi que ce soit pour simplement prouver que vous en êtes capables.	Ποτέ μην κάνετε κάτι μόνον για να αποδείξετε, ότι μπορείτε.	capables	0	0
+Il faudra passer par-dessus mon cadavre !	Πρέπει να περάσεις πάνω από το πτώμα μου!	par-dessus	0	0
+Je peux justifier chaque centime que j'ai dépensé.	Μπορώ να δικαιολογήσω κάθε δεκάρα που ξόδεψα.	dépensé	0	0
+La colombe au col noir roucoule sur les toits, et sur les flots dormants se répand une voix, une voix qui cadence une langue divine, et d'un accent si doux, que l'amour s'y devine.	Το περιστέρι με το μαύρο κολάρο γουργουρίζει στις στέγες, και πάνω από τα κύματα που κοιμούνται απλώνεται μια φωνή, μια φωνή που σημειώνει μια θεϊκή γλώσσα, και με μια προφορά τόσο γλυκιά που μαντεύεται η αγάπη μέσα της.	divine	0	0
+As-tu envie d'une balade à vélo ?	Έχεις όρεξη για μιά βόλτα με ποδήλατο;	balade	0	0
+Berlin est la capitale de l'Allemagne.	Το Βερολίνο είναι η πρωτεύουσα της Γερμανίας.	capitale	0	0
+Elle a déplacé une chaise.	Μετακίνησε μια καρέκλα.	déplacé	0	0
+Je prenais un bain.	Έκανα μπάνιο.	prenais	0	0
+Ferme ce tiroir.	Κλείσε εκείνο το συρτάρι.	tiroir	0	0
+Vous êtes une menteuse.	Είστε ψεύτρα.	menteuse	0	0
+Tom joue au tennis.	Ο Τομ παίζει τένις.	tennis	0	0
+L'iridium est un des éléments les plus rares.	Το ιρίδιο είναι ένα από τα σπανιότερα ατομικά στοιχεία.	rares	0	0
+Quelle langue parle-t-on en Suisse ?	Ποια γλώσσα μιλούν στην Ελβετία;	suisse	0	0
+Deux billets pour San Diego, s'il vous plaît.	Δύο εισιτήρια για Σαν Ντιέγκο, παρακαλώ.	diego	0	0
+Les pommes de terre sont des légumes.	Οι πατάτες είναι λαχανικά.	légumes	0	0
+Tu sembles occupé.	Φαίνεσαι απασχολημένος.	sembles	0	0
+Je connais le poème par cœur.	Ξέρω το ποίημα απ' έξω.	poème	0	0
+J'aime les voyages.	Λατρεύω τα ταξίδια.	voyages	0	0
+Où se trouve l'ambassade grecque ?	Πού είναι η ελληνική πρεσβεία;	ambassade	0	0
+Les chats ne mangent pas de bananes.	Οι γάτες δεν τρώνε μπανάνες.	mangent	0	0
+L'automne arrive.	Έρχεται το φθινόπωρο.	automne	0	0
+Si vous avez vomi, combien de fois ?	Αν έχετε κάνει εμετό, πόσες φορές;	vomi	0	0
+Qu'est-ce là qui monte du désert, comme une colonne de fumée, vapeur de myrrhe et d'encens et de tous parfums exotiques ?	Τι είναι αυτό που αναδύεται από την έρημο, σαν στήλη καπνού, ατμούς μύρου και θυμιάματος και όλα τα εξωτικά αρώματα;	colonne	0	0
+J'admets que c'est la vérité.	Αναγνωρίζω ότι αυτό είναι αληθές.	admets	0	0
+Vous n'êtes pas obligés de me dire ça.	Δε χρειάζεται να μου το πείτε αυτό.	obligés	0	0
+Mes parents disaient qu'il faut respecter les aînés.	Οι γονείς μου έλεγαν, ότι πρέπει να σεβόμαστε τους ηλικιωμένους.	disaient	0	0
+La police va-t-elle venir ?	Θα έρθει η αστυνομία;	va-t-elle	0	0
+Aimeriez-vous faire une promenade ?	Θέλετε να πάτε μια βόλτα;	promenade	0	0
+Lorsque tu entres sur l'autoroute, passe en cinquième !	Μόλις βγεις στην εθνική οδό, βάλε πέμπτη.	cinquième	0	0
+Levez-vous tôt demain matin !	Σηκωθείτε νωρίς αύριο το πρωί.	levez-vous	0	0
+La viande est moins sèche quand on la fait cuire au four à basse température.	Το κρέας είναι λιγότερο στεγνό όταν ψήνεται στο φούρνο σε χαμηλές θερμοκρασίες.	cuire	0	0
+Mes parents ne me comprennent pas.	Οι γονείς μου δεν με καταλαβαίνουν.	comprennent	0	0
+Il pleut aujourd'hui ; où ai-je donc mon parapluie ?	Βρέχει σήμερα. Πού έχω όμως την ομπρέλα μου;	pleut	0	0
+Je suis mort de fatigue.	Ψόφησα από την κούραση.	fatigue	0	0
+Elle lave la voiture.	Πλένει τ' αμάξι.	lave	0	0
+Le couple avait déjà versé un acompte pour le lieu de l'événement, pour le photographe et pour la créatrice de la robe de mariée.	Το ζευγάρι είχε ήδη δώσει προκαταβολή στον χώρο της εκδήλωσης, στον φωτογράφο και στην σχεδιάστρια του νυφικού.	photographe	0	0
+L'Espéranto, langue officielle de l'Union européenne, maintenant !	Εσπεράντο, η επίσημη γλώσσα της Ευρωπαϊκής Ένωσης, τώρα!	officielle	0	0
+Les pirates ont enterré le trésor.	Οι πειρατές έθαψαν τον θησαυρό στη γη.	pirates	0	0
+Je n'étudie pas l'anglais.	Δεν σπουδάζω αγγλικά.	étudie	0	0
+Arrêtez-vous au coin.	Σταματήστε στη γωνία.	arrêtez-vous	0	0
+Je lui ai téléphoné.	Του τηλεφώνησα.	téléphoné	0	0
+Je dois trouver ma clef.	Πρέπει να βρω το κλειδί μου.	clef	0	0
+Nous avons peint la porte en vert.	Βάψαμε πράσινη την πόρτα.	peint	0	0
+Personne n'a pu trouver la grotte.	Κανένας δεν μπόρεσε να βρει τη σπηλιά.	grotte	0	0
+Les vois-tu ?	Τα βλέπεις;	vois-tu	0	0
+L'orchestre a bien joué.	Η ορχήστρα έπαιξε καλά.	orchestre	0	0
+Ces montres ne fonctionnent pas.	Αυτά τα ρολόγια δεν δουλεύουν.	montres	0	0
+Tom et Marie parlent généralement français entre eux.	Τομ και η Μαίρη συνήθως μιλούν ο ένας στον άλλον στα Γαλλικά.	généralement	0	0
+Nous vivons aux États-Unis.	Ζούμε στις Ηνωμένες Πολιτείες.	vivons	0	0
+Pour moi ce nuage ressemble à un lapin.	Αυτό το σύννεφο μου μοιάζει σαν κουνέλι.	nuage	0	0
+Les parents de Tom ont divorcé quand il était encore très jeune.	Οι γονείς του Τομ πήραν διαζύγιο, όταν ήταν ακόμα πολύ μικρός.	divorcé	0	0
+Je suis proche de la quarantaine et je suis encore célibataire.	Κοντεύω στα σαράντα και είμαι ακόμα ανύπαντρος.	quarantaine	0	0
+J'ai nettoyé la chambre il y a deux jours.	Καθάρισα το δωμάτιο πριν από δύο μέρες.	nettoyé	0	0
+La classe ne commence pas avant huit heures et demie.	Το μάθημα δεν ξεκινά πριν τις οκτώ και μισή.	demie	0	0
+Vous acceptez les cartes de crédit ?	Δέχεστε πιστωτική κάρτα;	acceptez	0	0
+Il n'y a plus de tickets.	Δεν έμειναν εισιτήρια.	tickets	0	0
+C'est bête de détester toutes les roses, sous prétexte qu'une d'entre elles t'a piqué.	Είναι ανόητο να μισείς όλα τα τριαντάφυλλα μόνο και μόνο επειδή ένα από αυτά σε τσίμπησε.	détester	0	0
+Janvier est le premier mois de l'année.	Ο Ιανουάριος είναι ο πρώτος μήνας του χρόνου.	janvier	0	0
+Je veux que cet ordinateur soit réparé.	Θέλω αυτός ο υπολογιστής να επισκευαστεί.	réparé	0	0
+Je suis épuisé par la route.	Είμαι κατάκοπος εκ του δρόμου.	épuisé	0	0
+En 1493, le Vatican a offert l'Amérique à l'Espagne et l'Afrique noire au Portugal « pour que les nations barbares soient réduites à la foi catholique ».	Το 1493, το Βατικανό έδωσε την Αμερική στην Ισπανία και τη μαύρη Αφρική στην Πορτογαλία «προκειμένου τα βαρβαρικά έθνη να περιοριστούν στην Καθολική πίστη».	catholique	0	0
+J'aime les surprises.	Μου αρέσουν οι εκπλήξεις.	surprises	0	0
+Si un jour les nombreuses langues européennes viennent à disparaître, ce jour-là l’Europe – en tant que concept et projet – cessera d’exister.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	concept	0	0
+Elle est une jeune étudiante.	Είναι μια νεαρή μαθήτρια.	étudiante	0	0
+L'oreiller n'est pas propre.	Το μαξιλάρι δεν είναι καθαρό.	oreiller	0	0
+Je me suis habitué à vivre seul.	Είμαι συνηθισμένος να ζω μόνος.	habitué	0	0
+Les miracles existent vraiment et nous croyons en eux.	Τα Θαύματα υπάρχουν στην πραγματικότητα, και εμείς πιστεύουμε σε αυτά.	miracles	0	0
+Elle a déchiré la lettre.	Αυτή έσκισε το γράμμα.	déchiré	0	0
+Où est la brosse à dents?	Πού 'ναι η οδοντόβουρτσα;	brosse	0	0
+Ça fait déjà cinq ans qu’ils sont rentrés du Japon.	Επίστρεψαν από την Ιαπωνία εδώ και πέντε χρόνια.	rentrés	0	0
+La viande est moins sèche quand on la fait cuire au four à basse température.	Το κρέας είναι λιγότερο στεγνό όταν ψήνεται στο φούρνο σε χαμηλές θερμοκρασίες.	sèche	0	0
+Elle chante souvent quand elle fait la vaisselle dans la cuisine.	Συχνά τραγουδάει όταν πλένει τα πιάτα στην κουζίνα.	vaisselle	0	0
+Tout ce qui brille n'est pas or.	Ό,τι λάμπει δεν είναι χρυσός.	brille	0	0
+On a livré ces fleurs à la mauvaise adresse.	Αυτά τα λουλούδια παραδόθηκαν σε λάθος διεύθυνση.	livré	0	0
+M. Smith a été annoncé comme le nouveau président.	Ανακοινώθηκε ότι ο κ. Σμιθ θα ήταν ο επόμενος πρόεδρος.	annoncé	0	0
+Elle travaille dans un salon de coiffure.	Εργάζεται σε κομμωτήριο.	coiffure	0	0
+Quelqu'un a ri.	Κάποιος γέλασε.	ri	0	0
+La colombe au col noir roucoule sur les toits, et sur les flots dormants se répand une voix, une voix qui cadence une langue divine, et d'un accent si doux, que l'amour s'y devine.	Το περιστέρι με το μαύρο κολάρο γουργουρίζει στις στέγες, και πάνω από τα κύματα που κοιμούνται απλώνεται μια φωνή, μια φωνή που σημειώνει μια θεϊκή γλώσσα, και με μια προφορά τόσο γλυκιά που μαντεύεται η αγάπη μέσα της.	col	0	0
+Le médicament m'a aussitôt soulagée.	Το φάρμακο με ανακούφισε αμέσως.	aussitôt	0	0
+Je me suis levé à onze heures.	Ξύπνησα στις έντεκα η ώρα.	onze	0	0
+Je me suis levée à cinq heures du matin.	Σηκώθηκα στις πέντε το πρωί.	levée	0	0
+Paula doit aider son père dans la cuisine.	Η Πάουλα πρέπει να βοηθήσει τον πατέρα της στην κουζίνα.	paula	0	0
+Tom habite dans une caravane.	Ο Τομ μένει σε τροχόσπιτο.	caravane	0	0
+Pouvez-vous vous rappeler l'accident de façon précise ?	Μπορείτε να θυμηθείτε το ατύχημα με ακρίβεια;	précise	0	0
+Péché avoué est à demi pardonné.	Μια αμαρτία που εξομολογείται συγχωρείται κατά το ήμισυ.	pardonné	0	0
+Ça dépend de la personnalité de l'individu.	Εξαρτάται από την προσωπικότητα του ατόμου.	individu	0	0
+Je ne lis pas de bandes dessinées.	Δε διαβάζω κόμικς.	bandes	0	0
+Cinquante familles vivent dans ce petit village.	Πενήντα οικογένειες ζουν σε αυτό το μικρό χωριό.	cinquante	0	0
+Prenez-vous la pilule ?	Παίρνετε το χάπι;	pilule	0	0
+J'adore l'arabe.	Λατρεύω τα Αραβικά.	arabe	0	0
+Ne changez pas de cheval au milieu de la rivière.	Μην αλλάζετε άλογο στα μισά του ποταμού.	changez	0	0
+J'ai pris une précieuse leçon.	Πήρα ένα πολύτιμο μάθημα.	précieuse	0	0
+Je ne suis pas raciste.	Δεν είμαι ρατσιστής.	raciste	0	0
+Voudriez-vous expliquer cela ?	Θα θέλατε να το εξηγήσετε αυτό;	voudriez-vous	0	0
+Où l'on est bien, là est la patrie.	Πατρίδα κάθε ανθρώπου είναι ο τόπος όπου ζει καλύτερα.	patrie	0	0
+Marie est devenue une fille très charmante. Elle est brune et a les yeux verts comme sa mère.	Η Μαρί έχει γίνει ένα πολύ γοητευτικό κορίτσι. Είναι μελαχρινή και έχει πράσινα μάτια όπως η μητέρα της.	verts	0	0
+Je crois qu'il est d'Australie, mais je ne suis pas sûr.	Πιστεύω ότι είναι Αυστραλός, αλλά δεν είμαι σίγουρος γι'αυτό.	australie	0	0
+Elle est très curieuse.	Είναι πολύ περίεργη.	curieuse	0	0
+L'âne a adoré les laitues que tu lui as données.	Ο γάιδαρος αγάπησε τα μαρούλια που του έδινες.	âne	0	0
+Elle est danseuse.	Είναι χορεύτρια.	danseuse	0	0
+Il y a quatre tableaux sur le mur.	Υπάρχουν τέσσερις εικόνες στην τοίχο.	tableaux	0	0
+Marie travaille au supermarché.	Η Μαίρη εργάζεται σε σουπερμάρκετ.	supermarché	0	0
+Les eaux calmes sont profondes.	Τα σιγανά ποτάμια να φοβάσαι.	calmes	0	0
+Il n'y avait rien dans la chambre, excepté une vieille chaise.	Δεν υπήρχε τίποτα στο δωμάτιο εκτός από μία παλιά καρέκλα.	excepté	0	0
+Je connais assez bien ton frère aîné.	Γνωρίζω αρκετά καλά τον μεγαλύτερο αδερφό σου.	aîné	0	0
+Je suis né en Israël.	Γεννήθηκα στο Ισραήλ.	israël	0	0
+Je viens du Brésil.	Είμαι από τη Βραζιλία.	brésil	0	0
+Cet ascenseur est capable de transporter 10 personnes à la fois.	Αυτό το ασανσέρ μπορεί να μεταφέρει δέκα άτομα σε μια στιγμή.	transporter	0	0
+C'est bête de détester toutes les roses, sous prétexte qu'une d'entre elles t'a piqué.	Είναι ανόητο να μισείς όλα τα τριαντάφυλλα μόνο και μόνο επειδή ένα από αυτά σε τσίμπησε.	prétexte	0	0
+Le peuple uni ne sera jamais vaincu.	Ο λαός ενωμένος δεν θα ηττηθεί ποτέ.	vaincu	0	0
+Si je pouvais faire un vœu, ce serait de mettre fin au chômage dans le monde entier.	Αν μπορούσα να κάνω μια ευχή, θα ήταν να τερματιστεί η ανεργία σε όλον τον κόσμο.	vœu	0	0
+Les accidents sont inévitables.	Τα ατυχήματα είναι αναπόφευκτα.	accidents	0	0
+Ils détestent les femmes.	Μισούν τις γυναίκες.	détestent	0	0
+Elle était si effrayée qu'elle ne pouvait prononcer un seul mot.	Αυτή ήταν τόσο φοβισμένη που δεν μπορούσε να προφέρει ούτε λέξη.	effrayée	0	0
+Si je pouvais faire un vœu, ce serait de mettre fin au chômage dans le monde entier.	Αν μπορούσα να κάνω μια ευχή, θα ήταν να τερματιστεί η ανεργία σε όλον τον κόσμο.	chômage	0	0
+Je suis retournée au Japon.	Γύρισα στην Ιαπωνία.	retournée	0	0
+Ces montres ne fonctionnent pas.	Αυτά τα ρολόγια δεν δουλεύουν.	fonctionnent	0	0
+Quelqu'un pourrait-il me l'expliquer ?	Μπορεί κανείς να μου το εξηγήσει;	pourrait-il	0	0
+Ce que je t'ai dit sur lui est aussi valable pour son frère.	Αυτό που σου είπα γι 'αυτόν, ισχύει και για τον αδελφό του.	valable	0	0
+Je peux justifier chaque centime que j'ai dépensé.	Μπορώ να δικαιολογήσω κάθε δεκάρα που ξόδεψα.	justifier	0	0
+Il me l'a écrit en latin.	Μου το έγραψε στα λατινικά.	latin	0	0
+Nous, nous travaillons et lui regarde.	Εμείς δουλεύουμε κι αυτός κοιτάζει.	travaillons	0	0
+Marina fait pousser des roses rares.	Η Μαρίνα καλλιεργεί σπάνια τριαντάφυλλα.	marina	0	0
+Les abeilles font du miel.	Οι μέλισσες κάνουν μέλι.	abeilles	0	0
+J'ai décidé de m'inscrire.	Αποφάσισα να εγγραφώ.	inscrire	0	0
+Le papier, invention chinoise vieille d’environ deux mille ans, a laissé une marque indélébile sur toutes les civilisations.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	chinoise	0	0
+Les îles Vierges britanniques sont un paradis fiscal.	Οι Βρετανικές Παρθένες Νήσοι είναι ένας φορολογικός παράδεισος.	îles	0	0
+Nous aimerions partir.	Θα θέλαμε να φύγουμε.	aimerions	0	0
+Combien de langues y a-t-il en Europe ?	Πόσες γλώσσες υπάρχουν στην Ευρώπη;	langues	0	0
+Je suis sur le balcon.	Είμαι στο μπαλκόνι.	balcon	0	0
+En 1493, le Vatican a offert l'Amérique à l'Espagne et l'Afrique noire au Portugal « pour que les nations barbares soient réduites à la foi catholique ».	Το 1493, το Βατικανό έδωσε την Αμερική στην Ισπανία και τη μαύρη Αφρική στην Πορτογαλία «προκειμένου τα βαρβαρικά έθνη να περιοριστούν στην Καθολική πίστη».	nations	0	0
+Le papier, invention chinoise vieille d’environ deux mille ans, a laissé une marque indélébile sur toutes les civilisations.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	invention	0	0
+Mon grand-père va marcher tous les matins.	Ο παππούς μου κάνει βόλτα κάθε πρωί.	matins	0	0
+« Parlez-vous grec ? » « Oui, je parle un peu le grec, très peu. »	«Μιλάτε ελληικά;» «Ναι, μιλώ λίγο ελληνικά, πολύ λίγο.»	grec	0	0
+Il faut manger régulièrement.	Πρέπει να τρώτε τακτικά.	régulièrement	0	0
+Écrivez votre nom avec un crayon.	Γράψτε το όνομά σας με μολύβι.	écrivez	0	0
+Les enfants dorment.	Τα παιδιά κοιμούνται.	dorment	0	0
+Qu'est-ce là qui monte du désert, comme une colonne de fumée, vapeur de myrrhe et d'encens et de tous parfums exotiques ?	Τι είναι αυτό που αναδύεται από την έρημο, σαν στήλη καπνού, ατμούς μύρου και θυμιάματος και όλα τα εξωτικά αρώματα;	vapeur	0	0
+J'aime les trains.	Μου αρέσουν τα τρένα.	trains	0	0
+Je me suis retrouvée face à face avec mon ex-mari.	Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	ex-mari	0	0
+Il a renoncé à tous ses droits.	Παραιτήθηκε απ' όλα τα δικαιώματά του.	renoncé	0	0
+J'ai des remords de lui avoir refusé mon aide.	Έχω τύψεις που του αρνήθηκα τη βοήθειά μου.	remords	0	0
+J'ai adopté un ours.	Υιοθέτησα μια αρκούδα.	adopté	0	0
+Je ne mange habituellement pas de viande rouge.	Δεν τρώω συνήθως κόκκινο κρέας.	habituellement	0	0
+J'ai lavé ma chemise.	Έπλυνα το πουκάμισό μου.	lavé	0	0
+Voudrais-tu expliquer cela ?	Θα ήθελες να το εξηγήσεις αυτό;	voudrais-tu	0	0
+Elle était si effrayée qu'elle ne pouvait prononcer un seul mot.	Αυτή ήταν τόσο φοβισμένη που δεν μπορούσε να προφέρει ούτε λέξη.	prononcer	0	0
+Les chauves-souris sont des animaux qui volent la nuit et qui dorment parfois dans des grottes.	Οι νυχτερίδες είναι ζώα που πετούν τη νύχτα και μερικές φορές κοιμούνται σε σπηλιές.	volent	0	0
+« Liberté, Egalité, Fraternité » est un exemple de devise tripartite.	«Ελευθερία, Ισότητα, Αδελφότητα» είναι ένα παράδειγμα τριμερούς σύνθημα.	fraternité	0	0
+Apprends à penser de manière positive !	Μάθε να σκέπτεσαι με θετικό τρόπο!	positive	0	0
+Maja Keuc est une bonne chanteuse.	Η Μάγια Κέουτς είναι καλή τραγουδίστρια.	chanteuse	0	0
+Vous êtes parfaits à tout.	Είστε σε όλα τέλειος.	parfaits	0	0
+Il est allé faire du ski en hiver.	Αυτός πήγε για σκι το χειμώνα.	ski	0	0
+Avez-vous ajouté autre chose ?	Προσθέσατε κάτι άλλο;	ajouté	0	0
+Je vous rendrai heureux.	Θα σας κάνω ευτυχισμένο.	rendrai	0	0
+Il porte une chemise de coton blanc.	Φοράει ένα λευκό βαμβακερό πουκάμισο.	coton	0	0
+N'y a-t-il aucune alternative à votre méthode ?	Υπάρχει καμία εναλλακτική στη μέθοδό σας;	alternative	0	0
+Écris ton nom avec un crayon.	Γράψε το όνομά σου με μολύβι.	crayon	0	0
+Je vous laisse tirer vos propres conclusions.	Σας αφήνω να βγάλετε τα δικά σας συμπεράσματα.	conclusions	0	0
+Ils vendent du poisson et de la viande.	Αυτοί πουλάνε ψάρι και κρέας.	vendent	0	0
+Je veux que tu danses avec moi.	Θέλω να χορέψεις μαζί μου.	danses	0	0
+Je ne te reverrai jamais.	Δεν θα σε ξαναδώ ποτέ.	reverrai	0	0
+Pourquoi font-ils cela ?	Γιατί το κάνουν αυτό;	font-ils	0	0
+Ce vase brisé est à mon grand-père.	Εκείνο το σπασμένο βάζο είναι του παππού μου.	vase	0	0
+Et vous êtes un travailleur non qualifié.	Και είσαι άτεχνος εργάτης.	qualifié	0	0
+Je te recommande la lecture de ce roman.	Σου συνιστώ να διαβάσεις αυτό το μυθιστόρημα.	recommande	0	0
+Ce médicament soigne le mal de tête.	Αυτό το φάρμακο βοηθάει για τον πονοκέφαλο.	soigne	0	0
+Il est grand et sportif.	Είναι ψηλός και αθλητικός.	sportif	0	0
+Le couple avait déjà versé un acompte pour le lieu de l'événement, pour le photographe et pour la créatrice de la robe de mariée.	Το ζευγάρι είχε ήδη δώσει προκαταβολή στον χώρο της εκδήλωσης, στον φωτογράφο και στην σχεδιάστρια του νυφικού.	versé	0	0
+Arrêtons de jouer au tennis.	Ας σταματήσουμε να παίζουμε τένις.	arrêtons	0	0
+De leurs ennemis les sages apprennent bien des choses.	Άνθρωποι με φρόνηση πολλές φορές μαθαίνουν πολλά από τους εχθρούς τους.	apprennent	0	0
+L'hébreu, c'est ma langue maternelle.	Τα Εβραϊκά είναι η μητρική μου γλώσσα.	maternelle	0	0
+Les négociations se sont déroulées à huis clos.	Οι διαπραγματεύσεις έγιναν κεκλεισμένων των θυρών.	négociations	0	0
+Marie se cachait.	Η Μαίρη κρυβόταν.	cachait	0	0
+Elle a torturé une prisonnière.	Βασάνισε μία φυλακισμένη.	torturé	0	0
+Vous manquez d'imagination.	Στερείστε φαντασίας.	manquez	0	0
+La poussière cendre le paysage après l'éruption.	Μετά την έκρηξη, η σκόνη έκανε τις γύρω περιοχές γκρίζες	paysage	0	0
+Le cuisinier est assis dans la cuisine.	Ο μάγειρας κάθεται στην κουζίνα.	cuisinier	0	0
+Quand commence la représentation ?	Πότε αρχίζει η παράσταση;	représentation	0	0
+Ils se ressemblent l'un l'autre comme deux gouttes d'eau.	Μοιάζουν σα δυό σταγόνες νερό.	gouttes	0	0
+Quand il n'y a pas de sonnette, je frappe à la porte.	Όταν δεν υπάρχει κουδούνι χτυπώ την πόρτα.	sonnette	0	0
+Comment le contexte peut-il nous aider à comprendre le sens ?	Πώς μπορούν να μας βοηθούν τα συμφραζόμενα να κατανοούμε τη σημασία;	contexte	0	0
+Bob ne joue pas que de la guitare, il joue aussi de la flûte.	Ο Μπομπ δεν παίζει μόνο κιθάρα αλλά και φλάουτο.	flûte	0	0
+Je veux que vous m'attendiez.	Θέλω να με περιμένετε.	attendiez	0	0
+Il est le mouton noir de la famille.	Είναι το μαύρο πρόβατο της οικογένειας.	mouton	0	0
+J'écris des poèmes.	Γράφω ποιήματα.	poèmes	0	0
+De leurs ennemis les sages apprennent bien des choses.	Άνθρωποι με φρόνηση πολλές φορές μαθαίνουν πολλά από τους εχθρούς τους.	sages	0	0
+Le manque d'argent est la racine de tous les péchés.	Η έλλειψη χρημάτων είναι η αιτία κάθε κακίας.	racine	0	0
+N'oubliez pas de poster la lettre, je vous prie.	Σας παρακαλώ, μην ξεχάσετε να ταχυδρομήσετε αυτό το γράμμα.	poster	0	0
+Un plus deux égale trois.	Ένα συν δύο ίσον τρία.	égale	0	0
+Ce chien mord.	Αυτός ο σκύλος δαγκώνει.	mord	0	0
+Les avions permettent aux gens de rapidement parcourir de grandes distances.	Τα αεροπλάνα δίνουν τη δυνατότητα στους ανθρώπους να ταξιδεύουν μεγάλες αποστάσεις γρήγορα.	distances	0	0
+Le garçon est un loup déguisé en mouton.	Είναι αυτός μια σιγανοπαπαδίτσα.	déguisé	0	0
+Mary parle deux langues étrangères.	Η Μαίρη μιλάει δύο ξένες γλώσσες.	étrangères	0	0
+Pourquoi toutes les phrases ici sont sur Tom et Mary?	Γιατί όλες οι προτάσεις εδώ είναι με τον Τομ και την Μαίρη ;	phrases	0	0
+Les îles Vierges britanniques sont un paradis fiscal.	Οι Βρετανικές Παρθένες Νήσοι είναι ένας φορολογικός παράδεισος.	britanniques	0	0
+Nous voudrions commander 18 tonnes d'huile d'olive.	Θα θέλαμε να παραγγείλουμε 18 τόνους ελαιόλαδο.	olive	0	0
+Il a tort, mais il est trop têtu pour l'admettre.	Έχει άδικο αλλά είναι πολύ ξεροκέφαλος να το παραδεχτεί.	têtu	0	0
+C'est la chose la plus stupide que j'ai jamais dite.	Είναι το πιό ανόητο πράγμα που έχω ποτέ πει.	dite	0	0
+Tu ne peux fumer qu'en terrasse.	Δεν μπορείτε να καπνίσετε παρά στην ταράτσα.	terrasse	0	0
+Tous les hommes sont mortels, or les Grecs sont des hommes, donc les Grecs sont mortels.	Όλοι οι άνθρωποι είναι θνητοί, όλοι οι Έλληνες είναι άνθρωποι, επομένως όλοι οι Έλληνες είναι θνητοί.	mortels	0	0
+Le tremblement de terre s'est produit à minuit.	Ο σεισμός σημειώθηκε τα μεσάνυχτα.	tremblement	0	0
+Lorsque tu entres sur l'autoroute, passe en cinquième !	Μόλις βγεις στην εθνική οδό, βάλε πέμπτη.	entres	0	0
+La Thaïlande est située en Asie.	Η Ταϊλάνδη είναι στην Ασία.	asie	0	0
+Cela fait quarante ans que j'ai débuté l'apprentissage du japonais.	Έχουν περάσει σαράντα χρόνια από τότε που ξεκίνησα να μαθαίνω ιαπωνικά.	quarante	0	0
+Il faut que nous parlions.	Πρέπει να μιλήσουμε.	parlions	0	0
+Je ne savais pas que tu étais un danseur professionnel.	Δεν ήξερα ότι είσαι επαγγελματίας χορευτής.	danseur	0	0
+Elle pleurait.	Έκλαιγε.	pleurait	0	0
+Je ne lis pas de BD.	Δε διαβάζω κόμικς.	bd	0	0
+Je peux justifier chaque centime que j'ai dépensé.	Μπορώ να δικαιολογήσω κάθε δεκάρα που ξόδεψα.	centime	0	0
+Marie est devenue une fille très charmante. Elle est brune et a les yeux verts comme sa mère.	Η Μαρί έχει γίνει ένα πολύ γοητευτικό κορίτσι. Είναι μελαχρινή και έχει πράσινα μάτια όπως η μητέρα της.	brune	0	0
+Il m'écrit de moins en moins souvent ces jours-ci.	Τις τελευταίες μέρες αυτός γράφει όλο και λιγότερο συχνά σε μένα.	jours-ci	0	0
+Nous vous croyons.	Σας πιστεύουμε.	croyons	0	0
+Elle a torturé une prisonnière.	Βασάνισε μία κρατουμένη.	prisonnière	0	0
+On ne peut pas être au four et au moulin.	Δύο καρπούζια κάτω από μια μασχάλη δε χωράνε.	moulin	0	0
+Millie mange une pomme.	Η Μίλι τρώει ένα μήλο.	millie	0	0
+C’est mon parapluie.	Αυτή είναι η ομπρέλα μου.	parapluie	0	0
+J'ai teint mes cheveux en roux.	Έβαψα τα μαλλιά μου κόκκινα.	teint	0	0
+C'est un homme convenable.	Είναι ένας σωστός άντρας.	convenable	0	0
+Nous mangeons à six heures.	Τρώμε στις έξι.	mangeons	0	0
+Je suis maladroit.	Είμαι αδέξιος.	maladroit	0	0
+Je ne savais pas que vous me cherchiez.	Δεν ήξερα ότι με γυρεύατε.	cherchiez	0	0
+Ces derniers temps avez-vous un sentiment de soif plus prononcé ?	Τον τελευταίο καιρό έχετε ένα πιό έντονο αίσθημα δίψας;	prononcé	0	0
+« Liberté, Egalité, Fraternité » est un exemple de devise tripartite.	«Ελευθερία, Ισότητα, Αδελφότητα» είναι ένα παράδειγμα τριμερούς σύνθημα.	devise	0	0
+Il faut se méfier de l'eau qui dort.	Τα σιγανά ποτάμια να φοβάσαι.	méfier	0	0
+Une ampoule est un globe en verre qui fait de la lumière grâce à l'électricité.	Ένας λαμπτήρας είναι μια γυάλινη σφαίρα που παράγει φως χρησιμοποιώντας ηλεκτρική ενέργεια.	globe	0	0
+Tom n'aidait pas les pauvres.	Ο Τομ δε βοήθησε τους φτωχούς.	aidait	0	0
+Madrid est la capitale de l'Espagne.	Η Μαδρίτη είναι η πρωτεύουσα της Ισπανίας.	madrid	0	0
+Il y a beaucoup d'îles en Grèce.	Υπάρχουν πολλά νησιά στην Ελλάδα.	grèce	0	0
+Nous étions tous fatigués.	Ήμασταν όλοι κουρασμένοι.	fatigués	0	0
+John Locke, le philosophe bien connu de la liberté, était actionnaire de la Royal African Company, qui achetait et vendait des esclaves.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	vendait	0	0
+Tom a ignoré le conseil de Mary.	Ο Τομ αγνόησε τη συμβουλή της Μαίρης.	ignoré	0	0
+L'enseignement est la meilleure forme d'apprentissage.	Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	enseignement	0	0
+Il ne reviendrait sûrement pas.	Σίγουρα δεν θα επέστρεφε.	reviendrait	0	0
+Il est tombé de la chaise en changeant l'ampoule.	Έπεσε από την καρέκλα ενώ άλλαζε τη λάμπα.	ampoule	0	0
+Il y a un coffre-fort dans le bureau de Tom.	Υπάρχει ένα χρηματοκιβώτιο στο γραφείο του Τομ.	coffre-fort	0	0
+Tu iras chez toi et y resteras.	Θα πάτε σπίτι σας και εκεί θα μείνετε.	resteras	0	0
+Je n'aime pas ce genre de romans.	Δε μου αρέσει αυτό το ύφος μυθιστορημάτων.	romans	0	0
+Tu ne penses pas que tu exagères un peu ?	Δεν νομίζεις ότι υπερβάλλεις λίγο;	exagères	0	0
+Nous poussons la porte, et nous entrons dedans.	Σπρώχνομε την πόρτα και μπαίνουμε μέσα.	entrons	0	0
+Elle se plaignait d'une douleur sourde dans le dos.	Διαμαρτυρήθηκε για ένα έντονο πόνο στην πλάτη.	sourde	0	0
+Je l'ai épousée.	Την παντρεύτηκα.	épousée	0	0
+Tom est du genre à toujours réclamer que quelque chose soit fait plutôt que de demander que cela soit fait.	Ο Τομ είναι ο τύπος που πάντα εκλιπαρεί να γίνει κάτι αντί να ζητά να γίνει.	réclamer	0	0
+Je mange le crabe.	Εγώ τρώω τον κάβουρα.	crabe	0	0
+Élevez-vous contre l'injustice.	Εγερθείτε ενάντια στην αδικία.	injustice	0	0
+Le bibliothécaire vous montrera comment utiliser le catalogue en ligne.	Ο βιβλιοθηκονόμος θα σας δείξει πως χρησιμοποιούμε τον διαδικτυακό κατάλογο.	montrera	0	0
+Georgie vit avec moi.	Η Τζόρτζι μένει μαζί μου.	georgie	0	0
+Nous voudrions commander 18 tonnes d'huile d'olive.	Θα θέλαμε να παραγγείλουμε 18 τόνους ελαιόλαδο.	voudrions	0	0
+Prenez-vous la pilule ?	Παίρνετε το χάπι;	prenez-vous	0	0
+Aujourd'hui nous sommes jeudi.	Σήμερα είναι Πέμπτη.	hui	0	0
+Roberto rencontre Jun dans les rues de la ville et dès lors, une étrange symbiose entre les deux commence.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	roberto	0	0
+Les eaux calmes sont profondes.	Τα σιγανά ποτάμια να φοβάσαι.	profondes	0	0
+«Aimez-vous les gâteaux ?» «Oui, j'aime ça.»	Σας αρέσουν τα γλυκά; Ναι μου αρέσουν.	aimez-vous	0	0
+Les chats ne mangent pas de bananes.	Οι γάτες δεν τρώνε μπανάνες.	bananes	0	0
+J'aime la voir se déshabiller.	Μου αρέσει να κοιτάζω, πως αυτή γδύνεται.	déshabiller	0	0
+Il nous a vendus.	Αυτός μας πούλησε.	vendus	0	0
+Les avions permettent aux gens de rapidement parcourir de grandes distances.	Τα αεροπλάνα δίνουν τη δυνατότητα στους ανθρώπους να ταξιδεύουν μεγάλες αποστάσεις γρήγορα.	parcourir	0	0
+Le magazine s'adresse aux adolescents.	Το περιοδικό απευθύνεται σε εφήβους.	adolescents	0	0
+Tom a dépassé mes attentes.	Ο Τομ ξεπέρασε τις προσδοκίες μου.	attentes	0	0
+Mon oncle d'Amérique passe toujours ses congés en Europe.	Ο θείος μου από τις ΗΠΑ περνάει πάντα τις διακοπές του στην Ευρώπη.	congés	0	0
+Cela fait quarante ans que j'ai débuté l'apprentissage du japonais.	Έχουν περάσει σαράντα χρόνια από τότε που ξεκίνησα να μαθαίνω ιαπωνικά.	débuté	0	0
+J'ai faim car je n'ai pas déjeuné.	Είμαι πεινασμένος επειδή δεν έφαγα μεσημεριανό.	déjeuné	0	0
+Donne-moi ce cahier !	Δώσε μου αυτό το τετράδιο!	cahier	0	0
+Elle a acheté deux paires de chaussettes.	Αυτή αγόρασε δύο ζευγάρια κάλτσες.	paires	0	0
+Le médicament m'a aussitôt soulagée.	Το φάρμακο με ανακούφισε αμέσως.	soulagée	0	0
+Je n'aime pas les araignées.	Δε μ' αρέσουν οι αράχνες.	araignées	0	0
+Tous les amours ne se ressemblent pas. Tous les maîtresses se ressemblent.	Δεν είναι όλοι οι έρωτες ίδιοι. Όλες οι ερωμένες είναι ίδιες.	amours	0	0
+J'ai entendu un bruit de frein.	Άκουσα ένα θόρυβο φρένων.	frein	0	0
+Son passe-temps, c'est la collection de timbres.	Το χόμπι της είναι η συλλογή γραμματοσήμων .	passe-temps	0	0
+Les négociations se sont déroulées à huis clos.	Οι διαπραγματεύσεις έγιναν κεκλεισμένων των θυρών.	clos	0	0
+Tous les hommes sont mortels, or les Grecs sont des hommes, donc les Grecs sont mortels.	Όλοι οι άνθρωποι είναι θνητοί, όλοι οι Έλληνες είναι άνθρωποι, επομένως όλοι οι Έλληνες είναι θνητοί.	grecs	0	0
+Et vous êtes un travailleur non qualifié.	Και είσαι άτεχνος εργάτης.	travailleur	0	0
+A Naples un enfant sur trois ne va pas à l'école.	Στη Νάπολη ένα από τα τρία παιδιά δεν πηγαίνει στο σχολείο.	naples	0	0
+Apportez-moi mes lunettes.	Φέρτε μου τα γυαλιά μου.	apportez-moi	0	0
+« Me comprenez-vous ? » « Je vous comprends parce que vous parlez lentement. »	«Με καταλαβαίνετε;» «Σας καταλαβαίνω γιατί μιλάτε αργά.»	comprenez-vous	0	0
+Marina vient de Russie et Clarissa de Suède.	Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	suède	0	0
+La fin justifie les moyens.	Ο σκοπός αγιάζει τα μέσα.	justifie	0	0
+Aimeriez-vous faire une promenade ?	Θέλετε να πάτε μια βόλτα;	aimeriez-vous	0	0
+J'ai teint mes cheveux en roux.	Έβαψα τα μαλλιά μου κόκκινα.	roux	0	0
+Les îles Vierges britanniques sont un paradis fiscal.	Οι Βρετανικές Παρθένες Νήσοι είναι ένας φορολογικός παράδεισος.	vierges	0	0
+Comment dit-on cela en portugais ?	Πως το λένε αυτό στα πορτογαλικά;	dit-on	0	0
+Reste-t-il du sel ?	Έχει μείνει καθόλου αλάτι;	reste-t-il	0	0
+La colombe au col noir roucoule sur les toits, et sur les flots dormants se répand une voix, une voix qui cadence une langue divine, et d'un accent si doux, que l'amour s'y devine.	Το περιστέρι με το μαύρο κολάρο γουργουρίζει στις στέγες, και πάνω από τα κύματα που κοιμούνται απλώνεται μια φωνή, μια φωνή που σημειώνει μια θεϊκή γλώσσα, και με μια προφορά τόσο γλυκιά που μαντεύεται η αγάπη μέσα της.	toits	0	0
+Il me demanda si j'avais bien dormi la nuit précédente.	Με ρώτησε αν κοιμήθηκα καλά την προηγούμενη νύχτα.	précédente	0	0
+Combien y a-t-il de mètres dans un kilomètre ?	Πόσα μέτρα έχει ένα χιλιόμετρο;	kilomètre	0	0
+Les avions permettent aux gens de rapidement parcourir de grandes distances.	Τα αεροπλάνα δίνουν τη δυνατότητα στους ανθρώπους να ταξιδεύουν μεγάλες αποστάσεις γρήγορα.	permettent	0	0
+Les résultats étaient les suivants.	Τα αποτελέσματα ήταν τα ακόλουθα.	suivants	0	0
+Aimes-tu le vin blanc ?	Σου αρέσει το λευκό κρασί;	aimes-tu	0	0
+Elle peut te mettre en prison pour adultère.	Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	adultère	0	0
+Le bibliothécaire vous montrera comment utiliser le catalogue en ligne.	Ο βιβλιοθηκονόμος θα σας δείξει πως χρησιμοποιούμε τον διαδικτυακό κατάλογο.	catalogue	0	0
+Ils ont traversé la frontière chargés de drogue.	Πέρασαν τα σύνορα φορτωμένοι ναρκωτικά.	chargés	0	0
+Je travaille au consulat.	Δουλεύω στο προξενείο.	consulat	0	0
+Vous êtes parfaites à tout.	Είστε σε όλα τέλειες.	parfaites	0	0
+On dit que la maison est hantée.	Λέγεται πως το σπίτι είναι στοιχειωμένο.	hantée	0	0
+C'est une mosquée.	Αυτό είναι ένα τζαμί.	mosquée	0	0
+Tu sais que Thomas a un frère jumeau ?	Ξέρεις ότι ο Θωμάς έχει δίδυμο αδερφό;	jumeau	0	0
+En 1493, le Vatican a offert l'Amérique à l'Espagne et l'Afrique noire au Portugal « pour que les nations barbares soient réduites à la foi catholique ».	Το 1493, το Βατικανό έδωσε την Αμερική στην Ισπανία και τη μαύρη Αφρική στην Πορτογαλία «προκειμένου τα βαρβαρικά έθνη να περιοριστούν στην Καθολική πίστη».	vatican	0	0
+Emilie habite chez Mélanie.	Η Αιμιλία μένει στο σπίτι της Μέλανη.	mélanie	0	0
+La cascade faisait beaucoup de bruit.	Ο καταρράκτης έκανε πολύ θόρυβο.	cascade	0	0
+La poussière cendre le paysage après l'éruption.	Μετά την έκρηξη, η σκόνη έκανε τις γύρω περιοχές γκρίζες	éruption	0	0
+Beaucoup de chauffeurs de camion ne respectent pas du tout les conditions météorologiques.	Πολλοί φορτηγατζήδες δε σέβονται καθόλου τις καιρικές συνθήκες.	respectent	0	0
+Je pense que nous ferions mieux de recommencer du départ.	Νομίζω πως θα κάναμε καλύτερα να ξεκινήσουμε πάλι από την αρχή.	ferions	0	0
+Est-ce un étalon ou une jument ?	Αυτό είναι άλογο ή φοράδα;	étalon	0	0
+Roberto rencontre Jun dans les rues de la ville et dès lors, une étrange symbiose entre les deux commence.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	jun	0	0
+Il a été condamné à la perpétuité. Jusqu'à aujourd'hui, il prétend être innocent.	Καταδικάστηκε σε ισόβια. Μέχρι σήμερα ισχυρίζεται πως είναι αθώος.	perpétuité	0	0
+J'adore les mathématiques.	Λατρεύω τα μαθηματικά.	mathématiques	0	0
+Nous avons peu de temps. Dépêchons-nous.	Έχουμε λίγο χρόνο. Ας βιαστούμε.	dépêchons-nous	0	0
+Elle a témoigné contre lui.	Κατέθεσε εναντίον του.	témoigné	0	0
+Tataouine est une ville du Maroc en face du détroit de Gibraltar et à 40 kilomètres à l'est de Tanger.	Το Τετουάν είναι μια πόλη του Μαρόκου απέναντι από το στενό του Γιβραλτάρ και 40 χιλιόμετρα ανατολικά της Ταγγέρης.	détroit	0	0
+L'enseignement est la meilleure forme d'apprentissage.	Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	apprentissage	0	0
+Qu'attends-tu de moi ?	Τι θες από μένα;	attends-tu	0	0
+Le futur ne sera pas construit par la force, ni par le désir de conquête, mais à travers l’application patiente de la méthode démocratique, l’esprit de consensus constructif et le respect de la liberté.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	conquête	0	0
+Berlin se situe sur la rivière Spree.	Το Βερολίνο βρίσκεται στον ποταμό Σπρε.	situe	0	0
+Que feras-tu dimanche ?	Τι θα κάνεις την Κυριακή;	feras-tu	0	0
+Le couple avait déjà versé un acompte pour le lieu de l'événement, pour le photographe et pour la créatrice de la robe de mariée.	Το ζευγάρι είχε ήδη δώσει προκαταβολή στον χώρο της εκδήλωσης, στον φωτογράφο και στην σχεδιάστρια του νυφικού.	acompte	0	0
+Il boit du thé en écoutant de la musique.	Πίνει τσάι ενώ ακούει μουσική.	écoutant	0	0
+Je suis végétarien.	Είμαι χορτοφάγος.	végétarien	0	0
+Je l'ai informée de mon arrivée.	Την ενημέρωσα για την άφιξή μου.	informée	0	0
+Tous les étés, je vais à la campagne.	Πάω στην ύπαιθρο κάθε καλοκαίρι.	étés	0	0
+Akira sait bien jouer au tennis.	Η Ακίρα παίζει καλό τένις.	akira	0	0
+La colombe au col noir roucoule sur les toits, et sur les flots dormants se répand une voix, une voix qui cadence une langue divine, et d'un accent si doux, que l'amour s'y devine.	Το περιστέρι με το μαύρο κολάρο γουργουρίζει στις στέγες, και πάνω από τα κύματα που κοιμούνται απλώνεται μια φωνή, μια φωνή που σημειώνει μια θεϊκή γλώσσα, και με μια προφορά τόσο γλυκιά που μαντεύεται η αγάπη μέσα της.	colombe	0	0
+En 1493, le Vatican a offert l'Amérique à l'Espagne et l'Afrique noire au Portugal « pour que les nations barbares soient réduites à la foi catholique ».	Το 1493, το Βατικανό έδωσε την Αμερική στην Ισπανία και τη μαύρη Αφρική στην Πορτογαλία «προκειμένου τα βαρβαρικά έθνη να περιοριστούν στην Καθολική πίστη».	barbares	0	0
+Tu ne croiras pas ce qui est arrivé ensuite.	Δε θα πιστέψεις τι έγινε μετά.	croiras	0	0
+Je ne perdrai pas !	Δε θα χάσω!	perdrai	0	0
+Son passe-temps, c'est la collection de timbres.	Το χόμπι της είναι η συλλογή γραμματοσήμων .	timbres	0	0
+Le père de Tom était diplomate.	Ο πατέρας του Τομ ήταν διπλωμάτης.	diplomate	0	0
+La Turquie ferme tous les points de passage de sa frontière avec la Syrie.	Η Τουρκία κλείνει όλα τα συνοριακά σημεία με τη Συρία.	turquie	0	0
+Avez-vous de la diarrhée ?	Έχετε διάρροια;	diarrhée	0	0
+Il écrit des scénarios avec des intrigues très prévisibles.	Γράφει σενάρια με προβλέψιμες πλοκές.	scénarios	0	0
+Nous devons choisir une personne appropriée pour chaque poste.	Θα πρέπει να επιλέξουμε το κατάλληλο πρόσωπο για κάθε θέση.	appropriée	0	0
+La Thaïlande est située en Asie.	Η Ταϊλάνδη βρίσκεται στην Ασία.	thaïlande	0	0
+Je ne changerai jamais d'avis.	Δε θα αλλάξω ποτέ γνώμη.	changerai	0	0
+La colombe au col noir roucoule sur les toits, et sur les flots dormants se répand une voix, une voix qui cadence une langue divine, et d'un accent si doux, que l'amour s'y devine.	Το περιστέρι με το μαύρο κολάρο γουργουρίζει στις στέγες, και πάνω από τα κύματα που κοιμούνται απλώνεται μια φωνή, μια φωνή που σημειώνει μια θεϊκή γλώσσα, και με μια προφορά τόσο γλυκιά που μαντεύεται η αγάπη μέσα της.	répand	0	0
+Il a les cheveux blonds.	Έχει ξανθιά μαλλιά.	blonds	0	0
+Où travaillez-vous ?	Πού δουλεύετε;	travaillez-vous	0	0
+La foule applaudit.	Το κοινό χειροκρότησε.	applaudit	0	0
+Je suis originaire du Danemark.	Εγώ είμαι από τη Δανία.	danemark	0	0
+John Locke, le philosophe bien connu de la liberté, était actionnaire de la Royal African Company, qui achetait et vendait des esclaves.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	philosophe	0	0
+Il fait dix degrés en-dessous de zéro.	Τώρα έχει δέκα βαθμούς κάτω απ'το μηδέν.	en-dessous	0	0
+La société évolue.	Η κοινωνία εξελίσσεται.	évolue	0	0
+Les chauves-souris sont des animaux qui volent la nuit et qui dorment parfois dans des grottes.	Οι νυχτερίδες είναι ζώα που πετούν τη νύχτα και μερικές φορές κοιμούνται σε σπηλιές.	grottes	0	0
+Le dé est jeté.	Ο κύβος ερρίφθη.	dé	0	0
+Je les veux vivantes.	Τους θέλω ζωντανούς.	vivantes	0	0
+Je peux recommander ce restaurant.	Μπορώ να σας προτείνω αυτό το εστιατόριο.	recommander	0	0
+Ma mère est grecque.	Η μητέρα μου είναι Ελληνίδα.	grecque	0	0
+Stationnement interdit.	Απαγορεύεται η στάθμευση.	stationnement	0	0
+Comment dit-on cela en portugais ?	Πως το λένε αυτό στα πορτογαλικά;	portugais	0	0
+Je suis Ricardo.	Είμαι ο Ρίχαρδος.	ricardo	0	0
+Je me fiche de savoir s'ils s'échappent à l'étranger.	Στ’ αρχίδια μου αν ξεφύγουν στο εξωτερικό.	échappent	0	0
+Les étudiantes ont ri.	Οι μαθητές γέλασαν.	étudiantes	0	0
+Vive le Québec libre !	Ζήτω το ελεύθερο Κεμπέκ!	québec	0	0
+Achille était un ancien héros Grec.	Ο Αχιλλέας ήταν ένας Έλληνας αρχαίος ήρωας.	achille	0	0
+Si voter changeait quelque chose, on l'aurait interdit.	Αν οι εκλογές αλλάζαν κάτι, θα ήταν παράνομες.	changeait	0	0
+Cherche dans le dictionnaire les mots que tu ne connais pas.	Ψάξε στο λεξικό τις λέξεις που δε γνωρίζεις.	dictionnaire	0	0
+Il a grossi, depuis que je l'ai vu la fois passée.	Πάχυνε από την τελευταία φορά που τον είδα.	grossi	0	0
+Que vous ont-elles fait ?	Τι σας έχουν κάνει;	ont-elles	0	0
+Elle ne perdait pas de temps.	Αυτή δεν έχασε χρόνο.	perdait	0	0
+J'habite au rez-de-chaussée.	Μένω στο ισόγειο.	rez-de-chaussée	0	0
+L'aluminium est un métal.	Το αλουμίνιο είναι μέταλλο.	aluminium	0	0
+Qui est ton metteur en scène préféré ?	Ποιός είναι ο αγαπημένος σου σκηνοθέτης;	metteur	0	0
+John Locke, le philosophe bien connu de la liberté, était actionnaire de la Royal African Company, qui achetait et vendait des esclaves.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	locke	0	0
+Ouvre la paume de ta main.	Άνοιξε την παλάμη του χεριού σου.	paume	0	0
+L'Espéranto, langue officielle de l'Union européenne, maintenant !	Εσπεράντο, η επίσημη γλώσσα της Ευρωπαϊκής Ένωσης, τώρα!	européenne	0	0
+Il est tombé de la chaise en changeant l'ampoule.	Έπεσε από την καρέκλα ενώ άλλαζε τη λάμπα.	changeant	0	0
+Je suis originaire du Danemark.	Εγώ είμαι από τη Δανία.	originaire	0	0
+Beaucoup de chauffeurs de camion ne respectent pas du tout les conditions météorologiques.	Πολλοί φορτηγατζήδες δε σέβονται καθόλου τις καιρικές συνθήκες.	chauffeurs	0	0
+Le papier, invention chinoise vieille d’environ deux mille ans, a laissé une marque indélébile sur toutes les civilisations.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	civilisations	0	0
+Souvent femme varie, bien fol est qui s’y fie.	Οι γυναίκες συχνά διαφέρουν και είναι ανόητο να βασίζεστε σε αυτές.	fie	0	0
+La colombe au col noir roucoule sur les toits, et sur les flots dormants se répand une voix, une voix qui cadence une langue divine, et d'un accent si doux, que l'amour s'y devine.	Το περιστέρι με το μαύρο κολάρο γουργουρίζει στις στέγες, και πάνω από τα κύματα που κοιμούνται απλώνεται μια φωνή, μια φωνή που σημειώνει μια θεϊκή γλώσσα, και με μια προφορά τόσο γλυκιά που μαντεύεται η αγάπη μέσα της.	flots	0	0
+L'alphabet cyrillique a été créé à partir de l'alphabet grec.	Το κυριλλικό αλφάβητο δημιουργήθηκε με βάση το ελληνικό αλφάβητο.	alphabet	0	0
+John Locke, le philosophe bien connu de la liberté, était actionnaire de la Royal African Company, qui achetait et vendait des esclaves.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	achetait	0	0
+Il décida d'arrêter de fumer.	Αποφάσισε να κόψει το τσιγάρο.	décida	0	0
+Le peuple uni ne sera jamais vaincu.	Ο λαός ενωμένος δεν θα ηττηθεί ποτέ.	uni	0	0
+Le canapé est inconfortable.	Ο καναπές είναι άβολος.	inconfortable	0	0
+Tom fumait.	Ο Τομ κάπνιζε.	fumait	0	0
+Il me demanda si j'avais bien dormi la nuit précédente.	Με ρώτησε αν κοιμήθηκα καλά την προηγούμενη νύχτα.	demanda	0	0
+Sami a donné les clés à Leila.	Ο Σαμί έδωσε τα κλειδιά στη Λέιλα.	leila	0	0
+Le gouvernement exécute les ordres des banquiers.	Η κυβέρνηση εκτελεί τις εντολές των τραπεζιτών.	exécute	0	0
+J'irai à Athènes.	Θα πάω στην Αθήνα.	athènes	0	0
+Je te reconnais au tranchant terrible de ton épée.	Σε γνωρίζω από την κόψη του σπαθιού την τρομερή.	tranchant	0	0
+Le bibliothécaire vous montrera comment utiliser le catalogue en ligne.	Ο βιβλιοθηκονόμος θα σας δείξει πως χρησιμοποιούμε τον διαδικτυακό κατάλογο.	bibliothécaire	0	0
+Ne faites pas de plaisanteries stupides !	Μην κάνετε ανόητα αστεία!	plaisanteries	0	0
+Les États-Unis d'Amérique sont un pays démocratique.	Οι Ηνωμένες Πολιτείες της Αμερικής είναι μια δημοκρατική χώρα.	démocratique	0	0
+Dis-moi le nom du neuvième mois.	Πες μου το όνομα του ένατου μήνα.	neuvième	0	0
+John Locke, le philosophe bien connu de la liberté, était actionnaire de la Royal African Company, qui achetait et vendait des esclaves.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	company	0	0
+J'ai vingt-cinq ans.	Είμαι είκοσι πέντε ετών.	vingt-cinq	0	0
+Le gouvernement exécute les ordres des banquiers.	Η κυβέρνηση εκτελεί τις εντολές των τραπεζιτών.	banquiers	0	0
+La sœur de Marie est timide et maladroite.	Η αδελφή της Μαίρης είναι ντροπαλή κι αδέξια.	maladroite	0	0
+Quel est le mot grec pour « hibou » ?	Πως είναι στα ελληνικά η "κουκουβάγια";	hibou	0	0
+Qu'est-ce là qui monte du désert, comme une colonne de fumée, vapeur de myrrhe et d'encens et de tous parfums exotiques ?	Τι είναι αυτό που αναδύεται από την έρημο, σαν στήλη καπνού, ατμούς μύρου και θυμιάματος και όλα τα εξωτικά αρώματα;	parfums	0	0
+Cette femme déborde d'énergie.	Αυτή η γυναίκα ξεχειλίζει από ενέργεια.	déborde	0	0
+La Turquie ferme tous les points de passage de sa frontière avec la Syrie.	Η Τουρκία κλείνει όλα τα συνοριακά σημεία με τη Συρία.	syrie	0	0
+Est-ce un étalon ou une jument ?	Αυτό είναι άλογο ή φοράδα;	jument	0	0
+Ce n'est pas sa bicyclette.	Αυτό δεν είναι το ποδήλατό του.	bicyclette	0	0
+Si seulement mes oncles étaient millionnaires !	Να ήταν μονάχα οι θείοι μου εκατομμυριούχοι!	oncles	0	0
+Le ventilateur ne fonctionne pas.	Ο ανεμιστήρας δε δουλεύει.	ventilateur	0	0
+J'ai dix stylos.	Έχω δέκα στυλούς.	stylos	0	0
+Emilie habite chez Mélanie.	Η Αιμιλία μένει στο σπίτι της Μέλανη.	emilie	0	0
+Le bus part tous les quarts d'heure.	Το λεωφορείο φεύγει κάθε δεκαπέντε λεπτά.	quarts	0	0
+Tout est rationnel.	Όλα είναι νορμάλ.	rationnel	0	0
+Ne nous sous-estime pas.	Μη μας υποτιμάς.	sous-estime	0	0
+Je ne signerai pas ceci.	Δε θα το υπογράψω αυτό.	signerai	0	0
+J'ai besoin de plus d'exemples pour savoir comment ce mot est utilisé.	Χρειάζομαι περισσότερα παραδείγματα, για να ξέρω πώς χρησιμοποιείται αυτή η λέξη.	exemples	0	0
+Il vit au Maroc.	Αυτός ζει στο Μαρόκο.	maroc	0	0
+Il y avait de l'empathie dans ses yeux.	Υπήρχε εμπάθεια στα μάτια του.	empathie	0	0
+Ces étudiants sont Coréens.	Αυτοί οι μαθητές είναι Κορεάτες.	coréens	0	0
+As-tu remarqué la magnificence des cathédrales françaises ?	Έχετε παρατηρήσει τη μεγαλοπρέπεια των καθεδρικών ναών της Γαλλίας;	françaises	0	0
+Mon fils est veuf.	Ο γιος μου είναι χήρος.	veuf	0	0
+Qu'est-ce là qui monte du désert, comme une colonne de fumée, vapeur de myrrhe et d'encens et de tous parfums exotiques ?	Τι είναι αυτό που αναδύεται από την έρημο, σαν στήλη καπνού, ατμούς μύρου και θυμιάματος και όλα τα εξωτικά αρώματα;	exotiques	0	0
+As-tu des sandales ?	Έχεις πέδιλα;	sandales	0	0
+Qu'est-ce là qui monte du désert, comme une colonne de fumée, vapeur de myrrhe et d'encens et de tous parfums exotiques ?	Τι είναι αυτό που αναδύεται από την έρημο, σαν στήλη καπνού, ατμούς μύρου και θυμιάματος και όλα τα εξωτικά αρώματα;	encens	0	0
+En 1493, le Vatican a offert l'Amérique à l'Espagne et l'Afrique noire au Portugal « pour que les nations barbares soient réduites à la foi catholique ».	Το 1493, το Βατικανό έδωσε την Αμερική στην Ισπανία και τη μαύρη Αφρική στην Πορτογαλία «προκειμένου τα βαρβαρικά έθνη να περιοριστούν στην Καθολική πίστη».	portugal	0	0
+La Thaïlande est située en Asie.	Η Ταϊλάνδη βρίσκεται στην Ασία.	située	0	0
+Mes parents disaient qu'il faut respecter les aînés.	Οι γονείς μου έλεγαν, ότι πρέπει να σεβόμαστε τους ηλικιωμένους.	aînés	0	0
+Le stylo à bille est sur la table.	Η πένα είναι επάνω στο τραπέζι.	bille	0	0
+L'eau n'est pas potable.	Το νερό δεν είναι πόσιμο.	potable	0	0
+Robert et Martine sont des noms étrangers.	Ρομπέρ και Μαρτίν είναι ξένα ονόματα.	martine	0	0
+L'hébreu, c'est ma langue maternelle.	Τα Εβραϊκά είναι η μητρική μου γλώσσα.	hébreu	0	0
+Son compte rendu de l'accident concorde avec le vôtre.	Η αναφορά της για το ατύχημα συμπίπτει με τη δική σας	concorde	0	0
+« Le garçon parle-t-il français ? » « Non, il ne parle pas français, il parle grec. »	«Μιλάει γαλλικά το γκαρσονι;» «Όχι, δε μιλάει γαλλικά, μιλάει ελληνικά.»	parle-t-il	0	0
+Les chauves-souris sont des animaux qui volent la nuit et qui dorment parfois dans des grottes.	Οι νυχτερίδες είναι ζώα που πετούν τη νύχτα και μερικές φορές κοιμούνται σε σπηλιές.	chauves-souris	0	0
+Je suis brésilien, et toi ?	Είμαι βραζιλιάνος. Εσύ;	brésilien	0	0
+Vous appelleriez les pompiers pour sauver une fourmi ?	Θα καλούσατε την πυροσβεστική για να σώσετε ένα μυρμήγκι;	fourmi	0	0
+Le génocide arménien est un crime contre l'humanité.	Η γενοκτονία των Αρμενίων είναι έγκλημα κατά της ανθρωπότητας.	génocide	0	0
+Veuillez tourner à droite à la prochaine intersection.	Παρακαλώ στρίψε δεξιά στην επόμενη διασταύρωση.	intersection	0	0
+Tu es enseignante, n'est-ce pas ?	Είσαι δασκάλα, δεν είναι;	enseignante	0	0
+La colombe au col noir roucoule sur les toits, et sur les flots dormants se répand une voix, une voix qui cadence une langue divine, et d'un accent si doux, que l'amour s'y devine.	Το περιστέρι με το μαύρο κολάρο γουργουρίζει στις στέγες, και πάνω από τα κύματα που κοιμούνται απλώνεται μια φωνή, μια φωνή που σημειώνει μια θεϊκή γλώσσα, και με μια προφορά τόσο γλυκιά που μαντεύεται η αγάπη μέσα της.	cadence	0	0
+M. Sato parle bien anglais.	Ο κ. Σάτο μιλάει καλά Αγγλικά.	sato	0	0
+Surgit la question : « Internet est-il aussi un moyen de communication de masse ? »	Τίθεται το ερώτημα: " Είναι και το ίντερνετ ένα μέσο μαζικής ενημέρωσης; "	surgit	0	0
+La poussière cendre le paysage après l'éruption.	Μετά την έκρηξη, η σκόνη έκανε τις γύρω περιοχές γκρίζες	cendre	0	0
+Tous les amours ne se ressemblent pas. Tous les maîtresses se ressemblent.	Δεν είναι όλοι οι έρωτες ίδιοι. Όλες οι ερωμένες είναι ίδιες.	maîtresses	0	0
+Ma sœur a deux fils, donc j'ai deux neveux.	Η αδερφή μου έχει δύο γιούς, επομένως εγώ έχω δύο ανιψιούς.	neveux	0	0
+La joie était dessinée sur son visage.	Η χαρά ήταν ζωγραφισμένη στο πρόσωπό του.	dessinée	0	0
+Combien de fois devez-vous uriner la nuit ?	Πόσες φορές χρειάζεται να ουρήσετε το βράδυ;	devez-vous	0	0
+La vapeur sort de la marmite.	Από την κατσαρόλα βγαίνει ατμός.	marmite	0	0
+Marina vient de Russie et Clarissa de Suède.	Η Μαρίνα είναι από τη Ρωσία και η Κλαρίσα είναι από τη Σουηδία.	clarissa	0	0
+Je ne veux pas commenter cette affaire.	Δεν θέλω να σχολιάσω αυτή την υπόθεση.	commenter	0	0
+À l'école, nous apprenons le français.	Στο σχολείο μαθαίνουμε Γαλλικά.	apprenons	0	0
+Je suis athée.	Είμαι άθεος.	athée	0	0
+Double-cliquez sur l'icône.	Κάντε διπλό κλικ στην εικόνα.	icône	0	0
+Si un jour les nombreuses langues européennes viennent à disparaître, ce jour-là l’Europe – en tant que concept et projet – cessera d’exister.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	cessera	0	0
+Si seulement mes oncles étaient millionnaires !	Να ήταν μονάχα οι θείοι μου εκατομμυριούχοι!	millionnaires	0	0
+Il répondit à ses parents.	Αυτός απάντησε στους γονείς του.	répondit	0	0
+Il écrit des scénarios avec des intrigues très prévisibles.	Γράφει σενάρια με προβλέψιμες πλοκές.	intrigues	0	0
+Combien de fois devez-vous uriner la nuit ?	Πόσες φορές χρειάζεται να ουρήσετε το βράδυ;	uriner	0	0
+Aujourd'hui, c'est lundi.	Σήμερα είναι Δευτέρα.	aujourd'	0	0
+Dis-le-lui, connard !	Πες της, ρε μαλάκα!	dis-le-lui	0	0
+Descends d'une octave.	Πήγαινε μια οκτάβα πιο κάτω τώρα.	octave	0	0
+Le service militaire est aussi un devoir patriotique.	Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	patriotique	0	0
+Je ne lis pas de bandes dessinées.	Δε διαβάζω κόμικς.	dessinées	0	0
+Le fils prodigue est rentré à la maison.	Ο άσωτος υιός επέστρεψε σπίτι.	prodigue	0	0
+Elle se plaignait d'une douleur sourde dans le dos.	Διαμαρτυρήθηκε για ένα έντονο πόνο στην πλάτη.	plaignait	0	0
+Je crois qu'avec ce que j'ai dit, je viens d'ouvrir la boîte de Pandore.	Νομίζω ότι μόλις άνοιξα το κουτί της Πανδώρας με αυτό που είπα.	pandore	0	0
+Le Liban est une république.	Ο Λίβανος είναι μια δημοκρατία.	liban	0	0
+La proue est la partie avant d'un bateau.	Η πλώρη είναι το μπροστινό μέρος του πλοίου.	proue	0	0
+Tom est droitier.	Ο Τομ είναι δεξιόχειρας.	droitier	0	0
+John Locke, le philosophe bien connu de la liberté, était actionnaire de la Royal African Company, qui achetait et vendait des esclaves.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	actionnaire	0	0
+Il a salué la femme.	Αυτός χαιρέτησε τη γυναίκα.	salué	0	0
+Je fermerai la porte.	Θα κλείσω την πόρτα.	fermerai	0	0
+La société Coca-Cola inventa le Fanta, en pleine Seconde Guerre mondiale, pour le marché allemand.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	coca-cola	0	0
+Je fis semblant de travailler.	Έκανα πως δουλεύω.	fis	0	0
+Les îles Vierges britanniques sont un paradis fiscal.	Οι Βρετανικές Παρθένες Νήσοι είναι ένας φορολογικός παράδεισος.	fiscal	0	0
+Émilie a volé mon cœur.	Η Αιμιλία μου έκλεψε την καρδιά.	émilie	0	0
+La musique pour piano apaise l'âme.	Η μουσική του πιάνου ηρεμεί την ψυχή.	apaise	0	0
+Ils ont été torturés.	Βασανίστηκαν.	torturés	0	0
+J'ai feint de travailler.	Έκανα πως δουλεύω.	feint	0	0
+Je n'aime pas l'eau minérale.	Δε μου αρέσει το μεταλλικό νερό.	minérale	0	0
+Je t'aime passionnément.	Σ' αγαπώ παθιασμένα.	passionnément	0	0
+Un jour compte vingt-quatre heures.	Μία μέρα έχει είκοσι τέσσερις ώρες.	vingt-quatre	0	0
+Il a la rougeole.	Έχει ιλαρά.	rougeole	0	0
+Les femmes se sont battues dans ce pays-ci pour la liberté.	Οι γυναίκες αγωνίζονται σε αυτή εδώ τη χώρα για την ελευθερία.	battues	0	0
+L'occitan n'est pas un dialecte du français.	Τα οξιτανικά δεν είναι διάλεκτος των γαλλικών.	dialecte	0	0
+Le bateau a sombré corps et biens.	Το πλοίο ναυάγησε χωρίς ούτε έναν επιζόντα.	sombré	0	0
+Voici mon numéro de téléphone et mon courriel.	Εδώ είναι το τηλέφωνό μου και το e-mail.	courriel	0	0
+Selon l'un des gestionnaires de corpus, le berbère est une langue unique plutôt qu'un groupe de langues.	Σύμφωνα με έναν από τους διευθυντές του σώματος, τα βερβερικά είναι μια ενιαία γλώσσα και όχι μια ομάδα γλωσσών.	corpus	0	0
+Yasmin est Brésilienne.	Η Υασμίν είναι βραζιλιάνα.	brésilienne	0	0
+Pour préparer une ratatouille, il faut beaucoup de légumes, et, en particulier, des poivrons.	Για να προετοιμάσετε το ρατατούιγ, χρειάζεστε πολλά λαχανικά και, ειδικότερα, πιπεριές.	poivrons	0	0
+Traduis ce texte.	Μετάφρασε αυτό το κείμενο.	traduis	0	0
+Elle est paresseuse.	Είναι τεμπέλα.	paresseuse	0	0
+Sami a donné les clés à Leila.	Ο Σαμί έδωσε τα κλειδιά στη Λέιλα.	sami	0	0
+Les médecins sauvent des vies.	Οι γιατροί σώζουν ζωές.	sauvent	0	0
+« Gol » signifie « vide » en roumain.	Στα ρουμανικά, "gol" σημαίνει "άδειο".	roumain	0	0
+Quelle langue parle-t-on en Suisse ?	Ποια γλώσσα μιλούν στην Ελβετία;	parle-t-on	0	0
+Souvent femme varie, bien fol est qui s’y fie.	Οι γυναίκες συχνά διαφέρουν και είναι ανόητο να βασίζεστε σε αυτές.	varie	0	0
+Il ne faut pas mettre la charrue devant les bœufs.	Μην κουνάς τα πόδια σου πριν καβαλικέψεις.	charrue	0	0
+Il est facile de se perdre dans ce dédale de ruelles.	Είναι εύκολο να χαθείτε σε αυτό το λαβύρινθο από σοκάκια.	ruelles	0	0
+Il a une mémoire photographique.	Έχει φωτογραφική μνήμη.	photographique	0	0
+Tel Aviv est une belle ville.	Το Τελ Αβίβ είναι μια όμορφη πόλη.	aviv	0	0
+Mary se regarda dans le miroir.	Κοίταξε τον εαυτό της στον καθρέφτη.	regarda	0	0
+Notre jardin est grand et très fleuri.	Ο κήπος μας είναι μεγάλος και έχει πολλά λουλούδια.	fleuri	0	0
+Cette phrase doit être vérifiée.	Αυτή η πρόταση πρέπει να ελεγχθεί.	vérifiée	0	0
+Êtes-vous vaccinée contre le tétanos ?	Εμβολιαστήκατε για τέτανο;	tétanos	0	0
+Tout le monde a applaudi.	Όλος ο κόσμος χειροκρότησε.	applaudi	0	0
+Si un jour les nombreuses langues européennes viennent à disparaître, ce jour-là l’Europe – en tant que concept et projet – cessera d’exister.	Την ημέρα που η Ευρώπη θα παύσει να μιλά τις πολλές γλώσσες που μιλάει σήμερα, θα παύσει να υπάρχει ως ιδέα και ως όραμα.	européennes	0	0
+Le couple avait déjà versé un acompte pour le lieu de l'événement, pour le photographe et pour la créatrice de la robe de mariée.	Το ζευγάρι είχε ήδη δώσει προκαταβολή στον χώρο της εκδήλωσης, στον φωτογράφο και στην σχεδιάστρια του νυφικού.	créatrice	0	0
+Thomas ouvrit la boite avec attention.	Ο Τομ άνοιξε προσεκτικά το κουτί.	ouvrit	0	0
+Est-ce que tu sais comment aller à la gare ferroviaire ?	Ξέρετε πώς να φτάσετε στο σιδηροδρομικό σταθμό;	ferroviaire	0	0
+Il ne faut pas mettre la charrue devant les bœufs.	Μην κουνάς τα πόδια σου πριν καβαλικέψεις.	bœufs	0	0
+Le futur ne sera pas construit par la force, ni par le désir de conquête, mais à travers l’application patiente de la méthode démocratique, l’esprit de consensus constructif et le respect de la liberté.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	consensus	0	0
+J'ai deux nièces.	Έχω δύο ανιψιές.	nièces	0	0
+Vous n'êtes pas obligées de me dire ça.	Δε χρειάζεται να μου το πείτε αυτό.	obligées	0	0
+Pourquoi ris-tu ?	Γιατί γελάς;	ris-tu	0	0
+En 1493, le Vatican a offert l'Amérique à l'Espagne et l'Afrique noire au Portugal « pour que les nations barbares soient réduites à la foi catholique ».	Το 1493, το Βατικανό έδωσε την Αμερική στην Ισπανία και τη μαύρη Αφρική στην Πορτογαλία «προκειμένου τα βαρβαρικά έθνη να περιοριστούν στην Καθολική πίστη».	réduites	0	0
+Il est facile de se perdre dans ce dédale de ruelles.	Είναι εύκολο να χαθείτε σε αυτό το λαβύρινθο από σοκάκια.	dédale	0	0
+Le travail ne tardera pas à finir.	Η δουλειά δεν θα αργήσει να τελειώσει.	tardera	0	0
+Usez-en mais n’en abusez pas !	Χρησιμοποιήστε αλλά μην κάνετε κατάχρηση.	abusez	0	0
+Elle fait l'insouciante, comme si elle n'était encore qu'une petite fille.	Συμπεριφέρεται χωρίς έγνοιες, σαν να είναι ακόμα μικρό κορίτσι.	insouciante	0	0
+Je veux que tu m'attendes.	Θέλω να με περιμένεις.	attendes	0	0
+Je téléphonerai plus tard.	Θα τηλεφωνήσω αργότερα.	téléphonerai	0	0
+Tataouine est une ville du Maroc en face du détroit de Gibraltar et à 40 kilomètres à l'est de Tanger.	Το Τετουάν είναι μια πόλη του Μαρόκου απέναντι από το στενό του Γιβραλτάρ και 40 χιλιόμετρα ανατολικά της Ταγγέρης.	gibraltar	0	0
+Vous nagez mieux que Marie.	Εσείς κολυμπάτε καλύτερα από τη Μαίρη.	nagez	0	0
+Iras-tu avec Tom ?	Θα πας με τον Τομ;	iras-tu	0	0
+Il était envieux de mon succès.	Ζήλεψε την επιτυχία μου.	envieux	0	0
+Le génocide arménien est un crime contre l'humanité.	Η γενοκτονία των Αρμενίων είναι έγκλημα κατά της ανθρωπότητας.	arménien	0	0
+Le futur ne sera pas construit par la force, ni par le désir de conquête, mais à travers l’application patiente de la méthode démocratique, l’esprit de consensus constructif et le respect de la liberté.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	constructif	0	0
+Il vadrouille dans les rues.	Περιπλανιέται στους δρόμους.	vadrouille	0	0
+Il écrit des scénarios avec des intrigues très prévisibles.	Γράφει σενάρια με προβλέψιμες πλοκές.	prévisibles	0	0
+Parle-t-elle anglais ?	Μιλάει Αγγλικά;	parle-t-elle	0	0
+Que donnes-tu à manger à ton chien ?	Τι δίνεις στο σκύλο σου να φάει;	donnes-tu	0	0
+Roberto rencontre Jun dans les rues de la ville et dès lors, une étrange symbiose entre les deux commence.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	symbiose	0	0
+Vous pensez qu'ils me soupçonnent ?	Νομίζεις ότι με υποπτεύονται;	soupçonnent	0	0
+Tataouine est une ville du Maroc en face du détroit de Gibraltar et à 40 kilomètres à l'est de Tanger.	Το Τετουάν είναι μια πόλη του Μαρόκου απέναντι από το στενό του Γιβραλτάρ και 40 χιλιόμετρα ανατολικά της Ταγγέρης.	tanger	0	0
+Viens-en au fait.	Μπες στο θέμα.	viens-en	0	0
+Pourquoi font-elles cela ?	Γιατί το κάνουν αυτό;	font-elles	0	0
+Je doute qu'il pleuvra.	Αμφιβάλλω πως θα βρέξει.	pleuvra	0	0
+Les négociations se sont déroulées à huis clos.	Οι διαπραγματεύσεις έγιναν κεκλεισμένων των θυρών.	huis	0	0
+Trois bières et une téquila s'il vous plaît !	Τρεις μπύρες και μια τεκίλα παρακαλώ!	téquila	0	0
+C'est une situation inédite.	Αυτή είναι μια πρωτοφανής κατάσταση.	inédite	0	0
+Les accidents sont inévitables.	Τα ατυχήματα είναι αναπόφευκτα.	inévitables	0	0
+Dieu est un cercle dont la circonférence est une droite.	Ο Θεός είναι ένας κύκλος του οποίου η περιφέρεια είναι μια ευθεία.	circonférence	0	0
+Vous lavez-vous les mains avant de manger ?	Πλένετε τα χέρια σας πριν τον φαγητό;	lavez-vous	0	0
+Vous appelleriez les pompiers pour sauver une fourmi ?	Θα καλούσατε την πυροσβεστική για να σώσετε ένα μυρμήγκι;	appelleriez	0	0
+Je savais que je ne devais pas lui rendre visite, j'allai pourtant la voir.	Ήξερα πως δεν έπρεπε να την επισκεφτώ, ωστόσο πήγα να τη δω.	allai	0	0
+Vous ouvriez la porte.	Ανοίγατε την πόρτα.	ouvriez	0	0
+Leur demande était pressante.	Το αίτημά τους ήταν πιεστικό.	pressante	0	0
+Utilises-tu un après-rasage ?	Χρησιμοποιείς άφτερ σέιβ;	après-rasage	0	0
+La société Coca-Cola inventa le Fanta, en pleine Seconde Guerre mondiale, pour le marché allemand.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	fanta	0	0
+Beaucoup de chauffeurs de camion ne respectent pas du tout les conditions météorologiques.	Πολλοί φορτηγατζήδες δε σέβονται καθόλου τις καιρικές συνθήκες.	météorologiques	0	0
+Le papier, invention chinoise vieille d’environ deux mille ans, a laissé une marque indélébile sur toutes les civilisations.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	indélébile	0	0
+Yasmin est Brésilienne.	Η Υασμίν είναι βραζιλιάνα.	yasmin	0	0
+Quelqu'un a toussé.	Κάποιος έβηξε.	toussé	0	0
+Je veux que vous dansiez avec moi.	Θέλω να χορέψετε μαζί μου.	dansiez	0	0
+Combien de temps resterez-vous ici ?	Πόσο καιρό θα μείνετε εδώ;	resterez-vous	0	0
+As-tu remarqué la magnificence des cathédrales françaises ?	Έχετε παρατηρήσει τη μεγαλοπρέπεια των καθεδρικών ναών της Γαλλίας;	cathédrales	0	0
+Pour préparer une ratatouille, il faut beaucoup de légumes, et, en particulier, des poivrons.	Για να προετοιμάσετε το ρατατούιγ, χρειάζεστε πολλά λαχανικά και, ειδικότερα, πιπεριές.	ratatouille	0	0
+L'hôtelier parle anglais, français et grec.	Ο ξενοδόχος μιλάει αγγλικά, γαλλικά και ελληνικά.	hôtelier	0	0
+Il posa le livre sur la table.	Αυτός έβαλε το βιβλίο πάνω στο τραπέζι.	posa	0	0
+As-tu remarqué la magnificence des cathédrales françaises ?	Έχετε παρατηρήσει τη μεγαλοπρέπεια των καθεδρικών ναών της Γαλλίας;	magnificence	0	0
+Maja Keuc est une bonne chanteuse.	Η Μάγια Κέουτς είναι καλή τραγουδίστρια.	maja	0	0
+Je suis désolé mais vos excuses sont inacceptables.	Λυπάμαι αλλά οι δικαιολογίες σου είναι απαράδεκτες.	inacceptables	0	0
+Elles étaient torturées.	Βασανίστηκαν.	torturées	0	0
+Lorie est-elle à la maison ?	Ο Λώρι είναι σπίτι;	lorie	0	0
+« Liberté, Egalité, Fraternité » est un exemple de devise tripartite.	«Ελευθερία, Ισότητα, Αδελφότητα» είναι ένα παράδειγμα τριμερούς σύνθημα.	egalité	0	0
+Ces mensonges sont impardonnables.	Αυτά τα ψέματα είναι ασυγχώρητα.	impardonnables	0	0
+Souvent femme varie, bien fol est qui s’y fie.	Οι γυναίκες συχνά διαφέρουν και είναι ανόητο να βασίζεστε σε αυτές.	fol	0	0
+La colombe au col noir roucoule sur les toits, et sur les flots dormants se répand une voix, une voix qui cadence une langue divine, et d'un accent si doux, que l'amour s'y devine.	Το περιστέρι με το μαύρο κολάρο γουργουρίζει στις στέγες, και πάνω από τα κύματα που κοιμούνται απλώνεται μια φωνή, μια φωνή που σημειώνει μια θεϊκή γλώσσα, και με μια προφορά τόσο γλυκιά που μαντεύεται η αγάπη μέσα της.	dormants	0	0
+Qu'est-ce là qui monte du désert, comme une colonne de fumée, vapeur de myrrhe et d'encens et de tous parfums exotiques ?	Τι είναι αυτό που αναδύεται από την έρημο, σαν στήλη καπνού, ατμούς μύρου και θυμιάματος και όλα τα εξωτικά αρώματα;	myrrhe	0	0
+Nous poussons la porte, et nous entrons dedans.	Σπρώχνομε την πόρτα και μπαίνουμε μέσα.	poussons	0	0
+Êtes-vous vaccinée contre le tétanos ?	Εμβολιαστήκατε για τέτανο;	vaccinée	0	0
+Je veux devenir linguiste.	Θέλω να γίνω γλωσσολόγος.	linguiste	0	0
+Je ne fumerai jamais.	Δεν θα καπνίσω ποτέ.	fumerai	0	0
+La bigamie, c'est quand on a une femme de trop.	Η διγαμία είναι όταν έχει κανείς μιά γυναίκα παραπάνω.	bigamie	0	0
+Je m'en vais, mais l'État demeurera toujours.	Εγώ φεύγω, αλλά το κράτος θα παραμείνει πάντα.	demeurera	0	0

@@ -1,0 +1,274 @@
+Престани да мечтаеш!	Ĉesu esti revemulo!	да	0	0
+Едноставно не знаеме.	Ni simple ne scias.	не	0	0
+Оваа книга не се работи за лингвистика.	Ĉi tiu libro ne temas pri lingvistiko.	се	0	0
+Тој е таксист.	Li estas taksiisto.	е	0	0
+„Татоеба“ значи „на пример“ на јапонски.	"Tatoeba" japane signifas "ekzemple".	на	0	0
+Ќе се обидам да ти го најдам Том.	Mi provos serĉi Tomon por vi	го	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Estas neniu dio krom Dio, kaj Mohameto estas la profeto de Dio.	и	0	0
+Ти кажав што мислам.	Mi diris al vi, kion mi pensas.	што	0	0
+Се надевам дека ќе ги најдеме.	Mi esperas, ke ni trovos ilin.	ќе	0	0
+Пред три години бев во Бостон.	Antaŭ tri jaroj, mi estis en Bostono.	во	0	0
+Оваа книга не се работи за лингвистика.	Ĉi tiu libro ne temas pri lingvistiko.	за	0	0
+Не се согласувам со тоа.	Mi malkonsentas pri tio.	тоа	0	0
+Спремен сум ако си ти спремен.	Mi pretas se vi pretas.	ти	0	0
+Мислам дека Том е некултурен.	Mi pensas ke Tom estas malĝentila.	дека	0	0
+Јас сум од Египет.	Mi estas el Egiptio.	од	0	0
+Не се согласувам со тоа.	Mi malkonsentas pri tio.	со	0	0
+Таа ми е прабаба.	Ŝi estas mia praavino.	ми	0	0
+Бубалица си.	Vi estas nerdo.	си	0	0
+Ја најдоа.	Ili trovis ŝin.	ја	0	0
+Те слушнав како зборуваш на француски.	Mi aŭdis vin paroli france.	како	0	0
+Јас имам пивски стомак.	Mi havas bierventron.	јас	0	0
+Се надевам дека ќе ги најдеме.	Mi esperas, ke ni trovos ilin.	ги	0	0
+Ова е најубавото време во годината.	Tiu estas la plej bona jarepoko.	ова	0	0
+Јас сум алкохоличар. Јас сум наркоман. Јас сум хомосексуалец. Јас сум гениј.	Mi estas alkoholulo. Mi estas drogulo. Mi estas samseksemulo. Mi estas geniulo.	сум	0	0
+Мери ме потсеќа на мене на таа возраст.	Manjo memorigas min pri mi mem en tiu aĝo.	ме	0	0
+Том и Мери те чекаат.	Tomo kaj Manjo atendas vin.	те	0	0
+Том има само една нога.	Tomo havas nur unu kruron.	само	0	0
+Готова ли е тортата?	Ĉu la kuko pretas?	ли	0	0
+Нема пирамиди во Европа.	En Eŭropo ne estas piramidoj.	нема	0	0
+Спремен сум ако си ти спремен.	Mi pretas se vi pretas.	ако	0	0
+Тој е таксист.	Li estas taksiisto.	тој	0	0
+Ни треба свеж воздух.	Ni bezonas freŝan aeron.	треба	0	0
+Затоа што немав апетит сабајлево не јадев ништо, ама сега малку огладнев.	Ĉar mi ne havis apetiton ĉi-matene, mi manĝis nenion, sed nun mi iom malsatas.	сега	0	0
+Изгледаш многу згодно.	Vi aspektas tre seksalloga.	многу	0	0
+Му ја знам тајната на Том.	Mi scias la sekreton de Tomo.	знам	0	0
+Кој е таткото?	Kiu estas la patro?	кој	0	0
+Му ја знам тајната на Том.	Mi scias la sekreton de Tomo.	му	0	0
+Кен има бело куче.	Ken havas blankan hundon.	има	0	0
+Имам нешто за него.	Mi havas ion por li.	нешто	0	0
+Мери ме потсеќа на мене на таа возраст.	Manjo memorigas min pri mi mem en tiu aĝo.	мене	0	0
+Каде можам да те најдам?	Kie mi povas trovi vin?	каде	0	0
+Не сакам мачки.	Mi ne ŝatas la katojn.	сакам	0	0
+Том не ми кажа ништо за тебе.	Tomo nenion rakontis al mi pri vi.	тебе	0	0
+Зошто работиш тука?	Kial vi laboras ĉi tie?	тука	0	0
+Зошто зеваш?	Kial vi oscedas?	зошто	0	0
+Ни треба свеж воздух.	Ni bezonas freŝan aeron.	ни	0	0
+Таа веќе за ништо не ми разговара.	Ŝi ne plu parolas kun mi pri io ajn.	таа	0	0
+Каде можам да те најдам?	Kie mi povas trovi vin?	можам	0	0
+Ти кажав што мислам.	Mi diris al vi, kion mi pensas.	мислам	0	0
+Баш истото му се случи на еден мој добар пријател.	Precize la sama afero okazis al bona amiko de mi.	еден	0	0
+Затоа што немав апетит сабајлево не јадев ништо, ама сега малку огладнев.	Ĉar mi ne havis apetiton ĉi-matene, mi manĝis nenion, sed nun mi iom malsatas.	ама	0	0
+Ова е најубавото време во годината.	Tiu estas la plej bona jarepoko.	време	0	0
+Том не ми кажа ништо за тебе.	Tomo nenion rakontis al mi pri vi.	ништо	0	0
+Тие не знаат да пишуваат.	Ili ne scipovas skribi.	тие	0	0
+Рибата мора да плива.	Fiŝo bezonas naĝi.	мора	0	0
+Пред три години бев во Бостон.	Antaŭ tri jaroj, mi estis en Bostono.	пред	0	0
+Јас имам пивски стомак.	Mi havas bierventron.	имам	0	0
+Затоа што немав апетит сабајлево не јадев ништо, ама сега малку огладнев.	Ĉar mi ne havis apetiton ĉi-matene, mi manĝis nenion, sed nun mi iom malsatas.	малку	0	0
+Ние немаме Папа!	Ni ne havas Papon!	ние	0	0
+Имам нешто за него.	Mi havas ion por li.	него	0	0
+Мојот цртеж не претставуваше шешир.	Mia desegno ne reprezentis ĉapelon.	мојот	0	0
+Сакате да направам кафе, нели? Толку барем знам.	Vi volas, ke mi faru kafon, ĉu ne? Almenaŭ tion mi povas fari.	толку	0	0
+Што имаш?	Kion vi havas?	имаш	0	0
+„Татоеба“ значи „на пример“ на јапонски.	"Tatoeba" japane signifas "ekzemple".	значи	0	0
+Затоа што немав апетит сабајлево не јадев ништо, ама сега малку огладнев.	Ĉar mi ne havis apetiton ĉi-matene, mi manĝis nenion, sed nun mi iom malsatas.	затоа	0	0
+Том има само една нога.	Tomo havas nur unu kruron.	една	0	0
+Мојата вагина е прекрасна!	Mia vagino estas bela!	мојата	0	0
+Том е веќе во Бостон.	Tomo jam estas en Bostono.	веќе	0	0
+Оваа книга не се работи за лингвистика.	Ĉi tiu libro ne temas pri lingvistiko.	работи	0	0
+Сакате да направам кафе, нели? Толку барем знам.	Vi volas, ke mi faru kafon, ĉu ne? Almenaŭ tion mi povas fari.	нели	0	0
+Пред триесет години саатот го удри гром.	Antaŭ tridek jaroj fulmo trafis la horloĝon.	години	0	0
+Оваа книга не се работи за лингвистика.	Ĉi tiu libro ne temas pri lingvistiko.	оваа	0	0
+Пред три години бев во Бостон.	Antaŭ tri jaroj, mi estis en Bostono.	бев	0	0
+Баш истото му се случи на еден мој добар пријател.	Precize la sama afero okazis al bona amiko de mi.	случи	0	0
+Том ќе остане дома.	Tomaso restos hejme.	дома	0	0
+Утре ќе бидам во Скопје.	Morgaŭ mi estos en Skopjo.	бидам	0	0
+Имам нешто за неа.	Mi havas ion por ŝi.	неа	0	0
+Баш истото му се случи на еден мој добар пријател.	Precize la sama afero okazis al bona amiko de mi.	добар	0	0
+Есперанто е полесен од секој народен јазик.	Esperanto estas pli facila ol iu ajn etna lingvo.	секој	0	0
+Том сѐ знае.	Tomo scias ĉion.	знае	0	0
+Том не ми кажа ништо за тебе.	Tomo nenion rakontis al mi pri vi.	кажа	0	0
+Сакате да направам кафе, нели? Толку барем знам.	Vi volas, ke mi faru kafon, ĉu ne? Almenaŭ tion mi povas fari.	направам	0	0
+Пред три години бев во Бостон.	Antaŭ tri jaroj, mi estis en Bostono.	три	0	0
+Баш истото му се случи на еден мој добар пријател.	Precize la sama afero okazis al bona amiko de mi.	баш	0	0
+Сакате да направам кафе, нели? Толку барем знам.	Vi volas, ke mi faru kafon, ĉu ne? Almenaŭ tion mi povas fari.	сакате	0	0
+Животот е прекраток за пиење ефтино вино.	La vivo estas tro mallonga por trinki malmultekostan vinon.	животот	0	0
+Баш истото му се случи на еден мој добар пријател.	Precize la sama afero okazis al bona amiko de mi.	мој	0	0
+Каде е брат ми?	Kie estas mia frato?	брат	0	0
+Син му на Том е болен.	La filo de Tom estas malsana.	син	0	0
+Те слушнав како зборуваш на француски.	Mi aŭdis vin paroli france.	зборуваш	0	0
+Утре не работам.	Mi ne laboros morgaŭ.	утре	0	0
+Баш истото му се случи на еден мој добар пријател.	Precize la sama afero okazis al bona amiko de mi.	пријател	0	0
+Му се допаѓа музиката.	Li ŝatas muzikon.	допаѓа	0	0
+Видов зајак во шумата.	Mi ekvidis leporon en la arbaro.	видов	0	0
+Брзо!	Rapide!	брзо	0	0
+Знаев дека ќе го најдеш.	Mi sciis, ke vi trovos lin.	знаев	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Estas neniu dio krom Dio, kaj Mohameto estas la profeto de Dio.	освен	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Estas neniu dio krom Dio, kaj Mohameto estas la profeto de Dio.	друго	0	0
+Едноставно не знаеме.	Ni simple ne scias.	знаеме	0	0
+Среќна Нова година!	Feliĉan Novjaron!	година	0	0
+Се надевам дека ќе ги најдеме.	Mi esperas, ke ni trovos ilin.	најдеме	0	0
+Веќе ме боли цел грб.	Jam doloras mia tuta dorso.	цел	0	0
+Престани да мечтаеш!	Ĉesu esti revemulo!	престани	0	0
+Се надевам дека ќе ги најдеме.	Mi esperas, ke ni trovos ilin.	надевам	0	0
+Ќе се обидам да ти го најдам Том.	Mi provos serĉi Tomon por vi	најдам	0	0
+Едноставно не знаеме.	Ni simple ne scias.	едноставно	0	0
+Зошто работите тука?	Kial vi laboras ĉi tie?	работите	0	0
+Сакате да направам кафе, нели? Толку барем знам.	Vi volas, ke mi faru kafon, ĉu ne? Almenaŭ tion mi povas fari.	барем	0	0
+Ти кажав што мислам.	Mi diris al vi, kion mi pensas.	кажав	0	0
+Те слушнав како зборуваш на француски.	Mi aŭdis vin paroli france.	слушнав	0	0
+Утре не работам.	Mi ne laboros morgaŭ.	работам	0	0
+Никаде не можев да ја најдам.	Mi ne povis trovi ŝin ie.	можев	0	0
+Тие не знаат да пишуваат.	Ili ne scipovas skribi.	знаат	0	0
+Ние немаме Папа!	Ni ne havas Papon!	немаме	0	0
+Имам друга идеја.	Mi havas alian ideon.	идеја	0	0
+Изгледаш многу згодно.	Vi aspektas tre seksalloga.	изгледаш	0	0
+Циркусот е во град.	La cirko estas en la urbo.	град	0	0
+Книгата е мала.	La libro estas malgranda.	мала	0	0
+Остани!	Restu!	остани	0	0
+Барам.	Mi serĉas.	барам	0	0
+Зошто работиш тука?	Kial vi laboras ĉi tie?	работиш	0	0
+Среќна Нова година!	Feliĉan Novjaron!	нова	0	0
+Астероид експлодирал над Челjабинск, Русија.	Asteroido eksplodis super Ĉelabinsko en Rusio.	над	0	0
+Том нѐ бара.	Tomaso serĉas nin.	бара	0	0
+Имам друга идеја.	Mi havas alian ideon.	друга	0	0
+Знаев дека ќе го најдеш.	Mi sciis, ke vi trovos lin.	најдеш	0	0
+Кен има бело куче.	Ken havas blankan hundon.	куче	0	0
+Никаде не можев да ја најдам.	Mi ne povis trovi ŝin ie.	никаде	0	0
+Јазиците постојано се менуваат.	La lingvoj daŭre aliiĝas.	постојано	0	0
+Баш истото му се случи на еден мој добар пријател.	Precize la sama afero okazis al bona amiko de mi.	истото	0	0
+Том најверојатно фатил такси.	Tomo verŝajne prenis taksion.	најверојатно	0	0
+Том ќе остане дома.	Tomaso restos hejme.	остане	0	0
+Сакате да направам кафе, нели? Толку барем знам.	Vi volas, ke mi faru kafon, ĉu ne? Almenaŭ tion mi povas fari.	кафе	0	0
+Живеам во Индонезија.	Mi loĝas en Indonezio.	живеам	0	0
+Спремен сум ако си ти спремен.	Mi pretas se vi pretas.	спремен	0	0
+Веќе ме боли цел грб.	Jam doloras mia tuta dorso.	боли	0	0
+Оваа книга не се работи за лингвистика.	Ĉi tiu libro ne temas pri lingvistiko.	книга	0	0
+„Татоеба“ значи „на пример“ на јапонски.	"Tatoeba" japane signifas "ekzemple".	пример	0	0
+Мислам дека Том е некултурен.	Mi opinias ke Tom estas malĝentila.	том	0	0
+Пред триесет години саатот го удри гром.	Antaŭ tridek jaroj fulmo trafis la horloĝon.	удри	0	0
+Среќна Нова година!	Feliĉan Novjaron!	среќна	0	0
+Подморницата се нурна во водата.	La submarŝipo mergiĝis sub la akvo.	водата	0	0
+Мојата вагина е прекрасна!	Mia vagino estas bela!	прекрасна	0	0
+Мери ме потсеќа на мене на таа возраст.	Manjo memorigas min pri mi mem en tiu aĝo.	мери	0	0
+Пази!	Atentu!	пази	0	0
+Новиот коронавирус е високо заразен.	La nova koronviruso estas tre infekta.	новиот	0	0
+Затоа што немав апетит сабајлево не јадев ништо, ама сега малку огладнев.	Ĉar mi ne havis apetiton ĉi-matene, mi manĝis nenion, sed nun mi iom malsatas.	немав	0	0
+Ни треба свеж воздух.	Ni bezonas freŝan aeron.	воздух	0	0
+Бостон е прекрасен град.	Bostono estas bela urbo.	прекрасен	0	0
+Желките немаат заби.	Testudoj ne havas dentojn.	немаат	0	0
+Работевме во истата просторија.	Ni laboris en la sama ĉambro.	истата	0	0
+Книгата е мала.	La libro estas malgranda.	книгата	0	0
+Животот е прекраток за пиење ефтино вино.	La vivo estas tro mallonga por trinki malmultekostan vinon.	вино	0	0
+Бедуините живеат во пустина.	La beduinoj vivas en la dezerto.	живеат	0	0
+Знам дека си гладен.	Mi scias, ke vi malsatas.	гладен	0	0
+Видов зајак во шумата.	Mi ekvidis leporon en la arbaro.	шумата	0	0
+Син му на Том е болен.	La filo de Tom estas malsana.	болен	0	0
+Том и Мери те чекаат.	Tomo kaj Manjo atendas vin.	чекаат	0	0
+Помага.	Ĝi helpas.	помага	0	0
+Ќе се обидам да ти го најдам Том.	Mi provos serĉi Tomon por vi	обидам	0	0
+Хиената е диво животно.	Hieno estas sovaĝa besto.	животно	0	0
+Том најверојатно фатил такси.	Tomo verŝajne prenis taksion.	такси	0	0
+Веќе ме боли цел грб.	Jam doloras mia tuta dorso.	грб	0	0
+Есперанто е полесен од секој народен јазик.	Esperanto estas pli facila ol iu ajn etna lingvo.	јазик	0	0
+Не се согласувам со тоа.	Mi malkonsentas pri tio.	согласувам	0	0
+Му ја знам тајната на Том.	Mi scias la sekreton de Tomo.	тајната	0	0
+Новиот коронавирус е високо заразен.	La nova koronviruso estas tre infekta.	високо	0	0
+Том има само една нога.	Tomo havas nur unu kruron.	нога	0	0
+Кој е таткото?	Kiu estas la patro?	таткото	0	0
+Обожавам капини.	Mi ŝatas rubusberojn.	обожавам	0	0
+Том ти е непријател.	Tomaso estas via malamiko.	непријател	0	0
+Желките немаат заби.	Testudoj ne havas dentojn.	заби	0	0
+Многу ми се допаѓаш!	Mi tre ŝatas vin!	допаѓаш	0	0
+Таа веќе за ништо не ми разговара.	Ŝi ne plu parolas kun mi pri io ajn.	разговара	0	0
+Готова ли е тортата?	Ĉu la kuko pretas?	готова	0	0
+Нема пирамиди во Европа.	En Eŭropo ne estas piramidoj.	европа	0	0
+Му се допаѓа музиката.	Li ŝatas muzikon.	музиката	0	0
+Животот е прекраток за пиење ефтино вино.	La vivo estas tro mallonga por trinki malmultekostan vinon.	пиење	0	0
+Том сѐ знае.	Tomo scias ĉion.	сѐ	0	0
+Ја најдоа.	Ili trovis ŝin.	најдоа	0	0
+Победник шампионата назива се шампион.	La venkinton de ĉampionado oni nomas ĉampiono.	шампион	0	0
+Не сум храбар.	Mi ne estas kuraĝa.	храбар	0	0
+Мери ме потсеќа на мене на таа возраст.	Manjo memorigas min pri mi mem en tiu aĝo.	возраст	0	0
+Те слушнав како зборуваш на француски.	Mi aŭdis vin paroli france.	француски	0	0
+Кен има бело куче.	Ken havas blankan hundon.	бело	0	0
+Јас сум од Египет.	Mi estas el Egiptio.	египет	0	0
+Ова е најубавото време во годината.	Tiu estas la plej bona jarepoko.	годината	0	0
+Јазиците постојано се менуваат.	La lingvoj daŭre aliiĝas.	менуваат	0	0
+Астероид експлодирал над Челjабинск, Русија.	Asteroido eksplodis super Ĉelabinsko en Rusio.	русија	0	0
+Зошто ни помагаш?	Kial vi helpas nin?	помагаш	0	0
+Ја фативме.	Ni kaptis ŝin.	фативме	0	0
+Уживајте!	Ĝuu!	уживајте	0	0
+Не сакам мачки.	Mi ne ŝatas la katojn.	мачки	0	0
+Книгата е интересна.	La libro estas interesa.	интересна	0	0
+Победник шампионата назива се шампион.	La venkinton de ĉampionado oni nomas ĉampiono.	победник	0	0
+Јас имам пивски стомак.	Mi havas bierventron.	стомак	0	0
+Во Индија има многу реки.	Estas multaj riveroj en Barato.	индија	0	0
+Видов зајак во шумата.	Mi ekvidis leporon en la arbaro.	зајак	0	0
+Јас сум алкохоличар. Јас сум наркоман. Јас сум хомосексуалец. Јас сум гениј.	Mi estas alkoholulo. Mi estas drogulo. Mi estas samseksemulo. Mi estas geniulo.	гениј	0	0
+Христос воскресна!	Kristo resurektis!	христос	0	0
+Лажењето е срамота.	Mensogi estas hontinde.	срамота	0	0
+Пред три години бев во Бостон.	Antaŭ tri jaroj, mi estis en Bostono.	бостон	0	0
+Работевме во истата просторија.	Ni laboris en la sama ĉambro.	работевме	0	0
+Пред триесет години саатот го удри гром.	Antaŭ tridek jaroj fulmo trafis la horloĝon.	гром	0	0
+Ни треба свеж воздух.	Ni bezonas freŝan aeron.	свеж	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Estas neniu dio krom Dio, kaj Mohameto estas la profeto de Dio.	алах	0	0
+Рибата мора да плива.	Fiŝo bezonas naĝi.	рибата	0	0
+Том нѐ бара.	Tomaso serĉas nin.	нѐ	0	0
+Пред триесет години саатот го удри гром.	Antaŭ tridek jaroj fulmo trafis la horloĝon.	триесет	0	0
+Бедуините живеат во пустина.	La beduinoj vivas en la dezerto.	пустина	0	0
+Затоа што немав апетит сабајлево не јадев ништо, ама сега малку огладнев.	Ĉar mi ne havis apetiton ĉi-matene, mi manĝis nenion, sed nun mi iom malsatas.	јадев	0	0
+„Татоеба“ значи „на пример“ на јапонски.	"Tatoeba" japane signifas "ekzemple".	јапонски	0	0
+Том најверојатно фатил такси.	Tomo verŝajne prenis taksion.	фатил	0	0
+Готова ли е тортата?	Ĉu la kuko pretas?	тортата	0	0
+Мојот цртеж не претставуваше шешир.	Mia desegno ne reprezentis ĉapelon.	шешир	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Estas neniu dio krom Dio, kaj Mohameto estas la profeto de Dio.	божјиот	0	0
+Пред триесет години саатот го удри гром.	Antaŭ tridek jaroj fulmo trafis la horloĝon.	саатот	0	0
+Ние немаме Папа!	Ni ne havas Papon!	папа	0	0
+Работевме во истата просторија.	Ni laboris en la sama ĉambro.	просторија	0	0
+Кен има бело куче.	Ken havas blankan hundon.	кен	0	0
+Том е гангстер.	Tomo estas gangstero.	гангстер	0	0
+Ова е најубавото време во годината.	Tiu estas la plej bona jarepoko.	најубавото	0	0
+Том е наркоман.	Tomo estas drogulo.	наркоман	0	0
+Затоа што немав апетит сабајлево не јадев ништо, ама сега малку огладнев.	Ĉar mi ne havis apetiton ĉi-matene, mi manĝis nenion, sed nun mi iom malsatas.	апетит	0	0
+Хиената е диво животно.	Hieno estas sovaĝa besto.	диво	0	0
+Тие не знаат да пишуваат.	Ili ne scipovas skribi.	пишуваат	0	0
+Подморницата се нурна во водата.	La submarŝipo mergiĝis sub la akvo.	подморницата	0	0
+Рибата мора да плива.	Fiŝo bezonas naĝi.	плива	0	0
+Мојата вагина е прекрасна!	Mia vagino estas bela!	вагина	0	0
+Изгледаш многу згодно.	Vi aspektas tre seksalloga.	згодно	0	0
+Заборавите.	Forgesu.	заборавите	0	0
+Касни.	Malfruas.	касни	0	0
+Спушта се ноћ.	Noktis.	спушта	0	0
+Есперанто е полесен од секој народен јазик.	Esperanto estas pli facila ol iu ajn etna lingvo.	полесен	0	0
+Циркусот е во град.	La cirko estas en la urbo.	циркусот	0	0
+Генијално!	Genia!	генијално	0	0
+Мојот цртеж не претставуваше шешир.	Mia desegno ne reprezentis ĉapelon.	цртеж	0	0
+Новиот коронавирус е високо заразен.	La nova koronviruso estas tre infekta.	заразен	0	0
+Во Индија има многу реки.	Estas multaj riveroj en Barato.	реки	0	0
+Животот е прекраток за пиење ефтино вино.	La vivo estas tro mallonga por trinki malmultekostan vinon.	ефтино	0	0
+Јас сум алкохоличар. Јас сум наркоман. Јас сум хомосексуалец. Јас сум гениј.	Mi estas alkoholulo. Mi estas drogulo. Mi estas samseksemulo. Mi estas geniulo.	алкохоличар	0	0
+Том не е клошар.	Tomo ne estas senhejmulo.	клошар	0	0
+Мери ме потсеќа на мене на таа возраст.	Manjo memorigas min pri mi mem en tiu aĝo.	потсеќа	0	0
+Затоа што немав апетит сабајлево не јадев ништо, ама сега малку огладнев.	Ĉar mi ne havis apetiton ĉi-matene, mi manĝis nenion, sed nun mi iom malsatas.	сабајлево	0	0
+Том тоа го заинтересира.	Tomo interesiĝis pri tio.	заинтересира	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Estas neniu dio krom Dio, kaj Mohameto estas la profeto de Dio.	пратеник	0	0
+Јас сум алкохоличар. Јас сум наркоман. Јас сум хомосексуалец. Јас сум гениј.	Mi estas alkoholulo. Mi estas drogulo. Mi estas samseksemulo. Mi estas geniulo.	хомосексуалец	0	0
+Бубалица си.	Vi estas nerdo.	бубалица	0	0
+Сакам да џвакам тутун.	Mi ŝatas maĉi tabakon.	тутун	0	0
+Тој е таксист.	Li estas taksiisto.	таксист	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Estas neniu dio krom Dio, kaj Mohameto estas la profeto de Dio.	достојно	0	0
+Желките немаат заби.	Testudoj ne havas dentojn.	желките	0	0
+Христос воскресна!	Kristo resurektis!	воскресна	0	0
+Лажењето е срамота.	Mensogi estas hontinde.	лажењето	0	0
+Живеам во Индонезија.	Mi loĝas en Indonezio.	индонезија	0	0
+Зошто се пакуваш?	Kial vi pakas?	пакуваш	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Estas neniu dio krom Dio, kaj Mohameto estas la profeto de Dio.	мухамед	0	0
+Астероид експлодирал над Челjабинск, Русија.	Asteroido eksplodis super Ĉelabinsko en Rusio.	експлодирал	0	0
+Мојот цртеж не претставуваше шешир.	Mia desegno ne reprezentis ĉapelon.	претставуваше	0	0
+Том е Британец.	Tom estas brito.	британец	0	0
+Есперанто е полесен од секој народен јазик.	Esperanto estas pli facila ol iu ajn etna lingvo.	народен	0	0
+Јазиците постојано се менуваат.	La lingvoj daŭre aliiĝas.	јазиците	0	0
+Нема пирамиди во Европа.	En Eŭropo ne estas piramidoj.	пирамиди	0	0
+Мислам дека Том е некултурен.	Mi pensas ke Tom estas malĝentila.	некултурен	0	0
+Таа ми е прабаба.	Ŝi estas mia praavino.	прабаба	0	0
+Астероид експлодирал над Челjабинск, Русија.	Asteroido eksplodis super Ĉelabinsko en Rusio.	астероид	0	0
+Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	Estas neniu dio krom Dio, kaj Mohameto estas la profeto de Dio.	божество	0	0
+Бедуините живеат во пустина.	La beduinoj vivas en la dezerto.	бедуините	0	0
+Престани да мечтаеш!	Ĉesu esti revemulo!	мечтаеш	0	0
+Димитар ме клевети!	Demetrius kalumnias min!	клевети	0	0
+Затоа што немав апетит сабајлево не јадев ништо, ама сега малку огладнев.	Ĉar mi ne havis apetiton ĉi-matene, mi manĝis nenion, sed nun mi iom malsatas.	огладнев	0	0
+Животот е прекраток за пиење ефтино вино.	La vivo estas tro mallonga por trinki malmultekostan vinon.	прекраток	0	0
+Сакам да џвакам тутун.	Mi ŝatas maĉi tabakon.	џвакам	0	0
+Хиената е диво животно.	Hieno estas sovaĝa besto.	хиената	0	0

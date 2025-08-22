@@ -1,0 +1,221 @@
+A nagyapám beteg.	May sakit ang lolo ko.	a	0	0
+Nem fogunk itt maradni ebben a szállodában.	Hindi na muli kami manunuluyan sa hotel na yan.	nem	0	0
+Hol van az autó?	Nasaan ang kotse?	az	0	0
+Csak rá akarok jönni, hogy mi történt.	Gusto ko lang malaman kung anong nangyari.	hogy	0	0
+Tom és Mary gyermeket várnak.	Magkaka-anak sina Tom at Mary.	és	0	0
+Egy idegen megkérdezte tőlem, hol van az állomás.	Tinanong ako ng isang dayuhan kung nasaan ang estasyon.	egy	0	0
+Ő hol van?	Nasaan siya?	van	0	0
+Ez most lényegtelen.	Hindi iyan importante ngayon.	ez	0	0
+"Szereti a zenét." "Én is."	"Gusto niya ang musika." "Ako rin."	is	0	0
+Bárcsak meg tudnám venni azt a gitárt!	Sana mabili ko ang gitarang iyan.	meg	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	csak	0	0
+Miért vagyunk mi itt?	Bakit nandito tayo?	mi	0	0
+"Szereti a zenét." "Én is."	"Gusto niya ang musika." "Ako rin."	én	0	0
+Bárcsak meg tudnám venni azt a gitárt!	Sana mabili ko ang gitarang iyan.	azt	0	0
+Férfi vagy nő volt az áldozat?	Lalaki ba o babae ang biktima?	volt	0	0
+Igen.	Oo.	igen	0	0
+Ki vagy te?	Sino ka ba?	vagy	0	0
+Nem kell idegeskedni.	Huwag mag-alala.	kell	0	0
+Miért vagyok itt?	Bakit nandito ako?	itt	0	0
+Egy kis kávé még maradt a kannában.	Kaunti na lang ang natitirang kape sa kaldero.	még	0	0
+Ki vagy te?	Sino ka ba?	te	0	0
+Ki vagy te?	Sino ka ba?	ki	0	0
+Mária vagyok.	Ako po si Maria.	vagyok	0	0
+Ez most lényegtelen.	Hindi iyan importante ngayon.	most	0	0
+Nem tudom megcsinálni.	Hindi ko iyon magagawa.	tudom	0	0
+Viselkedj úgy, mint egy férfi!	Kumilos ka na parang lalaki!	úgy	0	0
+Miért vagyunk itt?	Bakit tayo nandito?	miért	0	0
+Viselkedj úgy, mint egy férfi!	Kumilos ka na parang lalaki!	mint	0	0
+Ő hol van?	Nasaan siya?	ő	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	jól	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	nagyon	0	0
+Ma nincs születésnapom.	Hindi ko kaarawan ngayon.	nincs	0	0
+Senki sem beszél velem.	Walang nakikipag-usap sa akin.	sem	0	0
+Jobban kellett volna tudnom.	Dapat mas nalaman ko pa nang matino.	volna	0	0
+A szemüveged tetszik nekem.	Gusto ko ang salamin mo.	nekem	0	0
+Nem tudod?	Hindi mo alam?	tudod	0	0
+Nincs semmi baj!	Walang problema!	semmi	0	0
+Hol a kocsi?	Nasaan ang kotse?	hol	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	ami	0	0
+Egy kis kávé még maradt a kannában.	Kaunti na lang ang natitirang kape sa kaldero.	kis	0	0
+Csak rá akarok jönni, hogy mi történt.	Gusto ko lang malaman kung anong nangyari.	rá	0	0
+- Milyen nap van ma? - Szerda.	"Ano'ng araw ngayon?" "Miyerkules."	milyen	0	0
+- Milyen nap van ma? - Szerda.	"Ano'ng araw ngayon?" "Miyerkules."	ma	0	0
+Miért vagyunk itt?	Bakit nandito tayo?	vagyunk	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	ember	0	0
+Csak rá akarok jönni, hogy mi történt.	Gusto ko lang malaman kung anong nangyari.	történt	0	0
+Túl kicsi a világ.	Masyadong maliit ang Tiyera.	túl	0	0
+Egy kutya elkísért engem az iskoláig.	May asong sumunod sa akin sa paaralan.	engem	0	0
+Nem kaptam taxit, ezért gyalog kellett hazamennem.	Dahil walang taksi, napalakad akong pabalik sa bahay.	ezért	0	0
+Senki sem beszél velem.	Walang nakikipag-usap sa akin.	velem	0	0
+Mindent megeszek, kivéve a hagymát.	Kumakain ako ng kahit ano, maliban sa sibuyas.	mindent	0	0
+Nem kaptam taxit, ezért gyalog kellett hazamennem.	Dahil walang taksi, napalakad akong pabalik sa bahay.	kellett	0	0
+Ez egy új könyv.	Bagong aklat ito.	új	0	0
+Kérem, beszéljen hangosabban.	Pakilaksan ang pagsasalita, nga.	kérem	0	0
+Csak rá akarok jönni, hogy mi történt.	Gusto ko lang malaman kung anong nangyari.	akarok	0	0
+Azt nem akarom.	Ayaw ko ito.	akarom	0	0
+Nincs baj!	Walang problema!	baj	0	0
+Soha, soha sem!	Basta di-kailanman!	soha	0	0
+- Milyen nap van ma? - Szerda.	"Ano'ng araw ngayon?" "Miyerkules."	nap	0	0
+Tom beszélni akar.	Gusto ni Tom magsalita.	akar	0	0
+Senki sem beszél velem.	Walang nakikipag-usap sa akin.	senki	0	0
+Miért sietsz annyira?	Bakit ka ganyang nagmamadali?	annyira	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	igazán	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	tessék	0	0
+Jobban kellett volna tudnom.	Dapat mas nalaman ko pa nang matino.	jobban	0	0
+Nem fogunk itt maradni ebben a szállodában.	Hindi na muli kami manunuluyan sa hotel na yan.	ebben	0	0
+Én vagyok a legjobb.	Ako ang pinakamagaling.	legjobb	0	0
+Mindenképpen tetováltatni akarod magad?	Sigurado ka bang magpapalagay ka ng tatu?	magad	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	három	0	0
+Mindenképpen tetováltatni akarod magad?	Sigurado ka bang magpapalagay ka ng tatu?	akarod	0	0
+Holnap van a születésnapom.	Bukas ang kaarawan ko.	holnap	0	0
+Férfi vagy nő volt az áldozat?	Lalaki ba o babae ang biktima?	nő	0	0
+Tom beszélni akar.	Gusto ni Tom magsalita.	beszélni	0	0
+Készülj gyorsan.	Maghanda ka nang mabilis.	gyorsan	0	0
+Férfi vagy nő volt az áldozat?	Lalaki ba o babae ang biktima?	férfi	0	0
+A szemüveged tetszik nekem.	Gusto ko ang salamin mo.	tetszik	0	0
+Tom nem kész.	Hindi handa si Tom.	kész	0	0
+Tom dühösnek néz ki.	Mukhang galit si Tom.	néz	0	0
+A fiam neve Tom.	Ang pangalan ng anak ko ay Tom.	fiam	0	0
+Ez most nem számít.	Hindi iyan importante ngayon.	számít	0	0
+Hol vagytok?	Nasaan kayo?	vagytok	0	0
+Túl kicsi a világ.	Masyadong maliit ang Tiyera.	világ	0	0
+Senki sem beszél velem.	Walang nakikipag-usap sa akin.	beszél	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	öt	0	0
+A fiam neve Tom.	Ang pangalan ng anak ko ay Tom.	neve	0	0
+Egy kólát kérek.	Isa pong Coca-Cola.	kérek	0	0
+Egy idegen megkérdezte tőlem, hol van az állomás.	Tinanong ako ng isang dayuhan kung nasaan ang estasyon.	tőlem	0	0
+Nem fogunk itt maradni ebben a szállodában.	Hindi na muli kami manunuluyan sa hotel na yan.	fogunk	0	0
+Nem akart Tom Máriával összeházasodni.	Hindi ginusto ni Tom na pakasalan si Maria.	akart	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	négy	0	0
+Miért kék az ég?	Bakit bughaw ang langit?	ég	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	hét	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	hat	0	0
+A nagyapám beteg.	May sakit ang lolo ko.	beteg	0	0
+Csak rá akarok jönni, hogy mi történt.	Gusto ko lang malaman kung anong nangyari.	jönni	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	egyszerű	0	0
+A medve fekete.	Itim ang oso.	fekete	0	0
+Egy kis kávé még maradt a kannában.	Kaunti na lang ang natitirang kape sa kaldero.	maradt	0	0
+Nem kaptam taxit, ezért gyalog kellett hazamennem.	Dahil walang taksi, napalakad akong pabalik sa bahay.	kaptam	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	kettő	0	0
+Mért nincsenek ma taxik az állomásnál?	Ba't walang taksi sa estasyon ngayon?	nincsenek	0	0
+A nevem Andrea.	Ang pangalan ko ay Andrea.	nevem	0	0
+Bárcsak meg tudnám venni azt a gitárt!	Sana mabili ko ang gitarang iyan.	venni	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	tíz	0	0
+Túl kicsi a világ.	Masyadong maliit ang Tiyera.	kicsi	0	0
+"Szereti a zenét." "Én is."	"Gusto niya ang musika." "Ako rin."	szereti	0	0
+A nevem Tom.	Tom ang pangalan ko.	tom	0	0
+Bárcsak meg tudnám venni azt a gitárt!	Sana mabili ko ang gitarang iyan.	bárcsak	0	0
+Mindent megeszek, kivéve a hagymát.	Kumakain ako ng kahit ano, maliban sa sibuyas.	kivéve	0	0
+Trump megölte Epsteint.	Pinatay ni Trump si Epstein.	megölte	0	0
+A Föld kerek.	Mabilog ang Tiyera.	föld	0	0
+Férfi vagy nő volt az áldozat?	Lalaki ba o babae ang biktima?	áldozat	0	0
+A vér vörös.	Pula ang dugo.	vér	0	0
+Nem fogunk itt maradni ebben a szállodában.	Hindi na muli kami manunuluyan sa hotel na yan.	maradni	0	0
+Egy kutya elkísért engem az iskoláig.	May asong sumunod sa akin sa paaralan.	kutya	0	0
+A nevem Henry.	Henry ang pangalan ko.	henry	0	0
+Trump ölte meg Epsteint.	Pinatay ni Trump si Epstein.	ölte	0	0
+A vér vörös.	Pula ang dugo.	vörös	0	0
+Hiszek Istenben.	Naniniwala ako sa Diyos.	hiszek	0	0
+Üres a zsebem.	Wala na akong pera.	üres	0	0
+Gyakran iszol tejet?	Palagi ka bang nainom ng gatas?	gyakran	0	0
+Tom és Mary gyermeket várnak.	Magkaka-anak sina Tom at Mary.	mary	0	0
+Miért kék az ég?	Bakit bughaw ang langit?	kék	0	0
+Bárcsak meg tudnám venni azt a gitárt!	Sana mabili ko ang gitarang iyan.	tudnám	0	0
+Hol a kocsi?	Nasaan ang kotse?	kocsi	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	nyolc	0	0
+Jobban kellett volna tudnom.	Dapat mas nalaman ko pa nang matino.	tudnom	0	0
+A nagybátyám nagyon gazdag.	Ang aking tiyuhin ay napakamayaman.	gazdag	0	0
+A matematika a gyenge pontja.	Mahina siya sa sipnayan.	gyenge	0	0
+Hol van az autó?	Nasaan ang kotse?	autó	0	0
+A válasz: igen.	Ang sagot ay "oo".	válasz	0	0
+Egy idegen megkérdezte tőlem, hol van az állomás.	Tinanong ako ng isang dayuhan kung nasaan ang estasyon.	idegen	0	0
+Ez egy hal.	Isda po iyon.	hal	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	lát	0	0
+Írt egy könnyvet az őserdei kalandjáról.	Sinulat niya ang librong tungkol sa kanyang mga abentura sa gubat.	írt	0	0
+Kérem, beszéljen hangosabban.	Pakilaksan ang pagsasalita, nga.	beszéljen	0	0
+Hol a könyv?	Nasaan yung libro?	könyv	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu.	kilenc	0	0
+Csak egy megoldás van.	Isa lang ang solusyon.	megoldás	0	0
+Tom és Mary gyermeket várnak.	Magkaka-anak sina Tom at Mary.	várnak	0	0
+"Szereti a zenét." "Én is."	"Gusto niya ang musika." "Ako rin."	zenét	0	0
+Mért nincsenek ma taxik az állomásnál?	Ba't walang taksi sa estasyon ngayon?	mért	0	0
+Egy kis kávé még maradt a kannában.	Kaunti na lang ang natitirang kape sa kaldero.	kávé	0	0
+Vak, süket és néma.	Siya ay bulag, bingi at pipi.	vak	0	0
+Nem tudom megcsinálni.	Hindi ko iyon magagawa.	megcsinálni	0	0
+Hol a macska?	Nasaan ang pusa?	macska	0	0
+Tom kutyája barna.	Ang aso ni Tom ay kayumanggi.	barna	0	0
+Készülj gyorsan.	Maghanda ka nang mabilis.	készülj	0	0
+Mindenképpen tetováltatni akarod magad?	Sigurado ka bang magpapalagay ka ng tatu?	mindenképpen	0	0
+Gyakran iszol tejet?	Palagi ka bang nainom ng gatas?	iszol	0	0
+Robot vagyok.	Isa akong robot.	robot	0	0
+A medve fekete.	Itim ang oso.	medve	0	0
+Nem kaptam taxit, ezért gyalog kellett hazamennem.	Dahil walang taksi, napalakad akong pabalik sa bahay.	taxit	0	0
+Vak, süket és néma.	Siya ay bulag, bingi at pipi.	süket	0	0
+Nincs kocsim.	Wala akong awto.	kocsim	0	0
+Gyakran iszol tejet?	Palagi ka bang nainom ng gatas?	tejet	0	0
+Külföldi vagyok.	Dayuhan ako.	külföldi	0	0
+Nagyon vastag a jég.	Talagang makapal ang yelo.	jég	0	0
+Egy idegen megkérdezte tőlem, hol van az állomás.	Tinanong ako ng isang dayuhan kung nasaan ang estasyon.	állomás	0	0
+Egy idegen megkérdezte tőlem, hol van az állomás.	Tinanong ako ng isang dayuhan kung nasaan ang estasyon.	megkérdezte	0	0
+Van egy virág az asztalon.	May bulaklak sa mesa.	virág	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	láthatatlan	0	0
+Nem kaptam taxit, ezért gyalog kellett hazamennem.	Dahil walang taksi, napalakad akong pabalik sa bahay.	gyalog	0	0
+Van egy virág az asztalon.	May bulaklak sa mesa.	asztalon	0	0
+Tom és Mary gyermeket várnak.	Magkaka-anak sina Tom at Mary.	gyermeket	0	0
+Mária vagyok.	Ako si Maria.	mária	0	0
+Viselkedj úgy, mint egy férfi!	Kumilos ka na parang lalaki!	viselkedj	0	0
+A nagyapám beteg.	May sakit ang lolo ko.	nagyapám	0	0
+A kertben vagyok.	Nasa hardin ako.	kertben	0	0
+Koreai vagyok.	Ako ay Koreana.	koreai	0	0
+Kellesz a családodnak.	Kailangan ka ng pamilya mo.	kellesz	0	0
+Törökül tanulok.	Nag-aaral ako ng Turko.	tanulok	0	0
+A prostitúció legális Németországban.	Legal ang prostitusyon sa Germany.	legális	0	0
+Nagyon vastag a jég.	Talagang makapal ang yelo.	vastag	0	0
+A nevem Andrea.	Ang pangalan ko ay Andrea.	andrea	0	0
+Ez most lényegtelen.	Hindi iyan importante ngayon.	lényegtelen	0	0
+Almás pitét sütött a férjének.	Nilutuan nya yung asawa nya ng apple pie.	pitét	0	0
+Kérem, beszéljen hangosabban.	Pakilaksan ang pagsasalita, nga.	hangosabban	0	0
+Ez a szobám.	Kuwarto ko ito.	szobám	0	0
+Ma hétfő van.	Ngayon ay Lunes.	hétfő	0	0
+Tom kutyája barna.	Ang aso ni Tom ay kayumanggi.	kutyája	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	lényeges	0	0
+Vak, süket és néma.	Siya ay bulag, bingi at pipi.	néma	0	0
+A nagybátyám nagyon gazdag.	Ang aking tiyuhin ay napakamayaman.	nagybátyám	0	0
+Hiszek Istenben.	Naniniwala ako sa Diyos.	istenben	0	0
+A Föld kerek.	Mabilog ang Tiyera.	kerek	0	0
+- Milyen nap van ma? - Szerda.	"Ano'ng araw ngayon?" "Miyerkules."	szerda	0	0
+Almás pitét sütött a férjének.	Nilutuan nya yung asawa nya ng apple pie.	férjének	0	0
+Nem fogunk itt maradni ebben a szállodában.	Hindi na muli kami manunuluyan sa hotel na yan.	szállodában	0	0
+Miért sietsz annyira?	Bakit ka ganyang nagmamadali?	sietsz	0	0
+A matematika a gyenge pontja.	Mahina siya sa sipnayan.	pontja	0	0
+Kólát isznak.	Umiinom sila ng Coca-Cola.	isznak	0	0
+A prostitúció legális Németországban.	Legal ang prostitusyon sa Germany.	németországban	0	0
+Kólát isznak.	Umiinom sila ng Coca-Cola.	kólát	0	0
+Vegetáriánus vagyok.	Isa akong vegetarian.	vegetáriánus	0	0
+Ez nem mondat.	Hindi ito pangungusap.	mondat	0	0
+Ma nincs születésnapom.	Hindi ko po kaarawan ngayon.	születésnapom	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	titkom	0	0
+Itt a könyved.	Heto ang libro mo.	könyved	0	0
+Ő a szomszédom.	Siya ay aking kapitbahay.	szomszédom	0	0
+Tom dühösnek néz ki.	Mukhang galit si Tom.	dühösnek	0	0
+Ricardo a nevem.	Ang pangalan ko ay Ricardo.	ricardo	0	0
+Kellesz a családodnak.	Kailangan ka ng pamilya mo.	családodnak	0	0
+A matematika a gyenge pontja.	Mahina siya sa sipnayan.	matematika	0	0
+Almás pitét sütött a férjének.	Nilutuan nya yung asawa nya ng apple pie.	almás	0	0
+Almás pitét sütött a férjének.	Nilutuan nya yung asawa nya ng apple pie.	sütött	0	0
+Ez az én dalom.	Ito ang awit ko.	dalom	0	0
+Bárcsak meg tudnám venni azt a gitárt!	Sana mabili ko ang gitarang iyan.	gitárt	0	0
+Mindent megeszek, kivéve a hagymát.	Kumakain ako ng kahit ano, maliban sa sibuyas.	hagymát	0	0
+Nem akart Tom Máriával összeházasodni.	Hindi ginusto ni Tom na pakasalan si Maria.	összeházasodni	0	0
+A nevem Szása.	Sasha ang pangalan ko.	szása	0	0
+A prostitúció legális Németországban.	Legal ang prostitusyon sa Germany.	prostitúció	0	0
+A szemüveged tetszik nekem.	Gusto ko ang salamin mo.	szemüveged	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	szívével	0	0
+Trump megölte Epsteint.	Pinatay ni Trump si Epstein.	trump	0	0
+Tessék, itt a titkom. Nagyon egyszerű: jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.	At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	szemnek	0	0
+A művészettörténetet tanulmányozom.	Nag-aaral ako ng istorya ng arte.	tanulmányozom	0	0
+Mért nincsenek ma taxik az állomásnál?	Ba't walang taksi sa estasyon ngayon?	állomásnál	0	0
+Nem kell idegeskedni.	Huwag mag-alala.	idegeskedni	0	0
+Nem kaptam taxit, ezért gyalog kellett hazamennem.	Dahil walang taksi, napalakad akong pabalik sa bahay.	hazamennem	0	0
+Nincs biciklim.	Wala akong bisikleta.	biciklim	0	0

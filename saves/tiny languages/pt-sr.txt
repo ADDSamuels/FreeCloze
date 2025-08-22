@@ -1,0 +1,263 @@
+Por que estás ocupado hoje?	Зашто си данас заузет?	que	0	0
+A mulher é jovem.	Жена је млада.	a	0	0
+Alguém roubou o meu guarda-chuvas na padaria.	Неко ми је украо кишобран у пекари.	o	0	0
+Não tão rápido!	Не тако брзо!	não	0	0
+Esperemos do lado de fora.	Чекајмо напољу.	de	0	0
+Marina é da Rússia e a Clarissa é da Suécia.	Marina je iz Rusije, a Clarissa je iz Švedske.	é	0	0
+Tenho dois irmãos e uma irmã.	Имам два брата и једну сестру.	e	0	0
+Tom está usando um chapéu engraçado.	Том носи смешан шешир.	um	0	0
+Já contei para o Tom que eu quero comprar.	Већ сам рекла Тому шта хоћу да купим.	para	0	0
+Eu gosto de estudar idiomas estrangeiros.	Волим да студирам стране језике.	eu	0	0
+Tenho uma conta no Facebook.	Ја имам Фејсбук налог.	uma	0	0
+Tom está usando um chapéu engraçado.	Том носи смешан шешир.	está	0	0
+Você está com o zíper da sua calça aberto.	Отворен ти је шлиц.	com	0	0
+O que facilmente se ganha, facilmente se perde.	Како дошло, тако и отишло.	se	0	0
+Aqui está a chave do meu apartamento.	Ево кључа од мог стана.	do	0	0
+Por favor, contacte-me por email.	Молим те,контактирај ме путем имејла.	por	0	0
+Os planetas giram ao redor de uma estrela.	Планете се окрећу око звезде.	os	0	0
+Ele é meu amigo.	Он је мој друг.	ele	0	0
+Inacreditável, mas verdadeiro.	Невероватно, али истинито.	mas	0	0
+Sua vida está em minhas mãos.	Njegov život je u mojim rukama.	em	0	0
+Fiz isso por você.	Урадила сам ово за тебе.	isso	0	0
+Você está com o zíper da sua calça aberto.	Отворен ти је шлиц.	da	0	0
+Sim.	Да.	sim	0	0
+As lojas estavam todas fechadas.	Све радње су биле затворене.	as	0	0
+Tenho uma conta no Facebook.	Ја имам Фејсбук налог.	no	0	0
+Quero que você trabalhe mais.	Želim da više radiš.	mais	0	0
+Eles estavam na biblioteca ontem?	Да ли су они јуче били у библиотеци?	na	0	0
+O cachorro é meu.	Пас је мој.	meu	0	0
+Aqui está a chave do meu apartamento.	Ево кључа од мог стана.	aqui	0	0
+O novo coronavírus é muito contagioso.	Нови коронавирус је веома заразан.	muito	0	0
+Seu desenvolvimento mental foi lento.	Његов ментални развој је био спор.	foi	0	0
+Ela tem duas irmãs.	Она има две сестре.	ela	0	0
+Estou em Londres.	Ja sam u Londonu.	estou	0	0
+Já contei para o Tom que eu quero comprar.	Већ сам рекла Тому шта хоћу да купим.	já	0	0
+Eu vou à praia.	Idem na plažu.	à	0	0
+Minha mãe é grega.	Moja mati je Grkinja.	minha	0	0
+Quero ir ao lago.	Желим да идем на језеро.	ao	0	0
+Ela tem duas irmãs.	Она има две сестре.	tem	0	0
+No Universo há muitas galáxias.	Postoji mnogo galaksija u univerzumu.	há	0	0
+Tenho dois irmãos e uma irmã.	Имам два брата и једну сестру.	tenho	0	0
+Vou à praia.	Idem na plažu.	vou	0	0
+Tu podes resolver este problema?	Možeš li da rešiš ovaj problem?	tu	0	0
+Você pode ir dormir agora.	Можеш ићи на спавање сада.	agora	0	0
+Onde estás?	Где си ти?	estás	0	0
+Quero que você trabalhe mais.	Želim da više radiš.	você	0	0
+Quem é o chefe na sua família?	Ко је газда у вашој кући?	quem	0	0
+Onde fica Teerã?	Gde je Teheran?	onde	0	0
+De nada.	Нема на чему.	nada	0	0
+Qual é maior, o sol ou a Terra?	Šta je veće, Sunce ili Zemlja?	ou	0	0
+Vocês querem beber alguma coisa?	Хоћете да попијете нешто?	coisa	0	0
+Já contei para o Tom que eu quero comprar.	Већ сам рекла Тому шта хоћу да купим.	quero	0	0
+Eu sou professora.	Ја сам професорка.	sou	0	0
+Seu desenvolvimento mental foi lento.	Њен ментални развој је био спор.	seu	0	0
+Você pode ir dormir agora.	Можеш ићи на спавање сада.	pode	0	0
+Você sabe o que significa esta frase?	Znaš li šta znači ova rečenica?	esta	0	0
+Eles estavam na biblioteca ontem?	Да ли су они јуче били у библиотеци?	eles	0	0
+Quem é o chefe na sua família?	Ко је газда у вашој кући?	sua	0	0
+Todos os alunos da classe estão presentes.	Присутни су сви ученици одељења.	todos	0	0
+Oi, Tom. Bom dia.	Здраво, Том. Добро јутро.	bom	0	0
+Tu podes resolver este problema?	Možeš li da rešiš ovaj problem?	este	0	0
+Nunca vi uma girafa.	Никада нисам видео жирафу.	nunca	0	0
+Todos os alunos da classe estão presentes.	Присутни су сви ученици одељења.	estão	0	0
+Ele passou por um tempo difícil.	Он је прошао кроз веома сложена времена.	tempo	0	0
+Quero ir ao lago.	Желим да идем на језеро.	ir	0	0
+Votei a favor.	Гласао сам за.	favor	0	0
+Não tão rápido!	Не тако брзо!	tão	0	0
+Minha mãe é grega.	Moja mati je Grkinja.	mãe	0	0
+Obrigado pelo presente.	Хвала на поклону.	obrigado	0	0
+Deus é grande.	Бог је велики.	deus	0	0
+Estamos levando a mesa para o jardim.	Носимо сто у башту.	estamos	0	0
+Alguém roubou o meu guarda-chuvas na padaria.	Неко ми је украо кишобран у пекари.	alguém	0	0
+Oi, Tom. Bom dia.	Здраво, Том. Добро јутро.	dia	0	0
+Vocês querem beber alguma coisa?	Хоћете да попијете нешто?	alguma	0	0
+Sua vida está em minhas mãos.	Njegov život je u mojim rukama.	vida	0	0
+Eles riram do erro dele.	Они су се смејали због његове грешке.	dele	0	0
+O Tom trabalha das nove às cinco.	Tom radi od devet do pet.	das	0	0
+Eu sou um homem livre.	Ja sam slobodan čovek.	homem	0	0
+Obrigado pelo presente.	Хвала на поклону.	pelo	0	0
+Maja Keuc é uma boa cantora.	Maja Keuc je dobra pevačica.	boa	0	0
+Você sabe o que significa esta frase?	Znaš li šta znači ova rečenica?	sabe	0	0
+Tenho dois irmãos e uma irmã.	Имам два брата и једну сестру.	dois	0	0
+Tu podes resolver este problema?	Možeš li da rešiš ovaj problem?	podes	0	0
+Vocês querem beber alguma coisa?	Хоћете да попијете нешто?	vocês	0	0
+Essa não é a questão principal.	То није главно питање.	essa	0	0
+Deus é grande.	Бог је велики.	grande	0	0
+Para a próxima aula, quero que vocês transcrevam uma letra de música de qualquer cantor desde que essa esteja em inglês.	За следећи час, хоћу да препишете текст од било ког певача који је на енглеском језику.	qualquer	0	0
+Qual é maior, o sol ou a Terra?	Šta je veće, Sunce ili Zemlja?	qual	0	0
+Por que estás ocupado hoje?	Зашто си данас заузет?	hoje	0	0
+A mulher é jovem.	Žena je mlada.	mulher	0	0
+Esperemos do lado de fora.	Чекајмо напољу.	fora	0	0
+Muito obrigado, meus amigos!	Много вам хвала, моји пријатељи!	meus	0	0
+O Tom trabalha das nove às cinco.	Tom radi od devet do pet.	às	0	0
+A América está de volta!	Америка се вратила!	volta	0	0
+Ele é meu amigo.	Он је мој друг.	amigo	0	0
+Tu podes resolver este problema?	Možeš li da rešiš ovaj problem?	problema	0	0
+Esperemos do lado de fora.	Чекајмо напољу.	lado	0	0
+Escute os seus pais!	Слушај своје родитеље!	seus	0	0
+O novo coronavírus é muito contagioso.	Нови коронавирус је веома заразан.	novo	0	0
+Disciplina é a parte mais importante para o sucesso.	Дисциплина је најважнији део успеха.	parte	0	0
+As lojas estavam todas fechadas.	Све радње су биле затворене.	todas	0	0
+Sentámo-nos juntos, em silêncio, durante algum tempo.	Седели смо заједно у тишини неко време.	algum	0	0
+Quem é o chefe na sua família?	Ko je u vašoj kući gazda?	família	0	0
+Eu sabia que o Antônio podia vencer.	Знала сам да Антонио може да победи.	sabia	0	0
+Ela tem duas irmãs.	Она има две сестре.	duas	0	0
+Gosto muito de gatos.	Mnogo volim mačke.	gosto	0	0
+Eu sabia que o Antônio podia vencer.	Знала сам да Антонио може да победи.	podia	0	0
+Para a próxima aula, quero que vocês transcrevam uma letra de música de qualquer cantor desde que essa esteja em inglês.	За следећи час, хоћу да препишете текст од било ког певача који је на енглеском језику.	desde	0	0
+Onde fica Teerã?	Gde je Teheran?	fica	0	0
+Fiz isso por você.	Урадила сам ово за тебе.	fiz	0	0
+Muito obrigado, meus amigos!	Много вам хвала, моји пријатељи!	amigos	0	0
+Nunca vi uma girafa.	Никада нисам видео жирафу.	vi	0	0
+Sentámo-nos juntos, em silêncio, durante algum tempo.	Седели смо заједно у тишини неко време.	durante	0	0
+Votei contra.	Гласала сам против.	contra	0	0
+Ele bateu à porta.	Он је покуцао на врата.	porta	0	0
+Sua vida está em minhas mãos.	Njegov život je u mojim rukama.	minhas	0	0
+Aquela bolsa é minha.	Та торба је моја.	aquela	0	0
+Feliz Páscoa!	Срећан васкрс!	feliz	0	0
+Tenho uma conta no Facebook.	Ја имам Фејсбук налог.	conta	0	0
+Sentámo-nos juntos, em silêncio, durante algum tempo.	Седели смо заједно у тишини неко време.	juntos	0	0
+Ele passou por um tempo difícil.	Он је прошао кроз веома сложена времена.	difícil	0	0
+Disciplina é a parte mais importante para o sucesso.	Дисциплина је најважнији део успеха.	importante	0	0
+Sua vida está em minhas mãos.	Njegov život je u mojim rukama.	mãos	0	0
+Você sabe o que significa esta frase?	Znaš li šta znači ova rečenica?	significa	0	0
+Vocês querem beber alguma coisa?	Хоћете да попијете нешто?	querem	0	0
+O Tom trabalha das nove às cinco.	Tom radi od devet do pet.	cinco	0	0
+Quem é o chefe na sua família?	Ко је газда у вашој кући?	chefe	0	0
+Você fala Macedônio?	Да ли говорите македонски?	fala	0	0
+Qual é maior, o sol ou a Terra?	Šta je veće, Sunce ili Zemlja?	terra	0	0
+Eles estavam na biblioteca ontem?	Да ли су они јуче били у библиотеци?	ontem	0	0
+Você pode ir dormir agora.	Можеш ићи на спавање сада.	dormir	0	0
+No Universo há muitas galáxias.	Postoji mnogo galaksija u univerzumu.	muitas	0	0
+Qual é maior, o sol ou a Terra?	Šta je veće, Sunce ili Zemlja?	maior	0	0
+Não tão rápido!	Не тако брзо!	rápido	0	0
+Escute os seus pais!	Слушај своје родитеље!	pais	0	0
+Eles estavam na biblioteca ontem?	Да ли су они јуче били у библиотеци?	estavam	0	0
+Tenho dois irmãos e uma irmã.	Имам два брата и једну сестру.	irmã	0	0
+O Tom é um idiota útil.	Том је корисни идиот.	idiota	0	0
+Dá-me mil beijos.	Дај ми хиљаду пољубаца.	mil	0	0
+Tenho um plano.	Имам план.	plano	0	0
+Dá-me mil beijos.	Дај ми хиљаду пољубаца.	dá-me	0	0
+Ele passou por um tempo difícil.	Он је прошао кроз веома сложена времена.	passou	0	0
+Eu exijo demais?	Да ли захтевам превише?	demais	0	0
+Para a próxima aula, quero que vocês transcrevam uma letra de música de qualquer cantor desde que essa esteja em inglês.	За следећи час, хоћу да препишете текст од било ког певача који је на енглеском језику.	próxima	0	0
+Para a próxima aula, quero que vocês transcrevam uma letra de música de qualquer cantor desde que essa esteja em inglês.	За следећи час, хоћу да препишете текст од било ког певача који је на енглеском језику.	esteja	0	0
+Para a próxima aula, quero que vocês transcrevam uma letra de música de qualquer cantor desde que essa esteja em inglês.	За следећи час, хоћу да препишете текст од било ког певача који је на енглеском језику.	música	0	0
+Vocês querem beber alguma coisa?	Хоћете да попијете нешто?	beber	0	0
+A mulher é jovem.	Žena je mlada.	jovem	0	0
+Já contei para o Tom que eu quero comprar.	Већ сам рекла Тому шта хоћу да купим.	comprar	0	0
+Sua esposa é uma escultora conhecida.	Његова супруга је познати вајар.	esposa	0	0
+Essa não é a questão principal.	То није главно питање.	questão	0	0
+Eu sou um homem livre.	Ja sam slobodan čovek.	livre	0	0
+Já contei para o Tom que eu quero comprar.	Већ сам рекла Тому шта хоћу да купим.	tom	0	0
+Estamos levando a mesa para o jardim.	Носимо сто у башту.	mesa	0	0
+Eles riram do erro dele.	Они су се смејали због његове грешке.	erro	0	0
+Inacreditável, mas verdadeiro.	Невероватно, али истинито.	verdadeiro	0	0
+Qual é maior, o sol ou a Terra?	Šta je veće, Sunce ili Zemlja?	sol	0	0
+Obrigado pelo presente.	Хвала на поклону.	presente	0	0
+Tu podes resolver este problema?	Možeš li da rešiš ovaj problem?	resolver	0	0
+Tom está usando um chapéu engraçado.	Том носи смешан шешир.	engraçado	0	0
+Aqui está a chave do meu apartamento.	Ево кључа од мог стана.	chave	0	0
+Aqui está a chave do meu apartamento.	Ево кључа од мог стана.	apartamento	0	0
+O Tom trabalha das nove às cinco.	Tom radi od devet do pet.	trabalha	0	0
+Está frio hoje.	Danas je hladno.	frio	0	0
+Eles atravessam a área pedregosa.	Они ходају кроз камениту област.	área	0	0
+A América está de volta!	Америка се вратила!	américa	0	0
+No princípio Deus criou os céus e a terra.	У почетку Бог је створио небо и Земљу.	céus	0	0
+Tenho dois irmãos e uma irmã.	Имам два брата и једну сестру.	irmãos	0	0
+Essa não é a questão principal.	То није главно питање.	principal	0	0
+Sentámo-nos juntos, em silêncio, durante algum tempo.	Седели смо заједно у тишини неко време.	silêncio	0	0
+O Tom trabalha das nove às cinco.	Tom radi od devet do pet.	nove	0	0
+Por que estás ocupado hoje?	Зашто си данас заузет?	ocupado	0	0
+Disciplina é a parte mais importante para o sucesso.	Дисциплина је најважнији део успеха.	sucesso	0	0
+Para a próxima aula, quero que vocês transcrevam uma letra de música de qualquer cantor desde que essa esteja em inglês.	За следећи час, хоћу да препишете текст од било ког певача који је на енглеском језику.	inglês	0	0
+Os planetas giram ao redor de uma estrela.	Планете се окрећу око звезде.	estrela	0	0
+Estou em Londres.	Ja sam u Londonu.	londres	0	0
+Não sou um soldado.	Ја нисам војник.	soldado	0	0
+A árvore é verde.	Дрво је зелено.	árvore	0	0
+A árvore é verde.	Дрво је зелено.	verde	0	0
+Vou à praia.	Idem na plažu.	praia	0	0
+Oi, Tom. Bom dia.	Здраво, Том. Добро јутро.	oi	0	0
+Para a próxima aula, quero que vocês transcrevam uma letra de música de qualquer cantor desde que essa esteja em inglês.	За следећи час, хоћу да препишете текст од било ког певача који је на енглеском језику.	aula	0	0
+Todos os alunos da classe estão presentes.	Присутни су сви ученици одељења.	classe	0	0
+Pertence ao "terceiro" gênero.	Он припада "трећем" полу.	terceiro	0	0
+Tom está usando um chapéu engraçado.	Том носи смешан шешир.	chapéu	0	0
+Eu gosto de estudar idiomas estrangeiros.	Волим да студирам стране језике.	estudar	0	0
+Alguém roubou o meu guarda-chuvas na padaria.	Неко ми је украо кишобран у пекари.	roubou	0	0
+No Universo há muitas galáxias.	Postoji mnogo galaksija u univerzumu.	universo	0	0
+Você está com o zíper da sua calça aberto.	Отворен ти је шлиц.	aberto	0	0
+Estamos levando a mesa para o jardim.	Носимо сто у башту.	jardim	0	0
+Quero ir ao lago.	Желим да идем на језеро.	lago	0	0
+Pertence ao "terceiro" gênero.	Он припада "трећем" полу.	pertence	0	0
+O Tom é um idiota útil.	Том је корисни идиот.	útil	0	0
+Eu sabia que o Antônio podia vencer.	Знала сам да Антонио може да победи.	vencer	0	0
+A conferência não foi um sucesso completo.	Конференција није била у потпуности успешна.	completo	0	0
+Aquela bolsa é minha.	Та торба је моја.	bolsa	0	0
+O que facilmente se ganha, facilmente se perde.	Како дошло, тако и отишло.	ganha	0	0
+No princípio Deus criou os céus e a terra.	У почетку Бог је створио небо и Земљу.	princípio	0	0
+Ele é francês.	On je Francuz.	francês	0	0
+Já contei para o Tom que eu quero comprar.	Већ сам рекла Тому шта хоћу да купим.	contei	0	0
+Ela tem duas irmãs.	Она има две сестре.	irmãs	0	0
+Eu sou professora.	Ја сам професорка.	professora	0	0
+Todos os alunos da classe estão presentes.	Присутни су сви ученици одељења.	presentes	0	0
+O que facilmente se ganha, facilmente se perde.	Како дошло, тако и отишло.	facilmente	0	0
+Escute os seus pais!	Слушај своје родитеље!	escute	0	0
+Eles estavam na biblioteca ontem?	Да ли су они јуче били у библиотеци?	biblioteca	0	0
+Todos os alunos da classe estão presentes.	Присутни су сви ученици одељења.	alunos	0	0
+Ele bateu à porta.	Он је покуцао на врата.	bateu	0	0
+No princípio Deus criou os céus e a terra.	У почетку Бог је створио небо и Земљу.	criou	0	0
+Inacreditável, mas verdadeiro.	Невероватно, али истинито.	inacreditável	0	0
+Tom está usando um chapéu engraçado.	Том носи смешан шешир.	usando	0	0
+A conferência não foi um sucesso completo.	Конференција није била у потпуности успешна.	conferência	0	0
+Seu desenvolvimento mental foi lento.	Његов ментални развој је био спор.	mental	0	0
+Marina é da Rússia e a Clarissa é da Suécia.	Marina je iz Rusije, a Clarissa je iz Švedske.	rússia	0	0
+O que facilmente se ganha, facilmente se perde.	Како дошло, тако и отишло.	perde	0	0
+A capital da Sérvia é Belgrado.	Главни град Србије је Београд.	capital	0	0
+Você sabe o que significa esta frase?	Znaš li šta znači ova rečenica?	frase	0	0
+Ela é rica.	Ona je bogata.	rica	0	0
+Gosto muito de gatos.	Mnogo volim mačke.	gatos	0	0
+Os planetas giram ao redor de uma estrela.	Планете се окрећу око звезде.	redor	0	0
+Qual é o seu salário?	Колика вам је плата?	salário	0	0
+Sua esposa é uma escultora conhecida.	Његова супруга је познати вајар.	conhecida	0	0
+Para a próxima aula, quero que vocês transcrevam uma letra de música de qualquer cantor desde que essa esteja em inglês.	За следећи час, хоћу да препишете текст од било ког певача који је на енглеском језику.	letra	0	0
+O cachorro é meu.	Пас је мој.	cachorro	0	0
+Esperemos do lado de fora.	Чекајмо напољу.	esperemos	0	0
+As lojas estavam todas fechadas.	Све радње су биле затворене.	lojas	0	0
+Eu gosto de estudar idiomas estrangeiros.	Волим да студирам стране језике.	estrangeiros	0	0
+Seu desenvolvimento mental foi lento.	Његов ментални развој је био спор.	desenvolvimento	0	0
+Seu desenvolvimento mental foi lento.	Њен ментални развој је био спор.	lento	0	0
+Qual é seu apelido?	Како гласи твој надимак?	apelido	0	0
+Dá-me mil beijos.	Дај ми хиљаду пољубаца.	beijos	0	0
+Os planetas giram ao redor de uma estrela.	Планете се окрећу око звезде.	planetas	0	0
+Disciplina é a parte mais importante para o sucesso.	Дисциплина је најважнији део успеха.	disciplina	0	0
+Feliz Páscoa!	Срећан васкрс!	páscoa	0	0
+Tenho uma conta no Facebook.	Ја имам Фејсбук налог.	facebook	0	0
+As lojas estavam todas fechadas.	Све радње су биле затворене.	fechadas	0	0
+Estamos levando a mesa para o jardim.	Носимо сто у башту.	levando	0	0
+Para a próxima aula, quero que vocês transcrevam uma letra de música de qualquer cantor desde que essa esteja em inglês.	За следећи час, хоћу да препишете текст од било ког певача који је на енглеском језику.	cantor	0	0
+Marina é da Rússia e a Clarissa é da Suécia.	Marina je iz Rusije, a Clarissa je iz Švedske.	marina	0	0
+Maja Keuc é uma boa cantora.	Maja Keuc je dobra pevačica.	cantora	0	0
+Eu sou o Jorge.	Ja sam Jorge.	jorge	0	0
+Eu exijo demais?	Да ли захтевам превише?	exijo	0	0
+Quem nasce na Armênia é armênio.	Онај који се роди у Арменији је арменац.	nasce	0	0
+Por favor, contacte-me por email.	Молим те,контактирај ме путем имејла.	email	0	0
+Quero que você trabalhe mais.	Želim da više radiš.	trabalhe	0	0
+Marina é da Rússia e a Clarissa é da Suécia.	Marina je iz Rusije, a Clarissa je iz Švedske.	suécia	0	0
+Minha mãe é grega.	Moja mati je Grkinja.	grega	0	0
+Alguém roubou o meu guarda-chuvas na padaria.	Неко ми је украо кишобран у пекари.	padaria	0	0
+Você está com o zíper da sua calça aberto.	Отворен ти је шлиц.	calça	0	0
+O novo coronavírus é muito contagioso.	Нови коронавирус је веома заразан.	contagioso	0	0
+No Universo há muitas galáxias.	Postoji mnogo galaksija u univerzumu.	galáxias	0	0
+Nunca vi uma girafa.	Никада нисам видео жирафу.	girafa	0	0
+Votei a favor.	Гласао сам за.	votei	0	0
+Eles atravessam a área pedregosa.	Они ходају кроз камениту област.	atravessam	0	0
+Marina é da Rússia e a Clarissa é da Suécia.	Marina je iz Rusije, a Clarissa je iz Švedske.	clarissa	0	0
+Belgrado é a capital da Sérvia.	Београд је главни град Србије.	sérvia	0	0
+Pertence ao "terceiro" gênero.	Он припада "трећем" полу.	gênero	0	0
+Eu gosto de estudar idiomas estrangeiros.	Волим да студирам стране језике.	idiomas	0	0
+Eles riram do erro dele.	Они су се смејали због његове грешке.	riram	0	0
+Eu sabia que o Antônio podia vencer.	Знала сам да Антонио може да победи.	antônio	0	0
+Os planetas giram ao redor de uma estrela.	Планете се окрећу око звезде.	giram	0	0
+Sentámo-nos juntos, em silêncio, durante algum tempo.	Седели смо заједно у тишини неко време.	sentámo-nos	0	0
+Belgrado é a capital da Sérvia.	Београд је главни град Србије.	belgrado	0	0
+Alguém roubou o meu guarda-chuvas na padaria.	Неко ми је украо кишобран у пекари.	guarda-chuvas	0	0

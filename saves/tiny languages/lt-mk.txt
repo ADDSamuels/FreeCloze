@@ -1,0 +1,14 @@
+Aš korėjietis.	Кореец сум.	aš	0	0
+Ji nupirko jam šunį.	Таа му купи куче.	ji	0	0
+Aš turiu alaus pilvą.	Јас имам пивски стомак.	turiu	0	0
+Ji nupirko jam šunį.	Таа му купи куче.	jam	0	0
+Asteroidas sprogo virš Čeliabinsko Rusijoje.	Астероид експлодирал над Челjабинск, Русија.	virš	0	0
+Aš turiu alaus pilvą.	Јас имам пивски стомак.	alaus	0	0
+Labą rytą!	Добро утро!	rytą	0	0
+Ji nupirko jam šunį.	Таа му купи куче.	šunį	0	0
+Ji nupirko jam šunį.	Таа му купи куче.	nupirko	0	0
+Aš turiu alaus pilvą.	Јас имам пивски стомак.	pilvą	0	0
+Asteroidas sprogo virš Čeliabinsko Rusijoje.	Астероид експлодирал над Челjабинск, Русија.	sprogo	0	0
+Asteroidas sprogo virš Čeliabinsko Rusijoje.	Астероид експлодирал над Челjабинск, Русија.	rusijoje	0	0
+Labą rytą!	Добро утро!	labą	0	0
+Asteroidas sprogo virš Čeliabinsko Rusijoje.	Астероид експлодирал над Челjабинск, Русија.	asteroidas	0	0

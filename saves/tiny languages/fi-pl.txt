@@ -1,0 +1,1240 @@
+Minulla on uusi punainen auto.	Mam nowy czerwony samochód.	on	0	0
+Ei tule olemaan ensi kertaa.	Nie będzie następnego razu.	ei	0	0
+Esimerkiksi Suomessa ja Norjassa sataa paljon lunta talvisin.	W takich krajach jak Norwegia czy Finlandia zimą jest dużo śniegu.	ja	0	0
+Se tapahtuu vain kerran elämässä.	To się zdarza tylko raz w życiu.	se	0	0
+Hän käytti lahjapaperin (japanilainen kangaskääre) täysin hyväkseen.	W pełni wykorzystał chustkę.	hän	0	0
+En ymmärrä mitä hän yrittää sanoa.	Nie rozumiem, do czego on zmierza.	en	0	0
+Mitä hyötyä siitä on?	Jakie są z tego korzyści?	mitä	0	0
+Toivon että autatte minua.	Mam nadzieję, że mi pomożesz.	että	0	0
+Huoneessa ei ole ketään.	Nikogo nie ma w pokoju.	ole	0	0
+Olen kotona.	Jestem w domu.	olen	0	0
+Ainakin meillä oli hauskaa.	Przynajmniej dobrze się bawiłyśmy.	oli	0	0
+Se ei ole niin helppoa!	To nie jest takie proste!	niin	0	0
+Asun nyt Helsingissä, mutta olen kotoisin Kuopiosta.	Mieszkam teraz w Helsinkach, ale pochodzę z Kuopio.	mutta	0	0
+Olen tehnyt sen, mitä olet pyytänyt.	Zrobiłem to, o co prosiłaś.	sen	0	0
+Tatoeba on vain verkkosivu.	Tatoeba to tylko strona internetowa.	vain	0	0
+Minä opetan kiinaa.	Uczę chińskiego.	minä	0	0
+Jos satut muuttamaan mieltäsi, niin ilmoitathan siitä minulle.	Jeśli zmienisz zdanie, daj mi znać.	jos	0	0
+Tämä ei ole kalaa.	To nie jest ryba.	tämä	0	0
+Asun nyt Helsingissä, mutta olen kotoisin Kuopiosta.	Mieszkam teraz w Helsinkach, ale pochodzę z Kuopio.	nyt	0	0
+Lintu voi lentää.	Ptak może latać.	voi	0	0
+Oletko sinä sadisti?	Jesteś sadystą?	sinä	0	0
+Olen tehnyt sen, mitä olet pyytänyt.	Zrobiłam to, o co prosiłaś.	olet	0	0
+Kun maaliskuu tulee, monet kukat kukkivat.	W marcu zakwitło mnóstwo kwiatów.	kun	0	0
+Tiedän että tämä ei ollut sitä, mitä halusit.	Wiem, że to nie jest to, czego chciałaś.	sitä	0	0
+Tom oli pidempi kuin oletin.	Tom był wyższy, niż się spodziewałam.	kuin	0	0
+He kutsuivat minut pelaamaan korttia.	Zaprosili mnie na karty.	he	0	0
+Hänen pahojen tapojensa takia kukaan ei pidä hänestä.	Jest tak wredny, że nikt go nie lubi.	hänen	0	0
+Asuuko hän täällä?	Czy on tutaj mieszka?	täällä	0	0
+Tuo ei voi olla hyväksi terveydellesi, eihän?	Przecież to nie może być zdrowe, prawda?	olla	0	0
+Et tarvitse hyväksyntääni.	Nie potrzebujesz mojego poparcia.	et	0	0
+Kaikki hihittivät.	Wszyscy chichotali.	kaikki	0	0
+Missä minun elefanttini on?	Gdzie jest mój słoń?	minun	0	0
+Ne ovat vain krokotiilin kyyneliä.	Te łzy są sztuczne.	ovat	0	0
+Sää oli onneksi hyvä.	Na szczęście pogoda była ładna.	hyvä	0	0
+Toivon että autatte minua.	Mam nadzieję, że mi pomożesz.	minua	0	0
+Viisikymmentä (50) vuotta sitten kuka tahansa olisi voinut ostaa sen tontin.	50 lat temu każdy mógł kupić tę ziemię.	sitten	0	0
+Onko sinulla tili Facebookissa?	Masz konto na Facebooku?	onko	0	0
+Tom kummasteli miksi Mari vaikutti niin masentuneelta.	Tom zastanawiał się, czemu Mary wyglądała na załamaną.	miksi	0	0
+Kaipaan sinua.	Będę za tobą tęsknić.	sinua	0	0
+Mä en vittu tiedä miten tää lause pitäis kääntää. Käännä se ite, hoitaakoot jokainen omat paskansa.	Nie wiem jak, do kurwy nędzy, przetłumaczyć to zdanie. Sam je sobie przetłumacz, niech każdy zajmuje się swoimi pierdolonymi sprawami.	miten	0	0
+Sinun ei tarvitse puhua siitä, jollet halua.	Nie musisz o tym mówić, jeśli nie chcesz.	sinun	0	0
+Älä puhu ruoka suussa!	Nie mów z pełnymi ustami!	älä	0	0
+Älä siitä huoli!	Nie martw się o to.	siitä	0	0
+Kuinka haluat pysäyttää hänet?	Jak ją zatrzymasz?	hänet	0	0
+Mitään ei puutu.	Nic nie brakuje.	mitään	0	0
+En ole koskaan toivonut jonkun kuolemaa, mutta eräät kuolinilmoitukset olen kyllä lukenut mielelläni.	Nigdy nie życzyłam nikomu śmierci, ale niektóre nekrologi czytałam z przyjemnością.	kyllä	0	0
+Kiitos!	Dziękuję!	kiitos	0	0
+Hei, vanha ystävä!	Hej, stary przyjacielu!	hei	0	0
+Kerro minulle mikä tässä on ongelma.	Powiedz mi jaki jest problem.	mikä	0	0
+Se olisi hauskaa.	To byłoby zabawne.	olisi	0	0
+Ne ovat vain krokotiilin kyyneliä.	Te łzy są sztuczne.	ne	0	0
+Puhun Tomin kanssa.	Rozmawiam z Tomem.	kanssa	0	0
+Mary pitää television katselusta.	Mary lubi oglądać telewizję.	pitää	0	0
+Alkoholin käyttö lisääntyy joka vuosi.	Konsumpcja alkoholu rośnie co roku.	joka	0	0
+Tom ei ollut koskaan aikaisemmin tanssinut tytön kanssa.	Tom nigdy wcześniej nie tańczył z dziewczyną.	ollut	0	0
+Rakastan vain häntä.	Kocham tylko jego.	häntä	0	0
+Tässä on ravintola, jossa käyn usein syömässä.	To restauracja, w której często jadam.	tässä	0	0
+Mä en vittu tiedä miten tää lause pitäis kääntää. Käännä se ite, hoitaakoot jokainen omat paskansa.	Nie wiem jak, do kurwy nędzy, przetłumaczyć to zdanie. Sam je sobie przetłumacz, niech każdy zajmuje się swoimi pierdolonymi sprawami.	tiedä	0	0
+Älä valehtele minulle.	Nie kłam mi.	minulle	0	0
+Minulla on yksi poika.	Mam jednego syna.	minulla	0	0
+Meidän täytyy tehdä jotain.	Musimy coś zrobić.	jotain	0	0
+Ehkä se on totta.	Możliwe, że to prawda.	ehkä	0	0
+Tiedän missä hän on.	Wiem, gdzie on jest.	missä	0	0
+Tuo jotakin juotavaa.	Przynieś coś do picia.	tuo	0	0
+He kutsuivat minut pelaamaan korttia.	Zaprosili mnie na karty.	minut	0	0
+Vittu, me ollaan vanhoja!	Kurwa, jesteśmy starzy!	me	0	0
+Oletko uskonnollinen?	Czy jesteś wierząca?	oletko	0	0
+Kuka myi sinulle tämän auton?	Kto Ci sprzedał ten samochód?	kuka	0	0
+Tom oli hyvin onnellinen.	Tom był bardzo szczęśliwy.	hyvin	0	0
+Anteeksi että jouduitte odottamaan näin kauan.	Przepraszam, że musiałeś tyle na mnie czekać.	anteeksi	0	0
+Tämän koulun säännöt eivät ole kovinkaan tiukkoja.	W tej szkole dyscyplina jest raczej łagodna.	tämän	0	0
+Et ehkä muista minua, mutta minä muistan sinut.	Możesz mnie nie pamiętać, ale ja pamiętam ciebie.	sinut	0	0
+Annan sinulle autoni.	Dam ci mój samochód.	sinulle	0	0
+Kone on ollut rikki jo viime kuusta saakka.	Maszyna jest zepsuta od ubiegłego miesiąca.	jo	0	0
+Sinun ei pitäisi halveksia häntä vain koska hänen käsialansa on huono.	Nie pogardzaj nią tylko dlatego, że brzydko pisze.	koska	0	0
+Minä haluan asua Helsingissä.	Chcę mieszkać w Helsinkach.	haluan	0	0
+Kuinka kaukana olemme merestä?	Jak daleko od morza jesteśmy?	olemme	0	0
+Tiedän.	Wiem.	tiedän	0	0
+Tom ei yksinkertaisesti tiennyt mitä tehdä.	Tom po prostu nie wiedział co robić.	tehdä	0	0
+Meidän täytyy tehdä jotain.	Musimy coś zrobić.	meidän	0	0
+Me emme tiedä.	Nie wiemy.	emme	0	0
+En saa tätä ovea auki.	Nie mogę otworzyć tych drzwi.	saa	0	0
+Ei tule olemaan ensi kertaa.	Nie będzie następnego razu.	tule	0	0
+Tässä kirjassa on paljon kauniita kuvia.	W tej książce jest dużo pięknych ilustracji.	paljon	0	0
+Siellä ei ollut ristinsielua niin pitkälle kuin silmä kantoi.	Jak okiem sięgnąć, nie było żywej duszy.	siellä	0	0
+Anna minulle toinen syy.	Daj mi inny powód.	anna	0	0
+He eivät ole suomalaisia.	Oni nie są Finami.	eivät	0	0
+Varo ettet riko tätä vaasia.	Uwaga, proszę nie uszkodzić tego wazonu.	tätä	0	0
+Pulu on lentänyt pois.	Gołąb odleciał.	pois	0	0
+Hän kuoli ennen kuin saavuin sinne.	Zmarła, zanim tam dotarłem.	ennen	0	0
+Onko sinulla sanakirjaa?	Czy masz słownik?	sinulla	0	0
+Meidän täytyy tehdä jotain.	Musimy coś zrobić.	täytyy	0	0
+Naapurin koira haukkuu aina.	Pies sąsiada zawsze szczeka.	aina	0	0
+Kun maaliskuu tulee, monet kukat kukkivat.	W marcu zakwitło mnóstwo kwiatów.	tulee	0	0
+Annan sen takaisin.	Oddam to z powrotem.	takaisin	0	0
+Rakastan sinua, Herra!	Kocham cię, Panie!	herra	0	0
+Mistä olet kotoisin?	Skąd pochodzisz?	mistä	0	0
+Yksi on uusi, ja toinen on vanha.	Jeden jest nowy, a drugi stary.	yksi	0	0
+Te olitte onnellisia.	Wy byliście szczęśliwi.	te	0	0
+Mitä Jon tekee juuri nyt.	Co John teraz robi?	juuri	0	0
+Näin miehen kasvot ikkunassa.	Widziałam w oknie twarz mężczyzny.	näin	0	0
+Sinun ei tarvitse puhua siitä, jollet halua.	Nie musisz o tym mówić, jeśli nie chcesz.	halua	0	0
+Sinun ei pitäisi halveksia häntä vain koska hänen käsialansa on huono.	Nie pogardzaj nią tylko dlatego, że brzydko pisze.	pitäisi	0	0
+Kuinka haluat pysäyttää hänet?	Jak ją zatrzymasz?	kuinka	0	0
+En muista, asuuko Jussi Helsingissä vai Turussa?	Nie pamiętam, Jussi mieszka w Helsinkach czy w Turku?	vai	0	0
+Olen ollut kiireinen koko päivän.	Dziś byłem zajęty.	koko	0	0
+Ainakin meillä oli hauskaa.	Przynajmniej dobrze się bawiliśmy.	meillä	0	0
+Se oli vaikeampaa kuin olin odottanut.	To było trudniejsze, niż bym przypuszczała.	olin	0	0
+Lentokonetta ohjasi kaksi apinaa.	Samolotem sterowały dwie małpy.	kaksi	0	0
+Minun on kerrottava hänelle totuus huomenna.	Muszę jutro powiedzieć jej prawdę.	hänelle	0	0
+En halua mennä ulos ilman takkia näin kylmänä päivänä.	W taki zimny dzień nie chcę wychodzić na dwór bez płaszcza.	mennä	0	0
+Tom ei koskaan asunut Bostonissa.	Tom nigdy nie mieszkał w Bostonie.	koskaan	0	0
+Haluan tietää yksityiskohdat.	Chcę znać szczegóły.	tietää	0	0
+Mies kuoli ambulanssia odottaessaan.	Człowiek umarł czekając na karetkę.	mies	0	0
+Kiirehdimme, joten ehdimme viimeiseen bussiin.	Spieszyliśmy się, żeby się nie spóźnić na autobus.	joten	0	0
+Tämä ei ole ihan sitä, mitä halusin.	To nie zupełnie jest to, czego chciałem.	ihan	0	0
+No, se on monimutkaista.	No cóż, to jest skomplikowane.	no	0	0
+Ehkä se on totta.	Możliwe, że to prawda.	totta	0	0
+Hyvänen aika!	O mój Boże!	aika	0	0
+En usko, että hän kykenee siihen.	Obawiam się, że on nie może tego zrobić.	siihen	0	0
+Mene Tomin kanssa.	Idź z Tomem.	mene	0	0
+Lause on oikein.	Zdanie jest właściwe.	oikein	0	0
+Kuten haluat.	Jak chcesz.	kuten	0	0
+Minusta meidän pitäisi odottaa vähän pidempään.	Myślę, że musimy jeszcze trochę poczekać.	vähän	0	0
+Mistä olette kotoisin?	Skąd pochodzicie?	olette	0	0
+Se äiti oli todella väsynyt.	Mama była wyczerpana.	äiti	0	0
+Hän sanoo olevansa kiireinen eikä ole ottanut minuun pitkään aikaan yhteyttä.	Od dawna się ze mną nie kontaktował, pod pretekstem, że jest zajęty.	eikä	0	0
+Se äiti oli todella väsynyt.	Mama była wyczerpana.	todella	0	0
+Muutaman tunnin nokoset tekevät sinulle hyvää.	Kilka godzin snu dobrze by ci zrobiło.	hyvää	0	0
+Liisalle voit uskoutua, hän ei kerro kenellekään.	Lisie możesz ufać, nikomu nie powie.	voit	0	0
+Tarvitaan vain aikaa.	Potrzeba tylko chwili.	aikaa	0	0
+Hänen pahojen tapojensa takia kukaan ei pidä hänestä.	Jest tak wredny, że nikt go nie lubi.	kukaan	0	0
+Mitä haluat syödä lounaaksi?	Co chcesz na obiad?	haluat	0	0
+Tulisitko sinä myös mukaan?	Pojedziesz z nami?	mukaan	0	0
+Älä ota minusta kuvia silloin kun minä syön.	Nie rób mi zdjęć, kiedy jem.	minusta	0	0
+Hän ei myönnä itse olevansa väärässä.	Ona nie przyznaje się do błędu.	itse	0	0
+Tulisitko sinä myös mukaan?	Pojedziesz z nami?	myös	0	0
+Hän toisti itselleen, ettei saa kertoa niin monia valheita.	Powtarzał sobie, że nie powinien tyle kłamać.	ettei	0	0
+Tuota noin, se on mutkikasta.	No cóż, to jest skomplikowane.	noin	0	0
+En halua mennä ulos ilman takkia näin kylmänä päivänä.	W taki zimny dzień nie chcę wychodzić na dwór bez płaszcza.	ulos	0	0
+Hänellä oli kolme poikaa joista tuli asianajajia.	Miał trzech synów, którzy zostali prawnikami.	hänellä	0	0
+Teit sen taas.	Znów to zrobiłeś.	taas	0	0
+Haluaisin tulla Picassoksi.	Chciałbym być Picassem.	tulla	0	0
+Kun ylität sillan, älä katso alas.	Kiedy przechodzisz przez most, nie patrz w dół.	katso	0	0
+Hänen pahojen tapojensa takia kukaan ei pidä hänestä.	Jest tak wredny, że nikt go nie lubi.	pidä	0	0
+Heidän on kuoltava.	Oni muszą umrzeć.	heidän	0	0
+Yritä puhua englantia niin usein kuin mahdollista, jos haluat parantaa englantiasi.	Postaraj się mówić po angielsku tak często, jak to możliwe, jeśli chcesz poprawić swój angielski.	puhua	0	0
+Olemme menossa leffaan tänään illalla.	Idziemy dziś wieczorem do kina.	tänään	0	0
+Olen pahoillani kun en voi lähteä kanssasi.	Przykro mi, ale nie mogę iść z tobą.	pahoillani	0	0
+Kerro terveisiä vanhemmillesi.	Przekaż pozdrowienia rodzicom.	kerro	0	0
+Hänellä oli kolme poikaa joista tuli asianajajia.	Miał trzech synów, którzy zostali prawnikami.	tuli	0	0
+Etkö tiedä, mitä eilen tapahtui?	Nie wiesz co się wczoraj stało?	etkö	0	0
+Jumala meitä auttakoot.	Niech Bóg nam dopomoże.	meitä	0	0
+Tom meni kotiin masentuneena.	Tom poszedł do domu załamany.	kotiin	0	0
+Tee minulle voileipä.	Zrób mi kanapkę.	tee	0	0
+Se näyttää tutulta.	Wygląda znajomo.	näyttää	0	0
+Viisikymmentä (50) vuotta sitten kuka tahansa olisi voinut ostaa sen tontin.	50 lat temu każdy mógł kupić tę ziemię.	vuotta	0	0
+Ovi on nyt kiinni.	Drzwi są teraz zamknięte.	kiinni	0	0
+Minä vain inhoa nähdä Tomin itkevän.	Po prostu nienawidzę patrzeć na to, jak Tom płacze.	nähdä	0	0
+En halua mennä ulos ilman takkia näin kylmänä päivänä.	W taki zimny dzień nie chcę wychodzić na dwór bez płaszcza.	ilman	0	0
+Saammekohan koskaan tietää mitä tapahtui?	Jestem ciekawa, czy kiedykolwiek dowiemy się co się stało.	tapahtui	0	0
+Selittäisitkö kuinka sinne pääsee.	Wyjaśnij mi, jak tam dojechać.	sinne	0	0
+En ymmärrä mitä hän yrittää sanoa.	Nie rozumiem, do czego on zmierza.	sanoa	0	0
+Helvetistä on varattu erityinen sopukka heille, jotka syövät elokuvateatterissa.	W piekle jest specjalne miejsce dla tych, którzy jedzą w kinie.	jotka	0	0
+Haluatko että puhun suomea vai englantia?	Czy chcesz, żebym mówił po fińsku czy po angielsku?	haluatko	0	0
+Olen tottunut tähän kylmään säähän.	Jestem przyzwyczajony do tej zimnej pogody.	tähän	0	0
+Hän sairastui kolme vuotta sitten.	Zachorował trzy lata temu.	kolme	0	0
+Et tarvitse hyväksyntääni.	Nie potrzebujesz mojego poparcia.	tarvitse	0	0
+Minun mielestäni sinun pitäisi kertoa vanhemmillesi, että me olemme naimisissa.	Myślę, że powinieneś powiedzieć swoim rodzicom, że jesteśmy małżeństwem.	kertoa	0	0
+Älä ota minusta kuvia silloin kun minä syön.	Nie rób mi zdjęć, kiedy jem.	ota	0	0
+Isäni vei meidät eläintarhaan eilen.	Tata zabrał nas wczoraj do zoo.	meidät	0	0
+Odota kuuteen.	Poczekaj do szóstej.	odota	0	0
+Milloin seuraava bussi Helsinkiin menee?	Kiedy odchodzi następny autobus do Helsinek?	menee	0	0
+En ole koskaan nähnyt matkoillani kauniimpaa vuorta kuin Everest.	W czasie mych podróży nie widziałem piękniejszej góry niż Everest.	nähnyt	0	0
+En yksinkertaisesti pidä hänestä.	Po prostu go nie lubię.	hänestä	0	0
+Olen tehnyt sen, mitä olet pyytänyt.	Zrobiłem to, o co prosiłaś.	tehnyt	0	0
+Mitä Jon tekee juuri nyt.	Co John teraz robi?	tekee	0	0
+Sanoin, älä tee sitä.	Powiedziałem nie rób tego.	sanoin	0	0
+En usko, että hän kykenee siihen.	Obawiam się, że on nie może tego zrobić.	usko	0	0
+Muinaiset suomalaiset uskoivat sielun olevan lintu, joka lentää kehon ulkopuolella ihmisen nukkuessa.	Starożytni Finowie wierzyli, że dusza jest ptakiem, który wylatuje z ciała, gdy człowiek śpi.	olevan	0	0
+Hänen pahojen tapojensa takia kukaan ei pidä hänestä.	Jest tak wredny, że nikt go nie lubi.	takia	0	0
+Se varas löi ikkunan sisään.	Złodziej zbił okno.	sisään	0	0
+Minulla on yksi poika.	Mam jednego syna.	poika	0	0
+Sinä olit ensimmäinen tyttö, jonka kanssa koskaan suutelin.	Byłaś pierwszą dziewczyną, jaką kiedykolwiek pocałowałem.	jonka	0	0
+Luuletko, että voimme ratkaista tämän ongelman ilman Tomin apua?	Myślisz, że możemy rozwiązać ten problem bez pomocy Toma?	voimme	0	0
+Sinä olit ensimmäinen tyttö, jota koskaan suutelin.	Byłaś pierwszą dziewczyną, jaką kiedykolwiek pocałowałem.	olit	0	0
+Valitse mieleisesi tavara (tuote, asia).	Weź sobie jedno - to, które ci się najbardziej podoba.	asia	0	0
+Sain kirjallisen kutsun.	Otrzymałem zaproszenie.	sain	0	0
+Tiedätkö syyn, miksi hän on niin vihainen?	Znasz powód, dlaczego ona jest tak zirytowana?	tiedätkö	0	0
+Rakastan Jumalaa.	Kocham Boga.	rakastan	0	0
+Tarvitsen kannettavan tietokoneen.	Potrzebuję laptopa.	tarvitsen	0	0
+Se koira oli kuollut.	Pies był nieżywy.	kuollut	0	0
+Siksi valehtelin.	Dlatego skłamałem	siksi	0	0
+Hän luulee olevansa aina oikeassa.	Ona uważa, że ma zawsze rację.	oikeassa	0	0
+Koirani haukkuu koko ajan.	Mój pies szczeka cały czas.	ajan	0	0
+Tomi pesee tukkansa vain kerran viikossa.	Tom myje włosy tylko raz na tydzień.	kerran	0	0
+Olen pahoillani kun en voi lähteä kanssasi.	Przykro mi, ale nie mogę iść z tobą.	lähteä	0	0
+Hän teki tilaa vanhalle rouvalle.	Zrobiła miejsce dla starszej kobiety.	teki	0	0
+Olen valmis.	Jestem gotowy.	valmis	0	0
+Yksi on uusi, ja toinen on vanha.	Jeden jest nowy, a drugi stary.	toinen	0	0
+Se tapahtuu vain kerran elämässä.	To się zdarza tylko raz w życiu.	tapahtuu	0	0
+Pidän englannista, mutta en osaa puhua sitä hyvin.	Lubię angielski, ale nie umiem dobrze mówić.	pidän	0	0
+Älä ota minusta kuvia silloin kun minä syön.	Nie rób mi zdjęć, kiedy jem.	silloin	0	0
+Ainakin meillä oli hauskaa.	Przynajmniej dobrze się bawiłyśmy.	hauskaa	0	0
+En voinut syödä appelsiinia, koska se maistui erittäin happamalta.	Pomarańcza była tak kwaśna, że nie mogłem jej zjeść.	voinut	0	0
+Tulen jos sää sallii.	Przyjdę, jeśli pogoda pozwoli.	tulen	0	0
+Tomin kanssa jutteleva tyttö on Mary.	Dziewczyna, która rozmawia z Tomem, to Mary.	tyttö	0	0
+Hän oli ainoa nainen.	Ona była jedyną kobietą.	nainen	0	0
+Anteeksi että jouduitte odottamaan näin kauan.	Przepraszam, że musiałeś tyle na mnie czekać.	kauan	0	0
+Mutta minulla ei ole yhtään rahaa.	Ale nie mam żadnych pieniędzy.	rahaa	0	0
+Käytän joskus saksia purkinavaajana.	Czasami używam nożyczek jako otwieracza do puszek	joskus	0	0
+Minä tahdon lisää pekonia.	Ja chcę więcej bekonu.	lisää	0	0
+Luuletko, että voimme ratkaista tämän ongelman ilman Tomin apua?	Myślisz, że możemy rozwiązać ten problem bez pomocy Toma?	apua	0	0
+Minä vihaan tuota kissaa.	Nienawidzę tego kota.	tuota	0	0
+Lopeta!	Stój!	lopeta	0	0
+Tom meni kotiin masentuneena.	Tom poszedł do domu załamany.	meni	0	0
+Minä puhun ranskaa joka päivä.	Codziennie mówię po francusku.	päivä	0	0
+Kolmas kerta tällä viikolla.	Trzeci raz w tym tygodniu.	tällä	0	0
+Ei tule olemaan ensi kertaa.	Nie będzie następnego razu.	kertaa	0	0
+Tohtori Skeleton tunnetaan hänen aavetutkimuksestaan.	Dr Skeleton znany jest ze swych badań nad duchami.	tohtori	0	0
+Pimeässä ajaminen tuntuu lentämiseltä!	Prowadzenie samochodu po ciemku jest niczym latanie.	tuntuu	0	0
+Menen Tomin kanssa.	Idę z Tomem.	menen	0	0
+Hän opiskelee yötä päivää.	On się uczy dzień i noc.	päivää	0	0
+Pyydä Tomia tulemaan huomenna.	Poproś Toma by przyszedł jutro.	huomenna	0	0
+Viikonloppuisin nousin myöhemmin kuin tavallisesti.	W weekendy wstawałam później niż zwykle.	myöhemmin	0	0
+Minulla on uusi punainen auto.	Mam nowy czerwony samochód.	uusi	0	0
+Tämä on täsmälleen sitä, mitä halusin.	To jest dokładnie to, czego chciałem.	halusin	0	0
+Hän oli ainoa nainen.	Ona była jedyną kobietą.	ainoa	0	0
+Minusta meidän pitäisi odottaa vähän pidempään.	Myślę, że musimy jeszcze trochę poczekać.	odottaa	0	0
+Luulen, että olet saanut tartunnan.	Myślę, że zostałaś zarażona.	saanut	0	0
+En ole koskaan toivonut jonkun kuolemaa, mutta eräät kuolinilmoitukset olen kyllä lukenut mielelläni.	Nigdy nie życzyłam nikomu śmierci, ale niektóre nekrologi czytałam z przyjemnością.	jonkun	0	0
+Milloin seuraava bussi Helsinkiin menee?	Kiedy odchodzi następny autobus do Helsinek?	milloin	0	0
+Sinä olet paras.	Jesteś najlepszy.	paras	0	0
+Parempi myöhään kuin ei milloinkaan.	Lepiej późno niż wcale.	parempi	0	0
+Sinä olit ensimmäinen tyttö, jota koskaan suutelin.	Byłaś pierwszą dziewczyną, jaką kiedykolwiek pocałowałem.	jota	0	0
+Hän osaa laulaa.	Ona umie śpiewać.	osaa	0	0
+Näin outoa unta viime yönä.	Ostatniej nocy miałem dziwny sen.	viime	0	0
+Tom istui alas ja odotti.	Tom usiadł i czekał.	alas	0	0
+Tämä paikka on tylsä.	To miejsce jest nudne.	paikka	0	0
+Tein sen humalassa.	Zrobiłem to po pijanemu.	tein	0	0
+Teit sen taas.	Znów to zrobiłeś.	teit	0	0
+Avioliitto muuttaa ihmisiä.	Małżeństwo zmienia ludzi.	ihmisiä	0	0
+Huoneessa ei ole ketään.	Nikogo nie ma w pokoju.	ketään	0	0
+Tuo jotakin juotavaa.	Przynieś coś do picia.	jotakin	0	0
+Japanissa uusi lukuvuosi alkaa huhtikuussa.	W Japonii rok szkolny zaczyna się w kwietniu.	alkaa	0	0
+Näin miehen kasvot ikkunassa.	Widziałam w oknie twarz mężczyzny.	miehen	0	0
+Ymmärrän sinua tiettyyn pisteeseen asti.	Rozumiem cię poniekąd.	ymmärrän	0	0
+Työmme on melkein ohi.	Prawie skończyliśmy naszą pracę.	ohi	0	0
+En ymmärrä mitä hän yrittää sanoa.	Nie rozumiem, do czego on zmierza.	ymmärrä	0	0
+Minulla on sama ongelma.	Mam ten sam problem.	sama	0	0
+Luulen, että Tom tuntee olonsa hieman stressaantuneeksi.	Myślę, że Tom czuje się trochę zestresowany.	hieman	0	0
+En muista mikä hänen nimensä on.	Nie pamiętam jak ona ma na imię.	muista	0	0
+Yritän uudestaan.	Spróbuję jeszcze raz.	yritän	0	0
+Hän ei kuuntele opettajiaan.	Nie słucha swoich nauczycieli.	kuuntele	0	0
+Eräs herra Sakaki on tullut tapaamaan sinua.	Pan Sakaki przyszedł na spotkanie z tobą.	tullut	0	0
+Tämä ei ole oikea timantti.	To nie jest prawdziwy diament.	oikea	0	0
+Riittää!	Dość!	riittää	0	0
+Tom ei yksinkertaisesti tiennyt mitä tehdä.	Tom po prostu nie wiedział co robić.	tiennyt	0	0
+Isäni on töissä pankissa.	Mój ojciec pracuje w banku.	isäni	0	0
+Kävin kylässä jossa hän oli syntynyt.	Odwiedziłem wieś, w której on się urodził.	jossa	0	0
+En ole vanha.	Nie jestem stary.	vanha	0	0
+Tomi kuoli maanantaiaamuna.	Tom zmarł w poniedziałek rano.	kuoli	0	0
+Hevonen meni taloni läpi.	Koń przeszedł przez mój dom.	läpi	0	0
+Voi vittu helvetti, minkälainen idiootti kehtaa soittaa mulle keskellä yötä?	Do kurwy nędzy, co za idiota mógł do mnie dzwonić w środku nocy?	soittaa	0	0
+Otan muutaman päivän vapaata.	Biorę kilka dni wolnych.	otan	0	0
+Haluaisin tulla Picassoksi.	Chciałbym być Picassem.	haluaisin	0	0
+Saanko esittäytyä?	Czy mogę się przedstawić?	saanko	0	0
+Hän sanoo olevansa kiireinen eikä ole ottanut minuun pitkään aikaan yhteyttä.	Od dawna się ze mną nie kontaktował, pod pretekstem, że jest zajęty.	minuun	0	0
+Hän ei koskaan puhu pahaa muista ihmisistä.	Ona nigdy nie mówi źle o innych ludziach.	puhu	0	0
+Oravat oppivat nopeasti.	Wiewiórki szybko się uczą.	nopeasti	0	0
+Voinko tulla huomennakin?	Czy jutro też mogę przyjść?	voinko	0	0
+Olen pahoillani kun en voi lähteä kanssasi.	Przykro mi, ale nie mogę iść z tobą.	kanssasi	0	0
+Tunnen itseni täysin avuttomaksi.	Czuję się kompletnie bezsilny.	täysin	0	0
+Saksalaisen ystäväni nimi on Hans.	Mój przyjaciel z Niemiec nazywa się Hans.	nimi	0	0
+Nuorella insinöörillä ei ollut tarpeeksi kokemusta.	Młodemu inżynierowi brakowało doświadczenia.	tarpeeksi	0	0
+Onpa iso koira!	Ależ wielki pies!	iso	0	0
+Ymmärrän sinua tiettyyn pisteeseen asti.	Rozumiem cię poniekąd.	asti	0	0
+Helvetistä on varattu erityinen sopukka heille, jotka syövät elokuvateatterissa.	W piekle jest specjalne miejsce dla tych, którzy jedzą w kinie.	heille	0	0
+Varo ettet riko tätä vaasia.	Uwaga, proszę nie uszkodzić tego wazonu.	ettet	0	0
+Luulen, että Tom tuntee olonsa hieman stressaantuneeksi.	Myślę, że Tom czuje się trochę zestresowany.	luulen	0	0
+Viisikymmentä (50) vuotta sitten kuka tahansa olisi voinut ostaa sen tontin.	50 lat temu każdy mógł kupić tę ziemię.	tahansa	0	0
+Kiltti, älä kuole.	Nie umieraj, proszę.	kiltti	0	0
+En ymmärrä mitä hän yrittää sanoa.	Nie rozumiem, do czego on zmierza.	yrittää	0	0
+Ainakin meillä oli hauskaa.	Przynajmniej dobrze się bawiłyśmy.	ainakin	0	0
+Ensimmäinen vuodenaika on kevät.	Pierwszą porą roku jest wiosna.	ensimmäinen	0	0
+Tom katsoi eilen TV:tä.	Tom oglądał wczoraj telewizję.	eilen	0	0
+Varkaat veivät mukanaan kaikki rahat kassakaapista.	Włamywacze ukradli całe pieniądze z sejfu.	rahat	0	0
+Pysy lähellä.	Zostań blisko.	pysy	0	0
+Hän puhuu liikaa.	On mówi zbyt dużo.	liikaa	0	0
+Kuulin sen suoraan naapuriltani.	Powiedział mi o tym bezpośrednio sąsiad.	kuulin	0	0
+Olet laiskin ihminen, jonka tunnen.	Jesteś najbardziej leniwą osobą, jaką znam.	tunnen	0	0
+Kukaan meistä ei ole eri mieltä hänen kanssaan.	Wśród nas nie ma nikogo, kto by się przeciwstawiał jej poglądom.	mieltä	0	0
+Rakkaus on teini-ikäisiä varten.	Miłość jest dla nastolatków.	varten	0	0
+Hän sanoo olevansa kiireinen eikä ole ottanut minuun pitkään aikaan yhteyttä.	Od dawna się ze mną nie kontaktował, pod pretekstem, że jest zajęty.	sanoo	0	0
+Bob veloittaa ruohonleikkuusta kolme dollaria tunnilta.	Bob brał 3 dolary za godzinę strzyżenia trawnika.	dollaria	0	0
+Tomin kotona on kummituksia.	Dom Tomiego jest nawiedzony.	kotona	0	0
+Kukaan ei kertonut minulle siitä.	Nikt mi o tym nie powiedział.	kertonut	0	0
+Työmme on melkein loppu.	Prawie skończyliśmy naszą pracę.	melkein	0	0
+Se poika on sairas vaikkei näytä siltä.	Chłopak jest chory, choć nie wygląda.	näytä	0	0
+Se poika on sairas vaikkei näytä siltä.	Chłopak jest chory, choć nie wygląda.	siltä	0	0
+Kukaan meistä ei ole eri mieltä hänen kanssaan.	Wśród nas nie ma nikogo, kto by się przeciwstawiał jej poglądom.	meistä	0	0
+Emme tunne toisiamme.	Nie znamy się.	tunne	0	0
+Kukaan meistä ei ole eri mieltä hänen kanssaan.	Wśród nas nie ma nikogo, kto by się przeciwstawiał jej poglądom.	eri	0	0
+En pysty juoda näin makeaa kahvia.	Nie mogę wypić tak słodkiej kawy.	pysty	0	0
+Tomi halusi lisää tietoa.	Tom chciał więcej informacji.	halusi	0	0
+Haluan uskoa.	Chciałbym wierzyć.	uskoa	0	0
+Luuletko, että voimme ratkaista tämän ongelman ilman Tomin apua?	Myślisz, że możemy rozwiązać ten problem bez pomocy Toma?	luuletko	0	0
+Kukaan meistä ei ole eri mieltä hänen kanssaan.	Wśród nas nie ma nikogo, kto by się przeciwstawiał jej poglądom.	kanssaan	0	0
+Xalbo, kenelle sinä puhut?	Xalbo, do kogo mówisz?	puhut	0	0
+Tom meni suoraan sänkyyn.	Tom poszedł prosto do łóżka.	suoraan	0	0
+Hän sanoo olevansa kiireinen eikä ole ottanut minuun pitkään aikaan yhteyttä.	Od dawna się ze mną nie kontaktował, pod pretekstem, że jest zajęty.	aikaan	0	0
+On järkevää säästää rahaa pahan päivän varalle.	Mądrze jest oszczędzać pieniądze na czarną godzinę.	päivän	0	0
+Tietenkin!	Oczywiście!	tietenkin	0	0
+Saksalaisen ystäväni nimi on Hans.	Mój przyjaciel z Niemiec nazywa się Hans.	ystäväni	0	0
+Löysin paikan vaivatta.	Bez trudu znalazł miejsce.	löysin	0	0
+Odotin kymmenen minuuttia.	Czekałem dziesięć minut.	minuuttia	0	0
+Jumala loi maailman.	Bóg stworzył świat.	maailman	0	0
+Jumala loi maailman.	Bóg stworzył świat.	jumala	0	0
+Mitä tämä sateenvarjo maksaa?	Ile kosztuje ten parasol?	maksaa	0	0
+Minulla on uusi punainen auto.	Mam nowy czerwony samochód.	auto	0	0
+Voitko suositella hyvää kameraa?	Czy możesz mi polecić dobry aparat?	voitko	0	0
+Mä en vittu tiedä miten tää lause pitäis kääntää. Käännä se ite, hoitaakoot jokainen omat paskansa.	Nie wiem jak, do kurwy nędzy, przetłumaczyć to zdanie. Sam je sobie przetłumacz, niech każdy zajmuje się swoimi pierdolonymi sprawami.	mä	0	0
+Olemme menossa leffaan tänään illalla.	Idziemy dziś wieczorem do kina.	menossa	0	0
+Tervetuloa Helsinkiin, Suomen pääkapunkiin!	Witamy w Helsinkach, stolicy Finlandii!	tervetuloa	0	0
+Pysy lähellä.	Zostań blisko.	lähellä	0	0
+Se ei näyttänyt kovin helpolta.	To nie wyglądało tak łatwo.	kovin	0	0
+Kerro minulle mikä tässä on ongelma.	Powiedz mi jaki jest problem.	ongelma	0	0
+Hän opiskelee yötä päivää.	On się uczy dzień i noc.	yötä	0	0
+Jätä minulle pala kakkua.	Zostaw dla mnie kawałek ciasta.	jätä	0	0
+Ei tule olemaan ensi kertaa.	Nie będzie następnego razu.	ensi	0	0
+Mutta minulla ei ole yhtään rahaa.	Ale nie mam żadnych pieniędzy.	yhtään	0	0
+Yritä puhua englantia niin usein kuin mahdollista, jos haluat parantaa englantiasi.	Postaraj się mówić po angielsku tak często, jak to możliwe, jeśli chcesz poprawić swój angielski.	yritä	0	0
+Muistatko minut?	Pamiętasz mnie?	muistatko	0	0
+Tuo mekko sopii sinulle erittäin hyvin.	Ta suknia dobrze leży.	sopii	0	0
+En halua mennä ulos ilman takkia näin kylmänä päivänä.	W taki zimny dzień nie chcę wychodzić na dwór bez płaszcza.	päivänä	0	0
+Voi vittu helvetti, minkälainen idiootti kehtaa soittaa mulle keskellä yötä?	Do kurwy nędzy, co za idiota mógł do mnie dzwonić w środku nocy?	helvetti	0	0
+Minä soitan viulua.	Gram na skrzypcach.	soitan	0	0
+Terve. Oletko sinä Jackie Scott?	Cześć. Jesteś Jackie Scott?	terve	0	0
+Annan sinulle autoni.	Dam ci mój samochód.	annan	0	0
+Kissa ei ole ihminen.	Kot to nie człowiek.	ihminen	0	0
+Sinun ei pitäisi halveksia häntä vain koska hänen käsialansa on huono.	Nie pogardzaj nią tylko dlatego, że brzydko pisze.	huono	0	0
+Huoneessa oli kolme miestä.	W pokoju było trzech mężczyzn.	miestä	0	0
+En ole huolissani heistä.	Nie martwię się o nich.	heistä	0	0
+Tämä lause ei ole väärin.	To zdanie nie jest błędne.	väärin	0	0
+Jane ui paremmin kuin Yumi.	Jane pływa lepiej niż Yumi.	paremmin	0	0
+Sinun pitäisi käydä silmälääkärissä.	Powinieneś iść do okulisty zbadać wzrok.	käydä	0	0
+Sää oli onneksi hyvä.	Na szczęście pogoda była ładna.	onneksi	0	0
+Isäni on töissä pankissa.	Mój ojciec pracuje w banku.	töissä	0	0
+Älä unohda tehdä mitä pyysin.	Nie zapomnij zrobić tego, o co prosiłem.	unohda	0	0
+Kaikkien elämä on monimutkaista.	Życie każdego jest skomplikowane.	kaikkien	0	0
+Kun taiteilija vanhenee, hänen maalaustyylinsä saattaa muuttua.	Z wiekiem malarzowi może zmieniać się styl.	saattaa	0	0
+On todella tärkeää pitää lupauksensa.	Dotrzymywanie słowa jest bardzo ważne.	tärkeää	0	0
+Minulla on paha olo.	Marnie się czuję.	paha	0	0
+Yritän uudestaan.	Spróbuję jeszcze raz.	uudestaan	0	0
+Et ehkä muista minua, mutta minä muistan sinut.	Możesz mnie nie pamiętać, ale ja pamiętam ciebie.	muistan	0	0
+Koira lähti pois.	Pies uciekł.	lähti	0	0
+Minun kissani tappoi oravan.	Mój kot zabił wiewiórkę.	tappoi	0	0
+Muutaman tunnin nokoset tekevät sinulle hyvää.	Kilka godzin snu dobrze by ci zrobiło.	tunnin	0	0
+Ovi on nyt kiinni.	Drzwi są teraz zamknięte.	ovi	0	0
+Helpommin sanottu kuin tehty.	Łatwiej powiedzieć niż zrobić.	tehty	0	0
+Jokainen koira on elossa.	Wszystkie psy są żywe.	elossa	0	0
+Näin outoa unta viime yönä.	Ostatniej nocy miałem dziwny sen.	outoa	0	0
+Avioliitto muuttaa ihmisiä.	Małżeństwo zmienia ludzi.	muuttaa	0	0
+Elämä Japanissa on kallista.	Życie w Japonii jest drogie.	elämä	0	0
+Kuka myi sinulle tämän auton?	Kto Ci sprzedał ten samochód?	auton	0	0
+Tom ei ollut koskaan aikaisemmin tanssinut tytön kanssa.	Tom nigdy wcześniej nie tańczył z dziewczyną.	tytön	0	0
+Missä voisimme soittaa?	Skąd można zadzwonić?	voisimme	0	0
+Vittu, me ollaan vanhoja!	Kurwa, jesteśmy starzy!	vittu	0	0
+Puhun ranskaa joka päivä.	Codziennie mówię po francusku.	puhun	0	0
+Avaa!	Otwórz się.	avaa	0	0
+Näytelmä oli ohjelmistossa kuusi kuukautta.	Sztuka szła przez pół roku.	kuusi	0	0
+Toivon että autatte minua.	Mam nadzieję, że mi pomożesz.	toivon	0	0
+Ei tule olemaan ensi kertaa.	Nie będzie następnego razu.	olemaan	0	0
+Laita televisio pienemmälle.	Wyłącz telewizor.	laita	0	0
+Tilanne on hyvin monimutkainen.	Ta sytuacja jest bardzo skomplikowana.	tilanne	0	0
+Yritä puhua englantia niin usein kuin mahdollista, jos haluat parantaa englantiasi.	Postaraj się mówić po angielsku tak często, jak to możliwe, jeśli chcesz poprawić swój angielski.	mahdollista	0	0
+En voinut syödä appelsiinia, koska se maistui erittäin happamalta.	Pomarańcza była tak kwaśna, że nie mogłem jej zjeść.	erittäin	0	0
+Kukat tekevät huoneesta kirkkaamman.	Kwiaty rozjaśniły pokój.	tekevät	0	0
+Seuraa tuota autoa.	Jedź za tym samochodem.	seuraa	0	0
+Löysin paikan vaivatta.	Bez trudu znalazł miejsce.	paikan	0	0
+En saa tätä ovea auki.	Nie mogę otworzyć tych drzwi.	auki	0	0
+Me ollaan kavereita Facebookissa.	Jesteśmy znajomymi na Facebooku.	ollaan	0	0
+Missäpäin Helsinkiä sä asut?	Gdzie w Helsinkach mieszkasz?	sä	0	0
+Jokainen koira on elossa.	Wszystkie psy są żywe.	jokainen	0	0
+Tiedätkö syyn, miksi hän on niin vihainen?	Znasz powód, dlaczego ona jest tak zirytowana?	vihainen	0	0
+Hei, vanha ystävä!	Hej, stary przyjacielu!	ystävä	0	0
+Tuo ei voi olla hyväksi terveydellesi, eihän?	Przecież to nie może być zdrowe, prawda?	eihän	0	0
+Tässä on ravintola, jossa käyn usein syömässä.	To restauracja, w której często jadam.	usein	0	0
+Älä luota poliitikkoihin.	Nie ufaj politykom.	luota	0	0
+Olemme menossa leffaan tänään illalla.	Idziemy dziś wieczorem do kina.	illalla	0	0
+Hän ei myönnä itse olevansa väärässä.	Ona nie przyznaje się do błędu.	väärässä	0	0
+Tom pyysi Maria odottamaan häntä kirjaston edessä.	Tom poprosił Mary, żeby poczekała na niebo przed biblioteką.	edessä	0	0
+Haluatko tosiaan lähettää Marille kukkia?	Naprawdę chcesz wysyłać Mary kwiaty?	tosiaan	0	0
+Anna minulle toinen syy.	Daj mi inny powód.	syy	0	0
+Onpa iso koira!	Ależ wielki pies!	onpa	0	0
+Paljonko tämä punainen hattu maksaa?	Ile kosztuje ten czerwony kapelusz?	paljonko	0	0
+Odotin kymmenen minuuttia.	Czekałem dziesięć minut.	kymmenen	0	0
+Hän sanoo olevansa kiireinen eikä ole ottanut minuun pitkään aikaan yhteyttä.	Od dawna się ze mną nie kontaktował, pod pretekstem, że jest zajęty.	yhteyttä	0	0
+En muista mikä hänen nimensä on.	Nie pamiętam jak ona ma na imię.	nimensä	0	0
+Kuinka kaukana olemme merestä?	Jak daleko od morza jesteśmy?	kaukana	0	0
+Se ei ole niin helppoa!	To nie jest takie proste!	helppoa	0	0
+Se idea on todella houkutteleva.	To rzeczywiście atrakcyjna koncepcja.	idea	0	0
+Tom puhuu ranskaa harvoin.	Tom rzadko mówi po francusku.	puhuu	0	0
+Tomi ei pelkää käärmeitä.	Tom nie boi się węży.	pelkää	0	0
+Hän rakastaa junia.	On kocha pociągi.	rakastaa	0	0
+Anna kun esittelen itseni.	Pozwólcie, że się przedstawię.	itseni	0	0
+Isäni vei meidät eläintarhaan eilen.	Tata zabrał nas wczoraj do zoo.	vei	0	0
+Katsotaan televisiota.	Chodźmy oglądać telewizję.	katsotaan	0	0
+Hän syö päivällistä kotona.	Ona je obiad w domu.	syö	0	0
+En voinut syödä appelsiinia, koska se maistui erittäin happamalta.	Pomarańcza była tak kwaśna, że nie mogłem jej zjeść.	syödä	0	0
+Missä näit pojan?	Gdzie widziałeś chłopca?	pojan	0	0
+Määräaika on mennyt umpeen.	Ostateczny termin minął.	mennyt	0	0
+Hän sanoo olevansa kiireinen eikä ole ottanut minuun pitkään aikaan yhteyttä.	Od dawna się ze mną nie kontaktował, pod pretekstem, że jest zajęty.	pitkään	0	0
+Jos olet lukenut sen kirjan loppuun, niin minä haluaisin lainata sen.	Kiedy skończysz tę książkę, chciałbym ją przeczytać.	loppuun	0	0
+Näytelmä oli ohjelmistossa kuusi kuukautta.	Sztuka szła przez pół roku.	kuukautta	0	0
+Milloin seuraava bussi Helsinkiin menee?	Kiedy odchodzi następny autobus do Helsinek?	seuraava	0	0
+Eräs herra Sakaki on tullut tapaamaan sinua.	Pan Sakaki przyszedł na spotkanie z tobą.	eräs	0	0
+Varo ettet riko tätä vaasia.	Uwaga, proszę nie uszkodzić tego wazonu.	varo	0	0
+Tom meni suoraan sänkyyn.	Tom poszedł prosto do łóżka.	tom	0	0
+Millainen on ihannemiehesi?	Jaki jest twój wymarzony mężczyzna?	millainen	0	0
+Tämä on talo missä olen syntynyt ja kasvanut.	To jest dom, gdzie się urodziłem i dorastałem.	talo	0	0
+Viisikymmentä (50) vuotta sitten kuka tahansa olisi voinut ostaa sen tontin.	50 lat temu każdy mógł kupić tę ziemię.	ostaa	0	0
+Hän otti hämähäkin kiinni.	On schwytał pająka.	otti	0	0
+Tapaaminen tulisi järjestää ensi torstaina.	Zebranie jest w przyszły czwartek.	tulisi	0	0
+Tarvitaan vain aikaa.	Potrzeba tylko chwili.	tarvitaan	0	0
+Kolmas kerta tällä viikolla.	Trzeci raz w tym tygodniu.	kerta	0	0
+Minun on kerrottava hänelle totuus huomenna.	Muszę jutro powiedzieć jej prawdę.	totuus	0	0
+Tässä on ravintola, jossa käyn usein syömässä.	To restauracja, w której często jadam.	käyn	0	0
+Pidän kovasti hiuksistasi.	Uwielbiam twoje włosy.	kovasti	0	0
+Hän näki hiiren.	Zobaczył mysz.	näki	0	0
+Tomi halusi lisää tietoa.	Tom chciał więcej informacji.	tietoa	0	0
+Karja näkee nälkää.	Bydło głoduje.	näkee	0	0
+Tom tiesi mitä Mari halusi.	Tom wiedział czego chciała Mary.	tiesi	0	0
+Se oli pelkkä pusu.	To był tylko pocałunek.	pelkkä	0	0
+Työmme on melkein loppu.	Prawie skończyliśmy naszą pracę.	loppu	0	0
+Älä siitä huoli!	Nie martw się o to.	huoli	0	0
+Annoin hänelle lahjan kiitoksena hänen kiltteydestään.	Wręczyłem jej upominek za jej uprzejmość.	annoin	0	0
+Tom pyysi Maria odottamaan häntä kirjaston edessä.	Tom poprosił Mary, żeby poczekała na niebo przed biblioteką.	pyysi	0	0
+Otan muutaman päivän vapaata.	Biorę kilka dni wolnych.	muutaman	0	0
+Tiedän että tämä ei ollut sitä, mitä halusit.	Wiem, że to nie jest to, czego chciałaś.	halusit	0	0
+Minun mielestäni sinun pitäisi kertoa vanhemmillesi, että me olemme naimisissa.	Myślę, że powinieneś powiedzieć swoim rodzicom, że jesteśmy małżeństwem.	naimisissa	0	0
+Minun täytyy selvittää mitä tapahtui.	Muszę dowiedzieć się co się stało.	selvittää	0	0
+Peter rakastaa Janea.	Peter kocha Jane.	peter	0	0
+Kolmas kerta tällä viikolla.	Trzeci raz w tym tygodniu.	viikolla	0	0
+En pysty juoda näin makeaa kahvia.	Nie mogę wypić tak słodkiej kawy.	kahvia	0	0
+Selittäisitkö kuinka sinne pääsee.	Wyjaśnij mi, jak tam dojechać.	pääsee	0	0
+Eräs herra Sakaki on tullut tapaamaan sinua.	Pan Sakaki przyszedł na spotkanie z tobą.	tapaamaan	0	0
+Tom oli todella onnellinen.	Tom był naprawdę szczęśliwy.	onnellinen	0	0
+Tämä on kaupungin suurin museo.	To największe muzeum miasta.	kaupungin	0	0
+Olet kotona melko aikaisin.	Jesteś w domu dosyć wcześnie.	melko	0	0
+Minä vihaan tuota kissaa.	Nienawidzę tego kota.	vihaan	0	0
+Tämä on kaupungin suurin museo.	To największe muzeum miasta.	suurin	0	0
+Haluatko tosiaan lähettää Marille kukkia?	Naprawdę chcesz wysyłać Mary kwiaty?	lähettää	0	0
+Hän ei koskaan puhu pahaa muista ihmisistä.	Ona nigdy nie mówi źle o innych ludziach.	pahaa	0	0
+Se poika on sairas vaikkei näytä siltä.	Chłopak jest chory, choć nie wygląda.	sairas	0	0
+Alkoholin käyttö lisääntyy joka vuosi.	Konsumpcja alkoholu rośnie co roku.	vuosi	0	0
+Mikä ihana lahja!	Cóż za wspaniały prezent!	ihana	0	0
+Hae hattuni.	Przynieś mi kapelusz.	hae	0	0
+Näin outoa unta viime yönä.	Ostatniej nocy miałem dziwny sen.	yönä	0	0
+Hän asuu Lontoossa.	Ona mieszka w Londynie.	asuu	0	0
+Te olitte onnellisia.	Wy byliście szczęśliwi.	olitte	0	0
+Minun pitäisi mennä jo nukkumaan.	Chyba już pójdę spać.	nukkumaan	0	0
+Voi vittu helvetti, minkälainen idiootti kehtaa soittaa mulle keskellä yötä?	Do kurwy nędzy, co za idiota mógł do mnie dzwonić w środku nocy?	idiootti	0	0
+En tiedä siitä lähes mitään.	Na ten temat nie wiem prawie nic.	lähes	0	0
+Hän ajattelee aina ensimmäisenä omaa etuaan.	Zawsze myśli przede wszystkim o własnej korzyści.	omaa	0	0
+Se ei ole kissa. Se on koira.	To nie jest kot. To pies.	koira	0	0
+Hän on ollut kiireinen eilisestä lähtien.	Jest zajęta od wczoraj.	lähtien	0	0
+Muinaiset suomalaiset uskoivat sielun olevan lintu, joka lentää kehon ulkopuolella ihmisen nukkuessa.	Starożytni Finowie wierzyli, że dusza jest ptakiem, który wylatuje z ciała, gdy człowiek śpi.	ihmisen	0	0
+Pyydä Tomia tulemaan huomenna.	Poproś Toma by przyszedł jutro.	pyydä	0	0
+Ole varovainen. Lattia on liukas.	Bądź ostrożny. Podłoga jest śliska.	varovainen	0	0
+Minun mielestäni sinun pitäisi kertoa vanhemmillesi, että me olemme naimisissa.	Myślę, że powinnaś powiedzieć swoim rodzicom, że jesteśmy małżeństwem.	mielestäni	0	0
+Kyokoa ei saa puhumaan juhlissa millään.	Wciągnięcie nieśmiałej Kyoko do rozmowy na imprezie to sprawa beznadziejna.	puhumaan	0	0
+Miten upea näkymä!	Jaki wspaniały widok!	upea	0	0
+Kuka toi on?	Kto to jest?	toi	0	0
+Puhuin Tomin kanssa.	Rozmawiałem z Tomem.	puhuin	0	0
+Meidän täytyy puuttua asiaan.	Musimy interweniować.	asiaan	0	0
+Hän ei myönnä itse olevansa väärässä.	Ona nie przyznaje się do błędu.	olevansa	0	0
+Minä tahdon lisää pekonia.	Ja chcę więcej bekonu.	tahdon	0	0
+Kreikka ei ole helppo kieli.	Grecki nie jest łatwym językiem.	helppo	0	0
+Kävin kylässä jossa hän oli syntynyt.	Odwiedziłem wieś, w której on się urodził.	kävin	0	0
+Hän teki tilaa vanhalle rouvalle.	Zrobiła miejsce dla starszej kobiety.	tilaa	0	0
+Voi vittu helvetti, minkälainen idiootti kehtaa soittaa mulle keskellä yötä?	Do kurwy nędzy, co za idiota mógł do mnie dzwonić w środku nocy?	keskellä	0	0
+Missä näit pojan?	Gdzie widziałeś chłopca?	näit	0	0
+Rakkaus on parempaa kuin seksi.	Miłość jest lepsza niż seks.	parempaa	0	0
+Talossa kummittelee.	Dom jest nawiedzony.	talossa	0	0
+Kun maaliskuu tulee, monet kukat kukkivat.	W marcu zakwitło mnóstwo kwiatów.	monet	0	0
+Näin outoa unta viime yönä.	Ostatniej nocy miałem dziwny sen.	unta	0	0
+Mascarpone voidaan myös korvata kermalla.	Możesz też zastąpić mascarpone śmietaną.	voidaan	0	0
+Xalbo, kenelle sinä puhut?	Xalbo, do kogo mówisz?	kenelle	0	0
+Minä unohdin.	Zapomniałem.	unohdin	0	0
+Älä vittu koske muhun saatanan runkkari!	Zabieraj ode mnie swoje pierdolone łapy, skurwysynu!	koske	0	0
+Aikoinaan ajateltiin, että ihmisen on mahdotonta lentää.	Kiedyś uważano, że człowiek nie może latać.	mahdotonta	0	0
+Pidin sitä protestina.	Wziąłem to za protest.	pidin	0	0
+Olisiko sinulla aikaa?	Masz czas?	olisiko	0	0
+Tomia täytyy suojella.	Tom musi być chroniony.	suojella	0	0
+Tom on kaikista vahvin.	Tom jest najsilniejszy.	kaikista	0	0
+Mikä näistä koirista on sinun koirasi?	Który pies jest twój?	näistä	0	0
+Älä unohda tehdä mitä pyysin.	Nie zapomnij zrobić tego, o co prosiłem.	pyysin	0	0
+Tom on paljon vanhempi kuin Mary.	Tom jest dużo starszy od Mary.	mary	0	0
+En ole koskaan toivonut jonkun kuolemaa, mutta eräät kuolinilmoitukset olen kyllä lukenut mielelläni.	Nigdy nie życzyłam nikomu śmierci, ale niektóre nekrologi czytałam z przyjemnością.	mielelläni	0	0
+Liisalle voit uskoutua, hän ei kerro kenellekään.	Lisie możesz ufać, nikomu nie powie.	kenellekään	0	0
+Älä ota minusta kuvia silloin kun minä syön.	Nie rób mi zdjęć, kiedy jem.	kuvia	0	0
+En juo paljon viiniä.	Nie piję dużo wina.	juo	0	0
+Bob veloittaa ruohonleikkuusta kolme dollaria tunnilta.	Bob brał 3 dolary za godzinę strzyżenia trawnika.	bob	0	0
+Tunnetko ketään Bostonista?	Czy znasz kogoś w Bostonie?	tunnetko	0	0
+Los Angeles on Yhdysvaltain toiseksi suurin kaupunki.	Los Angeles jest drugim największym miastem w Stanach Zjednoczonych.	kaupunki	0	0
+He sanovat, että hän olisi sairas.	Mówią, że jest chory.	sanovat	0	0
+Tie on liukas. Aja varovasti!	Droga jest śliska. Jedź ostrożnie!	aja	0	0
+Hän luulee olevansa aina oikeassa.	Ona uważa, że ma zawsze rację.	luulee	0	0
+Tom lukee Raamattua.	Tom czyta Biblię.	lukee	0	0
+En ole huolissani heistä.	Nie martwię się o nich.	huolissani	0	0
+Minulla on paha olo.	Marnie się czuję.	olo	0	0
+Alussa oli Sana.	Na początku było Słowo.	sana	0	0
+Meditointi ei maksa mitään, mutta vaatii aikaa.	Medytacja nic nie kosztuje, ale wymaga czasu.	vaatii	0	0
+Pääseekö tätä tietä asemalle?	Czy ta ulica prowadzi do dworca?	tietä	0	0
+Tuo ei voi olla hyväksi terveydellesi, eihän?	Przecież to nie może być zdrowe, prawda?	hyväksi	0	0
+Siellä ei ollut ristinsielua niin pitkälle kuin silmä kantoi.	Jak okiem sięgnąć, nie było żywej duszy.	pitkälle	0	0
+Osaatko vastata tähän kysymykseen?	Możesz odpowiedzieć na to pytanie?	vastata	0	0
+Hän sanoo olevansa kiireinen eikä ole ottanut minuun pitkään aikaan yhteyttä.	Od dawna się ze mną nie kontaktował, pod pretekstem, że jest zajęty.	ottanut	0	0
+Se oli vaikeampaa kuin olin odottanut.	To było trudniejsze, niż bym przypuszczała.	odottanut	0	0
+Hänellä on kaksi autoa.	On ma dwa samochody.	autoa	0	0
+Muinaiset suomalaiset uskoivat sielun olevan lintu, joka lentää kehon ulkopuolella ihmisen nukkuessa.	Starożytni Finowie wierzyli, że dusza jest ptakiem, który wylatuje z ciała, gdy człowiek śpi.	ulkopuolella	0	0
+Tie on liukas. Aja varovasti!	Droga jest śliska. Jedź ostrożnie!	varovasti	0	0
+En ole koskaan toivonut jonkun kuolemaa, mutta eräät kuolinilmoitukset olen kyllä lukenut mielelläni.	Nigdy nie życzyłam nikomu śmierci, ale niektóre nekrologi czytałam z przyjemnością.	kuolemaa	0	0
+Mä en vittu tiedä miten tää lause pitäis kääntää. Käännä se ite, hoitaakoot jokainen omat paskansa.	Nie wiem jak, do kurwy nędzy, przetłumaczyć to zdanie. Sam je sobie przetłumacz, niech każdy zajmuje się swoimi pierdolonymi sprawami.	omat	0	0
+Huoneessa oli kolme miestä.	W pokoju było trzech mężczyzn.	huoneessa	0	0
+Voisinko vaihtaa tämän käteiseksi?	Czy mógłbym zmienić to na gotówkę?	vaihtaa	0	0
+Rakkaus on parempaa kuin seksi.	Miłość jest lepsza niż seks.	rakkaus	0	0
+Tom uskoo Jumalaan.	Tom wierzy w Boga.	uskoo	0	0
+Puhelin on yksi Bellin lukuisista keksinnöistä.	Telefon to jeden z wielu wynalazków Bella.	puhelin	0	0
+En ymmärrä saksaa lainkaan.	Wcale nie rozumiem języka niemieckiego.	lainkaan	0	0
+Hän toisti itselleen, ettei saa kertoa niin monia valheita.	Powtarzał sobie, że nie powinien tyle kłamać.	monia	0	0
+Olen raskaana.	Jestem w ciąży.	raskaana	0	0
+Luulen, että Tom tuntee olonsa hieman stressaantuneeksi.	Myślę, że Tom czuje się trochę zestresowany.	tuntee	0	0
+Ulkomailla asuminen on paras keino oppia vieraita kieliä.	Mieszkanie za granicą jest najlepszym sposobem na nauczenie się obcego języka.	keino	0	0
+Tämän koulun säännöt eivät ole kovinkaan tiukkoja.	W tej szkole dyscyplina jest raczej łagodna.	koulun	0	0
+Mitä hyötyä siitä on?	Jakie są z tego korzyści?	hyötyä	0	0
+Tämä ei ole missään nimessä sitä, mitä halusin.	To zupełnie nie jest to, czego chciałem.	missään	0	0
+Jane ui paremmin kuin Yumi.	Jane pływa lepiej niż Yumi.	jane	0	0
+Mikä ihana lahja!	Cóż za wspaniały prezent!	lahja	0	0
+Tykkäätkö pelata pelejä?	Lubisz grać w gry?	pelata	0	0
+Se äiti oli todella väsynyt.	Mama była wyczerpana.	väsynyt	0	0
+Kuinka haluat pysäyttää hänet?	Jak ją zatrzymasz?	pysäyttää	0	0
+Muinaiset suomalaiset uskoivat sielun olevan lintu, joka lentää kehon ulkopuolella ihmisen nukkuessa.	Starożytni Finowie wierzyli, że dusza jest ptakiem, który wylatuje z ciała, gdy człowiek śpi.	lentää	0	0
+Hän käytti lahjapaperin (japanilainen kangaskääre) täysin hyväkseen.	W pełni wykorzystał chustkę.	käytti	0	0
+Miesten WC on oikealla ja naisten WC on vasemmalla.	Męska toaleta jest po prawo, a damska po lewo.	naisten	0	0
+Parempi myöhään kuin ei milloinkaan.	Lepiej późno niż wcale.	myöhään	0	0
+Kolmas kerta tällä viikolla.	Trzeci raz w tym tygodniu.	kolmas	0	0
+Ulkomailla asuminen on paras keino oppia vieraita kieliä.	Mieszkanie za granicą jest najlepszym sposobem na nauczenie się obcego języka.	oppia	0	0
+En ole ollut ulkomailla koskaan aikaisemmin.	Nigdy wcześniej nie byłem za granicą.	aikaisemmin	0	0
+Hänellä oli tytär.	Miał córkę.	tytär	0	0
+Tuo jotakin juotavaa.	Przynieś coś do picia.	juotavaa	0	0
+Tämä on kirjaston kirja.	To książka z biblioteki.	kirja	0	0
+Haluaisin asua Australiassa.	Chciałbym mieszkać w Australii.	asua	0	0
+Tuotako ajattelet?	Czy to jest to, co naprawdę myślisz?	ajattelet	0	0
+Kotka on valkoinen.	Orzeł jest biały.	valkoinen	0	0
+Tom tykkää matkustaa.	Tom lubi podróżować.	tykkää	0	0
+Kone on ollut rikki jo viime kuusta saakka.	Maszyna jest zepsuta od ubiegłego miesiąca.	kone	0	0
+Tom huomasi Maryn olleen oikeassa.	Tom zrozumiał, że Mary miała rację.	olleen	0	0
+Hänellä oli kolme poikaa joista tuli asianajajia.	Miał trzech synów, którzy zostali prawnikami.	joista	0	0
+Tapaaminen tulisi järjestää ensi torstaina.	Zebranie jest w przyszły czwartek.	järjestää	0	0
+Kaipaan sinua.	Będę za tobą tęsknić.	kaipaan	0	0
+Miesten WC on oikealla ja naisten WC on vasemmalla.	Męska toaleta jest po prawo, a damska po lewo.	miesten	0	0
+Emme tunne toisiamme.	Nie znamy się.	toisiamme	0	0
+Jos olet lukenut sen kirjan loppuun, niin minä haluaisin lainata sen.	Kiedy skończysz tę książkę, chciałbym ją przeczytać.	kirjan	0	0
+Kiltti, älä kuole.	Nie umieraj, proszę.	kuole	0	0
+Hänellä oli kolme poikaa joista tuli asianajajia.	Miał trzech synów, którzy zostali prawnikami.	poikaa	0	0
+Olen nyt valmis lähtemään.	Jestem gotów do wyjścia.	lähtemään	0	0
+Tom aina puuttuu minun vaatteisiini.	Tom zawsze komentuje moje ubrania.	puuttuu	0	0
+Tom ei tajunnut, että hän oli tehnyt virheen.	Tom nie zorientował się, że popełnił błąd.	virheen	0	0
+Pyydä Tomia tulemaan huomenna.	Poproś Toma by przyszedł jutro.	tulemaan	0	0
+En koskaan juo teetä maidon kanssa.	Nigdy nie piję herbaty z mlekiem.	teetä	0	0
+Vittu, me ollaan vanhoja!	Kurwa, jesteśmy starzy!	vanhoja	0	0
+Kumpi on vahvempi, tiikeri vai leijona?	Co jest silniejsze: tygrys czy lew?	kumpi	0	0
+Kone on ollut rikki jo viime kuusta saakka.	Maszyna jest zepsuta od ubiegłego miesiąca.	saakka	0	0
+Minulla on uusi punainen auto.	Mam nowy czerwony samochód.	punainen	0	0
+Jos olet lukenut sen kirjan loppuun, niin minä haluaisin lainata sen.	Kiedy skończysz tę książkę, chciałbym ją przeczytać.	lukenut	0	0
+Sain kirjallisen kutsun.	Otrzymałem zaproszenie.	kutsun	0	0
+Jos ajat varovaisesti, vältät onnettomuudet.	Jak będziesz jeździł ostrożnie, unikniesz wypadków.	ajat	0	0
+En pysty juoda näin makeaa kahvia.	Nie jestem w stanie wypić tak słodkiej kawy.	juoda	0	0
+Asun nyt Helsingissä, mutta olen kotoisin Kuopiosta.	Mieszkam teraz w Helsinkach, ale pochodzę z Kuopio.	asun	0	0
+Käänny oikealle seuraavasta risteyksestä.	Skręć w prawo na następnym skrzyżowaniu.	käänny	0	0
+Tom pystyy kävelemään käsillään.	Tom umie chodzić na rękach.	pystyy	0	0
+Odotin kymmenen minuuttia.	Czekałem dziesięć minut.	odotin	0	0
+Olet kotona melko aikaisin.	Jesteś w domu dosyć wcześnie.	aikaisin	0	0
+Tom meni suoraan sänkyyn.	Tom poszedł prosto do łóżka.	sänkyyn	0	0
+Los Angeles on Yhdysvaltain toiseksi suurin kaupunki.	Los Angeles jest drugim największym miastem w Stanach Zjednoczonych.	los	0	0
+Hän ajattelee aina ensimmäisenä omaa etuaan.	Zawsze myśli przede wszystkim o własnej korzyści.	ensimmäisenä	0	0
+Isäni polttaa.	Mój ojciec pali.	polttaa	0	0
+En juo paljon viiniä.	Nie piję dużo wina.	viiniä	0	0
+Tom pyysi Maria odottamaan häntä kirjaston edessä.	Tom poprosił Mary, żeby poczekała na niebo przed biblioteką.	maria	0	0
+Meditointi ei maksa mitään, mutta vaatii aikaa.	Medytacja nic nie kosztuje, ale wymaga czasu.	maksa	0	0
+Hän kirjoitti kirjeen.	On napisał list.	kirjoitti	0	0
+Kuolemasi on oleva hidas ja tuskallinen.	Twoja śmierć będzie powolna i bolesna.	oleva	0	0
+Tomilla oli rakastavat vanhemmat.	Tom miał kochająch rodziców.	vanhemmat	0	0
+Älä puhu ruoka suussa!	Nie mów z pełnymi ustami!	ruoka	0	0
+Tie on märkä ja liukas.	Droga jest mokra i śliska.	tie	0	0
+Tämä planeetta kiertää kahta tähteä.	Ta planeta krąży wokół dwóch gwiazd.	kahta	0	0
+Tomi pesee tukkansa vain kerran viikossa.	Tom myje włosy tylko raz na tydzień.	viikossa	0	0
+Olen tehnyt sen, mitä olet pyytänyt.	Zrobiłem to, o co prosiłaś.	pyytänyt	0	0
+Tom ei osaa laulaa.	Tom nie umie śpiewać.	laulaa	0	0
+Tapaaminen tulisi järjestää ensi torstaina.	Zebranie jest w przyszły czwartek.	tapaaminen	0	0
+Terve. Oletko sinä Jackie Scott?	Cześć. Jesteś Jackie Scott?	scott	0	0
+Tuo kauppa myy lihaa.	W tym sklepie sprzedaje się mięso.	myy	0	0
+Älä vittu koske muhun saatanan runkkari!	Zabieraj ode mnie swoje pierdolone łapy, skurwysynu!	saatanan	0	0
+Näin miehen kasvot ikkunassa.	Widziałem twarz mężczyzny w oknie.	kasvot	0	0
+Hän surmasi lohikäärmeen ja pelasti prinsessan.	Zabił smoka i uratował księżniczkę.	pelasti	0	0
+Kyokoa ei saa puhumaan juhlissa millään.	Wciągnięcie nieśmiałej Kyoko do rozmowy na imprezie to sprawa beznadziejna.	millään	0	0
+Esimerkiksi Suomessa ja Norjassa sataa paljon lunta talvisin.	W takich krajach jak Norwegia czy Finlandia zimą jest dużo śniegu.	esimerkiksi	0	0
+Käytän joskus saksia purkinavaajana.	Czasami używam nożyczek jako otwieracza do puszek	käytän	0	0
+Hyvänen aika!	O mój Boże!	hyvänen	0	0
+Käänny oikealle seuraavasta risteyksestä.	Skręć w prawo na następnym skrzyżowaniu.	oikealle	0	0
+Jos tahdot rauhaa, valmistaudu sotaan.	Jeśli chcesz pokoju, przugotuj się na wojnę.	tahdot	0	0
+Mä en vittu tiedä miten tää lause pitäis kääntää. Käännä se ite, hoitaakoot jokainen omat paskansa.	Nie wiem jak, do kurwy nędzy, przetłumaczyć to zdanie. Sam je sobie przetłumacz, niech każdy zajmuje się swoimi pierdolonymi sprawami.	tää	0	0
+Kone on ollut rikki jo viime kuusta saakka.	Maszyna jest zepsuta od ubiegłego miesiąca.	rikki	0	0
+Vanhempani nukkuvat.	Moi rodzice śpią.	vanhempani	0	0
+Milloin hän pelaa tennistä?	Kiedy on gra w tenisa?	pelaa	0	0
+Tämän koulun säännöt eivät ole kovinkaan tiukkoja.	W tej szkole dyscyplina jest raczej łagodna.	säännöt	0	0
+Aurinko paistaa.	Słońce świeci.	aurinko	0	0
+Olen ollut kiireinen koko päivän.	Dziś byłem zajęty.	kiireinen	0	0
+Varkaat veivät mukanaan kaikki rahat kassakaapista.	Włamywacze ukradli całe pieniądze z sejfu.	mukanaan	0	0
+Älä valehtele Tomille.	Nie kłam Tomowi.	valehtele	0	0
+Hän ei koskaan puhu pahaa muista ihmisistä.	Ona nigdy nie mówi źle o innych ludziach.	ihmisistä	0	0
+Helpommin sanottu kuin tehty.	Łatwiej powiedzieć niż zrobić.	sanottu	0	0
+Tom osti japani–kiina-sanakirjan.	Tom kupił słownik japońsko-chiński.	osti	0	0
+Yritä puhua englantia niin usein kuin mahdollista, jos haluat parantaa englantiasi.	Postaraj się mówić po angielsku tak często, jak to możliwe, jeśli chcesz poprawić swój angielski.	parantaa	0	0
+Autoni on saksalainen.	Mój samochód jest niemiecki.	autoni	0	0
+Hän on minua päätä pitempi.	On jest o głowę wyższy ode mnie.	päätä	0	0
+Hän vastasi kymmenessä minuutissa kaikkiin kysymyksiin.	On w dziesięć minut odpowiedział na wszystkie pytania.	minuutissa	0	0
+Anteeksi että jouduitte odottamaan näin kauan.	Przepraszam, że musiałeś tyle na mnie czekać.	odottamaan	0	0
+Osaatko vastata tähän kysymykseen?	Możesz odpowiedzieć na to pytanie?	osaatko	0	0
+Se tapahtuu vain kerran elämässä.	To się zdarza tylko raz w życiu.	elämässä	0	0
+Minun ei tee mieli halailla.	Nie mam ochoty się przytulać.	mieli	0	0
+Tom katsoo meitä.	Tom na nas patrzy.	katsoo	0	0
+Jos olet lukenut sen kirjan loppuun, niin minä haluaisin lainata sen.	Kiedy skończysz tę książkę, chciałbym ją przeczytać.	lainata	0	0
+Tom vaikutti nolostuneelta.	Tom wyglądał na zawstydzonego.	vaikutti	0	0
+Tässä kirjassa on paljon kauniita kuvia.	W tej książce jest dużo pięknych ilustracji.	kauniita	0	0
+Hän rakasti häntä ennen.	Kochał ją kiedyś.	rakasti	0	0
+Mari ei rakasta miestään.	Mary nie kocha swojego męża.	rakasta	0	0
+Älä nuku pommiin.	Nie zaśpij.	nuku	0	0
+Tom nukahti lukiessaan kirjaa.	Tom zasnął czytając książkę.	kirjaa	0	0
+Turku on Helsinkiä vanhempi.	Turku jest starsze od Helsinek.	vanhempi	0	0
+Eilen iltapäivällä kirjoitin kirjeen.	Wczoraj po południu napisałem list.	kirjeen	0	0
+Tom nukkuu.	Tom śpi.	nukkuu	0	0
+Kissa nukkuu sohvalla.	Kot śpi na kanapie.	kissa	0	0
+Miesten WC on oikealla ja naisten WC on vasemmalla.	Męska toaleta jest po prawo, a damska po lewo.	oikealla	0	0
+Tämä on kaupunki, jossa hän syntyi.	To miasto, w którym się urodził.	syntyi	0	0
+Eilen iltapäivällä kirjoitin kirjeen.	Wczoraj po południu napisałem list.	kirjoitin	0	0
+Haluatko että puhun suomea vai englantia?	Czy chcesz, żebym mówił po fińsku czy po angielsku?	englantia	0	0
+Ymmärrän mitä sanotte.	Rozumiem co mówisz.	sanotte	0	0
+Älä ota minusta kuvia silloin kun minä syön.	Nie rób mi zdjęć, kiedy jem.	syön	0	0
+Se varas löi ikkunan sisään.	Złodziej zbił okno.	löi	0	0
+Varkaat veivät mukanaan kaikki rahat kassakaapista.	Włamywacze ukradli całe pieniądze z sejfu.	veivät	0	0
+Tuo kauppa myy lihaa.	W tym sklepie sprzedaje się mięso.	lihaa	0	0
+Tom ei tajunnut, että hän oli tehnyt virheen.	Tom nie zorientował się, że popełnił błąd.	tajunnut	0	0
+Seuraa lääkepakkauksen ohjeita tarkasti.	Kiedy bierzesz lekarstwa, uważaj na instrukcje na butelce.	tarkasti	0	0
+Minä en asu Helsingissä.	Nie mieszkam w Helsinkach.	asu	0	0
+Tom laittoi lompakkonsa pöydälle.	Tom położył swój portfel na stół.	laittoi	0	0
+Hän ajattelee aina ensimmäisenä omaa etuaan.	Zawsze myśli przede wszystkim o własnej korzyści.	ajattelee	0	0
+Kun taiteilija vanhenee, hänen maalaustyylinsä saattaa muuttua.	Z wiekiem malarzowi może zmieniać się styl.	muuttua	0	0
+Voisinko vaihtaa tämän käteiseksi?	Czy mógłbym zmienić to na gotówkę?	voisinko	0	0
+Et ymmärtänyt.	Nie rozumiałaś.	ymmärtänyt	0	0
+Kukat kuolivat vedenpuutteeseen.	Rośliny zmarniały z braku wody.	kuolivat	0	0
+Ulkomailla asuminen on paras keino oppia vieraita kieliä.	Mieszkanie za granicą jest najlepszym sposobem na nauczenie się obcego języka.	vieraita	0	0
+Tein sen humalassa.	Zrobiłem to po pijanemu.	humalassa	0	0
+Jos tahdot rauhaa, valmistaudu sotaan.	Jeśli chcesz pokoju, przugotuj się na wojnę.	rauhaa	0	0
+Alussa oli Sana.	Na początku było Słowo.	alussa	0	0
+Lasi on puhdas.	Ta szklanka jest czysta.	puhdas	0	0
+Me ollaan kavereita Facebookissa.	Jesteśmy znajomymi na Facebooku.	kavereita	0	0
+Haluatko tosiaan lähettää Marille kukkia?	Naprawdę chcesz wysyłać Mary kwiaty?	kukkia	0	0
+Lopetetaanko työt?	Kończymy pracę?	työt	0	0
+Missäpäin Helsinkiä sä asut?	Gdzie w Helsinkach mieszkasz?	asut	0	0
+Se näyttää tutulta.	Wygląda znajomo.	tutulta	0	0
+Hän toisti itselleen, ettei saa kertoa niin monia valheita.	Powtarzał sobie, że nie powinien tyle kłamać.	itselleen	0	0
+Kerro terveisiä vanhemmillesi.	Przekaż pozdrowienia rodzicom.	terveisiä	0	0
+Valitse mieleisesi tavara (tuote, asia).	Weź sobie jedno - to, które ci się najbardziej podoba.	valitse	0	0
+Olen kotoisin Sapporosta.	Pochodzę z Sapporo.	kotoisin	0	0
+Tämä on talo missä olen syntynyt ja kasvanut.	To jest dom, gdzie się urodziłem i dorastałem.	syntynyt	0	0
+Tiedätkö syyn, miksi hän on niin vihainen?	Znasz powód, dlaczego ona jest tak zirytowana?	syyn	0	0
+Eilen iltapäivällä kirjoitin kirjeen.	Wczoraj po południu napisałem list.	iltapäivällä	0	0
+Miksi sinä kysyt?	Czemu pytasz?	kysyt	0	0
+Olen kännissä.	Jestem pijana.	kännissä	0	0
+Esimerkiksi Suomessa ja Norjassa sataa paljon lunta talvisin.	W takich krajach jak Norwegia czy Finlandia zimą jest dużo śniegu.	sataa	0	0
+Tom koputti ovea ja odotti.	Tom zapukał do drzwi i czekał.	ovea	0	0
+On järkevää säästää rahaa pahan päivän varalle.	Mądrze jest oszczędzać pieniądze na czarną godzinę.	pahan	0	0
+Mistä sinä opit noin vaikean sanan?	Gdzie się nauczyłeś takiego trudnego słowa?	sanan	0	0
+Työttömyysaste nousi viiteen prosenttiin (5%:iin).	Bezrobocie wzrosło do pięciu procent.	nousi	0	0
+Los Angeles on Yhdysvaltain toiseksi suurin kaupunki.	Los Angeles jest drugim największym miastem w Stanach Zjednoczonych.	toiseksi	0	0
+Helvetistä on varattu erityinen sopukka heille, jotka syövät elokuvateatterissa.	W piekle jest specjalne miejsce dla tych, którzy jedzą w kinie.	erityinen	0	0
+Olen tottunut tähän kylmään säähän.	Jestem przyzwyczajony do tej zimnej pogody.	tottunut	0	0
+Tomilla oli rakastavat vanhemmat.	Tom miał kochająch rodziców.	rakastavat	0	0
+Hevonen meni taloni läpi.	Koń przeszedł przez mój dom.	hevonen	0	0
+Tuo maistuu kauhealta.	To smakuje okropnie.	maistuu	0	0
+Annoin hänelle lahjan kiitoksena hänen kiltteydestään.	Wręczyłem jej upominek za jej uprzejmość.	lahjan	0	0
+Tom katsoi eilen TV:tä.	Tom oglądał wczoraj telewizję.	katsoi	0	0
+Mistä sinä opit noin vaikean sanan?	Gdzie się nauczyłeś takiego trudnego słowa?	opit	0	0
+Jos tietäisin sen, niin kertoisin sinulle.	Jakbym wiedziała, to bym ci powiedziała.	tietäisin	0	0
+Otan muutaman päivän vapaata.	Biorę kilka dni wolnych.	vapaata	0	0
+Se varas löi ikkunan sisään.	Złodziej zbił okno.	varas	0	0
+Se on surullista.	To przykre.	surullista	0	0
+Rakastan Jumalaa.	Kocham Boga.	jumalaa	0	0
+Jätä minulle pala kakkua.	Zostaw dla mnie kawałek ciasta.	pala	0	0
+Olivatko vanhempasi kotona?	Czy twoi rodzice byli w domu?	vanhempasi	0	0
+Mä en vittu tiedä miten tää lause pitäis kääntää. Käännä se ite, hoitaakoot jokainen omat paskansa.	Nie wiem jak, do kurwy nędzy, przetłumaczyć to zdanie. Sam je sobie przetłumacz, niech każdy zajmuje się swoimi pierdolonymi sprawami.	kääntää	0	0
+Kumpi on suurempi; Aurinko vai Kuu?	Co jest większe: Słońce czy Ziemia?	suurempi	0	0
+Terve. Oletko sinä Jackie Scott?	Cześć. Jesteś Jackie Scott?	jackie	0	0
+Olen nälkäinen kuin susi.	Jestem głodny jak wilk.	nälkäinen	0	0
+Voi vittu helvetti, minkälainen idiootti kehtaa soittaa mulle keskellä yötä?	Do kurwy nędzy, co za idiota mógł do mnie dzwonić w środku nocy?	mulle	0	0
+Onkohan Tom tehnyt sen?	Tom to zrobił, czyż nie?	onkohan	0	0
+Älä kasva aikuiseksi, se on ansa!	Nie dorastajcie, to pułapka!	ansa	0	0
+Los Angeles on Yhdysvaltain toiseksi suurin kaupunki.	Los Angeles jest drugim największym miastem w Stanach Zjednoczonych.	yhdysvaltain	0	0
+Hän vastasi kymmenessä minuutissa kaikkiin kysymyksiin.	On w dziesięć minut odpowiedział na wszystkie pytania.	kaikkiin	0	0
+Istun sohvalla.	Siedzę na kanapie.	istun	0	0
+Minun täytyy käydä suihkussa.	Muszę wziąć prysznic.	suihkussa	0	0
+Mikä tuo rakennus on?	Co to za budynek?	rakennus	0	0
+Tom makaa selällään.	Tom leży na plecach.	makaa	0	0
+Syömme aamiaista seitsemältä.	Śniadanie mamy o siódmej.	aamiaista	0	0
+Kyokoa ei saa puhumaan juhlissa millään.	Wciągnięcie nieśmiałej Kyoko do rozmowy na imprezie to sprawa beznadziejna.	juhlissa	0	0
+Minun on kerrottava hänelle totuus huomenna.	Muszę jutro powiedzieć jej prawdę.	kerrottava	0	0
+Miesten WC on oikealla ja naisten WC on vasemmalla.	Męska toaleta jest po prawo, a damska po lewo.	vasemmalla	0	0
+Salli minun mennä.	Pozwól mi iść.	salli	0	0
+Tom istui alas ja odotti.	Tom usiadł i czekał.	istui	0	0
+Helvetistä on varattu erityinen sopukka heille, jotka syövät elokuvateatterissa.	W piekle jest specjalne miejsce dla tych, którzy jedzą w kinie.	varattu	0	0
+Osaatko vastata tähän kysymykseen?	Możesz odpowiedzieć na to pytanie?	kysymykseen	0	0
+Lintu lentää.	Ptak leci.	lintu	0	0
+Hän ei myönnä itse olevansa väärässä.	Ona nie przyznaje się do błędu.	myönnä	0	0
+Mä en vittu tiedä miten tää lause pitäis kääntää. Käännä se ite, hoitaakoot jokainen omat paskansa.	Nie wiem jak, do kurwy nędzy, przetłumaczyć to zdanie. Sam je sobie przetłumacz, niech każdy zajmuje się swoimi pierdolonymi sprawami.	käännä	0	0
+Puhutko italiaa?	Czy mówisz po włosku?	puhutko	0	0
+Tom puhuu ranskaa harvoin.	Tom rzadko mówi po francusku.	harvoin	0	0
+Siksi valehtelin.	Dlatego skłamałem	valehtelin	0	0
+Tyttöystäväni on kiinalainen.	Moja dziewczyna jest chinką.	tyttöystäväni	0	0
+Tom koputti ovelle ja odotti.	Tom zapukał do drzwi i czekał.	odotti	0	0
+Te olitte onnellisia.	Wy byliście szczęśliwi.	onnellisia	0	0
+Luuletko, että voimme ratkaista tämän ongelman ilman Tomin apua?	Myślisz, że możemy rozwiązać ten problem bez pomocy Toma?	ratkaista	0	0
+Minulla on aina mukanani pullo mineraalivettä.	Zawsze mam przy sobie butelkę wody mineralnej.	pullo	0	0
+Seksi on minulle tärkeää.	Seks jest dla mnie ważny.	seksi	0	0
+Hän vastasi kymmenessä minuutissa kaikkiin kysymyksiin.	On w dziesięć minut odpowiedział na wszystkie pytania.	vastasi	0	0
+Hän asuu Lontoossa.	Ona mieszka w Londynie.	lontoossa	0	0
+Helvetistä on varattu erityinen sopukka heille, jotka syövät elokuvateatterissa.	W piekle jest specjalne miejsce dla tych, którzy jedzą w kinie.	syövät	0	0
+Tämä on täsmälleen sitä, mitä halusin.	To jest dokładnie to, czego chciałem.	täsmälleen	0	0
+Onko se suora reitti?	Czy to jest przejazd bezpośredni?	reitti	0	0
+Pääseekö tätä tietä asemalle?	Czy ta ulica prowadzi do dworca?	asemalle	0	0
+Tohtori Skeleton tunnetaan hänen aavetutkimuksestaan.	Dr Skeleton znany jest ze swych badań nad duchami.	tunnetaan	0	0
+Asiakkaita ei ole.	Nie ma klientów.	asiakkaita	0	0
+Se on pelottava.	To straszne.	pelottava	0	0
+Se varas löi ikkunan sisään.	Złodziej zbił okno.	ikkunan	0	0
+Kauppa oli suljettuna.	Sklep był zamknięty.	kauppa	0	0
+Nuorella insinöörillä ei ollut tarpeeksi kokemusta.	Młodemu inżynierowi brakowało doświadczenia.	kokemusta	0	0
+Tämä paikka on tylsä.	To miejsce jest nudne.	tylsä	0	0
+Pimeässä ajaminen tuntuu lentämiseltä!	Prowadzenie samochodu po ciemku jest niczym latanie.	pimeässä	0	0
+Ovesi ei ollut lukossa.	Twoje drzwi były otwarte.	lukossa	0	0
+Korjaa jos erehdyn.	Popraw mnie jeśli się mylę.	korjaa	0	0
+On järkevää säästää rahaa pahan päivän varalle.	Mądrze jest oszczędzać pieniądze na czarną godzinę.	säästää	0	0
+Tämä ei ole missään nimessä sitä, mitä halusin.	To zupełnie nie jest to, czego chciałem.	nimessä	0	0
+Opetan kiinan kieltä.	Uczę chińskiego.	kieltä	0	0
+Tom ei koskaan asunut Bostonissa.	Tom nigdy nie mieszkał w Bostonie.	asunut	0	0
+Kuka myi sinulle tämän auton?	Kto Ci sprzedał ten samochód?	myi	0	0
+Tom on valehdellut sinulle.	Tom cię okłamał.	valehdellut	0	0
+Avioliitto muuttaa ihmisiä.	Małżeństwo zmienia ludzi.	avioliitto	0	0
+Minulla on aina mukanani pullo mineraalivettä.	Zawsze mam przy sobie butelkę wody mineralnej.	mukanani	0	0
+He kutsuivat minut pelaamaan korttia.	Zaprosili mnie na karty.	pelaamaan	0	0
+Se ei näyttänyt kovin helpolta.	To nie wyglądało tak łatwo.	näyttänyt	0	0
+Nousin väärään bussiin.	Wsiadłem do złego autobusu.	väärään	0	0
+Kukat tekevät huoneesta kirkkaamman.	Kwiaty rozjaśniły pokój.	huoneesta	0	0
+Se oli mielenkiintoinen päivä.	To był ciekawy dzień.	mielenkiintoinen	0	0
+Minulla ei ole koiraa.	Nie mam psa.	koiraa	0	0
+Jumala loi maailman.	Bóg stworzył świat.	loi	0	0
+Jos tietäisin sen, niin kertoisin sinulle.	Jakbym wiedział, to bym ci powiedział.	kertoisin	0	0
+Hän ui kuin kala.	Umie pływać jak ryba.	kala	0	0
+Opetan kiinan kieltä.	Uczę chińskiego.	opetan	0	0
+Tom tykkää matkustaa.	Tom lubi podróżować.	matkustaa	0	0
+Paljonko tämä punainen hattu maksaa?	Ile kosztuje ten czerwony kapelusz?	hattu	0	0
+Washington on Yhdysvaltojen pääkaupunki.	Waszyngton jest stolicą Stanów Zjednoczonych.	washington	0	0
+Ovelle koputetaan.	Ktoś puka do drzwi.	ovelle	0	0
+Tämä on talo missä olen syntynyt ja kasvanut.	To jest dom, gdzie się urodziłem i dorastałem.	kasvanut	0	0
+Siellä ei ollut ristinsielua niin pitkälle kuin silmä kantoi.	Jak okiem sięgnąć, nie było żywej duszy.	silmä	0	0
+Tulisitko sinä myös mukaan?	Pojedziesz z nami?	tulisitko	0	0
+Onko se suora reitti?	Czy to jest przejazd bezpośredni?	suora	0	0
+Syömme aamiaista seitsemältä.	Śniadanie mamy o siódmej.	syömme	0	0
+Jos satut muuttamaan mieltäsi, niin ilmoitathan siitä minulle.	Jeśli zmienisz zdanie, daj mi znać.	muuttamaan	0	0
+Hän kärsii pahasta päänsärystä.	Dręczył go straszny ból głowy.	kärsii	0	0
+Tämä planeetta kiertää kahta tähteä.	Ta planeta krąży wokół dwóch gwiazd.	kiertää	0	0
+Mascarpone voidaan myös korvata kermalla.	Możesz też zastąpić mascarpone śmietaną.	korvata	0	0
+Anna kun esittelen itseni.	Pozwólcie, że się przedstawię.	esittelen	0	0
+Hän käytti lahjapaperin (japanilainen kangaskääre) täysin hyväkseen.	W pełni wykorzystał chustkę.	hyväkseen	0	0
+Päätimme lähteä piknikille, koska sää oli niin erinomainen.	Było tak pięknie, że postanowiliśmy zrobić sobie piknik.	päätimme	0	0
+Tom ei tunne pelkoa.	Tom nie zna strachu.	pelkoa	0	0
+Jos tahdot rauhaa, valmistaudu sotaan.	Jeśli chcesz pokoju, przugotuj się na wojnę.	sotaan	0	0
+Sää oli onneksi hyvä.	Na szczęście pogoda była ładna.	sää	0	0
+Missä Mary ja Tom asuvat?	Gdzie mieszkają Mary i Tom?	asuvat	0	0
+Vanhus puhuu joskus itsekseen.	Starzec czasem mówi do siebie	vanhus	0	0
+Kun taiteilija vanhenee, hänen maalaustyylinsä saattaa muuttua.	Z wiekiem malarzowi może zmieniać się styl.	taiteilija	0	0
+Jätä minulle pala kakkua.	Zostaw dla mnie kawałek ciasta.	kakkua	0	0
+Menen rannalle.	Idę na plażę.	rannalle	0	0
+Hän on suurissa vaikeuksissa.	Ma wielkie kłopoty.	vaikeuksissa	0	0
+Kiirehdimme, joten ehdimme viimeiseen bussiin.	Spieszyliśmy się, żeby się nie spóźnić na autobus.	ehdimme	0	0
+Tämä ei ole kalaa.	To nie jest ryba.	kalaa	0	0
+Tom pystyy kävelemään käsillään.	Tom umie chodzić na rękach.	kävelemään	0	0
+Tom huomasi Maryn olleen oikeassa.	Tom zrozumiał, że Mary miała rację.	huomasi	0	0
+Päätimme lähteä piknikille, koska sää oli niin erinomainen.	Było tak pięknie, że postanowiliśmy zrobić sobie piknik.	erinomainen	0	0
+Kuu loistaa taivaalla.	Księżyc świeci na niebie.	kuu	0	0
+Elämä Japanissa on kallista.	Życie w Japonii jest drogie.	kallista	0	0
+Luuletko, että voimme ratkaista tämän ongelman ilman Tomin apua?	Myślisz, że możemy rozwiązać ten problem bez pomocy Toma?	ongelman	0	0
+Hän valitti saaneensa epäreilua kohtelua.	Narzekała, że potraktowano ją niesprawiedliwie.	epäreilua	0	0
+Olen nälkäinen kuin susi.	Jestem głodny jak wilk.	susi	0	0
+Olivatko vanhempasi kotona?	Czy twoi rodzice byli w domu?	olivatko	0	0
+Aurinkoa läheisin planeetta on Merkurius.	Najbliższa Słońcu planeta to Merkury.	planeetta	0	0
+Haluan pullon kokista.	Chcę butelkę Coca-Coli.	pullon	0	0
+Tapaaminen tulisi järjestää ensi torstaina.	Zebranie jest w przyszły czwartek.	torstaina	0	0
+Näin hänet puistossa.	Widziałem go w parku.	puistossa	0	0
+Mitä ostit tuliaisiksi?	Jakie pamiątki kupiłeś?	ostit	0	0
+Aikoinaan ajateltiin, että ihmisen on mahdotonta lentää.	Kiedyś uważano, że człowiek nie może latać.	aikoinaan	0	0
+Tie oli pimeä ja liukas.	Droga była ciemna i śliska.	pimeä	0	0
+Jos tahdot rauhaa, valmistaudu sotaan.	Jeśli chcesz pokoju, przugotuj się na wojnę.	valmistaudu	0	0
+Kuu ja tähdet loistivat korkealla yläpuolellamme.	Nad nami świecił księżyc i gwiazdy.	korkealla	0	0
+Kumpi on vahvempi, tiikeri vai leijona?	Co jest silniejsze: tygrys czy lew?	vahvempi	0	0
+Tom laittoi lompakkonsa pöydälle.	Tom położył swój portfel na stół.	pöydälle	0	0
+Se poika on sairas vaikkei näytä siltä.	Chłopak jest chory, choć nie wygląda.	vaikkei	0	0
+Hän toisti itselleen, ettei saa kertoa niin monia valheita.	Powtarzał sobie, że nie powinien tyle kłamać.	valheita	0	0
+En ole koskaan ollut setäni kodissa.	Nigdy nie byłem w domu mojego wujka.	setäni	0	0
+Hän vastasi kymmenessä minuutissa kaikkiin kysymyksiin.	On w dziesięć minut odpowiedział na wszystkie pytania.	kysymyksiin	0	0
+Hevonen meni taloni läpi.	Koń przeszedł przez mój dom.	taloni	0	0
+He kutsuivat minut pelaamaan korttia.	Zaprosili mnie na karty.	korttia	0	0
+Kävin kylässä jossa hän oli syntynyt.	Odwiedziłem wieś, w której on się urodził.	kylässä	0	0
+Kreikka ei ole helppo kieli.	Grecki nie jest łatwym językiem.	kieli	0	0
+Tässä on ravintola, jossa käyn usein syömässä.	To restauracja, w której często jadam.	ravintola	0	0
+Se on vähän monimutkaista.	To jest trochę skomplikowane.	monimutkaista	0	0
+Hän tietää, missä asumme.	On wie, gdzie mieszkamy.	asumme	0	0
+Nukuin pommiin eilen.	Zaspałem wczoraj.	nukuin	0	0
+Se oli vaikeampaa kuin olin odottanut.	To było trudniejsze, niż bym przypuszczała.	vaikeampaa	0	0
+Naistenhuone on kolmannessa kerroksessa.	Damska toaleta jest na trzecim piętrze.	kerroksessa	0	0
+Tuo mekko sopii sinulle erittäin hyvin.	Ta suknia dobrze leży.	mekko	0	0
+Työmme on melkein ohitse.	Prawie skończyliśmy naszą pracę.	ohitse	0	0
+Kuolemasi on oleva hidas ja tuskallinen.	Twoja śmierć będzie powolna i bolesna.	hidas	0	0
+Kissa nukkuu sohvalla.	Kot śpi na kanapie.	sohvalla	0	0
+Haluan tietää yksityiskohdat.	Chcę znać szczegóły.	yksityiskohdat	0	0
+Tomilta on varastettu pyörä.	Tomiemu skradziono rower.	varastettu	0	0
+Lasi on puhdas.	Ta szklanka jest czysta.	lasi	0	0
+Kukat kuolivat vedenpuutteeseen.	Rośliny zmarniały z braku wody.	kukat	0	0
+Seuraa lääkepakkauksen ohjeita tarkasti.	Kiedy bierzesz lekarstwa, uważaj na instrukcje na butelce.	ohjeita	0	0
+Milloin seuraava bussi Helsinkiin menee?	Kiedy odchodzi następny autobus do Helsinek?	bussi	0	0
+Esimerkiksi Suomessa ja Norjassa sataa paljon lunta talvisin.	W takich krajach jak Norwegia czy Finlandia zimą jest dużo śniegu.	lunta	0	0
+Me suojasimme itsemme vaaralta.	Chroniliśmy się przed niebezpieczeństwem.	itsemme	0	0
+Tom on ollut Bostonissa lukuisia kertoja.	Tom był wielokrotnie w Bostonie.	kertoja	0	0
+Kuu ja tähdet loistivat korkealla yläpuolellamme.	Nad nami świecił księżyc i gwiazdy.	tähdet	0	0
+Mikä on aurinkoa lähin planeetta?	Która planeta jest najbliższa Słońcu?	lähin	0	0
+Minusta meidän pitäisi odottaa vähän pidempään.	Myślę, że musimy jeszcze trochę poczekać.	pidempään	0	0
+Aurinkoa läheisin planeetta on Merkurius.	Najbliższa Słońcu planeta to Merkury.	aurinkoa	0	0
+Kun ylität sillan, älä katso alas.	Kiedy przechodzisz przez most, nie patrz w dół.	sillan	0	0
+Työmme on melkein loppu.	Prawie skończyliśmy naszą pracę.	työmme	0	0
+Voi vittu helvetti, minkälainen idiootti kehtaa soittaa mulle keskellä yötä?	Do kurwy nędzy, co za idiota mógł do mnie dzwonić w środku nocy?	minkälainen	0	0
+Nicole puhuu japania todella hyvin.	Nicole bardzo dobrze mówi po japońsku.	nicole	0	0
+Tom nosti kissan.	Tom podniósł kota.	kissan	0	0
+Opetan kiinan kieltä.	Uczę chińskiego.	kiinan	0	0
+Onko sinulla ylimääräistä aikaa?	Masz dużo czasu?	ylimääräistä	0	0
+Muinaiset suomalaiset uskoivat sielun olevan lintu, joka lentää kehon ulkopuolella ihmisen nukkuessa.	Starożytni Finowie wierzyli, że dusza jest ptakiem, który wylatuje z ciała, gdy człowiek śpi.	sielun	0	0
+Hän syö päivällistä kotona.	Ona je obiad w domu.	päivällistä	0	0
+Tässä on ravintola, jossa käyn usein syömässä.	To restauracja, w której często jadam.	syömässä	0	0
+On järkevää säästää rahaa pahan päivän varalle.	Mądrze jest oszczędzać pieniądze na czarną godzinę.	järkevää	0	0
+Uteliaisuuteni heräsi.	Moja ciekawość została rozbudzona.	heräsi	0	0
+Odotatko sinä jotain?	Czekasz na coś?	odotatko	0	0
+Tom tosiaankin puhuu hyvin ranskaa.	Tom naprawdę dobrze mówi po francusku.	ranskaa	0	0
+Orava syö pizzaa.	Wiewiórka je pizzę.	pizzaa	0	0
+Määräaika on mennyt umpeen.	Ostateczny termin minął.	umpeen	0	0
+En yksinkertaisesti pidä hänestä.	Po prostu go nie lubię.	yksinkertaisesti	0	0
+Uskooko Tom Jumalaan?	Czy Tom wierzy w Boga?	jumalaan	0	0
+Tomin pyörä on varastettu.	Skradziono rower Tomiego.	pyörä	0	0
+Tom oli pidempi kuin oletin.	Tom był wyższy, niż się spodziewałam.	oletin	0	0
+Älä vittu koske muhun saatanan runkkari!	Zabieraj ode mnie swoje pierdolone łapy, skurwysynu!	runkkari	0	0
+Isäni on töissä pankissa.	Mój ojciec pracuje w banku.	pankissa	0	0
+Tilanne on hyvin monimutkainen.	Ta sytuacja jest bardzo skomplikowana.	monimutkainen	0	0
+Tarvitsen kannettavan tietokoneen.	Potrzebuję laptopa.	tietokoneen	0	0
+Mitään ei puutu.	Nic nie brakuje.	puutu	0	0
+Minä haluan opiskella ulkomailla.	Chcę studiować za granicą.	opiskella	0	0
+Hän oli minun läheinen ystäväni.	Był moim bliskim przyjacielem.	läheinen	0	0
+Sinun ei tarvitse puhua siitä, jollet halua.	Nie musisz o tym mówić, jeśli nie chcesz.	jollet	0	0
+Mitä Jon tekee juuri nyt.	Co John teraz robi?	jon	0	0
+Olen menossa pankkiin.	Idę do banku.	pankkiin	0	0
+Tykkäätkö pelata pelejä?	Lubisz grać w gry?	tykkäätkö	0	0
+Hän kärsii pahasta päänsärystä.	Dręczył go straszny ból głowy.	pahasta	0	0
+Sinä et ole köyhä.	Nie jesteś biedny.	köyhä	0	0
+Luulen, että olet saanut tartunnan.	Myślę, że zostałaś zarażona.	tartunnan	0	0
+Tie on märkä ja liukas.	Droga jest mokra i śliska.	märkä	0	0
+Saksalaisen ystäväni nimi on Hans.	Mój przyjaciel z Niemiec nazywa się Hans.	hans	0	0
+Tässä kirjassa on paljon kauniita kuvia.	W tej książce jest dużo pięknych ilustracji.	kirjassa	0	0
+Tom nosti kissan.	Tom podniósł kota.	nosti	0	0
+Tomin kotona on kummituksia.	Dom Tomiego jest nawiedzony.	tomin	0	0
+Kumpi on vahvempi, tiikeri vai leijona?	Co jest silniejsze: tygrys czy lew?	tiikeri	0	0
+Tyttöystäväni on kiinalainen.	Moja dziewczyna jest chinką.	kiinalainen	0	0
+Tapoitko Tomin?	Czy zabiłeś Toma?	tapoitko	0	0
+Työttömyysaste nousi viiteen prosenttiin (5%:iin).	Bezrobocie wzrosło do pięciu procent.	viiteen	0	0
+Kiirehdimme, joten ehdimme viimeiseen bussiin.	Spieszyliśmy się, żeby się nie spóźnić na autobus.	viimeiseen	0	0
+Tuo nukke on pelottava.	Ta lalka jest przerażająca.	nukke	0	0
+Autoni on saksalainen.	Mój samochód jest niemiecki.	saksalainen	0	0
+Koirani haukkuu koko ajan.	Mój pies szczeka cały czas.	koirani	0	0
+Jos satut muuttamaan mieltäsi, niin ilmoitathan siitä minulle.	Jeśli zmienisz zdanie, daj mi znać.	mieltäsi	0	0
+Tämän koulun säännöt eivät ole kovinkaan tiukkoja.	W tej szkole dyscyplina jest raczej łagodna.	kovinkaan	0	0
+Syömme aamiaista seitsemältä.	Śniadanie mamy o siódmej.	seitsemältä	0	0
+Viikonloppuisin nousin myöhemmin kuin tavallisesti.	W weekendy wstawałam później niż zwykle.	tavallisesti	0	0
+Helvetistä on varattu erityinen sopukka heille, jotka syövät elokuvateatterissa.	W piekle jest specjalne miejsce dla tych, którzy jedzą w kinie.	helvetistä	0	0
+Heitetään siitä kolikkoa.	Zdecydujmy rzutem monetą.	heitetään	0	0
+Tykkäätkö pelata pelejä?	Lubisz grać w gry?	pelejä	0	0
+Naapurin koira haukkuu aina.	Pies sąsiada zawsze szczeka.	naapurin	0	0
+Humalainen mies nukkui penkillä.	Pijany człowiek spał na ławce.	nukkui	0	0
+Hänen sanansa yllättivät minut.	Jego słowa zdumiały mnie.	sanansa	0	0
+Tuhannet ulkomaalaiset vierailevat Japanissa vuosittain.	Tysiące cudzoziemców odwiedzają co roku Japonię.	tuhannet	0	0
+Opimme antiikin Roomasta ja Kreikasta.	Uczymy się o starożytnym Rzymie i Grecji.	opimme	0	0
+Tomi pesee tukkansa vain kerran viikossa.	Tom myje włosy tylko raz na tydzień.	pesee	0	0
+Washington on Yhdysvaltojen pääkaupunki.	Waszyngton jest stolicą Stanów Zjednoczonych.	yhdysvaltojen	0	0
+Aurinko paistaa.	Słońce świeci.	paistaa	0	0
+Katsotaan televisiota.	Chodźmy oglądać telewizję.	televisiota	0	0
+Jaetaan rahat.	Podzielmy się pieniędzmi.	jaetaan	0	0
+Tänään on vaalit Puolassa.	Dziś są wybory w Polsce.	vaalit	0	0
+Varo ettet riko tätä vaasia.	Uwaga, proszę nie uszkodzić tego wazonu.	riko	0	0
+Minä haluan opiskella ulkomailla.	Chcę studiować za granicą.	ulkomailla	0	0
+Hän on ollut kiireinen eilisestä lähtien.	Jest zajęta od wczoraj.	eilisestä	0	0
+Karja näkee nälkää.	Bydło głoduje.	nälkää	0	0
+Tom huomasi Maryn olleen oikeassa.	Tom zrozumiał, że Mary miała rację.	maryn	0	0
+Vanhempani nukkuvat.	Moi rodzice śpią.	nukkuvat	0	0
+Kuinka vanha sinun isoisäsi on?	Ile twój dziadek ma lat?	isoisäsi	0	0
+Kumpi on vahvempi, tiikeri vai leijona?	Co jest silniejsze: tygrys czy lew?	leijona	0	0
+En ole koskaan toivonut jonkun kuolemaa, mutta eräät kuolinilmoitukset olen kyllä lukenut mielelläni.	Nigdy nie życzyłam nikomu śmierci, ale niektóre nekrologi czytałam z przyjemnością.	toivonut	0	0
+Myisitkö sinä talosi hänelle?	Sprzedasz mu swój dom?	talosi	0	0
+Unelmani on toteutunut.	Moje marzenie się spełniło.	unelmani	0	0
+Hän ui kuin kala.	Umie pływać jak ryba.	ui	0	0
+Kuu loistaa taivaalla.	Księżyc świeci na niebie.	taivaalla	0	0
+Kiirehdimme, joten ehdimme viimeiseen bussiin.	Spieszyliśmy się, żeby się nie spóźnić na autobus.	bussiin	0	0
+Muinaiset suomalaiset uskoivat sielun olevan lintu, joka lentää kehon ulkopuolella ihmisen nukkuessa.	Starożytni Finowie wierzyli, że dusza jest ptakiem, który wylatuje z ciała, gdy człowiek śpi.	uskoivat	0	0
+Älä kasva aikuiseksi, se on ansa!	Nie dorastajcie, to pułapka!	kasva	0	0
+Luulen, että Tom tuntee olonsa hieman stressaantuneeksi.	Myślę, że Tom czuje się trochę zestresowany.	olonsa	0	0
+Voitko suositella hyvää kameraa?	Czy możesz mi polecić dobry aparat?	kameraa	0	0
+Puhuisitko hieman hitaammin.	Proszę, mów trochę wolniej.	hitaammin	0	0
+Älä kasva aikuiseksi, se on ansa!	Nie dorastajcie, to pułapka!	aikuiseksi	0	0
+Pakastaisitko kalan ja lihan.	Zamroź rybę i mięso.	kalan	0	0
+Luotatko Tomiin?	Czy ufasz Tomowi?	luotatko	0	0
+Hän sairastui kolme vuotta sitten.	Zachorował trzy lata temu.	sairastui	0	0
+Alkoholin käyttö lisääntyy joka vuosi.	Konsumpcja alkoholu rośnie co roku.	käyttö	0	0
+He kutsuivat minut pelaamaan korttia.	Zaprosili mnie na karty.	kutsuivat	0	0
+Asuuko hän täällä?	Czy on tutaj mieszka?	asuuko	0	0
+Helpommin sanottu kuin tehty.	Łatwiej powiedzieć niż zrobić.	helpommin	0	0
+Kuu loistaa taivaalla.	Księżyc świeci na niebie.	loistaa	0	0
+Hän kuoli ennen kuin saavuin sinne.	Zmarła, zanim tam dotarłem.	saavuin	0	0
+Meidän täytyy puuttua asiaan.	Musimy interweniować.	puuttua	0	0
+Ensimmäinen vuodenaika on kevät.	Pierwszą porą roku jest wiosna.	kevät	0	0
+Laita televisio kovemmalle.	Zgłośnij telewizor.	televisio	0	0
+En ole koskaan toivonut jonkun kuolemaa, mutta eräät kuolinilmoitukset olen kyllä lukenut mielelläni.	Nigdy nie życzyłam nikomu śmierci, ale niektóre nekrologi czytałam z przyjemnością.	eräät	0	0
+Hän teki tilaa vanhalle rouvalle.	Zrobiła miejsce dla starszej kobiety.	vanhalle	0	0
+Näytelmä oli ohjelmistossa kuusi kuukautta.	Sztuka szła przez pół roku.	näytelmä	0	0
+Minä vihaan tuota kissaa.	Nienawidzę tego kota.	kissaa	0	0
+Salasana?	Hasło?	salasana	0	0
+On järkevää säästää rahaa pahan päivän varalle.	Mądrze jest oszczędzać pieniądze na czarną godzinę.	varalle	0	0
+Älä puhu ruoka suussa!	Nie mów z pełnymi ustami!	suussa	0	0
+Nousin väärään bussiin.	Wsiadłam do złego autobusu.	nousin	0	0
+Miten vietät uudenvuodenpyhiä?	Co robisz w Nowy Rok?	vietät	0	0
+Hän surmasi lohikäärmeen ja pelasti prinsessan.	Zabił smoka i uratował księżniczkę.	lohikäärmeen	0	0
+Minä tahdon lisää pekonia.	Ja chcę więcej bekonu.	pekonia	0	0
+Muinaiset suomalaiset uskoivat sielun olevan lintu, joka lentää kehon ulkopuolella ihmisen nukkuessa.	Starożytni Finowie wierzyli, że dusza jest ptakiem, który wylatuje z ciała, gdy człowiek śpi.	kehon	0	0
+En ymmärrä saksaa lainkaan.	Wcale nie rozumiem języka niemieckiego.	saksaa	0	0
+Vanhus puhuu joskus itsekseen.	Starzec czasem mówi do siebie	itsekseen	0	0
+Oravat oppivat nopeasti.	Wiewiórki szybko się uczą.	oppivat	0	0
+Valitse mieleisesi tavara (tuote, asia).	Weź sobie jedno - to, które ci się najbardziej podoba.	tavara	0	0
+Pakastaisitko kalan ja lihan.	Zamroź rybę i mięso.	lihan	0	0
+Tämä planeetta kiertää kahta tähteä.	Ta planeta krąży wokół dwóch gwiazd.	tähteä	0	0
+Tämä on minun lopullinen tarjoukseni.	To moja ostateczna oferta.	lopullinen	0	0
+Katoavaista on kauneus.	Piękno przemija.	kauneus	0	0
+Mikä näistä koirista on sinun koirasi?	Który pies jest twój?	koirasi	0	0
+Menen ensimmäisenä kylpyyn.	Idę pierwszy się kąpać.	kylpyyn	0	0
+Se koira oli kuolemaisillaan.	Pies był umierający.	kuolemaisillaan	0	0
+Hän on hyvä keksimään tekosyitä.	Dobrze mu wychodzi wymyślanie tłumaczeń.	tekosyitä	0	0
+Heidän on kuoltava.	Oni muszą umrzeć.	kuoltava	0	0
+En pysty juoda näin makeaa kahvia.	Nie mogę wypić tak słodkiej kawy.	makeaa	0	0
+Tulen jos sää sallii.	Przyjdę, jeśli pogoda pozwoli.	sallii	0	0
+Elämä Japanissa on kallista.	Życie w Japonii jest drogie.	japanissa	0	0
+Siellä ei ollut ristinsielua niin pitkälle kuin silmä kantoi.	Jak okiem sięgnąć, nie było żywej duszy.	kantoi	0	0
+Olen Tomia pidempi.	Jestem wyższy niż Tom.	pidempi	0	0
+Toivon että autatte minua.	Mam nadzieję, że mi pomożesz.	autatte	0	0
+Odota kuuteen.	Poczekaj do szóstej.	kuuteen	0	0
+Valitse mieleisesi tavara (tuote, asia).	Weź sobie jedno - to, które ci się najbardziej podoba.	tuote	0	0
+Los Angeles on Yhdysvaltain toiseksi suurin kaupunki.	Los Angeles jest drugim największym miastem w Stanach Zjednoczonych.	angeles	0	0
+Television katselu on hauskaa.	Przyjemnie jest oglądać telewizję.	television	0	0
+Käänny oikealle seuraavasta risteyksestä.	Skręć w prawo na następnym skrzyżowaniu.	seuraavasta	0	0
+Paperin tuotanto lisääntyy vuosittain.	Produkcja papieru rośnie z roku na rok.	paperin	0	0
+Tom on ollut Bostonissa lukuisia kertoja.	Tom był wielokrotnie w Bostonie.	bostonissa	0	0
+Tuo maistuu kauhealta.	To smakuje okropnie.	kauhealta	0	0
+Ole varovainen. Lattia on liukas.	Uważaj. Podłoga jest śliska.	lattia	0	0
+Tämä ei ole oikea timantti.	To nie jest prawdziwy diament.	timantti	0	0
+Tom on kaikista vahvin.	Tom jest najsilniejszy.	vahvin	0	0
+Pääseekö tätä tietä asemalle?	Czy ta ulica prowadzi do dworca?	pääseekö	0	0
+Bob veloittaa ruohonleikkuusta kolme dollaria tunnilta.	Bob brał 3 dolary za godzinę strzyżenia trawnika.	tunnilta	0	0
+Me emme ole terroristeja.	Nie jesteśmy terrorystami.	terroristeja	0	0
+Oletko uskonnollinen?	Czy jesteś wierząca?	uskonnollinen	0	0
+Se oli pelkkä pusu.	To był tylko pocałunek.	pusu	0	0
+Viikonloppuisin nousin myöhemmin kuin tavallisesti.	W weekendy wstawałam później niż zwykle.	viikonloppuisin	0	0
+Hän surmasi lohikäärmeen ja pelasti prinsessan.	Zabił smoka i uratował księżniczkę.	prinsessan	0	0
+Pulu on lentänyt pois.	Gołąb odleciał.	lentänyt	0	0
+Brasiliassa jalkapallo on suosituin urheilulaji.	Piłka nożna to najpopularniejszy sport w Brazylii.	jalkapallo	0	0
+Hän vastasi kymmenessä minuutissa kaikkiin kysymyksiin.	On w dziesięć minut odpowiedział na wszystkie pytania.	kymmenessä	0	0
+Minä opiskelen taidehistoriaa.	Studiuję historię sztuki.	opiskelen	0	0
+Sinä olit ensimmäinen tyttö, jonka kanssa koskaan suutelin.	Byłaś pierwszą dziewczyną, jaką kiedykolwiek pocałowałem.	suutelin	0	0
+Me pelasimme eilen tennistä.	Wczoraj graliśmy w tenisa.	pelasimme	0	0
+Näin miehen kasvot ikkunassa.	Widziałem twarz mężczyzny w oknie.	ikkunassa	0	0
+Ymmärrän sinua tiettyyn pisteeseen asti.	Rozumiem cię poniekąd.	tiettyyn	0	0
+Istuimme piirissä.	Siedzieliśmy w kole.	istuimme	0	0
+Tomi ei pelkää käärmeitä.	Tom nie boi się węży.	käärmeitä	0	0
+En halua mennä ulos ilman takkia näin kylmänä päivänä.	W taki zimny dzień nie chcę wychodzić na dwór bez płaszcza.	kylmänä	0	0
+Tilanne on todella mutkikas.	Ta sytuacja jest bardzo skomplikowana.	mutkikas	0	0
+Parempi myöhään kuin ei milloinkaan.	Lepiej późno niż wcale.	milloinkaan	0	0
+Miesten WC on oikealla ja naisten WC on vasemmalla.	Męska toaleta jest po prawo, a damska po lewo.	wc	0	0
+Miten upea näkymä!	Jaki wspaniały widok!	näkymä	0	0
+Tom nukahti lukiessaan kirjaa.	Tom zasnął czytając książkę.	nukahti	0	0
+Tom tosiaankin puhuu hyvin ranskaa.	Tom naprawdę dobrze mówi po francusku.	tosiaankin	0	0
+Kotka on valkoinen.	Orzeł jest biały.	kotka	0	0
+Voitko suositella hyvää kameraa?	Czy możesz mi polecić dobry aparat?	suositella	0	0
+En usko, että hän kykenee siihen.	Obawiam się, że on nie może tego zrobić.	kykenee	0	0
+Minun mielestäni sinun pitäisi kertoa vanhemmillesi, että me olemme naimisissa.	Myślę, że powinnaś powiedzieć swoim rodzicom, że jesteśmy małżeństwem.	vanhemmillesi	0	0
+Anteeksi, jos loukkasin tunteitasi.	Przepraszam, jeśli cię zraniłem.	loukkasin	0	0
+Tom ihastui Saksaan.	Tom zakochał się w Niemczech.	saksaan	0	0
+Hän käytti lahjapaperin (japanilainen kangaskääre) täysin hyväkseen.	W pełni wykorzystał chustkę.	japanilainen	0	0
+Mari ei rakasta miestään.	Mary nie kocha swojego męża.	miestään	0	0
+Pidän englannista, mutta en osaa puhua sitä hyvin.	Lubię angielski, ale nie umiem dobrze mówić.	englannista	0	0
+Lause on oikein.	Zdanie jest właściwe.	lause	0	0
+Se ei näyttänyt kovin helpolta.	To nie wyglądało tak łatwo.	helpolta	0	0
+Varkaat veivät mukanaan kaikki rahat kassakaapista.	Włamywacze ukradli całe pieniądze z sejfu.	varkaat	0	0
+Anteeksi, jos loukkasin tunteitasi.	Przepraszam, jeśli cię zraniłem.	tunteitasi	0	0
+Tämä on kaupungin suurin museo.	To największe muzeum miasta.	museo	0	0
+Älä usko poliitikkojen lupauksia.	Nie wierz w obietnice polityków.	lupauksia	0	0
+Hän opiskelee yötä päivää.	On się uczy dzień i noc.	opiskelee	0	0
+Heitetään siitä kolikkoa.	Zdecydujmy rzutem monetą.	kolikkoa	0	0
+Olemme menossa leffaan tänään illalla.	Idziemy dziś wieczorem do kina.	leffaan	0	0
+Tom on ollut Bostonissa lukuisia kertoja.	Tom był wielokrotnie w Bostonie.	lukuisia	0	0
+Olen kotoisin Ranskasta.	Pochodzę z Francji.	ranskasta	0	0
+Ymmärrän sinua tiettyyn pisteeseen asti.	Rozumiem cię poniekąd.	pisteeseen	0	0
+Naistenhuone on kolmannessa kerroksessa.	Damska toaleta jest na trzecim piętrze.	kolmannessa	0	0
+Anteeksi että jouduitte odottamaan näin kauan.	Przepraszam, że musiałeś tyle na mnie czekać.	jouduitte	0	0
+Hän valitti saaneensa epäreilua kohtelua.	Narzekała, że potraktowano ją niesprawiedliwie.	valitti	0	0
+Mä en vittu tiedä miten tää lause pitäis kääntää. Käännä se ite, hoitaakoot jokainen omat paskansa.	Nie wiem jak, do kurwy nędzy, przetłumaczyć to zdanie. Sam je sobie przetłumacz, niech każdy zajmuje się swoimi pierdolonymi sprawami.	pitäis	0	0
+Muinaiset suomalaiset uskoivat sielun olevan lintu, joka lentää kehon ulkopuolella ihmisen nukkuessa.	Starożytni Finowie wierzyli, że dusza jest ptakiem, który wylatuje z ciała, gdy człowiek śpi.	muinaiset	0	0
+Muutaman tunnin nokoset tekevät sinulle hyvää.	Kilka godzin snu dobrze by ci zrobiło.	nokoset	0	0
+Kaikkien on syötävä.	Każdy musi jeść.	syötävä	0	0
+En halua mennä ulos ilman takkia näin kylmänä päivänä.	W taki zimny dzień nie chcę wychodzić na dwór bez płaszcza.	takkia	0	0
+Tämä on minun lopullinen tarjoukseni.	To moja ostateczna oferta.	tarjoukseni	0	0
+Mikä sinua kiehtoo oravissa?	Co cię tak interesuje w wiewiórkach?	kiehtoo	0	0
+Tom värjäsi hiuksensa mustiksi.	Tom pofarbował włosy na czarno.	hiuksensa	0	0
+Me pelasimme eilen tennistä.	Wczoraj graliśmy w tenisa.	tennistä	0	0
+Mitä haluat syödä lounaaksi?	Co chcesz na obiad?	lounaaksi	0	0
+Paperin tuotanto lisääntyy vuosittain.	Produkcja papieru rośnie z roku na rok.	vuosittain	0	0
+Talossa kummittelee.	Dom jest nawiedzony.	kummittelee	0	0
+Tämä on kirjaston kirja.	To książka z biblioteki.	kirjaston	0	0
+Onko sinulla tili Facebookissa?	Masz konto na Facebooku?	tili	0	0
+Voi vittu helvetti, minkälainen idiootti kehtaa soittaa mulle keskellä yötä?	Do kurwy nędzy, co za idiota mógł do mnie dzwonić w środku nocy?	kehtaa	0	0
+Kuolemasi on oleva hidas ja tuskallinen.	Twoja śmierć będzie powolna i bolesna.	kuolemasi	0	0
+Tom on peloton.	Tom jest nieustraszony.	peloton	0	0
+Alkoholin käyttö lisääntyy joka vuosi.	Spożycie alkoholu rośnie co roku.	alkoholin	0	0
+Tom lukee Raamattua.	Tom czyta Biblię.	raamattua	0	0
+Hän surmasi lohikäärmeen ja pelasti prinsessan.	Zabił smoka i uratował księżniczkę.	surmasi	0	0
+Mikä näistä koirista on sinun koirasi?	Który pies jest twój?	koirista	0	0
+Minä vain inhoa nähdä Tomin itkevän.	Po prostu nienawidzę patrzeć na to, jak Tom płacze.	itkevän	0	0
+Nukuin pommiin eilen.	Zaspałem wczoraj.	pommiin	0	0
+Kuinka kaukana olemme merestä?	Jak daleko od morza jesteśmy?	merestä	0	0
+Haluaisin asua Australiassa.	Chciałbym mieszkać w Australii.	australiassa	0	0
+Lentokonetta ohjasi kaksi apinaa.	Samolotem sterowały dwie małpy.	ohjasi	0	0
+Hänen koiransa haukkuu aina minulle.	Jego pies zawsze na mnie szczeka.	koiransa	0	0
+Hae hattuni.	Przynieś mi kapelusz.	hattuni	0	0
+Brasiliassa jalkapallo on suosituin urheilulaji.	Piłka nożna to najpopularniejszy sport w Brazylii.	suosituin	0	0
+Tomi ei koskaan petaa sänkyä.	Tom nigdy nie ścieli łóżka.	sänkyä	0	0
+Istutamme siemeniä.	Sadzimy nasiona.	siemeniä	0	0
+Kone on ollut rikki jo viime kuusta saakka.	Maszyna jest zepsuta od ubiegłego miesiąca.	kuusta	0	0
+Tee minulle voileipä.	Zrób mi kanapkę.	voileipä	0	0
+Orava syö pizzaa.	Wiewiórka je pizzę.	orava	0	0
+Olen kotoisin Kiinasta.	Pochodzę z Chin.	kiinasta	0	0
+Istuimme piirissä.	Siedzieliśmy w kole.	piirissä	0	0
+Tuota noin, se on mutkikasta.	No cóż, to jest skomplikowane.	mutkikasta	0	0
+On todella tärkeää pitää lupauksensa.	Dotrzymywanie słowa jest bardzo ważne.	lupauksensa	0	0
+Japanissa uusi lukuvuosi alkaa huhtikuussa.	W Japonii rok szkolny zaczyna się w kwietniu.	huhtikuussa	0	0
+Hänen pahojen tapojensa takia kukaan ei pidä hänestä.	Jest tak wredny, że nikt go nie lubi.	pahojen	0	0
+En voinut syödä appelsiinia, koska se maistui erittäin happamalta.	Pomarańcza była tak kwaśna, że nie mogłem jej zjeść.	maistui	0	0
+En koskaan juo teetä maidon kanssa.	Nigdy nie piję herbaty z mlekiem.	maidon	0	0
+Ulkomailla asuminen on paras keino oppia vieraita kieliä.	Mieszkanie za granicą jest najlepszym sposobem na nauczenie się obcego języka.	kieliä	0	0
+Jos ajat varovaisesti, vältät onnettomuudet.	Jak będziesz jeździł ostrożnie, unikniesz wypadków.	varovaisesti	0	0
+Kauppa oli suljettuna.	Sklep był zamknięty.	suljettuna	0	0
+Hän valitti saaneensa epäreilua kohtelua.	Narzekała, że potraktowano ją niesprawiedliwie.	saaneensa	0	0
+Hän on taksikuski.	On jest taksówkarzem.	taksikuski	0	0
+Minä opetan kiinaa.	Uczę chińskiego.	kiinaa	0	0
+Tervetuloa Helsinkiin, Suomen pääkapunkiin!	Witamy w Helsinkach, stolicy Finlandii!	suomen	0	0
+Isäni vei meidät eläintarhaan eilen.	Tata zabrał nas wczoraj do zoo.	eläintarhaan	0	0
+Mikä on Suomen pääkaupunki?	Co jest stolicą Finlandii?	pääkaupunki	0	0
+Koirani haukkuu koko ajan.	Mój pies szczeka cały czas.	haukkuu	0	0
+Onko se lepakko?	Czy to nietoperz?	lepakko	0	0
+Pimeässä ajaminen tuntuu lentämiseltä!	Prowadzenie samochodu po ciemku jest niczym latanie.	ajaminen	0	0
+En ole koskaan ollut setäni kodissa.	Nigdy nie byłem w domu mojego wujka.	kodissa	0	0
+Hän teki tilaa vanhalle rouvalle.	Zrobiła miejsce dla starszej kobiety.	rouvalle	0	0
+Opimme antiikin Roomasta ja Kreikasta.	Uczymy się o starożytnym Rzymie i Grecji.	roomasta	0	0
+Tom ei ollut koskaan aikaisemmin tanssinut tytön kanssa.	Tom nigdy wcześniej nie tańczył z dziewczyną.	tanssinut	0	0
+Tunnetko ketään Bostonista?	Czy znasz kogoś w Bostonie?	bostonista	0	0
+Humalainen mies nukkui penkillä.	Pijany człowiek spał na ławce.	penkillä	0	0
+Ootsä Facebookissa?	Jesteś na Facebooku?	facebookissa	0	0
+Puhutko italiaa?	Czy mówisz po włosku?	italiaa	0	0
+Opimme antiikin Roomasta ja Kreikasta.	Uczymy się o starożytnym Rzymie i Grecji.	antiikin	0	0
+Ympäristöä täytyy suojella.	Środowisko musi być chronione.	ympäristöä	0	0
+Unelmani on toteutunut.	Moje marzenie się spełniło.	toteutunut	0	0
+En mennyt yksityiskohtiin.	Nie wchodziłem w szczegóły.	yksityiskohtiin	0	0
+Minä vain inhoa nähdä Tomin itkevän.	Po prostu nienawidzę patrzeć na to, jak Tom płacze.	inhoa	0	0
+Hän on hyvä keksimään tekosyitä.	Dobrze mu wychodzi wymyślanie tłumaczeń.	keksimään	0	0
+Mistä sinä opit noin vaikean sanan?	Gdzie się nauczyłeś takiego trudnego słowa?	vaikean	0	0
+Kissani haukkuu.	Mój kot szczeka.	kissani	0	0
+Mies kuoli ambulanssia odottaessaan.	Człowiek umarł czekając na karetkę.	ambulanssia	0	0
+Tie oli pimeä ja liukas.	Droga była ciemna i śliska.	liukas	0	0
+Luulen, että sinua on petetty.	Myślę, że zostałeś oszukany.	petetty	0	0
+Lentokonetta ohjasi kaksi apinaa.	Samolotem sterowały dwie małpy.	apinaa	0	0
+Nicole puhuu japania todella hyvin.	Nicole bardzo dobrze mówi po japońsku.	japania	0	0
+Olen Tomia pidempi.	Jestem wyższy niż Tom.	tomia	0	0
+Ne ovat vain krokotiilin kyyneliä.	Te łzy są sztuczne.	kyyneliä	0	0
+Saksalaisen ystäväni nimi on Hans.	Mój przyjaciel z Niemiec nazywa się Hans.	saksalaisen	0	0
+Pidän oluesta.	Lubię piwo.	oluesta	0	0
+Laita televisio kovemmalle.	Zgłośnij telewizor.	kovemmalle	0	0
+Saanko esittäytyä?	Czy mogę się przedstawić?	esittäytyä	0	0
+Hän näki hiiren.	Zobaczył mysz.	hiiren	0	0
+Paperin tuotanto lisääntyy vuosittain.	Produkcja papieru rośnie z roku na rok.	tuotanto	0	0
+Olen tottunut tähän kylmään säähän.	Jestem przyzwyczajony do tej zimnej pogody.	kylmään	0	0
+Hän valitti saaneensa epäreilua kohtelua.	Narzekała, że potraktowano ją niesprawiedliwie.	kohtelua	0	0
+Hänellä oli kolme poikaa joista tuli asianajajia.	Miał trzech synów, którzy zostali prawnikami.	asianajajia	0	0
+Kiitos lahjasta.	Dziękuję za prezent.	lahjasta	0	0
+Viisikymmentä (50) vuotta sitten kuka tahansa olisi voinut ostaa sen tontin.	50 lat temu każdy mógł kupić tę ziemię.	viisikymmentä	0	0
+Lentokonetta ohjasi kaksi apinaa.	Samolotem sterowały dwie małpy.	lentokonetta	0	0
+Viisikymmentä (50) vuotta sitten kuka tahansa olisi voinut ostaa sen tontin.	50 lat temu każdy mógł kupić tę ziemię.	tontin	0	0
+Pidän kalasta.	Lubię ryby.	kalasta	0	0
+Puhelin on yksi Bellin lukuisista keksinnöistä.	Telefon to jeden z wielu wynalazków Bella.	bellin	0	0
+Laita televisio pienemmälle.	Wyłącz telewizor.	pienemmälle	0	0
+Tom ihastui Saksaan.	Tom pokochał Niemcy.	ihastui	0	0
+Mari ei rakasta miestään.	Mary nie kocha swojego męża.	mari	0	0
+Paras ystäväni on kanadalainen.	Mój najlepszy przyjaciel pochodzi z Kanady.	kanadalainen	0	0
+Korpiklaani on yksi minun lempi folk metal yhtyeistäni.	Korpiklaani to jeden z moich ulubionych zespołów folk metalowych.	lempi	0	0
+Jos satut muuttamaan mieltäsi, niin ilmoitathan siitä minulle.	Jeśli zmienisz zdanie, daj mi znać.	satut	0	0
+Brasiliassa jalkapallo on suosituin urheilulaji.	Piłka nożna to najpopularniejszy sport w Brazylii.	brasiliassa	0	0
+Heidän paleltumistaan hoidettiin.	Leczono ich odmrożenia.	hoidettiin	0	0
+Hän on suurissa vaikeuksissa.	Ma wielkie kłopoty.	suurissa	0	0
+Hän rakastaa junia.	On kocha pociągi.	junia	0	0
+Tomin kotona on kummituksia.	Dom Tomiego jest nawiedzony.	kummituksia	0	0
+Hän otti hämähäkin kiinni.	On schwytał pająka.	hämähäkin	0	0
+Paperin tuotanto lisääntyy vuosittain.	Produkcja papieru rośnie z roku na rok.	lisääntyy	0	0
+Peter rakastaa Janea.	Peter kocha Jane.	janea	0	0
+Se idea on todella houkutteleva.	To rzeczywiście atrakcyjna koncepcja.	houkutteleva	0	0
+Älä valehtele Tomille.	Nie kłam Tomowi.	tomille	0	0
+Korpiklaani on yksi minun lempi folk metal yhtyeistäni.	Korpiklaani to jeden z moich ulubionych zespołów folk metalowych.	metal	0	0
+Työttömyysaste nousi viiteen prosenttiin (5%:iin).	Bezrobocie wzrosło do pięciu procent.	prosenttiin	0	0
+Hän on minua päätä pitempi.	On jest o głowę wyższy ode mnie.	pitempi	0	0
+Karja näkee nälkää.	Bydło głoduje.	karja	0	0
+Haluan pullon kokista.	Chcę butelkę Coca-Coli.	kokista	0	0
+Ovesi ei ollut lukossa.	Twoje drzwi były otwarte.	ovesi	0	0
+Minä soitan viulua.	Gram na skrzypcach.	viulua	0	0
+Uskooko Tom Jumalaan?	Czy Tom wierzy w Boga?	uskooko	0	0
+Tuhannet ulkomaalaiset vierailevat Japanissa vuosittain.	Tysiące cudzoziemców odwiedzają co roku Japonię.	ulkomaalaiset	0	0
+Meillä on valkea kissa.	Mamy białego kota.	valkea	0	0
+Tietokoneeni on todella hidas.	Mój komputer jest bardzo wolny.	tietokoneeni	0	0
+Sää on aurinkoinen.	Pogoda jest słoneczna.	aurinkoinen	0	0
+En ole koskaan nähnyt matkoillani kauniimpaa vuorta kuin Everest.	W czasie mych podróży nie widziałem piękniejszej góry niż Everest.	vuorta	0	0
+Ulkomailla asuminen on paras keino oppia vieraita kieliä.	Mieszkanie za granicą jest najlepszym sposobem na nauczenie się obcego języka.	asuminen	0	0
+Tänään on vaalit Puolassa.	Dziś są wybory w Polsce.	puolassa	0	0
+En muista, asuuko Jussi Helsingissä vai Turussa?	Nie pamiętam, Jussi mieszka w Helsinkach czy w Turku?	jussi	0	0
+Tämän koulun säännöt eivät ole kovinkaan tiukkoja.	W tej szkole dyscyplina jest raczej łagodna.	tiukkoja	0	0
+Päätimme lähteä piknikille, koska sää oli niin erinomainen.	Było tak pięknie, że postanowiliśmy zrobić sobie piknik.	piknikille	0	0
+Kun taiteilija vanhenee, hänen maalaustyylinsä saattaa muuttua.	Z wiekiem malarzowi może zmieniać się styl.	vanhenee	0	0
+Pidä peukkuja.	Trzymaj kciuki.	peukkuja	0	0
+Rakastan koiraani.	Kocham mojego psa.	koiraani	0	0
+Olen vilustunut.	Przeziębiłem się.	vilustunut	0	0
+Mä en vittu tiedä miten tää lause pitäis kääntää. Käännä se ite, hoitaakoot jokainen omat paskansa.	Nie wiem jak, do kurwy nędzy, przetłumaczyć to zdanie. Sam je sobie przetłumacz, niech każdy zajmuje się swoimi pierdolonymi sprawami.	ite	0	0
+Tom makaa selällään.	Tom leży na plecach.	selällään	0	0
+En ole koskaan nähnyt matkoillani kauniimpaa vuorta kuin Everest.	W czasie mych podróży nie widziałem piękniejszej góry niż Everest.	kauniimpaa	0	0
+Tom pystyy kävelemään käsillään.	Tom umie chodzić na rękach.	käsillään	0	0
+Voinko tulla huomennakin?	Czy jutro też mogę przyjść?	huomennakin	0	0
+Esimerkiksi Suomessa ja Norjassa sataa paljon lunta talvisin.	W takich krajach jak Norwegia czy Finlandia zimą jest dużo śniegu.	norjassa	0	0
+Kaikki nukkuivat.	Wszyscy spali.	nukkuivat	0	0
+Hän on mennyt shoppailemaan.	Poszła na zakupy.	shoppailemaan	0	0
+Kuolemasi on oleva hidas ja tuskallinen.	Twoja śmierć będzie powolna i bolesna.	tuskallinen	0	0
+Olen kotoisin Australiasta.	Pochodzę z Australii.	australiasta	0	0
+Tuotako ajattelet?	Czy to jest to, co naprawdę myślisz?	tuotako	0	0
+Bob veloittaa ruohonleikkuusta kolme dollaria tunnilta.	Bob brał 3 dolary za godzinę strzyżenia trawnika.	veloittaa	0	0
+Aikoinaan ajateltiin, että ihmisen on mahdotonta lentää.	Kiedyś uważano, że człowiek nie może latać.	ajateltiin	0	0
+Kannatetaan.	Zgadzam się.	kannatetaan	0	0
+Ootsä Facebookissa?	Jesteś na Facebooku?	ootsä	0	0
+Muinaiset suomalaiset uskoivat sielun olevan lintu, joka lentää kehon ulkopuolella ihmisen nukkuessa.	Starożytni Finowie wierzyli, że dusza jest ptakiem, który wylatuje z ciała, gdy człowiek śpi.	nukkuessa	0	0
+Nuorella insinöörillä ei ollut tarpeeksi kokemusta.	Młodemu inżynierowi brakowało doświadczenia.	nuorella	0	0
+Suomessa on 187 888 järveä.	W Finlandii jest 187 888 jezior.	järveä	0	0
+Kun maaliskuu tulee, monet kukat kukkivat.	W marcu zakwitło mnóstwo kwiatów.	maaliskuu	0	0
+Älä vittu koske muhun saatanan runkkari!	Zabieraj ode mnie swoje pierdolone łapy, skurwysynu!	muhun	0	0
+Humalainen mies nukkui penkillä.	Pijany człowiek spał na ławce.	humalainen	0	0
+Tarvitsen kannettavan tietokoneen.	Potrzebuję laptopa.	kannettavan	0	0
+Tomi kuoli maanantaiaamuna.	Tom zmarł w poniedziałek rano.	maanantaiaamuna	0	0
+Hänen tavoitteensa on tulla suurlähettilääksi.	Ona ma ambicje zostania ambasadorem.	tavoitteensa	0	0
+Älä usko poliitikkojen lupauksia.	Nie wierz w obietnice polityków.	poliitikkojen	0	0
+Kuu ja tähdet loistivat korkealla yläpuolellamme.	Nad nami świecił księżyc i gwiazdy.	yläpuolellamme	0	0
+Mitä tämä sateenvarjo maksaa?	Ile kosztuje ten parasol?	sateenvarjo	0	0
+Tomi pesee tukkansa vain kerran viikossa.	Tom myje włosy tylko raz na tydzień.	tukkansa	0	0
+Esimerkiksi Suomessa ja Norjassa sataa paljon lunta talvisin.	W takich krajach jak Norwegia czy Finlandia zimą jest dużo śniegu.	suomessa	0	0
+En ole koskaan ollut Argentiinassa.	Nigdy nie byłem w Argentynie.	argentiinassa	0	0
+Tom laittoi lompakkonsa pöydälle.	Tom położył swój portfel na stół.	lompakkonsa	0	0
+Sain kirjallisen kutsun.	Otrzymałem zaproszenie.	kirjallisen	0	0
+Pidän kovasti hiuksistasi.	Uwielbiam twoje włosy.	hiuksistasi	0	0
+Oletko sinä sadisti?	Jesteś sadystą?	sadisti	0	0
+Jokainen lumihiutale on ainutkertainen.	Każdy płatek śniegu jest wyjątkowy.	ainutkertainen	0	0
+Puhuisitko hieman hitaammin.	Proszę, mów trochę wolniej.	puhuisitko	0	0
+En ole suomalainen.	Nie jestem Finem.	suomalainen	0	0
+Kun ylität sillan, älä katso alas.	Kiedy przechodzisz przez most, nie patrz w dół.	ylität	0	0
+Tom ei epäröinyt.	Tom nigdy nie zwlekał.	epäröinyt	0	0
+Kiova on Ukrainan pääkaupunki.	Kijów jest stolicą Ukrainy.	ukrainan	0	0
+Television katselu on hauskaa.	Przyjemnie jest oglądać telewizję.	katselu	0	0
+Tomin polkupyörä on varastettu.	Rower Tomiego jest skradziony.	polkupyörä	0	0
+Varkaat veivät mukanaan kaikki rahat kassakaapista.	Włamywacze ukradli całe pieniądze z sejfu.	kassakaapista	0	0
+Tom koputti ovea ja odotti.	Tom zapukał do drzwi i czekał.	koputti	0	0
+Pulu on lentänyt pois.	Gołąb odleciał.	pulu	0	0
+Minun kissani tappoi oravan.	Mój kot zabił wiewiórkę.	oravan	0	0
+Käytän joskus saksia purkinavaajana.	Czasami używam nożyczek jako otwieracza do puszek	saksia	0	0
+Hän toisti itselleen, ettei saa kertoa niin monia valheita.	Powtarzał sobie, że nie powinien tyle kłamać.	toisti	0	0
+Tom pesee hampaitaan.	Tom myje zęby.	hampaitaan	0	0
+Selittäisitkö kuinka sinne pääsee.	Wyjaśnij mi, jak tam dojechać.	selittäisitkö	0	0
+Tom kummasteli miksi Mari vaikutti niin masentuneelta.	Tom zastanawiał się, czemu Mary wyglądała na załamaną.	masentuneelta	0	0
+Kreikka ei ole helppo kieli.	Grecki nie jest łatwym językiem.	kreikka	0	0
+Hän pitää vapaapäivää.	Nie ma go, jest na wakacjach.	vapaapäivää	0	0
+Hänen sanansa yllättivät minut.	Jego słowa zdumiały mnie.	yllättivät	0	0
+Liisalle voit uskoutua, hän ei kerro kenellekään.	Lisie możesz ufać, nikomu nie powie.	uskoutua	0	0
+Käänny oikealle seuraavasta risteyksestä.	Skręć w prawo na następnym skrzyżowaniu.	risteyksestä	0	0
+Tomi ei koskaan petaa sänkyä.	Tom nigdy nie ścieli łóżka.	petaa	0	0
+Annoin hänelle lahjan kiitoksena hänen kiltteydestään.	Wręczyłem jej upominek za jej uprzejmość.	kiitoksena	0	0
+Aurinkoa läheisin planeetta on Merkurius.	Najbliższa Słońcu planeta to Merkury.	läheisin	0	0
+Ne ovat vain krokotiilin kyyneliä.	Te łzy są sztuczne.	krokotiilin	0	0
+Haluatko että puhun suomea vai englantia?	Czy chcesz, żebym mówił po fińsku czy po angielsku?	suomea	0	0
+Se koira näyttää nälkäiseltä.	Pies wygląda na głodnego.	nälkäiseltä	0	0
+Oravat oppivat nopeasti.	Wiewiórki szybko się uczą.	oravat	0	0
+Tunnen itseni täysin avuttomaksi.	Czuję się kompletnie bezsilny.	avuttomaksi	0	0
+Uidaan.	Popływajmy.	uidaan	0	0
+Helvetistä on varattu erityinen sopukka heille, jotka syövät elokuvateatterissa.	W piekle jest specjalne miejsce dla tych, którzy jedzą w kinie.	elokuvateatterissa	0	0
+Jos ajat varovaisesti, vältät onnettomuudet.	Jak będziesz jeździł ostrożnie, unikniesz wypadków.	onnettomuudet	0	0
+Kun maaliskuu tulee, monet kukat kukkivat.	W marcu zakwitło mnóstwo kwiatów.	kukkivat	0	0
+Olen kotoisin Georgiasta.	Pochodzę z Gruzji.	georgiasta	0	0
+Opimme antiikin Roomasta ja Kreikasta.	Uczymy się o starożytnym Rzymie i Grecji.	kreikasta	0	0
+Määräaika on mennyt umpeen.	Ostateczny termin minął.	määräaika	0	0
+Milloin seuraava bussi Helsinkiin menee?	Kiedy odchodzi następny autobus do Helsinek?	helsinkiin	0	0
+Missä on olueni?	Gdzie jest moje piwo?	olueni	0	0
+Uteliaisuuteni heräsi.	Moja ciekawość została rozbudzona.	uteliaisuuteni	0	0
+Esimerkiksi Suomessa ja Norjassa sataa paljon lunta talvisin.	W takich krajach jak Norwegia czy Finlandia zimą jest dużo śniegu.	talvisin	0	0

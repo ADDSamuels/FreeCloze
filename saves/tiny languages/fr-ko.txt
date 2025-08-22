@@ -1,0 +1,2128 @@
+Personne n'avait même vu quelque chose de semblable.	아무도 그 비슷한 것조차 보지 못했다.	de	0	0
+Je suis Chinoise.	저는 중국 사람입니다.	je	0	0
+Le grec est difficile à apprendre.	그리스어를 배우는 것은 어렵다.	est	0	0
+Ce n'est pas notre responsabilité.	그건 우리 책임이 아닙니다.	pas	0	0
+On ne peut que connaître le passé, pas le changer. On ne peut que changer le futur, pas le connaître.	과거는 되돌릴 수 없습니다. 미래는 알 수 없는 것이지만 바꿀 수 있는 것입니다.	le	0	0
+Mais... Personne ne traduit les phrases que j'ai faites.	이런... 아무도 내가 만든 문장을 번역 안 해.	que	0	0
+Elle n'a pas encore entendu la nouvelle.	그녀는 아직 소식을 듣지 못했다.	la	0	0
+Je vous ai sauvée.	내가 당신을 구했어요.	vous	0	0
+Tu es grande.	너 키가 크네.	tu	0	0
+J'ai un terrible mal de tête aujourd'hui.	나는 오늘 머리가 심하게 아프다.	un	0	0
+C'est stupide.	어리석은 짓이다.	c'	0	0
+J'ai ramené les livres que j'avais empruntés à la bibliothèque et j'en ai emprunté des nouveaux.	도서관에서 빌렸던 책은 반납하고, 다시 새로운 책을 빌려왔어.	à	0	0
+Le poisson et le vin rouge ne vont pas bien ensemble.	생선이랑 레드 와인은 잘 안 어울린다.	et	0	0
+Il fait très froid ce soir.	오늘 밤은 너무 춥다.	il	0	0
+Il y a des gens qui n'appartiennent certainement pas à ce monde.	이 세계에 분명 속하지 않는 사람들이 있다.	a	0	0
+Qu'est-ce que l'amour ?	사랑이 뭐야?	l'	0	0
+Je ne sais pas quel âge j'ai.	나는 내가 몇살인지 모르겠다.	ne	0	0
+Ouvre les fenêtres, s'il te plaît.	창문을 열어주세요.	les	0	0
+J'aime mieux le café.	나는 커피가 더 좋아.	j'	0	0
+Allons-y en bus.	버스로 가자.	en	0	0
+Plus on est de fous, plus on rit.	다다익선.	on	0	0
+Ne dis pas ça.	그거 얘기하지 마.	ça	0	0
+Nous avons une bonne nouvelle.	우리 좋은 소식이 있어요.	une	0	0
+Je n'ai pas le temps d'aller en Amérique.	나는 미국에 갈 시간이 없다.	d'	0	0
+Il pleut des cordes ce soir.	오늘 밤에 비가 억수 같이 온다.	ce	0	0
+Il avait appris l'anglais avant qu'il ne parte pour l'Angleterre.	그는 영국으로 떠나기 전에 영어를 배웠다.	qu'	0	0
+Soyons amis pour toujours.	언제까지나 친구로 지내자.	pour	0	0
+J'ai été naïf.	나는 순진했다.	ai	0	0
+Nous n'avons pas pu atteindre l'objectif initial.	우리는 당초의 목표를 달성하지 못했다	n'	0	0
+J'ai peur des tremblements de terre.	나는 지진이 무섭다.	des	0	0
+Qui est cette fille  ?	이 소녀는 누구입니까?	qui	0	0
+Il peut parler non seulement anglais, mais aussi français.	그는 영어뿐만 아니라 프랑스어도 할 수 있다	mais	0	0
+Elle est morte paisiblement dans son sommeil.	그녀는 자면서 평안하게 죽었다.	dans	0	0
+Le film nous a tous plu.	다들 영화를 잘 봤어요.	nous	0	0
+Je déteste dire cela mais je pense qu'elle a raison.	이런 말 하기 싫지만 그녀의 말이 맞는 것 같다.	elle	0	0
+Vous me faites pas peur.	겁 안 나는데요.	me	0	0
+Savez-vous bien parler français ?	프랑스어 잘 하세요?	bien	0	0
+Vous êtes si méchantes.	당신들 너무 못됐네요.	si	0	0
+Tu as du feu ?	불 좀 있어요?	du	0	0
+Il n'y a pas cours en août.	8월에는 수업이 없다.	y	0	0
+Je suis née en 1980.	저는 1980년생입니다.	suis	0	0
+Depuis que j'ai entendu ces paroles, je veux voyager de par les villes et provinces de France et je veux apprendre cette belle langue qu'est le français. Je souhaite non seulement cuisiner français de mes mains, mais aussi ressentir cet art de vivre à la française.	그 말을 들은 후부터 나는 프랑스의 도시들과 시골을 여행하고 싶어졌고, 아름다운 언어인 프랑스어를 배우고 싶어졌으며, 무엇보다도, 프랑스 음식을 내 손으로 직접 만들고 싶어졌다.또한 프랑스의 분위기를 느끼고 싶다.	non	0	0
+Je suis de mauvaise humeur là, donc tu ferais mieux de ne pas t'approcher.	나 지금 기분 나쁘니까 가까이 오지않는 편이 좋아.	t'	0	0
+Tom veut être avec Marie.	톰은 마리와 함께 있고 싶어한다.	avec	0	0
+Son mari mange tout ce qu'elle lui met devant le nez.	그녀의 남편은 그녀가 내놓은 것이라면 전부 먹는다.	tout	0	0
+Je te rappellerai plus tard.	이따가 전화할께	plus	0	0
+Mon père est à la maison.	우리 아빠는 집에 계신다.	mon	0	0
+Ça m'est égal.	상관없어.	m'	0	0
+Je te rappellerai plus tard.	이따가 전화할께	te	0	0
+Je suis au lit.	나는 침대에 있다.	au	0	0
+Il fait beau temps aujourd'hui par rapport à hier.	오늘의 날씨가 어제보다 더 아름답다.	fait	0	0
+Venez chez moi !	우리 집에 오세요!	moi	0	0
+Votre français s'améliore.	당신의 프랑스어 실력이 좋아지네요.	s'	0	0
+J'ai répondu oui.	나는 그렇다고 대답했다.	oui	0	0
+Tout va bien, ne t'inquiète pas !	괜찮아, 걱정하지 마.	va	0	0
+C'était très intéressant.	되게 재밌었어.	était	0	0
+Toi aussi tu m'as manqué.	저도 당신을 보고 싶었어요.	as	0	0
+Le docteur lui a donné des comprimés pour faire partir la douleur.	통증을 없애기 위해 의사가 그에게 알약을 줬다.	faire	0	0
+Ils vont bientôt revenir.	그 사람들은 곧 돌아올 것이다.	ils	0	0
+Cet ordinateur fonctionne sur batteries.	이 컴퓨터는 배터리로 작동한다.	sur	0	0
+Je ne sais plus quoi faire.	더이상 어떻게 해야할지 모르겠어.	quoi	0	0
+L'homme leva les yeux, vit le ciel gris, releva son col et se mit en chemin.	남자는 시선을 들어 회색빛 하늘을 보고, 옷깃을 세우고 길을 떠났다.	se	0	0
+Nous ne voyons pas les choses comme elles sont, mais comme nous sommes.	그 모습 그대로 사물을 보지 않고, 우리 자신의 모습으로 그것을 바라본다.	comme	0	0
+Est-ce que tu sais ?	너는 알고 있어?	sais	0	0
+Je souhaite être riche.	나는 부자가 되고 싶다.	être	0	0
+Je veux apprendre le chinois l'année prochaine.	나는 내년에 중국어를 배우고 싶다.	veux	0	0
+Les œuvres d'art ont dû traverser les océans pour être exposées ici au Brésil.	여기 브라질에서 전시되기 위해서 이 예술 작품들이 바다를 건너 왔어요.	ici	0	0
+Nancy ressemble à ma grande sœur.	낭시는 우리 언니를 닮았다.	ma	0	0
+Je crois en toi.	나는 너를 믿어.	toi	0	0
+Où est-ce que tu les as cachés ?	그걸 어디에 숨겼니?	est-ce	0	0
+Ce qu'il m'a dit ensuite m'a fait peur.	그가 나에게 했던 말이 나를 곧장 겁나게 했다.	dit	0	0
+Le docteur lui a donné des comprimés pour faire partir la douleur.	통증을 없애기 위해 의사가 그에게 알약을 줬다.	lui	0	0
+Votre français s'améliore.	당신의 프랑스어 실력이 좋아지네요.	votre	0	0
+Tu es toujours en colère ?	아직도 화났어?	es	0	0
+Pourquoi es-tu seul ?	왜 너는 혼자야?	pourquoi	0	0
+Où nous rencontrerons-nous ?	우리 어디서 볼까요?	où	0	0
+Elle est juste là.	그녀는 여기에 있다.	là	0	0
+Qui ne tente rien n'a rien.	부뚜막의 소금도 집어넣어야 짜다.	rien	0	0
+Cette personne agit rapidement.	그 사람은 동작이 빨라요.	cette	0	0
+Ces livres sont les nôtres.	이 책은 우리 책이다.	sont	0	0
+Quand est-ce que tu reviens à Boston ?	너 보스턴에는 언제 돌아올 거야?	quand	0	0
+Je ne peux pas bouger.	나는 못 움직인다.	peux	0	0
+Tu devrais toujours dire la vérité.	너는 언제나 진실을 말해야 해.	dire	0	0
+Je connais son adresse.	나는 그 사람 주소를 안다.	son	0	0
+Quelle est cette chose que vous avez dans la main ?	너 손에 무엇을 가지고 있니?	avez	0	0
+Je vais à Boston pour les vacances.	나는 휴가 때 보스턴에 간다.	vais	0	0
+Quel est ton numéro de téléphone ?	전화번호가 뭐예요?	ton	0	0
+Comment te sens-tu ?	너는 어떤 기분이니?	comment	0	0
+Depuis que j'ai entendu ces paroles, je veux voyager de par les villes et provinces de France et je veux apprendre cette belle langue qu'est le français. Je souhaite non seulement cuisiner français de mes mains, mais aussi ressentir cet art de vivre à la française.	그 말을 들은 후부터 나는 프랑스의 도시들과 시골을 여행하고 싶어졌고, 아름다운 언어인 프랑스어를 배우고 싶어졌으며, 무엇보다도, 프랑스 음식을 내 손으로 직접 만들고 싶어졌다.또한 프랑스의 분위기를 느끼고 싶다.	par	0	0
+Avez-vous eu un fils ou une fille ?	아들이야, 딸이야?	ou	0	0
+C'était la seule chose à faire.	그건 유일하게 할 일이었다.	chose	0	0
+C'est bon marché.	가격이 좋다.	bon	0	0
+Ils ont voté.	그들은 투표를 했다.	ont	0	0
+Merci de corriger ma prononciation.	제 발음을 고쳐 주세요.	merci	0	0
+C'est inévitable que j'aille en France un jour, je ne sais juste pas quand.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.	juste	0	0
+Je n'ai pas une très bonne vue.	나는 시력이 그리 좋지 않다.	très	0	0
+Tu ne peux pas manger de poulet ? Comment le sais-tu si tu ne l'as jamais goûté ?	닭을 못 먹는다고? 먹어보지도 않고 어떻게 알지?	jamais	0	0
+Peut-être que tu as raison, j'ai été égoïste.	아마도 너가 옳을지도 몰라, 내가 너무 이기적이었어.	été	0	0
+Mon frère est aussi ma sœur.	제 남동생은 제 여동생이기도 합니다.	aussi	0	0
+J'ai eu le sentiment de ne pas avoir le choix.	나는 선택의 여지가 없는 것 같은 느낌을 받았다.	avoir	0	0
+Je ne sais pas vraiment.	나는 정말로 모르겠다.	vraiment	0	0
+D'ici on peut voir la tour.	여기에서 타워가 보여.	voir	0	0
+Vous vous comportez tous de la même manière.	당신들은 모두 같은 방식으로 행동한다.	même	0	0
+Il a laissé sa voiture au garage.	자동차를 차고에 놓어두었다.	sa	0	0
+J'ai maintenant 30 ans.	나는 지금 31살이다.	maintenant	0	0
+Tous les avocats sont des menteurs.	변호사들은 모두 거짓말쟁이다.	tous	0	0
+La tour peut être vue d'ici.	여기에서 타워가 보여.	peut	0	0
+D'une pierre, deux coups.	일석이조.	deux	0	0
+Nous désirons arrêter ces négociations.	우리는 이 협상을 중단하고 싶다.	ces	0	0
+Vous n'êtes pas seul.	당신은 혼자가 아닙니다.	êtes	0	0
+Vous allez souvent à la piscine ?	당신은 수영장에 자주 갑니까?	allez	0	0
+C'est ta responsabilité.	그건 네 책임이야.	ta	0	0
+Je dois passer un autre appel.	전화 한통 더 해야 돼.	autre	0	0
+À peu près 65% des Américains sont en surpoids, ce qui n'est pas bon pour leur santé.	미국 성인은 약 65퍼센트가 비만이고 그건 그들의 건강에 좋지 않다.	peu	0	0
+User de raison avec un enfant, c'est perdre son temps.	아이에게 이치를 말해도 소용없다	temps	0	0
+Tom veut demander quelque chose à Marie.	톰은 마리에게 무언가를 부탁하기를 원한다.	quelque	0	0
+Bonne nuit. Fais de beaux rêves.	잘자. 좋은 꿈 꿔.	fais	0	0
+C'est ce que tu as toujours voulu.	그건 네가 항상 원했던 것이다.	toujours	0	0
+Il est encore ici.	그는 아직 여기 있어요.	encore	0	0
+Nous avons du potassium dans notre corps.	우리 몸 속에는 칼륨이 들어 있다.	notre	0	0
+Mes enfants vivent à Boston.	내 아이들은 보스턴에 산다.	mes	0	0
+C'est pourquoi j'ai besoin d'un long séjour en France et de fonds pour financer mon séjour.	그래서 나는 프랑스에 오래 머무르고 싶고, 그러기 위한 돈이 필요하다.	besoin	0	0
+Personne n'avait même vu quelque chose de semblable.	아무도 그 비슷한 것조차 보지 못했다.	avait	0	0
+Tom est d'accord.	톰은 동의한다.	accord	0	0
+Il nous faut une voiture.	우리는 자동차 한 대가 필요하다.	faut	0	0
+Je dois aller au lit.	자야겠어요.	dois	0	0
+Dans ce film d'horreur, les morts peuvent revenir à la vie.	이 공포 영화에선 죽은 사람이 다시 살아나는 것이 가능하다.	vie	0	0
+Peut-être suis-je trop vieux.	난 너무 늙었을지도 몰라.	peut-être	0	0
+Combien de temps ça prend d'aller à Boston en avion ?	비행기로 보스턴까지 가는 데 얼마나 걸립니까?	aller	0	0
+C'est la première fois que je mange de la confiture d'ananas. Plutôt savoureux !	파인애플 잼이란 건 처음 먹어봤네요. 맛있네요!	fois	0	0
+Je ne l'avais jamais vu auparavant.	나는 그를 전에 본 적이 없다.	vu	0	0
+Je pense donc je suis.	나는 생각한다, 고로 나는 존재한다.	donc	0	0
+J'étais sans le sou.	나는 돈 한 푼 없었다.	sans	0	0
+Parfois je me demande quand le premier championnat du monde de cyber-harcèlement aura lieu.	가끔 나는 언제 세계 제 일회 사이버 폭력 챔피언 대회가 열릴지 궁금해한다.	monde	0	0
+Je ne le ferais pas si j'étais à ta place.	네 입장이라면 나는 그 일을 하지 않겠다.	étais	0	0
+C'est parce que tu ne veux pas être seul.	왜냐하면 당신은 혼자가 되고 싶지 않기 때문이에요.	parce	0	0
+J'irai en avant.	나는 앞으로 갈 것이다.	avant	0	0
+J'en suis sûr.	확신해요.	sûr	0	0
+Elle lui a demandé d'aider son père à nettoyer le garage mais il a déclaré qu'il était trop occupé pour le faire.	그녀는 그녀의 아버지가 차고 청소 하는 것을 도와 주라고 그에게 얘기 했지만 그는 너무 바빠서 못 도와 준대.	trop	0	0
+Est-ce que quelqu'un le connaît ?	그를 아는 사람이 있습니까?	quelqu'	0	0
+Nicole sait très bien parler japonais.	니콜은 일본어를 아주 잘 한다.	parler	0	0
+Personne n'était à la maison.	집에 아무도 없었다.	personne	0	0
+En arrivant à la maison j'avais très faim.	집에 도착했을 때, 나는 너무 배고팠어	avais	0	0
+J'ai offert un stylo plume à mon père.	나는 만년필 하나를 우리 아빠에게 드렸다.	père	0	0
+Je crois en toi.	나는 당신을 믿습니다.	crois	0	0
+D'après la rumeur il y aurait des trésors cachés là-bas.	그곳에는 보물이 숨겨져 있다는 소문이 있다.	après	0	0
+Tom a dit que vous étiez bons aux échecs.	톰이 당신 체스 실력이 좋다고 하던데요.	aux	0	0
+Je crois en Dieu.	나는 신을 믿는다.	dieu	0	0
+Ses yeux s'emplissent de larmes.	그의 눈이 눈물로 가득하다.	ses	0	0
+Plus les années passent, plus je pense à ma ville natale.	해를 거듭할수록 고향 생각이 간절하다	pense	0	0
+J'ai eu du bol.	나는 운이 좋았다.	eu	0	0
+Elle dit qu'elle aime les fleurs.	그녀는 꽃을 좋아한다고 말했다.	aime	0	0
+À peu près 65% des Américains sont en surpoids, ce qui n'est pas bon pour leur santé.	미국 성인은 약 65퍼센트가 비만이고 그건 그들의 건강에 좋지 않다.	leur	0	0
+C'est un homme d'action.	그는 행동력 있는 사람이다.	homme	0	0
+Je viens d'Australie.	호주 출신입니다.	viens	0	0
+C'est malheureusement vrai.	유감스럽게도 사실이네요.	vrai	0	0
+Qui est cette femme qui porte un manteau brun ?	갈색 외투를 입은 이 여자는 누구입니까?	femme	0	0
+Tom doit payer son loyer aujourd'hui.	톰은 오늘 월세를 내야한다.	doit	0	0
+Il veut vivre en ville.	그 사람은 도시에서 살고 싶어 합니다.	veut	0	0
+J'ai trente ans.	제 나이는 삼십입니다.	ans	0	0
+Je me sens mal.	나는 상태가 안 좋다.	mal	0	0
+Va chez le barbier.	이발소에 가거라.	chez	0	0
+As-tu déjà vu une baleine ?	고래를 본 적이 있나요?	déjà	0	0
+Depuis que j'ai entendu ces paroles, je veux voyager de par les villes et provinces de France et je veux apprendre cette belle langue qu'est le français. Je souhaite non seulement cuisiner français de mes mains, mais aussi ressentir cet art de vivre à la française.	그 말을 들은 후부터 나는 프랑스의 도시들과 시골을 여행하고 싶어졌고, 아름다운 언어인 프랑스어를 배우고 싶어졌으며, 무엇보다도, 프랑스 음식을 내 손으로 직접 만들고 싶어졌다.또한 프랑스의 분위기를 느끼고 싶다.	depuis	0	0
+Il a beaucoup neigé l'année dernière.	작년에 눈이 엄청 내렸어.	beaucoup	0	0
+Avez-vous montré cela à vos parents ?	이거 부모님께도 보여드렸어요?	vos	0	0
+Il avait l'air en bonne santé.	그는 몸 상태가 좋아 보인다.	bonne	0	0
+Heureusement, il n'est pas mort.	다행히, 그는 죽지 않았다.	mort	0	0
+J'aime mieux le café.	나는 커피가 더 좋아.	mieux	0	0
+Tu vas le regretter.	너 후회할거야.	vas	0	0
+Mère et moi sommes différents en tous points.	엄마와 나는 여러모로 다르다.	mère	0	0
+Il deviendra docteur quand il sera grand.	그는 크면 의사가 될 거야.	sera	0	0
+Ne dis pas ça.	그거 얘기하지 마.	dis	0	0
+La fille qui porte le manteau bleu est ma fille.	파란색 코트를 입고 있는 여자아이는 제 딸입니다.	fille	0	0
+Je n'ai pas besoin de tes éloges.	나는 너의 칭찬은 필요 없어.	tes	0	0
+Les gens ici sont accoutumés au froid.	여기 사람들은 추위에 적응했다.	gens	0	0
+Quel est votre emploi ?	직업이 무엇입니까?	quel	0	0
+Je ne vois pas d'autres moyens de lui faire accepter notre proposition.	나는 그 사람이 우리 제안을 수락하게 할 만한 다른 방법이 보이지 않는다.	vois	0	0
+Tom n'a même pas dit qu'il était désolé.	톰은 미안하다고 하지도 았았다.	désolé	0	0
+Voilà comment j'ai fait.	이게 내가 한 방법이다.	voilà	0	0
+Nous avons nagé dans la mer.	우리는 바다에서 수영했다.	avons	0	0
+Elle a un petit pain.	그녀에게는 조그만 빵 하나가 있다.	petit	0	0
+Je ramène une pizza à la maison.	나는 피자를 집으로 가지고 간다.	maison	0	0
+Pensez-vous que prendre un petit-déjeuner chaque jour soit important ?	매일 아침을 먹는 것이 중요하다고 생각하나요?	soit	0	0
+Cela semble bon marché.	가격이 좋아 보인다.	cela	0	0
+Nous n'avons pas eu d'autres choix que d'appeler la police la nuit dernière.	어젯밤에 우리는 경찰을 부르는 거 말고는 다른 선택지가 없었어요.	autres	0	0
+Le film passionna toute l'audience.	모든 관객이 영화에 열광했다.	toute	0	0
+Nous avons énormément de temps ce soir.	우리는 오늘 밤 시간이 엄청 많다.	soir	0	0
+L'accident s'est passé avant-hier.	그저께 사고가 났다.	passé	0	0
+J'aime prendre des photos.	나 사진찍는 거 좋아해	prendre	0	0
+Je gagne 100 € par jour.	저는 하루에 100유로를 법니다.	jour	0	0
+Nous devrions respecter nos parents.	부모를 공경해야 한다.	nos	0	0
+Puis-je savoir où vous travaillez ?	당신이 어디서 일하는지 제가 알 수 있을까요?	savoir	0	0
+Nous ne voyons pas les choses comme elles sont, mais comme nous sommes.	그 모습 그대로 사물을 보지 않고, 우리 자신의 모습으로 그것을 바라본다.	choses	0	0
+Salut, Tom.	안녕, 톰.	salut	0	0
+Qu'avez-vous fait cet été ?	올 여름에 뭐 하셨어요?	cet	0	0
+Un nom référençant quelque chose de distant ou un souvenir lointain.	멀거나 기억 속의 물건을 가르켜 이름.	nom	0	0
+Est-ce que tout cet argent est à toi ?	이 돈은 전부 네 거야?	argent	0	0
+Bonjour, comment allez-vous ?	안녕하세요, 어떻게 지내세요?	bonjour	0	0
+Bonne nuit. Fais de beaux rêves.	잘자. 좋은 꿈 꿔.	nuit	0	0
+Tu avais aussi raison.	네 말도 맞았어.	raison	0	0
+Elle n'a pas moins de trente ans.	그녀눈 서른 살 이하가 아니다.	moins	0	0
+Je n'arrive pas à croire que je vienne de me faire une injection.	내가 주사를 맞고 왔다는 사실을 믿을 수 없어.	arrive	0	0
+Maman, je veux pas porter ça.	엄마, 난 이걸 입고 싶지 않아.	maman	0	0
+Reste concentré.	계속 집중하고 있어봐.	reste	0	0
+Mon père n'est pas à la maison pour le moment.	아버지는 지금 집에 안 계세요.	moment	0	0
+Je ne voulais pas te blesser.	너의 마음을 상하게 하려고 한 것은 아니다.	voulais	0	0
+Je suis tout seul.	나는 혼자 산다.	seul	0	0
+Je suis là pour t'aider.	너를 도우려고 있는 거야.	aider	0	0
+Le chien a l'air d'avoir faim.	강아지가 배고파 보이네.	air	0	0
+Il est difficile de tracer une frontière nette entre amour et amitié.	사랑과 우정 사이에 경계선을 긋는 것은 매우 어려운 일이다.	entre	0	0
+Passe une bonne fin de semaine !	좋은 주말 보내세요!	passe	0	0
+Si j'étais toi, j'aurais fait la même chose dans une situation aussi difficile.	내가 너였으면 그렇게 어려운 상황에서 똑같은 행동을 했을 것이다.	aurais	0	0
+Pas de problème, ne t'inquiète pas !	괜찮아, 걱정하지 마.	problème	0	0
+Avez-vous encore peur ?	아직도 무서우세요?	peur	0	0
+Je ne regarde pas la télé.	나는 텔레비전을 보지 않는다.	regarde	0	0
+J'ai trouvé une amie française au Maroc. Elle m'a dit que Paris n'est pas toute la France, et que les villes de province sont très belles aussi.	내가 모로코에서 만난 프랑스 친구가 나에게 빠리의 공기(분위기)가 프랑스의 전부를 나타내는 것이 아니며, 다른 도시들과 시골이 아주 아름답다고 말했다.	trouvé	0	0
+Avez-vous eu un fils ou une fille ?	아들이야, 딸이야?	fils	0	0
+Attends un peu !	잠깐 기다려 봐!	attends	0	0
+Vous savez skier ?	스키를 탈 수 있어요?	savez	0	0
+Savez-vous compter jusqu'à dix, en chinois ?	중국어로 십까지 셀 수 있습니까?	jusqu'	0	0
+Tom n'a pas pu trouver ses chaussures.	톰은 자기 신발을 못 찾았다.	trouver	0	0
+J'ai visité Boston trois fois.	나는 보스턴에 세 번 갔다.	trois	0	0
+Ces deux idées sont assez distinctes.	이 두 가지 견해가 약간 다르다.	assez	0	0
+Quel est votre nom de famille ?	성이 어떻게 되시나요?	famille	0	0
+J'ai dû rester au lit pendant deux jours.	나는 이틀 동안 침대에 머물러야 했다.	dû	0	0
+J'ai interrompu toutes mes cartes de crédit sauf une.	나는 내 신용카드를 하나만 빼고 모두 해지했다.	toutes	0	0
+Asseyez-vous, s'il vous plaît.	앉으십시오.	plaît	0	0
+Les mathématiques sont la partie des sciences qu'on pourrait continuer à faire si on se réveillait demain et découvrait que l'univers avait disparu.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	pourrait	0	0
+Ce travail ne paie pas.	이 일은 돈이 안 된다.	travail	0	0
+Elle m'a pris par la main.	그녀가 손으로 나를 붙잡았다.	pris	0	0
+Nous n'avons pas pu atteindre l'objectif initial.	우리는 당초의 목표를 달성하지 못했다	pu	0	0
+J'ai un terrible mal de tête aujourd'hui.	나는 오늘 머리가 심하게 아프다.	tête	0	0
+Quelle perte !	엄청난 손실이군!	quelle	0	0
+Tom ne sait pas quoi faire.	톰은 그가 뭘 해야 할지 모른다.	sait	0	0
+Nous sommes jumeaux.	우리는 쌍둥이다.	sommes	0	0
+Mon ami allemand s'appelle Hans.	내 독일인 친구 이름은 한스예요.	appelle	0	0
+Tom est resté quelques jours à Boston.	톰은 보스턴에서 며칠 머물렀다.	quelques	0	0
+Vous faites du sport ?	운동을 하시나요?	faites	0	0
+Il est temps de partir.	떠날 시간이다.	partir	0	0
+J'ai trouvé une solution, mais je l'ai trouvée tellement vite que ça peut pas être la bonne.	해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다.	vite	0	0
+Arrête de faire ton enfant gâté.	어리광 부리지 마.	arrête	0	0
+Chaque personne qui est seule est seule parce qu'elle a peur des autres.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	seule	0	0
+S'il avait suivi les conseils de son médecin, il ne serait peut-être pas mort.	그 남자가 의사 조언을 따랐으면 아마 안 죽었을 거야.	serait	0	0
+J'ai perdu ma clé de voiture.	나는 자동차 열쇠를 분실했다.	voiture	0	0
+Tu peux identifier la voix des enfants sans le moindre problème.	나는 아무 문제 없이 아이들의 목소리를 알아볼 수 있다.	enfants	0	0
+Ce ticket est valable pendant trois mois.	이 티켓은 3개월 동안 사용 가능 합니다.	pendant	0	0
+J'ai toujours l'idée en tête.	그 생각은 아직도 내 머리속에 남아있어	idée	0	0
+Il n'y a pas de chance d'union entre ces deux pays.	이 두 나라가 연합할 가능성은 없다.	chance	0	0
+Je parle un peu français.	나는 프랑스어를 조금 한다.	parle	0	0
+D'après la rumeur il y aurait des trésors cachés là-bas.	그곳에는 보물이 숨겨져 있다는 소문이 있다.	aurait	0	0
+As-tu quelque part où aller ?	어디 갈 데 가 있니?	part	0	0
+Elles seront très heureuses.	그들은 매우 기뻐할 것입니다.	elles	0	0
+Tom est resté à Boston pendant trois jours.	톰은 보스턴에 3일 동안 머물렀다.	jours	0	0
+Le Brésil est le plus grand pays d'Amérique du Sud.	브라질은 남미에서 가장 큰 나라입니다.	grand	0	0
+Veuillez venir.	와주세요.	venir	0	0
+Mon ami allemand s'appelle Hans.	내 독일인 친구 이름은 한스예요.	ami	0	0
+Je voudrais te voir demain.	내일 널 만나고 싶어.	demain	0	0
+Tu aimes Boston, hein ?	너 보스턴 좋아하지, 그치?	hein	0	0
+Je te rappellerai plus tard.	이따가 전화할께	tard	0	0
+Ce truc à faire était chiant à mourir.	이 짓이 지겨워 죽겠어.	truc	0	0
+Je dois passer un autre appel.	전화 한통 더 해야 돼.	passer	0	0
+Ma sœur est plus petite que toi.	내 여동생은 너보다 더 작아.	petite	0	0
+Tant pis !	안 됐네.	tant	0	0
+Je ne la connais pas.	그 사람을 몰라요.	connais	0	0
+Tom n'avait pas idée de combien Marie était riche.	톰은 마리가 얼마나 부자인지 몰랐다.	combien	0	0
+Je sens que quelque chose ne va pas.	뭔가 잘못된 것 같은 느낌이 든다.	sens	0	0
+Si vous ne disposez pas de ce programme vous pouvez le télécharger maintenant.	만약 당신에게 이 프로그램이 없다면, 지금 다운로드 받으실 수 있습니다.	pouvez	0	0
+Ferme la porte !	문을 닫아!	porte	0	0
+Aidez-moi à sortir.	내가 나갈 수 있게 도와주세요.	sortir	0	0
+Je dois aller faire les courses, je reviens dans une heure.	난 쇼핑 가야되요, 한 시간 안에 돌아올게요.	heure	0	0
+Aucun de nous n'est contre son idée.	우리 중 아무도 그 사람의 의견에 반대하지 않는다.	contre	0	0
+Elle a pris un coup de soleil.	그녀는 햇빛에 피부가 탔다.	coup	0	0
+Maintenant je comprends tout.	이제 나는 모든 것이 이해된다.	comprends	0	0
+Elle n'a pas encore entendu la nouvelle.	그녀는 아직 소식을 듣지 못했다.	entendu	0	0
+Tom vient de Boston.	톰은 보스턴 출신이다.	vient	0	0
+Allons déjeuner.	점심 먹읍시다.	allons	0	0
+Le poisson et le vin rouge ne vont pas bien ensemble.	생선이랑 레드 와인은 잘 안 어울린다.	ensemble	0	0
+Non, ce n'est pas mon nouveau petit ami.	아니야, 새 남자친구가 아니야.	nouveau	0	0
+Ce n'est pas facile d'écrire une lettre d'amour en anglais.	영어로 러브레터를 쓰는 것은 쉽지 않다.	amour	0	0
+On peut acheter des timbres dans n'importe quel bureau de poste.	우표는 어느 우체국에서라도 살 수 있습니다.	importe	0	0
+Elizabeth a tué Alister de sang froid.	엘리자베스가 알리스터를 냉혹하게 죽였다.	sang	0	0
+Je suis désolée de cet incident.	이 사고에 대해서 죄송합니다.	désolée	0	0
+Il y avait un moulin à eau sous le barrage.	댐 밑에 물방앗간이 있었다.	sous	0	0
+Combien de temps comptes-tu rester dans ce pays ?	이 나라에 얼마나 있을 생각이야?	rester	0	0
+Plus tu as d'amis, mieux c'est.	친구는 많을수록 좋아요.	amis	0	0
+Prends un bain s'il te plaît.	목욕 좀 해 주세요.	prends	0	0
+Maintenant, tout est fini.	이제는 모든 것이 끝났다.	fini	0	0
+Elizabeth a tué Alister de sang froid.	엘리자베스가 알리스터를 냉혹하게 죽였다.	tué	0	0
+Repose-moi la question en octobre.	그 문제는 10월에 다시 저에게 제기해주세요.	question	0	0
+Le Canada borde la partie nord des USA.	미국은 북쪽으로 캐나다와 경계를 짓고 있다.	partie	0	0
+Je ne suis vraiment pas intéressée par l'histoire.	역사에는 전혀 흥미가 없어.	histoire	0	0
+Tu devrais toujours dire la vérité.	너는 언제나 진실을 말해야 해.	devrais	0	0
+Merci pour ton aide.	도와줘서 고마워.	aide	0	0
+Nous n'avons pas eu d'autres choix que d'appeler la police la nuit dernière.	어젯밤에 우리는 경찰을 부르는 거 말고는 다른 선택지가 없었어요.	dernière	0	0
+L'apprentissage d'une langue étrangère demande de la patience.	외국어 습득에는 인내가 필요하다.	demande	0	0
+Je pensais qu'il était l'heure de déjeuner.	나는 점심시간이라고 생각했다.	pensais	0	0
+Je n'avais jamais vu ce genre de poisson jusqu'à maintenant.	여태 이런 물고기를 한 번도 본 적 없어.	genre	0	0
+Marc travaille seulement pour l'argent.	마크는 오직 돈 때문에 일한다.	seulement	0	0
+Nous n'avons pas eu d'autres choix que d'appeler la police la nuit dernière.	어젯밤에 우리는 경찰을 부르는 거 말고는 다른 선택지가 없었어요.	police	0	0
+Deux mois ont passé depuis qu'il est parti pour la France.	그가 프랑스로 떠난 지 두 달이 지났다.	mois	0	0
+Mon frère est très important. Du moins il pense qu'il l'est.	남동생은 매우 중요한 인물이야. 적어도 그 녀석은 그렇게 생각하고 있어.	frère	0	0
+Aucun fleuve dans le monde n'est plus long que le Nil.	나일강만큼 긴 강은 세상에 없다.	aucun	0	0
+C'est un casse-tête de décider quoi mettre pour la fête.	파티에 뭘 놓을지 결정하느라 머리가 지끈거린다.	mettre	0	0
+L'un d'eux est un espion.	둘 중 하나는 스파이다.	eux	0	0
+Ne laisse plus jamais cela arriver !	그 일이 일어나도록 절대 내버려 두지 마.	laisse	0	0
+Cette méthode fonctionne à chaque fois.	이 방법은 매번 먹힌다.	chaque	0	0
+Il y a une bibliothèque dans chaque ville étatsunienne.	모든 미국 도시에는 도서관이 있다.	ville	0	0
+Le courrier est arrivé.	택배기사가 도착했다.	arrivé	0	0
+Dans un dictionnaire comme celui-ci il devrait y avoir au moins deux phrases avec « réfrigérateur ».	이러한 사전에는 냉장고에 대한 적어도 두가지의 예문이 있어야 한다.	devrait	0	0
+L'espagnol est parlé dans beaucoup de pays.	스페인어는 많은 국가에서 쓰인다.	parlé	0	0
+Avez-vous beaucoup de temps ?	시간 많으세요?	avez-vous	0	0
+Ils vont aimer cela.	그 사람들은 이걸 좋아할 거예요.	vont	0	0
+J'aurais dû faire cuire le porc plus longtemps.	돼지고기를 더 구웠어야 했는데.	longtemps	0	0
+Il n'y a aucune raison de paniquer.	혼란에 빠질 어떠한 이유도 없다.	aucune	0	0
+Je me lève à six heures chaque matin.	매일 아침 6시에 일어나요.	heures	0	0
+Le bébé est en train de dormir.	아기가 자고 있다.	bébé	0	0
+Prends place !	자리 잡아!	place	0	0
+Au revoir.	안녕히 가세요.	revoir	0	0
+Je n'ai pas compris la blague.	나는 그 농담을 이해하지 못했다.	compris	0	0
+Je n'ai ni frère ni sœur.	나는 형제 자매가 없다.	ni	0	0
+Je ne savais pas que tu étais si fatigué.	나는 네가 그렇게 피곤한지 몰랐어.	savais	0	0
+Ils étaient trop fatigués pour grimper une montagne.	그들은 너무 피곤하여 산을 오를 수 없었다.	étaient	0	0
+Ne faites pas attention à moi.	저한테 신경 쓰지마세요	attention	0	0
+Est-ce que je pourrais avoir ton numéro de téléphone ?	전화번호 좀 줄래요?	pourrais	0	0
+Tout mon corps est endolori.	내 온몸이 아프다.	corps	0	0
+Étant donné que je n'ai reçu aucune réponse, je me demandais s'il était possible que mon courrier ne vous ait jamais été livré.	답장을 아직도 못 받아서 혹시 내 우편물이 너한테 배달되지 않은 건지 궁금했다.	donné	0	0
+Le français est-il plus difficile que l'anglais ?	프랑스어는 영어보다 더 어려워요?	est-il	0	0
+Je m'appelle Stéphane et voici Christiane.	제 이름은 스테판이고 이 분은 크리스티안입니다.	voici	0	0
+Il est en train de lire un livre.	그는 책 한 권을 읽고 있습니다.	train	0	0
+J'ai deux fils, dont l'un est à Tokyo et l'autre à Nagoya.	나는 아들이 둘 있는데 하나는 도쿄에 있고 다른 하나는 나고야에 있다.	dont	0	0
+Tom écoute.	톰은 듣는다.	écoute	0	0
+Ses yeux étaient pleins de larmes.	그의 눈이 눈물로 가득했다.	yeux	0	0
+Il n'est si méchant pot qui ne trouve son couvercle.	짚신도 짝이 있다	trouve	0	0
+Es-tu sûr de pouvoir faire ça ?	네가 그걸 할 수 있다고 확신해?	pouvoir	0	0
+J'ai perdu ma clé de voiture.	나는 자동차 열쇠를 분실했다.	perdu	0	0
+Parfois je me demande quand le premier championnat du monde de cyber-harcèlement aura lieu.	가끔 나는 언제 세계 제 일회 사이버 폭력 챔피언 대회가 열릴지 궁금해한다.	premier	0	0
+J'ai visité la France deux fois : la première quand j’étais étudiante et la deuxième lors d'un séjour au Maroc.	나는 프랑스에 두 번(내가 대학생일 때와 내가 모로코에 있었을 때) 방문했다.	première	0	0
+Qui est l’homme de l’autre côté de la table ?	테이블 반대편에 있는 남자는 누구입니까?	côté	0	0
+J'ai trouvé une solution, mais je l'ai trouvée tellement vite que ça peut pas être la bonne.	해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다.	tellement	0	0
+Elle a fait un geste de la main.	그녀는 손짓을 했다.	main	0	0
+Sois juste !	공정하게 해.	sois	0	0
+Arrête de me faire des yeux doux d'enfant.	어리광 부리지 마.	enfant	0	0
+Je suis peut-être trop vieux.	난 아마 너무 늙었어.	vieux	0	0
+Venez demain matin.	내일 아침에 오세요.	matin	0	0
+Je suis venu en train.	기차를 타고 왔어요.	venu	0	0
+D'après la rumeur il y aurait des trésors cachés là-bas.	그곳에는 보물이 숨겨져 있다는 소문이 있다.	là-bas	0	0
+Dois-je partir de suite ?	저는 바로 떠나야 하나요?	suite	0	0
+Si j'avais des ailes, je volerais vers toi.	나에게 날개가 달렸다면 너에게 날아갈 것이다.	vers	0	0
+Ça lui a demandé plusieurs semaines pour se remettre du choc.	그가 충격에서 벗어나는 데는 몇 주 걸렸다.	demandé	0	0
+Venez à nous.	우리한테 오세요.	venez	0	0
+Je ne crois pas que je vais passer toute la journée devant cet écran.	내가 하루 종일 이 화면 앞에서 시간을 보낼 것 같지는 않다.	devant	0	0
+On a enfin su la vérité.	우리는 결국 진실을 알게 되었다.	enfin	0	0
+Nous désirons arrêter ces négociations.	우리는 이 협상을 그만하고 싶다.	arrêter	0	0
+À cause de son ronflement, je n'ai pas pu m'endormir.	그 사람이 코를 골아서, 나는 잠을 잘 수 없었다.	cause	0	0
+Nous avons une bonne nouvelle.	우리 좋은 소식이 있어요.	nouvelle	0	0
+Elle a cette grande chambre pour elle toute seule.	그녀는 이 큰 방을 전부 혼자 사용하고 있다.	chambre	0	0
+Les Étatsuniens ont le droit de porter des armes.	미국인들은 무기를 소지할 권리가 있다.	droit	0	0
+Il est parti pour Londres début juillet.	그는 7월 초에 런던으로 향했다.	parti	0	0
+Tom a mis sa chemise à l'envers.	톰이 셔츠를 뒤집어 입었어.	mis	0	0
+Voudrais-tu un verre d'eau ?	물 한 컵 원해?	eau	0	0
+Ne compte pas sur moi.	저한테 의지하지 마세요.	compte	0	0
+On dirait qu'il est riche.	그는 돈이 많은 것 같다.	dirait	0	0
+J'ai peur des tremblements de terre.	나는 지진이 두렵다.	terre	0	0
+Depuis que j'ai entendu ces paroles, je veux voyager de par les villes et provinces de France et je veux apprendre cette belle langue qu'est le français. Je souhaite non seulement cuisiner français de mes mains, mais aussi ressentir cet art de vivre à la française.	그 말을 들은 후부터 나는 프랑스의 도시들과 시골을 여행하고 싶어졌고, 아름다운 언어인 프랑스어를 배우고 싶어졌으며, 무엇보다도, 프랑스 음식을 내 손으로 직접 만들고 싶어졌다.또한 프랑스의 분위기를 느끼고 싶다.	belle	0	0
+Tant que je respire, j'espère.	쉼쉬는 한, 희망이 있다.	espère	0	0
+J'aimerais bien pouvoir aller au Japon.	일본에 갈 수 있었으면 좋겠어요.	aimerais	0	0
+Je veux un bateau qui m'emmènera très loin d'ici.	나를 여기서 멀리 데려다줄 배 한 척이 필요하다.	loin	0	0
+As-tu déjà vu une baleine ?	고래를 본 적이 있나요?	as-tu	0	0
+Son mari mange tout ce qu'elle lui met devant le nez.	그녀의 남편은 그녀가 내놓은 것이라면 전부 먹는다.	mari	0	0
+Passe une bonne fin de semaine !	좋은 주말 보내세요!	fin	0	0
+Arrivez-vous à le croire ?	믿을 수 있어요?	croire	0	0
+Parfois je me demande quand le premier championnat du monde de cyber-harcèlement aura lieu.	가끔 나는 언제 세계 제 일회 사이버 폭력 챔피언 대회가 열릴지 궁금해한다.	aura	0	0
+Je ne suis pas gros.	나는 안 뚱뚱하다.	gros	0	0
+Comment se passe ton nouveau boulot ?	네 새 직업은 어때?	boulot	0	0
+C'est la première fois que je mange de la confiture d'ananas. Plutôt savoureux !	파인애플 잼이란 건 처음 먹어봤네요. 맛있네요!	plutôt	0	0
+Est-ce que le déjeuner est prêt ?	점심 식사는 준비됐나요?	prêt	0	0
+On peut acheter des timbres dans n'importe quel bureau de poste.	우표는 어느 우체국에서라도 살 수 있습니다.	bureau	0	0
+Ce truc à faire était chiant à mourir.	이 짓이 지겨워 죽겠어.	mourir	0	0
+Hier, je me suis levé tôt.	어제는 일찍 일어났어.	hier	0	0
+Lis le plus de livres possible.	가능한 한 많은 책을 읽으렴.	possible	0	0
+Je vais jouer au tennis cet après-midi.	나는 오늘 오후 테니스를 칠 거다.	jouer	0	0
+J'avais trop peur de demander.	물어보기엔 너무 무서웠다.	demander	0	0
+Prends celui que tu préfères.	네가 제일 좋아하는 걸 골라.	celui	0	0
+Tom ne voulait pas être impliqué.	톰은 연루되고 싶지 않았다.	voulait	0	0
+Tom est très beau.	톰은 매우 잘생겼어요.	beau	0	0
+Le pauvre jeune homme devint finalement un grand artiste.	그 불쌍한 청년은 결국 위대한 예술가가 되었다.	jeune	0	0
+Laisse le chien dehors.	개를 밖에 두세요.	dehors	0	0
+Le docteur lui a donné des comprimés pour faire partir la douleur.	통증을 없애기 위해 의사가 그에게 알약을 줬다.	docteur	0	0
+Y a-t-il un musicien connu sur scène ?	무대 위에 유명한 음악가가 있습니까?	a-t-il	0	0
+J'ai confiance en lui.	나는 그를 신뢰한다.	confiance	0	0
+Elle était censée l'appeler à quatorze heures trente.	그녀는 2시 30분에 그에게 전화하기로 되어있었다.	appeler	0	0
+C'était il y a des années.	그건 몇 년 전이었다.	années	0	0
+On a enfin su la vérité.	우리는 결국 진실을 알게 되었다.	vérité	0	0
+Je suis allé à l'école, hier.	어제는 학교에 갔습니다.	école	0	0
+La plupart des femmes rêvent d'un mariage en grande noce.	여자들은 대부분 화려한 결혼식을 꿈꿔.	femmes	0	0
+Passez une excellente fin de semaine.	좋은 주말 보내십시오!	semaine	0	0
+Depuis que j'ai entendu ces paroles, je veux voyager de par les villes et provinces de France et je veux apprendre cette belle langue qu'est le français. Je souhaite non seulement cuisiner français de mes mains, mais aussi ressentir cet art de vivre à la française.	그 말을 들은 후부터 나는 프랑스의 도시들과 시골을 여행하고 싶어졌고, 아름다운 언어인 프랑스어를 배우고 싶어졌으며, 무엇보다도, 프랑스 음식을 내 손으로 직접 만들고 싶어졌다.또한 프랑스의 분위기를 느끼고 싶다.	vivre	0	0
+Regardez le tableau.	칠판을 보십시오.	regardez	0	0
+Le rideau prit feu.	깃발에 불이 붙었다.	feu	0	0
+Passez une bonne journée.	좋은하루 되세요.	journée	0	0
+Disposez-vous d'un téléphone portable ?	핸드폰을 가지고 계신가요?	téléphone	0	0
+À peu près 65% des Américains sont en surpoids, ce qui n'est pas bon pour leur santé.	미국 성인은 약 65퍼센트가 비만이고 그건 그들의 건강에 좋지 않다.	près	0	0
+Notre restaurant est le meilleur.	우리 레스토랑이 최고다.	meilleur	0	0
+Depuis que j'ai entendu ces paroles, je veux voyager de par les villes et provinces de France et je veux apprendre cette belle langue qu'est le français. Je souhaite non seulement cuisiner français de mes mains, mais aussi ressentir cet art de vivre à la française.	그 말을 들은 후부터 나는 프랑스의 도시들과 시골을 여행하고 싶어졌고, 아름다운 언어인 프랑스어를 배우고 싶어졌으며, 무엇보다도, 프랑스 음식을 내 손으로 직접 만들고 싶어졌다.또한 프랑스의 분위기를 느끼고 싶다.	mains	0	0
+Je vous prie de m'excuser.	저를 용서해 주세요.	prie	0	0
+Une équipe de football se compose de onze joueurs.	축구는 11멍의 선수로 팀이 구성된다.	équipe	0	0
+La plupart des femmes rêvent d'un mariage en grande noce.	여자들은 대부분 화려한 결혼식을 꿈꿔.	grande	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	manger	0	0
+Elle a travaillé dur.	그녀는 열심히 일했다.	dur	0	0
+Nul n'aime la guerre.	아무도 전쟁을 좋아하지 않습니다.	guerre	0	0
+Étant donné que je n'ai reçu aucune réponse, je me demandais s'il était possible que mon courrier ne vous ait jamais été livré.	답장을 아직도 못 받아서 혹시 내 우편물이 너한테 배달되지 않은 건지 궁금했다.	ait	0	0
+Comment marche cet appareil photo ?	이 카메라가 어떻게 작동하지?	marche	0	0
+Je suis en sécurité.	나는 안전하다.	sécurité	0	0
+Le garçon boit du lait.	소년은 우유를 마신다.	garçon	0	0
+Mon frère est très important. Du moins il pense qu'il l'est.	남동생은 매우 중요한 인물이야. 적어도 그 녀석은 그렇게 생각하고 있어.	important	0	0
+Tu es exactement comme ton père.	너는 아빠랑 똑같다.	exactement	0	0
+Que font ces gens ?	그사람들이 뭐 해요?	font	0	0
+Tom est le plus fort.	톰이 가장 강해.	fort	0	0
+Il était presque midi lorsque je me suis réveillée.	깨어나 보니 정오가 다 되어 있었다.	presque	0	0
+Il est plein d'énergie.	그 남자는 에너지가 넘친다.	plein	0	0
+La plupart des femmes rêvent d'un mariage en grande noce.	여자들은 대부분 화려한 결혼식을 꿈꿔.	mariage	0	0
+Avez-vous montré cela à vos parents ?	이거 부모님께도 보여드렸어요?	parents	0	0
+Nous étions à Boston l'hiver dernier.	우리는 지난 겨울 보스턴에 있었다.	dernier	0	0
+Tu es fou.	너는 미쳤어.	fou	0	0
+Devrions-nous attendre Tom ?	우리 톰을 기다려야할까?	attendre	0	0
+La tour peut être vue d'ici.	여기에서 타워가 보여.	vue	0	0
+C'est un casse-tête de décider quoi mettre pour la fête.	파티에 뭘 놓을지 결정하느라 머리가 지끈거린다.	fête	0	0
+Connais-tu les règles du jeu ?	게임의 룰 알고 있어?	jeu	0	0
+Tu es génial.	너 멋지다.	génial	0	0
+Taïwan est un pays.	대만은 국가입니다.	pays	0	0
+Je cours dix kilomètres chaque jour.	나는 매일 10 킬로미터를 달려.	cours	0	0
+Je serai bientôt de retour.	곧 돌아올께요.	bientôt	0	0
+Est-ce que je pourrais avoir ton numéro de téléphone ?	전화번호 좀 줄래요?	numéro	0	0
+Il y avait seulement six personnes à la réunion.	회의에 여섯 명밖에 없었다.	personnes	0	0
+Je me suis levé vers cinq heures.	나는 다섯 시쯤 일어났다.	cinq	0	0
+Le français de Tom est parfait.	톰의 프랑스어는 완벽하다.	parfait	0	0
+Excusez-moi, où est la sortie ?	실례합니다. 출구가 어디인가요?	excusez-moi	0	0
+Il a laissé sa voiture au garage.	자동차를 차고에 놓어두었다.	laissé	0	0
+Je serai bientôt de retour.	곧 돌아올께요.	retour	0	0
+« Ça semble très intéressant », dit Hiroshi.	히로시는 이것 재미 있을 것 같다고 말한다.	semble	0	0
+Lis autant de livres que tu peux.	가능한 한 많은 책을 읽으렴.	autant	0	0
+Bonheur partagé revient multiplié, peine partagée revient à moitié.	기쁨은 나누면 배가 되고 슬픔은 나누면 반이 된다.	peine	0	0
+Il a essayé de se lever.	그는 일어서려고 애썼다.	essayé	0	0
+Un instant.	잠깐만요.	instant	0	0
+Je t'expliquerai comment l'utiliser une fois que je serai rentré.	제가 돌아오면 그것을 어떻게 사용하는지 설명해드릴게요.	serai	0	0
+J'étais en train de penser à Boston.	나는 보스턴에 대한 생각을 하고 있었다.	penser	0	0
+Laissez-moi essayer.	내가 시도해보게 놔둬.	essayer	0	0
+Elle prend des leçons de piano une fois par semaine.	그녀는 일주일에 한 번 피아노 레슨을 받는다.	prend	0	0
+Ce mot n'est pas dans mon dictionnaire.	이 단어는 내 사전에 없다.	mot	0	0
+Je vais travailler seul.	나는 혼자 일 할 거다.	travailler	0	0
+Si tu retranches quatre de dix, tu obtiens six.	10에서 4를 빼면 6이 남는다.	quatre	0	0
+Tom est en train de rentrer à Boston.	톰은 보스턴으로 돌아가는 중이다.	rentrer	0	0
+Je suis fatigué de regarder la télévision.	나는 티브이 보느라 지쳤다.	regarder	0	0
+J'ai eu le sentiment de ne pas avoir le choix.	나는 선택의 여지가 없는 것 같은 느낌을 받았다.	choix	0	0
+Êtes-vous sourd ?	귀가 안 들리시나요?	êtes-vous	0	0
+Parfois je me demande quand le premier championnat du monde de cyber-harcèlement aura lieu.	가끔 나는 언제 세계 제 일회 사이버 폭력 챔피언 대회가 열릴지 궁금해한다.	parfois	0	0
+Dans ce film d'horreur, les morts peuvent revenir à la vie.	이 공포 영화에선 죽은 사람이 다시 살아나는 것이 가능하다.	film	0	0
+D'abord, parlons de Tom.	일단, 톰에 대해서 얘기해봅시다.	abord	0	0
+Ce n'est pas de sa faute.	그녀의 책임은 아니다.	faute	0	0
+Ce n'est pas facile d'écrire une lettre d'amour en anglais.	영어로 러브레터를 쓰는 것은 쉽지 않다.	facile	0	0
+Je croyais qu'il était médecin.	나는 그 남자가 의사라고 생각했다.	croyais	0	0
+On ne peut que connaître le passé, pas le changer. On ne peut que changer le futur, pas le connaître.	과거는 되돌릴 수 없습니다. 미래는 알 수 없는 것이지만 바꿀 수 있는 것입니다.	changer	0	0
+Je veux être heureux.	나는 행복해지고 싶어.	heureux	0	0
+Je voudrais la rencontrer.	그녀와 만나고 싶은데요.	voudrais	0	0
+Es-tu seul ?	당신은 혼자입니까?	es-tu	0	0
+Tom a dit que vous étiez bons aux échecs.	톰이 당신 체스 실력이 좋다고 하던데요.	étiez	0	0
+J'avais l'intention de faire un tour au village.	나는 마을을 둘러 볼 생각이 있었다.	tour	0	0
+Cela fera deux ans que nous vivons ici avril prochain.	4월이면 우리가 여기서 산 지 2년이 될 거다.	fera	0	0
+Ce qu'il m'a dit ensuite m'a fait peur.	그가 나에게 했던 말이 나를 곧장 겁나게 했다.	ensuite	0	0
+Ma mère dit qu'elle allait bien.	저희 어머니께서 괜찮다고 말씀하셨어요.	allait	0	0
+J'ai dû rester au lit pendant deux jours.	나는 이틀 동안 침대에 누워있어야 했다.	lit	0	0
+Marc travaille seulement pour l'argent.	마크는 돈만 보고 일한다.	travaille	0	0
+J'adore cette écharpe.	나는 이 스카프가 마음에 든다.	adore	0	0
+Ce n'est pas que je veux une petite amie, c'est que je veux être amoureux.	난 여자친구를 갖고 싶은 게 아니라 사랑을 하고 싶은 거야.	amie	0	0
+Herold accepta de se rendre.	헤롤드는 항복했습니다	rendre	0	0
+Allons-y en bus.	버스로 가자.	allons-y	0	0
+En route pour Tokyo, j'ai fait une halte à Osaka.	나는 도쿄로 가는 길에 오사카에 잠시 들렀다.	route	0	0
+Un triste accident a eu lieu hier.	어제 슬픈 일이 생겼어.	lieu	0	0
+Tom va à Boston chaque année.	톰은 매년 보스턴에 가요.	année	0	0
+J'aurais besoin que tu me rendes un petit service.	너한테 조그만 부탁이 하나 있어.	service	0	0
+Si j'étais toi, j'aurais fait la même chose dans une situation aussi difficile.	내가 너였으면 그렇게 어려운 상황에서 똑같은 행동을 했을 것이다.	difficile	0	0
+J'en suis sûre.	확신해요.	sûre	0	0
+Le pire est déjà passé.	최악은 이미 지나갔다.	pire	0	0
+Dans ce film d'horreur, les morts peuvent revenir à la vie.	이 공포 영화에선 죽은 사람이 다시 살아나는 것이 가능하다.	peuvent	0	0
+Je ne suis pas d'accord avec vous à ce sujet.	나는 이 주제에 대해서 당신과 동의하지 않습니다.	sujet	0	0
+La Russie est un État terroriste.	러시아는 테러 국가.	état	0	0
+Utilisez ceci.	이걸 사용하세요.	ceci	0	0
+Ce n'est pas impossible.	불가능하지 않다.	impossible	0	0
+User de raison avec un enfant, c'est perdre son temps.	아이에게 이치를 말해도 소용없다	perdre	0	0
+C'est ce que tu as toujours voulu.	그건 네가 항상 원했던 것이다.	voulu	0	0
+Elle est morte paisiblement dans son sommeil.	그녀는 수면 중에 평안하게 죽었다.	morte	0	0
+Qui ira ?	누가 갈거야?	ira	0	0
+Il ne fait pas aussi froid aujourd'hui qu'il le faisait hier.	오늘은 어제만큼 춥지 않다.	faisait	0	0
+J'ai oublié l'anniversaire de ma femme.	나는 내 아내의 생일을 잊어버렸다.	oublié	0	0
+Je ferai ce que j'ai à faire.	나는 해야할 것을 할 것이다.	ferai	0	0
+Hier je me suis levé tôt.	어제는 일찍 일어났어.	tôt	0	0
+Pas de problème, ne t'inquiète pas !	괜찮아, 걱정하지 마.	inquiète	0	0
+Laisse-moi payer.	내가 계산하게 해줘.	payer	0	0
+Je dois aller faire les courses, je reviens dans une heure.	난 쇼핑 가야되요, 한 시간 안에 돌아올게요.	reviens	0	0
+Le chien est en train de détruire les meubles dans notre maison.	개가 우리 집의 가구를 망가뜨리고 있다.	chien	0	0
+Prenez la mienne.	제 걸 가져가세요.	prenez	0	0
+Que dites-vous d'une tasse de café ?	커피 한 잔 어때요?	café	0	0
+Je suis calme.	나는 차분하다.	calme	0	0
+Il cherche un emploi.	그는 일자리를 찾고 있다.	cherche	0	0
+Tu ne parles pas français ?	프랑스어 못하니?	parles	0	0
+Est-ce que c'est une photo récente ?	이 사진 최근 거에요?	photo	0	0
+Ferme la porte !	문을 닫아!	ferme	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	the	0	0
+La mer était aussi lisse que le verre.	바다는 유리처럼 매끈했다.	verre	0	0
+Est-ce que c'est un grand frère pour toi ? Ou est-ce que tu l'aimes ?	너 그 사람을 오빠-동생으로 생각하니? 아니면 애인으로 사랑하니?	aimes	0	0
+Pouvez-vous réduire le volume de la musique, s'il vous plaît ?	음악 소리를 좀 줄이세요.	musique	0	0
+Est-ce que tu es au courant ?	너는 알고 있어?	courant	0	0
+J'ai interrompu toutes mes cartes de crédit sauf une.	나는 내 신용카드를 하나만 빼고 모두 해지했다.	sauf	0	0
+Pas de nouvelles, bonnes nouvelles.	무소식이 희소식이다.	nouvelles	0	0
+Puis-je savoir où vous travaillez ?	당신이 어디서 일하는지 제가 알 수 있을까요?	puis-je	0	0
+Y a-t-il un hôpital à proximité ?	근처에 병원이 있습니까?	hôpital	0	0
+Je n'aime pas les enseignants qui aiment les étudiants qui n'aiment pas poser de questions.	나는 질문을 좋아하지 않는 학생을 좋아하는 선생님을 좋아하지 않아.	questions	0	0
+Qui a parlé de meurtre ?	누가 살인에 대해 말했습니까?	meurtre	0	0
+Tu ne peux pas être sérieux.	진심일 리 없어.	sérieux	0	0
+L'habitude est une seconde nature.	습관은 제2의 천성이다.	seconde	0	0
+Et je veux étudier de nombreuses langues pour comprendre le monde. Actuellement, je prépare une licence de grec classique.	그리고 나는 세상을 이해하고 싶기 때문에, 여러 언어를 배우고 싶다. 지금 나는 고대 그리스어 학위과정을 밟고 있다.	comprendre	0	0
+C'est bon marché.	가격이 싸다.	marché	0	0
+Le monde est une cage à fous.	이 세상은 미치광이들의 소굴이다	fous	0	0
+Laisse-moi voir ça.	내가 이걸 보게 내버려 둬.	laisse-moi	0	0
+La bibliothèque de l'Université de Genève a une bonne salle de lecture.	제네바 대학의 도서관에는 좋은 열람실이 있다.	salle	0	0
+Je crois qu'elle est malade.	내 생각에 그녀가 아픈 것 같다.	malade	0	0
+C'est très gentil de ta part de m'aider.	네가 나를 도와주다니 정말 친절하네.	gentil	0	0
+Je suis allé skier pour la première fois cet hiver.	나는 이번 겨울에 처음으로 스키를 타러 갔다.	allé	0	0
+Cinq est le nombre entre quatre et six.	오는 사와 육 사이의 숫자이다.	six	0	0
+Tom a montré la photo de John à Mary.	톰은 매리에게 존의 사진을 보여줬다.	john	0	0
+Je ne vous ai pas vus depuis des semaines.	나는 당신들을 몇 주 전부터 보지 못했다.	semaines	0	0
+J'ai trouvé une amie française au Maroc. Elle m'a dit que l'ambiance à Paris n'est pas celle de toute la France, d'autres villes et provinces sont très belles.	내가 모로코에서 만난 프랑스 친구가 나에게 빠리의 공기(분위기)가 프랑스의 전부를 나타내는 것이 아니며, 다른 도시들과 시골이 아주 아름답다고 말했다.	celle	0	0
+Jack est en chemin pour le succès cette fois-ci.	잭은 이번에 성공을 향해 가고 있습니다.	jack	0	0
+Il avait appris l'anglais avant qu'il ne parte pour l'Angleterre.	그는 영국으로 떠나기 전에 영어를 배웠다.	appris	0	0
+Je sors avec Lisa ce soir.	오늘 밤은 리사와 외출할게.	sors	0	0
+Il a commencé à devenir chauve très jeune.	그는 꽤 젊었을 때부터 대머리가 되기 시작했다.	commencé	0	0
+Je l'ai rencontré sur le chemin de l'école à la maison.	학교에서 돌아가는 길에 만났어.	chemin	0	0
+Je te suivrai partout où tu iras.	네가 어디를 가든 나는 너를 따라갈 거야.	partout	0	0
+Tu t'es cassé le bras.	너는 팔이 부러졌다.	bras	0	0
+Je veux apprendre le chinois l'année prochaine.	나는 내년에 중국어를 배우고 싶다.	prochaine	0	0
+Son visage affiche une gratitude évidente.	감사하는 빛이 그의 얼굴에 역력하다.	visage	0	0
+Le symbole chimique H désigne l'hydrogène.	화학 기호 H는 수소를 나타낸다.	h	0	0
+La météo est meilleure qu'hier.	오늘의 날씨가 어제보다 더 아름답다.	meilleure	0	0
+Tu es en retard.	너 늦었어.	retard	0	0
+Il t'as lu le texte qu'il a écrit.	그는 당신에게 본인이 쓴 글을 읽어줬습니다.	écrit	0	0
+J'ai lu un livre.	나는 책을 한 권 읽었다.	livre	0	0
+Il fait beau temps aujourd'hui par rapport à hier.	오늘의 날씨가 어제보다 더 아름답다.	rapport	0	0
+Je peux prendre un message.	메세지 전해 드릴께요.	message	0	0
+Où voulez-vous aller ?	어디 가고싶어요?	voulez-vous	0	0
+Son nouveau roman vaut le coup de le lire.	그의 새로운 소설은 읽을만한 가치가 있다.	vaut	0	0
+Je ne le ferais pas si j'étais toi.	내가 너라면 그러지 않을 거야.	ferais	0	0
+Dans ce film d'horreur, les morts peuvent revenir à la vie.	이 공포 영화에선 죽은 사람이 다시 살아나는 것이 가능하다.	morts	0	0
+Je voudrais boire un café.	커피를 마시고싶어요.	boire	0	0
+Soyez prête !	준비하세요!	soyez	0	0
+J'abhorre le nouveau président.	난 이번 대통령이 싫어.	président	0	0
+Ouvrez la fenêtre s'il vous plait.	창문을 열어주세요.	plait	0	0
+Je ne bois jamais de bière.	나는 맥주를 절대 마시지 않는다.	bois	0	0
+S'attaquer à la Libye fut une grave erreur.	리비아를 공격하는 것은 중대한 실수였다.	erreur	0	0
+Il semblerait que Mr. Tanaka ait réussi l'examen.	다나카 씨는 시험에 합격한 것 같습니다.	mr	0	0
+Dans ce film d'horreur, les morts peuvent revenir à la vie.	이 공포 영화에선 죽은 사람이 다시 살아나는 것이 가능하다.	revenir	0	0
+C'est ici qu'il joue.	그 사람이 연기하는 곳은 여기다.	joue	0	0
+Le pauvre jeune homme devint finalement un grand artiste.	그 불쌍한 청년은 결국 위대한 예술가가 되었다.	pauvre	0	0
+Il a commencé à devenir chauve très jeune.	그는 꽤 젊었을 때부터 대머리가 되기 시작했다.	devenir	0	0
+Nous étions censés nous rencontrer à 14 h 30.	우리는 2시 30분에 만나기로 돼 있었다.	rencontrer	0	0
+Se surprendre, s'étonner, c'est commencer à comprendre.	놀라워 하고, 궁금해 하는 것이 이해의 시작이다.	commencer	0	0
+Le temps change souvent en Angleterre.	영국은 날씨가 자주 바뀐다.	souvent	0	0
+C'est une ancienne pièce de 5 marks.	이건 옛 5 마르크화다.	pièce	0	0
+Étant donné que je n'ai reçu aucune réponse, je me demandais s'il était possible que mon courrier ne vous ait jamais été livré.	답장을 아직도 못 받아서 혹시 내 우편물이 너한테 배달되지 않은 건지 궁금했다.	reçu	0	0
+S'attaquer à la Libye fut une grave erreur.	리비아를 공격하는 것은 중대한 실수였다.	grave	0	0
+Mets les patates sur la cuisinière.	감자를 오븐에 넣으세요.	mets	0	0
+Tom n'a pas pu dormir la nuit dernière.	톰은 지난 밤에 잠에 들지 못했다.	dormir	0	0
+Il a beaucoup neigé l'an dernier.	작년에 눈이 엄청 내렸어.	an	0	0
+Nous considérâmes ce rapport comme faux.	우리는 이 보고서가 거짓이라고 생각했다.	faux	0	0
+Quel est ton groupe sanguin ?	네 혈액형이 뭐지?	groupe	0	0
+J'ai un rêve.	나는 꿈이 있어.	rêve	0	0
+Envoie-moi une carte postale.	나한테 엽서 한 장 보내줘.	carte	0	0
+Je dois passer un autre appel.	전화 한통 더 해야 돼.	appel	0	0
+Est-ce qu'il vous manque ?	그 남자가 보고 싶으세요?	manque	0	0
+Il est parti pour Londres début juillet.	그는 7월 초에 런던으로 향했다.	début	0	0
+Je suis désolé, je ne pense pas que je puisse.	미안해. 할 수 없다고 생각해.	puisse	0	0
+Laissez-moi essayer.	내가 시도해보게 놔둬.	laissez-moi	0	0
+Je ne suis pas content.	나는 기분이 좋지 않다.	content	0	0
+C'est un secret.	그건 비밀이에요.	secret	0	0
+Je suis venue en train.	기차를 타고 왔어요.	venue	0	0
+Les framboises coûtent très cher.	라즈베리는 너무 비싸다.	cher	0	0
+Dis-moi, s'il te plaît.	나한테 말 좀 해줘.	dis-moi	0	0
+Nous ne voyons pas les choses comme elles sont, mais comme nous sommes.	그 모습 그대로 사물을 보지 않고, 우리 자신의 모습으로 그것을 바라본다.	voyons	0	0
+J'ai acheté un nouveau sac.	나는 새 가방을 하나 샀다.	sac	0	0
+Continue d'écouter.	계속 들어.	continue	0	0
+Je vais acheter celui-ci.	나는 이걸 살거야.	acheter	0	0
+Sa voix est très belle.	그녀는 목소리가 아주 좋다.	voix	0	0
+Laisse-moi m'occuper de ça.	내가 이걸 담당하게 내버려 둬.	occuper	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	noël	0	0
+Toutes les familles avec des enfants bénéficient de prix réduits.	아이가 있는 모든 가족들은 가격 할인을 받는다.	prix	0	0
+Cette tarte aussi a l'air pas mauvaise: donnez-en moi un petit morceau.	이 타르트도 나쁘지 않아 보이네요. 작은 조각 하나만 저한테 주세요.	mauvaise	0	0
+En général, vous faites quoi le week-end ?	주말에 주로 뭐하세요?	général	0	0
+Quel âge a votre petit frère ?	동생 나이가 어떻게 되나요?	âge	0	0
+Aucun fleuve dans le monde n'est plus long que le Nil.	나일강만큼 긴 강은 세상에 없다.	long	0	0
+Il y a deux églises dans cette rue.	이 거리에는 두 개의 교회가 있습니다.	rue	0	0
+Le grec est difficile à apprendre.	그리스어를 배우는 것은 어렵다.	apprendre	0	0
+Elle a de longs cheveux.	그녀는 머리가 길다.	cheveux	0	0
+Le chat est noir.	고양이는 검정색이다.	noir	0	0
+J'ai promis.	약속했어.	promis	0	0
+Où est le patron ?	사장님은 어디 계세요?	patron	0	0
+Je vais être votre avocat.	제가 당신의 변호사가 될 것입니다.	avocat	0	0
+L'accident s'est passé avant-hier.	그저께 사고가 났다.	accident	0	0
+Je reviens à dix heures.	나는 10시에 돌아올 것이다.	dix	0	0
+Tom a probablement été à Boston.	톰은 아마도 보스턴에 있었을 것이다.	probablement	0	0
+Laissez un commentaire ci-dessous, s'il vous plaît !	아래에 댓글을 남겨 주세요.	laissez	0	0
+Pas d'argent, pas de travail, pas d'amis. Il était vraiment au bout du rouleau.	돈도, 일도, 친구도 없다. 남자는 완전히 기진맥진했다.	bout	0	0
+Les Étatsuniens ont le droit de porter des armes.	미국인들은 무기를 소지할 권리가 있다.	armes	0	0
+Je les déteste.	나는 그 사람들이 싫다.	déteste	0	0
+N'oublie pas d'apporter un parapluie.	우산 가져가는 거 잊지마.	oublie	0	0
+Nancy ressemble à ma grande sœur.	낭시는 우리 언니를 닮았다.	ressemble	0	0
+Bienvenue à Tatoeba !	타토에바에 오신 것을 환영합니다!	bienvenue	0	0
+Les mathématiques sont la partie des sciences qu'on pourrait continuer à faire si on se réveillait demain et découvrait que l'univers avait disparu.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	disparu	0	0
+Comment pouvons-nous nous protéger du coronavirus ?	코로나 바이러스로부터 어떻게 우리 몸을 지킬 수 있을까요?	protéger	0	0
+Je ne peux pas l'utiliser.	나는 그걸 사용할 수 없다.	utiliser	0	0
+Si j'étais toi, j'aurais fait la même chose dans une situation aussi difficile.	내가 너였으면 그렇게 어려운 상황에서 똑같은 행동을 했을 것이다.	situation	0	0
+J'aime les petits poèmes.	나는 짧은 시를 좋아한다.	petits	0	0
+Veux-tu le faire ?	너는 하고 싶니?	veux-tu	0	0
+Dis simplement non !	그냥 아니라고 말해!	simplement	0	0
+Nancy ressemble à ma grande sœur.	낭시는 우리 언니를 닮았다.	sœur	0	0
+Tiens-toi prête !	준비하고 있어라!	prête	0	0
+Son oncle est un célèbre médecin.	그녀의 삼촌은 유명한 의사입니다.	oncle	0	0
+Vous devriez écouter son conseil.	당신은 그의 조언을 들어야 합니다.	devriez	0	0
+Cette voiture est complètement chargée.	이 차는 완전히 물건이 가득 차 있다.	complètement	0	0
+C'est un crime de guerre.	이것은 전쟁 범죄입니다.	crime	0	0
+Joyeux anniversaire Muiriel !	생일 축하해 Muiriel!	anniversaire	0	0
+Ça ne va jamais finir.	이건 절대 끝나지 않을거야.	finir	0	0
+Il semblerait que Mr. Tanaka ait réussi l'examen.	다나카 씨는 시험에 합격한 것 같습니다.	réussi	0	0
+Cette personne agit rapidement.	그 사람은 동작이 빨라요.	agit	0	0
+Est-ce sale ?	더럽나요?	sale	0	0
+Tu es libre.	너는 자유롭다.	libre	0	0
+Ne bouge pas !	움직이지 마!	bouge	0	0
+Je ne me rappelle pas du tout de vous.	나는 당신이 전혀 기억이 안 나요.	rappelle	0	0
+Il s'est arrêté de pleuvoir.	비가 그쳤다.	arrêté	0	0
+Suis-je idiot ?	내가 멍청인가?	idiot	0	0
+Je l'ai rencontré une fois.	나는 그를 한번 만났다.	rencontré	0	0
+Restez concentrées.	계속 집중하고 있어봐.	restez	0	0
+J'ai l'impression d'avoir perdu mes clés.	나 열쇠를 잃어버린 거 같아.	impression	0	0
+J'ai décidé d'y aller en train.	나는 거기에 기차로 가기로 결정했다.	décidé	0	0
+Combien de temps ça prend d'aller à Boston en avion ?	비행기로 보스턴까지 가는 데 얼마나 걸리나요?	avion	0	0
+L'habitude est une seconde nature.	습관은 제2의 천성이다.	habitude	0	0
+Qui est l’homme de l’autre côté de la table ?	테이블 반대편에 있는 남자는 누구입니까?	table	0	0
+Le poisson et le vin rouge ne vont pas bien ensemble.	생선이랑 레드 와인은 잘 안 어울린다.	rouge	0	0
+J'aime prendre des photos.	나 사진찍는 거 좋아해	photos	0	0
+Je croyais qu'il était médecin.	나는 그 남자가 의사라고 생각했다.	médecin	0	0
+Je veux un bateau qui m'emmènera très loin d'ici.	나를 여기서 멀리 데려다줄 배 한 척이 필요하다.	bateau	0	0
+C'est stupide.	어리석은 짓이다.	stupide	0	0
+J'ai terriblement faim.	나는 배가 심하게 고파.	faim	0	0
+Les Étatsuniens ont le droit de porter des armes.	미국인들은 무기를 소지할 권리가 있다.	porter	0	0
+Nous sommes en colère.	우리는 화가 났다.	colère	0	0
+Ils seront très heureux.	그들은 매우 기뻐할 것입니다.	seront	0	0
+Tout le monde savait.	모두가 알고 있었어.	savait	0	0
+J'ai à nouveau gagné.	내가 또 이겼다.	gagné	0	0
+La vue de Tokyo de nuit est magnifique.	도쿄는 야경이 끝내줘.	magnifique	0	0
+Avez-vous déjà terminé votre travail ?	일은 벌써 끝냈어요?	terminé	0	0
+J'ai toujours su que vous reviendriez.	당신이 돌아올 거란 걸 항상 알고 있었어요.	su	0	0
+Êtes-vous toujours heureuse?	당신은 항상 기분이 좋습니까?	heureuse	0	0
+Je ne suis pas sorti dimanche dernier.	나는 지난 일요일에 외출하지 않았다.	sorti	0	0
+Elle lui donna un cadeau.	그녀는 그에게 선물을 주었다.	cadeau	0	0
+Ça me prendrait trop de temps pour t'expliquer pourquoi ça ne va pas marcher.	왜 안되는지 설명할려면 시간 너무 많이 걸리겠다.	expliquer	0	0
+Ça lui a demandé plusieurs semaines pour se remettre du choc.	그가 충격에서 벗어나는 데는 몇 주 걸렸다.	plusieurs	0	0
+Il marmonnait encore quelque chose concernant les hôpitaux à la fin de la fête, quand il a glissé sur un morceau de glace et s'est brisé la jambe gauche.	파티 막바지에 그는 아직도 병원에 대해서 뭔가 중얼거리고 있었는데 얼음 조각에 미끄러 넘어져 왼쪽다리를 부러졌다.	gauche	0	0
+Ouvrez votre livre à la page neuf.	그 책 9쪽을 펴시오.	neuf	0	0
+Ouvre les fenêtres, s'il te plaît.	창문을 열어주세요.	ouvre	0	0
+Nous ne pouvons pas le voir.	우리는 그것을 볼 수 없다.	pouvons	0	0
+Pouvez-vous m'indiquer le site sur lequel je peux suivre mon colis?	소포를 추적할 수 있는 웹사이트 좀 알려주실 수 있나요?	suivre	0	0
+La réponse est oui.	대답은 그렇다이다.	réponse	0	0
+La lumière s'est allumée.	불빛이 켜졌다.	lumière	0	0
+Tom montre son appartement à son frère.	톰은 자기 아파트를 남동생에게 보여줬다.	montre	0	0
+Je suis venu à pied.	걸어서 왔어요.	pied	0	0
+Je peux difficilement marcher.	나는 겨우 걸을 수 있다.	marcher	0	0
+Je voudrais envoyer cette lettre en recommandé.	이 편지를 등기로 보내고 싶어요.	envoyer	0	0
+C'est pareil.	같은 거예요.	pareil	0	0
+Quand vas-tu partir ?	언제 떠날 거야?	vas-tu	0	0
+Elle a pris un coup de soleil.	그녀는 햇빛에 피부가 탔다.	soleil	0	0
+Il était debout au coin de la rue.	그는 길 모퉁이에 서있었다.	coin	0	0
+Bonheur partagé revient multiplié, peine partagée revient à moitié.	기쁨은 나누면 배가 되고 슬픔은 나누면 반이 된다.	moitié	0	0
+Quel est le nom de cette grosse fille avec laquelle tu es sorti au lycée ?	네가 고등학생 때 사귀었던 그 뚱뚱한 여자 이름이 뭐니?	grosse	0	0
+J'ai acheté une vieille lampe.	나는 오래된 전등 하나를 샀다.	vieille	0	0
+Il est devenu aveugle.	그는 이성이 마비됐다.	devenu	0	0
+Les mathématiques sont la partie des sciences qu'on pourrait continuer à faire si on se réveillait demain et découvrait que l'univers avait disparu.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	continuer	0	0
+Nous sommes à la recherche d'un hébergement.	숙박 시설을 찾고 있습니다.	recherche	0	0
+Il est en train de lire un livre.	그는 책 한 권을 읽고 있습니다.	lire	0	0
+Celui-ci est plus joli.	이게 더 예쁘다.	joli	0	0
+Quel est le nom de cette grosse fille avec laquelle tu es sorti au lycée ?	네가 고등학생 때 사귀었던 그 뚱뚱한 여자 이름이 뭐니?	laquelle	0	0
+Je n'aime pas les enseignants qui aiment les étudiants qui n'aiment pas poser de questions.	나는 질문을 좋아하지 않는 학생을 좋아하는 선생님을 좋아하지 않아.	poser	0	0
+Il fait chaud ici.	여기는 덥다.	chaud	0	0
+J'ai bien aimé ce livre.	나는 그 책을 좋아했어.	aimé	0	0
+Je suis Tom Hunter.	저는 Tom Hunter입니다.	tom	0	0
+Tom est professeur de français.	톰은 프랑스어 교수다.	professeur	0	0
+Donne-moi ton argent.	네 돈을 나한테 줘.	donne-moi	0	0
+On ne peut que connaître le passé, pas le changer. On ne peut que changer le futur, pas le connaître.	과거는 되돌릴 수 없습니다. 미래는 알 수 없는 것이지만 바꿀 수 있는 것입니다.	connaître	0	0
+Je voudrais envoyer cette lettre en recommandé.	이 편지를 등기로 보내고 싶어요.	lettre	0	0
+Il ne me connaît pas.	그는 나를 알지 못한다.	connaît	0	0
+Vous devriez écouter son conseil.	당신은 그의 조언을 들어야 합니다.	conseil	0	0
+Tatoeba peut-il contribuer à la sauvegarde des langues en danger ?	사라져 가는 언어를 지키는데 타토에바가 도움이 될까?	danger	0	0
+Tu es folle.	너는 미쳤어.	folle	0	0
+Pas de nouvelles, bonnes nouvelles.	무소식이 희소식이다.	bonnes	0	0
+Elle atteignit son but.	그녀는 목적을 달성했다.	but	0	0
+Les gens ici sont accoutumés au froid.	여기 사람들은 추위에 적응했다.	froid	0	0
+Laisse-moi tranquille.	나 좀 내버려 둬.	tranquille	0	0
+Il est celui qui travaille le plus dur dans sa classe.	그는 자기 반에서 가장 열심히 하는 쪽이다.	classe	0	0
+J’ai joué au tennis.	저는 테니스를 했어요.	joué	0	0
+On peut acheter des timbres dans n'importe quel bureau de poste.	우표는 어느 우체국에서라도 살 수 있습니다.	poste	0	0
+Cette boîte contient cinq pommes.	이 상자에 사과 다섯 개가 있다.	boîte	0	0
+Elle visite Paris.	그녀는 파리를 방문한다.	visite	0	0
+Je ne peux compter que sur moi-même.	나는 오직 나 자신만 믿을 수 있다.	moi-même	0	0
+Nous voulons aller au bord de la mer Baltique ce week-end.	이번 주말에는 발트해로 가려고 합니다.	bord	0	0
+Es-tu debout ?	너 서있어?	debout	0	0
+Je ne peux pas oublier sa gentillesse.	나는 그의 친절함을 못 잊는다.	oublier	0	0
+Tom a dit que vous étiez bons aux échecs.	톰이 당신 체스 실력이 좋다고 하던데요.	bons	0	0
+L'homme leva les yeux, vit le ciel gris, releva son col et se mit en chemin.	남자는 시선을 들어 회색빛 하늘을 보고, 옷깃을 세우고 길을 떠났다.	ciel	0	0
+Il t'as lu le texte qu'il a écrit.	그는 당신에게 자기가 쓴 글을 읽어줬습니다.	lu	0	0
+Ne touche pas à ça.	여기 만지지 마.	touche	0	0
+Ils vont aimer cela.	그 사람들은 이걸 좋아할 거예요.	aimer	0	0
+Je ne regarde pas la télé.	나는 텔레비전을 보지 않는다.	télé	0	0
+Son mari mange tout ce qu'elle lui met devant le nez.	그녀의 남편은 그녀가 내놓은 것이라면 전부 먹는다.	met	0	0
+Continuez à écouter.	계속 들어.	écouter	0	0
+Et pourtant, le contraire aussi est toujours vrai.	그러나, 그 반대도 또한 항상 진실이다.	pourtant	0	0
+Le temps change souvent en Angleterre.	영국은 날씨가 자주 바뀐다.	change	0	0
+Tom est triste.	톰은 우울하다.	triste	0	0
+Tournez à droite s'il vous plait.	오른쪽으로 돌아주세요.	droite	0	0
+Nous espérons ouvrir en octobre.	우리는 10월에 오픈하기를 희망한다.	ouvrir	0	0
+Ne comprends pas de travers.	오해 하지 마세요.	travers	0	0
+Il avait l'air en bonne santé.	그는 몸 상태가 좋아 보인다.	santé	0	0
+À cette époque, nous étions plus jeunes.	그때 우리는 더 젊었다.	jeunes	0	0
+Il a un nom à coucher dehors.	그는 이름이 이상하다.	coucher	0	0
+Vous n'aimez pas la cuisine chinoise ?	중국 음식 안 좋아하세요?	cuisine	0	0
+Pouvez-vous m'indiquer le site sur lequel je peux suivre mon colis?	소포를 추적할 수 있는 웹사이트 좀 알려주실 수 있나요?	pouvez-vous	0	0
+Je ne sais pas ce que ce mot signifie. Je le chercherai dans le dictionnaire.	나는 이 단어의 뜻을 모르겠다. 사전을 찾아봐야 겠어.	signifie	0	0
+Entrez, s'il vous plaît !	들어오십시오!	entrez	0	0
+La dame semblait triste, et aussi fatiguée.	그 여성은 우울하면서도 피곤해 보였다.	dame	0	0
+Je connais cette chanson.	나는 이 노래를 안다.	chanson	0	0
+C'était blanc.	그건 흰색이었다.	blanc	0	0
+Je suis certain.	확신해요.	certain	0	0
+Vous vous comportez tous de la même manière.	당신들은 모두 같은 방식으로 행동한다.	manière	0	0
+C'est la première fois que je mange de la confiture d'ananas. Plutôt savoureux !	파인애플 잼이란 건 처음 먹어봤네요. 맛있네요!	mange	0	0
+Tom vit à Boston.	톰은 보스턴에 산다.	vit	0	0
+La compagnie abandonna ce projet.	기업은 이 프로젝트를 포기했다.	compagnie	0	0
+Est-ce que le déjeuner est prêt ?	점심 식사는 준비됐나요?	déjeuner	0	0
+J'ai perdu ma clé de voiture.	나는 자동차 열쇠를 분실했다.	clé	0	0
+C'est inévitable que j'aille en France un jour, je ne sais juste pas quand.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.	aille	0	0
+Il a acheté un chapeau.	그 사람은 모자를 샀습니다.	acheté	0	0
+Il peut monter à cheval.	그는 승마를 할 수 있다.	monter	0	0
+Ce n'est pas facile d'écrire une lettre d'amour en anglais.	영어로 러브레터를 쓰는 것은 쉽지 않다.	écrire	0	0
+Elle rougit de honte.	그녀는 당황해서 얼굴이 빨개졌다.	honte	0	0
+Des quatre saisons, c'est l'été que je préfère.	나는 사계절 중에 여름을 제일 좋아해.	préfère	0	0
+Il est coupable de sédition.	그는 반란죄 혐의를 받고 있다.	coupable	0	0
+Tom montre son appartement à son frère.	톰은 자기 아파트를 남동생에게 보여줬다.	appartement	0	0
+Cela fera deux ans que nous vivons ici avril prochain.	4월이면 우리가 여기서 산 지 2년이 될 거다.	prochain	0	0
+À chaque fois, je suis restée très peu de temps à Paris. Je le regrette bien.	그 기간동안 나는 오직 빠리에서만 짧게 머물렀기 때문에 그 기간이 매우 아쉬웠다.	paris	0	0
+M. Tanabe est sorti pour le moment.	타나베씨는 잠시 나가셨습니다.	m	0	0
+Ça se voulait une blague.	그건 농담이었어.	blague	0	0
+À cette époque, nous étions plus jeunes.	그때 우리는 더 젊었다.	époque	0	0
+Prends n'importe quel train sur la voie 5.	타는 곳 5번에서 아무 열차나 타세요.	voie	0	0
+Il y avait seulement six personnes à la réunion.	회의에 여섯 명밖에 없었다.	réunion	0	0
+Son nom m'est connu.	그의 이름은 나에게 알려져 있다.	connu	0	0
+Elle est allée à l'étranger.	그녀는 외국에 갔다.	allée	0	0
+Il peut monter à cheval.	그는 승마를 할 수 있다.	cheval	0	0
+D'une pierre, deux coups.	일석이조.	coups	0	0
+La Yougoslavie n'existe plus.	유고슬라비아는 더 이상 존재하지 않습니다.	existe	0	0
+Le château a été restauré et est ouvert au public.	성이 복원되었고, 대중에게 개방되어 있는 상태야.	public	0	0
+Ma brouette est pleine.	내 한발 수레가 가득 찼다.	pleine	0	0
+Ce n'est pas que je veux une petite amie, c'est que je veux être amoureux.	난 여자친구를 갖고 싶은 게 아니라 사랑을 하고 싶은 거야.	amoureux	0	0
+Des garçons de ta classe, qui chante le mieux ?	너희 반 남자애 중에 누가 노래를 제일 잘하니?	garçons	0	0
+La banque est-elle loin d’ici ?	그 은행은 여기에서 멉니까?	est-elle	0	0
+Ceci est une prise d’otage.	이건 인질극이다.	prise	0	0
+Je connais son adresse.	나는 그 사람 주소를 안다.	adresse	0	0
+Où avez-vous mis le journal ?	신문을 어디다 뒀어요?	journal	0	0
+Ça sent le gaz.	가스 냄새가 난다.	sent	0	0
+J'ai la peau sèche.	나는 건조한 피부를 가지고 있다.	peau	0	0
+Je n'aime pas servir.	나는 시중드는 것을 좋아하지 않는다.	servir	0	0
+Je m'en fiche de toi.	너한테 관심 없어.	fiche	0	0
+Pouvez-vous m'indiquer le site sur lequel je peux suivre mon colis?	소포를 추적할 수 있는 웹사이트 좀 알려주실 수 있나요?	lequel	0	0
+Heureusement, personne ne fut blessé.	다행히 아무도 안 다쳤다.	blessé	0	0
+Les oranges sont riches en vitamine C.	오렌지는 많은 비타민C를 함유하고 있다.	c	0	0
+La société est un asile dirigé par les patients.	사회란 환자에 의해 운영되는 정신병원입니다.	société	0	0
+Je pense que tu as tort.	내 생각엔 네가 틀린 것 같아.	tort	0	0
+Nous déjeunâmes à sept heures.	우리는 일곱 시에 점심을 먹었다.	sept	0	0
+Elle a ouvert la porte.	그녀는 문을 열었다.	ouvert	0	0
+Nous voulons aller au bord de la mer Baltique ce week-end.	이번 주말에는 발트해로 가려고 합니다.	mer	0	0
+Je vous ai déjà sauvé la vie deux fois.	나는 벌써 당신의 목숨을 두 번이나 구했습니다.	sauvé	0	0
+Je ne bois jamais de bière.	나는 맥주를 절대 마시지 않는다.	bière	0	0
+Il est encore assis sur le banc.	그는 아직 벤치에 앉아있다.	assis	0	0
+Cette robe lui va vraiment bien.	그 드레스는 그녀에게 잘 어울린다.	robe	0	0
+L'eau devient solide quand elle gèle.	물은 얼면 고체로 변한다.	devient	0	0
+Mon père est dans un bon état depuis son opération.	우리 아빠는 수술 이후로 상태가 좋으시다.	opération	0	0
+Heureusement, personne ne fut blessé.	다행히 아무도 다치지 않았다.	fut	0	0
+Lis autant de livres que tu peux.	가능한 한 많은 책을 읽으렴.	livres	0	0
+J'ai entendu la porte d'entrée claquer.	나는 현관문이 닫히는 소리를 들었다.	entrée	0	0
+Le poisson et le vin rouge ne vont pas bien ensemble.	생선이랑 레드 와인은 잘 안 어울린다.	vin	0	0
+Vous avez clairement du talent, c'est vraiment dommage que vous n'ayez pas étudié plus!	너는 분명히 재능이 있는데 더 많이 못 배워서 아쉽구나.	dommage	0	0
+Connais-tu les règles du jeu ?	게임의 룰 알고 있어?	règles	0	0
+Son mari mange tout ce qu'elle lui met devant le nez.	그녀의 남편은 그녀가 내놓은 것이라면 전부 먹는다.	nez	0	0
+Elle est enceinte.	그녀는 임신 중입니다.	enceinte	0	0
+Mademoiselle Sua s'est mise au yoga récemment, elle a vraiment minci!	수아 씨, 요즘 요가 하신다더니 정말 날씬해지셨네요.	mise	0	0
+« Ça semble très intéressant », dit Hiroshi.	히로시는 이것 재미 있을 것 같다고 말한다.	intéressant	0	0
+Je m'excuse de mon impolitesse.	무례해서 죄송합니다.	excuse	0	0
+J'ai un terrible mal de tête aujourd'hui.	나는 오늘 머리가 심하게 아프다.	terrible	0	0
+Je suis un être humain.	나는 인간이야.	humain	0	0
+Bonne nuit. Fais de beaux rêves.	잘자. 좋은 꿈 꿔.	rêves	0	0
+Cette épicerie ne vend que de la nourriture bio.	이 식료품점은 유기농 식품만을 팔고 있다.	nourriture	0	0
+La plupart des femmes rêvent d'un mariage en grande noce.	여자들은 대부분 화려한 결혼식을 꿈꿔.	plupart	0	0
+Quel est le nom de cette grosse fille avec laquelle tu es sorti au lycée ?	네가 고등학생 때 사귀었던 그 뚱뚱한 여자 이름이 뭐니?	lycée	0	0
+Le sexe est bon.	섹스는 좋다.	sexe	0	0
+La banque est-elle loin d’ici ?	그 은행은 여기에서 멉니까?	banque	0	0
+À cette époque, nous étions plus jeunes.	그때 우리는 더 어렸다.	étions	0	0
+La radio est cassée.	라디오가 망가졌다.	radio	0	0
+J'ai préparé du thé.	제가 차를 준비했습니다.	thé	0	0
+Hier, un camion a percuté ce mur.	어제 트럭이 이 벽을 박았다.	mur	0	0
+Il est revenu chez lui à dix heures.	그는 10시에 자신의 집으로 돌아왔다.	revenu	0	0
+J'ai visité la France deux fois : la première quand j’étais étudiante et la deuxième lors d'un séjour au Maroc.	나는 프랑스에 두 번(내가 대학생일 때와 내가 모로코에 있었을 때) 방문했다.	deuxième	0	0
+Asseyez-vous, s'il vous plaît.	앉으십시오.	asseyez-vous	0	0
+Certaines personnes sont difficiles à satisfaire.	어떤 사람들은 만족시키기가 힘들다.	certaines	0	0
+Nous nous dirigeons vers le nord.	우리는 북쪽으로 간다.	nord	0	0
+Appelez la police !	빨리 경찰을 불러요!	appelez	0	0
+Ce n'est pas facile d'écrire une lettre d'amour en anglais.	영어로 러브레터를 쓰는 것은 쉽지 않다.	anglais	0	0
+Est-ce que je peux aller aux toilettes ?	화장실에 가도 괜찮을까요?	toilettes	0	0
+Elle lui a demandé d'aider son père à nettoyer le garage mais il a déclaré qu'il était trop occupé pour le faire.	그녀는 그녀의 아버지가 차고 청소 하는 것을 도와 주라고 그에게 얘기 했지만 그는 너무 바빠서 못 도와 준대.	occupé	0	0
+La chance joue un rôle important, dans la vie.	인생에서 운은 중요한 역할을 한다.	rôle	0	0
+Savez-vous faire du ski ?	스키를 탈 수 있어요?	savez-vous	0	0
+Ma maison est près de l'église.	우리 집은 교회 근처에 있다.	église	0	0
+C'est personnel.	사적인 겁니다.	personnel	0	0
+Trois plus cinq font huit.	3 더하기 5는 8이다.	huit	0	0
+Séoul est la capitale de la Corée du Sud.	서울은 한국의 수도입니다.	sud	0	0
+Ma grand-mère me racontait des contes captivants.	할머니는 구수한 옛날 얘기를 들려주시곤 했다.	grand-mère	0	0
+Le vase qu'il a brisé est celui de ma tante.	그가 깬 꽃병은 저희 숙모의 꽃병입니다.	tante	0	0
+Je vous prie de m'excuser.	저를 용서해 주세요.	excuser	0	0
+Un nom référençant quelque chose de distant ou un souvenir lointain.	멀거나 기억 속의 물건을 가르켜 이름.	souvenir	0	0
+Bonheur partagé revient multiplié, peine partagée revient à moitié.	기쁨은 나누면 배가 되고 슬픔은 나누면 반이 된다.	revient	0	0
+Le docteur lui a donné des comprimés pour faire partir la douleur.	통증을 없애기 위해 의사가 그에게 알약을 줬다.	douleur	0	0
+Ravi de vous rencontrer !	반갑습니다!	ravi	0	0
+Le Brésil est le plus grand pays d'Amérique du Sud.	브라질은 남미에서 제일 큰 나라야.	amérique	0	0
+Nous avons une bonne vue sur la mer depuis la fenêtre.	창문으로 아름다운 바다 전망이 보인다.	fenêtre	0	0
+Ce livre-ci est le mien.	이 책은 내 것입니다.	mien	0	0
+Tom a acheté un terrain près de Boston.	톰은 보스턴 근처에 토지를 구입했다.	terrain	0	0
+Peux-tu deviner ce que j'ai ?	너는 내가 뭘 갖고 있는지 추측할 수 있겠어?	peux-tu	0	0
+La compagnie abandonna ce projet.	기업은 이 프로젝트를 포기했다.	projet	0	0
+Il y a des gens qui n'appartiennent certainement pas à ce monde.	이 세계에 분명 속하지 않는 사람들이 있다.	certainement	0	0
+Je suis plus rapide.	내가 더 빠르다.	rapide	0	0
+Il était presque midi lorsque je me suis réveillée.	깨어나 보니 정오가 다 되어 있었다.	lorsque	0	0
+Elle lui a rendu visite le 20 octobre.	그녀는 10월 20일에 그를 찾아갔다.	rendu	0	0
+Je suis en train de danser.	나는 춤추는 중이다.	danser	0	0
+Bob entra dans la maison par une fenêtre.	밥은 창문으로 집에 들어갔다.	bob	0	0
+Vous aimez le tennis ?	테니스 좋아하세요?	aimez	0	0
+Tout le monde mérite une seconde chance.	모든 사람들이 두번째 기회를 받아 마땅하다.	mérite	0	0
+Si vous ne disposez pas de ce programme vous pouvez le télécharger maintenant.	만약 당신에게 이 프로그램이 없다면, 지금 다운로드 받으실 수 있습니다.	programme	0	0
+Je suis honnête avec toi.	나는 너에게는 솔직하다.	honnête	0	0
+J'irai voir.	나는 보러 갈 거다.	irai	0	0
+Tom a travaillé jusqu’à 2 h 30.	톰은 2시 30분까지 일했다.	travaillé	0	0
+Il marmonnait encore quelque chose concernant les hôpitaux à la fin de la fête, quand il a glissé sur un morceau de glace et s'est brisé la jambe gauche.	파티 막바지에 그는 아직도 병원에 대해서 뭔가 중얼거리고 있었는데 얼음 조각에 미끄러 넘어져 왼쪽다리를 부러졌다.	glace	0	0
+Vous avez clairement du talent, c'est vraiment dommage que vous n'ayez pas étudié plus!	너는 분명히 재능이 있는데 더 많이 못 배워서 아쉽구나.	ayez	0	0
+Je ne parie jamais.	나는 절대 내기를 하지 않는다.	parie	0	0
+Hier, un camion a percuté ce mur.	어제 트럭이 이 담벼락을 박았다.	camion	0	0
+Je suis fier de toi.	나는 네가 자랑스럽다.	fier	0	0
+Nous pouvons discuter.	우리는 논의할 수 있다.	discuter	0	0
+J'avais l'intention de faire un tour au village.	나는 마을을 둘러 볼 생각이 있었다.	village	0	0
+Nul n'aime la guerre.	아무도 전쟁을 좋아하지 않습니다.	nul	0	0
+Jean et Jeanne regarderont votre rose.	장과 잔느가 당신의 장미꽃을 보고 있습니다.	rose	0	0
+Vous avez mangé ?	진지 잡수셨습니까?	mangé	0	0
+Je le vis traverser la route.	그가 거리를 건너는 것을 보았다.	vis	0	0
+Je l'apprécie.	나는 그게 마음에 든다.	apprécie	0	0
+Nous savons.	우리는 안다.	savons	0	0
+Ça lui a demandé plusieurs semaines pour se remettre du choc.	그가 충격에서 벗어나는 데는 몇 주 걸렸다.	remettre	0	0
+Je vais à Boston pour les vacances.	나는 휴가 때 보스턴에 간다.	vacances	0	0
+Le chien est en train de détruire les meubles dans notre maison.	개가 우리 집의 가구를 망가뜨리고 있다.	détruire	0	0
+C'est pour cela que j'aime les voyages et que je veux découvrir beaucoup de cultures et de langues.	그래서 나는 여행을 사랑하고, 많은 문화와 언어를 경험하고 싶다.	découvrir	0	0
+Ces deux idées sont assez distinctes.	이 두 가지 견해가 약간 다르다.	idées	0	0
+Ça ne sert à rien de me dire « Salut, comment ça va ? » si tu n'as rien d'autre à dire.	다른 할 말이 없으면, 나한테 인사할 필요가 없어.	sert	0	0
+J'ai trouvé une solution, mais je l'ai trouvée tellement vite que ça peut pas être la bonne.	해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다.	solution	0	0
+Cet ordinateur fonctionne sur batteries.	이 컴퓨터는 배터리로 작동한다.	ordinateur	0	0
+Il était de nature passive.	얘는 원래 소극적이야.	nature	0	0
+J'ai essayé pendant des heures de me rappeler où j'avais mis mes clefs, mais cela m'a complètement échappé.	내가 열쇠를 어디에다 뒀는지 기억하려고 몇 시간이나 노력했는데도 전혀 생각이 나지 않았다.	rappeler	0	0
+J'ai étudié toute la matinée, maintenant je suis fatigué... J'ai besoin d'énergie supplémentaire.	오전 내내 공부를 했더니, 지금 피곤하네. 에너지를 보충해야겠어.	énergie	0	0
+D'une pierre, deux coups.	일석이조.	pierre	0	0
+J'utilise ceci tout le temps.	매번 이걸 쓴다.	utilise	0	0
+Tom n'a pas pu trouver ses chaussures.	톰은 자기 신발을 못 찾았다.	chaussures	0	0
+Aimes-tu les histoires anciennes ?	너는 고대사를 좋아하니?	histoires	0	0
+Il n'est pas marié.	그는 미혼이다.	marié	0	0
+J'ai peur que mes efforts pour l'aider ne soient qu'une perte de temps.	그 사람을 도우려는 내 노력이 그저 시간 낭비일까 두렵다.	soient	0	0
+Disposez-vous d'un téléphone portable ?	핸드폰을 가지고 계신가요?	portable	0	0
+A ces deux occasions, je ne suis restée qu'un court moment à Paris. C'est pourquoi j'ai beaucoup de regrets.	그 기간동안 나는 오직 빠리에서만 짧게 머물렀기 때문에 그 기간이 매우 아쉬웠다.	court	0	0
+Ai-je l'air d'être occupée ?	제가 바쁜 것처럼 보이나요?	ai-je	0	0
+Tom a mis sa chemise à l'envers.	톰이 셔츠를 뒤집어 입었어.	envers	0	0
+Prends un bain s'il te plaît.	목욕 좀 해 주세요.	bain	0	0
+Je m'appelle Mary.	메리라고 해요.	mary	0	0
+Le pauvre jeune homme devint finalement un grand artiste.	그 불쌍한 청년은 결국 위대한 예술가가 되었다.	finalement	0	0
+Mon grand-père a été blessé à la guerre.	우리 할아버지는 전쟁에서 부상당했다.	grand-père	0	0
+J'ai trouvé ce test difficile.	이 시험은 어려운 것 같다.	test	0	0
+Je gagne 100 € par jour.	저는 하루에 100유로를 법니다.	gagne	0	0
+On ne peut que connaître le passé, pas le changer. On ne peut que changer le futur, pas le connaître.	과거는 되돌릴 수 없습니다. 미래는 알 수 없는 것이지만 바꿀 수 있는 것입니다.	futur	0	0
+Mademoiselle Sua s'est mise au yoga récemment, elle a vraiment minci!	수아 씨, 요즘 요가 하신다더니 정말 날씬해지셨네요.	mademoiselle	0	0
+Que pensez-vous maintenant ?	지금 무슨 생각해?	pensez-vous	0	0
+Elle dit qu'elle aime les fleurs.	그녀는 꽃을 좋아한다고 말했다.	fleurs	0	0
+Je souhaite être riche.	나는 부자가 되고 싶다.	riche	0	0
+J'ai dit stop.	나는 멈추라고 말했다.	stop	0	0
+Je ne vois pas d'autres moyens de lui faire accepter notre proposition.	나는 그 사람이 우리 제안을 수락하게 할 만한 다른 방법이 보이지 않는다.	accepter	0	0
+J'ai ramené les livres que j'avais empruntés à la bibliothèque et j'en ai emprunté des nouveaux.	도서관에서 빌렸던 책은 반납하고, 다시 새로운 책을 빌려왔어.	nouveaux	0	0
+Notre vaste monde regorge d'une variété de vies, de langues et de cultures.	세상은 넓고, 그 안엔 다양한 삶과 언어, 문화들이 존재한다.	vies	0	0
+Durant cette période, la majorité des Allemands demandaient la démission de Wulff.	그 시기에는 독일사람의 태반은 불프의 사임을 요구했다.	durant	0	0
+Acceptez-vous les cartes de crédits ?	크레디트 카드 받으세요?	cartes	0	0
+Nous sommes allés à Boston en bus.	우리는 버스를 타고 보스턴에 갔다.	bus	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	to	0	0
+Veuillez tourner à gauche !	왼쪽으로 돌아주세요.	tourner	0	0
+Tu as une bonne mémoire.	너는 기억력이 좋아.	mémoire	0	0
+Elle n'est pas mariée.	그는 미혼이다.	mariée	0	0
+Et pourtant, le contraire aussi est toujours vrai.	그러나, 그 반대도 또한 항상 진실이다.	contraire	0	0
+Avec ce vent d'automne frais, on ressent vraiment le changement de saison.	선선하게 불어오는 가을바람에 계절이 변화함을 느낍니다.	vent	0	0
+Il fait à peu près ma taille.	그는 키가 거의 나만 하다.	taille	0	0
+Donnez-moi cinq jours.	저에게 닷새의 시간을 주십시오.	donnez-moi	0	0
+Le chat est noir.	고양이는 검정색이다.	chat	0	0
+Continuez à écouter.	계속 들어.	continuez	0	0
+Ce couteau a une lame très effilée.	이 칼은 날이 아주 뾰족하다.	couteau	0	0
+J'ai regardé la télévision.	나는 티브이를 봤다.	regardé	0	0
+La bibliothèque de l'Université de Genève a une bonne salle de lecture.	제네바 대학의 도서관에는 좋은 열람실이 있다.	université	0	0
+Elle a vécu à Hiroshima jusqu’à ses dix ans.	그녀는 10 살때까지 히로시마에서 살았어요.	vécu	0	0
+Tom admirait Marie pour son courage.	톰은 마리의 용기를 높이 샀다.	courage	0	0
+Il a bu une bière.	그는 맥주를 마셨다.	bu	0	0
+Tu dois être ici à 14 h 30 demain après-midi.	너는 내일 오후 2시 30분에 여기 있어야 돼.	après-midi	0	0
+Que tu réussisses ou pas repose sur tes propres efforts.	성공 여부는 너 자신의 노력에 달려있다.	propres	0	0
+Choisissez-en une parmi ceux-là.	그중 하나를 고르세요.	parmi	0	0
+Étant donné que je n'ai reçu aucune réponse, je me demandais s'il était possible que mon courrier ne vous ait jamais été livré.	답장을 아직도 못 받아서 혹시 내 우편물이 너한테 배달되지 않은 건지 궁금했다.	étant	0	0
+Je n'aime pas les enseignants qui aiment les étudiants qui n'aiment pas poser de questions.	나는 질문을 좋아하지 않는 학생을 좋아하는 선생님을 좋아하지 않아.	aiment	0	0
+Nous sommes humains.	우리는 사람입니다.	humains	0	0
+Joyeux anniversaire Muiriel !	생일 축하해 Muiriel!	joyeux	0	0
+Bonheur partagé revient multiplié, peine partagée revient à moitié.	기쁨은 나누면 배가 되고 슬픔은 나누면 반이 된다.	bonheur	0	0
+Tom n'aimait pas Marie.	톰은 마리를 좋아하지 않았다.	aimait	0	0
+Toi aussi tu m'as manqué.	저도 당신을 보고 싶었어요.	manqué	0	0
+C'est un homme d'action.	그는 행동력 있는 사람이다.	action	0	0
+Tom n'avait pas idée de combien Marie était riche.	톰은 마리가 얼마나 부자인지 몰랐다.	marie	0	0
+Notre restaurant est le meilleur.	우리 레스토랑이 최고다.	restaurant	0	0
+J'ai eu une crise cardiaque.	나는 심장마비가 왔었다.	crise	0	0
+Il est l'heure que tu ailles te coucher. Coupe la radio.	네가 자러 갈 시간이다. 라디오를 꺼.	coupe	0	0
+T'es marrant.	너 웃긴다.	marrant	0	0
+Je refuse.	나는 거절한다.	refuse	0	0
+Tu t'es cassé le bras.	너는 팔이 부러졌다.	cassé	0	0
+J'ai visité la France deux fois : la première quand j’étais étudiante et la deuxième lors d'un séjour au Maroc.	나는 프랑스에 두 번(내가 대학생일 때와 내가 모로코에 있었을 때) 방문했다.	lors	0	0
+Il a soigné ma maladie.	그가 내 병을 치료해줬다.	maladie	0	0
+Aimez-vous la mienne ?	제 것이 마음에 드시나요?	mienne	0	0
+Je t'expliquerai comment l'utiliser une fois que je serai rentré.	제가 돌아오면 그것을 어떻게 사용하는지 설명해드릴게요.	rentré	0	0
+Le week-end dernier je suis allé faire un picnic en montagne.	지난 주말에 산으로 소풍을 갔다.	week-end	0	0
+Si tu touches ce fil, tu recevras une décharge.	그 전선에 닿으면 감전돼.	fil	0	0
+Ne quitte pas la ville.	도시를 떠나지 마.	quitte	0	0
+Pendant qu'il séjournait à Londres, il visita le British Museum.	그가 런던에서 머무는 동안 대영박물관을 방문했다.	londres	0	0
+Ils étaient tous partis.	그들은 모두 떠났다.	partis	0	0
+Où suis-je ?	나는 어디에 있지?	suis-je	0	0
+Maintenant arrête de pleurer.	이제 그만 울어라.	pleurer	0	0
+Ouvrez la bouche !	입을 벌리세요!	ouvrez	0	0
+"Les animaux sauvages ne sont pas des robots", dit-elle.	"야생동물은 로봇이 아니에요" 라고 그녀가 말했다.	animaux	0	0
+Mère et moi sommes différents en tous points.	엄마와 나는 여러모로 다르다.	points	0	0
+S'il avait suivi les conseils de son médecin, il ne serait peut-être pas mort.	그 남자가 의사 조언을 따랐으면 아마 안 죽었을 거야.	suivi	0	0
+L'apprentissage d'une langue étrangère demande de la persévérance.	외국어 습득에는 인내가 필요하다.	langue	0	0
+Avec ce vent d'automne frais, on ressent vraiment le changement de saison.	선선하게 불어오는 가을바람에 계절이 변화함을 느낍니다.	frais	0	0
+Veuillez venir.	방문해주세요.	veuillez	0	0
+Je ne peux pas bouger.	나는 못 움직인다.	bouger	0	0
+J'ai frappé Tom.	나는 톰을 때렸다.	frappé	0	0
+Les bénéfices devraient évidemment dépasser les coûts.	이윤은 당연히 비용을 넘어야지.	évidemment	0	0
+J'ai l'impression d'avoir perdu mes clés.	나 열쇠를 잃어버린 거 같아.	clés	0	0
+Tom est faible.	톰은 약하다.	faible	0	0
+Je suis à la recherche d'un travail à temps partiel afin de pouvoir m'acheter un nouveau caméscope.	나는 새 비디오카메라를 사기 위해서 시간제 아르바이트를 찾고 있다.	afin	0	0
+J'aime le bleu.	나는 하늘색이 좋다.	bleu	0	0
+J'ai failli rater le train.	나는 기차를 거의 놓칠 뻔했다.	failli	0	0
+J'aime courir.	나는 달리기를 좋아한다.	courir	0	0
+L’ensemble du continent américain est à notre portée !	미본토전역이 우리의 사정권안에 있다!	américain	0	0
+Le pont est en cours de réparation.	다리는 수리중입니다.	pont	0	0
+Arrivera-t-il à attraper le train ?	그는 기차를 잡을 수 있을까?	attraper	0	0
+Le poisson et le vin rouge ne vont pas bien ensemble.	생선이랑 레드 와인은 잘 안 어울린다.	poisson	0	0
+Les mesures préventives sont beaucoup plus efficaces que le traitement lui-même.	예방책이 처리 그 자체보다 훨씬 더 효과적이다.	lui-même	0	0
+Je déteste les chiens.	나는 개가 싫다.	chiens	0	0
+J'avais l'intention de faire un tour au village.	나는 마을을 둘러 볼 생각이 있었다.	intention	0	0
+Si tu as du sel dans ta cuisine, il faut saler pour avoir le goût.	부뚜막의 소금도 집어넣어야 짜다.	goût	0	0
+Sais-tu parler français ?	프랑스어 할 줄 알아?	sais-tu	0	0
+Le garçon boit du lait.	소년은 우유를 마신다.	lait	0	0
+Elle parle français.	그는 프랑스어를 한다.	français	0	0
+Ce travail ne paie pas.	이 일은 돈이 안 된다.	paie	0	0
+Dois-je partir de suite ?	저는 바로 떠나야 하나요?	dois-je	0	0
+Quelles langues parle-t-on en Corée ?	한국에서는 무슨 언어로 말합니까?	quelles	0	0
+Le dictionnaire est très utile pour les étudiants.	사전은 대학생들에게 아주 유용하다.	utile	0	0
+Le vase qu'il a cassé appartient à ma tante.	그가 깬 꽃병은 저희 숙모의 꽃병입니다.	appartient	0	0
+Tu peux identifier la voix des enfants sans le moindre problème.	나는 아무 문제 없이 아이들의 목소리를 알아볼 수 있다.	moindre	0	0
+Depuis que j'ai entendu ces paroles, je veux voyager de par les villes et provinces de France et je veux apprendre cette belle langue qu'est le français. Je souhaite non seulement cuisiner français de mes mains, mais aussi ressentir cet art de vivre à la française.	그 말을 들은 후부터 나는 프랑스의 도시들과 시골을 여행하고 싶어졌고, 아름다운 언어인 프랑스어를 배우고 싶어졌으며, 무엇보다도, 프랑스 음식을 내 손으로 직접 만들고 싶어졌다.또한 프랑스의 분위기를 느끼고 싶다.	art	0	0
+Que penses-tu qu'il advienne ?	무슨 일이 생길 것 같아?	penses-tu	0	0
+Cette bouteille peut contenir deux litres d'eau chaude.	이 병은 온수 2리터를 담을 수 있다.	bouteille	0	0
+Peux-tu nager aussi rapidement que lui ?	너는 걔처럼 빨리 수영할 수 있어?	rapidement	0	0
+Sais-tu quand le musicien viendra ici ?	음악가가 언제 여기 올지 알아?	viendra	0	0
+Il a beaucoup neigé l'année passée.	작년에 눈이 엄청 내렸어.	passée	0	0
+Elle parle japonais dans une certaine mesure.	그녀는 어느정도 일본어를 할 줄 안다.	certaine	0	0
+Tu as réfléchi sur ce problème toute la matinée. Prends une pause, va déjeuner.	너는 아침 내내 이 문제에 대해 생각했어, 좀 쉬고, 점심 먹으러 가.	pause	0	0
+Il n'y a pas de loisirs à la campagne.	시골에는 오락이 없다.	campagne	0	0
+Cette tarte aussi a l'air pas mauvaise: donnez-en moi un petit morceau.	이 타르트도 나쁘지 않아 보이네요. 작은 조각 하나만 저한테 주세요.	morceau	0	0
+Cinq est le nombre entre quatre et six.	오는 사와 육 사이의 숫자이다.	nombre	0	0
+Elle partagea le gâteau en six morceaux et en donna un à chaque enfant.	그녀가 케이크를 여섯 조각으로 잘라서 애들에게 한조각씩 줬다.	gâteau	0	0
+Je ne peux compter que sur moi-même.	나는 오직 나 자신만 믿을 수 있다.	compter	0	0
+As-tu vu mon appareil photo ?	너 내 카메라 봤어?	appareil	0	0
+Étant donné que je n'ai reçu aucune réponse, je me demandais s'il était possible que mon courrier ne vous ait jamais été livré.	답장을 아직도 못 받아서 혹시 내 우편물이 너한테 배달되지 않은 건지 궁금했다.	demandais	0	0
+Cette méthode fonctionne à chaque fois.	이 방법은 매번 먹힌다.	fonctionne	0	0
+Tu es si méchant.	너 정말 못됐다.	méchant	0	0
+Il marmonnait encore quelque chose concernant les hôpitaux à la fin de la fête, quand il a glissé sur un morceau de glace et s'est brisé la jambe gauche.	파티 막바지에 그는 아직도 병원에 대해서 뭔가 중얼거리고 있었는데 얼음 조각에 미끄러 넘어져 왼쪽다리를 부러졌다.	jambe	0	0
+Tu es gentille.	너는 성격이 좋다.	gentille	0	0
+Allons au cinéma.	극장에 가자.	cinéma	0	0
+C'est malheureusement vrai.	유감스럽게도 사실이네요.	malheureusement	0	0
+C'est un casse-tête de décider quoi mettre pour la fête.	파티에 뭘 놓을지 결정하느라 머리가 지끈거린다.	décider	0	0
+Il est né dans l'Ohio.	그는 오하이오에서 태어났다.	né	0	0
+Nous en voulons un.	우리는 그게 하나 필요합니다.	voulons	0	0
+Il a acheté un chapeau.	그 사람은 모자를 샀습니다.	chapeau	0	0
+Il ne lui manquait qu'un seul défaut pour être parfaite.	한가지만 빼면 그녀는 완벽해요.	parfaite	0	0
+Jack est en chemin pour le succès cette fois-ci.	잭은 이번에 성공을 향해 가고 있습니다.	succès	0	0
+Elle a un petit pain.	그녀에게는 조그만 빵 하나가 있다.	pain	0	0
+Je ne vous ai pas vus depuis des semaines.	나는 당신들을 몇 주 전부터 보지 못했다.	vus	0	0
+J'ai trouvé une solution, mais je l'ai trouvée tellement vite que ça peut pas être la bonne.	해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다.	trouvée	0	0
+Dors bien.	잘 자.	dors	0	0
+Je vais acheter celui-ci.	나는 이걸 살거야.	celui-ci	0	0
+Il a essayé de se lever.	그는 일어서려고 애썼다.	lever	0	0
+L'arbre a été frappé par la foudre.	번개가 나무에 떨어졌다.	arbre	0	0
+Elle parle également français.	그녀는 프랑스어도 한다.	également	0	0
+N'oublie pas d'apporter un parapluie.	우산 가져가는 거 잊지마.	apporter	0	0
+J'ai essayé de m'échapper.	나는 벗어나려고 시도했다.	échapper	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	in	0	0
+Ça avait l'air réel.	그건 진짜 같아 보인다.	réel	0	0
+Je t'ai dit un million de fois de ne pas exagérer.	과장하지 말라고 100만 번은 말했을 텐데.	million	0	0
+Dans l'ensemble, le Japon a un climat doux.	전반적으로 일본의 날씨는 온화하다.	doux	0	0
+Ma mère m'emmena au parc.	엄마가 나를 공원에 데려갔다.	parc	0	0
+Je suis resté à la maison.	나는 집에 남아있었다.	resté	0	0
+Nous sommes allées faire une promenade sur la plage.	우리는 해변에 산책을 하러 갔다.	plage	0	0
+Ne vous inquiétez pas.	걱정하지 마세요.	inquiétez	0	0
+C'est celle-là.	그건 저기 있는 것이다.	celle-là	0	0
+Je ramène une pizza à la maison.	나는 피자를 집으로 가지고 간다.	ramène	0	0
+Réponds en français, s'il te plaît.	프랑스어로 대답해주세요.	réponds	0	0
+Nous parlons français.	우리는 프랑스어를 한다.	parlons	0	0
+Elle aida son père à faire le travail dans le jardin.	그녀는 아빠가 정원에서 하는 일을 도왔다.	jardin	0	0
+Avec ce vent d'automne frais, on ressent vraiment le changement de saison.	선선하게 불어오는 가을바람에 계절이 변화함을 느낍니다.	saison	0	0
+Tom a montré la photo de John à Mary.	톰은 매리에게 존의 사진을 보여줬다.	montré	0	0
+Enchanté de vous rencontrer.	만나서 반갑습니다.	enchanté	0	0
+Je veux abandonner.	나는 포기하고 싶다.	abandonner	0	0
+Et je veux étudier de nombreuses langues pour comprendre le monde. Actuellement, je prépare une licence de grec classique.	그리고 나는 세상을 이해하고 싶기 때문에, 여러 언어를 배우고 싶다. 지금 나는 고대 그리스어 학위과정을 밟고 있다.	prépare	0	0
+Je souhaite être riche.	나는 부자가 되고 싶다.	souhaite	0	0
+J'ai répondu oui.	나는 그렇다고 대답했다.	répondu	0	0
+Pourquoi ne lui demandes-tu pas directement ?	왜 그 사람한테 직접 안 물어봐?	directement	0	0
+La Suisse est située entre la France, l'Italie, l'Autriche et l'Allemagne.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	france	0	0
+Aidez-moi à sortir.	내가 나갈 수 있게 도와주세요.	aidez-moi	0	0
+Les mathématiques sont la partie des sciences qu'on pourrait continuer à faire si on se réveillait demain et découvrait que l'univers avait disparu.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	univers	0	0
+Personne ne saura.	아는분이 없을겁니다.	saura	0	0
+À peu près 65% des Américains sont en surpoids, ce qui n'est pas bon pour leur santé.	미국 성인은 약 65퍼센트가 비만이고 그건 그들의 건강에 좋지 않다.	américains	0	0
+C'est de la viande de singe.	원숭이 고기다.	viande	0	0
+Les fantômes sont-ils réels ?	귀신이 실제로 존재합니까?	sont-ils	0	0
+Vous êtes amoureuse.	당신은 사랑에 빠지셨군요.	amoureuse	0	0
+Avec ce vent d'automne frais, on ressent vraiment le changement de saison.	선선하게 불어오는 가을바람에 계절이 변화함을 느낍니다.	changement	0	0
+Ouvrez votre livre à la page neuf.	그 책 9쪽을 펴시오.	page	0	0
+Tom conduit.	톰은 운전을 한다.	conduit	0	0
+C'était amusant.	즐거웠다.	amusant	0	0
+Quelle perte !	엄청난 손실이군!	perte	0	0
+Je veux partir à l'étranger.	나는 외국으로 떠가고 싶다.	étranger	0	0
+Tu ne peux pas manger de poulet ? Comment le sais-tu si tu ne l'as jamais goûté ?	닭을 못 먹는다고? 먹어보지도 않고 어떻게 알지?	poulet	0	0
+Je n'arrive pas à croire que je vienne de me faire une injection.	내가 주사를 맞고 왔다는 사실을 믿을 수 없어.	vienne	0	0
+Enlève ton manteau.	너 외투 벗어.	enlève	0	0
+Un dollar est égal à cent cents.	1달러는 100센트이다.	cent	0	0
+Bonne nuit. Fais de beaux rêves.	잘자. 좋은 꿈 꿔.	beaux	0	0
+Cette boutique est ouverte de 9 heures à 18 heures.	이 가게는 9시부터 6시까지 연다.	ouverte	0	0
+Nous devrions respecter nos parents.	부모를 공경해야 한다.	devrions	0	0
+« Chevaux » est le pluriel de « cheval ».	"말들"은 "말"의 복수형이야.	chevaux	0	0
+J'habite à une heure de mon travail.	나는 직장에서 1시간 정도 떨어진 곳에 살고 있다.	habite	0	0
+Je suis fatigué maintenant.	나는 지금 피곤하다.	fatigué	0	0
+Heureusement, personne ne fut blessé.	다행히 아무도 안 다쳤다.	heureusement	0	0
+Elle lui a demandé d'aider son père à nettoyer le garage mais il a déclaré qu'il était trop occupé pour le faire.	그녀는 그녀의 아버지가 차고 청소 하는 것을 도와 주라고 그에게 얘기 했지만 그는 너무 바빠서 못 도와 준대.	nettoyer	0	0
+Veuillez faire la file, s'il vous plaît !	줄을 서주세요.	file	0	0
+Je ne suis pas sorti dimanche dernier.	나는 지난 일요일에 외출하지 않았다.	dimanche	0	0
+Elle eut un rêve agréable.	그녀는 즐거운 꿈을 꾸었다.	agréable	0	0
+J'ai trouvé une amie française au Maroc. Elle m'a dit que Paris n'est pas toute la France, et que les villes de province sont très belles aussi.	내가 모로코에서 만난 프랑스 친구가 나에게 빠리의 공기(분위기)가 프랑스의 전부를 나타내는 것이 아니며, 다른 도시들과 시골이 아주 아름답다고 말했다.	belles	0	0
+J'ai eu le sentiment de ne pas avoir le choix.	나는 선택의 여지가 없는 것 같은 느낌을 받았다.	sentiment	0	0
+Nous nous sommes battus pour la victoire.	우리는 승리를 위해 다퉜다.	victoire	0	0
+La société est un asile dirigé par les patients.	사회란 환자에 의해 운영되는 정신병원입니다.	patients	0	0
+Descends !	내려와!	descends	0	0
+Tout le monde pleure.	모두가 운다.	pleure	0	0
+Les mesures préventives sont beaucoup plus efficaces que le traitement lui-même.	예방책이 처리 그 자체보다 훨씬 더 효과적이다.	traitement	0	0
+À chaque fois, je suis restée très peu de temps à Paris. Je le regrette bien.	그 기간동안 나는 오직 빠리에서만 짧게 머물렀기 때문에 그 기간이 매우 아쉬웠다.	regrette	0	0
+Ça sent le gaz.	가스 냄새가 난다.	gaz	0	0
+Stationnement interdit !	주차 금지!	interdit	0	0
+Ravie de vous rencontrer !	반갑습니다!	ravie	0	0
+J'ai offert un stylo plume à mon père.	나는 만년필 하나를 우리 아빠에게 드렸다.	offert	0	0
+Je ne vois pas d'autres moyens de lui faire accepter notre proposition.	나는 그 사람이 우리 제안을 수락하게 할 만한 다른 방법이 보이지 않는다.	moyens	0	0
+Je l'ai rencontré à l'aéroport.	나는 그를 공항에서 만났다.	aéroport	0	0
+Ne pense jamais autrement !	절대 다르게 생각하지 마!	autrement	0	0
+J'étais coincé.	나는 갇혀있었다.	coincé	0	0
+Elle est infirmière.	그녀는 간호사다.	infirmière	0	0
+C'est mon métier.	이건 내 직업이야.	métier	0	0
+Nous n'avons pas pu atteindre l'objectif initial.	우리는 당초의 목표를 달성하지 못했다	atteindre	0	0
+J'ai dormi dans le bus.	나는 버스에서 잤다.	dormi	0	0
+Mademoiselle Sua s'est mise au yoga récemment, elle a vraiment minci!	수아 씨, 요즘 요가 하신다더니 정말 날씬해지셨네요.	récemment	0	0
+Les caractères chinois sont difficiles à apprendre.	한자는 배우기 어려워.	chinois	0	0
+Il est devenu aveugle.	그는 이성이 마비됐다.	aveugle	0	0
+L'oiseau était couvert de plumes blanches.	새는 흰 깃털로 덮여있었다.	oiseau	0	0
+Qui est propriétaire de cette maison ?	이 집의 주인은 누구입니까?	propriétaire	0	0
+C'est une ancienne pièce de cinq marks.	이건 옛 5 마르크화다.	ancienne	0	0
+Tom a cherché un meilleur travail.	톰은 더 괜찮은 직업을 알아봤다.	cherché	0	0
+Mère et moi sommes différents en tous points.	엄마와 나는 여러모로 다르다.	différents	0	0
+Mona Lisa a été peinte par Léonard de Vinci.	모나리자는 레오나르도 다빈치가 그렸어.	lisa	0	0
+Lis le plus de livres possible.	가능한 한 많은 책을 읽으렴.	lis	0	0
+Elle devint célèbre.	그녀는 유명해졌다.	célèbre	0	0
+Il dort toujours ?	그는 아직도 자니?	dort	0	0
+Qui ne tente rien n'a rien.	부뚜막의 소금도 집어넣어야 짜다.	tente	0	0
+Elle est devenue infirmière.	그녀는 간호사가 됐어요.	devenue	0	0
+Tant que je respire, j'espère.	쉼쉬는 한, 희망이 있다.	respire	0	0
+C'est vert.	초록색이다.	vert	0	0
+Des garçons de ta classe, qui chante le mieux ?	너희 반 남자애 중에 누가 노래를 제일 잘하니?	chante	0	0
+Passez une bonne journée.	좋은하루 되세요.	passez	0	0
+Je ne voulais pas te blesser.	너의 마음을 상하게 하려고 한 것은 아니다.	blesser	0	0
+Vous avez clairement du talent, c'est vraiment dommage que vous n'ayez pas étudié plus!	너는 분명히 재능이 있는데 더 많이 못 배워서 아쉽구나.	talent	0	0
+Le temps change souvent en Angleterre.	영국은 날씨가 자주 바뀐다.	angleterre	0	0
+Pouvez-vous m'indiquer le site sur lequel je peux suivre mon colis?	소포를 추적할 수 있는 웹사이트 좀 알려주실 수 있나요?	site	0	0
+Les collines étaient recouvertes de neige.	언덕은 눈으로 덮여있었다.	neige	0	0
+Tom a mis sa chemise à l'envers.	톰이 셔츠를 뒤집어 입었어.	chemise	0	0
+Quel est votre emploi ?	직업이 무엇입니까?	emploi	0	0
+Tom et Marie se parlent en anglais.	톰이랑 마리가 영어로 대화한다.	parlent	0	0
+Tu as réfléchi sur ce problème toute la matinée. Prends une pause, va déjeuner.	너는 아침 내내 이 문제에 대해 생각했어, 좀 쉬고, 점심 먹으러 가.	réfléchi	0	0
+Cette chaise est laide.	이 의자는 더럽다.	chaise	0	0
+Vous avez clairement du talent, c'est vraiment dommage que vous n'ayez pas étudié plus!	너는 분명히 재능이 있는데 더 많이 못 배워서 아쉽구나.	clairement	0	0
+Il ronflait bruyamment pendant son sommeil.	그는 자는 동안 시끄럽게 코를 골았다.	sommeil	0	0
+La dame semblait triste, et aussi fatiguée.	그 여성은 우울하면서도 피곤해 보였다.	semblait	0	0
+Nous sommes allés à Boston.	우리는 보스턴에 갔다.	allés	0	0
+Toutes les familles avec des enfants bénéficient de prix réduits.	아이가 있는 모든 가족들은 가격 할인을 받는다.	familles	0	0
+Elle est adorable.	걔는 참 친절하다.	adorable	0	0
+J'ai peur des ours.	나는 곰이 무섭다.	ours	0	0
+Ma gorge est un peu sèche.	목이 조금 마릅니다.	gorge	0	0
+Il est sûr de réussir l'examen.	그는 시험에 합격할 거라고 확신한다.	examen	0	0
+Ça lui a demandé plusieurs semaines pour se remettre du choc.	그가 충격에서 벗어나는 데는 몇 주 걸렸다.	choc	0	0
+Allons au théâtre.	극장에 가자.	théâtre	0	0
+Je me lève à six heures chaque matin.	매일 아침 6시에 일어나요.	lève	0	0
+Le week-end dernier je suis allé faire un picnic en montagne.	지난 주말에 산으로 소풍을 갔다.	montagne	0	0
+Je veux un billet aller-retour pour Chicago.	시카고 왕복표 한 장 주세요.	chicago	0	0
+Tes lèvres sont bleues.	당신의 입술이 파랗습니다.	lèvres	0	0
+Passe-moi mes lunettes.	내 안경 좀 줘.	lunettes	0	0
+S'attaquer à la Libye fut une grave erreur.	리비아를 공격하는 것은 중대한 실수였다.	attaquer	0	0
+La forêt était très calme.	숲은 매우 고요했다.	forêt	0	0
+Les bénéfices devraient évidemment dépasser les coûts.	이윤은 당연히 비용을 넘어야지.	devraient	0	0
+Je ne sais pas quand elle reviendra.	그녀가 언제 돌아올지 모르겠다.	reviendra	0	0
+Ce n'est pas notre responsabilité.	그건 우리 책임이 아닙니다.	responsabilité	0	0
+Le texte original est truffé d'erreurs du début à la fin.	원문은 처음부터 끝까지 오류가 가득하다.	erreurs	0	0
+Ma montre est différente de la tienne.	내 시계는 네 것과 다르다.	tienne	0	0
+Regardez le tableau.	칠판을 보십시오.	tableau	0	0
+J'aime faire du vélo et les concerts de hard rock.	나는 자전거와 하드 락 콘서트를 좋아해.	rock	0	0
+Quand je me suis réveillé j'étais triste.	일어났을 때 슬펐어.	réveillé	0	0
+Elle parle japonais dans une certaine mesure.	그녀는 어느정도 일본어를 할 줄 안다.	mesure	0	0
+Il est difficile de tracer une frontière nette entre amour et amitié.	사랑과 우정 사이에 경계선을 긋는 것은 매우 어려운 일이다.	amitié	0	0
+Des chiens nombreux, c'est la mort du lièvre !	개가 많다는 것은 산토끼들에게는 죽음을 의미한다.	nombreux	0	0
+Il marmonnait encore quelque chose concernant les hôpitaux à la fin de la fête, quand il a glissé sur un morceau de glace et s'est brisé la jambe gauche.	파티 막바지에 그는 아직도 병원에 대해서 뭔가 중얼거리고 있었는데 얼음 조각에 미끄러 넘어져 왼쪽다리를 부러졌다.	brisé	0	0
+J'ai eu une crise cardiaque.	나는 심장마비가 왔었다.	cardiaque	0	0
+Tu ferais mieux de ne pas m'approcher, je ne suis pas de très bonne humeur.	나 지금 기분 나쁘니까 가까이 오지않는 편이 좋아.	humeur	0	0
+Comme c'est romantique!	그거 너무 낭만적이다!	romantique	0	0
+Ce lac est profond.	이 호수는 깊다.	lac	0	0
+Je pense que cette voiture nous suit lentement.	자동차가 천천히 따라오는 것 같은 느낌이 든다.	suit	0	0
+Je dois aller faire les courses, je reviens dans une heure.	난 쇼핑 가야되요, 한 시간 안에 돌아올게요.	courses	0	0
+Il était presque midi lorsque je me suis réveillée.	깨어나 보니 정오가 다 되어 있었다.	midi	0	0
+Combien coûte ce stylo ?	이 펜은 얼마입니까?	coûte	0	0
+Le vent souffle.	바람이 분다.	souffle	0	0
+Tom acheta un hebdomadaire à la gare.	톰은 역에서 주간지를 샀다.	gare	0	0
+Elle est rentrée chez elle.	그녀는 집으로 돌아갔다.	rentrée	0	0
+Le château a été restauré et est ouvert au public.	성이 복원되었고, 대중에게 개방되어 있는 상태야.	château	0	0
+Elle lui demanda d'aider son père à nettoyer le garage mais il déclara qu'il était trop occupé pour le faire.	그녀는 그녀의 아버지가 차고 청소 하는 것을 도와 주라고 그에게 얘기 했지만 그는 너무 바빠서 못 도와 준대.	garage	0	0
+Ce gâteau est délicieux.	저 케익 맛있어요.	délicieux	0	0
+J'ai interrompu toutes mes cartes de crédit sauf une.	나는 내 신용카드를 하나만 빼고 모두 해지했다.	crédit	0	0
+Les œuvres d'art ont dû traverser les océans pour être exposées ici au Brésil.	여기 브라질에서 전시되기 위해서 이 예술 작품들이 바다를 건너 왔어요.	traverser	0	0
+Poutine est un criminel de guerre.	푸틴은 전쟁범죄인입니다.	criminel	0	0
+Son comportement courageux lui vaut bien une médaille.	그의 용감한 행동은 메달을 받을 만한 가치가 있다.	comportement	0	0
+Le pauvre jeune homme devint finalement un grand artiste.	그 불쌍한 청년은 결국 위대한 예술가가 되었다.	artiste	0	0
+Depuis que j'ai entendu ces paroles, je veux voyager de par les villes et provinces de France et je veux apprendre cette belle langue qu'est le français. Je souhaite non seulement cuisiner français de mes mains, mais aussi ressentir cet art de vivre à la française.	그 말을 들은 후부터 나는 프랑스의 도시들과 시골을 여행하고 싶어졌고, 아름다운 언어인 프랑스어를 배우고 싶어졌으며, 무엇보다도, 프랑스 음식을 내 손으로 직접 만들고 싶어졌다.또한 프랑스의 분위기를 느끼고 싶다.	paroles	0	0
+Durant cette période, la majorité des Allemands demandaient la démission de Wulff.	그 시기에는 독일사람의 태반은 불프의 사임을 요구했다.	période	0	0
+J'ai préparé du thé.	제가 차를 준비했습니다.	préparé	0	0
+Ma montre est différente de la tienne.	내 시계는 네 것과 다르다.	différente	0	0
+Je ne suis pas pointilleux. N'importe qui ayant une bonne personnalité me convient.	저 눈 안 높아요. 저는 그냥 성격 좋은 사람이면 다 좋아요.	ayant	0	0
+Les oiseaux construisent des nids.	새는 둥지를 만든다.	oiseaux	0	0
+Il marmonnait encore quelque chose concernant les hôpitaux à la fin de la fête, quand il a glissé sur un morceau de glace et s'est brisé la jambe gauche.	파티 막바지에 그는 아직도 병원에 대해서 뭔가 중얼거리고 있었는데 얼음 조각에 미끄러 넘어져 왼쪽다리를 부러졌다.	concernant	0	0
+Ai-je l'air d'être occupée ?	제가 바쁜 것처럼 보이나요?	occupée	0	0
+La dame semblait triste, et aussi fatiguée.	그 여성은 우울하면서도 피곤해 보였다.	fatiguée	0	0
+Les oranges sont riches en vitamine C.	오렌지는 많은 비타민C를 함유하고 있다.	riches	0	0
+Je veux une piscine.	나는 수영장을 원한다.	piscine	0	0
+Il a arrêté de fumer l'année dernière.	지난 해 담배를 끊았다.	fumer	0	0
+Quelle partie est fausse ?	어떤 부분이 가짜입니까?	fausse	0	0
+On m'a élevé à la nourriture Mexicaine.	나는 멕시코 음식을 먹으며 자랐습니다.	élevé	0	0
+Tatoeba n'est pas un réseau social.	타토에바는 SNS가 아닙니다.	réseau	0	0
+Je me levais toujours tôt dans mon enfance.	나는 유년 시절에 항상 일찍 씻었다.	enfance	0	0
+Choisis une personne.	한 명 골라봐.	choisis	0	0
+Je veux un billet aller-retour pour Chicago.	시카고 왕복표 한 장 주세요.	billet	0	0
+C'est le tien.	이건 당신의 것입니다.	tien	0	0
+Je ne sais pas comment traduire cette phrase en russe.	난 이 문장을 러시아어로 어떻게 번역해야 할지 몰라.	russe	0	0
+Écoutez-moi, s'il vous plaît.	제발 내 말 좀 들어주세요.	écoutez-moi	0	0
+J'aime étudier le français.	나는 프랑스어 공부하는 것을 좋아한다.	étudier	0	0
+Les Jackson ont déménagé à Boston.	잭슨 부부는 보스턴으로 이사했다.	jackson	0	0
+Soyons amis pour toujours.	언제까지나 친구로 지내자.	soyons	0	0
+Tous les avocats sont des menteurs.	변호사들은 모두 거짓말쟁이다.	avocats	0	0
+Pour quel département travailles-tu ?	어느 부서에서 일하세요?	département	0	0
+Je le prendrai.	내가 가져갈게.	prendrai	0	0
+Elle a fait un geste de la main.	그녀는 손짓을 했다.	geste	0	0
+J'ai pas fait gaffe.	나는 조심하지 않았다.	gaffe	0	0
+Je ramène une pizza à la maison.	나는 피자를 집으로 가지고 간다.	pizza	0	0
+Plus y'en a, mieux c'est.	다다익선.	y'	0	0
+Jean regardera une rose.	장은 장미꽃 한 송이를 바라볼 것이다.	jean	0	0
+Répondez en français, s'il vous plaît.	프랑스어로 대답해주시길 바랍니다.	répondez	0	0
+Peux-tu deviner ce que j'ai ?	너는 내가 뭘 갖고 있는지 추측할 수 있겠어?	deviner	0	0
+À strictement parler, le chinois est composé de centaines de dialectes.	엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	centaines	0	0
+Dans ce film d'horreur, les morts peuvent revenir à la vie.	이 공포 영화에선 죽은 사람이 다시 살아나는 것이 가능하다.	horreur	0	0
+Je suis allé skier pour la première fois cet hiver.	나는 이번 겨울에 처음으로 스키를 타러 갔다.	hiver	0	0
+Qui est cette femme qui porte un manteau brun ?	갈색 외투를 입은 이 여자는 누구입니까?	manteau	0	0
+L'esclavage est un crime contre l'humanité.	노예제도는 반인륜적인 범죄야.	humanité	0	0
+« Qu'est-ce qui ne va pas ? » demanda le petit lapin blanc.	작고 흰 토끼는 "무슨 일 있니?" 라고 물어봤습니다.	lapin	0	0
+Cette boutique est ouverte de 9 heures à 18 heures.	이 가게는 9시부터 6시까지 연다.	boutique	0	0
+C'est pourquoi j'ai besoin d'un long séjour en France et de fonds pour financer mon séjour.	그래서 나는 프랑스에 오래 머무르고 싶고, 그러기 위한 돈이 필요하다.	fonds	0	0
+J'ai ramené les livres que j'avais empruntés à la bibliothèque et j'en ai emprunté des nouveaux.	도서관에서 빌렸던 책은 반납하고, 다시 새로운 책을 빌려왔어.	ramené	0	0
+S'il avait suivi les conseils de son médecin, il ne serait peut-être pas mort.	그 남자가 의사 조언을 따랐으면 아마 안 죽었을 거야.	conseils	0	0
+Mars sera colonisé.	화성은 식민지로 개척될 것입니다.	mars	0	0
+Mon ami apprend le coréen.	내친구는 한국어를 공부해요.	apprend	0	0
+Ses yeux étaient remplis de larmes.	그의 눈이 눈물로 가득했다.	larmes	0	0
+Que dites-vous d'une tasse de café ?	커피 마실래요?	dites-vous	0	0
+Tom ne voulait pas être impliqué.	톰은 연루되고 싶지 않았다.	impliqué	0	0
+Je vous prie de me pardonner.	용서해 주십시오.	pardonner	0	0
+Je lui donnerai un stylo.	나는 그 사람에게 펜을 줄 것이다.	donnerai	0	0
+Si ma vie se cantonne uniquement à la culture coréenne, je suis pauvre d’expériences.	만일 내가 내 인생에서 단지 한국의 문화만을 경험한다면 아주 안타까울 것이다.	uniquement	0	0
+Elle partagea le gâteau en six morceaux et en donna un à chaque enfant.	그녀가 케이크를 여섯 조각으로 잘라서 애들에게 한조각씩 줬다.	morceaux	0	0
+Il est sûr de réussir l'examen.	그는 시험에 합격할 거라고 확신한다.	réussir	0	0
+Il est difficile de tracer une frontière nette entre amour et amitié.	사랑과 우정 사이에 경계선을 긋는 것은 매우 어려운 일이다.	frontière	0	0
+Je te hais !	너 싫어!	hais	0	0
+Mes enfants vivent à Boston.	내 아이들은 보스턴에 산다.	vivent	0	0
+J'aime faire du vélo et les concerts de hard rock.	나는 자전거와 하드 락 콘서트를 좋아해.	vélo	0	0
+Je n'ai jamais entendu parler de cet acteur.	이 배우는 들어본 적이 없다.	acteur	0	0
+Tu ne dois pas fumer pendant que tu travailles.	일하는 동안 담배 피우면 안 돼.	travailles	0	0
+Personne ne m'a prévenu.	아무도 나한테 알려주지 않았어.	prévenu	0	0
+Elle lui donna un cadeau.	그녀는 그에게 선물을 주었다.	donna	0	0
+J'ai failli rater le train.	나는 기차를 거의 놓칠 뻔했다.	rater	0	0
+Vous ne vous sentez pas bien ?	기분이 좋지 않으세요?	sentez	0	0
+Tous les passagers eurent le mal de mer pendant la tempête.	풍랑이 치는 동안 모든 승객이 멀미를 했다.	tempête	0	0
+Un dollar est égal à cent cents.	1달러는 100센트이다.	cents	0	0
+Je ne crois pas que je vais passer toute la journée devant cet écran.	내가 하루 종일 이 화면 앞에서 시간을 보낼 것 같지는 않다.	écran	0	0
+Va-t-il pleuvoir aujourd'hui ?	오늘 비가 올까요?	va-t-il	0	0
+Tous les étudiants passent un test de conduite.	모든 대학생들이 운전 면허 시험을 본다.	étudiants	0	0
+Calmez-vous pendant un moment.	잠시 진정해보세요.	calmez-vous	0	0
+Où allons-nous manger ?	어디서 먹을까?	allons-nous	0	0
+Essayons quelque chose !	뭔가 해보자!	essayons	0	0
+Il n'y a aucune raison de céder à la panique.	혼란에 빠질 어떠한 이유도 없다.	panique	0	0
+Plus les années passent, plus je pense à ma ville natale.	해를 거듭할수록 고향 생각이 간절하다	passent	0	0
+Appelle-moi !	연락해줘!	appelle-moi	0	0
+Merci pour ton explication.	설명 고마워요.	explication	0	0
+Ce lac est profond.	이 호수는 깊다.	profond	0	0
+Son nouveau roman vaut le coup de le lire.	그의 새로운 소설은 읽을만한 가치가 있다.	roman	0	0
+Tu as mangé mon sandwich.	네가 내 샌드위치를 먹었지.	sandwich	0	0
+Je suis désolée de cet incident.	이 사고에 대해서 죄송합니다.	incident	0	0
+Il remplissait un rôle important au comité.	그는 위원회에서 중요한 임무를 완수했었다.	comité	0	0
+Je suis chinois et j’adore la Chine.	저는 중국인이고 중국을 사랑합니다.	chine	0	0
+La haine n'arrange rien.	증오로 나아지는 것은 아무것도 없다.	haine	0	0
+Tu peux identifier la voix des enfants sans le moindre problème.	나는 아무 문제 없이 아이들의 목소리를 구분할 수 있다.	identifier	0	0
+Je suis célibataire.	저는 솔로입니다.	célibataire	0	0
+Aujourd'hui, c'est jeudi.	오늘은 목요일입니다.	jeudi	0	0
+Est-ce qu'elle te connait ?	그녀가 너를 알아?	connait	0	0
+L'oiseau était couvert de plumes blanches.	새는 흰 깃털로 덮여있었다.	couvert	0	0
+Je me sentais seul.	나는 혼자라는 느낌이 들었다.	sentais	0	0
+J'aurais dû faire cuire le porc plus longtemps.	돼지고기를 더 구웠어야 했는데.	porc	0	0
+Ça te gêne si j'ouvre la fenêtre ?	내가 창문 열면 네가 좀 불편할까?	gêne	0	0
+Je conduis une voiture.	난 자동차를 운전한다.	conduis	0	0
+Passez une excellente fin de semaine.	좋은 주말 보내십시오!	excellente	0	0
+C'est de la viande de singe.	원숭이 고기다.	singe	0	0
+Je dois faire changer mon chauffage central cette année.	나는 올해 중앙 난방기를 바꿔야 한다.	central	0	0
+Pardonnez-moi s'il vous plaît.	용서해 주십시오.	pardonnez-moi	0	0
+Le monde est une cage à fous.	이 세상은 미치광이들의 소굴이다	cage	0	0
+Elles sont russes.	저 사람들은 러시아 사람입니다.	russes	0	0
+Vous avez entièrement raison.	당신의 생각은 전적으로 옳습니다.	entièrement	0	0
+Tu passes Noël avec Tom ?	너는 크리스마스를 톰이랑 같이 보내?	passes	0	0
+Je cours dix kilomètres chaque jour.	나는 매일 10 킬로미터를 달려.	kilomètres	0	0
+J'ai essayé pendant des heures de me rappeler où j'avais mis mes clefs, mais cela m'a complètement échappé.	내가 열쇠를 어디에다 뒀는지 기억하려고 몇 시간이나 노력했는데도 전혀 생각이 나지 않았다.	échappé	0	0
+Il ne voulait pas qu'elle parte.	그는 그녀가 떠나길 원치 않았다.	parte	0	0
+Je pense que cette voiture nous suit lentement.	자동차가 천천히 따라오는 것 같은 느낌이 든다.	lentement	0	0
+Et je veux étudier de nombreuses langues pour comprendre le monde. Actuellement, je prépare une licence de grec classique.	그리고 나는 세상을 이해하고 싶기 때문에, 여러 언어를 배우고 싶다. 지금 나는 고대 그리스어 학위과정을 밟고 있다.	classique	0	0
+J'ai écouté.	나는 들었다.	écouté	0	0
+Elle prend des leçons de piano une fois par semaine.	그녀는 일주일에 한 번 피아노 레슨을 받는다.	piano	0	0
+Nous espérons ouvrir en octobre.	우리는 10월에 오픈하기를 희망한다.	espérons	0	0
+Tom refusa d'aider Marie à faire ses devoirs.	톰은 마리의 숙제를 도와주는 걸 거절했다.	devoirs	0	0
+Il n'est si méchant pot qui ne trouve son couvercle.	짚신도 짝이 있다	pot	0	0
+Tu me manques !	보고 싶어요!	manques	0	0
+Son comportement courageux lui vaut bien une médaille.	그의 용감한 행동은 메달을 받을 만한 가치가 있다.	courageux	0	0
+J'étudie à la bibliothèque.	나는 도서관에서 공부한다.	bibliothèque	0	0
+Étant donné que je n'ai reçu aucune réponse, je me demandais s'il était possible que mon courrier ne vous ait jamais été livré.	답장을 아직도 못 받아서 혹시 내 우편물이 너한테 배달되지 않은 건지 궁금했다.	courrier	0	0
+Je me considère chanceux.	나는 운이 좋은 것 같다.	chanceux	0	0
+Que dites-vous d'une tasse de café ?	커피 한 잔 어떠세요?	tasse	0	0
+Elle était censée l'appeler à quatorze heures trente.	그녀는 2시 30분에 그에게 전화하기로 되어있었다.	censée	0	0
+Tu ferais mieux de ne pas m'approcher, je ne suis pas de très bonne humeur.	나 지금 기분 나쁘니까 가까이 오지않는 편이 좋아.	approcher	0	0
+Nicole sait très bien parler japonais.	니콜은 일본어를 아주 잘 한다.	japonais	0	0
+Mange plus de fruits.	과일 더 많이 먹어라.	fruits	0	0
+Tous les étudiants passent un test de conduite.	모든 대학생들이 운전 면허 시험을 본다.	conduite	0	0
+J'ai peur que mes efforts pour l'aider ne soient qu'une perte de temps.	그 사람을 도우려는 내 노력이 그저 시간 낭비일까 두렵다.	efforts	0	0
+Depuis que j'ai entendu ces paroles, je veux voyager de par les villes et provinces de France et je veux apprendre cette belle langue qu'est le français. Je souhaite non seulement cuisiner français de mes mains, mais aussi ressentir cet art de vivre à la française.	그 말을 들은 후부터 나는 프랑스의 도시들과 시골을 여행하고 싶어졌고, 아름다운 언어인 프랑스어를 배우고 싶어졌으며, 무엇보다도, 프랑스 음식을 내 손으로 직접 만들고 싶어졌다.또한 프랑스의 분위기를 느끼고 싶다.	voyager	0	0
+Nous nous sommes levés à l'aube.	우리 새벽에 일어났다.	aube	0	0
+Que tu réussisses ou pas repose sur tes propres efforts.	성공 여부는 너 자신의 노력에 달려있다.	repose	0	0
+Cette bouteille peut contenir deux litres d'eau chaude.	이 병은 온수 2리터를 담을 수 있다.	chaude	0	0
+Tom vivait à Boston avant, n'est-ce pas ?	톰은 전에 보스턴에서 살았지, 아니야?	vivait	0	0
+L'apprentissage d'une langue étrangère demande de la patience.	외국어 습득에는 인내가 필요하다.	patience	0	0
+Nous vîmes beaucoup de poissons dans l'étang.	우리는 연못에 물고기가 많이 있는 것을 봤다.	poissons	0	0
+Ça m'est égal.	상관없어.	égal	0	0
+J'apprends vite.	나는 빨리 배운다.	apprends	0	0
+Je ne vois pas d'autres moyens de lui faire accepter notre proposition.	나는 그 사람이 우리 제안을 수락하게 할 만한 다른 방법이 보이지 않는다.	proposition	0	0
+Le film passionna toute l'audience.	모든 관객이 영화에 열광했다.	audience	0	0
+Tom ne voyait plus Manon depuis deux ans.	톰은 2년 전부터 마농을 더 이상 못 봤다.	voyait	0	0
+Je suis fatigué de regarder la télévision.	나는 티브이 보느라 지쳤다.	télévision	0	0
+Je ne suis vraiment pas intéressé par l'histoire.	역사에는 전혀 흥미가 없어.	intéressé	0	0
+Une équipe de football se compose de onze joueurs.	축구는 11멍의 선수로 팀이 구성된다.	football	0	0
+Même une chaussure de paille fait partie d'une paire.	짚신도 짝이 있다	paire	0	0
+Je ne veux plus visiter Boston.	나는 더 이상 보스턴에 가고 싶지 않다.	visiter	0	0
+Ces livres sont les nôtres.	이 책은 우리 책이다.	nôtres	0	0
+J'étais dans les montagnes.	나는 산에 있었어.	montagnes	0	0
+Aimes-tu le printemps ou l'automne ?	봄을 좋아해요, 아니면 가을을 좋아해요?	printemps	0	0
+Les fantômes existent-ils vraiment ?	귀신이 실제로 존재합니까?	fantômes	0	0
+Le problème est que nous n'avons pas suffisamment de temps.	문제는 우리는 시간이 충분하지 않다는 것이다.	suffisamment	0	0
+L'éducation dans ce monde me déçoit.	이 세상의 교육이 나를 실망시켜요.	éducation	0	0
+À chaque fois, je suis restée très peu de temps à Paris. Je le regrette bien.	그 기간동안 나는 오직 빠리에서만 짧게 머물렀기 때문에 그 기간이 매우 아쉬웠다.	restée	0	0
+Prenons le bus.	버스로 가자.	prenons	0	0
+Je ne l'avais jamais vu auparavant.	나는 그를 전에 본 적이 없다.	auparavant	0	0
+Comment l'amour peut-il aimer l'amour ?	사랑이 사랑을 어떻게 사랑할 수 있니?	peut-il	0	0
+Elizabeth a tué Alister de sang froid.	엘리자베스가 알리스터를 냉혹하게 죽였다.	elizabeth	0	0
+Elles ne connaissent rien d'Istanbul.	그녀들은 이스탄불에 대해 아무것도 모른다.	connaissent	0	0
+Les taxis sont chers.	택시는 가격이 비싸다.	chers	0	0
+Préviens Tom.	톰한테 알려.	préviens	0	0
+Je déteste le sable.	나는 모래가 싫다.	sable	0	0
+Je suis née à Kyoto.	교토에서 태어났어.	née	0	0
+Ses ongles sont rouges.	그 사람의 손톱은 빨간색이야.	rouges	0	0
+Cette épicerie ne vend que de la nourriture bio.	이 식료품점은 유기농 식품만을 팔고 있다.	vend	0	0
+L'eau devient solide quand elle gèle.	물은 얼면 고체로 변한다.	solide	0	0
+Je suis étudiant.	저는 학생이에요.	étudiant	0	0
+Je me suis perdu dans Boston.	나는 보스턴에서 길을 잃었다.	boston	0	0
+Quelle est ta nourriture préférée ?	가장 좋아하는 음식이 뭐야?	préférée	0	0
+Mon ami allemand s'appelle Hans.	내 독일인 친구 이름은 한스예요.	allemand	0	0
+Tokyo est la capitale du Japon.	도쿄는 일본의 수도입니다.	japon	0	0
+Je ne supporte pas le froid.	나는 추운 걸 못 견딘다.	supporte	0	0
+Elle est vraiment attentive et patiente.	그녀는 정말 조심스럽고 인내심이 있다.	patiente	0	0
+Huile et eau ne se mélangent pas.	기름과 물은 혼합되지 않는다.	huile	0	0
+Nous devrions respecter nos parents.	부모를 공경해야 한다.	respecter	0	0
+Il n'y a rien de plus précieux que l'amour.	사랑보다 귀중한 것은 없다.	précieux	0	0
+Nous n'avons pas pu atteindre l'objectif initial.	우리는 당초의 목표를 달성하지 못했다	objectif	0	0
+Elles sont trop grosses.	그 여자들은 매우 뚱뚱하다.	grosses	0	0
+Je te suivrai partout où tu iras.	네가 어디를 가든 나는 너를 따라갈 거야.	iras	0	0
+Les caractères chinois sont difficiles à apprendre.	한자는 배우기 어렵다.	difficiles	0	0
+Je serai très heureux d'accepter ton invitation.	초대에 기꺼이 응하겠습니다.	invitation	0	0
+Berlin est la capitale de l'Allemagne.	베를린은 독일의 수도입니다.	allemagne	0	0
+Tom doit payer son loyer aujourd'hui.	톰은 오늘 월세를 내야한다.	loyer	0	0
+Tu as le sens de l'humour.	너는 위트 감각이 좋다.	humour	0	0
+Le garçon boit du lait.	소년은 우유를 마신다.	boit	0	0
+Remplissez les espaces libres.	빈 공간을 채우세요.	libres	0	0
+Le film nous a tous plu.	다들 영화를 잘 봤어요.	plu	0	0
+Peux-tu nager aussi rapidement que lui ?	너는 걔처럼 빨리 수영할 수 있어?	nager	0	0
+Devrais-je y aller ?	나 거기 가야돼?	devrais-je	0	0
+Durant cette période, la majorité des Allemands demandaient la démission de Wulff.	그 시기에는 독일사람의 태반은 불프의 사임을 요구했다.	allemands	0	0
+Le texte original est truffé d'erreurs du début à la fin.	원문은 처음부터 끝까지 오류가 가득하다.	original	0	0
+Si j'avais des ailes, je volerais vers toi.	나에게 날개가 달렸다면 너에게 날아갈 것이다.	ailes	0	0
+Pensez-vous que prendre un petit-déjeuner chaque jour soit important ?	매일 아침을 먹는 것이 중요하다고 생각하나요?	petit-déjeuner	0	0
+Nous sommes enfin seules.	우리는 마침내 홀로 남았다.	seules	0	0
+Nous sommes en train de manger des pommes.	우리는 사과를 먹고 있다.	pommes	0	0
+Parle-moi !	나한테 얘기해줘!	parle-moi	0	0
+Il n'y a pas de chance d'union entre ces deux pays.	이 두 나라가 연합할 가능성은 없다.	union	0	0
+J'étais ivre.	나는 취했었다.	ivre	0	0
+J'aime les chats.	나는 고양이를 좋아해.	chats	0	0
+Cette tarte aussi a l'air pas mauvaise: donnez-en moi un petit morceau.	이 타르트도 나쁘지 않아 보이네요. 작은 조각 하나만 저한테 주세요.	tarte	0	0
+Si ma vie se cantonne uniquement à la culture coréenne, je suis pauvre d’expériences.	만일 내가 내 인생에서 단지 한국의 문화만을 경험한다면 아주 안타까울 것이다.	culture	0	0
+Crois-tu en Dieu ?	신을 믿어요?	crois-tu	0	0
+Comment pouvons-nous nous protéger du coronavirus ?	코로나 바이러스로부터 어떻게 우리 몸을 지킬 수 있을까요?	pouvons-nous	0	0
+Nous mangions des œufs.	우리는 계란을 먹었다.	œufs	0	0
+Souviens-toi de Dieu.	하느님을 기억하라.	souviens-toi	0	0
+J'ai eu une matinée chargée.	나는 오전에 바빴어.	matinée	0	0
+Il semblerait que Mr. Tanaka ait réussi l'examen.	다나카 씨는 시험에 합격한 것 같습니다.	semblerait	0	0
+L'un d'eux est un espion.	둘 중 하나는 스파이다.	espion	0	0
+Je te pardonne.	난 널 용서한다.	pardonne	0	0
+Une équipe de football se compose de onze joueurs.	축구는 11멍의 선수로 팀이 구성된다.	joueurs	0	0
+Nous jasâmes de nombreuses heures.	우리는 몇 시간 동안 수다를 떨었다.	nombreuses	0	0
+La Russie est un État terroriste.	러시아는 테러 국가.	terroriste	0	0
+C'est gratuit.	공짜입니다.	gratuit	0	0
+Je ne suis pas pointilleux. N'importe qui ayant une bonne personnalité me convient.	저 눈 안 높아요. 저는 그냥 성격 좋은 사람이면 다 좋아요.	convient	0	0
+Nancy ressemble à ma grande sœur.	낭시는 우리 언니를 닮았다.	nancy	0	0
+Ouvre les fenêtres, s'il te plaît.	창문을 열어주세요.	fenêtres	0	0
+Tom vit actuellement à Boston.	톰은 현재 보스턴에 산다.	actuellement	0	0
+J'ai étudié hier soir.	나는 어젯밤에 공부했다.	étudié	0	0
+J'ai eu du bol.	나는 운이 좋았다.	bol	0	0
+Peut-être que tu as raison, j'ai été égoïste.	아마도 너가 옳을지도 몰라, 내가 너무 이기적이었어.	égoïste	0	0
+Je n'ai pas de frère mais j'ai deux sœurs.	나는 남자 형제는 없고 여자 형제가 두 명 있다.	sœurs	0	0
+Il était presque midi lorsque je me suis réveillée.	깨어나 보니 정오가 다 되어 있었다.	réveillée	0	0
+La Russie est un État terroriste.	러시아는 테러 국가.	russie	0	0
+Descendez !	내려가세요!	descendez	0	0
+L'espagnol est parlé dans beaucoup de pays.	스페인어는 많은 국가에서 쓰인다.	espagnol	0	0
+Ma voiture a été volée. Elle n'est pas où je l'ai garée.	누가 제 차를 훔처갔어요. 제가 주차한곳에 없어요.	volée	0	0
+Elle fait un régime.	그녀는 다이어트를 한다.	régime	0	0
+Il est la fierté de sa famille.	그는 집안의 자랑이다.	fierté	0	0
+Vérifiez !	확인해보세요!	vérifiez	0	0
+La bibliothèque de l'Université de Genève a une bonne salle de lecture.	제네바 대학의 도서관에는 좋은 열람실이 있다.	lecture	0	0
+C'était une histoire intéressante.	흥미로운 이야기였어요.	intéressante	0	0
+Je sais jouer de la guitare.	기타를 칠 줄 알아요.	guitare	0	0
+Soyez gentils !	친절을 베푸세요!	gentils	0	0
+Montre-moi où tu as mal.	어디가 아픈지 저한테 보여주세요.	montre-moi	0	0
+Un dollar est égal à cent cents.	1달러는 100센트이다.	dollar	0	0
+Je ne suis pas pointilleux. N'importe qui ayant une bonne personnalité me convient.	저 눈 안 높아요. 저는 그냥 성격 좋은 사람이면 다 좋아요.	personnalité	0	0
+J'ai acheté une vieille lampe.	나는 오래된 전등 하나를 샀다.	lampe	0	0
+C'est Ken. Il aime beaucoup son chien.	켄이에요. 그는 정말 그의 개를 좋아해요.	ken	0	0
+Depuis que j'ai entendu ces paroles, je veux voyager de par les villes et provinces de France et je veux apprendre cette belle langue qu'est le français. Je souhaite non seulement cuisiner français de mes mains, mais aussi ressentir cet art de vivre à la française.	그 말을 들은 후부터 나는 프랑스의 도시들과 시골을 여행하고 싶어졌고, 아름다운 언어인 프랑스어를 배우고 싶어졌으며, 무엇보다도, 프랑스 음식을 내 손으로 직접 만들고 싶어졌다.또한 프랑스의 분위기를 느끼고 싶다.	ressentir	0	0
+Elle lui a demandé d'aider son père à nettoyer le garage mais il a déclaré qu'il était trop occupé pour le faire.	그녀는 그녀의 아버지가 차고 청소 하는 것을 도와 주라고 그에게 얘기 했지만 그는 너무 바빠서 못 도와 준대.	déclaré	0	0
+Oui, je l'ai embrassé.	네. 그 남자와 키스했어요.	embrassé	0	0
+Bon appétit !	맛있게 드십시오.	appétit	0	0
+Je ne fume pas.	담배를 피우지 않아요.	fume	0	0
+Je ne sais pas comment traduire cette phrase en russe.	난 이 문장을 러시아어로 어떻게 번역해야 할지 몰라.	phrase	0	0
+Je me suis levé vers cinq heures.	나는 다섯 시쯤 일어났다.	levé	0	0
+Depuis que j'ai entendu ces paroles, je veux voyager de par les villes et provinces de France et je veux apprendre cette belle langue qu'est le français. Je souhaite non seulement cuisiner français de mes mains, mais aussi ressentir cet art de vivre à la française.	그 말을 들은 후부터 나는 프랑스의 도시들과 시골을 여행하고 싶어졌고, 아름다운 언어인 프랑스어를 배우고 싶어졌으며, 무엇보다도, 프랑스 음식을 내 손으로 직접 만들고 싶어졌다.또한 프랑스의 분위기를 느끼고 싶다.	cuisiner	0	0
+Ne mangez pas les huîtres.	굴을 먹지마세요.	mangez	0	0
+J'ai offert un stylo plume à mon père.	나는 만년필 하나를 우리 아빠에게 드렸다.	stylo	0	0
+Il est l'heure que tu ailles te coucher. Coupe la radio.	네가 자러 갈 시간이다. 라디오를 꺼.	ailles	0	0
+Ses ongles sont rouges.	그 사람의 손톱은 빨간색이야.	ongles	0	0
+L'Italie est un très beau pays.	이탈리아는 아주 아름다운 나라입니다.	italie	0	0
+Croyez-vous en Dieu ?	신을 믿어요?	croyez-vous	0	0
+Il s'est déguisé en Père Noël pour plaire à ses enfants.	아이들을 즐겁게 해 주려고 그는 산타클로스로 변장하였다.	plaire	0	0
+Appréciez-vous ce que vous êtes devenus ?	당신이 변해버린 상태에 만족하십니까?	devenus	0	0
+Le bouddhisme vient de l'Inde.	불교는 인도에서 유래됐다.	inde	0	0
+J'ai trouvé une amie française au Maroc. Elle m'a dit que l'ambiance à Paris n'est pas celle de toute la France, d'autres villes et provinces sont très belles.	내가 모로코에서 만난 프랑스 친구가 나에게 빠리의 공기(분위기)가 프랑스의 전부를 나타내는 것이 아니며, 다른 도시들과 시골이 아주 아름답다고 말했다.	villes	0	0
+D'après la rumeur il y aurait des trésors cachés là-bas.	그곳에는 보물이 숨겨져 있다는 소문이 있다.	rumeur	0	0
+Cette méthode fonctionne à chaque fois.	이 방법은 매번 먹힌다.	méthode	0	0
+Est-ce que je pue ?	나 냄새나?	pue	0	0
+La haine n'arrange rien.	증오로 나아지는 것은 아무것도 없다.	arrange	0	0
+Il est descendu du bus.	남자가 버스에서 내렸다.	descendu	0	0
+Voici mon passeport.	여기 제 여권입니다.	passeport	0	0
+Prends celui que tu préfères.	네가 제일 좋아하는 걸 골라.	préfères	0	0
+Nous avons énormément de temps ce soir.	우리는 오늘 밤 시간이 엄청 많다.	énormément	0	0
+Je suis reconnaissant envers mes enfants.	나는 내 아이들에게 감사한다.	reconnaissant	0	0
+Tom m'enseigne le français.	톰이 나한테 프랑스어를 가르친다.	enseigne	0	0
+J'ai acheté une cravate rouge.	나는 빨간색 넥타이 하나를 샀다.	cravate	0	0
+Je me considère chanceux.	나는 운이 좋은 것 같다.	considère	0	0
+Es-tu sincère ?	너 진심이야?	sincère	0	0
+Tu es timide.	너는 소심하구나.	timide	0	0
+Je l'ai cassée.	내가 그걸 부쉈다.	cassée	0	0
+Nous étions censés nous rencontrer à 14 h 30.	우리는 2시 30분에 만나기로 돼 있었다.	censés	0	0
+Il a agi sagement.	그는 현명하게 행동했다.	agi	0	0
+Je viens juste de déménager.	저는 막 이사했습니다.	déménager	0	0
+Le Canada borde la partie nord des USA.	미국은 북쪽으로 캐나다와 경계를 짓고 있다.	usa	0	0
+Cette boîte contient cinq pommes.	이 상자에 사과 다섯 개가 있다.	contient	0	0
+Passe-moi un coup de main.	나 좀 도와줘.	passe-moi	0	0
+Il ne lui manquait qu'un seul défaut pour être parfaite.	한가지만 빼면 그녀는 완벽해요.	manquait	0	0
+Utilisez ceci.	이걸 사용하세요.	utilisez	0	0
+La population augmente.	국민의 수가 증가한다.	population	0	0
+Il est parti pour Londres début juillet.	그는 7월 초에 런던으로 향했다.	juillet	0	0
+Si tu as du sel dans ta cuisine, il faut saler pour avoir le goût.	부뚜막의 소금도 집어넣어야 짜다.	sel	0	0
+En route pour Tokyo, j'ai fait une halte à Osaka.	나는 도쿄로 가는 길에 오사카에 잠시 들렀다.	tokyo	0	0
+C'est pourquoi j'ai besoin d'un long séjour en France et de fonds pour financer mon séjour.	그래서 나는 프랑스에 오래 머무르고 싶고, 그러기 위한 돈이 필요하다.	séjour	0	0
+Elle prit une profonde respiration.	그녀는 깊은 숨을 내쉬었다.	respiration	0	0
+Je ne veux pas passer le reste de ma vie à le regretter.	저는 남은 인생을 그것에 대해 후회하면서 지내고 싶지 않아요.	regretter	0	0
+Cela fera deux ans que nous vivons ici avril prochain.	4월이면 우리가 여기서 산 지 2년이 될 거다.	avril	0	0
+Un vrai gentleman ne trahit pas ses amis.	진정한 신사는 친구를 배신하지 않는다.	gentleman	0	0
+Le Canada borde la partie nord des USA.	미국은 북쪽으로 캐나다와 경계를 짓고 있다.	canada	0	0
+Le symbole chimique H désigne l'hydrogène.	화학 기호 H는 수소를 나타낸다.	symbole	0	0
+Tous les passagers eurent le mal de mer pendant la tempête.	풍랑이 치는 동안 모든 승객이 멀미를 했다.	passagers	0	0
+Berlin est la capitale de l'Allemagne.	베를린은 독일의 수도입니다.	berlin	0	0
+Les mesures préventives sont beaucoup plus efficaces que le traitement lui-même.	예방책이 처리 그 자체보다 훨씬 더 효과적이다.	mesures	0	0
+Ce couteau a une lame très effilée.	이 칼은 날이 아주 뾰족하다.	lame	0	0
+Ne rate pas le bus.	버스를 놓치지 마.	rate	0	0
+Ce ticket est valable pendant trois mois.	이 티켓은 3개월 동안 사용 가능 합니다.	ticket	0	0
+J'aime les maths.	나는 수학을 좋아한다.	maths	0	0
+C'est une excuse pathétique.	구차한 변명이네요.	pathétique	0	0
+Je suis ruiné.	나는 파산했다.	ruiné	0	0
+Je me suis mordu la langue.	나는 혀를 깨물었다.	mordu	0	0
+Jack est en chemin pour le succès cette fois-ci.	잭은 이번에 성공을 향해 가고 있습니다.	fois-ci	0	0
+J'ai trente ans.	저는 서른 살입니다.	trente	0	0
+Pouvez-vous réduire le volume de la musique, s'il vous plaît ?	음악 소리를 좀 줄이세요.	réduire	0	0
+Plus on est de fous, plus on rit.	다다익선.	rit	0	0
+Les feuilles sont jaunes.	잎들이 노랗다.	feuilles	0	0
+"Les animaux sauvages ne sont pas des robots", dit-elle.	"야생동물은 로봇이 아니에요" 라고 그녀가 말했다.	sauvages	0	0
+La société est un asile dirigé par les patients.	사회란 환자에 의해 운영되는 정신병원입니다.	asile	0	0
+Aujourd'hui nous sommes le 18 juin et c'est l'anniversaire de Muiriel !	오늘은 6월 18일, Muiriel의 생일입니다!	juin	0	0
+Elle lui a rendu visite le 20 octobre.	그녀는 10월 20일에 그를 찾아갔다.	octobre	0	0
+Je vous ai sauvée.	내가 당신을 구했어요.	sauvée	0	0
+Son comportement courageux lui vaut bien une médaille.	그의 용감한 행동은 메달을 받을 만한 가치가 있다.	médaille	0	0
+Il t'as lu le texte qu'il a écrit.	그는 당신에게 그가 쓴 글을 읽어줬습니다.	texte	0	0
+Quelques plantes ne s'adaptent pas au froid.	일부 식물은 추위에 적응하지 못한다.	plantes	0	0
+Restons amis pour toujours.	언제까지나 친구로 지내자.	restons	0	0
+J'ai besoin d'une enveloppe.	나는 봉투가 한 장 필요하다.	enveloppe	0	0
+L'homme leva les yeux, vit le ciel gris, releva son col et se mit en chemin.	남자는 시선을 들어 회색빛 하늘을 보고, 옷깃을 세우고 길을 떠났다.	gris	0	0
+Elle prit une profonde respiration.	그녀는 깊은 숨을 내쉬었다.	profonde	0	0
+C'est silencieux.	조용하다.	silencieux	0	0
+Nicole sait très bien parler japonais.	니콜은 일본어를 아주 잘 한다.	nicole	0	0
+J'ai terriblement faim.	나는 배가 심하게 고파.	terriblement	0	0
+Vous vous trompez.	당신이 잘못 생각하고 있어요.	trompez	0	0
+Ses yeux étaient pleins de larmes.	그의 눈이 눈물로 가득했다.	pleins	0	0
+Je ne peux rien avaler de plus.	나는 더 이상 아무것도 삼킬 수 없다.	avaler	0	0
+Le chien est en train de détruire les meubles dans notre maison.	개가 우리 집의 가구를 망가뜨리고 있다.	meubles	0	0
+J'ai trouvé une amie française au Maroc. Elle m'a dit que Paris n'est pas toute la France, et que les villes de province sont très belles aussi.	내가 모로코에서 만난 프랑스 친구가 나에게 빠리의 공기(분위기)가 프랑스의 전부를 나타내는 것이 아니며, 다른 도시들과 시골이 아주 아름답다고 말했다.	française	0	0
+Es-tu sourd ?	청각장애인입니까?	sourd	0	0
+Les Jackson ont déménagé à Boston.	잭슨 부부는 보스턴으로 이사했다.	déménagé	0	0
+Elle a de longs cheveux.	그녀는 머리가 길다.	longs	0	0
+Le jour du festival coïncide avec celui de l'examen.	마침 축제 날이 시험 일이랑 겹친다.	festival	0	0
+Avec ce vent d'automne frais, on ressent vraiment le changement de saison.	선선하게 불어오는 가을바람에 계절이 변화함을 느낍니다.	ressent	0	0
+J'ai trouvé une amie française au Maroc. Elle m'a dit que l'ambiance à Paris n'est pas celle de toute la France, d'autres villes et provinces sont très belles.	내가 모로코에서 만난 프랑스 친구가 나에게 빠리의 공기(분위기)가 프랑스의 전부를 나타내는 것이 아니며, 다른 도시들과 시골이 아주 아름답다고 말했다.	ambiance	0	0
+Es-tu satisfait?	만족하나요?	satisfait	0	0
+Ne parles-tu pas le français ?	너 프랑스어 못해?	parles-tu	0	0
+Elle prend des leçons de piano une fois par semaine.	그녀는 일주일에 한 번 피아노 레슨을 받는다.	leçons	0	0
+Dimanche dernier, ma famille est allée au zoo pour voir des pandas.	지난 일요일에 우리 가족은 판다를 보러 동물원에 갔다.	zoo	0	0
+Nous sommes jumeaux.	우리는 쌍둥이다.	jumeaux	0	0
+Je ne t'en demanderai pas plus pour aujourd'hui.	오늘은 더 이상 물어보지 않겠어요.	demanderai	0	0
+Choisissez-en une parmi ceux-là.	그중 하나를 고르세요.	ceux-là	0	0
+Elle a essayé diverses méthodes pour maigrir.	그녀는 살을 빼기 위해 여러 방법을 시도했다.	méthodes	0	0
+Séoul est la capitale de la Corée du Sud.	서울은 한국의 수도예요.	capitale	0	0
+À cause de son ronflement, je n'ai pas pu m'endormir.	그 사람이 코를 골아서, 나는 잠을 잘 수 없었다.	endormir	0	0
+Même une chaussure de paille fait partie d'une paire.	짚신도 짝이 있다	chaussure	0	0
+Je vais jouer au tennis cet après-midi.	나는 오늘 오후 테니스를 칠 거다.	tennis	0	0
+La Suisse est située entre la France, l'Italie, l'Autriche et l'Allemagne.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	suisse	0	0
+Je resterai debout.	나는 서있을 것이다.	resterai	0	0
+J'aime les voyages.	나는 여행을 좋아한다.	voyages	0	0
+C’est dégueulasse.	불쾌해.	dégueulasse	0	0
+J'aiderai.	내가 도울게.	aiderai	0	0
+La prévision météo était juste.	일기예보가 맞았어.	météo	0	0
+Il ne lui manquait qu'un seul défaut pour être parfaite.	한가지만 빼면 그녀는 완벽해요.	défaut	0	0
+Avec ce vent d'automne frais, on ressent vraiment le changement de saison.	선선하게 불어오는 가을바람에 계절이 변화함을 느낍니다.	automne	0	0
+J'ai vomi.	나는 구토를 했다.	vomi	0	0
+Ne devenez pas trop familier.	너무 허물없이 지내진 마세요.	familier	0	0
+Je partirai.	나는 떠날 것이다.	partirai	0	0
+Marc travaille seulement pour l'argent.	마크는 돈만 보고 일한다.	marc	0	0
+Nous sommes allées faire une promenade sur la plage.	우리는 해변에 산책을 하러 갔다.	promenade	0	0
+Levez-vous, s'il vous plaît.	일어나 주시길 바랍니다.	levez-vous	0	0
+Aucun fleuve dans le monde n'est plus long que le Nil.	나일강만큼 긴 강은 세상에 없다.	fleuve	0	0
+Il pleut des cordes ce soir.	오늘 밤 장대비가 내릴 것이다.	cordes	0	0
+J'aurais dû faire cuire le porc plus longtemps.	돼지고기를 더 구웠어야 했는데.	cuire	0	0
+J'étais sobre.	나는 검소했다.	sobre	0	0
+Il pleut des cordes ce soir.	오늘 밤에 비가 억수 같이 온다.	pleut	0	0
+L'Espéranto, langue officielle de l'Union européenne, maintenant !	에스페란토 를 유럽 연합 의 공용어 로, 지금!	officielle	0	0
+Nous le connaissons.	우리 그거 알아.	connaissons	0	0
+Il n'y a pas cours en août.	8월에는 수업이 없다.	août	0	0
+Tom a dit que vous étiez bons aux échecs.	톰이 당신 체스 실력이 좋다고 하던데요.	échecs	0	0
+J'étudie de temps en temps...	나는 가끔 공부한다...	étudie	0	0
+Les singes aiment les bananes.	원숭이는 바나나를 좋아한다.	singes	0	0
+Si tu touches ce fil, tu recevras une décharge.	그 전선에 닿으면 감전돼.	touches	0	0
+Séoul est la capitale de la Corée du Sud.	서울은 한국의 수도예요.	corée	0	0
+J'étais sans le sou.	나는 돈 한 푼 없었다.	sou	0	0
+Il deviendra docteur quand il sera grand.	그는 크면 의사가 될 거야.	deviendra	0	0
+Elle eut un rêve agréable.	그녀는 즐거운 꿈을 꾸었다.	eut	0	0
+Cela fera deux ans que nous vivons ici avril prochain.	4월이면 우리가 여기서 산 지 2년이 될 거다.	vivons	0	0
+Ça me prendrait trop de temps pour t'expliquer pourquoi ça ne va pas marcher.	왜 안되는지 설명할려면 시간 너무 많이 걸리겠다.	prendrait	0	0
+Si tu touches ce fil, tu recevras une décharge.	그 전선에 닿으면 감전돼.	décharge	0	0
+L'oiseau était couvert de plumes blanches.	새는 흰 깃털로 덮여있었다.	blanches	0	0
+Durant cette période, la majorité des Allemands demandaient la démission de Wulff.	그 시기에는 독일사람의 태반은 불프의 사임을 요구했다.	majorité	0	0
+Tom aime le jazz.	톰은 재즈를 좋아한다.	jazz	0	0
+Se surprendre, s'étonner, c'est commencer à comprendre.	놀라워 하고, 궁금해 하는 것이 이해의 시작이다.	surprendre	0	0
+Tatoeba n'est pas un réseau social.	타토에바는 SNS가 아닙니다.	social	0	0
+Laissez un commentaire ci-dessous, s'il vous plaît !	아래에 댓글을 남겨 주세요.	commentaire	0	0
+Je suis allé pêcher.	나는 낚시하러 갔다.	pêcher	0	0
+J'ai visité la France deux fois : la première quand j’étais étudiante et la deuxième lors d'un séjour au Maroc.	나는 프랑스에 두 번(내가 대학생일 때와 내가 모로코에 있었을 때) 방문했다.	étudiante	0	0
+Signez ici.	여기 서명해주세요.	signez	0	0
+Je suis allergique au pollen.	나는 꽃가루 알레르기가 있어.	allergique	0	0
+Nous avons été battus.	우리는 구타 당했다.	battus	0	0
+Il est encore assis sur le banc.	그는 아직 벤치에 앉아있다.	banc	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	joy	0	0
+Tournez à gauche, s’il vous plaît !	왼쪽으로 돌아주세요.	tournez	0	0
+Bonheur partagé revient multiplié, peine partagée revient à moitié.	기쁨은 나누면 배가 되고 슬픔은 나누면 반이 된다.	partagé	0	0
+Détendez-vous.	긴장 푸세요.	détendez-vous	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	world	0	0
+La population augmente.	국민의 수가 증가한다.	augmente	0	0
+J'ai la grippe.	나는 감기에 걸렸다.	grippe	0	0
+Marie a des difficultés à déglutir.	마리는 삼키는 데 어려움을 겪는다.	difficultés	0	0
+J'ai la peau sèche.	나는 건조한 피부를 가지고 있다.	sèche	0	0
+L'apprentissage d'une langue étrangère demande de la patience.	외국어 습득에는 인내가 필요하다.	étrangère	0	0
+Ne ris pas.	웃지마.	ris	0	0
+Étant donné que je n'ai reçu aucune réponse, je me demandais s'il était possible que mon courrier ne vous ait jamais été livré.	답장을 아직도 못 받아서 혹시 내 우편물이 너한테 배달되지 않은 건지 궁금했다.	livré	0	0
+Tu dois apprendre l'anglais standard.	너는 표준영어를 배워야 한다.	standard	0	0
+Il marmonnait encore quelque chose concernant les hôpitaux à la fin de la fête, quand il a glissé sur un morceau de glace et s'est brisé la jambe gauche.	파티 막바지에 그는 아직도 병원에 대해서 뭔가 중얼거리고 있었는데 얼음 조각에 미끄러 넘어져 왼쪽다리를 부러졌다.	glissé	0	0
+Je ne suis vraiment pas intéressée par l'histoire.	역사에는 전혀 흥미가 없어.	intéressée	0	0
+J'ai mangé des chips.	나는 과자를 먹었다.	chips	0	0
+Il apprendra le français.	그는 프랑스어를 배울 것이다.	apprendra	0	0
+En route pour Tokyo, j'ai fait une halte à Osaka.	나는 도쿄로 가는 길에 오사카에 잠시 들렀다.	halte	0	0
+J'ai paniqué.	나는 당황했다.	paniqué	0	0
+Et je veux étudier de nombreuses langues pour comprendre le monde. Actuellement, je prépare une licence de grec classique.	그리고 나는 세상을 이해하고 싶기 때문에, 여러 언어를 배우고 싶다. 지금 나는 고대 그리스어 학위과정을 밟고 있다.	licence	0	0
+L'homme leva les yeux, vit le ciel gris, releva son col et se mit en chemin.	남자는 시선을 들어 회색빛 하늘을 보고, 옷깃을 세우고 길을 떠났다.	col	0	0
+J'ai ramené les livres que j'avais empruntés à la bibliothèque et j'en ai emprunté des nouveaux.	도서관에서 빌렸던 책은 반납하고, 다시 새로운 책을 빌려왔어.	emprunté	0	0
+Je suis Tom Hunter.	저는 Tom Hunter입니다.	hunter	0	0
+Une équipe de football se compose de onze joueurs.	축구는 11멍의 선수로 팀이 구성된다.	onze	0	0
+Je t'expliquerai comment l'utiliser une fois que je serai rentré.	제가 돌아오면 그것을 어떻게 사용하는지 설명해드릴게요.	expliquerai	0	0
+En arrivant à la maison j'avais très faim.	집에 도착했을 때, 나는 너무 배고팠어	arrivant	0	0
+Aimez-vous les miennes ?	제 것을 좋아하시나요?	miennes	0	0
+Son visage affiche une gratitude évidente.	감사하는 빛이 그의 얼굴에 역력하다.	affiche	0	0
+Tu veux bien me dépiauter un œuf de Pâques ?	저한테 부활절 달걀 하나 까주실래요?	œuf	0	0
+Qui aime les haricots ?	누가 콩을 좋아하십니까?	haricots	0	0
+Personne ne va te blâmer.	아무도 너를 비난하지 않을 거야.	blâmer	0	0
+Le perdant paiera.	진 사람이 결제할 것이다.	perdant	0	0
+Quelle langue est la plus difficile, le coréen ou l'arabe ?	한국어와 아랍어 중 어떤 언어가 더 어렵나요?	arabe	0	0
+L'arbre a été frappé par la foudre.	번개가 나무에 떨어졌다.	foudre	0	0
+Certaines personnes sont difficiles à satisfaire.	어떤 사람들은 만족시키기가 힘들다.	satisfaire	0	0
+Parfois je me demande quand le premier championnat du monde de cyber-harcèlement aura lieu.	가끔 나는 언제 세계 제 일회 사이버 폭력 챔피언 대회가 열릴지 궁금해한다.	championnat	0	0
+Ses yeux étaient remplis de larmes.	그의 눈이 눈물로 가득했다.	remplis	0	0
+Ce sont des objectifs modestes mais nécessaires.	그것들은 대단치는 않지만 필수적인 목표들이다.	nécessaires	0	0
+Les mathématiques sont la partie des sciences qu'on pourrait continuer à faire si on se réveillait demain et découvrait que l'univers avait disparu.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	sciences	0	0
+Je viens d'Australie.	호주 출신입니다.	australie	0	0
+Reste concentré.	계속 집중하고 있어봐.	concentré	0	0
+Il a commencé à devenir chauve très jeune.	그는 꽤 젊었을 때부터 대머리가 되기 시작했다.	chauve	0	0
+Cette épicerie ne vend que des aliments bio.	이 식료품점은 유기농 식품만을 팔고 있다.	épicerie	0	0
+Epstein ne s'est pas suicidé.	엡스타인은 자살하지 않았다.	suicidé	0	0
+Ils ont voté.	그들은 투표를 했다.	voté	0	0
+Je suis allé au supermarché.	나는 슈퍼에 갔다.	supermarché	0	0
+Le rideau prit feu.	깃발에 불이 붙었다.	rideau	0	0
+Je suis saoul.	나는 취했다.	saoul	0	0
+Une alimentation saine prolonge la vie.	건강한 식품이 수명을 늘린다.	saine	0	0
+Ce truc à faire était chiant à mourir.	이 짓이 지겨워 죽겠어.	chiant	0	0
+Ajoute un peu de lait.	우유를 조금 넣어.	ajoute	0	0
+Soyez calmes !	진정들 하세요!	calmes	0	0
+Je te rappellerai plus tard.	이따가 전화할께	rappellerai	0	0
+Quelle est la profondeur du lac ?	호수의 깊이가 어느 정도 입니까?	profondeur	0	0
+C'est toi l'aîné.	니가 장남이잖아.	aîné	0	0
+Voilà mon adresse électronique.	이게 제 이메일 주소입니다.	électronique	0	0
+Il y avait un moulin à eau sous le barrage.	댐 밑에 물방앗간이 있었다.	barrage	0	0
+Comment te sens-tu ?	너는 어떤 기분이니?	sens-tu	0	0
+"Les animaux sauvages ne sont pas des robots", dit-elle.	"야생동물은 로봇이 아니에요" 라고 그녀가 말했다.	robots	0	0
+Je ne me suis pas inscrit.	나는 등록 안 돼 있어.	inscrit	0	0
+As-tu déjà vu une araignée tisser une toile ?	거미가 거미집을 만드는 걸 본 적 있어?	araignée	0	0
+Il a des tripes.	그는 배짱이 두둑하다.	tripes	0	0
+Le Brésil est le plus grand pays d'Amérique du Sud.	브라질은 남미에서 가장 큰 나라입니다.	brésil	0	0
+Il marmonnait encore quelque chose concernant les hôpitaux à la fin de la fête, quand il a glissé sur un morceau de glace et s'est brisé la jambe gauche.	파티 막바지에 그는 아직도 병원에 대해서 뭔가 중얼거리고 있었는데 얼음 조각에 미끄러 넘어져 왼쪽다리를 부러졌다.	hôpitaux	0	0
+Pouvez-vous m'indiquer le site sur lequel je peux suivre mon colis?	소포를 추적할 수 있는 웹사이트 좀 알려주실 수 있나요?	colis	0	0
+Ils étaient trop fatigués pour grimper une montagne.	그들은 너무 피곤하여 산을 오를 수 없었다.	grimper	0	0
+J'ai eu une matinée chargée.	나는 오전에 바빴어.	chargée	0	0
+J'ai trouvé ta casquette.	나 네 모자 찾았어.	casquette	0	0
+Je démissionne.	저, 그만 두겠습니다.	démissionne	0	0
+Mona Lisa a été peinte par Léonard de Vinci.	모나리자는 레오나르도 다빈치가 그렸어.	mona	0	0
+Les accidents résultent de négligences.	사고는 부주의에서 벌어지기 마련이다.	accidents	0	0
+Je ne peux pas oublier sa gentillesse.	나는 그의 친절함을 못 잊는다.	gentillesse	0	0
+J'ai mangé une banane.	나는 바나나 하나를 먹었다.	banane	0	0
+Repose-toi.	쉬어.	repose-toi	0	0
+Elle prit une profonde respiration.	그녀는 깊은 숨을 내쉬었다.	prit	0	0
+Tiens-toi prête !	준비하고 있어라!	tiens-toi	0	0
+Est-ce éthique ?	이거 윤리적이야?	éthique	0	0
+Où est-ce qu'il les a cachés ?	그걸 어디에 숨겼니?	cachés	0	0
+Il nage bien.	그는 수영을 잘 한다.	nage	0	0
+C'est ma profession.	이건 내 직업이야.	profession	0	0
+Ce ticket est valable pendant trois mois.	이 티켓은 3개월 동안 사용 가능 합니다.	valable	0	0
+Tom va démissionner.	톰은 사임할 것이다.	démissionner	0	0
+Une alimentation saine prolonge la vie.	건강한 식품이 수명을 늘린다.	alimentation	0	0
+Mets les patates sur la cuisinière.	감자를 오븐에 넣으세요.	patates	0	0
+C'est inévitable que j'aille en France un jour, je ne sais juste pas quand.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.	inévitable	0	0
+Mademoiselle Sua s'est mise au yoga récemment, elle a vraiment minci!	수아 씨, 요즘 요가 하신다더니 정말 날씬해지셨네요.	yoga	0	0
+Si les internautes sont des abeilles, à qui appartiennent les ruches ?	만약 네티즌들이 벌이라면 벌통은 누구의 것인가?	abeilles	0	0
+Est-ce qu'il reste du jambon ?	햄이 좀 남아있습니까?	jambon	0	0
+Je suis Chinoise.	저는 중국 사람입니다.	chinoise	0	0
+Les bénéfices devraient évidemment dépasser les coûts.	이윤은 당연히 비용을 넘어야지.	dépasser	0	0
+Aimes-tu les histoires anciennes ?	너는 고대사를 좋아하니?	anciennes	0	0
+En Grèce, il y a beaucoup d'îles.	그리스에는 섬이 많다.	îles	0	0
+Je me suis éveillé.	나는 잠이 깼다.	éveillé	0	0
+Tatoeba peut-il contribuer à la sauvegarde des langues en danger ?	사라져 가는 언어를 지키는데 타토에바가 도움이 될까?	langues	0	0
+Le symbole chimique H désigne l'hydrogène.	화학 기호 H는 수소를 나타낸다.	chimique	0	0
+A ces deux occasions, je ne suis restée qu'un court moment à Paris. C'est pourquoi j'ai beaucoup de regrets.	그 기간동안 나는 오직 빠리에서만 짧게 머물렀기 때문에 그 기간이 매우 아쉬웠다.	regrets	0	0
+Le perdant paiera.	진 사람이 결제할 것이다.	paiera	0	0
+Fais un souhait !	소원을 빌어!	souhait	0	0
+Son visage affiche une gratitude évidente.	감사하는 빛이 그의 얼굴에 역력하다.	gratitude	0	0
+Je me lève à six heures tous les matins.	매일 아침 6시에 일어나요.	matins	0	0
+Le grec est difficile à apprendre.	그리스어를 배우는 것은 어렵다.	grec	0	0
+Embrasse-moi.	뽀뽀해줘.	embrasse-moi	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	night	0	0
+Tom déménage à Boston.	톰은 보스턴으로 이사한다.	déménage	0	0
+Il est né dans l'Ohio.	그는 오하이오에서 태어났다.	ohio	0	0
+Jean et Jeanne regarderont votre rose.	장과 잔느가 당신의 장미꽃을 보고 있습니다.	jeanne	0	0
+Lui et moi, nous sommes cousins.	걔하고 나는 사촌이야.	cousins	0	0
+La société est un asile dirigé par les patients.	사회란 환자에 의해 운영되는 정신병원입니다.	dirigé	0	0
+As-tu tes clefs?	열쇠 있어?	clefs	0	0
+Notre vaste monde regorge d'une variété de vies, de langues et de cultures.	세상은 넓고, 그 안엔 다양한 삶과 언어, 문화들이 존재한다.	vaste	0	0
+Même une chaussure de paille fait partie d'une paire.	짚신도 짝이 있다	paille	0	0
+Cette bouteille peut contenir deux litres d'eau chaude.	이 병은 온수 2리터를 담을 수 있다.	litres	0	0
+Qui a traduit ce texte en allemand ?	누가 이 글을 독일어로 번역했습니까?	traduit	0	0
+Je déteste la chimie.	나는 화학이 싫다.	chimie	0	0
+Si les internautes sont des abeilles, à qui appartiennent les ruches ?	만약 네티즌들이 벌이라면 벌통은 누구의 것인가?	appartiennent	0	0
+Je suis réaliste.	저는 현실주의자예요.	réaliste	0	0
+Les idées vertes incolores dorment furieusement.	색깔없는 녹색의 관념은 분노하며 잠잔다.	dorment	0	0
+L'homme leva les yeux, vit le ciel gris, releva son col et se mit en chemin.	남자는 시선을 들어 회색빛 하늘을 보고, 옷깃을 세우고 길을 떠났다.	mit	0	0
+Tout le monde s'est amusé.	모두가 즐거웠어.	amusé	0	0
+Si tu retranches quatre de dix, tu obtiens six.	10에서 4를 빼면 6이 남는다.	obtiens	0	0
+J'ai besoin de volontaires.	나는 지원자가 필요하다.	volontaires	0	0
+Durant cette période, la majorité des Allemands demandaient la démission de Wulff.	그 시기에는 독일사람의 태반은 불프의 사임을 요구했다.	démission	0	0
+Quel est ton groupe sanguin ?	네 혈액형이 뭐지?	sanguin	0	0
+J'ai offert un stylo plume à mon père.	나는 만년필 하나를 우리 아빠에게 드렸다.	plume	0	0
+Y a-t-il un musicien connu sur scène ?	무대 위에 유명한 음악가가 있습니까?	musicien	0	0
+Nous sommes tristes.	우리는 울적하다.	tristes	0	0
+Voudrais-tu un verre d'eau ?	물 한 컵 필요해?	voudrais-tu	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	préférés	0	0
+Il n'y a aucune raison de céder à la panique.	혼란에 빠질 어떠한 이유도 없다.	céder	0	0
+Les enfants et les saoulons ne mentent pas.	아이와 술취한 사람은 거짓말 하지 않는다.	mentent	0	0
+Ça nous affecte tous.	그건 우리 모두에게 영향을 끼친다.	affecte	0	0
+Je n'arrive pas à croire que je vienne de me faire une injection.	내가 주사를 맞고 왔다는 사실을 믿을 수 없어.	injection	0	0
+Les collines étaient recouvertes de neige.	언덕은 눈으로 덮여있었다.	collines	0	0
+Il a soigné ma maladie.	그가 내 병을 치료해줬다.	soigné	0	0
+Bonne Journée internationale des femmes !	세계 여성의 날을 축하합니다.	internationale	0	0
+Mon ami allemand s'appelle Hans.	내 독일인 친구 이름은 한스예요.	hans	0	0
+Les bénéfices devraient évidemment dépasser les coûts.	이윤은 당연히 비용을 넘어야지.	bénéfices	0	0
+Elle est devenue chanteuse.	그녀는 가수가 됐다.	chanteuse	0	0
+Je suis soûl.	나는 취했다.	soûl	0	0
+Sais-tu faire du ski ?	스키를 탈 수 있어요?	ski	0	0
+Pouvez-vous réduire le volume de la musique, s'il vous plaît ?	음악 소리를 좀 줄이세요.	volume	0	0
+Une équipe de football comporte 11 joueurs.	축구는 11멍의 선수로 팀이 구성된다.	comporte	0	0
+L'oiseau était couvert de plumes blanches.	새는 흰 깃털로 덮여있었다.	plumes	0	0
+Est-ce que je la reverrai ?	내가 그녀를 다시 보게 될까?	reverrai	0	0
+Je t'ai demandé d'acheter du bœuf, pas du porc.	내가 돼지고기 말고 소고기 사야한다고 했지.	bœuf	0	0
+À strictement parler, le chinois est composé de centaines de dialectes.	엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	composé	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	noel	0	0
+Le vase qu'il a cassé appartient à ma tante.	그가 깬 꽃병은 저희 숙모의 꽃병입니다.	vase	0	0
+J'ai étudié toute la matinée, maintenant je suis fatigué... J'ai besoin d'énergie supplémentaire.	오전 내내 공부를 했더니, 지금 피곤하네. 에너지를 보충해야겠어.	supplémentaire	0	0
+Cette bouteille peut contenir deux litres d'eau chaude.	이 병은 온수 2리터를 담을 수 있다.	contenir	0	0
+Nous arrêtons tous.	우리는 모든 것을 그만뒀다.	arrêtons	0	0
+Elles sont débutantes, mais elles apprennent vite.	그녀들은 초보이지만 빨리 배운다.	apprennent	0	0
+Nous désirons arrêter ces négociations.	우리는 이 협상을 그만하고 싶다.	négociations	0	0
+Tom est très agressif.	톰은 아주 난폭하다.	agressif	0	0
+Je peux y parvenir.	나는 그곳에 도착할 수 있다.	parvenir	0	0
+On était tous inquiets.	우리 모두 걱정했다.	inquiets	0	0
+Devrions-nous attendre Tom ?	우리 톰을 기다려야할까?	devrions-nous	0	0
+Nous savions qu'aujourd'hui, c'était son anniversaire.	우리는 오늘이 그의 생일인 것을 알고 있었다.	savions	0	0
+Ce weekend, si possible.	가능하다면 이번 주말.	weekend	0	0
+Merci de corriger ma prononciation.	제 발음을 고쳐 주세요.	corriger	0	0
+J'ai trouvé une amie française au Maroc. Elle m'a dit que Paris n'est pas toute la France, et que les villes de province sont très belles aussi.	내가 모로코에서 만난 프랑스 친구가 나에게 빠리의 공기(분위기)가 프랑스의 전부를 나타내는 것이 아니며, 다른 도시들과 시골이 아주 아름답다고 말했다.	province	0	0
+Ne pas désirer équivaut à posséder.	바라는 것이 없으면 부족함이 없다.	posséder	0	0
+Tu veux bien me dépiauter un œuf de Pâques ?	저한테 부활절 달걀 하나 까주실래요?	pâques	0	0
+L’ensemble du continent américain est à notre portée !	미본토전역이 우리의 사정권안에 있다!	continent	0	0
+J'aime les petits poèmes.	나는 짧은 시를 좋아한다.	poèmes	0	0
+Ils courent.	그들이 달린다.	courent	0	0
+Il n'y a aucune raison de paniquer.	혼란에 빠질 어떠한 이유도 없다.	paniquer	0	0
+Il s'est arrêté de pleuvoir.	비가 그쳤다.	pleuvoir	0	0
+Les feuilles sont jaunes.	잎들이 노랗다.	jaunes	0	0
+Tu ne peux pas manger de poulet ? Comment le sais-tu si tu ne l'as jamais goûté ?	닭을 못 먹는다고? 먹어보지도 않고 어떻게 알지?	goûté	0	0
+Sers-toi un bout de gâteau.	케이크 한 조각을 드세요.	sers-toi	0	0
+Connais-tu les règles du jeu ?	게임의 룰 알고 있어?	connais-tu	0	0
+Il s'est déguisé en Père Noël pour plaire à ses enfants.	아이들을 즐겁게 해 주려고 그는 산타클로스로 변장하였다.	déguisé	0	0
+Pouvez-vous m'indiquer le site sur lequel je peux suivre mon colis?	소포를 추적할 수 있는 웹사이트 좀 알려주실 수 있나요?	indiquer	0	0
+J'aime les langues étrangères.	외국어를 좋아해요.	étrangères	0	0
+Je voudrais envoyer cette lettre en recommandé.	이 편지를 등기로 보내고 싶어요.	recommandé	0	0
+Nous sommes allées faire une promenade sur la plage.	우리는 해변에 산책을 하러 갔다.	allées	0	0
+Pas de doute : l'univers est infini.	그러나 우주는 무한하다.	infini	0	0
+Je dois faire changer mon chauffage central cette année.	나는 올해 중앙 난방기를 바꿔야 한다.	chauffage	0	0
+Je suis remonté.	나는 다시 올라갔다.	remonté	0	0
+Mais... Personne ne traduit les phrases que j'ai faites.	이런... 아무도 내가 만든 문장을 번역 안 해.	phrases	0	0
+Votre français s'améliore.	당신의 프랑스어 실력이 좋아지네요.	améliore	0	0
+Les œuvres d'art ont dû traverser les océans pour être exposées ici au Brésil.	여기 브라질에서 전시되기 위해서 이 예술 작품들이 바다를 건너 왔어요.	œuvres	0	0
+A ces deux occasions, je ne suis restée qu'un court moment à Paris. C'est pourquoi j'ai beaucoup de regrets.	그 기간동안 나는 오직 빠리에서만 짧게 머물렀기 때문에 그 기간이 매우 아쉬웠다.	occasions	0	0
+Dans l'ensemble, le Japon a un climat doux.	전반적으로 일본의 날씨는 온화하다.	climat	0	0
+C'est une employée très travailleuse.	이 직원은 아주 열심히 일한다.	employée	0	0
+Mets les patates sur la cuisinière.	감자를 오븐에 넣으세요.	cuisinière	0	0
+C'est une ancienne pièce de cinq marks.	이건 옛 5 마르크화다.	marks	0	0
+Il y a eu un tremblement de terre hier.	어제 지진이 있었어요.	tremblement	0	0
+Le bébé s'endormit dans le berceau.	아기가 요람에서 자고 있다.	berceau	0	0
+L'esclavage est un crime contre l'humanité.	노예제도는 반인륜적인 범죄야.	esclavage	0	0
+J'adore cette écharpe.	나는 이 스카프가 좋다.	écharpe	0	0
+Il y avait un moulin à eau sous le barrage.	댐 밑에 물방앗간이 있었다.	moulin	0	0
+Personne n'avait même vu quelque chose de semblable.	아무도 그 비슷한 것조차 보지 못했다.	semblable	0	0
+L'eau devient solide quand elle gèle.	물은 얼면 고체로 변한다.	gèle	0	0
+Le pont est en cours de réparation.	다리는 수리중입니다.	réparation	0	0
+Tu fumes ?	담배를 피우나요?	fumes	0	0
+N'oublie pas d'apporter un parapluie.	우산 가져가는 거 잊지마.	parapluie	0	0
+Ne devenez pas trop familier.	너무 허물없이 지내진 마세요.	devenez	0	0
+Tom est impoli.	톰은 무례하다.	impoli	0	0
+C'est la première fois que je mange de la confiture d'ananas. Plutôt savoureux !	파인애플 잼이란 건 처음 먹어봤네요. 맛있네요!	confiture	0	0
+Combien de personnes étaient-elles présentes à la réunion ?	회의에 몇 명이 참석했었어요?	présentes	0	0
+Sois équitable !	공정하게 해.	équitable	0	0
+Il est difficile de tracer une frontière nette entre amour et amitié.	사랑과 우정 사이에 경계선을 긋는 것은 매우 어려운 일이다.	tracer	0	0
+Nous mangeons du pain.	우리 빵을 먹어요.	mangeons	0	0
+La lumière s'est allumée.	불빛이 켜졌다.	allumée	0	0
+J'ai interrompu toutes mes cartes de crédit sauf une.	나는 내 신용카드를 하나만 빼고 모두 해지했다.	interrompu	0	0
+Nous gardons la maison.	우리는 집을 지킨다.	gardons	0	0
+Ce sont des objectifs modestes mais nécessaires.	그것들은 대단치는 않지만 필수적인 목표들이다.	objectifs	0	0
+Les œufs sont encore chauds.	달걀이 아직 뜨겁다.	chauds	0	0
+Libérez la Palestine.	팔레스타인을 해방하라.	libérez	0	0
+Ne te fâche pas.	화내지 마.	fâche	0	0
+Ma grand-mère me racontait des contes captivants.	할머니는 구수한 옛날 얘기를 들려주시곤 했다.	contes	0	0
+Nous sommes allés dans une pizzeria italienne.	우린 이탈리아 피자집에 갔어요.	italienne	0	0
+Il y a beaucoup d'îles en Grèce.	그리스에는 섬이 많다.	grèce	0	0
+Ils étaient trop fatigués pour grimper une montagne.	그들은 너무 피곤하여 산을 오를 수 없었다.	fatigués	0	0
+Ma voiture a été volée. Elle n'est pas où je l'ai garée.	누가 제 차를 훔처갔어요. 제가 주차한곳에 없어요.	garée	0	0
+Nous importons de la farine d'Amérique.	우리는 미국에서 밀가루를 수입한다.	farine	0	0
+J'étais naïf.	내가 순진했지.	naïf	0	0
+Cette épicerie ne vend que de la nourriture bio.	이 식료품점은 유기농 식품만을 팔고 있다.	bio	0	0
+D'après la rumeur il y aurait des trésors cachés là-bas.	그곳에는 보물이 숨겨져 있다는 소문이 있다.	trésors	0	0
+J'aime faire du vélo et les concerts de hard rock.	나는 자전거와 하드 락 콘서트를 좋아해.	concerts	0	0
+Sa popularité s'effondre.	그의 인기가 무너져 내린다.	effondre	0	0
+J'ai un ami dont le père est vétérinaire.	아버지가 수의사인 친구가 있다.	vétérinaire	0	0
+Je l'ai rencontré en revenant de l'école.	학교에서 돌아가는 길에 만났어.	revenant	0	0
+Restez allongée, immobile !	누운 채로 있으세요, 움직이지 말고!	immobile	0	0
+Tom est le meilleur batteur de Boston.	톰은 보스턴에서 제일 실력있는 드러머다.	batteur	0	0
+J'ai visité la France deux fois : la première quand j’étais étudiante et la deuxième lors d'un séjour au Maroc.	나는 프랑스에 두 번(내가 대학생일 때와 내가 모로코에 있었을 때) 방문했다.	visité	0	0
+C'est pourquoi j'ai besoin d'un long séjour en France et de fonds pour financer mon séjour.	그래서 나는 프랑스에 오래 머무르고 싶고, 그러기 위한 돈이 필요하다.	financer	0	0
+Le pauvre jeune homme devint finalement un grand artiste.	그 불쌍한 청년은 결국 위대한 예술가가 되었다.	devint	0	0
+Êtes-vous sourde ?	귀가 안 들리시나요?	sourde	0	0
+Je ne sais pas comment traduire cette phrase en russe.	난 이 문장을 러시아어로 어떻게 번역해야 할지 몰라.	traduire	0	0
+À strictement parler, le chinois est composé de centaines de dialectes.	엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	strictement	0	0
+Habille-toi.	옷을 입어.	habille-toi	0	0
+Notre vaste monde regorge d'une variété de vies, de langues et de cultures.	세상은 넓고, 그 안엔 다양한 삶과 언어, 문화들이 존재한다.	cultures	0	0
+Il ne fait pas aussi froid aujourd'hui qu'hier.	오늘은 어제만큼 춥지 않다.	hui	0	0
+Pas d'argent, pas de travail, pas d'amis. Il était vraiment au bout du rouleau.	돈도, 일도, 친구도 없다. 남자는 완전히 기진맥진했다.	rouleau	0	0
+Tous les avocats sont des menteurs.	변호사들은 모두 거짓말쟁이다.	menteurs	0	0
+Je veux vieillir avec toi.	너와 함께 늙어가고 싶어.	vieillir	0	0
+Aimez-vous les miennes ?	제 것을 좋아하시나요?	aimez-vous	0	0
+Le temps est écoulé.	시간이 지나갔다.	écoulé	0	0
+Je ne te quitterai jamais.	나는 절대 너를 떠나지 않을 거야.	quitterai	0	0
+Les singes aiment les bananes.	원숭이는 바나나를 좋아한다.	bananes	0	0
+Je suis Coréen.	한국 사람입니다.	coréen	0	0
+Un nom référençant quelque chose de distant ou un souvenir lointain.	멀거나 기억 속의 물건을 가르켜 이름.	lointain	0	0
+Tu regretteras.	너 후회할거야.	regretteras	0	0
+Je ne sais même pas cuisiner une omelette.	나는 오믈렛조차 만들 줄 모른다.	omelette	0	0
+Même s'il s'est excusé, je suis encore en colère.	그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.	excusé	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	chants	0	0
+Envoie-moi une carte postale.	나한테 엽서 한 장 보내줘.	postale	0	0
+Cet ordinateur fonctionne sur batteries.	이 컴퓨터는 배터리로 작동한다.	batteries	0	0
+Soyez justes !	공정하게 해.	justes	0	0
+Je l'ai rencontré avant-hier.	나는 그저께 그를 만났다.	avant-hier	0	0
+C'est la saison des fraises.	딸기 시즌이에요.	fraises	0	0
+Tes lèvres sont bleues.	당신의 입술이 파랗습니다.	bleues	0	0
+La chambre des enfants est mal rangée.	애들 방은 정리가 잘 안 돼 있다.	rangée	0	0
+Cette épicerie ne vend que des aliments bio.	이 식료품점은 유기농 식품만을 팔고 있다.	aliments	0	0
+J'espère que je vivrai près de chez toi.	나는 너희 집 근처에서 살고 싶어.	vivrai	0	0
+Nous vîmes beaucoup de poissons dans l'étang.	우리는 연못에 물고기가 많이 있는 것을 봤다.	étang	0	0
+On m'a élevé à la nourriture Mexicaine.	나는 멕시코 음식을 먹으며 자랐습니다.	mexicaine	0	0
+J'aime faire du jogging.	나는 조깅하는 걸 좋아한다.	jogging	0	0
+Elle était censée l'appeler à quatorze heures trente.	그녀는 2시 30분에 그에게 전화하기로 되어있었다.	quatorze	0	0
+Sois créatif !	창의력을 가져!	créatif	0	0
+Soyez respectueux envers les personnes âgées.	노인을 공경하세요.	âgées	0	0
+Séoul est la capitale de la Corée du Sud.	서울은 한국의 수도예요.	séoul	0	0
+Elles seront très heureuses.	그들은 매우 기뻐할 것입니다.	heureuses	0	0
+Cette chaise est laide.	이 의자는 더럽다.	laide	0	0
+Je peux difficilement marcher.	나는 겨우 걸을 수 있다.	difficilement	0	0
+Combien de temps comptes-tu rester dans ce pays ?	이 나라에 얼마나 있을 생각이야?	comptes-tu	0	0
+Racontez-moi cela, je suis toute ouïe.	저한테 그거 얘기해 주세요. 경청하고 있습니다.	racontez-moi	0	0
+Tom est enseignant de français.	톰은 프랑스어 강사다.	enseignant	0	0
+Aimes-tu le printemps ou l'automne ?	봄을 좋아해요, 아니면 가을을 좋아해요?	aimes-tu	0	0
+Ma grand-mère me racontait des contes captivants.	할머니는 구수한 옛날 얘기를 들려주시곤 했다.	racontait	0	0
+Payons séparément aujourd'hui.	오늘 우리 각자 냅시다.	séparément	0	0
+Je veux un bateau qui m'emmènera très loin d'ici.	나를 여기서 멀리 데려다줄 배 한 척이 필요하다.	emmènera	0	0
+On dit que cette vieille maison est hantée.	사람들이 이 고옥에 귀신이 들렸다고 한다.	hantée	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	away	0	0
+Combien coûtent ces pommes de terre ?	이 감자는 얼마입니까?	coûtent	0	0
+Restez allongée, immobile !	누운 채로 있으세요, 움직이지 말고!	allongée	0	0
+Un camion a percuté le chien.	트럭이 개를 들이받았다.	percuté	0	0
+Partageons cet argent.	이 돈은 나눕시다.	partageons	0	0
+J'ai mangé du caviar.	나는 캐비아를 먹었다.	caviar	0	0
+Elle a souri.	그녀는 웃었다.	souri	0	0
+Je te suivrai partout où tu iras.	네가 어디를 가든 나는 너를 따라갈 거야.	suivrai	0	0
+J'ai entendu la porte d'entrée claquer.	나는 현관문이 닫히는 소리를 들었다.	claquer	0	0
+Elle a essayé diverses méthodes pour maigrir.	그녀는 살을 빼기 위해 여러 방법을 시도했다.	diverses	0	0
+Son visage affiche une gratitude évidente.	감사하는 빛이 그의 얼굴에 역력하다.	évidente	0	0
+J'aime faire du vélo et les concerts de hard rock.	나는 자전거와 하드 락 콘서트를 좋아해.	hard	0	0
+Envoie-moi une carte postale.	나한테 엽서 한 장 보내줘.	envoie-moi	0	0
+Les oranges contiennent beaucoup de vitamine C.	오렌지는 많은 비타민C를 함유하고 있다.	oranges	0	0
+Je suis strict.	나는 권위적이다.	strict	0	0
+Les mathématiques sont la partie des sciences qu'on pourrait continuer à faire si on se réveillait demain et découvrait que l'univers avait disparu.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	mathématiques	0	0
+Les taxis sont chers.	택시는 가격이 비싸다.	taxis	0	0
+Ne pas désirer équivaut à posséder.	바라는 것이 없으면 부족함이 없다.	désirer	0	0
+La radio est éteinte.	라디오가 꺼져있다.	éteinte	0	0
+Le bébé est en train de ramper.	아기가 기어 다니고 있다.	ramper	0	0
+Elle s'arrêta de cueillir des pâquerettes.	그녀는 데이지를 따는 것을 그만 두었다.	cueillir	0	0
+Des quatre saisons, c'est l'été que je préfère.	나는 사계절 중에 여름을 제일 좋아해.	saisons	0	0
+L'apprentissage d'une langue étrangère demande de la persévérance.	외국어 습득에는 인내가 필요하다.	apprentissage	0	0
+C'est un enseignant expérimenté.	그는 경험이 있는 선생님이에요.	expérimenté	0	0
+Elle commença à parler au chien.	그녀는 개에게 말하기 시작했다.	commença	0	0
+Reste concentrée.	계속 집중하고 있어봐.	concentrée	0	0
+Je travaillerai seul.	나는 혼자 일할 거다.	travaillerai	0	0
+Il frotta une allumette.	그는 성냥을 그었다.	allumette	0	0
+Plus les années passent, plus je pense à ma ville natale.	해를 거듭할수록 고향 생각이 간절하다	natale	0	0
+Racontez-moi cela, je suis toute ouïe.	저한테 그거 얘기해 주세요. 경청하고 있습니다.	ouïe	0	0
+J'ai les yeux qui brûlent.	내 눈이 이글거린다.	brûlent	0	0
+La bibliothèque de l'Université de Genève a une bonne salle de lecture.	제네바 대학의 도서관에는 좋은 열람실이 있다.	genève	0	0
+Il est difficile de tracer une frontière nette entre amour et amitié.	사랑과 우정 사이에 경계선을 긋는 것은 매우 어려운 일이다.	nette	0	0
+C'est sa fille aînée qu'il aime le plus.	그 사람이 가장 사랑하는 건 맏딸이에요.	aînée	0	0
+Les idées vertes incolores dorment intensément.	무색의 초록색 관념들이 격렬히 잔다.	vertes	0	0
+L'Orient t'est-il trop étranger ?	동양은 너에게 있어서 너무 이질적이니?	orient	0	0
+Remplissez les espaces libres.	빈 공간을 채우세요.	remplissez	0	0
+Jean regardera une rose.	장은 장미꽃 한 송이를 바라볼 것이다.	regardera	0	0
+Il semblerait que Mr. Tanaka ait réussi l'examen.	다나카 씨는 시험에 합격한 것 같습니다.	tanaka	0	0
+Il analysa soigneusement la situation.	상황을 정확히 분석했다.	soigneusement	0	0
+Mona Lisa a été peinte par Léonard de Vinci.	모나리자는 레오나르도 다빈치가 그렸어.	léonard	0	0
+Il y a deux églises dans cette rue.	이 거리에는 두 개의 교회가 있습니다.	églises	0	0
+On peut acheter des timbres dans n'importe quel bureau de poste.	우표는 어느 우체국에서라도 살 수 있습니다.	timbres	0	0
+Les œuvres d'art ont dû traverser les océans pour être exposées ici au Brésil.	여기 브라질에서 전시되기 위해서 이 예술 작품들이 바다를 건너 왔어요.	océans	0	0
+C'est la première fois que je mange de la confiture d'ananas. Plutôt savoureux !	파인애플 잼이란 건 처음 먹어봤네요. 맛있네요!	ananas	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	first	0	0
+Les mesures préventives sont beaucoup plus efficaces que le traitement lui-même.	예방책이 처리 그 자체보다 훨씬 더 효과적이다.	efficaces	0	0
+Il n'y a pas de loisirs à la campagne.	시골에는 오락이 없다.	loisirs	0	0
+Ne mange pas les huîtres.	굴을 먹지마세요.	huîtres	0	0
+Je changerai.	내가 바꿀게.	changerai	0	0
+Est-ce que vous fumez ?	담배를 피우십니까?	fumez	0	0
+Sa popularité s'effondre.	그의 인기가 무너져 내린다.	popularité	0	0
+Mona Lisa a été peinte par Léonard de Vinci.	모나리자는 레오나르도 다빈치가 그렸어.	vinci	0	0
+Dépêchons.	서두르자.	dépêchons	0	0
+Je suis à la recherche d'un travail à temps partiel afin de pouvoir m'acheter un nouveau caméscope.	나는 새 비디오카메라를 사기 위해서 시간제 아르바이트를 찾고 있다.	partiel	0	0
+Je viens de Pékin.	베이징에서 왔습니다.	pékin	0	0
+Remplissez les espaces libres.	빈 공간을 채우세요.	espaces	0	0
+Je ne veux pas grossir.	살 찌고 싶지 않아.	grossir	0	0
+Stationnement interdit !	주차 금지!	stationnement	0	0
+La plupart des femmes rêvent d'un mariage en grande noce.	여자들은 대부분 화려한 결혼식을 꿈꿔.	rêvent	0	0
+La Suisse est située entre la France, l'Italie, l'Autriche et l'Allemagne.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	autriche	0	0
+Arrête de faire ton enfant gâté.	어리광 부리지 마.	gâté	0	0
+Elles ne connaissent rien d'Istanbul.	그녀들은 이스탄불에 대해 아무것도 모른다.	istanbul	0	0
+La nature est fascinante.	자연은 매혹적이다.	fascinante	0	0
+Les oranges contiennent beaucoup de vitamine C.	오렌지는 많은 비타민C를 함유하고 있다.	contiennent	0	0
+Je les ai rencontrées.	나는 그들을 만났다.	rencontrées	0	0
+Le dictionnaire est très utile pour les étudiants.	사전은 대학생들에게 아주 유용하다.	dictionnaire	0	0
+Le symbole chimique H désigne l'hydrogène.	화학 기호 H는 수소를 나타낸다.	hydrogène	0	0
+Soyez respectueux envers les personnes âgées.	노인을 공경하세요.	respectueux	0	0
+Les Algériens soutiennent la Palestine.	알제리 사람들은 팔레스타인을 지지합니다.	soutiennent	0	0
+Il n'est si méchant pot qui ne trouve son couvercle.	짚신도 짝이 있다	couvercle	0	0
+Arrivera-t-il à attraper le train ?	그는 기차를 잡을 수 있을까?	arrivera-t-il	0	0
+Un vrai gentleman ne trahit pas ses amis.	진정한 신사는 친구를 배신하지 않는다.	trahit	0	0
+En route pour Tokyo, j'ai fait une halte à Osaka.	나는 도쿄로 가는 길에 오사카에 잠시 들렀다.	osaka	0	0
+J'aurais besoin que tu me rendes un petit service.	너한테 조그만 부탁이 하나 있어.	rendes	0	0
+"Les animaux sauvages ne sont pas des robots", dit-elle.	"야생동물은 로봇이 아니에요" 라고 그녀가 말했다.	dit-elle	0	0
+La plupart des femmes rêvent d'un mariage en grande noce.	여자들은 대부분 화려한 결혼식을 꿈꿔.	noce	0	0
+L'Espéranto, langue officielle de l'Union européenne, maintenant !	에스페란토 를 유럽 연합 의 공용어 로, 지금!	européenne	0	0
+Que prends-tu au petit-déjeuner ?	당신은 아침에 뭘 먹나요?	prends-tu	0	0
+Je n'aime pas les enseignants qui aiment les étudiants qui n'aiment pas poser de questions.	나는 질문을 좋아하지 않는 학생을 좋아하는 선생님을 좋아하지 않아.	enseignants	0	0
+Un nom référençant quelque chose de distant ou un souvenir lointain.	멀거나 기억 속의 물건을 가르켜 이름.	distant	0	0
+User de raison avec un enfant, c'est perdre son temps.	아이에게 이치를 말해도 소용없다	user	0	0
+Il décida de ne pas s'y rendre.	그는 가지 않기로 결정했다.	décida	0	0
+Tatoeba peut-il contribuer à la sauvegarde des langues en danger ?	사라져 가는 언어를 지키는데 타토에바가 도움이 될까?	sauvegarde	0	0
+Il demanda de l'argent.	그는 돈을 요구했다.	demanda	0	0
+Combien de fois dois-tu aller voir le dentiste ?	얼마나 자주 치과에 가야 되나요?	dois-tu	0	0
+Si vous ne disposez pas de ce programme vous pouvez le télécharger maintenant.	만약 당신에게 이 프로그램이 없다면, 지금 다운로드 받으실 수 있습니다.	télécharger	0	0
+Les bénéfices devraient évidemment dépasser les coûts.	이윤은 당연히 비용을 넘어야지.	coûts	0	0
+Le docteur lui a donné des comprimés pour faire partir la douleur.	통증을 없애기 위해 의사가 그에게 알약을 줬다.	comprimés	0	0
+La mer était aussi lisse que le verre.	바다는 유리처럼 매끈했다.	lisse	0	0
+Nous nous sommes échappés de justesse.	우리는 가까스로 탈출했다.	échappés	0	0
+Restez concentrés.	계속 집중하고 있어봐.	concentrés	0	0
+Tatoeba peut-il contribuer à la sauvegarde des langues en danger ?	사라져 가는 언어를 지키는데 타토에바가 도움이 될까?	contribuer	0	0
+Je sais que vous êtes intelligentes.	여러분들이 똑똑하다는 걸 저는 압니다.	intelligentes	0	0
+Je veux un billet aller-retour pour Chicago.	시카고 왕복표 한 장 주세요.	aller-retour	0	0
+Acceptez-vous les cartes de crédits ?	크레디트 카드 받으세요?	acceptez-vous	0	0
+Va chez le barbier.	이발소에 가거라.	barbier	0	0
+Les caractères chinois sont difficiles à apprendre.	한자는 배우기 어려워요.	caractères	0	0
+Avez-vous jamais été amoureuses ?	여러분은 사랑에 빠진 적이 한번 도 없습니까?	amoureuses	0	0
+Une équipe de football se compose de onze joueurs.	축구는 11멍의 선수로 팀이 구성된다.	compose	0	0
+Nous avons du potassium dans notre corps.	우리 몸 속에는 칼륨이 들어 있다.	potassium	0	0
+Notre vaste monde regorge d'une variété de vies, de langues et de cultures.	세상은 넓고, 그 안엔 다양한 삶과 언어, 문화들이 존재한다.	variété	0	0
+Je suis perplexe.	나는 난처하다.	perplexe	0	0
+J'ai peur des tremblements de terre.	나는 지진이 두렵다.	tremblements	0	0
+Je suis mécontent.	기분이 안 좋네요.	mécontent	0	0
+J'ai trouvé une amie française au Maroc. Elle m'a dit que Paris n'est pas toute la France, et que les villes de province sont très belles aussi.	내가 모로코에서 만난 프랑스 친구가 나에게 빠리의 공기(분위기)가 프랑스의 전부를 나타내는 것이 아니며, 다른 도시들과 시골이 아주 아름답다고 말했다.	maroc	0	0
+Je suis née à Kyoto.	교토에서 태어났다.	kyoto	0	0
+Je t'ai dit un million de fois de ne pas exagérer.	과장하지 말라고 100만 번은 말했을 텐데.	exagérer	0	0
+Je suis Australien.	저는 호주 사람이에요.	australien	0	0
+Aucun fleuve dans le monde n'est plus long que le Nil.	나일강만큼 긴 강은 세상에 없다.	nil	0	0
+La Suisse est située entre la France, l'Italie, l'Autriche et l'Allemagne.	스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	située	0	0
+Vous êtes si méchantes.	당신들 너무 못됐네요.	méchantes	0	0
+Nous sommes allés dans une pizzeria italienne.	우린 이탈리아 피자집에 갔어요.	pizzeria	0	0
+La Russie envahit l'Ukraine.	러시아가 우크라이나를 침공했다.	envahit	0	0
+Nous n'avons pas pu atteindre l'objectif initial.	우리는 당초의 목표를 달성하지 못했다	initial	0	0
+Sois créative !	창의력을 발휘하세요!	créative	0	0
+Toutes les familles avec des enfants bénéficient de prix réduits.	아이가 있는 모든 가족들은 가격 할인을 받는다.	réduits	0	0
+La Russie envahit l'Ukraine.	러시아가 우크라이나를 침공했다.	ukraine	0	0
+Bonheur partagé revient multiplié, peine partagée revient à moitié.	기쁨은 나누면 배가 되고 슬픔은 나누면 반이 된다.	partagée	0	0
+Je ne sais pas ce que ce mot signifie. Je le chercherai dans le dictionnaire.	나는 이 단어의 뜻을 모르겠다. 사전을 찾아봐야 겠어.	chercherai	0	0
+Le symbole chimique H désigne l'hydrogène.	화학 기호 H는 수소를 나타낸다.	désigne	0	0
+Il est soprano.	그는 소프라노로 노래부른다.	soprano	0	0
+Des chiens nombreux, c'est la mort du lièvre !	개가 많다는 것은 산토끼들에게는 죽음을 의미한다.	lièvre	0	0
+Est-ce que tu étudies tous les jours ?	공부는 매일 하고 있어?	étudies	0	0
+Les oiseaux construisent des nids.	새는 둥지를 만든다.	construisent	0	0
+Les oranges contiennent beaucoup de vitamine C.	오렌지는 많은 비타민C를 함유하고 있다.	vitamine	0	0
+Nous nous sommes échappés de justesse.	우리는 가까스로 탈출했다.	justesse	0	0
+Vous savez skier ?	스키를 탈 수 있어요?	skier	0	0
+Il a agi sagement.	그는 현명하게 행동했다.	sagement	0	0
+Libérez la Palestine.	팔레스타인을 해방하라.	palestine	0	0
+Elle est morte paisiblement dans son sommeil.	그녀는 자면서 평안하게 죽었다.	paisiblement	0	0
+Tom acheta un hebdomadaire à la gare.	톰은 역에서 주간지를 샀다.	hebdomadaire	0	0
+Se surprendre, s'étonner, c'est commencer à comprendre.	놀라워 하고, 궁금해 하는 것이 이해의 시작이다.	étonner	0	0
+Je suis égyptien.	이집트 사람입니다.	égyptien	0	0
+« Ça semble très intéressant », dit Hiroshi.	히로시는 이것 재미 있을 것 같다고 말한다.	hiroshi	0	0
+Tom est pessimiste.	톰은 비관적인 사람이다.	pessimiste	0	0
+Elle a vécu à Hiroshima jusqu’à ses dix ans.	그녀는 10 살때까지 히로시마에서 살았어요.	hiroshima	0	0
+Nous avons nagé dans la mer.	우리는 바다에서 수영했다.	nagé	0	0
+Les mathématiques sont la partie des sciences qu'on pourrait continuer à faire si on se réveillait demain et découvrait que l'univers avait disparu.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	découvrait	0	0
+N'oublie pas qu'il y a des exceptions.	예외가 있다는 것을 잊지 말아주세요.	exceptions	0	0
+Nous tentons notre chance.	우리는 운을 시험해본다.	tentons	0	0
+Ne fixez pas les gens.	남을 빤히 봐서는 안 돼요.	fixez	0	0
+Nous nous sommes levés à l'aube.	우리 새벽에 일어났다.	levés	0	0
+Nous apprenons le français.	우리는 프랑스어를 배운다.	apprenons	0	0
+Si ma vie se cantonne uniquement à la culture coréenne, je suis pauvre d’expériences.	만일 내가 내 인생에서 단지 한국의 문화만을 경험한다면 아주 안타까울 것이다.	coréenne	0	0
+Je suis allergique au pollen.	나는 꽃가루 알레르기가 있어.	pollen	0	0
+Pourquoi ne lui demandes-tu pas directement ?	왜 그 사람한테 직접 안 물어봐?	demandes-tu	0	0
+Durant cette période, la majorité des Allemands demandaient la démission de Wulff.	그 시기에는 독일사람의 태반은 불프의 사임을 요구했다.	demandaient	0	0
+Si vous ne disposez pas de ce programme vous pouvez le télécharger maintenant.	만약 당신에게 이 프로그램이 없다면, 지금 다운로드 받으실 수 있습니다.	disposez	0	0
+Mona Lisa a été peinte par Léonard de Vinci.	모나리자는 레오나르도 다빈치가 그렸어.	peinte	0	0
+Payons séparément aujourd'hui.	오늘 우리 각자 냅시다.	payons	0	0
+Pendant qu'il séjournait à Londres, il visita le British Museum.	그가 런던에서 머무는 동안 대영박물관을 방문했다.	british	0	0
+Je m'appelle Stéphane et voici Christiane.	제 이름은 스테판이고 이 분은 크리스티안입니다.	stéphane	0	0
+C'est un éventail chinois.	이것은 중국의 부채입니다.	éventail	0	0
+Tom parle couramment le français.	톰은 프랑스어가 유창하다.	couramment	0	0
+Si tu touches ce fil, tu recevras une décharge.	그 전선에 닿으면 감전돼.	recevras	0	0
+La grammaire est une chose très difficile.	문법은 매우 복잡하다.	grammaire	0	0
+S'il te plaît, prête-moi ta voiture.	당신의 차를 빌려주세요.	prête-moi	0	0
+Je n'ai pas besoin de tes éloges.	나는 너의 칭찬은 필요 없어.	éloges	0	0
+Ne pas désirer équivaut à posséder.	바라는 것이 없으면 부족함이 없다.	équivaut	0	0
+C'est la première fois que je mange de la confiture d'ananas. Plutôt savoureux !	파인애플 잼이란 건 처음 먹어봤네요. 맛있네요!	savoureux	0	0
+Elle est vraiment attentive et patiente.	그녀는 정말 조심스럽고 인내심이 있다.	attentive	0	0
+Il ne fait pas aussi froid aujourd'hui qu'il le faisait hier.	오늘은 어제만큼 춥지 않다.	aujourd'	0	0
+Elle a essayé diverses méthodes pour maigrir.	그녀는 살을 빼기 위해 여러 방법을 시도했다.	maigrir	0	0
+Si tu te dépêches tu attraperas le bus.	네가 서두르면 버스를 잡을 수 있을 거야.	dépêches	0	0
+Notre vaste monde regorge d'une variété de vies, de langues et de cultures.	세상은 넓고, 그 안엔 다양한 삶과 언어, 문화들이 존재한다.	regorge	0	0
+Cette nouvelle la rendit heureuse.	이 소식은 그녀를 기쁘게 했다.	rendit	0	0
+Epstein ne s'est pas suicidé.	엡스타인은 자살하지 않았다.	epstein	0	0
+C'est un casse-tête de décider quoi mettre pour la fête.	파티에 뭘 놓을지 결정하느라 머리가 지끈거린다.	casse-tête	0	0
+Dieu créa le monde.	신이 세상을 창조하였다.	créa	0	0
+Elle était occupée à tricoter.	여자는 뜨개질하느라 바빴다.	tricoter	0	0
+Tous les passagers eurent le mal de mer pendant la tempête.	풍랑이 치는 동안 모든 승객이 멀미를 했다.	eurent	0	0
+Tu es insaisissable.	너는 도통 종잡을 수 없다.	insaisissable	0	0
+L'apprentissage d'une langue étrangère demande de la persévérance.	외국어 습득에는 인내가 필요하다.	persévérance	0	0
+Tom aurait pu être grièvement blessé.	톰은 심각한 부상을 당할 수도 있었다.	grièvement	0	0
+Les oiseaux construisent des nids.	새는 둥지를 만든다.	nids	0	0
+Dans un bus, je m'assoie toujours devant.	버스에서 나는 항상 앞에 앉는다.	assoie	0	0
+Êtes-vous chauves ?	대머리세요?	chauves	0	0
+Que penses-tu qu'il advienne ?	무슨 일이 생길 것 같아?	advienne	0	0
+C'est une employée très travailleuse.	이 직원은 아주 열심히 일한다.	travailleuse	0	0
+As-tu déjà vu une araignée tisser une toile ?	거미가 거미집을 만드는 걸 본 적 있어?	tisser	0	0
+Les idées vertes incolores dorment intensément.	무색의 초록색 관념들이 격렬히 잔다.	intensément	0	0
+Elle aida son père à faire le travail dans le jardin.	그녀는 아빠가 정원에서 하는 일을 도왔다.	aida	0	0
+Pour quel département travailles-tu ?	어느 부서에서 일하세요?	travailles-tu	0	0
+Nous vous aiderons.	우리가 당신을 도와드릴게요.	aiderons	0	0
+Tom était à Boston cette année-là.	그 해에 톰은 보스턴에 있었다.	année-là	0	0
+Irez-vous ?	가실거예요?	irez-vous	0	0
+Nous nous dirigeons vers le nord.	우리는 북쪽으로 간다.	dirigeons	0	0
+« Chevaux » est le pluriel de « cheval ».	"말들"은 "말"의 복수형이야.	pluriel	0	0
+L'éducation dans ce monde me déçoit.	이 세상의 교육이 나를 실망시켜요.	déçoit	0	0
+Huile et eau ne se mélangent pas.	기름과 물은 혼합되지 않는다.	mélangent	0	0
+Bob entra dans la maison par une fenêtre.	밥은 창문으로 집에 들어갔다.	entra	0	0
+Le château a été restauré et est ouvert au public.	성이 복원되었고, 대중에게 개방되어 있는 상태야.	restauré	0	0
+Quelles langues parle-t-on en Corée ?	한국에서는 무슨 언어로 말합니까?	parle-t-on	0	0
+Il s'est endetté.	그는 빚을 지게 되었다.	endetté	0	0
+Ce sont des objectifs modestes mais nécessaires.	그것들은 대단치는 않지만 필수적인 목표들이다.	modestes	0	0
+Tom ne voyait plus Manon depuis deux ans.	톰은 2년 전부터 마농을 더 이상 못 봤다.	manon	0	0
+La prévision météo était juste.	일기예보가 맞았어.	prévision	0	0
+Il était de nature passive.	그는 태생적으로 소극적이다.	passive	0	0
+Il ronflait bruyamment pendant son sommeil.	그는 자는 동안 시끄럽게 코를 골았다.	bruyamment	0	0
+Tom est beau et charismatique.	톰은 잘생기고 카리스마 있다.	charismatique	0	0
+Ces deux idées sont assez distinctes.	이 두 가지 견해가 약간 다르다.	distinctes	0	0
+Étudions ensemble !	함께 공부합시다!	étudions	0	0
+Ils sont consciencieux.	그들은 정직하다.	consciencieux	0	0
+Ma brouette est pleine.	내 한발 수레가 가득 찼다.	brouette	0	0
+L'eau est transparente.	물은 투명하다.	transparente	0	0
+Je marcherai.	나는 걸어갈 거다.	marcherai	0	0
+S'attaquer à la Libye fut une grave erreur.	리비아를 공격하는 것은 중대한 실수였다.	libye	0	0
+Je suis égyptienne.	이집트 사람입니다.	égyptienne	0	0
+Le jour du festival coïncide avec celui de l'examen.	마침 축제 날이 시험 일이랑 겹친다.	coïncide	0	0
+Je suis à la recherche d'un travail à temps partiel afin de pouvoir m'acheter un nouveau caméscope.	나는 새 비디오카메라를 사기 위해서 시간제 아르바이트를 찾고 있다.	caméscope	0	0
+Il va peut-être se mettre à neiger.	아마 눈이 오기 시작할 것이다.	neiger	0	0
+Vous vous comportez tous de la même manière.	당신들은 모두 같은 방식으로 행동한다.	comportez	0	0
+Tom admirait Marie pour son courage.	톰은 마리의 용기를 높이 샀다.	admirait	0	0
+Pendant qu'il séjournait à Londres, il visita le British Museum.	그가 런던에서 머무는 동안 대영박물관을 방문했다.	museum	0	0
+Elle s'arrêta de cueillir des pâquerettes.	그녀는 데이지를 따는 것을 그만 두었다.	arrêta	0	0
+Je suis australienne.	저는 호주 사람이에요.	australienne	0	0
+Je ne suis pas pointilleux. N'importe qui ayant une bonne personnalité me convient.	저 눈 안 높아요. 저는 그냥 성격 좋은 사람이면 다 좋아요.	pointilleux	0	0
+Il parle aussi bien thai qu'anglais.	그는 영어만큼 태국어도 잘한다.	thai	0	0
+Une alimentation saine prolonge la vie.	건강한 식품이 수명을 늘린다.	prolonge	0	0
+Jean et Jeanne regarderont votre rose.	장과 잔느가 당신의 장미꽃을 보고 있습니다.	regarderont	0	0
+Bonheur partagé revient multiplié, peine partagée revient à moitié.	기쁨은 나누면 배가 되고 슬픔은 나누면 반이 된다.	multiplié	0	0
+Nous ne retournerons pas à Boston.	우리는 보스턴에 돌아가지 않을 것이다.	retournerons	0	0
+Les lionnes n'ont pas de crinière.	암사자에는 갈기가 없어.	crinière	0	0
+Quatre de mes chants de Noël préférés sont « Silent Night », « Joy to the World », « The First Noel » et « Away in the Manger ».	제가 가장 좋아하는 크리스마스 캐럴 네 곡은 "Silent Night", "Joy to the World", "The First Noel"과 "Away in the Manger"입니다.	silent	0	0
+Elles sont trop grasses.	그것들은 너무 기름지다.	grasses	0	0
+J'ai trouvé une amie française au Maroc. Elle m'a dit que l'ambiance à Paris n'est pas celle de toute la France, d'autres villes et provinces sont très belles.	내가 모로코에서 만난 프랑스 친구가 나에게 빠리의 공기(분위기)가 프랑스의 전부를 나타내는 것이 아니며, 다른 도시들과 시골이 아주 아름답다고 말했다.	provinces	0	0
+Les œuvres d'art ont dû traverser les océans pour être exposées ici au Brésil.	여기 브라질에서 전시되기 위해서 이 예술 작품들이 바다를 건너 왔어요.	exposées	0	0
+Les mathématiques sont la partie des sciences qu'on pourrait continuer à faire si on se réveillait demain et découvrait que l'univers avait disparu.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	réveillait	0	0
+Le temps se rafraîchit.	날씨가 시원해졌다.	rafraîchit	0	0
+Je suis ukrainien.	저는 우크라이나 사람이에요.	ukrainien	0	0
+Nous sommes à la recherche d'un hébergement.	숙박 시설을 찾고 있습니다.	hébergement	0	0
+L'homme leva les yeux, vit le ciel gris, releva son col et se mit en chemin.	남자는 시선을 들어 회색빛 하늘을 보고, 옷깃을 세우고 길을 떠났다.	leva	0	0
+Je m'excuse de mon impolitesse.	무례해서 죄송합니다.	impolitesse	0	0
+Les framboises coûtent très cher.	라즈베리는 너무 비싸다.	framboises	0	0
+Je suis fortuné.	나는 운이 좋다.	fortuné	0	0
+J'ai toujours su que vous reviendriez.	당신이 돌아올 거란 걸 항상 알고 있었어요.	reviendriez	0	0
+Taïwan est un pays.	대만은 국가입니다.	taïwan	0	0
+La Yougoslavie n'existe plus.	유고슬라비아는 더 이상 존재하지 않습니다.	yougoslavie	0	0
+Il remplissait un rôle important au comité.	그는 위원회에서 중요한 임무를 완수했었다.	remplissait	0	0
+Attendez-nous !	우리 기다려주세요!	attendez-nous	0	0
+Tom refusa d'aider Marie à faire ses devoirs.	톰은 마리의 숙제를 도와주는 걸 거절했다.	refusa	0	0
+Oubliez-le !	그건 잊어버리세요!	oubliez-le	0	0
+Merci de corriger ma prononciation.	제 발음을 고쳐 주세요.	prononciation	0	0
+Nous désirons arrêter ces négociations.	우리는 이 협상을 중단하고 싶다.	désirons	0	0
+Ma mère m'emmena au parc.	엄마가 나를 공원에 데려갔다.	emmena	0	0
+Tu t'habitueras rapidement à vivre ici.	곧 여기에서 사는 것에 적응될 거예요.	habitueras	0	0
+À cause de son ronflement, je n'ai pas pu m'endormir.	그 사람이 코를 골아서, 나는 잠을 잘 수 없었다.	ronflement	0	0
+Je conseillerais de faire cela.	그것을 하시기를 권고합니다.	conseillerais	0	0
+Dans ce film d'épouvante, les morts peuvent revenir à la vie.	이 공포 영화에선 죽은 사람이 다시 살아나는 것이 가능하다.	épouvante	0	0
+Elles sont débutantes, mais elles apprennent vite.	그녀들은 초보이지만 빨리 배운다.	débutantes	0	0
+Si j'avais des ailes, je volerais vers toi.	나에게 날개가 달렸다면 너에게 날아갈 것이다.	volerais	0	0
+Attends-nous !	우리 기다려줘!	attends-nous	0	0
+Le bouddhisme vient de l'Inde.	불교는 인도에서 유래됐다.	bouddhisme	0	0
+Elles sont courageuses.	그녀들은 용감하다.	courageuses	0	0
+Herold accepta de se rendre.	헤롤드는 항복했습니다	accepta	0	0
+Le texte original est truffé d'erreurs du début à la fin.	원문은 처음부터 끝까지 오류가 가득하다.	truffé	0	0
+M. Tanabe est sorti pour le moment.	타나베씨는 잠시 나가셨습니다.	tanabe	0	0
+Je me levais toujours tôt dans mon enfance.	나는 유년 시절에 항상 일찍 씻었다.	levais	0	0
+Elle rougit de honte.	그녀는 당황해서 얼굴이 빨개졌다.	rougit	0	0
+Elle lui demanda d'aider son père à nettoyer le garage mais il déclara qu'il était trop occupé pour le faire.	그녀는 그녀의 아버지가 차고 청소 하는 것을 도와 주라고 그에게 얘기 했지만 그는 너무 바빠서 못 도와 준대.	déclara	0	0
+Si tu te dépêches tu attraperas le bus.	네가 서두르면 버스를 잡을 수 있을 거야.	attraperas	0	0
+Je m'appelle Stéphane et voici Christiane.	제 이름은 스테판이고 이 분은 크리스티안입니다.	christiane	0	0
+À peu près 65% des Américains sont en surpoids, ce qui n'est pas bon pour leur santé.	미국 성인은 약 65퍼센트가 비만이고 그건 그들의 건강에 좋지 않다.	surpoids	0	0
+Dimanche dernier, ma famille est allée au zoo pour voir des pandas.	지난 일요일에 우리 가족은 판다를 보러 동물원에 갔다.	pandas	0	0
+Poutine est un criminel de guerre.	푸틴은 전쟁범죄인입니다.	poutine	0	0
+Repose-moi la question en octobre.	그 문제는 10월에 다시 저에게 제기해주세요.	repose-moi	0	0
+Quelques plantes ne s'adaptent pas au froid.	일부 식물은 추위에 적응하지 못한다.	adaptent	0	0
+J'ai ramené les livres que j'avais empruntés à la bibliothèque et j'en ai emprunté des nouveaux.	도서관에서 빌렸던 책은 반납하고, 다시 새로운 책을 빌려왔어.	empruntés	0	0
+Étant très fatigué, j'allai me coucher tôt.	너무 피곤해서 나는 일찍 자러 갔다.	allai	0	0
+Le Canada borde la partie nord des USA.	미국은 북쪽으로 캐나다와 경계를 짓고 있다.	borde	0	0
+Combien de personnes étaient-elles présentes à la réunion ?	회의에 몇 명이 참석했었어요?	étaient-elles	0	0
+Je suis Ukrainienne.	저는 우크라이나 사람이에요.	ukrainienne	0	0
+Quelles langues parlent-ils en Corée ?	한국에서는 무슨 언어로 말합니까?	parlent-ils	0	0
+Soyez clémente !	관용을 베푸세요!	clémente	0	0
+Restez concentrées.	계속 집중하고 있어봐.	concentrées	0	0
+Je suis de Taipei.	타이베이에서 왔어요.	taipei	0	0
+Il a beaucoup neigé l'année passée.	작년에 눈이 엄청 내렸어.	neigé	0	0
+Indéniablement.	명백하게.	indéniablement	0	0
+Que tu réussisses ou pas repose sur tes propres efforts.	성공 여부는 너 자신의 노력에 달려있다.	réussisses	0	0
+Elle a rougi.	여자의 얼굴이 붉어졌다.	rougi	0	0
+Ne blaguez pas avec mes chaussures.	내 신발 가지고 장난하지 마세요.	blaguez	0	0
+Arrivez-vous à le croire ?	믿을 수 있어요?	arrivez-vous	0	0
+Ne vous précipitez pas.	서두르지 마세요.	précipitez	0	0
+La compagnie abandonna ce projet.	기업은 이 프로젝트를 포기했다.	abandonna	0	0
+Tom n'a pas diné hier soir.	톰은 지난밤에 저녁을 걸렀다.	diné	0	0
+Elles trichent.	그들이 배신했다.	trichent	0	0
+Je refuserai.	나는 거절할 거야.	refuserai	0	0
+Choisissez-en une parmi ceux-là.	그중 하나를 고르세요.	choisissez-en	0	0
+J'ai deux fils, dont l'un est à Tokyo et l'autre à Nagoya.	나는 아들이 둘 있는데 하나는 도쿄에 있고 다른 하나는 나고야에 있다.	nagoya	0	0
+Nous voulons aller au bord de la mer Baltique ce week-end.	이번 주말에는 발트해로 가려고 합니다.	baltique	0	0
+Les collines étaient recouvertes de neige.	언덕은 눈으로 덮여있었다.	recouvertes	0	0
+Il est coupable de sédition.	그는 반란죄 혐의를 받고 있다.	sédition	0	0
+Relisez ce mot, s'il vous plaît !	이 단어를 다시 읽으십시오.	relisez	0	0
+Il lui acheta un chien.	그는 그녀에게 개를 사주었다.	acheta	0	0
+Que voit-il ?	남자는 뭘 보고 있지?	voit-il	0	0
+Nous mangions des œufs.	우리는 계란을 먹었다.	mangions	0	0
+C'est insoluble dans l'eau.	이것은 물에 녹지 않는다.	insoluble	0	0
+Pourquoi mentez-vous ?	왜 거짓말을 해요?	mentez-vous	0	0
+Ses yeux étaient emplis de larmes.	그녀의 눈이 눈물로 가득했다.	emplis	0	0
+Aime-t-elle les oranges ?	그녀는 오렌지를 좋아하나요?	aime-t-elle	0	0
+Le rouge-gorge avait froid.	울새는 추웠다.	rouge-gorge	0	0
+Les idées vertes incolores dorment furieusement.	색깔없는 녹색의 관념은 분노하며 잠잔다.	furieusement	0	0
+Pyongyang est la capitale de la Corée du Nord.	평양은 북한의 수도입니다.	pyongyang	0	0

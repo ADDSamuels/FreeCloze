@@ -1,0 +1,292 @@
+Da li si kupio hranu za mačke?	Kedi maması aldın mı?	da	0	0
+Brad Pitt je glumac.	Brad Pitt bir aktördür.	je	0	0
+Imam plan. Ne brini.	Planım var. Kusura bakma.	ne	0	0
+Gde si se sakrio?	Nereye saklandın?	se	0	0
+Imamo tri psa, jednog belog i dva crna.	Biri beyaz, ikisi de siyah olmak üzere üç köpeğimiz var.	i	0	0
+Firenca je najlepši grad u Italiji.	Floransa, İtalya'daki en güzel şehirdir.	u	0	0
+To je Tom.	Bu, Tom.	to	0	0
+Ja sam ateista.	Ben ateistim.	sam	0	0
+Zašto se ljutiš na mene?	Bana neden kızıyorsun?	na	0	0
+Trebaju mi makaze da isečem ovaj papir.	Bu kağıdı kesmek için bir makasa ihtiyacım var.	mi	0	0
+Alkohol je štetan za jetru.	Alkol, karaciğere zararlıdır.	za	0	0
+Gde si naučio engleski?	İngilizceyi nerede öğrendin?	si	0	0
+Je li tvoja kuća nova?	Evin yeni mi?	li	0	0
+Šta ima novo?	Ne haber?	šta	0	0
+Ja nisam učiteljica.	Ben bir öğretmen değilim.	ja	0	0
+Knjige su moji najbolji prijatelji.	Kitaplar benim en iyi arkadaşlarımdır.	su	0	0
+Nije mi bilo zabavno, pa sam rano otišla kući.	Ben eğlenmiyordum, bu yüzden eve erken gittim.	nije	0	0
+Ovo je Kopakabana!	Burası Copacabana!	ovo	0	0
+To je samo ogrebotina.	Bu sadece bir sıyrık.	samo	0	0
+Dobro došli.	Hoş geldiniz.	dobro	0	0
+Ja nisam učiteljica.	Ben bir öğretmen değilim.	nisam	0	0
+Zašto sam ovde?	Neden buradayım?	ovde	0	0
+Pa gde je Tom otišao?	Peki Tom nereye gitti?	pa	0	0
+Pre tri meseca bio sam nezaposlen.	Üç ay önce işsizdim.	bio	0	0
+Zašto se ljutiš na mene?	Bana neden kızıyorsun?	zašto	0	0
+"30 juana za malu sobu je previše", smatrao je on.	"30 Yuan bu oda için oldukça pahalı," dedi.	on	0	0
+Nije mi bilo zabavno, pa sam rano otišao kući.	Ben eğlenmiyordum, bu yüzden eve erken gittim.	bilo	0	0
+Šta ima novo?	Ne haber?	ima	0	0
+Kafa ili čaj?	Kahve mi, çay mı?	ili	0	0
+Pa gde je Tom otišao?	Peki Tom nereye gitti?	gde	0	0
+Да ли оцењујете да је атрактивна.	Onun çekici olduğunu sanıyor musun?	да	0	0
+Zašto se ljutiš na mene?	Bana neden kızıyorsun?	mene	0	0
+Izvinite, ko je ova žena?	Affedersiniz, bu kadın kim?	ko	0	0
+Ona se zove Lucifera.	Onun adı Lucifera.	ona	0	0
+Данас је Светски дан змија.	Bugün Dünya Yılan Günü.	је	0	0
+Imam plan. Ne brini.	Planım var. Kusura bakma.	imam	0	0
+Već sam odabrao.	Zaten seçtim.	već	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	jedan	0	0
+Pre tri meseca bio sam nezaposlen.	Üç ay önce işsizdim.	pre	0	0
+Imaš pravo.	Sen haklısın.	imaš	0	0
+Trebaju mi makaze da isečem ovaj papir.	Bu kağıdı kesmek için bir makasa ihtiyacım var.	ovaj	0	0
+Imamo tri psa, jednog belog i dva crna.	Üç tane köpeğimiz var, biri beyaz, ikisi siyah.	imamo	0	0
+Dobar dan, šta želiš?	İyi günler, ne istiyorsunuz?	dan	0	0
+Dobar dan, šta želiš?	İyi günler, ne istiyorsunuz?	želiš	0	0
+Šta radiš?	Ne yapıyorsun?	radiš	0	0
+Не заборавите да нам пишете.	Bize yazmayı unutma.	не	0	0
+Dobar dan, šta želiš?	İyi günler, ne istiyorsunuz?	dobar	0	0
+Зове се Томојуки Огура.	Onun adı Tomoyuki Ogura.	се	0	0
+Ја не желим да се мешам у ваш посао.	Sizin işinize müdahale etmek istemiyorum.	у	0	0
+Život je kratak.	Hayat kısadır.	život	0	0
+Nije mi bilo zabavno, pa sam rano otišla kući.	Ben eğlenmiyordum, bu yüzden eve erken gittim.	kući	0	0
+Imamo tri psa, jednog belog i dva crna.	Biri beyaz, ikisi de siyah olmak üzere üç köpeğimiz var.	dva	0	0
+Je li tvoja kuća nova?	Evin yeni mi?	tvoja	0	0
+Imamo tri psa, jednog belog i dva crna.	Biri beyaz, ikisi de siyah olmak üzere üç köpeğimiz var.	tri	0	0
+То су за мене шпанска села.	Konuya Fransız kaldım.	то	0	0
+Izvinite, ko je ova žena?	Affedersiniz, bu kadın kim?	žena	0	0
+Када сам живео у Сједињеним Државама играо сам голф са својим пријатељима.	Amerika'da yaşarken arkadaşlarımla golf oynadım.	сам	0	0
+Izvinite, ko je ova žena?	Affedersiniz, bu kadın kim?	ova	0	0
+Maja Keuc je dobra pevačica.	Maja Keuc iyi bir şarkıcı.	dobra	0	0
+"30 juana za malu sobu je previše", smatrao je on.	"30 Yuan bu oda için oldukça pahalı," dedi.	previše	0	0
+Izvinite, ko je ova žena?	Affedersiniz, bu kadın kim?	izvinite	0	0
+Imaš pravo.	Sen haklısın.	pravo	0	0
+Шта читаш?	Ne okuyorsun?	шта	0	0
+Imamo tri psa, jednog belog i dva crna.	Üç tane köpeğimiz var, biri beyaz, ikisi siyah.	jednog	0	0
+Tom je barbar.	Tom bir barbar.	tom	0	0
+Знам ствари које ти е знаш.	Bilmediğin şeyleri biliyorum.	ти	0	0
+Алкохол је штетан за јетру.	Alkol, karaciğere zararlıdır.	за	0	0
+Име ми је Јиамин Ванг.	Benim adım Wang Jiaming.	ми	0	0
+Ona se zove Lucifera.	Onun adı Lucifera.	zove	0	0
+Auto je plav.	Bu araba mavi.	auto	0	0
+Да ли је он доктор?	O doktor mu?	ли	0	0
+Nije mi bilo zabavno, pa sam rano otišao kući.	Ben eğlenmiyordum, bu yüzden eve erken gittim.	otišao	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	pet	0	0
+Ја сам професор.	Ben bir profesörüm.	ја	0	0
+Ти си богата.	Sen zenginsin.	си	0	0
+Dobro došli.	Hoş geldiniz.	došli	0	0
+Srce bije.	Kalp atıyor.	srce	0	0
+Када сам живео у Сједињеним Државама играо сам голф са својим пријатељима.	Amerika'da yaşarken arkadaşlarımla golf oynadım.	са	0	0
+То су за мене шпанска села.	Konuya Fransız kaldım.	су	0	0
+Imam plan. Ne brini.	Planım var. Kusura bakma.	brini	0	0
+Knjige su moji najbolji prijatelji.	Kitaplar benim en iyi arkadaşlarımdır.	prijatelji	0	0
+Firenca je najlepši grad u Italiji.	Floransa, İtalya'daki en güzel şehirdir.	grad	0	0
+Šta radite?	Ne yapıyorsunuz?	radite	0	0
+Knjige su moji najbolji prijatelji.	Kitaplar benim en iyi arkadaşlarımdır.	najbolji	0	0
+Odakle dolaziš?	Nereden geliyorsun?	odakle	0	0
+Мој енглески није довољно добар да објасни мој проблем.	İngilizcem, sıkıntılarımı açıklamaya yetecek kadar iyi değil.	није	0	0
+Knjige su moji najbolji prijatelji.	Kitaplar benim en iyi arkadaşlarımdır.	moji	0	0
+Izgledaš glupavo.	Aptal görünüyorsun.	izgledaš	0	0
+Imam plan. Ne brini.	Planım var. Kusura bakma.	plan	0	0
+"30 juana za malu sobu je previše", smatrao je on.	"30 Yuan bu oda için oldukça pahalı," dedi.	sobu	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	šest	0	0
+Ово је комунизам.	Bu, komünizmdir.	ово	0	0
+Nije mi bilo zabavno, pa sam rano otišla kući.	Ben eğlenmiyordum, bu yüzden eve erken gittim.	otišla	0	0
+Волим те.	Seni seviyorum.	те	0	0
+Je li tvoja kuća nova?	Evin yeni mi?	kuća	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	deset	0	0
+Како си?	Nasılsın?	како	0	0
+Жели сат као твој.	Seninkine benzeyen bir saat istiyor.	као	0	0
+Љубав побеђује све.	Aşk her şeyi yener.	све	0	0
+Je li tvoja kuća nova?	Evin yeni mi?	nova	0	0
+Да ли је он доктор?	O doktor mu?	он	0	0
+Nije mi bilo zabavno, pa sam rano otišla kući.	Ben eğlenmiyordum, bu yüzden eve erken gittim.	zabavno	0	0
+Pre tri meseca bio sam nezaposlen.	Üç ay önce işsizdim.	meseca	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	sedam	0	0
+Знам ствари које ти е знаш.	Bilmediğin şeyleri biliyorum.	знам	0	0
+Da li si kupio hranu za mačke?	Kedi maması aldın mı?	hranu	0	0
+Trebaju mi makaze da isečem ovaj papir.	Bu kağıdı kesmek için bir makasa ihtiyacım var.	trebaju	0	0
+Imam ideju.	Benim bir fikrim var.	ideju	0	0
+Нисам војник.	Asker değilim.	нисам	0	0
+Зашто?	Niye?	зашто	0	0
+Da li si kupio hranu za mačke?	Kedi maması aldın mı?	kupio	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	osam	0	0
+Šta ima novo?	Ne haber?	novo	0	0
+Где је музеј?	Müze nerede?	где	0	0
+Knjige su moji najbolji prijatelji.	Kitaplar benim en iyi arkadaşlarımdır.	knjige	0	0
+Она се зове Луцифера.	Onun adı Lucifera.	она	0	0
+Gde se nalazi plaža?	Plaj nerede?	nalazi	0	0
+Imamo tri psa, jednog belog i dva crna.	Üç tane köpeğimiz var, biri beyaz, ikisi siyah.	psa	0	0
+"30 juana za malu sobu je previše", smatrao je on.	"30 Yuan bu oda için oldukça pahalı," dedi.	malu	0	0
+Мислим да је прекасно.	Sanırım çok geç.	мислим	0	0
+Хоћеш ли посао или не?	İşi istiyor musun istemiyor musun?	или	0	0
+Хвала!	Teşekkürler!	хвала	0	0
+Gde si naučio engleski?	İngilizceyi nerede öğrendin?	naučio	0	0
+Извините, ко је ова жена?	Affedersiniz, bu kadın kim?	ко	0	0
+Шта можете више желети?	Konuşmada yeni bir konu gündeme geldi.	више	0	0
+Мој енглески није довољно добар да објасни мој проблем.	İngilizcem, sıkıntılarımı açıklamaya yetecek kadar iyi değil.	мој	0	0
+Када сам живео у Сједињеним Државама играо сам голф са својим пријатељима.	Amerika'da yaşarken arkadaşlarımla golf oynadım.	када	0	0
+Kafa ili čaj?	Kahve mi, çay mı?	čaj	0	0
+Nije mi bilo zabavno, pa sam rano otišao kući.	Ben eğlenmiyordum, bu yüzden eve erken gittim.	rano	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	devet	0	0
+Знам ствари које ти е знаш.	Bilmediğin şeyleri biliyorum.	знаш	0	0
+То су за мене шпанска села.	Konuya Fransız kaldım.	мене	0	0
+Gladan sam.	Açım.	gladan	0	0
+Nađi mačku.	Kediyi bul.	nađi	0	0
+Музика је била веома гласна.	Müzik çok yüksekti.	била	0	0
+Имам план.	Bir planım var.	имам	0	0
+Не заборавите да нам пишете.	Bize yazmayı unutma.	нам	0	0
+Odakle dolaziš?	Nereden geliyorsun?	dolaziš	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	један	0	0
+Ја не желим да се мешам у ваш посао.	Sizin işinize müdahale etmek istemiyorum.	желим	0	0
+Gde si naučio engleski?	İngilizceyi nerede öğrendin?	engleski	0	0
+Време је новац.	Vakit nakittir.	време	0	0
+Ja nisam profesor.	Ben bir öğretmen değilim.	profesor	0	0
+Знам ствари које ти е знаш.	Bilmediğin şeyleri biliyorum.	ствари	0	0
+Ово је моја кућа.	Bu benim evim.	моја	0	0
+Колико?	Ne kadar?	колико	0	0
+У току поподнева ја морам да организујем путовање.	Öğleden sonra gezi için hazırlık yapmalıyım.	морам	0	0
+Imamo tri psa, jednog belog i dva crna.	Üç tane köpeğimiz var, biri beyaz, ikisi siyah.	crna	0	0
+Gladna sam.	Açım.	gladna	0	0
+Trebaju mi makaze da isečem ovaj papir.	Bu kağıdı kesmek için bir makasa ihtiyacım var.	papir	0	0
+Gde si naučila engleski?	İngilizceyi nerede öğrendin?	naučila	0	0
+Знам ствари које ти е знаш.	Bilmediğin şeyleri biliyorum.	које	0	0
+U sred sam sastanka.	Bir toplantının ortasındayım.	sred	0	0
+Хоћеш ли посао или не?	İşi istiyor musun istemiyor musun?	хоћеш	0	0
+Испред моје куће је аутобуска станица.	Evimin tam önünde bir otobüs durağı var.	моје	0	0
+Имаш ли пасош?	Bir pasaportun var mı?	имаш	0	0
+Како се зове твој друг?	Arkadaşının adı ne?	твој	0	0
+Gde je toalet?	Tuvalet nerede?	toalet	0	0
+Шта можете више желети?	Konuşmada yeni bir konu gündeme geldi.	можете	0	0
+Ја не желим да се мешам у ваш посао.	Sizin işinize müdahale etmek istemiyorum.	посао	0	0
+Tom ima lepu baštu.	Tom'un güzel bir bahçesi var.	lepu	0	0
+Kafa ili čaj?	Kahve mi, çay mı?	kafa	0	0
+Добар дан, шта желиш?	İyi günler, ne istiyorsunuz?	дан	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	два	0	0
+Мој енглески није довољно добар да објасни мој проблем.	İngilizcem, sıkıntılarımı açıklamaya yetecek kadar iyi değil.	добар	0	0
+Мачка није човек!	Kedi bir insan değildir!	човек	0	0
+Ja sam učitelj.	Ben öğretmenim.	učitelj	0	0
+Ja sam udata.	Ben evliyim.	udata	0	0
+Вода је живот.	Su hayattır.	живот	0	0
+Da li si kupio hranu za mačke?	Kedi maması aldın mı?	mačke	0	0
+Alkohol je štetan za jetru.	Alkol, karaciğere zararlıdır.	alkohol	0	0
+Данас је Светски дан змија.	Bugün Dünya Yılan Günü.	данас	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	три	0	0
+Волим забаве изненађења.	Ben sürpriz partileri seviyorum.	волим	0	0
+Музика је била веома гласна.	Müzik çok yüksekti.	веома	0	0
+Ispekao sam hleb.	Ekmek pişirdim.	hleb	0	0
+Добар дан, шта желиш?	İyi günler, ne istiyorsunuz?	желиш	0	0
+Gde si se sakrio?	Nereye saklandın?	sakrio	0	0
+Brad Pitt je glumac.	Brad Pitt bir aktördür.	glumac	0	0
+U sred sam sastanka.	Bir toplantının ortasındayım.	sastanka	0	0
+Име ми је Јиамин Ванг.	Benim adım Wang Jiaming.	име	0	0
+Nađi mačku.	Kediyi bul.	mačku	0	0
+Život je kratak.	Hayat kısadır.	kratak	0	0
+Извините, ко је ова жена?	Affedersiniz, bu kadın kim?	жена	0	0
+Ja sam student.	Ben öğrenciyim.	student	0	0
+Ја не желим да се мешам у ваш посао.	Sizin işinize müdahale etmek istemiyorum.	ваш	0	0
+Мој енглески није довољно добар да објасни мој проблем.	İngilizcem, sıkıntılarımı açıklamaya yetecek kadar iyi değil.	довољно	0	0
+Ова игра је заиста забавна.	Bu oyun gerçekten eğlenceli.	заиста	0	0
+Maja Keuc je slovenačka pevačica.	Maja Keuc Sloven şarkıcı.	maja	0	0
+Već sam odabrao.	Zaten seçtim.	odabrao	0	0
+Извините, ко је ова жена?	Affedersiniz, bu kadın kim?	извините	0	0
+Жели сат као твој.	Seninkine benzeyen bir saat istiyor.	жели	0	0
+Švajcarska je u Centralnoj Evropi.	İsviçre Orta Avrupa'dadır.	evropi	0	0
+Почињем сутра.	Yarın başlarım.	сутра	0	0
+Ова игра је заиста забавна.	Bu oyun gerçekten eğlenceli.	ова	0	0
+Zašto se ljutiš na mene?	Bana neden kızıyorsun?	ljutiš	0	0
+Време је новац.	Vakit nakittir.	новац	0	0
+"30 juana za malu sobu je previše", smatrao je on.	"30 Yuan bu oda için oldukça pahalı," dedi.	smatrao	0	0
+Бог је велики.	Allah büyüktür.	велики	0	0
+Мој енглески није довољно добар да објасни мој проблем.	İngilizcem, sıkıntılarımı açıklamaya yetecek kadar iyi değil.	проблем	0	0
+Маја Кеуц је добра певачица.	Maja Keuc iyi bir şarkıcı.	добра	0	0
+Ja sam učenik.	Ben öğrenciyim.	učenik	0	0
+Ја сам дете осамдесетих.	Seksenler çocuğuyum.	дете	0	0
+Испред моје куће је аутобуска станица.	Evimin tam önünde bir otobüs durağı var.	куће	0	0
+Imamo tri psa, jednog belog i dva crna.	Üç tane köpeğimiz var, biri beyaz, ikisi siyah.	belog	0	0
+Када сам живео у Сједињеним Државама играо сам голф са својим пријатељима.	Amerika'da yaşarken arkadaşlarımla golf oynadım.	својим	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	пет	0	0
+Она се зове Луцифера.	Onun adı Lucifera.	зове	0	0
+Ja nisam učiteljica.	Ben öğretmen değilim.	učiteljica	0	0
+Firenca je najlepši grad u Italiji.	Floransa, İtalya'daki en güzel şehirdir.	italiji	0	0
+Дао сам Тому твоју адресу.	Tom'a senin adresini verdim.	дао	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	четири	0	0
+Љубав побеђује све.	Aşk her şeyi yener.	љубав	0	0
+Brad Pitt je glumac.	Brad Pitt bir aktördür.	brad	0	0
+Ja sam nastavnik.	Ben öğretmenim.	nastavnik	0	0
+Бог је велики.	Allah büyüktür.	бог	0	0
+Жели сат као твој.	Seninkine benzeyen bir saat istiyor.	сат	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	шест	0	0
+Firenca je najlepši grad u Italiji.	Floransa, İtalya'daki en güzel şehirdir.	najlepši	0	0
+Хоћете ли посао или не?	İşi istiyor musun istemiyor musun?	хоћете	0	0
+Пола три је.	Saat iki buçuk.	пола	0	0
+Trebaju mi makaze da isečem ovaj papir.	Bu kağıdı kesmek için bir makasa ihtiyacım var.	makaze	0	0
+Gde se nalazi plaža?	Plaj nerede?	plaža	0	0
+Дао сам Тому твоју адресу.	Tom'a senin adresini verdim.	твоју	0	0
+Имам план.	Bir planım var.	план	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	četri	0	0
+Tom ima lepu baštu.	Tom'un güzel bir bahçesi var.	baštu	0	0
+Знам ствари које ти е знаш.	Bilmediğin şeyleri biliyorum.	е	0	0
+To je samo ogrebotina.	Bu sadece bir sıyrık.	ogrebotina	0	0
+Испред моје куће је аутобуска станица.	Evimin tam önünde bir otobüs durağı var.	испред	0	0
+Ова игра је заиста забавна.	Bu oyun gerçekten eğlenceli.	игра	0	0
+Све његове реченице су кратке.	Onun tüm cümleleri kısa.	његове	0	0
+Остајем при својој одлуци.	Kararıma sadık kaldım.	својој	0	0
+Srce bije.	Kalp atıyor.	bije	0	0
+Да ли је он доктор?	O doktor mu?	доктор	0	0
+Ово је моја кућа.	Bu benim evim.	кућа	0	0
+Alkohol je štetan za jetru.	Alkol, karaciğere zararlıdır.	jetru	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	десет	0	0
+Коначно!	Sonunda!	коначно	0	0
+Мислимо да његово презиме је Џексон.	Onun soyadının Jackson olduğunu düşünüyoruz.	његово	0	0
+Maja Keuc je slovenačka pevačica.	Maja Keuc Sloven şarkıcı.	pevačica	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	седам	0	0
+Ja sam učenica.	Ben öğrenciyim.	učenica	0	0
+Ja nisam profesorka.	Ben bir öğretmen değilim.	profesorka	0	0
+Кафу или чај?	Kahve mi, çay mı?	кафу	0	0
+Ово је моја земља.	Bu benim ülkem.	земља	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	осам	0	0
+Ja sam nastavnica.	Ben öğretmenim.	nastavnica	0	0
+Музика је била веома гласна.	Müzik çok yüksekti.	музика	0	0
+Auto je plav.	Bu araba mavi.	plav	0	0
+Izgledaš glupavo.	Aptal görünüyorsun.	glupavo	0	0
+Вода је живот.	Su hayattır.	вода	0	0
+Довиђења!	Hoşça kalın.	довиђења	0	0
+Када сам живео у Сједињеним Државама играо сам голф са својим пријатељима.	Amerika'da yaşarken arkadaşlarımla golf oynadım.	живео	0	0
+Pre tri meseca bio sam nezaposlen.	Üç ay önce işsizdim.	nezaposlen	0	0
+Тражимо адвоката.	Biz bir avukat arıyoruz.	тражимо	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	девет	0	0
+Кафу или чај?	Kahve mi, çay mı?	чај	0	0
+Švajcarska je u Centralnoj Evropi.	İsviçre Orta Avrupa'dadır.	centralnoj	0	0
+Америка се вратила!	Amerika geri döndü!	вратила	0	0
+Где се назали хотел?	Otel nerede?	хотел	0	0
+Ja sam studentkinja.	Ben öğrenciyim.	studentkinja	0	0
+Играм хокеј.	Hokey oynuyorum.	играм	0	0
+Trebaju mi makaze da isečem ovaj papir.	Bu kağıdı kesmek için bir makasa ihtiyacım var.	isečem	0	0
+Švajcarska je u Centralnoj Evropi.	İsviçre Orta Avrupa'dadır.	švajcarska	0	0
+Дао сам Тому твоју адресу.	Tom'a senin adresini verdim.	адресу	0	0
+Остајем при својој одлуци.	Kararıma sadık kaldım.	при	0	0
+То је Марија.	Bu, Meryem.	марија	0	0
+У току поподнева ја морам да организујем путовање.	Öğleden sonra gezi için hazırlık yapmalıyım.	путовање	0	0
+Мислим да је прекасно.	Sanırım çok geç.	прекасно	0	0
+Мислимо да његово презиме је Џексон.	Onun soyadının Jackson olduğunu düşünüyoruz.	мислимо	0	0
+Када сам живео у Сједињеним Државама играо сам голф са својим пријатељима.	Amerika'da yaşarken arkadaşlarımla golf oynadım.	пријатељима	0	0
+Ја сам професор.	Ben bir profesörüm.	професор	0	0
+Испред моје куће је аутобуска станица.	Evimin tam önünde bir otobüs durağı var.	станица	0	0
+То је месо мајмуна.	O maymun eti.	месо	0	0
+Тражимо адвоката.	Biz bir avukat arıyoruz.	адвоката	0	0
+Нисам војник.	Ben bir asker değilim.	војник	0	0
+Мој енглески није довољно добар да објасни мој проблем.	İngilizcem, sıkıntılarımı açıklamaya yetecek kadar iyi değil.	енглески	0	0
+Волим забаве изненађења.	Ben sürpriz partileri seviyorum.	забаве	0	0
+Firenca je najlepši grad u Italiji.	Floransa, İtalya'daki en güzel şehirdir.	firenca	0	0
+Ja sam ateista.	Ben ateistim.	ateista	0	0
+Када сам живео у Сједињеним Државама играо сам голф са својим пријатељима.	Amerika'da yaşarken arkadaşlarımla golf oynadım.	играо	0	0
+"30 juana za malu sobu je previše", smatrao je on.	"30 Yuan bu oda için oldukça pahalı," dedi.	juana	0	0
+Не заборавите да нам пишете.	Bize yazmayı unutma.	заборавите	0	0
+Ona se zove Lucifera.	Onun adı Lucifera.	lucifera	0	0
+Како се зове твој друг?	Arkadaşının adı ne?	друг	0	0
+Једем.	Yiyorum.	једем	0	0
+Мачка није човек!	Kedi bir insan değildir!	мачка	0	0
+Ispekao sam hleb.	Ekmek pişirdim.	ispekao	0	0
+Мој енглески није довољно добар да објасни мој проблем.	İngilizcem, sıkıntılarımı açıklamaya yetecek kadar iyi değil.	објасни	0	0
+У току поподнева ја морам да организујем путовање.	Öğleden sonra gezi için hazırlık yapmalıyım.	току	0	0
+То су за мене шпанска села.	Konuya Fransız kaldım.	села	0	0

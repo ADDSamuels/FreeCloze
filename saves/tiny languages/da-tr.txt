@@ -1,0 +1,1041 @@
+Jeg skal købe en.	Ben bir tane almalıyım.	jeg	0	0
+Hvor lang tid tager det til fods?	Yaya olarak ne kadar zaman alır?	det	0	0
+Er der ikke en anden vej?	Başka bir yolu yok mu?	er	0	0
+Taler du kinesisk?	Çince konuşuyor musun?	du	0	0
+Jeg kan ikke lide at studere.	Ders çalışmayı sevmem.	ikke	0	0
+Tom opfordrede hans søn til at lære fransk.	Tom oğlunu Fransızca öğrenmesi için yüreklendirdi.	at	0	0
+Enhver by i USA har et bibliotek.	Amerika'daki her şehrin bir kütüphanesi vardır.	i	0	0
+Vær venlig at sende en anden kopi.	Lütfen bana bir kopya daha gönder.	en	0	0
+Astronomi handler om stjerner og planeter.	Astronomi yıldızlar ve gezegenler ile ilgilenir.	og	0	0
+Har du nogensinde set en elefant flyve?	Hiç filin uçtuğunu gördün mü?	har	0	0
+Vi vil gøre det selv.	Bunu kendimiz yapacağız.	vi	0	0
+Velkommen til Syrien!	Suriye'ye hoş geldiniz!	til	0	0
+Der er en flaske vin på bordet.	Masanın üzerinde bir şişe şarap var.	på	0	0
+Hvad kostede det?	O neye mal oldu?	hvad	0	0
+Han var tilfreds med resultatet.	Sonuçtan memnundu.	med	0	0
+Sidst jeg så Tom var tre uger siden.	Tom'u en son gördüğümde üç hafta önceydi.	så	0	0
+Tom åbnede for vandhanen.	Tom musluğu açtı.	for	0	0
+Mød mig i nat.	Bu gece benimle buluş.	mig	0	0
+Der mangler noget.	Bir şey eksik.	der	0	0
+Han køber medicin.	O ilaç satın alır.	han	0	0
+Sendte Tom dig?	Tom sana gönderdi mi?	dig	0	0
+De gennemsøgte huset.	Onlar evi aradılar.	de	0	0
+Den hat kostede mig ti dollars.	Bu şapka bana on dolara mal oldu.	den	0	0
+Kan jeg ryge?	Sigara içebilir miyim?	kan	0	0
+Jeg gik glip af mødet.	Toplantıyı kaçırdım.	af	0	0
+Der var mere end en.	Birden daha fazla vardı.	var	0	0
+Han vil aldrig besøge byen igen.	Şehri asla tekrar ziyaret etmeyecek.	vil	0	0
+Det her er den bedste guitar i butikken.	Bu; mağazadaki en iyi gitar.	her	0	0
+Hun tog et andet sted hen for at shoppe.	O, başka bir yere alışverişe gitti.	et	0	0
+Du skal stoppe med at ryge.	Sigara içmeyi bırakmalısın.	skal	0	0
+Problemet er kendt af alle, men ingen taler om det.	Problem herkes tarafından biliniyor ama kimse onun hakkında konuşmuyor.	men	0	0
+Jeg sad ved siden af John.	John'un yanına oturdum.	ved	0	0
+Astronomi handler om stjerner og planeter.	Astronomi yıldızlar ve gezegenler ile ilgilenir.	om	0	0
+Jeg er nu i en anden afdeling.	Şu anda farklı bir departmandayım.	nu	0	0
+Jeg svarede ja.	Evet cevabı verdim.	ja	0	0
+Jeg har lavet de samme fejl som jeg lavede sidste gang.	Geçen defa yaptığım aynı hataları yaptım.	som	0	0
+Hun bliver let forkølet.	O kolayca soğuk alır.	hun	0	0
+Min far ryger sjældent.	Babam nadiren sigara içer.	min	0	0
+Er der noget jeg kan gøre for at hjælpe?	Yardım etmek için yapabileceğim bir şey var mı?	noget	0	0
+De ventede på ham i timevis.	Onu saatlerce beklediler.	ham	0	0
+Lad lysene være tændt.	Işıkları açık bırak.	være	0	0
+Bare fortsæt med at køre.	Sadece sürmeye devam et.	bare	0	0
+Tag din tid.	Acele etmeyin.	din	0	0
+Hvor langt er du henne i graviditeten?	Ne zamandır hamilesin?	hvor	0	0
+Må jeg gå ud og lege?	Ben oynamak için dışarı çıkabilir miyim?	må	0	0
+Hvis jeg var en fugl, ville jeg flyve hen til dig.	Bir kuş olsam, sana uçarım.	hvis	0	0
+Vi beskyttede os selv imod fare.	Tehlikeye karşı kendimizi koruduk.	os	0	0
+Lægen kom med det samme.	Doktor hemen geldi.	kom	0	0
+Fangede du noget sidst du tog ud for at fiske?	Son kez balık tutmaya gittiğinde bir şey yakaladın mı?	ud	0	0
+Send dem til mig.	Onları bana gönder.	dem	0	0
+Paraplyer sælger godt.	Şemsiyeler iyi satılır.	godt	0	0
+Vi fløj fra London til New York.	Londra'dan New York'a uçtuk.	fra	0	0
+Jeg vil have en stor stol.	Büyük bir sandalye istiyorum.	have	0	0
+Hvis jeg var dig så ville jeg straks gå hjem.	Yerinde olsam derhal eve giderim.	ville	0	0
+Gør køkkenet rent.	Mutfağı temizleyin.	gør	0	0
+Hvorfor gjorde de det?	Neden onlar onu yaptılar?	hvorfor	0	0
+Alle havde en hård tid.	Herkes zor zaman geçirdi.	alle	0	0
+Jeg vil lave mine lektier lige efter aftensmaden.	Akşam yemeğinden hemen sonra ev ödevimi yapacağım.	lige	0	0
+Hvad tid står du normalt op om morgenen?	Her sabah genellikle saat kaçta kalkarsın?	op	0	0
+Du er ikke mindre flot end hende.	Ondan daha az güzel değilsin.	hende	0	0
+Hun kan ikke blive enig med sig selv om hun skal få sig et arbejde eller begynde på universitetet.	Çalışmak ya da üniversiteye gitmek arasında karar veremiyorum.	sig	0	0
+Hvordan var frokosten?	Öğle yemeği nasıldı?	hvordan	0	0
+Han tror på livet efter døden.	Ölümden sonraki yaşama inanıyor.	tror	0	0
+Mange tak!	Çok teşekkür ederiz!	tak	0	0
+Tom begyndte at gøre rent.	Tom temizlemeye başladı.	gøre	0	0
+Jeg kunne ikke svare.	Cevap veremedim.	kunne	0	0
+Lad os mødes på tirsdag.	Salı günü buluşalım.	lad	0	0
+Jeg kommer fra fremtiden.	Ben gelecekten geliyorum.	kommer	0	0
+Sidst jeg så ham, havde han det ganske fint.	Onu son gördüğümde, oldukça iyiydi.	havde	0	0
+Spise her eller tage med hjem?	Burada mı, paket mi?	eller	0	0
+Jeg er et meget stabilt geni.	Ben çok dengeli bir dâhiyim.	meget	0	0
+Du vil få en hård tid.	Zor bir zaman geçireceksin.	få	0	0
+Jeg blev gift da jeg var 19 år gammel.	19 yaşına geldiğimde evlendim.	da	0	0
+Ingen spurgte dig.	Kimse seni sormadı.	ingen	0	0
+Gå en tur.	Yürüyüşe çıkın.	gå	0	0
+Går du eller ej?	Gidiyor musun yoksa gitmiyor musun?	går	0	0
+Hvem elsker du?	Kimi seviyorsun?	hvem	0	0
+Hvornår og hvor bliver morgenmad serveret?	Kahvaltı ne zaman ve nerede servis edilmektedir?	bliver	0	0
+Han tror på livet efter døden.	Ölümden sonraki yaşama inanıyor.	efter	0	0
+Hvis du sagde: "Jeg elsker dig", så ville jeg også sige det samme til dig.	Eğer "Seni seviyorum" dersen, ben de aynısını sana söylerim.	sagde	0	0
+Bring Tom tilbage.	Tom'u geri getir.	tilbage	0	0
+Når du lovet noget, må du også overholde det.	Mademki bir söz verdin, onu tutmalısın.	når	0	0
+Du har mistet alt.	Her şeyi kaybettin.	alt	0	0
+Det er måske den sidste gang.	Son kez olabilir.	måske	0	0
+Gendarmer er også mennesker.	Jandarmalar da insandır.	også	0	0
+Jo større de er, jo tungere falder de.	Birlikten kuvvet doğar.	jo	0	0
+Algeriet er mit land.	Cezayir benim ülkem.	mit	0	0
+Vær venlig at gå ind.	Lütfen içeri girin.	ind	0	0
+Der er ikke nogen elevator i vores hus.	Evimizde asansör yok.	vores	0	0
+Hej.	Merhaba.	hej	0	0
+Det er mere end rigeligt.	Bu, yeterli miktardan daha fazla.	mere	0	0
+Tom opfordrede hans søn til at lære fransk.	Tom oğlunu Fransızca öğrenmesi için yüreklendirdi.	hans	0	0
+I skulle alle skamme jer.	Hepiniz kendinizden utanmalısınız.	skulle	0	0
+Jeg blev skilt.	Ben boşandım.	blev	0	0
+Skal du mødes med nogen her?	Burada biriyle buluşacak mısın?	nogen	0	0
+Prøv lidt mere.	Biraz daha dene.	lidt	0	0
+Tom stopper aldrig.	Tom asla durmaz.	aldrig	0	0
+Hvorfor siger alle det?	Neden herkes onu söylüyor?	siger	0	0
+Hun kan ikke blive enig med sig selv om hun skal få sig et arbejde eller begynde på universitetet.	Çalışmak ya da üniversiteye gitmek arasında karar veremiyorum.	selv	0	0
+Far vander blomsterne.	Babam çiçekleri suluyor.	far	0	0
+Tænk over det.	Bunu düşünün.	over	0	0
+Vi har to børn.	Bizim iki çocuğumuz var.	to	0	0
+Hvad fik dig til at tænke sådan?	Sizi böyle düşündüren nedir?	sådan	0	0
+Pigen ser drengen.	Kız oğlanla görüşüyor.	ser	0	0
+Hvad er klokken på dit ur?	Saatinde saat kaç?	dit	0	0
+I skulle alle skamme jer.	Hepiniz kendinizden utanmalısınız.	jer	0	0
+Hun er sit gamle jeg igen.	O tekrar eskisi gibi.	igen	0	0
+Mor blev i bilen mens far handlede ind.	Babam alışveriş yaparken annem arabada kaldı.	mor	0	0
+Grønt går ikke sammen med rødt.	Yeşil kırmızı ile gitmez.	sammen	0	0
+Det tager tid.	Bu zaman alır.	tager	0	0
+Hvor gik den mand hen?	Bu adam nereye gitti?	mand	0	0
+Tag det hele.	Onun hepsini al.	hele	0	0
+De ventede på deres lærer.	Onlar öğretmenlerini beklediler.	deres	0	0
+Jeg var meget træt i dag.	Ben bugün çok yorgundum.	dag	0	0
+Dette job vil tage dobbelt så lang tid som jeg regnede med.	Bu iş beklediğimin iki katı kadar uzun sürecek.	tage	0	0
+Jeg elsker mine søstre.	Kız kardeşlerimi severim.	mine	0	0
+Hvis du sagde: "Jeg elsker dig", så ville jeg også sige det samme til dig.	Eğer "Seni seviyorum" dersen, ben de aynısını sana söylerim.	sige	0	0
+Jeg tror han gjorde det.	Onun onu yaptığını düşünüyorum.	gjorde	0	0
+Fordi de ser fjernsyn.	Çünkü televizyon izliyorlar.	fordi	0	0
+Tom spiser mindre end du tror.	Tom düşünebileceğinizden daha az yer.	end	0	0
+Tænk før du taler.	Konuşmadan önce düşün.	før	0	0
+Jeg har været i Kina i mindre end en måned.	Bir aydan kısa bir süredir Çin'de bulunuyorum.	været	0	0
+Bryd dig ikke om at komme hjem til mig.	Evime gelmek için zahmet etmeyin.	komme	0	0
+Hold dine hænder rene.	Ellerini temiz tut.	hold	0	0
+Send mig ikke væk.	Beni kovmayın.	væk	0	0
+Dette job vil tage dobbelt så lang tid som jeg regnede med.	Bu iş beklediğimin iki katı kadar uzun sürecek.	dette	0	0
+Dette vil ikke blive den sidste gang.	Bu son kez olmayacak.	blive	0	0
+Jeg blev gift da jeg var 19 år gammel.	19 yaşına geldiğimde evlendim.	år	0	0
+Send Tom ned.	Tom'u aşağıya gönder.	ned	0	0
+Hvad fik dig til at tænke sådan?	Sizi böyle düşündüren nedir?	fik	0	0
+Hvor lang tid tager det til fods?	Yaya olarak ne kadar zaman alır?	tid	0	0
+Læs denne bog.	Bu kitabı okuyun.	denne	0	0
+Hun er meget god til at lave mad.	O çok iyi yemek yapar.	god	0	0
+En gang til venligst.	Bir kez daha lütfen.	gang	0	0
+Ret mig hvis jeg laver fejl.	Eğer yanlış yaparsam beni düzelt	laver	0	0
+Nogle af fuglene fløj ikke.	Kuşlardan bazıları uçamadı.	nogle	0	0
+Hun tog et andet sted hen for at shoppe.	O, başka bir yere alışverişe gitti.	sted	0	0
+Mange tak!	Çok teşekkür ederiz!	mange	0	0
+Giv mig dine penge eller jeg tæsker dig.	Bana paranı ver yoksa seni döverim.	dine	0	0
+Han kan tale både engelsk og fransk.	O, hem İngilizce hem Fransızca konuşabilir.	tale	0	0
+Hvad mener du?	Ne düşünüyorsun?	mener	0	0
+Tag det hele.	Onun hepsini al.	tag	0	0
+Vi talte om mange ting.	Birçok şeyden bahsettik.	ting	0	0
+Tom kom hertil for mindre end 10 minutter siden.	Tom on dakikadan daha az bir sürede buraya geldi.	siden	0	0
+Tom vil finde nogen.	Tom birini bulacak.	finde	0	0
+Jeg tror altid på dig.	Ben her zaman sana inanırım.	altid	0	0
+Jeg har brug for den medicin.	O ilaca ihtiyacım var.	brug	0	0
+Tom var stadig i Boston på dette tidspunkt sidste år.	Tom geçen yıl bu zaman hâlâ Boston'daydı.	stadig	0	0
+Bryd dig ikke om at komme hjem til mig.	Evime gelmek için zahmet etmeyin.	hjem	0	0
+Jeg kan virkelig godt lide dette hus.	Bu evi bayağı beğeniyorum.	virkelig	0	0
+Sidst jeg så ham, havde han det ganske fint.	Onu son gördüğümde, oldukça iyiydi.	fint	0	0
+Jeg er nu i en anden afdeling.	Şu anda farklı bir departmandayım.	anden	0	0
+Jeg kender en vej.	Bir yol biliyorum.	kender	0	0
+Alle andre ventede.	Başka herkes bekledi.	andre	0	0
+Jeg elsker semitiske sprog.	Semitik dilleri seviyorum.	elsker	0	0
+Vand er liv.	Su hayattır.	liv	0	0
+Intet er mere vigtigt end helbredet.	Hiçbir şey sağlıktan daha önemli değildir.	intet	0	0
+Hvornår kører det sidste tog?	Son tren saat kaçta?	tog	0	0
+Jeg tror du har ret.	Sanırım sen haklısın.	ret	0	0
+Jeg vil gerne have mere.	Ben daha fazla istiyorum.	gerne	0	0
+Hvordan gjorde du det uden hjælp?	Onu yardım olmadan nasıl yaptın?	uden	0	0
+Hendes hænder er kolde som is.	Onun elleri buz kadar soğuktu.	hendes	0	0
+Jeg kan virkelig godt lide dette hus.	Bu evi bayağı beğeniyorum.	lide	0	0
+Kan jeg hjælpe?	Yardım edebilir miyim?	hjælpe	0	0
+Har du nogensinde set en elefant flyve?	Hiç filin uçtuğunu gördün mü?	set	0	0
+Jeg troede på Tom.	Tom'a inandım.	troede	0	0
+Et, to, tre, fire, fem, seks, syv, otte, ni, ti.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	tre	0	0
+Gud er homo.	Tanrı geydir.	gud	0	0
+Min indkøbstaske gik i stykker.	Alışveriş çantam kırıldı.	gik	0	0
+Er I klar til at flyve?	Uçmak için hazır mısınız?	klar	0	0
+Jeg kan bedre lide brød end ris.	Ekmeği pirinçten daha çok severim.	bedre	0	0
+Jeg kender en vej.	Bir yol biliyorum.	vej	0	0
+Jeg har netop gjort mit værelse rent.	Ben az önce odamı temizledim.	gjort	0	0
+Dette er sidste gang.	Bu, son kez.	sidste	0	0
+Tom svarede med det samme.	Tom hemen cevap verdi.	samme	0	0
+Han tilskriver sin succes hårdt arbejde.	Başarısını çok çalışmaya bağlar.	sin	0	0
+Jeg tror jeg forstår.	Anladığımı düşünüyorum.	forstår	0	0
+Min far kører på arbejde.	Babam işe arabayla gider.	arbejde	0	0
+Jeg har en bus at nå.	Yetişecek bir otobüsüm var.	nå	0	0
+Jeg rejste til Wien for første gang sidste år.	Geçen yıl ilk kez Viyana'ya gittim.	første	0	0
+Giv mig dine penge eller jeg tæsker dig.	Bana paranı ver yoksa seni döverim.	giv	0	0
+Giv mig dine penge eller jeg tæsker dig.	Bana paranı ver yoksa seni döverim.	penge	0	0
+Vær venlig at sende bud efter hjælp.	Lütfen yardım gönderin.	hjælp	0	0
+Hun tog et andet sted hen for at shoppe.	O, başka bir yere alışverişe gitti.	andet	0	0
+Hvor gik den mand hen?	Bu adam nereye gitti?	hen	0	0
+Jeg er glad for at vi er blevet gift.	Evlendiğimize memnun oldum.	blevet	0	0
+Tag jeres sko på.	Ayakkabılarınızı giyin.	jeres	0	0
+Tænk før du taler.	Konuşmadan önce düşün.	taler	0	0
+Hvor længe har du ventet?	Ne kadar bekledin?	længe	0	0
+Er det lørdag i morgen?	Yarın Cumartesi midir?	morgen	0	0
+Vi sov under stjernerne.	Yıldızların altında uyuduk.	under	0	0
+Jeg synes han er ærlig.	Onun dürüst olduğunu sanıyorum.	synes	0	0
+Det her er den bedste guitar i butikken.	Bu; mağazadaki en iyi gitar.	bedste	0	0
+Han står tidligt op.	O erken kalkıyor.	står	0	0
+I er mine venner.	Arkadaşlarımsınız.	venner	0	0
+Jeg ønskede at fortælle dig det.	Sana anlatmak istedim.	fortælle	0	0
+Jeg er ikke sikker.	Emin değilim.	sikker	0	0
+Den som søger, finder.	Arayan bulur.	finder	0	0
+Vær venlig at gøre det på denne måde.	Lütfen onu bu şekilde yapın.	vær	0	0
+Hans navn er kendt af alle i denne by.	Onun adı bu kasabada herkesçe bilinmektedir.	navn	0	0
+Hvad skete der i bussen?	Otobüste ne oldu?	skete	0	0
+Vær venlig at gøre det på denne måde.	Lütfen onu bu şekilde yapın.	måde	0	0
+Tro ikke på Tom.	Tom'a inanma.	tro	0	0
+Hvad hedder dette stoppested?	Bu istasyonun adı nedir?	hedder	0	0
+Du er nødt til at spørge en anden.	Başka birine sormak zorunda kalacaksın.	nødt	0	0
+Hun har flere bøger.	Onun daha çok kitabı var.	flere	0	0
+Ellers andet?	Başka bir şey var mı?	ellers	0	0
+Hvad hedder næste stop?	Gelecek istasyonun adı ne?	stop	0	0
+Jeg vil have en stor stol.	Büyük bir sandalye istiyorum.	stor	0	0
+Han er bange for at flyve i flyvemaskine.	O, bir uçakta uçmaktan korkuyor.	bange	0	0
+Børn bliver let forkølet.	Çocuklar kolaylıkla üşütürler.	børn	0	0
+Hvad hedder næste stop?	Gelecek istasyonun adı ne?	næste	0	0
+Har du valgt en interessant bog til din søn?	Oğlun için ilginç bir kitap seçtin mi?	søn	0	0
+Vi er en familie på fem.	Beş kişilik bir aileyiz.	familie	0	0
+Flyet kom til tiden.	Uçak zamanında geldi.	tiden	0	0
+Hun viste mig sin nye bil.	O, bana yeni arabasını gösterdi.	nye	0	0
+Store drenge græder ikke.	Büyük oğlanlar ağlamaz.	store	0	0
+Jeg så dig lave mad.	Senin yemek pişirmeni gördüm.	lave	0	0
+Jeg drikker aldrig alene.	Asla yalnız içki içmem.	alene	0	0
+Kvinder tjener mindre end mænd.	Kadınlar erkeklerden daha az kazanır.	mænd	0	0
+Kan du møde ham?	Onu görüşebilir misin?	møde	0	0
+Hun er sit gamle jeg igen.	O tekrar eskisi gibi.	gamle	0	0
+Mange mennesker shopper her.	Burada birçok insan alışveriş yapar.	mennesker	0	0
+Vi ses!	Görüşürüz.	ses	0	0
+Hun er allerede vendt tilbage.	O zaten döndü.	allerede	0	0
+Et, to, tre, fire, fem, seks, syv, otte, ni, ti.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	fem	0	0
+Hvornår behandlede du sidst en patient?	En son ne zaman bir hastayı tedavi ettin?	hvornår	0	0
+Tom ønsker svar.	Tom cevapları ister.	ønsker	0	0
+Prisen er rigtig.	Fiyat doğru.	rigtig	0	0
+Jeg er glad for at vi er blevet gift.	Evlendiğimize memnun oldum.	glad	0	0
+I er ikke længere velkomne i mit hjem.	Artık evimde istenmiyorsunuz.	længere	0	0
+Disse bukser er beskidte.	Bu pantolon kirli.	disse	0	0
+Island hørte til Danmark.	İzlanda Danimarka'ya aitti.	hørte	0	0
+Vi vandt begge.	İkimiz de kazandık.	begge	0	0
+Hvem solgte denne bil til dig?	Bu arabayı sana kim sattı?	bil	0	0
+Bliv ikke væk fra hinanden.	Birbirinizden ayrılmayın.	hinanden	0	0
+Går dit ur rigtigt?	Saatin doğru mu?	rigtigt	0	0
+Tom kom hertil for mindre end 10 minutter siden.	Tom on dakikadan daha az bir sürede buraya geldi.	minutter	0	0
+Moderen kildrede sit barn med en fjer.	Anne çocuğunu bir tüy ile gıdıkladı.	barn	0	0
+Jeg har lavet de samme fejl som jeg lavede sidste gang.	Geçen defa yaptığım aynı hataları yaptım.	fejl	0	0
+Kom tilbage senere.	Sonra geri gel.	senere	0	0
+Mor blev i bilen mens far handlede ind.	Babam alışveriş yaparken annem arabada kaldı.	bilen	0	0
+Vi hører med vores ører.	Biz kulaklarımızla duyarız.	hører	0	0
+Et, to, tre, fire, fem, seks, syv, otte, ni, ti.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	fire	0	0
+Kontorets dør er gul.	Ofisin kapısı sarıdır.	dør	0	0
+Gå ud af vores hus.	Evimizden çıkın.	hus	0	0
+Fortæl mig mere.	Bana biraz daha anlat.	fortæl	0	0
+Jeg venter på bus tretten.	13 numaralı otobüsü bekliyorum.	venter	0	0
+Hurtigt er det modsatte af langsomt.	Hızlı, yavaşın zıddıdır.	hurtigt	0	0
+Tooghalvtreds procent af britiske kvinder foretrækker chokolade frem for sex.	Britanyalı kadınların yüzde elli ikisi çikolatayı sekse tercih ediyor.	frem	0	0
+Hvornår kører det sidste tog?	Son tren saat kaçta?	kører	0	0
+Stil dit spørgsmål.	Sorunu sor.	spørgsmål	0	0
+Hvor langt er du henne i graviditeten?	Ne zamandır hamilesin?	langt	0	0
+Han ser ældre ud end min bror.	O benim erkek kardeşimden daha büyük görünüyor.	bror	0	0
+Texas er næsten dobbelt så stor som Japan.	Teksas neredeyse Japonya'nın iki katı kadar büyüktür.	næsten	0	0
+Hvilken vej er nærmest?	Hangi yol en yakın?	hvilken	0	0
+Han vil aldrig besøge byen igen.	Şehri asla tekrar ziyaret etmeyecek.	byen	0	0
+Bliv ikke væk fra hinanden.	Birbirinizden ayrılmayın.	bliv	0	0
+Hvad er meningen med livet?	Hayatın anlamı nedir?	livet	0	0
+Pas på dit hoved!	Kafana dikkat!	pas	0	0
+Tom bør ikke drikke.	Tom içki içmemeli.	bør	0	0
+Der mangler en side.	Eksik bir sayfa var.	side	0	0
+Min mobil ringer.	Telefonum çalıyor.	ringer	0	0
+Jeg er imod krig.	Savaşa karşıyım.	imod	0	0
+Jeg tænker stadig.	Hâlâ düşünüyorum.	tænker	0	0
+Mor blev i bilen mens far handlede ind.	Babam alışveriş yaparken annem arabada kaldı.	mens	0	0
+Tom barberede sit hoved.	Tom başını tıraş etti.	sit	0	0
+Jeg viste Tom vejen.	Tom'a yolu gösterdim	vejen	0	0
+Han havde ondt i hovedet.	Başı ağrıyordu.	ondt	0	0
+Han har en lang næse.	Onun uzun bir burnu vardır.	lang	0	0
+Find et job!	Bir iş bul!	job	0	0
+Han har problemer.	Onun sorunları var.	problemer	0	0
+Vi har mindre end tre timer.	Üç saatten daha az zamanımız var.	timer	0	0
+Mød Hr. Petit.	Bay Petit ile buluş.	hr	0	0
+Tom begyndte at køre.	Tom araba sürmeye başladı.	køre	0	0
+Har du nogensinde røget?	Hiç sigara içtin mi?	nogensinde	0	0
+Han spiste sin morgenmad færdig.	Kahvaltısını bitirdi.	færdig	0	0
+Den hat kostede mig ti dollars.	Bu şapka bana on dolara mal oldu.	ti	0	0
+Manden dræbte kvinden.	Adam kadını öldürdü.	dræbte	0	0
+Jeg blev gift da jeg var 19 år gammel.	19 yaşına geldiğimde evlendim.	gammel	0	0
+Jeg er hjemme.	Ben evdeyim.	hjemme	0	0
+Ferien er nu forbi.	Tatil geçti artık.	forbi	0	0
+Tænk på din fremtid.	Geleceğin hakkında düşün.	tænk	0	0
+De bor i det hus overfor vores.	Bizim evin karşısındaki evde yaşarlar.	bor	0	0
+Jeg så dig lave mad.	Senin yemek pişirmeni gördüm.	mad	0	0
+Jeg sidder og spiser.	Yemek yiyorum.	sidder	0	0
+Lad mig tænke.	Düşüneyim.	tænke	0	0
+Du skal stoppe med at ryge.	Sigara içmeyi bırakmalısın.	stoppe	0	0
+Jeg sad ved siden af John.	John'un yanına oturdum.	john	0	0
+Jeg føler noget.	Ben bir şey hissediyorum.	føler	0	0
+Jeg lever mellem to verdener.	İki dünya arasında yaşıyorum.	mellem	0	0
+Velkommen til Syrien!	Suriye'ye hoş geldiniz!	velkommen	0	0
+Vær venlig at ringe til ham.	Lütfen onu ara.	ringe	0	0
+Jeg hader mig selv.	Kendimden nefret ediyorum.	hader	0	0
+Du kan stole på Jack.	Jack'e güvenebilirsin.	jack	0	0
+Den sorte hund løb.	Siyah köpek koştu.	løb	0	0
+Spise her eller tage med hjem?	Burada mı, paket mi?	spise	0	0
+Jeg vil ikke vente.	Beklemek istemiyorum.	vente	0	0
+Du er ikke mindre flot end hende.	Ondan daha az güzel değilsin.	flot	0	0
+Han slap væk.	Kaçtı.	slap	0	0
+En eller anden bankede på døren.	Biri kapıyı çaldı.	døren	0	0
+Mange mennesker handler ind her.	Burada birçok insan alışveriş yapar.	handler	0	0
+Ring efter hjælp.	Yardım için ara.	ring	0	0
+På hvilket tidspunkt er der aftensmad?	Akşam yemeği saat kaçta?	hvilket	0	0
+Jeg har lavet muffins.	Kekler yaptım.	lavet	0	0
+De gennemsøgte huset.	Onlar evi aradılar.	huset	0	0
+På trods af al sin rigdom og berømmelse, er han ulykkelig.	Bütün serveti ve şöhretine rağmen, o mutsuz.	al	0	0
+Et, to, tre, fire, fem, seks, syv, otte, ni, ti.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	seks	0	0
+Han havde ondt i hovedet.	Başı ağrıyordu.	hovedet	0	0
+Lad os spørge ham.	Onu soralım.	spørge	0	0
+Hvad har Tom i sin hånd?	Tom'un elinde ne var?	hånd	0	0
+Jeg tror på hendes historie.	Ben onun hikayesine inanıyorum.	historie	0	0
+Han lukkede sine øjne.	Gözlerini kapadı.	sine	0	0
+Hold fast i rebet.	İpe tutun.	fast	0	0
+Vi talte om mange ting.	Birçok şeyden bahsettik.	talte	0	0
+Mit rum er dobbelt så stort som dit.	Odam seninkinin iki katı kadar büyük.	stort	0	0
+En af hundene er i live.	Köpeklerden biri canlıdır.	live	0	0
+Jeg købte dette som en gave til min kæreste.	Bunu kız arkadaşım için hediye olarak almıştım.	kæreste	0	0
+Vi fløj fra London til New York.	Londra'dan New York'a uçtuk.	new	0	0
+I begyndelsen skabte Gud himlen og jorden.	Allah önce yeri ve göğü yarattı.	jorden	0	0
+Må jeg gå en tur ud?	Yürüyüş için dışarı çıkabilir miyim?	tur	0	0
+Tooghalvtreds procent af britiske kvinder foretrækker chokolade frem for sex.	Britanyalı kadınların yüzde elli ikisi çikolatayı sekse tercih ediyor.	kvinder	0	0
+Jeg slog min albue.	Dirseğimi incittim.	slog	0	0
+Mød mig i nat.	Bu gece benimle buluş.	nat	0	0
+Hvornår gik du i seng i går aftes?	Dün gece ne zaman yattın?	seng	0	0
+Tom lavede morgenmad.	Tom kahvaltı yaptı.	lavede	0	0
+Jeg blev gift da jeg var 19 år gammel.	19 yaşına geldiğimde evlendim.	gift	0	0
+Tom ringede til alle.	Tom herkesi aradı.	ringede	0	0
+Prøv den en gang mere.	Bir kez daha deneyin.	prøv	0	0
+Jeg er ikke fuld.	Sarhoş değilim.	fuld	0	0
+Tom opfordrede hans søn til at lære fransk.	Tom oğlunu Fransızca öğrenmesi için yüreklendirdi.	lære	0	0
+Vand koger ved 100 grader.	Su 100 derecede kaynar.	vand	0	0
+Store drenge græder ikke.	Büyük oğlanlar ağlamaz.	drenge	0	0
+Tom kom hertil for mindre end 10 minutter siden.	Tom on dakikadan daha az bir sürede buraya geldi.	mindre	0	0
+Marker det rigtige svar.	Doğru cevabı işaretleyin.	rigtige	0	0
+Hun prøvede det selv.	Onu kendisi denedi.	prøvede	0	0
+Vær ved stationen præcis kl. elleve.	Tam 11:00'de istasyonda olun.	præcis	0	0
+Læg bogen ovenpå de andre.	Kitabı diğerlerinin üzerine koy.	læg	0	0
+Han lukkede sine øjne.	Gözlerini kapadı.	øjne	0	0
+Hvad er klokken på dit ur?	Saatinde saat kaç?	klokken	0	0
+Dit svar er forkert.	Cevabın yanlış.	forkert	0	0
+Han tilskriver sin succes hårdt arbejde.	Başarısını çok çalışmaya bağlar.	hårdt	0	0
+Vi ventede på dig hele dagen.	Bütün gün sizi bekledik.	dagen	0	0
+Er jeg smuk eller ej?	Yakışıklı mıyım yoksa değil miyim?	smuk	0	0
+Jeg tror på at kærlighed eksisterer.	Aşkın var olduğuna inanıyorum.	kærlighed	0	0
+Jeg lever mellem to verdener.	İki dünya arasında yaşıyorum.	lever	0	0
+Jeg sov foran TV'et.	Televizyonun karşısında uyudum.	foran	0	0
+Sex er vigtigt for mig.	Seks benim için önemli.	vigtigt	0	0
+Sidst jeg så Tom var tre uger siden.	Tom'u en son gördüğümde üç hafta önceydi.	uger	0	0
+Vis mig mere.	Bana daha fazlasını göster.	vis	0	0
+Har du lyst til at lege gemme?	Saklambaç oynamak ister misin?	lyst	0	0
+Den hat kostede mig ti dollars.	Bu şapka bana on dolara mal oldu.	dollars	0	0
+Hvornår så du sidst dine børn?	Çocuklarınızı en son ne zaman gördünüz?	sidst	0	0
+Find et job!	Bir iş bul!	find	0	0
+Du spørger aldrig.	Sen asla soru sormazsın.	spørger	0	0
+Tro ikke på Tom.	Tom'a inanma.	tom	0	0
+Sikken et overfladisk svar.	Ne yüzeysel bir cevap!	svar	0	0
+Rygning dræber.	Sigara içmek öldürür.	dræber	0	0
+Er jeg smuk eller ej?	Yakışıklı mıyım yoksa değil miyim?	ej	0	0
+Penge kan ikke købe lykke.	Para mutluluğu satın alamaz.	købe	0	0
+Kyoto er værd at besøge.	Kyoto ziyaret etmeye değer.	værd	0	0
+Denne medicin smager meget dårligt.	Bu ilaç çok kötü tadıyor.	dårligt	0	0
+Der findes koalaer i Østrig.	Avusturya'da koala var.	findes	0	0
+Tag det roligt.	Sakin ol.	roligt	0	0
+Hun bliver let forkølet.	O kolayca soğuk alır.	let	0	0
+Han sender os blomster.	O bize çiçekler gönderir.	sender	0	0
+Lad være med at komme ind på mit værelse.	Odama gelme.	værelse	0	0
+Jeg ønsker ikke at mit land skal blive medlem af Den Europæiske Union.	Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	land	0	0
+Tom begyndte at køre.	Tom araba sürmeye başladı.	begyndte	0	0
+Pas på dit hoved!	Kafana dikkat!	hoved	0	0
+Tom er en pålidelig person.	Tom güvenilir bir kişidir.	person	0	0
+Jeg er ikke træt.	Yorgun değilim.	træt	0	0
+Enhver by i USA har et bibliotek.	Amerika'daki her şehrin bir kütüphanesi vardır.	by	0	0
+Manden dræbte kvinden.	Adam kadını öldürdü.	manden	0	0
+Tooghalvtreds procent af britiske kvinder foretrækker chokolade frem for sex.	Britanyalı kadınların yüzde elli ikisi çikolatayı sekse tercih ediyor.	sex	0	0
+Lad os mødes på tirsdag.	Salı günü buluşalım.	mødes	0	0
+Gå hen og skift tøj.	Git üstünü değiştir.	tøj	0	0
+Jeg mangler selvtillid.	Güven eksikliğim var.	mangler	0	0
+Tom ønsker mere kaffe.	Tom daha fazla kahve istiyor.	kaffe	0	0
+Penge kan ikke købe lykke.	Para mutluluğu satın alamaz.	lykke	0	0
+Han arbejdede for hårdt og blev syg.	Çok çalıştı, ve hasta oldu.	syg	0	0
+Vær ved stationen præcis kl. elleve.	Tam 11:00'de istasyonda olun.	kl	0	0
+Vask dine hænder.	Ellerini temizle.	hænder	0	0
+Vi fløj fra London til New York.	Londra'dan New York'a uçtuk.	york	0	0
+Jeg er imod krig.	Savaşa karşıyım.	krig	0	0
+Tal langsommere.	Daha yavaş konuşun.	tal	0	0
+Jeg kan ikke skrive mere.	Artık yazamam.	skrive	0	0
+Han spurgte efter dig.	O senin halini hatırını sordu.	spurgte	0	0
+En, to, tre, fire, fem, seks, syv, otte, ni, ti.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	syv	0	0
+Jo større de er, jo tungere falder de.	Birlikten kuvvet doğar.	større	0	0
+Jeg sidder og spiser.	Yemek yiyorum.	spiser	0	0
+Den sorte hund løb.	Siyah köpek koştu.	hund	0	0
+Bare træk dig tilbage.	Sadece geri hareket edin.	træk	0	0
+Uanset hvad, taber du.	Her halükarda kaybedersin.	uanset	0	0
+Hvor sendte de dig hen?	Seni nereye gönderdiler?	sendte	0	0
+Tom bør ikke drikke.	Tom içki içmemeli.	drikke	0	0
+Ken har for travlt til at komme.	Ken gelmek için çok meşgul.	travlt	0	0
+Jeg vil tage afsted til fods.	Ben yaya gideceğim.	afsted	0	0
+Jeg vil gerne komme til jeres fest.	Partinize gelmek istiyorum.	fest	0	0
+Drej til venstre her.	Burada sola dön.	venstre	0	0
+Jeg vil gøre det, hvis de betaler mig.	Onlar bana ödeme yaparsa, onu yaparım.	betaler	0	0
+Jeg bør læse bogen.	Kitabı okumalıyım.	læse	0	0
+Han blev vred.	O sinirlendi.	vred	0	0
+Du kan stole på Jack.	Jack'e güvenebilirsin.	stole	0	0
+Pigerne grinte højt.	Kızlar yüksek sesle güldü.	højt	0	0
+Jeg drejede til højre.	Ben sağa döndüm.	højre	0	0
+Jeg står til Deres tjeneste.	Size hizmet etmeye hazırım.	tjeneste	0	0
+Tom kom hertil for mindre end 10 minutter siden.	Tom on dakikadan daha az bir sürede buraya geldi.	hertil	0	0
+Hvis jeg var dig så ville jeg straks gå hjem.	Yerinde olsam derhal eve giderim.	straks	0	0
+Lyt til mit råd!	Tavsiyemi dinle!	råd	0	0
+Et, to, tre, fire, fem, seks, syv, otte, ni, ti.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	otte	0	0
+Vær venlig at sende mig et brev.	Lütfen bana bir mektup gönder.	sende	0	0
+Vær venlig at forklare det.	Lütfen bunu açıklayın.	forklare	0	0
+Jeg har sendt et billede af min hund til Tom.	Tom'a köpeğimin fotoğrafını yolladım.	sendt	0	0
+Tingene blev mærkelige.	İşler tuhaflaştı.	tingene	0	0
+Pigen ser drengen.	Kız oğlanla görüşüyor.	pigen	0	0
+"Er hun ung?" "Ja, det er hun."	"O genç mi?" "Evet, genç."	ung	0	0
+Send mig dit billede.	Bana resmini gönder.	billede	0	0
+Send børnene i seng.	Çocukları yatağa gönder.	børnene	0	0
+Hvad tid står du normalt op om morgenen?	Her sabah genellikle saat kaçta kalkarsın?	normalt	0	0
+Jeg solgte en bog.	Ben bir kitap sattım.	bog	0	0
+Hvem mødte du?	Kimle tanıştın?	mødte	0	0
+Mine hunde er hvide.	Benim köpeklerim beyaz.	hvide	0	0
+Du har mistet alt.	Her şeyi kaybettin.	mistet	0	0
+Vi er alle dyr.	Hepimiz hayvanız.	dyr	0	0
+Tom sover ikke her.	Tom burada uyumaz.	sover	0	0
+Tom stopper aldrig.	Tom asla durmaz.	stopper	0	0
+Hun kan ikke blive enig med sig selv om hun skal få sig et arbejde eller begynde på universitetet.	Çalışmak ya da üniversiteye gitmek arasında karar veremiyorum.	begynde	0	0
+Hvornår gik du i seng i går aftes?	Dün gece ne zaman yattın?	aftes	0	0
+De ventede på deres lærer.	Onlar öğretmenlerini beklediler.	lærer	0	0
+Hans navn er kendt af alle i denne by.	Onun adı bu kasabada herkesçe bilinmektedir.	kendt	0	0
+Han stiller hele tiden dumme spørgsmål.	O her zaman aptal sorular soruyor.	dumme	0	0
+Enhver by i USA har et bibliotek.	Amerika'daki her şehrin bir kütüphanesi vardır.	usa	0	0
+Du kan kalde mig Tom.	Bana Tom diyebilirsin.	kalde	0	0
+Jeg skriver et brev til Tom.	Tom'a mektup yazıyorum.	skriver	0	0
+Han arbejdede for hårdt og blev syg.	Çok çalıştı, ve hasta oldu.	arbejdede	0	0
+Tom var stadig i Boston på dette tidspunkt sidste år.	Tom geçen yıl bu zaman hâlâ Boston'daydı.	tidspunkt	0	0
+Jo større de er, jo tungere falder de.	Birlikten kuvvet doğar.	falder	0	0
+Hent en skovl.	Bir kürek getir!	hent	0	0
+Problemet er kendt af alle, men ingen taler om det.	Problem herkes tarafından biliniyor ama kimse onun hakkında konuşmuyor.	problemet	0	0
+Jeg sad ved siden af John.	John'un yanına oturdum.	sad	0	0
+Vi beskyttede os selv imod fare.	Tehlikeye karşı kendimizi koruduk.	fare	0	0
+Han tror det er umuligt for mig at bestige bjerget alene.	O benim dağa tek başıma tırmanmamın imkansız olduğunu düşünüyor.	umuligt	0	0
+Du havde ikke behøvet at komme så tidligt.	O kadar erken gelmek zorunda değildin.	tidligt	0	0
+Hunden løber over vejen.	Köpek sokağın karşısına geçiyor.	løber	0	0
+Tom begyndte at gøre rent.	Tom temizlemeye başladı.	rent	0	0
+Enhver by i USA har et bibliotek.	Amerika'daki her şehrin bir kütüphanesi vardır.	enhver	0	0
+Jeg har netop gjort mit værelse rent.	Ben az önce odamı temizledim.	netop	0	0
+Han tror på livet efter døden.	Ölümden sonraki yaşama inanıyor.	døden	0	0
+Tom bestilte en drink.	Tom bir içki ısmarladı.	drink	0	0
+Vi har alting.	Her şeyimiz var.	alting	0	0
+Han lovede at sælge.	O, satmak için söz verdi.	sælge	0	0
+Den sorte hund løb.	Siyah köpek koştu.	sorte	0	0
+Egypten er en gave fra Nilen.	Mısır Nil'in hediyesidir.	gave	0	0
+Bare fortsæt med at køre.	Sadece sürmeye devam et.	fortsæt	0	0
+Stil dit spørgsmål.	Sorunu sor.	stil	0	0
+Tom glemte at tage sin medicin i morges.	Tom bu sabah ilacını almayı unuttu.	glemte	0	0
+Er denne restaurant åben?	Bu restoran açık mı?	åben	0	0
+Butikken er lukket i dag.	Dükkân bugün kapalı.	lukket	0	0
+Susan ryger aldrig.	Susan hiç sigara içmez.	ryger	0	0
+Tom vil finde Mary.	Tom, Mary'yi bulacak.	mary	0	0
+Han fortjener mere.	O daha fazlasını hak ediyor.	fortjener	0	0
+Han kan tale både engelsk og fransk.	O, hem İngilizce hem Fransızca konuşabilir.	både	0	0
+Tom virkede forvirret.	Tom kafası karışmış görünüyor.	virkede	0	0
+Har du valgt en interessant bog til din søn?	Oğlun için ilginç bir kitap seçtin mi?	interessant	0	0
+Jeg har været overalt.	Her yerdeydim.	overalt	0	0
+Lufthavnen er derovre.	Havaalanı orada.	derovre	0	0
+Jeg ønskede at fortælle dig det.	Sana anlatmak istedim.	ønskede	0	0
+Min indkøbstaske gik i stykker.	Alışveriş çantam kırıldı.	stykker	0	0
+Han køber medicin.	O ilaç satın alır.	køber	0	0
+Er den blå?	Mavi mi?	blå	0	0
+Journalist: Købte De en kattekilling til hende?	Muhabir: Ona bir yavru kedi mi almıştınız?	købte	0	0
+Jeg sælger computere.	Bilgisayar satarım.	sælger	0	0
+Allan forlod os.	Allan bizi terk etti.	forlod	0	0
+Hvem har skrevet "Fyrsten"?	"Prens"i kim yazdı?	skrevet	0	0
+Jeg flyttede i sidste måned.	Ben geçen ay taşındım.	måned	0	0
+Send mig dit billede.	Bana resmini gönder.	send	0	0
+Jeg synes han er ærlig.	Onun dürüst olduğunu sanıyorum.	ærlig	0	0
+Han lå på sengen.	O, yatakta yatıyordu.	lå	0	0
+Hvidt brød, tak.	Beyaz ekmek, lütfen.	brød	0	0
+Han lovede at sælge.	O, satmak için söz verdi.	lovede	0	0
+Han drikker ikke.	O içki içmez.	drikker	0	0
+Et, to, tre, fire, fem, seks, syv, otte, ni, ti.	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	ni	0	0
+Spørg politimanden om vej.	Polise yolu sor.	spørg	0	0
+Tom glemte at tage sin medicin i morges.	Tom bu sabah ilacını almayı unuttu.	morges	0	0
+Lyset er tændt.	Işık açık.	lyset	0	0
+Min hund er ren.	Köpeğim temizdir.	ren	0	0
+Jeg sov foran TV'et.	Televizyonun karşısında uyudum.	sov	0	0
+Vi havde møder.	Toplantılarımız vardı.	møder	0	0
+Jeg viste Tom vejen.	Tom'a yolu gösterdim	viste	0	0
+Har du lyst til at lege gemme?	Saklambaç oynamak ister misin?	lege	0	0
+Uanset hvad, taber du.	Her halükarda kaybedersin.	taber	0	0
+Jeg vil have en stor stol.	Büyük bir sandalye istiyorum.	stol	0	0
+Jeg havde en hård tid.	Zor bir zaman geçirdim.	hård	0	0
+Tom gik ud på gaden.	Tom caddeye çıktı.	gaden	0	0
+Jim har brede skuldre.	Jim'in geniş omuzları var.	jim	0	0
+Pigen ser drengen.	Kız oğlanı görüyor.	drengen	0	0
+Tom tjener dobbelt så meget som Mary.	Tom Mary'nin iki katı kadar çok kazanır.	tjener	0	0
+Fart på.	Acele et.	fart	0	0
+Jeg kommer fra fremtiden.	Ben gelecekten geliyorum.	fremtiden	0	0
+Vær venlig at sende mig et brev.	Lütfen bana bir mektup gönder.	venlig	0	0
+Udover det, kan jeg flyve.	Ek olarak, uçabilirim.	flyve	0	0
+Karen tog selv derhen.	Karen oraya kendisi gitti.	derhen	0	0
+Tag jeres sko på.	Ayakkabılarınızı giyin.	sko	0	0
+Hun kan ikke blive enig med sig selv om hun skal få sig et arbejde eller begynde på universitetet.	Çalışmak ya da üniversiteye gitmek arasında karar veremiyorum.	enig	0	0
+Han plejede at drikke.	O eskiden içerdi.	plejede	0	0
+Det er farligt at drikke for meget.	Çok fazla içmek tehlikelidir.	farligt	0	0
+Den som søger, finder.	Arayan bulur.	søger	0	0
+Vi vandt begge.	İkimiz de kazandık.	vandt	0	0
+Hvilken vej valgte du?	Hangi yolu seçtin?	valgte	0	0
+Er du begyndt at lære engelsk?	İngilizce çalışmaya başladın mı?	begyndt	0	0
+Besøg os i morgen.	Bizi yarın ziyaret edin.	besøg	0	0
+Jesus svarede dem.	İsa onlara cevap verdi.	jesus	0	0
+Hvad blev der serveret til festen?	Partide ne servis edildi?	festen	0	0
+I begyndelsen skabte Gud himlen og jorden.	Allah önce yeri ve göğü yarattı.	himlen	0	0
+Hendes hænder er kolde som is.	Onun elleri buz kadar soğuktu.	is	0	0
+Du er ganske klog.	Oldukça zekisin.	klog	0	0
+Læser du ikke avis?	Gazete okumaz mısın?	læser	0	0
+Jeg har købt en Picasso.	Bir Picasso tablosu satın aldım.	købt	0	0
+Flyet kom til tiden.	Uçak zamanında geldi.	flyet	0	0
+Mit rum er dobbelt så stort som dit.	Odam seninkinin iki katı kadar büyük.	rum	0	0
+Hvor længe har du ventet?	Ne kadar bekledin?	ventet	0	0
+Tom følte sig forvirret.	Tom şaşırmış hissetti.	følte	0	0
+Jeg har ondt i ryggen.	Sırtım ağrıyor.	ryggen	0	0
+Læg bogen ovenpå de andre.	Kitabı diğerlerinin üzerine koy.	ovenpå	0	0
+Jeg har brug for den medicin.	O ilaca ihtiyacım var.	medicin	0	0
+Kirsebær er røde.	Kirazlar kırmızıdır.	røde	0	0
+Hvornår var det vi mødtes sidste gang?	En son ne zaman karşılaştık?	mødtes	0	0
+Tænk på din fremtid.	Geleceğin hakkında düşün.	fremtid	0	0
+Vær venlig at tale højere.	Lütfen daha yüksek sesle konuşun.	højere	0	0
+En gang til venligst.	Bir kez daha lütfen.	venligst	0	0
+Han har virkelig ændret sig siden sidste gang.	O gerçekten son zamandan beri çok değişti.	ændret	0	0
+Han lå på sengen.	O, yatakta yatıyordu.	sengen	0	0
+De ventede på ham i timevis.	Onu saatlerce beklediler.	ventede	0	0
+Kald på lægen!	Doktor çağır!	lægen	0	0
+Vi fløj fra London til New York.	Londra'dan New York'a uçtuk.	london	0	0
+Den var hvid.	Beyazdı.	hvid	0	0
+Min mave er fyldt op.	Midem dolu.	fyldt	0	0
+Jeg har det varmt.	Sıcak hissediyorum.	varmt	0	0
+Vær venlig at støtte mig!	Lütfen beni destekleyin!	støtte	0	0
+Hvad er meningen med livet?	Hayatın anlamı nedir?	meningen	0	0
+Kald på lægen!	Doktor çağır!	kald	0	0
+Han ser ældre ud end min bror.	O benim erkek kardeşimden daha büyük görünüyor.	ældre	0	0
+Fuglen flyver i værelset.	Kuş odada uçuyor.	flyver	0	0
+Solen er varm.	Güneş sıcaktır.	solen	0	0
+Du har en smuk hest.	Atın güzel.	hest	0	0
+Der hænger et ur på væggen.	Duvarda bir saat var.	hænger	0	0
+Pigerne grinte højt.	Kızlar yüksek sesle güldü.	pigerne	0	0
+Vend denne vej.	Bu şekilde çevirin.	vend	0	0
+Katte fanger mus.	Kediler fareleri yakalar.	fanger	0	0
+Der er en flaske vin på bordet.	Masanın üzerinde bir şişe şarap var.	vin	0	0
+Vi lugter med vores næser.	Burunlarımızla koklarız.	lugter	0	0
+Jeg gik glip af mødet.	Toplantıyı kaçırdım.	glip	0	0
+Hvad koster det?	Fiyatı ne kadar?	koster	0	0
+Denne hat tilhører Tom.	Bu şapka Tom'a aittir.	tilhører	0	0
+På bordet var der en kat.	Masanın üzerinde bir kedi var.	bordet	0	0
+Jeg kunne ikke svare.	Cevap veremedim.	svare	0	0
+Læg bogen ovenpå de andre.	Kitabı diğerlerinin üzerine koy.	bogen	0	0
+Bring nøglen.	Anahtarı getir.	nøglen	0	0
+Hvor langt er du henne i graviditeten?	Ne zamandır hamilesin?	henne	0	0
+Lyt til mit råd!	Tavsiyemi dinle!	lyt	0	0
+Du er ganske klog.	Oldukça zekisin.	ganske	0	0
+Han vil aldrig besøge byen igen.	Şehri asla tekrar ziyaret etmeyecek.	besøge	0	0
+Er engelsk sværere end japansk?	İngilizce Japoncadan daha zor mu?	engelsk	0	0
+Han stiller hele tiden dumme spørgsmål.	O her zaman aptal sorular soruyor.	stiller	0	0
+Tirsdag var det virkelig koldt.	Salı kesinlikle soğuktu.	koldt	0	0
+Du brød reglerne.	Kurallara karşı geldin.	reglerne	0	0
+Tom kommer herhen.	Tom buraya geliyor.	herhen	0	0
+Jeg skriver et brev til Tom.	Tom'a mektup yazıyorum.	brev	0	0
+Tooghalvtreds procent af britiske kvinder foretrækker chokolade frem for sex.	Britanyalı kadınların yüzde elli ikisi çikolatayı sekse tercih ediyor.	procent	0	0
+Amerika er tilbage!	Amerika geri döndü!	amerika	0	0
+Tom trådte på min fod.	Tom ayağıma bastı.	fod	0	0
+Solen er varm.	Güneş sıcaktır.	varm	0	0
+Tom lavede morgenmad.	Tom kahvaltı yaptı.	morgenmad	0	0
+Svaret irriterede mig.	Cevap beni öfkelendirdi.	svaret	0	0
+Hans svar var ikke korrekt.	Onun cevabı doğru değildi.	korrekt	0	0
+Hun gik langsomt fremad.	O, yavaşça ilerledi.	langsomt	0	0
+Tom kom nærmere.	Tom yakınlaştı.	nærmere	0	0
+Guld vejer mere end jern.	Altın, demirden daha fazla çeker.	guld	0	0
+Lad os lege gemme!	Hadi saklambaç oynayalım!	gemme	0	0
+Faren er ovre.	Tehlike bitti.	ovre	0	0
+Dens farve er rød.	Onun rengi kırmızıdır.	dens	0	0
+Tag en pause.	Bir mola verin.	pause	0	0
+Bank på døren.	Kapıyı çal.	bank	0	0
+Har du valgt en interessant bog til din søn?	Oğlun için ilginç bir kitap seçtin mi?	valgt	0	0
+De bor i det hus overfor vores.	Bizim evin karşısındaki evde yaşarlar.	overfor	0	0
+Han er ikke soldat.	O asker değil.	soldat	0	0
+På trods af al sin rigdom og berømmelse, er han ulykkelig.	Bütün serveti ve şöhretine rağmen, o mutsuz.	trods	0	0
+Mine bøger er nye.	Benim kitaplarım yeni.	bøger	0	0
+Hold dine hænder rene.	Ellerini temiz tut.	rene	0	0
+Manden dræbte kvinden.	Adam kadını öldürdü.	kvinden	0	0
+Tom flyttede tættere på.	Tom daha yakına taşındı.	flyttede	0	0
+Vores ægteskab er ovre.	Evliliğimiz bitti.	ægteskab	0	0
+Hvad skal jeg gøre, hvis jeg bliver angrebet af en gråbjørn?	Bir bozayı tarafından saldırıya uğrarsam ne yapmalıyım?	angrebet	0	0
+Jeg blev skilt.	Ben boşandım.	skilt	0	0
+Hvornår betalte du sidste gang en bøde?	En son ne zaman bir para cezası ödedin?	betalte	0	0
+Min blyant er rød.	Kalemim kırmızı.	rød	0	0
+Han hoppede på toget.	O, trene atladı.	toget	0	0
+Spis flere grøntsager.	Daha fazla sebze ye.	spis	0	0
+Jeg spiste det.	Onu yedim.	spiste	0	0
+Jeg har en kat.	Benim bir kedim var.	kat	0	0
+Han kan ikke lide æg.	Yumurta sevmez.	æg	0	0
+Drik mere vand.	Daha fazla su iç.	drik	0	0
+Spørgsmålet blev besvaret.	Soru cevaplandı.	spørgsmålet	0	0
+Drengene løber hen til stranden.	Çocuklar sahile doğru koşuyor.	drengene	0	0
+Vær venlig at sende bud efter hjælp.	Lütfen yardım gönderin.	bud	0	0
+Hun gik langsomt fremad.	O, yavaşça ilerledi.	fremad	0	0
+Jeg solgte en bog.	Ben bir kitap sattım.	solgte	0	0
+Kom ikke ind i køkkenet.	Mutfağa gelmeyin.	køkkenet	0	0
+Mine hunde er hvide.	Benim köpeklerim beyaz.	hunde	0	0
+Denne medicin smager meget dårligt.	Bu ilaç çok kötü tadıyor.	smager	0	0
+Han lukkede sine øjne.	Gözlerini kapadı.	lukkede	0	0
+Er det fredag i dag?	Bugün Cuma mı?	fredag	0	0
+Denne kniv skærer ikke godt.	Bu bıçak iyi kesmez.	kniv	0	0
+Jeg rejste til Wien for første gang sidste år.	Geçen yıl ilk kez Viyana'ya gittim.	rejste	0	0
+Tooghalvtreds procent af britiske kvinder foretrækker chokolade frem for sex.	Britanyalı kadınların yüzde elli ikisi çikolatayı sekse tercih ediyor.	foretrækker	0	0
+Han tilskriver sin succes hårdt arbejde.	Başarısını çok çalışmaya bağlar.	succes	0	0
+Jeg har købt dette kamera for 35000 yen.	Bu kamerayı 35,000 yene satın aldım.	kamera	0	0
+Vær venlig at sende os mere information.	Lütfen bize daha fazla bilgi gönderin.	information	0	0
+Min mobil ringer.	Telefonum çalıyor.	mobil	0	0
+Vi er stærkere.	Daha güçlüyüz.	stærkere	0	0
+En kanin har lange ører.	Bir tavşanın uzun kulakları vardır.	lange	0	0
+Jeg nægter at svare.	Cevap vermeyi reddediyorum.	nægter	0	0
+Tom flyttede tættere på.	Tom daha yakına taşındı.	tættere	0	0
+Mit knæ bløder.	Dizim kanıyor.	knæ	0	0
+Snegle bevæger sig langsomt.	Salyangozlar yavaş hareket eder.	bevæger	0	0
+Mit rum er dobbelt så stort som dit.	Odam seninkinin iki katı kadar büyük.	dobbelt	0	0
+Du skal stoppe med at ryge.	Sigara içmeyi bırakmalısın.	ryge	0	0
+Spørg mig om noget lettere.	Bana daha kolay bir şey sor.	lettere	0	0
+Hvad skete der i bussen?	Otobüste ne oldu?	bussen	0	0
+Jeg hedder Robin.	Benim adım Robin.	robin	0	0
+Aftensmaden dufter lækkert.	Akşam yemeği nefis kokuyor.	lækkert	0	0
+Prisen er rigtig.	Fiyat doğru.	prisen	0	0
+Hunden løber over vejen.	Köpek sokağın karşısına geçiyor.	hunden	0	0
+Er det lørdag i morgen?	Yarın Cumartesi midir?	lørdag	0	0
+Tag din hat på.	Şapkanı giy.	hat	0	0
+Tom bragte blomster.	Tom çiçekler getirdi.	blomster	0	0
+Læs denne bog.	Bu kitabı okuyun.	læs	0	0
+Der er en flaske vin på bordet.	Masanın üzerinde bir şişe şarap var.	flaske	0	0
+Disse bukser er beskidte.	Bu pantolon kirli.	bukser	0	0
+Han var tilfreds med resultatet.	Sonuçtan memnundu.	tilfreds	0	0
+Vi legede på stranden.	Biz sahilde oynadık.	stranden	0	0
+Lucy besøger af og til May.	Lucy ara sıra May'i ziyaret eder.	lucy	0	0
+I begyndelsen skabte Gud himlen og jorden.	Allah önce yeri ve göğü yarattı.	begyndelsen	0	0
+Susan ryger aldrig.	Susan hiç sigara içmez.	susan	0	0
+Har du en løsning?	Bir çözümün var mı?	løsning	0	0
+Jeg er forvirret.	Kafam karıştı.	forvirret	0	0
+Vær ved stationen præcis kl. elleve.	Tam 11:00'de istasyonda olun.	stationen	0	0
+Mød mig nedenunder.	Benimle alt katta buluş.	nedenunder	0	0
+Store drenge græder ikke.	Büyük oğlanlar ağlamaz.	græder	0	0
+Jeg elsker semitiske sprog.	Semitik dilleri seviyorum.	sprog	0	0
+Jeg har et forslag.	Benim bir önerim var.	forslag	0	0
+Pas på dine fingre!	Parmaklarına dikkat et!	fingre	0	0
+I begyndelsen skabte Gud himlen og jorden.	Allah önce yeri ve göğü yarattı.	skabte	0	0
+Jeg er nu i en anden afdeling.	Şu anda farklı bir departmandayım.	afdeling	0	0
+Mødet var lukket.	Toplantı kapatıldı.	mødet	0	0
+Mød mig i nat.	Bu gece benimle buluş.	mød	0	0
+Hvornår behandlede du sidst en patient?	En son ne zaman bir hastayı tedavi ettin?	patient	0	0
+Der hænger et ur på væggen.	Duvarda bir saat var.	væggen	0	0
+Jeg tror du gik i panik.	Paniklediğini düşünüyorum.	panik	0	0
+Han sælger os papir.	Bize kâğıt satıyor.	papir	0	0
+Hvad tid står du normalt op om morgenen?	Her sabah genellikle saat kaçta kalkarsın?	morgenen	0	0
+Lufthavnen er derovre.	Havaalanı orada.	lufthavnen	0	0
+Nogle af fuglene fløj ikke.	Kuşlardan bazıları uçamadı.	fløj	0	0
+Det lykkedes mig at nå det sidste tog.	Son treni yakalamayı başardım.	lykkedes	0	0
+Dette job vil tage dobbelt så lang tid som jeg regnede med.	Bu iş beklediğimin iki katı kadar uzun sürecek.	regnede	0	0
+Aftensmaden var fremragende.	Akşam yemeği harikaydı.	fremragende	0	0
+Hvor mange æbler var der i kassen?	Kutuda kaç tane elma vardı?	kassen	0	0
+Texas er næsten dobbelt så stor som Japan.	Teksas neredeyse Japonya'nın iki katı kadar büyüktür.	texas	0	0
+Nu er hun ikke længere ensom.	Artık yalnız değil.	ensom	0	0
+Når du lovet noget, må du også overholde det.	Mademki bir söz verdin, onu tutmalısın.	lovet	0	0
+Tom bragte blomster.	Tom çiçekler getirdi.	bragte	0	0
+Karen tog selv derhen.	Karen oraya kendisi gitti.	karen	0	0
+Lad os ikke diskutere mere.	Artık tartışmayalım.	diskutere	0	0
+Dens farve er rød.	Onun rengi kırmızıdır.	farve	0	0
+Drej til venstre ved hjørnet.	Köşede sola dön.	hjørnet	0	0
+Tag din jakke af.	Ceketini çıkar.	jakke	0	0
+Fuglen flyver i værelset.	Kuş odada uçuyor.	værelset	0	0
+Fangede du noget sidst du tog ud for at fiske?	Son kez balık tutmaya gittiğinde bir şey yakaladın mı?	fangede	0	0
+Det her er den bedste guitar i butikken.	Bu; mağazadaki en iyi gitar.	butikken	0	0
+Disse bukser er beskidte.	Bu pantolon kirli.	beskidte	0	0
+Europa eksisterer ikke.	Avrupa yok.	eksisterer	0	0
+Vand koger ved 100 grader.	Su 100 derecede kaynar.	grader	0	0
+Tom åbnede skabet.	Tom dolabı açtı.	åbnede	0	0
+Tom brækkede min næse.	Tom burnumu kırdı.	næse	0	0
+Sikken et overfladisk svar.	Ne yüzeysel bir cevap!	sikken	0	0
+Hvad er klokken på dit ur?	Saatinde saat kaç?	ur	0	0
+Jeg elsker Toms restaurant.	Tom'un restoranını severim!	restaurant	0	0
+Lyset er tændt.	Işık açık.	tændt	0	0
+Er babyen vågnet op?	Bebek uyandı mı?	babyen	0	0
+Denne kniv skærer ikke godt.	Bu bıçak iyi kesmez.	skærer	0	0
+Mor blev i bilen mens far handlede ind.	Babam alışveriş yaparken annem arabada kaldı.	handlede	0	0
+Lær fransk.	Fransızca öğren.	fransk	0	0
+Køb den ikke.	Onu satın almayın.	køb	0	0
+Vi inviterede ham til vores hus.	Biz onu evimize davet ettik.	inviterede	0	0
+Hvad hedder denne ø?	Bu adanın adı ne?	ø	0	0
+Denne fugl kan ikke flyve.	Bu kuş uçamaz.	fugl	0	0
+Jeg ønsker ikke at mit land skal blive medlem af Den Europæiske Union.	Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	medlem	0	0
+Medicinskabet står åbent!	Fermuarın açık!	åbent	0	0
+Hun er over tyve.	O yirminin üzerinde.	tyve	0	0
+To kaffe med mælk, tak.	İki sütlü kahve, lütfen.	mælk	0	0
+De sælger slik.	Şeker satıyorlar.	slik	0	0
+Jeg har været i Kina i mindre end en måned.	Bir aydan kısa bir süredir Çin'de bulunuyorum.	kina	0	0
+Hun er allerede vendt tilbage.	O zaten döndü.	vendt	0	0
+Europa eksisterer ikke.	Avrupa yok.	europa	0	0
+Hvilken vej er nærmest?	Hangi yol en yakın?	nærmest	0	0
+Jeg skar mig selv.	Kendimi kestim.	skar	0	0
+Vi betragtede ham som et geni.	Biz onu zeki olarak düşündük.	geni	0	0
+Tom svarede med det samme.	Tom hemen cevap verdi.	svarede	0	0
+Kvalitet er vigtigere end kvantitet.	Nitelik, nicelikten önemlidir.	vigtigere	0	0
+Tom fortsatte med at bevæge sig.	Tom hareket etmeye devam etti.	bevæge	0	0
+Drej til venstre ved hjørnet.	Köşede sola dön.	drej	0	0
+Vær venlig at vaske disse tallerkener op.	Lütfen bu tabakları yıka.	vaske	0	0
+Min mave er fyldt op.	Midem dolu.	mave	0	0
+Vær venlig at sende en anden kopi.	Lütfen bana bir kopya daha gönder.	kopi	0	0
+Mit knæ bløder.	Dizim kanıyor.	bløder	0	0
+Min far ryger sjældent.	Babam nadiren sigara içer.	sjældent	0	0
+Jeg elsker mine søstre.	Kız kardeşlerimi severim.	søstre	0	0
+De er læger.	Onlar doktordur.	læger	0	0
+Har du brug for en ambulance?	Ambulansa ihtiyacın var mı?	ambulance	0	0
+Tom forventede mere.	Tom daha fazla umuyordu.	forventede	0	0
+Udover det, kan jeg flyve.	Ek olarak, uçabilirim.	udover	0	0
+Det afhænger af sammenhængen.	Bu, bağlama bağlıdır.	afhænger	0	0
+Jeg har ondt i armen.	Kolum ağrıyor.	armen	0	0
+Hendes hænder er kolde som is.	Onun elleri buz kadar soğuktu.	kolde	0	0
+Hun kan ikke blive enig med sig selv om hun skal få sig et arbejde eller begynde på universitetet.	Çalışmak ya da üniversiteye gitmek arasında karar veremiyorum.	universitetet	0	0
+Tooghalvtreds procent af britiske kvinder foretrækker chokolade frem for sex.	Britanyalı kadınların yüzde elli ikisi çikolatayı sekse tercih ediyor.	chokolade	0	0
+Han elsker legetøj.	O oyuncakları sever.	legetøj	0	0
+Sukker har vi ikke.	Bizde şeker yok.	sukker	0	0
+Tyskland er ikke Kurdistan.	Almanya Kürdistan değildir.	tyskland	0	0
+Jeg fryser.	Üşüyorum.	fryser	0	0
+Skønhed er subjektivt.	Güzellik özneldir.	skønhed	0	0
+Jeg dækkede mine ører.	Kulaklarımı kapattım.	ører	0	0
+Tom brækkede min næse.	Tom burnumu kırdı.	brækkede	0	0
+Damen er over firs.	Bayan seksenin üzerinde.	damen	0	0
+Du er en god kunde.	Sen iyi bir müşterisin.	kunde	0	0
+Han er skuespiller.	O bir aktör.	skuespiller	0	0
+De besøgte os.	Bizi ziyaret ettiler.	besøgte	0	0
+Tirsdag var det virkelig koldt.	Salı kesinlikle soğuktu.	tirsdag	0	0
+Tom åbnede skabet.	Tom dolabı açtı.	skabet	0	0
+Vi plukkede blomster i haven.	Bahçede çiçek kopardık.	haven	0	0
+Han er en tyv.	O bir hırsızdır.	tyv	0	0
+Jeg venter på bus tretten.	13 numaralı otobüsü bekliyorum.	bus	0	0
+Tom var stadig i Boston på dette tidspunkt sidste år.	Tom geçen yıl bu zaman hâlâ Boston'daydı.	boston	0	0
+Trafiklyset blev rødt.	Trafik lambası kırmızı oldu.	rødt	0	0
+Denne klub har halvtreds medlemmer.	Bu kulübün elli üyesi var.	klub	0	0
+Hvilken frugt er grøn?	Hangi meyve yeşildir?	grøn	0	0
+Fodbold er mere populært end baseball.	Futbol beyzboldan daha popüler.	fodbold	0	0
+Bring den herhen.	Onu buraya getir.	bring	0	0
+Er engelsk sværere end japansk?	İngilizce Japoncadan daha zor mu?	sværere	0	0
+De respekterer ham.	Ona saygı duyuyorlar.	respekterer	0	0
+Journalist: Købte De en kattekilling til hende?	Muhabir: Ona bir yavru kedi mi almıştınız?	journalist	0	0
+Denne bogs forfatter har aldrig været i Rusland.	Bu kitabın yazarı hiç Rusya'da bulunmamış.	rusland	0	0
+Jeg tilbereder sommetider aftensmad.	Bazen akşam yemeği pişiririm.	sommetider	0	0
+Lucy besøger af og til May.	Lucy ara sıra May'i ziyaret eder.	besøger	0	0
+Dette manglede.	Bu eksikti.	manglede	0	0
+Hans roman solgte godt.	Onun romanı iyi sattı.	roman	0	0
+De er bevæbnet.	Onlar silahlı.	bevæbnet	0	0
+Denne bogs forfatter har aldrig været i Rusland.	Bu kitabın yazarı hiç Rusya'da bulunmamış.	forfatter	0	0
+Forlad vores hus.	Evimizden ayrılın.	forlad	0	0
+Island hørte til Danmark.	İzlanda Danimarka'ya aitti.	island	0	0
+Jeg er amerikaner.	Ben Amerikanım.	amerikaner	0	0
+Hvor meget vil det koste?	Kaça mal olacak?	koste	0	0
+Skift dit tøj.	Giysilerini değiştir.	skift	0	0
+Kan alle fugle flyve?	Bütün kuşlar uçabilir mi?	fugle	0	0
+Stig på bussen.	Otobüse binin.	stig	0	0
+Hurtigt er det modsatte af langsomt.	Hızlı, yavaşın zıddıdır.	modsatte	0	0
+Grønt går ikke sammen med rødt.	Yeşil kırmızı ile gitmez.	grønt	0	0
+Det er mere end rigeligt.	Bu, yeterli miktardan daha fazla.	rigeligt	0	0
+Jeg har hvid skjorte på til hverdag.	Hafta içleri beyaz gömlek giyerim.	skjorte	0	0
+Hvad kostede det?	O neye mal oldu?	kostede	0	0
+Jeg taler ikke tysk.	Almanca konuşmuyorum.	tysk	0	0
+Hvorfor er sne hvid?	Kar niçin beyazdır?	sne	0	0
+Faren er ovre.	Tehlike bitti.	faren	0	0
+Denne klub har halvtreds medlemmer.	Bu kulübün elli üyesi var.	medlemmer	0	0
+Hvidt brød, tak.	Beyaz ekmek, lütfen.	hvidt	0	0
+Restauranten var næsten tom.	Restoran neredeyse boştu.	restauranten	0	0
+Jeg taler ikke kinesisk.	Çince konuşmam.	kinesisk	0	0
+Han fortjente det.	O bunu hak etti.	fortjente	0	0
+Hvad hedder den næste station?	Gelecek istasyonun adı ne?	station	0	0
+Vær venlig at bakke mig op!	Lütfen beni destekleyin!	bakke	0	0
+Tror du på spøgelser?	Hayaletlere inanır mısın?	spøgelser	0	0
+Han var tilfreds med resultatet.	Sonuçtan memnundu.	resultatet	0	0
+Astronomi handler om stjerner og planeter.	Astronomi yıldızlar ve gezegenler ile ilgilenir.	stjerner	0	0
+Sommeren er næsten ovre.	Yaz neredeyse bitti.	sommeren	0	0
+Jeg vil lave mine lektier lige efter aftensmaden.	Akşam yemeğinden hemen sonra ev ödevimi yapacağım.	lektier	0	0
+Lær fransk.	Fransızca öğren.	lær	0	0
+Tingene blev mærkelige.	İşler tuhaflaştı.	mærkelige	0	0
+Jeg har ondt i brystet.	Göğsüm ağrıyor.	brystet	0	0
+Fluen er på loftet.	Sinek tavanda.	loftet	0	0
+Jeg ringede i forvejen.	Önceden telefonla aradım.	forvejen	0	0
+Tom er dobbelt så tung som Mary.	Tom Mary'nin iki katı kadar ağırdır.	tung	0	0
+Spejl, spejl på væggen, hvem er den smukkeste af alle?	Ayna ayna söyle bana, benden güzeli var mı dünyada?	smukkeste	0	0
+Katte fanger mus.	Kediler fareleri yakalar.	mus	0	0
+Betty kører hurtigt.	Betty hızlı araba sürer.	betty	0	0
+Hvornår lånte du sidst bøger fra biblioteket?	En son ne zaman kütüphaneden kitap ödünç aldın?	biblioteket	0	0
+Texas er næsten dobbelt så stor som Japan.	Teksas neredeyse Japonya'nın iki katı kadar büyüktür.	japan	0	0
+Tom bestilte en drink.	Tom bir içki ısmarladı.	bestilte	0	0
+Hvornår betalte du sidste gang en bøde?	En son ne zaman bir para cezası ödedin?	bøde	0	0
+Hvor meget koster 1 kg tomater?	1 kilo domates ne kadar?	kg	0	0
+Hvilken frugt er grøn?	Hangi meyve yeşildir?	frugt	0	0
+Fordi de ser fjernsyn.	Çünkü televizyon izliyorlar.	fjernsyn	0	0
+Vi sov under stjernerne.	Yıldızların altında uyuduk.	stjernerne	0	0
+Har du nogensinde røget?	Hiç sigara içtin mi?	røget	0	0
+Hent din pung.	Cüzdanını getir.	pung	0	0
+Han tror det er umuligt for mig at bestige bjerget alene.	O benim dağa tek başıma tırmanmamın imkansız olduğunu düşünüyor.	bjerget	0	0
+Jeg elsker min gule sweater.	Ben sarı kazağımı seviyorum.	gule	0	0
+Vi beskyttede os selv imod fare.	Tehlikeye karşı kendimizi koruduk.	beskyttede	0	0
+Læser du ikke avis?	Gazete okumaz mısın?	avis	0	0
+Han hoppede på toget.	O, trene atladı.	hoppede	0	0
+En eller anden bankede på døren.	Biri kapıyı çaldı.	bankede	0	0
+Jeg har fire katte.	Dört kedim var.	katte	0	0
+Fodbold er mere populært end baseball.	Futbol beyzboldan daha popüler.	baseball	0	0
+Aftensmaden dufter lækkert.	Akşam yemeği nefis kokuyor.	dufter	0	0
+Vi legede på stranden.	Biz sahilde oynadık.	legede	0	0
+Ken har for travlt til at komme.	Ken gelmek için çok meşgul.	ken	0	0
+På hvilket tidspunkt er der aftensmad?	Akşam yemeği saat kaçta?	aftensmad	0	0
+Hvornår så du sidst Tom smile?	Tom'un gülümsediğini en son ne zaman gördün?	smile	0	0
+Det er under stolen.	O, sandalyenin altında.	stolen	0	0
+En kanin har lange ører.	Bir tavşanın uzun kulakları vardır.	kanin	0	0
+Jeg kan ikke lide at studere.	Ders çalışmayı sevmem.	studere	0	0
+Lucy besøger af og til May.	Lucy ara sıra May'i ziyaret eder.	may	0	0
+Købte du juice?	Meyve suyu aldın mı?	juice	0	0
+Jeg er tørstig.	Susadım.	tørstig	0	0
+En af hundene er i live.	Köpeklerden biri canlıdır.	hundene	0	0
+I skulle alle skamme jer.	Hepiniz kendinizden utanmalısınız.	skamme	0	0
+Guld vejer mere end jern.	Altın, demirden daha fazla çeker.	vejer	0	0
+Tag en lur.	Şekerleme yap.	lur	0	0
+Tom fortsatte med at gøre rent.	Tom temizlemeye devam etti.	fortsatte	0	0
+Hvornår lånte du sidst bøger fra biblioteket?	En son ne zaman kütüphaneden kitap ödünç aldın?	lånte	0	0
+Jeg sælger computere.	Bilgisayar satarım.	computere	0	0
+På trods af al sin rigdom og berømmelse, er han ulykkelig.	Bütün serveti ve şöhretine rağmen, o mutsuz.	ulykkelig	0	0
+Jeg huskede alle.	Ben herkesi hatırladım.	huskede	0	0
+Fangede du noget sidst du tog ud for at fiske?	Son kez balık tutmaya gittiğinde bir şey yakaladın mı?	fiske	0	0
+Tooghalvtreds procent af britiske kvinder foretrækker chokolade frem for sex.	Britanyalı kadınların yüzde elli ikisi çikolatayı sekse tercih ediyor.	britiske	0	0
+Jeg underviser.	Öğretiyorum.	underviser	0	0
+Vask dine hænder.	Ellerini temizle.	vask	0	0
+Tom har en gul sportsvogn.	Tom'un sarı bir spor arabası var.	gul	0	0
+Tom er egoistisk.	Tom bencil.	egoistisk	0	0
+Moderen kildrede sit barn med en fjer.	Anne çocuğunu bir tüy ile gıdıkladı.	moderen	0	0
+Jeg har ondt i skulderen.	Omuzum ağrıyor.	skulderen	0	0
+Vær venlig at dreje til højre.	Lütfen sağa dönün.	dreje	0	0
+Det her er den bedste guitar i butikken.	Bu; mağazadaki en iyi gitar.	guitar	0	0
+Hvornår besøgte du sidst Australien?	Avustralya'yı en son ne zaman ziyaret ettin?	australien	0	0
+Hold fast i rebet.	İpe tutun.	rebet	0	0
+Min næse klør.	Burnum kaşınıyor.	klør	0	0
+Hvornår behandlede du sidst en patient?	En son ne zaman bir hastayı tedavi ettin?	behandlede	0	0
+Tom trådte på min fod.	Tom ayağıma bastı.	trådte	0	0
+Far vander blomsterne.	Babam çiçekleri suluyor.	blomsterne	0	0
+Han sælger aviser til os.	Bize gazete satıyor.	aviser	0	0
+Hun har brune øjne.	Kahverengi gözleri var.	brune	0	0
+Han hvilede for en stund.	O bir süre dinlendi.	stund	0	0
+Guld vejer mere end jern.	Altın, demirden daha fazla çeker.	jern	0	0
+Emnet er mig velbekendt.	Konuyu gayet iyi biliyorum.	emnet	0	0
+Mary elsker nødder.	Mary fındık sever.	nødder	0	0
+Spejl, spejl på væggen, hvem er den smukkeste af alle?	Ayna ayna söyle bana, benden güzeli var mı dünyada?	spejl	0	0
+Bliv klippet.	Bir saç tıraşı ol.	klippet	0	0
+Jeg har færre penge end dig.	Senden az param var.	færre	0	0
+Elvis Presley lever!	Elvis Presley yaşıyor!	elvis	0	0
+Tal langsommere.	Daha yavaş konuşun.	langsommere	0	0
+Lysene er ikke tændt.	Işıklar açık değil.	lysene	0	0
+Er engelsk sværere end japansk?	İngilizce Japoncadan daha zor mu?	japansk	0	0
+Ønsker De en portion tærte mere?	Bir porsiyon turta daha ister misiniz?	tærte	0	0
+Hvor fejlede vi?	Nerede hata yaptık?	fejlede	0	0
+Vær ved stationen præcis kl. elleve.	Tam 11:00'de istasyonda olun.	elleve	0	0
+Du er skarp.	Sen dolandırıcısın.	skarp	0	0
+Mine bukser er våde.	Benim pantolon ıslak.	våde	0	0
+Island hørte til Danmark.	İzlanda Danimarka'ya aitti.	danmark	0	0
+Er der andet du er allergisk over for?	Başka herhangi bir şeye alerjin var mı?	allergisk	0	0
+De ventede på ham i timevis.	Onu saatlerce beklediler.	timevis	0	0
+Moderen kildrede sit barn med en fjer.	Anne çocuğunu bir tüy ile gıdıkladı.	fjer	0	0
+Er vinen rød?	Şarap kırmızı mı?	vinen	0	0
+Klik på linket.	Linke tıklayınız.	klik	0	0
+Jeg mangler selvtillid.	Güven eksikliğim var.	selvtillid	0	0
+Jeg vil tage afsted til fods.	Ben yaya gideceğim.	fods	0	0
+Du ignorerer mig.	Beni görmezden geliyorsun.	ignorerer	0	0
+Fuglen flyver i værelset.	Kuş odada uçuyor.	fuglen	0	0
+Jeg drejede til højre.	Ben sağa döndüm.	drejede	0	0
+Jim har brede skuldre.	Jim'in geniş omuzları var.	skuldre	0	0
+Allan forlod os.	Allan bizi terk etti.	allan	0	0
+Jeg lever mellem to verdener.	İki dünya arasında yaşıyorum.	verdener	0	0
+Jeg dækkede mine ører.	Kulaklarımı kapattım.	dækkede	0	0
+Vi grinede begge.	İkimiz de güldük.	grinede	0	0
+Har du nogensinde set en elefant flyve?	Hiç filin uçtuğunu gördün mü?	elefant	0	0
+Kvalitet er vigtigere end kvantitet.	Nitelik, nicelikten önemlidir.	kvalitet	0	0
+Nogle af fuglene fløj ikke.	Kuşlardan bazıları uçamadı.	fuglene	0	0
+På trods af al sin rigdom og berømmelse, er han ulykkelig.	Bütün serveti ve şöhretine rağmen, o mutsuz.	rigdom	0	0
+Han malede døren blå.	Kapıyı maviye boyadı.	malede	0	0
+I er ikke længere velkomne i mit hjem.	Artık evimde istenmiyorsunuz.	velkomne	0	0
+Er morgenmaden klar?	Kahvaltı hazır mı?	morgenmaden	0	0
+Tom forklarede alt.	Tom her şeyi açıkladı.	forklarede	0	0
+Ulven hyler.	Kurt ulur.	ulven	0	0
+Der er ikke nogen elevator i vores hus.	Evimizde asansör yok.	elevator	0	0
+Der var for mange mennesker til koncerten.	Konserde çok fazla kişi vardı.	koncerten	0	0
+Jeg kan bedre lide brød end ris.	Ekmeği pirinçten daha çok severim.	ris	0	0
+Jeg ønsker ikke at mit land skal blive medlem af Den Europæiske Union.	Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	union	0	0
+Tom er en pålidelig person.	Tom güvenilir bir kişidir.	pålidelig	0	0
+Alle var tilfredse.	Herkes memnundu.	tilfredse	0	0
+Er babyen vågnet op?	Bebek uyandı mı?	vågnet	0	0
+Jeg bor i Akasaka i Tokyo.	Tokyo'daki Akasaka'da yaşıyorum.	tokyo	0	0
+Du havde ikke behøvet at komme så tidligt.	O kadar erken gelmek zorunda değildin.	behøvet	0	0
+Vi har brug for flere arbejdere.	Bizim daha fazla işçiye ihtiyacımız var.	arbejdere	0	0
+Tom blev røvet.	Tom soyuldu.	røvet	0	0
+Egypten er en gave fra Nilen.	Mısır, Nil'in bir armağanıdır.	egypten	0	0
+Hvornår og hvor bliver morgenmad serveret?	Kahvaltı ne zaman ve nerede servis edilmektedir?	serveret	0	0
+Enhver by i USA har et bibliotek.	Amerika'daki her şehrin bir kütüphanesi vardır.	bibliotek	0	0
+Sami appellerer den afgørelse.	Sami o karara itiraz ediyor.	afgørelse	0	0
+Hun sælger grøntsager.	O sebze satar.	grøntsager	0	0
+Hvor mange æbler var der i kassen?	Kutuda kaç tane elma vardı?	æbler	0	0
+Astronomi handler om stjerner og planeter.	Astronomi yıldızlar ve gezegenler ile ilgilenir.	planeter	0	0
+Gud er homo.	Tanrı geydir.	homo	0	0
+Børn bliver let forkølet.	Çocuklar kolaylıkla üşütürler.	forkølet	0	0
+Hvordan var frokosten?	Öğle yemeği nasıldı?	frokosten	0	0
+Efteråret var langt og mildt.	Sonbahar uzun ve ılıktı.	efteråret	0	0
+Bryd dig ikke om at komme hjem til mig.	Evime gelmek için zahmet etmeyin.	bryd	0	0
+Hun tog et andet sted hen for at shoppe.	O, başka bir yere alışverişe gitti.	shoppe	0	0
+Rygning dræber.	Sigara içmek öldürür.	rygning	0	0
+Vand koger ved 100 grader.	Su 100 derecede kaynar.	koger	0	0
+Ferien er nu forbi.	Tatil geçti artık.	ferien	0	0
+Dette er en lang blyant.	Bu uzun bir kalem.	blyant	0	0
+Jeg spiser en banan.	Muz yiyorum.	banan	0	0
+Forfatteren til denne bog har aldrig været i Rusland.	Bu kitabın yazarı hiç Rusya'da bulunmamış.	forfatteren	0	0
+Jeg rejste til Wien for første gang sidste år.	Geçen yıl ilk kez Viyana'ya gittim.	wien	0	0
+Titanic sank på sin jomfrurejse.	Titanik, geminin ilk seferinde battı.	sank	0	0
+Hvad baserer du det udsagn på?	O açıklamayı neye dayandırıyorsun?	udsagn	0	0
+Hunde er intelligente.	Köpekler zekidir.	intelligente	0	0
+Sikken et overfladisk svar.	Ne yüzeysel bir cevap!	overfladisk	0	0
+Tom havde ikke brillerne på.	Tom gözlük takmıyor.	brillerne	0	0
+På trods af al sin rigdom og berømmelse, er han ulykkelig.	Bütün serveti ve şöhretine rağmen, o mutsuz.	berømmelse	0	0
+Jeg elsker min gule sweater.	Ben sarı kazağımı seviyorum.	sweater	0	0
+Hent en skovl.	Bir kürek getir!	skovl	0	0
+Jeg vil lave mine lektier lige efter aftensmaden.	Akşam yemeğinden hemen sonra ev ödevimi yapacağım.	aftensmaden	0	0
+Jeg spiser pasta.	Makarna yiyorum.	pasta	0	0
+Hvor meget koster 1 kg tomater?	1 kilo domates ne kadar?	tomater	0	0
+Når du lovet noget, må du også overholde det.	Mademki bir söz verdin, onu tutmalısın.	overholde	0	0
+Spørgsmålet blev besvaret.	Soru cevaplandı.	besvaret	0	0
+Fodbold er mere populært end baseball.	Futbol beyzboldan daha popüler.	populært	0	0
+Ønsker De en portion tærte mere?	Bir porsiyon turta daha ister misiniz?	portion	0	0
+Ankara er hovedstaden i Tyrkiet.	Ankara Türkiye'nin başkentidir.	hovedstaden	0	0
+De hader edderkopper.	Onlar örümceklerden nefret eder.	edderkopper	0	0
+Marker det rigtige svar.	Doğru cevabı işaretleyin.	marker	0	0
+Velkommen til Syrien!	Suriye'ye hoş geldiniz!	syrien	0	0
+Jeg er et meget stabilt geni.	Ben çok dengeli bir dâhiyim.	stabilt	0	0
+Hvor afgår det fra?	O nereden kalkıyor?	afgår	0	0
+Jim har brede skuldre.	Jim'in geniş omuzları var.	brede	0	0
+Maja Keuc er en slovensk sangerinde.	Maja Keuc Sloven şarkıcı.	maja	0	0
+Denne klub har halvtreds medlemmer.	Bu kulübün elli üyesi var.	halvtreds	0	0
+Tag en småkage.	Bir kurabiye al.	småkage	0	0
+Kirsebær er røde.	Kirazlar kırmızıdır.	kirsebær	0	0
+Der findes koalaer i Østrig.	Avusturya'da koala var.	østrig	0	0
+Efteråret var langt og mildt.	Sonbahar uzun ve ılıktı.	mildt	0	0
+Jo større de er, jo tungere falder de.	Birlikten kuvvet doğar.	tungere	0	0
+Jeg ønsker ikke at mit land skal blive medlem af Den Europæiske Union.	Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	europæiske	0	0
+Jeg tror ikke, du kan stole på dataene i registret.	Kayıtlardaki verilere güven duyabileceğini sanmıyorum.	dataene	0	0
+Hvor langt er du henne i graviditeten?	Ne zamandır hamilesin?	graviditeten	0	0
+Jeg har lavet muffins.	Kekler yaptım.	muffins	0	0
+Ulven hyler.	Kurt ulur.	hyler	0	0
+Vi skyndte os for at nå bussen.	Biz otobüse yetişmek için acele ettik.	skyndte	0	0
+Jeg rettede mig selv.	Kendimi düzelttim.	rettede	0	0
+Næsehornet er ikke en dinosaur.	Gergedan bir dinozor değildir.	dinosaur	0	0
+Jeg elsker Toms restaurant.	Tom'un restoranını severim!	toms	0	0
+Jeg har hvid skjorte på til hverdag.	Hafta içleri beyaz gömlek giyerim.	hverdag	0	0
+Jeg er bange for kakerlakker.	Hamamböceğinden korkarım.	kakerlakker	0	0
+Jeg venter på bus tretten.	13 numaralı otobüsü bekliyorum.	tretten	0	0
+Vi betragtede ham som et geni.	Biz onu zeki olarak düşündük.	betragtede	0	0
+Jeg har købt en Picasso.	Bir Picasso tablosu satın aldım.	picasso	0	0
+Ankara er hovedstaden i Tyrkiet.	Ankara Türkiye'nin başkentidir.	tyrkiet	0	0
+Ankara er Tyrkiets hovedstad.	Ankara Türkiye'nin başkentidir.	hovedstad	0	0
+Han tror det er umuligt for mig at bestige bjerget alene.	O benim dağa tek başıma tırmanmamın imkansız olduğunu düşünüyor.	bestige	0	0
+Mit ur skal repareres.	Saatimin onarılması gerekiyor.	repareres	0	0
+Vær venlig at vaske disse tallerkener op.	Lütfen bu tabakları yıka.	tallerkener	0	0
+Jeg har købt dette kamera for 35000 yen.	Bu kamerayı 35,000 yene satın aldım.	yen	0	0
+Tom skammede sig.	Tom utandı.	skammede	0	0
+Titanic sank på sin jomfrurejse.	Titanik, geminin ilk seferinde battı.	titanic	0	0
+Jeg slog min albue.	Dirseğimi incittim.	albue	0	0
+Jeg ombestemte mig.	Düşüncemi değiştirdim.	ombestemte	0	0
+Det afhænger af sammenhængen.	Bu, bağlama bağlıdır.	sammenhængen	0	0
+Vi sælger appelsinjuice.	Portakal suyu satarız.	appelsinjuice	0	0
+De gennemsøgte huset.	Onlar evi aradılar.	gennemsøgte	0	0
+Pigerne grinte højt.	Kızlar yüksek sesle güldü.	grinte	0	0
+Hun serverede kaffe til mig.	Bana kahve servisi yaptı.	serverede	0	0
+Hastværk er lastværk.	Acele işe şeytan karışır.	hastværk	0	0
+Vi lugter med vores næser.	Burunlarımızla koklarız.	næser	0	0
+Tom barberede sit hoved.	Tom başını tıraş etti.	barberede	0	0
+Udenrigsministeren sagde at denne krig var uundgåelig.	Dışişleri Bakanı bu savaşın kaçınılmaz olduğunu söyledi.	uundgåelig	0	0
+Vi plukkede blomster i haven.	Bahçede çiçek kopardık.	plukkede	0	0
+Snegle bevæger sig langsomt.	Salyangozlar yavaş hareket eder.	snegle	0	0
+Tom blev solbrændt.	Tom güneş yanığı oldu.	solbrændt	0	0
+Tom opfordrede hans søn til at lære fransk.	Tom oğlunu Fransızca öğrenmesi için yüreklendirdi.	opfordrede	0	0
+Mange mennesker shopper her.	Burada birçok insan alışveriş yapar.	shopper	0	0
+Giv mig dine penge eller jeg tæsker dig.	Bana paranı ver yoksa seni döverim.	tæsker	0	0
+Spørg politimanden om vej.	Polise yolu sor.	politimanden	0	0
+Svaret irriterede mig.	Cevap beni öfkelendirdi.	irriterede	0	0
+Sami appellerer den afgørelse.	Sami o karara itiraz ediyor.	appellerer	0	0
+Intet er mere vigtigt end helbredet.	Hiçbir şey sağlıktan daha önemli değildir.	helbredet	0	0
+Tom har en gul sportsvogn.	Tom'un sarı bir spor arabası var.	sportsvogn	0	0
+Jeg kan tale esperanto som en indfødt.	Esperanto'yu ana dilim gibi konuşabiliyorum.	indfødt	0	0
+Han er bange for at flyve i flyvemaskine.	O, bir uçakta uçmaktan korkuyor.	flyvemaskine	0	0
+Bor du i Libanon?	Lübnan'da mı yaşıyorsun?	libanon	0	0
+Sami ryger også cannabis.	Sami de ot içiyor.	cannabis	0	0
+Respekter dig selv.	Kendinize saygı duyun.	respekter	0	0
+Udenrigsministeren sagde at denne krig var uundgåelig.	Dışişleri Bakanı bu savaşın kaçınılmaz olduğunu söyledi.	udenrigsministeren	0	0
+Maja Keuc er en slovensk sangerinde.	Maja Keuc Sloven şarkıcı.	sangerinde	0	0
+Vi har det komfortabelt i vores nye hus.	Yeni evimizde rahatız.	komfortabelt	0	0
+Tom er ikke Trump.	Tom Trump değil.	trump	0	0
+Hvorfor spinder katte?	Kediler neden mırlar?	spinder	0	0
+Han hvilede for en stund.	O bir süre dinlendi.	hvilede	0	0
+Klik på linket.	Linke tıklayınız.	linket	0	0
+Mjaver Mao?	Mao miyavlar mı?	mao	0	0
+Hvad baserer du det udsagn på?	O açıklamayı neye dayandırıyorsun?	baserer	0	0
+Sami appellerer den afgørelse.	Sami o karara itiraz ediyor.	sami	0	0
+Jeg vil omformulere mit spørgsmål.	Sorumu başka bir şekilde ifade etmek istiyorum.	omformulere	0	0
+Jeg tror ikke, du kan stole på dataene i registret.	Kayıtlardaki verilere güven duyabileceğini sanmıyorum.	registret	0	0
+Algeriet er mit land.	Cezayir benim ülkem.	algeriet	0	0
+Ønsker du at vi spiser middagsmad sammen?	Birlikte öğle yemeği yemek ister misin?	middagsmad	0	0
+Elvis Presley lever!	Elvis Presley yaşıyor!	presley	0	0
+Egypten er en gave fra Nilen.	Mısır Nil'in hediyesidir.	nilen	0	0
+Mød Hr. Petit.	Bay Petit ile buluş.	petit	0	0
+Far vander blomsterne.	Babam çiçekleri suluyor.	vander	0	0
+Jeg tilbereder sommetider aftensmad.	Bazen akşam yemeği pişiririm.	tilbereder	0	0
+Fluen er på loftet.	Sinek tavanda.	fluen	0	0
+Alle boldene er gule.	Tüm toplar sarı.	boldene	0	0
+Velkommen til Wikipedia.	Vikipedi'ye hoş geldiniz.	wikipedia	0	0
+Astronomi handler om stjerner og planeter.	Astronomi yıldızlar ve gezegenler ile ilgilenir.	astronomi	0	0
+Damen er over firs.	Bayan seksenin üzerinde.	firs	0	0
+Medicinskabet står åbent!	Fermuarın açık!	medicinskabet	0	0
+Vores hus har en forhave.	Evimizin bir ön bahçesi var.	forhave	0	0
+Hvad hedder dette stoppested?	Bu istasyonun adı nedir?	stoppested	0	0
+Paraplyer sælger godt.	Şemsiyeler iyi satılır.	paraplyer	0	0
+Jeg hader mandage.	Pazartesilerden nefret ediyorum.	mandage	0	0
+Hvem er den berømteste krigsforbryder?	En meşhur savaş suçlusu kimdir?	krigsforbryder	0	0
+Skønhed er subjektivt.	Güzellik özneldir.	subjektivt	0	0
+Kyoto er værd at besøge.	Kyoto ziyaret etmeye değer.	kyoto	0	0
+Han er en barndomsven.	O, bir çocukluk arkadaşıdır.	barndomsven	0	0
+Kvalitet er vigtigere end kvantitet.	Nitelik, nicelikten önemlidir.	kvantitet	0	0
+Kontorets dør er gul.	Ofisin kapısı sarıdır.	kontorets	0	0
+Hvem har skrevet "Fyrsten"?	"Prens"i kim yazdı?	fyrsten	0	0
+Han tilskriver sin succes hårdt arbejde.	Başarısını çok çalışmaya bağlar.	tilskriver	0	0
+Hvad skal jeg gøre, hvis jeg bliver angrebet af en gråbjørn?	Bir bozayı tarafından saldırıya uğrarsam ne yapmalıyım?	gråbjørn	0	0
+Tom åbnede for vandhanen.	Tom musluğu açtı.	vandhanen	0	0
+Journalist: Købte De en kattekilling til hende?	Muhabir: Ona bir yavru kedi mi almıştınız?	kattekilling	0	0

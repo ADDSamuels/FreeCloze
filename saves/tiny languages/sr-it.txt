@@ -1,0 +1,704 @@
+Mislim da nas je Tom slagao.	Io penso che Tom ci abbia mentito.	da	0	0
+Ta torba je moja.	Quella borsa è mia.	je	0	0
+Mi mu se ne sviđamo.	Non gli piacciamo.	ne	0	0
+Uobičajno je teško navići se na život u stranoj kulturi.	È generalmente difficile adattarsi a vivere in una cultura straniera.	se	0	0
+On je jeo hleb i meso.	Mangiava pane e carne.	i	0	0
+Teheran je u Iranu.	Teheran è in Iran.	u	0	0
+Ko je napisao to pismo?	Chi ha scritto quella lettera?	to	0	0
+"Kako si?" - "Dobro sam." - "To sam i mislio." - "Zašto?" - "Loši ljudi su uvek dobro."	"Come va la vita?" - "Bene". - "Lo sapevo". - "Perché?" - "Alle persone cattive va sempre bene".	sam	0	0
+Napad na jednog od nas je napad na sve nas.	Un attacco contro uno di noi è un attacco contro tutti noi.	na	0	0
+A ko si ti?	E tu chi sei?	ti	0	0
+Objasni mi, molim te, pravila fudbala.	Per favore, spiegami le regole del football.	mi	0	0
+Ko od vas prevodi uz pomoć programa za prevođenje?	Chi di voi traduce utilizzando un programma di traduzione?	za	0	0
+Ti si jedan od nas.	Sei uno di noi.	si	0	0
+Da li je to ljubav?	È amore?	li	0	0
+Šta je veće, Sunce ili Zemlja?	Qual è più grande, il sole o la terra?	šta	0	0
+Ja sam ateista.	Sono ateo.	ja	0	0
+Ali ja želim automobil.	Ma io voglio l'automobile.	ali	0	0
+Pojeo sam sendvič sa ćuretinom.	Io ho mangiato un sandwich al tacchino.	sa	0	0
+Gde su roditelji?	Dove sono i genitori?	su	0	0
+On nije mašina.	Lui non è una macchina.	nije	0	0
+Ovo je Kopakabana!	Questa è Copacabana!	ovo	0	0
+Živimo samo ovde i sada.	Noi viviamo solo qui ed ora.	samo	0	0
+Objasni mi, molim te, pravila fudbala.	Per favore, spiegami le regole del football.	te	0	0
+Tom radi od devet do pet.	Tom lavora dalle nove alle cinque.	od	0	0
+A ko si ti?	E tu chi sei?	a	0	0
+Kako se zoveš?	Come ti chiami?	kako	0	0
+Količina ništa ne govori o kvalitetu.	La quantità dice nulla sulla qualità.	o	0	0
+On ima dobro pamćenje.	Ha una buona memoria.	dobro	0	0
+Napad na jednog od nas je napad na sve nas.	Un attacco contro uno di noi è un attacco contro tutti noi.	sve	0	0
+Mi smo studenti.	Noi siamo studenti.	smo	0	0
+Nisam toliko visok kao ti.	Non sono alto come te.	kao	0	0
+Još jedna prodavnica će se uskoro otvoriti u Bostonu.	A breve un altro punto vendita aprirà a Boston.	će	0	0
+Znam da je život kratak.	So che la vita è breve.	znam	0	0
+Ja nisam filolog.	Io non sono un filologo.	nisam	0	0
+Mogu da živim bez vode.	Riesco a vivere senz'acqua.	mogu	0	0
+Vi ste jedan od nas.	È uno di noi.	ste	0	0
+Živimo samo ovde i sada.	Noi viviamo solo qui ed ora.	ovde	0	0
+"Kako si?" - "Dobro sam." - "To sam i mislio." - "Zašto?" - "Loši ljudi su uvek dobro."	"Come va la vita?" - "Bene". - "Lo sapevo". - "Perché?" - "Alle persone cattive va sempre bene".	zašto	0	0
+On je jeo hleb i meso.	Mangiava pane e carne.	on	0	0
+Zašto sam još uvek ovde?	Perché sono ancora qui?	još	0	0
+To je bilo fantasično.	È stato fantastico.	bilo	0	0
+Nasilje je jedini jezik koji oni razumeju.	La violenza è l'unico linguaggio che capiscono.	koji	0	0
+Znamo da je teško, ali molimo vas da ne prevodite bukvalno.	Sappiamo che è difficile, però per piacere non traducete letteralmente.	vas	0	0
+Ja ću ukloniti dodatak.	Sto per rimuovere l'appendice.	ću	0	0
+Mislim da nas je Tom slagao.	Io penso che Tom ci abbia mentito.	mislim	0	0
+Moj otac ima dobar posao.	Mio padre ha un buon impiego.	ima	0	0
+Šta je veće, Sunce ili Zemlja?	Qual è più grande, il sole o la terra?	ili	0	0
+Znaš li kako se koristi ova mašina?	Sai come usare questa macchina?	znaš	0	0
+Ti više ne možeš da kupuješ jabuke!	Non puoi più comprare mele!	više	0	0
+Sada ne učim.	Io non sto studiando adesso.	sada	0	0
+Gde je moj telefonski imenik?	Dov'è il mio elenco telefonico?	gde	0	0
+Волим да студирам стране језике.	Mi piace studiare le lingue straniere.	да	0	0
+Tom radi od devet do pet.	Tom lavora dalle nove alle cinque.	do	0	0
+Treba mi tvoja pomoć.	Ho bisogno del tuo aiuto.	treba	0	0
+Moj otac ima dobar posao.	Mio padre ha un buon impiego.	moj	0	0
+Mi mu se ne sviđamo.	Non gli piacciamo.	mu	0	0
+Nisi rekao ništa loše.	Non hai detto nulla di male.	rekao	0	0
+U kupatilu nema nikoga.	Non c'è nessuno in bagno.	nema	0	0
+Količina ništa ne govori o kvalitetu.	La quantità dice nulla sulla qualità.	ništa	0	0
+Mislim da nas je Tom slagao.	Io penso che Tom ci abbia mentito.	nas	0	0
+Ko je napisao to pismo?	Chi ha scritto quella lettera?	ko	0	0
+Kako je ona izgledala?	Lei che aspetto aveva?	ona	0	0
+Ризик је превелик.	Il rischio è troppo grande.	је	0	0
+Objasni mi, molim te, pravila fudbala.	Per favore, spiegami le regole del football.	molim	0	0
+Ne želim ni meso ni ribu.	Non voglio né carne né pesce.	ni	0	0
+Hajde da budemo prijatelji.	Diventiamo amici.	hajde	0	0
+Da li možeš da pročitaš ovaj kanji?	Sai leggere questo kanji?	možeš	0	0
+Imam alergiju na mleko.	Sono allergico al latte.	imam	0	0
+Vi ste jedan od nas.	Lei è uno di noi.	vi	0	0
+Ne želim da igram ovu igru.	Non voglio giocare a questo gioco.	želim	0	0
+Daj mi tu knjigu.	Dammi quel libro.	tu	0	0
+Nisi rekao ništa loše.	Non hai detto nulla di male.	nisi	0	0
+Indija je sedma zemlja na svetu po veličini.	L'India è il settimo paese più grande del mondo.	po	0	0
+Ko su ovi ljudi?	Chi è questa gente?	ljudi	0	0
+Koliko imaš knjiga?	Quanti libri hai?	koliko	0	0
+Ti si jedan od nas.	Tu sei uno di noi.	jedan	0	0
+Ta torba je moja.	Quella borsa è mia.	moja	0	0
+Zašto sam još uvek ovde?	Perché sono ancora qui?	uvek	0	0
+Život bez ljubavi nema nikakvog smisla.	Una vita senza amore non ha assolutamente alcun senso.	bez	0	0
+Koliko imaš knjiga?	Quanti libri hai?	imaš	0	0
+Imam mnogo prijatelja.	Ho molti amici.	mnogo	0	0
+Ovaj članak sadrži neke potpuno nove ideje.	Questo articolo contiene alcune idee del tutto nuove.	ovaj	0	0
+Nasilje je jedini jezik koji oni razumeju.	La violenza è l'unico linguaggio che capiscono.	oni	0	0
+Voz je stigao na vreme danas, kao i uvek.	Il treno era in orario oggi, come sempre.	vreme	0	0
+Ne znam ko je taj čovek.	Non so chi sia quella persona.	taj	0	0
+Gde je tvoj otac?	Dov'è tuo padre?	tvoj	0	0
+Zima je moje omiljeno doba.	L'inverno è la mia stagione preferita.	moje	0	0
+Tome, potrebna mi je tvoja pomoć.	Tom, ho bisogno del tuo aiuto.	tome	0	0
+Moj otac ima dobar posao.	Mio padre ha un buon impiego.	posao	0	0
+Ona ima sto godina.	Ha cento anni.	godina	0	0
+Imamo dva televizora.	Abbiamo due televisori.	imamo	0	0
+Vidim vašu kuću.	Vedo la vostra casa.	vidim	0	0
+Tom radi od devet do pet.	Tom lavora dalle nove alle cinque.	radi	0	0
+Šta radiš?	Che stai facendo?	radiš	0	0
+Ti ništa o meni ne znaš.	Non sai niente di me.	meni	0	0
+Želim da idem na Bali.	Voglio andare a Bali.	idem	0	0
+Она је пољубила мене, а не њега.	(Lei) ha baciato me, non lui.	не	0	0
+Daj mi tu knjigu.	Dammi quel libro.	daj	0	0
+Moj otac ima dobar posao.	Mio padre ha un buon lavoro.	dobar	0	0
+Devojka vidi dečaka.	La ragazza vede il ragazzo.	vidi	0	0
+Он се плаши мора.	Ha paura del mare.	се	0	0
+Идемо на ручак у 1 сат, односно за 10 минута.	Andiamo a pranzo all'una, quindi tra dieci minuti.	у	0	0
+Život je kratak.	La vita è corta.	život	0	0
+Moji prijatelji žive u istoj kući kao i ja.	I miei amici vivono nella mia stessa casa.	kući	0	0
+У почетку Бог је створио небо и Земљу.	In principio Dio creò il cielo e la terra.	и	0	0
+Tom ima dva brata i jednu sestru.	Tom ha due fratelli e una sorella.	dva	0	0
+"Kako si?" - "Dobro sam." - "To sam i mislio." - "Zašto?" - "Loši ljudi su uvek dobro."	"Come va la vita?" - "Bene". - "Lo sapevo". - "Perché?" - "Alle persone cattive va sempre bene".	mislio	0	0
+Imate li vremena sutra poslepodne?	Avete tempo domani dopo mezzogiorno?	vremena	0	0
+Tom je imao isti problem.	Tom ebbe lo stesso problema.	imao	0	0
+Voz je stigao na vreme danas, kao i uvek.	Il treno era in orario oggi, come sempre.	danas	0	0
+Treba mi tvoja pomoć.	Ho bisogno del tuo aiuto.	tvoja	0	0
+Nisam toliko visok kao ti.	Non sono alto come te.	toliko	0	0
+Da li si nekada video NLO?	Hai mai visto un UFO?	video	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci.	tri	0	0
+Njeno ime je bilo Marija.	Il suo nome era Mary.	ime	0	0
+То је његов ауто.	Quella è la sua macchina.	то	0	0
+U čemu je razlika između imitacije i pravih dijamanata?	Qual è la differenza tra diamanti veri e imitazioni?	čemu	0	0
+Tvoje su pantalone prljave.	I tuoi pantaloni sono sporchi.	tvoje	0	0
+Ја сам инжењер.	Sono ingegnere.	сам	0	0
+Možeš li mi pomoći da prevedem ove rečenice na kineski?	Puoi aiutarmi a tradurre queste frasi in cinese?	ove	0	0
+Nemam mnogo prijatelja.	Non ho molti amici.	nemam	0	0
+Moj otac ima dobar posao.	Mio padre ha un buon impiego.	otac	0	0
+Ta torba je moja.	Quella borsa è mia.	ta	0	0
+Ne znam ko je taj čovek.	Non so chi sia quella persona.	čovek	0	0
+U Africi ima puno lavova.	In Africa ci sono molti leoni.	puno	0	0
+Danas je pao prvi sneg.	Oggi è caduta la prima neve.	prvi	0	0
+Imate li vremena sutra poslepodne?	Avete tempo domani dopo mezzogiorno?	sutra	0	0
+Bergen je drugi najveći grad u Norveškoj.	Bergen è la seconda città più grande della Norvegia.	drugi	0	0
+Operi noge da skines prljavštinu sa njih.	Lavatevi abbondantemente i piedi per rimuovere lo sporco.	njih	0	0
+Tom je imao isti problem.	Tom ebbe lo stesso problema.	problem	0	0
+Imate li vremena sutra poslepodne?	Avete tempo domani dopo mezzogiorno?	imate	0	0
+Znaš li kako se koristi ova mašina?	Sai come usare questa macchina?	ova	0	0
+Da li je to daleko odavde?	È lontano da qui?	odavde	0	0
+Još jedna prodavnica će se uskoro otvoriti u Bostonu.	A breve un altro punto vendita aprirà a Boston.	jedna	0	0
+Možeš li mi pomoći da prevedem ove rečenice na kineski?	Mi puoi aiutare a tradurre queste frasi in cinese?	pomoći	0	0
+Maja Keuc je dobra pevačica.	Maja Keuc è una buona cantante.	dobra	0	0
+Ovaj članak sadrži neke zaista nove ideje.	Questo articolo contiene alcune idee davvero nuove.	zaista	0	0
+On je otvorio vrata.	Lui ha aperto la porta.	vrata	0	0
+Ovaj članak sadrži neke zaista nove ideje.	Questo articolo contiene alcune idee davvero nuove.	neke	0	0
+Tom ima dva brata i jednu sestru.	Tom ha due fratelli e una sorella.	jednu	0	0
+"Izgledaš umorno." - "Loše sam spavao."	"Sembri stanco". - "Ho dormito male".	loše	0	0
+Ne želimo ovog.	Non vogliamo questo.	ovog	0	0
+Идемо на ручак у 1 сат, односно за 10 минута.	Andiamo a pranzo all'una, quindi tra dieci minuti.	на	0	0
+Ne želim da igram ovu igru.	Non voglio giocare a questo gioco.	ovu	0	0
+Znamo da je teško, ali molimo vas da ne prevodite bukvalno.	Sappiamo che è difficile, però per piacere non traducete letteralmente.	teško	0	0
+Ona ima sto godina.	Ha cento anni.	sto	0	0
+Шта си купио?	Che hai comprato?	шта	0	0
+Znamo da je teško, ali molimo vas da ne prevodite bukvalno.	Sappiamo che è difficile, però per piacere non traducete letteralmente.	znamo	0	0
+Moja majka voli muziku.	Mia madre ama la musica.	majka	0	0
+Napad na jednog od nas je napad na sve nas.	Un attacco contro uno di noi è un attacco contro tutti noi.	jednog	0	0
+Tom ima dva brata i jednu sestru.	Tom ha due fratelli e una sorella.	tom	0	0
+Sviđa mi se instrumentalna muzika.	Mi piace la musica strumentale.	sviđa	0	0
+Tome, potrebna mi je tvoja pomoć.	Tom, ho bisogno del tuo aiuto.	pomoć	0	0
+Ona je starija od dve sestre.	Lei è la maggiore delle due sorelle.	dve	0	0
+Ти не знаш ништа о мени.	Non sai niente di me.	ти	0	0
+Kakav je tvoj zaključak?	Qual è la tua conclusione?	kakav	0	0
+То је добра апликација за почетак бављења спортом.	È una buona applicazione per cominciare a fare sport.	за	0	0
+Имам све што ми треба.	Ho tutto ciò di cui ho bisogno.	ми	0	0
+Имате ли јапанско пиво?	Ha della birra giapponese?	ли	0	0
+Daj mi broj.	Dammi il numero.	broj	0	0
+Ko od vas prevodi uz pomoć programa za prevođenje?	Chi di voi traduce utilizzando un programma di traduzione?	uz	0	0
+Tom radi od devet do pet.	Tom lavora dalle nove alle cinque.	pet	0	0
+Ја устајем рано.	Mi alzo presto.	ја	0	0
+Latinski je mrtav jezik.	Il latino è una lingua morta.	mrtav	0	0
+Шта си купио?	Che hai comprato?	си	0	0
+Količina ništa ne govori o kvalitetu.	La quantità dice nulla sulla qualità.	govori	0	0
+Kakvo glupo pitanje!	Che domanda stupida!	pitanje	0	0
+Moja majka voli muziku.	Mia madre ama la musica.	voli	0	0
+On ima slabo srce.	È debole di cuore.	srce	0	0
+Ovo nije važno.	Questo non è importante.	važno	0	0
+Poznajem tvog oca.	Conosco tuo padre.	oca	0	0
+Još jedna prodavnica će se uskoro otvoriti u Bostonu.	A breve un altro punto vendita aprirà a Boston.	uskoro	0	0
+Они су се смејали због његове грешке.	Risero del suo sbaglio.	су	0	0
+Ovaj članak sadrži neke potpuno nove ideje.	Questo articolo contiene alcune idee del tutto nuove.	potpuno	0	0
+Njegova majka je Jugoslovenka.	Sua madre è iugoslava.	njegova	0	0
+Imam plan. Ne brini.	Ho un piano. Non preoccupatevi.	brini	0	0
+Ona je moja prva ljubav.	È il mio primo amore.	ljubav	0	0
+Film počinje u deset sati.	Il film comincia alle dieci.	sati	0	0
+Vidim vašu kuću.	Io vedo la vostra casa.	kuću	0	0
+Devojka vidi dečaka.	La ragazza vede il ragazzo.	devojka	0	0
+Između glave i tela je vrat.	Tra la testa e il corpo c'è il collo.	između	0	0
+Nasilje je jedini jezik koji oni razumeju.	La violenza è l'unico linguaggio che capiscono.	jedini	0	0
+Moji prijatelji žive u istoj kući kao i ja.	I miei amici vivono nella mia stessa casa.	prijatelji	0	0
+Tomova porodica živi u Bostonu.	La famiglia di Tom vive a Boston.	živi	0	0
+Bergen je drugi najveći grad u Norveškoj.	Bergen è la seconda città più grande della Norvegia.	grad	0	0
+Poznajem tvog oca.	Conosco tuo padre.	tvog	0	0
+Da li si čitao Svetu Bibliju.	Hai letto la Sacra Bibbia?	svetu	0	0
+Imamo devet osoba u mojoj porodici.	Ci sono nove persone nella mia famiglia.	mojoj	0	0
+Imamo devet osoba u mojoj porodici.	Ci sono nove persone nella mia famiglia.	osoba	0	0
+Tom ima dvoje dece.	Tom ha due figli.	dvoje	0	0
+Odakle si?	Da dove vieni?	odakle	0	0
+Том није на Фејцбукзу.	Tom non è su Facebook.	није	0	0
+Имам све што ми треба.	Ho tutto ciò di cui ho bisogno.	што	0	0
+Moji prijatelji žive u istoj kući kao i ja.	I miei amici vivono nella mia stessa casa.	moji	0	0
+"Izgledaš umorno." - "Loše sam spavao."	"Sembri stanco". - "Ho dormito male".	izgledaš	0	0
+Imam plan. Ne brini.	Ho un piano. Non preoccupatevi.	plan	0	0
+Tom se nije plašio smrti.	Tom non aveva paura della morte.	smrti	0	0
+Da li je to daleko odavde?	È lontano da qui?	daleko	0	0
+Imate li pitanja?	Avete delle domande?	pitanja	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci.	šest	0	0
+Ово је књига.	Questo è un libro.	ово	0	0
+Она је пољубила мене, а не њега.	(Lei) ha baciato me, non lui.	а	0	0
+Mogu da živim bez vode.	Riesco a vivere senz'acqua.	vode	0	0
+Imam mnogo prijatelja.	Ho molti amici.	prijatelja	0	0
+Ти не знаш ништа о мени.	Non sai niente di me.	о	0	0
+Она ме је звала веома касно последње ноћи.	Mi ha chiamato molto tardi la notte scorsa.	ме	0	0
+Život bez ljubavi nema nikakvog smisla.	Una vita senza amore non ha assolutamente alcun senso.	ljubavi	0	0
+Govoriš li Italijanski?	Parli in italiano?	govoriš	0	0
+Ja mrzim pse.	Io odio i cani.	mrzim	0	0
+Tom voli da igra bilijar.	Tom ama giocare a biliardo.	igra	0	0
+Moja sestra mi je otvorila vrata.	Mia sorella mi ha aperto la porta.	sestra	0	0
+Moja je porodica volela Toma.	La mia famiglia amava Tom.	volela	0	0
+Ko su ovi ljudi?	Chi sono queste persone?	ovi	0	0
+Ne želimo ovog.	Non vogliamo questo.	želimo	0	0
+Emet je sedeo deset sati na mojoj strani kreveta.	Emet sedette al capezzale del mio letto per dieci ore.	deset	0	0
+Како се каже то на италијанском?	Come si dice questo in italiano?	како	0	0
+Добро. А ти?	Bene. E tu?	добро	0	0
+Ми смо брат и сестра.	Siamo fratello e sorella.	смо	0	0
+Film počinje u deset sati.	Il film comincia alle dieci.	film	0	0
+Tomova porodica živi u Bostonu.	La famiglia di Tom vive a Boston.	porodica	0	0
+Ko je ostavio otvorena vrata?	Chi ha lasciato la porta aperta?	ostavio	0	0
+Hajde da budemo prijatelji.	Diventiamo amici.	budemo	0	0
+Tom je imao isti problem.	Tom ebbe lo stesso problema.	isti	0	0
+Matematika je osnova svim naukama.	La matematica è fondamentale per tutte le scienze.	svim	0	0
+Ona je moja prva ljubav.	Lei è il mio primo amore.	prva	0	0
+Ако рано почнемо, можемо завршити до ручка.	Se cominciamo presto, possiamo finire prima di pranzo.	ако	0	0
+Гладан сам као вук.	Ho una fame da lupo.	као	0	0
+Zašto postoje godišnja doba?	Perché esistono le stagioni?	postoje	0	0
+Имам све што ми треба.	Ho tutto ciò di cui ho bisogno.	све	0	0
+Vidim vašu kuću.	Vedo la vostra casa.	vašu	0	0
+Конференција ће завршити сутра.	La conferenza si concluderà domani.	ће	0	0
+U kupatilu nema nikoga.	Non c'è nessuno in bagno.	nikoga	0	0
+Овде не видимо много снега.	Da noi la neve si vede poco.	овде	0	0
+Када сте се родили?	Quando sei nata?	сте	0	0
+Konačno!	Fine!	konačno	0	0
+Da li veruješ u Boga?	Credi in Dio?	boga	0	0
+Znaš li kako se koristi ova mašina?	Sai come usare questa macchina?	koristi	0	0
+Ne želim da idem u školu.	Non voglio andare a scuola.	školu	0	0
+Tom ima dva brata i jednu sestru.	Tom ha due fratelli e una sorella.	brata	0	0
+Никада нисам видео тако сјајну звезду као ову.	Non ho mai visto una stella tanto brillante quanto questa.	тако	0	0
+Он се плаши мора.	Lui ha paura del mare.	он	0	0
+Operi noge da skines prljavštinu sa njih.	Lavatevi abbondantemente i piedi per rimuovere lo sporco.	noge	0	0
+Gde su roditelji?	Dove sono i genitori?	roditelji	0	0
+Da li često pada kiša u Nemačkoj?	Piove spesso in Germania?	često	0	0
+Živim u Moldovi.	Io vivo in Moldavia.	živim	0	0
+On ima veliku porodicu.	Lui ha una grande famiglia.	porodicu	0	0
+Voz je stigao na vreme danas, kao i uvek.	Il treno era in orario oggi, come sempre.	stigao	0	0
+Jumi je jedan od mojih prijatelja.	Yumi è una delle mie amiche.	mojih	0	0
+Oni moraju da piju vodu.	Loro devono bere dell'acqua.	moraju	0	0
+Objasni mi, molim te, pravila fudbala.	Per favore, spiegami le regole del football.	pravila	0	0
+Emet je sedeo deset sati na mojoj strani kreveta.	Emet sedette al capezzale del mio letto per dieci ore.	strani	0	0
+Ovaj članak sadrži neke potpuno nove ideje.	Questo articolo contiene alcune idee del tutto nuove.	nove	0	0
+Tome, potrebna mi je tvoja pomoć.	Tom, ho bisogno del tuo aiuto.	potrebna	0	0
+Ona ima sedam sinova.	Lei ha sette figli.	sedam	0	0
+Poznajem tvog oca.	Conosco tuo padre.	poznajem	0	0
+Знам Томов глас.	Conosco la voce di Tom.	знам	0	0
+Ја такође не могу да живим без вас.	Neppure io riesco a vivere senza di voi.	могу	0	0
+Oni moraju da piju vodu.	Loro devono bere dell'acqua.	vodu	0	0
+Kako se zoveš?	Come ti chiami?	zoveš	0	0
+Pozovite policiju!	Chiamate la polizia!	policiju	0	0
+Da li veruješ u Boga?	Credi in Dio?	veruješ	0	0
+Da li si kupio hranu za mačke?	Hai comprato il cibo per i gatti?	hranu	0	0
+On ima veliku porodicu.	Lui ha una grande famiglia.	veliku	0	0
+Napad na jednog od nas je napad na sve nas.	Un attacco contro uno di noi è un attacco contro tutti noi.	napad	0	0
+On je otkrio novu zvezdu.	Ha scoperto una nuova stella.	novu	0	0
+Život bez ljubavi nema nikakvog smisla.	Una vita senza amore non ha assolutamente alcun senso.	smisla	0	0
+Ko je napisao to pismo?	Chi ha scritto quella lettera?	pismo	0	0
+Tom ima dvoje dece.	Tom ha due figli.	dece	0	0
+Никада нисам видео тако сјајну звезду као ову.	Non ho mai visto una stella tanto brillante quanto questa.	нисам	0	0
+Pas je mrtav.	Il cane è morto.	pas	0	0
+Kakvo glupo pitanje!	Che domanda stupida!	kakvo	0	0
+Indija je sedma zemlja na svetu po veličini.	L'India è il settimo paese più grande del mondo.	zemlja	0	0
+Između glave i tela je vrat.	Tra la testa e il corpo c'è il collo.	glave	0	0
+Film počinje u deset sati.	Il film comincia alle dieci.	počinje	0	0
+Mario je kupio mikroskop.	Mario ha comprato un microscopio.	kupio	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci.	osam	0	0
+Imam knjigu.	Ho un libro.	knjigu	0	0
+Da li si nekada video NLO?	Hai mai visto un UFO?	nekada	0	0
+Da li imate japansko pivo?	Avete della birra giapponese?	pivo	0	0
+Где си ти?	Dove sei?	где	0	0
+Kakvo glupo pitanje!	Che domanda stupida!	glupo	0	0
+Ја такође не могу да живим без вас.	Neppure io riesco a vivere senza di voi.	вас	0	0
+Нису сви који овде станују - богати.	Non tutti quelli che abitano qui sono ricchi.	који	0	0
+Između glave i tela je vrat.	Tra la testa e il corpo c'è il collo.	tela	0	0
+Zašto pitaš?	Perché lo chiedi?	pitaš	0	0
+Moji prijatelji žive u istoj kući kao i ja.	I miei amici vivono nella mia stessa casa.	žive	0	0
+Она је млада студенткиња.	Lei è una giovane studentessa.	она	0	0
+Мислим да је Том посесиван.	Penso che Tom sia possessivo.	мислим	0	0
+Желите ли чај или кафу?	Gradite del tè o del caffè?	или	0	0
+Šta je veće, Sunce ili Zemlja?	Qual è più grande, il sole o la terra?	sunce	0	0
+Koliko imaš knjiga?	Quanti libri hai?	knjiga	0	0
+Имам све што ми треба.	Ho tutto ciò di cui ho bisogno.	треба	0	0
+Da li često pada kiša u Nemačkoj?	Piove spesso in Germania?	pada	0	0
+Ne želim da igram ovu igru.	Non voglio giocare a questo gioco.	igru	0	0
+Hladno je.	Fa freddo.	hladno	0	0
+Danas je pao prvi sneg.	Oggi è caduta la prima neve.	pao	0	0
+Mogu li da otvorim prozor?	Posso aprire la finestra?	prozor	0	0
+Ако рано почнемо, можемо завршити до ручка.	Se cominciamo presto, possiamo finire prima di pranzo.	до	0	0
+Njeno ime je bilo Marija.	Il suo nome era Mary.	njeno	0	0
+Napisao je knjigu u Kini.	Scrisse un libro in Cina.	napisao	0	0
+Ко је оставио отворена врата?	Chi ha lasciato la porta aperta?	ко	0	0
+Том има гитару.	Tom ha una chitarra.	има	0	0
+Престани с том глупошћу!	Fermate questa pazzia!	с	0	0
+Kako su Tom i Meri?	Come stanno Tom e Mary?	meri	0	0
+Zima je moje omiljeno doba.	L'inverno è la mia stagione preferita.	doba	0	0
+Imam belog konja.	Ho un cavallo bianco.	konja	0	0
+Пас је мој.	Il cane è mio.	мој	0	0
+Ona je starija od dve sestre.	Lei è la maggiore delle due sorelle.	sestre	0	0
+Када сте се родили?	Quando sei nata?	када	0	0
+Latinski je jezik budućnosti!	Il latino è la lingua del futuro!	jezik	0	0
+Moj život je u opasnosti.	La mia vita è in pericolo.	opasnosti	0	0
+Зар ти то не смета?	Non ti disturba?	зар	0	0
+Tom ima dva brata i jednu sestru.	Tom ha due fratelli e una sorella.	sestru	0	0
+Добро. А ви?	Bene. E voi?	ви	0	0
+Рекао сам вам да то не функционише.	Vi ho detto che non funziona.	вам	0	0
+Рекао сам вам да то не функционише.	Vi ho detto che non funziona.	рекао	0	0
+Она је дошла да нас види јуче.	È venuta a trovarci ieri.	нас	0	0
+Imamo devet osoba u mojoj porodici.	Ci sono nove persone nella mia famiglia.	devet	0	0
+Ти не знаш ништа о мени.	Non sai niente di me.	знаш	0	0
+Plašim se visine.	Ho paura delle altezze.	plašim	0	0
+Ona je trudna.	È incinta.	trudna	0	0
+Sunce je zvezda.	Il Sole è una stella.	zvezda	0	0
+Da li govorite italijanski?	Parli italiano?	govorite	0	0
+Ти не знаш ништа о мени.	Non sai niente di me.	ништа	0	0
+Она је пољубила мене, а не њега.	(Lei) ha baciato me, non lui.	мене	0	0
+Gladan sam kao vuk.	Ho una fame da lupo.	gladan	0	0
+"Izgledaš umorno." - "Loše sam spavao."	"Sembri stanco". - "Ho dormito male".	spavao	0	0
+Imamo devet osoba u mojoj porodici.	Ci sono nove persone nella mia famiglia.	porodici	0	0
+Ne želim da igram ovu igru.	Non voglio giocare a questo gioco.	igram	0	0
+Zatvori prozor.	Chiudi la finestra.	zatvori	0	0
+On je otkrio novu zvezdu.	Ha scoperto una nuova stella.	otkrio	0	0
+Živimo samo ovde i sada.	Noi viviamo solo qui ed ora.	živimo	0	0
+Bergen je drugi najveći grad u Norveškoj.	Bergen è la seconda città più grande della Norvegia.	najveći	0	0
+Voz je stigao na vreme danas, kao i uvek.	Il treno era in orario oggi, come sempre.	voz	0	0
+Oni prodaju ribu i meso.	Vendono pesce e carne.	meso	0	0
+Nađi mačku.	Trovate il gatto.	nađi	0	0
+Принцеза је била неописиво лепа.	La principessa era indescrivibilmente bella.	била	0	0
+Šta je veće, Sunce ili Zemlja?	Qual è più grande, il sole o la terra?	veće	0	0
+Имам причу да испичам.	Ho una storia da raccontare.	имам	0	0
+Moj otac sluša klasičnu muziku.	Mio padre ascolta musica classica.	muziku	0	0
+Они су се смејали због његове грешке.	Risero del suo sbaglio.	они	0	0
+Latinski je jezik budućnosti!	Il latino è la lingua del futuro!	budućnosti	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci.	један	0	0
+Желим да живим у граду.	Voglio vivere in città.	желим	0	0
+Oni prodaju ribu i meso.	Vendono pesce e carne.	prodaju	0	0
+On govori engleski.	Lui parla inglese.	engleski	0	0
+Ko je vlasnik ove gitare?	Chi è il proprietario di questa chitarra?	vlasnik	0	0
+Konačno je petak.	Finalmente è venerdì.	petak	0	0
+Ми смо увек срећни.	Siamo sempre fortunati.	увек	0	0
+Zaboravljam gde ostavim šešir.	Ho dimenticato dove ho lasciato il cappello.	ostavim	0	0
+Нису сви који овде станују - богати.	Non tutti quelli che abitano qui sono ricchi.	сви	0	0
+Jabuka je pala sa drveta.	La mela è caduta dall'albero.	pala	0	0
+Идемо на ручак у 1 сат, односно за 10 минута.	Andiamo a pranzo all'una, quindi tra dieci minuti.	идемо	0	0
+Sviđa mi se instrumentalna muzika.	Mi piace la musica strumentale.	muzika	0	0
+Između glave i tela je vrat.	Tra la testa e il corpo c'è il collo.	vrat	0	0
+U čemu je razlika između imitacije i pravih dijamanata?	Qual è la differenza tra diamanti veri e imitazioni?	razlika	0	0
+Они су се смејали због његове грешке.	Risero del suo sbaglio.	због	0	0
+Tom je nosio crni šešir.	Tom stava indossando un cappello nero.	nosio	0	0
+Ovaj članak sadrži neke potpuno nove ideje.	Questo articolo contiene alcune idee del tutto nuove.	ideje	0	0
+Da li često pada kiša u Nemačkoj?	Piove spesso in Germania?	kiša	0	0
+Devojka vidi dečaka.	La ragazza vede il ragazzo.	dečaka	0	0
+Koliko to košta?	Quanto costa quello?	košta	0	0
+Tom je nosio crni šešir.	Tom stava indossando un cappello nero.	crni	0	0
+Ово је моја жена Едита.	Questa è mia moglie Edita.	моја	0	0
+Tvoje su pantalone prljave.	I tuoi pantaloni sono sporchi.	pantalone	0	0
+Ko je ostavio otvorena vrata?	Chi ha lasciato la porta aperta?	otvorena	0	0
+Ovo je moj konj.	Questo è il mio cavallo.	konj	0	0
+Морам да идем да спавам.	Devo andare a dormire.	морам	0	0
+Наш посао никада се неће завршити.	Il nostro lavoro non avrà mai fine.	неће	0	0
+Овде не видимо много снега.	Da noi la neve si vede poco.	много	0	0
+Još jedna prodavnica će se uskoro otvoriti u Bostonu.	A breve un altro punto vendita aprirà a Boston.	otvoriti	0	0
+On je jeo hleb i meso.	Mangiava pane e carne.	jeo	0	0
+Njeno ime je bilo Marija.	Il suo nome era Mary.	marija	0	0
+Moj ujak ima veliku porodicu.	Mio zio ha una famiglia numerosa.	ujak	0	0
+Ја такође не могу да живим без вас.	Neppure io riesco a vivere senza di voi.	без	0	0
+Emet je sedeo deset sati na mojoj strani kreveta.	Emet sedette al capezzale del mio letto per dieci ore.	kreveta	0	0
+Mario i Luiđi su braća.	Mario e Luigi sono fratelli.	braća	0	0
+Ако рано почнемо, можемо завршити до ручка.	Se cominciamo presto, possiamo finire prima di pranzo.	можемо	0	0
+Tom mnogo pije.	Tom beve molto.	pije	0	0
+Gde ima dima, ima i vatre.	Non c'è fumo senza arrosto.	vatre	0	0
+Zaboravljam gde ostavim šešir.	Ho dimenticato dove ho lasciato il cappello.	šešir	0	0
+Ne želim ni meso ni ribu.	Non voglio né carne né pesce.	ribu	0	0
+Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	Fino a quando, Catilina, abuserai della nostra pazienza?	ћеш	0	0
+Znaš li kako se koristi ova mašina?	Sai come usare questa macchina?	mašina	0	0
+Znamo da je teško, ali molimo vas da ne prevodite bukvalno.	Sappiamo che è difficile, però per piacere non traducete letteralmente.	molimo	0	0
+Она је дошла да нас види јуче.	È venuta a trovarci ieri.	види	0	0
+Objasni mi, molim te, pravila fudbala.	Per favore, spiegami le regole del football.	objasni	0	0
+Moj otac sluša klasičnu muziku.	Mio padre ascolta musica classica.	sluša	0	0
+On je otvorio vrata.	Lui ha aperto la porta.	otvorio	0	0
+Zemlja je planeta.	La Terra è un pianeta.	planeta	0	0
+Ћао, Томе.	Ciao, Tom.	томе	0	0
+Da li si čitao Svetu Bibliju.	Hai letto la Sacra Bibbia?	čitao	0	0
+Život bez ljubavi nema nikakvog smisla.	Una vita senza amore non ha assolutamente alcun senso.	nikakvog	0	0
+Ово је моје питање.	Questa è la mia domanda.	моје	0	0
+Pojeo sam sendvič sa ćuretinom.	Io ho mangiato un sandwich al tacchino.	pojeo	0	0
+Како се зове твој друг?	Qual è il nome del tuo amico?	твој	0	0
+Он се плаши мора.	Lui ha paura del mare.	мора	0	0
+Nisam toliko visok kao ti.	Non sono alto come te.	visok	0	0
+Čija je ovo gitara?	Di chi è questa chitarra?	čija	0	0
+Imam alergiju na mleko.	Sono allergica al latte.	mleko	0	0
+Moji prijatelji žive u istoj kući kao i ja.	I miei amici vivono nella mia stessa casa.	istoj	0	0
+Ovo je moj kompjuter.	Questo è il mio computer.	kompjuter	0	0
+Наш посао никада се неће завршити.	Il nostro lavoro non avrà mai fine.	посао	0	0
+Морам да идем да спавам.	Devo andare a dormire.	идем	0	0
+Tom ima lepu baštu.	Tom ha un bel giardino.	lepu	0	0
+Ja mrzim pse.	Io odio i cani.	pse	0	0
+Ovaj članak sadrži neke potpuno nove ideje.	Questo articolo contiene alcune idee del tutto nuove.	članak	0	0
+Данас је Светски дан слонова.	Oggi è la Giornata mondiale degli elefanti.	дан	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci.	два	0	0
+Pozovite policiju!	Chiamate la polizia!	pozovite	0	0
+Kako je ona izgledala?	Lei che aspetto aveva?	izgledala	0	0
+Pojeo sam sendvič sa ćuretinom.	Io ho mangiato un sandwich al tacchino.	sendvič	0	0
+Она је пољубила мене, а не њега.	(Lei) ha baciato me, non lui.	њега	0	0
+Никада нисам видео тако сјајну звезду као ову.	Non ho mai visto una stella tanto brillante quanto questa.	никада	0	0
+Добар тек!	Buon appetito!	добар	0	0
+Петар је истинољубив човек.	Pietro è un uomo sincero.	човек	0	0
+Дај ми хиљаду пољубаца.	Dammi mille baci.	дај	0	0
+Da li si kupio hranu za mačke?	Hai comprato il cibo per i gatti?	mačke	0	0
+Mogu li da otvorim prozor?	Posso aprire la finestra?	otvorim	0	0
+Jabuka je pala sa drveta.	La mela è caduta dall'albero.	drveta	0	0
+Ја сам је лично видео.	L'ho visto io stesso.	видео	0	0
+Данас је хладно.	Oggi c'è freddo.	данас	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci.	три	0	0
+Нису сви који овде станују - богати.	Non tutti quelli che abitano qui sono ricchi.	нису	0	0
+Много волим багремов мед.	Mi piace molto il miele d'acacia.	волим	0	0
+Znamo da je teško, ali molimo vas da ne prevodite bukvalno.	Sappiamo che è difficile, però per piacere non traducete letteralmente.	bukvalno	0	0
+Она ме је звала веома касно последње ноћи.	Mi ha chiamato molto tardi la notte scorsa.	веома	0	0
+Da li je ona lekar?	Lei è una dottoressa?	lekar	0	0
+On je jeo hleb i meso.	Mangiava pane e carne.	hleb	0	0
+Sada ne učim.	Io non sto studiando ora.	učim	0	0
+Очигледно желиш да помогнеш.	Ovviamente vuoi aiutare.	желиш	0	0
+Ти не знаш ништа о мени.	Non sai niente di me.	мени	0	0
+Nasilje je jedini jezik koji oni razumeju.	La violenza è l'unico linguaggio che capiscono.	nasilje	0	0
+"Kako si?" - "Dobro sam." - "To sam i mislio." - "Zašto?" - "Loši ljudi su uvek dobro."	"Come va la vita?" - "Bene". - "Lo sapevo". - "Perché?" - "Alle persone cattive va sempre bene".	loši	0	0
+Планете се окрећу око звезде.	I pianeti ruotano attorno ad una stella.	око	0	0
+Како се ово каже на француском?	Come si dice in francese?	каже	0	0
+Неки кажу да се завршила цивилизација књиге. Ја сумњам у то.	Alcuni affermano che la civiltà del libro è finita. Io ne dubito.	неки	0	0
+Danas je pao prvi sneg.	Oggi è caduta la prima neve.	sneg	0	0
+Oni mrze paukove.	Loro odiano i ragni.	mrze	0	0
+Ali ja želim automobil.	Ma io voglio l'automobile.	automobil	0	0
+Gde je moj telefonski imenik?	Dov'è il mio elenco telefonico?	telefonski	0	0
+Име ми је Јиамин Ванг.	Il mio nome è Wang Jiaming.	име	0	0
+Nađi mačku.	Trovate il gatto.	mačku	0	0
+Emet je sedeo deset sati na mojoj strani kreveta.	Emet sedette al capezzale del mio letto per dieci ore.	sedeo	0	0
+Лепо је имати потомке.	È bello avere dei figli (dei discendenti).	лепо	0	0
+Život je kratak.	La vita è breve.	kratak	0	0
+Имате ли јапанско пиво?	Ha della birra giapponese?	имате	0	0
+U kupatilu nema nikoga.	Non c'è nessuno in bagno.	kupatilu	0	0
+Ово је моја жена Едита.	Questa è mia moglie Edita.	жена	0	0
+Gladan sam kao vuk.	Ho una fame da lupo.	vuk	0	0
+Ulje u lampi je iskorišćeno.	L'olio nella lampada si è consumato.	ulje	0	0
+On ima dobro pamćenje.	Lui ha una buona memoria.	pamćenje	0	0
+Moja sestra mi je otvorila vrata.	Mia sorella mi ha aperto la porta.	otvorila	0	0
+Plašim se visine.	Ho paura delle altezze.	visine	0	0
+On ima slabo srce.	È debole di cuore.	slabo	0	0
+Овде не видимо много снега.	Da noi la neve si vede poco.	видимо	0	0
+Какав отац, такав син.	Tale padre, tale figlio.	отац	0	0
+Ona je starija od dve sestre.	Lei è la maggiore delle due sorelle.	starija	0	0
+Maja Keuc je dobra pevačica.	Maja Keuc è una buona cantante.	maja	0	0
+Ovaj članak sadrži neke potpuno nove ideje.	Questo articolo contiene alcune idee del tutto nuove.	sadrži	0	0
+U Africi ima puno lavova.	In Africa ci sono molti leoni.	africi	0	0
+Tom se nije plašio smrti.	Tom non aveva paura della morte.	plašio	0	0
+Ко је оставио отворена врата?	Chi ha lasciato la porta aperta?	врата	0	0
+Конференција ће завршити сутра.	La conferenza si concluderà domani.	сутра	0	0
+Желите ли чај или кафу?	Prendete del tè o del caffè?	желите	0	0
+Ko od vas prevodi uz pomoć programa za prevođenje?	Chi di voi traduce utilizzando un programma di traduzione?	programa	0	0
+Наш посао никада се неће завршити.	Il nostro lavoro non avrà mai fine.	наш	0	0
+Moja je porodica volela Toma.	La mia famiglia amava Tom.	toma	0	0
+Новац симболизује вредност имовине.	Il denaro rappresenta il valore delle cose possedute.	новац	0	0
+Tvoje su pantalone prljave.	I tuoi pantaloni sono sporchi.	prljave	0	0
+Ta torba je moja.	Quella borsa è mia.	torba	0	0
+Idem na plažu.	Vado in spiaggia.	plažu	0	0
+Каква лепа ноћ!	Che bella notte!	ноћ	0	0
+У пролеће велики број туриста посећује Кјото.	In primavera un gran numero di turisti visitano Kyoto.	велики	0	0
+Идемо на ручак у 1 сат, односно за 10 минута.	Andiamo a pranzo all'una, quindi tra dieci minuti.	минута	0	0
+Ја такође не могу да живим без вас.	Neppure io riesco a vivere senza di voi.	такође	0	0
+Hoћеш ли ми помоћи да спакујем кофере?	Mi aiuti a preparare le valigie?	помоћи	0	0
+Mario i Luiđi su braća.	Mario e Luigi sono fratelli.	mario	0	0
+Никада нисам видео тако сјајну звезду као ову.	Non ho mai visto una stella tanto brillante quanto questa.	ову	0	0
+Не постоје две истине.	La verità è una sola.	две	0	0
+Кети Волф је добра певачица.	Kati Wolf è una buona cantante.	добра	0	0
+Ti više ne možeš da kupuješ jabuke!	Non puoi più comprare mele!	jabuke	0	0
+Možeš li mi pomoći da prevedem ove rečenice na kineski?	Mi puoi aiutare a tradurre queste frasi in cinese?	kineski	0	0
+То је његов ауто.	Quella è la sua macchina.	његов	0	0
+Држите ваше очи отворене.	Tenete i vostri occhi aperti.	ваше	0	0
+On je otkrio novu zvezdu.	Ha scoperto una nuova stella.	zvezdu	0	0
+Koliko jabuka?	Quante mele?	jabuka	0	0
+Oni moraju da piju vodu.	Loro devono bere dell'acqua.	piju	0	0
+Imam belog konja.	Ho un cavallo bianco.	belog	0	0
+Моја мајка воли музику.	Mia madre ama la musica.	мајка	0	0
+Zima je moje omiljeno doba.	L'inverno è la mia stagione preferita.	zima	0	0
+Operi noge da skines prljavštinu sa njih.	Lavatevi abbondantemente i piedi per rimuovere lo sporco.	operi	0	0
+Zima je moje omiljeno doba.	L'inverno è la mia stagione preferita.	omiljeno	0	0
+Napisao je knjigu u Kini.	Ha scritto un libro in Cina.	kini	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci.	пет	0	0
+Nasilje je jedini jezik koji oni razumeju.	La violenza è l'unico linguaggio che capiscono.	razumeju	0	0
+То је апсолутна истина!	Quella è la verità assoluta!	истина	0	0
+Девојка види дечака.	La ragazza vede il ragazzo.	девојка	0	0
+У пролеће велики број туриста посећује Кјото.	In primavera un gran numero di turisti visitano Kyoto.	број	0	0
+Како се зове твој друг?	Qual è il nome del tuo amico?	зове	0	0
+Том има гитару.	Tom ha una chitarra.	том	0	0
+Ћао, Томе.	Ciao, Tom.	ћао	0	0
+Da li često pada kiša u Nemačkoj?	Piove spesso in Germania?	nemačkoj	0	0
+Лепо је имати потомке.	È bello avere dei figli (dei discendenti).	имати	0	0
+Naoružan sam.	Sono armato.	naoružan	0	0
+Još jedna prodavnica će se uskoro otvoriti u Bostonu.	A breve un altro punto vendita aprirà a Boston.	prodavnica	0	0
+Mi smo studenti.	Noi siamo studenti.	studenti	0	0
+Gde ima dima, ima i vatre.	Non c'è fumo senza arrosto.	dima	0	0
+Kakav je tvoj zaključak?	Qual è la tua conclusione?	zaključak	0	0
+Ваша кућа је велика.	Casa vostra è grande.	ваша	0	0
+Da li možeš da pročitaš ovaj kanji?	Sai leggere questo kanji?	pročitaš	0	0
+Предавати енглески је његова професија.	Il suo mestiere è insegnare l'inglese.	његова	0	0
+Какав отац, такав син.	Tale padre, tale figlio.	какав	0	0
+Престани с том глупошћу!	Fermate questa pazzia!	престани	0	0
+Ja nisam popularan.	Non sono popolare.	popularan	0	0
+Ja ću ukloniti dodatak.	Sto per rimuovere l'appendice.	dodatak	0	0
+Količina ništa ne govori o kvalitetu.	La quantità dice nulla sulla qualità.	količina	0	0
+Какав отац, такав син.	Tale padre, tale figlio.	син	0	0
+Mislim da nas je Tom slagao.	Io penso che Tom ci abbia mentito.	slagao	0	0
+Ово је моје питање.	Questa è la mia domanda.	питање	0	0
+Она ме је звала веома касно последње ноћи.	Mi ha chiamato molto tardi la notte scorsa.	ноћи	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci.	четири	0	0
+Моја мајка воли музику.	Mia madre ama la musica.	воли	0	0
+Matematika je osnova svim naukama.	La matematica è fondamentale per tutte le scienze.	osnova	0	0
+Да ли је то љубав?	È amore?	љубав	0	0
+"Izgledaš umorno." - "Loše sam spavao."	"Sembri stanco". - "Ho dormito male".	umorno	0	0
+Da li si čitao Svetu Bibliju.	Hai letto la Sacra Bibbia?	bibliju	0	0
+Волим да студирам стране језике.	A me piace studiare le lingue straniere.	стране	0	0
+Ti više ne možeš da kupuješ jabuke!	Non puoi più comprare mele!	kupuješ	0	0
+Мамино срце никада не греши.	Il cuore della mamma non sbaglia mai.	срце	0	0
+То је његов ауто.	Quella è la sua macchina.	ауто	0	0
+У почетку Бог је створио небо и Земљу.	In principio Dio creò il cielo e la terra.	бог	0	0
+Šta je izazvalo eksploziju?	Cos'ha causato l'esplosione?	eksploziju	0	0
+Još jedna prodavnica će se uskoro otvoriti u Bostonu.	A breve un altro punto vendita aprirà a Boston.	bostonu	0	0
+Главни град Србије је Београд.	La capitale della Serbia è Belgrado.	град	0	0
+Држите ваше очи отворене.	Tenete i vostri occhi aperti.	очи	0	0
+Идемо на ручак у 1 сат, односно за 10 минута.	Andiamo a pranzo all'una, quindi tra dieci minuti.	сат	0	0
+Ja ću ukloniti dodatak.	Sto per rimuovere l'appendice.	ukloniti	0	0
+Govoriš li Italijanski?	Parli in italiano?	italijanski	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci.	шест	0	0
+U čemu je razlika između imitacije i pravih dijamanata?	Qual è la differenza tra diamanti veri e imitazioni?	pravih	0	0
+Каква лепа ноћ!	Che bella notte!	каква	0	0
+Ви много радите.	Lavori molto.	радите	0	0
+Ваша кућа је велика.	Casa vostra è grande.	велика	0	0
+Ми смо брат и сестра.	Siamo fratello e sorella.	брат	0	0
+On je Francuz.	Lui è francese.	francuz	0	0
+Неки кажу да се завршила цивилизација књиге. Ја сумњам у то.	Alcuni affermano che la civiltà del libro è finita. Io ne dubito.	кажу	0	0
+У овој соби је телевизор.	C'è un televisore in questa stanza.	овој	0	0
+Имам план.	Ho un piano.	план	0	0
+Смрт колонијализму!	Morte al colonialismo!	смрт	0	0
+Добар тек!	Buon appetito!	тек	0	0
+Indija je sedma zemlja na svetu po veličini.	L'India è il settimo paese più grande del mondo.	indija	0	0
+Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci.	četri	0	0
+Tom ima lepu baštu.	Tom ha un bel giardino.	baštu	0	0
+Šta je izazvalo eksploziju?	Cos'ha causato l'esplosione?	izazvalo	0	0
+Zaboravljam gde ostavim šešir.	Ho dimenticato dove ho lasciato il cappello.	zaboravljam	0	0
+Она је дошла да нас види јуче.	È venuta a trovarci ieri.	дошла	0	0
+Ona ima sedam sinova.	Lei ha sette figli.	sinova	0	0
+Matematika je osnova svim naukama.	La matematica è fondamentale per tutte le scienze.	matematika	0	0
+У овој соби је телевизор.	C'è un televisore in questa stanza.	соби	0	0
+Очигледно желиш да помогнеш.	Ovviamente vuoi aiutare.	очигледно	0	0
+Када почиње игра?	Quando comincia la partita?	игра	0	0
+Indija je sedma zemlja na svetu po veličini.	L'India è il settimo paese più grande del mondo.	veličini	0	0
+Зовем се Џек.	Mi chiamo Jack.	зовем	0	0
+Limun je kiseo.	Il limone è acido.	limun	0	0
+Они су се смејали због његове грешке.	Risero del suo sbaglio.	његове	0	0
+Ми смо брат и сестра.	Siamo fratello e sorella.	сестра	0	0
+Не постоје две истине.	La verità è una sola.	постоје	0	0
+Желим да живим у граду.	Voglio vivere in città.	граду	0	0
+Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	Fino a quando, Catilina, abuserai della nostra pazienza?	нашу	0	0
+У почетку Бог је створио небо и Земљу.	In principio Dio creò il cielo e la terra.	земљу	0	0
+Ваша кућа је велика.	Casa vostra è grande.	кућа	0	0
+Каква лепа ноћ!	Che bella notte!	лепа	0	0
+Uobičajno je teško navići se na život u stranoj kulturi.	È generalmente difficile adattarsi a vivere in una cultura straniera.	navići	0	0
+Наш јахт клуб има десет чланова.	Il nostro yacht club ha dieci iscritti.	десет	0	0
+Ко је оставио отворена врата?	Chi ha lasciato la porta aperta?	оставио	0	0
+Latinski je jezik budućnosti!	Il latino è la lingua del futuro!	latinski	0	0
+Зовем се Џек.	Mi chiamo Jack.	џек	0	0
+Tom voli da igra bilijar.	Tom ama giocare a biliardo.	bilijar	0	0
+Јуче сам устао рано.	Ieri mi sono alzato presto.	јуче	0	0
+Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	Fino a quando, Catilina, abuserai della nostra pazienza?	коначно	0	0
+Ја не знам куда ви идете.	Non so dove stiate andando.	куда	0	0
+Da li si nekada video NLO?	Hai mai visto un UFO?	nlo	0	0
+Možeš li mi pomoći da prevedem ove rečenice na kineski?	Mi puoi aiutare a tradurre queste frasi in cinese?	rečenice	0	0
+Mi mrzimo paukove.	Noi odiamo i ragni.	mrzimo	0	0
+Збогом!	Addio!	збогом	0	0
+U čemu je razlika između imitacije i pravih dijamanata?	Qual è la differenza tra diamanti veri e imitazioni?	dijamanata	0	0
+Какав отац, такав син.	Tale padre, tale figlio.	такав	0	0
+Imate li vremena sutra poslepodne?	Avete tempo domani dopo mezzogiorno?	poslepodne	0	0
+Maja Keuc je dobra pevačica.	Maja Keuc è una buona cantante.	pevačica	0	0
+Ја сам је лично видео.	L'ho visto io stesso.	лично	0	0
+Имам причу да испичам.	Ho una storia da raccontare.	причу	0	0
+Она ме је звала веома касно последње ноћи.	Mi ha chiamato molto tardi la notte scorsa.	касно	0	0
+Црвена кућа је нова.	La casa rossa è nuova.	нова	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci.	седам	0	0
+Barak Obama je hrišćanin.	Barack Obama è Cristiano.	hrišćanin	0	0
+Čija je ovo gitara?	Di chi è questa chitarra?	gitara	0	0
+Он често свира гитару.	Lui suona spesso la chitarra.	често	0	0
+Ја такође не могу да живим без вас.	Neppure io riesco a vivere senza di voi.	живим	0	0
+Какво питање – такав одговор.	Tale domanda, tale risposta.	одговор	0	0
+Uobičajno je teško navići se na život u stranoj kulturi.	È generalmente difficile adattarsi a vivere in una cultura straniera.	kulturi	0	0
+Главни град Србије је Београд.	La capitale della Serbia è Belgrado.	главни	0	0
+Naoružana sam.	Sono armata.	naoružana	0	0
+Она ме је звала веома касно последње ноћи.	Mi ha chiamato molto tardi la notte scorsa.	последње	0	0
+Operi noge da skines prljavštinu sa njih.	Lavatevi abbondantemente i piedi per rimuovere lo sporco.	prljavštinu	0	0
+Objasni mi, molim te, pravila fudbala.	Per favore, spiegami le regole del football.	fudbala	0	0
+Када почиње игра?	Quando comincia la partita?	почиње	0	0
+U Africi ima puno lavova.	In Africa ci sono molti leoni.	lavova	0	0
+Желите ли чај или кафу?	Prendete del tè o del caffè?	кафу	0	0
+Zašto postoje godišnja doba?	Perché esistono le stagioni?	godišnja	0	0
+Знам Томов глас.	Conosco la voce di Tom.	глас	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci.	осам	0	0
+Ja sam monah.	Sono un monaco.	monah	0	0
+Како се ти зовеш?	Come ti chiami?	зовеш	0	0
+Држите ваше очи отворене.	Tenete i vostri occhi aperti.	држите	0	0
+Зар ти то не смета?	Non ti disturba?	смета	0	0
+Пас је мој.	Il cane è mio.	пас	0	0
+Написала сам писмо Џиму.	Ho scritto una lettera a Jim.	писмо	0	0
+Ја не знам куда ви идете.	Non so dove stiate andando.	идете	0	0
+Barak Obama je hrišćanin.	Barack Obama è Cristiano.	obama	0	0
+Indija je sedma zemlja na svetu po veličini.	L'India è il settimo paese più grande del mondo.	sedma	0	0
+То је добра апликација за почетак бављења спортом.	È una buona applicazione per cominciare a fare sport.	почетак	0	0
+Ko je vlasnik ove gitare?	Chi è il proprietario di questa chitarra?	gitare	0	0
+Пада снег.	Sta nevicando.	пада	0	0
+Ново је.	È nuovo.	ново	0	0
+Данас је хладно.	Oggi c'è freddo.	хладно	0	0
+Какво питање – такав одговор.	Tale domanda, tale risposta.	какво	0	0
+Шта си купио?	Che hai comprato?	купио	0	0
+Гладан мушкарац је љут мушкарац.	Un uomo affamato è un uomo arrabbiato.	мушкарац	0	0
+Довиђења!	Arrivederci.	довиђења	0	0
+Суштина се очима не да сагледати.	L'essenziale è invisibile agli occhi.	очима	0	0
+Имате ли јапанско пиво?	Avete della birra giapponese?	пиво	0	0
+Идемо на ручак у 1 сат, односно за 10 минута.	Andiamo a pranzo all'una, quindi tra dieci minuti.	ручак	0	0
+Возови у Србији су ужасно спори.	I treni in Serbia sono terribilmente lenti.	ужасно	0	0
+Гладан мушкарац је љут мушкарац.	Un uomo affamato è un uomo arrabbiato.	љут	0	0
+Ако рано почнемо, можемо завршити до ручка.	Se cominciamo presto, possiamo finire prima di pranzo.	завршити	0	0
+Написао сам писмо Џиму.	Ho scritto una lettera a Jim.	написао	0	0
+Gde je moj telefonski imenik?	Dov'è il mio elenco telefonico?	imenik	0	0
+Јуче сам устао рано.	Ieri mi sono alzato presto.	рано	0	0
+Она ме је звала веома касно последње ноћи.	Mi ha chiamato molto tardi la notte scorsa.	звала	0	0
+Један, два, три, четири, пет, шест, седам, осам, девет, десет.	Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci.	девет	0	0
+Желите ли чај или кафу?	Gradite del tè o del caffè?	чај	0	0
+Она је млада студенткиња.	Lei è una giovane studentessa.	млада	0	0
+Imamo dva televizora.	Abbiamo due televisori.	televizora	0	0
+Америка се вратила!	L'America è tornata!	вратила	0	0
+Гладан сам као вук.	Ho una fame da lupo.	гладан	0	0
+Девојка види дечака.	La ragazza vede il ragazzo.	дечака	0	0
+Ми смо увек срећни.	Siamo sempre fortunati.	срећни	0	0
+Ово је књига.	Questo è un libro.	књига	0	0
+Морам да идем да спавам.	Devo andare a dormire.	спавам	0	0
+Неки кажу да се завршила цивилизација књиге. Ја сумњам у то.	Alcuni affermano che la civiltà del libro è finita. Io ne dubito.	књиге	0	0
+Ја сумњам да ће то функционисати.	Dubito che funzionerà.	сумњам	0	0
+Мрачно је у Томовој канцеларији.	C'è scuro nell'ufficio di Tom.	канцеларији	0	0
+То није нож. ОВО - ово је нож.	Quello non è un coltello. QUESTO è un coltello.	нож	0	0
+Он се плаши мора.	Ha paura del mare.	плаши	0	0
+Ko od vas prevodi uz pomoć programa za prevođenje?	Chi di voi traduce utilizzando un programma di traduzione?	prevodi	0	0
+Bergen je drugi najveći grad u Norveškoj.	Bergen è la seconda città più grande della Norvegia.	norveškoj	0	0
+Mario je kupio mikroskop.	Mario ha comprato un microscopio.	mikroskop	0	0
+Моја мајка воли музику.	Mia madre ama la musica.	музику	0	0
+Наш јахт клуб има десет чланова.	Il nostro yacht club ha dieci iscritti.	клуб	0	0
+Ja sam Jorge.	Io sono Jorge.	jorge	0	0
+Količina ništa ne govori o kvalitetu.	La quantità dice nulla sulla qualità.	kvalitetu	0	0
+Imam alergiju na mleko.	Sono allergico al latte.	alergiju	0	0
+Emet je sedeo deset sati na mojoj strani kreveta.	Emet sedette al capezzale del mio letto per dieci ore.	emet	0	0
+Ја сам професор.	Sono un professore.	професор	0	0
+Очигледно желиш да помогнеш.	Ovviamente vuoi aiutare.	помогнеш	0	0
+Želim da idem na Bali.	Voglio andare a Bali.	bali	0	0
+У почетку Бог је створио небо и Земљу.	In principio Dio creò il cielo e la terra.	почетку	0	0
+Uobičajno je teško navići se na život u stranoj kulturi.	È generalmente difficile adattarsi a vivere in una cultura straniera.	stranoj	0	0
+То је месо мајмуна.	È carne di scimmia.	месо	0	0
+Moj otac sluša klasičnu muziku.	Mio padre ascolta musica classica.	klasičnu	0	0
+Teheran je u Iranu.	Teheran è in Iran.	iranu	0	0
+Нисам војник.	Non sono un soldato.	војник	0	0
+Mario i Luiđi su braća.	Mario e Luigi sono fratelli.	luiđi	0	0
+У почетку Бог је створио небо и Земљу.	In principio Dio creò il cielo e la terra.	небо	0	0
+Предавати енглески је његова професија.	Il suo mestiere è insegnare l'inglese.	енглески	0	0
+Принцеза је била неописиво лепа.	La principessa era indescrivibilmente bella.	принцеза	0	0
+Ако рано почнемо, можемо завршити до ручка.	Se cominciamo presto, possiamo finire prima di pranzo.	почнемо	0	0
+Дај ми хиљаду пољубаца.	Dammi mille baci.	хиљаду	0	0
+Планете се окрећу око звезде.	I pianeti ruotano attorno ad una stella.	звезде	0	0
+Ulje u lampi je iskorišćeno.	L'olio nella lampada si è consumato.	lampi	0	0
+Отворите!	Aprite!	отворите	0	0
+Ja sam ateista.	Sono ateo.	ateista	0	0
+Они су се смејали због његове грешке.	Risero del suo sbaglio.	грешке	0	0
+Он разуме француски.	Lui capisce il francese.	разуме	0	0
+Ко је оставио отворена врата?	Chi ha lasciato la porta aperta?	отворена	0	0
+Он разуме француски.	Lui capisce il francese.	француски	0	0
+Она има мачку. Мачка је бела.	Lei ha un gatto. Il gatto è bianco.	бела	0	0
+Како се зове твој друг?	Qual è il nome del tuo amico?	друг	0	0
+Данас пада снег.	Oggi nevica.	снег	0	0
+Oni mrze paukove.	Loro odiano i ragni.	paukove	0	0
+Možeš li mi pomoći da prevedem ove rečenice na kineski?	Puoi aiutarmi a tradurre queste frasi in cinese?	prevedem	0	0
+Где је паста за зубе?	Dov'è il dentifricio?	зубе	0	0
+Ја волим сир.	Io amo il formaggio.	сир	0	0
+Он није млад.	Lui non è giovane.	млад	0	0
+Она има мачку. Мачка је бела.	Lei ha un gatto. Il gatto è bianco.	мачка	0	0
+Докле ћеш коначно, Катилина, злоупотребљавати стрпљивост нашу?	Fino a quando, Catilina, abuserai della nostra pazienza?	докле	0	0
+Ризик је превелик.	Il rischio è troppo grande.	ризик	0	0
+Неки кажу да се завршила цивилизација књиге. Ја сумњам у то.	Alcuni affermano che la civiltà del libro è finita. Io ne dubito.	завршила	0	0
+Mi mu se ne sviđamo.	Non gli piacciamo.	sviđamo	0	0
+У почетку Бог је створио небо и Земљу.	In principio Dio creò il cielo e la terra.	створио	0	0
+Рекао сам вам да то не функционише.	Vi ho detto che non funziona.	функционише	0	0
+Uobičajno je teško navići se na život u stranoj kulturi.	È generalmente difficile adattarsi a vivere in una cultura straniera.	uobičajno	0	0
+То су за мене шпанска села.	Questo per me è arabo.	села	0	0

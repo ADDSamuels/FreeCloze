@@ -1,0 +1,221 @@
+A beduinok a sivatagban élnek.	Beduinai gyvena dykumoje.	a	0	0
+Tom nem anarchista.	Tomas ne anarchistas.	nem	0	0
+Az asszony a padon Braunné.	Moteris ant suolo yra ponia Braun.	az	0	0
+Nem akartam, hogy ez történjen.	Nenorėjau, kad tai atsitiktų.	hogy	0	0
+Franciául és angolul beszélek.	Aš kalbu prancūziškai ir angliškai.	és	0	0
+Ez nem út, csak egy ösvény.	Tai ne kelias o takelis.	egy	0	0
+Ő kórházban van.	Jis ligoninėje.	van	0	0
+Ez nem madár.	Tai ne paukštis.	ez	0	0
+Én is erre gondoltam.	Aš ir apie tai galvojau.	is	0	0
+Nyugodj meg és hallgass meg.	Nurimk ir paklausyk manęs.	meg	0	0
+Ez nem út, csak egy ösvény.	Tai ne kelias o takelis.	csak	0	0
+Ha egy kicsit korábban jössz, találkozhattál volna vele.	Jeigu būtum atėjęs truputį anksčiau, būtum ją sutikęs.	ha	0	0
+És mi van, ha ez a terv nem válik be?	O kas, jei šis planas nepavyks?	mi	0	0
+Én beszélek magyarul.	Aš kalbu vengriškai.	én	0	0
+Nézd csak azt a hegyet, amelyik hóval van födve.	Pažiūrėk į tą kalną padengtą sniegu.	azt	0	0
+Ez volt az első aranyérem, melyet nyert.	Tai buvo pirmasis aukso medalis kurį ji laimėjo.	volt	0	0
+Fontos vagy.	Tu esi svarbus.	vagy	0	0
+Meg kell találnom.	Aš turiu tą rasti.	kell	0	0
+Már tudom, ki vagy.	Aš jau žinau, kas tu.	már	0	0
+Ne játssz a tűzzel!	Nežaisk su ugnimi.	ne	0	0
+Beszélsz te japánul?	Ar tu kalbi japoniškai?	te	0	0
+Nem tudom, ki kicsoda.	Aš nežinau kuris yra kuris.	ki	0	0
+Magyar vagyok.	Aš esu vengras.	vagyok	0	0
+Nem tudom, Tom.	Aš nežinau, Tomai.	tudom	0	0
+Szebb vagyok, mint ti.	Aš gražesnė nei tu.	mint	0	0
+Ő kórházban van.	Jis ligoninėje.	ő	0	0
+Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	jól	0	0
+Nincs hazám.	Aš neturiu tėvynės.	nincs	0	0
+Minden növénynek szüksége van vízre és fényre.	Visiems augalams reikia vandens ir šviesos.	minden	0	0
+Semmi sem fontosabb, mint a barátok.	Nėra nieko svarbesnio už draugus.	sem	0	0
+Mindent tud, amit a dzsesszről tudni kell.	Jis žino viską ką tik galima žinoti apie džiazą.	amit	0	0
+És mi van, ha ez a terv nem válik be?	O kas, jei šis planas nepavyks?	be	0	0
+Ha egy kicsit korábban jössz, találkozhattál volna vele.	Jeigu būtum atėjęs truputį anksčiau, būtum ją sutikęs.	volna	0	0
+Nekem nincs hazám.	Aš neturiu tėvynės.	nekem	0	0
+Te nem tudod, mennyire szeretlek.	Tu nežinai kaip stipriai aš tave myliu.	tudod	0	0
+Mindig túl gyorsan hajt.	Jis visada vairuoja savo autobilį per greitai.	mindig	0	0
+Nem, köszönöm.	Ne, dėkui.	köszönöm	0	0
+Semmi sem fontosabb, mint a barátok.	Nėra nieko svarbesnio už draugus.	semmi	0	0
+Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	amikor	0	0
+Kívánok neked sok boldogságot!	Linkiu jums laimės!	neked	0	0
+Mára ennyi elég.	Šiandienai pakanka.	elég	0	0
+Barátként tekintek rá.	Aš laikiau ji savo draugu.	rá	0	0
+Ha egy kicsit korábban jössz, találkozhattál volna vele.	Jeigu būtum atėjęs truputį anksčiau, būtum ją sutikęs.	vele	0	0
+Ma reggel mínusz tíz fok volt.	Šį rytą buvo dešimt laipsnių žemiau nulio.	ma	0	0
+Már otthon vagyunk.	Mes jau namuose.	vagyunk	0	0
+Mindig túl gyorsan hajt.	Jis visada vairuoja savo autobilį per greitai.	túl	0	0
+Kívánok neked sok boldogságot!	Linkiu jums laimės!	sok	0	0
+Két autója van.	Jis turi du automobilius.	két	0	0
+Nem értem.	Nesuprantu.	értem	0	0
+Ha egy kicsit korábban jössz, találkozhattál volna vele.	Jeigu būtum atėjęs truputį anksčiau, būtum ją sutikęs.	kicsit	0	0
+Ez idegesít engem.	Tai mane nervina.	engem	0	0
+Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	arra	0	0
+Fiatal voltam és élni akartam.	Aš buvau jauna ir aš norėjau gyventi.	voltam	0	0
+Taxival megyünk, ugye?	Važiuosime taksi, tiesa?	ugye	0	0
+Mindent tud, amit a dzsesszről tudni kell.	Jis žino viską ką tik galima žinoti apie džiazą.	mindent	0	0
+Ne mondj semmit.	Nieko nesakyk.	semmit	0	0
+Egy szót se!	Nieko nesakyk.	se	0	0
+Nézd csak azt a hegyet, amelyik hóval van födve.	Pažiūrėk į tą kalną padengtą sniegu.	nézd	0	0
+Én is erre gondoltam.	Aš ir apie tai galvojau.	erre	0	0
+Angolul mindenki beszél.	Visi kalba angliškai.	mindenki	0	0
+Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	soha	0	0
+Mondhat, amit akar.	Jis gali sakyti ką tik nori.	akar	0	0
+Ez volt az első repülőutam.	Tai buvo pirmas kartas kai aš skridau lėktuvu.	első	0	0
+Ezek a hölgyek a nagynénéim.	Šios ponios yra mano tetos.	ezek	0	0
+Hogyan védekezhetünk a koronavírus ellen?	Kaip galime apsisaugoti nuo koronaviruso?	hogyan	0	0
+Nem tudok angolul.	Aš nemoku anglų kalbos.	tudok	0	0
+Nem akartam, hogy ez történjen.	Nenorėjau, kad tai atsitiktų.	akartam	0	0
+Az egyik autója a háromból kék, a többi fehér.	Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	egyik	0	0
+Holnap megyek iskolába.	Rytoj eisiu į mokyklą.	megyek	0	0
+Én is erre gondoltam.	Aš ir apie tai galvojau.	gondoltam	0	0
+A könyvek a legjobb barátaim.	Knygos yra mano geriausi draugai.	legjobb	0	0
+Mindent tud, amit a dzsesszről tudni kell.	Jis žino viską ką tik galima žinoti apie džiazą.	tud	0	0
+Ez a vonat megy Bostonba.	Šis traukinys vyksta į Bostoną.	megy	0	0
+Holnap megyek iskolába.	Rytoj eisiu į mokyklą.	holnap	0	0
+Ennek a városnak egymillió lakosa van.	Šis miestas turi milijoną gyventojų.	ennek	0	0
+Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	először	0	0
+Mindig túl gyorsan hajt.	Jis visada vairuoja savo autobilį per greitai.	gyorsan	0	0
+Szebb vagyok, mint ti.	Aš gražesnė nei tu.	ti	0	0
+Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	fogom	0	0
+Mindent tud, amit a dzsesszről tudni kell.	Jis žino viską ką tik galima žinoti apie džiazą.	tudni	0	0
+Tom és Mária sokat változott?	Ar Tomas ir Marija labai pasikeitė?	sokat	0	0
+Rendszerint későn ér haza.	Jis paprastai grįžta namo vėlai.	haza	0	0
+Mára ennyi elég.	Šiandienai pakanka.	ennyi	0	0
+Fontos vagy.	Tu esi svarbus.	fontos	0	0
+Ma reggel mínusz tíz fok volt.	Šį rytą buvo dešimt laipsnių žemiau nulio.	reggel	0	0
+Állj!	Stok!	állj	0	0
+Te nem tudod, mennyire szeretlek.	Tu nežinai kaip stipriai aš tave myliu.	szeretlek	0	0
+Beszélsz te japánul?	Ar tu kalbi japoniškai?	beszélsz	0	0
+Szeretem az esőt.	Aš labai mėgstu lietų.	szeretem	0	0
+Angolul mindenki beszél.	Visi kalba angliškai.	beszél	0	0
+Hogyan védekezhetünk a koronavírus ellen?	Kaip galime apsisaugoti nuo koronaviruso?	ellen	0	0
+Taxival megyünk, ugye?	Važiuosime taksi, tiesa?	megyünk	0	0
+Emlékszel erre a játékra?	Ar pamenate šį žaidimą?	emlékszel	0	0
+Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	emlékszem	0	0
+Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	napot	0	0
+Te nem tudod, mennyire szeretlek.	Tu nežinai kaip stipriai aš tave myliu.	mennyire	0	0
+Én beszélek magyarul.	Aš kalbu vengriškai.	beszélek	0	0
+Minden növénynek szüksége van vízre és fényre.	Visiems augalams reikia vandens ir šviesos.	szüksége	0	0
+Már otthon vagyunk.	Mes jau namuose.	otthon	0	0
+Az egyik autója a háromból kék, a többi fehér.	Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	többi	0	0
+Ha egy kicsit korábban jössz, találkozhattál volna vele.	Jeigu būtum atėjęs truputį anksčiau, būtum ją sutikęs.	korábban	0	0
+Ha egy kicsit korábban jössz, találkozhattál volna vele.	Jeigu būtum atėjęs truputį anksčiau, būtum ją sutikęs.	jössz	0	0
+Az egyik autója a háromból kék, a többi fehér.	Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	fehér	0	0
+A magára hagyott szoba üresen maradt.	Apleista patalpa liko tuščia.	maradt	0	0
+Fiatal voltam és élni akartam.	Aš buvau jauna ir aš norėjau gyventi.	fiatal	0	0
+Siess, különben elkésel.	Paskubėk, kitaip pavėluosi.	különben	0	0
+Fiatal voltam és élni akartam.	Aš buvau jauna ir aš norėjau gyventi.	élni	0	0
+Ma reggel mínusz tíz fok volt.	Šį rytą buvo dešimt laipsnių žemiau nulio.	tíz	0	0
+Egy szót se!	Nieko nesakyk.	szót	0	0
+Rendszerint későn ér haza.	Jis paprastai grįžta namo vėlai.	ér	0	0
+Semmi sem fontosabb, mint a barátok.	Nėra nieko svarbesnio už draugus.	barátok	0	0
+Nem anarchista Tom.	Tomas ne anarchistas.	tom	0	0
+Ez nem út, csak egy ösvény.	Tai ne kelias o takelis.	út	0	0
+Édesanyám ismeri Tom édesanyját.	Mano mama pažįsta Tomo mamą.	ismeri	0	0
+A magára hagyott szoba üresen maradt.	Apleista patalpa liko tuščia.	magára	0	0
+És mi van, ha ez a terv nem válik be?	O kas, jei šis planas nepavyks?	terv	0	0
+Nyugodj meg és hallgass meg.	Nurimk ir paklausyk manęs.	hallgass	0	0
+Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	találkoztam	0	0
+Ne mondj semmit.	Nieko nesakyk.	mondj	0	0
+Nem vagyok a lánya.	Aš nesu jo dukra.	lánya	0	0
+Siess, különben elkésel.	Paskubėk, kitaip pavėluosi.	siess	0	0
+Ez az étel finom.	Šis patiekalas yra skanus.	finom	0	0
+Az egyik autója a háromból kék, a többi fehér.	Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	kék	0	0
+Nem tudom, ki kicsoda.	Aš nežinau kuris yra kuris.	kicsoda	0	0
+Az asszony a padon Braunné.	Moteris ant suolo yra ponia Braun.	asszony	0	0
+Nyugodj meg és hallgass meg.	Nurimk ir paklausyk manęs.	nyugodj	0	0
+Esik a hó.	Sninga.	esik	0	0
+Ez nem hiba.	Tai nėra klaida.	hiba	0	0
+Ő kórházban van.	Jis ligoninėje.	kórházban	0	0
+A magára hagyott szoba üresen maradt.	Apleista patalpa liko tuščia.	hagyott	0	0
+A könyvek a legjobb barátaim.	Knygos yra mano geriausi draugai.	barátaim	0	0
+Holnap megyek iskolába.	Rytoj eisiu į mokyklą.	iskolába	0	0
+A magára hagyott szoba üresen maradt.	Apleista patalpa liko tuščia.	szoba	0	0
+Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	napra	0	0
+És mi van, ha ez a terv nem válik be?	O kas, jei šis planas nepavyks?	válik	0	0
+Semmi sem fontosabb, mint a barátok.	Nėra nieko svarbesnio už draugus.	fontosabb	0	0
+A beduinok a sivatagban élnek.	Beduinai gyvena dykumoje.	élnek	0	0
+Ez volt a hibád.	Tai buvo jūsų klaida.	hibád	0	0
+Társadalomban élünk.	Mes gyvename visuomenėje.	élünk	0	0
+Tom és Mária sokat változott?	Ar Tomas ir Marija labai pasikeitė?	változott	0	0
+Mára ennyi elég.	Šiandienai pakanka.	mára	0	0
+Tom elvesztette az önuralmát.	Tomas prarado kontrolę.	elvesztette	0	0
+Rendszerint későn ér haza.	Jis paprastai grįžta namo vėlai.	későn	0	0
+Ez volt az első aranyérem, melyet nyert.	Tai buvo pirmasis aukso medalis kurį ji laimėjo.	nyert	0	0
+Ez az étel finom.	Šis patiekalas yra skanus.	étel	0	0
+Nézd csak azt a hegyet, amelyik hóval van födve.	Pažiūrėk į tą kalną padengtą sniegu.	amelyik	0	0
+Én egy zseni vagyok!	Aš genijus!	zseni	0	0
+Magyar vagyok.	Aš esu vengrė.	magyar	0	0
+Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	elfelejteni	0	0
+Meg kell találnom.	Aš turiu tą rasti.	találnom	0	0
+Esik a hó.	Sninga.	hó	0	0
+Ez nem madár.	Tai ne paukštis.	madár	0	0
+Franciául és angolul beszélek.	Aš kalbu prancūziškai ir angliškai.	angolul	0	0
+Boldogok vagyunk.	Būkime laimingi.	boldogok	0	0
+Ez volt az első aranyérem, melyet nyert.	Tai buvo pirmasis aukso medalis kurį ji laimėjo.	melyet	0	0
+Ez a vonat megy Bostonba.	Šis traukinys vyksta į Bostoną.	vonat	0	0
+Afrika az emberiség bölcsője.	Afrika yra žmonijos lopšys.	emberiség	0	0
+Ezek a hölgyek a nagynénéim.	Šios ponios yra mano tetos.	hölgyek	0	0
+A szoftvert a legújabb verzióra frissítettem.	Atnaujinau programinę įrangą į naujausią versiją.	legújabb	0	0
+Nem akartam, hogy ez történjen.	Nenorėjau, kad tai atsitiktų.	történjen	0	0
+Kívánok neked sok boldogságot!	Linkiu jums laimės!	kívánok	0	0
+A kutyák hűsėgesek.	Šunis yra ištikimi.	kutyák	0	0
+Nem vagyok robot.	Aš ne robotas.	robot	0	0
+Szebb vagyok, mint ti.	Aš gražesnė nei tu.	szebb	0	0
+Ma reggel mínusz tíz fok volt.	Šį rytą buvo dešimt laipsnių žemiau nulio.	fok	0	0
+Ne játssz a tűzzel!	Nežaisk su ugnimi.	játssz	0	0
+Én nem vagyok finn.	Aš ne suomis.	finn	0	0
+Várnunk kell.	Turime laukti.	várnunk	0	0
+Mária özvegy.	Marija yra našlė.	mária	0	0
+Európában Elbrusz a legmagasabb hegy.	Elbrusas yra aukščiausias kalnas Europoje.	hegy	0	0
+Kívánok neked sok boldogságot!	Linkiu jums laimės!	boldogságot	0	0
+Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	elhagytam	0	0
+Az egyik autója a háromból kék, a többi fehér.	Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	autója	0	0
+Diákok vagyunk.	Mes esame studentai.	diákok	0	0
+Édesanyám ismeri Tom édesanyját.	Mano mama pažįsta Tomo mamą.	édesanyám	0	0
+Mária özvegy.	Marija yra našlė.	özvegy	0	0
+Európában Elbrusz a legmagasabb hegy.	Elbrusas yra aukščiausias kalnas Europoje.	legmagasabb	0	0
+A könyvek a legjobb barátaim.	Knygos yra mano geriausi draugai.	könyvek	0	0
+A beduinok a sivatagban élnek.	Beduinai gyvena dykumoje.	sivatagban	0	0
+Ennek a városnak egymillió lakosa van.	Šis miestas turi milijoną gyventojų.	egymillió	0	0
+Európában Elbrusz a legmagasabb hegy.	Elbrusas yra aukščiausias kalnas Europoje.	európában	0	0
+Franciául és angolul beszélek.	Aš kalbu prancūziškai ir angliškai.	franciául	0	0
+Mindig túl gyorsan hajt.	Jis visada vairuoja savo autobilį per greitai.	hajt	0	0
+Ennek a városnak egymillió lakosa van.	Šis miestas turi milijoną gyventojų.	városnak	0	0
+Tom kommunista.	Tomas - komunistas.	kommunista	0	0
+Mondhat, amit akar.	Jis gali sakyti ką tik nori.	mondhat	0	0
+Nyugdíjas vagyok.	Esu pensijoje.	nyugdíjas	0	0
+Ez idegesít engem.	Tai mane nervina.	idegesít	0	0
+Ma reggel mínusz tíz fok volt.	Šį rytą buvo dešimt laipsnių žemiau nulio.	mínusz	0	0
+Minden növénynek szüksége van vízre és fényre.	Visiems augalams reikia vandens ir šviesos.	vízre	0	0
+Tom kinyitotta a hűtőt.	Tomas atidarė šaldytuvą.	kinyitotta	0	0
+Nézd csak azt a hegyet, amelyik hóval van födve.	Pažiūrėk į tą kalną padengtą sniegu.	hegyet	0	0
+Barátként tekintek rá.	Aš laikiau ji savo draugu.	barátként	0	0
+A magára hagyott szoba üresen maradt.	Apleista patalpa liko tuščia.	üresen	0	0
+Ne játssz a tűzzel!	Nežaisk su ugnimi.	tűzzel	0	0
+Taxival megyünk, ugye?	Važiuosime taksi, tiesa?	taxival	0	0
+Afrika az emberiség bölcsője.	Afrika yra žmonijos lopšys.	afrika	0	0
+Rendszerint későn ér haza.	Jis paprastai grįžta namo vėlai.	rendszerint	0	0
+Emlékszel erre a játékra?	Ar pamenate šį žaidimą?	játékra	0	0
+Szeretem az esőt.	Aš labai mėgstu lietų.	esőt	0	0
+Ez nem út, csak egy ösvény.	Tai ne kelias o takelis.	ösvény	0	0
+Édesanyám ismeri Tom édesanyját.	Mano mama pažįsta Tomo mamą.	édesanyját	0	0
+Ez a vonat megy Bostonba.	Šis traukinys vyksta į Bostoną.	bostonba	0	0
+Barátként tekintek rá.	Aš laikiau ji savo draugu.	tekintek	0	0
+Tom beszédes.	Tomas kalbus.	beszédes	0	0
+Minden növénynek szüksége van vízre és fényre.	Visiems augalams reikia vandens ir šviesos.	fényre	0	0
+Társadalomban élünk.	Mes gyvename visuomenėje.	társadalomban	0	0
+Siess, különben elkésel.	Paskubėk, kitaip pavėluosi.	elkésel	0	0
+Az asszony a padon Braunné.	Moteris ant suolo yra ponia Braun.	padon	0	0
+Beszélsz te japánul?	Ar tu kalbi japoniškai?	japánul	0	0
+Tom kinyitotta a hűtőt.	Tomas atidarė šaldytuvą.	hűtőt	0	0
+Nekem nincs hazám.	Aš neturiu tėvynės.	hazám	0	0
+Én beszélek magyarul.	Aš kalbu vengriškai.	magyarul	0	0
+Hollandia fővárosa Amszterdam.	Olandijos sostinė vadinasi Amsterdamas.	fővárosa	0	0
+Az egyik autója a háromból kék, a többi fehér.	Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	háromból	0	0
+Szabotázs!	Sabotažas!	szabotázs	0	0
+A sztálinizmus rasszizmus.	Stalinizmas yra rasizmas.	rasszizmus	0	0
+A szoftvert a legújabb verzióra frissítettem.	Atnaujinau programinę įrangą į naujausią versiją.	szoftvert	0	0
+Nem vagyok pesszimista.	Aš ne pesimistas.	pesszimista	0	0
+Nem anarchista Tom.	Tomas ne anarchistas.	anarchista	0	0
+Svédország fővárosa Stockholm.	Švedijos sostinė yra Stokholmas.	svédország	0	0

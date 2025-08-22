@@ -1,0 +1,1665 @@
+Hän on aika hyvä tyyppi.	Egész jó fickó ő.	on	0	0
+Tom oli ainoa, jolla ei ollut sateenvarjoa.	Csak Tomnál nem volt esernyő.	ei	0	0
+Puhun ranskaa ja englantia.	Beszélek franciául és angolul.	ja	0	0
+Minulla meni shampoota silmiin ja se kirvelee.	Sampon ment a szemembe és fáj.	se	0	0
+Hän asuu Osakassa.	Oszakában él.	hän	0	0
+En puhu japania.	Nem beszélek japánul.	en	0	0
+Herra Crouch, mitä sinä teet?	Crouch úr, mit csinál ön?	mitä	0	0
+On varmaa, että kullan hinta nousee.	Az arany ára biztosan emelkedni fog.	että	0	0
+Tämä ei ole kala.	Ez nem egy hal.	ole	0	0
+Minä olen puutarhassa.	A kertben vagyok.	olen	0	0
+Poika oli hiljainen.	Csendben volt a fiú.	oli	0	0
+Tee on niin kuumaa, etten voi juoda sitä.	A tea ihatatlanul forró.	niin	0	0
+Marika on suomalainen, mutta hän puhuu saksaa aivan kuten saksalaiset.	Marika finn, mégis úgy beszél németül, mint a németek.	mutta	0	0
+Ei minun tarvinnut auttaa sinua mutta tein sen silti.	Nem kellett volna segítenem neked, mégis megtettem.	sen	0	0
+Halusin vain olla varma.	Csak biztos akartam lenni.	vain	0	0
+Minä puhun ranskaa ja englantia.	Franciául és angolul beszélek.	minä	0	0
+Olisi hyvä jos maksaisitte käteisellä.	Kérem, legyen olyan jó készpénzben fizetni.	jos	0	0
+Mitä tämä tuoli täällä tekee?	Mit keres itt ez a szék?	tämä	0	0
+Muiriel on nyt kaksikymmentä.	Muiriel most húsz.	nyt	0	0
+En voi uskoa, että Tom muistaa minut.	Nem tudom elhinni, hogy Tom emlékszik még rám.	voi	0	0
+Osaatko sinä uida?	Tudsz úszni?	sinä	0	0
+Sinä olet idiootti.	Idióta vagy!	olet	0	0
+Olen onnellinen, kun olen sinun kanssasi.	Boldog vagyok, amikor veled vagyok.	kun	0	0
+Käytän sitä joka päivä.	Ezt mindennap használom.	sitä	0	0
+Olen parempi kuin hän.	Én jobb vagyok, mint ő.	kuin	0	0
+Puhuvatko he ranskaa?	Beszélik ők valamennyire a franciát?	he	0	0
+Hän laittoi maitoa hänen kahviinsa.	Tejet tett a kávéjába.	hänen	0	0
+Miksi minä olen vielä täällä?	Miért vagyok még itt?	täällä	0	0
+Mitä sinä haluat olla?	Mi akarsz lenni?	olla	0	0
+Miksi et mennyt Saksaan?	Miért nem mentél Németországba?	et	0	0
+Kaikki menee todella hyvin.	Minden nagyon jól megy.	kaikki	0	0
+Minun on se punainen.	A piros az enyém.	minun	0	0
+Työtoverini ja hänen aviomiehensä ovat molemmat amerikkalaisia.	A munkatársnőm és a férje, mindketten amerikaiak.	ovat	0	0
+Hyvä!	Remek!	hyvä	0	0
+Tule tänne ja auta minua.	Gyere ide és segíts nekem.	minua	0	0
+Tom alkoi opiskella ranskaa kolme vuotta sitten.	Tom három évvel ezelőtt kezdett el franciául tanulni.	sitten	0	0
+Olen kuullut, että Saksassa olut on halvempaa kuin vesi. Onko se totta?	Azt hallottam, hogy Németországban a sör olcsóbb a víznél. Ez igaz?	onko	0	0
+Miksi?	Miért?	miksi	0	0
+Ei minun tarvinnut auttaa sinua mutta tein sen silti.	Nem kellett volna segítenem neked, mégis megtettem.	sinua	0	0
+Miten paljon tämä sateenvarjo maksaa?	Mennyi az ára ennek az esernyőnek?	miten	0	0
+Olen onnellinen, kun olen sinun kanssasi.	Boldog vagyok, amikor veled vagyok.	sinun	0	0
+Älä kerro tätä kenellekään.	Senkinek se beszélj erről.	älä	0	0
+Voisitko antaa minulle muutamia lisäesimerkkejä siitä?	Tessék adni több példát erre.	siitä	0	0
+Tohtori määräsi hänet tiukalle dieetille.	Az orvos szigorú diétát írt elő neki.	hänet	0	0
+Sinulla ei ole mitään käsitystä, eikö niin?	Fogalmad sincs, ugye?	mitään	0	0
+Kyllä?	Igen?	kyllä	0	0
+Lihaa, kiitos.	Kérek egy kis húst.	kiitos	0	0
+Hei, katso minua.	Hé, nézz rám!	hei	0	0
+Mikä hevosen nimi on?	Mi a ló neve?	mikä	0	0
+Olisi hyvä jos maksaisitte käteisellä.	Kérem, legyen olyan jó készpénzben fizetni.	olisi	0	0
+Minusta on hyvä, että kirjoja on edelleen olemassa, mutta ne tosiaan saavat minut uniseksi.	Úgy gondolom, jó, hogy léteznek még könyvek, bár én álmos leszek tőlük.	ne	0	0
+Puhuin Tomin kanssa.	Beszéltem Tomival.	kanssa	0	0
+Minun pitää mennä nyt.	Most mennem kell!	pitää	0	0
+Minä puhun ranskaa melkein joka päivä.	Szinte minden nap beszélek franciául.	joka	0	0
+Minulla ei ollut aikaa.	Nem volt időm.	ollut	0	0
+Minulla menee vain kaksi tai kolme tuntia.	Csak két vagy három órám van.	tai	0	0
+Tuolla koiralla on lyhyt häntä.	Annak a kutyának rövid a farka.	häntä	0	0
+Mitä tässä laatikossa on?	Mi van ebben a ládában?	tässä	0	0
+En tiedä tuleeko Yrjö vai ei.	Nem tudom, hogy jön-e György vagy sem.	tiedä	0	0
+En pidä tästä paidasta. Näytä minulle toinen.	Nem tetszik ez az ing. Mutass másikat nekem!	minulle	0	0
+Minulla on lämmin.	Melegem van.	minulla	0	0
+Odotatko sinä jotain?	Vársz valamire?	jotain	0	0
+Ehkä hänestä ei tule koskaan kuuluisaa.	Lehet, hogy sosem lesz híres.	ehkä	0	0
+Missä leipä on?	Hol van a kenyér?	missä	0	0
+Onko tuo minun mukini?	Ez az én bögrém?	tuo	0	0
+Minusta on hyvä, että kirjoja on edelleen olemassa, mutta ne tosiaan saavat minut uniseksi.	Úgy gondolom, jó, hogy léteznek még könyvek, bár én álmos leszek tőlük.	minut	0	0
+Me yövyimme kolmen tähden hotellissa.	Egy háromcsillagos szállodában laktunk.	me	0	0
+Oletko naimisissa?	Házas vagy?	oletko	0	0
+Kuka antoi tämän Tomille?	Ki adta ezt Tomnak?	kuka	0	0
+Oli hyvin kuumaa.	Nagyon meleg volt.	hyvin	0	0
+Anteeksi!	Bocsánat!	anteeksi	0	0
+Mitä he vielä haluavat?	Mit akarnak még?	vielä	0	0
+Picasso maalasi tämän kuvan 1950.	Picasso festette ezt a képet 1950-ben.	tämän	0	0
+Haluan tavata sinut uudestaan.	Szeretnélek újra látni.	sinut	0	0
+Kuka antoi sinulle nämä omenat?	Kitől kaptad ezeket az almákat?	sinulle	0	0
+Olet jo saattanut lukea tämän kirjan.	Lehet, hogy már olvastad ezt a könyvet.	jo	0	0
+Koska en kuullut hänestä, kirjoitin hänelle uudelleen.	Mivel nem hallottam felőle, újra írtam neki.	koska	0	0
+Haluan olla itsenäisempi.	Függetlenebb szeretnék lenni.	haluan	0	0
+Me olemme kotona.	Itthon vagyunk.	olemme	0	0
+Tiedän, että et tunne Tomia.	Tudom, hogy nem ismered Tomit.	tiedän	0	0
+Minulla ei ole aikaa tehdä läksyjäni.	Nincs időm megcsinálni a házi feladatomat.	tehdä	0	0
+Minä haluan jäädä tänne.	Itt akarok maradni.	tänne	0	0
+Meidän täytyy ajatella lapsiamme ja lastenlapsiamme.	Gondolnunk kell a gyerekeinkre és az unokáinkra.	meidän	0	0
+Miksi emme käytä portaita?	Miért nem a lépcsőn megyünk?	emme	0	0
+Tule takaisin!	Gyere vissza!	tule	0	0
+Pidän työstäni todella paljon.	Nagyon szeretem a munkámat.	paljon	0	0
+Vaimoni ja lapseni olivat siellä.	A feleségem és a gyerekek ott voltak.	siellä	0	0
+Nämä banaanit eivät ole kypsiä.	Ezek a banánok nem érettek.	eivät	0	0
+Vihaan tätä peliä.	Utálom ezt a játékot.	tätä	0	0
+Jään pois seuraavalla pysäkillä.	Leszállok a következő megállónál.	pois	0	0
+Onko sinulla jano?	Szomjas vagy?	sinulla	0	0
+Minun täytyy mennä nyt.	Most mennem kell!	täytyy	0	0
+Tom puhuu aina ranskaa.	Tom mindig franciául beszél.	aina	0	0
+Hän lupasi minulle, että hän tulee tänne.	Megígérte nekem, hogy idejön.	tulee	0	0
+Siinä kaikki.	Ez minden.	siinä	0	0
+Sinulla ei ole avainta, eikö niin?	Nincs kulcsod, ugye?	eikö	0	0
+Tulen takaisin puoli seitsemältä.	Fél hétre visszajövök.	takaisin	0	0
+Herra Crouch, mitä sinä teet?	Crouch úr, mit csinál ön?	herra	0	0
+Mistä syystä hän on niin onneton?	Mi miatt olyan boldogtalan?	mistä	0	0
+Minulla on yksi kissa ja yksi koira. Kissa on musta ja koira on valkoinen.	Van egy macskám és egy kutyám. A macska fekete, a kutya fehér.	yksi	0	0
+Te ette ole koiria.	Nem vagytok kutyák.	te	0	0
+Postitoimisto on juuri vastapäätä pankkia.	A postahivatal mindjárt a bankkal szemben van.	juuri	0	0
+En halua mennä naimisiin, mutta haluan lapsen.	Nem akarok megházasodni, de gyerekeket szeretnék.	halua	0	0
+Kuinka paljon tyttäreni pitäisi syödä?	Milyen sokat kell a lányomnak enni?	pitäisi	0	0
+Kuinka monta leikkausta tohtori Jackson on tehnyt tässä kuussa?	Hány operációt végzett dr. Jackson ebben a hónapban?	kuinka	0	0
+Puhuuko hän englantia, ranskaa vai saksaa?	Beszél ő angolul, franciául vagy németül?	vai	0	0
+Minulla oli kiire koko päivän.	Egész nap el voltam foglalva.	koko	0	0
+Koputtaako joku ovella?	Kopogtat valaki?	joku	0	0
+Meillä on vähemmän kuin kolme tuntia.	Kevesebb mint három óránk van.	meillä	0	0
+Olin uupunut.	Fáradt voltam.	olin	0	0
+Sami on kaksi vuotta nuorempi kuin Tom.	Sam két évvel fiatalabb, mint Tom.	kaksi	0	0
+Hän osti koiran hänelle.	Vett egy kutyát neki.	hänelle	0	0
+Minun pitää mennä kotiin.	Haza kell mennem.	mennä	0	0
+Oletko koskaan nähnyt UFO:a?	Láttál már valaha ufót?	koskaan	0	0
+Me puhuimme tästä eilen.	Beszéltünk erről tegnap.	tästä	0	0
+Tom tietää kaiken autoista.	Tomi mindent tud az autókról.	tietää	0	0
+Tom on rikas mies.	Tamás gazdag ember.	mies	0	0
+Marika on suomalainen, mutta hän puhuu saksaa aivan kuten saksalaiset.	Marika finn, mégis úgy beszél németül, mint a németek.	aivan	0	0
+Mistä voin soittaa?	Honnan tudok telefonálni?	voin	0	0
+Olen kuullut, että Saksassa olut on halvempaa kuin vesi. Onko se totta?	Úgy hallottam, hogy Németországban a sör olcsóbb, mint a víz. Igaz ez?	totta	0	0
+Tom on Marin isä.	Tom Mary apja.	isä	0	0
+On aika.	Idő van!	aika	0	0
+Minulla ei ole aikaa siihen ja sen lisäksi minulla ei ole yhtään rahaa.	Erre nincs időm, ráadásul nincs semmi pénzem.	siihen	0	0
+Jos Tom menee, niin minä en mene.	Ha Tom megy, akkor én nem megyek.	mene	0	0
+Oikein.	Helyes.	oikein	0	0
+Marika on suomalainen, mutta hän puhuu saksaa aivan kuten saksalaiset.	Marika finn, mégis úgy beszél németül, mint a németek.	kuten	0	0
+Voisitko auttaa minua vähän?	Tudsz nekem egy kicsit segíteni?	vähän	0	0
+Kuka te olette?	Kik vagytok?	olette	0	0
+Mitä sinä teet?	Mit csinálsz?	teet	0	0
+Äiti, minulla on nälkä.	Anya, éhes vagyok!	äiti	0	0
+Todella outoa.	Igen furcsa.	todella	0	0
+Hyvää matkaa!	Jó utat!	hyvää	0	0
+Mä vietän liikaa aikaa Facebookissa.	Túl sok időt töltök el a Facebookkal.	aikaa	0	0
+Kukaan ei ole nähnyt Tomia.	Senki sem látta Tomot.	kukaan	0	0
+Mikä haluat olla isona?	Mi szeretnél lenni, ha nagy leszel?	haluat	0	0
+Menemme elokuviin. Tule mukaan.	Moziba megyünk. Gyere velünk!	mukaan	0	0
+Kaikki kunnossa!	Minden rendben!	kunnossa	0	0
+Minusta on hyvä, että kirjoja on edelleen olemassa, mutta ne tosiaan saavat minut uniseksi.	Úgy gondolom, jó, hogy léteznek még könyvek, bár én álmos leszek tőlük.	minusta	0	0
+Mene itse katsomaan, mitä tapahtui.	Menj és nézd meg saját magad, hogy mi történt.	itse	0	0
+Minä myös.	Én is.	myös	0	0
+Mitä poika sanoi?	Mit mondott a fiú?	sanoi	0	0
+Minä kuulin kaiken.	Mindent hallottam.	kaiken	0	0
+Miksi ostit noin kalliin sanakirjan?	Miért egy olyan drága szótárat vettél?	noin	0	0
+Hän tuli ulos huoneesta.	Kijött a szobából.	ulos	0	0
+Hänellä on paljon rahaa.	Sok pénze van.	hänellä	0	0
+Voisitko auttaa minua vähän?	Tudsz nekem egy kicsit segíteni?	auttaa	0	0
+Hei taas.	Üdv ismét!	taas	0	0
+Hän piti huolta äidistään isänsä kuoleman jälkeen.	Ő gondoskodott az anyjáról az apja halála után.	jälkeen	0	0
+Haluaisin tulla Picassoksi.	Picasso szeretnék lenni.	tulla	0	0
+Hei, katso minua.	Hé, nézz rám!	katso	0	0
+Kissat eivät pidä koirista.	A macskák nem szeretik a kutyákat.	pidä	0	0
+Emme ollenkaan tunne lapsen luontoa; siitä muodostamiemme väärien käsitteiden nojalla joudumme, kuta pitemmälle koetamme päästä, yhä kauemmaksi harhateille.	Nem ismerik a gyermekéletet: mennél messzebbre megyünk róla szóló hamis fogalmaink után, annál jobban eltévelyedünk.	päästä	0	0
+Osaatko puhua englantia?	Tudsz beszélni angolul?	puhua	0	0
+Tänään on kuuma sää.	Ma meleg van.	tänään	0	0
+Me olemme todella ylpeitä sinusta.	Nagyon büszkék vagyunk rád!	sinusta	0	0
+Älä kerro tätä kenellekään.	Senkinek se beszélj erről.	kerro	0	0
+Valmista tuli!	Minden kész!	tuli	0	0
+En välitä, vaikka aikainen lintu nappaisikin madon, haluan nukkua.	Nem érdekel, hogy ki korán kel, aranyat lel, én aludni akarok.	vaikka	0	0
+Onko niitä?	Léteznek?	niitä	0	0
+Etkö ole onnellinen?	Nem vagy boldog?	etkö	0	0
+Olin liian pieni.	Túl pici voltam.	liian	0	0
+Meitä on jo 7 miljardia.	Már hétmilliárdan vagyunk.	meitä	0	0
+Kuulin että sinäkään et mene kotiin.	Hallottam, hogy te se mész haza.	kotiin	0	0
+Tee on tosi hyvää.	A tea nagyon finom.	tee	0	0
+Sami on Tomia kaksi vuotta nuorempi.	Sam két évvel fiatalabb Tomnál.	vuotta	0	0
+Museo on nyt kiinni.	A múzeum most zárva van.	kiinni	0	0
+Voitteko nähdä heidät?	Látjátok őket?	nähdä	0	0
+Päivä ilman sinua on kuin kesä ilman aurinkoa.	Egy nap nélküled olyan, mint nyár napsütés nélkül.	ilman	0	0
+En tiedä, mitä Tomille tapahtui.	Nem tudom, hogy mi történt Tommal.	tapahtui	0	0
+Kuka antoi sinulle nämä omenat?	Kitől kaptad ezeket az almákat?	nämä	0	0
+Tomilla ei ollut rohkeutta mennä sinne yksin.	Tomnak nem volt bátorsága odamenni egyedül.	sinne	0	0
+Mennään bussilla.	Menjünk busszal!	mennään	0	0
+Haluan sanoa näkemiin.	Szeretnék elbúcsúzni.	sanoa	0	0
+Yhteisön tuki kannustaa festivaalin järjestäjiä, jotka nyt suunnittelevat vielä enemmän tapahtumia.	A közösség támogatása buzdítja a fesztivál szervezőit, akik most még több rendezvényt terveznek.	jotka	0	0
+Haluatko mennä jonnekin muualle?	Valahová máshová akarsz menni?	haluatko	0	0
+Ette ole koiria.	Nem vagytok kutyák.	ette	0	0
+Osaatko vastata tähän kysymykseen?	Tudsz válaszolni erre a kérdésre?	tähän	0	0
+Tämä romaani antaa hyvin kaunistelevan kuvan mustalaiskiertolaisista.	Ez a regény meglehetősen szép képet fest a vándorcigányokról.	antaa	0	0
+Mistä sinä tiedät, että Tom on siellä nyt?	Honnan tudod, hogy Tom most ott van?	tiedät	0	0
+Tom alkoi opiskella ranskaa kolme vuotta sitten.	Tom három évvel ezelőtt kezdett el franciául tanulni.	kolme	0	0
+Et tarvitse rahaa.	Nincs szükségük pénzre.	tarvitse	0	0
+Hän haluaa oppia uimaan.	Szeretne megtanulni úszni.	haluaa	0	0
+Voisitko kertoa minulle kuka olet.	Meg tudod nekem mondani, ki vagy?	kertoa	0	0
+Odota sekuntti.	Várj egy pillanatot!	odota	0	0
+Mistä voin saada taksin?	Hol kapok egy taxit?	saada	0	0
+Tämä juna menee Bostoniin.	Ez a vonat megy Bostonba.	menee	0	0
+Kukaan ei ole nähnyt Tomia.	Senki sem látta Tomot.	nähnyt	0	0
+Jos neuvot minua muuttamaan lausetta, minä teen sen.	Ha azt javaslod, hogy változtassak a mondaton, én benne vagyok.	teen	0	0
+Ehkä hänestä ei tule koskaan kuuluisaa.	Lehet, hogy sosem lesz híres.	hänestä	0	0
+Kuinka monta leikkausta tohtori Jackson on tehnyt tässä kuussa?	Hány operációt végzett dr. Jackson ebben a hónapban?	tehnyt	0	0
+Minulla on kymmenen kertaa enemmän kirjoja kuin sinulla.	Tízszer annyi könyvem van, mint neked.	enemmän	0	0
+Se ei ole kaukana täältä.	Nincs messze innen.	täältä	0	0
+Äitini tekee vieläkin töitä keittiössä.	Anyukám még mindig a konyhában dolgozik.	tekee	0	0
+Sanoin, että tule yksin.	Azt mondtam, egyedül gyere!	sanoin	0	0
+Miksi et usko minua?	Miért nem hiszel nekem?	usko	0	0
+Voitteko nähdä heidät?	Látjátok őket?	heidät	0	0
+Tom on hiljainen poika.	Csendes gyerek ez a Tomi.	poika	0	0
+Tämä on korkein rakennus, jonka olen koskaan nähnyt.	Ez a legmagasabb épület, amit valaha láttam.	jonka	0	0
+Kuinka voimme suojella itseämme koronavirukselta?	Hogyan védekezhetünk a koronavírus ellen?	voimme	0	0
+Sinä olit oikeassa.	Igazad volt.	olit	0	0
+Vaimoni ja lapseni olivat siellä.	A feleségem és a gyerekek ott voltak.	olivat	0	0
+Sain uuden tyttöystävän; etkö tiennyt?	Van egy új barátnőm, nem tudtad?	sain	0	0
+Opettaja kertoi meille hauskan tarinan.	A tanító elmondott nekünk egy vidám történetet.	meille	0	0
+Hän piti huolta äidistään isänsä kuoleman jälkeen.	Ő gondoskodott az anyjáról az apja halála után.	piti	0	0
+Emme ollenkaan tunne lapsen luontoa; siitä muodostamiemme väärien käsitteiden nojalla joudumme, kuta pitemmälle koetamme päästä, yhä kauemmaksi harhateille.	Nem ismerik a gyermekéletet: mennél messzebbre megyünk róla szóló hamis fogalmaink után, annál jobban eltévelyedünk.	yhä	0	0
+Hän pitää hienoa hattua.	Szép kalapot visel.	hienoa	0	0
+Mistä sait tuon naarmun poskeesi?	Hol szerezted azt a karcolást az arcodon?	tuon	0	0
+Kuka on tuo nainen tuolla?	Ki az a hölgy ott?	tuolla	0	0
+Tiedätkö missä Jim ja Nancy ovat?	Tudod, hol van Jim és Nancy?	tiedätkö	0	0
+Halusin vain olla varma.	Csak biztos akartam lenni.	varma	0	0
+Rakastan sinua.	Szeretlek.	rakastan	0	0
+Joo.	Ja.	joo	0	0
+Tarvitsen postimerkin.	Szükségem van egy bélyegre.	tarvitsen	0	0
+Onko hän kuollut?	Meghalt?	kuollut	0	0
+Minun mielestäni hän on oikeassa.	Véleményem szerint igaza van.	oikeassa	0	0
+Isäni oli käynyt kerran Kreikassa.	Apám már volt valamikor Görögországban.	kerran	0	0
+Mihin sinä menet?	Hova mész?	mihin	0	0
+Minun pitää lähteä nyt.	Most mennem kell!	lähteä	0	0
+Minne aiot mennä?	Hova fogsz menni?	minne	0	0
+Susan teki mekon Jillille.	Susan egy ruhát készített Jillnek.	teki	0	0
+Milloin se on valmis?	Mikor lesz kész?	valmis	0	0
+Yksi on uusi, ja toinen on vanha.	Az egyik új, a másik öreg.	toinen	0	0
+Pidän kakusta.	Szeretem a süteményt.	pidän	0	0
+Meidän olisi pitänyt pysähtyä silloin kun siihen vielä oli mahdollisuus.	Meg kellett volna állnunk, amíg volt rá lehetőségünk.	silloin	0	0
+Tulen takaisin puoli seitsemältä.	Fél hétre visszajövök.	tulen	0	0
+Meidän olisi pitänyt pysähtyä silloin kun siihen vielä oli mahdollisuus.	Meg kellett volna állnunk, amíg volt rá lehetőségünk.	pitänyt	0	0
+Hän on rehellinen tyttö.	Ő egy becsületes lány.	tyttö	0	0
+Onko teillä nälkä?	Éhesek vagytok?	teillä	0	0
+Kuka on tuo nainen tuolla?	Ki az a nő ott?	nainen	0	0
+Kuinkakohan kauan Tomi on istunut tuolla.	Vajon mióta ül ott Tom?	kauan	0	0
+Minulla ei ole aikaa siihen ja sen lisäksi minulla ei ole yhtään rahaa.	Erre nincs időm, ráadásul nincs semmi pénzem.	rahaa	0	0
+En ymmärrä lainkaan englantia enkä saksaa senkään vertaa.	Angolul egyáltalán nem értek, németül pedig még annyira sem.	enkä	0	0
+Olen yksin.	Egyedül vagyok.	yksin	0	0
+Tee on tosi hyvää.	A tea nagyon finom.	tosi	0	0
+Kuka haluaa lisää kahvia?	Ki szeretne még kávét?	lisää	0	0
+En tarvitse apua.	Nincs szükségem segítségre.	apua	0	0
+Hän sai ylennyksen kersantiksi.	Az őrmesteri rangig vitte.	sai	0	0
+Oliko sinulla hyvä kesä?	Jó nyarad volt?	oliko	0	0
+Tom meni takaisin huoneeseensa.	Tom visszament a szobájába.	meni	0	0
+Käytän sitä joka päivä.	Ezt mindennap használom.	päivä	0	0
+Olemme pari.	Mi egy pár vagyunk.	pari	0	0
+Minulla on kymmenen kertaa enemmän kirjoja kuin sinulla.	Tízszer annyi könyvem van, mint neked.	kertaa	0	0
+Kuinka monta leikkausta tohtori Jackson on tehnyt tässä kuussa?	Hány operációt végzett dr. Jackson ebben a hónapban?	tohtori	0	0
+Menen tänään.	Ma megyek.	menen	0	0
+Tämä matkalippu on voimassa vain kaksi päivää ostosta.	Ez a menetjegy az eladástól számítva két napig érvényes.	päivää	0	0
+Huomenna opiskelen kirjastossa.	Holnap a könyvtárban fogok tanulni.	huomenna	0	0
+Hän tuli takaisin kaksi päivää myöhemmin.	Két nap múlva tért vissza.	myöhemmin	0	0
+Tomilla on uusi auto.	Tomnak új autója van.	uusi	0	0
+Haluan tavata sinut uudestaan.	Szeretnélek újra látni.	tavata	0	0
+Tom ei ymmärrä mitä sinä sanoit.	Tom nem érti azt, amit mondtál.	sanoit	0	0
+Halusin auttaa sinua, mutta Tom kielsi minua.	Szeretnék segíteni neked, de Tom megtiltotta nekem.	halusin	0	0
+Nähdään!	Viszont látásra!	nähdään	0	0
+Tom oli ainoa, jolla ei ollut sateenvarjoa.	Csak Tomnál nem volt esernyő.	ainoa	0	0
+He antoivat minun odottaa pitkään.	Sokáig várattak.	odottaa	0	0
+Milloin se on valmis?	Mikor lesz kész?	milloin	0	0
+Tee on niin kuumaa, etten voi juoda sitä.	A tea ihatatlanul forró.	etten	0	0
+Tomi on paras pelaajamme.	Tom a legjobb játékosunk.	paras	0	0
+Ei minun tarvinnut auttaa sinua mutta tein sen silti.	Nem kellett volna segítenem neked, mégis megtettem.	silti	0	0
+Tämä tietokone on parempi kuin tuo.	Ez a számítógép jobb, mint az.	parempi	0	0
+Sinä olet ainoa, jota rakastan.	Te vagy az egyetlen, akit szeretek.	jota	0	0
+Kuka osaa puhua venäjää?	Ki tud oroszul?	osaa	0	0
+Kuinka monta joulukorttia kirjoitit viime vuonna?	Hány karácsonyi lapot írtál tavaly?	viime	0	0
+Ei minun tarvinnut auttaa sinua mutta tein sen silti.	Nem kellett volna segítenem neked, mégis megtettem.	tein	0	0
+Mitä kuuluu?	Hogy vagy?	kuuluu	0	0
+Mitä sinä teit siellä?	Mit csináltál ott?	teit	0	0
+Rakastan tämän kaupungin ihmisiä.	Szeretem a város lakóit.	ihmisiä	0	0
+Hän ei tunne ketään meistä.	Egyikünket sem ismeri.	ketään	0	0
+Kirjoita minulle jotakin.	Írj nekem valamit.	jotakin	0	0
+Japanissa uusi lukuvuosi alkaa huhtikuussa.	Japánban az új tanév áprilisban kezdődik.	alkaa	0	0
+Näen puiden välissä miehen.	Látok egy férfit a fák között.	miehen	0	0
+Ymmärrän mitä sanotte.	Értem, amit mondasz.	ymmärrän	0	0
+Odota hetki, puhelin soi.	Várj egy pillanatot, csörög a telefonom.	hetki	0	0
+En ymmärrä.	Nem értem.	ymmärrä	0	0
+Sama täällä.	Itt ugyanez van.	sama	0	0
+Bill puhuu hieman japania.	Bill beszél valamit japánul.	hieman	0	0
+Pieni koira eli yli 17-vuotiaaksi.	A kiskutya több mint 17 évet élt.	yli	0	0
+Hän ei kuuntele vanhempiaan.	Nem hallgat a szüleire.	kuuntele	0	0
+Oletteko Berliinissä?	Berlinben vagytok?	oletteko	0	0
+Toiveeni on viimeinkin tullut toteen.	A kívánságom végre teljesült.	tullut	0	0
+Olin liian pieni.	Túl kicsi voltam.	pieni	0	0
+Se on oikea vastaus.	Ez a helyes válasz.	oikea	0	0
+Sain uuden tyttöystävän; etkö tiennyt?	Van egy új barátnőm, nem tudtad?	tiennyt	0	0
+Minkä väriset silmät Tomilla on?	Milyen színű szeme van Tominak?	minkä	0	0
+Tulin kotiin seitsemältä.	Hétkor értem haza.	tulin	0	0
+Isäni tykkää matkustaa lentokoneella.	Apám szeret repülővel utazni.	isäni	0	0
+Mitä me teemme?	Mit csinálunk?	teemme	0	0
+Aion asua huoneessa, jossa on neljä vuodetta.	Négyágyas szobában fogok lakni.	jossa	0	0
+Mitä tarkoittaa SFX?	Mit jelent az SFX rövidítés?	tarkoittaa	0	0
+”Kuinka vanha olet?” ”Kuusitoista vuotta.”	- Milyen idős vagy? - Tizenhat éves vagyok.	vanha	0	0
+Tämä taiteilija kuoli nuorena.	Ez a művész fiatalon halt meg.	kuoli	0	0
+Mistä voin soittaa?	Honnan tudok telefonálni?	soittaa	0	0
+Haluaisin kuvasi.	Szeretnék rólad egy képet.	haluaisin	0	0
+Terve. Täällä on Joe Carlton. Saanko puhua Michaelille?	Üdvözlöm! Itt Joe Carlton beszél. Beszélhetnék Michaellel?	saanko	0	0
+Minä en puhu japania.	Én nem beszélek japánul.	puhu	0	0
+Toni osaa juosta nopeasti.	Tony gyorsan tud futni.	nopeasti	0	0
+Voinko käyttää puhelintasi?	Használhatom a telefonodat?	voinko	0	0
+Tom haluaa puhua sinun kanssasi.	Tom akar veled beszélni.	kanssasi	0	0
+Mikä hevosen nimi on?	Mi a ló neve?	nimi	0	0
+Lupaan pysyä luonasi kunnes isäsi saapuu.	Megígérem, hogy apád megérkezéséig veled maradok.	kunnes	0	0
+Tämä kukka tuoksuu hyvältä.	Ennek a virágnak jó az illata.	hyvältä	0	0
+Tom on vasta viisi, mutta hän osaa jo lukea.	Tamás még csak öt éves, de már tud olvasni.	vasta	0	0
+Minulla on tarpeeksi rahaa ostaa se.	Van elég pénzem, hogy megvegyem.	tarpeeksi	0	0
+Olet iso.	Nagy vagy.	iso	0	0
+Äitini tekee vieläkin töitä keittiössä.	Anyukám még mindig a konyhában dolgozik.	töitä	0	0
+Mitä sänkyä haluat käyttää?	Milyen ágyat akarsz használni?	käyttää	0	0
+Minä olen poliisi.	Én rendőr vagyok.	poliisi	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	viisi	0	0
+Luulen, että olisi parempi, ettet tekisi sitä.	Úgy gondolom, jobb lenne, ha nem tennéd.	ettet	0	0
+Se kuulostaa hyvältä idealta.	Ez jó ötletnek hangzik.	kuulostaa	0	0
+Luulen, kaksituhatta dollaria on tarpeeksi.	Úgy vélem, kétezer dollár elég.	luulen	0	0
+Tunsin isäsi.	Ismertem az édesapádat.	isäsi	0	0
+Ole kiltti äläkä puhu.	Ne beszélj légyszíves.	kiltti	0	0
+Oletko tulossa konserttiini?	Eljössz a koncertemre?	tulossa	0	0
+Olen samaa mieltä Tomin kanssa.	Ugyanaz a véleményem, mint Tomnak.	samaa	0	0
+Pieni koira eli yli 17-vuotiaaksi.	A csöpp kutyus több mint 17 évet megélt.	eli	0	0
+Kävimme eilen illalla elokuvissa.	Tegnap este moziba mentünk.	eilen	0	0
+Kello on puoli neljä.	Fél négy van.	neljä	0	0
+Chris sai töitä talomaalarina ja pystyi hankkimaan rahat.	Christ felvették szobafestőnek, így össze tudta gyűjteni a pénzt.	rahat	0	0
+Kaunis.	Gyönyörű.	kaunis	0	0
+Mitä kello on nyt?	Hány óra van most?	kello	0	0
+Mä vietän liikaa aikaa Facebookissa.	Túl sok időt töltök el a Facebookkal.	liikaa	0	0
+Kuulin että saattaisi sataa lunta.	Azt hallottam, lehet, hogy havazni fog.	kuulin	0	0
+Olen samaa mieltä Tomin kanssa.	Ugyanaz a véleményem, mint Tomnak.	mieltä	0	0
+Tom sanoo, että puhun liikaa.	Tom azt mondja, túl sokat beszélek.	sanoo	0	0
+Sänky on todella mukava.	Az ágy nagyon kényelmes.	mukava	0	0
+Luulen, kaksituhatta dollaria on tarpeeksi.	Úgy vélem, kétezer dollár elég.	dollaria	0	0
+Kerron sinulle puhelinnumeroni.	Megmondom neked a telefonszámomat.	kerron	0	0
+Minä en ole kotona.	Nem vagyok otthon.	kotona	0	0
+Minä puhun ranskaa melkein joka päivä.	Szinte minden nap beszélek franciául.	melkein	0	0
+Tom kertoi Marylle Johnista.	Tom beszélt Marynek Johnról.	kertoi	0	0
+En pidä tästä paidasta. Näytä minulle toinen.	Nem tetszik ez az ing. Mutass másikat nekem!	näytä	0	0
+Mistä sait tuon naarmun poskeesi?	Hol szerezted azt a karcolást az arcodon?	sait	0	0
+Se poika on sairas vaikkei näytä siltä.	A fiú beteg, bár nem úgy néz ki.	siltä	0	0
+Hän ei tunne ketään meistä.	Egyikünket sem ismeri.	meistä	0	0
+Haluaisitteko kuulla uuden lauluni?	Szeretnéd meghallgatni az új dalom?	kuulla	0	0
+Tiedän, että et tunne Tomia.	Tudom, hogy nem ismered Tomit.	tunne	0	0
+Olen kuullut kaiken.	Mindent hallottam.	kuullut	0	0
+Näen puiden välissä miehen.	Látok egy férfit a fák között.	näen	0	0
+Olen eri mieltä kanssasi.	Nem értek egyet veled.	eri	0	0
+Tom ei pysty unohtamaan Marya.	Tom nem tudja elfelejteni Máriát.	pysty	0	0
+Vaimoni halusi adoptoida lapsen.	A feleségem örökbe akart fogadni egy gyermeket.	halusi	0	0
+En voi uskoa, että Tom muistaa minut.	Nem tudom elhinni, hogy Tom emlékszik még rám.	uskoa	0	0
+Ja mitä nyt tehdään?	És most mit csinálunk?	tehdään	0	0
+Hauska tutustua.	Örvendek.	hauska	0	0
+Tule tänne ja auta minua.	Gyere ide és segíts nekem.	auta	0	0
+Sain uuden tyttöystävän; etkö tiennyt?	Van egy új barátnőm, nem tudtad?	uuden	0	0
+Kuka tulee kanssani?	Ki jön velem?	kanssani	0	0
+Luuletko sinä, että kalat voivat kuulla?	Elhiszed, hogy a halak hallanak?	luuletko	0	0
+Tänä iltana menemme kirkkoon.	Ma este templomba megyünk.	tänä	0	0
+John on paras ystäväni.	John a legjobb barátom.	john	0	0
+Kenestä sinä puhut?	Kiről beszélsz?	puhut	0	0
+Iänsä vuoksi hänen muistinsa heikkeni.	Kora miatt memóriája romlott.	vuoksi	0	0
+Me toivomme sinulle kaikkea hyvää, Tom.	Minden jót kívánunk neked, Tom!	kaikkea	0	0
+Tee ja kahvi auttavat aloittamaan päivän.	A tea és a kávé segítenek elkezdeni a napot.	päivän	0	0
+Te kaksi voitte lähteä.	Ti ketten távozhattok.	voitte	0	0
+Tom on hyvä ystäväni.	Tom egy jó barátom.	ystäväni	0	0
+Hän odotti kymmenen minuuttia.	Ő tíz percet várt.	minuuttia	0	0
+Italialainen keittiö on suosittua ympäri maailman.	Az olasz konyhát az egész világon kedvelik.	maailman	0	0
+Mistä ostit nuo kengät?	Hol vetted azt a cipőt?	nuo	0	0
+Mitä? Minä en kuule, mitä sinä sanot.	Mi? Nem hallom, amit mondasz.	kuule	0	0
+Tomi tarvitsee rahaa.	Tomnak pénzre van szüksége.	tarvitsee	0	0
+Kuinka paljon tämä sateenvarjo maksaa?	Mennyibe kerül ez az esernyő?	maksaa	0	0
+Hetkinen.	Pillanat!	hetkinen	0	0
+Minulla on uusi punainen auto.	Van egy új piros autóm.	auto	0	0
+Meillä on vähemmän kuin kolme tuntia.	Kevesebb mint három óránk van.	tuntia	0	0
+Soita hänelle huomenna.	Telefonálj neki holnap!	soita	0	0
+En sanonut, että se tulisi olemaan helppoa.	Nem mondtam, hogy könnyű lesz.	sanonut	0	0
+Voitko auttaa minua muutossa?	Tudsz nekem segíteni a költözködésben?	voitko	0	0
+Mä vietän liikaa aikaa Facebookissa.	Nagyon sok időt töltök a Facebookon.	mä	0	0
+Tiedän minne Tom oli menossa.	Én tudom, hova ment Tom.	menossa	0	0
+Tom oli ainoa, jolla ei ollut sateenvarjoa.	Egyedül Tom volt az, akinek nem volt esernyője.	jolla	0	0
+Tervetuloa!	Üdvözöllek!	tervetuloa	0	0
+Lähellä on sairaala.	A közelben van egy kórház.	lähellä	0	0
+Haluan elää Brasiliassa.	Brazíliában akarok élni.	elää	0	0
+Se ei ollut kovin hyvä.	Nem volt különösebben jó.	kovin	0	0
+Ja mikä onkaan ongelma?	És mi a probléma?	ongelma	0	0
+Hyvää yötä!	Jó éjt!	yötä	0	0
+Ai, sinä et olekaan suomalainen.	Ó, te egyáltalán nem vagy finn!	ai	0	0
+Minulla on vaimo ja lapset.	Feleségem és gyermekeim vannak.	lapset	0	0
+Hyvää huomenta, mitä kuuluu?	Jó reggelt! Hogy vagy?	huomenta	0	0
+Minä en puhu melkein yhtään ranskaa.	Szinte semennyit sem beszélek franciául.	yhtään	0	0
+Missä sinä olit vuonna 1979?	Hol voltál 1979-ben?	vuonna	0	0
+Mikä sopii Juppiterille, ei sovi härälle.	Amit szabad Jupiternek, nem szabad a kisökörnek.	sopii	0	0
+Alice on minun äitini.	Alice az én édesanyám.	äitini	0	0
+Minä soitan viulua.	Én játszom hegedűn.	soitan	0	0
+Onnea.	Sok szerencsét!	onnea	0	0
+Hän ei ole oma itsensä tänään.	Ma ő nem önmaga.	oma	0	0
+Terve.	Helló!	terve	0	0
+Heillä on nälkä.	Éhesek.	heillä	0	0
+En välitä, vaikka aikainen lintu nappaisikin madon, haluan nukkua.	Nem érdekel, hogy ki korán kel, aranyat lel, én aludni akarok.	välitä	0	0
+Annan sinulle kirjan.	Adok neked egy könyvet.	annan	0	0
+Kissa on suuri.	A macska nagy.	suuri	0	0
+Tiedämme, kuka sinä olet.	Tudjuk, ki vagy.	tiedämme	0	0
+Hän on hyvä ihminen.	Ő egy jó ember.	ihminen	0	0
+Minä haluan jäädä tänne.	Itt akarok maradni.	jäädä	0	0
+Työtoverini ja hänen aviomiehensä ovat molemmat amerikkalaisia.	A munkatársnőm és a férje, mindketten amerikaiak.	molemmat	0	0
+Kaikki heistä puhuvat ranskaa.	Ők mindnyájan beszélnek franciául.	heistä	0	0
+Sinä olet vaikea.	Nehéz eset vagy.	vaikea	0	0
+Mitä? En kuule mitä sanot.	Tessék? Nem hallom, amit mondasz.	sanot	0	0
+On epäkohteliasta kysyä joltakulta kuinka paljon hän tienaa.	Udvariatlan dolog megkérdezni valakitől, mennyit keres.	kysyä	0	0
+Se oli väärin.	Rossz volt.	väärin	0	0
+Hänellä on monta kirjaa.	Sok könyve van.	monta	0	0
+Missä te olette olleet?	Hol voltatok?	olleet	0	0
+Luuletko sinä, että kalat voivat kuulla?	Elhiszed, hogy a halak hallanak?	voivat	0	0
+Kuka antoi sinulle nämä omenat?	Kitől kaptad ezeket az almákat?	antoi	0	0
+Mitä he vielä haluavat?	Mit akarnak még?	haluavat	0	0
+Minulla on lapsi.	Van gyerekem.	lapsi	0	0
+Naoko asuu tuossa valkoisessa talossa.	Naoko ebben a fehér házban lakik.	tuossa	0	0
+Koska en kuullut hänestä, kirjoitin hänelle uudelleen.	Mivel nem hallottam felőle, újra írtam neki.	uudelleen	0	0
+Olen töissä täällä.	Itt dolgozom.	töissä	0	0
+Tulen katsomaan TV:tä tänä iltana.	Ma este tv-t fogok nézni.	katsomaan	0	0
+Aion katsoa TV:tä tänä iltana.	Ma este tv-t fogok nézni.	aion	0	0
+Kolme uutta postimerkkiä laskettiin liikenteeseen viime kuussa.	A múlt hónapban három új bélyeget adtak ki.	uutta	0	0
+Poikani ei osaa vielä laskea.	A fiam még nem tud számolni.	poikani	0	0
+Minulle se on tärkeää.	Számomra ez fontos.	tärkeää	0	0
+Haluan tavata sinut uudestaan.	Szeretnélek újra látni.	uudestaan	0	0
+Olen iloinen, että pidät lauseesta.	Örülök, hogy a mondat tetszik neked.	pidät	0	0
+Minä muistan tämän sanan.	Emlékszem erre a szóra.	muistan	0	0
+Hän nousi ja lähti.	Felállt és elment.	lähti	0	0
+Kuinka paljon sinä tarvitset?	Mennyi kell?	tarvitset	0	0
+Menemme kirkkoon tänään illalla.	Megyünk templomba ma este.	menemme	0	0
+Kuinka kauan sinulta kesti oppia suomea?	Mennyi ideig tartott megtanulnod finnül?	sinulta	0	0
+Minulla on kysymys.	Van egy kérdésem.	kysymys	0	0
+Terveisiä kaikille.	Üdv mindenkinek!	kaikille	0	0
+Tulen katsomaan TV:tä tänä iltana.	Ma este tv-t fogok nézni.	iltana	0	0
+Mistä se on tehty?	Miből készült?	tehty	0	0
+Onko hänellä lapsia?	Vannak gyerekei?	lapsia	0	0
+Se on outoa.	Furcsa egy valami.	outoa	0	0
+Tom alkoi opiskella ranskaa kolme vuotta sitten.	Tom három évvel ezelőtt kezdett el franciául tanulni.	alkoi	0	0
+Mihin sinä menet?	Hova mész?	menet	0	0
+Mies jonka kanssa hän on menossa naimisiin, on astronautti.	A férfi, akihez hozzámegy, űrhajós.	naimisiin	0	0
+Minne aiot mennä?	Hova fogsz menni?	aiot	0	0
+Elämä on lahja.	Az élet egy ajándék.	elämä	0	0
+Aion katsoa TV:tä tänä iltana.	Ma este tv-t fogok nézni.	katsoa	0	0
+Sinun pitäisi lopettaa tupakointi.	Abba kellene hagynod a dohányzást.	lopettaa	0	0
+Hän on aika hyvä tyyppi.	Egész jó fickó ő.	tyyppi	0	0
+Häneen voi luottaa.	Bízhatsz benne.	häneen	0	0
+Tom ja Mary ovat hyviä ystäviä.	Tom és Mary jó barátok.	hyviä	0	0
+Tomi osti auton.	Tom vett egy autót.	auton	0	0
+Minä puhun arabiaa.	Én beszélek arabul.	puhun	0	0
+Millaista musiikkia sinä yleensä kuuntelet?	Milyen zenét szoktál hallgatni?	yleensä	0	0
+Kello on puoli neljä.	Fél négy van.	puoli	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	kuusi	0	0
+Haluaisin, että tulet meidän kanssamme.	Szeretném, hogy velünk gyere.	tulet	0	0
+Voisitko auttaa minua vähän?	Tudsz nekem egy kicsit segíteni?	voisitko	0	0
+Onko ranskan ääntäminen vaikeaa?	Nehéz a francia kiejtés?	vaikeaa	0	0
+En sanonut, että se tulisi olemaan helppoa.	Nem mondtam, hogy könnyű lesz.	olemaan	0	0
+Mike ja Ken ovat ystäviä.	Mike és Ken barátok.	ystäviä	0	0
+Menen junalla töihin joka päivä.	Minden nap vonattal megyek dolgozni.	töihin	0	0
+Kaikki on mahdollista.	Minden lehetséges.	mahdollista	0	0
+Tomin terveys on erittäin hyvä.	Tom makkegészséges.	erittäin	0	0
+Koiramme seuraa minua kaikkialle.	A kutyám mindenhová követ engem.	seuraa	0	0
+Mukavaa viikonloppua.	Jó hétvégét!	mukavaa	0	0
+Tämä on minun elämäni.	Ez az életem!	elämäni	0	0
+Miten pitkä olet?	Milyen magas vagy?	pitkä	0	0
+Mitä sinun tyttöystäväsi tekisi, jos hän saisi tietää?	Mit tenne a barátnőd, ha rájönne?	saisi	0	0
+Lupaan pysyä luonasi kunnes isäsi saapuu.	Megígérem, hogy apád megérkezéséig veled maradok.	lupaan	0	0
+Isäni oli käynyt kerran Kreikassa.	Apám már volt valamikor Görögországban.	käynyt	0	0
+Vaimoni halusi adoptoida lapsen.	A feleségem örökbe akart fogadni egy gyermeket.	vaimoni	0	0
+Sataa vettä.	Esik az eső.	vettä	0	0
+Kaipaan kaikkia.	Mindenki hiányozni fog nekem.	kaikkia	0	0
+Minun nimeni on Tom.	A nevem Tom.	nimeni	0	0
+Elävä kala ui veden alla.	Eleven hal úszik a víz alatt.	alla	0	0
+Ovatko he japanilaisia vai kiinalaisia?	Japánok ők vagy kínaiak?	ovatko	0	0
+Televisio on auki.	A tévé be van kapcsolva.	auki	0	0
+Kenen huone tämä on?	Ez kinek a szobája?	kenen	0	0
+Missäpäin Helsinkiä sä asut?	Hol laksz Helsinkiben?	sä	0	0
+Miksi tätä vihannesta sanotaan englanniksi?	Hogy hívják ezt a zöldséget angolul?	sanotaan	0	0
+Minulla on ystävä.	Van egy barátom.	ystävä	0	0
+Tom puhuu usein puhelimessa.	Tom gyakran beszél telefonon.	usein	0	0
+Missä tytöt ovat?	Hol vannak a lányok?	tytöt	0	0
+Tomin tarvitsee voittaa aikaa.	Tomnak időt kell nyernie.	voittaa	0	0
+Olen iloinen, että en ole nainen.	Örülök, hogy nem vagyok nő.	iloinen	0	0
+Häneen voi luottaa.	Bízhatsz benne.	luottaa	0	0
+Eilen illalla kirjoitin kirjeen.	Tegnap este levelet írtam.	illalla	0	0
+Minusta on hyvä, että kirjoja on edelleen olemassa, mutta ne tosiaan saavat minut uniseksi.	Úgy gondolom, jó, hogy léteznek még könyvek, bár én álmos leszek tőlük.	tosiaan	0	0
+Hän ei ole oma itsensä tänään.	Ma ő nem önmaga.	itsensä	0	0
+Tom soitti pianoa.	Tom zongorázott.	soitti	0	0
+Paljonko sinulle maksettiin vanhasta autostasi?	Mennyit fizettek neked az öreg autódért?	paljonko	0	0
+Odotin kymmenen minuuttia.	Tíz percet vártam.	kymmenen	0	0
+Minusta on hyvä, että kirjoja on edelleen olemassa, mutta ne tosiaan saavat minut uniseksi.	Úgy gondolom, jó, hogy léteznek még könyvek, bár én álmos leszek tőlük.	saavat	0	0
+Hänen nimensä on Tom.	A neve Tom.	nimensä	0	0
+Taloni on kaukana.	Messze van az én házam.	kaukana	0	0
+En sanonut, että se tulisi olemaan helppoa.	Nem mondtam, hogy könnyű lesz.	helppoa	0	0
+Hyvä idea!	Ez jó ötlet!	idea	0	0
+Olenko valmis?	Hogy készen állok?	olenko	0	0
+Tom ei osaa ajaa autoa.	Tom nem tud autót vezetni.	ajaa	0	0
+Tämä lause on jo olemassa.	Ez a mondat már létezik.	olemassa	0	0
+Tom puhuu vähän ranskaa.	Tom beszél egy keveset franciául.	puhuu	0	0
+Hän rakastaa leluja.	Szereti a játékokat.	rakastaa	0	0
+Minulle se on tärkeä.	Nekem ez fontos.	tärkeä	0	0
+Mari ymmärtää kiinaa.	Mari ért kínaiul.	ymmärtää	0	0
+Tämä lause ei kuulu minulle.	Ez a mondat nem az enyém.	kuulu	0	0
+Syö kaikki.	Edd meg mindet!	syö	0	0
+Hän on minun veljeni.	Ez a fivérem.	veljeni	0	0
+Kuinka paljon tyttäreni pitäisi syödä?	Milyen sokat kell a lányomnak enni?	syödä	0	0
+Onko tuo pitkä mies tämän pojan isä?	Az a magas férfi ennek a fiúnak az apja?	pojan	0	0
+Miksi et mennyt Saksaan?	Miért nem mentél Németországba?	mennyt	0	0
+He antoivat minun odottaa pitkään.	Sokáig várattak.	pitkään	0	0
+Italialainen keittiö on suosittua ympäri maailman.	Az olasz konyhát az egész világon kedvelik.	ympäri	0	0
+Missä pomo on?	Hol van a főnök?	pomo	0	0
+Tom puhuu aina ranskaksi.	Tom mindig franciául beszél.	tom	0	0
+Millainen uusi opettaja on?	Milyen az új tanár?	millainen	0	0
+Äitini tuntee Tomin äidin.	Édesanyám ismeri Tom édesanyját.	äidin	0	0
+Tom juoksi minkä jaloistaan pääsi.	Tom olyan gyorsan futott, ahogy csak tudott.	pääsi	0	0
+Se on hyvä ajatus!	Ez egy jó ötlet!	ajatus	0	0
+Talo on valkoiseksi maalattu.	A ház fehérre van festve.	talo	0	0
+Haluan ostaa banaaneja.	Banánt szeretnék vásárolni.	ostaa	0	0
+Tom otti takkinsa kaapista ja laittoi sen päälleen.	Tom kivette a ruhásszekrényből a kabátját és felvette.	otti	0	0
+Hän piti huolta äidistään isänsä kuoleman jälkeen.	Ő gondoskodott az anyjáról az apja halála után.	huolta	0	0
+En sanonut, että se tulisi olemaan helppoa.	Nem mondtam, hogy könnyű lesz.	tulisi	0	0
+Luulen, että olisi parempi, ettet tekisi sitä.	Úgy gondolom, jobb lenne, ha nem tennéd.	tekisi	0	0
+Koko maailma tahtoo rauhaa.	Az egész világ békét akar.	maailma	0	0
+Ymmärrätkö, mitä minä puhun?	Érted, amit mondok?	ymmärrätkö	0	0
+Käyn kirkossa aina sunnuntaisin.	Minden vasárnap megyek templomba.	käyn	0	0
+Palaan 6:30.	Fél hétre visszajövök.	palaan	0	0
+Opiskelen venäjää radion kielikurssin avulla.	A rádió nyelvtanfolyamának segítségével tanulok oroszul.	avulla	0	0
+En ole koskaan nähnyt tällaista ottelua.	Még sosem láttam ilyen mérkőzést.	tällaista	0	0
+Annoin sinulle kirjan.	Adtam neked egy könyvet.	annoin	0	0
+Ystäväni pyysi lähettämään postikortin.	Egy barátom megkért, hogy küldjek neki egy képeslapot.	pyysi	0	0
+Tom haluaa oppia muutaman ranskalaisen laulun.	Tom meg akar tanulni néhány francia dalt.	muutaman	0	0
+Onko tämä sinun kirjasi, Mike?	Ez a te könyved, Mike?	mike	0	0
+Terve. Täällä on Joe Carlton. Saanko puhua Michaelille?	Üdvözlöm! Itt Joe Carlton beszél. Beszélhetnék Michaellel?	joe	0	0
+Olen naimisissa ja minulla on kaksi lasta.	Házas vagyok, és két gyerekem van.	naimisissa	0	0
+Miksi emme käytä portaita?	Miért nem használjuk a lépcsőt?	käytä	0	0
+Valitettavasti minulla on huonoja uutisia.	Sajnos rossz híreim vannak.	uutisia	0	0
+Kurkkuuni sattuu.	Fáj a torkom.	sattuu	0	0
+Ranskassa puhutaan ranskaa.	Franciaországban franciául beszélnek.	puhutaan	0	0
+Vaimoni halusi adoptoida lapsen.	A feleségem örökbe akart fogadni egy gyermeket.	lapsen	0	0
+Minä juon kahvia.	Kávézom.	kahvia	0	0
+Mikä sinun ystäväsi nimi on?	Mi a neve a barátodnak?	ystäväsi	0	0
+Menin jalan.	Gyalog mentem.	menin	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	seitsemän	0	0
+Lupaan pysyä luonasi kunnes isäsi saapuu.	Megígérem, hogy apád megérkezéséig veled maradok.	pysyä	0	0
+Hän ei ole lääkäri.	Ő nem orvos.	lääkäri	0	0
+Onko Tomi onnellinen?	Tom boldog?	onnellinen	0	0
+Hän on Alainin vaimo.	Ő Alain felesége.	vaimo	0	0
+Meidän täytyy ajatella lapsiamme ja lastenlapsiamme.	Gondolnunk kell a gyerekeinkre és az unokáinkra.	ajatella	0	0
+Rakastan tämän kaupungin ihmisiä.	Szeretem a város lakóit.	kaupungin	0	0
+On melko kylmä.	Elég hideg van.	melko	0	0
+Hän oli hyvä kuningas.	Jó király volt.	kuningas	0	0
+Vihaan tätä peliä.	Utálom ezt a játékot.	vihaan	0	0
+Minulla on paljon tekemistä tänään.	Ma sok a tennivalóm.	tekemistä	0	0
+Opiskelen ranskaa englannin lisäksi.	Az angol mellett franciául is tanulok.	lisäksi	0	0
+Kukaan ei tee sinulle pahaa.	Senki nem fog bántani.	pahaa	0	0
+Hän on hyvin sairas.	Nagyon beteg.	sairas	0	0
+Kiotossa vierailee paljon ihmisiä joka vuosi.	Kiotóba minden évben sokan ellátogatnak.	vuosi	0	0
+Kaikki pikkulapset tietävät sen kirjan.	Minden kisgyerek ismeri azt a könyvet.	tietävät	0	0
+Hän lähetti hänelle postikortin.	Küldött neki egy képeslapot.	lähetti	0	0
+Hän asuu äitinsä kanssa.	Az édesanyjával lakik.	asuu	0	0
+Kuinka paljon tyttäreni pitäisi syödä?	Milyen sokat kell a lányomnak enni?	tyttäreni	0	0
+Ai, sinä et olekaan suomalainen.	Ó, te egyáltalán nem vagy finn!	olekaan	0	0
+Haluan vain mennä kotiin nukkumaan.	Csak haza szeretnék menni aludni.	nukkumaan	0	0
+Sinä olet idiootti.	Idióta vagy!	idiootti	0	0
+Osaan lukea.	Tudok olvasni.	osaan	0	0
+Minusta on hyvä, että kirjoja on edelleen olemassa, mutta ne tosiaan saavat minut uniseksi.	Úgy gondolom, jó, hogy léteznek még könyvek, bár én álmos leszek tőlük.	edelleen	0	0
+Miksi et syö omaa suklaatasi?	Miért nem eszed a csokoládédat?	omaa	0	0
+Minulla on iso koira.	Van egy nagy kutyám.	koira	0	0
+Hyvää iltaa, mitä kuuluu?	Jó estét! Mi újság?	iltaa	0	0
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	kahdeksan	0	0
+Pidätkö kalasta?	Szereted a halat?	pidätkö	0	0
+Hyvän opettajan täytyy olla kärsivällinen oppilaidensa kanssa.	Egy jó tanárnak türelmesnek kell lennie a diákjaival.	hyvän	0	0
+Minun mielestäni hän on oikeassa.	Véleményem szerint igaza van.	mielestäni	0	0
+Minulla on yksi kissa ja yksi koira. Kissa on musta ja koira on valkoinen.	Van egy macskám és egy kutyám. A macska fekete, a kutya fehér.	musta	0	0
+Minulla oli kiire koko päivän.	Egész nap el voltam foglalva.	kiire	0	0
+Kuva on tässä kirjassa.	A kép ebben a könyvben van.	kuva	0	0
+Tom toi tämän.	Tomi hozta ezt.	toi	0	0
+Puhuin Tomin kanssa.	Beszéltem Tomival.	puhuin	0	0
+Tämä työ vaatii erityisiä kykyjä.	Ehhez a munkához különleges képességekre van szükség.	työ	0	0
+He pitävät omenoista.	Nekik tetszenek az almák.	pitävät	0	0
+Lause ei täsmennä paikkaa.	A mondat nem adja meg a helyet.	paikkaa	0	0
+Hän osaa lukea ja kirjoittaa.	Tud olvasni és írni.	kirjoittaa	0	0
+Tomi ja Mari asuvat nykyään Bostonissa.	Tom és Mary most Bostonban laknak.	nykyään	0	0
+Istun mieluummin kirjastossa lukemassa kuin menen kotiin.	Szívesebben ülnék olvasgatva a könyvtárban, mint hazamennék.	mieluummin	0	0
+Millaista sampoota käytät?	Milyen sampont használsz?	millaista	0	0
+Montako sotilasta näit?	Hány katonát láttál?	montako	0	0
+Kävin koulua isäsi kanssa.	Apáddal mentem az iskolába.	kävin	0	0
+Kirkko on keskellä kylää.	A templom a falu közepén van.	keskellä	0	0
+Hänen isänsä syö täällä kaksi kertaa viikossa.	Az apja hetente kétszer ott eszik.	isänsä	0	0
+Se on vanha vitsi.	Ez egy régi vicc.	vitsi	0	0
+Mitä näit?	Mit láttál?	näit	0	0
+Osaan lukea.	Tudok olvasni.	lukea	0	0
+Kova tuuli puhaltaa.	Erős szél fúj.	kova	0	0
+Me yövyimme kolmen tähden hotellissa.	Egy háromcsillagos szállodában laktunk.	kolmen	0	0
+Kiitoksia paljon.	Köszönöm szépen!	kiitoksia	0	0
+Tom puhui parempaa ranskaa kuin Mary.	Tom jobban beszélt franciául, mint Mary.	parempaa	0	0
+Tässä talossa asuin lapsena.	Ebben a házban laktam, amikor gyerek voltam.	talossa	0	0
+Näkemiin!	Viszontlátásra!	näkemiin	0	0
+Kunpa minulla olisi 80 jenin postimerkki.	Bárcsak lenne egy 80 jenes bélyegem.	kunpa	0	0
+Valitettavasti minulla on huonoja uutisia.	Sajnos rossz híreim vannak.	valitettavasti	0	0
+Eleme ja kuolema?	Élet vagy halál?	kuolema	0	0
+Nimeni on Henry.	Henry a nevem.	henry	0	0
+Unohdin kirjan kotiin.	A könyvet otthon felejtettem.	unohdin	0	0
+Tom puhui parempaa ranskaa kuin Mary.	Tom jobban beszélt franciául, mint Mary.	puhui	0	0
+Olen naimisissa ja minulla on kaksi lasta.	Házas vagyok, és két gyerekem van.	lasta	0	0
+Voiko Tom hyvin?	Jól van Tom?	voiko	0	0
+Se on minulle mahdotonta.	Ez számomra lehetetlen.	mahdotonta	0	0
+Olen vapaa.	Szabad vagyok.	vapaa	0	0
+Minulla ei ole nälkä.	Nincs étvágyam.	nälkä	0	0
+Meillä on vähemmän kuin kolme tuntia.	Kevesebb mint három óránk van.	vähemmän	0	0
+Minulla on oikeus arvostella.	Jogom van kritizálni.	oikeus	0	0
+Olen autossa.	Autóban vagyok.	autossa	0	0
+Hän piti huolta äidistään isänsä kuoleman jälkeen.	Ő gondoskodott az anyjáról az apja halála után.	kuoleman	0	0
+Miten voimme suojella itseämme koronavirukselta?	Hogyan védekezhetünk a koronavírus ellen?	suojella	0	0
+Pidän näistä vaatteista enemmän kuin noista.	Ezeket a ruhákat jobban szeretem, mint azokat.	näistä	0	0
+Valmista tuli!	Minden kész!	valmista	0	0
+Mary asuu Kairossa.	Mária Kairóban lakik.	mary	0	0
+Me yövyimme kolmen tähden hotellissa.	Egy háromcsillagos szállodában laktunk.	tähden	0	0
+Tämä lause on OK.	A mondat rendben van.	ok	0	0
+Meidän olisi pitänyt pysähtyä silloin kun siihen vielä oli mahdollisuus.	Meg kellett volna állnunk, amíg volt rá lehetőségünk.	mahdollisuus	0	0
+En mene mielelläni ulos kun sataa.	Nem szívesen megyek ki, ha esik.	mielelläni	0	0
+Älä kerro tätä kenellekään.	Senkinek se beszélj erről.	kenellekään	0	0
+Kuka juo olutta?	Ki iszik sört?	juo	0	0
+Bob on ystäväni.	Bob a barátom.	bob	0	0
+Tunnetko ketään, joka ei olisi Facebookissa?	Ismersz olyat, aki nincs a Facebook-on?	tunnetko	0	0
+Minkä väriset silmät Tomilla on?	Milyen színű szeme van Tominak?	silmät	0	0
+Moskova on venäläinen kaupunki.	Moszkva orosz város.	kaupunki	0	0
+Haluaisin kiittää uskomattoman hienosta yhteistyöstä useiden vuosien ajalta.	Szeretnék köszönetet mondani a fantasztikus sok éven át tartó együttműködésért.	kiittää	0	0
+Äitini tekee vieläkin töitä keittiössä.	Anyukám még mindig a konyhában dolgozik.	vieläkin	0	0
+Tom lukee hitaasti.	Tom lassan olvas.	lukee	0	0
+Olet outo.	Fura vagy.	outo	0	0
+Onko sinulla syyllinen olo?	Bűnösnek érzed magad?	olo	0	0
+Bill puhuu hieman japania.	Bill beszél valamit japánul.	bill	0	0
+Picasso maalasi tämän kuvan 1950.	Picasso festette ezt a képet 1950-ben.	kuvan	0	0
+En välitä, vaikka aikainen lintu nappaisikin madon, haluan nukkua.	Nem érdekel, hogy ki korán kel, aranyat lel, én aludni akarok.	nukkua	0	0
+Tunsin isäsi.	Én ismertem az édesapádat.	tunsin	0	0
+Tiedätkö missä Jim ja Nancy ovat?	Tudod, hol van Jim és Nancy?	jim	0	0
+Tämä työ vaatii erityisiä kykyjä.	Ehhez a munkához különleges képességekre van szükség.	vaatii	0	0
+Se oli typerä idea.	Ez egy ostoba ötlet volt.	typerä	0	0
+Opin ranskaa saksan sijaan.	A német helyett a francia nyelvet tanultam.	sijaan	0	0
+Osaatko vastata tähän kysymykseen?	Tudsz válaszolni erre a kérdésre?	vastata	0	0
+Jään pois seuraavalla pysäkillä.	Leszállok a következő megállónál.	jään	0	0
+Kiina on valtava maa.	Kína egy hatalmas ország.	maa	0	0
+Me opimme ranskaa koulussa.	Az iskolában franciát tanulunk.	koulussa	0	0
+En ostanut sitä autoa.	Nem vettem meg az autót.	autoa	0	0
+Mistä syystä hän on niin onneton?	Mi miatt olyan boldogtalan?	syystä	0	0
+Ole kiltti äläkä puhu.	Ne beszélj légyszíves.	äläkä	0	0
+Varovasti!	Óvatosan!	varovasti	0	0
+Hän asuu äitinsä kanssa.	Az édesanyjával lakik.	äitinsä	0	0
+Kenen huone tämä on?	Ez kinek a szobája?	huone	0	0
+Huoneessa oli pimeä ja kylmä.	Sötét és hideg volt a szobában.	huoneessa	0	0
+Eläminen on vaarallista.	Élni veszélyes.	vaarallista	0	0
+Hyvästi!	Isten veled.	hyvästi	0	0
+Ystäväni on puhelias henkilö.	A barátom sokat beszél.	henkilö	0	0
+Minä pystyn lukea englanninkielistä tekstiä.	Tudok angolul olvasni.	pystyn	0	0
+Olin katsomassa televisiota, kun puhelin soi.	Éppen a televíziót néztem, amikor csengett a telefon.	puhelin	0	0
+Annan sinulle vielä viimeisen mahdollisuuden.	Adok neked egy utolsó esélyt.	viimeisen	0	0
+En ymmärrä lainkaan englantia enkä saksaa senkään vertaa.	Angolul egyáltalán nem értek, németül pedig még annyira sem.	lainkaan	0	0
+Minulla on musta koira nimeltä Tiki.	Van egy fekete kutyám, Tikinek hívják.	nimeltä	0	0
+Ostin parin kenkiä.	Vásároltam egy pár cipőt.	parin	0	0
+Bostonissa on kivaa.	Boston szép hely.	kivaa	0	0
+Minä haluan asua kaupungissa.	Szeretnék városban lakni.	kaupungissa	0	0
+Olin juuri lähdössä talosta, kun puhelin soi.	Éppen ki akartam lépni a házból, amikor csöngött a telefon.	lähdössä	0	0
+Äitini tuntee Tomin äidin.	Anyám ismeri Tom anyját.	tuntee	0	0
+Hyvää matkaa!	Jó utat!	matkaa	0	0
+On melko kylmä.	Elég hideg van.	kylmä	0	0
+On liian kuuma.	Túl forró.	kuuma	0	0
+Se on oikea vastaus.	Ez a helyes válasz.	vastaus	0	0
+En kävele enkä juokse.	Nem sétálok és nem is futok.	juokse	0	0
+En voi uskoa, että Tom muistaa minut.	Nem tudom elhinni, hogy Tom emlékszik még rám.	muistaa	0	0
+Olet professori.	Professzor vagy.	professori	0	0
+Lentokone laskeutui täsmälleen kello yhdeksän.	A repülő pontosan kilenckor érkezett.	yhdeksän	0	0
+Elämä on lahja.	Az élet egy ajándék.	lahja	0	0
+Mikä sopii Juppiterille, ei sovi härälle.	Amit szabad Jupiternek, nem szabad a kisökörnek.	sovi	0	0
+Osaan pelata tennistä.	Tudok teniszezni.	pelata	0	0
+Miksi sinä olet väsynyt?	Miért vagy fáradt?	väsynyt	0	0
+Benjamin ampui kiväärillä karhun.	Benjamin egy medvét egy puskával lőtte le.	ampui	0	0
+En osaa lentää.	Nem tudok repülni.	lentää	0	0
+Hän käytti margariinia voin sijasta.	Margarinnal helyettesítette a vajat.	käytti	0	0
+Ostin parin kenkiä.	Vásároltam egy pár cipőt.	ostin	0	0
+Emme ollenkaan tunne lapsen luontoa; siitä muodostamiemme väärien käsitteiden nojalla joudumme, kuta pitemmälle koetamme päästä, yhä kauemmaksi harhateille.	Nem ismerik a gyermekéletet: mennél messzebbre megyünk róla szóló hamis fogalmaink után, annál jobban eltévelyedünk.	ollenkaan	0	0
+Se on TV.	Ez egy televízió.	tv	0	0
+Miesten WC on oikealla ja naisten WC on vasemmalla.	A férfi WC jobbra van, a női WC balra.	naisten	0	0
+Tom puhuu usein puhelimessa.	Tom gyakran beszél telefonon.	puhelimessa	0	0
+Ylhäällä oikealla olevaa viisaudenhammastani koskee.	Fáj a jobb felső bölcsességfogam.	koskee	0	0
+Lähetä minulle kopio.	Küldj nekem egy másolatot!	lähetä	0	0
+Tom haluaa oppia muutaman ranskalaisen laulun.	Tom meg akar tanulni néhány francia dalt.	oppia	0	0
+Ansaitsen sata euroa päivässä.	100 eurót keresek naponta.	päivässä	0	0
+Tiedän erään, joka puhuu hyvin ranskaa.	Ismerek valakit, aki jól beszél franciául.	erään	0	0
+Viiden ja kolmen summa on kahdeksan.	Ötnek és négynek az összege kilenc.	viiden	0	0
+Tämä kirja on uusi.	Ez a könyv új.	kirja	0	0
+Aion asua huoneessa, jossa on neljä vuodetta.	Négyágyas szobában fogok lakni.	asua	0	0
+Vihaan tätä peliä.	Utálom ezt a játékot.	peliä	0	0
+Tom lukee hitaasti.	Tom lassan olvas.	hitaasti	0	0
+Minun koirani on valkoinen.	Az én kutyám fehér.	valkoinen	0	0
+Oli yö.	Éjszaka volt.	yö	0	0
+Isäni tykkää matkustaa lentokoneella.	Édesapám szívesen utazik repülővel.	tykkää	0	0
+Haluatko mennä jonnekin muualle?	Valahová máshová akarsz menni?	jonnekin	0	0
+Hän menee bussilla kouluun.	Busszal megy iskolába.	kouluun	0	0
+Hänellä oli kolme poikaa joista tuli asianajajia.	Neki három fia volt, ügyvédek lettek.	joista	0	0
+Vaimoni ja lapseni olivat siellä.	A feleségem és a gyerekek ott voltak.	lapseni	0	0
+Kaipaan kaikkia.	Mindenki hiányozni fog nekem.	kaipaan	0	0
+Onko teillä perhettä?	Van családod?	perhettä	0	0
+Se on minun työni.	Ez az én dolgom.	työni	0	0
+Millaista musiikkia sinä yleensä kuuntelet?	Milyen zenét szoktál hallgatni?	musiikkia	0	0
+Me kaikki puhumme ranskaa.	Mi mindnyájan beszélünk franciául.	puhumme	0	0
+Haluaisin, että tulet meidän kanssamme.	Szeretném, hogy velünk gyere.	kanssamme	0	0
+Miesten WC on oikealla ja naisten WC on vasemmalla.	A férfi WC jobbra van, a női WC balra.	miesten	0	0
+Ostitko tämän kirjan?	Ezt a könyvet te vetted?	kirjan	0	0
+Olen kuullut, että Saksassa olut on halvempaa kuin vesi. Onko se totta?	Azt hallottam, hogy Németországban a sör olcsóbb a víznél. Ez igaz?	vesi	0	0
+Hänellä oli kolme poikaa joista tuli asianajajia.	Neki három fia volt, ügyvédek lettek.	poikaa	0	0
+Oletko valmis lähtemään ulos?	Készen állsz az indulásra?	lähtemään	0	0
+Chris sai töitä talomaalarina ja pystyi hankkimaan rahat.	Christ felvették szobafestőnek, így össze tudta gyűjteni a pénzt.	chris	0	0
+Voisitteko esittäytyä? Mikä on ammattinne?	Bemutatkozna, kérem? Mi a foglalkozása?	voisitteko	0	0
+Meillä on vain teetä.	Csak teánk van.	teetä	0	0
+Hän puhuu täydellistä venäjää.	Perfekt beszél oroszul.	täydellistä	0	0
+Me odotamme.	Várni fogunk.	odotamme	0	0
+Ei minun tarvinnut auttaa sinua mutta tein sen silti.	Nem kellett volna segítenem neked, mégis megtettem.	tarvinnut	0	0
+Hän opettaa matematiikkaa ja Englantia.	Ő tanítja mind a számtant, mind pedig az angolt is.	opettaa	0	0
+Voitteko nähdä heidät?	Látjátok őket?	voitteko	0	0
+Miksi sinä rakastat minua?	Miért szeretsz?	rakastat	0	0
+Me puhuimme tästä eilen.	Beszéltünk erről tegnap.	puhuimme	0	0
+Koira on punainen.	Piros a kutya.	punainen	0	0
+Hän on rehellinen tyttö.	Ő egy becsületes lány.	rehellinen	0	0
+Hänen vaimonsa on ranskalainen.	A felesége francia.	vaimonsa	0	0
+Haluan juoda teetä.	Teát szeretnék.	juoda	0	0
+Asun hotellissa.	Szállodában lakom.	asun	0	0
+Miksi olet vielä ylhäällä?	Miért vagy még fent?	ylhäällä	0	0
+Tom pystyy kävelemään käsillään.	Tom tud kézen járni.	pystyy	0	0
+Odotin kymmenen minuuttia.	Tíz percet vártam.	odotin	0	0
+Hän on tottunut nousemaan aikaisin.	Hozzá van szokva, hogy korán keljen.	aikaisin	0	0
+Pääsin kotiin seitsemältä.	Hétkor értem haza.	pääsin	0	0
+Opettaja kertoi meille hauskan tarinan.	A tanító elmondott nekünk egy vidám történetet.	tarinan	0	0
+Tom meni kaupunkiin bussilla.	Tom autóbusszal ment a városba.	kaupunkiin	0	0
+Miksi olet vielä hereillä?	Miért vagy még ébren?	hereillä	0	0
+En ymmärrä tämän lauseen täsmällistä merkitystä.	Nem értem a pontos jelentését ennek a mondatnak.	merkitystä	0	0
+Onko sinulla syyllinen olo?	Bűnösnek érzed magad?	syyllinen	0	0
+Ansaitsen sata euroa päivässä.	100 eurót keresek naponta.	sata	0	0
+En lue kirjoja.	Nem olvasok könyveket.	lue	0	0
+Se ei ole hyvä merkki.	Ez nem jó jel.	merkki	0	0
+Isäni polttaa.	Az apám dohányzik.	polttaa	0	0
+Missä tapaamme?	Hol találkozunk?	tapaamme	0	0
+Aurinko nousee idästä ja laskee länteen.	A nap keleten kel és nyugaton nyugszik.	nousee	0	0
+Se on suuri päätös.	Ez egy nagy döntés.	päätös	0	0
+Kiina on valtava maa.	Kína egy hatalmas ország.	valtava	0	0
+Kuinka kauan teiltä kesti oppia suomea?	Mennyi ideig tartott megtanulnod finnül?	kesti	0	0
+Olet komea.	Fess vagy.	komea	0	0
+Hauska tutustua.	Örülök, hogy megismertelek.	tutustua	0	0
+Olin katsomassa televisiota, kun puhelin soi.	Éppen a televíziót néztem, amikor csengett a telefon.	katsomassa	0	0
+Hän kirjoitti minulle pitkän kirjeen.	Írt nekem egy hosszú levelet.	kirjoitti	0	0
+Sami on homo.	Sami meleg.	homo	0	0
+Olitko kotona?	Otthon voltál?	olitko	0	0
+Ruoka on valmis.	Kész az étel.	ruoka	0	0
+Se on söpö.	Aranyos.	söpö	0	0
+Hänen isänsä syö täällä kaksi kertaa viikossa.	Az apja ott eszik kétszer hetente.	viikossa	0	0
+En tiedä tuleeko Yrjö vai ei.	Nem tudom, hogy jön-e György vagy sem.	tuleeko	0	0
+Sinä ymmärrät minua.	Te megértesz.	ymmärrät	0	0
+Terve. Oletko sinä Jackie Scott?	Szia! Te vagy Jackie Scott?	scott	0	0
+Hän palasi eilen kotiin ulkomailta.	Tegnap jött vissza külföldről.	palasi	0	0
+Hän myy kukkia.	Virágot árul.	myy	0	0
+Kuinka kauan teiltä kesti oppia suomea?	Mennyi ideig tartott megtanulnod finnül?	teiltä	0	0
+Tykkään autostasi.	Tetszik a kocsid.	tykkään	0	0
+Annan sinulle vielä viimeisen mahdollisuuden.	Adok neked egy utolsó esélyt.	mahdollisuuden	0	0
+Lupaan pysyä luonasi kunnes isäsi saapuu.	Megígérem, hogy apád megérkezéséig veled maradok.	saapuu	0	0
+Katsoin kaappiin.	Benéztem a szekrénybe.	katsoin	0	0
+Käytän sitä joka päivä.	Ezt mindennap használom.	käytän	0	0
+Se elokuva oli tosi tylsä.	Ez a film annyira unalmas volt.	elokuva	0	0
+Autoni tuulilasi oli rikki.	Eltörött a kocsim szélvédője.	rikki	0	0
+Vanhempani ovat Australiassa.	A szüleim Ausztráliában vannak.	vanhempani	0	0
+Hyvää joulua!	Boldog Karácsonyt!	joulua	0	0
+Kamera on vanha.	Régi a kamera.	kamera	0	0
+Aurinko nousee idästä ja laskee länteen.	A nap keleten kel és nyugaton nyugszik.	aurinko	0	0
+Opin ranskaa saksan sijaan.	A német helyett a francia nyelvet tanultam.	opin	0	0
+Perheesi odottaa sinua.	A családod vár rád.	perheesi	0	0
+Opettaja kertoi meille hauskan tarinan.	A tanító elmondott nekünk egy vidám történetet.	opettaja	0	0
+Miksi et jäänyt Saksaan?	Miért nem maradtál Németországban?	jäänyt	0	0
+Haluatko mennä jonnekin muualle?	Valahová máshová akarsz menni?	muualle	0	0
+Meillä on suuria, keskikokoisia ja pieniä. Mitä kokoa te tarvitsette?	Van nagy, közepes és kicsi. Melyik nagyságot szeretné?	pieniä	0	0
+Meillä on suuria, keskikokoisia ja pieniä. Mitä kokoa te tarvitsette?	Van nagy, közepes és kicsi. Melyik nagyságot szeretné?	tarvitsette	0	0
+Tässä on sydämeni.	Itt van a szívem.	sydämeni	0	0
+Kaikki puhuvat jotakin kieltä.	Mindenki beszél valamilyen nyelvet.	puhuvat	0	0
+Valitettavasti minulla on huonoja uutisia.	Sajnos rossz híreim vannak.	huonoja	0	0
+Minä olen rikas.	Gazdag vagyok.	rikas	0	0
+Hän osti koiran hänelle.	Vett egy kutyát neki.	osti	0	0
+Olin juuri lähdössä talosta, kun puhelin soi.	Éppen ki akartam lépni a házból, amikor csöngött a telefon.	talosta	0	0
+Missä minun autoni on?	Hol van az autóm?	autoni	0	0
+Osaatko vastata tähän kysymykseen?	Tudsz válaszolni erre a kérdésre?	osaatko	0	0
+Koko maailma tahtoo rauhaa.	Az egész világ békét akar.	tahtoo	0	0
+Mitä haluaisit illalliseksi?	Mit szeretnél vacsorázni?	haluaisit	0	0
+Tiedän, että raha ei merkitse kaikkea.	Tudom, hogy a pénz nem minden.	raha	0	0
+Mistä ostit nuo kengät?	Hol vetted azt a cipőt?	kengät	0	0
+Hänen tarkoituksensa elämässä oli tulla suureksi tohtoriksi.	Az volt az életcélja, hogy híres orvos legyen.	elämässä	0	0
+Kuinka monta leikkausta tohtori Jackson on tehnyt tässä kuussa?	Hány operációt végzett dr. Jackson ebben a hónapban?	kuussa	0	0
+Elävät kalat uiskentelevat veden alla.	Eleven halak úszkálnak a víz alatt.	veden	0	0
+Hän rakentaa siltaa.	Hidat épít.	rakentaa	0	0
+Kuka juo olutta?	Ki iszik sört?	olutta	0	0
+Kirjoitan kirjettä.	Írok egy levelet.	kirjoitan	0	0
+Haluaisin kiittää uskomattoman hienosta yhteistyöstä useiden vuosien ajalta.	Szeretnék köszönetet mondani a fantasztikus sok éven át tartó együttműködésért.	vuosien	0	0
+Haluatko katsoa elokuvan?	Szeretnél filmet nézni?	elokuvan	0	0
+Hyvää yötä ja kauniita unia.	Jó éjszakát és szép álmokat!	kauniita	0	0
+Minulla on koti.	Van otthonom.	koti	0	0
+Tervetuloa elämääni!	Üdvözöllek az életemben.	elämääni	0	0
+Kippis!	Egészség!	kippis	0	0
+Tomi ei nuku.	Tom nem alszik.	nuku	0	0
+Mä rakastan sua.	Szeretlek.	sua	0	0
+Mitä sinä toit minulle?	Mit hoztál nekem?	toit	0	0
+Hän lupasi minulle, että hän tulee tänne.	Megígérte nekem, hogy idejön.	lupasi	0	0
+Kuinka monta kirjaa sinä luit?	Hány könyvet olvastál?	kirjaa	0	0
+Hän osti hänelle koiran.	Vett neki egy kutyát.	koiran	0	0
+Serkkuni on vähän minua vanhempi.	Az unokatestvérem kicsit idősebb nálam.	vanhempi	0	0
+Hän kirjoitti minulle pitkän kirjeen.	Írt nekem egy hosszú levelet.	kirjeen	0	0
+Lapsi nukkuu.	A gyerek alszik.	nukkuu	0	0
+Kirjoita minulle jotakin.	Írj nekem valamit.	kirjoita	0	0
+Meillä on valkea kissa.	Van egy fehér macskánk.	kissa	0	0
+Miesten WC on oikealla ja naisten WC on vasemmalla.	A férfi WC jobbra van, a női WC balra.	oikealla	0	0
+Alice on äitini.	Alice az édesanyám.	alice	0	0
+Susan teki mekon Jillille.	Susan egy ruhát készített Jillnek.	susan	0	0
+Tom on hyvin surullinen.	Tom nagyon szomorú.	surullinen	0	0
+Tämä on kylä missä hän syntyi.	Ez az a falu, ahol született.	syntyi	0	0
+Koska en kuullut hänestä, kirjoitin hänelle uudelleen.	Mivel nem hallottam felőle, újra írtam neki.	kirjoitin	0	0
+Minä puhun ranskaa ja englantia.	Franciául és angolul beszélek.	englantia	0	0
+Ymmärrän mitä sanotte.	Értem, amit mondasz.	sanotte	0	0
+Syön omenan.	Almát eszem.	syön	0	0
+Tom kaatui ja löi kyynärpäänsä.	Tom elesett és beütötte a könyökét.	löi	0	0
+Hän oli erittäin suuttunut ja menetti itsehillintänsä.	Nagyon mérges volt, és elvesztette az önuralmát.	menetti	0	0
+Tässä talossa asuin lapsena.	Ebben a házban laktam, amikor gyerek voltam.	lapsena	0	0
+Lihaa, kiitos.	Húst kérek.	lihaa	0	0
+Hän kirjoitti minulle pitkän kirjeen.	Írt nekem egy hosszú levelet.	pitkän	0	0
+Minä en asu Helsingissä.	Nem lakom Helsinkiben.	asu	0	0
+Tom otti takkinsa kaapista ja laittoi sen päälleen.	Tom kivette a ruhásszekrényből a kabátját és felvette.	laittoi	0	0
+Tuolla koiralla on lyhyt häntä.	Annak a kutyának rövid a farka.	lyhyt	0	0
+Hänellä oli pitkät hiukset.	Hosszú haja volt.	hiukset	0	0
+On varmaa, että kullan hinta nousee.	Az arany ára biztosan emelkedni fog.	hinta	0	0
+Auto on sininen.	Az autó kék.	sininen	0	0
+Meillä on suuria, keskikokoisia ja pieniä. Mitä kokoa te tarvitsette?	Van nagy, közepes és kicsi. Melyik nagyságot szeretné?	suuria	0	0
+Koko maailma tahtoo rauhaa.	Az egész világ békét akar.	rauhaa	0	0
+Kuinka monta leikkausta tohtori Jackson on tehnyt tässä kuussa?	Hány operációt végzett dr. Jackson ebben a hónapban?	jackson	0	0
+Näen puiden välissä miehen.	Látok egy férfit a fák között.	välissä	0	0
+Minulla on puhdas omatunto.	Tiszta a lelkiismeretem.	puhdas	0	0
+Ja mikä onkaan ongelma?	És mi a probléma?	onkaan	0	0
+Hän on todella ystävällinen.	Maga a kedvesség volt.	ystävällinen	0	0
+Tiedätkö kuka on kirjoittanut tämän romaanin?	Tudod, ki írta ezt a regényt?	kirjoittanut	0	0
+Minulla meni shampoota silmiin ja se kirvelee.	Sampon ment a szemembe és fáj.	silmiin	0	0
+Hän myy kukkia.	Virágot árul.	kukkia	0	0
+Kävin koulua isäsi kanssa.	Apáddal mentem az iskolába.	koulua	0	0
+Olin katsomassa televisiota, kun puhelin soi.	Éppen a televíziót néztem, amikor csengett a telefon.	soi	0	0
+Kadun sitä.	Sajnálom.	kadun	0	0
+Missä sinä asut?	Hol laksz?	asut	0	0
+Nauti työstäsi!	Jó munkát!	nauti	0	0
+Terveisiä kaikille.	Üdv mindenkinek!	terveisiä	0	0
+Olen kotoisin Ranskasta.	Én Franciaországból származom.	kotoisin	0	0
+Poikani ei osaa vielä laskea.	A fiam még nem tud számolni.	laskea	0	0
+Hän on syntynyt Sveitsissä.	Svájcban született.	syntynyt	0	0
+Tässä on kirje sinulle.	Itt van egy levél neked.	kirje	0	0
+Miksi kysyt?	Miért kérdezed?	kysyt	0	0
+Hän ei juonut maitoa.	Nem itta meg a tejet.	juonut	0	0
+Hän on älykäs.	Ő intelligens.	älykäs	0	0
+Kuulin että saattaisi sataa lunta.	Azt hallottam, lehet, hogy havazni fog.	sataa	0	0
+Tätä ovea ei voi lukita.	Ezt az ajtót nem lehet bezárni.	ovea	0	0
+He lähtivät eilen illalla.	Elutaztak tegnap este.	lähtivät	0	0
+Haluaisin varata pöydän kahdelle.	Szeretnék egy asztalt foglalni két személyre.	pöydän	0	0
+Mulla on jano.	Szomjazom.	mulla	0	0
+Minä muistan tämän sanan.	Emlékszem erre a szóra.	sanan	0	0
+Sukunimeni on Jones.	A családnevem Jones.	jones	0	0
+Minulla on jo tyttöystävä.	Már van barátnőm.	tyttöystävä	0	0
+Hän nousi ja lähti.	Felállt és elment.	nousi	0	0
+Oli hyvin kuumaa.	Nagyon meleg volt.	kuumaa	0	0
+Kävimme eilen illalla elokuvissa.	Tegnap este moziba mentünk.	kävimme	0	0
+Mitä selainta käytät?	Melyik böngészőt használod?	käytät	0	0
+Tom tahtoo oppia joitakin ranskalaisia lauluja.	Tom meg akar tanulni néhány francia dalt.	joitakin	0	0
+Hän on tottunut nousemaan aikaisin.	Hozzá van szokva, hogy korán keljen.	tottunut	0	0
+Tom osti lahjan Marille.	Tom vásárolt egy ajándékot Marynek.	lahjan	0	0
+En tanssi.	Én nem táncolok.	tanssi	0	0
+Kaikissa sanakirjoissa on virheitä.	Minden szótárban vannak hibák.	virheitä	0	0
+En ole ruma.	Nem vagyok csúnya.	ruma	0	0
+Olen uintikerhon jäsen.	Tag vagyok az úszóegyesületben.	jäsen	0	0
+Toni osaa juosta nopeasti.	Tony gyorsan tud futni.	juosta	0	0
+Haluan opiskella historiaa pääaineenani.	Történelmet akarok tanulni.	historiaa	0	0
+Maryn lauseet ovat helppoja kääntää.	Könnyű lefordítani Mary mondatait.	kääntää	0	0
+Terve. Oletko sinä Jackie Scott?	Szia! Te vagy Jackie Scott?	jackie	0	0
+Minä olen nälkäinen.	Éhes vagyok.	nälkäinen	0	0
+Tämä on Tomin tietokone.	Ez Tom számítógépe.	tietokone	0	0
+Tom meni kouluun autolla.	Tom autóval ment iskolába.	autolla	0	0
+Tämä juna menee Bostoniin.	Ez a vonat megy Bostonba.	juna	0	0
+Minulla on vihreä paita.	Van egy zöld ingem.	vihreä	0	0
+Emme ollenkaan tunne lapsen luontoa; siitä muodostamiemme väärien käsitteiden nojalla joudumme, kuta pitemmälle koetamme päästä, yhä kauemmaksi harhateille.	Nem ismerik a gyermekéletet: mennél messzebbre megyünk róla szóló hamis fogalmaink után, annál jobban eltévelyedünk.	joudumme	0	0
+Käytämme vain 10 % aivoistamme.	Csak az agyunk 10%-át használjuk.	käytämme	0	0
+Toiveeni on viimeinkin tullut toteen.	A kívánságom végre teljesült.	viimeinkin	0	0
+Tom aloitti ranskan opiskelun kolme vuotta sitten.	Tom három évvel ezelőtt kezdett el franciául tanulni.	aloitti	0	0
+Onko Tom näyttelijä?	Tom színész?	näyttelijä	0	0
+Istun autossani.	Az autómban ülök.	istun	0	0
+Jääkaapissa on maitoa.	A hűtőben van tej.	maitoa	0	0
+Onko tämä sinun autosi?	Tiéd ez az autó?	autosi	0	0
+Tuuli tyyntyi.	A szél elcsendesedett.	tuuli	0	0
+Söin liikaa eilen.	Túl sokat ettem tegnap.	söin	0	0
+Rakennus on sininen.	Az épület kék.	rakennus	0	0
+Zosja söi leipää.	Zosja kenyeret evett.	söi	0	0
+Kuulin että sinäkään et mene kotiin.	Hallottam, hogy te se mész haza.	sinäkään	0	0
+Tom rakastaa kirjoja.	Tom szereti a könyveket.	kirjoja	0	0
+Käyn kirkossa joka sunnuntai.	Minden vasárnap megyek templomba.	kirkossa	0	0
+Minulla on vihreä paita.	Van egy zöld ingem.	paita	0	0
+Olen keittiössä.	A konyhában vagyok.	keittiössä	0	0
+Missä lapsesi ovat?	Hol vannak a gyerekeid?	lapsesi	0	0
+Kaikissa sanakirjoissa on virheitä.	Minden szótárban vannak hibák.	kaikissa	0	0
+Kuinka korkea tuo vuori on?	Milyen magas ez a hegy?	korkea	0	0
+Tom on hukannut ranskan oppikirjansa.	Tom elvesztette a francia nyelvkönyvét.	ranskan	0	0
+Aurinko nousee idästä ja laskee länteen.	A nap keleten kel és nyugaton nyugszik.	laskee	0	0
+Me yövyimme kolmen tähden hotellissa.	Egy háromcsillagos szállodában laktunk.	hotellissa	0	0
+Miesten WC on oikealla ja naisten WC on vasemmalla.	A férfi WC jobbra van, a női WC balra.	vasemmalla	0	0
+Opin ranskaa saksan sijaan.	A német helyett a francia nyelvet tanultam.	saksan	0	0
+Pidän näistä vaatteista enemmän kuin noista.	Ezeket a ruhákat jobban szeretem, mint azokat.	noista	0	0
+Elämme yhteiskunnassa.	Társadalomban élünk.	elämme	0	0
+Osaatko vastata tähän kysymykseen?	Tudsz válaszolni erre a kérdésre?	kysymykseen	0	0
+En ole lintu vaikka haluaisin olla.	Nem vagyok madár, de szeretnék az lenni.	lintu	0	0
+Sateen jälkeen ilma on raikas.	Eső után tiszta a levegő.	ilma	0	0
+Tänä talvena on hyvin kylmää.	Ez a tél nagyon hideg.	kylmää	0	0
+Puhutko sinä japania?	Beszélsz japánul?	puhutko	0	0
+Tyttöystäväni on kiinalainen.	A barátnőm kínai.	tyttöystäväni	0	0
+Hän odotti kymmenen minuuttia.	Várt tíz percet.	odotti	0	0
+Mike ja Ken ovat ystäviä.	Mike és Ken barátok.	ken	0	0
+He ovat onnellisia.	Boldogok.	onnellisia	0	0
+Hänen nimensä ei ollut listalla.	A neve nem volt a listán.	listalla	0	0
+Elävät kalat uiskentelevat veden alla.	Eleven halak úszkálnak a víz alatt.	elävät	0	0
+Seksi on minulle tärkeää.	A szex fontos nekem.	seksi	0	0
+Miksi minun pitäisi olla mustasukkainen?	Miért kellene féltékenynek lennem?	mustasukkainen	0	0
+Voisitko antaa minulle muutamia lisäesimerkkejä siitä?	Tessék adni több példát erre.	muutamia	0	0
+Lentokone laskeutui täsmälleen kello yhdeksän.	A repülő pontosan kilenckor érkezett.	täsmälleen	0	0
+On joulu.	Karácsony van.	joulu	0	0
+Hän puhuu venäjää täydellisesti.	Perfekt beszél oroszul.	täydellisesti	0	0
+Hän kuunteli musiikkia omassa huoneessaan.	Zenét hallgatott a szobájában.	omassa	0	0
+Mikä hevosen nimi on?	Mi a ló neve?	hevosen	0	0
+Jokaisella opiskelijalla on oma tietokone.	Minden tanulónak saját számítógépe van.	jokaisella	0	0
+Tom kaatui ja löi kyynärpäänsä.	Tom elesett és beütötte a könyökét.	kaatui	0	0
+Pue pyjama päällesi.	Vedd fel a pizsamád.	päällesi	0	0
+Jään pois seuraavalla pysäkillä.	Leszállok a következő megállónál.	seuraavalla	0	0
+En kävele enkä juokse.	Nem sétálok és nem is futok.	kävele	0	0
+Minulla on paljon tehtävää.	Sok dolgom van.	tehtävää	0	0
+Se elokuva oli tosi tylsä.	Ez a film annyira unalmas volt.	tylsä	0	0
+Tiedän, että raha ei merkitse kaikkea.	Tudom, hogy a pénz nem minden.	merkitse	0	0
+Serkkuni on vähän vanhempi kuin minä.	Az unokatestvérem kicsit idősebb mint én.	serkkuni	0	0
+Mikä pöytä?	Melyik asztal?	pöytä	0	0
+Opiskelen ranskaa englannin lisäksi.	Az angol mellett franciául is tanulok.	englannin	0	0
+Kuulin että saattaisi sataa lunta.	Azt hallottam, lehet, hogy havazni fog.	saattaisi	0	0
+Tämä taiteilija kuoli nuorena.	Ez a művész fiatalon halt meg.	nuorena	0	0
+Puhun viittä kieltä.	Öt nyelven beszélek.	kieltä	0	0
+Hän on asunut Pariisissa kymmenen vuotta.	Tíz éve lakik Párizsban.	asunut	0	0
+Ilman tiedettä ei ole tulevaisuutta.	Tudomány nélkül nincs jövő.	tulevaisuutta	0	0
+On lämmin.	Meleg.	lämmin	0	0
+Taksi odottaa.	Vár a taxi.	taksi	0	0
+Missä paholainen asuu?	Hol lakik az ördög?	paholainen	0	0
+Hänellä oli radio.	Volt egy rádiója.	radio	0	0
+Hän tuli ulos huoneesta.	Kijött a szobából.	huoneesta	0	0
+Onko tämä sinun mielenkiintoinen kirjasi?	Ez a te érdekes könyved?	mielenkiintoinen	0	0
+Onko täällä pankkia lähistöllä?	Van itt a közelben egy bank?	lähistöllä	0	0
+Hän on liian herkkä.	Ő túl érzékeny.	herkkä	0	0
+Kirjoitin laulun Tatoebasta.	Írtam egy dalt a Tatoebáról.	laulun	0	0
+Hän lukee mielellään kirjoja.	Szeret könyvet olvasni.	mielellään	0	0
+Onko hänellä koiraa?	Van kutyája?	koiraa	0	0
+Menen kirkkoon sunnuntaina.	Megyek templomba vasárnap.	sunnuntaina	0	0
+Pariisissa sataa lunta.	Párizsban havazik.	pariisissa	0	0
+Tämä ei ole kala.	Ez nem egy hal.	kala	0	0
+Isäni tykkää matkustaa lentokoneella.	Apám szeret repülővel utazni.	matkustaa	0	0
+Mitä sinun tyttöystäväsi tekisi, jos hän saisi tietää?	Mit tenne a barátnőd, ha rájönne?	tyttöystäväsi	0	0
+Minun kotini on lähellä puistoa.	A házam közel van a parkhoz.	kotini	0	0
+Yhteisön tuki kannustaa festivaalin järjestäjiä, jotka nyt suunnittelevat vielä enemmän tapahtumia.	A közösség támogatása buzdítja a fesztivál szervezőit, akik most még több rendezvényt terveznek.	tuki	0	0
+Tuo on kirkko.	Az templom.	kirkko	0	0
+Hyvää yötä ja kauniita unia.	Jó éjszakát és szép álmokat!	unia	0	0
+He antoivat minun odottaa pitkään.	Sokáig várattak.	antoivat	0	0
+Mustat kissat tuovat epäonnea.	Fekete macska szerencsétlenséget hoz.	mustat	0	0
+Tee ja kahvi auttavat aloittamaan päivän.	A tea és a kávé segítenek elkezdeni a napot.	auttavat	0	0
+On varmaa, että kullan hinta nousee.	Az arany ára biztosan emelkedni fog.	varmaa	0	0
+Tiedätkö missä Jim ja Nancy ovat?	Tudod, hol van Jim és Nancy?	nancy	0	0
+Haluaisin kiittää uskomattoman hienosta yhteistyöstä useiden vuosien ajalta.	Szeretnék köszönetet mondani a fantasztikus sok éven át tartó együttműködésért.	uskomattoman	0	0
+Poika oli hiljainen.	A fiú csöndben volt.	hiljainen	0	0
+Hän on luotettava ihminen.	Ő egy megbízható ember.	luotettava	0	0
+Kahvi, kiitos.	Egy kávét kérek.	kahvi	0	0
+Mistä syystä hän on niin onneton?	Mi miatt olyan boldogtalan?	onneton	0	0
+Kadotin kellon.	Elvesztettem az órát.	kellon	0	0
+Hän lensi Pariisiin.	Párizsba repült.	lensi	0	0
+Kaksitoista on parillinen luku.	A tízenkettő az egy páros szám.	luku	0	0
+Jos neuvot minua muuttamaan lausetta, minä teen sen.	Ha azt javaslod, hogy változtassak a mondaton, én benne vagyok.	muuttamaan	0	0
+Mitä sinä syöt?	Mit eszel?	syöt	0	0
+En ole tyttärenne.	Nem vagyok a lányod.	tyttärenne	0	0
+Puu on vihreä.	A fa zöld.	puu	0	0
+Tom juoksi minkä jaloistaan pääsi.	Tom olyan gyorsan futott, ahogy csak tudott.	juoksi	0	0
+Vesi on puhdasta.	A víz tiszta.	puhdasta	0	0
+Hyväksyikö hän kutsumme?	Elfogadta a meghívásunkat?	kutsumme	0	0
+Tänään on kuuma sää.	Ma meleg van.	sää	0	0
+Hänellä oli pitkät hiukset.	Hosszú haja volt.	pitkät	0	0
+Me toivomme sinulle kaikkea hyvää, Tom.	Minden jót kívánunk neked, Tom!	toivomme	0	0
+Minä juon kahvia.	Kávét iszom.	juon	0	0
+En ostanut sitä autoa.	Nem vettem meg az autót.	ostanut	0	0
+Missä Mary ja Tom asuvat?	Hol lakik Mary és Tom?	asuvat	0	0
+Saanko oluen?	Egy sört, legyen szíves.	oluen	0	0
+Tomilla ei ollut rohkeutta mennä sinne yksin.	Tomnak nem volt bátorsága odamenni egyedül.	rohkeutta	0	0
+Aurinko nousee idästä ja laskee länteen.	A nap keleten kel és nyugaton nyugszik.	länteen	0	0
+Tämä taiteilija kuoli nuorena.	Ez a művész fiatalon halt meg.	taiteilija	0	0
+Tämä kala on herkullista.	Finom ez a hal.	herkullista	0	0
+Oletko nähnyt vaimoani?	Láttad a feleségem?	vaimoani	0	0
+Tämä kukka tuoksuu hyvältä.	Ennek a virágnak jó az illata.	tuoksuu	0	0
+Me kaikki omistauduimme maamme kehittämiseen.	Mi mindannyian hazánk fejlődésének szenteltük magunknak.	maamme	0	0
+Kanaa, kiitos.	Kérek egy kis csirkét.	kanaa	0	0
+Lähellä on sairaala.	A közelben van egy kórház.	sairaala	0	0
+Olet jo saattanut lukea tämän kirjan.	Lehet, hogy már olvastad ezt a könyvet.	saattanut	0	0
+Hänellä oli pitkä tukka.	Neki hosszú haja volt.	tukka	0	0
+Skorpionit ovat vaarallisia.	A skorpiók veszélyesek.	vaarallisia	0	0
+Kenestä puhut?	Kiről beszélsz?	kenestä	0	0
+Pystyykö kukaan ajamaan?	Tud valaki vezetni?	ajamaan	0	0
+Menen rannalle.	Megyek a strandra.	rannalle	0	0
+Olen hyvä kokki.	Én egy jó szakács vagyok.	kokki	0	0
+Missä kartta on?	Hol van a térkép?	kartta	0	0
+Olen kuullut, että Saksassa olut on halvempaa kuin vesi. Onko se totta?	Úgy hallottam, hogy Németországban a sör olcsóbb, mint a víz. Igaz ez?	olut	0	0
+Kalaa, kiitos.	Halat kérek.	kalaa	0	0
+Chris sai töitä talomaalarina ja pystyi hankkimaan rahat.	Christ felvették szobafestőnek, így össze tudta gyűjteni a pénzt.	pystyi	0	0
+Lupaan pysyä luonasi kunnes isäsi saapuu.	Megígérem, hogy apád megérkezéséig veled maradok.	luonasi	0	0
+Meillä on bändi.	Van egy zenekarunk.	bändi	0	0
+Tom pystyy kävelemään käsillään.	Tom tud kézen járni.	kävelemään	0	0
+Marika on suomalainen, mutta hän puhuu saksaa aivan kuten saksalaiset.	Marika finn, mégis úgy beszél németül, mint a németek.	saksalaiset	0	0
+Missä on lähin pankki?	Hol van a legközelebbi bank?	pankki	0	0
+Tom on erittäin tunnettu.	Tom nagyon híres.	tunnettu	0	0
+Hän lensi Pariisiin.	Párizsba repült.	pariisiin	0	0
+En laula.	Én nem énekelek.	laula	0	0
+Kävisikö kuudelta?	Hatkor megfelel?	kävisikö	0	0
+Elävä kala ui veden alla.	Eleven hal úszik a víz alatt.	elävä	0	0
+Meidän olisi pitänyt pysähtyä silloin kun siihen vielä oli mahdollisuus.	Meg kellett volna állnunk, amíg volt rá lehetőségünk.	pysähtyä	0	0
+Sami on Tomia kaksi vuotta nuorempi.	Sam két évvel fiatalabb Tomnál.	nuorempi	0	0
+Tomi ei ole innoissaan tästä.	Tom nem örül ennek.	innoissaan	0	0
+Olen ravintolassa.	Az étteremben vagyok.	ravintolassa	0	0
+En tiennytkään, että olet ammatiltasi kirurgi.	Nem tudtam, hogy sebész vagy.	tiennytkään	0	0
+Meillä on suuria, keskikokoisia ja pieniä. Mitä kokoa te tarvitsette?	Van nagy, közepes és kicsi. Melyik nagyságot szeretné?	kokoa	0	0
+Me olemme todella ylpeitä sinusta.	Nagyon büszkék vagyunk rád.	ylpeitä	0	0
+Zosja söi leipää.	Zosja kenyeret evett.	leipää	0	0
+Hän on hyvä päästään.	Ő jófejű.	päästään	0	0
+Hänen silmänsä ovat siniset.	Kék a szeme.	silmänsä	0	0
+Halusin auttaa sinua, mutta Tom kielsi minua.	Szeretnék segíteni neked, de Tom megtiltotta nekem.	kielsi	0	0
+Työtoverini on susi lammasten vaatteissa.	A kollégám egy báránybőrbe bújt farkas.	susi	0	0
+Kun minä olin sinun ikäinen, Pluto oli planeetta.	Amikor annyi idős voltam, mint te, a Plútó bolygó volt.	planeetta	0	0
+Koputtaako joku ovella?	Kopogtat valaki?	ovella	0	0
+Ette ole koiria.	Nem vagytok kutyák.	koiria	0	0
+Haluaisitteko kuulla uuden lauluni?	Szeretnéd meghallgatni az új dalom?	haluaisitteko	0	0
+Isäni kuuntelee klassista musiikkia.	Édesapám komolyzenét hallgat.	kuuntelee	0	0
+Afrikka on ihmiskunnan kehto.	Afrika az emberiség bölcsője.	ihmiskunnan	0	0
+Millaista musiikkia sinä yleensä kuuntelet?	Milyen zenét szoktál hallgatni?	kuuntelet	0	0
+Mitä tässä laatikossa on?	Mi van ebben a ládában?	laatikossa	0	0
+Miksi ostit kukkia?	Miért vettél virágot?	ostit	0	0
+Se on ongelmani Tomissa.	Ez a problémám Tommal.	ongelmani	0	0
+Menin jalan.	Gyalog mentem.	jalan	0	0
+Osaatko uida?	Tudsz úszni?	uida	0	0
+Viiden ja kolmen summa on kahdeksan.	Ötnek és négynek az összege kilenc.	summa	0	0
+Huoneessa oli pimeä ja kylmä.	Sötét és hideg volt a szobában.	pimeä	0	0
+Se poika on sairas vaikkei näytä siltä.	A fiú beteg, bár nem úgy néz ki.	vaikkei	0	0
+Menen kirkkoon.	A templomba megyek.	kirkkoon	0	0
+Minä en juo alkoholia.	Nem iszom alkoholt.	alkoholia	0	0
+Tuo on taloni.	Az a ház az enyém.	taloni	0	0
+Menemme elokuviin. Tule mukaan.	Moziba megyünk. Gyere velünk!	elokuviin	0	0
+Meitä on jo 7 miljardia.	Már hétmilliárdan vagyunk.	miljardia	0	0
+Englanti on kieli.	Angol az egy nyelv.	kieli	0	0
+Koiramme seuraa minua kaikkialle.	A kutyám mindenhová követ engem.	kaikkialle	0	0
+Missä ravintola on?	Merre van az étterem?	ravintola	0	0
+Haluan oppia uimaan.	Meg akarok tanulni úszni.	uimaan	0	0
+Missä sinun tavarasi ovat?	Hol vannak a dolgaid?	tavarasi	0	0
+Tuo ei ole meidän tehtävämme.	Nem a mi munkánk.	tehtävämme	0	0
+Mistä voin saada taksin?	Hol kapok egy taxit?	taksin	0	0
+Ostin parin kenkiä.	Vettem egy pár cipőt.	kenkiä	0	0
+En ole kotona viikkoon.	Egy hétig nem leszek itthon.	viikkoon	0	0
+Kävimme eilen illalla elokuvissa.	Tegnap este moziba mentünk.	elokuvissa	0	0
+Onko ranska vaikeampaa kuin englanti?	Nehezebb a francia az angolnál?	vaikeampaa	0	0
+Minun täytyy ladata puhelimeni.	Fel kell töltenem a telefonomat.	puhelimeni	0	0
+Missä asema on?	Hol van az állomás?	asema	0	0
+Kana, kiitos.	Csirkét kérek.	kana	0	0
+Joulupukki on olemassa.	Télapó létezik.	joulupukki	0	0
+Se on sohvalla.	A kanapén van.	sohvalla	0	0
+Päivä ilman sinua on kuin kesä ilman aurinkoa.	Egy nap nélküled olyan, mint nyár napsütés nélkül.	kesä	0	0
+Haluaisin kiittää uskomattoman hienosta yhteistyöstä useiden vuosien ajalta.	Szeretnék köszönetet mondani a fantasztikus sok éven át tartó együttműködésért.	ajalta	0	0
+Hän käytti margariinia voin sijasta.	Margarinnal helyettesítette a vajat.	sijasta	0	0
+Meri on sininen.	Kék a tenger.	meri	0	0
+Kukat kukoistavat.	A virágok virágoznak.	kukat	0	0
+Benjamin ampui kiväärillä karhun.	Benjamin egy medvét egy puskával lőtte le.	benjamin	0	0
+Hän on Suomen pääministeri.	Ő Finnország miniszterelnöke.	pääministeri	0	0
+Missä bussi on?	Hol van a busz?	bussi	0	0
+Pue pyjama päällesi.	Vedd fel a pizsamád.	pue	0	0
+Pariisissa sataa lunta.	Párizsban havazik.	lunta	0	0
+Minä pelaan tennistä.	Teniszezem.	pelaan	0	0
+Hänen vaimonsa on ranskalainen.	A felesége francia.	ranskalainen	0	0
+En ymmärrä lainkaan englantia enkä saksaa senkään vertaa.	Angolul egyáltalán nem értek, németül pedig még annyira sem.	vertaa	0	0
+Missä on lähin pankki?	Hol van a legközelebbi bank?	lähin	0	0
+Päivä ilman sinua on kuin kesä ilman aurinkoa.	Egy nap nélküled olyan, mint nyár napsütés nélkül.	aurinkoa	0	0
+Haluaisin kuvasi.	Szeretnék rólad egy képet.	kuvasi	0	0
+Tom hukkui mereen.	Tom belefulladt a tengerbe.	mereen	0	0
+Ikkunat ovat likaisia.	Piszkosak az ablakok.	ikkunat	0	0
+Miksi Tom on nukkumassa?	Miért alszik Tom?	nukkumassa	0	0
+Haluaisin varata pöydän kahdelle.	Szeretnék egy asztalt foglalni két személyre.	kahdelle	0	0
+Hänellä on vitivalkoinen iho.	A bőre hófehér.	iho	0	0
+Nainen pesee kasvonsa.	A nő az arcát mossa.	kasvonsa	0	0
+Ansaitsen sata euroa päivässä.	100 eurót keresek naponta.	ansaitsen	0	0
+On varmaa, että kullan hinta nousee.	Az arany ára biztosan emelkedni fog.	kullan	0	0
+Täytyykö minun opiskella?	Tanulnom kell?	täytyykö	0	0
+Minkälainen kala tuo on?	Milyen hal ez?	minkälainen	0	0
+Lähetä minulle kopio.	Küldj nekem egy másolatot!	kopio	0	0
+Mustat kissat tuovat epäonnea.	Fekete macska szerencsétlenséget hoz.	tuovat	0	0
+Tämä matkalippu on voimassa vain kaksi päivää ostosta.	Ez a menetjegy az eladástól számítva két napig érvényes.	voimassa	0	0
+Miksi emme käytä portaita?	Miért nem a lépcsőn megyünk?	portaita	0	0
+On epäkohteliasta kysyä joltakulta kuinka paljon hän tienaa.	Udvariatlan dolog megkérdezni valakitől, mennyit keres.	tienaa	0	0
+Prostituutio on laillista Saksassa.	A prostitúció legális Németországban.	laillista	0	0
+Elbrus on Euroopan korkein vuori.	Az Elbrusz Európa legmagasabb hegye.	euroopan	0	0
+Pöydällä on omena.	Az asztalon egy alma van.	pöydällä	0	0
+Ylhäällä oikealla olevaa viisaudenhammastani koskee.	Fáj a jobb felső bölcsességfogam.	olevaa	0	0
+Millainen oli päiväsi?	Milyen napod volt?	päiväsi	0	0
+Tom ei pysty unohtamaan Marya.	Tom nem tudja elfelejteni Máriát.	unohtamaan	0	0
+Minä asun pienessä asunnossa.	Egy kis lakásban lakom.	asunnossa	0	0
+Onko minulla valinnanvaraa ?	Van választási lehetőségem?	valinnanvaraa	0	0
+Kuinka monta joulukorttia kirjoitit viime vuonna?	Hány karácsonyi lapot írtál tavaly?	kirjoitit	0	0
+Hän osaa ratsastaa.	Tud lovagolni.	ratsastaa	0	0
+Hyvän opettajan täytyy olla kärsivällinen oppilaidensa kanssa.	Egy jó tanárnak türelmesnek kell lennie a diákjaival.	kärsivällinen	0	0
+Odotatko sinä jotain?	Vársz valamire?	odotatko	0	0
+Työtoverini ja hänen aviomiehensä ovat molemmat amerikkalaisia.	A munkatársnőm és a férje, mindketten amerikaiak.	amerikkalaisia	0	0
+Sinä puhut hyvää ranskaa!	Jól beszélsz franciául!	ranskaa	0	0
+Lentokone laskeutui täsmälleen kello yhdeksän.	A repülő pontosan kilenckor érkezett.	lentokone	0	0
+Minä haluan pizzaa!	Szeretnék egy pizzát!	pizzaa	0	0
+Olen venäläinen.	Orosz vagyok.	venäläinen	0	0
+Tomilla on työpaikka.	Tominak van munkája.	työpaikka	0	0
+Tämä on kylä missä hän syntyi.	Ez az a falu, ahol született.	kylä	0	0
+Minulla on uusi pyörä.	Van új kerékpárom.	pyörä	0	0
+Paljonko sinulle maksettiin vanhasta autostasi?	Mennyit fizettek neked az öreg autódért?	vanhasta	0	0
+Mitä kieltä puhutaan Ranskassa?	Milyen nyelvet beszélnek Franciaországban?	ranskassa	0	0
+Tomilla ei ole paljon rahaa pankissa.	Tamásnak nincs sok pénze a bankban.	pankissa	0	0
+Missä olet työssä?	Hol dolgozol?	työssä	0	0
+Tänään on Tomin syntymäpäivä!	Ma van Tom születésnapja!	syntymäpäivä	0	0
+Mitä tämä tuoli täällä tekee?	Mit keres itt ez a szék?	tuoli	0	0
+Haluaisin opiskella Pariisissa.	Szeretnék Párizsban tanulni.	opiskella	0	0
+Tom on hyvä työntekijä.	Tamás jó munkás.	työntekijä	0	0
+Oletteko kaksoset?	Ikrek vagytok?	kaksoset	0	0
+Tässä talossa asuin lapsena.	Ebben a házban laktam, amikor gyerek voltam.	asuin	0	0
+Auto on keltainen.	Az autó sárga.	keltainen	0	0
+Meksikossa puhutaan espanjaa.	Mexikóban spanyolul beszélnek.	meksikossa	0	0
+Tykkäätkö tästä väristä?	Tetszik ez a szín?	tykkäätkö	0	0
+Mitä on kaksi plus kaksi?	Mennyi kettő meg kettő?	plus	0	0
+Tilasin pizzan.	Rendeltem pizzát.	tilasin	0	0
+Ansaitsen sata euroa päivässä.	100 eurót keresek naponta.	euroa	0	0
+Sade on alkamassa.	Kezd esni.	sade	0	0
+Sinulla ei ole avainta, eikö niin?	Nincs kulcsod, ugye?	avainta	0	0
+En ole köyhä.	Nem vagyok szegény.	köyhä	0	0
+Tohtori määräsi hänet tiukalle dieetille.	Az orvos szigorú diétát írt elő neki.	määräsi	0	0
+Sänky on todella mukava.	Az ágy igen kényelmes.	sänky	0	0
+Kuinka syvä?	Mennyire mély?	syvä	0	0
+Olen robotti.	Robot vagyok.	robotti	0	0
+Ranskalaiset lyötiin Waterloossa.	A franciákat Waterloonál győzték le.	ranskalaiset	0	0
+Kuva on tässä kirjassa.	A kép ebben a könyvben van.	kirjassa	0	0
+Tomin nimi on listalla.	Tom neve szerepel a listán.	tomin	0	0
+Lehdet tippuvat syksyllä.	Ősszel lehullanak a levelek.	lehdet	0	0
+Juhlimme hänen syntymäpäiviään.	Megünnepeltük a születésnapját.	juhlimme	0	0
+Yhteisön tuki kannustaa festivaalin järjestäjiä, jotka nyt suunnittelevat vielä enemmän tapahtumia.	A közösség támogatása buzdítja a fesztivál szervezőit, akik most még több rendezvényt terveznek.	tapahtumia	0	0
+Tyttöystäväni on kiinalainen.	A barátnőm kínai.	kiinalainen	0	0
+Minulla on ystävä Englannissa.	Van egy barátom Angliában.	englannissa	0	0
+Kävisikö kuudelta?	Hatkor megfelel?	kuudelta	0	0
+Minä asun pienessä asunnossa.	Egy kis lakásban lakom.	pienessä	0	0
+Kissalla on kaksi korvaa.	Egy macskának két füle van.	korvaa	0	0
+Tomi rakastaa hevosia.	Tom szereti a lovakat.	hevosia	0	0
+Berliini on saksalainen kaupunki.	Berlin egy német város.	saksalainen	0	0
+Minun koirani on valkoinen.	Az én kutyám fehér.	koirani	0	0
+Hän on ujo.	Szégyenlős.	ujo	0	0
+Kadotin kellon.	Elvesztettem az órát.	kadotin	0	0
+Hän kuunteli musiikkia omassa huoneessaan.	Zenét hallgatott a szobájában.	huoneessaan	0	0
+Kun minä olin sinun ikäinen, Pluto oli planeetta.	Amikor annyi idős voltam, mint te, a Plútó bolygó volt.	ikäinen	0	0
+Palaan puoli seitsemältä.	Fél hétre visszajövök.	seitsemältä	0	0
+Italialainen keittiö on suosittua ympäri maailman.	Az olasz konyhát az egész világon kedvelik.	keittiö	0	0
+Paperi on valkoinen.	Fehér a papír.	paperi	0	0
+Kuinka voimme suojella itseämme koronavirukselta?	Hogyan védekezhetünk a koronavírus ellen?	itseämme	0	0
+Tämä on minun huoneeni.	Ez a szobám.	huoneeni	0	0
+Kuinkakohan kauan Tomi on istunut tuolla.	Vajon mióta ül ott Tom?	istunut	0	0
+Hän menee bussilla kouluun.	Busszal megy iskolába.	bussilla	0	0
+Soititko minulle?	Telefonáltál nekem?	soititko	0	0
+Me opimme ranskaa koulussa.	Az iskolában franciát tanulunk.	opimme	0	0
+Hän sai ylennyksen kersantiksi.	Elérte az ősmesteri rangot.	ylennyksen	0	0
+Olisi hyvä jos maksaisitte käteisellä.	Kérem, legyen olyan jó készpénzben fizetni.	käteisellä	0	0
+Puhun viittä kieltä.	Öt nyelven beszélek.	viittä	0	0
+Nainen pesee kasvonsa.	A nő az arcát mossa.	pesee	0	0
+Aurinko paistaa.	Süt a nap.	paistaa	0	0
+Tom on aviomieheni toinen nimi.	A férjem második neve Tom.	aviomieheni	0	0
+Minulla ei ole kotona televisiota.	Otthon nincs televízióm.	televisiota	0	0
+Missä iskä on?	Apu hol van?	iskä	0	0
+Luuletko sinä, että kalat voivat kuulla?	Elhiszed, hogy a halak hallanak?	kalat	0	0
+Tämä on Tomin valokuva.	Ez Tom fényképe.	valokuva	0	0
+Onko tämä sinun mielenkiintoinen kirjasi?	Ez a te érdekes könyved?	kirjasi	0	0
+Tänään on sunnuntai.	Ma vasárnap van.	sunnuntai	0	0
+Onko ranska vaikeampaa kuin englanti?	Nehezebb a francia az angolnál?	englanti	0	0
+Haluaisin kahvin.	Szeretnék egy kávét.	kahvin	0	0
+Tämä työ vaatii erityisiä kykyjä.	Ehhez a munkához különleges képességekre van szükség.	kykyjä	0	0
+Elbrus on Euroopan korkein vuori.	Európában Elbrusz a legmagasabb hegy.	korkein	0	0
+Hän vietti onnellisen lapsuuden.	Boldog gyerekkora volt.	vietti	0	0
+Onko tämä käännös oikein?	Helyes ez a fordítás?	käännös	0	0
+Missä sinun huoneesi on?	Hol van a szobád?	huoneesi	0	0
+Chris sai töitä talomaalarina ja pystyi hankkimaan rahat.	Christ felvették szobafestőnek, így össze tudta gyűjteni a pénzt.	hankkimaan	0	0
+Miksi sinä naurat?	Miért nevetsz?	naurat	0	0
+Tom nauroi kaikille Maryn jutuille.	Tom nevetett Mari minden tréfáján.	maryn	0	0
+Hän pelasi tennistä eilen.	Tegnap teniszezett.	pelasi	0	0
+Missä sinun isoisäsi asuu?	Hol lakik a nagypapád?	isoisäsi	0	0
+Meksikossa puhutaan espanjaa.	Mexikóban spanyolul beszélnek.	espanjaa	0	0
+Huomenna opiskelen kirjastossa.	Holnap a könyvtárban fogok tanulni.	kirjastossa	0	0
+Tomilla on korkea verenpaine.	Tominak magas a vérnyomása.	verenpaine	0	0
+Tokio on Japanin kaupungeista isoin.	Tokió a japán városok közül a legnagyobb.	japanin	0	0
+Menen junalla töihin joka päivä.	Minden nap vonattal megyek dolgozni.	junalla	0	0
+Tämä on leijona.	Ez egy oroszlán.	leijona	0	0
+Sinulla on kuumetta.	Lázad van.	kuumetta	0	0
+Onko ranska hankalampaa kuin englanti?	Nehezebb a francia az angolnál?	ranska	0	0
+Tom tahtoo oppia joitakin ranskalaisia lauluja.	Tom meg akar tanulni néhány francia dalt.	ranskalaisia	0	0
+Onko hänellä sinun numerosi?	Megvan neki a számod?	numerosi	0	0
+Elävä kala ui veden alla.	Eleven hal úszik a víz alatt.	ui	0	0
+Minulla on siniset silmät.	Kék szemeim vannak.	siniset	0	0
+Postitoimisto on juuri vastapäätä pankkia.	A postahivatal mindjárt a bankkal szemben van.	vastapäätä	0	0
+Menen puistoon.	A parkba megyek.	puistoon	0	0
+Kaksitoista on parillinen luku.	A tízenkettő az egy páros szám.	kaksitoista	0	0
+Kissa leikkii koiran kanssa.	A macska a kutyával játszik.	leikkii	0	0
+Tomi soitti pianoa, ja Mari lauloi.	Tom zongorázott, Mary énekelt.	lauloi	0	0
+Se on pudonnut muodista.	Ez már kiment a divatból.	pudonnut	0	0
+Au!	Áu!	au	0	0
+Montako sotilasta näit?	Hány katonát láttál?	sotilasta	0	0
+Ystäväni pyysi lähettämään postikortin.	Egy barátom megkért, hogy küldjek neki egy képeslapot.	lähettämään	0	0
+Mä vietän liikaa aikaa Facebookissa.	Túl sok időt töltök el a Facebookkal.	vietän	0	0
+Tarvitsemmeko universaalin kielen?	Szükség van egy általános nyelvre.	kielen	0	0
+Hyvän opettajan täytyy olla kärsivällinen oppilaidensa kanssa.	Egy jó tanárnak türelmesnek kell lennie a diákjaival.	opettajan	0	0
+Kirjoitan kirjettä.	Levelet írok.	kirjettä	0	0
+Olen kuullut, että Saksassa olut on halvempaa kuin vesi. Onko se totta?	Azt hallottam, hogy Németországban a sör olcsóbb a víznél. Ez igaz?	saksassa	0	0
+Hyi!	Fúj!	hyi	0	0
+Onko sinulla jano?	Szomjas vagy?	jano	0	0
+Tee ja kahvi auttavat aloittamaan päivän.	A tea és a kávé segítenek elkezdeni a napot.	aloittamaan	0	0
+Minä olen italialainen.	Olasz vagyok.	italialainen	0	0
+Olen ruvennut opiskelemaan esperantoa.	Elkezdtem eszperantóul tanulni.	opiskelemaan	0	0
+Onko Tomilla tyttöystävää?	Tamásnak van barátnője?	tyttöystävää	0	0
+Työntekijät ovat lakossa.	Sztrájkolnak a dolgozók.	työntekijät	0	0
+Unohditko jotakin?	Elfelejtettél valamit?	unohditko	0	0
+Tom otti takkinsa kaapista ja laittoi sen päälleen.	Tom kivette a ruhásszekrényből a kabátját és felvette.	päälleen	0	0
+Pidän työstäni todella paljon.	Nagyon szeretem a munkámat.	työstäni	0	0
+Tätä ovea ei voi lukita.	Ezt az ajtót nem lehet bezárni.	lukita	0	0
+Ilman tiedettä ei ole tulevaisuutta.	Tudomány nélkül nincs jövő.	tiedettä	0	0
+Opiskelen venäjää radion kielikurssin avulla.	A rádió nyelvtanfolyamának segítségével tanulok oroszul.	radion	0	0
+Laukkusi on auki.	Nyitva van a táskád.	laukkusi	0	0
+Hänellä on kaksi tytärtä.	Két lánya van.	tytärtä	0	0
+Näen puiden välissä miehen.	Látok egy férfit a fák között.	puiden	0	0
+Kuinka monta kirjaa sinä luit?	Hány könyvet olvastál?	luit	0	0
+Kymmenen, yksitoista, kaksitoista, kolmetoista, neljätoista, viisitoista, kuusitoista, seitsemäntoista, kahdeksantoista, yhdeksäntoista, kaksikymmentä.	Tíz, tizenegy, tizenkettő, tizenhárom, tizennégy, tizenöt, tizenhat, tizenhét, tizennyolc, tizenkilenc, húsz.	yksitoista	0	0
+Tänään on minun syntymäpäiväni.	Ma van a születésnapom.	syntymäpäiväni	0	0
+Hänellä oli vähän hampaita.	Kevés foga volt.	hampaita	0	0
+Hän rakastaa leluja.	Szereti a játékokat.	leluja	0	0
+Se on televisio.	Ez egy televízió.	televisio	0	0
+Tämä on meidän talomme.	Ez a mi házunk.	talomme	0	0
+Puhuuko hän englantia?	Ő beszél angolul?	puhuuko	0	0
+Tom otti takkinsa kaapista ja laittoi sen päälleen.	Tom kivette a ruhásszekrényből a kabátját és felvette.	kaapista	0	0
+Asuin Roomassa.	Rómában éltem.	roomassa	0	0
+Omenat ovat punaisia.	Az almák pirosak.	punaisia	0	0
+Minulla on kaksi kissaa.	Nekem két macskám van.	kissaa	0	0
+Tämä linna on kaunis.	Gyönyörű ez a kastély.	linna	0	0
+Minulla on erilaiset prioriteetit kuin sinulla.	Nekem más dolgok a fontosak, mint neked.	erilaiset	0	0
+Yhteisön tuki kannustaa festivaalin järjestäjiä, jotka nyt suunnittelevat vielä enemmän tapahtumia.	A közösség támogatása buzdítja a fesztivál szervezőit, akik most még több rendezvényt terveznek.	yhteisön	0	0
+Kova tuuli puhaltaa.	Erősen fúj a szél.	puhaltaa	0	0
+Työtoverini on susi lammasten vaatteissa.	A kollégám egy báránybőrbe bújt farkas.	vaatteissa	0	0
+Olin vuorilla.	A hegyekben voltam.	vuorilla	0	0
+Tämä kukka tuoksuu hyvältä.	Ennek a virágnak jó az illata.	kukka	0	0
+Nauti työstäsi!	Jó munkát!	työstäsi	0	0
+Marika on suomalainen, mutta hän puhuu saksaa aivan kuten saksalaiset.	Marika finn, mégis úgy beszél németül, mint a németek.	saksaa	0	0
+Osaako kukaan ajaa?	Tud valaki vezetni?	osaako	0	0
+Tom tahtoo oppia joitakin ranskalaisia lauluja.	Tom meg akar tanulni néhány francia dalt.	lauluja	0	0
+En tiennytkään, että olet ammatiltasi kirurgi.	Nem tudtam, hogy sebész vagy.	kirurgi	0	0
+Sain uuden tyttöystävän; etkö tiennyt?	Van egy új barátnőm, nem tudtad?	tyttöystävän	0	0
+Onko omena punainen?	Az alma piros?	omena	0	0
+Tom hukkui mereen.	Tom belefulladt a tengerbe.	hukkui	0	0
+Hän oli erittäin suuttunut ja menetti itsehillintänsä.	Nagyon mérges volt, és elvesztette az önuralmát.	suuttunut	0	0
+Susan teki mekon Jillille.	Susan egy ruhát készített Jillnek.	mekon	0	0
+Osaatteko te englantia?	Ti tudtok angolul?	osaatteko	0	0
+Jääkaapissa on maitoa.	A hűtőben van tej.	jääkaapissa	0	0
+Olin uupunut.	Kimerült voltam.	uupunut	0	0
+Lentokone laskeutui täsmälleen kello yhdeksän.	A repülő pontosan kilenckor érkezett.	laskeutui	0	0
+Tom esitteli minut Marille.	Tomi bemutatott Marinak.	esitteli	0	0
+Minulla on puhdas omatunto.	Tiszta a lelkiismeretem.	omatunto	0	0
+Onko Tomi kristitty?	Tom keresztény?	kristitty	0	0
+Hän pitää hienoa hattua.	Szép kalapja van.	hattua	0	0
+Paitasi on nurinpäin.	Kifordítva van az inged.	paitasi	0	0
+Emme ollenkaan tunne lapsen luontoa; siitä muodostamiemme väärien käsitteiden nojalla joudumme, kuta pitemmälle koetamme päästä, yhä kauemmaksi harhateille.	Nem ismerik a gyermekéletet: mennél messzebbre megyünk róla szóló hamis fogalmaink után, annál jobban eltévelyedünk.	kauemmaksi	0	0
+Ikkunat ovat likaisia.	Piszkosak az ablakok.	likaisia	0	0
+Kuinka monta leikkausta tohtori Jackson on tehnyt tässä kuussa?	Hány operációt végzett dr. Jackson ebben a hónapban?	leikkausta	0	0
+Tom nauroi kaikille Maryn jutuille.	Tom nevetett Mari minden tréfáján.	nauroi	0	0
+Tom meni takaisin huoneeseensa.	Tom visszament a szobájába.	huoneeseensa	0	0
+En ole koskaan nähnyt tällaista ottelua.	Még sosem láttam ilyen mérkőzést.	ottelua	0	0
+En minä tilannut kalaa.	Én nem rendeltem halat.	tilannut	0	0
+Minulla ei ole vodkaa.	Nincs vodkám.	vodkaa	0	0
+Katso taaksesi.	Nézz hátra!	taaksesi	0	0
+Benjamin ampui kiväärillä karhun.	Benjamin egy medvét egy puskával lőtte le.	karhun	0	0
+Se on makeaa.	Ez édes.	makeaa	0	0
+Japanissa on paljon maanjäristyksiä.	Japánban sok földrengés van.	japanissa	0	0
+Hän on tottunut nousemaan aikaisin.	Hozzá van szokva, hogy korán keljen.	nousemaan	0	0
+Kuinka voin tiputtaa painoa?	Hogy tudnék fogyni?	painoa	0	0
+Tom tietää kaiken autoista.	Tomi mindent tud az autókról.	autoista	0	0
+Mitä vastasit?	Mit válaszoltál?	vastasit	0	0
+Minä olen puutarhassa.	A kertben vagyok.	puutarhassa	0	0
+Tämä on vain huhu.	Ez nem más, mint híresztelés.	huhu	0	0
+Oletteko Berliinissä?	Berlinben vagytok?	berliinissä	0	0
+Sinulla ei ole mitään käsitystä, eikö niin?	Fogalmad sincs, ugye?	käsitystä	0	0
+Kuinka korkea tuo vuori on?	Milyen magas ez a hegy?	vuori	0	0
+Haluaisin varata pöydän kahdelle.	Szeretnék egy asztalt foglalni két személyre.	varata	0	0
+Kiina on valtava maa.	Kína egy hatalmas ország.	kiina	0	0
+Tänään on keskiviikko.	Ma szerda van.	keskiviikko	0	0
+Tom asuu Bostonissa.	Tom Bostonban lakik.	bostonissa	0	0
+Tom kuori omenan.	Tom meghámozta az almát.	kuori	0	0
+Kymmenen, yksitoista, kaksitoista, kolmetoista, neljätoista, viisitoista, kuusitoista, seitsemäntoista, kahdeksantoista, yhdeksäntoista, kaksikymmentä.	Tíz, tizenegy, tizenkettő, tizenhárom, tizennégy, tizenöt, tizenhat, tizenhét, tizennyolc, tizenkilenc, húsz.	viisitoista	0	0
+Naoko asuu tuossa valkoisessa talossa.	Naoko ebben a fehér házban lakik.	valkoisessa	0	0
+Sinä olet insinööri.	Te mérnök vagy.	insinööri	0	0
+Hän ei syö raakaa kalaa.	Ő nem eszik nyers halat.	raakaa	0	0
+Lunta satoi maanantaista perjantaihin.	Hétfőtől péntekig esett a hó.	satoi	0	0
+Voitko odottaa hetkisen?	Tudnál várni egy pillanatot?	hetkisen	0	0
+Kissat eivät pidä koirista.	A macskák nem szeretik a kutyákat.	kissat	0	0
+Tom soitti pianoa.	Tom zongorázott.	pianoa	0	0
+Käytän tietokonetta.	Használom a számítógépet.	tietokonetta	0	0
+En välitä, vaikka aikainen lintu nappaisikin madon, haluan nukkua.	Nem érdekel, hogy ki korán kel, aranyat lel, én aludni akarok.	aikainen	0	0
+Se ei ole meidän työtämme.	Nem a mi munkánk.	työtämme	0	0
+Miksi tätä vihannesta sanotaan englanniksi?	Hogy hívják ezt a zöldséget angolul?	englanniksi	0	0
+Tom oli hyvin itsevarma.	Tom nagyon magabiztos volt.	itsevarma	0	0
+Kaikki nauravat.	Kacag mindenki.	nauravat	0	0
+Hän vietti onnellisen lapsuuden.	Boldog gyerekkora volt.	onnellisen	0	0
+Mitä tämä sohva maksaa?	Mennyibe kerül ez a kanapé?	sohva	0	0
+Mennään kalaan!	Menjünk horgászni!	kalaan	0	0
+Kenenköhän nämä sakset ovat?	Kié lehet ez az olló?	sakset	0	0
+Voivatko kaniinit uida?	Tudnak a nyulak úszni?	voivatko	0	0
+Minulla ei ole ruokahalua.	Nincs étvágyam.	ruokahalua	0	0
+Hänen tarkoituksensa elämässä oli tulla suureksi tohtoriksi.	Az volt az életcélja, hogy híres orvos legyen.	suureksi	0	0
+Opiskelen venäjää radion kielikurssin avulla.	A rádió nyelvtanfolyamának segítségével tanulok oroszul.	opiskelen	0	0
+Missä maito on?	Hol a tej?	maito	0	0
+Muiriel on nyt kaksikymmentä.	Muiriel most húsz.	kaksikymmentä	0	0
+Tokio on Japanin kaupungeista isoin.	Tokió a japán városok közül a legnagyobb.	isoin	0	0
+Minun täytyy ladata puhelimeni.	Fel kell töltenem a telefonomat.	ladata	0	0
+Tom käänsi kirjeen ranskasta saksaksi.	Tom lefordította a francia levelet németre.	käänsi	0	0
+Missä on lentokenttä?	Hol van a repülőtér?	lentokenttä	0	0
+Halaa minua.	Ölelj meg!	halaa	0	0
+Hän puhuu venäjää.	Beszél oroszul.	venäjää	0	0
+Venäjä on suuri.	Oroszország nagy.	venäjä	0	0
+Soitan miehelleni.	Felhívom a férjemet.	miehelleni	0	0
+Sade on alkamassa.	Kezd esni.	alkamassa	0	0
+Hän pitää eläimistä.	Szereti az állatokat.	eläimistä	0	0
+Mitä haluat aamiaiseksi?	Mit szeretnél reggelire?	aamiaiseksi	0	0
+Ostitko tämän kirjan?	Ezt a könyvet te vetted?	ostitko	0	0
+Asun Intiassa.	Indiában lakom.	intiassa	0	0
+Maryn lauseet ovat helppoja kääntää.	Könnyű lefordítani Mary mondatait.	helppoja	0	0
+Harjasitko hampaasi?	Mostál fogat?	hampaasi	0	0
+Sinulla on paljon opittavaa.	Még sokat kell tanulnod.	opittavaa	0	0
+Missä WC on?	Hol van a mosdó?	wc	0	0
+Kaikki tanssivat.	Mindenki táncol.	tanssivat	0	0
+Missä leipä on?	Hol a kenyér?	leipä	0	0
+Pystyykö kukaan ajamaan?	Tud valaki vezetni?	pystyykö	0	0
+Oletko muusikko?	Zenész vagy?	muusikko	0	0
+Hän kuunteli musiikkia omassa huoneessaan.	Zenét hallgatott a szobájában.	kuunteli	0	0
+Istun autossani.	Az autómban ülök.	autossani	0	0
+Paljonko sinulle maksettiin vanhasta autostasi?	Mennyit fizettek neked az öreg autódért?	maksettiin	0	0
+Hän on ahkera ihminen.	Ő szorgalmas ember.	ahkera	0	0
+Mitä sinulla on kädessäsi?	Mi van a kezedben?	kädessäsi	0	0
+Paljonko tämä solmio maksaa?	Mennyibe kerül ez a nyakkendő?	solmio	0	0
+Minkä värinen pilvi on?	Milyen színe van a felhőnek?	värinen	0	0
+Pidän näistä vaatteista enemmän kuin noista.	Ezeket a ruhákat jobban szeretem, mint azokat.	vaatteista	0	0
+Tom on kadottanut kontrollin.	Tom elvesztette az önuralmát.	kadottanut	0	0
+Kaivossa asuva sammakko ei tiedä valtamerestä.	Egy kútban lévő béka semmit sem tud az óceánról.	sammakko	0	0
+Lehdet tippuvat syksyllä.	Ősszel lehullanak a levelek.	syksyllä	0	0
+Ranskalaiset lyötiin Waterloossa.	A franciákat Waterloonál győzték le.	lyötiin	0	0
+Miksi et jäänyt Saksaan?	Miért nem maradtál Németországban?	saksaan	0	0
+En ole poliitikko.	Nem vagyok politikus.	poliitikko	0	0
+Minä olen Lin.	Lin vagyok.	lin	0	0
+Se on makea.	Ez édes.	makea	0	0
+Hänen isänsä on japanilainen.	Az édesapja japán.	japanilainen	0	0
+Tämä on kirja Englannista.	Ez egy könyv Angliáról.	englannista	0	0
+Hän myy vihanneksia.	Zöldséget árul.	vihanneksia	0	0
+Tämä on Japani.	Ez Japán.	japani	0	0
+Tämä lause ei kuulu minulle.	Ez a mondat nem az enyém.	lause	0	0
+Artikkeli heijastaa kirjoittajan mielipidettä.	A cikk az írója véleményét tükrözi.	artikkeli	0	0
+Hän on mustasukkainen ja järjetön.	Ő irigy és irracionális.	järjetön	0	0
+Katsoin kaappiin.	Benéztem a szekrénybe.	kaappiin	0	0
+Se oli hyvä pihvi.	Ez egy jó marhasült volt.	pihvi	0	0
+Käyn kirkossa aina sunnuntaisin.	Minden vasárnap megyek templomba.	sunnuntaisin	0	0
+Hän vietti onnellisen lapsuuden.	Neki boldog gyermekkora volt.	lapsuuden	0	0
+Mikä haluat olla isona?	Mi szeretnél lenni, ha nagy leszel?	isona	0	0
+Nimeni on Roberto.	A nevem Roberto.	roberto	0	0
+Toni osaa juosta nopeasti.	Tony gyorsan tud futni.	toni	0	0
+Museo on nyt kiinni.	A múzeum most zárva van.	museo	0	0
+Tämä juna menee Bostoniin.	Ez a vonat megy Bostonba.	bostoniin	0	0
+Minun korvani soivat.	Cseng a fülem.	korvani	0	0
+Pidän tästä hameesta. Voinko sovittaa sitä?	Tetszik nekem ez a szoknya. Felpróbálhatom?	sovittaa	0	0
+Tom opiskelee ranskaa.	Tom franciát tanul.	opiskelee	0	0
+Picasso maalasi tämän kuvan 1950.	Picasso festette ezt a képet 1950-ben.	maalasi	0	0
+Tom on hukannut ranskan oppikirjansa.	Tom elvesztette a francia nyelvkönyvét.	hukannut	0	0
+Tom käänsi kirjeen ranskasta saksaksi.	Tom lefordította a francia levelet németre.	ranskasta	0	0
+Emme ole enkeleitä.	Nem vagyunk angyalok.	enkeleitä	0	0
+Emme ollenkaan tunne lapsen luontoa; siitä muodostamiemme väärien käsitteiden nojalla joudumme, kuta pitemmälle koetamme päästä, yhä kauemmaksi harhateille.	Nem ismerik a gyermekéletet: mennél messzebbre megyünk róla szóló hamis fogalmaink után, annál jobban eltévelyedünk.	luontoa	0	0
+Minä pystyn lukea englanninkielistä tekstiä.	Tudok angolul olvasni.	tekstiä	0	0
+Ruotsin pääkaupunki on Tukholma.	Svédország fővárosa Stockholm.	ruotsin	0	0
+Heillä on oranssi kissa.	Van egy narancssárga macskájuk.	oranssi	0	0
+Onko huoneessa ilmastointi?	Van a szobában légkondicionáló?	ilmastointi	0	0
+Toiveeni on viimeinkin tullut toteen.	A kívánságom végre teljesült.	toteen	0	0
+Opettaja kertoi meille hauskan tarinan.	A tanító elmondott nekünk egy vidám történetet.	hauskan	0	0
+Isäni pitää vahvasta kahvista.	Apám az erős kávét szereti.	kahvista	0	0
+On epäkohteliasta kysyä joltakulta kuinka paljon hän tienaa.	Udvariatlan dolog megkérdezni valakitől, mennyit keres.	epäkohteliasta	0	0
+Minkä värinen pilvi on?	Milyen színe van a felhőnek?	pilvi	0	0
+Sateen jälkeen ilma on raikas.	Eső után tiszta a levegő.	sateen	0	0
+Osaan pelata tennistä.	Tudok teniszezni.	tennistä	0	0
+Haluaisin kiittää uskomattoman hienosta yhteistyöstä useiden vuosien ajalta.	Szeretnék köszönetet mondani a fantasztikus sok éven át tartó együttműködésért.	useiden	0	0
+Toiveeni on viimeinkin tullut toteen.	A kívánságom végre teljesült.	toiveeni	0	0
+Isäni kuuntelee klassista musiikkia.	Édesapám komolyzenét hallgat.	klassista	0	0
+Yhteisön tuki kannustaa festivaalin järjestäjiä, jotka nyt suunnittelevat vielä enemmän tapahtumia.	A közösség támogatása buzdítja a fesztivál szervezőit, akik most még több rendezvényt terveznek.	suunnittelevat	0	0
+Missä on pohjoinen?	Merre van észak?	pohjoinen	0	0
+Onko täällä pankkia lähistöllä?	Van itt a közelben egy bank?	pankkia	0	0
+Artikkeli heijastaa kirjoittajan mielipidettä.	A cikk az írója véleményét tükrözi.	mielipidettä	0	0
+Tämä työ vaatii erityisiä kykyjä.	Ehhez a munkához különleges képességekre van szükség.	erityisiä	0	0
+Te syötte.	Esztek.	syötte	0	0
+Mukavaa viikonloppua!	Jó hétvégét!	viikonloppua	0	0
+En voi ymmärtää hänen tunteitaan.	Nem tudom megérteni az érzéseit.	tunteitaan	0	0
+En pidä koirista.	Nem szeretem a kutyákat.	koirista	0	0
+Onko tomaatti hedelmä vai vihannes?	A paradicsom gyümölcs vagy zöldség?	hedelmä	0	0
+Se oli pyöreä.	Kerek volt.	pyöreä	0	0
+Hän on astronautti.	Asztronauta.	astronautti	0	0
+Kirjoitatko kirjettä?	Levelet írsz?	kirjoitatko	0	0
+Hän rakentaa siltaa.	Hidat épít.	siltaa	0	0
+Tykkäätkö tästä väristä?	Tetszik ez a szín?	väristä	0	0
+Haluaisin olla miljonääri.	Szeretnék milliomos lenni.	miljonääri	0	0
+Terve. Täällä on Joe Carlton. Saanko puhua Michaelille?	Üdvözlöm! Itt Joe Carlton beszél. Beszélhetnék Michaellel?	carlton	0	0
+Vaimoni halusi adoptoida lapsen.	A feleségem örökbe akart fogadni egy gyermeket.	adoptoida	0	0
+Voinko käyttää puhelintasi?	Használhatom a telefonodat?	puhelintasi	0	0
+Minulla on oikeus arvostella.	Jogom van kritizálni.	arvostella	0	0
+Vanhempani ovat Australiassa.	A szüleim Ausztráliában vannak.	australiassa	0	0
+Sinun pitäisi lopettaa tupakointi.	Abba kellene hagynod a dohányzást.	tupakointi	0	0
+Yhteisön tuki kannustaa festivaalin järjestäjiä, jotka nyt suunnittelevat vielä enemmän tapahtumia.	A közösség támogatása buzdítja a fesztivál szervezőit, akik most még több rendezvényt terveznek.	kannustaa	0	0
+Onko tuo minun hattuni?	Ez az én kalapom?	hattuni	0	0
+Tom on vaativa.	Tom igényes.	vaativa	0	0
+Juotko alkoholia?	Iszol alkoholt?	juotko	0	0
+Hän potkii minua.	Rugdos engem.	potkii	0	0
+Paljonko rahaa kulutit autoosi?	Mennyi pénzt adtál az autódért?	autoosi	0	0
+Miksi olet vielä jalkeilla?	Miért vagy még talpon?	jalkeilla	0	0
+Mitä sänkyä haluat käyttää?	Milyen ágyat akarsz használni?	sänkyä	0	0
+Tilasin pizzan.	Rendeltem pizzát.	pizzan	0	0
+Puhutko latinaa?	Beszélsz latinul?	latinaa	0	0
+Onko ketsuppia?	Van valamennyi ketchup?	ketsuppia	0	0
+Haluaisin kiittää uskomattoman hienosta yhteistyöstä useiden vuosien ajalta.	Szeretnék köszönetet mondani a fantasztikus sok éven át tartó együttműködésért.	yhteistyöstä	0	0
+Hän opettaa matematiikkaa ja Englantia.	Ő tanítja mind a számtant, mind pedig az angolt is.	matematiikkaa	0	0
+Tämä auto on valmistettu Japanissa.	Ez az autó Japánban készült.	valmistettu	0	0
+Tarkastin Tomin pulssin.	Ellenőriztem Tom pulzusát.	tarkastin	0	0
+Onko Tom adoptoitu?	Örökbe fogadták Tomit?	adoptoitu	0	0
+Kirkko on keskellä kylää.	A templom a falu közepén van.	kylää	0	0
+Aurinko nousee idästä ja laskee länteen.	A nap keleten kel és nyugaton nyugszik.	idästä	0	0
+Japanissa uusi lukuvuosi alkaa huhtikuussa.	Japánban az új tanév áprilisban kezdődik.	huhtikuussa	0	0
+Hän on journalisti.	Ő újságíró.	journalisti	0	0
+Tom on kommunisti.	Tom kommunista.	kommunisti	0	0
+Olen lihonut.	Híztam.	lihonut	0	0
+Ovatko he japanilaisia vai kiinalaisia?	Japánok ők vagy kínaiak?	kiinalaisia	0	0
+Talo on valkoiseksi maalattu.	A ház fehérre van festve.	maalattu	0	0
+Italia ei ole Kreikka.	Olaszország nem Görögország.	italia	0	0
+Liika on liikaa!	Ami sok, az sok!	liika	0	0
+He ovat meidän ystäviämme.	Ők a barátaink.	ystäviämme	0	0
+Hän ei osallistunut keskusteluun.	Nem vett részt a vitában.	keskusteluun	0	0
+Hän ei osallistunut keskusteluun.	Nem vett részt a vitában.	osallistunut	0	0
+Hänen kirjansa on punainen.	A könyve vörös.	kirjansa	0	0
+Hän on syntynyt Sveitsissä.	Svájcban született.	sveitsissä	0	0
+Puhutko kiinaa?	Beszélsz kínaiul?	kiinaa	0	0
+Meidän täytyy ajatella lapsiamme ja lastenlapsiamme.	Gondolnunk kell a gyerekeinkre és az unokáinkra.	lapsiamme	0	0
+Aika rientää.	Az idő repül.	rientää	0	0
+Missä vodka on?	Hol van a vodka?	vodka	0	0
+Helsinki on Suomen pääkaupunki.	Helsinki Finnország fővárosa.	suomen	0	0
+Miksi ostit noin kalliin sanakirjan?	Miért egy olyan drága szótárat vettél?	kalliin	0	0
+Uin joessa.	A folyóban úsztam.	uin	0	0
+Ruotsin pääkaupunki on Tukholma.	Svédország fővárosa Stockholm.	pääkaupunki	0	0
+Iänsä vuoksi hänen muistinsa heikkeni.	Kora miatt memóriája romlott.	muistinsa	0	0
+Kymmenen, yksitoista, kaksitoista, kolmetoista, neljätoista, viisitoista, kuusitoista, seitsemäntoista, kahdeksantoista, yhdeksäntoista, kaksikymmentä.	Tíz, tizenegy, tizenkettő, tizenhárom, tizennégy, tizenöt, tizenhat, tizenhét, tizennyolc, tizenkilenc, húsz.	kolmetoista	0	0
+Tomin terveys on erittäin hyvä.	Tom makkegészséges.	terveys	0	0
+En ole pessyt hiuksiani.	Nem mostam hajat.	hiuksiani	0	0
+Pojilla on jano.	A fiúk szomjasak.	pojilla	0	0
+Haluaisin kiittää uskomattoman hienosta yhteistyöstä useiden vuosien ajalta.	Szeretnék köszönetet mondani a fantasztikus sok éven át tartó együttműködésért.	hienosta	0	0
+Berliini on saksalainen kaupunki.	Berlin egy német város.	berliini	0	0
+Eläminen on vaarallista.	Élni veszélyes.	eläminen	0	0
+Tom kuori omenan.	Tom meghámozta az almát.	omenan	0	0
+Minun korvani soivat.	Cseng a fülem.	soivat	0	0
+Tom puhui Bostonista.	Tom Bostonról beszélt.	bostonista	0	0
+Hän osaa uida selkää.	Tud háton úszni.	selkää	0	0
+On epäkohteliasta kysyä joltakulta kuinka paljon hän tienaa.	Udvariatlan dolog megkérdezni valakitől, mennyit keres.	joltakulta	0	0
+Istun mieluummin kirjastossa lukemassa kuin menen kotiin.	Szívesebben ülnék olvasgatva a könyvtárban, mint hazamennék.	lukemassa	0	0
+Tom haluaa oppia muutaman ranskalaisen laulun.	Tom meg akar tanulni néhány francia dalt.	ranskalaisen	0	0
+Mä vietän liikaa aikaa Facebookissa.	Nagyon sok időt töltök a Facebookon.	facebookissa	0	0
+En ymmärrä tämän lauseen täsmällistä merkitystä.	Nem értem a pontos jelentését ennek a mondatnak.	lauseen	0	0
+Olen kuullut, että Saksassa olut on halvempaa kuin vesi. Onko se totta?	Azt hallottam, hogy Németországban a sör olcsóbb a víznél. Ez igaz?	halvempaa	0	0
+Puhutko italiaa?	Beszélsz olaszul?	italiaa	0	0
+Tom on Marin isä.	Tom Mary apja.	marin	0	0
+Tom puhuu aina ranskaksi.	Tom mindig franciául beszél.	ranskaksi	0	0
+Emme ollenkaan tunne lapsen luontoa; siitä muodostamiemme väärien käsitteiden nojalla joudumme, kuta pitemmälle koetamme päästä, yhä kauemmaksi harhateille.	Nem ismerik a gyermekéletet: mennél messzebbre megyünk róla szóló hamis fogalmaink után, annál jobban eltévelyedünk.	nojalla	0	0
+Elämme yhteiskunnassa.	Társadalomban élünk.	yhteiskunnassa	0	0
+Ehkä hänestä ei tule koskaan kuuluisaa.	Lehet, hogy sosem lesz híres.	kuuluisaa	0	0
+Minun kissani on musta.	A macskám fekete.	kissani	0	0
+He lopettivat laulamisen.	Abbahagyták az éneklést.	lopettivat	0	0
+Hän piti huolta äidistään isänsä kuoleman jälkeen.	Ő gondoskodott az anyjáról az apja halála után.	äidistään	0	0
+Italialainen keittiö on suosittua ympäri maailman.	Az olasz konyhát az egész világon kedvelik.	suosittua	0	0
+Luuletko, että pilailen?	Azt gondolod, hogy viccelek?	pilailen	0	0
+Työtoverini ja hänen aviomiehensä ovat molemmat amerikkalaisia.	A munkatársnőm és a férje, mindketten amerikaiak.	aviomiehensä	0	0
+Emme ollenkaan tunne lapsen luontoa; siitä muodostamiemme väärien käsitteiden nojalla joudumme, kuta pitemmälle koetamme päästä, yhä kauemmaksi harhateille.	Nem ismerik a gyermekéletet: mennél messzebbre megyünk róla szóló hamis fogalmaink után, annál jobban eltévelyedünk.	pitemmälle	0	0
+Terve. Täällä on Joe Carlton. Saanko puhua Michaelille?	Üdvözlöm! Itt Joe Carlton beszél. Beszélhetnék Michaellel?	michaelille	0	0
+Olen turisti.	Turista vagyok.	turisti	0	0
+Äiskä, mulla on nälkä.	Anyu, éhes vagyok!	äiskä	0	0
+Minä en puhu japania.	Én nem beszélek japánul.	japania	0	0
+En ole pessyt hiuksiani.	Nem mostam hajat.	pessyt	0	0
+Mikä sinun hevosesi nimi on?	Mi a neve a lovadnak?	hevosesi	0	0
+Hän ei kuuntele vanhempiaan.	Nem hallgat a szüleire.	vanhempiaan	0	0
+Tiedän, että et tunne Tomia.	Tudom, hogy nem ismered Tomit.	tomia	0	0
+Nimeni on Wang.	A nevem Wang.	wang	0	0
+Voisitteko esittäytyä? Mikä on ammattinne?	Bemutatkozna, kérem? Mi a foglalkozása?	esittäytyä	0	0
+Eurooppaa ei ole olemassa.	Európa nincs.	eurooppaa	0	0
+Hänen tarkoituksensa elämässä oli tulla suureksi tohtoriksi.	Az volt az életcélja, hogy híres orvos legyen.	tarkoituksensa	0	0
+Moskova on venäläinen kaupunki.	Moszkva orosz város.	moskova	0	0
+Olen nyt 30-vuotias.	Most harminc éves vagyok.	30-vuotias	0	0
+Hänellä oli kolme poikaa joista tuli asianajajia.	Neki három fia volt, ügyvédek lettek.	asianajajia	0	0
+Afrikka on ihmiskunnan kehto.	Afrika az emberiség bölcsője.	afrikka	0	0
+Ruusut ovat punaisia.	A rózsák pirosak.	ruusut	0	0
+Onko valmistelut tehty?	Készen vagy?	valmistelut	0	0
+Tom otti takkinsa kaapista ja laittoi sen päälleen.	Tom kivette a ruhásszekrényből a kabátját és felvette.	takkinsa	0	0
+En tiedä tuleeko Yrjö vai ei.	Nem tudom, hogy jön-e György vagy sem.	yrjö	0	0
+Pidätkö kalasta?	Szereted a halat?	kalasta	0	0
+Mari ymmärtää kiinaa.	Mari ért kínaiul.	mari	0	0
+Tomi on kanadalainen.	Tom kanadai.	kanadalainen	0	0
+Ystäväni on puhelias henkilö.	A barátom sokat beszél.	puhelias	0	0
+En välitä, vaikka aikainen lintu nappaisikin madon, haluan nukkua.	Nem érdekel, hogy ki korán kel, aranyat lel, én aludni akarok.	madon	0	0
+Puhelinnumeroni on 789.	A telefonszámom 789.	puhelinnumeroni	0	0
+Haluan elää Brasiliassa.	Brazíliában akarok élni.	brasiliassa	0	0
+Uin joessa.	A folyóban úsztam.	joessa	0	0
+Kaivossa asuva sammakko ei tiedä valtamerestä.	Egy kútban lévő béka semmit sem tud az óceánról.	asuva	0	0
+Mitä sä haluut synttärilahjaks?	Mit szeretnél a születésnapodra?	haluut	0	0
+Tomi treenaa joka päivä.	Tamás mindennap edz.	treenaa	0	0
+Minulla on jotain silmässä.	Valami van a szememben.	silmässä	0	0
+Sateen jälkeen ilma on raikas.	Eső után tiszta a levegő.	raikas	0	0
+Mustat kissat tuovat epäonnea.	Fekete macska szerencsétlenséget hoz.	epäonnea	0	0
+Kymmenen, yksitoista, kaksitoista, kolmetoista, neljätoista, viisitoista, kuusitoista, seitsemäntoista, kahdeksantoista, yhdeksäntoista, kaksikymmentä.	Tíz, tizenegy, tizenkettő, tizenhárom, tizennégy, tizenöt, tizenhat, tizenhét, tizennyolc, tizenkilenc, húsz.	neljätoista	0	0
+Huomenna on hänen syntymäpäivänsä.	Holnap lesz a születésnapja.	syntymäpäivänsä	0	0
+Picasso maalasi tämän kuvan 1950.	Picasso festette ezt a képet 1950-ben.	picasso	0	0
+Kymmenen, yksitoista, kaksitoista, kolmetoista, neljätoista, viisitoista, kuusitoista, seitsemäntoista, kahdeksantoista, yhdeksäntoista, kaksikymmentä.	Tíz, tizenegy, tizenkettő, tizenhárom, tizennégy, tizenöt, tizenhat, tizenhét, tizennyolc, tizenkilenc, húsz.	kuusitoista	0	0
+Jooga tulee Intiasta.	A jóga Indiából származik.	intiasta	0	0
+Kuka antoi tämän Tomille?	Ki adta ezt Tomnak?	tomille	0	0
+Tom ei pysty unohtamaan Marya.	Tom nem tudja elfelejteni Máriát.	marya	0	0
+Hä?	He?	hä	0	0
+Isäni tykkää matkustaa lentokoneella.	Apám szeret repülővel utazni.	lentokoneella	0	0
+Tykkään kakusta.	Szeretem a süteményt.	kakusta	0	0
+Mitä haluaisit illalliseksi?	Mit szeretnél vacsorázni?	illalliseksi	0	0
+Eilen olin Tokiossa.	Tegnap Tokióban voltam.	tokiossa	0	0
+Marika on suomalainen, mutta hän puhuu saksaa sujuvasti.	Marika finn, de folyékonyan beszél németül.	sujuvasti	0	0
+Se kuulostaa hyvältä idealta.	Ez jó ötletnek hangzik.	idealta	0	0
+Artikkeli heijastaa kirjoittajan mielipidettä.	A cikk az írója véleményét tükrözi.	heijastaa	0	0
+Tykkään autostasi.	Tetszik a kocsid.	autostasi	0	0
+Ovatko he japanilaisia vai kiinalaisia?	Japánok ők vagy kínaiak?	japanilaisia	0	0
+Minä soitan viulua.	Én játszom hegedűn.	viulua	0	0
+Vain se joka asuu täällä, tietää mitä on kylmyys.	Csak aki itt lakik, az tudja, mi a hideg.	kylmyys	0	0
+Minkä väriset silmät Tomilla on?	Milyen színű szeme van Tominak?	väriset	0	0
+Unohdin puhelinnumerosi.	Elfelejtettem a telefonszámodat.	puhelinnumerosi	0	0
+Meillä on valkea kissa.	Van egy fehér macskánk.	valkea	0	0
+Tom kertoi Marylle Johnista.	Tom beszélt Marynek Johnról.	marylle	0	0
+Haluan ostaa banaaneja.	Banánt szeretnék vásárolni.	banaaneja	0	0
+Tarkastin Tomin pulssin.	Ellenőriztem Tom pulzusát.	pulssin	0	0
+Minulla oli limonadia.	Volt üdítőm.	limonadia	0	0
+Haluaisin Bloody Maryn.	Bloody Maryt szeretnék.	bloody	0	0
+Se on pudonnut muodista.	Ez már kiment a divatból.	muodista	0	0
+Vuonna 1962 Algeria saavutti itsenäisyyden Ranskasta.	1962-ben Algéria megszerezte függetlenségét Franciaországtól.	saavutti	0	0
+Minulla meni shampoota silmiin ja se kirvelee.	Sampon került a szemembe és fáj.	kirvelee	0	0
+Tämä romaani antaa hyvin kaunistelevan kuvan mustalaiskiertolaisista.	Ez a regény meglehetősen szép képet fest a vándorcigányokról.	romaani	0	0
+Pue pyjama päällesi.	Vedd fel a pizsamád.	pyjama	0	0
+Tarvitsemmeko universaalin kielen?	Szükség van egy általános nyelvre.	tarvitsemmeko	0	0
+Kun minä olin sinun ikäinen, Pluto oli planeetta.	Amikor annyi idős voltam, mint te, a Plútó bolygó volt.	pluto	0	0
+Minun isäni oli jo ollut kerran Kreikassa.	Apám már volt valamikor Görögországban.	kreikassa	0	0
+Lunta satoi maanantaista perjantaihin.	Hétfőtől péntekig esett a hó.	perjantaihin	0	0
+Jos neuvot minua muuttamaan lausetta, minä teen sen.	Ha azt javaslod, hogy változtassak a mondaton, én benne vagyok.	lausetta	0	0
+Tom ei tykkää kissoista.	Tom nem szereti a cicákat.	kissoista	0	0
+Haluaisitteko kuulla uuden lauluni?	Szeretnéd meghallgatni az új dalom?	lauluni	0	0
+Tom on kadottanut kontrollin.	Tom elvesztette az önuralmát.	kontrollin	0	0
+Tokio on Japanin kaupungeista isoin.	Tokió a japán városok közül a legnagyobb.	tokio	0	0
+On satanut kaksi päivää.	Már két napja esik az eső.	satanut	0	0
+Työtoverini on susi lammasten vaatteissa.	A kollégám egy báránybőrbe bújt farkas.	työtoverini	0	0
+Kymmenen, yksitoista, kaksitoista, kolmetoista, neljätoista, viisitoista, kuusitoista, seitsemäntoista, kahdeksantoista, yhdeksäntoista, kaksikymmentä.	Tíz, tizenegy, tizenkettő, tizenhárom, tizennégy, tizenöt, tizenhat, tizenhét, tizennyolc, tizenkilenc, húsz.	seitsemäntoista	0	0
+Istutko sinä nyt?	Ülsz most?	istutko	0	0
+Tokio on Japanin kaupungeista isoin.	Tokió a japán városok közül a legnagyobb.	kaupungeista	0	0
+Tom pystyy kävelemään käsillään.	Tom tud kézen járni.	käsillään	0	0
+Pidän teestä.	Szeretem a teát.	teestä	0	0
+Hän palasi eilen kotiin ulkomailta.	Tegnap jött vissza külföldről.	ulkomailta	0	0
+Kiotossa vierailee paljon ihmisiä joka vuosi.	Kiotóba minden évben sokan ellátogatnak.	vierailee	0	0
+Jos neuvot minua muuttamaan lausetta, minä teen sen.	Ha azt javaslod, hogy változtassak a mondaton, én benne vagyok.	neuvot	0	0
+Tapaammeko huomenna?	Találkozunk holnap?	tapaammeko	0	0
+Olen korealainen.	Koreai vagyok.	korealainen	0	0
+Rakastan arabiaa.	Szeretem az arab nyelvet.	arabiaa	0	0
+Talo on valkoiseksi maalattu.	A ház fehérre van festve.	valkoiseksi	0	0
+Tiedätkö kuka on kirjoittanut tämän romaanin?	Tudod, ki írta ezt a regényt?	romaanin	0	0
+Tom käänsi kirjeen ranskasta saksaksi.	Tom lefordította a francia levelet németre.	saksaksi	0	0
+Voititko?	Nyertél?	voititko	0	0
+Shakkimatti!	Sakk-matt!	shakkimatti	0	0
+Pidän Tomin sinisestä ananaksesta.	Nekem tetszik Tom kék ananásza.	sinisestä	0	0
+Missä Mississippi on?	Hol van a Mississippi?	mississippi	0	0
+Tänä talvena on hyvin kylmää.	Ez a tél nagyon hideg.	talvena	0	0
+Onko Tomi hyvä uimari?	Tom jó úszó?	uimari	0	0
+Minun nimeni on Hopkins.	A nevem Hopkins.	hopkins	0	0
+Onko tomaatti hedelmä vai vihannes?	A paradicsom gyümölcs vagy zöldség?	vihannes	0	0
+Oletko kotoisin Itävallasta vai Australiasta?	Ausztriából vagy Ausztráliából vagy?	australiasta	0	0
+Hän polttaa 20 savuketta päivässä.	Húsz cigarettát szív el naponta.	savuketta	0	0
+En pidä tästä paidasta. Näytä minulle toinen.	Nem tetszik ez az ing. Mutass másikat nekem!	paidasta	0	0
+Nämä banaanit eivät ole kypsiä.	Ezek a banánok nem érettek.	kypsiä	0	0
+Puhun ruotsia.	Beszélek svédül.	ruotsia	0	0
+Ymmärtääkö täällä kukaan suomea?	Ért itt valaki finnül?	ymmärtääkö	0	0
+Kuinka voin tiputtaa painoa?	Hogy tudnék fogyni?	tiputtaa	0	0
+Hänen tarkoituksensa elämässä oli tulla suureksi tohtoriksi.	Az volt az életcélja, hogy híres orvos legyen.	tohtoriksi	0	0
+Tom kertoi Marylle Johnista.	Tom beszélt Marynek Johnról.	johnista	0	0
+Tässä talossa on kaksi kylpyhuonetta.	Ebben a házban két fürdőszoba van.	kylpyhuonetta	0	0
+Hän on dieetillä.	Diétázik.	dieetillä	0	0
+Tohtori määräsi hänet tiukalle dieetille.	Az orvos szigorú diétát írt elő neki.	tiukalle	0	0
+Tuolla koiralla on lyhyt häntä.	Annak a kutyának rövid a farka.	koiralla	0	0
+Suurkiitokset!	Köszönöm szépen!	suurkiitokset	0	0
+Sami on Tomia kaksi vuotta nuorempi.	Sam két évvel fiatalabb Tomnál.	sami	0	0
+Suomessa on 187 888 järveä.	Finnországban 187.888 tó van.	järveä	0	0
+He ovat veljiäni.	Ők a fivéreim.	veljiäni	0	0
+Olen ruvennut opiskelemaan esperantoa.	Elkezdtem eszperantóul tanulni.	ruvennut	0	0
+Artikkeli heijastaa kirjoittajan mielipidettä.	A cikk az írója véleményét tükrözi.	kirjoittajan	0	0
+Hän on lehtimies.	Ő újságíró.	lehtimies	0	0
+Tom aloitti ranskan opiskelun kolme vuotta sitten.	Tom három évvel ezelőtt kezdett el franciául tanulni.	opiskelun	0	0
+Koiramme seuraa minua kaikkialle.	A kutyám mindenhová követ engem.	koiramme	0	0
+Tuomas ei ole biokemisti.	Tom nem biokémikus.	tuomas	0	0
+Emme ollenkaan tunne lapsen luontoa; siitä muodostamiemme väärien käsitteiden nojalla joudumme, kuta pitemmälle koetamme päästä, yhä kauemmaksi harhateille.	Nem ismerik a gyermekéletet: mennél messzebbre megyünk róla szóló hamis fogalmaink után, annál jobban eltévelyedünk.	väärien	0	0
+Miten paljon tämä sateenvarjo maksaa?	Mennyi az ára ennek az esernyőnek?	sateenvarjo	0	0
+Kolme uutta postimerkkiä laskettiin liikenteeseen viime kuussa.	A múlt hónapban három új bélyeget adtak ki.	laskettiin	0	0
+Suomessa on huomenna äitienpäivä.	Holnap lesz Finnországban anyák napja.	suomessa	0	0
+Kymmenen, yksitoista, kaksitoista, kolmetoista, neljätoista, viisitoista, kuusitoista, seitsemäntoista, kahdeksantoista, yhdeksäntoista, kaksikymmentä.	Tíz, tizenegy, tizenkettő, tizenhárom, tizennégy, tizenöt, tizenhat, tizenhét, tizennyolc, tizenkilenc, húsz.	kahdeksantoista	0	0
+Minun kotini on lähellä puistoa.	A házam közel van a parkhoz.	puistoa	0	0
+Ystäväni pyysi lähettämään postikortin.	Egy barátom megkért, hogy küldjek neki egy képeslapot.	postikortin	0	0
+Haluan lukea kirjaa "Aculpa é das Estrelas".	Szeretném elolvasni az Aculpa é das Estrelas című könyvet.	das	0	0
+Hyvä lukija!	Kedves olvasó!	lukija	0	0
+Tämä on kalliimpi kuin tuo.	Ez drágább, mint az.	kalliimpi	0	0
+Kuka antoi sinulle nämä omenat?	Kitől kaptad ezeket az almákat?	omenat	0	0
+Onko tomaatti hedelmä vai vihannes?	A paradicsom gyümölcs vagy zöldség?	tomaatti	0	0
+Työntekijät ovat lakossa.	Sztrájkolnak a dolgozók.	lakossa	0	0
+Hän on menestyksekäs liikenainen.	Ő egy sikeres üzletasszony.	menestyksekäs	0	0
+Sukunimeni on Jones.	A családnevem Jones.	sukunimeni	0	0
+Hän on majava.	Ő egy hód.	majava	0	0
+Hän on suomalainen.	Finn.	suomalainen	0	0
+Missä ovat kauneimmat lauseet?	Hol vannak a legszebb mondatok?	kauneimmat	0	0
+Kiova on Ukrainan pääkaupunki.	Ukrajna fővárosa Kijev.	ukrainan	0	0
+Kunpa minulla olisi 80 jenin postimerkki.	Bárcsak lenne egy 80 jenes bélyegem.	jenin	0	0
+Benjamin ampui kiväärillä karhun.	Benjamin egy medvét egy puskával lőtte le.	kiväärillä	0	0
+En tiedä onko Tomilla polkupyörä vai ei.	Én nem tudom, hogy van Tomnak kerékpárja vagy nincs.	polkupyörä	0	0
+Afrikka on ihmiskunnan kehto.	Afrika az emberiség bölcsője.	kehto	0	0
+Onko sinulla pikkurahaa?	Van aprópénzed?	pikkurahaa	0	0
+Pidän pizzasta.	Szeretem a pizzát.	pizzasta	0	0
+Ymmärtääkö hän unkarin kieltä?	Ért magyarul?	unkarin	0	0
+Oletko buddhalainen?	Buddhista vagy?	buddhalainen	0	0
+Japanissa on paljon maanjäristyksiä.	Japánban sok a földrengés.	maanjäristyksiä	0	0
+Tuossa kadunkulmassa on puhelinautomaatti.	Ott a sarkon van egy nyilvános telefon.	kadunkulmassa	0	0
+Puhuvatko he ranskaa?	Beszélik ők valamennyire a franciát?	puhuvatko	0	0
+Italia ei ole Kreikka.	Olaszország nem Görögország.	kreikka	0	0
+Tämä postikortti on Australiasta.	Ez a képeslap Ausztráliából érkezett.	postikortti	0	0
+Kirsikka on punainen.	A cseresznye piros.	kirsikka	0	0
+Jooga tulee Intiasta.	A jóga Indiából származik.	jooga	0	0
+Vuonna 1962 Algeria saavutti itsenäisyyden Ranskasta.	1962-ben Algéria megszerezte függetlenségét Franciaországtól.	itsenäisyyden	0	0
+Kurkkuuni sattuu.	Fáj a torkom.	kurkkuuni	0	0
+Voitko auttaa minua muutossa?	Tudsz nekem segíteni a költözködésben?	muutossa	0	0
+Tomista tuli lääkäri.	Tom orvos lett.	tomista	0	0
+Lehdet tippuvat syksyllä.	A levelek lehullanak ősszel.	tippuvat	0	0
+Prostituutio on laillista Saksassa.	Németországban legális a prostitúció.	prostituutio	0	0
+Mitä sinä opettelet?	Mit tanulsz?	opettelet	0	0
+Kiitos nopeasta vastauksestasi.	Nagyon köszönöm a gyors válaszod.	nopeasta	0	0
+Onko hänen pulssinsa säännöllinen?	Szabályos a pulzusa?	pulssinsa	0	0
+Lunta satoi maanantaista perjantaihin.	Hétfőtől péntekig esett a hó.	maanantaista	0	0
+Ymmärtääkö täällä kukaan suomea?	Ért itt valaki finnül?	suomea	0	0
+Ymmärrän turkkia.	Értek törökül.	turkkia	0	0
+Tämä sanakirja ei ole minun.	Ez a szótár nem az enyém.	sanakirja	0	0
+Tomilla ei ole kovin hyvä itseluottamus.	Tom nem túl magabiztos.	itseluottamus	0	0
+Pari oli samanikäinen.	A házastársak egyidősek voltak.	samanikäinen	0	0
+Minä päivitin ohjelmiston uusimpaan versioon.	A szoftvert a legújabb verzióra frissítettem.	ohjelmiston	0	0
+Nämä banaanit eivät ole kypsiä.	Ezek a banánok nem érettek.	banaanit	0	0
+Autoni tuulilasi oli rikki.	Eltörött a kocsim szélvédője.	tuulilasi	0	0
+Sabotaasia!	Szabotázs!	sabotaasia	0	0
+Haluan tuulettimen.	Ventilátort szeretnék.	tuulettimen	0	0
+Onko hänen pulssinsa säännöllinen?	Szabályos a pulzusa?	säännöllinen	0	0
+Voisitteko esittäytyä? Mikä on ammattinne?	Bemutatkozna, kérem? Mi a foglalkozása?	ammattinne	0	0
+Kymmenen, yksitoista, kaksitoista, kolmetoista, neljätoista, viisitoista, kuusitoista, seitsemäntoista, kahdeksantoista, yhdeksäntoista, kaksikymmentä.	Tíz, tizenegy, tizenkettő, tizenhárom, tizennégy, tizenöt, tizenhat, tizenhét, tizennyolc, tizenkilenc, húsz.	yhdeksäntoista	0	0
+Kaivossa asuva sammakko ei tiedä valtamerestä.	Egy kútban lévő béka semmit sem tud az óceánról.	kaivossa	0	0
+Miksi ostit noin kalliin sanakirjan?	Miért egy olyan drága szótárat vettél?	sanakirjan	0	0

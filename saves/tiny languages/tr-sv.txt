@@ -1,0 +1,794 @@
+Yapabileceğim bir şey var mı?	Finns det något jag kan göra?	bir	0	0
+Bu kitabın yazarı hiç Rusya'da bulunmamış.	Författaren av den här boken har aldrig varit i Ryssland.	bu	0	0
+Merhaba, ben Tom. Senin adın ne?	Hej, jag är Tom. Vad heter du?	ne	0	0
+2006 yılında ilk kez yabancı bir dil öğrendim, ve o İngilizceydi.	Under 2006, lärde jag mig för första gången ett främmande språk, och det var engelskan.	ve	0	0
+Ben dün için özür dilemek istedim.	Jag ville be om ursäkt för gårdagen.	için	0	0
+Kahve mi, çay mı?	Kaffe eller te?	mi	0	0
+Ben Finim ama İsveççe de konuşuyorum.	Jag är finsk, men jag talar svenska också.	de	0	0
+O hiçbir şekilde kesin değil.	Detta är långt ifrån säkert.	o	0	0
+Ben zamanında döneceğim.	Jag kommer tillbaka i tid.	ben	0	0
+Her zaman çok karmaşık olması gerekmiyor.	Det behöver inte alltid vara så komplicerat.	çok	0	0
+Ben Finim ama İsveççe de konuşuyorum.	Jag är finsk, men jag talar svenska också.	ama	0	0
+Evet, doğru.	Ja, det stämmer.	evet	0	0
+Tom'un bir ailesi var mı?	Har Tom någon familj?	var	0	0
+Er ya da geç ayyuka çıkacak.	Förr eller senare kommer det att uppdagas.	da	0	0
+Kahve mi, çay mı?	Kaffe eller te?	mı	0	0
+Biz arkadaş değil miyiz?	Är vi inte vänner?	değil	0	0
+Hiçbir şey imkansız değildir.	Ingenting är omöjligt!	şey	0	0
+Sen oğlansın.	Du är en pojke.	sen	0	0
+İki sene kadar McDonald's'ta çalıştım.	I ungefär två år jobbade jag på McDonald's.	kadar	0	0
+Şimdi bana mı tavır yapıyorsun?	Drygar du dig mot mig nu?	bana	0	0
+Buz gibi suda yüzmeyi denemesi çılgınlıktı.	Det var galet av honom att försöka simma i det iskalla vattnet.	gibi	0	0
+O zaman hiç beklemeye gerek yok.	I så fall finns det inget behov av att vänta.	yok	0	0
+Birçok insan bunu yapar.	Många människor gör detta.	bunu	0	0
+Onu bu işe karıştırma.	Blanda inte in honom i detta.	onu	0	0
+Hemen yola koyulsan iyi olur.	Det är bäst att du ger dig av med det samma.	iyi	0	0
+Eğer beni affetmezsen, seninle gelmeyeceğim.	Om du inte förlåter mig, kommer jag inte att komma med dig.	beni	0	0
+Şişko seni!	Ditt fetto!	seni	0	0
+Her zaman çok karmaşık olması gerekmiyor.	Det behöver inte alltid vara så komplicerat.	her	0	0
+Müzik benim hayatım.	Musiken är mitt liv.	benim	0	0
+Ne demiştim sana?	Vad var det jag sa?	sana	0	0
+Son olarak, on iki puan Estonya'ya!	Och slutligen, tolv poäng till Estland!	ya	0	0
+Onun neden geç kaldığını merak ediyorum.	Jag undrar varför han är sen.	neden	0	0
+Tom'u her zaman dinlerim.	Jag lyssnar alltid på Tom.	zaman	0	0
+Sadece birkaç sorum var.	Jag har endast ett par frågor.	sadece	0	0
+Senin bir sorunun var.	Du har ett problem.	senin	0	0
+Burada biraz dinlenelim.	Låt oss vila lite här.	burada	0	0
+Televizyon kumandaları nasıl çalışır?	Hur fungerar fjärrkontrollerna?	nasıl	0	0
+Bu kitabın yazarı hiç Rusya'da bulunmamış.	Författaren av denna bok har aldrig varit i Ryssland.	hiç	0	0
+İş işten geçtikten sonra.	Det är redan försent.	sonra	0	0
+Şimdi bana mı tavır yapıyorsun?	Drygar du dig mot mig nu?	şimdi	0	0
+En yakın tuvalet nerede?	Var finns närmaste toalett?	en	0	0
+O işler öyle yürümüyor.	Det är inte så det fungerar.	öyle	0	0
+Kahve yapmamı ister misin?	Vill ni att jag skall koka kaffe?	misin	0	0
+Tom hapse girmeden önce hasta bakıcısıydı.	Tom var sjukvårdare innan han gick till fängelse.	önce	0	0
+O biraz korkak.	Han är lite av en fegis.	biraz	0	0
+Biz güzel bir şehirde yaşıyoruz.	Vi bor i en vacker stad.	güzel	0	0
+Ne hâlde olduğumu görmüyor musun?	Ser du inte hur jag mår?	musun	0	0
+Ona bir vasi tayin ederler.	De kommer att utse en förmyndare till honom.	ona	0	0
+Onun ilk adı nedir?	Vad heter han i förnamn?	onun	0	0
+Eğer bu yarışmayı kazanırsan İsveç’e gideceksin.	Om du vinner denna tävling, kommer du att åka till Sverige.	eğer	0	0
+Kızın artık bir çocuk değil.	Din dotter är inte längre ett barn.	artık	0	0
+Ondan gerçekten nefret ediyorum.	Jag hatar det verkligen.	gerçekten	0	0
+Amerika geri döndü!	Amerika är tillbaka!	geri	0	0
+Onun bunu okumasını istiyorum.	Jag vill att han ska läsa detta.	istiyorum	0	0
+Kim kendi dilini sever?	Vem gillar sitt språk?	kim	0	0
+Son olarak, on iki puan Estonya'ya!	Och slutligen, tolv poäng till Estland!	olarak	0	0
+Başka kim buradaydı?	Vem annan var här inne?	başka	0	0
+Tek kelime konuşmuyor.	Han säger inte ett ord.	tek	0	0
+Evet, doğru.	Ja, det stämmer.	doğru	0	0
+Büyük bir sandalye istiyorum.	Jag vill ha en stor stol.	büyük	0	0
+Babası meşhur bir piyanist olan bir arkadaşım var.	Jag har en vän vars far är en känd pianist.	olan	0	0
+Hemen yola koyulsan iyi olur.	Det är bäst att du ger dig av med det samma.	olur	0	0
+Bay Wilder bana senin e-posta adresini verdi.	Herr Wilder gav mig din e-postadress.	bay	0	0
+Mısır, Nil'in bir armağanıdır.	Egypten är en gåva av Nilen.	in	0	0
+Görünmez olacak mıyım?	Kommer jag att bli osynlig?	olacak	0	0
+Adam kadını öldürdü.	Mannen dödade kvinnan.	adam	0	0
+Hiçbir şey imkansız değildir.	Ingenting är omöjligt!	hiçbir	0	0
+Biz Rusya'danız.	Vi är från Ryssland.	biz	0	0
+Hey! Odamda ne yapıyorsunuz?	Hörni! Vad gör ni i mitt rum?	hey	0	0
+Bu Cenab-ı Allah'ın bir sınavı.	Detta är en prövning från Gud.	ın	0	0
+Sigara içmeyi bilmiyorum.	Jag kan inte röka.	bilmiyorum	0	0
+Tüm kuşların gagası vardır.	Alla fåglar har näbb.	tüm	0	0
+Çok fazla zamanınızı almayacağım.	Jag kommer inte att ta alltför mycket av din tid.	fazla	0	0
+O yeni bir kitap.	Det är en ny bok.	yeni	0	0
+Her gün işe giderim.	Varje dag går jag till jobbet.	gün	0	0
+Havaalanı nerede?	Var ligger flygplatsen?	nerede	0	0
+Tom'a hasta olduğumu söyle.	Säg till Tom att jag är sjuk.	a	0	0
+Her şeyi sırayla anlatacağız.	Vi kommer att förklara det steg för steg.	şeyi	0	0
+Merhaba Mimi! Nasılsın?	Hej Mimi! Hur mår du?	merhaba	0	0
+Tom orada öldü.	Tom dog där.	orada	0	0
+Bütçe son derece küçüktür.	Budgeten är extremt liten.	son	0	0
+Bu, kötü bir fikirdi.	Detta var en dålig idé.	kötü	0	0
+Sorun nedir?	Vad är problemet?	sorun	0	0
+Maliyetinin iki katını veririm.	Jag ger dig det dubbla av vad det kostade.	iki	0	0
+O zaman hiç beklemeye gerek yok.	I så fall finns det inget behov av att vänta.	gerek	0	0
+Nefes almaya devam et.	Fortsätt andas.	et	0	0
+Tom bütün elmaları yedi.	Tom åt alla äpplen.	bütün	0	0
+Hemen harekete geçebilirsiniz.	Du kan börja med detsamma.	hemen	0	0
+Siz beraber değil miydiniz?	Var ni inte tillsammans?	siz	0	0
+Üzgünüm, ama seni iyi duyamıyorum.	Förlåt, men jag hör dig inte så bra.	üzgünüm	0	0
+Uluslararası Kadınlar Günü kutlu olsun!	Glad internationell kvinnodag.	olsun	0	0
+Hollanda küçük bir ülkedir.	Nederländerna är ett litet land.	küçük	0	0
+Bu araba hakkında çalıntı ihbarı var.	Den här bilen är rapporterad som stulen.	hakkında	0	0
+Onları görebilir miyim?	Får jag se dem?	onları	0	0
+Bunu kendi başıma yapamam.	Jag kan inte göra det ensam.	kendi	0	0
+Tom, sık sık kız arkadaşının hayalini kurar.	Tom drömmer ofta om sin flickvän.	kız	0	0
+Leanne'nin mavi gözleri var.	Leanne har blå ögon.	nin	0	0
+Nefes almaya devam et.	Fortsätt andas.	devam	0	0
+Ne oluyor burada?	Vad är det som pågår här?	oluyor	0	0
+Bana kardeşimin katilinin adını ver.	Ge mig namnet på min brors mördare.	ver	0	0
+O, süper bir iş yapıyor.	Han gör ett utmärkt jobb.	iş	0	0
+Bizi kolladınız.	Ni tog hand om oss.	bizi	0	0
+Buna hiç şaşırmadım.	Jag är inte alls förvånad över detta.	buna	0	0
+Mavi spor araba durma noktasına geldi.	Den blåa sportbilen bromsade så att däcken skrek.	geldi	0	0
+Sizi uzun süredir görmedim.	Jag har inte sett er på länge.	sizi	0	0
+Bebeğin adı Tom'dur.	Babyn heter Tom.	dur	0	0
+Hiç kimse bu işe engel olamaz.	Ingen kan hindra detta.	kimse	0	0
+Ben dün için özür dilemek istedim.	Jag ville be om ursäkt för gårdagen.	özür	0	0
+Eğer beni affetmezsen, seninle gelmeyeceğim.	Om du inte förlåter mig, kommer jag inte att komma med dig.	seninle	0	0
+Ben bir asker değilim.	Jag är ingen soldat.	değilim	0	0
+İsveççe aslında zor bir dil değil.	Svenskan är faktiskt inte ett svårt språk.	aslında	0	0
+Sık sık ağlar mısın?	Gråter du ofta?	mısın	0	0
+Kıvırcık saçlı bir çocuğu gördünüz mü?	Har du sett ett barn med lockigt hår?	mü	0	0
+O hiçbir şekilde kesin değil.	Detta är långt ifrån säkert.	şekilde	0	0
+Bugün üç kez yedim.	Idag har jag ätit tre gånger.	bugün	0	0
+Tom'a hasta olduğumu söyle.	Säg till Tom att jag är sjuk.	söyle	0	0
+Neler olacağını hep birlikte göreceğiz.	Vi ser vad som händer tillsammans.	birlikte	0	0
+Başka türlü olmaz.	Det finns inget annat sätt.	olmaz	0	0
+Seni uzun süredir görmedim.	Jag har inte sett dig på länge.	uzun	0	0
+Onun ilk adı nedir?	Vad heter han i förnamn?	ilk	0	0
+Bu ne anlama geliyor?	Vad betyder det?	geliyor	0	0
+Saat onda onunla buluşacağım.	Jag ska träffa honom klockan tio.	onunla	0	0
+Gerçek dostluğun bedeli yoktur.	Ingenting kan mäta sig med sann vänskap.	gerçek	0	0
+Anlat bakalım, kıvırcık!	Låt höra, krulltott!	bakalım	0	0
+Onlar evi aradılar.	De genomsökte huset.	onlar	0	0
+Haydi Minecraft oynayalım!	Låt oss spela Minecraft!	haydi	0	0
+Sadece birkaç sorum var.	Jag har endast ett par frågor.	birkaç	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Ett, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	üç	0	0
+Tom Mary'nin ne yapacağını bildiğini söyledi.	Tom sa att han visste vad Maria skulle göra.	söyledi	0	0
+Benim gittiğim yerler seni pek açmaz.	Ställena jag går till faller dig inte i smaken.	pek	0	0
+Kahve yapmamı ister misin?	Vill ni att jag skall koka kaffe?	ister	0	0
+Konya treni saat kaçta kalkıyor?	Vilken tid avgår Konya-tåget?	saat	0	0
+Şimdi bana mı tavır yapıyorsun?	Drygar du dig mot mig nu?	yapıyorsun	0	0
+Bunu yiyebilir miyim?	Får jag äta detta?	miyim	0	0
+Kızın artık bir çocuk değil.	Din dotter är inte längre ett barn.	çocuk	0	0
+Evim caddenin sol tarafında yer alıyor.	Mitt hus ligger på vänster sida av gatan.	yer	0	0
+Neler olacağını hep birlikte göreceğiz.	Vi ser vad som händer tillsammans.	hep	0	0
+Neler olacağını hep birlikte göreceğiz.	Vi ser vad som händer tillsammans.	neler	0	0
+Bunların hepsini bir an önce öğrenmesi gerekiyor.	Han behöver lära sig allt detta så fort som möjligt.	an	0	0
+Onun ilk adı nedir?	Vad heter hon i förnamn?	nedir	0	0
+Tom'un bir ailesi var mı?	Har Tom någon familj?	un	0	0
+Tom'un düğünümüzde şarkı söylemesini istemiyorum.	Jag vill inte att Tom ska sjunga på vårt bröllop.	istemiyorum	0	0
+Tom Mary'nin kaç kilo çektiğini bilmiyor.	Tom vet inte hur mycket Mary väger.	kaç	0	0
+Burası Copacabana!	Detta är Copacabana!	burası	0	0
+Onun neden geç kaldığını merak ediyorum.	Jag undrar varför han är sen.	ediyorum	0	0
+Bunların hepsini bir an önce öğrenmesi gerekiyor.	Han behöver lära sig allt detta så fort som möjligt.	gerekiyor	0	0
+Eğer benden gerçekten nefret ediyorsan, öyleyse seni affedemem.	Om du verkligen hatar mig, så kan jag inte förlåta dig.	benden	0	0
+Gömlek giyen bir kadın görüyorum.	Jag ser en kvinna som bär en skjorta.	kadın	0	0
+Bu sınav o kadar zor değil.	Denna tenta är inte så svår.	zor	0	0
+Bu işe karışma.	Lägg dig inte i.	işe	0	0
+Niye yemiyorsun?	Varför äter du inte?	niye	0	0
+Onların hepsini seviyorum.	Jag gillar dem allihopa.	seviyorum	0	0
+Arabadan iner misiniz?	Är du snäll och kommer ut ur bilen?	misiniz	0	0
+Tanrı bir fildir.	Gud är en elefant.	tanrı	0	0
+Yarın buluşacağız.	Vi kommer att träffas imorgon.	yarın	0	0
+Bugün üç kez yedim.	Idag har jag ätit tre gånger.	kez	0	0
+İki dünya arasında yaşıyorum.	Jag lever mellan två världar.	İki	0	0
+Derhal onlara haber salın.	Underrätta dem omedelbart.	onlara	0	0
+Suriye'ye hoş geldiniz!	Välkommen till Syrien!	hoş	0	0
+Ben bir doktor değilim.	Jag är ingen läkare.	doktor	0	0
+Bunu özel konuşabilir miyiz? Baş başa.	Kan vi prata om det här enskilt? Mellan fyra ögon?	özel	0	0
+Sanna hastanede iki hafta geçirdi.	Sanna har tillbringat två veckor på sjukhuset.	hafta	0	0
+Tom adından nefret ediyor.	Tom hatar sitt namn.	ediyor	0	0
+Tom hâlâ yoğun bakımda.	Tom är fortfarande på intensiven.	hâlâ	0	0
+Onun neden geç kaldığını merak ediyorum.	Jag undrar varför han är sen.	geç	0	0
+Ben sana ne dedim?	Vad var det jag sa?	dedim	0	0
+O mutlu.	Hon är lycklig.	mutlu	0	0
+Vikipedi'ye hoş geldiniz.	Välkommen till Wikipedia.	ye	0	0
+Ondan gerçekten nefret ediyorum.	Jag hatar det verkligen.	ondan	0	0
+Arkadaşım Göteborg’a gitti.	Min vän åkte till Göteborg.	gitti	0	0
+Etrafı kolaçan edin.	Reka omgivningen.	edin	0	0
+Birçok insan bunu yapar.	Många människor gör detta.	insan	0	0
+Onu dün gördüm.	Jag såg henne i går.	gördüm	0	0
+Marx ve Engels nebi değildi.	Marx och Engels var inte profeter.	değildi	0	0
+Onun neden geç kaldığını merak ediyorum.	Jag undrar varför han är sen.	merak	0	0
+Bir sözlüğe ihtiyacım var.	Jag behöver en ordbok.	ihtiyacım	0	0
+Ben dün için özür dilemek istedim.	Jag ville be om ursäkt för gårdagen.	dün	0	0
+Derhal onlara haber salın.	Underrätta dem omedelbart.	haber	0	0
+Benim gerçek babam değil.	Han är inte min riktiga pappa.	babam	0	0
+Sanki Tom uyuyor.	Det ser ut som Tom sover.	sanki	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	En, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	beş	0	0
+Ondan gerçekten nefret ediyorum.	Jag hatar det verkligen.	nefret	0	0
+Denetleme yaptım.	Jag utförde en inspektion.	yaptım	0	0
+Umarım şarkı söylemeyeceksin.	Jag hoppas att du inte kommer att sjunga.	umarım	0	0
+Merak etme, bende.	Oroa dig inte, jag fixar det.	etme	0	0
+Her zaman çok karmaşık olması gerekmiyor.	Det behöver inte alltid vara så komplicerat.	olması	0	0
+Sana ateş ettim.	Jag sköt mot dig.	ettim	0	0
+Kendimi çok yorgun hissediyorum.	Jag känner mig väldigt trött.	kendimi	0	0
+Su 100 santigrat derecede kaynar.	Vatten kokar vid 100 grader Celsius.	su	0	0
+En son ne zaman bir aynada kendine baktın?	När var det senast du tittade dig själv i spegeln?	kendine	0	0
+Carl Linnaeus dünya tarihinin en büyük botanikçisidir.	Carl von Linné är den största botanikern någonsin i världshistorien.	dünya	0	0
+Tom'u her zaman dinlerim.	Jag lyssnar alltid på Tom.	u	0	0
+Tom'a hasta olduğumu söyle.	Säg till Tom att jag är sjuk.	olduğumu	0	0
+Örümceklerin sekiz bacağı vardır.	Spindlar har åtta ben.	vardır	0	0
+Tom orada öldü.	Tom dog där.	öldü	0	0
+Hayvanat bahçesi açık.	Djurparken är öppen.	açık	0	0
+İlk görüşte mi bana aşık oldun?	Blev du kär i mig vid första ögonkastet?	İlk	0	0
+Gelecek istasyonun adı ne?	Vad heter nästa hållplats?	adı	0	0
+Hiç kimse bu işe engel olamaz.	Ingen kan hindra detta.	olamaz	0	0
+Saat dört.	Klockan är fyra.	dört	0	0
+Malmö’ye iki bilet satın aldım.	Jag köpte två biljetter till Malmö.	aldım	0	0
+Yunanca kolay bir dil değildir.	Grekiska är inget enkelt språk.	kolay	0	0
+Keşke ben olsaydım yanında.	Om jag bara varit där.	yanında	0	0
+Gelecek istasyonun adı ne?	Vad heter nästa station?	gelecek	0	0
+Bende dünyadaki her ülkenin bayrağı var.	Jag har alla världens länders flaggor.	bende	0	0
+Siz beraber değil miydiniz?	Var ni inte tillsammans?	beraber	0	0
+bu süpürge çok gürültü yapıyor.	Den här dammsugaren väsnas mycket.	yapıyor	0	0
+Onların torunu Hollanda'da yaşıyor.	Deras syskonbarn bor i Nederländerna.	onların	0	0
+Görünmez mi oldum?	Blev jag osynlig?	oldum	0	0
+Beni takip et.	Följ med mig.	takip	0	0
+Eğer benden gerçekten nefret ediyorsan, öyleyse seni affedemem.	Om du verkligen hatar mig, så kan jag inte förlåta dig.	öyleyse	0	0
+Cumartesi günü H&M’de alışveriş yaptım.	I lördags shoppade jag på H&M.	günü	0	0
+Sana ateş ettim.	Jag sköt mot dig.	ateş	0	0
+O adamın cesedi hâlâ bulunamadı.	Den mannens kropp har fortfarande inte hittats.	adamın	0	0
+O, muhtemelen gelecek.	Hon kommer förmodligen.	muhtemelen	0	0
+Tom benim adım.	Tom är mitt namn.	adım	0	0
+Ben dün için özür dilemek istedim.	Jag ville be om ursäkt för gårdagen.	istedim	0	0
+Köpeğim ev ödevimi yedi.	Min hund åt min läxa.	ev	0	0
+Tom mükemmel.	Tom är perfekt.	mükemmel	0	0
+Biz arkadaş değil miyiz?	Är vi inte vänner?	miyiz	0	0
+Pencereden dışarıya bakarken gelen bir araba gördüm.	När jag tittade ut genom fönstret, såg jag att det kom en bil.	gelen	0	0
+En yakın kütüphane nerede?	Var ligger närmaste bibliotek?	yakın	0	0
+Son olarak, on iki puan Estonya'ya!	Och slutligen, tolv poäng till Estland!	on	0	0
+Haberi duyunca hayal kırıklığına uğradık.	Vi blev väldigt besvikna över att höra nyheterna.	hayal	0	0
+Bu araba hakkında çalıntı ihbarı var.	Den här bilen är rapporterad som stulen.	araba	0	0
+Benim adım Jack.	Mitt namn är Jack.	jack	0	0
+Burada hepimiz profesyonel adamlarız.	Vi är alla professionella här.	hepimiz	0	0
+Müzik benim hayatım.	Musiken är mitt liv.	hayatım	0	0
+Savaş cehennemdir.	Krig är helvetet.	savaş	0	0
+Bay Wilder bana senin e-posta adresini verdi.	Herr Wilder gav mig din e-postadress.	verdi	0	0
+İki sene kadar McDonald's'ta çalıştım.	I ungefär två år jobbade jag på McDonald's.	ta	0	0
+Her şeye burnunu sokma.	Var inte nyfiken i en strut.	şeye	0	0
+O hiçbir şekilde kesin değil.	Detta är långt ifrån säkert.	kesin	0	0
+İki dünya arasında yaşıyorum.	Jag lever mellan två världar.	arasında	0	0
+Arkadaşım Göteborg’a gitti.	Min vän åkte till Göteborg.	arkadaşım	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Ett, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	altı	0	0
+Buradaki çocuğu gördünüz mü?	Såg du barnet som var här?	çocuğu	0	0
+Birazdan hava kararacak.	Snart blir det mörkt.	hava	0	0
+Neler olacağını hep birlikte göreceğiz.	Vi ser vad som händer tillsammans.	olacağını	0	0
+Bunların hepsini bir an önce öğrenmesi gerekiyor.	Han behöver lära sig allt detta så fort som möjligt.	hepsini	0	0
+Günaydın Mike	Godmorgon, Mike.	günaydın	0	0
+Kendimi çok yorgun hissediyorum.	Jag känner mig väldigt trött.	hissediyorum	0	0
+Bina yüksek.	Byggnaden är hög.	yüksek	0	0
+Yunanca kolay bir dil değildir.	Grekiska är inget lätt språk.	değildir	0	0
+Bana kitabın bir özetini çıkar.	Sammanfatta boken åt mig.	çıkar	0	0
+Merhaba Mimi! Nasılsın?	Hej Mimi! Hur mår du?	nasılsın	0	0
+Bunu kendi başıma yapamam.	Jag kan inte göra det ensam.	yapamam	0	0
+Tom'a hasta olduğumu söyle.	Säg till Tom att jag är sjuk.	hasta	0	0
+Paraya ihtiyacın var mı?	Behöver du pengar?	ihtiyacın	0	0
+Şimdi istediğini sorabilirsin.	Nu kan du fråga vad du vill.	istediğini	0	0
+O, loto oynadığında üç milyon kazandı.	Hon vann tre miljoner när hon spelade på lotteri.	milyon	0	0
+Keşke ben olsaydım yanında.	Om jag bara varit där.	keşke	0	0
+Bunu özel konuşabilir miyiz? Baş başa.	Kan vi prata om det här enskilt? Mellan fyra ögon?	baş	0	0
+Konum at.	Skicka mig din position.	at	0	0
+Eğer şarkı yarışmalarıyla sen de ilgileniyorsan, arkadaş olabiliriz.	Om du också är intresserad av sångtävlingar, kan vi vara vänner.	arkadaş	0	0
+Herkesin geçirdiği türden olağan bir soğuk algınlığıydi.	Det var en normal förkylning av den typ som alla får.	herkesin	0	0
+Birçok insan bunu yapar.	Många människor gör detta.	yapar	0	0
+The Beatles, dört müzisyenden oluşmuştur.	Beatles bestod av fyra musiker.	the	0	0
+Kafeteryada kahve içtim.	Jag drack kaffe på caféet.	kahve	0	0
+Bunların hepsini bir an önce öğrenmesi gerekiyor.	Han behöver lära sig allt detta så fort som möjligt.	bunların	0	0
+Amerika geri döndü!	Amerika är tillbaka!	amerika	0	0
+Ufak bir kaza geçirdim.	Jag råkade ut för en liten olycka.	ufak	0	0
+Neden buradayım?	Varför är jag här?	buradayım	0	0
+Tom Mary'nin kaç kilo çektiğini bilmiyor.	Tom vet inte hur mycket Mary väger.	bilmiyor	0	0
+Nefes almaya devam et.	Fortsätt andas.	nefes	0	0
+Hindistan'da birçok nehir vardır.	Det finns många floder i Indien.	birçok	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Jag vill inte att mitt land ska bli medlem i Europeiska unionen.	olmasını	0	0
+Su yüz derecede kaynar.	Vatten kokar vid hundra grader.	yüz	0	0
+Ağzımdan çıkanı duydun.	Du hörde vad jag sa.	duydun	0	0
+Beni davet ettiğinde seni ziyaret edeceğim.	Jag kommer att besöka dig när du bjuder mig.	edeceğim	0	0
+Onlar evi aradılar.	De genomsökte huset.	evi	0	0
+Tom'un düğünümüzde şarkı söylemesini istemiyorum.	Jag vill inte att Tom ska sjunga på vårt bröllop.	şarkı	0	0
+Kızın artık bir çocuk değil.	Din dotter är inte längre ett barn.	kızın	0	0
+Gömlek giyen bir kadın görüyorum.	Jag ser en kvinna som bär en skjorta.	görüyorum	0	0
+Sonraki durak nedir?	Vilken är nästa hållplats?	sonraki	0	0
+Nefes almaya devam et.	Fortsätt andas.	almaya	0	0
+O işler öyle yürümüyor.	Det är inte så det fungerar.	işler	0	0
+Neye yarıyor?	Till vilken nytta?	neye	0	0
+Köpeğe Shiro adını koydular.	De döpte hunden till Shiro.	adını	0	0
+Almancayı anlamıyorum.	Jag förstår inte tyska.	anlamıyorum	0	0
+Günaydın Mike	Godmorgon, Mike.	mike	0	0
+Tom bütün elmaları yedi.	Tom åt alla äpplen.	yedi	0	0
+Tom bana bir not gönderdi.	Tom skickade mig ett meddelande.	tom	0	0
+Buradaki çocuğu gördünüz mü?	Såg du barnet som var här?	buradaki	0	0
+Gerçek arkadaşlığın bedeli yoktur.	Ingenting kan mäta sig med sann vänskap.	yoktur	0	0
+Su temiz değil.	Vattnet är inte rent.	temiz	0	0
+Babası meşhur bir piyanist olan bir arkadaşım var.	Jag har en vän vars far är en känd pianist.	babası	0	0
+Babam, sarnıçta bizi bekliyor.	Min pappa väntar på oss vid cisternen.	bekliyor	0	0
+Müzik benim hayatım.	Musiken är mitt liv.	müzik	0	0
+Suriye'ye hoş geldiniz!	Välkommen till Syrien!	geldiniz	0	0
+Kırmızı bir arabam var.	Jag har en röd bil.	kırmızı	0	0
+Herkesin geçirdiği türden olağan bir soğuk algınlığıydi.	Det var en normal förkylning av den typ som alla får.	soğuk	0	0
+O, süper bir iş yapıyor.	Han gör ett utmärkt jobb.	süper	0	0
+Onların torunu Hollanda'da yaşıyor.	Deras syskonbarn bor i Nederländerna.	yaşıyor	0	0
+Evet neden olmasın !	Ja, varför inte!	olmasın	0	0
+Beni davet ettiğinde seni ziyaret edeceğim.	Jag kommer att besöka dig när du bjuder mig.	davet	0	0
+Benim bir fikrim var.	Jag har en idé.	fikrim	0	0
+İlk görüşte mi bana aşık oldun?	Blev du kär i mig vid första ögonkastet?	aşık	0	0
+Zor günler bizi bekler.	Svåra tider väntar oss.	günler	0	0
+İki sene kadar McDonald's'ta çalıştım.	I ungefär två år jobbade jag på McDonald's.	sene	0	0
+Anlat bakalım, kıvırcık!	Låt höra, krulltott!	anlat	0	0
+Hayatın anlamı nedir?	Vad är meningen med livet?	anlamı	0	0
+Sizi uzun süredir görmedim.	Jag har inte sett er på länge.	görmedim	0	0
+İş arıyorum.	Jag söker arbete.	İş	0	0
+Kapı açık.	Dörren är öppen.	kapı	0	0
+Hemen yola koyulsan iyi olur.	Det är bäst att du ger dig av med det samma.	yola	0	0
+Güneş sıcaktır.	Solen är varm.	güneş	0	0
+Tom, sık sık kız arkadaşının hayalini kurar.	Tom drömmer ofta om sin flickvän.	sık	0	0
+Gurur bir düşüşten önce gider.	Högmod går före fall.	gurur	0	0
+Kalp atıyor.	Hjärtat slår.	kalp	0	0
+İlk görüşte mi bana aşık oldun?	Blev du kär i mig vid första ögonkastet?	oldun	0	0
+Bunu kendi başıma yapamam.	Jag kan inte göra det ensam.	başıma	0	0
+Özbekistan'a gittim.	Jag åkte till Uzbekistan.	gittim	0	0
+Gurur bir düşüşten önce gider.	Högmod går före fall.	gider	0	0
+Uluslararası Kadınlar Günü kutlu olsun!	Glad internationell kvinnodag.	kadınlar	0	0
+Sen benim için 10 kitap okudun.	Du har läst 10 böcker för mig.	kitap	0	0
+Tek kelime konuşmuyor.	Han säger inte ett ord.	kelime	0	0
+Günün nasıldı?	Hur var din dag?	günün	0	0
+O, gidecek.	Det kommer att gå.	gidecek	0	0
+Tom arabayı yıkıyor.	Tom tvättar bilen.	arabayı	0	0
+Malmö’ye iki bilet satın aldım.	Jag köpte två biljetter till Malmö.	satın	0	0
+Zengin misin?	Är du rik?	zengin	0	0
+Tom bira içmez.	Tom dricker inte öl.	bira	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Ett, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	sekiz	0	0
+Görünmez olacak mıyım?	Kommer jag att bli osynlig?	mıyım	0	0
+Adam kadını öldürdü.	Mannen dödade kvinnan.	öldürdü	0	0
+O, yaklaşık bir yumurta büyüklüğündedir.	Det är ungefär lika stort som ett ägg.	yaklaşık	0	0
+Hayatın yaşamaya değer.	Ditt liv är värt att leva.	değer	0	0
+Her hafta içi okula giderim.	Varje vardag går jag till skolan.	okula	0	0
+Mary ebelik okuyor.	Mary läser till barnmorska.	mary	0	0
+Hey! Odamda ne yapıyorsunuz?	Hörni! Vad gör ni i mitt rum?	yapıyorsunuz	0	0
+Evim yolun batı tarafında yer alıyor.	Mitt hus ligger på västra sidan av vägen.	alıyor	0	0
+Susan hiç sigara içmez.	Susan röker aldrig.	sigara	0	0
+Ben Helsinki'de yaşamak istiyorum.	Jag vill bo i Helsingfors.	yaşamak	0	0
+Baklavayı severim.	Jag gillar baklava.	severim	0	0
+Ortadan ikiye ayırdık.	Vi bröt den itu.	ortadan	0	0
+Leanne'nin mavi gözleri var.	Leanne har blå ögon.	mavi	0	0
+Adam kadını öldürdü.	Mannen dödade kvinnan.	kadını	0	0
+Bütçe son derece küçüktür.	Budgeten är extremt liten.	derece	0	0
+Erkekler tuvaleti nerede?	Var finns herrtoaletterna?	erkekler	0	0
+Birazdan hava kararacak.	Snart skymmer det.	birazdan	0	0
+Senin evin büyük.	Ditt hus är stort.	evin	0	0
+Amerika geri döndü!	Amerika är tillbaka!	döndü	0	0
+İki sene kadar McDonald's'ta çalıştım.	I ungefär två år jobbade jag på McDonald's.	çalıştım	0	0
+Keşke yanımda olabilseydin.	Jag önskar att du vore här.	yanımda	0	0
+Başka türlü olmaz.	Det finns inget annat sätt.	türlü	0	0
+Hayatın anlamı nedir?	Vad är meningen med livet?	hayatın	0	0
+Merhaba, ben Tom. Senin adın ne?	Hej, jag är Tom. Vad heter du?	adın	0	0
+Baştan başlayalım.	Låt oss ta det från början.	baştan	0	0
+Bu gerçek bir hikaye.	Det här är en sann historia.	hikaye	0	0
+Zamanım olduğunda, restorana giderim.	När jag har tid, går jag på restaurang.	olduğunda	0	0
+İş arıyorum.	Jag söker arbete.	arıyorum	0	0
+Ufak bir kaza geçirdim.	Jag råkade ut för en liten olycka.	kaza	0	0
+Tom'un bir ailesi var mı?	Har Tom någon familj?	ailesi	0	0
+Buradaki çocuğu gördünüz mü?	Såg du barnet som var här?	gördünüz	0	0
+Çay mı, kahve mi istersin?	Vill du ha te eller kaffe?	çay	0	0
+Beni davet ettiğinde seni ziyaret edeceğim.	Jag kommer att besöka dig när du bjuder mig.	ziyaret	0	0
+Çay mı, kahve mi istersin?	Vill du ha te eller kaffe?	istersin	0	0
+İzlandaca en sevdiğim dil.	Isländska är mitt favoritspråk.	sevdiğim	0	0
+Evim caddenin sol tarafında yer alıyor.	Mitt hus ligger på vänster sida av gatan.	sol	0	0
+Siz kafayı yemişsiniz!	Ni är galna!	kafayı	0	0
+Maliyetinin iki katını veririm.	Jag ger dig det dubbla av vad det kostade.	veririm	0	0
+Tom hapse girmeden önce hasta bakıcısıydı.	Tom var sjukvårdare innan han gick till fängelse.	hapse	0	0
+Çocukların var mı?	Har du barn?	çocukların	0	0
+Ben bir asker değilim.	Jag är ingen soldat.	asker	0	0
+Ne demiştim sana?	Vad var det jag sa?	demiştim	0	0
+Kim kendi dilini sever?	Vem gillar sitt språk?	sever	0	0
+Bunu özel konuşabilir miyiz? Baş başa.	Kan vi prata om det här enskilt? Mellan fyra ögon?	konuşabilir	0	0
+Bilim nedir?	Vad är vetenskap?	bilim	0	0
+Sizi uzun süredir görmedim.	Jag har inte sett er på länge.	süredir	0	0
+Haberi duyunca hayal kırıklığına uğradık.	Vi blev väldigt besvikna över att höra nyheterna.	haberi	0	0
+Senin bir sorunun var.	Du har ett problem.	sorunun	0	0
+Buz gibi suda yüzmeyi denemesi çılgınlıktı.	Det var galet av honom att försöka simma i det iskalla vattnet.	buz	0	0
+Ben zamanında döneceğim.	Jag kommer tillbaka i tid.	zamanında	0	0
+2006 yılında ilk kez yabancı bir dil öğrendim, ve o İngilizceydi.	Under 2006, lärde jag mig för första gången ett främmande språk, och det var engelskan.	yabancı	0	0
+Tom bana bir not gönderdi.	Tom skickade mig ett meddelande.	not	0	0
+Yeşil kuşu besledim.	Jag matade den gröna fågeln.	yeşil	0	0
+Tom'a mektup yazıyorum.	Jag skriver ett brev till Tom.	mektup	0	0
+Ölmek istemiyorum!	Jag vill inte dö!	ölmek	0	0
+Bunu özel konuşabilir miyiz? Baş başa.	Kan vi prata om det här enskilt? Mellan fyra ögon?	başa	0	0
+İş işten geçtikten sonra.	Det är redan försent.	işten	0	0
+Bu ne anlama geliyor?	Vad betyder det?	anlama	0	0
+Baştan başlayalım.	Låt oss ta det från början.	başlayalım	0	0
+Yağmur dindi.	Det har slutat regna.	yağmur	0	0
+Derhal onlara haber salın.	Underrätta dem omedelbart.	derhal	0	0
+Hiç kimse bu işe engel olamaz.	Ingen kan hindra detta.	engel	0	0
+2006 yılında ilk kez yabancı bir dil öğrendim, ve o İngilizceydi.	Under 2006, lärde jag mig för första gången ett främmande språk, och det var engelskan.	öğrendim	0	0
+Hafta sonları hariç her gün spor yapar.	Han tränar varje dag förutom på helgerna.	spor	0	0
+Hiçbir şey imkansız değildir.	Ingenting är omöjligt!	imkansız	0	0
+Bende dünyadaki her ülkenin bayrağı var.	Jag har alla världens länders flaggor.	dünyadaki	0	0
+Günün nasıldı?	Hur var din dag?	nasıldı	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	En, två, tre, fyra, fem, sex, sju, åtta, nio, tio.	dokuz	0	0
+Ben sana sarılmayı özledim.	Jag saknar att krama dig.	özledim	0	0
+Her zaman çok karmaşık olması gerekmiyor.	Det behöver inte alltid vara så komplicerat.	gerekmiyor	0	0
+Hafta sonları hariç her gün spor yapar.	Han tränar varje dag förutom på helgerna.	hariç	0	0
+Hemen harekete geçebilirsiniz.	Du kan börja med detsamma.	harekete	0	0
+Kurt ulur.	Vargen ylar.	kurt	0	0
+Ben zamanında döneceğim.	Jag kommer tillbaka i tid.	döneceğim	0	0
+Tom'a ihanet etmeyeceğim.	Jag ska inte förråda Tom.	ihanet	0	0
+O, okulda Latince öğrendi.	Hon lärde sig latin i skolan.	okulda	0	0
+Kahve yapmamı ister misin?	Vill ni att jag skall koka kaffe?	yapmamı	0	0
+Kar geceleyin yağıyordu.	Snön föll under natten.	kar	0	0
+Birlikte seyahat ettiler.	De reste tillsammans.	ettiler	0	0
+Haberi duyunca hayal kırıklığına uğradık.	Vi blev väldigt besvikna över att höra nyheterna.	kırıklığına	0	0
+Tom Mary'nin ne yapacağını bildiğini söyledi.	Tom sa att han visste vad Maria skulle göra.	yapacağını	0	0
+Sanki Tom uyuyor.	Det ser ut som Tom sover.	uyuyor	0	0
+Yıllardır bu anı bekliyoruz.	Vi har väntat i flera år på det här ögonblicket.	yıllardır	0	0
+Kurşun kalemler düzine halinde satılıyor.	Pennorna säljs dussinvis.	kurşun	0	0
+Evim yolun batı tarafında yer alıyor.	Mitt hus ligger på västra sidan av vägen.	batı	0	0
+Tom Mary'nin kaç kilo çektiğini bilmiyor.	Tom vet inte hur mycket Mary väger.	kilo	0	0
+Ufak bir kaza geçirdim.	Jag råkade ut för en liten olycka.	geçirdim	0	0
+Er ya da geç ayyuka çıkacak.	Förr eller senare kommer det att uppdagas.	çıkacak	0	0
+Keşke ben olsaydım yanında.	Om jag bara varit där.	olsaydım	0	0
+Tom bana bir not gönderdi.	Tom skickade mig ett meddelande.	gönderdi	0	0
+Saat onda onunla buluşacağım.	Jag ska träffa honom klockan tio.	onda	0	0
+Yüzüne bir tebessüm yayıldı.	Ett leende spred sig över hans ansikte.	yüzüne	0	0
+Biz güzel bir şehirde yaşıyoruz.	Vi bor i en vacker stad.	şehirde	0	0
+Emily gözyaşları içerisindeydi.	Emily var i tårar.	emily	0	0
+Cumartesi günü H&M’de alışveriş yaptım.	I lördags shoppade jag på H&M.	cumartesi	0	0
+Televizyon kumandaları nasıl çalışır?	Hur fungerar fjärrkontrollerna?	televizyon	0	0
+Senin ailen biziz.	Vi är din familj.	ailen	0	0
+O adamın cesedi hâlâ bulunamadı.	Den mannens kropp har fortfarande inte hittats.	cesedi	0	0
+Tom yoğun bakımda.	Tom är på intensiven.	yoğun	0	0
+Zamanın var mı?	Har du tid?	zamanın	0	0
+Evim yolun batı tarafında yer alıyor.	Mitt hus ligger på västra sidan av vägen.	yolun	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Jag vill inte att mitt land ska bli medlem i Europeiska unionen.	avrupa	0	0
+Mavi spor araba durma noktasına geldi.	Den blåa sportbilen bromsade så att däcken skrek.	durma	0	0
+Nasıl hissediyorsun, Tom?	Hur känner du dig, Tom?	hissediyorsun	0	0
+O bir Ferrari sürer.	Han kör en Ferrari.	sürer	0	0
+Paraya ihtiyacın var mı?	Behöver du pengar?	paraya	0	0
+Şimdi Kyoto'da yaşıyorum.	Jag bor nu i Kyoto.	yaşıyorum	0	0
+Yakaladım seni!	Jag tog dig!	yakaladım	0	0
+Su 100 santigrat derecede kaynar.	Vatten kokar vid 100 grader Celsius.	derecede	0	0
+Her hafta içi okula giderim.	Varje vardag går jag till skolan.	giderim	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Jag vill inte att mitt land ska bli medlem i Europeiska unionen.	üyesi	0	0
+Sanna hastanede iki hafta geçirdi.	Sanna har tillbringat två veckor på sjukhuset.	hastanede	0	0
+Burada hepimiz profesyonel adamlarız.	Vi är alla professionella här.	profesyonel	0	0
+Mısır Nil'in hediyesidir.	Egypten är en gåva av Nilen.	mısır	0	0
+Yapabileceğim bir şey var mı?	Finns det något jag kan göra?	yapabileceğim	0	0
+Carl Linnaeus dünya tarihinin en büyük botanikçisidir.	Carl von Linné är den största botanikern någonsin i världshistorien.	carl	0	0
+Birlikte seyahat ettiler.	De reste tillsammans.	seyahat	0	0
+Eğer zamanım olmazsa, seninle gelemeyeceğim.	Om jag inte har tid, kommer jag inte att kunna komma med dig.	olmazsa	0	0
+Geceleri gözüme uyku girmiyor.	Jag kan inte sova på nätterna.	uyku	0	0
+Evim yolun batı tarafında yer alıyor.	Mitt hus ligger på västra sidan av vägen.	evim	0	0
+Zamanım olduğunda, restorana giderim.	När jag har tid, går jag på restaurang.	zamanım	0	0
+Evim yolun batı tarafında yer alıyor.	Mitt hus ligger på västra sidan av vägen.	tarafında	0	0
+Geceleri gözüme uyku girmiyor.	Jag kan inte sova på nätterna.	geceleri	0	0
+Cumartesi günü H&M’de alışveriş yaptım.	I lördags shoppade jag på H&M.	alışveriş	0	0
+O, yaklaşık bir yumurta büyüklüğündedir.	Det är ungefär lika stort som ett ägg.	yumurta	0	0
+Her zaman çok karmaşık olması gerekmiyor.	Det behöver inte alltid vara så komplicerat.	karmaşık	0	0
+Susan hiç sigara içmez.	Susan röker aldrig.	susan	0	0
+Leanne'nin mavi gözleri var.	Leanne har blå ögon.	gözleri	0	0
+Yıllardır bu anı bekliyoruz.	Vi har väntat i flera år på det här ögonblicket.	anı	0	0
+Babanı ben öldürdüm.	Jag dödade din far.	öldürdüm	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Jag vill inte att mitt land ska bli medlem i Europeiska unionen.	birliği	0	0
+Ben ateşi söndürdüm.	Jag släckte elden.	ateşi	0	0
+Neler olacağını hep birlikte göreceğiz.	Vi ser vad som händer tillsammans.	göreceğiz	0	0
+Her gün yeni bir gündür.	Varje dag är en ny dag.	gündür	0	0
+Çok vaktim var.	Jag har mycket tid.	vaktim	0	0
+Eğer bu yarışmayı kazanırsan İsveç’e gideceksin.	Om du vinner denna tävling, kommer du att åka till Sverige.	gideceksin	0	0
+Tom Mary'nin ne yapacağını bildiğini söyledi.	Tom sa att han visste vad Maria skulle göra.	bildiğini	0	0
+Babanı ben öldürdüm.	Jag dödade din far.	babanı	0	0
+Kapı yavaşça açıldı.	Dörren öppnades långsamt.	yavaşça	0	0
+Bir doktora görünmeniz gerek.	Du måste besöka en läkare.	doktora	0	0
+Bakış açımızı değiştirmeliyiz.	Vi måste ändra vår synvinkel.	bakış	0	0
+Sanna hastanede iki hafta geçirdi.	Sanna har tillbringat två veckor på sjukhuset.	geçirdi	0	0
+Yıllardır bu anı bekliyoruz.	Vi har väntat i flera år på det här ögonblicket.	bekliyoruz	0	0
+Kendimi çok yorgun hissediyorum.	Jag känner mig väldigt trött.	yorgun	0	0
+Kurşun kalemler düzine halinde satılıyor.	Pennorna säljs dussinvis.	halinde	0	0
+Er ya da geç ayyuka çıkacak.	Förr eller senare kommer det att uppdagas.	er	0	0
+Oğlan atlıyor.	Pojken hoppar.	oğlan	0	0
+Ben Finim ama İsveççe de konuşuyorum.	Jag är finsk, men jag talar svenska också.	konuşuyorum	0	0
+Malmö’ye iki bilet satın aldım.	Jag köpte två biljetter till Malmö.	bilet	0	0
+Otobüs tıklım tıklımdı.	Bussen var fullproppad.	otobüs	0	0
+Bir defter çıkardı.	Han tog upp en anteckningsbok.	çıkardı	0	0
+Eğer şarkı yarışmalarıyla sen de ilgileniyorsan, arkadaş olabiliriz.	Om du också är intresserad av sångtävlingar, kan vi vara vänner.	olabiliriz	0	0
+Boğazım kuru.	Jag är torr i halsen.	kuru	0	0
+Sadece birkaç sorum var.	Jag har endast ett par frågor.	sorum	0	0
+O bir kadın oyuncu.	Hon är skådespelerska.	oyuncu	0	0
+O, loto oynadığında üç milyon kazandı.	Hon vann tre miljoner när hon spelade på lotteri.	kazandı	0	0
+Bebeğin adı Tom.	Babyn heter Tom.	bebeğin	0	0
+Neye yarıyor?	Till vilken nytta?	yarıyor	0	0
+Bu atın adı ne?	Vad heter hästen?	atın	0	0
+Arabadan iner misiniz?	Är du snäll och kommer ut ur bilen?	arabadan	0	0
+Ne hâlde olduğumu görmüyor musun?	Ser du inte hur jag mår?	hâlde	0	0
+Ne hâlde olduğumu görmüyor musun?	Ser du inte hur jag mår?	görmüyor	0	0
+Bende dünyadaki her ülkenin bayrağı var.	Jag har alla världens länders flaggor.	ülkenin	0	0
+Ondan gözünü ayırma.	Håll ett öga på honom.	gözünü	0	0
+O biraz korkak.	Han är lite av en fegis.	korkak	0	0
+Arkadaşının adı ne?	Vad heter din vän?	arkadaşının	0	0
+En yakın tuvalet nerede?	Var är närmaste toalett?	tuvalet	0	0
+Her hafta içi okula giderim.	Varje vardag går jag till skolan.	içi	0	0
+Onları görebilir miyim?	Får jag se dem?	görebilir	0	0
+Kalp atıyor.	Hjärtat slår.	atıyor	0	0
+Hayatın yaşamaya değer.	Ditt liv är värt att leva.	yaşamaya	0	0
+Bina yüksek.	Byggnaden är hög.	bina	0	0
+Şişko seni!	Ditt fetto!	şişko	0	0
+2006 yılında ilk kez yabancı bir dil öğrendim, ve o İngilizceydi.	Under 2006, lärde jag mig för första gången ett främmande språk, och det var engelskan.	yılında	0	0
+Pencereden dışarıya bakarken gelen bir araba gördüm.	När jag tittade ut genom fönstret, såg jag att det kom en bil.	dışarıya	0	0
+Etrafı kolaçan edin.	Reka omgivningen.	etrafı	0	0
+Bugün üç kez yedim.	Idag har jag ätit tre gånger.	yedim	0	0
+Televizyon kumandaları nasıl çalışır?	Hur fungerar fjärrkontrollerna?	çalışır	0	0
+Dalların arasına bir sincap saklandı.	En ekorre gömde sig bland grenarna.	arasına	0	0
+Ona bir vasi tayin ederler.	De kommer att utse en förmyndare till honom.	ederler	0	0
+Benim gittiğim yerler seni pek açmaz.	Ställena jag går till faller dig inte i smaken.	yerler	0	0
+Tom'a ihanet etmeyeceğim.	Jag ska inte förråda Tom.	etmeyeceğim	0	0
+Kimçi geleneksel bir Kore yemeğidir.	Kimchi är en traditionell koreansk maträtt.	kore	0	0
+Sami hep oradaydı.	Sami var där borta hela tiden.	oradaydı	0	0
+O gazete okuyor.	Han läser tidningen.	gazete	0	0
+Uluslararası Kadınlar Günü kutlu olsun!	Glad internationell kvinnodag.	uluslararası	0	0
+Güzel bir kentte yaşıyoruz.	Vi bor i en vacker stad.	yaşıyoruz	0	0
+Üzerimden bir yük kalktı.	En sten föll från mitt hjärta.	yük	0	0
+Ebeveynlerimle temas kurdum.	Jag tog kontakt med mina föräldrar.	temas	0	0
+Bana kardeşimin katilinin adını ver.	Ge mig namnet på min brors mördare.	kardeşimin	0	0
+Pastaların ikisini de beğenmedim.	Jag gillar varken den ena eller den andra kakan.	ikisini	0	0
+Herkesin geçirdiği türden olağan bir soğuk algınlığıydi.	Det var en normal förkylning av den typ som alla får.	türden	0	0
+Başka kim buradaydı?	Vem annan var här inne?	buradaydı	0	0
+Her şeye burnunu sokma.	Var inte nyfiken i en strut.	burnunu	0	0
+Ben dün için özür dilemek istedim.	Jag ville be om ursäkt för gårdagen.	dilemek	0	0
+Son olarak, on iki puan Estonya'ya!	Och slutligen, tolv poäng till Estland!	puan	0	0
+bu süpürge çok gürültü yapıyor.	Den här dammsugaren väsnas mycket.	gürültü	0	0
+2006 yılında ilk kez yabancı bir dil öğrendim, ve o İngilizceydi.	Under 2006, lärde jag mig för första gången ett främmande språk, och det var engelskan.	dil	0	0
+Babası meşhur bir piyanist olan bir arkadaşım var.	Jag har en vän vars far är en känd pianist.	meşhur	0	0
+Kıvırcık saçlı bir çocuğu gördünüz mü?	Har du sett ett barn med lockigt hår?	saçlı	0	0
+Pencereden dışarıya bakarken gelen bir araba gördüm.	När jag tittade ut genom fönstret, såg jag att det kom en bil.	pencereden	0	0
+Kırmızı bir arabam var.	Jag har en röd bil.	arabam	0	0
+Görünmez olacak mıyım?	Kommer jag att bli osynlig?	görünmez	0	0
+Siz beraber değil miydiniz?	Var ni inte tillsammans?	miydiniz	0	0
+Ortadan ikiye ayırdık.	Vi bröt den itu.	ikiye	0	0
+Uluslararası Kadınlar Günü kutlu olsun!	Glad internationell kvinnodag.	kutlu	0	0
+Hindistan'da birçok nehir vardır.	Det finns många floder i Indien.	nehir	0	0
+Çiçekler sarıdır.	Blommorna är gula.	çiçekler	0	0
+Onun neden geç kaldığını merak ediyorum.	Jag undrar varför han är sen.	kaldığını	0	0
+Kapı yavaşça açıldı.	Dörren öppnades långsamt.	açıldı	0	0
+Kurşun kalemler düzine halinde satılıyor.	Pennorna säljs dussinvis.	düzine	0	0
+Sen benim için 10 kitap okudun.	Du har läst 10 böcker för mig.	okudun	0	0
+Büyük bir sandalye istiyorum.	Jag vill ha en stor stol.	sandalye	0	0
+Haydi Minecraft oynayalım!	Låt oss spela Minecraft!	oynayalım	0	0
+Senin ailen biziz.	Vi är din familj.	biziz	0	0
+Kurallara uy.	Följ reglerna.	kurallara	0	0
+Tom çalışmayı reddediyor.	Tom vägrar att arbeta.	çalışmayı	0	0
+Hey! Odamda ne yapıyorsunuz?	Hörni! Vad gör ni i mitt rum?	odamda	0	0
+O, çalışacak.	Det kommer att fungera.	çalışacak	0	0
+Bu yıldızlar hakkında bir kitaptır.	Detta är en bok om stjärnor.	yıldızlar	0	0
+Üzgünüm, ama seni iyi duyamıyorum.	Förlåt, men jag hör dig inte så bra.	duyamıyorum	0	0
+Zor günler bizi bekler.	Svåra tider väntar oss.	bekler	0	0
+Gerçek arkadaşlığın bedeli yoktur.	Ingenting kan mäta sig med sann vänskap.	bedeli	0	0
+Yeşil kuşu besledim.	Jag matade den gröna fågeln.	kuşu	0	0
+O, okulda Latince öğrendi.	Hon lärde sig latin i skolan.	öğrendi	0	0
+Kimçi geleneksel bir Kore yemeğidir.	Kimchi är en traditionell koreansk maträtt.	geleneksel	0	0
+Kim kendi dilini sever?	Vem gillar sitt språk?	dilini	0	0
+Stockholm’de bir kafeteryada bir fincan kahve içtim.	Jag drack en kopp kaffe på ett café i Stockholm.	fincan	0	0
+Konya treni saat kaçta kalkıyor?	Vilken tid avgår Konya-tåget?	treni	0	0
+Bay Wilder bana senin e-posta adresini verdi.	Herr Wilder gav mig din e-postadress.	adresini	0	0
+Bu kitabın yazarı hiç Rusya'da bulunmamış.	Författaren av denna bok har aldrig varit i Ryssland.	kitabın	0	0
+Hayvanat bahçesi açık.	Djurparken är öppen.	hayvanat	0	0
+Gökyüzü griydi.	Himlen var grå.	gökyüzü	0	0
+Bu araba hakkında çalıntı ihbarı var.	Den här bilen är rapporterad som stulen.	çalıntı	0	0
+Konya treni saat kaçta kalkıyor?	Vilken tid avgår Konya-tåget?	kaçta	0	0
+En son ne zaman bir aynada kendine baktın?	När var det senast du tittade dig själv i spegeln?	baktın	0	0
+Tom'a mektup yazıyorum.	Jag skriver ett brev till Tom.	yazıyorum	0	0
+Kafeteryada kahve içtim.	Jag drack kaffe på caféet.	içtim	0	0
+Dün bilmediğimiz bir şey öğrendik.	Vi lärde oss något vi inte visste igår.	öğrendik	0	0
+Haberi duyunca hayal kırıklığına uğradık.	Vi blev väldigt besvikna över att höra nyheterna.	duyunca	0	0
+Buz gibi suda yüzmeyi denemesi çılgınlıktı.	Det var galet av honom att försöka simma i det iskalla vattnet.	suda	0	0
+Yağış kesildi.	Det har slutat regna.	kesildi	0	0
+Restoran çok temizdi.	Restaurangen var väldigt ren.	restoran	0	0
+Beni davet ettiğinde seni ziyaret edeceğim.	Jag kommer att besöka dig när du bjuder mig.	ettiğinde	0	0
+Tek kelime konuşmuyor.	Han säger inte ett ord.	konuşmuyor	0	0
+Bu işe karışma.	Lägg dig inte i.	karışma	0	0
+Üzerimden bir yük kalktı.	En sten föll från mitt hjärta.	üzerimden	0	0
+Bu sınav o kadar zor değil.	Denna tenta är inte så svår.	sınav	0	0
+Ben Meryem.	Jag är Maria.	meryem	0	0
+Üzerimden bir yük kalktı.	En sten föll från mitt hjärta.	kalktı	0	0
+O benim büyükannem.	Hon är min mormor.	büyükannem	0	0
+Bay Wilder bana senin e-posta adresini verdi.	Herr Wilder gav mig din e-postadress.	e-posta	0	0
+Benim gittiğim yerler seni pek açmaz.	Ställena jag går till faller dig inte i smaken.	gittiğim	0	0
+Tom, sık sık kız arkadaşının hayalini kurar.	Tom drömmer ofta om sin flickvän.	hayalini	0	0
+Mary ebelik okuyor.	Mary läser till barnmorska.	okuyor	0	0
+Benim adım Sasha'dır.	Mitt namn är Sasja.	dır	0	0
+Neredeyim?	Var är jag?	neredeyim	0	0
+Gömlek giyen bir kadın görüyorum.	Jag ser en kvinna som bär en skjorta.	gömlek	0	0
+O bir aktör.	Hon är skådespelerska.	aktör	0	0
+Meraklı değilim.	Jag är inte intresserad.	meraklı	0	0
+Geceleri gözüme uyku girmiyor.	Jag kan inte sova på nätterna.	gözüme	0	0
+Tom hapse girmeden önce hasta bakıcısıydı.	Tom var sjukvårdare innan han gick till fängelse.	girmeden	0	0
+Onlar evi aradılar.	De genomsökte huset.	aradılar	0	0
+Herkesin geçirdiği türden olağan bir soğuk algınlığıydi.	Det var en normal förkylning av den typ som alla får.	olağan	0	0
+Buna hiç şaşırmadım.	Det förvånar mig inte det minsta.	şaşırmadım	0	0
+Hayvanat bahçesi açık.	Djurparken är öppen.	bahçesi	0	0
+Gök kırmızıydı.	Himlen var röd.	gök	0	0
+Artık yaşayamam.	Jag kan inte längre leva.	yaşayamam	0	0
+Tom Mary'nin kaç kilo çektiğini bilmiyor.	Tom vet inte hur mycket Mary väger.	çektiğini	0	0
+Pencereden dışarıya bakarken gelen bir araba gördüm.	När jag tittade ut genom fönstret, såg jag att det kom en bil.	bakarken	0	0
+Konya treni saat kaçta kalkıyor?	Vilken tid avgår Konya-tåget?	kalkıyor	0	0
+Mavi spor araba durma noktasına geldi.	Den blåa sportbilen bromsade så att däcken skrek.	noktasına	0	0
+Bu Cenab-ı Allah'ın bir sınavı.	Detta är en prövning från Gud.	sınavı	0	0
+Kadınlar tuvaleti nerede?	Var finns damtoaletterna?	tuvaleti	0	0
+Gömlek giyen bir kadın görüyorum.	Jag ser en kvinna som bär en skjorta.	giyen	0	0
+Bilmediğin çok şey var.	Det finns mycket du inte vet.	bilmediğin	0	0
+Benim adım Andrea.	Mitt namn är Andrea.	andrea	0	0
+Ondan gözünü ayırma.	Håll ett öga på honom.	ayırma	0	0
+Ebeveynlerimle temas kurdum.	Jag tog kontakt med mina föräldrar.	kurdum	0	0
+Bu bir Türk geleneğidir.	Det här är en turkisk tradition.	türk	0	0
+Bir restoranda yiyorum.	Jag äter på en restaurang.	yiyorum	0	0
+Büyük bir köpeğim var.	Jag har en stor hund.	köpeğim	0	0
+Onu bu işe karıştırma.	Blanda inte in honom i detta.	karıştırma	0	0
+Maja Keuc Sloven şarkıcı.	Maja Keuc är en slovensk sångerska.	şarkıcı	0	0
+Havaalanı nerede?	Var ligger flygplatsen?	havaalanı	0	0
+Bu kitabın yazarı hiç Rusya'da bulunmamış.	Denna boks författare har aldrig varit i Ryssland.	yazarı	0	0
+Bu, kötü bir fikirdi.	Detta var en dålig idé.	fikirdi	0	0
+Bu kısmen benim hatamdı.	Det var delvis mitt fel.	hatamdı	0	0
+Her şeyi sırayla anlatacağız.	Vi kommer att förklara det steg för steg.	sırayla	0	0
+Bir restoranda yiyorum.	Jag äter på en restaurang.	restoranda	0	0
+Bu kısmen benim hatamdı.	Det var delvis mitt fel.	kısmen	0	0
+Saat onda onunla buluşacağım.	Jag ska träffa honom klockan tio.	buluşacağım	0	0
+Evim caddenin sol tarafında yer alıyor.	Mitt hus ligger på vänster sida av gatan.	caddenin	0	0
+Örümceklerin sekiz bacağı vardır.	Spindlar har åtta ben.	bacağı	0	0
+En yakın kütüphane nerede?	Var ligger närmaste bibliotek?	kütüphane	0	0
+Sigara içmeyi bilmiyorum.	Jag kan inte röka.	içmeyi	0	0
+Ağzımdan çıkanı duydun.	Du hörde vad jag sa.	ağzımdan	0	0
+Yarın buluşacağız.	Vi kommer att träffas imorgon.	buluşacağız	0	0
+O zaman hiç beklemeye gerek yok.	I så fall finns det inget behov av att vänta.	beklemeye	0	0
+Hafta sonları hariç her gün spor yapar.	Han tränar varje dag förutom på helgerna.	sonları	0	0
+Köpeğe Shiro adını koydular.	De döpte hunden till Shiro.	köpeğe	0	0
+Odan nerede?	Var är ditt rum?	odan	0	0
+Eviniz büyük.	Ert hus är stort.	eviniz	0	0
+Herkesin geçirdiği türden olağan bir soğuk algınlığıydi.	Det var en normal förkylning av den typ som alla får.	geçirdiği	0	0
+Fince konuşmuyorum.	Jag talar inte finska.	konuşmuyorum	0	0
+Çok fazla zamanınızı almayacağım.	Jag kommer inte att ta alltför mycket av din tid.	almayacağım	0	0
+Sonraki durak nedir?	Vilken är nästa hållplats?	durak	0	0
+Tom çalışmayı reddediyor.	Tom vägrar att arbeta.	reddediyor	0	0
+O, vanilyadan hoşlanmaz.	Hon hatade vanilj.	hoşlanmaz	0	0
+Uyanın Avrupalılar, savaş kapılarınızda.	Vakna upp européer, kriget står vid era dörrar.	uyanın	0	0
+Onların ekmeği var.	De har bröd.	ekmeği	0	0
+Her şeye burnunu sokma.	Var inte nyfiken i en strut.	sokma	0	0
+Hollanda küçük bir ülkedir.	Nederländerna är ett litet land.	hollanda	0	0
+Maliyetinin iki katını veririm.	Jag ger dig det dubbla av vad det kostade.	katını	0	0
+Şimdi bana mı tavır yapıyorsun?	Drygar du dig mot mig nu?	tavır	0	0
+Bütçe son derece küçüktür.	Budgeten är extremt liten.	bütçe	0	0
+Emily gözyaşları içerisindeydi.	Emily var i tårar.	gözyaşları	0	0
+Zamanım olduğunda, restorana giderim.	När jag har tid, går jag på restaurang.	restorana	0	0
+Dün bilmediğimiz bir şey öğrendik.	Vi lärde oss något vi inte visste igår.	bilmediğimiz	0	0
+Eğer benden gerçekten nefret ediyorsan, öyleyse seni affedemem.	Om du verkligen hatar mig, så kan jag inte förlåta dig.	ediyorsan	0	0
+Dalların arasına bir sincap saklandı.	En ekorre gömde sig bland grenarna.	sincap	0	0
+Onu nasıl tanıdın?	Hur lärde du känna henne?	tanıdın	0	0
+Bende dünyadaki her ülkenin bayrağı var.	Jag har alla världens länders flaggor.	bayrağı	0	0
+İsveççe öğreniyorum.	Jag lär mig svenska.	öğreniyorum	0	0
+Carl Linnaeus dünya tarihinin en büyük botanikçisidir.	Carl von Linné är den största botanikern någonsin i världshistorien.	tarihinin	0	0
+Konum at.	Skicka mig din position.	konum	0	0
+Ona bir vasi tayin ederler.	De kommer att utse en förmyndare till honom.	tayin	0	0
+Köpeğe Shiro adını koydular.	De döpte hunden till Shiro.	koydular	0	0
+Kati Wolf Macar şarkıcı.	Kati Wolf är en ungersk sångerska.	wolf	0	0
+Şimdi istediğini sorabilirsin.	Nu kan du fråga vad du vill.	sorabilirsin	0	0
+Rüyasında üç nesne görmüştü.	Han såg tre ting i sin dröm.	nesne	0	0
+O, okulda Latince öğrendi.	Hon lärde sig latin i skolan.	latince	0	0
+Benim asabımı bozma.	Gå mig inte på nerverna.	bozma	0	0
+Büyük oğlanlar ağlamaz.	Stora pojkar gråter inte.	oğlanlar	0	0
+Pastaların ikisini de beğenmedim.	Jag gillar varken den ena eller den andra kakan.	beğenmedim	0	0
+Bunu yiyebilir miyim?	Får jag äta detta?	yiyebilir	0	0
+Bunların hepsini bir an önce öğrenmesi gerekiyor.	Han behöver lära sig allt detta så fort som möjligt.	öğrenmesi	0	0
+Tom'un düğünümüzde şarkı söylemesini istemiyorum.	Jag vill inte att Tom ska sjunga på vårt bröllop.	söylemesini	0	0
+Uzatma!	Släpp det!	uzatma	0	0
+Merhaba Mimi! Nasılsın?	Hej Mimi! Hur mår du?	mimi	0	0
+Mississippi nerede?	Var ligger Mississippi?	mississippi	0	0
+O adamın cesedi hâlâ bulunamadı.	Den mannens kropp har fortfarande inte hittats.	bulunamadı	0	0
+O bir Ferrari sürer.	Han kör en Ferrari.	ferrari	0	0
+"Seni seçiyorum." "Neden ben?"	”Jag väljer dig.” ”Varför mig?”	seçiyorum	0	0
+Bir defter çıkardı.	Hon tog upp en anteckningsbok.	defter	0	0
+O işler öyle yürümüyor.	Det är inte så det fungerar.	yürümüyor	0	0
+Eğer beni affetmezsen, seninle gelmeyeceğim.	Om du inte förlåter mig, kommer jag inte att komma med dig.	gelmeyeceğim	0	0
+Arabadan iner misiniz?	Är du snäll och kommer ut ur bilen?	iner	0	0
+İş işten geçtikten sonra.	Det är redan försent.	geçtikten	0	0
+Eğer bu yarışmayı kazanırsan İsveç’e gideceksin.	Om du vinner denna tävling, kommer du att åka till Sverige.	yarışmayı	0	0
+Kitabım yenidir.	Min bok är ny.	kitabım	0	0
+Umarım şarkı söylemeyeceksin.	Jag hoppas att du inte kommer att sjunga.	söylemeyeceksin	0	0
+Onların torunu Hollanda'da yaşıyor.	Deras syskonbarn bor i Nederländerna.	torunu	0	0
+bu süpürge çok gürültü yapıyor.	Den här dammsugaren väsnas mycket.	süpürge	0	0
+Yüzüne bir tebessüm yayıldı.	Ett leende spred sig över hans ansikte.	yayıldı	0	0
+Haberi duyunca hayal kırıklığına uğradık.	Vi blev väldigt besvikna över att höra nyheterna.	uğradık	0	0
+Kar geceleyin yağıyordu.	Snön föll under natten.	geceleyin	0	0
+Çok fazla zamanınızı almayacağım.	Jag kommer inte att ta alltför mycket av din tid.	zamanınızı	0	0
+Örümceklerin kulakları yoktur.	Spindlar har inga öron.	kulakları	0	0
+Kıvırcık saçlı bir çocuğu gördünüz mü?	Har du sett ett barn med lockigt hår?	kıvırcık	0	0
+İlk görüşte mi bana aşık oldun?	Blev du kär i mig vid första ögonkastet?	görüşte	0	0
+Bu toplumsal bir problemdir.	Det är ett samhällsproblem.	toplumsal	0	0
+En son ne zaman bir aynada kendine baktın?	När var det senast du tittade dig själv i spegeln?	aynada	0	0
+Rüyasında üç nesne görmüştü.	Han såg tre ting i sin dröm.	görmüştü	0	0
+Sık sık ağlar mısın?	Gråter du ofta?	ağlar	0	0
+Bu araba hakkında çalıntı ihbarı var.	Den här bilen är rapporterad som stulen.	ihbarı	0	0
+Ağzımdan çıkanı duydun.	Du hörde vad jag sa.	çıkanı	0	0
+Tüm kuşların gagası vardır.	Alla fåglar har näbb.	kuşların	0	0
+Ağzım sulandı.	Det började vattnas i munnen på mig.	ağzım	0	0
+Tom bir vejetaryen değil.	Tom är inte vegetarian.	vejetaryen	0	0
+Cezayir benim ülkem.	Algeriet är mitt land.	ülkem	0	0
+Bir bu eksikti!	Det var bara det som fattades!	eksikti	0	0
+The Beatles, dört müzisyenden oluşmuştur.	Beatles bestod av fyra musiker.	beatles	0	0
+Onun ulusu nedir?	Vad är hans nationalitet?	ulusu	0	0
+Onun fırçası çok ağırıma gitti.	Hans utskällning gjorde mig väldigt sårad.	fırçası	0	0
+Sigara içebilir miyim?	Får jag röka?	içebilir	0	0
+Gözüme uyku girmiyor.	Jag kan inte sova.	girmiyor	0	0
+Cezayir benim ülkem.	Algeriet är mitt land.	cezayir	0	0
+Linux kurun!	Installera Linux!	kurun	0	0
+Niye yemiyorsun?	Varför äter du inte?	yemiyorsun	0	0
+Marx ve Engels nebi değildi.	Marx och Engels var inte profeter.	marx	0	0
+Eğer bu yarışmayı kazanırsan İsveç’e gideceksin.	Om du vinner denna tävling, kommer du att åka till Sverige.	kazanırsan	0	0
+Otobüs durağı nerede?	Var är busshållplatsen?	durağı	0	0
+Buz gibi suda yüzmeyi denemesi çılgınlıktı.	Det var galet av honom att försöka simma i det iskalla vattnet.	yüzmeyi	0	0
+Tom'u her zaman dinlerim.	Jag lyssnar alltid på Tom.	dinlerim	0	0
+Dilimizi bozmaya uğraşıyorlar.	De försöker förstöra vårt språk.	bozmaya	0	0
+Köpeğim ev ödevimi yedi.	Min hund åt min läxa.	ödevimi	0	0
+Eğer zamanım olmazsa, seninle gelemeyeceğim.	Om jag inte har tid, kommer jag inte att kunna komma med dig.	gelemeyeceğim	0	0
+Tom bir milyarder.	Tom är miljardär.	milyarder	0	0
+Etrafı kolaçan edin.	Reka omgivningen.	kolaçan	0	0
+Buz gibi suda yüzmeyi denemesi çılgınlıktı.	Det var galet av honom att försöka simma i det iskalla vattnet.	denemesi	0	0
+Kurşun kalemler düzine halinde satılıyor.	Pennorna säljs dussinvis.	satılıyor	0	0
+Miyav.	Mjau.	miyav	0	0
+Kati Wolf Macar şarkıcı.	Kati Wolf är en ungersk sångerska.	macar	0	0
+Bay Wilder bana senin e-posta adresini verdi.	Herr Wilder gav mig din e-postadress.	wilder	0	0
+Tom bira içmez.	Tom dricker inte öl.	içmez	0	0
+Tom, sık sık kız arkadaşının hayalini kurar.	Tom drömmer ofta om sin flickvän.	kurar	0	0
+Tavsiyeme uy.	Följ mitt råd.	uy	0	0
+Tom şokta.	Tom är i chock.	şokta	0	0
+Rüyasında üç nesne görmüştü.	Han såg tre ting i sin dröm.	rüyasında	0	0
+Boğazım kuru.	Jag är torr i halsen.	boğazım	0	0
+Hedefimize ulaşacağız.	Vi kommer att nå vårt mål.	ulaşacağız	0	0
+Tom yoğun bakımda.	Tom är på intensiven.	bakımda	0	0
+Ankara Türkiye'nin başkentidir.	Ankara är Turkiets huvudstad.	ankara	0	0
+Tom arabayı yıkıyor.	Tom tvättar bilen.	yıkıyor	0	0
+Tom'un bir ineği var.	Tom har en ko.	ineği	0	0
+Kar geceleyin yağıyordu.	Snön föll under natten.	yağıyordu	0	0
+Dilimizi bozmaya uğraşıyorlar.	De försöker förstöra vårt språk.	dilimizi	0	0
+Benim vicdanım temizdir.	Mitt samvete är rent.	vicdanım	0	0
+Benim gittiğim yerler seni pek açmaz.	Ställena jag går till faller dig inte i smaken.	açmaz	0	0
+Yunanca kolay bir dil değildir.	Grekiska är inget enkelt språk.	yunanca	0	0
+Denetleme yaptım.	Jag utförde en inspektion.	denetleme	0	0
+Bana kardeşimin katilinin adını ver.	Ge mig namnet på min brors mördare.	katilinin	0	0
+Su yüz derecede kaynar.	Vatten kokar vid hundra grader.	kaynar	0	0
+Ali'nin dedesi marangozdu.	Alis farfar var snickare.	dedesi	0	0
+Dilimizi bozmaya uğraşıyorlar.	De försöker förstöra vårt språk.	uğraşıyorlar	0	0
+Tom başarılıydı.	Tom var framgångsrik.	başarılıydı	0	0
+Mülkiyet hırsızlıktır.	Egendom är stöld.	mülkiyet	0	0
+Örümcekler ağlar örerler.	Spindlar spinner nät.	örümcekler	0	0
+Kafeteryada kahve içtim.	Jag drack kaffe på caféet.	kafeteryada	0	0
+O, loto oynadığında üç milyon kazandı.	Hon vann tre miljoner när hon spelade på lotteri.	loto	0	0
+Her şeyi sırayla anlatacağız.	Vi kommer att förklara det steg för steg.	anlatacağız	0	0
+Kati Wolf Macar şarkıcı.	Kati Wolf är en ungersk sångerska.	kati	0	0
+Oğlan atlıyor.	Pojken hoppar.	atlıyor	0	0
+Dalların arasına bir sincap saklandı.	En ekorre gömde sig bland grenarna.	saklandı	0	0
+Hemen harekete geçebilirsiniz.	Du kan börja med detsamma.	geçebilirsiniz	0	0
+Restoran çok temizdi.	Restaurangen var väldigt ren.	temizdi	0	0
+Bakış açımızı değiştirmeliyiz.	Vi måste ändra vår synvinkel.	değiştirmeliyiz	0	0
+Tom adından nefret ediyor.	Tom hatar sitt namn.	adından	0	0
+Burada biraz dinlenelim.	Låt oss vila lite här.	dinlenelim	0	0
+Gelecek istasyonun adı ne?	Vad heter nästa hållplats?	istasyonun	0	0
+Gerçek arkadaşlığın bedeli yoktur.	Ingenting kan mäta sig med sann vänskap.	arkadaşlığın	0	0
+Babası meşhur bir piyanist olan bir arkadaşım var.	Jag har en vän vars far är en känd pianist.	piyanist	0	0
+Onun bunu okumasını istiyorum.	Jag vill att han ska läsa detta.	okumasını	0	0
+Derhal onlara haber salın.	Underrätta dem omedelbart.	salın	0	0
+Tuvaletler nerede?	Var finns toaletterna?	tuvaletler	0	0
+Güneş sıcaktır.	Solen är varm.	sıcaktır	0	0
+Burada hepimiz profesyonel adamlarız.	Vi är alla professionella här.	adamlarız	0	0
+Sami hep oradaydı.	Sami var där borta hela tiden.	sami	0	0
+O bir sözlük.	Det är en ordbok.	sözlük	0	0
+Güzel bir kentte yaşıyoruz.	Vi bor i en vacker stad.	kentte	0	0
+Ortadan ikiye ayırdık.	Vi bröt den itu.	ayırdık	0	0
+Bütçe son derece küçüktür.	Budgeten är extremt liten.	küçüktür	0	0
+Otobüs tıklım tıklımdı.	Bussen var fullproppad.	tıklım	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Jag vill inte att mitt land ska bli medlem i Europeiska unionen.	ülkemin	0	0
+Köpeğe Shiro adını koydular.	De döpte hunden till Shiro.	shiro	0	0
+Eğer benden gerçekten nefret ediyorsan, öyleyse seni affedemem.	Om du verkligen hatar mig, så kan jag inte förlåta dig.	affedemem	0	0
+Yüzüne bir tebessüm yayıldı.	Ett leende spred sig över hans ansikte.	tebessüm	0	0
+Birazdan hava kararacak.	Snart skymmer det.	kararacak	0	0
+Yağış kesildi.	Det har slutat regna.	yağış	0	0
+Kedimi özledim.	Jag saknar min katt.	kedimi	0	0
+Python bir programlama dilidir.	Python är ett programmeringsspråk.	programlama	0	0
+Senin atının adı ne?	Vad heter din häst?	atının	0	0
+Tom bütün elmaları yedi.	Tom åt alla äpplen.	elmaları	0	0
+Benim kitaplarım yeni.	Mina böcker är nya.	kitaplarım	0	0
+Onun İngilizcesi mükemmel.	Hennes engelska är utmärkt.	İngilizcesi	0	0
+Bu kitabın yazarı hiç Rusya'da bulunmamış.	Författaren av denna bok har aldrig varit i Ryssland.	bulunmamış	0	0
+Benim vicdanım temizdir.	Mitt samvete är rent.	temizdir	0	0
+Yeşil kuşu besledim.	Jag matade den gröna fågeln.	besledim	0	0
+Gerçek dostluğun bedeli yoktur.	Ingenting kan mäta sig med sann vänskap.	dostluğun	0	0
+Büyük oğlanlar ağlamaz.	Stora pojkar gråter inte.	ağlamaz	0	0
+Biz Rusya'danız.	Vi är från Ryssland.	danız	0	0
+Bir dünya vatandaşıyım.	Jag är en världsmedborgare.	vatandaşıyım	0	0
+Uyanın Avrupalılar, savaş kapılarınızda.	Vakna upp européer, kriget står vid era dörrar.	avrupalılar	0	0
+Su hayattır.	Vatten är liv.	hayattır	0	0
+Ben sana sarılmayı özledim.	Jag saknar att krama dig.	sarılmayı	0	0
+Kurşun kalemler düzine halinde satılıyor.	Pennorna säljs dussinvis.	kalemler	0	0
+Siz kafayı yemişsiniz!	Ni är galna!	yemişsiniz	0	0
+Tom'un düğünümüzde şarkı söylemesini istemiyorum.	Jag vill inte att Tom ska sjunga på vårt bröllop.	düğünümüzde	0	0
+The Beatles, dört müzisyenden oluşmuştur.	Beatles bestod av fyra musiker.	oluşmuştur	0	0

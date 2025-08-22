@@ -1,0 +1,83 @@
+Сакам да знам што си рекле.	Vorrei sapere cosa si son detti.	да	0	0
+Оваа книга не се работи за лингвистика.	Questo libro non è sulla linguistica.	не	0	0
+Оваа книга не се работи за лингвистика.	Questo libro non riguarda la linguistica.	се	0	0
+Мери е мајка ми.	Mary è mia madre.	е	0	0
+Пишувам писмо на Марија.	Sto scrivendo una lettera a mary.	на	0	0
+И после?	E poi?	и	0	0
+Знам што правите, дечки.	So che cosa state facendo.	што	0	0
+Том живее во Бостон.	Tom abita a Boston.	во	0	0
+Оваа книга не се работи за лингвистика.	Questo libro non è sulla linguistica.	за	0	0
+Тоа смрди на сирење.	Puzza di formaggio.	тоа	0	0
+Ти треба адвокат.	Hai bisogno di un avvocato.	ти	0	0
+Мислевме дека веќе знаете.	Credevamo che lo sapeste già.	дека	0	0
+Често ни ги кршат прозорците со топка.	Rompono spesso le nostre finestre con una palla.	со	0	0
+Мери е мајка ми.	Mary è mia madre.	ми	0	0
+Сакам да знам што си рекле.	Vorrei sapere cosa si son detti.	си	0	0
+Често ни ги кршат прозорците со топка.	Rompono spesso le nostre finestre con una palla.	ги	0	0
+Ова е фантастично.	Questo è fantastico.	ова	0	0
+Зошто сум сѐ уште тука?	Perché sono ancora qui?	сум	0	0
+Шта добро носите?	Cosa hai portato di buono?	добро	0	0
+Само сакам да ѝ помогнам.	Voglio solo aiutarla.	само	0	0
+Би било ли убаво?	Sarebbe una bella cosa?	ли	0	0
+Тој не е лажливец.	Non è un bugiardo.	тој	0	0
+Ти треба адвокат.	Hai bisogno di un avvocato.	треба	0	0
+Знам што правите, дечки.	So che cosa state facendo.	знам	0	0
+Би било ли убаво?	Sarebbe una bella cosa?	би	0	0
+Само сакам да ѝ помогнам.	Voglio solo aiutarla.	сакам	0	0
+Зошто сум сѐ уште тука?	Perché sono ancora qui?	тука	0	0
+Зошто сум сѐ уште тука?	Perché sono ancora qui?	зошто	0	0
+Здраво на сите.	Ciao a tutti.	сите	0	0
+Често ни ги кршат прозорците со топка.	Rompono spesso le nostre finestre con una palla.	ни	0	0
+Том е овде.	Tom è qui.	овде	0	0
+Зошто сум сѐ уште тука?	Perché sono ancora qui?	уште	0	0
+Ние сме Унгарци.	Siamo ungheresi.	сме	0	0
+Ние сме Унгарци.	Siamo ungheresi.	ние	0	0
+Здраво на сите.	Ciao a tutti.	здраво	0	0
+Мојата вагина е прекрасна!	La mia vagina è bella!	мојата	0	0
+Мислевме дека веќе знаете.	Credevamo che lo sapeste già.	веќе	0	0
+Оваа книга не се работи за лингвистика.	Questo libro non riguarda la linguistica.	работи	0	0
+Одам.	Sto andando.	одам	0	0
+Оваа книга не се работи за лингвистика.	Questo libro non è sulla linguistica.	оваа	0	0
+Мери е мајка ми.	Mary è mia madre.	мајка	0	0
+Би било ли убаво?	Sarebbe una bella cosa?	било	0	0
+И после?	E poi?	после	0	0
+Мислевме дека веќе знаете.	Credevamo che lo sapeste già.	знаете	0	0
+Би било ли убаво?	Sarebbe una bella cosa?	убаво	0	0
+Немам коментар!	Non posso commentare!	немам	0	0
+Само сакам да ѝ помогнам.	Voglio solo aiutarla.	помогнам	0	0
+Том живее во Бостон.	Tom abita a Boston.	живее	0	0
+Знам што правите, дечки.	So che cosa state facendo.	правите	0	0
+Оваа улица е во Париз.	Questa strada è a Parigi.	улица	0	0
+Оваа книга не се работи за лингвистика.	Questo libro non è sulla linguistica.	книга	0	0
+Том е наркоман.	Tom è un tossicodipendente.	том	0	0
+Мојата вагина е прекрасна!	La mia vagina è bella!	прекрасна	0	0
+Мери е мајка ми.	Mary è mia madre.	мери	0	0
+Знам што правите, дечки.	So che state facendo.	дечки	0	0
+Ти треба адвокат.	Hai bisogno di un avvocato.	адвокат	0	0
+Често ни ги кршат прозорците со топка.	Rompono spesso le nostre finestre con una palla.	често	0	0
+Оваа улица е во Париз.	Questa strada è a Parigi.	париз	0	0
+Пишувам писмо на Марија.	Sto scrivendo una lettera a mary.	писмо	0	0
+Пишувам писмо на Марија.	Sto scrivendo una lettera a mary.	марија	0	0
+Обожавам капини.	Io amo le more.	обожавам	0	0
+Мислевме дека веќе знаете.	Credevamo che lo sapeste già.	мислевме	0	0
+Често ни ги кршат прозорците со топка.	Rompono spesso le nostre finestre con una palla.	топка	0	0
+Ова е фантастично.	Questo è fantastico.	фантастично	0	0
+Зошто сум сѐ уште тука?	Perché sono ancora qui?	сѐ	0	0
+Пишувам писмо на Марија.	Sto scrivendo una lettera a mary.	пишувам	0	0
+Тоа смрди на сирење.	Puzza di formaggio.	смрди	0	0
+Тоа смрди на сирење.	Puzza di formaggio.	сирење	0	0
+Уморен сум.	Io sono stanco.	уморен	0	0
+Шта добро носите?	Cosa hai portato di buono?	носите	0	0
+Том живее во Бостон.	Tom abita a Boston.	бостон	0	0
+Сакам да знам што си рекле.	Vorrei sapere cosa si son detti.	рекле	0	0
+Немам коментар!	Non posso commentare!	коментар	0	0
+Често ни ги кршат прозорците со топка.	Rompono spesso le nostre finestre con una palla.	прозорците	0	0
+Том е наркоман.	Tom è un tossicodipendente.	наркоман	0	0
+Том е јунак.	Tom è un eroe.	јунак	0	0
+Мојата вагина е прекрасна!	La mia vagina è bella!	вагина	0	0
+Често ни ги кршат прозорците со топка.	Rompono spesso le nostre finestre con una palla.	кршат	0	0
+Тој не е лажливец.	Non è un bugiardo.	лажливец	0	0
+Том не е клошар.	Tom non è senza casa.	клошар	0	0
+Тој е таксист.	Lui è un tassista.	таксист	0	0
+Шта добро носите?	Cosa hai portato di buono?	шта	0	0
+Том е крстоносец.	Tom è un crociato.	крстоносец	0	0

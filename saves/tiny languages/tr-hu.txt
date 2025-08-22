@@ -1,0 +1,2684 @@
+O bir elma yiyor.	Almát eszik.	bir	0	0
+Affedersiniz,ama bu metro istasyonu için doğru yol mu?	Bocsánat, jó irányba megyek a metróállomáshoz?	bu	0	0
+O ne?	Mi az?	ne	0	0
+O, büyük bir ev ve iki arabaya sahipti.	Volt egy nagy háza és két autója.	ve	0	0
+Kayıp zamanı telafi etmek için acele ettim.	Sietek, hogy behozzam az időveszteséget.	için	0	0
+Arkadaşız, değil mi?	Barátok vagyunk, nem?	mi	0	0
+Ben de bilmem.	Én sem tudom.	de	0	0
+O, burada.	Itt van ő.	o	0	0
+Ben ondan bıktım.	Torkig vagyok vele.	ben	0	0
+Çok sebze yiyorum.	Sok zöldséget eszem.	çok	0	0
+İngilizce kolay değil ama ilginç.	Az angol nem könnyű, de érdekes.	ama	0	0
+Evet, lütfen.	Igen, kérem.	evet	0	0
+İki elim ve iki bacağım var.	Két kezem és két lábam van.	var	0	0
+Rusça da konuşuyor.	Oroszul is beszél.	da	0	0
+Bir problem var mı?	Van valami probléma?	mı	0	0
+Hiç kimse evde değil.	Nincs senki otthon.	değil	0	0
+Masada hiçbir şey yok.	Nincs semmi az asztalon.	şey	0	0
+Hayır, teşekkürler.	Köszönöm, nem!	hayır	0	0
+Bir kahve daha alabilir miyim, lütfen.	Kaphatnék még egy kávét, kérem?	daha	0	0
+Sen benim çocuğumsun.	A gyerekem vagy.	sen	0	0
+O kadar soğuk yok dışarıda.	Nincs annyira hideg kint.	kadar	0	0
+Lütfen bana bir fincan süt verin.	Kérlek, adj egy pohár tejet.	bana	0	0
+Senin gibi bir kız arıyorum.	Hozzád hasonló lányt keresek.	gibi	0	0
+Benim çantam yok.	Nincs meg a kistáskám.	yok	0	0
+Bunu biliyoruz.	Mi tudjuk ezt.	bunu	0	0
+Onu biliyorduk.	Tudtuk ezt.	onu	0	0
+Tom iyi.	Tom rendben van.	iyi	0	0
+Tamam, sen kazandın.	Rendben, te nyertél.	tamam	0	0
+Ben onu seviyorum ve o beni seviyor.	Én szeretem őt s ő szeret engem.	beni	0	0
+Son dört yıl içinde seni görmedim.	Nem láttunk téged az utóbbi négy évben.	seni	0	0
+Her şeyi istiyorum.	Mindent akarok.	her	0	0
+Bisiklet benim.	A bicikli az enyém.	benim	0	0
+Sana ihtiyacım var.	Kellesz nekem.	sana	0	0
+Tabii ki.	Persze.	ki	0	0
+Londra'ya vardım.	Londonba értem.	ya	0	0
+Neden onu soruyorsun?	Miért kérdezed azt?	neden	0	0
+Kyoto'ya ne zaman vardın.	Mikor érkeztél Kiotóba?	zaman	0	0
+Sadece bir sorum var.	Nekem csak egy kérdésem van.	sadece	0	0
+Şu senin araban.	Az a te autód.	senin	0	0
+Evim burada.	Itt a házam.	burada	0	0
+Bir şey görüyorum, ancak ne olduğunu bilmiyorum.	Látok valamit, de nem tudom, mit.	olduğunu	0	0
+Bu cümleyi nasıl değiştirebilirim?	Hogy tudnám megváltoztatni ezt a mondatot?	nasıl	0	0
+Evde hiç kahve yok.	Semennyi kávé sincs itthon.	hiç	0	0
+Bana elini Ver! Nedenini daha sonra açıklayacağım.	Add a kezedet! Később megmagyarázom, hogy miért.	sonra	0	0
+Şimdi eve gidebilir miyim?	Most már hazamehetek?	şimdi	0	0
+En yaşlı benim.	Én vagyok a legidősebb.	en	0	0
+Öyle güzel bir fıkraydı ki, herkes birden kahkahayı bastı.	Ez olyan ó tréfa volt, hogy mindenki nevetésben tört ki.	öyle	0	0
+Tom, hiç Carlo Pedersoli ismini duydun mu?	Tom, hallottad már a Carlo Pedersoli nevet?	mu	0	0
+Şu anda herhangi bir tehlike değiliz.	Nem vagyunk veszélyben most.	şu	0	0
+Atları sever misin?	Szereted a lovakat?	misin	0	0
+Üç ay önce işsizdim.	Három héttel ezelőtt munkanélküli voltam.	önce	0	0
+Bay Bush, Bay Gore'dan biraz daha fazla oy aldı.	Bush több szavazatot kapott, mint Gore.	biraz	0	0
+Hadi hamilelik testi yaptıralım.	Csináljunk egy terhességi tesztet.	hadi	0	0
+Slovence güzel bir dildir.	A szlovén szép nyelv.	güzel	0	0
+Esperanto biliyor musun?	Tud eszperantóul?	musun	0	0
+Nerede oldu?	Hol történt?	oldu	0	0
+Böyle buyurdu Zerdüşt.	Így szólt Zarathusztra.	böyle	0	0
+Yarın ona soracağım.	Holnap megkérdezem tőle.	ona	0	0
+İyi geceler, Timmy.	Jó éjszakát, Timmy!	İyi	0	0
+İki bira lütfen.	Két sört kérek!	lütfen	0	0
+Okulumuz onun öğretim metotlarını benimsedi.	Iskolánk átvette a tanítási módszerüket.	onun	0	0
+Bir an bile tereddüt etmeden , komploya karşı şiddetle harekete geçtiler.	Tétovázás nélkül, azonnali intézkedéseket tettek az összeesküvés ellen.	bile	0	0
+Kendine iyi bak.	Vigyázz magadra.	bak	0	0
+Okula gidiyorum çünkü öğrenmek istiyorum.	Iskolába megyek, mert tanulni akarok.	çünkü	0	0
+Peki.	Rendben.	peki	0	0
+Eğer isterlerse yapabilirler.	Megtehetik, ha akarják.	eğer	0	0
+Artık takmıyorum.	Már nem érdekel.	artık	0	0
+Gerçekten bilmiyorum.	Valóban nem tudom.	gerçekten	0	0
+Saatim bir günde beş dakika geri kalır.	Az órám naponta öt percet késik.	geri	0	0
+İsimlerinizi biliyorum.	Tudom a neveteket.	biliyorum	0	0
+Daha detaylı bilgi istiyorum.	Részletesebb információt akarok.	istiyorum	0	0
+Kim konuştu?	Ki beszélt?	kim	0	0
+Onu son olarak ne zaman gördün?	Mikor láttad utoljára?	olarak	0	0
+Başka sorunuz var mı?	Van még kérdésed?	başka	0	0
+Tanık tek kelime etmeden ortadan kayboldu.	A szemtanú szó nélkül eltűnt.	tek	0	0
+Cevabınız doğru.	Helyes a válaszotok.	doğru	0	0
+Büyük, değil mi?	Nagy, ugye?	büyük	0	0
+O ne istediğini biliyor, önemli olan bu.	Tudja, hogy mit akar, ez a fontos.	olan	0	0
+Onun iki tane kedisi var, biri beyaz ve biri siyah.	Két macskája van: egy fehér és egy fekete.	biri	0	0
+Kahve içmem, ama bir fincan çay harika olur.	Nem iszom kávét, de egy csésze tea remekül jönne.	olur	0	0
+Tom ayda üç kez buraya gelir.	Tomi havonta háromszor jön ide.	buraya	0	0
+Bay Bush, Bay Gore'dan biraz daha fazla oy aldı.	Bush több szavazatot kapott, mint Gore.	bay	0	0
+Karadeniz'in rengi nedir?	Milyen színű a Fekete-tenger?	in	0	0
+Bu tırtıl harika bir kelebek olacak.	Ebből a hernyóból szép pillangó lehet.	olacak	0	0
+Yaşlı adam geçen hafta öldü.	Az öreg meghalt a múlt héten.	adam	0	0
+Tom Avustralya tarihi ile çok ilgileniyor.	Tomot nagyon érdekli Ausztrália történelme.	ile	0	0
+Doğa hiçbir sınır tanımaz.	A természet nem ismer határokat.	hiçbir	0	0
+Biz açız.	Éhesek vagyunk.	biz	0	0
+Bize yardım etti.	Segített nekünk.	yardım	0	0
+Sanırım Tom fikrini değiştirdi.	Feltételezem, hogy Tomi megváltoztatta a véleményét.	sanırım	0	0
+Allah'ın sopası yok.	Istennek nincs botja.	ın	0	0
+Bir şey görüyorum, ancak ne olduğunu bilmiyorum.	Látok valamit, de nem tudom, mit.	bilmiyorum	0	0
+Bunun olduğunu biliyorum.	Én tudom, hogy úgy történt.	bunun	0	0
+Ağaçtaki tüm yapraklar sarardı.	Miden levél megsárgult a fán.	tüm	0	0
+Teşekkürler!	Köszönöm!	teşekkürler	0	0
+Fazla tatlıydı!	Nagyon édes volt.	fazla	0	0
+Onlar yeni bir hükümet seçtiler.	Új vezetőséget választottak.	yeni	0	0
+Ben her gün yüzerim.	Minden nap úszom.	gün	0	0
+Teşekkür ederim!	Köszönöm!	ederim	0	0
+Şapkam nerede?	A sapkám hol van?	nerede	0	0
+Tom'a ne olduğu hakkında haber aldım.	Hallottam, mi történt Tommal.	a	0	0
+Her şeyi biliyorum.	Mindent tudok.	şeyi	0	0
+Merhaba! Nasılsın?	Halló! Hogy vagy?	merhaba	0	0
+Orada değildim.	Én nem voltam ott.	orada	0	0
+O, arkadaşlarına ihanet edecek son kişidir.	Ő az utolsó, aki elárulná a barátait.	son	0	0
+Kötü müdür?	Ez rossz?	kötü	0	0
+Tam gece yarısı.	Pontban éjfél van.	gece	0	0
+Macarca biliyor musun?	Tud magyarul?	biliyor	0	0
+Sorun nerede?	Hol van a probléma?	sorun	0	0
+Tom'un iki odalı bir evi var.	Tomnak két szobás háza van.	iki	0	0
+Kahve içmem, ama bir fincan çay harika olur.	Nem iszom kávét, de egy csésze tea igazán jól esne.	harika	0	0
+Bu tarz bir insana karşı kibar olmaya gerek yok.	Az ilyen fajta személlyel nem kell udvariasnak lenni.	gerek	0	0
+Et yer misin?	Eszel húst?	et	0	0
+Saat tam on.	Pontosan tíz óra van.	tam	0	0
+İşte ikinci bir versiyon.	Itt egy másik verzió.	İşte	0	0
+Fabrikamız bütün şehre süt tedarik etmektedir.	A mi gyárunk látja el tejjel az egész várost.	bütün	0	0
+Siz benim babam mısınız?	Ön az én apám?	siz	0	0
+Üzgünüm.	Sajnálom.	üzgünüm	0	0
+Sessiz ol.	Maradj nyugton.	ol	0	0
+Arkadaşın olabilir miyim?	Lehetek a barátod?	olabilir	0	0
+O, Nermin'i seviyor.	Nermint szereti.	i	0	0
+Neden bir peruğa ihtiyacım olsun ki ?	Miért kell az a paróka?	olsun	0	0
+Dünya küçük.	Kicsi a világ.	küçük	0	0
+Bu konuda size katılamayız.	Ebben a pontban nem tudunk vele egyetérteni.	size	0	0
+O bayan bizim komşumuz.	Az a hölgy a szomszédunk.	bayan	0	0
+Herkes sizinle aynı fikirde.	Mindenki egyetért veled.	aynı	0	0
+Teşekkür.	Kösz!	teşekkür	0	0
+Tom'a ne olduğu hakkında haber aldım.	Hallottam, mi történt Tommal.	hakkında	0	0
+Tabii ki!	Természetesen.	tabii	0	0
+Gel!	Gyere!	gel	0	0
+Onları biliyorum.	Ismerem őket.	onları	0	0
+Tom kendi köpeğini kimin öldürdüğünü biliyor ama bize söylemez.	Tom tudja, hogy ki ölte meg a kutyáját, de nekünk nem mondja meg.	kendi	0	0
+Kız arkadaşın var mı?	Van barátnőd?	kız	0	0
+Tom, Mary'nin saçını kesti.	Tomi lenyírja Mari haját.	nin	0	0
+Tom konuşmaya devam etti.	Tovább beszélt Tom.	devam	0	0
+Bize yardım ettiniz.	Segítettetek nekünk.	bize	0	0
+Dün Stockholm'e gittim.	Tegnap elmentem Stockholmba.	e	0	0
+Ne oluyor?	Mi történik?	oluyor	0	0
+Bana cevap ver, lütfen.	Válaszolj, kérlek.	ver	0	0
+Kate'nin şarap içmesine izin vermez.	Nem engedi, hogy Kati bort igyon.	izin	0	0
+Tom bana bir iş verdi.	Tom munkát adott nekem.	iş	0	0
+Onlar bizi bekliyorlar.	Várnak ránk.	bizi	0	0
+Buna ihtiyacın olacak.	Erre szükséged lesz.	buna	0	0
+Anne nerede?	Anya hol van?	anne	0	0
+Selam, nasılsın?	Halló! Hogy vagy?	selam	0	0
+Tom'un aynı sorunları vardı.	Tomnak hasonló problémái voltak.	vardı	0	0
+O, iki yıl önce Japonya'ya geldi.	Két évvel ezelőtt jött Japánba.	geldi	0	0
+Bizim elma ağacı çiçek açıyor.	Virágzik az almafánk.	bizim	0	0
+Sizi göremiyorum.	Nem látlak titeket.	sizi	0	0
+Dur!	Állj!	dur	0	0
+Ölenlerin tam sayısını henüz kimse bilmiyor.	A halottak pontos számát még senki sem tudja.	kimse	0	0
+Benim saatime göre 10:00.	Az én órám szerint 10 óra van.	göre	0	0
+Hafta sonları asla çalışmam.	Hétvégén sosem dolgozom.	asla	0	0
+Özür dilerim.	Elnézést kérek!	özür	0	0
+Tom, seninle başlayacağız.	Veled kezdjük, Tom.	seninle	0	0
+Baba, neredesin?	Hol vagy, apu?	baba	0	0
+Genç değilim.	Nem vagyok fiatal.	değilim	0	0
+Aslında, Tom'un sigortası yok.	Tulajdonképpen Tomnak nincs biztosítása.	aslında	0	0
+Önemli değil.	Nem fontos.	önemli	0	0
+Tekrar söyle.	Ismételd meg!	tekrar	0	0
+Odana git!	Menj a szobádba!	git	0	0
+Batı kültüründe Attila "Tanrı'nın kırbacı" ismiyle bilinir.	A nyugati kultúrában Attilát Isten ostoraként ismerik.	nın	0	0
+O ahşaptan mı yoksa metalden mi yapılmıştır?	Ez fémből vagy fából készült?	yoksa	0	0
+Balık hala canlı mı?	Él még a hal?	hala	0	0
+Neden benimle konuşuyorsun?	Miért hozzám beszélsz?	benimle	0	0
+Bir fıçının içinde gizlendi.	Egy hordóban bújt el.	içinde	0	0
+Sen Macar mısın?	Te magyar vagy?	mısın	0	0
+Bir şey gördün mü?	Láttál valamit?	mü	0	0
+Bence bu yanlış.	Szerintem helytelen.	bence	0	0
+Tom o şekilde gitti.	Tom azt az utat járta.	şekilde	0	0
+Diş hekimi olmak istiyorum.	Fogorvos akarok lenni.	olmak	0	0
+Bugün sıcak.	Meleg van ma.	bugün	0	0
+Ona söyle.	Mondd el neki!	söyle	0	0
+Biz birlikte çalışıyoruz.	Együtt dolgozunk.	birlikte	0	0
+Donald Trump iflah olmaz bir yalancı.	Donald Trump megrögzött hazudozó.	olmaz	0	0
+Firmamızın uzun, uzun bir geçmişi var.	A mi cégünknek nagyon hosszú története van.	uzun	0	0
+Bana kitaplarım lazım.	Nekem a könyveim kellenek.	lazım	0	0
+Farkı biliyorsun.	Tudod, mi a különbség.	biliyorsun	0	0
+Onu zaten söyledim.	Én ezt már mondtam.	zaten	0	0
+Az para, çok iş.	Sok munka, kevés pénz.	para	0	0
+Bu, kitabın ilk baskısı.	Ez a könyv első kiadása.	ilk	0	0
+İlkbahar geliyor.	Jön a tavasz.	geliyor	0	0
+Yarın onunla konuşacağım.	Holnap beszélek vele.	onunla	0	0
+Bu gerçek.	Ez igaz.	gerçek	0	0
+Tom benim dostum.	Tom a barátom.	dostum	0	0
+Hastalanırsan bu ilacı al.	Vedd be ezt az orvosságot, ha megbetegszel.	al	0	0
+Onlar kapalıydı.	Zárva voltak.	onlar	0	0
+Benim birkaç arkadaşım var.	Van pár barátom.	birkaç	0	0
+Bir şey unutmadığınızdan emin misiniz?	Biztos benne, hogy nem felejtett el valamit?	emin	0	0
+Yüz, iki yüz, üç yüz, dört yüz, beş yüz, altı yüz, yedi yüz, sekiz yüz, dokuz yüz, bin.	Száz, kétszáz, háromszáz, négyszáz, ötszáz, hatszáz, hétszáz, nyolcszáz, kilencszáz, ezer.	üç	0	0
+Bunu herkes gördü.	Mindenki látta.	herkes	0	0
+Saatim bir günde beş dakika geri kalır.	Az órám naponta öt percet késik.	dakika	0	0
+Tom bir şey söyledi mi?	Mondott valamit Tomi?	söyledi	0	0
+Sen ne yapmak istiyorsun?	Mit akarsz csinálni?	istiyorsun	0	0
+Annem İngilizceyi pek iyi konuşmaz.	Anyám nem beszél valami jól angolul.	pek	0	0
+Pazartesi günü işten sonra yemeğe gelmek ister misin?	Volna kedved hétfőn munka után eljönni vacsorázni?	ister	0	0
+Boston'da şu anda saat kaç?	Hány óra van most Bostonban?	saat	0	0
+Benim ofisimde ne yapıyorsun?	Mit csinálsz az irodámban?	yapıyorsun	0	0
+Tom'un eve gitmesini istiyorum.	Azt akarom, hogy Tom hazamenjen.	eve	0	0
+Üç yıl Boston'da yaşadım.	Két éven át éltem Bostonban.	yıl	0	0
+Şarap listesini görebilir miyim?	Láthatnám a borlapot?	miyim	0	0
+Tom, bir çocuk değil.	Tomi nem gyerek.	çocuk	0	0
+Köpekbalıkları balık yer.	A cápák halat esznek.	yer	0	0
+Seçenekler neler?	Mik a lehetőségek?	neler	0	0
+Özür dilerim.	Pardon!	dilerim	0	0
+Burada bekle.	Itt várj!	bekle	0	0
+Sizin bir arabanız var, değil mi?	Van egy autója, nem igaz?	sizin	0	0
+Bırak!	Állj!	bırak	0	0
+Tom'a ne olduğu hakkında haber aldım.	Hallottam, mi történt Tommal.	olduğu	0	0
+O, parayla ilgili değildi.	Nem a pénzről volt szó.	ilgili	0	0
+Gidelim!	Menjünk!	gidelim	0	0
+Hiçbir yere gidemem.	Sehova sem mehetek.	yere	0	0
+Kayıp zamanı telafi etmek için acele ettim.	Sietek, hogy behozzam az elvesztegetett időt.	etmek	0	0
+Bu sorunu bir an önce çözmemiz gerekiyor.	Ezt a problémát azonnal meg kell oldanunk.	an	0	0
+Ben Tom'dan nefret ediyorum.	Utálom Tomot.	dan	0	0
+Bu atasözünün anlamı nedir?	Mi ennek a közmondásnak a jelentése?	nedir	0	0
+Ben Tom'un annesi değilim.	Én nem vagyok az anyja Tomnak.	un	0	0
+Nereye gidiyoruz?	Hova megyünk?	nereye	0	0
+Seninle oturmak istemiyorum.	Nem akarok melléd ülni.	istemiyorum	0	0
+Bir an bile tereddüt etmeden , komploya karşı şiddetle harekete geçtiler.	Tétovázás nélkül, azonnali intézkedéseket tettek az összeesküvés ellen.	karşı	0	0
+O kaç yaşında?	Hány éves?	kaç	0	0
+En az meşgul olduğum gün cumadır.	Pénteken vagyok a legkevésbé elfoglalt.	az	0	0
+Burası Japonya.	Ez Japán.	burası	0	0
+Banyo hazır mı?	Kész a fürdő?	hazır	0	0
+Bir arabam yok fakat kız kardeşimin var.	Nekem nincs autóm, de a testvéremnek van.	fakat	0	0
+Tom eski bozuk paraları topladı.	Tom régi érmeket gyűjtött.	eski	0	0
+Çocuklar istiyorum.	Gyerekeket akarok.	çocuklar	0	0
+Tom kendini beğenmiş görünüyor.	Tom önelégültnek látszik.	kendini	0	0
+Ben Tom'dan nefret ediyorum.	Utálom Tomot.	ediyorum	0	0
+Bu sorunu bir an önce çözmemiz gerekiyor.	Ezt a problémát azonnal meg kell oldanunk.	gerekiyor	0	0
+O, benden iki yaş daha büyüktür.	Két évvel idősebb, mint én.	benden	0	0
+Yapmak zorunda olduğumuz başka bir şey olması gerektiğini sandım.	Feltételeztem, hogy volt valami más, amit csinálnunk kellett.	yapmak	0	0
+Seni görmek isteyen bir kadın var.	Van egy nő, aki látni akar téged.	kadın	0	0
+Tom kesinlikle şişman.	Tom határozottan kövér.	kesinlikle	0	0
+Bu zor bir seçim.	Ez egy nehéz döntés.	zor	0	0
+Şu anda herhangi bir tehlike değiliz.	Nem vagyunk veszélyben most.	anda	0	0
+İki tane alana bir tane bedava.	Kettőt fizet, hármat vihet.	tane	0	0
+Telefonunu kaldır ve beni dinle.	Tedd félre a telefonodat és figyelj rám.	dinle	0	0
+Bunlar kalem.	Ezek tollak.	bunlar	0	0
+Sami o işi beğenmedi.	Saminak nem tetszett az a munka.	işi	0	0
+Perdeleri kapat! Çünkü caddenin karşısındaki evde yaşayan kişi bir röntgencidir.	Húzd be a függönyöket! Azért, mert az utca túloldalán lévő házban lakó ember egy kukkoló.	kişi	0	0
+Bunu görmek istemiyorum.	Nem akarom látni.	görmek	0	0
+Hatasını kabul etmedi.	Nem akarta beismerni hibáit.	kabul	0	0
+Bana niye soruyorsun?	Miért engem kérdezel?	niye	0	0
+Tom daha büyük bir indirim istiyor.	Tom nagyobb árengedményt szeretne.	istiyor	0	0
+Birayı seviyorum.	Imádom a sört.	seviyorum	0	0
+Yapmak zorunda olduğumuz başka bir şey olması gerektiğini sandım.	Feltételeztem, hogy volt valami más, amit csinálnunk kellett.	zorunda	0	0
+Berlin'de misiniz?	Berlinben vagytok?	misiniz	0	0
+Tanrı beni seviyor.	Isten szeret engem.	tanrı	0	0
+Yarın kapalıyız.	Holnap zárva vagyunk.	yarın	0	0
+Onu sadece bir kez kullandım.	Csak egyszer használtam.	kez	0	0
+Ben bundan eminim.	Biztos vagyok benne.	bundan	0	0
+İki tane alana bir tane bedava.	Kettőt fizet, hármat vihet.	İki	0	0
+Cevabın yanlış.	A válaszod nem helyes.	yanlış	0	0
+Onlara yardım ettim.	Kisegítettem őket.	onlara	0	0
+Senden daha fazla biliyorum.	Többet tudok, mint te.	senden	0	0
+Michelle Obama hoş kadın.	Michelle Obama csinos nő.	hoş	0	0
+Doktor değilim.	Nem vagyok orvos.	doktor	0	0
+Teşekkürler, tatlım.	Köszönöm édesem!	tatlım	0	0
+Esperanto yapma dilinin yaratıcısı Zamenhof, bir göz doktoruydu.	Zamenhof, a tervezett eszperantó nyelv kezdeményezője, szemorvos volt.	yapma	0	0
+O, özel piyano dersleri alır.	Privát zongoraleckéket vesz.	özel	0	0
+Yemek yeriz.	Eszünk.	yemek	0	0
+Tom, kötü bir hafta geçirdi.	Tomnak rossz hete volt.	hafta	0	0
+Kendinden nefret ediyor.	Utálja magát.	ediyor	0	0
+Öncelikle karar verilmesi gereken şey üzerinde karar veririz sonra iki takıma ayrılırız.	Először eldöntjük, mit kell eldönteni, aztán két csapatra oszlunk.	gereken	0	0
+Olduğun yerde kal.	Maradjon ott, ahol van.	yerde	0	0
+Bir haftalığına oraya gittik.	Egy hétig oda jártunk.	oraya	0	0
+Hâlâ konuşuyorum.	Még mindig én beszélek.	hâlâ	0	0
+O, niçin geç kaldığını ona açıkladı.	Elmagyarázta neki, hogy miért késett.	geç	0	0
+Evet dedim.	Igent mondtam.	dedim	0	0
+O mutlu.	Ő boldog.	mutlu	0	0
+Tom, Mary'ye büyükannesini sordu.	Tom a nagymamája felől kérdezte Marit.	ye	0	0
+Duvarda bazı resimler var.	Van néhény kép a falon.	bazı	0	0
+Sadece konuşacak birini istiyorum.	Szükségem van egy beszélgetőtársra.	birini	0	0
+Tom Mary'nin onun doğum günü için ondan ne almasını istediğini bilmiyor.	Tom nem tudja, mit szeretne Mari, hogy vegyen neki a születésnapjárta.	ondan	0	0
+Ben bundan eminim.	Biztos vagyok benne.	eminim	0	0
+Nereden biliyorsun?	Honnan tudod?	nereden	0	0
+Tom çok yardım etti.	Tom sokat segített.	etti	0	0
+Hava karardıktan sonra dışarı çıkmayı sevmiyorum.	Nem szeretek sétálni sötétedés után.	dışarı	0	0
+13 yaşımdan beri futbol oynuyorum.	Tizenhárom éves korom óta focizom.	beri	0	0
+Onlar plaja gitti.	Lementek a tengerpartra.	gitti	0	0
+Bu bir yalan.	Ez hazugság!	yalan	0	0
+Lütfen onuncu sayfaya bakın.	Kérem, térjünk vissza a tizedik oldalra.	bakın	0	0
+Babaları yalnız sinemaya gitmelerine izin vermedi.	Az apja nem engedte meg neki, hogy egyedül menjen moziba.	yalnız	0	0
+Patronlar da insan.	A főnökök is emberek.	insan	0	0
+Bir uçak gördüm.	Láttam egy repülőt.	gördüm	0	0
+Arabada değildi.	Nem volt a kocsiban.	değildi	0	0
+Merhaba, iyi insanlar!	Jó napot, jó emberek!	insanlar	0	0
+Polis herkese sorular soruyor.	A rendőrség mindenkitől kérdezősködik.	polis	0	0
+Neden bir peruğa ihtiyacım olsun ki ?	Miért kell az a paróka?	ihtiyacım	0	0
+Tom senin erkek kardeşin, değil mi?	Tom a testvéred, nem?	erkek	0	0
+Sonra görüşürüz.	Viszlát!	görüşürüz	0	0
+Dün Dünya Günü'ydü.	Tegnap volt a Föld napja.	dün	0	0
+Tom'a ne olduğu hakkında haber aldım.	Hallottam, mi történt Tommal.	haber	0	0
+Bugün Tom'la bir görüşmem var.	Ma Tommal van találkozóm.	la	0	0
+Türkçe konuşuyor musunuz?	Beszél ön törökül?	musunuz	0	0
+Babam doktor.	Apám doktor.	babam	0	0
+Bugün okula gidiyor musun?	Mész ma iskolába?	gidiyor	0	0
+Tom, Mary'yi öldürdü.	Tomi kinyírta Marit.	yi	0	0
+O hasta olmuş olabilir.	Talán beteg volt.	olmuş	0	0
+Akşam yağmur yağabilir.	Az este, lehet, esni fog.	akşam	0	0
+Araba kullanmayı Collin McRae Rally 2'den öğrendim.	A Collin McRae 2-n tanultam meg vezetni.	den	0	0
+Anaokulu öğretmeni de dayanamıyor, geçen sefer Tom'un on saatlik derslerini de aldı.	Az óvónéni sem bír vele, a múltkor is elvette Tom tízóraiját.	geçen	0	0
+Deniz sakin.	Nyugodt a tenger.	sakin	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Egy, két, há', négy, öt, hat, hét, nyolc, kilenc, tíz.	beş	0	0
+Tom Boston'a gitmeye karar verdi.	Tom elhatározta, hogy Bostonba megy.	karar	0	0
+Senden nefret ediyorum!	Utállak!	nefret	0	0
+Bu sabah altıya kadar hazır olacak.	Ez kész lesz körülbelül ma hat órára.	sabah	0	0
+Çay yaptım.	Főztem teát.	yaptım	0	0
+O bir kedi mi veya bir köpek mi?	Ez macska vagy kutya akar lenni?	veya	0	0
+Dikkat et, bir köpekbalığı var.	Vigyázat, cápa!	dikkat	0	0
+Umarım değildir.	Remélem, nem.	umarım	0	0
+Yapmak zorunda olduğumuz başka bir şey olması gerektiğini sandım.	Feltételeztem, hogy volt valami más, amit csinálnunk kellett.	olması	0	0
+Yalnız değilsin.	Nem vagy egyedül.	değilsin	0	0
+Üç ay önce işsizdim.	Három héttel ezelőtt munkanélküli voltam.	ay	0	0
+Bir şey gördün mü?	Láttál valamit?	gördün	0	0
+Kayıp zamanı telafi etmek için acele ettim.	Sietek, hogy behozzam az időveszteséget.	ettim	0	0
+Sence bu nasıl bitecek?	Szerinted mi lesz ennek a vége?	sence	0	0
+Kendi hatasını fark etmedi.	Nem tanult a hibáiból.	fark	0	0
+Öncelikle karar verilmesi gereken şey üzerinde karar veririz sonra iki takıma ayrılırız.	Először eldöntjük, mit kell eldönteni, aztán két csapatra oszlunk.	üzerinde	0	0
+Aptal olmadığınızı biliyoruz.	Tudjuk, hogy ön nem hülye.	aptal	0	0
+Kendimi kötü hissettim.	Rosszul éreztem magam.	kendimi	0	0
+Tom tamamen zıvanadan çıktı.	Teljesen megőrült Tom.	tamamen	0	0
+Tom'un odası oldukça küçük.	Tom szobája elég kicsi.	oldukça	0	0
+Su soğuk.	Hideg a víz.	su	0	0
+Gece boyunca kar yağdı.	Egész éjszaka esett a hó.	boyunca	0	0
+Kendine inan.	Bízzál magadban.	kendine	0	0
+Bugün Dünya Yılan Günü.	Ma van a kígyók világnapja.	dünya	0	0
+Niçin Tom'u uyarmadın?	Miért nem figyelmeztetted Tomot?	u	0	0
+Ablam ebeveynlerime lezbiyen olduğumu söyledi.	A nővérem elmondta a szüleimnek, hogy leszbikus vagyok.	olduğumu	0	0
+Bir yılda dört mevsim vardır.	Egy évben négy évszak van.	vardır	0	0
+Öldü.	Meghalt.	öldü	0	0
+Kahvem şekersiz olursa sevinirim.	Cukor nélkül szeretném a kávém.	olursa	0	0
+Gökyüzü açık.	Tiszta az ég.	açık	0	0
+Annem İngilizceyi pek iyi konuşmaz.	Anyám nem beszél valami jól angolul.	annem	0	0
+Bu istediğim değil.	Én nem ezt akartam.	istediğim	0	0
+Gelecek istasyonun adı ne?	Mi a következő megálló neve?	adı	0	0
+Dün gece ne yaptın?	Mit csináltál tegnap este?	yaptın	0	0
+Seçimini yap.	Válassz!	yap	0	0
+Hangi evde yaşıyorsun?	Melyik házban laksz?	hangi	0	0
+Ancak bu çok ama çok karmaşık bir mesele.	De ez nagyon, nagyon bonyolult ügy.	ancak	0	0
+Onu zaten söyledim.	Én ezt már mondtam.	söyledim	0	0
+O aç görünüyor.	Éhesnek látszik.	görünüyor	0	0
+Diyarbakır'da dört sene kaldım.	Négy évig maradtam Diyarbakırban.	dört	0	0
+Sana çiçek aldım.	Virágot vettem neked.	aldım	0	0
+Niçin birisi Tom'a yardım etmiyor?	Miért nem segít senki Tomnak?	birisi	0	0
+Onların iyi bir ekipmanı yoktu.	Nem volt megfelelő fölszerelésük.	yoktu	0	0
+Tom İngilizce konuşmayı Fransızca konuşmaktan çok daha kolay buluyor.	Tamás sokkal könnyebbnek találja az angolt a franciánál.	kolay	0	0
+Bir dolar bozar mısın?	Tud visszaadni egy dollárból?	dolar	0	0
+Kadına merhaba dedi.	Köszönt a nőnek.	dedi	0	0
+Bir aileye sahip olmak mükemmel.	Szép, ha az embernek van családja.	sahip	0	0
+Yazın ve kışın Finlandiya'da yaşıyoruz; baharda ve sonbaharda ise Arjantin'de.	Nyáron és télen Finnországban élünk, tavasszal és ősszel meg Argentínában.	ise	0	0
+Tom çorbanın yeterince sıcak olmadığını şikâyet etti.	Tom panaszkodott, hogy a leves nem volt elég meleg.	olmadığını	0	0
+Tom senin yanında olmak istiyor.	Tom közelebb akar lenni hozzád.	yanında	0	0
+Gelecek istasyonun adı ne?	Mi a következő megálló neve?	gelecek	0	0
+Adamı görüyorum.	Látom a férfit.	adamı	0	0
+Şemsiyen bende.	Nálam van az esernyőd.	bende	0	0
+Kolyenin kayıp parçasını buldum.	Megtaláltam a nyakláncod hiányzó darabját.	buldum	0	0
+Affedersiniz,ama bu metro istasyonu için doğru yol mu?	Bocsánat, jó irányba megyek a metróállomáshoz?	yol	0	0
+Ben eve erken geldim.	Korán hazaértem.	geldim	0	0
+Ben seninle konuşmak istemiyorum.	Nem akarok beszélni veled.	konuşmak	0	0
+Eve gitmek istemiyorum.	Nem akarok hazamenni.	gitmek	0	0
+Beraber kiliseye gidiyoruz.	Együtt megyünk templomba.	beraber	0	0
+Bugün henüz hiçbir şey yemedim.	Ma még nem ettem.	henüz	0	0
+Bu yaz ne yapıyor olacaksın?	Mit fogsz csinálni nyáron?	yapıyor	0	0
+Yolu bilmiyorum.	Nem ismerem az utat.	yolu	0	0
+Mektup bitti.	Megszületett a levél.	bitti	0	0
+Onların iyi bir ekipmanı yoktu.	Nem volt megfelelő fölszerelésük.	onların	0	0
+Cevap hayırdır.	A válasz nem.	cevap	0	0
+David evde.	Dávid otthon van.	evde	0	0
+Çay ve kahve, güne başlamaya yardımcı olur.	A tea és a kávé segítenek elkezdeni a napot.	yardımcı	0	0
+Kayıp zamanı telafi etmek için acele ettim.	Sietek, hogy behozzam az elvesztegetett időt.	zamanı	0	0
+Bir paket sigara almak istiyorum.	Egy csomag cigarettát akarok venni.	almak	0	0
+İş konusunda senin yardımını istiyorum.	Igénylem az üzleti segítségedet.	konusunda	0	0
+O genç.	Fiatal.	genç	0	0
+Ken, tanıştığımıza memnun oldum!	Örülök, hogy megismertelek Ken.	oldum	0	0
+Esperanto'nun yaratıcısı Zamenhof, bir göz doktoruydu.	Zamenhof, a tervezett eszperantó nyelv megalkotója, szemorvos volt.	nun	0	0
+Hayvanlar içgüdülerini takip eder.	Az állatok az ösztöneiket követik.	takip	0	0
+Lütfen kal!	Maradj, kérlek!	kal	0	0
+Bugün Dünya Fil Günü.	Ma van az elefántok világnapja.	günü	0	0
+O kadar soğuktu ki bir ateş yaktık.	Olyan hideg volt, hogy tüzet csináltunk.	ateş	0	0
+Benim adım da listede.	Az én nevem is szerepel a listán.	adım	0	0
+Seni görmek istedim.	Látni akartalak.	istedim	0	0
+Söylemek istedim.	Mondani akartam.	söylemek	0	0
+Güzel bir çocuk Kate'le konuştu.	Egy kedves fiú beszélgetett Katival.	le	0	0
+Onu kim yaptı?	Ezt ki csinálta?	yaptı	0	0
+O, neredeyse senin kadar uzundur.	Egészen olyan magas, mint te.	neredeyse	0	0
+Andrés Ángela'dan nefret eder.	András utálja Angélát.	eder	0	0
+Tom hızla tabancasını yeniden yükledi.	Tomi gyorsan újratöltötte a pisztolyát.	yeniden	0	0
+Onlar ciddi görünüyorlar.	Komolyan gondolják ezt.	ciddi	0	0
+Onu herhangi bir kitapçıda alabilirsin.	Ezt minden könyvesboltban meg tudod venni.	herhangi	0	0
+Ev boştur.	Üres a ház.	ev	0	0
+Bu daha hızlı bir yol.	Ez a gyorsabb út.	hızlı	0	0
+Mükemmel değilim.	Nem vagyok perfekt.	mükemmel	0	0
+Esperanto'nun yaratıcısı Zamenhof, bir göz doktoruydu.	Zamenhof, a tervezett eszperantó nyelv megalkotója, szemorvos volt.	göz	0	0
+Hastanede kan örneğimi aldılar.	Vért vettek tőlem a kórházban.	kan	0	0
+Ben terapiye ihtiyacım olduğunu düşünüyorum.	Azt hiszem, terápiára van szükségem.	düşünüyorum	0	0
+Restoran boş.	Üres az étterem.	boş	0	0
+Biz arkadaş değil miyiz?	Mi nem vagyunk barátok?	miyiz	0	0
+Bu konuda size katılamayız.	Ebben a pontban nem tudunk vele egyetérteni.	konuda	0	0
+Tom'un ne dediğini duydum.	Hallottam, amit Tomi mond.	duydum	0	0
+İki kızım ve bir oğlum var.	Két lányom van és egy fiam.	oğlum	0	0
+Bana söyleyecek bir şeyin var mı?	Akartál valamit mondani nekem?	şeyin	0	0
+O kadar uzak değil.	Nincs olyan messze.	uzak	0	0
+O aç değil.	Nem éhes.	aç	0	0
+Cin şişeden çıktı.	A dzsinn kijött az üvegből.	çıktı	0	0
+Evim otobüs durağına yakın.	A házam egy buszmegálló közelében van.	yakın	0	0
+Anladım.	Megértettem.	anladım	0	0
+John nasıl?	Hogy van János?	john	0	0
+On, on bir, on iki, on üç, on dört, on beş, on altı, on yedi, on sekiz, on dokuz, yirmi.	Tíz, tizenegy, tizenkettő, tizenhárom, tizennégy, tizenöt, tizenhat, tizenhét, tizennyolc, tizenkilenc, húsz.	on	0	0
+Bu benim hayal gücümün ötesinde.	Ez meghaladja az én képzelőerőmet.	hayal	0	0
+Postaneye gidiyorum.	A postára megyek.	gidiyorum	0	0
+Ben araba istiyorum.	Autót akarok.	araba	0	0
+Çalışıyorum.	Dolgozom.	çalışıyorum	0	0
+Jack çocuklarına çok serttir.	Jakab nagyon szigorú a gyermekeivel.	jack	0	0
+Tom yalan söylüyor.	Tom hazudik.	söylüyor	0	0
+Bir sürü aptalca hatalar yaptım.	Egy rakás ostoba hibát vétettem.	sürü	0	0
+Hepimiz biliyoruz.	Mi mind tudjuk.	hepimiz	0	0
+Seni seviyorum, canım.	Szeretlek, drágám.	canım	0	0
+Müzik benim hayatım.	A zene az életem.	hayatım	0	0
+Bu sandalye rahat değil.	Ez a szék nem kényelmes.	rahat	0	0
+Bu kimin gitarı?	Kié ez a gitár?	kimin	0	0
+Hazır olacağım.	Kész leszek.	olacağım	0	0
+Onlar güçlü.	Ők erősek.	güçlü	0	0
+Tom, Hitler selamı verdi.	Tom náci karlendítést csinált.	verdi	0	0
+John, New York'ta yaşar.	John New Yorkban él.	ta	0	0
+"Esperanto: Avrupa veya Asya dili" denemesinde Claude Piron, Esperanto ve Çince arasındaki benzerliği gösterdi ve Esperanto'nun yalnızca Avrupa merkezli olduğunu ortaya koydu.	"Eszperantó: európai vagy ázsiai nyelv" című tanulmányában Claude Piron kimutatta a hasonlóságot az eszperantó és a kínai nyelv között, így cáfolta azt a gondolatot, hogy az eszperantó tisztán európai nyelv.	ortaya	0	0
+Ali on iki aylıkken konuşmaya başladı.	Ali tizenkét hónapos korában kezdett beszélni.	başladı	0	0
+Hayat bir sırdır.	Az élet egy misztérium.	hayat	0	0
+Anne çalışıyor.	Anyu dolgozik.	çalışıyor	0	0
+Buraya nasıl geldin?	Hogyan jöttél ide?	geldin	0	0
+Sende, biliyorum.	Nálad van, tudom.	sende	0	0
+Ben kötü bir adamım.	Én rossz ember vagyok.	adamım	0	0
+Kesin bilmiyorum.	Nem vagyok biztos benne.	kesin	0	0
+Kollarının arasında öldü.	A karjai között halt meg.	arasında	0	0
+Erkek arkadaşım beni sevmiyor.	Nem szeret a fiúm.	arkadaşım	0	0
+Hasta güçlükle hareket edebiliyordu.	A beteg nehezen tudott mozogni.	hareket	0	0
+On, on bir, on iki, on üç, on dört, on beş, on altı, on yedi, on sekiz, on dokuz, yirmi.	Tíz, tizenegy, tizenkettő, tizenhárom, tizennégy, tizenöt, tizenhat, tizenhét, tizennyolc, tizenkilenc, húsz.	altı	0	0
+Kız kardeşim yok.	Nincs nővérem.	kardeşim	0	0
+Çocuğu biliyorum.	Ismerem a gyereket.	çocuğu	0	0
+O sürekli meşgul.	Ő folyton elfoglalt.	sürekli	0	0
+Yüz, iki yüz, üç yüz, dört yüz, beş yüz, altı yüz, yedi yüz, sekiz yüz, dokuz yüz, bin.	Száz, kétszáz, háromszáz, négyszáz, ötszáz, hatszáz, hétszáz, nyolcszáz, kilencszáz, ezer.	bin	0	0
+Tom'un biraz nakite ihtiyacı vardı.	Tomnak némi készpénzre volt szüksége.	ihtiyacı	0	0
+Haklısın.	Igazad van.	haklısın	0	0
+Yanlış soru soruyorsun.	Rosszat kérdezel.	soru	0	0
+İznim olmadan hiçbir yere gitmeyeceksin.	Sehova sem mész az engedélyem nélkül.	olmadan	0	0
+Hava raporları nadiren gerçekleşir.	Az időjárás-előrejelzés ritkán válik be.	hava	0	0
+Ateşli silah kullanabilir misin?	Tudsz lőfegyvert használni?	silah	0	0
+Güvenlik önce gelir.	Első a biztonság.	gelir	0	0
+Bir kaleme ihtiyacınız varsa, size bir tane ödünç veririm.	Ha toll kell, tudok kölcsönadni neked egyet.	varsa	0	0
+Komik değil!	Ez nem vicces.	komik	0	0
+Tom atlar üzerine bahis oynar.	Tomi lovakra fogad.	üzerine	0	0
+Kaç el ateş ettin?	Hányszor lőttél?	el	0	0
+O bir şaka değil.	Ez nem vicc.	şaka	0	0
+Güle güle kullan.	Használja egészséggel!	güle	0	0
+Kayıp zamanı telafi etmek için acele ettim.	Sietek, hogy behozzam az időveszteséget.	acele	0	0
+Telefon numaram 789'dur.	A telefonszámom 789.	telefon	0	0
+Tom gizli bir ajandır.	Tom egy titkos ügynök.	gizli	0	0
+Yağmur dolayısıyla oyun ertelendi.	Az eső miatt a játékot elhalasztották.	oyun	0	0
+Kızı görüyorum.	Látom a lányt.	kızı	0	0
+Tom çorbanın yeterince sıcak olmadığını şikâyet etti.	Tom panaszkodott, hogy a leves nem volt elég meleg.	yeterince	0	0
+Anneler Günü'nde anneme 19 çiçek verdim.	Anyák napjára 19 szál virágot adtam anyámnak.	verdim	0	0
+Bunu şimdilik atma, evlat!	Ezt még ne dobd ki, fiam!	evlat	0	0
+İki hafta geçti.	Két hét telt el.	geçti	0	0
+Baban kaç yaşında?	Hány éves az édesapád?	baban	0	0
+Tom benim dans partnerim.	Tom a táncpartnerem.	dans	0	0
+Günaydın.	Jó reggelt!	günaydın	0	0
+Ken, tanıştığımıza memnun oldum!	Örülök, hogy megismertelek Ken.	memnun	0	0
+O çok kötü bir fikir.	Ez egy nagyon rossz ötlet.	fikir	0	0
+John, New York'ta yaşar.	John New Yorkban él.	new	0	0
+Lütfen bana bir fincan süt verin.	Kérem, adjon nekem egy pohár tejet.	verin	0	0
+O benim tipim değildir.	Nem az én esetem.	değildir	0	0
+Ben korkunç olduğunu biliyorum.	Tudom, hogy szörnyű.	korkunç	0	0
+Eve gidiyoruz.	Hazamegyünk.	gidiyoruz	0	0
+Bana nereye imza atılması gerektiğini gösterdi.	Megmutatta, hol kell aláírni.	gerektiğini	0	0
+İyi geceler, Timmy.	Jó éjszakát, Timmy!	geceler	0	0
+O, çocuk için bir oyuncak aldı.	Vett a gyereknek egy játékot.	aldı	0	0
+Nereye gidiyorsun?	Hova mész?	gidiyorsun	0	0
+Bunda iyiyim.	Jó vagyok benne.	iyiyim	0	0
+İki kere yedi on dörttür.	Kétszer hét az tizennégy.	kere	0	0
+Hepiniz buraya gelin.	Gyertek ide mind!	gelin	0	0
+O, arkadaşlarına ihanet edecek son kişidir.	Ő az utolsó, aki elárulná a barátait.	edecek	0	0
+Onun iki tane kedisi var, biri beyaz ve biri siyah.	Két macskája van: egy fehér és egy fekete.	beyaz	0	0
+Yaşlı değilim.	Nem vagyok öreg.	yaşlı	0	0
+Mümkün olduğunca sık sözlüğe bakın.	Minél gyakrabban használd a szótárt.	mümkün	0	0
+Tom ümitle dolu.	Tom telve van reménnyel.	dolu	0	0
+Şapkanı çıkar.	Vedd le a sapkádat!	çıkar	0	0
+Patron sensin.	Te vagy a főnök.	sensin	0	0
+Merhaba, nasılsın?	Halló! Hogy vagy?	nasılsın	0	0
+Neden onu bilmek istiyorsun?	Miért akarod tudni?	bilmek	0	0
+Tanıştığımıza sevindim.	Örülök az önnel való találkozásnak.	sevindim	0	0
+Tren yakında gelecek.	Mindjárt megérkezik a vonat.	yakında	0	0
+Mary parayı sever.	Mari szereti a pénzt.	parayı	0	0
+"Esperanto: Avrupa veya Asya dili" denemesinde Claude Piron, Esperanto ve Çince arasındaki benzerliği gösterdi ve Esperanto'nun yalnızca Avrupa merkezli olduğunu ortaya koydu.	"Eszperantó: európai vagy ázsiai nyelv" című tanulmányában Claude Piron kimutatta a hasonlóságot az eszperantó és a kínai nyelv között, így cáfolta azt a gondolatot, hogy az eszperantó tisztán európai nyelv.	yalnızca	0	0
+Ben kilo vermek istiyorum.	Fogyni akarok.	vermek	0	0
+Biliyordum.	Tudtam.	biliyordum	0	0
+Neden bana teşekkür ediyorsun?	Miért köszönöd meg nekem?	ediyorsun	0	0
+Rap yapamam.	Nem reppelek.	yapamam	0	0
+Amerikalı mısınız?	Amerikai vagy?	mısınız	0	0
+Her hafta sonu paten yapmaya giderdik.	Minden hétvégén korcsojázni szoktunk.	yapmaya	0	0
+O hasta olmuş olabilir.	Talán beteg volt.	hasta	0	0
+Şarkıcı olmak istedi.	Énekesnő akart lenni.	istedi	0	0
+Güvenlik önce gelir.	Első a biztonság.	güvenlik	0	0
+O film berbat!	Ez a film bűzlik.	berbat	0	0
+Bizimle misin?	Velünk vagy?	bizimle	0	0
+Geliyorum.	Jövök.	geliyorum	0	0
+Herkes sizinle aynı fikirde.	Mindenki egyetért veled.	sizinle	0	0
+Parkta yoga yapıyorum.	A parkban jógázom.	yapıyorum	0	0
+Buna ihtiyacın olacak.	Erre szükséged lesz.	ihtiyacın	0	0
+Yeni bir çocuk bakıcısına ihtiyacımız var.	Kell nekünk egy új pesztonka.	ihtiyacımız	0	0
+Ölü mü?	Halott?	ölü	0	0
+Birine ihtiyacım var.	Szükségem van valakire.	birine	0	0
+Homurdanıyor zaten benden ne istediğini biliyorum!	Nyögje már ki, hogy mit akar tőlem!	istediğini	0	0
+Çok tatlı.	Túl édes.	tatlı	0	0
+Her şey normal.	Minden normális.	normal	0	0
+O kadar soğuk yok dışarıda.	Nincs annyira hideg kint.	dışarıda	0	0
+Anaokulu öğretmeni de dayanamıyor, geçen sefer Tom'un on saatlik derslerini de aldı.	Az óvónéni sem bír vele, a múltkor is elvette Tom tízóraiját.	sefer	0	0
+Keşke yağmur yağışı dursa.	Jó lenne, ha elállna az eső.	keşke	0	0
+Kaç el ateş ettin?	Hányszor lőttél?	ettin	0	0
+Filler, dünyanın en büyük kara hayvanlarıdır.	Az elefántok a világ legnagyobb szárazföldi állatai.	dünyanın	0	0
+Tom'a bir şans ver.	Adj Tomnak egy esélyt!	şans	0	0
+Sanırım kendim bununla baş edebilirim.	Úgy gondolom, hogy ezt magam is el tudom intézni.	baş	0	0
+Affedersiniz, ama kütüphane nerede?	Bocsánat, merre van a könyvtár?	affedersiniz	0	0
+Biliyoruz.	Mi tudjuk.	biliyoruz	0	0
+İnsanlar konuşuyor.	Beszélnek az emberek.	İnsanlar	0	0
+Bu aşk asla bitmeyecek.	Ennek a szerelemnek soha nem lesz vége.	aşk	0	0
+Sanırım kendim bununla baş edebilirim.	Úgy gondolom, hogy ezt magam is el tudom intézni.	bununla	0	0
+Odamdan çık!	Menj ki a szobámból!	çık	0	0
+Ben de bilmem.	Én sem tudom.	bilmem	0	0
+En iyi arkadaş kitaptır.	A könyv a legjobb barát.	arkadaş	0	0
+Hiçbir şey imkansız değildir. Kelimenin kendisi "Ben mümkünüm!" diyor.	Semmi sem lehetetlen. A szó maga azt mondja: Lehetséges vagyok!	kendisi	0	0
+Herkesin kendi dilini sevmesi gerekir.	Mindenkinek szeretnie kell a nyelvét.	herkesin	0	0
+Tom Mary'nin onun doğum günü için ondan ne almasını istediğini bilmiyor.	Tom nem tudja, mit szeretne Mari, hogy vegyen neki a születésnapjárta.	doğum	0	0
+Meditasyon yapar mısın?	Meditálsz?	yapar	0	0
+Seni görmek isterim.	Látni akarlak.	isterim	0	0
+Ne zaman istersen gel.	Gyere, amikor csak szeretnél.	istersen	0	0
+3 yaşında babasını kaybetti.	Három éves korában elveszítette az apját.	yaşında	0	0
+Kahve içerim.	Kávézom.	kahve	0	0
+Hepimiz hata yaparız.	Mindannyian hibázunk.	hata	0	0
+Seks iyidir.	A szex jó.	seks	0	0
+Kaptan öldü.	A kapitány meghalt.	kaptan	0	0
+Annem yavaş konuşur.	Anyám lassan beszél.	yavaş	0	0
+Bana bakma!	Ne nézz rám!	bakma	0	0
+Yeterli mi?	Elegendő?	yeterli	0	0
+Kitap enteresan mıydı?	Érdekes volt a könyv?	mıydı	0	0
+Sessiz ol.	Maradj nyugton.	sessiz	0	0
+İki kızım ve bir oğlum var.	Két lányom van és egy fiam.	kızım	0	0
+Bu sabah çok erken kalktım.	Ma reggel nagyon korán keltem.	erken	0	0
+Bu bisikleti ne zaman satın aldın?	Mikor vetted ezt a biciklit?	aldın	0	0
+Su sıcak.	A víz meleg.	sıcak	0	0
+O nehir tehlikeli.	Veszélyes az a folyó.	tehlikeli	0	0
+Amerika geri döndü!	Amerika visszatért!	amerika	0	0
+Beni düşünüyor musun?	Gondoltál rám?	düşünüyor	0	0
+Dön!	Fordulj meg!	dön	0	0
+Daha detaylı bilgi istiyorum.	Részletesebb információt akarok.	bilgi	0	0
+Gözlüğümü getir.	Hozd ide a szemüvegemet!	getir	0	0
+Neden buradayım?	Miért vagyok itt?	buradayım	0	0
+O, plan hakkında bir şey bilmiyor.	Semmit nem tud a tervről.	bilmiyor	0	0
+Hiçbir şey imkansız değildir. Kelimenin kendisi "Ben mümkünüm!" diyor.	Semmi sem lehetetlen. A szó maga azt mondja: Lehetséges vagyok!	diyor	0	0
+Bu gelmiş geçmiş en iyi metottur.	Közel s távol ez a legjobb módszer.	gelmiş	0	0
+Birçok yat limandadır.	Elég sok jacht van a kikötőben.	birçok	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nem akarom, hogy az országom az Európai Unió tagjává váljon.	olmasını	0	0
+Yüz, iki yüz, üç yüz, dört yüz, beş yüz, altı yüz, yedi yüz, sekiz yüz, dokuz yüz, bin.	Száz, kétszáz, háromszáz, négyszáz, ötszáz, hatszáz, hétszáz, nyolcszáz, kilencszáz, ezer.	yüz	0	0
+Çek değilim.	Nem vagyok cseh.	çek	0	0
+Hâlâ eskiden olduğum gibiyim.	Még mindig az vagyok, aki korábban voltam.	olduğum	0	0
+Köpek yiyor.	A kutya eszik.	köpek	0	0
+Dün yangını duydun mu?	Hallottál valamit a tegnapi tűzről?	duydun	0	0
+Onu mutlu edeceğim.	Boldoggá fogom tenni.	edeceğim	0	0
+Evi görüyorum.	Látom a házat.	evi	0	0
+Tom yağmur yağışını izlerken üzücü bir şarkı dinledi.	Tom szomorú zenét hallgatott, miközben nézte az esőt.	şarkı	0	0
+Tom bir maymuna benziyor.	Tom hasonlít egy majomra.	benziyor	0	0
+Olduğun yerde kal.	Maradjon ott, ahol van.	olduğun	0	0
+Vakit nakittir.	Az idő pénz.	vakit	0	0
+Ben iki yıldır Fransızca öğreniyorum.	Két éve tanulok franciául.	yıldır	0	0
+Onları görüyorum.	Látom őket.	görüyorum	0	0
+Onun haklı olduğu kanaatindeyim.	Úgy vélem, igaza van.	haklı	0	0
+Boston'a bir sonraki tren kaçta kalkıyor?	Mikor indul a következő vonat Bostonba?	sonraki	0	0
+Çok büyük miktarlarda altın almaya başladı.	Ekezdett nagy mennyiségű aranyat vásárolni.	almaya	0	0
+Ofise geri gitmem gerekiyor.	Vissza kell mennem az irodába.	gitmem	0	0
+İyi olacaksın.	Rendben leszel.	olacaksın	0	0
+O neye benziyor?	Hogy néz ki az?	neye	0	0
+O film berbat!	Ez a film bűzlik.	film	0	0
+Adını ve adresini yaz.	Írja le a nevét és a címét.	adını	0	0
+Esperanto kimsenin malı değildir.	Az eszperantó senkinek nem a tulajdona.	kimsenin	0	0
+Bunu bilmiyordum.	Nem tudtam ezt.	bilmiyordum	0	0
+Evimi nasıl buldun?	Hogy találta meg a házam?	buldun	0	0
+İşte ikinci bir versiyon.	Itt egy másik verzió.	ikinci	0	0
+Modern cazı anlamıyorum.	Nem jön át nekem a modern jazz.	anlamıyorum	0	0
+Bu oyunu hatırlıyor musun?	Emlékszel erre a játékra?	hatırlıyor	0	0
+Televizyon insanları aptallaştırır.	A televízió hülyévé teszi az embereket.	insanları	0	0
+Noel Baba vardır.	Télapó létezik.	noel	0	0
+Daha fazla doktora acil bir ihtiyaç vardır.	Sürgősen szükség van több orvosra.	acil	0	0
+Günaydın, Mike.	Jó reggelt, Mike.	mike	0	0
+Parti bitti.	Vége a bulinak.	parti	0	0
+Yüz, iki yüz, üç yüz, dört yüz, beş yüz, altı yüz, yedi yüz, sekiz yüz, dokuz yüz, bin.	Száz, kétszáz, háromszáz, négyszáz, ötszáz, hatszáz, hétszáz, nyolcszáz, kilencszáz, ezer.	yedi	0	0
+Tom Boston'a giden yolu biliyor.	Tomi jól kiismeri magát Bostonban.	tom	0	0
+O zamanlar bunu biliyor muydun?	Tudtad ezt akkor?	zamanlar	0	0
+Ben istediğim için onu yaparım.	Azért teszem ezt, mert tenni akarom.	yaparım	0	0
+Bir kahve daha alabilir miyim, lütfen.	Kaphatnék még egy kávét, kérem?	alabilir	0	0
+Öyle güzel bir fıkraydı ki, herkes birden kahkahayı bastı.	Ez olyan ó tréfa volt, hogy mindenki nevetésben tört ki.	birden	0	0
+Ona kullanmamasını söylemesine rağmen, Tom Mary'nin bilgisayarını kullanmaya karar verdi.	Tom elhatározta, hogy használni fogja Mari számítógépét, habár ő azt mondta neki, hogy azt ne tegye.	rağmen	0	0
+Bu tarz bir insana karşı kibar olmaya gerek yok.	Az ilyen fajta személlyel nem kell udvariaskodni.	olmaya	0	0
+Elimizden gelenin fazlasını yapalım.	Tegyünk meg minden tőlünk telhetőt.	yapalım	0	0
+Buradaki herkese bir şey söylemek ister misin?	Szeretnél mondani valamit a jelenlévőknek?	buradaki	0	0
+Allah'tan başka ilah yoktur.	Nincs más Isten, csak Isten.	yoktur	0	0
+David evde.	Dávid otthon van.	david	0	0
+Tom, Mary'nin akşam yemeği parasını yürüttü.	Tamás ellopta Mária tízórai pénzét.	yemeği	0	0
+Mutfak temiz.	Tiszta a konyha.	temiz	0	0
+Tom'un babası Yahudiydi.	Tom apja zsidó volt.	babası	0	0
+Tom senin erkek arkadaşın mı?	Tom a te barátod?	arkadaşın	0	0
+Babam içki, annem sigara içer.	Apám iszik, anyám cigarettázik.	içki	0	0
+Öyle söyleme.	Ezt ne mondd!	söyleme	0	0
+İşe gidiyorum.	Dolgozni megyek.	İşe	0	0
+Allah aşkına burada ne oluyor?	Mi folyik itt az Isten szerelmére!?	allah	0	0
+Anahtar masanın üstünde.	A kulcs a polcon van.	üstünde	0	0
+Eğitim her şeyden önemlidir.	Az oktatás mindennél fontosabb.	şeyden	0	0
+Konuşma iki saat sürdü.	A beszéd két órán át tartott.	konuşma	0	0
+Onun dürüst bir insan olduğundan eminim.	Biztos vagyok benne, hogy ő egy becsületes fickó.	olduğundan	0	0
+Bekliyor olacağım.	Majd várok.	bekliyor	0	0
+Görüyor musun?	Látod?	görüyor	0	0
+O, gerçeği biliyor.	Tudja az igazságot.	gerçeği	0	0
+Herkesin kendi dilini sevmesi gerekir.	Mindenkinek szeretnie kell a nyelvét.	gerekir	0	0
+Ben müzik öğreniyorum.	Zenét tanulok.	müzik	0	0
+Kayıp zamanı telafi etmek için acele ettim.	Sietek, hogy behozzam az időveszteséget.	kayıp	0	0
+Onunla tanışmayı tercih etmiyorum.	Inkább nem találkoznék vele.	tercih	0	0
+Patron nerede?	Hol van a főnök?	patron	0	0
+Şu anda herhangi bir tehlike değiliz.	Nem vagyunk veszélyben most.	değiliz	0	0
+Onun dürüst olduğu gerçeğini inkar edemeyiz.	Nem tagadhatjuk, hogy becsületes.	dürüst	0	0
+Zengin olursam, bir şato alacağım.	Ha gazdag leszek, veszek egy kastélyt.	alacağım	0	0
+Hâlâ eskiden olduğum gibiyim.	Még mindig az vagyok, aki korábban voltam.	eskiden	0	0
+Afrikalı arkadaşı var.	Afrikai barátja van.	arkadaşı	0	0
+İki numara olmak istemiyorum.	Nem akarok második számú lenni.	numara	0	0
+Hayatıma hoş geldiniz.	Üdvözöllek az életemben!	geldiniz	0	0
+Her hafta sonu paten yapmaya giderdik.	Minden hétvégén korcsojázni szoktunk.	sonu	0	0
+Telefonunu unutma.	Ne felejtsd el a telefonodat.	unutma	0	0
+Elma kırmızı mı?	Az alma piros?	kırmızı	0	0
+Balık hala canlı mı?	Él még a hal?	canlı	0	0
+Oda boş.	Üres a szoba.	oda	0	0
+O kadar soğuk yok dışarıda.	Nincs annyira hideg kint.	soğuk	0	0
+Bana daha iyi bir fiyat verir misin?	Tudna nekem egy jobb árat mondani?	verir	0	0
+Sen kimsin?	Ki vagy te?	kimsin	0	0
+Maçın sonucu performansına bağlı.	A mérkőzés kimenetele az ő teljesítményétől függ.	bağlı	0	0
+Ben annemi seviyorum ve annem beni seviyor.	Én szeretem édesanyámat, és édesanyám szeret engem.	seviyor	0	0
+Tom'un annesi bu köyde yaşıyor.	Tamás anyja ebben a faluban él.	yaşıyor	0	0
+Onlarla konuştum.	Beszéltem velük.	onlarla	0	0
+Onları görmek istemiyor musun?	Nem akarod látni őket?	istemiyor	0	0
+Ne kanıtlamaya çalışıyorsun?	Mit akarsz ezzel bizonyítani?	çalışıyorsun	0	0
+O, çocukları sever.	Szereti a gyerekeket.	çocukları	0	0
+Bu adamı tanıyor musun?	Ismered ezt a férfit?	tanıyor	0	0
+Burayı bırakamam.	Nem tudok elmenni innen.	burayı	0	0
+Kalan parasıyla seksen deve aldı.	A maradék pénzéből nyolcvan tevét vásárolt.	kalan	0	0
+Cevaplar istiyoruz.	Válaszokat akarunk.	istiyoruz	0	0
+Benim bir fikrim var.	Van ötletem.	fikrim	0	0
+İyi günler.	Jó napot!	günler	0	0
+Diyarbakır'da dört sene kaldım.	Négy évig maradtam Diyarbakırban.	sene	0	0
+Hayatın anlamı nedir?	Mi az élet értelme?	anlamı	0	0
+İyiyim, teşekkürler!	Jól vagyok, kösz!	İyiyim	0	0
+Bu zaman alır.	Ez időt vesz igénybe.	alır	0	0
+Son dört yıl içinde seni görmedim.	Nem láttunk téged az utóbbi négy évben.	görmedim	0	0
+Yalnız kalmak istediklerini söylediler.	Azt mondták, egyedül akarnak lenni.	kalmak	0	0
+Okul nerede?	Merre van az iskola?	okul	0	0
+Şehir güzel.	A város szép.	şehir	0	0
+Park nerede?	Hol van a park?	park	0	0
+Pazartesi günü işten sonra yemeğe gelmek ister misin?	Volna kedved hétfőn munka után eljönni vacsorázni?	gelmek	0	0
+İş konusunda senin yardımını istiyorum.	Igénylem az üzleti segítségedet.	İş	0	0
+Kapı nerede?	Hol van a bejárat?	kapı	0	0
+Sanırım kendim bununla baş edebilirim.	Úgy gondolom, hogy ezt magam is el tudom intézni.	kendim	0	0
+Filler, dünyanın en büyük kara hayvanlarıdır.	Az elefántok a világ legnagyobb szárazföldi állatai.	kara	0	0
+Asla gitmeni istemedim.	Soha nem akartam, hogy elmenj.	istemedim	0	0
+Süt iç!	Igyál tejet!	iç	0	0
+Güneş sıcaktır.	A nap forró.	güneş	0	0
+Herkese güle güle!	Sziasztok!	herkese	0	0
+Ben ağır olduğunu biliyorum.	Tudom, hogy nehéz.	ağır	0	0
+Yarım saatim var.	Fél órám van.	yarım	0	0
+Sık sık yurtdışına çıkar mısın?	Gyakran utazol külföldre?	sık	0	0
+Yanlış adama soruyorsun.	A rossz embernek teszed fel a kérdéseket.	adama	0	0
+Doğum günün için sana bir bisiklet vereceğim.	Adni fogok neked egy biciklit a születésnapodra.	vereceğim	0	0
+Henry seni görmek istiyor.	Henry látni szeretne téged.	henry	0	0
+Bir dil öğrenmek kolay değildir.	Nyelvet tanulni nem könnyű.	öğrenmek	0	0
+Allah aşkına burada ne oluyor?	Mi folyik itt az Isten szerelmére!?	aşkına	0	0
+Macarca anlıyor musun?	Értesz magyarul?	anlıyor	0	0
+Hepimiz sizinle gurur duyuyoruz.	Valamennyien büszkék vagyunk rád.	gurur	0	0
+Benim kedim siyah.	A macskám fekete.	siyah	0	0
+Kalp atıyor.	Ver a szíve.	kalp	0	0
+O, cinayetten suçlu değildir.	Nem vétkes a gyilkosságban.	suçlu	0	0
+Cuma günü ne yapmayı planlıyorsun?	Mit tervezel, mit fogsz csinálni pénteken?	yapmayı	0	0
+Tom telefonu duvara fırlattı.	Tom a falhoz dobta a telefont.	telefonu	0	0
+Ben Tom'un annesi değilim.	Én nem vagyok az anyja Tomnak.	annesi	0	0
+Babamı karşılamak için havaalanına gittim.	Mentem a reptérre, apám elé.	gittim	0	0
+Bayan Thomas bize tarih dersi veriyor.	Thomas kisasszony tanítja nekünk a történelmet.	veriyor	0	0
+Hepiniz buraya gelin.	Gyertek ide mind!	hepiniz	0	0
+Tuvalet üst katta.	A vécé az emeleten van.	üst	0	0
+Diyarbakır'da dört sene kaldım.	Négy évig maradtam Diyarbakırban.	kaldım	0	0
+Kadınlar tuvaleti nerede?	Hol vannak a női mosdók?	kadınlar	0	0
+Bu kitap.	Ez a könyv az.	kitap	0	0
+Tanık tek kelime etmeden ortadan kayboldu.	A szemtanú szó nélkül eltűnt.	kelime	0	0
+Ayna ayna söyle bana, benden güzeli var mı dünyada?	Tükröm, tükröm, mondd meg nékem, ki a legszebb a vidéken!	dünyada	0	0
+Doğum günün için sana bir bisiklet vereceğim.	Adni fogok neked egy biciklit a születésnapodra.	günün	0	0
+Bunu satın almak istiyorum.	Ezt meg akarom venni.	satın	0	0
+Tom zengin.	Tom gazdag.	zengin	0	0
+Bira güzeldir.	A sör jó.	bira	0	0
+İngilizce kolay değil ama ilginç.	Az angol nem könnyű, de érdekes.	ilginç	0	0
+Yirmi sekiz yaşındayım.	Huszonnyolc éves vagyok.	sekiz	0	0
+Kimin yardım ettiğini bilmek istemiyor musun?	Nem akarod tudni, hogy ki segített?	ettiğini	0	0
+Mutlu olduğunu söylemiştin.	Azt mondtad, boldog vagy.	söylemiştin	0	0
+En yakın bayanlar tuvaleti nerede?	Hol van a legközelebbi női mosdó?	bayanlar	0	0
+Bir sürü aptalca hatalar yaptım.	Egy rakás ostoba hibát vétettem.	aptalca	0	0
+Çok büyük miktarlarda altın almaya başladı.	Ekezdett nagy mennyiségű aranyat vásárolni.	altın	0	0
+Türkiye'de yaşayan ve çalışan birçok arkadaşım var.	Sok barátom van, akik kint élnek és dolgoznak Törökországban.	çalışan	0	0
+Tom, Mary'yi öldürdü.	Tomi kinyírta Marit.	öldürdü	0	0
+Yaklaşık otuz dakikada geri döndü.	Mintegy harminc percen belül visszaért.	yaklaşık	0	0
+Biz kahvaltı yapıyoruz.	Megreggelizünk.	yapıyoruz	0	0
+Niçin birisi Tom'a yardım etmiyor?	Miért nem segít senki Tomnak?	niçin	0	0
+Deniz çok düzdü.	A tengeren szélcsend volt.	deniz	0	0
+Okula gidiyorum çünkü öğrenmek istiyorum.	Iskolába megyek, mert tanulni akarok.	okula	0	0
+Yolunu kapatıyorsun.	Útban vagy!	yolunu	0	0
+Yaşam güzeldir.	Az élet szép.	yaşam	0	0
+Her zaman herkesi mutlu yapamazsın.	Nem tehetsz mindig mindenkit boldoggá.	herkesi	0	0
+Mary Tom'un kuzeni.	Mary Tom unokatestvére.	mary	0	0
+O ne yapabilir?	Mire képes?	yapabilir	0	0
+Burası gerçekten karanlık. Bir şey göremiyorum.	Igazán nagyon sötét van itt, nem látok semmit.	karanlık	0	0
+O, bilgisayarı satın alıyor.	Ő veszi meg a számítógépet.	alıyor	0	0
+Bu şehirde hiç kimseyi tanımıyorum.	Ebben a városban senkit sem ismerek.	kimseyi	0	0
+Babam sigara içer.	Az apám dohányzik.	sigara	0	0
+Atina'da yaşamak istiyorum.	Athénben szeretnék élni.	yaşamak	0	0
+Sana bir hediye aldım.	Vettem neked egy ajándékot.	hediye	0	0
+Aşırı doz aldı.	Túladagolta magát.	aşırı	0	0
+Bana güven.	Bízz bennem.	güven	0	0
+O tek kardeşine saygı duyuyor.	Tiszteli az egyetlen testvérét.	duyuyor	0	0
+Gözlerini severim.	Tetszik a szemed.	severim	0	0
+Seni görmek isteyen bir kadın var.	Van egy nő, aki látni akar téged.	isteyen	0	0
+Çorbamda sadece bir parça sosis buldum.	Csak egy darab kolbászt találtam a levesemben.	parça	0	0
+Tanık tek kelime etmeden ortadan kayboldu.	A szemtanú szó nélkül eltűnt.	ortadan	0	0
+Araban mavi mi?	A ti kocsitok kék színű?	mavi	0	0
+Çift ​​konuşuyor.	A pár beszél.	çift	0	0
+Alkolizm hayatımı mahvetti.	Az alkoholizmus tönkretette az életemet.	hayatımı	0	0
+“Teşekkür ederim.” — “Rica ederim.”	- Köszönöm. - Nincs mit.	rica	0	0
+Bu kadını tanıyorum.	Ismerem ezt a nőt.	kadını	0	0
+Bana elini Ver! Nedenini daha sonra açıklayacağım.	Add a kezedet! Később megmagyarázom, hogy miért.	elini	0	0
+Kimi öldürdün?	Kit öltél meg?	kimi	0	0
+Sırrımı biliyorsunuz.	Ismeritek a titkomat.	biliyorsunuz	0	0
+Allah'tan başka ilah yoktur.	Nincs más Isten, csak Isten.	tan	0	0
+Erkekler tuvaleti nerede?	Hol vannak a férfimosdók?	erkekler	0	0
+O tek kardeşine saygı duyuyor.	Tiszteli az egyetlen testvérét.	saygı	0	0
+Tren birazdan gelecek.	Mindjárt megérkezik a vonat.	birazdan	0	0
+Bahçe evin arkasında.	A kert a ház mögött van.	evin	0	0
+Ben seni tanıyorum.	Ismerlek én téged.	tanıyorum	0	0
+Yaklaşık otuz dakikada geri döndü.	Mintegy harminc percen belül visszaért.	döndü	0	0
+Ben genelde dokuzdan beşe kadar çalışırım ama bugün ona kadar çalıştım.	Általában kilenctől ötig szoktam dolgozni, de ma tízig dolgoztam.	çalıştım	0	0
+Bir yere gitme.	Ne menj sehova!	gitme	0	0
+İkinci Dünya Savaşı sırasında Amerika'da da toplama kampları vardı. Japonlar toplanıyordu.	Az Egyesült Államokban is voltak koncentrációs táborok a második világháborúban; a japánokat gyűjtötték össze.	İkinci	0	0
+Balık lezzetli değil.	A hal nem finom.	balık	0	0
+İsa Hristiyan değildi.	Jézus nem volt keresztény.	İsa	0	0
+Bu yaz ne yapıyor olacaksın?	Mit fogsz csinálni nyáron?	yaz	0	0
+Perdeleri kapat! Çünkü caddenin karşısındaki evde yaşayan kişi bir röntgencidir.	Húzd be a függönyöket! Azért, mert az utca túloldalán lévő házban lakó ember egy kukkoló.	kapat	0	0
+Karım Filistinlidir.	A feleségem palesztin.	karım	0	0
+Daha fazla gerekli.	Több kell.	gerekli	0	0
+Siz ikiniz mutlu musunuz?	Ti ketten boldogok vagytok?	ikiniz	0	0
+Hayatın anlamı nedir?	Mi az élet értelme?	hayatın	0	0
+Tom'un canı gerçekten dışarı çıkmak istemiyordu.	Tom nem igazán érezte jól magát ahhoz, hogy elmenjen szórakozni.	çıkmak	0	0
+Tom sayılarla kesinlikle iyidir.	Tom bizonyára jól számol.	iyidir	0	0
+Adın listede yok.	A te neved nem szerepel a listán.	adın	0	0
+İlkbahar gelmedi.	Nem érkezett meg a tavasz.	gelmedi	0	0
+Biz kahvaltı ediyoruz.	Megreggelizünk.	ediyoruz	0	0
+Bildiğim kadarıyla, kitap Japoncaya hiç çevrilmedi.	Amennyire én tudom, a könyvet még nem fordították le japánra.	bildiğim	0	0
+Bu inanılmaz!	Ez hihetetlen!	inanılmaz	0	0
+Olaydan ders çıkardık.	Tanultunk az esetből.	ders	0	0
+Tom gelmiyor.	Tom nem jön.	gelmiyor	0	0
+O adamla nereye gittin?	Merre jártál ezzel a pasival?	adamla	0	0
+Bu adam sarhoş.	Ez az ember részeg.	sarhoş	0	0
+Jane, Avustralyalı.	Jane Ausztráliából jött.	jane	0	0
+Ancak bu çok ama çok karmaşık bir mesele.	De ez nagyon, nagyon bonyolult ügy.	mesele	0	0
+Hava soğuk olduğunda eklemlerim ağrıyor.	Az ízületeim fájnak, amikor hidegre fordul az idő.	olduğunda	0	0
+Japonya'da bu göl en derin göldür.	Ez a legmélyebb tó Japánban.	derin	0	0
+Bu yiyecek çok tuzlu.	Ez az étel túl sós.	yiyecek	0	0
+Paris nerede?	Hol van Párizs?	paris	0	0
+Bill Gates çipi kırılır.	Tönkrement Bill Gates chipje.	bill	0	0
+Yarışta birinci oldum.	Első lettem a versenyen.	birinci	0	0
+Beni mağazaya götür.	Vigyen a bolthoz.	götür	0	0
+O zamanlar bunu biliyor muydun?	Tudtad ezt akkor?	muydun	0	0
+Onun arabasını arıyorum.	Az ő kocsiját keresem.	arıyorum	0	0
+İnsan, insanını kurdudur.	Ember embernek farkasa.	İnsan	0	0
+Bu oyunu hatırlıyor musun?	Emlékszel erre a játékra?	oyunu	0	0
+Geniş bir ailesi var.	Nagy családja van.	ailesi	0	0
+Bunu şimdilik atma, evlat!	Ezt még ne dobd ki, fiam!	şimdilik	0	0
+Tom Boston'a giden yolu biliyor.	Tomi jól kiismeri magát Bostonban.	giden	0	0
+O bir sorunu gündeme getirdi.	Föltett egy kérdést.	sorunu	0	0
+Plan nedir?	Mi a terv?	plan	0	0
+Sistemi bilmiyorsun.	Nem ismered a rendszert.	bilmiyorsun	0	0
+Böyle bir hata yapman aptalcaydı.	Nagy butaság volt részedről, ilyen nagy hibát véteni.	yapman	0	0
+Neden buradasın?	Miért vagy itt?	buradasın	0	0
+Bir kız beni aradı.	Egy lány felhívott.	aradı	0	0
+Hayvan yiyor.	Az állat eszik.	hayvan	0	0
+Bu gelmiş geçmiş en iyi metottur.	Közel s távol ez a legjobb módszer.	geçmiş	0	0
+Çay mı, kahve mi?	Teát vagy kávét?	çay	0	0
+Gökyüzü kapalı.	Felhős az ég.	kapalı	0	0
+Sen neredesin?	Hol vagy?	neredesin	0	0
+Tom'un hangi yoldan gittiğini biliyorum.	Tudom, melyik úton ment Tom.	yoldan	0	0
+Biraz zamana ihtiyacım var.	Szükségem van egy kis időre.	zamana	0	0
+Onu sevdim.	Szerettem.	sevdim	0	0
+Ne sürpriz!	Micsoda meglepetés!	sürpriz	0	0
+Hastaneye gitmeliyim.	Kórházba kell mennem.	gitmeliyim	0	0
+Kadın hamile.	A nő terhes.	hamile	0	0
+Ben genelde dokuzdan beşe kadar çalışırım ama bugün ona kadar çalıştım.	Általában kilenctől ötig szoktam dolgozni, de ma tízig dolgoztam.	genelde	0	0
+Kasabayı ziyaret edenler yıldan yıla artıyor.	A városba látogatók száma évről évre növekszik.	ziyaret	0	0
+Sevgilim bilmiyor.	A kedvesem nem tudja.	sevgilim	0	0
+Tom'un iki oğlu var, İkisi de Boston'da yaşıyor.	Tomnak két fia van, mindkettő Bostonban lakik.	oğlu	0	0
+Uçaklardan korkuyorum.	Félek a repülőgépektől.	korkuyorum	0	0
+Bahçe evin arkasında.	A kert a ház mögött van.	arkasında	0	0
+Ne öğrenmek istersin?	Mit akarsz tanulni?	istersin	0	0
+Gençken çok çalışmak zorundaydım.	Keményen kellett dolgoznom, amikor fiatal voltam.	çalışmak	0	0
+Sanırım kendim bununla baş edebilirim.	Úgy gondolom, hogy ezt magam is el tudom intézni.	edebilirim	0	0
+Canı cehenneme! Tüm benzin bu kadar!	Az ördögbe! Ez az össz benzin!	cehenneme	0	0
+En sevdiğim kalemi kaybettim.	Elvesztettem a kedvenc ceruzámat.	sevdiğim	0	0
+O, büyük bir ev ve iki arabaya sahipti.	Volt egy nagy háza és két kocsija.	arabaya	0	0
+Cevabını bekliyorum.	Várom a válaszod.	bekliyorum	0	0
+Tom konuşmaya devam etti.	Tovább beszélt Tom.	konuşmaya	0	0
+Tom'un hangi yoldan gittiğini biliyorum.	Tudom, melyik úton ment Tom.	gittiğini	0	0
+Bir kaleme ihtiyacınız varsa, size bir tane ödünç veririm.	Ha toll kell, tudok kölcsönadni neked egyet.	veririm	0	0
+O akıllı.	Okos.	akıllı	0	0
+Bisikletimi buldu.	Megtalálta a kerékpáromat.	buldu	0	0
+Tom çayına çok fazla şeker koyar.	Tom túl sok cukrot tesz a kávéjába.	şeker	0	0
+Şarap içiyorum.	Bort iszom.	şarap	0	0
+Tam gece yarısı.	Pontban éjfél van.	yarısı	0	0
+Orada değildim.	Én nem voltam ott.	değildim	0	0
+Evli değil misin?	Házas vagy?	evli	0	0
+Çocukların var mı?	Vannak gyerekeid?	çocukların	0	0
+O asker değil.	Ő nem katona.	asker	0	0
+Kendini öldürmeye çalıştı.	Megkísérelte megölni magát.	öldürmeye	0	0
+Lütfen dene.	Kérlek, próbáld meg!	dene	0	0
+Bildiğim kadarıyla, kitap Japoncaya hiç çevrilmedi.	Amennyire én tudom, a könyvet még nem fordították le japánra.	kadarıyla	0	0
+Saatim bir günde beş dakika geri kalır.	Az órám naponta öt percet késik.	günde	0	0
+Şeytan nerede yaşıyor?	Hol lakik az ördög?	şeytan	0	0
+Teşekkür ederiz!	Köszönöm!	ederiz	0	0
+O aramızda popüler.	Köztünk ő híres.	aramızda	0	0
+Şapkamı kaybettim.	Elvesztettem a sapkámat.	kaybettim	0	0
+Sanırım Tom itiraf ettiğinden daha çok şey biliyor.	Azt hiszem, Tomi többet tud, mint amennyit elárul.	itiraf	0	0
+Gözlerini severim.	Tetszik a szemed.	gözlerini	0	0
+Müzik dinlemekten keyif aldık.	Élveztük a zenehallgatást.	aldık	0	0
+Atları sever misin?	Szereted a lovakat?	sever	0	0
+Kim İngilizce konuşabilir?	Ki tud angolul?	konuşabilir	0	0
+Babam odasında.	Apám a szobájában van.	odasında	0	0
+Daima mutlusun.	Te mindig boldog vagy.	daima	0	0
+Ailem küçük.	Kis családom van.	ailem	0	0
+Tahran'a kamyonla seyahat ettik.	Teherautón utaztunk Teheránba.	ettik	0	0
+Pazartesi günü işten sonra yemeğe gelmek ister misin?	Volna kedved hétfőn munka után eljönni vacsorázni?	yemeğe	0	0
+Yalnız kalmak istediklerini söylediler.	Azt mondták, egyedül akarnak lenni.	söylediler	0	0
+Almanca konuşuyor musun?	Beszélsz németül?	konuşuyor	0	0
+İyi notlar alırım.	Jó jegyeket kapok.	alırım	0	0
+Türkiye'de yaşayan ve çalışan birçok arkadaşım var.	Sok barátom van, akik kint élnek és dolgoznak Törökországban.	yaşayan	0	0
+Burada söyleyecek başka bir şey yok.	Itt nem lehet mást mondani.	söyleyecek	0	0
+Yapmak zorunda olduğumuz başka bir şey olması gerektiğini sandım.	Feltételeztem, hogy volt valami más, amit csinálnunk kellett.	sandım	0	0
+İkinci Dünya Savaşı sırasında Amerika'da da toplama kampları vardı. Japonlar toplanıyordu.	Az Egyesült Államokban is voltak koncentrációs táborok a második világháborúban; a japánokat gyűjtötték össze.	sırasında	0	0
+Konuştum.	Beszéltem.	konuştum	0	0
+Onlar yabancı.	Ők külföldiek.	yabancı	0	0
+Deniz yeşil.	Zöld a tenger.	yeşil	0	0
+Elimizden gelenin fazlasını yapalım.	Tegyünk meg minden tőlünk telhetőt.	fazlasını	0	0
+Mary çok ileri gitti.	Mary túl messzire ment.	ileri	0	0
+Mektup bitti.	Megszületett a levél.	mektup	0	0
+Anneler Günü'nde anneme 19 çiçek verdim.	Anyák napjára 19 szál virágot adtam anyámnak.	nde	0	0
+Çin malı.	Made in China.	çin	0	0
+Gerçekten bilmiyoruz.	Valóban nem tudjuk.	bilmiyoruz	0	0
+Kaç tane kız kardeşin var?	Hány lánytestvéred van?	kardeşin	0	0
+Tom'un ismi listede.	Tom neve szerepel a listán.	ismi	0	0
+Hastaneye dönmeliyim.	Vissza kell mennem a kórházba.	hastaneye	0	0
+Pazartesi günü işten sonra yemeğe gelmek ister misin?	Volna kedved hétfőn munka után eljönni vacsorázni?	işten	0	0
+Elma ağaçtan düştü.	Leesett a fáról az alma.	düştü	0	0
+Kızgın mısın?	Dühös vagy?	kızgın	0	0
+Öğle yemeği masada.	Az ebéd az asztalon van.	öğle	0	0
+Kuran çok ilgi çekici bir kitap.	A Korán egy érdekes könyv.	çekici	0	0
+Tamam, hazırım.	Na, én kész vagyok.	hazırım	0	0
+Bunlardan herhangi birini ilginç bulmuyorum.	Nem találok ebben semmi érdekeset.	bunlardan	0	0
+Yalnız geleceğim.	Egyedül jövök.	geleceğim	0	0
+Bu adam yakışıklı.	Ez a férfi jól néz ki.	yakışıklı	0	0
+Bu zor bir seçim.	Ez egy nehéz döntés.	seçim	0	0
+Tom yağmur yağışını izlerken üzücü bir şarkı dinledi.	Tom szomorú zenét hallgatott, miközben nézte az esőt.	yağmur	0	0
+Rüya görüyordu.	Álmodik.	rüya	0	0
+En az meşgul olduğum gün cumadır.	Pénteken vagyok a legkevésbé elfoglalt.	meşgul	0	0
+Ne yaptığımı biliyorum.	Tudom, hogy mit tettem.	yaptığımı	0	0
+Tom'la karşılaştığımı hiç hatırlamıyorum.	Nem emlékszem, hogy valaha is találkoztam volna Tommal.	hatırlamıyorum	0	0
+Tom, Mary'nin akşam yemeği parasını yürüttü.	Tamás ellopta Mária tízórai pénzét.	parasını	0	0
+Ona derhal geri gelmesini tavsiye ettim.	Tanácsoltam neki, hogy rögtön jöjjön vissza.	derhal	0	0
+O bir sorunu gündeme getirdi.	Föltett egy kérdést.	getirdi	0	0
+Kabil iyi bir kardeş değildi.	Káin nem volt jó testvér.	kardeş	0	0
+Niçin birisi Tom'a yardım etmiyor?	Miért nem segít senki Tomnak?	etmiyor	0	0
+Kötü müdür?	Ez rossz?	müdür	0	0
+Öğrendim artık.	Tanulok már.	öğrendim	0	0
+İkinci Dünya Savaşı sırasında Amerika'da da toplama kampları vardı. Japonlar toplanıyordu.	Az Egyesült Államokban is voltak koncentrációs táborok a második világháborúban; a japánokat gyűjtötték össze.	savaşı	0	0
+Suyu içmedim.	Nem ittam meg a vizet.	suyu	0	0
+Oturun, lütfen.	Ülj le, kérlek.	oturun	0	0
+Mutluyum.	Boldog vagyok.	mutluyum	0	0
+Bu bir cep telefonudur.	Ez egy mobiltelefon.	cep	0	0
+Hiçbir şey imkansız değildir. Kelimenin kendisi "Ben mümkünüm!" diyor.	Semmi sem lehetetlen. A szó maga azt mondja: Lehetséges vagyok!	imkansız	0	0
+Biz birlikte çalışıyoruz.	Együtt dolgozunk.	çalışıyoruz	0	0
+Telefonunu kaldır ve beni dinle.	Tedd félre a telefonodat és figyelj rám.	kaldır	0	0
+Kimi öldürdün?	Kit öltél meg?	öldürdün	0	0
+Günün nasıldı?	Milyen volt a napod?	nasıldı	0	0
+Dan yeni bir bilgisayar satın aldı.	Dani új számítógépet vett.	bilgisayar	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	dokuz	0	0
+Tom'un odası oldukça küçük.	Tom szobája elég kicsi.	odası	0	0
+"Esperanto: Avrupa veya Asya dili" denemesinde Claude Piron, Esperanto ve Çince arasındaki benzerliği gösterdi ve Esperanto'nun yalnızca Avrupa merkezli olduğunu ortaya koydu.	"Eszperantó: európai vagy ázsiai nyelv" című tanulmányában Claude Piron kimutatta a hasonlóságot az eszperantó és a kínai nyelv között, így cáfolta azt a gondolatot, hogy az eszperantó tisztán európai nyelv.	arasındaki	0	0
+Bahsettiğin kişiyi tanıyorum.	Ismerem, akiről beszélsz.	kişiyi	0	0
+Neden gittin?	Miért mentél el?	gittin	0	0
+Söyleyecek bir şeyim yoktu.	Nincs mit mondanom.	şeyim	0	0
+Uçak yere düştü.	Lezuhant a gép.	uçak	0	0
+Babamı karşılamak için havaalanına gittim.	Mentem a reptérre, apám elé.	babamı	0	0
+Bu odada on kişi var.	Ebben a szobában tíz ember van.	odada	0	0
+Bu gömlek biraz bol.	Ez az ing kissé bő.	bol	0	0
+Kuş öldü.	A madár elpusztult.	kuş	0	0
+Ben kahraman değilim.	Nem vagyok hős.	kahraman	0	0
+Daha fazla doktora acil bir ihtiyaç vardır.	Sürgősen szükség van több orvosra.	ihtiyaç	0	0
+Karın var mı?	Van feleséged?	karın	0	0
+Kedi nerede?	Hol van a macska?	kedi	0	0
+Onu teyit edemem.	Nem tudom ezt megerősíteni.	edemem	0	0
+Al sana problem.	Ez itt a probléma.	problem	0	0
+Günaydın, nasılsınız?	Jó reggelt! Hogy van?	nasılsınız	0	0
+İkimiz de uykuya daldık.	Mindketten elaludtunk.	İkimiz	0	0
+Bir an bile tereddüt etmeden , komploya karşı şiddetle harekete geçtiler.	Tétovázás nélkül, azonnali intézkedéseket tettek az összeesküvés ellen.	harekete	0	0
+Bu korkunç canavar Sfenks'ti.	Ez a rettenetes szörny volt a Szfinx.	canavar	0	0
+Tom İngilizce konuşmayı Fransızca konuşmaktan çok daha kolay buluyor.	Tamás sokkal könnyebbnek találja az angolt a franciánál.	konuşmayı	0	0
+Maalesef doğru.	Sajnos igaz.	maalesef	0	0
+Kiminle konuşuyordun?	Kivel beszéltél?	kiminle	0	0
+Ona derhal geri gelmesini tavsiye ettim.	Tanácsoltam neki, hogy rögtön jöjjön vissza.	tavsiye	0	0
+O zamanlar çok çalışıyordum.	Sokat dolgoztam akkor.	çalışıyordum	0	0
+Pazar günü Rabbin Günüdür.	Vasárnap az Úr napja.	pazar	0	0
+Japonya Doğu Asya'dadır.	Japán Kelet-Ázsiában van.	doğu	0	0
+Onu çıplak gördüm.	Láttam őt csupaszon.	çıplak	0	0
+Yarın, yarın, bugün değil - der bütün tembel insanlar.	Holnap, holnap, ma nem – mondja minden lusta ember.	der	0	0
+Her zaman herkesi mutlu yapamazsın.	Nem tehetsz mindig mindenkit boldoggá.	yapamazsın	0	0
+Golf oynamak istedim.	Golfozni akartam.	oynamak	0	0
+Lütfen bu kitabı oku.	Kérlek, olvasd el ezt a könyvet.	kitabı	0	0
+Buradayız.	Itt vagyunk.	buradayız	0	0
+Doktor bebeği muayene etti.	Az orvos megvizsgálta a kisbabát.	bebeği	0	0
+O soruya cevap veremem.	Ezt a kérdést nem válaszolhatom meg.	veremem	0	0
+O hâlâ enerji dolu.	Mindig tele van energiával.	enerji	0	0
+Sizce hangisi doğru?	Ön szerint melyik a helyes?	hangisi	0	0
+Kendimi kötü hissettim.	Rosszul éreztem magam.	hissettim	0	0
+O, arkadaşlarına ihanet edecek son kişidir.	Ő az utolsó, aki elárulná a barátait.	ihanet	0	0
+O, on yıl çalıştı.	Tíz évig tanult.	çalıştı	0	0
+Bugün okulda ne öğrendin?	Mit tanultál ma a suliban?	okulda	0	0
+Sami seni gördü.	Sami látott téged.	gördü	0	0
+Ne görüyorsun?	Mit látsz?	görüyorsun	0	0
+Babam annemi seviyor.	Az Apám szereti Anyámat.	annemi	0	0
+Sizce hangisi doğru?	Szerintetek melyik a helyes?	sizce	0	0
+Cuma günü bir randevum var.	Pénteken randevúm van.	cuma	0	0
+Ne yaparsın?	Mit csinálsz?	yaparsın	0	0
+Gece boyunca kar yağdı.	Egész éjszaka esett a hó.	kar	0	0
+Bize yardım ettiler.	Segítettek nekünk.	ettiler	0	0
+Sistemi bilmiyorsun.	Nem ismered a rendszert.	sistemi	0	0
+Bunu nasıl yapacağını biliyor musun?	Tudod, hogyan kell ezt csinálni?	yapacağını	0	0
+Tom'un doğruyu söylememesi mümkündür.	Lehet, hogy Tom nem mond igazat.	doğruyu	0	0
+Nihayet bugün Cuma.	Hallelulja, péntek!	nihayet	0	0
+Kazanmak istiyor musun?	Nyerni akarsz?	kazanmak	0	0
+O, kamyonda uyuyor.	A kamionban alszik.	uyuyor	0	0
+Neden hala konuşuyorsun?	Miért beszélsz még mindig?	konuşuyorsun	0	0
+Tom, Mary'yi yıllardır tanımaktadır.	Tom évek óta ismeri Marit.	yıllardır	0	0
+Sizi göremiyorum.	Nem látlak titeket.	göremiyorum	0	0
+Hangisi daha büyüktür, Japonya mı yoksa İngiltere mi?	Melyik nagyobb, Japán vagy Anglia?	İngiltere	0	0
+Hayatının geri kalan kısmını hapishanede geçirmeyi gerçekten istiyor musun?	Valóban börtönben szeretnéd tölteni életed hátralevő részét?	hayatının	0	0
+Amerikalı bir kızla tanıştım.	Találkoztam egy amerikai nővel.	kızla	0	0
+Bizde çok var.	Sok van nekünk belőle.	bizde	0	0
+Sanat nedir?	Mi a művészet?	sanat	0	0
+Kız hiçbir şey söylemedi.	Semmit sem mondott a lány.	söylemedi	0	0
+Onun çok fazla parası yok.	Nincs sok pénze.	parası	0	0
+Başlangıç kolaydır.	A kezdet könnyű.	başlangıç	0	0
+Batı kültüründe Attila "Tanrı'nın kırbacı" ismiyle bilinir.	A nyugati kultúrában Attilát Isten ostoraként ismerik.	batı	0	0
+Arabada değildi.	Nem volt a kocsiban.	arabada	0	0
+Tavuk çiğ.	Nyers a csirke.	tavuk	0	0
+Banka kapalı.	Zárva a bank.	banka	0	0
+Ben Fransız değilim.	Nem vagyok francia.	fransız	0	0
+Üç kilo soğan istiyorum.	Három kiló hagymát kérek.	kilo	0	0
+Bana dokunma!	Ne érj hozzám!	dokunma	0	0
+Ameliyat başarılıydı.	A műtét sikerült.	ameliyat	0	0
+Benim kredi kartım nerede?	Hol van a hitelkártyám?	kredi	0	0
+Yapmak zorunda olduğumuz başka bir şey olması gerektiğini sandım.	Feltételeztem, hogy volt valami más, amit csinálnunk kellett.	olduğumuz	0	0
+Bayan Thomas bize tarih dersi veriyor.	Thomas kisasszony tanítja nekünk a történelmet.	thomas	0	0
+Ben testlerde başarısız oldum.	Megbuktam.	başarısız	0	0
+Eğitim her şeyden önemlidir.	Az oktatás mindennél fontosabb.	eğitim	0	0
+Tom bütün öğleden sonra yakacak odun doğradı.	Tomi egész délután tűzifát vágott.	öğleden	0	0
+Onda ne buluyorsun?	Mi fogott meg benne?	onda	0	0
+Şirketimizin birçok şehirde şubeleri var.	Társaságunknak sok városban van fiókja.	şehirde	0	0
+Bunda iyiyim.	Jó vagyok benne.	bunda	0	0
+Param var.	Van pénzem.	param	0	0
+Donald Trump iflah olmaz bir yalancı.	Donald Trump beteges hazudozó.	yalancı	0	0
+Bir tanık vardı.	Egy tanú volt.	tanık	0	0
+Emily bana bir soru sordu.	Emília föltett nekem egy kérdést.	emily	0	0
+Tom Mary'ye anlamlı bir bakış attı.	Tom egy jelentőségteljes pillantást vetett Marira.	attı	0	0
+Öldür onu.	Öld meg!	öldür	0	0
+Bugün cumartesi.	Szombat van ma.	cumartesi	0	0
+Televizyon insanları aptallaştırır.	A televízió hülyévé teszi az embereket.	televizyon	0	0
+Tom'un ne dediğini duydum.	Hallottam, amit Tomi mond.	dediğini	0	0
+Hepimiz hatalar yaparız.	Mindannyian hibázunk.	yaparız	0	0
+Sanırım Tom'un fikri iyi bir fikir.	Úgy gondolom, hogy Tom ötlete jó.	fikri	0	0
+Saatim bir günde beş dakika geri kalır.	Az órám naponta öt percet késik.	kalır	0	0
+Günaydın, aşkım.	Jó reggelt, szerelmem!	aşkım	0	0
+Bugün neye ihtiyacınız var?	Ma mi kell nektek?	ihtiyacınız	0	0
+Hayaletlerin varlığına inanıyor.	Hisz a kísértetekben.	inanıyor	0	0
+Benim evime gidelim!	Menjünk át hozzám!	evime	0	0
+Tom Boston'a gitmeye karar verdi.	Tom elhatározta, hogy Bostonba megy.	gitmeye	0	0
+Bir beyefendi öyle bir şeyi asla yapmazdı.	Egy úriember sosem tenne ilyet.	beyefendi	0	0
+Güle güle kullan.	Használja egészséggel!	kullan	0	0
+Bana elini Ver! Nedenini daha sonra açıklayacağım.	Add a kezedet! Később megmagyarázom, hogy miért.	nedenini	0	0
+Ne kadar zamanın var?	Mennyi időd van?	zamanın	0	0
+Futbol bir spordur.	A futball egy sport.	futbol	0	0
+Tren gecikmeli ayrılacak.	A vonat késve indul.	tren	0	0
+Ben seni saat 7'de arayacağım.	Hét órakor felhívlak.	arayacağım	0	0
+Bizim elma ağacı çiçek açıyor.	Virágzik az almafánk.	çiçek	0	0
+Bayan Thomas bize tarih dersi veriyor.	Thomas kisasszony tanítja nekünk a történelmet.	tarih	0	0
+Okul dokuzda başlar.	A suli kilenckor kezdődik.	başlar	0	0
+Ben kahvaltı yemem.	Nem szoktam reggelizni.	kahvaltı	0	0
+Neden dün evde kaldın?	Miért maradtál tegnap otthon?	kaldın	0	0
+Kadına merhaba dedi.	Köszönt a nőnek.	kadına	0	0
+Ben tarihi severim.	Szeretem a történelmet.	tarihi	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nem akarom, hogy az országom az Európai Unió tagjává váljon.	avrupa	0	0
+Tanık tek kelime etmeden ortadan kayboldu.	A szemtanú szó nélkül eltűnt.	kayboldu	0	0
+Sevgi her şeydir.	A szerelem minden.	sevgi	0	0
+Taksi pahalıdır.	A taxi drága.	taksi	0	0
+Bu bilezik çok ucuz.	Nagyon olcsó ez a karperec.	ucuz	0	0
+Bay Bush, Bay Gore'dan biraz daha fazla oy aldı.	Bush több szavazatot kapott, mint Gore.	oy	0	0
+Şimdi eve gidebilir miyim?	Hazamehetek most?	gidebilir	0	0
+Çapraşık olabilirdi.	Elbonyolódott az ügy.	olabilirdi	0	0
+Bir yılda dört mevsim vardır.	Egy évben négy évszak van.	yılda	0	0
+Daha fazla paraya ihtiyacım olacak.	Több pénzre lesz szükségem.	paraya	0	0
+Bu şehirde hiç kimseyi tanımıyorum.	Ebben a városban senkit sem ismerek.	tanımıyorum	0	0
+Birçok yat limandadır.	Elég sok jacht van a kikötőben.	yat	0	0
+Susan, Jill için bir elbise yaptı.	Susan egy ruhát készített Jillnek.	elbise	0	0
+On, on bir, on iki, on üç, on dört, on beş, on altı, on yedi, on sekiz, on dokuz, yirmi.	Tíz, tizenegy, tizenkettő, tizenhárom, tizennégy, tizenöt, tizenhat, tizenhét, tizennyolc, tizenkilenc, húsz.	yirmi	0	0
+Onun çok pahalı bir saati var.	Neki egy nagyon drága órája van.	pahalı	0	0
+Sanırım Tom fikrini değiştirdi.	Feltételezem, hogy Tomi megváltoztatta a véleményét.	fikrini	0	0
+Riga'da yaşıyorum.	Rigában élek.	yaşıyorum	0	0
+Onunla tanışmayı tercih etmiyorum.	Inkább nem találkoznék vele.	etmiyorum	0	0
+Öncelikle karar verilmesi gereken şey üzerinde karar veririz sonra iki takıma ayrılırız.	Először eldöntjük, mit kell eldönteni, aztán két csapatra oszlunk.	öncelikle	0	0
+Su kaç derecede donar?	Hány fokon fagy a víz?	derecede	0	0
+Genellikle saat on'dan önce yatmaya giderim.	Általában tíz előtt lefekszem.	giderim	0	0
+Genellikle saat on'dan önce yatmaya giderim.	Általában tíz előtt lefekszem.	genellikle	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nem akarom, hogy az országom az Európai Unió tagjává váljon.	üyesi	0	0
+Tom bir fabrikada çalışıyordu.	Tom egy gyárban dolgozott.	çalışıyordu	0	0
+Okula giderken trafik kazası geçirdi.	Közlekedési balesetet szenvedett az iskolába menet.	giderken	0	0
+Hastanede çalışıyorum.	Kórházban dolgozom.	hastanede	0	0
+Saati ne zaman aldın.	Mikor vetted az órát?	saati	0	0
+Profesyonel değilim.	Nem vagyok profi.	profesyonel	0	0
+Kuran çok ilgi çekici bir kitap.	A Korán egy érdekes könyv.	ilgi	0	0
+Neden herkes bize bakıyor?	Miért néz minket mindenki?	bakıyor	0	0
+Anahtar masanın üstünde.	A kulcs a polcon van.	anahtar	0	0
+Bir kaleme ihtiyacınız varsa, size bir tane ödünç veririm.	Ha toll kell, tudok kölcsönadni neked egyet.	ödünç	0	0
+Bir şişe bira ne kadar?	Mennyibe kerül egy üveg sör?	şişe	0	0
+Bu çok romantik değil.	Ez nem túl romantikus.	romantik	0	0
+Ben sağlıklı değilim.	Nem vagyok egészséges.	sağlıklı	0	0
+Benim iki çocuğum var.	Két gyerekem van.	çocuğum	0	0
+Telefonda konuşuyor.	Telefonon beszél.	telefonda	0	0
+Yurtdışından getirilmiş arabası var.	Külföldről hozott kocsija van.	arabası	0	0
+Seni görebiliyorum.	Látlak.	görebiliyorum	0	0
+Mısır Nil'in hediyesidir.	Egyiptom a Nílus ajándéka.	mısır	0	0
+Tom da bir Yahudi.	Tom is zsidó.	yahudi	0	0
+Anneler Günü'nde anneme 19 çiçek verdim.	Anyák napjára 19 szál virágot adtam anyámnak.	anneme	0	0
+Benden şüphe ediyor musun?	Kételkedsz bennem?	şüphe	0	0
+Yardım etmeliyim.	Segítenem kell.	etmeliyim	0	0
+Tom şampanya içmek istiyor.	Tom pezsgőt akar inni.	içmek	0	0
+Tavuk harikaydı.	Nagyon jó volt a csirke.	harikaydı	0	0
+Film izlemek ister misin?	Szeretnél filmet nézni?	izlemek	0	0
+Hangisi benimki?	Melyik az enyém?	benimki	0	0
+Öğrenci değilim.	Nem vagyok diák.	öğrenci	0	0
+Fiziksel çöküşü önleyin.	Előzze meg a fizikai összeomlást!	fiziksel	0	0
+Diş hekimi olmak istiyorum.	Fogász akarok lenni.	diş	0	0
+Kimi bekliyorsun?	Kit vársz?	bekliyorsun	0	0
+Hiç bıçak yok.	Nincs kés.	bıçak	0	0
+Süt içiyordum.	Tejet ittam.	süt	0	0
+Kendinden nefret ediyor.	Utálja magát.	kendinden	0	0
+Hitler Yahudilerden nefret ediyordu.	Hitler gyűlölte a zsidókat.	ediyordu	0	0
+Kitabı okudum.	Elolvastam a könyvet.	okudum	0	0
+İlkbahar gelmişti.	Megérkezett a tavasz.	gelmişti	0	0
+Yalnız seyahat ediyorum.	Egyedül utazom.	seyahat	0	0
+İngilizce cevap ver.	Angolul válaszolj!	İngilizce	0	0
+Tom'un iki oğlu var, İkisi de Boston'da yaşıyor.	Tomnak két fia van, mindkettő Bostonban lakik.	İkisi	0	0
+Ken, tanıştığımıza memnun oldum!	Örülök, hogy megismertelek Ken.	tanıştığımıza	0	0
+Bu nehir geniş.	Széles ez a folyó.	geniş	0	0
+Tom, hiç Carlo Pedersoli ismini duydun mu?	Tom, hallottad már a Carlo Pedersoli nevet?	ismini	0	0
+Evim istasyona yakın.	Közel van a házam az állomáshoz.	evim	0	0
+Benim zamanım yok.	Nem érek rá.	zamanım	0	0
+Senin için haberim var.	Újságaim vannak a számodra.	haberim	0	0
+Onun sarı saçı var.	Szőke haja van.	sarı	0	0
+En iyi dost kitaptır.	A könyv a legjobb barát.	dost	0	0
+Ben altı gün okulu kaçırdım.	Hat napot hiányoztam az iskolából.	okulu	0	0
+Hangisini seviyorsun?	Melyik tetszik?	seviyorsun	0	0
+Geceleri duş almayı severim.	Szeretek éjjel zuhanyozni.	geceleri	0	0
+Geceleri duş almayı severim.	Szeretek éjjel tusolni.	almayı	0	0
+Tom yağmur yağışını izlerken üzücü bir şarkı dinledi.	Tom szomorú zenét hallgatott, miközben nézte az esőt.	üzücü	0	0
+Bize yardım ettiniz.	Segítettetek nekünk.	ettiniz	0	0
+Hemşire olmak istiyorum.	Nővér akarok lenni.	hemşire	0	0
+Tom eski bozuk paraları topladı.	Tom régi érmeket gyűjtött.	bozuk	0	0
+Hakim nerede?	Hol van a bíró?	hakim	0	0
+Bana bir bardak su ver.	Adj egy pohár vizet.	bardak	0	0
+Babama sorular soruyorum.	Apámtól kérdezősködöm.	babama	0	0
+Ancak bu çok ama çok karmaşık bir mesele.	De ez nagyon, nagyon bonyolult ügy.	karmaşık	0	0
+Ben ondan bıktım.	Torkig vagyok vele.	bıktım	0	0
+Kliması olan bir odayı tercih derim.	Egy klimatizált szobát szeretnék.	derim	0	0
+Susan, Jill için bir elbise yaptı.	Susan egy ruhát készített Jillnek.	susan	0	0
+Baykuşların büyük gözleri olur.	A baglyoknak nagy szemük van.	gözleri	0	0
+O, kazadan sonra bilincini kaybetti.	A baleset következtében elvesztette az eszmelétét.	kaybetti	0	0
+Onlar yeni bir hükümet seçtiler.	Új vezetőséget választottak.	hükümet	0	0
+O, benden iki yaş daha büyüktür.	Két évvel idősebb, mint én.	yaş	0	0
+O, bas gitar çalar.	Basszusgitáron játszik.	bas	0	0
+Kralı öldürdüm.	Megöltem a királyt.	öldürdüm	0	0
+Kendimizi koronavirüsten nasıl koruyabiliriz?	Hogyan védekezhetünk a koronavírus ellen?	kendimizi	0	0
+Ekmek yiyip su iç.	Egyél kenyeret és igyál vizet.	ekmek	0	0
+İyi müziği takdir ederim.	Szeretem a jó zenét.	takdir	0	0
+Sola dön.	Fordulj balra!	sola	0	0
+İlginç bir şey görüyor musun?	Látsz valami érdekeset?	İlginç	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nem akarom, hogy az országom az Európai Unió tagjává váljon.	birliği	0	0
+Tom'un bilgisayarı cevap vermiyor.	Tom számítógépe nem válaszol.	vermiyor	0	0
+O korkuyor.	Fél.	korkuyor	0	0
+Gözlüğünü tak.	Tedd fel a szemüveged!	tak	0	0
+Şu anda herhangi bir tehlike değiliz.	Nem vagyunk veszélyben most.	tehlike	0	0
+Hatasını kabul etmedi.	Nem akarta beismerni hibáit.	etmedi	0	0
+Bu hassas bir soru.	Kényes kérdés.	hassas	0	0
+Tom bugün biraz keyifsiz hissediyor.	Tom ma nincs igazán formában.	hissediyor	0	0
+Fabrikamız bütün şehre süt tedarik etmektedir.	A mi gyárunk látja el tejjel az egész várost.	şehre	0	0
+Telefonunu kaldır ve beni dinle.	Tedd félre a telefonodat és figyelj rám.	telefonunu	0	0
+Konuşma iki saat sürdü.	A beszéd két órán át tartott.	sürdü	0	0
+Neredeydin, Tom?	Tamás, hol voltál?	neredeydin	0	0
+Seni seviyorum, kalbim.	Szeretlek, kedvesem.	kalbim	0	0
+Bu otobüs elli kişilik.	Ez az autóbusz ötven személyes.	kişilik	0	0
+Sadece soruyorum.	Csak kérdezem.	soruyorum	0	0
+İki tane alana bir tane bedava.	Kettőt fizet, hármat vihet.	bedava	0	0
+Sevgi her şeydir.	A szerelem minden.	şeydir	0	0
+O, üç yıl önceydi.	Ez három évvel ezelőtt volt.	önceydi	0	0
+Kendine inan.	Bízzál magadban.	inan	0	0
+Banyo hazır mı?	Kész a fürdő?	banyo	0	0
+Ekmek taze.	A kenyér friss.	taze	0	0
+Onun bir kedisi ve iki köpeği var.	Van egy macskája és két kutyája.	köpeği	0	0
+Beni tanıyorsun.	Ismersz engem.	tanıyorsun	0	0
+Çorabında bir delik var.	Lyukas a zoknid.	delik	0	0
+O Amerikalı bir Yahudi.	Ő egy zsidó amerikai.	amerikalı	0	0
+Pantolonun kirli.	Piszkos a nadrágod.	kirli	0	0
+Face'im yok.	Nincs Face-em.	im	0	0
+Sağa dön.	Fordulj jobbra!	sağa	0	0
+Bu çok güzel bir ağaç.	Ez egy nagyon szép fa.	ağaç	0	0
+Sanırım Tom'u seven biri bir yerde vardır.	Feltételezem, hogy valahol van valaki, aki bírja Tomit.	seven	0	0
+Ateşli silah kullanabilir misin?	Tudsz lőfegyvert használni?	ateşli	0	0
+Ne alacaksın?	Mit veszel?	alacaksın	0	0
+Hadi hamilelik testi yaptıralım.	Csináljunk egy terhességi tesztet.	testi	0	0
+Banyo yapıyordum.	Fürödtem.	yapıyordum	0	0
+Anneni seviyor musun?	Szereted édesanyádat?	anneni	0	0
+Saat iki buçuk.	Fél három van.	buçuk	0	0
+Kapı yavaşça açıldı.	Az ajtó lassan kinyílt.	yavaşça	0	0
+Bir planın var mı?	Van terved?	planın	0	0
+Bu radyo cihazı çalışmıyor.	Ez a rádiókészülék nem működik.	çalışmıyor	0	0
+Maçın sonucu performansına bağlı.	A mérkőzés kimenetele az ő teljesítményétől függ.	sonucu	0	0
+Ona derhal geri gelmesini tavsiye ettim.	Tanácsoltam neki, hogy rögtön jöjjön vissza.	gelmesini	0	0
+Doktora ihtiyacım yok.	Nincs szükségem orvosra.	doktora	0	0
+O hâlâ yatakta.	Még ágyban van.	yatakta	0	0
+Pazartesi günü çalışıyor musun?	Hétfőn dolgozol?	pazartesi	0	0
+Geceleri duş almayı severim.	Szeretek éjjel tusolni.	duş	0	0
+Tom Mary'ye anlamlı bir bakış attı.	Tom egy jelentőségteljes pillantást vetett Marira.	bakış	0	0
+Hayatının geri kalan kısmını hapishanede geçirmeyi gerçekten istiyor musun?	Valóban börtönben szeretnéd tölteni életed hátralevő részét?	kısmını	0	0
+Odama gelme.	Ne gyere be a szobámba!	gelme	0	0
+Ben rock seviyorum.	Szeretem a rockot.	rock	0	0
+Okula giderken trafik kazası geçirdi.	Közlekedési balesetet szenvedett az iskolába menet.	geçirdi	0	0
+Biraz vücut losyonuna ihtiyacım var.	Nincs szükségem testápolóra.	vücut	0	0
+Kimi bekliyoruz?	Kire várunk?	bekliyoruz	0	0
+Ben bir taksi bekliyordum.	Taxira vártam.	bekliyordum	0	0
+Oyuncu, faul nedeniyle sarı kart gördü.	A játékos sárga lapot kapott a szabálytalanságért.	kart	0	0
+Ben sorular soruyorum.	Kérdéseket teszek fel.	sorular	0	0
+Chicago'da bir hastane var mı?	Van Chicagóban kórház?	hastane	0	0
+Onu herhangi bir kitapçıda alabilirsin.	Ezt minden könyvesboltban meg tudod venni.	alabilirsin	0	0
+O yorgun.	Fáradt.	yorgun	0	0
+Onu yapmayacağım.	Ezt én nem fogom megtenni.	yapmayacağım	0	0
+Balık lezzetli değil.	A hal nem finom.	lezzetli	0	0
+Tanık tek kelime etmeden ortadan kayboldu.	A szemtanú szó nélkül eltűnt.	etmeden	0	0
+Kralı öldürdüm.	Megöltem a királyt.	kralı	0	0
+Oğlumu seviyorum.	Szeretem a fiamat.	oğlumu	0	0
+Hangi şehirde yaşıyorsun?	Melyik városban laksz?	yaşıyorsun	0	0
+Tom, Mary'ye büyükannesini sordu.	Tom a nagymamája felől kérdezte Marit.	sordu	0	0
+Bugün rüzgar yok.	Ma nincs szél.	rüzgar	0	0
+Hâlâ eskiden olduğum gibiyim.	Még mindig az vagyok, aki korábban voltam.	gibiyim	0	0
+Elimizden gelenin fazlasını yapalım.	Tegyünk meg minden tőlünk telhetőt.	elimizden	0	0
+Onun kocası kanepe'de uyur.	A férje a kanapén alszik.	kocası	0	0
+Tuvalet üst katta.	A mosdó az emeleten van.	katta	0	0
+Bir oğlan var.	Ott van egy fiú.	oğlan	0	0
+Bir sorunumuz var.	Problémánk van.	sorunumuz	0	0
+Gerçeği konuşuyorum.	Az igazat mondom.	konuşuyorum	0	0
+Ayakkabı satarım.	Cipőt árulok.	ayakkabı	0	0
+Hiç kimse benimle gitmedi.	Senki nem ment velem.	gitmedi	0	0
+Kalem kırık.	Törött a toll.	kırık	0	0
+Tom hızla tabancasını yeniden yükledi.	Tomi gyorsan újratöltötte a pisztolyát.	hızla	0	0
+En yakın otobüs durağı nerede?	Hol van a legközelebbi buszmegálló?	otobüs	0	0
+Ben senin raporunu çalışacağım.	Átnézem a riportodat.	çalışacağım	0	0
+Yardımınız için size minnettarım.	Köszönettel tartozom neked a segítségedért.	minnettarım	0	0
+Neden istemiyorsun?	Miért nem akarod?	istemiyorsun	0	0
+Tom piyano çaldı.	Tamás zongorázott.	çaldı	0	0
+Bu bir masa.	Ez egy asztal.	masa	0	0
+Ben öğretmen değilim.	Nem tanár vagyok.	öğretmen	0	0
+Onunla yarın konuşacağım.	Holnap beszélek vele.	konuşacağım	0	0
+Sadece konuşacak birini istiyorum.	Szükségem van egy beszélgetőtársra.	konuşacak	0	0
+Sadece bir sorum var.	Nekem csak egy kérdésem van.	sorum	0	0
+Her zaman müşteri mi haklıdır?	Mindig a vásárlónak van igaza?	müşteri	0	0
+Üniversite öğrencisi.	Egyetemi hallgató.	üniversite	0	0
+Ben bela aramıyorum.	Nem keresem a bajt.	bela	0	0
+Sanatçı yetenekli.	Tehetséges művész.	yetenekli	0	0
+Bu tarz bir insana karşı kibar olmaya gerek yok.	Az ilyen fajta személlyel nem kell udvariasnak lenni.	kibar	0	0
+Okula giderken trafik kazası geçirdi.	Közlekedési balesetet szenvedett az iskolába menet.	trafik	0	0
+Jack matematik sınavında hiç hata yapmadı.	Jack nem vétett hibát a matematika-tesztben.	yapmadı	0	0
+Bu doğru olmayabilir.	Lehet, hogy ez nem igaz.	olmayabilir	0	0
+Amerikalı bir kızla tanıştım.	Találkoztam egy amerikai nővel.	tanıştım	0	0
+Evini görüyorum.	Látom a házadat.	evini	0	0
+Hastanede kan örneğimi aldılar.	Vért vettek tőlem a kórházban.	aldılar	0	0
+Oyuncu, faul nedeniyle sarı kart gördü.	A játékos sárga lapot kapott a szabálytalanságért.	oyuncu	0	0
+Deniz ne renk?	Milyen színű a tenger?	renk	0	0
+Tom triatlonu kazandı.	Tom nyerte meg a triatlont.	kazandı	0	0
+Kadınları hâlâ anlamıyorum.	Még mindig nem értem a nőket.	kadınları	0	0
+Tom kendi köpeğini kimin öldürdüğünü biliyor ama bize söylemez.	Tom tudja, hogy ki ölte meg a kutyáját, de nekünk nem mondja meg.	öldürdüğünü	0	0
+Perdenin arkasına kim saklanıyor?	Ki rejtőzik a függöny mögött?	arkasına	0	0
+Kıran kırana bir maç oldu.	Szoros meccs volt.	maç	0	0
+Önce Mary yürüdü, ve Tom arkada geldi.	Elsőnek Mari ment, és Tom utána jött.	arkada	0	0
+Karım ve ben emekli olmak için hazırlanıyoruz.	A feleségem és én fölkészülünk nyugdíjas éveinkre.	emekli	0	0
+Bu tarz bir insana karşı kibar olmaya gerek yok.	Az ilyen fajta személlyel nem kell udvariaskodni.	tarz	0	0
+Bebeğin kendi annesine ihtiyacı vardır.	A babának szüksége van az édesanyjára.	bebeğin	0	0
+Bravo!	Brávó!	bravo	0	0
+Çocuklar oyuncakları ile oynuyor.	A gyerekek játékokkal játszanak.	oynuyor	0	0
+O ona yakın durdu.	Nagyon közel állt hozzá.	durdu	0	0
+Niçin beni tanımıyormuş gibi davranıyorsun?	Miért tettél úgy, mintha nem ismernél engem?	davranıyorsun	0	0
+Çay ve kahve, güne başlamaya yardımcı olur.	A tea és a kávé segítenek elkezdeni a napot.	güne	0	0
+O her zaman mutlu görünüyordu.	Ő mindig boldognak látszik.	görünüyordu	0	0
+Kimden korkuyorsun?	Kitől félsz?	korkuyorsun	0	0
+Dondurma yiyorum.	Fagyizok.	dondurma	0	0
+Meyve yiyorum.	Gyümölcsöt eszem.	meyve	0	0
+Tom Japon yiyeceğini çok seviyor.	Tom nagyon szereti a japán kosztot.	japon	0	0
+Bugün kendimi iyi hissetmiyorum.	Nem érzem ma jól magam.	hissetmiyorum	0	0
+Tom'un aynı sorunları vardı.	Tomnak hasonló problémái voltak.	sorunları	0	0
+O, çocuk için bir oyuncak aldı.	Vett a gyereknek egy játékot.	oyuncak	0	0
+Yanıma oturmaz mısın?	Nem ülsz mellém?	yanıma	0	0
+Umarım o bunu görür.	Remélem, ő látja ezt.	görür	0	0
+Tom'un bize yardım edebileceğini umuyorum.	Remélem, Tomi tud nekünk segíteni.	umuyorum	0	0
+Ne kadar vaktimiz var?	Mennyi időnk van?	vaktimiz	0	0
+Ben de beğendim.	Nekem is tetszett.	beğendim	0	0
+Farkı biliyorsun.	Ismered a különbséget.	farkı	0	0
+Bunu biliyorlar.	Tudják ezt.	biliyorlar	0	0
+Tom döner yedi.	Megevett Tom egy dönert.	döner	0	0
+Çocuklarına oku.	Olvass a gyerekeidnek!	oku	0	0
+Bana nereye imza atılması gerektiğini gösterdi.	Megmutatta, hol kell aláírni.	gösterdi	0	0
+Patates sebzedir.	A burgonya zöldség.	patates	0	0
+O, barda oturarak peş peşe viski içti.	A bárban ült és egymás után öntögette magába a viszkiket.	viski	0	0
+Güzelsin.	Szép vagy.	güzelsin	0	0
+O maymun eti.	Ez majomhús.	maymun	0	0
+Bugün Dünya Yılan Günü.	Ma van a kígyók világnapja.	yılan	0	0
+Ben alkol içmem.	Én nem iszom alkoholt.	alkol	0	0
+Canı cehenneme! Tüm benzin bu kadar!	Az ördögbe! Ez az össz benzin!	benzin	0	0
+Ali on iki aylıkken konuşmaya başladı.	Ali tizenkét hónapos korában kezdett beszélni.	ali	0	0
+Bir paket sigara almak istiyorum.	Egy csomag cigarettát akarok venni.	paket	0	0
+Ben her sabah lahana turşusu yerim.	Minden reggel savanyú káposztát eszek.	yerim	0	0
+Birayı sevmiyorum.	Nem szeretem a sört.	sevmiyorum	0	0
+Tuvalet üst katta.	A vécé az emeleten van.	tuvalet	0	0
+Evimde az mobilya var.	Kevés bútor van a házamban.	evimde	0	0
+Fırtına daha da şiddetlendi.	A vihar még hevesebbé vált.	fırtına	0	0
+Şarap listesini görebilir miyim?	Láthatnám a borlapot?	görebilir	0	0
+Tom saate baktı.	Tom az órát nézte.	saate	0	0
+Kalp atıyor.	Ver a szíve.	atıyor	0	0
+Pasta mutfakta.	A torta a konyhában van.	pasta	0	0
+Sanırım bugünkü maçı kazanabiliriz.	Gondolom, hogy a mai meccset meg tudjuk nyerni.	bugünkü	0	0
+Siz gidiyorsunuz?	Mentek?	gidiyorsunuz	0	0
+Katılmak ister misin?	Szeretnél csatlakozni?	katılmak	0	0
+Kasabayı ziyaret edenler yıldan yıla artıyor.	A városba látogatók száma évről évre növekszik.	yıldan	0	0
+Bayan Thomas bize tarih dersi veriyor.	Thomas kisasszony tanítja nekünk a történelmet.	dersi	0	0
+Sanırım bugünkü maçı kazanabiliriz.	Gondolom, hogy a mai meccset meg tudjuk nyerni.	maçı	0	0
+Kitabı yazdım.	Én írtam a könyvet.	yazdım	0	0
+Yarın ona soracağım.	Holnap megkérdezem tőle.	soracağım	0	0
+Tom şişman bir adam.	Tom kövér ember.	şişman	0	0
+Hayvanlar içgüdülerini takip eder.	Az állatok az ösztöneiket követik.	hayvanlar	0	0
+Golf oynamak istedim.	Golfozni akartam.	golf	0	0
+Konuştuk.	Beszéltünk.	konuştuk	0	0
+Tom, Hitler selamı verdi.	Tom náci karlendítést csinált.	hitler	0	0
+Sen haklıydın.	Igazad volt.	haklıydın	0	0
+Bugün okulda ne öğrendin?	Mit tanultál ma a suliban?	öğrendin	0	0
+Yaklaşık otuz dakikada geri döndü.	Mintegy harminc percen belül visszaért.	dakikada	0	0
+Ben onun kokteyl partisine gitmeyi planlıyorum.	Azt tervezem, hogy elmegyek a koktélpartijára.	gitmeyi	0	0
+Hukuk fakültesi nerede?	Hol van a jogi egyetem?	hukuk	0	0
+Tom okula arabayla gitti.	Tom autóval ment iskolába.	arabayla	0	0
+Kızımı seviyorum.	Szeretem a lányomat.	kızımı	0	0
+Babaları yalnız sinemaya gitmelerine izin vermedi.	Az apja nem engedte meg neki, hogy egyedül menjen moziba.	vermedi	0	0
+O, parayla ilgili değildi.	Nem a pénzről volt szó.	parayla	0	0
+Canı cehenneme! Tüm benzin bu kadar!	Az ördögbe! Ez az össz benzin!	canı	0	0
+Kaç paran var?	Mennyi pénzed van?	paran	0	0
+Bu şarkıyı öğrenmesi kolaydır.	Ezt a dalt könnyű megtanulni.	şarkıyı	0	0
+Bu bir tesadüf mü?	Ez véletlen?	tesadüf	0	0
+Yıldızı görüyorum.	Látom a csillagot.	yıldızı	0	0
+Kim sıcak çikolata ister?	Ki kér forró csokoládét?	çikolata	0	0
+Onu durdurmak istedi.	Meg akarta állítani.	durdurmak	0	0
+İyi müziği takdir ederim.	Szeretem a jó zenét.	müziği	0	0
+Gümüş bir kolye almak istiyorum.	Ezüst nyakláncot szeretnék venni.	gümüş	0	0
+Bu sandviç iyidir.	Jó ez a szendvics.	sandviç	0	0
+Modern müziği sever misin?	Szereted a modern zenét?	modern	0	0
+Tom çok küfür ettiğimi söylüyor.	Tom azt mondja, hogy túl sokat káromkodok.	ettiğimi	0	0
+Kimden korkuyorsun?	Kitől félsz?	kimden	0	0
+Betty klasik müzikten hoşlanır.	Betti szereti a klasszikus zenét.	klasik	0	0
+Bir haftalığına oraya gittik.	Egy hétig oda jártunk.	gittik	0	0
+Uçağı kaçırdık.	Lekéstük a repülőt.	uçağı	0	0
+Hangisi daha büyüktür, Japonya mı yoksa İngiltere mi?	Melyik nagyobb, Japán vagy Anglia?	japonya	0	0
+Benim adım Sally.	A nevem Sally.	sally	0	0
+Kate'nin şarap içmesine izin vermez.	Nem engedi, hogy Kati bort igyon.	vermez	0	0
+Onlar cuma günleri balık yerler.	Péntekenként halat esznek.	günleri	0	0
+Üç yıl Boston'da yaşadım.	Két éven át éltem Bostonban.	yaşadım	0	0
+O şapka çok moda.	Az a sapka nagyon divatos.	moda	0	0
+Tom ayda üç kez buraya gelir.	Tomi havonta háromszor jön ide.	ayda	0	0
+Çok yorgunum.	Túl fáradt vagyok.	yorgunum	0	0
+Bu radyo cihazı çalışmıyor.	Ez a rádiókészülék nem működik.	radyo	0	0
+Firmamızın uzun, uzun bir geçmişi var.	A mi cégünknek nagyon hosszú története van.	geçmişi	0	0
+Tom telefonu duvara fırlattı.	Tom a falhoz dobta a telefont.	duvara	0	0
+Tom benim üvey erkek kardeşim.	Tom a féltestvérem.	üvey	0	0
+Üniversiteden mezun olduktan sonra, o bir öğretmen oldu.	Az egyetem befejezése után tanító lett.	mezun	0	0
+O, barda oturarak peş peşe viski içti.	A bárban ült és egymás után öntögette magába a viszkiket.	barda	0	0
+Yunus balığı bir memeliyken köpekbalığı bir balıktır.	A cápa hal, míg a delfin emlős.	balığı	0	0
+Neyden korkuyorsun?	Mitől félsz?	neyden	0	0
+Yedek anahtar var mı?	Van tartalék kulcs?	yedek	0	0
+Anneler gününde anneme biraz çiçek gönderdim.	Anyák napjára küldtem néhány szál virágot édesanyámnak.	gününde	0	0
+Konuşmaya başladık.	Beszélgetni kezdtünk.	başladık	0	0
+Çay sevmem.	Nem szeretem a teát.	sevmem	0	0
+Kimse cevabı bilmiyor.	Senki sem tudja a választ.	cevabı	0	0
+Ben zaten yedim.	Ettem már.	yedim	0	0
+Bana şans dile!	Kívánj nekem szerencsét!	dile	0	0
+O iyi bir adamdı.	Jó ember volt.	adamdı	0	0
+Peynir yerim.	Sajtot eszem.	peynir	0	0
+Lütfen bu soruyu benim için cevapla.	Kérlek, válaszolj nekem erre a kérdésre.	soruyu	0	0
+O bir bankada çalışır.	Egy bankban dolgozik.	çalışır	0	0
+Aralık, Ocak ve Şubat kış aylarıdır.	December, január és február a téli hónapok.	kış	0	0
+Bu tarz bir insana karşı kibar olmaya gerek yok.	Az ilyen fajta személlyel nem kell udvariasnak lenni.	insana	0	0
+Ofisinin kapısını açtı.	Kinyitotta irodájának ajtaját.	açtı	0	0
+Türk müsün?	Török vagy?	müsün	0	0
+Tom şampanya içmek istiyor.	Tom pezsgőt akar inni.	şampanya	0	0
+Yerler.	Esznek.	yerler	0	0
+Bugün benim doğum günüm değil.	Ma nincs születésnapom.	günüm	0	0
+Kim oradaydı?	Kik voltak ott?	oradaydı	0	0
+Bugün perşembe.	Ma csütörtök van.	perşembe	0	0
+Ev yanıyor!	Ég a ház!	yanıyor	0	0
+Hain!	Áruló!	hain	0	0
+O gazete okuyor.	Újságot olvas.	gazete	0	0
+Kayıp zamanı telafi etmek için acele ettim.	Sietek, hogy behozzam az időveszteséget.	telafi	0	0
+Tatillerde, zamanımı hiçbir şey yapmadan geçiriyorum.	Azzal töltöttem az időt a szabadságom alatt, hogy nem csináltam semmit.	yapmadan	0	0
+Onlar birbirlerine hayrandır.	Csodálják egymást.	birbirlerine	0	0
+Biz sınıra yakın yaşıyoruz.	A határ közelében lakunk.	yaşıyoruz	0	0
+Amin!	Ámen!	amin	0	0
+Ben gece geç saatlere kadar kalmaya alışkınım.	Szokásom, hogy este sokáig fönn maradok.	kalmaya	0	0
+Neden bu soruları soruyorsun?	Miért ezeket a kérdéseket teszed fel?	soruyorsun	0	0
+Tamam, sen kazandın.	Rendben, te nyertél.	kazandın	0	0
+Senin anlamadığını Tom anlar.	Tom érti, amit te nem.	anlar	0	0
+Betty klasik müzikten hoşlanır.	Betti szereti a klasszikus zenét.	betty	0	0
+Üzerimden bir yük kalktı.	Egy kő esett le a szívemről.	yük	0	0
+Bir arabam yok fakat kız kardeşimin var.	Nekem nincs autóm, de a testvéremnek van.	kardeşimin	0	0
+Oyuncu, faul nedeniyle sarı kart gördü.	A játékos sárga lapot kapott a szabálytalanságért.	nedeniyle	0	0
+O İtalyan değil mi?	Nem olasz?	İtalyan	0	0
+Karadeniz'in rengi nedir?	Milyen színű a Fekete-tenger?	rengi	0	0
+Karımı seviyorum.	Szeretem a feleségem.	karımı	0	0
+Böylesine kitaplar onun için çok zordur.	Az ilyenfajta könyvek túl bonyolultak neki.	zordur	0	0
+Sınır kapalıdır.	Zárva a határ.	sınır	0	0
+Bu çanta kimin?	Kié ez a táska?	çanta	0	0
+O küçük bir tekne ile suda ilerliyor.	Egy kicsike csónakon vitorlázik a vízen.	tekne	0	0
+Kim buradaydı?	Ki volt itt?	buradaydı	0	0
+O aramızda popüler.	Köztünk ő híres.	popüler	0	0
+Tom bir robot.	Tom egy robot.	robot	0	0
+Sanırım Tom fikrini değiştirdi.	Feltételezem, hogy Tomi megváltoztatta a véleményét.	değiştirdi	0	0
+Yargıçlar kimler?	Kik a bírók?	kimler	0	0
+Okulun nerede?	Merre van az iskolád?	okulun	0	0
+Ceketini giy.	Vegyél föl kabátot!	giy	0	0
+O gelinceye kadar burada bekleyeceğim.	Itt várok, amíg nem jön.	bekleyeceğim	0	0
+Haftalarca hazır olmayacağım.	Hetekig nem leszek kész.	olmayacağım	0	0
+Naber?	Mi a helyzet?	naber	0	0
+Onun arabasını arıyorum.	Az ő kocsiját keresem.	arabasını	0	0
+Sence bu nasıl bitecek?	Szerinted mi lesz ennek a vége?	bitecek	0	0
+Kliması olan bir odayı tercih derim.	Egy klimatizált szobát szeretnék.	odayı	0	0
+Bugün meşgulüm.	Ma nem érek rá.	meşgulüm	0	0
+Babam otuz yıldır Nagoya'da yaşamaktadır.	Az Apám 30 éve Nagoyában él.	otuz	0	0
+On dakika bekledim.	Tíz percet várok.	bekledim	0	0
+Bu radyo cihazı çalışmıyor.	Ez a rádiókészülék nem működik.	cihazı	0	0
+Yoruldum, uyudum.	Elfáradtam, aludtam.	yoruldum	0	0
+Karı sevmiyorum.	Nem szeretem a havat.	karı	0	0
+O şapka çok moda.	Az a sapka nagyon divatos.	şapka	0	0
+"Esperanto: Avrupa veya Asya dili" denemesinde Claude Piron, Esperanto ve Çince arasındaki benzerliği gösterdi ve Esperanto'nun yalnızca Avrupa merkezli olduğunu ortaya koydu.	"Eszperantó: európai vagy ázsiai nyelv" című tanulmányában Claude Piron kimutatta a hasonlóságot az eszperantó és a kínai nyelv között, így cáfolta azt a gondolatot, hogy az eszperantó tisztán európai nyelv.	koydu	0	0
+Onun patronuyla bir ilişkisi vardı.	Viszonya volt a főnökével.	ilişkisi	0	0
+Haklısınız.	Igazatok van.	haklısınız	0	0
+Hayalim Diyarbakır'da Kürtçe okumak.	Az álmom, hogy kurdul tanuljak Diyarbakırban.	okumak	0	0
+Patatesler bu ülkede iyi yetişir.	A burgonya jól megterem ebben az országban.	ülkede	0	0
+Din halkın afyonudur.	A vallás a nép ópiuma.	halkın	0	0
+Asla gitmeni istemedim.	Soha nem akartam, hogy elmenj.	gitmeni	0	0
+Bu sadece bir örümcek.	Ez csak egy pók.	örümcek	0	0
+Ailemin bir fotoğrafını çektim.	Lefényképeztem a családomat.	ailemin	0	0
+Bir dil öğrenmek kolay değildir.	Nyelvet tanulni nem könnyű.	dil	0	0
+Michelle Obama hoş kadın.	Michelle Obama csinos nő.	michelle	0	0
+Öğrenciler sınıfta.	A diákok a tanteremben vannak.	sınıfta	0	0
+İki tane alana bir tane bedava.	Kettőt fizet, hármat vihet.	alana	0	0
+Gençken çok çalışmak zorundaydım.	Keményen kellett dolgoznom, amikor fiatal voltam.	zorundaydım	0	0
+Kim konuştu?	Ki beszélt?	konuştu	0	0
+Büyükbabamın Franz Joseph sakalı var.	Papámnak Ferenc József-szakálla van.	joseph	0	0
+Bir şey satın almadım.	Nem vettem semmit.	almadım	0	0
+Ben altı gün okulu kaçırdım.	Hat napot hiányoztam az iskolából.	kaçırdım	0	0
+Bülbülü duyabiliyor musun?	Hallod a csalogányt?	duyabiliyor	0	0
+Petrol pahalı.	Az olaj drága.	petrol	0	0
+Beraber kiliseye gidiyoruz.	Együtt megyünk templomba.	kiliseye	0	0
+Bunu yapmaktan vazgeçmeyeceğim!	Nem hagyom abba.	yapmaktan	0	0
+Eti yiyorum.	A húst eszem.	eti	0	0
+Neden o beni sevmiyor?	Miért nem szeret engem?	sevmiyor	0	0
+Anneler gününde anneme biraz çiçek gönderdim.	Anyák napjára küldtem néhány szál virágot édesanyámnak.	gönderdim	0	0
+Ailemin bir fotoğrafını çektim.	Lefényképeztem a családomat.	çektim	0	0
+3 yaşında babasını kaybetti.	Három éves korában elveszítette az apját.	babasını	0	0
+En sevdiğiniz alkolsüz içecek nedir?	Melyik a kedvenc alkoholmentes italod?	içecek	0	0
+Dinliyor musun?	Hallasz?	dinliyor	0	0
+Hava soğuk olduğunda eklemlerim ağrıyor.	Az ízületeim fájnak, amikor hidegre fordul az idő.	ağrıyor	0	0
+Odama gelme.	Ne gyere be a szobámba!	odama	0	0
+Tom'un karısını tanıyorum .	Ismerem Tom feleségét.	karısını	0	0
+Bu sahilde zehirli denizanaları var mı?	Vannak ezen a tengerparton mérgező medúzák?	zehirli	0	0
+Arabam yok.	Nincs kocsim.	arabam	0	0
+Gustavo doğruca eve gitti.	Gustavo egyenesen hazament.	doğruca	0	0
+Bir kadın seviyoruz.	Egy nőt szeretünk.	seviyoruz	0	0
+Her şeyini kaybetti.	Mindenét elvesztette.	şeyini	0	0
+Elma yiyorum.	Almát eszem.	elma	0	0
+Ailemin bir fotoğrafını çektim.	Lefényképeztem a családomat.	fotoğrafını	0	0
+Bu benim hayal gücümün ötesinde.	Ez meghaladja az én képzelőerőmet.	ötesinde	0	0
+Tom'un eve gitmesini istiyorum.	Azt akarom, hogy Tom hazamenjen.	gitmesini	0	0
+Kahve hazırla.	Csinálj kávét!	hazırla	0	0
+Kaç yaşındasın?	Hány éves vagy?	yaşındasın	0	0
+Kim var mutfakta?	Ki van a konyhában?	mutfakta	0	0
+Kalem siyah.	Fekete a toll.	kalem	0	0
+Ben sürprizlerden hoşlanmıyorum.	Nem szeretem a meglepetéseket.	hoşlanmıyorum	0	0
+Benim çocuklarım yok.	Nincs gyerekem.	çocuklarım	0	0
+Sırrı biliyorum.	Ismerem a titkot.	sırrı	0	0
+Annem Tom'un annesini tanıyor.	Anyám ismeri Tom anyját.	annesini	0	0
+Polis herkese sorular soruyor.	A rendőrség mindenkitől kérdezősködik.	soruyor	0	0
+Bizim elma ağacı çiçek açıyor.	Virágzik az almafánk.	ağacı	0	0
+Garson nerede?	Hol van a pincér?	garson	0	0
+Virüs bilgisayarımı bozdu.	A vírus tönkretette a számítógépemet.	virüs	0	0
+Başka seçeneğim yok.	Nincs más választásom.	seçeneğim	0	0
+Araba kullanmayı Collin McRae Rally 2'den öğrendim.	A Collin McRae 2-n tanultam meg vezetni.	kullanmayı	0	0
+Çiçekler açar.	A virágok virágoznak.	açar	0	0
+Arkadaşız, değil mi?	Barátok vagyunk, nem?	arkadaşız	0	0
+Bana nereye imza atılması gerektiğini gösterdi.	Megmutatta, hol kell aláírni.	imza	0	0
+Dün eski bir arkadaşımı gördüm.	Tegnap találkoztam egy régi barátommal.	arkadaşımı	0	0
+Şehir Londra'nın batısında kurulu.	A város Londontól keletre fekszik.	kurulu	0	0
+Onlar bizi bekliyorlar.	Várnak ránk.	bekliyorlar	0	0
+Çin malı.	Made in China.	malı	0	0
+Telefonun iPhone mu?	IPhone-od van?	telefonun	0	0
+Tom mutsuz.	Tom boldogtalan.	mutsuz	0	0
+Jack matematik sınavında hiç hata yapmadı.	Jack nem vétett hibát a matematika-tesztben.	matematik	0	0
+Bu benim çok izlediğim bir dizi.	Ez olyan sorozat, amit gyakran megnézek.	dizi	0	0
+Tom, Mary'nin saçını kesti.	Tomi lenyírja Mari haját.	saçını	0	0
+Hiçbir yere gidemem.	Sehova sem mehetek.	gidemem	0	0
+O nehir tehlikeli.	Veszélyes az a folyó.	nehir	0	0
+Onun son sözleri nelerdi?	Mik voltak az utolsó szavai?	sözleri	0	0
+İngilizce konuşuyoruz.	Angolul beszélünk.	konuşuyoruz	0	0
+Köpekler akıllıdır.	A kutyák okosak.	köpekler	0	0
+Özbekçe konuşurum.	Beszélek üzbégül.	konuşurum	0	0
+Mutfak nerede?	Hol van a konyha?	mutfak	0	0
+Böylesine kitaplar onun için çok zordur.	Az ilyenfajta könyvek túl bonyolultak neki.	böylesine	0	0
+Yirmi sekiz yaşındayım.	Huszonnyolc éves vagyok.	yaşındayım	0	0
+Gramer çok önemlidir.	A nyelvtan nagyon fontos.	önemlidir	0	0
+Bahar geldi.	Itt a tavasz.	bahar	0	0
+Çiçekler açar.	A virágok virágoznak.	çiçekler	0	0
+Ayakkabını bağla.	Kösd be a cipődet!	bağla	0	0
+Onun dürüst olduğu gerçeğini inkar edemeyiz.	Nem tagadhatjuk, hogy becsületes.	inkar	0	0
+Kedi kahverengi.	Barna a macska.	kahverengi	0	0
+Bu otobüs elli kişilik.	Ez az autóbusz ötven személyes.	elli	0	0
+Ken, tanıştığımıza memnun oldum!	Örülök, hogy megismertelek Ken.	ken	0	0
+Tom elleri üstünde yürüyebiliyor.	Tom tud kézen járni.	elleri	0	0
+O bir elma yiyor.	Almát eszik.	yiyor	0	0
+Onu sadece bir kez kullandım.	Csak egyszer használtam.	kullandım	0	0
+O, niçin geç kaldığını ona açıkladı.	Elmagyarázta neki, hogy miért késett.	kaldığını	0	0
+Kapı yavaşça açıldı.	Az ajtó lassan kinyílt.	açıldı	0	0
+Azıcık bekle.	Várj egy kicsit.	azıcık	0	0
+O iyi İngilizce konuşur.	Ő jól beszél angolul.	konuşur	0	0
+Tom saate baktı.	Tom az órát nézte.	baktı	0	0
+Yalnız kalmak istediklerini söylediler.	Azt mondták, egyedül akarnak lenni.	istediklerini	0	0
+Cuma günü bir randevum var.	Randim van pénteken.	randevum	0	0
+Anahtar masanın üstünde.	A kulcs a polcon van.	masanın	0	0
+Seninle oturmak istemiyorum.	Nem akarok melléd ülni.	oturmak	0	0
+Onu bilmiyordu.	Nem ismerte őt.	bilmiyordu	0	0
+Tom bana öğretti.	Tom tanított engem.	öğretti	0	0
+Bisikletimden düştüm.	Leestem a biciklimről.	düştüm	0	0
+Masada hiçbir şey yok.	Nincs semmi az asztalon.	masada	0	0
+Müzik dinlemekten keyif aldık.	Élveztük a zenehallgatást.	keyif	0	0
+Tom tekrar üst kata gitti.	Tom ismét felment.	kata	0	0
+Bu sandalye rahat değil.	Ez a szék nem kényelmes.	sandalye	0	0
+Doktor bir aileden geliyorum.	Orvos családból származom.	aileden	0	0
+Hadi oynayalım!	Játsszunk!	oynayalım	0	0
+Böyle bakmana dayanamıyorum.	Nem bírom, ha így bámulsz.	dayanamıyorum	0	0
+O, özel piyano dersleri alır.	Privát zongoraleckéket vesz.	piyano	0	0
+Odama girme.	Ne menj be a szobámba!	girme	0	0
+Amcam, akciğer kanserinden öldü.	A nagybátyám tüdőrákban halt meg.	amcam	0	0
+Kadın ofiste çalaşıyor.	A nő az irodában dolgozik.	ofiste	0	0
+O, bas gitar çalar.	Basszusgitáron játszik.	çalar	0	0
+Şarap listesini görebilir miyim?	Láthatnám a borlapot?	listesini	0	0
+Size iyi bir sabah diliyorum!	Jó reggelt kívánok!	diliyorum	0	0
+O tek kardeşine saygı duyuyor.	Tiszteli az egyetlen testvérét.	kardeşine	0	0
+Tom atlar üzerine bahis oynar.	Tomi fogadást tesz a lovakra.	bahis	0	0
+Tom Avustralya tarihi ile çok ilgileniyor.	Tomot nagyon érdekli Ausztrália történelme.	ilgileniyor	0	0
+Yazın ve kışın Finlandiya'da yaşıyoruz; baharda ve sonbaharda ise Arjantin'de.	Nyáron és télen Finnországban élünk, tavasszal és ősszel meg Argentínában.	yazın	0	0
+Odamda uyurum.	A szobámban alszom.	odamda	0	0
+Patronun nerede?	Hol a főnököd?	patronun	0	0
+İsterseniz, ben size satranç oynamayı öğretirim.	Ha akarod, megtanítalak sakkozni.	oynamayı	0	0
+Anaokulu öğretmeni de dayanamıyor, geçen sefer Tom'un on saatlik derslerini de aldı.	Az óvónéni sem bír vele, a múltkor is elvette Tom tízóraiját.	saatlik	0	0
+Telif hakları yasasını iyi biliyorum.	Jól ismerem a szerzői jogi törvényeket.	hakları	0	0
+Neden bu soruları soruyorsun?	Miért ezeket a kérdéseket teszed fel?	soruları	0	0
+Hayatıma hoş geldiniz.	Üdvözöllek az életemben!	hayatıma	0	0
+Bu resimleri Almanya'da mı çektiniz ?	Ezeket Németországban fényképezted?	resimleri	0	0
+Çorba çok sıcak.	Túl forró a leves.	çorba	0	0
+İşimi seviyorum.	Szeretem a munkámat.	İşimi	0	0
+O beni aradığında yatmak üzereydim.	Éppen le akartam feküdni, amikor telefonált.	yatmak	0	0
+Okula giderken trafik kazası geçirdi.	Közlekedési balesetet szenvedett az iskolába menet.	kazası	0	0
+Yağmur dolayısıyla oyun ertelendi.	Az eső miatt a játékot elhalasztották.	dolayısıyla	0	0
+Babaları yalnız sinemaya gitmelerine izin vermedi.	Az apja nem engedte meg neki, hogy egyedül menjen moziba.	sinemaya	0	0
+Seni eve götüreyim.	Engedje meg, hogy hazavigyem.	götüreyim	0	0
+Hastalanırsan bu ilacı al.	Vedd be ezt az orvosságot, ha megbetegszel.	ilacı	0	0
+Işık yandı.	Kigyulladt a fény.	işık	0	0
+Keçi sağmak zor mudur?	Nehéz kecskét fejni?	mudur	0	0
+Ne hakkında konuştuğunu bilmiyorum.	Nem tudom, miről beszélsz.	konuştuğunu	0	0
+Mümkün olduğunca sık sözlüğe bakın.	Minél gyakrabban használd a szótárt.	olduğunca	0	0
+O, cinayetten suçlu değildir.	Nem vétkes a gyilkosságban.	cinayetten	0	0
+Doktor bebeği muayene etti.	Az orvos megvizsgálta a kisbabát.	muayene	0	0
+Oradaydım.	Voltam ott.	oradaydım	0	0
+Doğa hiçbir sınır tanımaz.	A természet nem ismer határokat.	doğa	0	0
+Bir tatile ihtiyacım var.	Szükségem van egy kis szabadságra.	tatile	0	0
+Bu cümle şimdiki zamandadır.	Jelen időben áll a mondat.	şimdiki	0	0
+Hâlâ kullanıyorum.	Még használom.	kullanıyorum	0	0
+O Facebook'u sevmez.	Utálja a Facebookot.	sevmez	0	0
+Bugün çalışmıyorum.	Ma nem dolgozom.	çalışmıyorum	0	0
+O benim patronum.	Ő a főnököm.	patronum	0	0
+Tom çok yaratıcı bir kişi.	Tom nagyon kreatív ember.	yaratıcı	0	0
+Amerikalılar çok et yer.	Az amerikaiak sok húst esznek.	amerikalılar	0	0
+Bu pantolon kirli.	Koszos ez a nadrág.	pantolon	0	0
+Odana git!	Menj a szobádba!	odana	0	0
+Yorgunum. Uzun bir gündü.	Fáradt vagyok. Hosszú volt a nap.	gündü	0	0
+Duygularını incittiysem, özür dilerim.	Bocsáss meg, ha megsértettelek.	duygularını	0	0
+Onun dürüst olduğu gerçeğini inkar edemeyiz.	Nem tagadhatjuk, hogy becsületes.	edemeyiz	0	0
+Bana daha iyi bir fiyat verir misin?	Tudna nekem egy jobb árat mondani?	fiyat	0	0
+Oku ve çevir.	Olvasd el és fordítsd le!	çevir	0	0
+Santa yok.	Télapó nincs is.	santa	0	0
+Dilini biliyorum.	Ismerem a nyelvedet.	dilini	0	0
+Zengin olursam, bir şato alacağım.	Ha gazdag leszek, veszek egy kastélyt.	olursam	0	0
+Tom İngilizce konuşmayı Fransızca konuşmaktan çok daha kolay buluyor.	Tamás sokkal könnyebbnek találja az angolt a franciánál.	buluyor	0	0
+Kitapları nerede görüyorsunuz?	Hol láttátok a könyveket?	görüyorsunuz	0	0
+Ateşli silah kullanabilir misin?	Tudsz lőfegyvert használni?	kullanabilir	0	0
+Hedefi görüyorum.	Látom a célpontot.	hedefi	0	0
+Ben biraz açtım.	Kicsit éhes voltam.	açtım	0	0
+Bisiklet benim.	A bicikli az enyém.	bisiklet	0	0
+Lütfen bana bir fincan süt verin.	Kérem, adjon nekem egy pohár tejet.	fincan	0	0
+Kahve içer.	Kávét iszik.	içer	0	0
+Fiyatı ne kadar?	Mennyibe kerül?	fiyatı	0	0
+Pencere kapalı.	Az ablak be van csukva.	pencere	0	0
+Kuşlar açtı.	A madarak éhesek voltak.	kuşlar	0	0
+Sanatçı yetenekli.	Tehetséges művész.	sanatçı	0	0
+Olaydan ders çıkardık.	Tanultunk az esetből.	olaydan	0	0
+İran Irak değildir.	Irán nem Irak.	irak	0	0
+Bu yıl benim doğum günüm cuma gününe denk geliyor.	Pénteki napra esik a születésnapom ebben az évben.	denk	0	0
+Ekmek yiyip su iç.	Egyél kenyeret és igyál vizet.	yiyip	0	0
+Bunu şimdilik atma, evlat!	Ezt még ne dobd ki, fiam!	atma	0	0
+Ben genelde dokuzdan beşe kadar çalışırım ama bugün ona kadar çalıştım.	Általában kilenctől ötig szoktam dolgozni, de ma tízig dolgoztam.	çalışırım	0	0
+Bu cadde boyunca doğru git.	Menjen ezen az úton csak mindig egyenesen.	cadde	0	0
+Ofise geri gitmem gerekiyor.	Vissza kell mennem az irodába.	ofise	0	0
+Sürücü içiyordu.	A vezető ivott.	sürücü	0	0
+"Esperanto: Avrupa veya Asya dili" denemesinde Claude Piron, Esperanto ve Çince arasındaki benzerliği gösterdi ve Esperanto'nun yalnızca Avrupa merkezli olduğunu ortaya koydu.	"Eszperantó: európai vagy ázsiai nyelv" című tanulmányában Claude Piron kimutatta a hasonlóságot az eszperantó és a kínai nyelv között, így cáfolta azt a gondolatot, hogy az eszperantó tisztán európai nyelv.	dili	0	0
+Hayatının geri kalan kısmını hapishanede geçirmeyi gerçekten istiyor musun?	Valóban börtönben szeretnéd tölteni életed hátralevő részét?	hapishanede	0	0
+Kahvaltı hazırladım.	Reggelit készítettem.	hazırladım	0	0
+Bu zor bir matematik problemi.	Az egy nehéz matematikai probléma.	problemi	0	0
+Hangisini istiyorsun?	Melyiket akarod?	hangisini	0	0
+O küçük bir tekne ile suda ilerliyor.	Egy kicsike csónakon vitorlázik a vízen.	ilerliyor	0	0
+Adını ve adresini yaz.	Írja le a nevét és a címét.	adresini	0	0
+Köpeğin nerede?	Hol a kutyád?	köpeğin	0	0
+Bu, kitabın ilk baskısı mı?	Ez a könyv első kiadása?	kitabın	0	0
+Onu söyleyeceğin içime doğdu.	Gondoltam, hogy meg kellene mondanod.	doğdu	0	0
+Kale güzeldir.	Szép a kastély.	kale	0	0
+Bir sinema bileti kaç para?	Mennyibe kerül egy mozijegy?	bileti	0	0
+Susan, Jill için bir elbise yaptı.	Susan egy ruhát készített Jillnek.	jill	0	0
+Ona kullanmamasını söylemesine rağmen, Tom Mary'nin bilgisayarını kullanmaya karar verdi.	Tom elhatározta, hogy használni fogja Mari számítógépét, habár ő azt mondta neki, hogy azt ne tegye.	kullanmaya	0	0
+Bahçe evin arkasında.	A kert a ház mögött van.	bahçe	0	0
+Bir sinema bileti kaç para?	Mennyibe kerül egy mozijegy?	sinema	0	0
+Hafta sonları asla çalışmam.	Hétvégén sosem dolgozom.	çalışmam	0	0
+Gökyüzü mavidir.	Kék az ég.	gökyüzü	0	0
+İki elim ve iki bacağım var.	Két kezem és két lábam van.	elim	0	0
+Uçakta uyumadım.	Nem aludtam a repülőn.	uçakta	0	0
+Biftek benim favori yemeğimdir.	Bifsztek a kedvenc ételem.	biftek	0	0
+Bunu ben ödeyeceğim!	Ezt én fizetem!	ödeyeceğim	0	0
+Nehri görüyorum.	Látom a folyót.	nehri	0	0
+Din halkın afyonudur.	A vallás a nép ópiuma.	din	0	0
+Pirinç yiyorum.	Rizst eszem.	pirinç	0	0
+İkimiz de uykuya daldık.	Mindketten elaludtunk.	uykuya	0	0
+Biz şimdi neredeyiz?	Most hol vagyunk?	neredeyiz	0	0
+Bebeğin kendi annesine ihtiyacı vardır.	A babának szüksége van az édesanyjára.	annesine	0	0
+O saat kaçta başlar?	Mikor kezdődik?	kaçta	0	0
+Adınız nedir?	Mi a maga neve?	adınız	0	0
+Tom Fransızca öğretiyor.	Tom franciát tanít.	fransızca	0	0
+Cevap doğrudur.	A válasz helyes.	doğrudur	0	0
+Ben bu kamerayı sevmiyorum.	Nem tetszik nekem ez a fényképezőgép.	kamerayı	0	0
+Bir kitap yazıyorum.	Írok egy könyvet.	yazıyorum	0	0
+John, New York'ta yaşar.	John New Yorkban él.	yaşar	0	0
+O çok öfkeli.	Magas láza van.	öfkeli	0	0
+Detayları bilmiyorum.	Nem ismerem a részleteket.	detayları	0	0
+Ben çay içtim.	Teáztam.	içtim	0	0
+Cin şişeden çıktı.	A dzsinn kijött az üvegből.	cin	0	0
+Telefonla konuşuyor.	Telefonon beszél.	telefonla	0	0
+Tom eski bozuk paraları topladı.	Tom régi érmeket gyűjtött.	paraları	0	0
+Benim vajinam güzeldir!	Szép a puncim!	güzeldir	0	0
+Baykuşların iri gözleri vardır.	A baglyoknak nagy szemük van.	iri	0	0
+Cevabını bekliyorum.	Várom a válaszod.	cevabını	0	0
+O küçük bir tekne ile suda ilerliyor.	Egy kicsike csónakon vitorlázik a vízen.	suda	0	0
+Hat kesildi.	Az idő lejárt.	kesildi	0	0
+Onu yapamadım.	Nem tudtam megcsinálni.	yapamadım	0	0
+Telefonum bozuk.	A telefonom beszart.	telefonum	0	0
+Lütfen biraz daha yavaş konuşun.	Kérem, beszéljen kicsit lassabban.	konuşun	0	0
+Yatağına geri git.	Feküdj vissza az ágyadba.	yatağına	0	0
+Sadece kola içmedin, değil mi?	Ugye nem csak kólát ittál?	kola	0	0
+Restoran boş.	Üres az étterem.	restoran	0	0
+Tom şu an konuşmuyor.	Tamás most nem beszél.	konuşmuyor	0	0
+Kitabını oku.	Olvasd ki a könyvedet!	kitabını	0	0
+Çok açım.	Nagyon éhes vagyok.	açım	0	0
+Onun borçları 100,000 yene ulaştı.	Az adóssága 100000 jenre rúg.	ulaştı	0	0
+Üzerimden bir yük kalktı.	Egy kő esett le a szívemről.	üzerimden	0	0
+Tom Avustralya tarihi ile çok ilgileniyor.	Tomot nagyon érdekli Ausztrália történelme.	avustralya	0	0
+Neden bir evimiz yok?	Miért nincs nekünk saját házunk?	evimiz	0	0
+Arkadaşlarına selam söyle.	Köszönj a barátaidnak!	arkadaşlarına	0	0
+Yazın favori içeceğin nedir?	Mit iszol a legszívesebben nyáron?	favori	0	0
+Bu park bana çocukluğumu hatırlatıyor.	Ez a park engem az ifjúságomra emlékeztet.	hatırlatıyor	0	0
+Hat kesildi.	Az idő lejárt.	hat	0	0
+Duvarda bazı resimler var.	Van néhény kép a falon.	resimler	0	0
+Üniversite öğrencisi.	Egyetemi hallgató.	öğrencisi	0	0
+Öncelikle karar verilmesi gereken şey üzerinde karar veririz sonra iki takıma ayrılırız.	Először eldöntjük, mit kell eldönteni, aztán két csapatra oszlunk.	veririz	0	0
+Evimi seviyorum.	Szeretem a házam.	evimi	0	0
+Bir aileye sahip olmak mükemmel.	Szép, ha az embernek van családja.	aileye	0	0
+Ben onun kokteyl partisine gitmeyi planlıyorum.	Azt tervezem, hogy elmegyek a koktélpartijára.	partisine	0	0
+Aralık, Ocak ve Şubat kış aylarıdır.	December, január és február a téli hónapok.	ocak	0	0
+Herkes sizinle aynı fikirde.	Mindenki egyetért veled.	fikirde	0	0
+Londra'ya vardım.	Londonba értem.	vardım	0	0
+Parkta yoga yapıyorum.	A parkban jógázom.	parkta	0	0
+Ablam ebeveynlerime lezbiyen olduğumu söyledi.	A nővérem elmondta a szüleimnek, hogy leszbikus vagyok.	lezbiyen	0	0
+Bu kimin çantası?	Kié ez a táska?	çantası	0	0
+Meryem! Meryem! Meryem!	Marija, Marija, Marija!	meryem	0	0
+Üzerimden bir yük kalktı.	Egy kő esett le a szívemről.	kalktı	0	0
+Benim evim senindir.	Az én házam a te házad.	senindir	0	0
+Tuz yok.	Nincs só.	tuz	0	0
+Tenis ve golfü severim.	Szeretem a teniszt és a golfot.	tenis	0	0
+Nehirde yüzme.	Ne ússz a folyóban!	yüzme	0	0
+O bira içiyor.	Ő sört iszik.	içiyor	0	0
+Bir an bile tereddüt etmeden , komploya karşı şiddetle harekete geçtiler.	Tétovázás nélkül, azonnali intézkedéseket tettek az összeesküvés ellen.	tereddüt	0	0
+O soruya cevap veremem.	Ezt a kérdést nem válaszolhatom meg.	soruya	0	0
+Keçi sağmak zor mudur?	Nehéz kecskét fejni?	keçi	0	0
+Bunu dikkatlice oku.	Olvasd ezt el figyelmesen!	dikkatlice	0	0
+Ben öğretmenim.	Tanár vagyok.	öğretmenim	0	0
+Ben yanlış bir otobüse bindim.	Rossz buszra szálltam.	otobüse	0	0
+Hazırlık eksikliğinden sınavda başarısız oldu.	A hiányos felkészülés miatt nem ment át a vizsgán.	hazırlık	0	0
+Kitapları nerede görüyorsun?	Hol láttad a könyveket?	kitapları	0	0
+Aralık, Ocak ve Şubat kış aylarıdır.	December, január és február a téli hónapok.	aralık	0	0
+Bu zordu.	Ez nehéz volt.	zordu	0	0
+O bir gazeteci.	Ő újságíró.	gazeteci	0	0
+Geldiğimi Tom'a söyleme.	Ne mondd Tomnak, hogy jövök!	geldiğimi	0	0
+Tom Mary'ye anlamlı bir bakış attı.	Tom egy jelentőségteljes pillantást vetett Marira.	anlamlı	0	0
+Kapılar kapalı.	Zárva vannak az ajtók.	kapılar	0	0
+Merhum on sekiz yaşındaydı.	Az elhunyt tizennyolc éves volt.	yaşındaydı	0	0
+Elimizden gelenin fazlasını yapalım.	Tegyünk meg minden tőlünk telhetőt.	gelenin	0	0
+Ben gazete okuyorum.	Újságot olvasok.	okuyorum	0	0
+Tom, seninle başlayacağız.	Veled kezdjük, Tom.	başlayacağız	0	0
+Araban mavi mi?	A ti kocsitok kék színű?	araban	0	0
+Aceleyle havaalanına gitti.	Sietve ment a repülőtérre.	havaalanına	0	0
+Tom Mary'nin onun doğum günü için ondan ne almasını istediğini bilmiyor.	Tom nem tudja, mit szeretne Mari, hogy vegyen neki a születésnapjárta.	almasını	0	0
+Ben bir kadınım.	Nő vagyok.	kadınım	0	0
+Portakal suyu içiyorum.	Narancslét iszom.	portakal	0	0
+Babasına bir kazak ördü.	Pruszlikot kötött az apjának.	babasına	0	0
+Bu çiçekler güzeller, değil mi?	Szépek ezek a virágok, ugye?	güzeller	0	0
+Japonya'da bu göl en derin göldür.	Ez a legmélyebb tó Japánban.	göl	0	0
+Burayı bırakamam.	Nem tudok elmenni innen.	bırakamam	0	0
+O macera sever.	Szereti a kalandot.	macera	0	0
+Anaokulu öğretmeni de dayanamıyor, geçen sefer Tom'un on saatlik derslerini de aldı.	Az óvónéni sem bír vele, a múltkor is elvette Tom tízóraiját.	öğretmeni	0	0
+Kadın okuyor.	Olvas a nő.	okuyor	0	0
+Kitaplar onda.	Nála vannak a könyvek.	kitaplar	0	0
+Yabancılara güvenmiyorum.	Nem bízok az idegenekben.	güvenmiyorum	0	0
+Onlar ciddi görünüyorlar.	Komolyan gondolják ezt.	görünüyorlar	0	0
+Tom ördek avına gitti.	Elment Tom kacsára vadászni.	ördek	0	0
+İsterseniz, ben size satranç oynamayı öğretirim.	Ha akarod, megtanítalak sakkozni.	İsterseniz	0	0
+Onda ne buluyorsun?	Mi fogott meg benne?	buluyorsun	0	0
+Odayı temizle.	Takarítsd ki a szobát!	temizle	0	0
+Neredeyim?	Hol vagyok?	neredeyim	0	0
+Ofisinin kapısını açtı.	Kinyitotta irodájának ajtaját.	kapısını	0	0
+Ne yiyorsun?	Mit eszel?	yiyorsun	0	0
+Araba kullanır mısın?	Vezetsz?	kullanır	0	0
+Babam bahçede.	Az apám a kertben van.	bahçede	0	0
+O bizi iyi tanır	Jól ismer minket.	tanır	0	0
+Tom, Mary'nin saçını kesti.	Tomi lenyírja Mari haját.	kesti	0	0
+Onu bilmiyorsunuz.	Nem tudjátok azt.	bilmiyorsunuz	0	0
+Bu fotorafları Almanya'da mı çektin ?	Ezeket Németországban fényképezted?	çektin	0	0
+Hava karardıktan sonra dışarı çıkmayı sevmiyorum.	Nem szeretek sétálni sötétedés után.	çıkmayı	0	0
+Üzgünüz.	Sajnáljuk.	üzgünüz	0	0
+Tom atlar üzerine bahis oynar.	Tomi fogadást tesz a lovakra.	atlar	0	0
+Hastaneye dönmeliyim.	Vissza kell mennem a kórházba.	dönmeliyim	0	0
+Tatillerde, zamanımı hiçbir şey yapmadan geçiriyorum.	Azzal töltöttem az időt a szabadságom alatt, hogy nem csináltam semmit.	geçiriyorum	0	0
+Ayakkabılar nerede?	Hol vannak a cipők?	ayakkabılar	0	0
+Cevaplar istiyoruz.	Válaszokat akarunk.	cevaplar	0	0
+Yarın, yarın, bugün değil - der bütün tembel insanlar.	Holnap, holnap, ma nem – mondja minden lusta ember.	tembel	0	0
+Havuz boş.	Üres a medence.	havuz	0	0
+Bu çiçekleri sana aldım.	Neked vettem ezeket a virágokat.	çiçekleri	0	0
+Onu biliyorduk.	Tudtuk.	biliyorduk	0	0
+Bahsettiğin kişiyi tanıyorum.	Ismerem, akiről beszélsz.	bahsettiğin	0	0
+Bu gömlek biraz bol.	Ez az ing kissé bő.	gömlek	0	0
+Donald Trump patolojik bir yalancıdır.	Donald Trump beteges hazudozó.	donald	0	0
+Tom'un adı listede.	Tom neve szerepel a listán.	listede	0	0
+Bugün Dünya Fil Günü.	Ma van az elefántok világnapja.	fil	0	0
+Kasabayı ziyaret edenler yıldan yıla artıyor.	A városba látogatók száma évről évre növekszik.	artıyor	0	0
+Votka nerede?	Hol van a vodka?	votka	0	0
+Annem erkek kardeşime sarı bir şemsiye aldı.	Anyám vett a testvéremnek egy sárga esernyőt.	kardeşime	0	0
+Ben köpekleri sevmem.	Nem szeretem a kutyákat.	köpekleri	0	0
+"Esperanto: Avrupa veya Asya dili" denemesinde Claude Piron, Esperanto ve Çince arasındaki benzerliği gösterdi ve Esperanto'nun yalnızca Avrupa merkezli olduğunu ortaya koydu.	"Eszperantó: európai vagy ázsiai nyelv" című tanulmányában Claude Piron kimutatta a hasonlóságot az eszperantó és a kínai nyelv között, így cáfolta azt a gondolatot, hogy az eszperantó tisztán európai nyelv.	asya	0	0
+Öğrenciler bugün uykulu gibi görünüyor.	A jó mindig legyőzi a rosszat.	öğrenciler	0	0
+Kiraz suyu içiyorsun.	Cseresznyelevet iszol.	içiyorsun	0	0
+İkizler bebeğe baktılar.	Az ikerek gondoskodtak a babáról.	bebeğe	0	0
+Annem babamdan daha yaşlı.	Anyám idősebb apámnál.	babamdan	0	0
+Bizim elma ağacı çiçek açıyor.	Virágzik az almafánk.	açıyor	0	0
+Tom okumaya devam etti.	Tovább olvasott Tom.	okumaya	0	0
+İnternet bağlantım çok yavaş.	Az internetkapcsolat nagyon gyenge.	İnternet	0	0
+Tatillerde, zamanımı hiçbir şey yapmadan geçiriyorum.	Azzal töltöttem az időt a szabadságom alatt, hogy nem csináltam semmit.	zamanımı	0	0
+Ne kadar içtin?	Mennyit ittál?	içtin	0	0
+Sadece konuşuyorduk.	Csak beszélgettünk.	konuşuyorduk	0	0
+O, bas gitar çalar.	Basszusgitározik.	gitar	0	0
+Arabalar pahalı.	Az autók drágák.	arabalar	0	0
+Globes bir İsrail gazetesidir.	A Globes izraeli lap.	İsrail	0	0
+Onun dürüst olduğu gerçeğini inkar edemeyiz.	Nem tagadhatjuk, hogy becsületes.	gerçeğini	0	0
+Tom kendini beğenmiş görünüyor.	Tom önelégültnek látszik.	beğenmiş	0	0
+Millie bir muz yiyor.	Millie éppen egy banánt eszik.	muz	0	0
+Tom bir Müslüman.	Tomi muzulmán.	müslüman	0	0
+Araba sürmek istemiyorum.	Nem akarok vezetni.	sürmek	0	0
+O tuvalette.	WC-n van.	tuvalette	0	0
+Bugün Tom'la bir görüşmem var.	Ma Tommal van találkozóm.	görüşmem	0	0
+Çikolatalı dondurmayı severim.	Szeretem a csokoládés fagylaltot!	çikolatalı	0	0
+Tuzu bana uzat.	Nyújtsd ide nekem a sót!	uzat	0	0
+McDonald's'da bir hamburger yedim.	Ettem egy hamburgert a McDoald's-ban.	hamburger	0	0
+Tom kendi köpeğini kimin öldürdüğünü biliyor ama bize söylemez.	Tom tudja, hogy ki ölte meg a kutyáját, de nekünk nem mondja meg.	söylemez	0	0
+İsterseniz, ben size satranç oynamayı öğretirim.	Ha akarod, megtanítalak sakkozni.	satranç	0	0
+Ev yandı.	Leégett a ház.	yandı	0	0
+Burada güvendesin.	Itt biztonságban vagy.	güvendesin	0	0
+Dükkan nerede?	Hol van az üzlet?	dükkan	0	0
+Bugün şanslıyım.	Ma jó napom van.	şanslıyım	0	0
+Ne okuyorsun?	Mit olvasol most?	okuyorsun	0	0
+O, banyoda.	A fürdőben van.	banyoda	0	0
+Ayna ayna söyle bana, benden güzeli var mı dünyada?	Tükröm, tükröm, mondd meg nékem, ki a legszebb a vidéken!	güzeli	0	0
+Affedersiniz,ama bu metro istasyonu için doğru yol mu?	Bocsánat, jó irányba megyek a metróállomáshoz?	metro	0	0
+Öldüler.	Ők halottak.	öldüler	0	0
+Ben bankaya gidiyorum.	A bankba megyek.	bankaya	0	0
+O Tel Aviv'de yaşardı.	Korábban Tel-Avivban élt.	tel	0	0
+Biraz İspanyolca konuşuyorum.	Beszélek egy kicsit spanyolul.	İspanyolca	0	0
+Ayna ayna söyle bana, benden güzeli var mı dünyada?	Tükröm, tükröm, mondd meg nékem, ki a legszebb a vidéken!	ayna	0	0
+Tom'un sağlığı çok iyi.	Tom makkegészséges.	sağlığı	0	0
+Apartman dairesinin bir bahçesi var mı?	Tartozik a lakáshoz kert?	bahçesi	0	0
+Ne kadar bahşiş bırakmalıyım?	Mennyi borravalót kellett volna adnom?	bahşiş	0	0
+Ken bir futbol oyuncusu.	Ken egy focista.	oyuncusu	0	0
+Futbol oynar mısın?	Futballozol?	oynar	0	0
+Sörf yapıyor musun?	Szörfözöl?	sörf	0	0
+Asansör var mı?	Lift van?	asansör	0	0
+Adayı kim keşfetti?	A szigetet ki fedezte fel?	adayı	0	0
+Gök kırmızıydı.	Az ég vörös volt.	gök	0	0
+O beni aradığında yatmak üzereydim.	Lefekvőben voltam, amikor fölhívott.	üzereydim	0	0
+Kötü bir insanım.	Én rossz ember vagyok.	insanım	0	0
+Ailemle konuşuyordum.	A családommal beszélgettem.	ailemle	0	0
+Anneler Günü'nde anneme 19 çiçek verdim.	Anyák napjára 19 szál virágot adtam anyámnak.	anneler	0	0
+Kimle konuşuyorsun?	Kivel beszélsz?	kimle	0	0
+Telefon numaram 789'dur.	A telefonszámom 789.	numaram	0	0
+Onu teyit edemem.	Nem tudom ezt megerősíteni.	teyit	0	0
+Öncelikle karar verilmesi gereken şey üzerinde karar veririz sonra iki takıma ayrılırız.	Először eldöntjük, mit kell eldönteni, aztán két csapatra oszlunk.	takıma	0	0
+Çorbamda sadece bir parça sosis buldum.	Csak egy darab kolbászt találtam a levesemben.	sosis	0	0
+Planını bilmiyordum.	Nem tudtam a tervedről.	planını	0	0
+Gençken çok çalışmak zorundaydım.	Keményen kellett dolgoznom, amikor fiatal voltam.	gençken	0	0
+İkinci Dünya Savaşı sırasında Amerika'da da toplama kampları vardı. Japonlar toplanıyordu.	Az Egyesült Államokban is voltak koncentrációs táborok a második világháborúban; a japánokat gyűjtötték össze.	toplama	0	0
+Genellikle saat on'dan önce yatmaya giderim.	Általában tíz előtt lefekszem.	yatmaya	0	0
+Kolyenin kayıp parçasını buldum.	Megtaláltam a nyakláncod hiányzó darabját.	parçasını	0	0
+Bu kitabı iki yıl önce okumuştum.	Két évvel ezelőtt olvastam ezt a könyvet.	okumuştum	0	0
+Onunla konuşuyordum.	Vele beszéltem.	konuşuyordum	0	0
+Kahvaltı yedik.	Megreggeliztünk.	yedik	0	0
+Bu bir Arap ismi.	Ez egy arab név.	arap	0	0
+Tom yağmur yağışını izlerken üzücü bir şarkı dinledi.	Tom szomorú zenét hallgatott, miközben nézte az esőt.	izlerken	0	0
+Yöntemi bilmiyordum.	Nem tudtam a módját.	yöntemi	0	0
+Tom'un bilgisayarı cevap vermiyor.	Tom számítógépe nem válaszol.	bilgisayarı	0	0
+Affedersiniz,ama bu metro istasyonu için doğru yol mu?	Bocsánat, jó irányba megyek a metróállomáshoz?	istasyonu	0	0
+Aşırı doz aldı.	Túladagolta magát.	doz	0	0
+Burada doğdum.	Itt születtem.	doğdum	0	0
+Bu odayı kız kardeşimle paylaşıyorum.	Megosztom ezt a szobát a nővéremmel.	kardeşimle	0	0
+Nişanlı olsak da, o beni öpmek istemiyordu.	Annak ellenére, hogy jegyesek vagyunk, nem akarta megengedni, hogy megcsókoljam.	olsak	0	0
+Tom çok küfür ettiğimi söylüyor.	Tom azt mondja, hogy túl sokat káromkodok.	küfür	0	0
+Bu sahilde zehirli denizanaları var mı?	Vannak ezen a tengerparton mérgező medúzák?	sahilde	0	0
+Tom kitabı kapattı.	Tomi becsukta a könyvet.	kapattı	0	0
+Onlar neredeydi?	Hol voltak ők?	neredeydi	0	0
+Tom'un bize yardım edebileceğini umuyorum.	Remélem, Tomi tud nekünk segíteni.	edebileceğini	0	0
+Atları sever misin?	Szereted a lovakat?	atları	0	0
+Alkolizm hayatımı mahvetti.	Az alkoholizmus tönkretette az életemet.	mahvetti	0	0
+Kasabayı ziyaret edenler yıldan yıla artıyor.	A városba látogatók száma évről évre növekszik.	kasabayı	0	0
+O, özel piyano dersleri alır.	Privát zongoraleckéket vesz.	dersleri	0	0
+Yeriz.	Eszünk.	yeriz	0	0
+Boston'a bir sonraki tren kaçta kalkıyor?	Mikor indul a következő vonat Bostonba?	kalkıyor	0	0
+Bu yıl benim doğum günüm cuma gününe denk geliyor.	Pénteki napra esik a születésnapom ebben az évben.	gününe	0	0
+Tom bizim oğlumuz.	Tomi a mi fiunk.	oğlumuz	0	0
+Bu benim odam.	Ez a szobám.	odam	0	0
+Üniversiteden mezun olduktan sonra, o bir öğretmen oldu.	Az egyetem befejezése után tanító lett.	olduktan	0	0
+Hepimiz sizinle gurur duyuyoruz.	Valamennyien büszkék vagyunk rád.	duyuyoruz	0	0
+Erkekler tuvaleti nerede?	Hol a férfimosdó?	tuvaleti	0	0
+Ben alkol içmem.	Én nem iszom alkoholt.	içmem	0	0
+Onun sarı saçı var.	Szőke haja van.	saçı	0	0
+Aşçı nerede?	Hol van a szakács?	aşçı	0	0
+Kapak kapalı.	Le van zárva a teteje.	kapak	0	0
+Siz konuşuyorsunuz.	Ti beszéltek.	konuşuyorsunuz	0	0
+Tom çayına çok fazla şeker koyar.	Tom túl sok cukrot tesz a kávéjába.	koyar	0	0
+Aralık, Ocak ve Şubat kış aylarıdır.	December, január és február a téli hónapok.	şubat	0	0
+Ben zeka düzeyimi bilmiyorum.	Nem tudom, mennyi az IQ-m.	zeka	0	0
+Seni seviyordum.	Szerettelek téged.	seviyordum	0	0
+Nerede doğdun?	Hol születtél?	doğdun	0	0
+Çok sebze yiyorum.	Sok zöldséget eszem.	sebze	0	0
+Bu onun eve dönmesini engelledi.	Ez gátolta őt a hazatérésében.	dönmesini	0	0
+O, kazadan sonra bilincini kaybetti.	A baleset következtében elvesztette az eszmelétét.	kazadan	0	0
+Onu söyleyeceğin içime doğdu.	Gondoltam, hogy meg kellene mondanod.	söyleyeceğin	0	0
+Ağaçlar yeşil.	A fák zöldek.	ağaçlar	0	0
+Çocuklarına oku.	Olvass a gyerekeidnek!	çocuklarına	0	0
+13 yaşımdan beri futbol oynuyorum.	Tizenhárom éves korom óta focizom.	oynuyorum	0	0
+Tom bütün öğleden sonra yakacak odun doğradı.	Tomi egész délután tűzifát vágott.	odun	0	0
+Lütfen bana tuz ve biber ver.	Ideadná kérem a sót és a borsot?	biber	0	0
+Ben onun kokteyl partisine gitmeyi planlıyorum.	Azt tervezem, hogy elmegyek a koktélpartijára.	kokteyl	0	0
+Kitap enteresan mıydı?	Érdekes volt a könyv?	enteresan	0	0
+Niçin bu kadar kızgınsın?	Mért vagy olyan morcos?	kızgınsın	0	0
+Nişanlı olsak da, o beni öpmek istemiyordu.	Annak ellenére, hogy jegyesek vagyunk, nem akarta megengedni, hogy megcsókoljam.	öpmek	0	0
+Daha detaylı bilgi istiyorum.	Részletesebb információt akarok.	detaylı	0	0
+Suyu içme.	Ne idd meg a vizet!	içme	0	0
+Tom'un Türk bir arkadaşı var.	Tomnak török barátja van.	türk	0	0
+Ben daha fazla bekleyemem.	Nem tudok tovább várni.	bekleyemem	0	0
+Çantada ne var?	Mi van a táskában?	çantada	0	0
+Yiyorum.	Eszek.	yiyorum	0	0
+Makarna yer misin?	Tésztát eszel?	makarna	0	0
+Mutfakta su içiyorum.	Vizet iszom a konyhában.	içiyorum	0	0
+Artık uyuyamıyorum.	Már nem tudok aludni.	uyuyamıyorum	0	0
+Kolum ağrıyor.	Fáj a karom.	kolum	0	0
+Arabama bindim.	Beszálltam a kocsimba.	arabama	0	0
+Benim ofisimde ne yapıyorsun?	Mit csinálsz az irodámban?	ofisimde	0	0
+Hava raporları nadiren gerçekleşir.	Az időjárás-előrejelzés ritkán válik be.	nadiren	0	0
+Eğer bunu yapmazsan ölü bir adam olacaksın.	Halott ember vagy, ha nem teszed meg.	yapmazsan	0	0
+Cuma günü ne yapmayı planlıyorsun?	Mit tervezel, mit fogsz csinálni pénteken?	planlıyorsun	0	0
+Sizi tanıyoruz.	Ismerünk benneteket.	tanıyoruz	0	0
+Bir köpeğim var.	Van egy kutyám.	köpeğim	0	0
+Sen zekisin.	Okos vagy.	zekisin	0	0
+Sürekli onu düşünürüm.	Folyton őrá gondolok.	düşünürüm	0	0
+Perdenin arkasına kim saklanıyor?	Ki rejtőzik a függöny mögött?	saklanıyor	0	0
+İki ablam var.	Két nővérem van.	ablam	0	0
+Ben su içerim.	Vizet iszom.	içerim	0	0
+Bu tırtıl harika bir kelebek olacak.	Ebből a hernyóból szép pillangó lehet.	kelebek	0	0
+Maja Keuc iyi bir şarkıcı.	Maja Keuc jó énekesnő.	şarkıcı	0	0
+Bunu seçmek zor.	Nem könnyű a választás.	seçmek	0	0
+Acelem var.	Sietek.	acelem	0	0
+Havaalanı kapalı.	Le van zárva a repülőtér.	havaalanı	0	0
+Onu söyleyeceğin içime doğdu.	Gondoltam, hogy meg kellene mondanod.	içime	0	0
+İsmim Tom.	A nevem Tom.	İsmim	0	0
+Hepimiz hatalar yaparız.	Mindannyian hibázunk.	hatalar	0	0
+Tom, Mary ile kart oynadı.	Tom kártyázott Marival.	oynadı	0	0
+Sık sık burada bulundum.	Gyakran voltam itt.	bulundum	0	0
+Ben senin raporunu çalışacağım.	Átnézem a riportodat.	raporunu	0	0
+İran Irak değildir.	Irán nem Irak.	İran	0	0
+Kolumu kırdım.	Eltörtem a karomat.	kolumu	0	0
+Seni seviyorum, Laurie.	Szeretlek, Laurie.	laurie	0	0
+Gümüş bir kolye almak istiyorum.	Ezüst nyakláncot szeretnék venni.	kolye	0	0
+Tom'un annesi bu köyde yaşıyor.	Tamás anyja ebben a faluban él.	köyde	0	0
+Tom'un bugün evde kalmasına gerek var mı?	Otthon kell maradnia Tomnak ma?	kalmasına	0	0
+Sizin hakkınızda konuşuyordum.	Rólatok beszéltem.	hakkınızda	0	0
+Bu cümle şimdiki zamandadır.	Jelen időben áll a mondat.	cümle	0	0
+O kadar soğuktu ki uyuyamadım.	Olyan hideg volt, hogy nem tudtam aludni.	uyuyamadım	0	0
+Kahvem şekersiz olursa sevinirim.	Cukor nélkül szeretném a kávém.	sevinirim	0	0
+Yunus balığı bir memeliyken köpekbalığı bir balıktır.	A cápa hal, míg a delfin emlős.	köpekbalığı	0	0
+Çalışmaktan nefret ederim.	Utálok dolgozni.	çalışmaktan	0	0
+Tom daha büyük bir indirim istiyor.	Tom nagyobb árengedményt szeretne.	indirim	0	0
+Tom amatör bir astronomdur.	Tom egy amatőr csillagász.	amatör	0	0
+Bugün günlerden hangisi?	Milyen nap van ma?	günlerden	0	0
+Nasıl bu kadar alaycı olabiliyorsun?	Hogy tudsz ilyen cinikus lenni?	olabiliyorsun	0	0
+Hayaletler var.	A szellemek léteznek.	hayaletler	0	0
+Gözlüğümü kırdım.	Eltörtem a szemüvegem.	kırdım	0	0
+O bir taksi şoförü mü?	Taxisofőr?	şoförü	0	0
+Dün yangını duydun mu?	Hallottál valamit a tegnapi tűzről?	yangını	0	0
+Kasabayı ziyaret edenler yıldan yıla artıyor.	A városba látogatók száma évről évre növekszik.	yıla	0	0
+Taç görüyorum.	Koronát látok.	taç	0	0
+Bu araba satılık değil.	Ez a kocsi nem eladó.	satılık	0	0
+Bu korkunç canavar Sfenks'ti.	Ez a rettenetes szörny volt a Szfinx.	ti	0	0
+Olaydan ders çıkardık.	Tanultunk az esetből.	çıkardık	0	0
+Bu yiyecek çok tuzlu.	Ez az étel túl sós.	tuzlu	0	0
+Bugün gelmiyorum.	Ma nem jövök.	gelmiyorum	0	0
+Betty klasik müzikten hoşlanır.	Betti szereti a klasszikus zenét.	hoşlanır	0	0
+Patlıcan, havuç, domates.	Padlizsán, sárgarépa, paradicsom.	domates	0	0
+Sen gençsin.	Fiatal vagy.	gençsin	0	0
+Bu meyve suyunu iç.	Idd ki ezt a gyümölcslét.	suyunu	0	0
+Onu her gün kullanırım.	Ezt mindennap használom.	kullanırım	0	0
+O benim dayım.	Ő a nagybátyám.	dayım	0	0
+Bay Bush, Bay Gore'dan biraz daha fazla oy aldı.	Bush több szavazatot kapott, mint Gore.	bush	0	0
+Ben kahvaltı yemem.	Nem szoktam reggelizni.	yemem	0	0
+Öyle güzel bir fıkraydı ki, herkes birden kahkahayı bastı.	Ez olyan ó tréfa volt, hogy mindenki nevetésben tört ki.	bastı	0	0
+Ben sorarım.	Én kérdezek.	sorarım	0	0
+Ben parka gitmek istiyorum.	A parkba akarok menni.	parka	0	0
+Makarna pişirmek kolaydır.	Tésztát főzni könnyű.	kolaydır	0	0
+Aslında, Tom'un sigortası yok.	Tulajdonképpen Tomnak nincs biztosítása.	sigortası	0	0
+Hastayım.	Rosszul vagyok.	hastayım	0	0
+Perdeleri kapat! Çünkü caddenin karşısındaki evde yaşayan kişi bir röntgencidir.	Húzd be a függönyöket! Azért, mert az utca túloldalán lévő házban lakó ember egy kukkoló.	caddenin	0	0
+Ceketini giy.	Vegyed föl a kabátodat!	ceketini	0	0
+Tom'un sadece bir bacağı var.	Tomnak csak egy lába van.	bacağı	0	0
+Avukatın kimdir?	Ki az ügyvéded?	avukatın	0	0
+Yokohama'ya varmak iki saatimi aldı.	Két órába telt eljutni Jokohámába.	varmak	0	0
+Parkta yoga yapıyorum.	A parkban jógázom.	yoga	0	0
+En yakın kütüphane nerede?	Hol van a legközelebbi könyvtár?	kütüphane	0	0
+Kediler neden mırlar?	Miért dorombolnak a macskák?	kediler	0	0
+Hasarı onarmalıyız.	Ki kell javítanunk a hibát.	hasarı	0	0
+"Esperanto: Avrupa veya Asya dili" denemesinde Claude Piron, Esperanto ve Çince arasındaki benzerliği gösterdi ve Esperanto'nun yalnızca Avrupa merkezli olduğunu ortaya koydu.	"Eszperantó: európai vagy ázsiai nyelv" című tanulmányában Claude Piron kimutatta a hasonlóságot az eszperantó és a kínai nyelv között, így cáfolta azt a gondolatot, hogy az eszperantó tisztán európai nyelv.	claude	0	0
+Nerede yaşıyorsunuz?	Hol laktok?	yaşıyorsunuz	0	0
+Gözlük takmam.	Nem hordok szemüveget.	gözlük	0	0
+Çocuk karanlıktan korktu.	A gyerek fél a sötétben.	korktu	0	0
+Adminler, neredesiniz?	Adminok, hol vagytok?	neredesiniz	0	0
+O sürekli konuşuyordu.	Folyamatosan beszélt.	konuşuyordu	0	0
+Tom iki odalı bir eve sahiptir.	Tomnak két szobás háza van.	sahiptir	0	0
+Gerçeği bilmiyorduk.	Nem tudtuk az igazságot.	bilmiyorduk	0	0
+Teyzem bana yeni bir etek yaptı.	Nagynéném varrt nekem egy új szoknyát.	teyzem	0	0
+Para çok, amcık çok. Amcık çok, para yok. Para yok, amcık yok.	Sok pénz, sok pina. Sok pina, semmi pénz. Nincs pénz, nincs pina.	amcık	0	0
+Ben Anton.	Anton vagyok.	anton	0	0
+Fransızca konuşuyorlar mı?	Ők beszélnek franciául?	konuşuyorlar	0	0
+Nişanlı olsak da, o beni öpmek istemiyordu.	Annak ellenére, hogy jegyesek vagyunk, nem akarta megengedni, hogy megcsókoljam.	istemiyordu	0	0
+Tom çorbanın yeterince sıcak olmadığını şikâyet etti.	Tom panaszkodott, hogy a leves nem volt elég meleg.	şikâyet	0	0
+Güzel saçın var.	Gyönyörű hajad van.	saçın	0	0
+Gözlük takar mısın?	Szemüveges vagy?	takar	0	0
+O şarkı söyleyemez.	Nem tud énekelni.	söyleyemez	0	0
+O bir balıkçı değil.	Nem halász.	balıkçı	0	0
+Tom İngilizce konuşmayı Fransızca konuşmaktan çok daha kolay buluyor.	Tamás sokkal könnyebbnek találja az angolt a franciánál.	konuşmaktan	0	0
+Sanırım Tom itiraf ettiğinden daha çok şey biliyor.	Azt hiszem, Tomi többet tud, mint amennyit elárul.	ettiğinden	0	0
+Hafta sonları asla çalışmam.	Hétvégén sosem dolgozom.	sonları	0	0
+İyi geceler, Timmy!	Jó éjszakát, Timmy!	timmy	0	0
+Benim adım Wang.	A nevem Wang.	wang	0	0
+Güneşi seviyorum.	Szeretem a napot.	güneşi	0	0
+Havuza düştüm.	Beleestem a medencébe.	havuza	0	0
+Mary Tom'un kuzeni.	Mary Tom unokatestvére.	kuzeni	0	0
+Tom bir alkolik.	Tom alkoholista.	alkolik	0	0
+Bill Gates çipi kırılır.	Tönkrement Bill Gates chipje.	gates	0	0
+O bir bankada çalışır.	Egy bankban dolgozik.	bankada	0	0
+Banyo solda.	A fürdőszoba balra van.	solda	0	0
+İsa Hristiyan değildi.	Jézus nem volt keresztény.	hristiyan	0	0
+Odan nerede?	Hol van a szobád?	odan	0	0
+Tom çevirmen değil.	Tomi nem tolmács.	çevirmen	0	0
+Kolaydı.	Könnyű volt.	kolaydı	0	0
+Bir erkek arkadaşa ihtiyacım yok.	Nincs szükségem pasira.	arkadaşa	0	0
+İt ürür, kervan yürür.	Kutya ugat, a karaván halad.	yürür	0	0
+Tavuk çiğ.	Nyers a csirke.	çiğ	0	0
+Uçaktan indim.	Leszálltam a repülőről.	uçaktan	0	0
+Üç kilo soğan istiyorum.	Három kiló hagymát kérek.	soğan	0	0
+Seçeneği yok.	Nincs választása.	seçeneği	0	0
+İyi notlar alırım.	Jó jegyeket kapok.	notlar	0	0
+Planlarım var.	Vannak terveim.	planlarım	0	0
+Eviniz büyük.	Nagy házatok van.	eviniz	0	0
+Kuran çok ilgi çekici bir kitap.	A Korán egy érdekes könyv.	kuran	0	0
+Nemli bir bezle pencereyi temizle.	Tisztítsd meg az ablakot egy nedves ronggyal.	pencereyi	0	0
+Çok konuşmuyorum.	Nem beszélgetünk sokat.	konuşmuyorum	0	0
+Batı kültüründe Attila "Tanrı'nın kırbacı" ismiyle bilinir.	A nyugati kultúrában Attilát "az Isten ostora"-ként ismerik.	bilinir	0	0
+Sen özgürsün.	Szabad vagy.	özgürsün	0	0
+Bir garajda yaşıyor.	Egy garázsban lakik.	garajda	0	0
+Hayalim Diyarbakır'da Kürtçe okumak.	Az álmom, hogy kurdul tanuljak Diyarbakırban.	hayalim	0	0
+Sonraki durak nedir?	Melyik megálló következik?	durak	0	0
+Benim arkadaşımsın.	Barátom vagy.	arkadaşımsın	0	0
+Tom, hiç Carlo Pedersoli ismini duydun mu?	Tom, hallottad már a Carlo Pedersoli nevet?	carlo	0	0
+Bir tanem var.	Nekem van egy.	tanem	0	0
+Onu Almanca söyle.	Mondd ezt németül.	almanca	0	0
+Güzel saçların var.	Gyönyörű hajad van.	saçların	0	0
+İsmin ne?	Mi a neved?	İsmin	0	0
+İkinci Dünya Savaşı sırasında Amerika'da da toplama kampları vardı. Japonlar toplanıyordu.	Az Egyesült Államokban is voltak koncentrációs táborok a második világháborúban; a japánokat gyűjtötték össze.	japonlar	0	0
+Hava raporları nadiren gerçekleşir.	Az időjárás-előrejelzés ritkán válik be.	raporları	0	0
+İş konusunda senin yardımını istiyorum.	Igénylem az üzleti segítségedet.	yardımını	0	0
+Yazın ve kışın Finlandiya'da yaşıyoruz; baharda ve sonbaharda ise Arjantin'de.	Nyáron és télen Finnországban élünk, tavasszal és ősszel meg Argentínában.	kışın	0	0
+Perdeleri kapat! Çünkü caddenin karşısındaki evde yaşayan kişi bir röntgencidir.	Húzd be a függönyöket! Azért, mert az utca túloldalán lévő házban lakó ember egy kukkoló.	karşısındaki	0	0
+Akşam yemeğinden önce ev ödevimi bitirmeliyim.	Vacsora előtt elvégeztem a házi feladatomat.	yemeğinden	0	0
+Koşuyor.	Rohan.	koşuyor	0	0
+Bir haftalığına oraya gittik.	Egy hétig oda jártunk.	haftalığına	0	0
+Şah mat.	Sakk-matt!	şah	0	0
+İki gün geçmişti.	Két nap telt el.	geçmişti	0	0
+Sütü severim.	Szeretem a tejet.	sütü	0	0
+Kasabayı ziyaret edenler yıldan yıla artıyor.	A városba látogatók száma évről évre növekszik.	edenler	0	0
+Duvarda bazı resimler var.	Van néhény kép a falon.	duvarda	0	0
+Hayatının geri kalan kısmını hapishanede geçirmeyi gerçekten istiyor musun?	Valóban börtönben szeretnéd tölteni életed hátralevő részét?	geçirmeyi	0	0
+Bana elini Ver! Nedenini daha sonra açıklayacağım.	Add a kezedet! Később megmagyarázom, hogy miért.	açıklayacağım	0	0
+Benim ruhum yok.	Nincs lelkem.	ruhum	0	0
+Apartman dairesinin bir bahçesi var mı?	Tartozik a lakáshoz kert?	apartman	0	0
+Benim kredi kartım nerede?	Hol van a hitelkártyám?	kartım	0	0
+Cevabın var.	Itt a válaszod.	cevabın	0	0
+En sevdiğim kalemi kaybettim.	Elvesztettem a kedvenc ceruzámat.	kalemi	0	0
+Onu bulabilecek miyim?	Meg tudom találni?	bulabilecek	0	0
+Sami tekila içiyordu.	Sami tequilát ivott.	tekila	0	0
+Postane ne zaman açılır?	Mikor nyit a posta?	açılır	0	0
+Bugün henüz hiçbir şey yemedim.	Ma még nem ettem.	yemedim	0	0
+Saatim nerede?	Hol az órám?	saatim	0	0
+İki elim ve iki bacağım var.	Két kezem és két lábam van.	bacağım	0	0
+O şimdi tatilde.	Ő most szabadságon van.	tatilde	0	0
+Çin'deyim.	Kínában vagyok.	deyim	0	0
+Üniversiteden mezun olduktan sonra, o bir öğretmen oldu.	Az egyetem befejezése után tanító lett.	üniversiteden	0	0
+O, barda oturarak peş peşe viski içti.	A bárban ült és egymás után öntögette magába a viszkiket.	içti	0	0
+Kimsem yok.	Nincs senkim.	kimsem	0	0
+Tom amatör bir fotoğrafçı.	Tamás amatőr fotós.	fotoğrafçı	0	0
+Büyükbabamın Franz Joseph sakalı var.	Papámnak Ferenc József-szakálla van.	franz	0	0
+Öğrenci bir metin okuyordu.	A diák egy szöveget olvasott.	metin	0	0
+Sana öğreteceğim.	Tanítani foglak.	öğreteceğim	0	0
+Tom'un çocukları Fransızca konuşamaz.	Tom gyerekei nem beszélnek franciául.	konuşamaz	0	0
+Annem İngilizceyi pek iyi konuşmaz.	Anyám nem beszél valami jól angolul.	konuşmaz	0	0
+Öğrenci bir metin okudu.	A diák egy szöveget olvasott.	okudu	0	0
+Mağaza kapalı.	Zárva a bolt.	mağaza	0	0
+Hiçbir şey imkansız değildir. Kelimenin kendisi "Ben mümkünüm!" diyor.	Semmi sem lehetetlen. A szó maga azt mondja: Lehetséges vagyok!	kelimenin	0	0
+Öğretmenin kimdir?	Ki a tanárod?	öğretmenin	0	0
+Rüya görüyordum.	Álmodtam.	görüyordum	0	0
+Bir restorana gittik.	Elmentünk egy étterembe.	restorana	0	0
+Tom kendi köpeğini kimin öldürdüğünü biliyor ama bize söylemez.	Tom tudja, hogy ki ölte meg a kutyáját, de nekünk nem mondja meg.	köpeğini	0	0
+Senden daha yaşlıyım.	Idősebb vagyok nálad.	yaşlıyım	0	0
+Biz mutluyuz.	Boldogok vagyunk.	mutluyuz	0	0
+O kazandığını biriktirir.	Amit keres, azt félre teszi.	kazandığını	0	0
+Eğer isterlerse yapabilirler.	Megtehetik, ha akarják.	yapabilirler	0	0
+Bizim bir bulaşık makinemiz yok.	Nincs mosogatógépünk.	bulaşık	0	0
+O, niçin geç kaldığını ona açıkladı.	Elmagyarázta neki, hogy miért késett.	açıkladı	0	0
+Ölenlerin tam sayısını henüz kimse bilmiyor.	A halottak pontos számát még senki sem tudja.	sayısını	0	0
+Bir de bununla bakmalısın.	Ezzel neked is szembe kell nézni.	bakmalısın	0	0
+Bir an bile tereddüt etmeden , komploya karşı şiddetle harekete geçtiler.	Tétovázás nélkül, azonnali intézkedéseket tettek az összeesküvés ellen.	şiddetle	0	0
+Amcam, akciğer kanserinden öldü.	A nagybátyám meghalt tüdőrákban.	akciğer	0	0
+Yardımınız için size minnettarım.	Köszönettel tartozom neked a segítségedért.	yardımınız	0	0
+Kahvaltı hazırlıyorum.	Reggelit készítek.	hazırlıyorum	0	0
+Uçağı kaçırdık.	Lekéstük a gépet.	kaçırdık	0	0
+Nehir kuruyor.	A folyó kiszárad.	kuruyor	0	0
+Patlıcan, havuç, domates.	Padlizsán, sárgarépa, paradicsom.	havuç	0	0
+Benim çantam yok.	Nincs meg a retikülöm.	çantam	0	0
+Çince konuşabilirim.	Tudok kínaiul.	konuşabilirim	0	0
+Cebimde çok küçük elmalar.	Zsebemben sok kicsi alma van.	cebimde	0	0
+Susadım.	Szomjas vagyok.	susadım	0	0
+Bir köpek bacağımı ısırdı.	A lábszáramat egy kutya megharapta.	ısırdı	0	0
+Tom kimdir?	Tom kicsoda?	kimdir	0	0
+Hadi hamilelik testi yaptıralım.	Csináljunk egy terhességi tesztet.	hamilelik	0	0
+Sizin ayakkabılarınız burada. Benimkiler nerede?	A te cipőd itt van. Az enyém hol van?	benimkiler	0	0
+Ekmek alıyordum.	Vettem kenyeret.	alıyordum	0	0
+Ben uyuyorum.	Alszom.	uyuyorum	0	0
+Yabancılara güvenme.	Ne bízz meg idegenekben!	güvenme	0	0
+Ben müzik öğreniyorum.	Zenét tanulok.	öğreniyorum	0	0
+Ben onun kokteyl partisine gitmeyi planlıyorum.	Azt tervezem, hogy elmegyek a koktélpartijára.	planlıyorum	0	0
+Avukata ihtiyacım var.	Szükségem van ügyvédre.	avukata	0	0
+O genellikle erken kalkar.	Korán szokott fölkelni.	kalkar	0	0
+Seni seviyorum, meleğim.	Szeretlek, angyalom.	meleğim	0	0
+Bu kumaş kolay yırtılır.	Ez az anyag könnyen elszakad.	kumaş	0	0
+Onlar bizi bulacaklar.	Meg fognak találni bennünket.	bulacaklar	0	0
+Gözde profesörün kimdir?	Ki a kedvenc professzorod?	gözde	0	0
+Nişanlı olsak da, o beni öpmek istemiyordu.	Annak ellenére, hogy jegyesek vagyunk, nem akarta megengedni, hogy megcsókoljam.	nişanlı	0	0
+O, büyük bir ev ve iki arabaya sahipti.	Volt egy nagy háza és két kocsija.	sahipti	0	0
+Ben uyudum.	Aludtam.	uyudum	0	0
+Peyniri seviyorum.	Szeretem a sajtot.	peyniri	0	0
+Cevap hayırdır.	A válasz nem.	hayırdır	0	0
+Yarın kütüphanede görüşürüz.	Akkor holnap a könyvtárban.	kütüphanede	0	0
+Kyoto'ya ne zaman vardın.	Mikor érkeztél Kiotóba?	vardın	0	0
+Geç saatlere kadar çalışabilirim.	Késő este is tudok dolgozni.	saatlere	0	0
+Kediyi gördüm.	Láttam a macskát.	kediyi	0	0
+Sakal nerede?	Hol a szakáll?	sakal	0	0
+Kati Wolf iyi bir şarkıcıdır.	Wolf Kati jó énekesnő.	wolf	0	0
+Ekmeğine tereyağı istiyor musun?	Szeretnél vajat a kenyeredre?	tereyağı	0	0
+Kitaplar okurum.	Könyvet szoktam olvasni.	okurum	0	0
+Başka sorunuz var mı?	Van még kérdésed?	sorunuz	0	0
+Ben giysileri severim.	Szeretem a ruhákat.	giysileri	0	0
+Babasına bir kazak ördü.	Pruszlikot kötött az apjának.	kazak	0	0
+Müze nerede?	Merre van a múzeum?	müze	0	0
+Biz yiyoruz.	Mi eszünk.	yiyoruz	0	0
+Aceleyle havaalanına gitti.	Sietve ment a repülőtérre.	aceleyle	0	0
+Kolun kırık.	Törött a karom.	kolun	0	0
+O, arabaya bindi ve uzaklaştı.	Beszállt az autóba és elhajtott onnan.	bindi	0	0
+Teyzem bana yeni bir etek yaptı.	Nagynéném varrt nekem egy új szoknyát.	etek	0	0
+Yediğim sebzeleri kendim yetiştiriyorum.	Magam termesztem meg a zöldségeket, amiket fogyasztok.	yediğim	0	0
+Kalan parasıyla seksen deve aldı.	A maradék pénzéből nyolcvan tevét vásárolt.	deve	0	0
+O benim tipim değil.	Nem az én esetem.	tipim	0	0
+Çayımız tükendi.	Nincs több teánk.	tükendi	0	0
+Babamı karşılamak için havaalanına gittim.	Mentem a reptérre, apám elé.	karşılamak	0	0
+Fırın nerede?	Hol van a pékség?	fırın	0	0
+İt ürür, kervan yürür.	Kutya ugat, a karaván halad.	İt	0	0
+Oğlanlar nerede?	Hol vannak a fiúk?	oğlanlar	0	0
+Biz sekiz kişiyiz.	Nyolcan vagyunk.	kişiyiz	0	0
+En sevdiğiniz alkolsüz içecek nedir?	Melyik a kedvenc alkoholmentes italod?	sevdiğiniz	0	0
+Babaları yalnız sinemaya gitmelerine izin vermedi.	Az apja nem engedte meg neki, hogy egyedül menjen moziba.	babaları	0	0
+Maymunlar akıllı.	A majmok intelligensek.	maymunlar	0	0
+13 yaşımdan beri futbol oynuyorum.	Tizenhárom éves korom óta focizom.	yaşımdan	0	0
+O beni aradığında yatmak üzereydim.	Éppen le akartam feküdni, amikor telefonált.	aradığında	0	0
+Peruk giymekten çekinmeyin.	Nyugodtan hordd azt a parókát!	peruk	0	0
+Dondurma eriyor.	Olvad a fagyi.	eriyor	0	0
+Bu şarkıyı öğrenmesi kolaydır.	Ezt a dalt könnyű megtanulni.	öğrenmesi	0	0
+Bir an bile tereddüt etmeden , komploya karşı şiddetle harekete geçtiler.	Tétovázás nélkül, azonnali intézkedéseket tettek az összeesküvés ellen.	geçtiler	0	0
+Sloven alfabesinde 25 harf vardır.	A szlovén ábécének 25 betűje van.	harf	0	0
+Bir problemimiz var.	Problémánk van.	problemimiz	0	0
+Erken kalktım.	Korán keltem.	kalktım	0	0
+Haklıyım, değil mi?	Ugye hogy igazam van?	haklıyım	0	0
+Rap yapamam.	Nem reppelek.	rap	0	0
+Dağlar güzel.	Szépek a hegyek.	dağlar	0	0
+Bekçi öldü.	Az őr meghalt.	bekçi	0	0
+Ev satıldı.	A ház elkelt.	satıldı	0	0
+Çay ve kahve, güne başlamaya yardımcı olur.	A tea és a kávé segítenek elkezdeni a napot.	başlamaya	0	0
+Yokohama'ya varmak iki saatimi aldı.	Két órába telt eljutni Jokohámába.	saatimi	0	0
+Oğlanı görüyorum.	Látom a fiút.	oğlanı	0	0
+Benim ülkemin okyanusa kıyısı vardır.	A szülővárosom a tenger mellett van.	okyanusa	0	0
+Böyle bir hata yapman aptalcaydı.	Nagy butaság volt részedről, ilyen nagy hibát véteni.	aptalcaydı	0	0
+Çocuk karanlıktan korktu.	A gyerek fél a sötétben.	karanlıktan	0	0
+Onun iki tane kedisi var, biri beyaz ve biri siyah.	Két macskája van: egy fehér és egy fekete.	kedisi	0	0
+Biraz beklemeliyiz.	Várnunk kell egy kicsit.	beklemeliyiz	0	0
+Maçın sonucu performansına bağlı.	A mérkőzés kimenetele az ő teljesítményétől függ.	maçın	0	0
+Evim büyüktür.	Nagy házam van.	büyüktür	0	0
+Millie bir muz yiyor.	Millie éppen egy banánt eszik.	millie	0	0
+Çilek severim.	Szeretem az epret.	çilek	0	0
+Bu aşk asla bitmeyecek.	Ennek a szerelemnek soha nem lesz vége.	bitmeyecek	0	0
+Ben hâlâ buradaki yemeğe alışkın değilim.	Még nem szoktam hozzá az itteni ételhez.	alışkın	0	0
+Kahveyi seviyorum.	Imádom a kávét.	kahveyi	0	0
+Kiraz suyu içiyorsun.	Cseresznyelevet iszol.	kiraz	0	0
+Ekmek fırında.	A sütőben van a kenyér.	fırında	0	0
+Bana ayakkabılarımı getir.	Hozd ide a cipőmet!	ayakkabılarımı	0	0
+Bira içtik.	Sört ittunk.	içtik	0	0
+Uçaklar pahalıdır.	Drágák a repülőgépek.	uçaklar	0	0
+Onlar bekledi.	Vártak.	bekledi	0	0
+Michelle Obama hoş kadın.	Michelle Obama csinos nő.	obama	0	0
+Ona inandın mı?	Hittél neki?	inandın	0	0
+Yarın odamı temizleyeceğim.	Holnap kitakarítom a szobámat.	odamı	0	0
+Seçimini yap.	Válassz!	seçimini	0	0
+Tren gecikmeli ayrılacak.	A vonat késve indul.	ayrılacak	0	0
+Tom'un babasıyım.	Tom apja vagyok.	babasıyım	0	0
+O şapkayı nereden aldın?	Ezt a kalapot meg honnan szedted?	şapkayı	0	0
+Ben her sabah lahana turşusu yerim.	Minden reggel savanyú káposztát eszek.	lahana	0	0
+Yoğurt yiyorum.	Joghurtot eszem.	yoğurt	0	0
+Tom bütün öğleden sonra yakacak odun doğradı.	Tomi egész délután tűzifát vágott.	yakacak	0	0
+Amcamın büyük bir ailesi var.	Nagybátyámnak népes családja van.	amcamın	0	0
+Ben çok voleybol oynarım.	Sokat röplabdázom.	oynarım	0	0
+Evim istasyona yakın.	Közel van a házam az állomáshoz.	istasyona	0	0
+Sen yeteneklisin.	Tehetséges vagy.	yeteneklisin	0	0
+Haftalarca hazır olmayacağım.	Hetekig nem leszek kész.	haftalarca	0	0
+Gözümde bir şey var.	Valami van a szememben.	gözümde	0	0
+Kiminle konuşuyordun?	Kivel beszéltél?	konuşuyordun	0	0
+Bir beyefendi öyle bir şeyi asla yapmazdı.	Egy úriember sosem tenne ilyet.	yapmazdı	0	0
+Kitabımı görüyorum.	Látom a könyvemet.	kitabımı	0	0
+Bob'u Tom'dan daha çok severiz.	Jobban kedveljük Bobot, mint Tomot.	severiz	0	0
+Nemli bir bezle pencereyi temizle.	Tisztítsd meg az ablakot egy nedves ronggyal.	nemli	0	0
+Meditasyon yapar mısın?	Meditálsz?	meditasyon	0	0
+Tom bir fabrikada çalışıyordu.	Tom egy gyárban dolgozott.	fabrikada	0	0
+Tavuğu severim.	Szeretem a csirkét.	tavuğu	0	0
+Tom çok motive.	Tom nagyon motivált.	motive	0	0
+Yumurtaları yiyorduk.	Megesszük a tojásokat.	yumurtaları	0	0
+Sen akıllısın.	Okos vagy.	akıllısın	0	0
+Şah mat.	Sakk-matt!	mat	0	0
+Bugün dolunay.	Ma telihold van.	dolunay	0	0
+Nehirde yüzme.	Ne ússz a folyóban!	nehirde	0	0
+Aptal olmadığınızı biliyoruz.	Tudjuk, hogy ön nem hülye.	olmadığınızı	0	0
+O zaman çocuktum.	Gyerek voltam akkor.	çocuktum	0	0
+Bir atım var.	Van lovam.	atım	0	0
+Rusça konuşuyorum.	Oroszul beszélek.	rusça	0	0
+Antibiyotiklere alerjim var.	Allergiás vagyok az antibiotikumokra.	alerjim	0	0
+Virüs bilgisayarımı bozdu.	A vírus tönkretette a számítógépemet.	bozdu	0	0
+Benim kitabım nerede?	Hol a könyvem?	kitabım	0	0
+Ona kullanmamasını söylemesine rağmen, Tom Mary'nin bilgisayarını kullanmaya karar verdi.	Tom elhatározta, hogy használni fogja Mari számítógépét, habár ő azt mondta neki, hogy azt ne tegye.	bilgisayarını	0	0
+Ona kelepçe taktım.	Megbilincseltem.	taktım	0	0
+Haklıydım.	Igazam volt.	haklıydım	0	0
+Kafe nerede?	Hol van a kávézó?	kafe	0	0
+Mutluydum.	Boldog voltam.	mutluydum	0	0
+Kedileri severim.	Szeretem a macskákat.	kedileri	0	0
+Bu bisikleti ne zaman satın aldın?	Mikor vetted ezt a biciklit?	bisikleti	0	0
+Nasıl bu kadar alaycı olabiliyorsun?	Hogy tudsz ilyen cinikus lenni?	alaycı	0	0
+Ne kanıtlamaya çalışıyorsun?	Mit akarsz ezzel bizonyítani?	kanıtlamaya	0	0
+Coca-Cola içmiyorum.	Nem iszom Coca-Colát.	içmiyorum	0	0
+Bu sadece bir hobi.	Ez csak egy hobbi.	hobi	0	0
+Neden Almanca öğreniyorsun?	Miért tanulsz németül?	öğreniyorsun	0	0
+Ben terapiye ihtiyacım olduğunu düşünüyorum.	Azt hiszem, terápiára van szükségem.	terapiye	0	0
+Yarın kapalıyız.	Zárva tartunk holnap.	kapalıyız	0	0
+O, Almanca öğreniyor.	Németül tanul.	öğreniyor	0	0
+Kalan parasıyla seksen deve aldı.	A maradék pénzéből nyolcvan tevét vásárolt.	parasıyla	0	0
+Tom, Mary ile konsere gidiyor.	Tom Maryvel koncertre megy.	konsere	0	0
+Suşi sever misin?	Szereted a szusit?	suşi	0	0
+Ben aramadım.	Nem telefonáltam.	aramadım	0	0
+Tom, bu yılki Tenis Turnuvasından sorumludur.	Tom a felelős az idei tenisztornáért.	yılki	0	0
+Araba sürdüm.	Vezettem.	sürdüm	0	0
+Afrikalı arkadaşı var.	Afrikai barátja van.	afrikalı	0	0
+Tom telefonu duvara fırlattı.	Tom a falhoz dobta a telefont.	fırlattı	0	0
+Ben bir sporcu değilim.	Nem vagyok atléta.	sporcu	0	0
+Japonca konuşabiliyor musun?	Beszélsz te japánul?	konuşabiliyor	0	0
+Şu anda evdeyim.	Itthon vagyok most.	evdeyim	0	0
+Yemek yiyorlar.	Étkeznek.	yiyorlar	0	0
+Uçaktan indim.	Leszálltam a gépről.	indim	0	0
+Tom bir haham.	Tom rabbi.	haham	0	0
+"Esperanto: Avrupa veya Asya dili" denemesinde Claude Piron, Esperanto ve Çince arasındaki benzerliği gösterdi ve Esperanto'nun yalnızca Avrupa merkezli olduğunu ortaya koydu.	"Eszperantó: európai vagy ázsiai nyelv" című tanulmányában Claude Piron kimutatta a hasonlóságot az eszperantó és a kínai nyelv között, így cáfolta azt a gondolatot, hogy az eszperantó tisztán európai nyelv.	çince	0	0
+Biz sınıra yakın yaşıyoruz.	A határ közelében lakunk.	sınıra	0	0
+Örümceklerin kulakları yoktur.	A pókoknak nincs fülük.	kulakları	0	0
+Tom çıldırdı.	Tom megőrült.	çıldırdı	0	0
+Her hafta sonu paten yapmaya giderdik.	Minden hétvégén korcsojázni szoktunk.	paten	0	0
+Evimde az mobilya var.	Kevés bútor van a házamban.	mobilya	0	0
+Havuza atladım.	Beugrottam a medencébe.	atladım	0	0
+Yarın için planların nedir?	Mik a terveid holnapra?	planların	0	0
+Onlar kapalıydı.	Zárva tartottak.	kapalıydı	0	0
+Araba sürüyorum.	Vezetek.	sürüyorum	0	0
+Ben senin babanım.	Az apád vagyok.	babanım	0	0
+Tom eski bozuk paraları topladı.	Tom régi érmeket gyűjtött.	topladı	0	0
+Plaj boş.	Üres a tengerpart.	plaj	0	0
+Kitabı okuyordum.	Olvastam a könyvet.	okuyordum	0	0
+O, okuyabilir.	Tud olvasni.	okuyabilir	0	0
+Okullar kapalı.	Az iskolák zárva vannak.	okullar	0	0
+Şapkanı giy.	Tedd fel a kalapodat!	şapkanı	0	0
+Anahtarın bende.	Nálam van a kulcsod.	anahtarın	0	0
+Her hafta sonu paten yapmaya giderdik.	Minden hétvégén korcsojázni szoktunk.	giderdik	0	0
+Kapı açıktır.	Az ajtó nyitva van.	açıktır	0	0
+Fabrikamız bütün şehre süt tedarik etmektedir.	A mi gyárunk látja el tejjel az egész várost.	tedarik	0	0
+Tiyatroya gidiyoruz.	Színházba megyünk.	tiyatroya	0	0
+İsminiz ne?	Mi a neve?	İsminiz	0	0
+Elma ağaçtan düştü.	Leesett a fáról az alma.	ağaçtan	0	0
+Cebinden bir kalem sarkıyor.	A zsebedből kilóg egy toll.	cebinden	0	0
+Her zaman müşteri mi haklıdır?	Mindig a vásárlónak van igaza?	haklıdır	0	0
+Oyuncu, faul nedeniyle sarı kart gördü.	A játékos sárga lapot kapott a szabálytalanságért.	faul	0	0
+Tom ördek avına gitti.	Elment Tom kacsára vadászni.	avına	0	0
+Yağmur ne zaman yağacak?	Mikor lesz eső?	yağacak	0	0
+Tom Fransızca öğretir.	Tom franciát tanít.	öğretir	0	0
+Lütfen onuncu sayfaya bakın.	Kérem, térjünk vissza a tizedik oldalra.	onuncu	0	0
+Uyuyordum.	Aludtam.	uyuyordum	0	0
+Bu gerçektir.	Ez az igazság.	gerçektir	0	0
+Hukuk fakültesi nerede?	Hol van a jogi egyetem?	fakültesi	0	0
+Kadınlar da insandır.	A nők is emberek.	insandır	0	0
+Öncelikle karar verilmesi gereken şey üzerinde karar veririz sonra iki takıma ayrılırız.	Először eldöntjük, mit kell eldönteni, aztán két csapatra oszlunk.	verilmesi	0	0
+Sen çay içersin.	Teázol.	içersin	0	0
+Bu, kitabın ilk baskısı mı?	Ez a könyv első kiadása?	baskısı	0	0
+Merhum on sekiz yaşındaydı.	Az elhunyt tizennyolc éves volt.	merhum	0	0
+Bir köpek bacağımı ısırdı.	A lábszáramat egy kutya megharapta.	bacağımı	0	0
+Benim adım Rahul.	A nevem Rahul.	rahul	0	0
+Neden dans etmiyorsunuz?	Miért nem táncoltok?	etmiyorsunuz	0	0
+Tom'un doğruyu söylememesi mümkündür.	Lehet, hogy Tom nem mond igazat.	mümkündür	0	0
+Eğer isterlerse yapabilirler.	Megtehetik, ha akarják.	isterlerse	0	0
+Tek iyi faşist ölü bir faşisttir.	Csak a halott fasiszta a jó fasiszta.	faşist	0	0
+Odamdan çık!	Menj ki a szobámból!	odamdan	0	0
+Allah'ın sopası yok.	Isten nem bottal ver.	sopası	0	0
+Adayı kim keşfetti?	Ki fedezte fel a szigetet?	keşfetti	0	0
+Türkçe konuşuyor musunuz?	Beszél ön törökül?	türkçe	0	0
+Onun kocası kanepe'de uyur.	A férje a kanapén alszik.	uyur	0	0
+Susuz bir gün daha yaşayamayız.	Két napig sem élhetünk víz nélkül.	susuz	0	0
+Onunla tanışmayı tercih etmiyorum.	Inkább nem találkoznék vele.	tanışmayı	0	0
+Kalan parasıyla seksen deve aldı.	A maradék pénzéből nyolcvan tevét vásárolt.	seksen	0	0
+Önce Mary yürüdü, ve Tom arkada geldi.	Elsőnek Mari ment, és Tom utána jött.	yürüdü	0	0
+Yunus balığı bir memeliyken köpekbalığı bir balıktır.	A cápa hal, míg a delfin emlős.	yunus	0	0
+Tacı görüyorum.	Látom a koronát.	tacı	0	0
+O gelinceye kadar burada bekleyeceğim.	Itt várok, amíg nem jön.	gelinceye	0	0
+Çok gazete okumam.	Nem nagyon olvasok újságot.	okumam	0	0
+O, kazadan sonra bilincini kaybetti.	A baleset következtében elvesztette az eszmelétét.	bilincini	0	0
+Perdeleri kapat! Çünkü caddenin karşısındaki evde yaşayan kişi bir röntgencidir.	Húzd be a függönyöket! Azért, mert az utca túloldalán lévő házban lakó ember egy kukkoló.	perdeleri	0	0
+Rüya görüyordu.	Álmodik.	görüyordu	0	0
+Ona kelepçe taktım.	Megbilincseltem.	kelepçe	0	0
+Odanız nerede?	Hol van a szobátok?	odanız	0	0
+Tuzu bana uzat.	Nyújtsd ide nekem a sót!	tuzu	0	0
+İznim olmadan hiçbir yere gitmeyeceksin.	Sehova sem mész az engedélyem nélkül.	gitmeyeceksin	0	0
+Ben genelde dokuzdan beşe kadar çalışırım ama bugün ona kadar çalıştım.	Általában kilenctől ötig szoktam dolgozni, de ma tízig dolgoztam.	beşe	0	0
+Çantamda bir şey yok.	Nincs semmi a táskámban.	çantamda	0	0
+Gece yürümeyi severim.	Szeretek éjszaka sétálni.	yürümeyi	0	0
+Evinizi görüyorum.	Látom a házatokat.	evinizi	0	0
+Daima mutlusun.	Te mindig boldog vagy.	mutlusun	0	0
+Tom Fransızca öğretiyor.	Tom franciát tanít.	öğretiyor	0	0
+O bir sorunu gündeme getirdi.	Föltett egy kérdést.	gündeme	0	0
+Peruk giymekten çekinmeyin.	Nyugodtan hordd azt a parókát!	çekinmeyin	0	0
+Ben öneriyi destekliyorum.	Támogatom a javaslatot.	destekliyorum	0	0
+Seçenekler neler?	Milyen lehetőségek vannak?	seçenekler	0	0
+Sizin bir arabanız var, değil mi?	Van egy autótok, nem igaz?	arabanız	0	0
+Yarışta birinci oldum.	Első lettem a versenyen.	yarışta	0	0
+Restoran boştu.	Üres volt az étterem.	boştu	0	0
+Kıran kırana bir maç oldu.	Szoros meccs volt.	kıran	0	0
+Büyükbabamın Franz Joseph sakalı var.	Papámnak Ferenc József-szakálla van.	büyükbabamın	0	0
+Japonca konuşuyorsun.	Japánul beszélsz.	japonca	0	0
+"Baba bana biraz parar verir misin?" "Pantolonumu getir."	— Apa, tudsz adni egy kis pénzt? — Hozzad a nadrágomat.	pantolonumu	0	0
+Ben bir armut yiyorum.	Körtét eszem.	armut	0	0
+Fazla tatlıydı!	Nagyon édes volt.	tatlıydı	0	0
+Dişlerimi fırçalayayım.	Hadd mossam meg a fogam.	dişlerimi	0	0
+Uçakta uyumadım.	Nem aludtam a gépen.	uyumadım	0	0
+Birayı sevmiyorum.	Nem szeretem a sört.	birayı	0	0
+Bir yılda dört mevsim vardır.	Egy évben négy évszak van.	mevsim	0	0
+İstasyon nerede?	Hol van a megálló?	İstasyon	0	0
+Yabancılarla konuşma.	Ne állj le ismeretlenekkel beszélni!	yabancılarla	0	0
+Betty klasik müzikten hoşlanır.	Betti szereti a klasszikus zenét.	müzikten	0	0
+Arabama bindim.	Beszálltam az autómba.	bindim	0	0
+Bir cümleyi nasıl silebilirim?	Hogyan törlöm a mondatot?	cümleyi	0	0
+Bill Gates çipi kırılır.	Tönkrement Bill Gates chipje.	çipi	0	0
+Bu sandalyeyi ben yaptım.	Ezt a széket én készítettem.	sandalyeyi	0	0
+Tom bütün gün sessizliğini korudu.	Tomi egész nap hallgatott.	korudu	0	0
+Su sıcaktı.	A víz meleg volt.	sıcaktı	0	0
+Makarna pişirmek kolaydır.	Tésztát főzni könnyű.	pişirmek	0	0
+Suyu içmedim.	Nem ittam meg a vizet.	içmedim	0	0
+Banka ne zaman kapanır?	Mikor zár a bank?	kapanır	0	0
+Annem erkek kardeşime sarı bir şemsiye aldı.	Anyám vett a testvéremnek egy sárga esernyőt.	şemsiye	0	0
+Ben bela aramıyorum.	Nem keresem a bajt.	aramıyorum	0	0
+Ben bir anneyim.	Én anya vagyok.	anneyim	0	0
+O, arkadaşlarına ihanet edecek son kişidir.	Ő az utolsó, aki elárulná a barátait.	kişidir	0	0
+Et yiyemem.	Nem ehetek húst.	yiyemem	0	0
+Yasayı biliyorsunuz.	Ismeritek a törvényt.	yasayı	0	0
+En geç saat kaçta arayabilirim?	Milyen későig telefonálhatok.	arayabilirim	0	0
+Dün hava soğuktu.	Tegnap hideg volt.	soğuktu	0	0
+Ona kullanmamasını söylemesine rağmen, Tom Mary'nin bilgisayarını kullanmaya karar verdi.	Tom elhatározta, hogy használni fogja Mari számítógépét, habár ő azt mondta neki, hogy azt ne tegye.	söylemesine	0	0
+Tom Mary'nin az önce ne dediğini anlamadı.	Tom nem értette, mit mondott éppen Mari.	anlamadı	0	0
+Hava raporları nadiren gerçekleşir.	Az időjárás-előrejelzés ritkán válik be.	gerçekleşir	0	0
+Bankalar kapalı.	Zárva vannak a bankok.	bankalar	0	0
+Şapkamı kaybettim.	Elvesztettem a sapkámat.	şapkamı	0	0
+Yazın ve kışın Finlandiya'da yaşıyoruz; baharda ve sonbaharda ise Arjantin'de.	Nyáron és télen Finnországban élünk, tavasszal és ősszel meg Argentínában.	sonbaharda	0	0
+Ayakkabı satarım.	Cipőt árulok.	satarım	0	0
+Tom'u nerede bulabileceğini biliyorum.	Tudom, hol találod meg Tomot.	bulabileceğini	0	0
+Ne içiyoruz?	Mit iszunk?	içiyoruz	0	0
+Beni mağazaya götür.	Vigyen a bolthoz.	mağazaya	0	0
+O; kendi okulunu çok seviyor.	Nagyon szereti az iskoláját.	okulunu	0	0
+Bir toplumda yaşıyoruz.	Társadalomban élünk.	toplumda	0	0
+Soruyu cevapla.	Válaszold meg a kérdést!	cevapla	0	0
+İkizler bebeğe baktılar.	Az ikerek gondoskodtak a babáról.	İkizler	0	0
+Niye yemiyorsun?	Miért nem eszel?	yemiyorsun	0	0
+Mutfaktan çık!	Menj ki a konyhából!	mutfaktan	0	0
+Dün eğlendin mi?	Tegnap jól szórakoztál?	eğlendin	0	0
+İstasyon yakındır.	Közel van a megálló.	yakındır	0	0
+Büyükbabamın Franz Joseph sakalı var.	Papámnak Ferenc József-szakálla van.	sakalı	0	0
+Odamda uyurum.	A szobámban alszom.	uyurum	0	0
+O bayan bizim komşumuz.	Az a hölgy a szomszédunk.	komşumuz	0	0
+Geç saatlere kadar çalışabilirim.	Késő este is tudok dolgozni.	çalışabilirim	0	0
+Dün çalışmadım.	Tegnap nem dolgoztam.	çalışmadım	0	0
+Bunu yapmaktan vazgeçmeyeceğim!	Nem hagyom abba.	vazgeçmeyeceğim	0	0
+Yabancılara güvenme.	Ne bízz meg idegenekben!	yabancılara	0	0
+Sanırım bugünkü maçı kazanabiliriz.	Gondolom, hogy a mai meccset meg tudjuk nyerni.	kazanabiliriz	0	0
+Onlar saat on ikide öğle yemeği yer.	Délben ebédelnek.	ikide	0	0
+Patrona söyleme.	Ne mondd el a főnöknek!	patrona	0	0
+O ahşaptan mı yoksa metalden mi yapılmıştır?	Ez fémből vagy fából készült?	yapılmıştır	0	0
+En yakın otobüs durağı nerede?	Hol van a legközelebbi buszmegálló?	durağı	0	0
+Yüzmeyi seviyorum.	Szeretek úszni.	yüzmeyi	0	0
+İnternet bağlantım çok yavaş.	Az internetkapcsolat nagyon gyenge.	bağlantım	0	0
+Hayaletlerin varlığına inanıyor.	Hisz a kísértetekben.	varlığına	0	0
+Televizyondaki maçı gördüm.	Tévében néztem a meccset.	televizyondaki	0	0
+Sabotaj!	Szabotázs!	sabotaj	0	0
+Ben gencim.	Fiatal vagyok.	gencim	0	0
+Kısıtlamalar kaldırıldı.	Feloldották a szigorításokat.	kaldırıldı	0	0
+Arapça biliyor musun?	Tud arabul?	arapça	0	0
+İyi sabahlar.	Jó reggelt!	sabahlar	0	0
+Doğa hiçbir sınır tanımaz.	A természet nem ismer határokat.	tanımaz	0	0
+Onlar plaja gitti.	Lementek a partra.	plaja	0	0
+Yazın ve kışın Finlandiya'da yaşıyoruz; baharda ve sonbaharda ise Arjantin'de.	Nyáron és télen Finnországban élünk, tavasszal és ősszel meg Argentínában.	baharda	0	0
+Yapraklar neden yeşildir?	Miért zöldek a levelek?	yapraklar	0	0
+Onun neden ağladığını bilmiyorum.	Nem tudom, miért sírsz.	ağladığını	0	0
+Ne kadar bahşiş bırakmalıyım?	Mennyi borravalót kellett volna adnom?	bırakmalıyım	0	0
+Almanya'da fahişelik yasaldır.	A prostitúció legális Németországban.	fahişelik	0	0
+Ablası kadar güzel değil.	Nem olyan szép, mint a nővére.	ablası	0	0
+Okul dokuzda başlar.	A suli kilenckor kezdődik.	dokuzda	0	0
+Çantan nerede?	Hol a táskád?	çantan	0	0
+Tom iki odalı bir eve sahiptir.	Tomnak két szobás háza van.	odalı	0	0
+Tom çok çocuksu.	Tom nagyon gyerekes.	çocuksu	0	0
+Bu bilezik çok ucuz.	Nagyon olcsó ez a karperec.	bilezik	0	0
+Onlar yeni bir hükümet seçtiler.	Választottak egy új képviselőtestületet.	seçtiler	0	0
+İsterseniz, ben size satranç oynamayı öğretirim.	Ha akarod, megtanítalak sakkozni.	öğretirim	0	0
+Yorgunsun, değil mi?	Fáradt vagy, mi?	yorgunsun	0	0
+O Tel Aviv'de yaşardı.	Korábban Tel-Avivban élt.	yaşardı	0	0
+Çok yaşlısın.	Nagyon öreg vagy.	yaşlısın	0	0
+Köpekbalıkları balık yer.	A cápák halat esznek.	köpekbalıkları	0	0
+Papağan öldü.	A papagáj elpusztult.	papağan	0	0
+Çocuklar oyuncakları ile oynuyor.	A gyerekek játékokkal játszanak.	oyuncakları	0	0
+İyi uçuşlar.	Jó repülést!	uçuşlar	0	0
+Akşam yemeğinden önce ev ödevimi bitirmeliyim.	Vacsora előtt elvégeztem a házi feladatomat.	ödevimi	0	0
+İslam'ın beş şartı nelerdir?	Mi az iszlám öt pillére?	nelerdir	0	0
+Aslanlar ve kaplanlar nerede?	Hol vannak az oroszlánok és a tigrisek?	aslanlar	0	0
+Pantolonun kirli.	Piszkos a nadrágod.	pantolonun	0	0
+Yurtdışından getirilmiş arabası var.	Külföldről hozott kocsija van.	getirilmiş	0	0
+İşte biran.	Tessék, a söröd.	biran	0	0
+Bu kimin ayısı?	Kié ez a medve?	ayısı	0	0
+Telif hakları yasasını iyi biliyorum.	Jól ismerem a szerzői jogi törvényeket.	telif	0	0
+Banyo hazırdır.	Kész a fürdő.	hazırdır	0	0
+Ceketin bende.	Nálam van a kabátod.	ceketin	0	0
+Sırrımı biliyorsun.	Ismered a titkomat.	sırrımı	0	0
+Hatasını kabul etmedi.	Nem akarta beismerni hibáit.	hatasını	0	0
+Ambulansa ihtiyacın var mı?	Szükséged van mentőre?	ambulansa	0	0
+Bu cümleyi nasıl değiştirebilirim?	Hogy tudnám megváltoztatni ezt a mondatot?	değiştirebilirim	0	0
+O, barda oturarak peş peşe viski içti.	A bárban ült és egymás után öntögette magába a viszkiket.	oturarak	0	0
+Bu optik bir illüzyon.	Ez egy optikai illúzió.	optik	0	0
+Tom oynamıyor.	Tom nem játszik.	oynamıyor	0	0
+Tom benim dans partnerim.	Tom a táncpartnerem.	partnerim	0	0
+İki kedim var.	Van két macskám.	kedim	0	0
+Yarın odamı temizleyeceğim.	Holnap kitakarítom a szobámat.	temizleyeceğim	0	0
+Babaları yalnız sinemaya gitmelerine izin vermedi.	Az apja nem engedte meg neki, hogy egyedül menjen moziba.	gitmelerine	0	0
+Ben bir dedektifim.	Én nyomozó vagyok.	dedektifim	0	0
+Kabil iyi bir kardeş değildi.	Káin nem volt jó testvér.	kabil	0	0
+Kraliçeyi görüyorum.	Látom a királynőt.	kraliçeyi	0	0
+Kanadalı değilim.	Nem vagyok kanadai.	kanadalı	0	0
+Suyumuz yok.	Nincs vizünk.	suyumuz	0	0
+Perdenin arkasına kim saklanıyor?	Ki rejtőzik a függöny mögött?	perdenin	0	0
+Hepimiz farklıyız.	Mindannyian mások vagyunk.	farklıyız	0	0
+Yanıma oturmaz mısın?	Nem ülsz mellém?	oturmaz	0	0
+O, kamyonda uyuyor.	A kamionban alszik.	kamyonda	0	0
+Senin hiç umudun yok.	Neked már nincs remény.	umudun	0	0
+Onlar Tom'u tanıyorlar.	Ők ismerik Tomot.	tanıyorlar	0	0
+Tom benim arkadaşımdır.	Tom a barátom.	arkadaşımdır	0	0
+Batı kültüründe Attila "Tanrı'nın kırbacı" ismiyle bilinir.	A nyugati kultúrában Attilát Isten ostoraként ismerik.	ismiyle	0	0
+Ben zekiyim.	Intelligens vagyok.	zekiyim	0	0
+Bill Gates çipi kırılır.	Tönkrement Bill Gates chipje.	kırılır	0	0
+Bunlardan herhangi birini ilginç bulmuyorum.	Nem találok ebben semmi érdekeset.	bulmuyorum	0	0
+İtalyanlar makarna yer.	Az olaszok tésztát esznek.	İtalyanlar	0	0
+Bu kimin gitarı?	Kié ez a gitár?	gitarı	0	0
+Bugün boşum.	Ma szabad vagyok.	boşum	0	0
+Nehir kurudu.	A folyó kiszáradt.	kurudu	0	0
+Ofisinin kapısını açtı.	Kinyitotta irodájának ajtaját.	ofisinin	0	0
+Bir dolar bozar mısın?	Tud visszaadni egy dollárból?	bozar	0	0
+Zengin olursam, bir şato alacağım.	Ha gazdag leszek, veszek egy kastélyt.	şato	0	0
+Ben Macar değilim.	Nem vagyok magyar.	macar	0	0
+O, gelecek seçime katılmıyor.	Nem jelölteti magát a következő választásra.	katılmıyor	0	0
+Şapkam nerede?	A sapkám hol van?	şapkam	0	0
+Anaokulu öğretmeni de dayanamıyor, geçen sefer Tom'un on saatlik derslerini de aldı.	Az óvónéni sem bír vele, a múltkor is elvette Tom tízóraiját.	derslerini	0	0
+Ben havyar yedim.	Kaviárt ettem.	havyar	0	0
+Onun borçları 100,000 yene ulaştı.	Az adóssága 100000 jenre rúg.	borçları	0	0
+Bu sorunu bir an önce çözmemiz gerekiyor.	Ezt a problémát azonnal meg kell oldanunk.	çözmemiz	0	0
+Artık İstanbul'da yaşamıyorum.	Már nem Isztambulban élek.	yaşamıyorum	0	0
+Suyum bitti.	Elfogyott a vizem.	suyum	0	0
+Çorbayı dökme.	Ne öntsd ki a levest!	dökme	0	0
+Benim sabrım yok.	Nincs türelmem.	sabrım	0	0
+Üzülmeyin.	Ne bánkódj.	üzülmeyin	0	0
+O sigara içmiyor.	Ő nem dohányzik.	içmiyor	0	0
+Lütfen onuncu sayfaya bakın.	Kérem, térjünk vissza a tizedik oldalra.	sayfaya	0	0
+Uyuyorlar.	Alszanak.	uyuyorlar	0	0
+Tom gülümsedi ama cevap vermedi.	Tom mosolygott, de nem válaszolt.	gülümsedi	0	0
+Banyo penceresi açık.	Nyitva van a fürdőszoba ablaka.	penceresi	0	0
+Filler, dünyanın en büyük kara hayvanlarıdır.	Az elefántok a világ legnagyobb szárazföldi állatai.	filler	0	0
+O, zekidir.	Ő intelligens.	zekidir	0	0
+Kiminle konuşuyordunuz?	Kivel beszéltetek?	konuşuyordunuz	0	0
+Zaten bitirdiniz mi?	Most már készen vagytok?	bitirdiniz	0	0
+Kahveni severim.	Ízlik a kávéd.	kahveni	0	0
+Hazırlık eksikliğinden sınavda başarısız oldu.	A hiányos felkészülés miatt nem ment át a vizsgán.	sınavda	0	0
+Ateşim var.	Lázas vagyok.	ateşim	0	0
+Sık sık yurtdışına çıkar mısın?	Gyakran utazol külföldre?	yurtdışına	0	0
+Kar yakında kaybolacak.	A hó hamarosan el fog tűnni.	kaybolacak	0	0
+Gözde profesörün kimdir?	Ki a kedvenc professzorod?	profesörün	0	0
+Bu resimleri Almanya'da mı çektiniz ?	Ezeket Németországban fényképezted?	çektiniz	0	0
+Düşünüyormuş gibi yapıyor.	Úgy tesz, mintha gondolkodna.	düşünüyormuş	0	0
+Tom, Hitler selamı verdi.	Tom náci karlendítést csinált.	selamı	0	0
+O, arabaya bindi ve uzaklaştı.	Beszállt az autóba és elhajtott onnan.	uzaklaştı	0	0
+Burada güvendesiniz.	Biztonságban vagytok itt.	güvendesiniz	0	0
+Kahvemi içiyorum.	A kávémat iszom.	kahvemi	0	0
+Bu onun eve dönmesini engelledi.	Ez gátolta őt a hazatérésében.	engelledi	0	0
+Müzik dinlemekten keyif aldık.	Élveztük a zenehallgatást.	dinlemekten	0	0
+Gözlük takmam.	Nem hordok szemüveget.	takmam	0	0
+Pizzayı seviyorum.	Szeretem a pizzát.	pizzayı	0	0
+Ben gece geç saatlere kadar kalmaya alışkınım.	Szokásom, hogy este sokáig fönn maradok.	alışkınım	0	0
+Sami tekila içiyordu.	Sami tequilát ivott.	içiyordu	0	0
+Pazartesiden Cumaya kadar kar yağdı.	Hétfőtől péntekig esett a hó.	cumaya	0	0
+Neden gülüyorum?	Miért nevetek?	gülüyorum	0	0
+Yazılımı en son sürüme güncelledim.	A szoftvert a legújabb verzióra frissítettem.	yazılımı	0	0
+Tom yağmur yağışını izlerken üzücü bir şarkı dinledi.	Tom szomorú zenét hallgatott, miközben nézte az esőt.	dinledi	0	0
+Kalemle yaz.	Tollal írj!	kalemle	0	0
+Kumsala gitmek istemiyorum.	Nem akarok lemenni a partra.	kumsala	0	0
+Bu odayı kız kardeşimle paylaşıyorum.	Megosztom ezt a szobát a nővéremmel.	paylaşıyorum	0	0
+Fin değilim.	Nem vagyok finn.	fin	0	0
+O benim pantolonum.	Az az én nadrágom.	pantolonum	0	0
+Okulumuz onun öğretim metotlarını benimsedi.	Iskolánk átvette a tanítási módszerüket.	öğretim	0	0
+Fabrikamız bütün şehre süt tedarik etmektedir.	A mi gyárunk látja el tejjel az egész várost.	etmektedir	0	0
+Artık takmıyorum.	Már nem érdekel.	takmıyorum	0	0
+Bu benim hayal gücümün ötesinde.	Ez meghaladja az én képzelőerőmet.	gücümün	0	0
+Yağmur dolayısıyla oyun ertelendi.	Az eső miatt a játékot elhalasztották.	ertelendi	0	0
+Dün maaşımı aldım.	Tegnap kaptam ki a béremet.	maaşımı	0	0
+Kivimi yiyordum.	Megettem a kivimet.	yiyordum	0	0
+Çocuklar toprakta oynamayı sever.	A gyerekek szeretnek a földön játszani.	toprakta	0	0
+Yiyorsunuz.	Esztek.	yiyorsunuz	0	0
+Mutluyduk.	Boldogok voltunk.	mutluyduk	0	0
+Anaokulu öğretmeni de dayanamıyor, geçen sefer Tom'un on saatlik derslerini de aldı.	Az óvónéni sem bír vele, a múltkor is elvette Tom tízóraiját.	anaokulu	0	0
+Ben hayrete düştüm.	Olen sanaton.	hayrete	0	0
+Balık pahalıdır.	Drága a hal.	pahalıdır	0	0
+Evdeydim.	Otthon voltam.	evdeydim	0	0
+Herkesin kendi dilini sevmesi gerekir.	Mindenkinek szeretnie kell a nyelvét.	sevmesi	0	0
+Pazartesiden Cumaya kadar kar yağdı.	Hétfőtől péntekig esett a hó.	yağdı	0	0
+Ben çok voleybol oynarım.	Sokat röplabdázom.	voleybol	0	0
+Matematiği seviyorum.	Szeretem a matekot.	matematiği	0	0
+Yolunu kapatıyorsun.	Útban vagy!	kapatıyorsun	0	0
+Köpek yabancıya havladı.	A kutya megugatta az idegent.	yabancıya	0	0
+Su kaç derecede kaynar?	A víz hány fokon forr?	kaynar	0	0
+Bugün rüzgarlı.	Ma szeles időnk van.	rüzgarlı	0	0
+Süt içiyordum.	Tejet ittam.	içiyordum	0	0
+Öğretiyorum.	Tanítok.	öğretiyorum	0	0
+Onlar kazandılar.	Ők nyertek.	kazandılar	0	0
+Jane, Avustralyalı.	Jane Ausztráliából jött.	avustralyalı	0	0
+Tom Japon yiyeceğini çok seviyor.	Tom nagyon szereti a japán kosztot.	yiyeceğini	0	0
+Benim ülkemin okyanusa kıyısı vardır.	A szülővárosom a tenger mellett van.	kıyısı	0	0
+Oda kilitliydi.	A szoba be volt zárva.	kilitliydi	0	0
+Şehir Londra'nın batısında kurulu.	A város Londontól keletre fekszik.	batısında	0	0
+Mutfaktaki kim?	Ki van a konyhában?	mutfaktaki	0	0
+O, Yeni Zelanda'ya taşınacak.	Át fog költözni Új-Zélandba.	taşınacak	0	0
+Musevi miyim?	Zsidó vagyok?	musevi	0	0
+O, odayı temizledi.	Ő a szobát takarította.	temizledi	0	0
+Çok küçüksün.	Túl fiatal vagy még.	küçüksün	0	0
+Bu benim resmim.	Ez az én festményem.	resmim	0	0
+Ameliyat başarılıydı.	A műtét sikerült.	başarılıydı	0	0
+Tom ceketini dolaptan aldı ve onu giydi.	Tom kivette a ruhásszekrényből a kabátját és felvette.	dolaptan	0	0
+O kimin hatasıydı?	Kinek a hibája volt?	hatasıydı	0	0
+Tom ceketini dolaptan aldı ve onu giydi.	Tom kivette a ruhásszekrényből a kabátját és felvette.	giydi	0	0
+Akşam yemeğinden önce ev ödevimi bitirmeliyim.	Vacsora előtt elvégeztem a házi feladatomat.	bitirmeliyim	0	0
+Bir kaleme ihtiyacınız varsa, size bir tane ödünç veririm.	Ha toll kell, tudok kölcsönadni neked egyet.	kaleme	0	0
+Adresin bende yok.	Nincs meg a címed.	adresin	0	0
+Tom tamamen zıvanadan çıktı.	Teljesen megőrült Tom.	zıvanadan	0	0
+İsminizi alabilir miyim?	Megtudhatnám a nevét?	İsminizi	0	0
+Her yerde örümcekler gördüm.	Pókokat láttam mindenütt.	örümcekler	0	0
+Dondurmayı severim.	Szeretem a fagyit.	dondurmayı	0	0
+Sütünü iç.	Idd meg a tejedet!	sütünü	0	0
+Ne zaman döneceksiniz?	Mikor fogtok visszajönni?	döneceksiniz	0	0
+O, nehirde yüzer.	Úszik a folyóban.	yüzer	0	0
+Sadece bir soru soruyordum.	Csak egy kérdést tettem fel.	soruyordum	0	0
+Onlar beni sevmezler.	Nem szeretnek.	sevmezler	0	0
+Menüde ne var?	Mi áll az étlapon?	menüde	0	0
+Bugün bulutlu.	Borús napunk van.	bulutlu	0	0
+O, gelecek seçime katılmıyor.	Nem jelölteti magát a következő választásra.	seçime	0	0
+Korece konuşuyorum.	Koraiul beszélek.	korece	0	0
+Apartman dairesinin bir bahçesi var mı?	Tartozik a lakáshoz kert?	dairesinin	0	0
+Kati Wolf iyi bir şarkıcı.	Wolf Kati jó énekesnő.	kati	0	0
+Ölenlerin tam sayısını henüz kimse bilmiyor.	A halottak pontos számát még senki sem tudja.	ölenlerin	0	0
+Bir fıçıya saklandı.	Egy hordóba bújt el.	saklandı	0	0
+İkizler bebeğe baktılar.	Az ikerek gondoskodtak a babáról.	baktılar	0	0
+Almanca konuşuyorlardı.	Németül beszéltek.	konuşuyorlardı	0	0
+Anahtarlarım nerede?	Hol vannak a kulcsaim?	anahtarlarım	0	0
+Gözlüğünü tak.	Tedd fel a szemüveged!	gözlüğünü	0	0
+Bu benim çok izlediğim bir dizi.	Ez olyan sorozat, amit gyakran megnézek.	izlediğim	0	0
+Onların iyi bir ekipmanı yoktu.	Nem volt megfelelő fölszerelésük.	ekipmanı	0	0
+Mutfak temizdi.	A konyha tiszta volt.	temizdi	0	0
+Kahvem şekersiz olursa sevinirim.	Cukor nélkül szeretném a kávém.	şekersiz	0	0
+Karım ve ben emekli olmak için hazırlanıyoruz.	A feleségem és én fölkészülünk nyugdíjas éveinkre.	hazırlanıyoruz	0	0
+En sevdiğiniz alkolsüz içecek nedir?	Melyik a kedvenc alkoholmentes italod?	alkolsüz	0	0
+Çikolata tatlıdır.	A csoki édes.	tatlıdır	0	0
+Bu sabah altıya kadar hazır olacak.	Ez kész lesz körülbelül ma hat órára.	altıya	0	0
+Çorbayı dökme.	Ne öntsd ki a levest!	çorbayı	0	0
+Tom bugün biraz keyifsiz hissediyor.	Tom ma nincs igazán formában.	keyifsiz	0	0
+Bir yabancı bana istasyonun nerede olduğunu sordu.	Egy idegen megkérdezte tőlem, hol van az állomás.	istasyonun	0	0
+Tom hatamı görmezlikten geldi.	Tom szemet hunyt a hibám felett.	görmezlikten	0	0
+İstasyona vardım.	Megérkeztem az állomásra.	İstasyona	0	0
+Patronlar da insan.	A főnökök is emberek.	patronlar	0	0
+Tom hatamı görmezlikten geldi.	Tom szemet hunyt a hibám felett.	hatamı	0	0
+O, bana kızıyor.	Pipa rám.	kızıyor	0	0
+İslam'ın beş şartı nelerdir?	Mi az iszlám öt pillére?	şartı	0	0
+Esperanto yapma dilinin yaratıcısı Zamenhof, bir göz doktoruydu.	Zamenhof, a tervezett eszperantó nyelv kezdeményezője, szemorvos volt.	dilinin	0	0
+Üç yıldır İngilizce öğreniyoruz.	Három éve tanulunk angolul.	öğreniyoruz	0	0
+Sami o işi beğenmedi.	Saminak nem tetszett az a munka.	beğenmedi	0	0
+Bana nereye imza atılması gerektiğini gösterdi.	Megmutatta, hol kell aláírni.	atılması	0	0
+Tuvaletler nerede?	Hol vannak a mosdók?	tuvaletler	0	0
+Onun mektubuna cevap vermeliydin.	Válaszolnod kellett volna a levelére.	vermeliydin	0	0
+Senin anlamadığını Tom anlar.	Tom érti, amit te nem.	anlamadığını	0	0
+Tatillerde, zamanımı hiçbir şey yapmadan geçiriyorum.	Azzal töltöttem az időt a szabadságom alatt, hogy nem csináltam semmit.	tatillerde	0	0
+Onlar mutlular.	Ők boldogok.	mutlular	0	0
+Kedilerin nerede?	Hol vannak a macskáid?	kedilerin	0	0
+Onlar ne içiyorlar?	Mit isznak?	içiyorlar	0	0
+Güldüm.	Nevettem.	güldüm	0	0
+Kalemim yenidir.	A tollam új.	kalemim	0	0
+İbranice konuşur musunuz?	Beszél héberül?	İbranice	0	0
+Çok büyük miktarlarda altın almaya başladı.	Ekezdett nagy mennyiségű aranyat vásárolni.	miktarlarda	0	0
+Güneş sıcaktır.	A nap forró.	sıcaktır	0	0
+Esperanto'nun yaratıcısı Zamenhof, bir göz doktoruydu.	Zamenhof, a tervezett eszperantó nyelv megalkotója, szemorvos volt.	yaratıcısı	0	0
+Şapkan nerede?	Hol van a sapkád?	şapkan	0	0
+Kalemini görüyorum.	Látom a tolladat.	kalemini	0	0
+Tom bir maymuna benziyor.	Tom hasonlít egy majomra.	maymuna	0	0
+Hayaletlerin varlığına inanıyor.	Hisz a kísértetekben.	hayaletlerin	0	0
+Virüs bilgisayarımı bozdu.	A vírus tönkretette a számítógépemet.	bilgisayarımı	0	0
+Neden başlamıyoruz?	Miért nem indulunk?	başlamıyoruz	0	0
+Sami tekila içiyordu.	Sami tequilát ivott.	sami	0	0
+Bu benim sözlük.	Ez az én szótáram.	sözlük	0	0
+Patatesler bu ülkede iyi yetişir.	A burgonya jól megterem ebben az országban.	yetişir	0	0
+O, barda oturarak peş peşe viski içti.	A bárban ült és egymás után öntögette magába a viszkiket.	peş	0	0
+Donald Trump iflah olmaz bir yalancı.	Donald Trump beteges hazudozó.	trump	0	0
+Hasta güçlükle hareket edebiliyordu.	A beteg nehezen tudott mozogni.	güçlükle	0	0
+Alkol içemem.	Nem ihatok alkoholt.	içemem	0	0
+Şimdi bir taneye ihtiyacım var.	Szükségem van most egyre.	taneye	0	0
+Öğrenci bir metin okuyordu.	A diák egy szöveget olvasott.	okuyordu	0	0
+Hiç kimse hatasız değildir.	Senki sem hibátlan.	hatasız	0	0
+Tuvalet nerededir?	Hol van a mosdó?	nerededir	0	0
+Öğrenciler bugün uykulu gibi görünüyor.	A jó mindig legyőzi a rosszat.	uykulu	0	0
+Dilleri seviyorum.	Szeretem a nyelveket.	dilleri	0	0
+Diş hekimi olmak istiyorum.	Fogorvos akarok lenni.	hekimi	0	0
+Su soğuktur.	Hideg a víz.	soğuktur	0	0
+Evim otobüs durağına yakın.	A házam egy buszmegálló közelében van.	durağına	0	0
+Dün gece çok yorgundum.	Tegnap este nagyon fáradt voltam.	yorgundum	0	0
+Dünya küçüktür.	Kicsi a világ.	küçüktür	0	0
+Bisikletimi buldu.	Megtalálta a kerékpáromat.	bisikletimi	0	0
+Jack çocuklarına çok serttir.	Jakab nagyon szigorú a gyermekeivel.	serttir	0	0
+Evdeyiz.	Itthon vagyunk.	evdeyiz	0	0
+O akıllıdır.	Okos.	akıllıdır	0	0
+Ben matematikte iyi değilim.	Nem vagyok jó matekos.	matematikte	0	0
+O, barda oturarak peş peşe viski içti.	A bárban ült és egymás után öntögette magába a viszkiket.	peşe	0	0
+Yargıçlar kimler?	Kik a bírók?	yargıçlar	0	0
+Tahran'a kamyonla seyahat ettik.	Teherautón utaztunk Teheránba.	kamyonla	0	0
+Anneannem gibi konuşuyorsun.	A nagymamám beszél úgy, mint te.	anneannem	0	0
+Kargalar akıllıdır.	A varjak okosak.	kargalar	0	0
+Cin şişeden çıktı.	A dzsinn kijött az üvegből.	şişeden	0	0
+Cevabınız doğru.	Helyes a válaszotok.	cevabınız	0	0
+Bu senin ekmeğin.	Ez a te kenyered.	ekmeğin	0	0
+Cebimde çok küçük elmalar.	Zsebemben sok kicsi alma van.	elmalar	0	0
+Şirketimizin birçok şehirde şubeleri var.	Társaságunknak sok városban van fiókja.	şirketimizin	0	0
+Sen köpeksin.	Kutya vagy.	köpeksin	0	0
+"Esperanto: Avrupa veya Asya dili" denemesinde Claude Piron, Esperanto ve Çince arasındaki benzerliği gösterdi ve Esperanto'nun yalnızca Avrupa merkezli olduğunu ortaya koydu.	"Eszperantó: európai vagy ázsiai nyelv" című tanulmányában Claude Piron kimutatta a hasonlóságot az eszperantó és a kínai nyelv között, így cáfolta azt a gondolatot, hogy az eszperantó tisztán európai nyelv.	benzerliği	0	0
+Jack matematik sınavında hiç hata yapmadı.	Jack nem vétett hibát a matematika-tesztben.	sınavında	0	0
+O çok yaşlıydı.	Nagyon öreg volt.	yaşlıydı	0	0
+Tom, bu yılki Tenis Turnuvasından sorumludur.	Tom a felelős az idei tenisztornáért.	sorumludur	0	0
+Gustavo doğruca eve gitti.	Gustavo egyenesen hazament.	gustavo	0	0
+Niçin beni tanımıyormuş gibi davranıyorsun?	Miért tettél úgy, mintha nem ismernél engem?	tanımıyormuş	0	0
+Sen çok zenginsin.	Nagyon gazdag vagy.	zenginsin	0	0
+Pirinç lezzetlidir.	Finom a rizs.	lezzetlidir	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nem akarom, hogy az országom az Európai Unió tagjává váljon.	ülkemin	0	0
+Bisikletim yok.	Nincs biciklim.	bisikletim	0	0
+Anaokulu öğretmeni de dayanamıyor, geçen sefer Tom'un on saatlik derslerini de aldı.	Az óvónéni sem bír vele, a múltkor is elvette Tom tízóraiját.	dayanamıyor	0	0
+Biz sorular soruyoruz.	Mi kérdezünk.	soruyoruz	0	0
+Kahvem şekersiz olursa sevinirim.	Cukor nélkül szeretném a kávém.	kahvem	0	0
+Postane ne zaman açılır?	Mikor nyit a posta?	postane	0	0
+Bir Bloody Mary istiyorum.	Egy bloody maryt kérek.	bloody	0	0
+Kaplanlar ne yer?	Mit esznek a tigrisek?	kaplanlar	0	0
+Patatesler nerede?	Hol a krumpli?	patatesler	0	0
+Susuz bir gün daha yaşayamayız.	Két napig sem élhetünk víz nélkül.	yaşayamayız	0	0
+Ben sigaralar içerim.	Cigarettázom.	sigaralar	0	0
+Mary bu eteği ne zaman aldı?	Mikor volt az, amikor Mária megvette ezt a szoknyát?	eteği	0	0
+Telefonun iPhone mu?	IPhone-od van?	iphone	0	0
+Deniz sakindi.	Csöndes volt a tenger.	sakindi	0	0
+Sadece kola içmedin, değil mi?	Ugye nem csak kólát ittál?	içmedin	0	0
+Elmayı yedim.	Megettem az almát.	elmayı	0	0
+Kedin siyah.	A macskád fekete.	kedin	0	0
+Ben akıllıyım.	Intelligens vagyok.	akıllıyım	0	0
+Bu cümlenin anlamı nedir?	Mit jelent ez a mondat?	cümlenin	0	0
+Patlıcan, havuç, domates.	Padlizsán, sárgarépa, paradicsom.	patlıcan	0	0
+Tom hızla tabancasını yeniden yükledi.	Tomi gyorsan újratöltötte a pisztolyát.	tabancasını	0	0
+Fiziksel çöküşü önleyin.	Előzze meg a fizikai összeomlást!	çöküşü	0	0
+Yediğim sebzeleri kendim yetiştiriyorum.	Magam termesztem meg a zöldségeket, amiket fogyasztok.	sebzeleri	0	0
+Ben her sabah lahana turşusu yerim.	Minden reggel savanyú káposztát eszek.	turşusu	0	0
+Budapeşte'de güzel parklar var.	Szép parkok vannak Budapesten.	parklar	0	0
+Artık uyumuyorum.	Már nem alszom.	uyumuyorum	0	0
+Bu tırtıl harika bir kelebek olacak.	Ebből a hernyóból szép pillangó lehet.	tırtıl	0	0
+Adresinizi bilmiyorum.	Nem tudom a címeteket.	adresinizi	0	0
+Tom yabancılardan nefret eder.	Tom utálja a külföldieket.	yabancılardan	0	0
+Tom sayılarla kesinlikle iyidir.	Tom bizonyára jól számol.	sayılarla	0	0
+Kendimizi koronavirüsten nasıl koruyabiliriz?	Hogyan védekezhetünk a koronavírus ellen?	koruyabiliriz	0	0
+Biz açız.	Éhesek vagyunk.	açız	0	0
+Telif hakları yasasını iyi biliyorum.	Jól ismerem a szerzői jogi törvényeket.	yasasını	0	0
+Kollarının arasında öldü.	A karjai között halt meg.	kollarının	0	0
+Ebeveynlerim bilmiyor.	A szüleim nem tudják.	ebeveynlerim	0	0
+Ben bir hayvanım.	Állat vagyok.	hayvanım	0	0
+Gözlüğümü kırdım.	Eltörtem a szemüvegem.	gözlüğümü	0	0
+Biz kimseyi öldürmedik.	Nem öltünk meg senkit.	öldürmedik	0	0
+Yumurtaları yiyorduk.	Megesszük a tojásokat.	yiyorduk	0	0
+Bu park bana çocukluğumu hatırlatıyor.	Ez a park engem az ifjúságomra emlékeztet.	çocukluğumu	0	0
+Bu optik bir illüzyon.	Ez egy optikai illúzió.	illüzyon	0	0
+Seçeneklerim neler?	Mik a lehetőségeim?	seçeneklerim	0	0
+Annem asla erken kalkmaz.	Anyám soha nem kel korán.	kalkmaz	0	0
+Ben senim.	Én vagyok te.	senim	0	0
+Sürprizleri seviyorum.	Szeretem a meglepetéseket.	sürprizleri	0	0
+Sen hatalısın.	Nincs igazad.	hatalısın	0	0
+Benim hobim pişirmektir.	A hobbim a főzés.	hobim	0	0
+Ne içiyordun?	Mit ittál?	içiyordun	0	0
+İkinci Dünya Savaşı sırasında Amerika'da da toplama kampları vardı. Japonlar toplanıyordu.	Az Egyesült Államokban is voltak koncentrációs táborok a második világháborúban; a japánokat gyűjtötték össze.	kampları	0	0
+Postaneye gidiyorum.	Megyek a postára.	postaneye	0	0
+Donald Trump patolojik bir yalancıdır.	Donald Trump beteges hazudozó.	patolojik	0	0
+Bu senin hatandı.	Ez volt a hibád.	hatandı	0	0
+Henüz ilkbahar değil.	Még nincs itt a tavasz.	ilkbahar	0	0
+Burada sigara içmeyin, lütfen.	Kéretik itt nem dohányozni.	içmeyin	0	0
+Artık beklemiyoruz.	Nem várunk már.	beklemiyoruz	0	0
+O, neredeyse senin kadar uzundur.	Egészen olyan magas, mint te.	uzundur	0	0
+O mutludur.	Ő boldog.	mutludur	0	0
+Python bir programlama dilidir.	A Python egy programozási nyelv.	programlama	0	0
+O kadar soğuktu ki bir ateş yaktık.	Olyan hideg volt, hogy tüzet csináltunk.	yaktık	0	0
+Elmaları sevmem.	Nem szeretem az almát.	elmaları	0	0
+Ekmek pişiriyorum.	Kenyeret sütök.	pişiriyorum	0	0
+Tom bütün gün sessizliğini korudu.	Tomi egész nap hallgatott.	sessizliğini	0	0
+Amcam, akciğer kanserinden öldü.	A nagybátyám tüdőrákban halt meg.	kanserinden	0	0
+Benim kitaplarım yeni.	A könyveim újak.	kitaplarım	0	0
+Sıkılmıştım.	Unatkoztam.	sıkılmıştım	0	0
+Ayakkabını bağla.	Kösd meg a cipődet!	ayakkabını	0	0
+Gözlüğüm nerede?	Hol a szemüvegem?	gözlüğüm	0	0
+Dikkat çekiciydi.	Ő nem akar menni ma iskolába.	çekiciydi	0	0
+İlkbahar geliyor.	Jön a tavasz.	İlkbahar	0	0
+Okulumuz onun öğretim metotlarını benimsedi.	Iskolánk átvette a tanítási módszerüket.	okulumuz	0	0
+İçiyor musun?	Iszol?	İçiyor	0	0
+İşte ikinci bir versiyon.	Itt egy másik verzió.	versiyon	0	0
+"Esperanto: Avrupa veya Asya dili" denemesinde Claude Piron, Esperanto ve Çince arasındaki benzerliği gösterdi ve Esperanto'nun yalnızca Avrupa merkezli olduğunu ortaya koydu.	"Eszperantó: európai vagy ázsiai nyelv" című tanulmányában Claude Piron kimutatta a hasonlóságot az eszperantó és a kínai nyelv között, így cáfolta azt a gondolatot, hogy az eszperantó tisztán európai nyelv.	merkezli	0	0
+Komşularla konuşuyordu.	Szomszédokkal beszélt.	komşularla	0	0
+Pazar günü Rabbin Günüdür.	Vasárnap az Úr napja.	günüdür	0	0
+Iskaladın.	Tévedsz.	iskaladın	0	0
+Şemsiyeler iyi satılır.	Az esernyők jól kelnek.	satılır	0	0
+Annem babamdan yaşça daha büyük.	Anyám idősebb apámnál.	yaşça	0	0
+Ne kadar beklediniz?	Meddig várt?	beklediniz	0	0
+Tom'un biraz nakite ihtiyacı vardı.	Tomnak némi készpénzre volt szüksége.	nakite	0	0
+Böyle bakmana dayanamıyorum.	Nem bírom, ha így bámulsz.	bakmana	0	0
+Restoran kapalıdır.	Az étterem zárva van.	kapalıdır	0	0
+Ben bir Sapporo vatandaşıyım.	Szapporói lakos vagyok.	vatandaşıyım	0	0
+O ahşaptan mı yoksa metalden mi yapılmıştır?	Ez fémből vagy fából készült?	metalden	0	0
+Biz korkmuyoruz.	Nem félünk!	korkmuyoruz	0	0
+İyimser misin?	Optimista vagy?	İyimser	0	0
+Uçak havalandı.	A gép felszállt.	havalandı	0	0
+Donald Trump iflah olmaz bir yalancı.	Donald Trump beteges hazudozó.	iflah	0	0
+Onlar kola içerler.	Kólát isznak.	içerler	0	0
+İznim olmadan hiçbir yere gitmeyeceksin.	Sehova sem mész az engedélyem nélkül.	İznim	0	0
+Ekmek hayattır.	A kenyér az élet.	hayattır	0	0
+Günaydınlar.	Jó reggelt!	günaydınlar	0	0
+Öncelikle karar verilmesi gereken şey üzerinde karar veririz sonra iki takıma ayrılırız.	Először eldöntjük, mit kell eldönteni, aztán két csapatra oszlunk.	ayrılırız	0	0
+Hastanedeyim.	Kórházban vagyok.	hastanedeyim	0	0
+Çocuğumla konuşuyorum.	A gyerekemmel beszélek.	çocuğumla	0	0
+Onu herhangi bir kitapçıda alabilirsin.	Ezt minden könyvesboltban meg tudod venni.	kitapçıda	0	0
+Onun patronuyla bir ilişkisi vardı.	Viszonya volt a főnökével.	patronuyla	0	0
+İt ürür, kervan yürür.	Kutya ugat, a karaván halad.	kervan	0	0
+O siyahtı.	Fekete volt.	siyahtı	0	0
+Tom'un doğruyu söylememesi mümkündür.	Lehet, hogy Tom nem mond igazat.	söylememesi	0	0
+Coca-Cola içmiyorum.	Nem iszom Coca-Colát.	coca-cola	0	0
+Ona söyleme. O herkese yayar.	Ne mondd el neki. Mindenkinek elmondja majd.	yayar	0	0
+Köpekler sadıktır.	A kutyák hűsėgesek.	sadıktır	0	0
+Lütfen gelecek Cumartesi öğleden sonrayı boş bırak.	Kérlek, a jövő szombat délutánt hagyd szabadon.	sonrayı	0	0
+Onlar doktordur.	Ők orvosok.	doktordur	0	0
+Ben yabancıyım.	Én külföldi vagyok.	yabancıyım	0	0
+Tom altıdan önce kalkmadı.	Tom nem kelt föl hat óra előtt.	kalkmadı	0	0

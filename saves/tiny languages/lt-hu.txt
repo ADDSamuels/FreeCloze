@@ -1,0 +1,256 @@
+Visiems augalams reikia vandens ir šviesos.	Minden növénynek szüksége van vízre és fényre.	ir	0	0
+Aš ne suomis.	Én nem vagyok finn.	aš	0	0
+Aš ir apie tai galvojau.	Én is erre gondoltam.	tai	0	0
+Nenorėjau, kad tai atsitiktų.	Nem akartam, hogy ez történjen.	kad	0	0
+Tu nežinai kaip stipriai aš tave myliu.	Te nem tudod, mennyire szeretlek.	tu	0	0
+Ne, dėkui.	Nem, köszönöm.	ne	0	0
+Jis visada vairuoja savo autobilį per greitai.	Mindig túl gyorsan hajt.	jis	0	0
+Jis gali sakyti ką tik nori.	Mondhat, amit akar.	ką	0	0
+Rytoj eisiu į mokyklą.	Holnap megyek iskolába.	į	0	0
+Tu nežinai kaip stipriai aš tave myliu.	Te nem tudod, mennyire szeretlek.	kaip	0	0
+Nežaisk su ugnimi.	Ne játssz a tűzzel!	su	0	0
+Ar pamenate šį žaidimą?	Emlékszel erre a játékra?	ar	0	0
+Tai ne kelias o takelis.	Ez nem út, csak egy ösvény.	o	0	0
+Ji paėmė man už rankos.	Kézenfogott.	man	0	0
+Aš jau žinau, kas tu.	Már tudom, ki vagy.	kas	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	gerai	0	0
+Mano mama pažįsta Tomo mamą.	Édesanyám ismeri Tom édesanyját.	mano	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Az egyik autója a háromból kék, a többi fehér.	iš	0	0
+Mes esame studentai.	Diákok vagyunk.	mes	0	0
+Jis gali sakyti ką tik nori.	Mondhat, amit akar.	tik	0	0
+Tai buvo pirmasis aukso medalis kurį ji laimėjo.	Ez volt az első aranyérem, melyet nyert.	ji	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Az egyik autója a háromból kék, a többi fehér.	yra	0	0
+O kas, jei šis planas nepavyks?	És mi van, ha ez a terv nem válik be?	jei	0	0
+Šį rytą buvo dešimt laipsnių žemiau nulio.	Ma reggel mínusz tíz fok volt.	buvo	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	savo	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	kai	0	0
+Tai mane nervina.	Ez idegesít engem.	mane	0	0
+Aš ir apie tai galvojau.	Én is erre gondoltam.	apie	0	0
+Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	jį	0	0
+Tu nežinai kaip stipriai aš tave myliu.	Te nem tudod, mennyire szeretlek.	tave	0	0
+Aš nesu jo dukra.	Nem vagyok a lánya.	jo	0	0
+Aš jau žinau, kas tu.	Már tudom, ki vagy.	jau	0	0
+Aš labai mėgstu lietų.	Szeretem az esőt.	labai	0	0
+Visiems augalams reikia vandens ir šviesos.	Minden növénynek szüksége van vízre és fényre.	reikia	0	0
+Ji paėmė man už rankos.	Kézenfogott.	už	0	0
+Šis miestas turi milijoną gyventojų.	Ennek a városnak egymillió lakosa van.	turi	0	0
+Nieko nesakyk.	Ne mondj semmit.	nieko	0	0
+Jis visada vairuoja savo autobilį per greitai.	Mindig túl gyorsan hajt.	per	0	0
+Jis gali sakyti ką tik nori.	Mondhat, amit akar.	gali	0	0
+Tai buvo jūsų klaida.	Ez volt a hibád.	jūsų	0	0
+Jis gali sakyti ką tik nori.	Mondhat, amit akar.	nori	0	0
+Kaip galime apsisaugoti nuo koronaviruso?	Hogyan védekezhetünk a koronavírus ellen?	nuo	0	0
+Aš turiu tą rasti.	Meg kell találnom.	turiu	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Az egyik autója a háromból kék, a többi fehér.	jos	0	0
+Nurimk ir paklausyk manęs.	Nyugodj meg és hallgass meg.	manęs	0	0
+Jeigu būtum atėjęs truputį anksčiau, būtum ją sutikęs.	Ha egy kicsit korábban jössz, találkozhattál volna vele.	ją	0	0
+Linkiu jums laimės!	Kívánok neked sok boldogságot!	jums	0	0
+Visi kalba angliškai.	Angolul mindenki beszél.	visi	0	0
+Aš jau žinau, kas tu.	Már tudom, ki vagy.	žinau	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	tą	0	0
+Tai nėra klaida.	Ez nem hiba.	nėra	0	0
+Moteris ant suolo yra ponia Braun.	Az asszony a padon Braunné.	ant	0	0
+Jis žino viską ką tik galima žinoti apie džiazą.	Mindent tud, amit a dzsesszről tudni kell.	viską	0	0
+Aš nežinau, Tomai.	Nem tudom, Tom.	nežinau	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Az egyik autója a háromból kék, a többi fehér.	vienas	0	0
+Mano mama pažįsta Tomo mamą.	Édesanyám ismeri Tom édesanyját.	mama	0	0
+Aš gražesnė nei tu.	Szebb vagyok, mint ti.	nei	0	0
+Esu pensijoje.	Nyugdíjas vagyok.	esu	0	0
+Tu esi svarbus.	Fontos vagy.	esi	0	0
+Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	niekada	0	0
+Važiuosime taksi, tiesa?	Taxival megyünk, ugye?	tiesa	0	0
+Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	kartą	0	0
+Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	kada	0	0
+Aš nežinau kuris yra kuris.	Nem tudom, ki kicsoda.	kuris	0	0
+Turime laukti.	Várnunk kell.	turime	0	0
+Jeigu būtum atėjęs truputį anksčiau, būtum ją sutikęs.	Ha egy kicsit korábban jössz, találkozhattál volna vele.	jeigu	0	0
+Šį rytą buvo dešimt laipsnių žemiau nulio.	Ma reggel mínusz tíz fok volt.	šį	0	0
+Jis visada vairuoja savo autobilį per greitai.	Mindig túl gyorsan hajt.	visada	0	0
+Aš buvau jauna ir aš norėjau gyventi.	Fiatal voltam és élni akartam.	buvau	0	0
+Jis turi du automobilius.	Két autója van.	du	0	0
+Jis paprastai grįžta namo vėlai.	Rendszerint későn ér haza.	namo	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	dieną	0	0
+Šis patiekalas yra skanus.	Ez az étel finom.	šis	0	0
+Tu nežinai kaip stipriai aš tave myliu.	Te nem tudod, mennyire szeretlek.	myliu	0	0
+Jis žino viską ką tik galima žinoti apie džiazą.	Mindent tud, amit a dzsesszről tudni kell.	galima	0	0
+Aš buvau jauna ir aš norėjau gyventi.	Fiatal voltam és élni akartam.	norėjau	0	0
+Tai buvo pirmasis aukso medalis kurį ji laimėjo.	Ez volt az első aranyérem, melyet nyert.	kurį	0	0
+Šis traukinys vyksta į Bostoną.	Ez a vonat megy Bostonba.	vyksta	0	0
+Pažiūrėk į tą kalną padengtą sniegu.	Nézd csak azt a hegyet, amelyik hóval van födve.	pažiūrėk	0	0
+Moteris ant suolo yra ponia Braun.	Az asszony a padon Braunné.	ponia	0	0
+Jis visada vairuoja savo autobilį per greitai.	Mindig túl gyorsan hajt.	greitai	0	0
+Jis žino viską ką tik galima žinoti apie džiazą.	Mindent tud, amit a dzsesszről tudni kell.	žino	0	0
+Kaip galime apsisaugoti nuo koronaviruso?	Hogyan védekezhetünk a koronavírus ellen?	galime	0	0
+Rytoj eisiu į mokyklą.	Holnap megyek iskolába.	rytoj	0	0
+Jeigu būtum atėjęs truputį anksčiau, būtum ją sutikęs.	Ha egy kicsit korábban jössz, találkozhattál volna vele.	anksčiau	0	0
+Aš neturiu tėvynės.	Nekem nincs hazám.	neturiu	0	0
+Jis žino viską ką tik galima žinoti apie džiazą.	Mindent tud, amit a dzsesszről tudni kell.	žinoti	0	0
+Aš nesu jo dukra.	Nem vagyok a lánya.	nesu	0	0
+Jeigu būtum atėjęs truputį anksčiau, būtum ją sutikęs.	Ha egy kicsit korábban jössz, találkozhattál volna vele.	truputį	0	0
+Visiems augalams reikia vandens ir šviesos.	Minden növénynek szüksége van vízre és fényre.	visiems	0	0
+Olandijos sostinė vadinasi Amsterdamas.	Hollandia fővárosa Amszterdam.	vadinasi	0	0
+Visi kalba angliškai.	Angolul mindenki beszél.	kalba	0	0
+Nesuprantu.	Nem értem.	nesuprantu	0	0
+Šios ponios yra mano tetos.	Ezek a hölgyek a nagynénéim.	šios	0	0
+Ar kalbi lietuviškai?	Beszélsz litvánul?	kalbi	0	0
+Moteris ant suolo yra ponia Braun.	Az asszony a padon Braunné.	moteris	0	0
+Nurimk ir paklausyk manęs.	Nyugodj meg és hallgass meg.	paklausyk	0	0
+Knygos yra mano geriausi draugai.	A könyvek a legjobb barátaim.	draugai	0	0
+Apleista patalpa liko tuščia.	A magára hagyott szoba üresen maradt.	liko	0	0
+Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	dienos	0	0
+Tai ne kelias o takelis.	Ez nem út, csak egy ösvény.	kelias	0	0
+Tai buvo pirmas kartas kai aš skridau lėktuvu.	Ez volt az első repülőutam.	pirmas	0	0
+Mes jau namuose.	Már otthon vagyunk.	namuose	0	0
+Paskubėk, kitaip pavėluosi.	Siess, különben elkésel.	kitaip	0	0
+Mes esame studentai.	Diákok vagyunk.	esame	0	0
+Visiems augalams reikia vandens ir šviesos.	Minden növénynek szüksége van vízre és fényre.	vandens	0	0
+Aš buvau jauna ir aš norėjau gyventi.	Fiatal voltam és élni akartam.	gyventi	0	0
+Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	pirmą	0	0
+Aš turiu tą rasti.	Meg kell találnom.	rasti	0	0
+Beduinai gyvena dykumoje.	A beduinok a sivatagban élnek.	gyvena	0	0
+Jeigu būtum atėjęs truputį anksčiau, būtum ją sutikęs.	Ha egy kicsit korábban jössz, találkozhattál volna vele.	būtum	0	0
+Rytoj eisiu į mokyklą.	Holnap megyek iskolába.	eisiu	0	0
+Aš kalbu vengriškai.	Én beszélek magyarul.	kalbu	0	0
+Jis gali sakyti ką tik nori.	Mondhat, amit akar.	sakyti	0	0
+Ne, dėkui.	Nem, köszönöm.	dėkui	0	0
+Stok!	Állj!	stok	0	0
+Nenorėjau, kad tai atsitiktų.	Nem akartam, hogy ez történjen.	nenorėjau	0	0
+Aš ir apie tai galvojau.	Én is erre gondoltam.	galvojau	0	0
+Tu nežinai kaip stipriai aš tave myliu.	Te nem tudod, mennyire szeretlek.	nežinai	0	0
+Aš nesu jo dukra.	Nem vagyok a lánya.	dukra	0	0
+Ji paėmė man už rankos.	Kézenfogott.	rankos	0	0
+O kas, jei šis planas nepavyks?	És mi van, ha ez a terv nem válik be?	planas	0	0
+Nurimk ir paklausyk manęs.	Nyugodj meg és hallgass meg.	nurimk	0	0
+Aš nežinau, Tomai.	Nem tudom, Tom.	tomai	0	0
+Šios ponios yra mano tetos.	Ezek a hölgyek a nagynénéim.	ponios	0	0
+Nesupratau.	Nem értem.	nesupratau	0	0
+Nieko nesakyk.	Ne mondj semmit.	nesakyk	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Az egyik autója a háromból kék, a többi fehér.	trijų	0	0
+Šį rytą buvo dešimt laipsnių žemiau nulio.	Ma reggel mínusz tíz fok volt.	dešimt	0	0
+Paskubėk, kitaip pavėluosi.	Siess, különben elkésel.	paskubėk	0	0
+Rytoj eisiu į mokyklą.	Holnap megyek iskolába.	mokyklą	0	0
+Jis paprastai grįžta namo vėlai.	Rendszerint későn ér haza.	paprastai	0	0
+Mano mama pažįsta Tomo mamą.	Édesanyám ismeri Tom édesanyját.	mamą	0	0
+Važiuosime taksi, tiesa?	Taxival megyünk, ugye?	taksi	0	0
+Turime laukti.	Várnunk kell.	laukti	0	0
+Tai buvo pirmasis aukso medalis kurį ji laimėjo.	Ez volt az első aranyérem, melyet nyert.	pirmasis	0	0
+Šis miestas turi milijoną gyventojų.	Ennek a városnak egymillió lakosa van.	miestas	0	0
+Šį rytą buvo dešimt laipsnių žemiau nulio.	Ma reggel mínusz tíz fok volt.	rytą	0	0
+Tai nėra klaida.	Ez nem hiba.	klaida	0	0
+Tu nežinai kaip stipriai aš tave myliu.	Te nem tudod, mennyire szeretlek.	stipriai	0	0
+Aš labai mėgstu lietų.	Szeretem az esőt.	mėgstu	0	0
+Tai buvo pirmas kartas kai aš skridau lėktuvu.	Ez volt az első repülőutam.	kartas	0	0
+Tomas kalbus.	Tom beszédes.	tomas	0	0
+O kas, jei šis planas nepavyks?	És mi van, ha ez a terv nem válik be?	nepavyks	0	0
+Ar Tomas ir Marija labai pasikeitė?	Tom és Mária sokat változott?	pasikeitė	0	0
+Ji paėmė man už rankos.	Kézenfogott.	paėmė	0	0
+Ar pamenate šį žaidimą?	Emlékszel erre a játékra?	žaidimą	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	palikau	0	0
+Knygos yra mano geriausi draugai.	A könyvek a legjobb barátaim.	knygos	0	0
+Visiems augalams reikia vandens ir šviesos.	Minden növénynek szüksége van vízre és fényre.	šviesos	0	0
+Aš nemoku anglų kalbos.	Nem tudok angolul.	kalbos	0	0
+Tai buvo pirmasis aukso medalis kurį ji laimėjo.	Ez volt az első aranyérem, melyet nyert.	aukso	0	0
+Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	sutikau	0	0
+Linkiu jums laimės!	Kívánok neked sok boldogságot!	laimės	0	0
+Tu esi svarbus.	Fontos vagy.	svarbus	0	0
+Nėra nieko svarbesnio už draugus.	Semmi sem fontosabb, mint a barátok.	draugus	0	0
+Jis paprastai grįžta namo vėlai.	Rendszerint későn ér haza.	grįžta	0	0
+Aš laikiau ji savo draugu.	Barátként tekintek rá.	draugu	0	0
+Knygos yra mano geriausi draugai.	A könyvek a legjobb barátaim.	geriausi	0	0
+Aš kalbu prancūziškai ir angliškai.	Franciául és angolul beszélek.	angliškai	0	0
+Marija yra našlė.	Mária özvegy.	marija	0	0
+Jis ligoninėje.	Ő kórházban van.	ligoninėje	0	0
+Aš nemoku anglų kalbos.	Nem tudok angolul.	nemoku	0	0
+Tai buvo pirmasis aukso medalis kurį ji laimėjo.	Ez volt az első aranyérem, melyet nyert.	laimėjo	0	0
+Aš buvau jauna ir aš norėjau gyventi.	Fiatal voltam és élni akartam.	jauna	0	0
+Aš genijus!	Zseni vagyok!	genijus	0	0
+Šis traukinys vyksta į Bostoną.	Ez a vonat megy Bostonba.	traukinys	0	0
+Tai ne paukštis.	Ez nem madár.	paukštis	0	0
+Aš ne robotas.	Nem vagyok robot.	robotas	0	0
+Šį rytą buvo dešimt laipsnių žemiau nulio.	Ma reggel mínusz tíz fok volt.	žemiau	0	0
+Būkime laimingi.	Boldogok vagyunk.	laimingi	0	0
+Aš nemoku anglų kalbos.	Nem tudok angolul.	anglų	0	0
+Mano mama pažįsta Tomo mamą.	Édesanyám ismeri Tom édesanyját.	pažįsta	0	0
+Apleista patalpa liko tuščia.	A magára hagyott szoba üresen maradt.	tuščia	0	0
+Tomas prarado kontrolę.	Tom elvesztette az önuralmát.	prarado	0	0
+Linkiu jums laimės!	Kívánok neked sok boldogságot!	linkiu	0	0
+Šį rytą buvo dešimt laipsnių žemiau nulio.	Ma reggel mínusz tíz fok volt.	laipsnių	0	0
+Jis paprastai grįžta namo vėlai.	Rendszerint későn ér haza.	vėlai	0	0
+Atnaujinau programinę įrangą į naujausią versiją.	A szoftvert a legújabb verzióra frissítettem.	įrangą	0	0
+Mes gyvename visuomenėje.	Társadalomban élünk.	gyvename	0	0
+Afrika yra žmonijos lopšys.	Afrika az emberiség bölcsője.	žmonijos	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	atsimenu	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Az egyik autója a háromból kék, a többi fehér.	likę	0	0
+Pažiūrėk į tą kalną padengtą sniegu.	Nézd csak azt a hegyet, amelyik hóval van födve.	kalną	0	0
+Šis miestas turi milijoną gyventojų.	Ennek a városnak egymillió lakosa van.	milijoną	0	0
+Jeigu būtum atėjęs truputį anksčiau, būtum ją sutikęs.	Ha egy kicsit korábban jössz, találkozhattál volna vele.	sutikęs	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Az egyik autója a háromból kék, a többi fehér.	automobilių	0	0
+Šunis yra ištikimi.	A kutyák hűsėgesek.	šunis	0	0
+Šis miestas turi milijoną gyventojų.	Ennek a városnak egymillió lakosa van.	gyventojų	0	0
+Šiandienai pakanka.	Mára ennyi elég.	pakanka	0	0
+Mes esame studentai.	Diákok vagyunk.	studentai	0	0
+Važiuosime taksi, tiesa?	Taxival megyünk, ugye?	važiuosime	0	0
+Aš laikiau ji savo draugu.	Barátként tekintek rá.	laikiau	0	0
+Tai buvo pirmas kartas kai aš skridau lėktuvu.	Ez volt az első repülőutam.	lėktuvu	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Az egyik autója a háromból kék, a többi fehér.	mėlynas	0	0
+Niekada nepamiršiu dienos kada aš jį pirmą kartą sutikau.	Soha nem fogom elfelejteni a napot, amikor először találkoztam vele.	nepamiršiu	0	0
+Elbrusas yra aukščiausias kalnas Europoje.	Európában Elbrusz a legmagasabb hegy.	kalnas	0	0
+Šis patiekalas yra skanus.	Ez az étel finom.	skanus	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	kaimą	0	0
+Elbrusas yra aukščiausias kalnas Europoje.	Európában Elbrusz a legmagasabb hegy.	europoje	0	0
+Jeigu būtum atėjęs truputį anksčiau, būtum ją sutikęs.	Ha egy kicsit korábban jössz, találkozhattál volna vele.	atėjęs	0	0
+Beduinai gyvena dykumoje.	A beduinok a sivatagban élnek.	dykumoje	0	0
+Mano mama pažįsta Tomo mamą.	Édesanyám ismeri Tom édesanyját.	tomo	0	0
+Nenorėjau, kad tai atsitiktų.	Nem akartam, hogy ez történjen.	atsitiktų	0	0
+Aš neturiu tėvynės.	Nekem nincs hazám.	tėvynės	0	0
+Tomas prarado kontrolę.	Tom elvesztette az önuralmát.	kontrolę	0	0
+Jis visada vairuoja savo autobilį per greitai.	Mindig túl gyorsan hajt.	vairuoja	0	0
+Aš kalbu prancūziškai ir angliškai.	Franciául és angolul beszélek.	prancūziškai	0	0
+Nežaisk su ugnimi.	Ne játssz a tűzzel!	ugnimi	0	0
+Šis patiekalas yra skanus.	Ez az étel finom.	patiekalas	0	0
+Šį rytą buvo dešimt laipsnių žemiau nulio.	Ma reggel mínusz tíz fok volt.	nulio	0	0
+Tai mane nervina.	Ez idegesít engem.	nervina	0	0
+Šios ponios yra mano tetos.	Ezek a hölgyek a nagynénéim.	tetos	0	0
+Tomas atidarė šaldytuvą.	Tom kinyitotta a hűtőt.	atidarė	0	0
+Tomas atidarė šaldytuvą.	Tom kinyitotta a hűtőt.	šaldytuvą	0	0
+Ar pamenate šį žaidimą?	Emlékszel erre a játékra?	pamenate	0	0
+Vienas iš jos trijų automobilių yra mėlynas, likę yra balti.	Az egyik autója a háromból kék, a többi fehér.	balti	0	0
+Nežaisk su ugnimi.	Ne játssz a tűzzel!	nežaisk	0	0
+Jis turi du automobilius.	Két autója van.	automobilius	0	0
+Afrika yra žmonijos lopšys.	Afrika az emberiség bölcsője.	afrika	0	0
+Aš gražesnė nei tu.	Szebb vagyok, mint ti.	gražesnė	0	0
+Elbrusas yra aukščiausias kalnas Europoje.	Európában Elbrusz a legmagasabb hegy.	aukščiausias	0	0
+Tai buvo pirmas kartas kai aš skridau lėktuvu.	Ez volt az első repülőutam.	skridau	0	0
+Būkime laimingi.	Boldogok vagyunk.	būkime	0	0
+Atnaujinau programinę įrangą į naujausią versiją.	A szoftvert a legújabb verzióra frissítettem.	versiją	0	0
+Mes gyvename visuomenėje.	Társadalomban élünk.	visuomenėje	0	0
+Apleista patalpa liko tuščia.	A magára hagyott szoba üresen maradt.	patalpa	0	0
+Paskubėk, kitaip pavėluosi.	Siess, különben elkésel.	pavėluosi	0	0
+Marija yra našlė.	Mária özvegy.	našlė	0	0
+Tai ne kelias o takelis.	Ez nem út, csak egy ösvény.	takelis	0	0
+Aš labai mėgstu lietų.	Szeretem az esőt.	lietų	0	0
+Šunis yra ištikimi.	A kutyák hűsėgesek.	ištikimi	0	0
+Olandijos sostinė vadinasi Amsterdamas.	Hollandia fővárosa Amszterdam.	sostinė	0	0
+Apleista patalpa liko tuščia.	A magára hagyott szoba üresen maradt.	apleista	0	0
+Ar tu kalbi japoniškai?	Beszélsz te japánul?	japoniškai	0	0
+Moteris ant suolo yra ponia Braun.	Az asszony a padon Braunné.	braun	0	0
+Šiandienai pakanka.	Mára ennyi elég.	šiandienai	0	0
+Šis traukinys vyksta į Bostoną.	Ez a vonat megy Bostonba.	bostoną	0	0
+Tai buvo pirmasis aukso medalis kurį ji laimėjo.	Ez volt az első aranyérem, melyet nyert.	medalis	0	0
+Moteris ant suolo yra ponia Braun.	Az asszony a padon Braunné.	suolo	0	0
+Kaip galime apsisaugoti nuo koronaviruso?	Hogyan védekezhetünk a koronavírus ellen?	apsisaugoti	0	0
+Nėra nieko svarbesnio už draugus.	Semmi sem fontosabb, mint a barátok.	svarbesnio	0	0
+Švedijos sostinė yra Stokholmas.	Svédország fővárosa Stockholm.	švedijos	0	0
+Gerai atsimenu tą dieną, kai palikau savo gimtąjį kaimą.	Jól emlékszem arra a napra, amikor elhagytam a szülőfalumat.	gimtąjį	0	0
+Jis žino viską ką tik galima žinoti apie džiazą.	Mindent tud, amit a dzsesszről tudni kell.	džiazą	0	0
+Atnaujinau programinę įrangą į naujausią versiją.	A szoftvert a legújabb verzióra frissítettem.	naujausią	0	0
+Aš ne pesimistas.	Nem vagyok pesszimista.	pesimistas	0	0
+Tomas - komunistas.	Tom kommunista.	komunistas	0	0
+Sninga.	Esik a hó.	sninga	0	0
+Olandijos sostinė vadinasi Amsterdamas.	Hollandia fővárosa Amszterdam.	amsterdamas	0	0
+Afrika yra žmonijos lopšys.	Afrika az emberiség bölcsője.	lopšys	0	0
+Stalinizmas yra rasizmas.	A sztálinizmus rasszizmus.	rasizmas	0	0
+Atnaujinau programinę įrangą į naujausią versiją.	A szoftvert a legújabb verzióra frissítettem.	programinę	0	0
+Pažiūrėk į tą kalną padengtą sniegu.	Nézd csak azt a hegyet, amelyik hóval van födve.	sniegu	0	0
+Visiems augalams reikia vandens ir šviesos.	Minden növénynek szüksége van vízre és fényre.	augalams	0	0
+Olandijos sostinė vadinasi Amsterdamas.	Hollandia fővárosa Amszterdam.	olandijos	0	0

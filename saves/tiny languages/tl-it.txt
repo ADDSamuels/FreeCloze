@@ -1,0 +1,244 @@
+Phoenix ang kabisera ng Arizona.	Phoenix è la capitale dell'Arizona.	ang	0	0
+Dapat matuto tayong tumira sa armonya sa kalikasan.	Dobbiamo imparare a vivere in armonia con la natura.	sa	0	0
+Akala ko umalis ka na.	Pensavo che te e fossi andato.	na	0	0
+Nag-order siya ng tasang tsa.	Ha ordinato una tazza di tè.	ng	0	0
+Anong mas gusto mo, ang kanin o ang tinapay?	Cosa preferisci, il riso o il pane?	mo	0	0
+Hindi ko opinyon, kundi translasyon ko lamang.	Non è la mia opinione, ma solo la mia traduzione.	ko	0	0
+Hindi ka estudyante.	Lei non è uno studente.	hindi	0	0
+Ako si Tom.	Io sono Tom.	ako	0	0
+Kumain ka na.	Hai già mangiato.	ka	0	0
+Magkaibigan sina Yanni at Skura sa Facebook.	Yanni e Skura sono amici su Facebook.	at	0	0
+Alam ng bawat tao ang aming mga pangalan.	Tutti conoscono i nostri nomi.	mga	0	0
+Ang pangalan ko ay Ricardo.	Il mio nome è Ricardo.	ay	0	0
+sobra kitang mahal di mo lang pinahalagahan	Io non ho urlato.	lang	0	0
+Sa iyo ba ang librong ito?	Questo è il tuo libro?	ba	0	0
+Bisikleta mo ba ito?	Questa è la tua bicicletta?	ito	0	0
+Sinisi ko siya sa kasalanan niya.	Gli diedi la colpa per quello che aveva fatto.	siya	0	0
+Ang buhay kung walang pag-ibig ay walang kabuluhan.	Una vita senza amore non ha assolutamente alcun senso.	kung	0	0
+Bukas ay isang bagong araw.	Domani è un nuovo giorno.	isang	0	0
+Sino si Marco? - Siya ay kapatid ko.	Chi è Marco? — È mio fratello.	si	0	0
+Ano ang petsa ngayon?	Qual è la data di oggi?	ano	0	0
+Bawal manigarilyo dito.	Non può fumare qui dentro.	dito	0	0
+Alam ng bawat tao ang aming mga pangalan.	Tutti conoscono i nostri nomi.	alam	0	0
+May Diyos.	Un Dio esiste.	may	0	0
+Magdrowing tayo.	Facciamo un disegno.	tayo	0	0
+Tapos na ang lahat.	Tutto è finito.	lahat	0	0
+Umiinom pa si Melanie ng gatas.	Melanie beve il latte.	pa	0	0
+Tubig nga po.	Acqua, per favore.	nga	0	0
+Gusto ko ang mga bungang katulad ng ubas at peach.	A me piace la frutta come l'uva e le pesche.	gusto	0	0
+Hindi naramdaman ni Tom ang lindol.	Tom non sentì il terremoto.	ni	0	0
+Nadiskubre niya ang isang bagong bituin.	Ha scoperto una nuova stella.	niya	0	0
+Wala akong bisikleta.	Non ho una bicicletta.	wala	0	0
+"Kumusta ka?" - "Mabuti naman!"	Come stai? - Sto bene!	naman	0	0
+Mas gusto mo ba ang karne, o isda?	Preferite carne o pesce?	o	0	0
+Mahangin ngayon.	C'è vento oggi.	ngayon	0	0
+Gagawin namin yun.	Noi lo faremo.	namin	0	0
+Di sila pumasok.	Non sono entrati.	sila	0	0
+Sabihin mo kay Tom na handa na akong umalis.	Dite a Tom che sono pronta ad andare.	akong	0	0
+Bakit mahirap ang pagbabago?	Perché il cambiamento è così difficile?	bakit	0	0
+Anong mas gusto mo, ang kanin o ang tinapay?	Cosa preferisci, il riso o il pane?	anong	0	0
+sobra kitang mahal di mo lang pinahalagahan	Io non ho urlato.	di	0	0
+Nakikinig ka ba sa akin?	Mi state ascoltando?	akin	0	0
+Sikreto iyon.	È un segreto.	iyon	0	0
+Talaga?	Davvero?	talaga	0	0
+Alam ng bawat tao ang aming mga pangalan.	Tutti conoscono i nostri nomi.	tao	0	0
+Walang problema!	Nessun problema!	walang	0	0
+Sabihin mo kay Tom na handa na akong umalis.	Dite a Tom che sono pronta ad andare.	sabihin	0	0
+Ang kanyang kaarawan ay sa dalawampu't isa ng Agosto.	Il suo compleanno è il ventuno agosto.	isa	0	0
+Gusto kong mag-aral ng mga wikang dayuhan.	A me piace studiare le lingue straniere.	kong	0	0
+Gagawin namin yun.	Noi lo faremo.	yun	0	0
+Ngayon ang aking kaarawan.	Oggi è il mio compleanno.	aking	0	0
+Nasa hardin ako.	Sono in giardino.	nasa	0	0
+Nasaan yung aklat?	Dov'è il libro?	yung	0	0
+Sa iyo ba ang librong ito?	Questo è il tuo libro?	iyo	0	0
+Sino si Marco? - Siya ay kapatid ko.	Chi è Marco? — È mio fratello.	sino	0	0
+Hindi nila ako paniniwalaan kahit manumpa ako na totoo ito.	Non mi crederanno neanche se giuro che è vero.	nila	0	0
+Ang kita niya ay 250 libong yen kada buwan.	Il suo salario è di 250mila yen al mese.	kita	0	0
+May Diyos.	Un Dio esiste.	diyos	0	0
+Ang buhay kung walang pag-ibig ay walang kabuluhan.	Una vita senza amore non ha assolutamente alcun senso.	buhay	0	0
+Gusto kong puntahan ang kung saan man ka pupunta.	Voglio andare ovunque tu vada.	saan	0	0
+"Gusto niya ang musika." "Ako rin."	"Le piace la musica." "Anche a me."	rin	0	0
+Mayroon siyang bisikleta.	Lei ha una bici.	siyang	0	0
+Magsipilyo ka, kahit gaano ka kaantok.	Pulisciti i denti, per quanto tu sia stanco.	kahit	0	0
+Akala ko umalis ka na.	Pensavo che te e fossi andato.	umalis	0	0
+HIndi ba tayo dapat maging magkaibigan?	Non dovremmo essere amici?	dapat	0	0
+Ito ang iyong pudding.	Ecco il tuo pudding.	iyong	0	0
+Ano ang petsa ngayong araw?	Qual è la data di oggi?	araw	0	0
+Aso po ako.	Sono un cane.	po	0	0
+Paano ko malulutas ang problemang ito?	Come risolvo questo problema?	paano	0	0
+Sabihin mo kay Tom na handa na akong umalis.	Dite a Tom che sono pronta ad andare.	kay	0	0
+Nagyaya ako ng dalawampung kaibigan sa pista.	Ho invitato venti amici alla festa.	kaibigan	0	0
+Ito'y dakilang teorya.	Questa è una grande teoria.	y	0	0
+Tapos na ang lahat.	Tutto è finito.	tapos	0	0
+Kasi sira ang luma kong akyatan.	Perché la mia vecchia scala è rotta.	kasi	0	0
+Nasaan ako?	Dove sono?	nasaan	0	0
+HIndi ba tayo dapat maging magkaibigan?	Non dovremmo essere amici?	maging	0	0
+Nagising ako mula sa bangungot.	Mi sono risvegliato da un incubo.	mula	0	0
+Mas magaling magsalita ng Pranses si Tomas kaysa sa akin.	Tom sa parlare francese meglio di me.	mas	0	0
+Sino itong kinakausap ko?	Con chi parlo?	itong	0	0
+Gabi na.	È notte.	gabi	0	0
+May doktor ba sa bahay?	C'è un medico nella casa?	bahay	0	0
+Magandang gabi!	Buona notte!	magandang	0	0
+Hindi nila ako paniniwalaan kahit manumpa ako na totoo ito.	Non mi crederanno neanche se giuro che è vero.	totoo	0	0
+Tomas ang pangalan ko.	Tom è il mio nome.	pangalan	0	0
+Ayaw ko ito.	Non voglio ciò.	ayaw	0	0
+Katatawag lamang niya.	Ha chiamato giusto ora.	lamang	0	0
+Ang pangalan ng anak ko ay Tom.	Il nome di mio figlio è Tom.	anak	0	0
+Maganda ang buhay.	La vita è bella.	maganda	0	0
+Tubig nga po.	Acqua, per favore.	tubig	0	0
+Gagawin namin yun.	Noi lo faremo.	gagawin	0	0
+Dapat matuto tayong tumira sa armonya sa kalikasan.	Dobbiamo imparare a vivere in armonia con la natura.	tayong	0	0
+Maraming mga bulaklak sa hardin.	Ci sono molti fiori nel giardino.	maraming	0	0
+Gusto ko pang magsulat sa Esperanto.	Mi piace ancora scrivere in esperanto.	pang	0	0
+Ang mansanas na bagay ay kamangha-mangha.	La cosa mela è meravigliosa.	bagay	0	0
+Nadiskubre niya ang isang bagong bituin.	Ha scoperto una nuova stella.	bagong	0	0
+Hinahalo ng bruha ang kanyang kaldero.	La strega sta mescolando il suo calderone.	kanyang	0	0
+Gusto kong puntahan ang kung saan man ka pupunta.	Voglio andare ovunque tu vada.	man	0	0
+sobra kitang mahal di mo lang pinahalagahan	Io non ho urlato.	mahal	0	0
+Alam ng bawat tao ang aming mga pangalan.	Tutti conoscono i nostri nomi.	aming	0	0
+Walang problema!	Nessun problema!	problema	0	0
+Gusto kong puntahan ang kung saan man ka pupunta.	Voglio andare ovunque tu vada.	pupunta	0	0
+Nakinig ng mabuti sa akin si Tom.	Tom mi ha ascoltato attentamente.	mabuti	0	0
+Si Luis ay lalaking magaling sa musika.	Lui è un uomo dal talento musicale.	magaling	0	0
+Akala ko umalis ka na.	Pensavo che te e fossi andato.	akala	0	0
+May problema ka ba sa kanila?	Voi avete un problema con loro?	kanila	0	0
+Bukas ay isang bagong araw.	Domani è un nuovo giorno.	bukas	0	0
+Kamusta ka?	Come stai?	kamusta	0	0
+Sino si Marco? - Siya ay kapatid ko.	Chi è Marco? — È mio fratello.	kapatid	0	0
+Aso po ako.	Sono un cane.	aso	0	0
+Paalis akong Australia sa susunod na buwan.	Io partirò per l'Australia il mese prossimo.	susunod	0	0
+Ano ang petsa ngayong araw?	Qual è la data di oggi?	ngayong	0	0
+Paki sarado ng pinto.	Chiudete la porta, per favore.	pinto	0	0
+Ang kanyang kaarawan ay sa dalawampu't isa ng Agosto.	Il suo compleanno è il ventuno agosto.	t	0	0
+Sinisi ko siya sa kasalanan niya.	Gli diedi la colpa per quello che aveva fatto.	kasalanan	0	0
+Una, pangalawa, ikatlo, ika-4, ika-5, ika-6, ika-7, ika-8, ika-9, ika-10... pangalawa sa huli, huli.	Primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo... penultimo, ultimo.	huli	0	0
+Nakatira ako sa lungsod.	Vivo in città.	nakatira	0	0
+Mayroon siyang bisikleta.	Lei ha una bici.	mayroon	0	0
+Alam ng bawat tao ang aming mga pangalan.	Tutti conoscono i nostri nomi.	bawat	0	0
+Gusto ko ang mga bungang katulad ng ubas at peach.	A me piace la frutta come l'uva e le pesche.	katulad	0	0
+Hindi ko opinyon, kundi translasyon ko lamang.	Non è la mia opinione, ma solo la mia traduzione.	kundi	0	0
+Ang pagkawalan ng mukha ay kababaang-loob.	Perdere la faccia significa essere umiliato.	mukha	0	0
+Nasaan ang kotse?	Dov'è l'auto?	kotse	0	0
+Mas magaling magsalita ng Pranses si Tomas kaysa sa akin.	Tom sa parlare francese meglio di me.	magsalita	0	0
+Mas magaling magsalita ng Pranses si Tomas kaysa sa akin.	Tom sa parlare francese meglio di me.	kaysa	0	0
+Di sila pumasok.	Non sono entrati.	pumasok	0	0
+Masaya si Tom.	Tom è felice.	masaya	0	0
+Gusto ko 'yang subukan.	Vorrei provarlo.	yang	0	0
+Si Luis ay lalaking magaling sa musika.	Lui è un uomo dal talento musicale.	lalaking	0	0
+sobra kitang mahal di mo lang pinahalagahan	Io non ho urlato.	kitang	0	0
+Pasensiya na lamang sa aking katamaran.	Perdonate la mia pigrizia.	pasensiya	0	0
+Buksan ang bote.	Apra la bottiglia.	buksan	0	0
+Ang kita niya ay 250 libong yen kada buwan.	Il suo salario è di 250mila yen al mese.	buwan	0	0
+"Kumusta ka?" - "Mabuti naman!"	Come stai? - Sto bene!	kumusta	0	0
+Nagtuturo ako ng Ingles halos araw-araw.	Insegno l'inglese quasi ogni giorno.	halos	0	0
+Pula ang dugo.	Il sangue è rosso.	dugo	0	0
+Pinatay ni Trump si Epstein.	Trump ucciso Epstein.	pinatay	0	0
+Nakatira ako sa lungsod.	Vivo in città.	lungsod	0	0
+Nakatayo ang bahay ko sa harap ng dagat.	La mia casa si trova di fronte al mare.	harap	0	0
+Kumain ka na.	Hai già mangiato.	kumain	0	0
+Bakit mahirap ang pagbabago?	Perché il cambiamento è così difficile?	mahirap	0	0
+Uy, niebe!	Oh, nevica!	uy	0	0
+Maligayang pagdating sa Tatoeba.	Benvenuta su Tatoeba.	pagdating	0	0
+Nakatayo ang bahay ko sa harap ng dagat.	La mia casa si trova di fronte al mare.	dagat	0	0
+Gusto ko 'yang subukan.	Vorrei provarlo.	subukan	0	0
+Narito na sila.	Sono già qui.	narito	0	0
+Magkaibigan sina Yanni at Skura sa Facebook.	Yanni e Skura sono amici su Facebook.	sina	0	0
+Ang kita niya ay 250 libong yen kada buwan.	Il suo salario è di 250mila yen al mese.	kada	0	0
+Sabihin mo kay Tom na handa na akong umalis.	Dite a Tom che sono pronta ad andare.	handa	0	0
+Punta ka sa Martes, kung posible.	Venite martedì, se possibile.	punta	0	0
+Hindi ka estudyante.	Lei non è uno studente.	estudyante	0	0
+Ngayon ang aking kaarawan.	Oggi è il mio compleanno.	kaarawan	0	0
+Magsipilyo ka, kahit gaano ka kaantok.	Pulisciti i denti, per quanto tu sia stanco.	gaano	0	0
+May pusa sa kusina.	C'è un gatto in cucina.	pusa	0	0
+Nasaan ang libro?	Dov'è il libro?	libro	0	0
+Una, pangalawa, ikatlo, ika-4, ika-5, ika-6, ika-7, ika-8, ika-9, ika-10... pangalawa sa huli, huli.	Primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo... penultimo, ultimo.	una	0	0
+Magkaibigan sina Yanni at Skura sa Facebook.	Yanni e Skura sono amici su Facebook.	facebook	0	0
+May mga itlog sa kahon.	Ci sono delle uova nella scatola.	itlog	0	0
+Ang buhay kung walang pag-ibig ay walang kabuluhan.	Una vita senza amore non ha assolutamente alcun senso.	pag-ibig	0	0
+Si Tom ay isang mabait na kapitbahay.	Tom è un buon vicino.	mabait	0	0
+Mas magaling magsalita ng Pranses si Tomas kaysa sa akin.	Tom sa parlare francese meglio di me.	pranses	0	0
+Hindi itim ang bulaklak.	Il fiore non è nero.	itim	0	0
+Kasi sira ang luma kong akyatan.	Perché la mia vecchia scala è rotta.	sira	0	0
+Dapat matuto tayong tumira sa armonya sa kalikasan.	Dobbiamo imparare a vivere in armonia con la natura.	kalikasan	0	0
+Ang kita niya ay 250 libong yen kada buwan.	Il suo salario è di 250mila yen al mese.	libong	0	0
+Mas gusto mo ba ang karne, o isda?	Preferite carne o pesce?	isda	0	0
+Gusto kong puntahan ang kung saan man ka pupunta.	Voglio andare ovunque tu vada.	puntahan	0	0
+Maligayang pagdating sa Tatoeba.	Benvenuta su Tatoeba.	maligayang	0	0
+Nagtuturo ako ng Ingles halos araw-araw.	Insegno l'inglese quasi ogni giorno.	araw-araw	0	0
+Mainit ngayon.	Fa caldo oggi.	mainit	0	0
+Si Ken ay kasing laki ni Bill.	Ken è grande quanto Bill.	kasing	0	0
+Gusto kong mag-aral ng mga wikang dayuhan.	A me piace studiare le lingue straniere.	mag-aral	0	0
+May doktor ba sa bahay?	C'è un medico nella casa?	doktor	0	0
+Kasi sira ang luma kong akyatan.	Perché la mia vecchia scala è rotta.	luma	0	0
+sobra kitang mahal di mo lang pinahalagahan	Io non ho urlato.	sobra	0	0
+Mas gusto mo ba ang karne, o isda?	Preferite carne o pesce?	karne	0	0
+Ito'y dakilang teorya.	Questa è una grande teoria.	dakilang	0	0
+Nag-aaral ako.	Io imparo.	nag-aaral	0	0
+Hindi itim ang bulaklak.	Il fiore non è nero.	bulaklak	0	0
+Una, pangalawa, ikatlo, ika-4, ika-5, ika-6, ika-7, ika-8, ika-9, ika-10... pangalawa sa huli, huli.	Primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo... penultimo, ultimo.	pangalawa	0	0
+Dapat matuto tayong tumira sa armonya sa kalikasan.	Dobbiamo imparare a vivere in armonia con la natura.	tumira	0	0
+Nakatayo ang bahay ko sa harap ng dagat.	La mia casa si trova di fronte al mare.	nakatayo	0	0
+Nakikinig ako sa musika.	Ascolto musica.	nakikinig	0	0
+Umiinom pa si Melanie ng gatas.	Melanie beve il latte.	umiinom	0	0
+Nasa Tokyo siya.	Lui è a Tokyo.	tokyo	0	0
+Nadiskubre niya ang isang bagong bituin.	Ha scoperto una nuova stella.	bituin	0	0
+Paki sarado ng pinto.	Chiudete la porta, per favore.	sarado	0	0
+Nagtuturo ako ng Ingles halos araw-araw.	Insegno l'inglese quasi ogni giorno.	nagtuturo	0	0
+Nasa banyo siya.	È in bagno.	banyo	0	0
+HIndi ba tayo dapat maging magkaibigan?	Non dovremmo essere amici?	magkaibigan	0	0
+Nagyaya ako ng dalawampung kaibigan sa pista.	Ho invitato venti amici alla festa.	pista	0	0
+Ano ang petsa ngayon?	Qual è la data di oggi?	petsa	0	0
+Buksan ang bote.	Apra la bottiglia.	bote	0	0
+Malamig ang kape.	Il caffè è freddo.	malamig	0	0
+Bakit mahirap ang pagbabago?	Perché il cambiamento è così difficile?	pagbabago	0	0
+Nasa bahay ba si Ginoong Nakamura?	Il signor Nakamura è in casa?	ginoong	0	0
+Ano ang kabisera ng Haiti?	Qual è la capitale di Haiti?	haiti	0	0
+Ito ang Hapon.	Ecco il Giappone.	hapon	0	0
+Hindi naramdaman ni Tom ang lindol.	Tom non sentì il terremoto.	naramdaman	0	0
+Si Ken ay kasing laki ni Bill.	Ken è grande quanto Bill.	ken	0	0
+Nagising ako mula sa bangungot.	Mi sono risvegliato da un incubo.	nagising	0	0
+Sikreto iyon.	È un segreto.	sikreto	0	0
+May pusa sa kusina.	C'è un gatto in cucina.	kusina	0	0
+Si Ken ay kasing laki ni Bill.	Ken è grande quanto Bill.	laki	0	0
+Ang Sahara ay malawak na desyerto.	Il Sahara è un deserto vasto.	malawak	0	0
+Nagising ako mula sa bangungot.	Mi sono risvegliato da un incubo.	bangungot	0	0
+Bawal manigarilyo dito.	Non può fumare qui dentro.	bawal	0	0
+Malamig ang kape.	Il caffè è freddo.	kape	0	0
+Tumatalon ang kabayo.	Il cavallo sta saltando.	kabayo	0	0
+Nakinig ng mabuti sa akin si Tom.	Tom mi ha ascoltato attentamente.	nakinig	0	0
+Di siya makikinig sa akin.	Non mi ascolterà.	makikinig	0	0
+Umiinom pa si Melanie ng gatas.	Melanie beve il latte.	gatas	0	0
+Anong mas gusto mo, ang kanin o ang tinapay?	Cosa preferisci, il riso o il pane?	tinapay	0	0
+Sino itong kinakausap ko?	Con chi parlo?	kinakausap	0	0
+Ito'y dakilang teorya.	Questa è una grande teoria.	teorya	0	0
+Nasaan ang aklat?	Dov'è il libro?	aklat	0	0
+Paki sarado ng pinto.	Chiudete la porta, per favore.	paki	0	0
+Punta ka sa Martes, kung posible.	Venite martedì, se possibile.	posible	0	0
+Paalis akong Australia sa susunod na buwan.	Io partirò per l'Australia il mese prossimo.	paalis	0	0
+Nagtuturo ako ng Ingles halos araw-araw.	Insegno l'inglese quasi ogni giorno.	ingles	0	0
+Ang Sahara ay malawak na desyerto.	Il Sahara è un deserto vasto.	desyerto	0	0
+Hindi nila ako paniniwalaan kahit manumpa ako na totoo ito.	Non mi crederanno neanche se giuro che è vero.	paniniwalaan	0	0
+Ako si Tom.	Io sono Tom.	tom	0	0
+Mayroon siyang bisikleta.	Lei ha una bici.	bisikleta	0	0
+Hinahalo ng bruha ang kanyang kaldero.	La strega sta mescolando il suo calderone.	bruha	0	0
+Dapat matuto tayong tumira sa armonya sa kalikasan.	Dobbiamo imparare a vivere in armonia con la natura.	matuto	0	0
+May mga itlog sa kahon.	Ci sono delle uova nella scatola.	kahon	0	0
+Namumulaklak ang rosas sa hardin.	Le rose nel giardino stanno sbocciando.	rosas	0	0
+Amen!	Amen!	amen	0	0
+Bawal manigarilyo dito.	Non può fumare qui dentro.	manigarilyo	0	0
+"Ano'ng araw ngayon?" "Miyerkules."	"Che giorno è oggi?" "Mercoledì."	miyerkules	0	0
+Nagyaya ako ng dalawampung kaibigan sa pista.	Ho invitato venti amici alla festa.	dalawampung	0	0
+Ginising niya si Tom.	Lui ha svegliato Tom.	ginising	0	0
+Hindi naramdaman ni Tom ang lindol.	Tom non sentì il terremoto.	lindol	0	0
+Si Tom ay isang mabait na kapitbahay.	Tom è un buon vicino.	kapitbahay	0	0
+Punta ka sa Martes, kung posible.	Venite martedì, se possibile.	martes	0	0
+Anong mas gusto mo, ang kanin o ang tinapay?	Cosa preferisci, il riso o il pane?	kanin	0	0
+Paano ko malulutas ang problemang ito?	Come risolvo questo problema?	problemang	0	0
+Phoenix ang kabisera ng Arizona.	Phoenix è la capitale dell'Arizona.	arizona	0	0
+Hindi ko hinalikan si Tom.	Non ho baciato Tom.	hinalikan	0	0
+Ang kanyang kaarawan ay sa dalawampu't isa ng Agosto.	Il suo compleanno è il ventuno agosto.	agosto	0	0
+Si Luis ay lalaking magaling sa musika.	Lui è un uomo dal talento musicale.	luis	0	0
+Namumulaklak ang rosas sa hardin.	Le rose nel giardino stanno sbocciando.	hardin	0	0
+Hindi ako robot.	Io non sono un robot.	robot	0	0
+Gusto ko pang magsulat sa Esperanto.	Mi piace ancora scrivere in esperanto.	magsulat	0	0
+Paalis akong Australia sa susunod na buwan.	Io partirò per l'Australia il mese prossimo.	australia	0	0

@@ -1,0 +1,447 @@
+아마도 너가 옳을지도 몰라, 내가 너무 이기적이었어.	Eble vi pravas. Mi estis tro memprofita.	내가	0	0
+"그 사람은 학교에 가요?" "네, 그 사람은 학교에 가요."	"Ĉu tiu homo lernejen iras?" "Jes, tiu homo lernejen iras."	그	0	0
+난 톰을 말릴거야.	Mi deadmonos Tomon.	난	0	0
+내 남자친구가 되어줄래?	Ĉu vi volas esti mia koramiko?	내	0	0
+앉은 자리에 풀도 안 난다.	En la loko, kie tiu persono sidis, ne kreskos plu eĉ greso.	안	0	0
+연필을 입에 넣지 마세요, 실수로 입천장을 찌를 수 있습니다.	Ne metu krajonon en la buŝon, ĉar vi povus neintence piki vian palaton.	수	0	0
+이 책은 1689년에 출판되었다.	La libro estis publikigita en 1689.	이	0	0
+네. 그 남자와 키스했어요.	Jes, mi kisis lin.	네	0	0
+다음 주 발라톤에 갈 거야.	Venontsemajne mi iros al Balatono.	거야	0	0
+수건 좀 주시겠습니까?	Donu al mi bantukon.	좀	0	0
+너 얼굴이 왜 그래?	Kial via vizaĝo estas tia?	그래	0	0
+톰은 사우나에 있어.	Tomo estas en la ŝvitbanejo.	있어	0	0
+너 얼굴이 왜 그래?	Kial via vizaĝo estas tia?	왜	0	0
+톰은 메리보다 훨씬 더 수영을 잘 할 수 있다.	Tomo multe pli bone scipovas naĝi ol Manjo.	더	0	0
+그리고 토니가 가장 나이가 많았다.	Kaj Toni estis la plej maljuna.	그리고	0	0
+우리 나라에는 나비가 거의 없어요.	Nialande preskaŭ ne estas papilioj.	우리	0	0
+한국에는 무슨 일로 오셨습니까?	Kiucele vi venis al Koreio?	무슨	0	0
+종이 한 장만 주시겠습니까?	Donu al mi paperfolion.	한	0	0
+톰은 메리보다 훨씬 더 수영을 잘 할 수 있다.	Tomo multe pli bone scipovas naĝi ol Manjo.	잘	0	0
+사랑이 사랑을 어떻게 사랑할 수 있니?	Kiel la amo povas ami la amon?	어떻게	0	0
+톰은 메리보다 훨씬 더 수영을 잘 할 수 있다.	Tomo multe pli bone scipovas naĝi ol Manjo.	할	0	0
+정말 감사합니다.	Dankegon!	정말	0	0
+이건 안 될 것 같다.	Mi pensas ke ĉi tiu ne funkcios.	것	0	0
+사람 많은 게 싫어요.	Mi ne ŝatas kunesti kun multaj homoj.	게	0	0
+재미 있는 제안이야. 그게 좀 고려야겠다.	Tio estas interesa propono. Mi devos ĝin pripensi.	있는	0	0
+넌 가야 해요.	Vi devas iri.	넌	0	0
+제가 올 때까지 기다려 주세요.	Atendu ĝis mi revenos.	제가	0	0
+그 사람이 가장 사랑하는 건 맏딸이에요.	La plej amata de tiu homo estas lia filino plej aĝa.	건	0	0
+그리고 나는 세상을 이해하고 싶기 때문에, 여러 언어를 배우고 싶다. 지금 나는 고대 그리스어 학위과정을 밟고 있다.	Kaj mi volas studi multajn lingvojn, ĉar mi volas kompreni la mondon. Nuntempe mi laboras por mia graduiĝo en klasika greka.	지금	0	0
+재미 있는 제안이야. 그게 좀 고려야겠다.	Tio estas interesa propono. Mi devos ĝin pripensi.	그게	0	0
+우리는 직원이 문으로 들어오는 걸 봤다.	Ni vidis funkciiston enirantan tra la pordo.	걸	0	0
+우린 서로 첫눈에 반했어요.	Tio estis amo je unua ekvido.	우린	0	0
+제 이름은 톰입니다.	Mia nomo estas Tomo.	제	0	0
+너무 까다롭게 고르면 아무것도 못 받는다.	Kiu elektas tro multe, ricevas nenion.	못	0	0
+고양이를 먹지 마세요. 쥐를 잡을 포식자가 사라져서 당신이 그 일을 넘겨받아야 할지모 모릅니다.	Ne manĝu katon, ĉar tiam ne plu estus manĝanto de musoj kaj vi devus transpreni ĉi tiun taskon.	당신이	0	0
+톰과 마리는 다른 인생 철학을 가지고 있다.	Tomo kaj Manjo havas malsamajn filozofiojn pri la vivo.	다른	0	0
+나 너무 뚱뚱해.	Mi estas tro dika.	나	0	0
+너무 고마워!	Dankegon!	너무	0	0
+이건 저의 컴퓨터예요.	Tiu ĉi estas mia komputilo.	이건	0	0
+이런 일이 일어난다니 믿을 수가 없어요.	Mi ne povas kredi ke la afero denove okazis.	이런	0	0
+그는 모든 실패를 극복했다고 주장한다.	Li asertas ke li jam superis ĉiujn siajn malsukcesojn.	모든	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	좋은	0	0
+계획을 실행할 필요가 없을 때 꿈을 꾸는 것이 얼마나 즐거운가.	Kiel komforte estas revi, kiam ni ne devas efektivigi niajn planojn.	때	0	0
+너 얼굴이 왜 그래?	Kial via vizaĝo estas tia?	너	0	0
+나는 산에 가길 원합니다.	Mi volas iri al monto.	나는	0	0
+이런 일이 일어난다니 믿을 수가 없어요.	Mi ne povas kredi ke la afero denove okazis.	없어요	0	0
+오늘 힘든 하루를 보냈다.	Hodiaŭ mi fartis malfacile.	오늘	0	0
+누가 내 헤어드라이어를 훔쳤다.	Kiu ŝtelis mian harsekigilon?	누가	0	0
+과장하지 마!	Nu, ne troigu!	마	0	0
+그는 의사예요.	Li estas kuracisto.	그는	0	0
+넌 가야 해요.	Vi devas iri.	해요	0	0
+이런 일이 일어난다니 믿을 수가 없어요.	Mi ne povas kredi ke la afero denove okazis.	일이	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	바로	0	0
+그녀들은 초보이지만 빨리 배운다.	Ili estas komencantinoj, sed ili lernas rapide.	빨리	0	0
+장과 잔느가 당신의 장미꽃을 보고 있습니다.	Johano kaj Johanino rigardos vian rozon.	있습니다	0	0
+계획을 실행할 필요가 없을 때 꿈을 꾸는 것이 얼마나 즐거운가.	Kiel komforte estas revi, kiam ni ne devas efektivigi niajn planojn.	얼마나	0	0
+이건 안 될 것 같다.	Mi pensas ke ĉi tiu ne funkcios.	될	0	0
+그 사람이 가장 사랑하는 건 맏딸이에요.	La plej amata de tiu homo estas lia filino plej aĝa.	사람이	0	0
+우리는 정반대의 결과를 얻을 것입니다.	Rekte kontraŭan rezultaton ni atingos.	우리는	0	0
+아니오, 두 번쨉니다.	Ne, tio estas mia dua vizito.	두	0	0
+그리고 나는 세상을 이해하고 싶기 때문에, 여러 언어를 배우고 싶다. 지금 나는 고대 그리스어 학위과정을 밟고 있다.	Kaj mi volas studi multajn lingvojn, ĉar mi volas kompreni la mondon. Nuntempe mi laboras por mia graduiĝo en klasika greka.	때문에	0	0
+누가 살인에 대해 말했습니까?	Kiu parolis pri mortigo?	대해	0	0
+출발은 몇 시에 합니까?	Je kioma horo ni ekveturos?	몇	0	0
+누구 하느님 본 사람?	Ĉu iu vidis Dion?	사람	0	0
+왜 안되는지 설명할려면 시간 너무 많이 걸리겠다.	Kostus al mi tro da tempo por klarigi al vi, kial tio ne efikos.	많이	0	0
+의사는 그녀에게 집에 있으라고 조언했다.	La kuracisto konsilis al ŝi resti hejme.	집에	0	0
+고양이를 먹지 마세요. 쥐를 잡을 포식자가 사라져서 당신이 그 일을 넘겨받아야 할지모 모릅니다.	Ne manĝu katon, ĉar tiam ne plu estus manĝanto de musoj kaj vi devus transpreni ĉi tiun taskon.	일을	0	0
+저는 한국어를 공부해요.	Mi studas la korean.	저는	0	0
+친구는 항상 해결책을 찾으십시	Amikoj ĉiam trovas solvon.	항상	0	0
+브라질은 남미에서 가장 큰 나라입니다.	Brazilo estas la plej granda lando en Suda Ameriko.	가장	0	0
+일식집 가자.	Ni iru al restoracio japana.	가자	0	0
+존이 한국 영화를 보고 싶어해요?	Ĉu John volas spekti korean filmon?	보고	0	0
+그넘은 버릇 없는 넘이야.	Tiu aĉulo kondutas impertinente.	없는	0	0
+아마도 너가 옳을지도 몰라, 내가 너무 이기적이었어.	Eble vi pravas. Mi estis tro memprofita.	몰라	0	0
+일 때문에 왔어요.	Mi venis por negoco.	일	0	0
+그 일은 많은 힘이 필요하다.	Tiu laboro postulas grandan forton.	많은	0	0
+장과 잔느가 당신의 장미꽃을 보고 있습니다.	Johano kaj Johanino rigardos vian rozon.	당신의	0	0
+너무 까다롭게 고르면 아무것도 못 받는다.	Kiu elektas tro multe, ricevas nenion.	아무것도	0	0
+브라질은 남미에서 가장 큰 나라입니다.	Brazilo estas la plej granda lando en Suda Ameriko.	큰	0	0
+그의 이름을 아는 사람은 별로 없었다.	Nun malmultaj sciis ankoraŭ lian nomon.	그의	0	0
+너무 고마워!	Dankegon!	고마워	0	0
+그는 스페인어뿐만 아니라, 프랑스어도 말한다.	Li parolas ne nur la hispanan, sed ankaŭ la francan.	아니라	0	0
+그녀는 내 언니가 아니라 어머니예요.	Ŝi ne estas mia fratino sed mia patrino.	그녀는	0	0
+다음 주 발라톤에 갈 거야.	Venontsemajne mi iros al Balatono.	갈	0	0
+저는 나쁜 상상력을 가지고 있습니다.	Mi havas malbonan imagopovon.	가지고	0	0
+핸드백 속에 너무 많은 것을 넣었군.	Vi tro enmetis aĵojn en la mansaketo.	것을	0	0
+"그 사람은 학교에 가요?" "네, 그 사람은 학교에 가요."	"Ĉu tiu homo lernejen iras?" "Jes, tiu homo lernejen iras."	사람은	0	0
+정말 감사합니다.	Dankegon!	감사합니다	0	0
+전화는 성가실 수 있다.	La telefono povas esti ĝena.	있다	0	0
+왜 안되는지 설명할려면 시간 너무 많이 걸리겠다.	Kostus al mi tro da tempo por klarigi al vi, kial tio ne efikos.	시간	0	0
+이런 일이 일어난다니 믿을 수가 없어요.	Mi ne povas kredi ke la afero denove okazis.	수가	0	0
+나는 남자를 봐요.	Mi vidas viron.	봐요	0	0
+누구 하느님 본 사람?	Ĉu iu vidis Dion?	본	0	0
+그 일은 많은 힘이 필요하다.	Tiu laboro necesigas multan energion.	일은	0	0
+예를 들어 주시겠습니까?	Donu al mi ekzemplon.	들어	0	0
+제 남동생은 제 여동생이기도 합니다.	Mia frato ankaŭ estas mia fratino.	합니다	0	0
+다음 주 발라톤에 갈 거야.	Venontsemajne mi iros al Balatono.	다음	0	0
+우리 나라에는 나비가 거의 없어요.	Nialande preskaŭ ne estas papilioj.	거의	0	0
+사라져 가는 언어를 지키는데 타토에바가 도움이 될까?	Ĉu Tatoeba povas kontribui al la savo de lingvoj minacataj?	가는	0	0
+잠깐만 기다려 주세요.	Donu al mi minuton.	잠깐만	0	0
+그의 이름을 아는 사람은 별로 없었다.	Nun malmultaj sciis ankoraŭ lian nomon.	아는	0	0
+나는 새 차를 살 여유가 없다.	Mi ne havas la rimedojn por aĉeti novan aŭton.	새	0	0
+그는 장난을 전혀 이해하지 못한다.	Li tute ne komprenas ŝercojn.	전혀	0	0
+내가 지금 원하는 것은 돈이 아니고 시간이다.	Tio, kion mi volas nun, ne estas mono, sed tempo.	원하는	0	0
+사라져 가는 언어를 지키는데 타토에바가 도움이 될까?	Ĉu Tatoeba povas kontribui al la savo de lingvoj minacataj?	도움이	0	0
+저는 나쁜 상상력을 가지고 있습니다.	Mi havas malbonan imagopovon.	나쁜	0	0
+톰은 매년 보스턴에 가요.	Tom ĉiujare iras al Bostono.	가요	0	0
+톰은 예쁜 눈을 갖고 있어.	Tomo havas belajn okulojn.	갖고	0	0
+여권을 보여 주세요.	Bonvole montru vian pasporton.	주세요	0	0
+어디서 통화하니?	Kie vi telefonas?	어디서	0	0
+계획을 실행할 필요가 없을 때 꿈을 꾸는 것이 얼마나 즐거운가.	Kiel komforte estas revi, kiam ni ne devas efektivigi niajn planojn.	것이	0	0
+리비아를 공격하는 것은 중대한 실수였다.	Ataki Libion estis grava eraro.	것은	0	0
+나랑 사귈래요?	Ĉu vi eble ŝatas eliri kun mi?	나랑	0	0
+연필을 입에 넣지 마세요, 실수로 입천장을 찌를 수 있습니다.	Ne metu krajonon en la buŝon, ĉar vi povus neintence piki vian palaton.	마세요	0	0
+잠깐만 기다려 주세요.	Donu al mi minuton.	기다려	0	0
+대만은 태국이 아닙니다.	Tajvano ne estas Tajlando.	아닙니다	0	0
+브라질은 남미에서 제일 큰 나라야.	Brazilo estas la plej granda lando de Suda Ameriko.	제일	0	0
+아마도 너가 옳을지도 몰라, 내가 너무 이기적이었어.	Eble vi pravas. Mi estis tro memprofita.	너가	0	0
+누구 하느님 본 사람?	Ĉu iu vidis Dion?	누구	0	0
+여권을 보여 주세요.	Bonvole montru vian pasporton.	보여	0	0
+타이베이에서 왔어요.	Mi venas el Tajpeo.	왔어요	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	것이다	0	0
+그날 밤 그는 무시무시한 꿈을 꾸었다.	En tiu nokto li havis sonĝon teruregan.	밤	0	0
+제가 올 때까지 기다려 주세요.	Atendu ĝis mi revenos.	올	0	0
+한국에 처음 오셨습니까?	Ĉu vi unuafoje estas en Koreio?	처음	0	0
+제 이름은 톰입니다.	Mia nomo estas Tomo.	이름은	0	0
+우린 서로 첫눈에 반했어요.	Tio estis amo je unua ekvido.	서로	0	0
+늑대가 되고 싶어요.	Mi volas esti lupo.	싶어요	0	0
+진심으로 죄송합니다.	Mi sincere bedaŭras.	죄송합니다	0	0
+제가 올 때까지 기다려 주세요.	Atendu ĝis mi revenos.	때까지	0	0
+나는 새 차를 살 여유가 없다.	Mi ne havas la rimedojn por aĉeti novan aŭton.	살	0	0
+나는 새 차를 살 여유가 없다.	Mi ne havas la rimedojn por aĉeti novan aŭton.	없다	0	0
+돈인 별로 없지만, 너와 함께라면 행복해.	Mi havas malmultan monon. Tamen, mi sentas min feliĉa kun vi.	별로	0	0
+계획을 실행할 필요가 없을 때 꿈을 꾸는 것이 얼마나 즐거운가.	Kiel komforte estas revi, kiam ni ne devas efektivigi niajn planojn.	없을	0	0
+이 치마는 네 스타일(분위기)에 딱 맞는다.	Ĉi jupo taŭgas ekzakte vian stilon.	딱	0	0
+동양은 너에게 있어서 너무 이질적이니?	Ĉu Oriento estas al vi tro fremda?	있어서	0	0
+내가 지금 원하는 것은 돈이 아니고 시간이다.	Tio, kion mi volas nun, ne estas mono, sed tempo.	아니고	0	0
+톰은 메리보다 훨씬 더 수영을 잘 할 수 있다.	Tomo multe pli bone scipovas naĝi ol Manjo.	훨씬	0	0
+아마도 너가 옳을지도 몰라, 내가 너무 이기적이었어.	Eble vi pravas. Mi estis tro memprofita.	아마도	0	0
+우리는 정반대의 결과를 얻을 것입니다.	Rekte kontraŭan rezultaton ni atingos.	것입니다	0	0
+늑대가 되고 싶어요.	Mi volas iĝi lupo.	되고	0	0
+나는 친구가 적다.	Mi havas malmultajn amikojn.	친구가	0	0
+당신에게 반했습니다.	Mi freneziĝas por vi.	당신에게	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	생각을	0	0
+넌 가야 해요.	Vi devas iri.	가야	0	0
+나는 매일 10 킬로미터를 달려.	Mi ĉiutage kuras dek kilometrojn.	매일	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	말할	0	0
+돈은 별로 없지만, 당신과 함께라서 행복해요.	Mi havas malmultan monon. Tamen, mi sentas min feliĉa kun vi.	당신과	0	0
+운전자들은 항상 보행인을 살펴야 한다.	Aŭtomobilistoj ĉiam devas atenti pri piedirantoj.	한다	0	0
+그의 이름을 아는 사람은 별로 없었다.	Nun malmultaj sciis ankoraŭ lian nomon.	이름을	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	그들의	0	0
+그는 이모의 집에서 머물렀다.	Li gastis ĉe sia onklino.	집에서	0	0
+제가 어제 보낸 문자 메시지를 받으셨나요?	Ĉu vi ricevis la mesaĝon, kiun mi sendis al vi hieraŭ?	어제	0	0
+나는 김밥을 먹고 싶어요.	Mi deziras manĝi kimbabon.	먹고	0	0
+천천히 하세요.	Prenu la necesan tempon.	하세요	0	0
+이런 일이 일어난다니 믿을 수가 없어요.	Mi ne povas kredi ke la afero denove okazis.	믿을	0	0
+톰은 예쁜 눈을 갖고 있어.	Tomo havas belajn okulojn.	눈을	0	0
+이 책을 읽는 것은 나에게 쉽다.	Estas facile por mi, legi tiun libron.	나에게	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	있지만	0	0
+그 사람이 가장 사랑하는 건 맏딸이에요.	La plej amata de tiu homo estas lia filino plej aĝa.	사랑하는	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	거기에	0	0
+돈인 별로 없지만, 너와 함께라면 행복해.	Mi havas malmultan monon. Tamen, mi sentas min feliĉa kun vi.	너와	0	0
+천천히 하세요.	Prenu la necesan tempon.	천천히	0	0
+적어도 경고는 할 수 없었습니까?	Ĉu vi ne povis almenaŭ averti?	적어도	0	0
+다음 주 발라톤에 갈 거야.	Venontsemajne mi iros al Balatono.	주	0	0
+푸에르토리코의 위치를 지도 위에 보여주세요.	Bonvolu al mi montri kie sur la mapo estas Puertoriko.	위에	0	0
+나는 새 차를 살 여유가 없다.	Mi ne havas la rimedojn por aĉeti novan aŭton.	차를	0	0
+다음 학기에 한국어를 배울까 생각해요	Mi pensas, ke en la sekva jarduono mi klopodos lerni la korean.	생각해요	0	0
+사람 많은 게 싫어요.	Mi ne ŝatas kunesti kun multaj homoj.	싫어요	0	0
+티켓은 각각 20엔 입니다.	Ĉiu bileto kostas po 20 enojn.	입니다	0	0
+계획을 실행할 필요가 없을 때 꿈을 꾸는 것이 얼마나 즐거운가.	Kiel komforte estas revi, kiam ni ne devas efektivigi niajn planojn.	필요가	0	0
+물 좀 가져다 드릴까요?	Ĉu mi donu al vi iom da akvo?	물	0	0
+핸드백 속에 너무 많은 것을 넣었군.	Vi tro enmetis aĵojn en la mansaketo.	속에	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	누구도	0	0
+그것은 성경에서 나왔습니다.	Ĝi venas el la Biblio.	그것은	0	0
+내가 지금 원하는 것은 돈이 아니고 시간이다.	Tio, kion mi volas nun, ne estas mono, sed tempo.	돈이	0	0
+나는 그에게 차였어요.	Li disiĝis de mi.	그에게	0	0
+오늘 힘든 하루를 보냈다.	Hodiaŭ mi fartis malfacile.	힘든	0	0
+사랑이 사랑을 어떻게 사랑할 수 있니?	Kiel la amo povas ami la amon?	있니	0	0
+의자는 문에서 멀리 떨어져있다.	La seĝo malproksimas de la pordo.	멀리	0	0
+한국에 언제까지 계실 겁니까?	Kiom da tempo vi restos en Koreio?	겁니까	0	0
+동양은 너에게 있어서 너무 이질적이니?	Ĉu Oriento estas al vi tro fremda?	너에게	0	0
+조금만 주시겠습니까?	Donu al mi kelkajn.	조금만	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	없다는	0	0
+계획을 실행할 필요가 없을 때 꿈을 꾸는 것이 얼마나 즐거운가.	Kiel komforte estas revi, kiam ni ne devas efektivigi niajn planojn.	꿈을	0	0
+그리고 나는 세상을 이해하고 싶기 때문에, 여러 언어를 배우고 싶다. 지금 나는 고대 그리스어 학위과정을 밟고 있다.	Kaj mi volas studi multajn lingvojn, ĉar mi volas kompreni la mondon. Nuntempe mi laboras por mia graduiĝo en klasika greka.	세상을	0	0
+부르즈 할리파는 현재 세계에서 가장 높은 고층건물이다.	Burĝ Ĥalifa estas nuntempe la plej alta nubskrapulo en la mondo.	현재	0	0
+그것 좀 주시겠습니까?	Donu tion al mi!	그것	0	0
+몇 명의 아이들이 방에 있었다.	Kelkaj infanoj ĉeestis en la ĉambro.	방에	0	0
+친구는 도서관에 공부하러 와요	La amiko venas en la bibliotekon por studi.	와요	0	0
+스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	Svislando situas inter Francujo, Italujo, Aŭstrujo kaj Germanujo.	사이에	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	필요는	0	0
+돈인 별로 없지만, 너와 함께라면 행복해.	Mi havas malmultan monon. Tamen, mi sentas min feliĉa kun vi.	없지만	0	0
+아니오, 두 번쨉니다.	Ne, tio estas mia dua vizito.	아니오	0	0
+그리고 나는 세상을 이해하고 싶기 때문에, 여러 언어를 배우고 싶다. 지금 나는 고대 그리스어 학위과정을 밟고 있다.	Kaj mi volas studi multajn lingvojn, ĉar mi volas kompreni la mondon. Nuntempe mi laboras por mia graduiĝo en klasika greka.	여러	0	0
+몇 명의 아이들이 방에 있었다.	Kelkaj infanoj ĉeestis en la ĉambro.	있었다	0	0
+사랑이 사랑을 어떻게 사랑할 수 있니?	Kiel la amo povas ami la amon?	사랑을	0	0
+사라져 가는 언어를 지키는데 타토에바가 도움이 될까?	Ĉu Tatoeba povas kontribui al la savo de lingvoj minacataj?	될까	0	0
+한국에는 무슨 일로 오셨습니까?	Kiucele vi venis al Koreio?	일로	0	0
+그날 밤 그는 무시무시한 꿈을 꾸었다.	En tiu nokto li havis sonĝon teruregan.	그날	0	0
+중국에서 왔습니다.	Mi venis el Ĉinio.	왔습니다	0	0
+톰은 예쁜 눈을 갖고 있어.	Tomo havas belajn okulojn.	예쁜	0	0
+이건 안 될 것 같다.	Mi pensas ke ĉi tiu ne funkcios.	같다	0	0
+나는 남자를 봐요.	Mi vidas viron.	남자를	0	0
+제가 어제 보낸 문자 메시지를 받으셨나요?	Ĉu vi ricevis la mesaĝon, kiun mi sendis al vi hieraŭ?	보낸	0	0
+그 약을 먹으세요.	Prenu la medikamentojn.	약을	0	0
+부르즈 할리파는 현재 세계에서 가장 높은 고층건물이다.	Burĝ Ĥalifa estas nuntempe la plej alta nubskrapulo en la mondo.	높은	0	0
+계획을 실행할 필요가 없을 때 꿈을 꾸는 것이 얼마나 즐거운가.	Kiel komforte estas revi, kiam ni ne devas efektivigi niajn planojn.	계획을	0	0
+신이 세상을 창조하였다.	Dio kreis la mondon.	신이	0	0
+의사는 그녀에게 집에 있으라고 조언했다.	La kuracisto konsilis al ŝi resti hejme.	그녀에게	0	0
+이 책을 읽는 것은 나에게 쉽다.	Estas facile por mi, legi tiun libron.	책을	0	0
+그 일은 많은 힘이 필요하다.	Tiu laboro necesigas multan energion.	힘이	0	0
+우리는 오래된 친구들이다.	Ni delonge amikiĝis.	오래된	0	0
+앉은 자리에 풀도 안 난다.	En la loko, kie tiu persono sidis, ne kreskos plu eĉ greso.	자리에	0	0
+돈은 별로 없지만, 당신과 함께라서 행복해요.	Mi havas malmultan monon. Tamen, mi sentas min feliĉa kun vi.	돈은	0	0
+푸에르토리코의 위치를 지도 위에 보여주세요.	Bonvolu al mi montri kie sur la mapo estas Puertoriko.	지도	0	0
+푸에르토리코의 위치를 지도 위에 보여주세요.	Bonvolu al mi montri kie sur la mapo estas Puertoriko.	위치를	0	0
+엡스타인은 자살하지 않았다.	Epstein ne mortigis sin.	않았다	0	0
+진심으로 죄송합니다.	Mi sincere bedaŭras.	진심으로	0	0
+톰은 마침내 일자리를 구했다.	Tom fine trovis laboron.	마침내	0	0
+너 얼굴이 왜 그래?	Kial via vizaĝo estas tia?	얼굴이	0	0
+"그 사람은 학교에 가요?" "네, 그 사람은 학교에 가요."	"Ĉu tiu homo lernejen iras?" "Jes, tiu homo lernejen iras."	학교에	0	0
+몇 명의 아이들이 방에 있었다.	Kelkaj infanoj ĉeestis en la ĉambro.	아이들이	0	0
+고양이를 먹지 마세요. 쥐를 잡을 포식자가 사라져서 당신이 그 일을 넘겨받아야 할지모 모릅니다.	Ne manĝu katon, ĉar tiam ne plu estus manĝanto de musoj kaj vi devus transpreni ĉi tiun taskon.	잡을	0	0
+우리는 정반대의 결과를 얻을 것입니다.	Rekte kontraŭan rezultaton ni atingos.	얻을	0	0
+친구는 항상 해결책을 찾으십시	Amikoj ĉiam trovas solvon.	친구는	0	0
+이것은 누구의 책입니까?	Kies libro tio ĉi estas?	이것은	0	0
+모릅니다.	Mi ne scias.	모릅니다	0	0
+물 좀 가져다 드릴까요?	Ĉu mi donu al vi iom da akvo?	가져다	0	0
+이건 저의 컴퓨터예요.	Tiu ĉi estas mia komputilo.	저의	0	0
+몇 명의 아이들이 방에 있었다.	Kelkaj infanoj ĉeestis en la ĉambro.	명의	0	0
+톰과 마리는 다른 인생 철학을 가지고 있다.	Tomo kaj Manjo havas malsamajn filozofiojn pri la vivo.	인생	0	0
+그녀는 내 언니가 아니라 어머니예요.	Ŝi ne estas mia fratino sed mia patrino.	언니가	0	0
+나는 매일 10 킬로미터를 달려.	Mi ĉiutage kuras dek kilometrojn.	달려	0	0
+물 좀 가져다 드릴까요?	Ĉu mi donu al vi iom da akvo?	드릴까요	0	0
+투표가 끝났어요. 이번에는 투표율이 높아야 할텐데.	La voĉdonado finiĝis.	끝났어요	0	0
+그의 이름을 아는 사람은 별로 없었다.	Nun malmultaj sciis ankoraŭ lian nomon.	없었다	0	0
+그는 고기 없이는 살 수 없었다.	Li ne povis vivi sen viando.	없이는	0	0
+"Kaisha"를 영어로 어떻게 말해요?	Kiel oni dirus la vorton "kaisha" anglalingve?	말해요	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	누구나	0	0
+소행성이 러시아 첼랴빈스크 위에서 폭발했습니다.	Asteroido eksplodis super Ĉelabinsko en Rusio.	위에서	0	0
+우리는 정반대의 결과를 얻을 것입니다.	Rekte kontraŭan rezultaton ni atingos.	결과를	0	0
+나는 이것이 어디에서 왔는지 모른다.	Mi ne scias de kie ĉi tio venis.	이것이	0	0
+소행성이 러시아 첼랴빈스크 위에서 폭발했습니다.	Asteroido eksplodis super Ĉelabinsko en Rusio.	러시아	0	0
+사랑이 사랑을 어떻게 사랑할 수 있니?	Kiel la amo povas ami la amon?	사랑이	0	0
+돈인 별로 없지만, 너와 함께라면 행복해.	Mi havas malmultan monon. Tamen, mi sentas min feliĉa kun vi.	행복해	0	0
+존이 한국 영화를 보고 싶어해요?	Ĉu John volas spekti korean filmon?	영화를	0	0
+예를 들어 주시겠습니까?	Donu al mi ekzemplon.	예를	0	0
+나는 너야.	Mi estas vi.	너야	0	0
+누구 하느님 본 사람?	Ĉu iu vidis Dion?	하느님	0	0
+빠른 답변 감사합니다.	Dankon pro via senprokrasta respondo.	빠른	0	0
+제가 어제 보낸 문자 메시지를 받으셨나요?	Ĉu vi ricevis la mesaĝon, kiun mi sendis al vi hieraŭ?	메시지를	0	0
+나는 이것이 어디에서 왔는지 모른다.	Mi ne scias de kie ĉi tio venis.	모른다	0	0
+그리고 나는 세상을 이해하고 싶기 때문에, 여러 언어를 배우고 싶다. 지금 나는 고대 그리스어 학위과정을 밟고 있다.	Kaj mi volas studi multajn lingvojn, ĉar mi volas kompreni la mondon. Nuntempe mi laboras por mia graduiĝo en klasika greka.	싶다	0	0
+제가 어제 보낸 문자 메시지를 받으셨나요?	Ĉu vi ricevis la mesaĝon, kiun mi sendis al vi hieraŭ?	문자	0	0
+스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	Svisujo situas inter Francujo, Italujo, Aŭstrujo kaj Germanujo.	독일	0	0
+정말 궁금해서 그러는데, 두 사람 무슨 사이야?	Mi vere estas scivola: Kio okazas inter tiuj du?	그러는데	0	0
+연필을 입에 넣지 마세요, 실수로 입천장을 찌를 수 있습니다.	Ne metu krajonon en la buŝon, ĉar vi povus neintence piki vian palaton.	입에	0	0
+이 문장은 언어 학습자에게 유용하지 않다.	Ĉi tiu frazo ne estas utila por lingvolernantoj.	않다	0	0
+재미 있는 제안이야. 그게 좀 고려야겠다.	Tio estas interesa propono. Mi devos ĝin pripensi.	재미	0	0
+모든 사람은 법 아래에 동등해.	Ĉiuj homoj leĝe egalrajtas.	법	0	0
+그리고 토니가 가장 나이가 많았다.	Kaj Toni estis la plej maljuna.	나이가	0	0
+타토에바를 통해서 언어를 배울 수 있다.	Uzante Tatoeba-n oni povas lerni lingvojn.	통해서	0	0
+알래스카에 살아요.	Mi loĝas en Alasko.	살아요	0	0
+나는 이것이 어디에서 왔는지 모른다.	Mi ne scias de kie ĉi tio venis.	왔는지	0	0
+모든 사람은 법 아래에 동등해.	Ĉiuj homoj leĝe egalrajtas.	아래에	0	0
+고양이를 먹지 마세요. 쥐를 잡을 포식자가 사라져서 당신이 그 일을 넘겨받아야 할지모 모릅니다.	Ne manĝu katon, ĉar tiam ne plu estus manĝanto de musoj kaj vi devus transpreni ĉi tiun taskon.	먹지	0	0
+톰은 매년 보스턴에 가요.	Tom ĉiujare iras al Bostono.	매년	0	0
+투표가 끝났어요. 이번에는 투표율이 높아야 할텐데.	La voĉdonado finiĝis.	이번에는	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	점은	0	0
+그는 장난을 전혀 이해하지 못한다.	Li tute ne komprenas ŝercojn.	이해하지	0	0
+아이스크림 녹는.	La glaciaĵo degelas.	아이스크림	0	0
+눈은 햇빛에 녹았다.	La neĝo degeliĝis sur la suno.	눈은	0	0
+네. 그 남자와 키스했어요.	Jes, mi kisis lin.	남자와	0	0
+타토에바를 통해서 언어를 배울 수 있다.	Uzante Tatoeba-n oni povas lerni lingvojn.	배울	0	0
+사라져 가는 언어를 지키는데 타토에바가 도움이 될까?	Ĉu Tatoeba povas kontribui al la savo de lingvoj minacataj?	사라져	0	0
+부르즈 할리파는 현재 세계에서 가장 높은 고층건물이다.	Burĝ Ĥalifa estas nuntempe la plej alta nubskrapulo en la mondo.	세계에서	0	0
+그 일은 많은 힘이 필요하다.	Tiu laboro necesigas multan energion.	필요하다	0	0
+이것은 누구의 책입니까?	Kies libro tiu ĉi estas?	누구의	0	0
+한국에 언제까지 계실 겁니까?	Kiom da tempo vi restos en Koreio?	언제까지	0	0
+그는 고기 없이는 살 수 없었다.	Li ne povis vivi sen viando.	고기	0	0
+이 책은 1689년에 출판되었다.	La libro estis publikigita en 1689.	책은	0	0
+직업이 무엇입니까?	Kio estas via profesio?	무엇입니까	0	0
+그리고 나는 세상을 이해하고 싶기 때문에, 여러 언어를 배우고 싶다. 지금 나는 고대 그리스어 학위과정을 밟고 있다.	Kaj mi volas studi multajn lingvojn, ĉar mi volas kompreni la mondon. Nuntempe mi laboras por mia graduiĝo en klasika greka.	고대	0	0
+그리고 나는 세상을 이해하고 싶기 때문에, 여러 언어를 배우고 싶다. 지금 나는 고대 그리스어 학위과정을 밟고 있다.	Kaj mi volas studi multajn lingvojn, ĉar mi volas kompreni la mondon. Nuntempe mi laboras por mia graduiĝo en klasika greka.	배우고	0	0
+내 남자친구가 되어줄래?	Ĉu vi volas esti mia koramiko?	남자친구가	0	0
+직업이 무엇입니까?	Kio estas via metio?	직업이	0	0
+이부가 커피만 마셔요.	Eva trinkas nur kafon.	마셔요	0	0
+오늘 힘든 하루를 보냈다.	Hodiaŭ mi fartis malfacile.	하루를	0	0
+종이 한 장만 주시겠습니까?	Donu al mi paperfolion.	종이	0	0
+그것은 성경에서 나왔습니다.	Ĝi venas el la Biblio.	나왔습니다	0	0
+의사는 그녀에게 집에 있으라고 조언했다.	La kuracisto konsilis al ŝi resti hejme.	있으라고	0	0
+나는 이것이 어디에서 왔는지 모른다.	Mi ne scias de kie ĉi tio venis.	어디에서	0	0
+우리는 직원이 문으로 들어오는 걸 봤다.	Ni vidis funkciiston enirantan tra la pordo.	들어오는	0	0
+나는 산에 가길 원합니다.	Mi volas iri al monto.	산에	0	0
+물은 투명하다.	Akvo estas travidebla.	물은	0	0
+스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	Svislando situas inter Francujo, Italujo, Aŭstrujo kaj Germanujo.	이탈리아	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	귀를	0	0
+이 책을 읽는 것은 나에게 쉽다.	Estas facile por mi, legi tiun libron.	읽는	0	0
+내 여자친구가 되어줄래?	Ĉu vi volas esti mia koramikino?	여자친구가	0	0
+연필을 입에 넣지 마세요, 실수로 입천장을 찌를 수 있습니다.	Ne metu krajonon en la buŝon, ĉar vi povus neintence piki vian palaton.	실수로	0	0
+의사는 그녀에게 집에 있으라고 조언했다.	La kuracisto konsilis al ŝi resti hejme.	의사는	0	0
+정말 궁금해서 그러는데, 두 사람 무슨 사이야?	Mi vere estas scivola: Kio okazas inter tiuj du?	궁금해서	0	0
+고양이를 먹지 마세요. 쥐를 잡을 포식자가 사라져서 당신이 그 일을 넘겨받아야 할지모 모릅니다.	Ne manĝu katon, ĉar tiam ne plu estus manĝanto de musoj kaj vi devus transpreni ĉi tiun taskon.	고양이를	0	0
+내가 지금 원하는 것은 돈이 아니고 시간이다.	Tio, kion mi volas nun, ne estas mono, sed tempo.	시간이다	0	0
+한국에 언제까지 계실 겁니까?	Kiom da tempo vi restos en Koreio?	계실	0	0
+이름과 주소를 말하세요.	Diru nomon kaj adreson.	주소를	0	0
+그는 스페인어뿐만 아니라, 프랑스어도 말한다.	Li parolas ne nur la hispanan, sed ankaŭ la francan.	말한다	0	0
+사랑이 사랑을 어떻게 사랑할 수 있니?	Kiel la amo povas ami la amon?	사랑할	0	0
+출발은 몇 시에 합니까?	Je kioma horo ni ekveturos?	합니까	0	0
+그는 장난을 전혀 이해하지 못한다.	Li tute ne komprenas ŝercojn.	못한다	0	0
+푸에르토리코의 위치를 지도 위에 보여주세요.	Bonvolu al mi montri kie sur la mapo estas Puertoriko.	보여주세요	0	0
+나비 빨라.	La papilio flirtas.	빨라	0	0
+나는 새 차를 살 여유가 없다.	Mi ne havas la rimedojn por aĉeti novan aŭton.	여유가	0	0
+전화는 성가실 수 있다.	La telefono povas esti ĝena.	전화는	0	0
+사랑합니다.	Mi amas vin!	사랑합니다	0	0
+존이 한국 영화를 보고 싶어해요?	Ĉu John volas spekti korean filmon?	존이	0	0
+티켓은 각각 20엔 입니다.	Ĉiu bileto kostas po 20 enojn.	각각	0	0
+그리고 나는 세상을 이해하고 싶기 때문에, 여러 언어를 배우고 싶다. 지금 나는 고대 그리스어 학위과정을 밟고 있다.	Kaj mi volas studi multajn lingvojn, ĉar mi volas kompreni la mondon. Nuntempe mi laboras por mia graduiĝo en klasika greka.	이해하고	0	0
+화학 기호 H는 수소를 나타낸다.	La ĥemia simbolo H signifas hidrogenon.	화학	0	0
+잘 있어라, 쿠바.	Ĝis la revido, Kubo.	있어라	0	0
+발가락에 감각이 없다.	Mi ne sentas miajn piedfingrojn.	감각이	0	0
+"Kaisha"를 영어로 어떻게 말해요?	Kiel oni dirus la vorton "kaisha" anglalingve?	영어로	0	0
+우리는 직원이 문으로 들어오는 걸 봤다.	Ni vidis funkciiston enirantan tra la pordo.	봤다	0	0
+이름과 주소를 말하세요.	Diru nomon kaj adreson.	말하세요	0	0
+리비아를 공격하는 것은 중대한 실수였다.	Ataki Libion estis grava eraro.	중대한	0	0
+출발은 몇 시에 합니까?	Je kioma horo ni ekveturos?	시에	0	0
+앉은 자리에 풀도 안 난다.	En la loko, kie tiu persono sidis, ne kreskos plu eĉ greso.	난다	0	0
+톰은 이탈리아 식당에 가는 걸 특히나 좋아한다.	Tom precipe ŝatas iri al itala restoracio.	특히나	0	0
+우리는 직원이 문으로 들어오는 걸 봤다.	Ni vidis funkciiston enirantan tra la pordo.	직원이	0	0
+톰은 마침내 일자리를 구했다.	Tom fine trovis laboron.	일자리를	0	0
+톰은 이탈리아 식당에 가는 걸 특히나 좋아한다.	Tom precipe ŝatas iri al itala restoracio.	식당에	0	0
+우리는 직원이 문으로 들어오는 걸 봤다.	Ni vidis funkciiston enirantan tra la pordo.	문으로	0	0
+친구는 항상 해결책을 찾으십시	Amikoj ĉiam trovas solvon.	해결책을	0	0
+돈은 별로 없지만, 당신과 함께라서 행복해요.	Mi havas malmultan monon. Tamen, mi sentas min feliĉa kun vi.	행복해요	0	0
+나는 산에 가길 원합니다.	Mi volas iri al monto.	원합니다	0	0
+그리스에는 섬이 많다.	En Grekio estas multaj insuloj.	많다	0	0
+수건 좀 주시겠습니까?	Donu al mi bantukon.	수건	0	0
+나는 산에 가길 원합니다.	Mi volas iri al monto.	가길	0	0
+가방이 가득합니다.	La saketo estas plena.	가방이	0	0
+잔돈은 가지세요.	Prenu la restaĵon!	가지세요	0	0
+투표가 끝났어요. 이번에는 투표율이 높아야 할텐데.	La voĉdonado finiĝis.	할텐데	0	0
+그는 장난을 전혀 이해하지 못한다.	Li tute ne komprenas ŝercojn.	장난을	0	0
+톰은 메리보다 훨씬 더 수영을 잘 할 수 있다.	Tomo multe pli bone scipovas naĝi ol Manjo.	수영을	0	0
+존이 한국 영화를 보고 싶어해요?	Ĉu John volas spekti korean filmon?	싶어해요	0	0
+바나나 달콤한이다.	La banano estas dolĉa.	바나나	0	0
+앉은 자리에 풀도 안 난다.	En la loko, kie tiu persono sidis, ne kreskos plu eĉ greso.	앉은	0	0
+이름과 주소를 말하세요.	Diru nomon kaj adreson.	이름과	0	0
+늑대가 되고 싶어요.	Mi volas esti lupo.	늑대가	0	0
+이 문장은 언어 학습자에게 유용하지 않다.	Ĉi tiu frazo ne estas utila por lingvolernantoj.	언어	0	0
+그날 밤 그는 무시무시한 꿈을 꾸었다.	En tiu nokto li havis sonĝon teruregan.	무시무시한	0	0
+사라져 가는 언어를 지키는데 타토에바가 도움이 될까?	Ĉu Tatoeba povas kontribui al la savo de lingvoj minacataj?	언어를	0	0
+톰은 이탈리아 식당에 가는 걸 특히나 좋아한다.	Tom precipe ŝatas iri al itala restoracio.	톰은	0	0
+누가 살인에 대해 말했습니까?	Kiu parolis pri mortigo?	살인에	0	0
+"말들"은 "말"의 복수형이야.	"Ĉevaloj" estas la pluralo de "ĉevalo".	말의	0	0
+필기구 좀 주시겠습니까?	Donu al mi skribilon.	주시겠습니까	0	0
+정말 궁금해서 그러는데, 두 사람 무슨 사이야?	Mi vere estas scivola: Kio okazas inter tiuj du?	사이야	0	0
+돈인 별로 없지만, 너와 함께라면 행복해.	Mi havas malmultan monon. Tamen, mi sentas min feliĉa kun vi.	함께라면	0	0
+시야가 미치는 범위에는 라벤더가 피어 있었다.	Ĝis kien la rigardo atingas, estis florintaj lavendoj.	미치는	0	0
+그는 의사예요.	Li estas kuracisto.	의사예요	0	0
+오늘 힘든 하루를 보냈다.	Hodiaŭ mi fartis malfacile.	보냈다	0	0
+로프를 잡으세요.	Prenu la ŝnuregon.	잡으세요	0	0
+리비아를 공격하는 것은 중대한 실수였다.	Ataki Libion estis grava eraro.	공격하는	0	0
+연필을 입에 넣지 마세요, 실수로 입천장을 찌를 수 있습니다.	Ne metu krajonon en la buŝon, ĉar vi povus neintence piki vian palaton.	넣지	0	0
+좀 앉아라.	Sidu.	앉아라	0	0
+그리고 나는 세상을 이해하고 싶기 때문에, 여러 언어를 배우고 싶다. 지금 나는 고대 그리스어 학위과정을 밟고 있다.	Kaj mi volas studi multajn lingvojn, ĉar mi volas kompreni la mondon. Nuntempe mi laboras por mia graduiĝo en klasika greka.	밟고	0	0
+그는 8년동안 불어를 공부하고 있다.	Li lernas francan lingvon dum 8 jaroj.	공부하고	0	0
+존이 한국 영화를 보고 싶어해요?	Ĉu John volas spekti korean filmon?	한국	0	0
+빵은 마련해 드린 집게로 집어주십시오. 감사합니다.	Bonvolu preni la panon per la tenajlo, dankon.	드린	0	0
+그는 집안의 자랑이다.	Li estas la fiero de sia familio.	집안의	0	0
+그는 모든 실패를 극복했다고 주장한다.	Li asertas superi ĉiun malsukceson.	실패를	0	0
+의자는 문에서 멀리 떨어져있다.	La seĝo malproksimas de la pordo.	문에서	0	0
+계획을 실행할 필요가 없을 때 꿈을 꾸는 것이 얼마나 즐거운가.	Kiel komforte estas revi, kiam ni ne devas efektivigi niajn planojn.	꾸는	0	0
+나비 빨라.	La papilio flirtas.	나비	0	0
+한국에서 태어났어요.	Mi naskiĝis en Koreio.	태어났어요	0	0
+톰은 이탈리아 식당에 가는 걸 특히나 좋아한다.	Tom precipe ŝatas iri al itala restoracio.	좋아한다	0	0
+베를린은 독일의 수도입니다.	Berlino estas la ĉefurbo de Germanujo.	독일의	0	0
+잘 있어라, 쿠바.	Ĝis la revido, Kubo.	쿠바	0	0
+고양이를 먹지 마세요. 쥐를 잡을 포식자가 사라져서 당신이 그 일을 넘겨받아야 할지모 모릅니다.	Ne manĝu katon, ĉar tiam ne plu estus manĝanto de musoj kaj vi devus transpreni ĉi tiun taskon.	쥐를	0	0
+친구는 도서관에 공부하러 와요	La amiko venas en la bibliotekon por studi.	도서관에	0	0
+저는 상상력이 부족합니다.	Mi havas malbonan imagopovon.	상상력이	0	0
+그리스에는 섬이 많다.	Estas multaj insuloj en Grekio.	섬이	0	0
+너무 까다롭게 고르면 아무것도 못 받는다.	Kiu elektas tro multe, ricevas nenion.	받는다	0	0
+중국에서 왔습니다.	Mi venis el Ĉinio.	중국에서	0	0
+시야가 미치는 범위에는 라벤더가 피어 있었다.	Ĝis kien la rigardo atingas, estis florintaj lavendoj.	시야가	0	0
+한국에 처음 오셨습니까?	Ĉu vi unuafoje estas en Koreio?	오셨습니까	0	0
+우린 서로 첫눈에 반했어요.	Tio estis amo je unua ekvido.	첫눈에	0	0
+"말들"은 "말"의 복수형이야.	"Ĉevaloj" estas la pluralo de "ĉevalo".	말들은	0	0
+그넘은 버릇 없는 넘이야.	Tiu aĉulo kondutas impertinente.	버릇	0	0
+나는 캐비아를 먹었다.	Mi manĝis kaviaron.	먹었다	0	0
+연필을 입에 넣지 마세요, 실수로 입천장을 찌를 수 있습니다.	Ne metu krajonon en la buŝon, ĉar vi povus neintence piki vian palaton.	찌를	0	0
+난 톰을 말릴거야.	Mi deadmonos Tomon.	톰을	0	0
+톰은 매년 보스턴에 가요.	Tom ĉiujare iras al Bostono.	보스턴에	0	0
+우리 헤어졌어.	Ni disiĝis.	헤어졌어	0	0
+핸드백 속에 너무 많은 것을 넣었군.	Vi tro enmetis aĵojn en la mansaketo.	핸드백	0	0
+빵은 마련해 드린 집게로 집어주십시오. 감사합니다.	Bonvolu preni la panon per la tenajlo, dankon.	마련해	0	0
+우리는 그 사슴의 발자국을 따라갔다.	Ni spuris la cervon.	발자국을	0	0
+저는 코엔지에서 살았습니다.	Mi loĝis en Koenji.	살았습니다	0	0
+이 비누에는 천연 향료가 들어있다.	Tiu sapo enhavas naturajn odorilojn.	천연	0	0
+저는 상상력이 부족합니다.	Mi havas malbonan imagopovon.	부족합니다	0	0
+시야가 미치는 범위에는 라벤더가 피어 있었다.	Ĝis kien la rigardo atingas, estis florintaj lavendoj.	피어	0	0
+그리고 토니가 가장 나이가 많았다.	Kaj Toni estis la plej maljuna.	토니가	0	0
+사회가 변화하고 있다.	La socio ŝanĝiĝas.	사회가	0	0
+투표가 끝났어요. 이번에는 투표율이 높아야 할텐데.	La voĉdonado finiĝis.	투표가	0	0
+빠른 답변 감사합니다.	Dankon pro via senprokrasta respondo.	답변	0	0
+우리 나라에는 나비가 거의 없어요.	Nialande preskaŭ ne estas papilioj.	나비가	0	0
+나 너무 뚱뚱해.	Mi estas tro dika.	뚱뚱해	0	0
+톰은 마침내 일자리를 구했다.	Tom fine trovis laboron.	구했다	0	0
+로프를 잡으세요.	Prenu la ŝnuregon.	로프를	0	0
+의자는 문에서 멀리 떨어져있다.	La seĝo malproksimas de la pordo.	의자는	0	0
+이 책을 읽는 것은 나에게 쉽다.	Estas facile por mi, legi tiun libron.	쉽다	0	0
+잔돈은 가지세요.	Prenu la restaĵon!	잔돈은	0	0
+톰과 마리는 다른 인생 철학을 가지고 있다.	Tomo kaj Manjo havas malsamajn filozofiojn pri la vivo.	마리는	0	0
+여권을 보여 주세요.	Bonvole montru vian pasporton.	여권을	0	0
+저는 나쁜 상상력을 가지고 있습니다.	Mi havas malbonan imagopovon.	상상력을	0	0
+이건 비밀이에요.	Bonvolu teni tion sekreta.	비밀이에요	0	0
+계획을 실행할 필요가 없을 때 꿈을 꾸는 것이 얼마나 즐거운가.	Kiel komforte estas revi, kiam ni ne devas efektivigi niajn planojn.	실행할	0	0
+빵은 마련해 드린 집게로 집어주십시오. 감사합니다.	Bonvolu preni la panon per la tenajlo, dankon.	빵은	0	0
+고양이를 먹지 마세요. 쥐를 잡을 포식자가 사라져서 당신이 그 일을 넘겨받아야 할지모 모릅니다.	Ne manĝu katon, ĉar tiam ne plu estus manĝanto de musoj kaj vi devus transpreni ĉi tiun taskon.	사라져서	0	0
+로마는 하루아침에 이루어지지 않았다.	Ne en unu tago elkreskis Kartago.	이루어지지	0	0
+종이 한 장만 주시겠습니까?	Donu al mi paperfolion.	장만	0	0
+연필을 입에 넣지 마세요, 실수로 입천장을 찌를 수 있습니다.	Ne metu krajonon en la buŝon, ĉar vi povus neintence piki vian palaton.	연필을	0	0
+로마는 하루아침에 이루어지지 않았다.	Ne en unu tago elkreskis Kartago.	하루아침에	0	0
+그는 8년동안 불어를 공부하고 있다.	Li lernas francan lingvon dum 8 jaroj.	불어를	0	0
+그 책은 누구의 것입니까?	Kies estas tiu libro?	것입니까	0	0
+스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	Svisujo situas inter Francujo, Italujo, Aŭstrujo kaj Germanujo.	오스트리아	0	0
+일본은 기후가 온화하다.	Japanio havas mildan klimaton.	일본은	0	0
+로마는 하루아침에 지어지지 않았다.	Ne en unu tago elkreskis Kartago.	로마는	0	0
+누가 내 헤어드라이어를 훔쳤다.	Kiu ŝtelis mian harsekigilon?	훔쳤다	0	0
+너무 까다롭게 고르면 아무것도 못 받는다.	Kiu elektas tro multe, ricevas nenion.	고르면	0	0
+그리고 토니가 가장 나이가 많았다.	Kaj Toni estis la plej maljuna.	많았다	0	0
+이 비누에는 천연 향료가 들어있다.	Tiu sapo enhavas naturajn odorilojn.	들어있다	0	0
+가방이 가득합니다.	La saketo estas plena.	가득합니다	0	0
+한국에서 태어났어요.	Mi naskiĝis en Koreio.	한국에서	0	0
+톰과 마리는 다른 인생 철학을 가지고 있다.	Tomo kaj Manjo havas malsamajn filozofiojn pri la vivo.	톰과	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	이렇다	0	0
+민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	La bonaĵo de la demokratio estas tio ĉi: ĉiu povas paroli, sed neniu devas aŭskulti.	민주주의의	0	0
+브라질은 남미에서 제일 큰 나라야.	Brazilo estas la plej granda lando en Suda Ameriko.	나라야	0	0
+여름방학을 어디서 보내셨어요?	Kie vi estis dum somera ferio?	보내셨어요	0	0
+이 치마는 네 스타일(분위기)에 딱 맞는다.	Ĉi jupo taŭgas ekzakte vian stilon.	맞는다	0	0
+사회가 변화하고 있다.	La socio ŝanĝiĝas.	변화하고	0	0
+적어도 경고는 할 수 없었습니까?	Ĉu vi ne povis almenaŭ averti?	없었습니까	0	0
+다음 학기에 한국어를 배울까 생각해요	Mi pensas, ke en la sekva jarduono mi klopodos lerni la korean.	학기에	0	0
+너무 까다롭게 고르면 아무것도 못 받는다.	Kiu elektas tro multe, ricevas nenion.	까다롭게	0	0
+제가 어제 보낸 문자 메시지를 받으셨나요?	Ĉu vi ricevis la mesaĝon, kiun mi sendis al vi hieraŭ?	받으셨나요	0	0
+왜 안되는지 설명할려면 시간 너무 많이 걸리겠다.	Kostus al mi tro da tempo por klarigi al vi, kial tio ne efikos.	걸리겠다	0	0
+우리는 정반대의 결과를 얻을 것입니다.	Rekte kontraŭan rezultaton ni atingos.	정반대의	0	0

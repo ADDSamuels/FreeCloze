@@ -1,0 +1,213 @@
+Я рассказал ей, что видел.	Sinabi ko sa kanya kung ano ang aking nakita.	я	0	0
+Я это не хочу.	Ayaw ko ito.	не	0	0
+Похоже, что ты плохо готовился к экзамену.	Mukhang hindi ka masyadong nakapag-aral para sa pagsusulit.	что	0	0
+Кто позвонил в колокольчик?	Sino ang nagpatunog ng kampana?	в	0	0
+Иди вдоль реки и ты найдёшь школу.	Maglakad ka sa kahabaan ng ilog at makikita mo ang paaralan.	и	0	0
+Я знаю, что ты не такая!	Alam kong hindi ka ganoon!	ты	0	0
+Я это не хочу.	Ayaw ko ito.	это	0	0
+Поспеши, или опоздаешь на автобус.	Magmadali ka, baka hindi mo maabutan yung bus.	на	0	0
+Том умирает с голоду.	Namamatay sa gutom si Tom.	с	0	0
+Он здесь!	Andito siya!	он	0	0
+Мы не хотели есть.	Haja makar tagay sung kagman.	мы	0	0
+Я всегда чищу зубы после того, как ем сладости.	Lagi akong nagsisipilyo pagkakain ng matatamis na pagkain.	как	0	0
+Вы читали сегодняшнюю газету?	Binasa mo ba ang dyaryo ngayon?	вы	0	0
+Мне нужно покормить кота.	Kailangan kong pakainin ang aking pusa.	мне	0	0
+У него сердечный приступ.	Inaatake siya sa puso.	у	0	0
+У тебя нет друзей?	Wala ka bang mga kaibigan?	нет	0	0
+Том немного выше меня.	Mas matangkad ng konti sa akin si Tom.	меня	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	так	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	а	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	его	0	0
+Все знают эту песню.	Alam ng lahat ang awiting ito.	все	0	0
+"Она любит музыку". - "Я тоже".	"Gusto niya ang musika." "Ako rin."	она	0	0
+У тебя нет друзей?	Wala ka bang mga kaibigan?	тебя	0	0
+Это книга о звёздах.	Itong libro ay tungkol sa mga bituin.	о	0	0
+Можешь прийти, если хочешь.	Maaari kang sumama kung gusto mo.	если	0	0
+Том знает, что тебе нужно.	Alam ni Tom kung anong kailangan mo.	тебе	0	0
+Они проговорили всю ночь.	Nag-usap sila buong gabi.	они	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	чтобы	0	0
+Мы не хотели есть.	Haja makar tagay sung kagman.	есть	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	из	0	0
+Похоже, что ты плохо готовился к экзамену.	Mukhang hindi ka masyadong nakapag-aral para sa pagsusulit.	к	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	для	0	0
+Он здесь!	Andito siya!	здесь	0	0
+Я был неправ насчет неё.	Nagkamali ako tungkol sa kanya.	был	0	0
+Я знаю, что ты не такая!	Alam kong hindi ka ganoon!	знаю	0	0
+Моя собака всё время лает.	Laging tumatahol ang aso ko.	всё	0	0
+У этого человека родинка сбоку от глаза.	Ang taong iyon ay may nunal sa gilid ng kanyang mata.	от	0	0
+Кто позвонил в колокольчик?	Sino ang nagpatunog ng kampana?	кто	0	0
+Он сказал, что его там не будет.	Sabi niya, di siya makakapunta dyan.	будет	0	0
+Почему я?	Bakit ako?	почему	0	0
+Ты их видела?	Nakita mo na ba sila?	их	0	0
+Поспеши, или опоздаешь на автобус.	Magmadali ka, baka hindi mo maabutan yung bus.	или	0	0
+Он сказал, что его там не будет.	Sabi niya, di siya makakapunta dyan.	там	0	0
+Мне нужно покормить кота.	Kailangan kong pakainin ang aking pusa.	нужно	0	0
+Где мой ластик?	Nasaan ang pambura ko?	где	0	0
+В чем проблема?	Anong problema?	чем	0	0
+Я это не хочу.	Ayaw ko ito.	хочу	0	0
+У этого человека родинка сбоку от глаза.	Ang taong iyon ay may nunal sa gilid ng kanyang mata.	этого	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	была	0	0
+Тагальский — мой родной язык.	Tagalog ang katutubong wika ko.	мой	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	потому	0	0
+Моя собака всё время лает.	Laging tumatahol ang aking aso.	время	0	0
+Он сказал, что его там не будет.	Sabi niya, di siya makakapunta dyan.	сказал	0	0
+"Она любит музыку". - "Я тоже".	"Gusto niya ang musika." "Ako rin."	тоже	0	0
+Можешь прийти, если хочешь.	Maaari kang sumama kung gusto mo.	хочешь	0	0
+Я всегда чищу зубы после того, как ем сладости.	Lagi akong nagsisipilyo pagkakain ng matatamis na pagkain.	того	0	0
+Что тогда случилось?	Ano ang nangyayari dito?	тогда	0	0
+У него сердечный приступ.	Inaatake siya sa puso.	него	0	0
+Моя собака всё время лает.	Laging tumatahol ang aking aso.	моя	0	0
+Я буду один.	Magiging mag-isa ako.	один	0	0
+Можешь прийти, если хочешь.	Maaari kang sumama kung gusto mo.	можешь	0	0
+Я всегда чищу зубы после того, как ем сладости.	Lagi akong nagsisipilyo pagkakain ng matatamis na pagkain.	всегда	0	0
+Я рассказал ей, что видел.	Sinabi ko sa kanya kung anong nakita ko.	ей	0	0
+Мы должны убраться отсюда.	Kailangan natin lumabas dito.	должны	0	0
+Том знает, что тебе нужно.	Alam ni Tom kung anong kailangan mo.	том	0	0
+Я буду один.	Magiging mag-isa ako.	буду	0	0
+Я всегда чищу зубы после того, как ем сладости.	Lagi akong nagsisipilyo pagkakain ng matatamis na pagkain.	после	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	них	0	0
+Он вернулся через три дня.	Bumalik siya pagkatapos nang tatlong araw.	через	0	0
+Том немного выше меня.	Mas matangkad ng konti sa akin si Tom.	немного	0	0
+Я эту передачу не смотрю.	Hindi ako nanunuod ng palabas na iyon.	эту	0	0
+Что тогда случилось?	Ano ang nangyayari dito?	случилось	0	0
+Эта свежая сырая рыба восхитительна.	Masarap itong sariwang hilaw na isda.	эта	0	0
+Я рассказал ей, что видел.	Sinabi ko sa kanya kung ano ang aking nakita.	видел	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	кто-то	0	0
+Похоже, что ты плохо готовился к экзамену.	Mukhang hindi ka masyadong nakapag-aral para sa pagsusulit.	похоже	0	0
+Всем спокойной ночи!	Magandang gabi sa inyong lahat!	всем	0	0
+Иди вдоль реки и ты найдёшь школу.	Maglakad ka sa kahabaan ng ilog at makikita mo ang paaralan.	иди	0	0
+Он вернулся через три дня.	Bumalik siya pagkatapos nang tatlong araw.	три	0	0
+Том знает, что тебе нужно.	Alam ni Tom kung anong kailangan mo.	знает	0	0
+Завтра воскресенье.	Bukas ay Linggo.	завтра	0	0
+Наш мир работает на электричестве.	Tumatakbo ang ating mundo sa koryente.	наш	0	0
+Мы должны убраться отсюда.	Kailangan natin lumabas dito.	отсюда	0	0
+Моё имя Саша.	Sasha ang pangalan ko.	имя	0	0
+Тебе нравятся твои коллеги?	Gusto mo ba ang iyong mga katrabaho?	твои	0	0
+Они проговорили всю ночь.	Nag-usap sila buong gabi.	всю	0	0
+Я знаю, что ты не такая!	Alam kong hindi ka ganoon!	такая	0	0
+У этого человека родинка сбоку от глаза.	Ang taong iyon ay may nunal sa gilid ng kanyang mata.	человека	0	0
+Он вернулся через три дня.	Bumalik siya pagkatapos nang tatlong araw.	дня	0	0
+Я был неправ насчет неё.	Nagkamali ako tungkol sa kanya.	неё	0	0
+Мы должны научиться жить в гармонии с природой.	Dapat matuto tayong tumira sa armonya sa kalikasan.	жить	0	0
+Они проговорили всю ночь.	Nag-usap sila buong gabi.	ночь	0	0
+Ты их видела?	Nakita mo na ba sila?	видела	0	0
+Похоже, что ты плохо готовился к экзамену.	Mukhang hindi ka masyadong nakapag-aral para sa pagsusulit.	плохо	0	0
+Том считает, что он прав.	Naniniwala si Tom na tama siya.	прав	0	0
+Наш мир работает на электричестве.	Tumatakbo ang ating mundo sa koryente.	мир	0	0
+Я был неправ насчет неё.	Nagkamali ako tungkol sa kanya.	насчет	0	0
+В чем проблема?	Anong problema?	проблема	0	0
+Всем спокойной ночи!	Magandang gabi sa inyong lahat!	ночи	0	0
+Наш мир работает на электричестве.	Tumatakbo ang ating mundo sa koryente.	работает	0	0
+У этого человека родинка сбоку от глаза.	Ang taong iyon ay may nunal sa gilid ng kanyang mata.	глаза	0	0
+Вы сделали это специально.	Sinadya mo.	сделали	0	0
+Вы будете это есть?	Kakainin mo ba ito?	будете	0	0
+Мы не хотели есть.	Haja makar tagay sung kagman.	хотели	0	0
+Моё имя Саша.	Sasha ang pangalan ko.	моё	0	0
+"Она любит музыку". - "Я тоже".	"Gusto niya ang musika." "Ako rin."	любит	0	0
+Ты когда-нибудь красила волосы?	Nagpakulay ka na ba ng buhok?	когда-нибудь	0	0
+Город маленький.	Maliit ang lungsod.	город	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	внимание	0	0
+Он вернулся через три дня.	Bumalik siya pagkatapos nang tatlong araw.	вернулся	0	0
+Это не кровь.	Hindi ito dugo.	кровь	0	0
+Вы понимаете смысл этого предложения?	Naiintindihan mo ba ang kahulugan ng pangungusap na ito?	понимаете	0	0
+Все знают эту песню.	Alam ng lahat ang awiting ito.	знают	0	0
+Это леди Эванс.	Ito pala si Lady Evans.	леди	0	0
+У тебя нет друзей?	Wala ka bang mga kaibigan?	друзей	0	0
+Город маленький.	Maliit ang lungsod.	маленький	0	0
+Иди вдоль реки и ты найдёшь школу.	Maglakad ka sa kahabaan ng ilog at makikita mo ang paaralan.	школу	0	0
+Всем спокойной ночи!	Magandang gabi sa inyong lahat!	спокойной	0	0
+Я рассказал ей, что видел.	Sinabi ko sa kanya kung anong nakita ko.	рассказал	0	0
+Можешь прийти, если хочешь.	Maaari kang sumama kung gusto mo.	прийти	0	0
+Ты когда-нибудь красила волосы?	Nagpakulay ka na ba ng buhok?	волосы	0	0
+Мы все живем на Земле.	Nasa Tiyera tayong lahat.	земле	0	0
+Вы понимаете смысл этого предложения?	Naiintindihan mo ba ang kahulugan ng pangungusap na ito?	смысл	0	0
+Мэри забеременела в четырнадцать.	Nagbuntis si Maria noong edad nang 14 na taon.	мэри	0	0
+Это не мой ключ.	Hindi akin ang susi na ito.	ключ	0	0
+Том немного выше меня.	Mas matangkad ng konti sa akin si Tom.	выше	0	0
+Тебе нравятся твои коллеги?	Gusto mo ba ang iyong mga katrabaho?	нравятся	0	0
+Том считает, что он прав.	Naniniwala si Tom na tama siya.	считает	0	0
+Кто позвонил в колокольчик?	Sino ang nagpatunog ng kampana?	позвонил	0	0
+Я эту передачу не смотрю.	Hindi ako nanunuod ng palabas na iyon.	смотрю	0	0
+Тагальский — мой родной язык.	Tagalog ang katutubong wika ko.	язык	0	0
+Я не учитель.	Hindi ako guro.	учитель	0	0
+Смех – штука заразительная.	Nakahawa ang pagtawa.	штука	0	0
+Все знают эту песню.	Alam ng lahat ang awiting ito.	песню	0	0
+Я это обожаю.	Gustong-gusto ko.	обожаю	0	0
+Моя собака всё время лает.	Laging tumatahol ang aking aso.	собака	0	0
+Город небольшой.	Maliit ang lungsod.	небольшой	0	0
+Это старая книга.	Ito ay isang matandang libro.	книга	0	0
+Плохая погода - не помеха.	Ang hindi magandang panahon ay hindi hadlang.	плохая	0	0
+"Она любит музыку". - "Я тоже".	"Gusto niya ang musika." "Ako rin."	музыку	0	0
+Он заставил меня петь.	Pinakanta niya ako.	заставил	0	0
+Я Мария.	Ako po si Maria.	мария	0	0
+Это старая книга.	Ito ay isang matandang aklat.	старая	0	0
+Вы сделали это специально.	Sinadya mo.	специально	0	0
+Том умирает с голоду.	Namamatay sa gutom si Tom.	умирает	0	0
+Он заставил меня петь.	Pinakanta niya ako.	петь	0	0
+Поспеши, или опоздаешь на автобус.	Magmadali ka, baka hindi mo maabutan yung bus.	автобус	0	0
+Я всегда чищу зубы после того, как ем сладости.	Lagi akong nagsisipilyo pagkakain ng matatamis na pagkain.	зубы	0	0
+Завтра воскресенье.	Bukas ay Linggo.	воскресенье	0	0
+Мы должны научиться жить в гармонии с природой.	Dapat matuto tayong tumira sa armonya sa kalikasan.	научиться	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	боялся	0	0
+Мы услышали выстрел.	Nakarinig kami ng putok ng baril.	выстрел	0	0
+У него сердечный приступ.	Inaatake siya sa puso.	приступ	0	0
+У Тома закончился бензин.	Nauubusan ng gasul si Tom.	тома	0	0
+Смех – штука заразительная.	Nakahawa ang pagtawa.	смех	0	0
+Я всегда чищу зубы после того, как ем сладости.	Lagi akong nagsisipilyo pagkakain ng matatamis na pagkain.	ем	0	0
+Мы все живем на Земле.	Nasa Tiyera tayong lahat.	живем	0	0
+Эта свежая сырая рыба восхитительна.	Masarap itong sariwang hilaw na isda.	рыба	0	0
+Они не боятся.	Hindi sila takot.	боятся	0	0
+Иди вдоль реки и ты найдёшь школу.	Maglakad ka sa kahabaan ng ilog at makikita mo ang paaralan.	реки	0	0
+Вы понимаете смысл этого предложения?	Naiintindihan mo ba ang kahulugan ng pangungusap na ito?	предложения	0	0
+Как по-английски будет "слива"?	Ano ang "duhat" sa Ingles?	по-английски	0	0
+Плохая погода - не помеха.	Ang hindi magandang panahon ay hindi hadlang.	погода	0	0
+Кровь красная.	Pula ang dugo.	красная	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	объявление	0	0
+У него сердечный приступ.	Inaatake siya sa puso.	сердечный	0	0
+Мы должны убраться отсюда.	Kailangan natin lumabas dito.	убраться	0	0
+Тагальский — мой родной язык.	Tagalog ang katutubong wika ko.	родной	0	0
+Тебе нравятся твои коллеги?	Gusto mo ba ang iyong mga katrabaho?	коллеги	0	0
+Иди вдоль реки и ты найдёшь школу.	Maglakad ka sa kahabaan ng ilog at makikita mo ang paaralan.	найдёшь	0	0
+Мы услышали выстрел.	Nakarinig kami ng putok ng baril.	услышали	0	0
+Иди вдоль реки и ты найдёшь школу.	Maglakad ka sa kahabaan ng ilog at makikita mo ang paaralan.	вдоль	0	0
+У Тома закончился бензин.	Nauubusan ng gasul si Tom.	закончился	0	0
+У Тома закончился бензин.	Nauubusan ng gasul si Tom.	бензин	0	0
+Вы читали сегодняшнюю газету?	Binasa mo ba ang dyaryo ngayon?	газету	0	0
+Вы читали сегодняшнюю газету?	Binasa mo ba ang dyaryo ngayon?	читали	0	0
+Моё имя Саша.	Sasha ang pangalan ko.	саша	0	0
+Мне нужно покормить кота.	Kailangan kong pakainin ang aking pusa.	кота	0	0
+Я был неправ насчет неё.	Nagkamali ako tungkol sa kanya.	неправ	0	0
+Я эту передачу не смотрю.	Hindi ko pinapanuod ang palabas na iyon.	передачу	0	0
+А майонез - это инструмент?	Instrumento ba ang mayonesa?	инструмент	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	посетителей	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	дверей	0	0
+Я не учительница.	Hindi ako guro.	учительница	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	наступил	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	опасна	0	0
+Мэри забеременела в четырнадцать.	Nagbuntis si Maria noong edad nang 14 na taon.	забеременела	0	0
+Том умирает с голоду.	Namamatay sa gutom si Tom.	голоду	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	повесил	0	0
+Эта свежая сырая рыба восхитительна.	Masarap itong sariwang hilaw na isda.	свежая	0	0
+Это леди Эванс.	Ito pala si Lady Evans.	эванс	0	0
+Поспеши, или опоздаешь на автобус.	Magmadali ka, baka hindi mo maabutan yung bus.	опоздаешь	0	0
+Он повесил у дверей объявление "Внимание, собака!" не потому, что его собачка была сколь-нибудь опасна для посетителей, а так как боялся, чтобы кто-то из них на неё не наступил.	Sa pinto, binitin niyang "Mag-ingat sa Aso!" hindi dahil ang kanyang tuta ay mapanganib sa mga bisita, kundi baka mayapakan siya.	собачка	0	0
+Ты уволена.	Sesante ka.	уволена	0	0
+Поспеши, или опоздаешь на автобус.	Magmadali ka, baka hindi mo maabutan yung bus.	поспеши	0	0
+Я всегда чищу зубы после того, как ем сладости.	Lagi akong nagsisipilyo pagkakain ng matatamis na pagkain.	сладости	0	0
+Мэри забеременела в четырнадцать.	Nagbuntis si Maria noong edad nang 14 na taon.	четырнадцать	0	0
+Мне нужно покормить кота.	Kailangan kong pakainin ang aking pusa.	покормить	0	0
+Мы должны научиться жить в гармонии с природой.	Dapat matuto tayong tumira sa armonya sa kalikasan.	гармонии	0	0
+Похоже, что ты плохо готовился к экзамену.	Mukhang hindi ka masyadong nakapag-aral para sa pagsusulit.	готовился	0	0
+Кто позвонил в колокольчик?	Sino ang nagpatunog ng kampana?	колокольчик	0	0
+Мы должны научиться жить в гармонии с природой.	Dapat matuto tayong tumira sa armonya sa kalikasan.	природой	0	0
+Рига - столица Латвии.	Riga ang kabisera ng Latvia.	столица	0	0
+Эта свежая сырая рыба восхитительна.	Masarap itong sariwang hilaw na isda.	восхитительна	0	0
+У этого человека родинка сбоку от глаза.	Ang taong iyon ay may nunal sa gilid ng kanyang mata.	сбоку	0	0
+Плохая погода - не помеха.	Ang hindi magandang panahon ay hindi hadlang.	помеха	0	0
+Моя собака всё время лает.	Laging tumatahol ang aso ko.	лает	0	0
+Вы читали сегодняшнюю газету?	Binasa mo ba ang dyaryo ngayon?	сегодняшнюю	0	0
+У этого человека родинка сбоку от глаза.	Ang taong iyon ay may nunal sa gilid ng kanyang mata.	родинка	0	0
+А майонез - это инструмент?	Instrumento ba ang mayonesa?	майонез	0	0
+Я всегда чищу зубы после того, как ем сладости.	Lagi akong nagsisipilyo pagkakain ng matatamis na pagkain.	чищу	0	0
+Похоже, что ты плохо готовился к экзамену.	Mukhang hindi ka masyadong nakapag-aral para sa pagsusulit.	экзамену	0	0
+Эта свежая сырая рыба восхитительна.	Masarap itong sariwang hilaw na isda.	сырая	0	0

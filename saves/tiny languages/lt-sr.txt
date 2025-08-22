@@ -1,0 +1,33 @@
+Aš gyvenu Belgrade.	Ја станујем у Београду.	aš	0	0
+Ką tu skaitai?	Шта читаш?	tu	0	0
+Jis mėgo išgerti alaus.	Он обично пије пиво.	jis	0	0
+Ką tu skaitai?	Шта читаш?	ką	0	0
+Ar galima valgyti žalias austres?	Можеш ли да једеш сирове оштриге?	ar	0	0
+Kiemas yra pilnas lapų.	Двориште је препуно лишћа.	yra	0	0
+Kokia tavo kraujo grupė?	Која је твоја крвна група?	tavo	0	0
+Labas rytas.	Dobro jutro!	labas	0	0
+Kiek?	Колико?	kiek	0	0
+Kada išvyksta pirmas traukinys?	Када ће отићи први воз?	kada	0	0
+Kokia tavo kraujo grupė?	Која је твоја крвна група?	kokia	0	0
+Ar galima valgyti žalias austres?	Можеш ли да једеш сирове оштриге?	galima	0	0
+Viso gero.	Довиђења!	viso	0	0
+Nesuprantu.	Не разумем.	nesuprantu	0	0
+Viso gero.	Довиђења!	gero	0	0
+Labas rytas.	Dobro jutro!	rytas	0	0
+Kada išvyksta pirmas traukinys?	Када ће отићи први воз?	pirmas	0	0
+Kokia tavo kraujo grupė?	Која је твоја крвна група?	kraujo	0	0
+Mirtis kolonializmui!	Смрт колонијализму!	mirtis	0	0
+Jis mėgo išgerti alaus.	Он обично пије пиво.	alaus	0	0
+Jis mėgo išgerti alaus.	Он обично пије пиво.	išgerti	0	0
+Ar galima valgyti žalias austres?	Можеш ли да једеш сирове оштриге?	valgyti	0	0
+Aš gyvenu Belgrade.	Ја станујем у Београду.	gyvenu	0	0
+Kokia tavo kraujo grupė?	Која је твоја крвна група?	grupė	0	0
+Kiemas yra pilnas lapų.	Двориште је препуно лишћа.	pilnas	0	0
+Kada išvyksta pirmas traukinys?	Када ће отићи први воз?	traukinys	0	0
+Ką tu skaitai?	Шта читаш?	skaitai	0	0
+Kada išvyksta pirmas traukinys?	Када ће отићи први воз?	išvyksta	0	0
+Ar galima valgyti žalias austres?	Можеш ли да једеш сирове оштриге?	žalias	0	0
+Jis mėgo išgerti alaus.	Он обично пије пиво.	mėgo	0	0
+Kiemas yra pilnas lapų.	Двориште је препуно лишћа.	lapų	0	0
+Kiemas yra pilnas lapų.	Двориште је препуно лишћа.	kiemas	0	0
+Ar galima valgyti žalias austres?	Можеш ли да једеш сирове оштриге?	austres	0	0

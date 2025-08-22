@@ -1,0 +1,1832 @@
+Bu cümlede virgülü bir noktayla değiştiremezsin.	Nie możesz zastąpić przecinka kropką w tym zdaniu.	bir	0	0
+Bu iyi kahve.	To dobra kawa.	bu	0	0
+Ne yapmayı seversin?	Co lubisz robić?	ne	0	0
+Yarın doğum günüm ve 17 yaşını bitirmiş olacağım.	Jutro będą moje urodziny i ukończę 17 lat.	ve	0	0
+O bunun için sorumlu.	On jest za to odpowiedzialny.	için	0	0
+Mike, uçaklar genelde böyle mi sarsılırlar?	Mike, czy samoloty zwykle drżą w ten sposób?	mi	0	0
+Her sabah 7'de kahvaltı yaparım.	Jem śniadanie codziennie o siódmej.	de	0	0
+O bir pencere.	To jest okno.	o	0	0
+Ben çay içtim.	Wypiłem herbatę.	ben	0	0
+Gerçekten çok ilginçti.	To było naprawdę bardzo interesujące.	çok	0	0
+Aradım ama onu bulmadım.	Szukałam, ale tego nie znalazłam.	ama	0	0
+Evet.	Tak.	evet	0	0
+Çok güzel bir evin var.	Masz taki piękny dom.	var	0	0
+Bay White, Springfield'da bir otelin yöneticisiydi.	Pan White był managerem w jednym z hoteli w Springfield.	da	0	0
+O bir doktor mu yoksa bir hasta mı?	On jest lekarzem, czy pacjentem?	mı	0	0
+Tom beklediğim değil.	Tom nie jest taki, jak przypuszczałam.	değil	0	0
+Her şey bu cevaba işaret ediyordu.	Wszystko wskazywało na tę odpowiedź.	şey	0	0
+"O senden hoşlanıyor mu?" "Hayır fakat iyi bir arkadaş ve birlikte eğleniriz."	"Podobasz mu się?" "Nie, ale jest dobrym kolegą i spędzamy razem czas.	hayır	0	0
+Beklediğimden daha uzunsun.	Jesteś wyższa, niż się spodziewałem.	daha	0	0
+Ben yemek pişirmekten nefret ederim, ya sen?	Nienawidzę gotować, a ty?	sen	0	0
+Odaya girdiğimi uyarmak için Tom ve Mary birbirlerine bağıramayacak kadar çok meşguldü.	Tom i Mary byli tak zajęci wrzeszczeniem na siebie, że nie zauważyli jak wszedłem do pokoju.	kadar	0	0
+Keşke bana Tom demeye başlasan.	Chciałbym, żebyś zaczął zwracać się do mnie Tom.	bana	0	0
+Tom, Mary'nin meşgul gibi göründüğünü söyledi.	Tom powiedział, że Mary wyglądała na zajętą.	gibi	0	0
+Yanında kalabilir miyim? Gidecek hiçbir yerim yok.	Mogę zostać u ciebie? Nie mam dokąd pójść.	yok	0	0
+Tom gerçekten bunu beklemiyordu.	Tom naprawdę się tego nie spodziewał.	bunu	0	0
+O onu elinden öptü.	Pocałował ją w rękę.	onu	0	0
+O, iyi biridir.	To dobry człowiek.	iyi	0	0
+Böyle düşünüyorsan beni hiç tanımıyorsun demektir.	Jeśli tak myślisz, to znaczy, że mnie wcale nie znasz.	beni	0	0
+Seni izliyorum.	Obserwuję cię.	seni	0	0
+Herkes her şeyi biliyor, değil mi?	Wszyscy wszystko wiedzą, co?	her	0	0
+Sen benim arkadaşım mısın?	Czy jesteś moim przyjacielem?	benim	0	0
+Uzun süredir sana söylemek istediğim bir şey var.	Jest coś, co już od dawna chciałam ci powiedzieć	sana	0	0
+Korkarım ki o benim talebimi reddedecek.	Boję się, że odrzuci moje podanie.	ki	0	0
+O, Japonya'ya çocuk olarak geldi.	Przybył do Japonii jako dziecko.	ya	0	0
+Neden buraya taşındınız?	Dlaczego się tutaj przeprowadziliście?	neden	0	0
+Tom Boston'dan ne zaman döndü?	Kiedy Tom wrócił z Bostonu?	zaman	0	0
+O sadece dikkat istiyor.	On tylko chce uwagi.	sadece	0	0
+Bunu senin gözlerinde görebiliyorum.	Mogę to zobaczyć w twoich oczach.	senin	0	0
+Burada İngilizce konuşan biri var mı?	Czy jest tu ktoś kto mówi po angielsku?	burada	0	0
+O yalnız olduğunu söylüyor.	Mówi, że jest samotny.	olduğunu	0	0
+Toplantı nasıl geçti?	Jak poszło spotkanie?	nasıl	0	0
+Hiç şansın olmayacak.	Nie ma szans.	hiç	0	0
+Üniversiteden mezun olduktan sonra iki yıl İngilizce öğretti.	Po skończeniu uniwersytetu przez dwa lata uczył angielskiego.	sonra	0	0
+Şimdi kar yağıyor.	Teraz pada śnieg.	şimdi	0	0
+Augusto benim en sevgili oğlum.	Augusto jest moim najukochańszym synem.	en	0	0
+Senin öyle diyebileceğini hiç düşünmedim.	Nie wiedziałem że możesz coś takiego powiedzieć.	öyle	0	0
+"O senden hoşlanıyor mu?" "Hayır fakat iyi bir arkadaş ve birlikte eğleniriz."	"Podobasz mu się?" "Nie, ale jest dobrym kolegą i spędzamy razem czas.	mu	0	0
+Şu anda kar yağıyor.	Teraz pada śnieg.	şu	0	0
+Zengin misin?	Jesteś bogata?	misin	0	0
+Birkaç yıl önce oraya çok giderdim.	Jeździłem tam kilka lat temu.	önce	0	0
+Biraz daha fazla işbirliği bekliyordum.	Oczekiwałem trochę więcej współpracy.	biraz	0	0
+Gidelim hadi buradan!	Chodźcie, idziemy stąd!	hadi	0	0
+Ayrıca onun güzel bir kedisi var.	Oprócz tego ona ma ładnego kota.	güzel	0	0
+Almanca konuşur musun?	Mówisz po niemiecku?	musun	0	0
+Çantama ne oldu?	Co się stało z moją torbą?	oldu	0	0
+Mike, uçaklar genelde böyle mi sarsılırlar?	Mike, czy samoloty zwykle drżą w ten sposób?	böyle	0	0
+Ona beyhude yere inandık.	Niepotrzebnie mu uwierzyliśmy.	ona	0	0
+İyi akşamlar Şikago.	Witaj, Chicago!	İyi	0	0
+Yavaşlamak istersen, lütfen söyle.	Jeśli chcesz zwolnić, proszę powiedz mi.	lütfen	0	0
+Bu onun.	To jest jej.	onun	0	0
+O bile beni anlamıyor.	Nawet ona mnie nie rozumie.	bile	0	0
+Bu fotoğrafa bak.	Spójrz na to zdjęcie.	bak	0	0
+Peki ya sen?	A ty?	peki	0	0
+Eğer bilseydim sana söylerdim.	Powiedziałbym ci gdybym wiedział.	eğer	0	0
+Artık paramız yok.	Nie mamy już pieniędzy.	artık	0	0
+Gerçekten, gerçekten yorgunum.	Jestem naprawdę, naprawdę zmęczona.	gerçekten	0	0
+O kitabı okumayı bitirdiğinde onu bana geri ver.	Jak skończyć czytać tę książkę, to oddaj mi ją z powrotem.	geri	0	0
+Biliyorum.	Wiem.	biliyorum	0	0
+Yemek yapmak istiyorum.	Chcę gotować.	istiyorum	0	0
+Beni kim gördü.	Kto mnie widział?	kim	0	0
+Bir süpermarkette kasiyer olarak çalışıyorum.	Pracuję jako kasjer w supermarkecie.	olarak	0	0
+Başka bir ülkede lisans okumak istiyorum.	Chcę zrobić licencjat w obcym kraju.	başka	0	0
+Belki Tom suçlu.	Prawdopodobnie Tom jest winny.	belki	0	0
+Bu onun tek umuduydu.	To była dlań jedyna nadzieja.	tek	0	0
+Onun doğru olduğunu sanmıştım.	Myślałem, że to prawda.	doğru	0	0
+İki teori arasında çok büyük bir fark vardır.	Między tymi dwiema teoriami jest olbrzymia różnica.	büyük	0	0
+Önceden babasına ait olan sıraya bakıyordu.	On spogląda na coś, co kiedyś było biurkiem ojca.	olan	0	0
+Onlardan biri, birini katil eden kişinin rolünü oynayacak bir aktör.	Jednym z nich jest aktor, który udaje, że kogoś zabija.	biri	0	0
+Onu yapmasan ne olur?	Co się stanie jak tego nie zrobisz?	olur	0	0
+Beni buraya yalnız başıma getirttiler.	Kazali mi tam iść samemu.	buraya	0	0
+Bay Wood'un hiç çocuğu yoktu.	Pan Wood nie miał żadnych dzieci.	bay	0	0
+Hatred'in anlamını bilmiyorum.	Nie wiem co znaczy nienawiść	in	0	0
+Sakin ol ve her şey sonunda iyi olacak.	Uspokój się i na koniec wszystko będzie dobrze.	olacak	0	0
+Yaşlı adam parkta yürüyüş yapıyor.	Starszy mężczyzna przechadza się po parku.	adam	0	0
+Tom Mary ile asla tanışmamış olmayı diledi.	Tom marzył	ile	0	0
+Babam hiçbir şey söylemedi.	Mój ojciec niczego nie powiedział.	hiçbir	0	0
+Biz onu durdurduk.	My go zatrzymaliśmy.	biz	0	0
+Bunu yapmama birinin yardım edip edemeyeceğini merak ediyorum.	Jestem ciekawa, czy ktoś mógłby mi pomóc to zrobić.	yardım	0	0
+Evet, demek istediğim bu.	Tak, to jest to, co miałem na myśli.	demek	0	0
+Hey sen, kapa çeneni!	Hey ty, zamknij się!	hey	0	0
+Sanırım bu tartışılmalıydı.	Myślę, że to powinno zostać przedyskutowane.	sanırım	0	0
+Halkın sesi, Allah'ın sesidir.	Głos ludu to głos Boga.	ın	0	0
+Hatred'in anlamını bilmiyorum.	Nie wiem co znaczy nienawiść	bilmiyorum	0	0
+Ben bunun bir şaka olduğunu düşündüm.	Myślałam, że to był żart.	bunun	0	0
+Tüm belgeleri imzaladım.	Podpisałam wszystkie dokumenty.	tüm	0	0
+Herhangi bir şeye ihtiyacım yok, teşekkürler.	Dziękuję, niczego nie potrzebuję.	teşekkürler	0	0
+Zaten çok fazla biliyorsun.	Już wiesz za dużo.	fazla	0	0
+İyi zamanlama. Ben seni yeni modelin test sürüşüne alacağım.	Świetnie! Dam ci się przejechać nowym modelem.	yeni	0	0
+Kurs on dört gün sürecek.	Kurs będzie trwał czternaście dni.	gün	0	0
+Yazı kışa tercih ederim.	Wolę lato, niż zimę.	ederim	0	0
+Müzenin girişi nerede?	Gdzie jest wejście do muzeum?	nerede	0	0
+Tom'a sor.	Zapytaj Toma.	a	0	0
+Listemdeki her şeyi yaptım.	Zrobiłam wszystko z mojej listy.	şeyi	0	0
+Merhaba, nasılsın?	Cześć, jak się masz?	merhaba	0	0
+O orada ne yapıyordu?	Co ona tam robiła?	orada	0	0
+Tom kötü bir çocuk değil.	Tom nie jest złym dzieckiem.	kötü	0	0
+Herkes yeni şeyler yapmaktan korkar.	Każdy boi się robić coś nowego.	şeyler	0	0
+Gece bir film izlemeye ne dersin?	A może pójdziesz do kina dziś wieczorem?	gece	0	0
+Herkes her şeyi biliyor, değil mi?	Wszyscy wszystko wiedzą, prawda?	biliyor	0	0
+Kilo vermekte sorun yaşıyor musun?	Czy masz problem ze zrzuceniem wagi ?	sorun	0	0
+Kimse bir defada iki şeyi yapamaz.	Nikt nie może zrobić dwóch rzeczy na raz.	iki	0	0
+Annem harika bir kadındı.	Moja mama była cudowną kobietą.	harika	0	0
+Bir şey saklamana gerek yok.	Nie musisz nic ukrywać.	gerek	0	0
+Gerçekten istediğimiz biraz et.	Tak naprawdę chcemy trochę mięsa.	et	0	0
+Saat tam on.	Jest punkt dziesiąta.	tam	0	0
+İşte buradasın.	Tutaj jesteś.	İşte	0	0
+Bütün odayı (daireyi) temizlemeliyiz.	Musimy posprzątać całe mieszkanie.	bütün	0	0
+Ek olarak yaşlılar birbirleriyle sosyalleşebilsin ve Amerikan hayatının aktif üyeleri olarak kalabilsinler diye birçok topluluk kurulmuştur.	Ponadto stworzono wiele grup, po to, by osoby starsze mogły spotykać się ze sobą i pozostać czynnymi uczestnikami życia Ameryki.	diye	0	0
+Hemen yolculuğa hazırlan.	Szykuj się natychmiast do podróży.	hemen	0	0
+Siz kız kardeş misiniz?	Jesteście siostrami?	siz	0	0
+Sakin ol ve her şey sonunda iyi olacak.	Uspokój się i na koniec wszystko będzie dobrze.	ol	0	0
+Onların suçlamaları doğru olabilir.	Ich oskarżenia mogą być prawdziwe.	olabilir	0	0
+Yakınlardaki küçük bir kasabada yaşıyordu.	Mieszkał w pobliskim miasteczku.	küçük	0	0
+Size birkaç sorumuz var.	Mamy do ciebie kilka pytań.	size	0	0
+Tanrı her yerde olamazdı. Bu yüzden anneleri yarattı.	Bóg nie mógł być wszędzie, dlatego stworzył matki.	yüzden	0	0
+Aynı fikirde değildik.	Nie zgodziliśmy się.	aynı	0	0
+Hediye için teşekkür etti.	Podziękował za prezent.	teşekkür	0	0
+İşleri değiştirme hakkında düşünüyorum.	Myślę o zmianie pracy.	hakkında	0	0
+Çabuk buraya gel!	Chodź tu szybko!	gel	0	0
+Her ülkenin kendi bayrağı vardır.	Każdy kraj ma swoją flagę.	kendi	0	0
+Siz kız kardeş misiniz?	Jesteście siostrami?	kız	0	0
+Cookie'nin annesi kanserden öldü.	Mama Cookie zmarła na raka.	nin	0	0
+Bilimci araştırmaya devam etmekte ısrar etti.	Naukowiec nalegał, aby kontynuować badania.	devam	0	0
+Bize bir kelime bile söylemedi.	Nic do nas nie powiedział.	bize	0	0
+O kediler hakkında deli oluyor.	On ma fioła na punkcie kotów.	oluyor	0	0
+Bana kitabı ver.	Daj mi tę książkę.	ver	0	0
+Sana yardım etmeme izin vermeliydin.	Powinieneś mi pozwolić, żebym ci pomogła.	izin	0	0
+İşveren, çalışanın iş akdini feshetti.	Pracodawca rozwiązał umowę o pracę pracownika.	iş	0	0
+Aklınıza bir şey gelirse lütfen bizi bilgilendirin.	Jeśli przyjdzie ci coś do głowy, proszę daj nam znać.	bizi	0	0
+Buna alışmak biraz sürecek.	Trochę zajmie zanim się do tego przyzwyczaję.	buna	0	0
+Selam, nasılsın?	Cześć, jak się masz?	selam	0	0
+Caddede yüzlerce araba vardı.	Na ulicy było kilkaset samochodów.	vardı	0	0
+Genç bir kadın dün bana geldi.	Wczoraj przyszła do mnie młoda kobieta.	geldi	0	0
+Bunlar bizim kitaplarımız.	To są nasze książki.	bizim	0	0
+Tanrı sizi korusun.	Niech cię Bóg błogosławi.	sizi	0	0
+Kameram Nikon'dur.	Mój aparat to Nikon.	dur	0	0
+Henüz hiç kimse gelmedi, ama en 50 öğrenci bekliyoruz.	Nikt się jeszcze nie pokazał, ale oczekujemy co najmniej pięćdziesięciu studentów.	kimse	0	0
+İnsan, doğaya göre sosyal bir hayvandır.	Człowiek jest z natury istotą społeczną.	göre	0	0
+Tom Mary ile asla tanışmamış olmayı diledi.	Tom marzył	asla	0	0
+Oraya seninle gitmeliydim.	Powinnam była iść tam z tobą.	seninle	0	0
+Baba çalışıyor.	Ojciec pracuje.	baba	0	0
+Ben hâlâ buradaki yemeğe alışkın değilim.	Jeszcze nie przyzwyczaiłem się do tutejszego jedzenia.	değilim	0	0
+Bu ne kadar önemli?	Jak ważne to jest?	önemli	0	0
+Ljubljana, Slovenya'nın başkentidir.	Lublana jest stolicą Słowenii.	nın	0	0
+O bir doktor mu yoksa bir hasta mı?	On jest lekarzem, czy pacjentem?	yoksa	0	0
+Benimle aynı fikirde olmayan insanlara alışkınım.	Przyzwyczaiłem się do osób, które się ze mną nie zgadzają.	benimle	0	0
+Bu nehir içinde yüzmek için tehlikelidir.	Niebezpiecznie jest pływać w tej rzece.	içinde	0	0
+Hazır mısın?	Jesteś gotów?	mısın	0	0
+Sadece Tom'u güvenli bir şekilde eve götürmek istiyorum.	Chcę tylko zawieźć Tom'a bezpiecznie do domu.	şekilde	0	0
+Asosyal olmak istemiyorum ama yoruldum.	Nie chcę wyjść na nietowarzyskiego, ale jestem zmęczony.	olmak	0	0
+Bugün seni beklemiyordum.	Nie spodziewałam się Ciebie dzisiaj.	bugün	0	0
+Ona gerçeği sen söyle.	Ty powiedz mu prawdę.	söyle	0	0
+Şimdilik amcamla birlikte kalıyorum fakat daha sonra küçük bir apartman dairesine taşınacağım.	Póki co mieszkam z wujkiem, ale później wyprowadzę się do jakiegoś małego mieszkania.	birlikte	0	0
+Uzun zaman önce Kyoto'ya gittim.	Byłem w Kioto dawno temu.	uzun	0	0
+Bunu görmen lazım.	Musisz to zobaczyć.	lazım	0	0
+Zaten çok fazla biliyorsun.	Już wiesz za dużo.	biliyorsun	0	0
+Zaten çok fazla biliyorsun.	Już wiesz za dużo.	zaten	0	0
+Bu para.	To są pieniądze.	para	0	0
+O ilk hamleyi yaptı.	On zrobił pierwszy krok.	ilk	0	0
+Beni almaya geliyor musun?	Przyjdziesz po mnie?	geliyor	0	0
+Onunla geleceğim hakkında konuşmak istiyorum.	Chcę z nią porozmawiać o mojej przyszłości.	onunla	0	0
+Onun gerçek arkadaşları yok.	Nie ma prawdziwych przyjaciół.	gerçek	0	0
+Balinalar balık değildir. Onlar memelilerdir.	Wieloryby to nie ryby. To ssaki.	onlar	0	0
+Sadece birkaç kişi beni anladı.	Rozumie mnie tylko kilka osób.	birkaç	0	0
+Bu üç dakikadan daha fazla sürmedi.	To nie trwało więcej niż trzy minuty.	üç	0	0
+Herkes yeni şeyler yapmaktan korkar.	Każdy boi się robić coś nowego.	herkes	0	0
+Babam bana yatakta kitap okumamamı söyledi.	Ojciec zabronił mi czytać książki w łóżku.	söyledi	0	0
+Sinemaya mı gitmek istiyorsun yoksa tiyatroya mı?	Chcesz iść do kina, czy do teatru?	istiyorsun	0	0
+Öğle yemeği ister misiniz?	Chcecie drugie śniadanie?	ister	0	0
+"Şu an saat kaç?" "Saat 3.30."	"Która jest teraz godzina?" "Jest 3:30."	saat	0	0
+Bunu neden yapıyorsun, Tom?	Dlaczego to robisz, Tom?	yapıyorsun	0	0
+Tom eve geliyor, değil mi?	Tom wraca do domu, prawda?	eve	0	0
+Üniversiteden mezun olduktan sonra iki yıl İngilizce öğretti.	Po skończeniu uniwersytetu przez dwa lata uczył angielskiego.	yıl	0	0
+Burada güvende miyim?	Czy jestem tu bezpieczny?	miyim	0	0
+Tom kötü bir çocuk değil.	Tom nie jest złym dzieckiem.	çocuk	0	0
+Taşınıp kendi için bir yer bulmak istiyor.	Ona chce się wyprowadzić i znaleźć swoje własne miejsce.	yer	0	0
+Hep bu yoldan giderdik okula.	Chodziliśmy zawsze tędy do szkoły.	hep	0	0
+Burada bekle.	Zaczekaj tutaj.	bekle	0	0
+Beyaz şemsiye sizin.	Biała parasolka jest wasza.	sizin	0	0
+Mümkün olduğu kadar çok çalıştım.	Pracowałem jak najciężej.	olduğu	0	0
+Onunla ilgili gerçekten ne düşünüyorsun?	Co tak naprawdę o niej myślisz?	ilgili	0	0
+Gidelim hadi buradan!	Chodźcie, idziemy stąd!	gidelim	0	0
+Ona beyhude yere inandık.	Niepotrzebnie mu uwierzyliśmy.	yere	0	0
+Park etmek yasaktır.	Zakaz parkowania.	etmek	0	0
+"Şu an saat kaç?" "Saat 3.30."	"Która jest teraz godzina?" "Jest 3:30."	an	0	0
+Onlar yarın Japonya'dan ayrılıyorlar.	Jutro wyjeżdżają z Japonii.	dan	0	0
+Tom nedir?	Czym jest Tom?	nedir	0	0
+Bay Wood'un hiç çocuğu yoktu.	Pan Wood nie miał żadnych dzieci.	un	0	0
+Okula gitmek istemiyorum.	Nie chcę chodzić do szkoły.	istemiyorum	0	0
+Buradan Tokyo'ya ne kadar var?	Jak daleko jest stąd do Tokio?	buradan	0	0
+Bütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler ve birbirlerine karşı kardeşlik zihniyeti ile hareket etmelidirler.	Wszystkie istoty ludzkie rodzą się wolne i równe w godności i prawach. Są one obdarzone rozumem i sumieniem oraz powinny postępować w stosunku do siebie wzajemnie w duchu braterstwa.	karşı	0	0
+"Şu anda saat kaç?" "Saat 3:30."	"Która jest teraz godzina?" "Jest 3:30."	kaç	0	0
+Günde en az yedi saat uyumak zorundayız.	Musimy spać co najmniej siedem godzin dziennie.	az	0	0
+Burası Copacabana!	To jest Copacabana!	burası	0	0
+Hazır mısın?	Jesteś gotów?	hazır	0	0
+Şimdilik amcamla birlikte kalıyorum fakat daha sonra küçük bir apartman dairesine taşınacağım.	Póki co mieszkam z wujkiem, ale później wyprowadzę się do jakiegoś małego mieszkania.	fakat	0	0
+Bunlar çok eski kitaplar.	To są moje bardzo stare książki.	eski	0	0
+Çocuklar mutlu olacaklar.	Chłopcy będą szczęśliwi.	çocuklar	0	0
+Bunu yapmama birinin yardım edip edemeyeceğini merak ediyorum.	Jestem ciekawa, czy ktoś mógłby mi pomóc to zrobić.	ediyorum	0	0
+Bazı ilaçlar almam gerekiyor.	Muszę wziąć leki.	gerekiyor	0	0
+Yurt dışında dilbilimi üzerine yüksek lisans yapmak istiyorum.	Chcę zrobić magisterkę z językoznawstwa za granicą.	yapmak	0	0
+Genç bir kadın dün bana geldi.	Wczoraj przyszła do mnie młoda kobieta.	kadın	0	0
+Hiçbir şeye söz veremem fakat elimden geleni yapacağım.	Nic nie mogę obiecać, jednak zrobię co w mojej mocy.	söz	0	0
+Sana inanmak zor.	Ciężko ci uwierzyć.	zor	0	0
+Babam işe arabayla gider.	Ojciec jeździ do pracy samochodem.	işe	0	0
+O şu anda tehlikede.	Jest teraz w niebezpieczeństwie.	anda	0	0
+Dün 10 tane şiş yedim.	Wczoraj zjadłem 10 szaszłyków.	tane	0	0
+Bunlar kapı.	To są drzwi.	bunlar	0	0
+Tom'un işi var.	Tom ma pracę.	işi	0	0
+Sadece birkaç kişi beni anladı.	Rozumie mnie tylko kilka osób.	kişi	0	0
+Bunu kabul ediyor musun?	Zgadzasz się na to?	kabul	0	0
+Niye yemiyorsun?	Dlaczego nie jesz?	niye	0	0
+Gerçekten gitmemi istiyor musun?	Naprawdę chcesz, żebym sobie poszła?	istiyor	0	0
+Pizzayı seviyorum.	Kocham pizzę.	seviyorum	0	0
+Sağ olun, ben almayayım.	Dziękuję, nie trzeba.	sağ	0	0
+Gülmek zorunda kaldım.	Musiałam się śmiać.	zorunda	0	0
+Bana bu sözlüğü verebilir misiniz?	Mógłbyś mi podać słownik?	misiniz	0	0
+Tanrı iyidir.	Bóg jest dobry.	tanrı	0	0
+Yarın doğum günüm ve 17 yaşını bitirmiş olacağım.	Jutro będą moje urodziny i ukończę 17 lat.	yarın	0	0
+Tom bunu üç kez yaptı.	Tom zrobił to trzy razy.	kez	0	0
+Bundan çok daha fazlasını hak ediyorsun.	Zasługujesz na wiele więcej.	bundan	0	0
+İki teori arasında çok büyük bir fark vardır.	Między tymi dwiema teoriami jest olbrzymia różnica.	İki	0	0
+Bu programın hem indirme hem de yükleme olanakları vardır.	Ten program dostarcza zarówno możliwość pobierania jak i ładowania danych.	hem	0	0
+Senden şüphelenmiyorum.	Nie podejrzewam cię.	senden	0	0
+Vikipedi'ye hoş geldiniz.	Witaj w Wikipedii.	hoş	0	0
+Japonca konuşan herhangi bir doktor tanıyor musun?	Czy jest tu lekarz, który mówi po japońsku?	doktor	0	0
+Özel muamele beklemiyorum.	Nie oczekuje specjalnego traktowania.	özel	0	0
+Yemek yapmak istiyorum.	Chcę gotować.	yemek	0	0
+Bu bilet iki hafta için geçerlidir.	Ten bilet jest ważny przez dwa miesiące.	hafta	0	0
+Tom listeyi kontrol etti.	Tom sprawdził listę.	kontrol	0	0
+Bunu kabul ediyor musun?	Czy zgadzasz się na to?	ediyor	0	0
+Söylemem gereken şey budur.	To jest to, co powinienem powiedzieć.	gereken	0	0
+Onunla bir yerde buluştuğumuzu hatırlıyorum.	Pamiętam, że gdzieś już go spotkałem.	yerde	0	0
+Oraya bir kez daha gitmek istiyorum.	Chcę tam pojechać jeszcze raz.	oraya	0	0
+Ben hâlâ bir kask giymeye alışkın değilim.	W dalszym ciągu nie jestem przyzwyczajony do noszenia kasku.	hâlâ	0	0
+Tom'u aramak için şu an geç değil.	Nie jest za późno żeby zadzwonić do Toma.	geç	0	0
+Çocuklar mutlu olacaklar.	Chłopcy będą szczęśliwi.	mutlu	0	0
+Tom Mary'ye kızgın değil.	Tom nie jest wściekły na Mary.	ye	0	0
+Bazı kalemlerim var.	Mam kilka długopisów.	bazı	0	0
+Onlardan biri, birini katil eden kişinin rolünü oynayacak bir aktör.	Jednym z nich jest aktor, który udaje, że kogoś zabija.	birini	0	0
+Ayrıca onun güzel bir kedisi var.	Oprócz tego ona ma ładnego kota.	ayrıca	0	0
+Ondan telefon numarasını istedim.	Poprosiłem go o numer telefonu.	ondan	0	0
+Beni nereden tanıyorsun?	Skąd mnie znasz?	nereden	0	0
+Teklifimi çabucak kabul etti.	Chętnie zgodziła się na moją propozycję.	etti	0	0
+Ben bisikletle dışarı gittim.	Pojechałem rowerem.	dışarı	0	0
+Dünden beri bilgisayarım bir kaçık gibi.	Od wczoraj komputer mi wariuje.	beri	0	0
+"Nasıl gitti?" "Onun akut apandisit olduğunu söylediler."	"Jak poszło?" "Mówili, że to było ostre zapalenie wyrostka robaczkowego."	gitti	0	0
+Babam bana yalan söyledi.	Mój ojciec mnie okłamał.	yalan	0	0
+Beni yalnız bırakır mısın?	Mógłbyś zostawić mnie samą?	yalnız	0	0
+Bir sürü insan oradaydı.	Było tam dużo ludzi.	insan	0	0
+Seni orada gördüm.	Widziałem Ciebie tam.	gördüm	0	0
+Merak etmeyin. O ne yaptığını bilir.	Nie martwcie się. On wie, co robi.	merak	0	0
+Bütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler ve birbirlerine karşı kardeşlik zihniyeti ile hareket etmelidirler.	Wszystkie istoty ludzkie rodzą się wolne i równe w godności i prawach. Są one obdarzone rozumem i sumieniem oraz powinny postępować w stosunku do siebie wzajemnie w duchu braterstwa.	insanlar	0	0
+O, bir polis devriyesi görünce kaçtı.	Uciekł jak zobaczył patrol policji.	polis	0	0
+Yardıma ihtiyacım var.	Potrzebuję pomocy.	ihtiyacım	0	0
+Onun erkek kardeşi Kensaku şu an Brezilya'da.	Jej brat Kensaku jest teraz w Brazylii.	erkek	0	0
+Dün 10 tane şiş yedim.	Wczoraj zjadłem 10 szaszłyków.	dün	0	0
+Japonca konuşuyor musunuz?	Czy mówi pan po japońsku?	musunuz	0	0
+Babam bana yalan söyledi.	Mój ojciec mnie okłamał.	babam	0	0
+Bu akşam televizyon izleyebilir miyim?	Czy mogę dziś wieczorem oglądać telewizję?	akşam	0	0
+Tom Mary'den bir kredi istedi.	Tom chciał pożyczkę od Mary.	den	0	0
+Bu fotoğraflarda geçen yazın anıları var.	Te zdjęcia zawierają wspomnienia z ostatniego lata.	geçen	0	0
+Sakin olmak zorundasın.	Musisz się uspokoić.	sakin	0	0
+Beş ile üçün toplamı sekize eşittir.	Pięć plus trzy równa się osiem.	beş	0	0
+O, partilerden nefret eder.	Ona nienawidzi przyjęć.	nefret	0	0
+Her sabah 6'da onu uyandırırım.	Budzę go codziennie o 6 rano.	sabah	0	0
+Listemdeki her şeyi yaptım.	Zrobiłem wszystkie rzeczy z mojej listy.	yaptım	0	0
+Tom ve Mary haftada iki veya üç kez biftek yiyorlar.	Tom i Mary jedzą stek dwa trzy razy w tygodniu.	veya	0	0
+O sadece dikkat istiyor.	Ona tylko chce uwagi.	dikkat	0	0
+Çocuk gülmek yerine ağlıyor.	Dziecko płacze, zamiast się śmiać.	yerine	0	0
+Çabuk buraya gel!	Chodź tu szybko!	çabuk	0	0
+Avukat değilsin.	Nie jesteś adwokatem.	değilsin	0	0
+O gece ay vardı.	Była to księżycowa noc.	ay	0	0
+Sonunda kendi arabam var.	W końcu mam własny samochód.	sonunda	0	0
+Ben de bunu fark ettim.	Też to zauważyłem.	ettim	0	0
+İki teori arasında çok büyük bir fark vardır.	Między tymi dwiema teoriami jest olbrzymia różnica.	fark	0	0
+Şehrin üzerinde bir uçak uçuyor.	Nad miastem leci samolot.	üzerinde	0	0
+Tom aptal değil.	Tom nie jest głupi.	aptal	0	0
+O tamamen boyayla kaplanmıştı.	On był cały w farbie.	tamamen	0	0
+Ben beni sevmeyen insanlara oldukça alışkınım.	Jestem w miarę przyzwyczajony do osób, które nie darzą mnie sympatią.	oldukça	0	0
+Su sıcak.	Woda jest ciepła.	su	0	0
+Mum kendi kendine söndü.	Świeca sama zgasła.	kendine	0	0
+Bir damla zehir 160 insanı öldürmeye yeter.	Jedna kropla trucizny wystarczy, aby zatruć 160 osób.	yeter	0	0
+Bu dünya benim evim değildir.	Ten świat nie jest moim domem.	dünya	0	0
+Tom'u aramak için geç değil.	Nie jest za późno żeby zadzwonić do Toma.	u	0	0
+Bu programın hem indirme hem de yükleme olanakları vardır.	Ten program dostarcza zarówno możliwość pobierania jak i ładowania danych.	vardır	0	0
+Cookie'nin annesi kanserden öldü.	Mama Cookie zmarła na raka.	öldü	0	0
+Herhangi birinin bana ihtiyacı olursa burada ofisimde olacağım.	Jeśli ktoś będzie mnie potrzebował, będę tutaj w swoim biurze.	olursa	0	0
+İnsan hakları kavramının açık bir tanımına ihtiyacımız var.	Potrzebujemy jasnej definicji koncepcji praw człowieka.	açık	0	0
+Ölen annem hakkında sıkça düşünüyorum.	Często myślę o mojej zmarłej matce.	annem	0	0
+Uzun süredir sana söylemek istediğim bir şey var.	Jest coś, co już od dawna chciałem ci powiedzieć	istediğim	0	0
+Senin kızının adı nedir?	Jak ma na imię twoja córka?	adı	0	0
+Yüksek lisansını nerede yaptın?	Gdzie zrobiłaś magisterkę?	yaptın	0	0
+Bana biraz kahve yap.	Zrób mi trochę kawy.	yap	0	0
+Hangi çocuk Masao?	Który chłopiec to Masao?	hangi	0	0
+O, yirminin üzerinde olamaz.	Ona nie może mieć więcej niż dwadzieścia lat.	olamaz	0	0
+O, sık sık onu ziyaret eder, ancak asla uzun kalmaz.	Odwiedza go od czasu do czasu, jednak nigdy nie zostaje na długo.	ancak	0	0
+Dört gündür yatakta hasta.	Od czterech dni leży chory.	dört	0	0
+Ben bir lisans derecesi aldım.	Zrobiłem licencjat.	aldım	0	0
+Tom'un hiç yemeği yoktu.	Tom nie miał jedzenia.	yoktu	0	0
+Elektrikli ev aletleri ev işini daha kolay yaptı.	Elektroniczne sprzęty ułatwiły prace domowe.	kolay	0	0
+Tom fiyatı otuz dolar düşürürsem onu alacağını söyledi.	Tom powiedział że to kupi jeśli opuszczę cenę o 30 dolarów.	dolar	0	0
+O "Ben Kanada'dan geldim" dedi.	Powiedział: "Jestem z Kanady."	dedi	0	0
+O bir fotoğrafik hafızaya sahip.	On ma fotograficzną pamięć.	sahip	0	0
+Yanında kalabilir miyim? Gidecek hiçbir yerim yok.	Mogę zostać u ciebie? Nie mam dokąd pójść.	yanında	0	0
+O yarın geri gelecek.	Wróci jutro.	gelecek	0	0
+Piknik yapmak için güzel bir yer buldum.	Znalazłam ładne miejsce, żeby urządzić piknik.	buldum	0	0
+Önümde uzun bir yol var.	Przede mną długa droga.	yol	0	0
+O "Ben Kanada'dan geldim" dedi.	Powiedział: "Jestem z Kanady."	geldim	0	0
+Onunla geleceğim hakkında konuşmak istiyorum.	Chcę z nim porozmawiać o mojej przyszłości.	konuşmak	0	0
+Merak ediyordum, bu akşam benimle bir filme gitmek ister misin?	Zastanawiałem się czy chciałbyś pójść ze mną oglądąć film dzisiaj wieczorem?	gitmek	0	0
+Tren henüz varmadı.	Pociąg jeszcze nie przyjechał.	henüz	0	0
+Yaşlı adam parkta yürüyüş yapıyor.	Starszy mężczyzna przechadza się po parku.	yapıyor	0	0
+Çığ yolu kapadı.	Śnieżna lawina zablokowała drogę.	yolu	0	0
+Onların suçlamaları doğru olabilir.	Ich oskarżenia mogą być prawdziwe.	onların	0	0
+Kendisine yöneltilen sorulara cevap vermekten kaçındı.	On odmówił odpowiedzi na zadane mu pytania.	cevap	0	0
+Tom evde dinleniyor.	Tom odpoczywa w domu.	evde	0	0
+Yeni bir zaman makinesi satın almak istiyorum.	Chcę kupić nowy wehikuł czasu.	almak	0	0
+Toplantıya gitmem gerektiği konusunda onunla anlaştı.	Zgodziła się z nim, że muszę iść na spotkanie.	konusunda	0	0
+O genç bir üniversite öğrencisi.	Jest młodym studentem.	genç	0	0
+Ben unutkan oldum.	Stałem się zapominalski.	oldum	0	0
+O adamın adı Tom.	Ten mężczyzna ma na imię Tom.	adamın	0	0
+Ben muhtemelen bunu yapmaya alışabilirim.	Prawdopodobnie mogę się przyzwyczaić do robienia tego.	muhtemelen	0	0
+Tom benim adım.	Tom to moje imię.	adım	0	0
+Ondan telefon numarasını istedim.	Poprosiłam go o numer telefonu.	istedim	0	0
+Uzun süredir sana söylemek istediğim bir şey var.	Jest coś, co już od dawna chciałem ci powiedzieć	söylemek	0	0
+Ben bunun bir şaka olduğunu düşündüm.	Myślałem, że to był żart.	düşündüm	0	0
+Tom bunu üç kez yaptı.	Tom zrobił to trzy razy.	yaptı	0	0
+Lütfen bunu çevirmeme yardım eder misiniz?	Mógłbyś mi proszę, pomóc to przetłumaczyć?	eder	0	0
+Sağ olun, ben almayayım.	Dziękuję, nie trzeba.	olun	0	0
+Bu yeniden olmayacak.	To się już więcej nie powtórzy.	yeniden	0	0
+Ya hatunculuk? Hatunculuk baresinde ne düşünüyorsun?	A feminizm? Co myślisz o feminizmie?	düşünüyorsun	0	0
+Japonca konuşan herhangi bir doktor tanıyor musun?	Czy jest tu lekarz, który mówi po japońsku?	herhangi	0	0
+Onun düşük maaşı onun ev satın almasını engeller.	Jego niska pensja przeszkadza mu w zakupie domu.	ev	0	0
+Ne kadar hızlı yüzüyor	Jak ona szybko pływa!	hızlı	0	0
+Anime yönetmeni Satoshi Kon, kırk yedinci doğum gününden kısa süre önce 24 Ağustos 2010 tarihinde pankreas kanserinden öldü.	Reżyser anime Satoshi Kon zmarł na raka trzustki 24 sierpnia 2010 roku, na krótko przed jego 47 urodzinami.	süre	0	0
+Sen bununla içeri giremezsin.	Nie możesz z tym wejść do środka.	içeri	0	0
+Kan kırmızıdır.	Krew jest czerwona.	kan	0	0
+Ölen annem hakkında sıkça düşünüyorum.	Często myślę o mojej zmarłej matce.	düşünüyorum	0	0
+Güzel bir sesin olduğunu duydum.	Słyszałem, że masz piękny głos.	duydum	0	0
+Augusto benim en sevgili oğlum.	Augusto jest moim najukochańszym synem.	oğlum	0	0
+Sen de aç mısın?	Też jesteś głodny?	aç	0	0
+En yakın otobüs durağı nerede?	Gdzie jest najbliższy przystanek autobusowy?	yakın	0	0
+Anladım.	Zrozumiałam.	anladım	0	0
+John gezisine hazırlanmakla meşguldü.	John był zajęty przygotowywaniem się do wyjazdu.	john	0	0
+On, on bir, on iki, on üç, on dört, on beş, on altı, on yedi, on sekiz, on dokuz, yirmi.	Dziesięć, jedenaście, dwanaście, trzynaście, czternaście, piętnaście, szesnaście, siedemnaście, osiemnaście, dziewiętnaście, dwadzieścia.	on	0	0
+Ben şehre gidiyorum.	Idę do miasta.	gidiyorum	0	0
+Ben karda araba sürmeye alışkın değilim.	Nie jestem przyzywczajony do jazdy samochodem w śniegu.	araba	0	0
+Ben birçok gündür burada çalışıyorum.	Pracuję tu już od wielu dni.	çalışıyorum	0	0
+O yalnız olduğunu söylüyor.	Ona mówi, że jest samotna.	söylüyor	0	0
+Tom bana bir sürü tavsiye verirdi.	Tom dał mi kilka rad.	sürü	0	0
+Hepimiz korkmuştuk.	Wszyscy byliśmy przerażeni.	hepimiz	0	0
+Alo?	Halo?	alo	0	0
+Herhangi birinin bana ihtiyacı olursa burada ofisimde olacağım.	Jeśli ktoś będzie mnie potrzebował, będę tutaj w swoim biurze.	olacağım	0	0
+Tony iyi ve güçlü bir oğlandı.	Tony to dobry, silny chłopak.	güçlü	0	0
+Öğretmenimiz bize zor sorular verdi.	Nauczyciel da nam pewnie trudne zadania.	verdi	0	0
+Hiçbir şeye söz veremem fakat elimden geleni yapacağım.	Nic nie mogę obiecać, jednak zrobię co w mojej mocy.	şeye	0	0
+Hava soğumaya başladı	Ochłodziło się.	başladı	0	0
+Sonraki dersin ne?	Jaka jest twoja następna lekcja?	dersin	0	0
+İllegal bir hayat yaşıyor.	Prowadzi nielegalne życie.	hayat	0	0
+Baba çalışıyor.	Ojciec pracuje.	çalışıyor	0	0
+Sen, ne zaman onu tanımaya geldin?	Kiedy ją pan poznał?	geldin	0	0
+Merak etmeyin. O ne yaptığını bilir.	Nie martwcie się. On wie, co robi.	yaptığını	0	0
+O kravat sende gerçekten iyi duruyor.	Ten krawat naprawdę ci pasuje.	sende	0	0
+Ben evli bir adamım.	Jestem żonatym mężczyzną.	adamım	0	0
+Ben bu ikisinin arasında seçim yapmak zorundayım.	Muszę wybrać pomiędzy tymi dwoma.	arasında	0	0
+Bir arkadaşım var.	Mam przyjaciółkę.	arkadaşım	0	0
+Sana hareket etmemeni söylemiştim.	Powiedziałem ci, żebyś się nie ruszał.	hareket	0	0
+Yaşamak için sadece altı ayı var.	Zostało jej tylko sześć miesięcy życia.	altı	0	0
+Kız kardeşim yirmi bir yaşında bir üniversite öğrencisidir.	Moja siostra ma dwadzieścia jeden lat, jest studentką na uniwersytecie.	kardeşim	0	0
+Bay Wood'un hiç çocuğu yoktu.	Pan Wood nie miał żadnych dzieci.	çocuğu	0	0
+Zengin olmak acaba nasıl bir şey?	Ciekawe, jak to jest być bogatym.	acaba	0	0
+Onun paraya ihtiyacı var.	On potrzebuje pieniędzy.	ihtiyacı	0	0
+Eğer anlamıyorsan bir soru sor.	Zapytaj jeśli nie rozumiesz.	soru	0	0
+Hava nasıl?	Jaka pogoda?	hava	0	0
+Onlar çocuklarını ormanda terk etti.	Porzucili dzieci w lesie.	terk	0	0
+Tom, sonra ne olacağını bildiğini düşünüyor.	Tom myśli, że wie co się stanie.	olacağını	0	0
+Hiçbir şeye söz veremem fakat elimden geleni yapacağım.	Nic nie mogę obiecać, jednak zrobię co w mojej mocy.	yapacağım	0	0
+O her zaman randevularına vaktinde gelir.	Zawsze przychodzi o czasie na spotkania.	gelir	0	0
+Anime yönetmeni Satoshi Kon, kırk yedinci doğum gününden kısa süre önce 24 Ağustos 2010 tarihinde pankreas kanserinden öldü.	Reżyser anime Satoshi Kon zmarł na raka trzustki 24 sierpnia 2010 roku, na krótko przed jego 47 urodzinami.	kısa	0	0
+O, karısını mutlu etmeye çalıştı ama boşuna.	Próbował uszczęśliwić żonę, ale na próżno.	etmeye	0	0
+Yurt dışında dilbilimi üzerine yüksek lisans yapmak istiyorum.	Chcę zrobić magisterkę z językoznawstwa za granicą.	üzerine	0	0
+Ben bunun bir şaka olduğunu düşündüm.	Myślałem, że to był żart.	şaka	0	0
+Herhangi birinin bana ihtiyacı olursa burada ofisimde olacağım.	Jeśli ktoś będzie mnie potrzebował, będę tutaj w swoim biurze.	birinin	0	0
+Los Angeles Amerika'daki ikinci en büyük kent.	Los Angeles jest drugim największym miastem w Stanach Zjednoczonych.	daki	0	0
+Ondan telefon numarasını istedim.	Poprosiłem go o numer telefonu.	telefon	0	0
+Önceden babasına ait olan sıraya bakıyordu.	On spogląda na coś, co kiedyś było biurkiem ojca.	ait	0	0
+Yaşını gizli tutuyor.	Utrzymuje swój wiek w tajemnicy.	gizli	0	0
+Bu sadece bir oyun.	To tylko gra.	oyun	0	0
+Günün nasıl geçti?	Jak ci minął dzień?	geçti	0	0
+Bu yeniden olmayacak.	To się już więcej nie powtórzy.	olmayacak	0	0
+Yurt dışında lisans okumak istiyorum.	Chcę zrobić licencjat za granicą.	dışında	0	0
+Ben senin için uygun değilim.	Nie pasuję do ciebie.	uygun	0	0
+Tom dans etmeye başladı.	Tom zaczął tańczyć.	dans	0	0
+Günaydın!	Dzień dobry!	günaydın	0	0
+Kapıyı çaldı	Zapukał do drzwi.	kapıyı	0	0
+Bu güzel fikir.	To dobry pomysł.	fikir	0	0
+Yüksek lisansınızı nerede yaptınız?	Gdzie zrobiłyście magisterkę?	yüksek	0	0
+Balinalar balık değildir. Onlar memelilerdir.	Wieloryby nie są rybami. Są ssakami.	değildir	0	0
+Korkunç !	Urosłeś.	korkunç	0	0
+Sonra ne yapmam gerektiğini bana söyleyecek misin?	Powiesz mi, co powinienem zrobić dalej?	gerektiğini	0	0
+O, oğluna bir kamera aldı.	Ona kupiła synowi aparat.	aldı	0	0
+Tom, ayda bir kere Boston'a gider.	Tom jeździ do Bostonu raz w miesiącu.	kere	0	0
+Onlardan biri, birini katil eden kişinin rolünü oynayacak bir aktör.	Jednym z nich jest aktor, który udaje, że kogoś zabija.	eden	0	0
+Beyaz şemsiye sizin.	Biała parasolka jest Pana.	beyaz	0	0
+Yaşlı adam parkta yürüyüş yapıyor.	Starszy mężczyzna przechadza się po parku.	yaşlı	0	0
+Mümkün olduğu kadar çok çalıştım.	Pracowałem jak najciężej.	mümkün	0	0
+Onun hayatı sorun dolu.	Jego życie jest pełne problemów.	dolu	0	0
+Selam, nasılsın?	Cześć, jak się masz?	nasılsın	0	0
+Bekleyelim. Tom yakında dönecek.	Poczekajmy. Tom niedługo wróci.	yakında	0	0
+Sam Tom'dan iki yaş küçük.	Sam jest dwa lata młodszy od Toma.	sam	0	0
+Bazıları yalnızca zaman geçsin diye kitap okurlar.	Są tacy, co czytają książki tylko dla zabicia czasu.	yalnızca	0	0
+Bundan çok daha fazlasını hak ediyorsun.	Zasługujesz na wiele więcej.	ediyorsun	0	0
+Her yaz kamp yapmaya giderdim.	Jeździłem na obozy letnie.	yapmaya	0	0
+O bir doktor mu yoksa bir hasta mı?	On jest lekarzem, czy pacjentem?	hasta	0	0
+Bunu nasıl yapacağız?	Jak to zrobimy?	yapacağız	0	0
+Tom Mary'den bir kredi istedi.	Tom chciał pożyczkę od Mary.	istedi	0	0
+Hey sen, kapa çeneni!	Hey ty, zamknij się!	çeneni	0	0
+Annen nerede?	Gdzie jest twoja matka?	annen	0	0
+Sizinle kavga etmeye niyetim yok.	Nie mam zamiaru się z wami kłócić.	sizinle	0	0
+Sporu rekabet için değil zevk için yapıyorum.	Lubię uprawiać sport dla zabawy, nie dla współzawodnictwa.	yapıyorum	0	0
+Ambulansa ihtiyacın var mı?	Czy potrzebujesz karetkę?	ihtiyacın	0	0
+Benimle aynı fikirde olmayan insanlara alışkınım.	Przyzwyczaiłem się do osób, które się ze mną nie zgadzają.	olmayan	0	0
+İnsan hakları kavramının açık bir tanımına ihtiyacımız var.	Potrzebujemy jasnej definicji koncepcji praw człowieka.	ihtiyacımız	0	0
+Tom Mary'nin ne demek istediğini anladı.	Tom zrozumiał, co Mary miała na myśli.	istediğini	0	0
+O kediler hakkında deli oluyor.	On ma fioła na punkcie kotów.	deli	0	0
+Onu sen söyledin.	Ty to powiedziałaś.	söyledin	0	0
+Pardon ama radyoyu kısabilir misin acaba?	Przepraszam, czy można prosić o ściszenie radia?	pardon	0	0
+Keşke bana Tom demeye başlasan.	Chciałbym, żebyś zaczął zwracać się do mnie Tom.	keşke	0	0
+Dünyanın en iyi judokası kimdir?	Kto jest najlepszym judoką na świecie?	dünyanın	0	0
+O merdivenlerden aşağı yuvarlandı.	Spadł ze schodów.	aşağı	0	0
+İnsanlar barış istiyor.	Ludzie chcą pokoju.	İnsanlar	0	0
+Aşk onu rüyalarında görmektir.	Miłość to widzieć ją nawet we śnie.	aşk	0	0
+Sen bununla içeri giremezsin.	Nie możesz z tym wejść do środka.	bununla	0	0
+Hey sen, kapa çeneni!	Hey ty, zamknij się!	kapa	0	0
+At siyah renkli mi?	Czy ten koń jest czarny?	at	0	0
+Orijinal dilin ne olduğunu bilmem gerekiyor.	Muszę wiedzieć jaki jest oryginalny język.	bilmem	0	0
+"O senden hoşlanıyor mu?" "Hayır fakat iyi bir arkadaş ve birlikte eğleniriz."	"Podobasz mu się?" "Nie, ale jest dobrym kolegą i spędzamy razem czas.	arkadaş	0	0
+Yarın doğum günüm ve 17 yaşını bitirmiş olacağım.	Jutro będą moje urodziny i ukończę 17 lat.	doğum	0	0
+Egzersiz vücudunu kuvvetli yapar.	Ćwiczenia wzmacniają twoje ciało.	yapar	0	0
+Yavaşlamak istersen, lütfen söyle.	Jeśli chcesz zwolnić, proszę powiedz mi.	istersen	0	0
+Büyükbabanız kaç yaşında?	Ile lat ma wasz dziadek?	yaşında	0	0
+Bir kahve daha alabilir miyim, lütfen.	Czy mogłabym prosić jeszcze jedną kawę?	kahve	0	0
+İnternet bağlantım çok yavaş.	Moje połączenie internetowe jest bardzo wolne.	yavaş	0	0
+O sır sonsuza dek saklanamaz.	Nie można wiecznie trzymać tego w tajemnicy.	dek	0	0
+Yeterli mi?	Czy to wystarczy?	yeterli	0	0
+O bir sincap mıydı?	Czy to była wiewiórka?	mıydı	0	0
+Ne zamandır burada oturuyorsunuz?	Jak długo tutaj mieszkacie?	zamandır	0	0
+Kızım beni dinlemeyecek.	Moja córka nie chce mnie słuchać.	kızım	0	0
+Su sıcak.	Woda jest ciepła.	sıcak	0	0
+Atom enerjisi pahalı ve tehlikeli.	Energia jądrowa jest droga i niebezpieczna.	tehlikeli	0	0
+Tom, sonra ne olacağını bildiğini düşünüyor.	Tom myśli, że wie co się stanie.	düşünüyor	0	0
+Arkadaşlarını getir.	Przyprowadź ze sobą przyjaciół.	getir	0	0
+Bundan çok daha fazlasını hak ediyorsun.	Zasługujesz na wiele więcej.	hak	0	0
+Neden buradayım?	Dlaczego tu jestem?	buradayım	0	0
+Birçok insan anlayamadığı şeyden korkar.	Wielu ludzi boi się rzeczy których nie rozumie.	birçok	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nie chcę, żeby mój kraj stał się członkiem Unii Europejskiej.	olmasını	0	0
+O küçük bir köpek kulübesi inşa etti.	Zrobił małą psią budę.	köpek	0	0
+Dün gerçekten çok güzel bir şarkı dinledim.	Wczoraj słuchałem naprawdę cudownej piosenki.	şarkı	0	0
+Taşınıp kendi için bir yer bulmak istiyor.	Ona chce się wyprowadzić i znaleźć swoje własne miejsce.	bulmak	0	0
+Vakit nakittir.	Czas to pieniądz.	vakit	0	0
+Onu çok nadiren görüyorum.	Bardzo rzadko go widuję.	görüyorum	0	0
+Bir sonraki uçağın ne zaman geleceğini ona sor.	Zapytaj się go kiedy przyleci następny samolot.	sonraki	0	0
+Beni almaya geliyor musun?	Przyjdziesz po mnie?	almaya	0	0
+Toplantıya gitmem gerektiği konusunda onunla anlaştı.	Zgodziła się z nim, że muszę iść na spotkanie.	gitmem	0	0
+En sevdiğin film hangisi?	Jaki jest twój ulubiony film?	film	0	0
+Ona adını sor.	Zapytaj go o imię.	adını	0	0
+Senin yerinde olsam doktoru ararım.	Na twoim miejscu zadzwoniłabym do lekarza.	yerinde	0	0
+Yapmam gereken şey budur.	To jest to, co powinnam była zrobić.	yapmam	0	0
+Kyoto'yu ziyaret etmeliyim.	Powinienem odwiedzić Kyoto.	yu	0	0
+Şemsiyeni buldun mu?	Czy znalazłeś swój parasol?	buldun	0	0
+O üniversitede ikinci yılında.	Jest na drugim roku studiów.	ikinci	0	0
+Polonyalı bilim insanları Afrika'da araştırmalar yürütüyor.	Polscy naukowcy prowadzą badania w Afryce.	insanları	0	0
+Mike, uçaklar genellikle böyle mi sarsılırlar?	Mike, czy samoloty zwykle drżą w ten sposób?	mike	0	0
+Sana hareket etmemeni söylemiştim.	Powiedziałam ci, żebyś się nie ruszał.	söylemiştim	0	0
+Dünyada yedi bini aşkın dil vardır.	Na świecie jest ponad siedem tysięcy języków.	yedi	0	0
+Tom herhangi bir yardım beklemiyordu.	Tom nie oczekiwał żadnej pomocy.	tom	0	0
+Merak etmeyin. O ne yaptığını bilir.	Niech się Pan nie martwi. Ona wie, co robi.	bilir	0	0
+Her sabah 7'de kahvaltı yaparım.	Jem śniadanie codziennie o siódmej.	yaparım	0	0
+Bir kahve daha alabilir miyim, lütfen.	Czy mogłabym prosić jeszcze jedną kawę?	alabilir	0	0
+Onun yanına oturdu.	Usiadł obok niego.	yanına	0	0
+Tom onun eğlenceli olduğunu düşünmüyor.	Tom nie uważa tego za zabawne.	eğlenceli	0	0
+Dış görünüşe göre yargılamamalısın.	Nie powinieneś oceniać po wyglądzie.	görünüşe	0	0
+Ben hâlâ buradaki yemeğe alışkın değilim.	Jeszcze nie przyzwyczaiłem się do tutejszego jedzenia.	buradaki	0	0
+Örümceklerin kulakları yoktur.	Pająki nie mają uszu.	yoktur	0	0
+Öğle yemeği ister misiniz?	Czy mają Państwo ochotę na drugie śniadanie?	yemeği	0	0
+Pencereyi açıp biraz temiz hava girmesini sağlayalım.	Otwórzmy okno i wpuśćmy trochę świeżego powietrza.	temiz	0	0
+Kocama söyleme.	Nie mów mojemu mężowi.	söyleme	0	0
+Allah iyidir.	Bóg jest dobry.	allah	0	0
+Ben Chuck's Bar and Grill'de çalışırdım.	Pracowałem w Chuck's Bar and Grill.	s	0	0
+Dün akşam Tom biriyle tartışıyordu.	Wczoraj wieczorem kłócił się z Tomem.	biriyle	0	0
+Birçok insan anlayamadığı şeyden korkar.	Wielu ludzi boi się rzeczy których nie rozumie.	şeyden	0	0
+Her ne istiyorsan yiyebilirsin.	Możesz jeść wszystko co chcesz.	istiyorsan	0	0
+Yemek yerken ağzında yemekle konuşma.	Nie mów z pełnymi ustami.	konuşma	0	0
+Tom benim raporumu bekliyor.	Tom czeka na moje sprawozdanie.	bekliyor	0	0
+Ya eşcinsel olsam, bu bir suç mu?	A gdybym był gejem, to czy byłoby to przestępstwo?	suç	0	0
+Gerçeği biliyorum.	Znam prawdę.	gerçeği	0	0
+Onlardan biri, birini katil eden kişinin rolünü oynayacak bir aktör.	Jednym z nich jest aktor, który udaje, że kogoś zabija.	katil	0	0
+Augusto benim en sevgili oğlum.	Augusto jest moim najukochańszym synem.	sevgili	0	0
+Bir çatal kayıp.	Nie ma widelca.	kayıp	0	0
+Sadece Tom'u güvenli bir şekilde eve götürmek istiyorum.	Chcę tylko zawieźć Tom'a bezpiecznie do domu.	güvenli	0	0
+Yazı kışa tercih ederim.	Wolę lato, niż zimę.	tercih	0	0
+Şüphelilerin çoğu tutuklandı.	Aresztowano większość podejrzanych.	çoğu	0	0
+Terörist değiliz.	Nie jesteśmy terrorystami.	değiliz	0	0
+Sonunda, göle geldik.	W końcu, przyszliśmy nad jezioro.	geldik	0	0
+Şimdi sorumluluğu üstüme alacağım.	Teraz ja przejmę odpowiedzialność na siebie.	alacağım	0	0
+Sen bana eskiden tanıdığım birini hatırlatıyorsun.	Przypominasz mi kogoś, kogo kiedyś poznałem.	eskiden	0	0
+Onlar onu kazadan dolayı suçladılar.	Obwinili go za wypadek.	dolayı	0	0
+O sır sonsuza dek saklanamaz.	Nie można wiecznie trzymać tego w tajemnicy.	sonsuza	0	0
+Vikipedi'ye hoş geldiniz.	Witaj w Wikipedii.	geldiniz	0	0
+Bu hafta sonu küçük bir gezi yapmak istiyorum.	Chciałabym pojechać na małą wycieczkę w ten weekend.	sonu	0	0
+Aptal olma.	Nie bądź głupi.	olma	0	0
+Kırmızı gömlekli erkeğe ne denir?	Jak mówimy na mężczyznę w czerwonej koszuli?	kırmızı	0	0
+Bu evde on bir oda vardır.	W tym domu jest jedenaście pokoi.	oda	0	0
+Sen kendi işini önemsemelisin.	Powinieneś skupić się na własnej pracy.	işini	0	0
+Babamın adı Zana'dır.	Mój ojciec ma na imię Zana.	babamın	0	0
+Gerçekten soğuk!	Jest naprawdę zimno.	soğuk	0	0
+Onlardan biri, birini katil eden kişinin rolünü oynayacak bir aktör.	Jednym z nich jest aktor, który udaje, że kogoś zabija.	onlardan	0	0
+Bizden ne bekliyorsun?	Czego od nas oczekujecie?	bizden	0	0
+Felicja TV izlemeyi seviyor.	Felicja lubi oglądać telewizję.	seviyor	0	0
+Ailem şehirde yaşıyor.	Moja rodzina mieszka w mieście.	yaşıyor	0	0
+Tom gitmek istemiyor.	Tom nie chce iść.	istemiyor	0	0
+Japonca konuşan herhangi bir doktor tanıyor musun?	Czy jest tu lekarz, który mówi po japońsku?	tanıyor	0	0
+Lütfen burayı imzalayın.	Proszę tutaj podpisać.	burayı	0	0
+Şimdi gitmek zorundayım.	Muszę już iść.	zorundayım	0	0
+Sizinle kavga etmeye niyetim yok.	Nie mam zamiaru się z wami kłócić.	kavga	0	0
+Okul olanaklarımız yabancı öğrenciler için yetersizdir.	Możliwości naszej szkoły są niewystarczające dla zagranicznych studentów.	okul	0	0
+Kyoto çok güzel bir şehir.	Kioto jest pięknym miastem.	şehir	0	0
+Park etmek yasaktır.	Zakaz parkowania.	park	0	0
+İş mi arıyorsun?	Szukasz pracy?	İş	0	0
+Bu bir kapı.	To są drzwi.	kapı	0	0
+Onu kendim için yargılamak zorunda kaldım.	Sam muszę to ocenić.	kendim	0	0
+Çocuğun nerede?	Gdzie jest twoje dziecko?	çocuğun	0	0
+Onunla bir yerde buluştuğumuzu hatırlıyorum.	Pamiętam, że gdzieś już go spotkałem.	hatırlıyorum	0	0
+Benim gibi ol ve bir kadeh şarap iç.	Bądź jak ja i wypij kieliszek wina.	iç	0	0
+Lütfen sesi kısın.	Proszę, ścisz głos.	sesi	0	0
+Bu şimdiye kadar gördüğüm en güzel göl.	To jest najpiękniejsze jezioro jakie kiedykolwiek widziałem.	şimdiye	0	0
+Tom ne kadar ağır yaralandı?	Jak ciężko ranny jest Tom?	ağır	0	0
+Okula yürüyerek gitmek yarım saatimizi alıyor.	Dojście do szkoły zajmuje nam pół godziny.	yarım	0	0
+O, sık sık onu ziyaret eder, ancak asla uzun kalmaz.	Odwiedza go od czasu do czasu, jednak nigdy nie zostaje na długo.	sık	0	0
+Bu iyi bir anlaşma.	To dobry interes.	anlaşma	0	0
+İspanyolca öğrenmek istiyorum.	Chcę uczyć się hiszpańskiego.	öğrenmek	0	0
+Bunu anlıyor musun?	Rozumiesz to?	anlıyor	0	0
+O kravat sende gerçekten iyi duruyor.	Ten krawat naprawdę ci pasuje.	duruyor	0	0
+Onlar onun dakikliğinden gurur duyuyordu.	Jest dumny ze swojej skrupulatności.	gurur	0	0
+Böyle düşünüyorsan beni hiç tanımıyorsun demektir.	Jeśli tak myślisz, to znaczy, że mnie wcale nie znasz.	demektir	0	0
+At siyah renkli mi?	Czy ten koń jest czarny?	siyah	0	0
+Kalp atıyor.	Serce bije.	kalp	0	0
+Bu benim cd'm değil mi?	To moja płyta, nie?	m	0	0
+Belki Tom suçlu.	Prawdopodobnie Tom jest winny.	suçlu	0	0
+Ne yapmayı seversin?	Co lubisz robić?	yapmayı	0	0
+Beni buraya yalnız başıma getirttiler.	Kazali mi tam iść samemu.	başıma	0	0
+Cookie'nin annesi kanserden öldü.	Mama Cookie zmarła na raka.	annesi	0	0
+Resmi görebiliyor musun?	Możesz zobaczyć obrazek?	resmi	0	0
+Ben bisikletle dışarı gittim.	Pojechałem rowerem.	gittim	0	0
+Tom, ayda bir kere Boston'a gider.	Tom jeździ do Bostonu raz w miesiącu.	gider	0	0
+Gülmek zorunda kaldım.	Musiałam się śmiać.	kaldım	0	0
+Bazı kadınlar sutyen giymez.	Niektóre kobiety nie noszą staników.	kadınlar	0	0
+Bu kitap okul kütüphanesinin.	Ta książka należy do szkolnej biblioteki.	kitap	0	0
+Bize bir kelime bile söylemedi.	Nic do nas nie powiedział.	kelime	0	0
+Dünyada yedi bini aşkın dil vardır.	Na świecie jest ponad siedem tysięcy języków.	dünyada	0	0
+Bugün doğum günün.	Dziś są twoje urodziny.	günün	0	0
+Yanında kalabilir miyim? Gidecek hiçbir yerim yok.	Mogę zostać u ciebie? Nie mam dokąd pójść.	gidecek	0	0
+Ne yemek istiyorsunuz?	Co chcesz zjeść?	istiyorsunuz	0	0
+Arabayı bu caddeye park etmemelisiniz.	Nie wolno parkować na tej ulicy.	arabayı	0	0
+Bu tükenmez kalemi iki dolara satın aldım.	Kupiłem ten długopis za dwa dolary.	satın	0	0
+Zengin misin?	Jesteś bogata?	zengin	0	0
+Bira içer misiniz?	Czy pije pan piwo?	bira	0	0
+Bu çok ilginç bir kitaptır.	To jest bardzo ciekawa książka.	ilginç	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć.	sekiz	0	0
+Onun hayatı sorun dolu.	Jego życie jest pełne problemów.	hayatı	0	0
+Yalnız olmayı sevmiyorum.	Nie lubię być sama.	olmayı	0	0
+Bu altın.	To jest złoto.	altın	0	0
+Niçin gitmek istediğini anlamak zor.	Trudno jest zrozumieć, czemu chcesz iść.	niçin	0	0
+Bu yaz Danimarka'ya gideceğim.	Tego lata pojadę do Danii.	gideceğim	0	0
+Okula gitmek istemiyorum.	Nie chcę iść do szkoły.	okula	0	0
+Tom çok yaşam dolu.	Tom jest pełen życia.	yaşam	0	0
+Biz her zaman arkadaş olacağız.	Zawsze będziemy przyjaciółmi.	olacağız	0	0
+Köydeki herkesi tanıyorum.	Znam wszystkich we wsi.	herkesi	0	0
+Tom ve Mary en iyi arkadaşlardı.	Tom i Mary byli najlepszymi przyjaciółmi.	mary	0	0
+Burada güvende miyim?	Czy jestem tu bezpieczny?	güvende	0	0
+Değişiklikler yer alıyor.	Zachodzą zmiany.	alıyor	0	0
+Sigara içmek yasak.	Palenie zabronione.	sigara	0	0
+Yaşamak için sadece altı ayı var.	Zostało jej tylko sześć miesięcy życia.	yaşamak	0	0
+Tom için bir hediye almalıyım.	Muszę kupić prezent dla Toma.	hediye	0	0
+Bunu yapmama birinin yardım edip edemeyeceğini merak ediyorum.	Jestem ciekawa, czy ktoś mógłby mi pomóc to zrobić.	edip	0	0
+Önceden babasına ait olan sıraya bakıyordu.	On spogląda na coś, co kiedyś było biurkiem ojca.	önceden	0	0
+Köpekleri severim.	Uwielbiam psy.	severim	0	0
+Gök bugün mavi, bulutsuz.	Niebo dzisiaj jest niebieskie, bezchmurne.	mavi	0	0
+Ek olarak yaşlılar birbirleriyle sosyalleşebilsin ve Amerikan hayatının aktif üyeleri olarak kalabilsinler diye birçok topluluk kurulmuştur.	Ponadto stworzono wiele grup, po to, by osoby starsze mogły spotykać się ze sobą i pozostać czynnymi uczestnikami życia Ameryki.	amerikan	0	0
+Kişisel özgürlük demokrasinin ruhudur.	Wolność osobista to istota demokracji.	kişisel	0	0
+Sol elini kaldır.	Podnieś lewą rękę.	elini	0	0
+Hiçbir şeye söz veremem fakat elimden geleni yapacağım.	Nic nie mogę obiecać, jednak zrobię co w mojej mocy.	elimden	0	0
+Çok güzel bir evin var.	Masz taki piękny dom.	evin	0	0
+Onu güçlükle tanıyorum.	Ledwo go znam.	tanıyorum	0	0
+Japonya'ya geri döndü.	Wrócił do Japonii.	döndü	0	0
+Sakin olmak zorundasın.	Musisz się uspokoić.	zorundasın	0	0
+Mümkün olduğu kadar çok çalıştım.	Pracowałem jak najciężej.	çalıştım	0	0
+Üstlerine gitme.	Daj im odpocząć.	gitme	0	0
+Bu şimdiye kadar gördüğüm en güzel göl.	To jest najpiękniejsze jezioro jakie kiedykolwiek widziałem.	gördüğüm	0	0
+Balinalar balık değildir. Onlar memelilerdir.	Wieloryby nie są rybami. Są ssakami.	balık	0	0
+Ben beni sevmeyen insanlara oldukça alışkınım.	Jestem w miarę przyzwyczajony do osób, które nie darzą mnie sympatią.	insanlara	0	0
+Her yaz kamp yapmaya giderdim.	Jeździłem na obozy letnie.	yaz	0	0
+Bu Tom'un gerçekten istediği şey mi?	Czy to jest to, czego Tom naprawdę by chciał?	istediği	0	0
+Birbirimize ne yaptık?	Co zrobiliśmy sobie nawzajem?	yaptık	0	0
+Restoranımız bu restorandan daha iyidir.	Nasza restauracja jest lepsza od tej.	iyidir	0	0
+Henüz hiç kimse gelmedi, ama en 50 öğrenci bekliyoruz.	Nikt się jeszcze nie pokazał, ale oczekujemy co najmniej pięćdziesięciu studentów.	gelmedi	0	0
+Tony iyi ve güçlü bir oğlandı.	Tony to dobry, silny chłopak.	tony	0	0
+Onun böyle bir şey yapması inanılmaz.	Niewiarygodne żeby zrobił coś takiego.	inanılmaz	0	0
+Burada ders çalış.	Tu się ucz.	ders	0	0
+Onların her ikisi de sarhoş.	Oni są oboje pijani.	sarhoş	0	0
+Jane Mary'nin ona yardım edeceğini umuyor.	Jane ma nadzieję, że Mary jej pomoże.	jane	0	0
+Akşam yemeğin hazır olduğunda seni arayacağım.	Zawołam cię, kiedy obiad będzie gotowy.	olduğunda	0	0
+Hiçbir şeye söz veremem fakat elimden geleni yapacağım.	Nic nie mogę obiecać, jednak zrobię co w mojej mocy.	geleni	0	0
+O derin bir uykuya daldı.	Zapadł w głęboki sen.	derin	0	0
+Bu yiyecek çok tuzlu.	To jedzenie jest bardzo słone.	yiyecek	0	0
+Bill Gates, Microsoft'un kurucusudur.	Bill Gates jest założycielem Microsoftu.	bill	0	0
+Bugün bir yıldız gördüm.	Widziałem dzisiaj jedną gwiazdę.	yıldız	0	0
+Tom evimizi boyamamıza yardım etmeyi kabul etti.	Tom zgodził się nam pomóc pomalować dom.	etmeyi	0	0
+Seni arıyorum.	Szukam cię.	arıyorum	0	0
+İnsan, doğaya göre sosyal bir hayvandır.	Człowiek jest z natury istotą społeczną.	İnsan	0	0
+Kaza otobanda gerçekleşti.	Wypadek miał miejsce na autostradzie.	kaza	0	0
+Büyük bir ailesi var.	On ma dużą rodzinę.	ailesi	0	0
+Şimdilik amcamla birlikte kalıyorum fakat daha sonra küçük bir apartman dairesine taşınacağım.	Póki co mieszkam z wujkiem, ale później wyprowadzę się do jakiegoś małego mieszkania.	şimdilik	0	0
+İşte buradasın.	Tutaj jesteś.	buradasın	0	0
+İstasyona vardığında, annesini aradı.	Po przyjeździe na dworzec zadzwoniła do matki.	aradı	0	0
+Tom yerden kalktı.	Tom podniósł się z podłogi.	yerden	0	0
+İyi zamanlama. Ben seni yeni modelin test sürüşüne alacağım.	Świetnie! Dam ci się przejechać nowym modelem.	test	0	0
+Çocuklarım çok yaramaz.	Moje dzieci są bardzo niegrzeczne.	yaramaz	0	0
+Korkarım ki o benim talebimi reddedecek.	Boję się, że odrzuci moje podanie.	korkarım	0	0
+Bu bir hayvan.	To jest zwierzę.	hayvan	0	0
+Bir fincan çay alacaksın, değil mi?	A może filiżankę herbaty?	çay	0	0
+Mağaza kapalı.	Sklep jest zamknięty.	kapalı	0	0
+Günde en az yedi saat uyumak zorundayız.	Musimy spać co najmniej siedem godzin dziennie.	zorundayız	0	0
+Yardıma ihtiyacım var.	Potrzebuję pomocy.	yardıma	0	0
+Onun doğru olduğunu sanmıştım.	Myślałem, że to prawda.	sanmıştım	0	0
+Hep bu yoldan giderdik okula.	Chodziliśmy zawsze tędy do szkoły.	yoldan	0	0
+Ne demek istediğimi düşünüyordun?	Myślałeś, że co miałam na myśli?	istediğimi	0	0
+Yalnızca biraz zamana ihtiyacımız var.	Potrzebujemy trochę czasu na osobności.	zamana	0	0
+Sydney'in güzel bir doğal limanı vardır.	Sydney ma piękny naturalny port.	doğal	0	0
+Tom' un odası ne tarafta ?	Gdzie jest pokój Toma?	tarafta	0	0
+Mike, uçaklar genelde böyle mi sarsılırlar?	Mike, czy samoloty zwykle drżą w ten sposób?	genelde	0	0
+Kyoto'yu ziyaret etmeliyim.	Powinnam odwiedzić Kyoto.	ziyaret	0	0
+İyi akşamlar Şikago.	Witaj, Chicago!	akşamlar	0	0
+Evimizin arkasında bir park var.	Za naszym domem jest park.	arkasında	0	0
+Mark şeylerini aldı ve gitti.	Mark wziął swoje rzeczy i poszedł.	mark	0	0
+Ben Tanrı'ya inanıyorum.	Wierzę w Boga.	inanıyorum	0	0
+O çalışmak için çok yorgun.	Jest zbyt zmęczony, by się uczyć.	çalışmak	0	0
+Avukat değilsin.	Nie jesteś adwokatem.	avukat	0	0
+Bu sandalyeyi nasıl tamir edebilirim?	Chciałbym zwrócić krzesło.	edebilirim	0	0
+Saatlerdir bekliyorum.	Czekałam godzinami.	bekliyorum	0	0
+Sol elini kaldır.	Podnieś lewą rękę.	sol	0	0
+Söylemem gereken şey budur.	To jest to, co powinienem powiedzieć.	söylemem	0	0
+Bunu yapabilirsin, değil mi?	Możesz to zrobić, prawda?	yapabilirsin	0	0
+Akıllı bir adam bu şekilde hareket etmezdi.	Mądry człowiek nie postąpiłby w ten sposób.	akıllı	0	0
+O filmi çok sıkıcı buldu.	Uznał ten film za wyjątkowo nudny.	buldu	0	0
+Yatak odanı paylaştığın kıza ne oldu?	Co stało się z dziewczyną, z którą dzieliłeś pokój?	yatak	0	0
+Benim gibi ol ve bir kadeh şarap iç.	Bądź jak ja i wypij kieliszek wina.	şarap	0	0
+Bu sadece hikayenin yarısı.	To tylko połowa historii.	yarısı	0	0
+Geçen hafta burada değildim.	Nie było mnie tu w zeszłym tygodniu.	değildim	0	0
+Tom evden uzakta.	Tom jest daleko od domu.	evden	0	0
+Ben evli bir erkeğim.	Jestem żonatym mężczyzną.	evli	0	0
+Bir damla zehir 160 insanı öldürmeye yeter.	Jedna kropla trucizny wystarczy, aby zatruć 160 osób.	öldürmeye	0	0
+Kediler dünyaya hakim.	Koty rządzą światem.	dünyaya	0	0
+Günde en az yedi saat uyumak zorundayız.	Musimy spać co najmniej siedem godzin dziennie.	günde	0	0
+Senin yerinde olsam doktoru ararım.	Na twoim miejscu zadzwoniłabym do lekarza.	olsam	0	0
+Bahsi kaybettim.	Przegrałem zakład.	kaybettim	0	0
+Tom gözlerini ardına kadar açtı.	Tom szeroko otworzył oczy.	gözlerini	0	0
+Bazıları yalnızca zaman geçsin diye kitap okurlar.	Są tacy, co czytają książki tylko dla zabicia czasu.	bazıları	0	0
+Tom müziği çok sever.	Tom bardzo lubi muzykę.	sever	0	0
+Polonyalı bilim insanları Afrika'da araştırmalar yürütüyor.	Polscy naukowcy prowadzą badania w Afryce.	bilim	0	0
+Zil çalar çalmaz öğretmen sınıfa girdi.	Jak tylko zadzwonił dzwonek, nauczyciel wszedł do klasy.	girdi	0	0
+Uzun süredir sana söylemek istediğim bir şey var.	Jest coś, co już od dawna chciałem ci powiedzieć	süredir	0	0
+Merak etmeyin. O ne yaptığını bilir.	Niech się Pan nie martwi. Ona wie, co robi.	etmeyin	0	0
+Ailem şehirde yaşıyor.	Moja rodzina mieszka w mieście.	ailem	0	0
+İş mi arıyorsun?	Szukasz pracy?	arıyorsun	0	0
+Burada ders çalış.	Tu się ucz.	çalış	0	0
+Ben hâlâ buradaki yemeğe alışkın değilim.	Jeszcze nie przyzwyczaiłem się do tutejszego jedzenia.	yemeğe	0	0
+"Nasıl gitti?" "Onun akut apandisit olduğunu söylediler."	"Jak poszło?" "Mówili, że to było ostre zapalenie wyrostka robaczkowego."	söylediler	0	0
+Aradım ama onu bulmadım.	Szukałam, ale jej nie znalazłam.	aradım	0	0
+Japonca konuşuyor musun?	Czy mówisz po japońsku?	konuşuyor	0	0
+Sonra ne yapmam gerektiğini bana söyleyecek misin?	Powiesz mi, co powinienem zrobić dalej?	söyleyecek	0	0
+Onlardan biri, birini katil eden kişinin rolünü oynayacak bir aktör.	Jednym z nich jest aktor, który udaje, że kogoś zabija.	kişinin	0	0
+Okul olanaklarımız yabancı öğrenciler için yetersizdir.	Możliwości naszej szkoły są niewystarczające dla zagranicznych studentów.	yabancı	0	0
+Bu köprü on tondan fazlasını taşıyamaz.	Ten most ma nośność tylko dziesięć ton.	fazlasını	0	0
+Onun ne söylemeye çalıştığını anlamak bir süremi aldı.	Zajęło mi chwilę, zanim zrozumiałem, co próbowała powiedzieć.	söylemeye	0	0
+Bu, Almanca yazdığım ilk mektup.	To pierwszy list, który napisałem po niemiecku.	mektup	0	0
+O onu elinden öptü.	Pocałował ją w rękę.	elinden	0	0
+Bu gemi okyanus yolculuğu için uygun değil.	Ten statek nie nadaje się do podróży oceanicznych.	gemi	0	0
+Onların her ikisi de sarhoş.	Oni są oboje pijani.	ikisi	0	0
+Zor durumlarla başa çıkamıyor.	On nie umie sobie radzić z trudnymi sytuacjami.	başa	0	0
+Fiyatları aniden düştü.	Ceny nagle spadły.	düştü	0	0
+O filmi çok sıkıcı buldu.	Uznał ten film za wyjątkowo nudny.	sıkıcı	0	0
+Tom Mary'ye kızgın değil.	Tom nie jest wściekły na Mary.	kızgın	0	0
+Öğle yemeği ister misiniz?	Czy mają Państwo ochotę na drugie śniadanie?	öğle	0	0
+Senin yerinde olsam doktoru ararım.	Na twoim miejscu zadzwoniłabym do lekarza.	ararım	0	0
+Onun yüzünü hatırlayabiliyorum ama onun adını hatırlayamıyorum.	Mogę przypomnieć sobie jego twarz, ale nie przypominam sobie jego imienia.	yüzünü	0	0
+Bir şey söylemedim.	Nic nie powiedziałem.	söylemedim	0	0
+Onunla geleceğim hakkında konuşmak istiyorum.	Chcę z nią porozmawiać o mojej przyszłości.	geleceğim	0	0
+Hayattaki yegâne hedef para kazanmak değildir.	Zarabianie pieniędzy to nie jest jedyny cel życia.	hedef	0	0
+Ben bu ikisinin arasında seçim yapmak zorundayım.	Muszę wybrać pomiędzy tymi dwoma.	seçim	0	0
+Gece yağmur yağacak zannedildi.	Wieczorem może padać.	yağmur	0	0
+Oğluna büyük bir servet bıraktı.	Zostawił ogromną fortunę synowi.	bıraktı	0	0
+Bir hesap açın.	Otwórz konto.	açın	0	0
+Tom, Mary'nin meşgul gibi göründüğünü söyledi.	Tom powiedział, że Mary wyglądała na zajętą.	meşgul	0	0
+Bir saatte geri döneceğim.	Wrócę za godzinę.	saatte	0	0
+İnsanların söylediği şey bu.	To jest to, co mówią ludzie.	İnsanların	0	0
+Tom'a sor.	Zapytaj Toma.	sor	0	0
+O, ailesine utanç getirdi.	Przyniosła wstyd swojej rodzinie.	getirdi	0	0
+Hava çok iyiydi.	Pogoda była bardzo dobra.	iyiydi	0	0
+Siz kız kardeş misiniz?	Jesteście siostrami?	kardeş	0	0
+Sporu rekabet için değil zevk için yapıyorum.	Lubię uprawiać sport dla zabawy, nie dla współzawodnictwa.	zevk	0	0
+O bunun için sorumlu.	On jest za to odpowiedzialny.	sorumlu	0	0
+Tom evden uzakta.	Tom jest daleko od domu.	uzakta	0	0
+Tom spor salonuna gitti.	Tom poszedł do siłowni.	spor	0	0
+Tom cep fenerini açtı.	Tom zaświecił latarkę.	cep	0	0
+Sol elini kaldır.	Podnieś lewą rękę.	kaldır	0	0
+Yapmam gereken şey budur.	To jest to, co powinnam była zrobić.	budur	0	0
+Birbirimize ne yaptık?	Co zrobiliśmy sobie nawzajem?	birbirimize	0	0
+Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.	Jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć.	dokuz	0	0
+Tom' un odası ne tarafta ?	Gdzie jest pokój Toma?	odası	0	0
+Her şey bu cevaba işaret ediyordu.	Wszystko wskazywało na tę odpowiedź.	işaret	0	0
+O filmi çok sıkıcı buldu.	Uznał ten film za wyjątkowo nudny.	filmi	0	0
+Bu sandalyeyi nasıl tamir edebilirim?	Chciałbym zwrócić krzesło.	tamir	0	0
+Şehrin üzerinde bir uçak uçuyor.	Nad miastem leci samolot.	uçak	0	0
+Bu odada hiç sandalye yok.	W tym pokoju nie ma krzeseł.	odada	0	0
+O bir kuş.	To jest ptak.	kuş	0	0
+Oo bakıyorum da hızlısın.	Oh wow, szybka jesteś.	bakıyorum	0	0
+Kedi bir insan değildir.	Kot to nie człowiek.	kedi	0	0
+İkimiz de yazarlarız.	Oboje jesteśmy pisarzami.	İkimiz	0	0
+Bu ilaç senin daha iyi hissetmeni sağlayacak.	To lekarstwo spowoduje, że szybciej poczujesz się lepiej.	ilaç	0	0
+Ben Çingene şarkıları söylerim.	Śpiewam cygańskie piosenki.	söylerim	0	0
+Yatak odanı paylaştığın kıza ne oldu?	Co stało się z dziewczyną, z którą dzieliłeś pokój?	kıza	0	0
+Bir saatte geri döneceğim.	Wrócę za godzinę.	döneceğim	0	0
+O, bir polis devriyesi görünce kaçtı.	Uciekł jak zobaczył patrol policji.	kaçtı	0	0
+Bir sonraki uçağın ne zaman geleceğini ona sor.	Zapytaj się go kiedy przyleci następny samolot.	geleceğini	0	0
+O sır sonsuza dek saklanamaz.	Nie można wiecznie trzymać tego w tajemnicy.	sır	0	0
+Dün gece kiminle birlikteydin?	Z kim byłeś zeszłej nocy?	kiminle	0	0
+Tom bana bir sürü tavsiye verirdi.	Tom dał mi kilka rad.	tavsiye	0	0
+Pazar haftanın ilk günüdür.	Niedziela jest pierwszym dniem tygodnia.	pazar	0	0
+Onun erkek kardeşi Kensaku şu an Brezilya'da.	Jej brat Kensaku jest teraz w Brazylii.	kardeşi	0	0
+Bana kitabı ver.	Daj mi tę książkę.	kitabı	0	0
+Hiçbir şeye söz veremem fakat elimden geleni yapacağım.	Nic nie mogę obiecać, jednak zrobię co w mojej mocy.	veremem	0	0
+Tom enerji dolu.	Tom jest pełen energii.	enerji	0	0
+En sevdiğin film hangisi?	Jaki jest twój ulubiony film?	hangisi	0	0
+Tom meşgul görünmeye çalıştı.	Tom próbował wyglądać na zajętego.	çalıştı	0	0
+Tom bizim çalışanlarımızdan biriydi.	Tom był jednym z naszych pracowników.	biriydi	0	0
+Bu hafta okulda bir Almanca testim var.	W tym tygodniu mam w szkole test z niemieckiego.	okulda	0	0
+Beni kim gördü.	Kto mnie widział?	gördü	0	0
+Annemi seviyorum.	Kocham swoją matkę.	annemi	0	0
+İnsanlar barış istiyor.	Ludzie chcą pokoju.	barış	0	0
+Kar yağıyordu.	Padał śnieg.	kar	0	0
+İnsanların söylediği şey bu.	To jest to, co mówią ludzie.	söylediği	0	0
+Hayattaki yegâne hedef para kazanmak değildir.	Zarabianie pieniędzy to nie jest jedyny cel życia.	kazanmak	0	0
+Los Angeles Amerika'daki ikinci en büyük kent.	Los Angeles jest drugim największym miastem w Stanach Zjednoczonych.	los	0	0
+Tom yıllardır Mary ile konuşmuyor.	Tom nie rozmawia z Mary od lat.	yıllardır	0	0
+Ek olarak yaşlılar birbirleriyle sosyalleşebilsin ve Amerikan hayatının aktif üyeleri olarak kalabilsinler diye birçok topluluk kurulmuştur.	Ponadto stworzono wiele grup, po to, by osoby starsze mogły spotykać się ze sobą i pozostać czynnymi uczestnikami życia Ameryki.	hayatının	0	0
+Bütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler ve birbirlerine karşı kardeşlik zihniyeti ile hareket etmelidirler.	Wszystkie istoty ludzkie rodzą się wolne i równe w godności i prawach. Są one obdarzone rozumem i sumieniem oraz powinny postępować w stosunku do siebie wzajemnie w duchu braterstwa.	akıl	0	0
+Onun ne söylemeye çalıştığını anlamak bir süremi aldı.	Zajęło mi chwilę, zanim zrozumiałem, co próbowała powiedzieć.	çalıştığını	0	0
+Bir şey söylemedi.	Nic nie powiedziała.	söylemedi	0	0
+Ödül parası dünya gezisine gitmeme olanak sağladı.	Pieniądze z nagrody umożliwiły mi podróż po świecie.	parası	0	0
+Fransa Batı Avrupa'dadır.	Francja znajduje się w Europie Zachodniej.	batı	0	0
+Bir damla zehir 160 insanı öldürmeye yeter.	Jedna kropla trucizny wystarczy, aby zatruć 160 osób.	insanı	0	0
+Sen çirkin değilsin.	Nie jesteś brzydka.	çirkin	0	0
+Kilo vermekte sorun yaşıyor musun?	Czy masz problem ze zrzuceniem wagi ?	kilo	0	0
+O çok sıcak. Ona dokunma.	To jest bardzo gorące. Nie dotykaj tego.	dokunma	0	0
+İnsan, doğaya göre sosyal bir hayvandır.	Człowiek jest z natury istotą społeczną.	sosyal	0	0
+Tom Mary'den bir kredi istedi.	Tom chciał pożyczkę od Mary.	kredi	0	0
+O, oğluna bir kamera aldı.	Ona kupiła synowi aparat.	kamera	0	0
+Kızını yurt dışına gönderdi.	Wysłał córkę za granicę.	gönderdi	0	0
+Tom şimdi TV izlemiyor.	Tom nie ogląda teraz telewizji.	tv	0	0
+Ben Chuck's Bar and Grill'de çalışırdım.	Pracowałem w Chuck's Bar and Grill.	and	0	0
+Doktor, Hipokrat Yemini'ni çiğnedi.	Lekarz złamał przysięgę Hipokratesa.	ni	0	0
+Biz güzel bir şehirde yaşıyoruz.	Żyjemy w pięknym mieście.	şehirde	0	0
+Fransa Batı Avrupa'dadır.	Francja znajduje się w Europie Zachodniej.	fransa	0	0
+Hiç şansın olmayacak.	Nie ma szans.	şansın	0	0
+Fiyatları aniden düştü.	Ceny nagle spadły.	aniden	0	0
+O küçük bir köpek kulübesi inşa etti.	Zrobił małą psią budę.	inşa	0	0
+Tom başka bir kadınla görüşüyor, değil mi?	Tom spotyka się z inną kobietą, prawda?	kadınla	0	0
+Mutlaka Ferrara ve Ravenna'ya bir gezi yapmanı öneririm.	Zdecydowanie polecam wybrać się na wycieczkę do Ferrary i Rawenny.	mutlaka	0	0
+Bu akşam televizyon izleyebilir miyim?	Czy mogę dziś wieczorem oglądać telewizję?	televizyon	0	0
+Ben Tom'un yeni saç stiline alışıyorum.	Przyzwyczajam się do nowej fryzury Toma.	saç	0	0
+Los Angeles Amerika'daki ikinci en büyük kent.	Los Angeles jest drugim największym miastem w Stanach Zjednoczonych.	angeles	0	0
+Onlar kötü kokuyor.	One brzydko pachną.	kokuyor	0	0
+Bana ne getirdin?	Co dla mnie przyniosłeś?	getirdin	0	0
+Onun düşük maaşı onun ev satın almasını engeller.	Jego niska pensja przeszkadza mu w zakupie domu.	düşük	0	0
+Bazı ilaçlar almam gerekiyor.	Muszę wziąć leki.	almam	0	0
+O benim hatam, senin değil.	To moja wina, nie twoja.	hatam	0	0
+Tom nedenini bilmeyecek.	Tom nie będzie znał powodu.	nedenini	0	0
+Bu ülke kültürel açıdan gelişmiş	Ten kraj rozwinął się kulturalnie.	ülke	0	0
+Tren yolcularla doluydu.	W pociągu pełno było pasażerów.	tren	0	0
+Akşam yemeğin hazır olduğunda seni arayacağım.	Zawołam cię, kiedy obiad będzie gotowy.	arayacağım	0	0
+Merak ediyordum, bu akşam benimle bir filme gitmek ister misin?	Zastanawiałem się czy chciałbyś pójść ze mną oglądąć film dzisiaj wieczorem?	ediyordum	0	0
+Her sabah 7'de kahvaltı yaparım.	Jem śniadanie codziennie o siódmej.	kahvaltı	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nie chcę, żeby mój kraj stał się członkiem Unii Europejskiej.	avrupa	0	0
+O, ailesine utanç getirdi.	Przyniosła wstyd swojej rodzinie.	utanç	0	0
+Müdahale etmeliyiz.	Musimy interweniować.	etmeliyiz	0	0
+Şehrin üzerinde bir uçak uçuyor.	Nad miastem leci samolot.	şehrin	0	0
+Yüksek lisansınızı nerede yaptınız?	Gdzie zrobiliście magisterkę?	yaptınız	0	0
+Tom bir taksi şoförü.	Tom jest taksówkarzem.	taksi	0	0
+Ona kitabı iade etmelisin.	Powinnaś oddać mu książkę.	etmelisin	0	0
+Ozon tabakası olmasa, tehlikede oluruz.	Gdyby nie warstwa ozonowa, bylibyśmy w bezpośrednim niebezpieczeństwie.	oluruz	0	0
+Onun paraya ihtiyacı var.	Ona potrzebuje pieniędzy.	paraya	0	0
+Kız kardeşim yirmi bir yaşında bir üniversite öğrencisidir.	Moja siostra ma dwadzieścia jeden lat, jest studentką na uniwersytecie.	yirmi	0	0
+Tom tam köşedeki pahalı bir restoranda suşi yedi.	Tom jadł sushi w drogiej restauracji za rogiem.	pahalı	0	0
+Şehirde yaşıyorum.	Mieszkam w mieście.	yaşıyorum	0	0
+Genellikle saat altıda kalkarım.	Zazwyczaj wstaję o szóstej.	genellikle	0	0
+Bana bu sözlüğü verebilir misiniz?	Czy mogłabyś podać mi słownik?	verebilir	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nie chcę, żeby mój kraj stał się członkiem Unii Europejskiej.	üyesi	0	0
+O, bir polis devriyesi görünce kaçtı.	Uciekł jak zobaczył patrol policji.	görünce	0	0
+Ozon tabakası olmasa, tehlikede oluruz.	Gdyby nie warstwa ozonowa, bylibyśmy w bezpośrednim niebezpieczeństwie.	olmasa	0	0
+Günün çoğunu hastanede geçirdi.	Większą część dnia spędziła w szpitalu.	hastanede	0	0
+Kendisine yöneltilen sorulara cevap vermekten kaçındı.	On odmówił odpowiedzi na zadane mu pytania.	kendisine	0	0
+Onun böyle bir şey yapması inanılmaz.	Niewiarygodne żeby zrobił coś takiego.	yapması	0	0
+Sağlıklı ol!	Bądź zdrowa!	sağlıklı	0	0
+Ödül parası dünya gezisine gitmeme olanak sağladı.	Pieniądze z nagrody umożliwiły mi podróż po świecie.	ödül	0	0
+O benim de düşündüğüm şey!	Myślałam o tym samym.	düşündüğüm	0	0
+Telefonda konuştuğunu duydum.	Słyszałam jak rozmawiałeś przez telefon.	telefonda	0	0
+Bu bir onur.	To jest honor.	onur	0	0
+Bunu senin gözlerinde görebiliyorum.	Mogę to zobaczyć w twoich oczach.	görebiliyorum	0	0
+Ölümden korkan bir adamsın, değil mi?	Jesteś człowiekiem, który boi się śmierci, czyż nie?	adamsın	0	0
+Kyoto'yu ziyaret etmeliyim.	Powinienem odwiedzić Kyoto.	etmeliyim	0	0
+Sigara içmek yasak.	Palenie zabronione.	yasak	0	0
+Sigara içmek yasak.	Palenie zabronione.	içmek	0	0
+Henüz hiç kimse gelmedi, ama en 50 öğrenci bekliyoruz.	Nikt się jeszcze nie pokazał, ale oczekujemy co najmniej pięćdziesięciu studentów.	öğrenci	0	0
+Hava atmak için benimle İngilizce konuştu.	Rozmawiał ze mną po angielsku żeby się popisać.	atmak	0	0
+Bizden ne bekliyorsun?	Czego od nas oczekujecie?	bekliyorsun	0	0
+Sen bana eskiden tanıdığım birini hatırlatıyorsun.	Przypominasz mi kogoś, kogo kiedyś poznałem.	tanıdığım	0	0
+O, babasının ölümünden sonra işle ilgilendi.	Przejął biznes ojca po jego śmierci.	babasının	0	0
+Her şey bu cevaba işaret ediyordu.	Wszystko wskazywało na tę odpowiedź.	ediyordu	0	0
+Yaşamak için sadece altı ayı var.	Zostało jej tylko sześć miesięcy życia.	ayı	0	0
+O yabancı ülkelerde seyahat etti.	Podróżowała za granicę.	seyahat	0	0
+Kızını yurt dışına gönderdi.	Wysłał córkę za granicę.	dışına	0	0
+İngilizce telaffuzumu geliştirmek istiyorum.	Chciałbym poprawić moją wymowę angielską.	İngilizce	0	0
+Geniş bir ailesi var.	On ma dużą rodzinę.	geniş	0	0
+Dağlarda bir evim var.	Mam domek w górach.	evim	0	0
+Odaya girdiğimi uyarmak için Tom ve Mary birbirlerine bağıramayacak kadar çok meşguldü.	Tom i Mary byli tak zajęci wrzeszczeniem na siebie, że nie zauważyli jak wszedłem do pokoju.	odaya	0	0
+Açıklama için zamanım yok.	Nie mam czasu na wyjaśnienia.	zamanım	0	0
+Dün alışveriş merkezine gittim.	Poszłam wczoraj do centrum handlowego.	alışveriş	0	0
+Kediler dünyaya hakim.	Koty rządzą światem.	hakim	0	0
+Bu bardak temiz.	Ta szklanka jest czysta.	bardak	0	0
+Evimin karşısında bir kitapçı var.	Przed moim domem jest księgarnia.	karşısında	0	0
+Toplantı nasıl geçti?	Jak poszło spotkanie?	toplantı	0	0
+Bütün arkadaşlarım onu seviyor.	Wszyscy moi przyjaciele go lubią.	arkadaşlarım	0	0
+Şikayet etmeni dinlemek istemiyorum.	Nie chcę słuchać twojego narzekania.	dinlemek	0	0
+En sevdiğin film hangisi?	Jaki jest twój ulubiony film?	sevdiğin	0	0
+Tom ve Mary haftada iki veya üç kez biftek yiyorlar.	Tom i Mary jedzą stek dwa trzy razy w tygodniu.	haftada	0	0
+Sam Tom'dan iki yaş küçük.	Sam jest dwa lata młodszy od Toma.	yaş	0	0
+Şehre ekmek almaya gidiyorum.	Idę do miasta kupić chleb.	ekmek	0	0
+Takdir edilmek güzel.	Miło jest być docenionym.	takdir	0	0
+Onlar bu meyvenin senin sağlığın için iyi olduğunu söylüyorlar.	Mówią że ten owoc jest dobry dla twojego zdrowia.	söylüyorlar	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nie chcę, żeby mój kraj stał się członkiem Unii Europejskiej.	birliği	0	0
+O, telefonuna cevap vermiyor.	Nie odbiera telefonu.	vermiyor	0	0
+Anderson köpeklerden çok korkuyor.	Anderson bardzo boi się psów.	korkuyor	0	0
+Sizler bira içer misiniz?	Pijecie piwo?	sizler	0	0
+Şehre gidiyorum.	Idę do miasta.	şehre	0	0
+Başım gerçekten ağrıyor.	Naprawdę boli mnie głowa.	başım	0	0
+Dört gündür yatakta hasta.	Od czterech dni leży chory.	gündür	0	0
+O bile beni anlamıyor.	Nawet ona mnie nie rozumie.	anlamıyor	0	0
+Kalbim var.	Mam serce.	kalbim	0	0
+Ölen annem hakkında sıkça düşünüyorum.	Często myślę o mojej zmarłej matce.	ölen	0	0
+Telefon, onsuz yapamayacağın bir şeydir.	Telefon to coś, bez czego nie sposób się obejść.	şeydir	0	0
+Onların makalelerine yorum yapmıyorum.	Nie komentuję ich artykułów.	yapmıyorum	0	0
+O yumuşak.	To jest miękkie.	yumuşak	0	0
+Odaya parfüm kokusu yayıldı.	Pokój był przesycony zapachem perfum.	kokusu	0	0
+Birkaç açıklama ekleyeceğim.	Dodam kilka objaśnień.	açıklama	0	0
+Aklınıza bir şey gelirse lütfen bizi bilgilendirin.	Jeśli przyjdzie ci coś do głowy, proszę poinformuj nas o tym.	gelirse	0	0
+Birkaç değişiklik yaptım.	Wprowadziłem kilka zmian.	değişiklik	0	0
+Onun bir kedisi ve iki köpeği var.	On ma kota i dwa psy.	köpeği	0	0
+Beni nereden tanıyorsun?	Skąd mnie znasz?	tanıyorsun	0	0
+Korkma.	Nie lękaj się.	korkma	0	0
+Onun görüşüne katılıyorum.	Podzielam jego zdanie.	katılıyorum	0	0
+Bu bir ağaç.	To jest drzewo.	ağaç	0	0
+Bir fincan çay alacaksın, değil mi?	A może filiżankę herbaty?	alacaksın	0	0
+Dış görünüşe göre yargılamamalısın.	Nie powinieneś oceniać po wyglądzie.	dış	0	0
+Toplantıya gitmem gerektiği konusunda onunla anlaştı.	Zgodziła się z nim, że muszę iść na spotkanie.	gerektiği	0	0
+Tom, sonra ne olacağını bildiğini düşünüyor.	Tom myśli, że wie co się stanie.	bildiğini	0	0
+Şaka yapıyordum.	Żartowałem.	yapıyordum	0	0
+Tom'u aramak için şu an geç değil.	Nie jest za późno żeby zadzwonić do Toma.	aramak	0	0
+Yazı kışa tercih ederim.	Wolę lato, niż zimę.	yazı	0	0
+Tatoeba'nı yeni versiyonu, insanları eklemeye ve onlarda redaksiyon yapmaya olanak sağlayacak!	Nowa wersja Tatoeba dostarcza możliwość dodawania osób i redagowania tekstu.	nı	0	0
+"Ne oldu?" "Hoparlörler iyi çalışmıyor."	"Co się stało" "Głośniki nie działają dobrze"	çalışmıyor	0	0
+Lütfen ben köpeği muayene ederken onu sakinleştirin.	Proszę uspokoić psa, kiedy go będę badał.	ederken	0	0
+Bir hesap açın.	Otwórz konto.	hesap	0	0
+Babam bana yatakta kitap okumamamı söyledi.	Ojciec zabronił mi czytać książki w łóżku.	yatakta	0	0
+Tom her pazartesi tenis oynardı.	Tom grał w tenisa w każdy poniedziałek.	pazartesi	0	0
+Caddede yüzlerce araba vardı.	Na ulicy było kilkaset samochodów.	yüzlerce	0	0
+Bu sabah duş aldım.	Wzięłam dziś rano prysznic.	duş	0	0
+Günün çoğunu hastanede geçirdi.	Większą część dnia spędziła w szpitalu.	geçirdi	0	0
+Bugün kötü hava bekliyoruz.	Dzisiaj oczekujemy złej pogody.	bekliyoruz	0	0
+Çok daha fazla bekliyordum.	Oczekiwałam o wiele więcej.	bekliyordum	0	0
+Niçin gitmek istediğini anlamak zor.	Trudno jest zrozumieć, czemu chcesz iść.	anlamak	0	0
+Öğretmenimiz bize zor sorular verdi.	Nauczyciel da nam pewnie trudne zadania.	sorular	0	0
+O çalışmak için çok yorgun.	Jest zbyt zmęczony, by się uczyć.	yorgun	0	0
+Tom bugün dönecek.	Tom wróci dzisiaj.	dönecek	0	0
+Mutlaka Ferrara ve Ravenna'ya bir gezi yapmanı öneririm.	Zdecydowanie polecam wybrać się na wycieczkę do Ferrary i Rawenny.	yapmanı	0	0
+Sen nerede yaşıyorsun?	Gdzie mieszkasz?	yaşıyorsun	0	0
+Kimse bir defada iki şeyi yapamaz.	Nikt nie może zrobić dwóch rzeczy na raz.	yapamaz	0	0
+Yaşını gizli tutuyor.	Utrzymuje swój wiek w tajemnicy.	tutuyor	0	0
+Bugün rüzgar yok.	Nie ma dziś wiatru.	rüzgar	0	0
+Seni tanıyor gibiyim.	Skądś Cię znam.	gibiyim	0	0
+Bu ülke kültürel açıdan gelişmiş	Ten kraj rozwinął się kulturalnie.	açıdan	0	0
+Ofisim beşinci katta bulunuyor.	Moje biuro znajduje się na piątym piętrze.	katta	0	0
+Bu bilet iki hafta için geçerlidir.	Ten bilet jest ważny przez dwa miesiące.	bilet	0	0
+O, iyi biridir.	To dobry człowiek.	biridir	0	0
+Buna alışmak biraz sürecek.	Przyzwyczajenie się do tego trochę zajmie.	sürecek	0	0
+Yetişeceğim bir otobüs var.	Muszę złapać autobus.	otobüs	0	0
+Kapıyı çaldı	Zapukał do drzwi.	çaldı	0	0
+Kişisel özgürlük demokrasinin ruhudur.	Wolność osobista to istota demokracji.	özgürlük	0	0
+Bu bir masa.	To jest stół.	masa	0	0
+Zil çalar çalmaz öğretmen sınıfa girdi.	Jak tylko zadzwonił dzwonek, nauczyciel wszedł do klasy.	öğretmen	0	0
+Şikayet etmeni dinlemek istemiyorum.	Nie chcę słuchać twojego narzekania.	şikayet	0	0
+Dünyada yedi bini aşkın dil vardır.	Na świecie jest ponad siedem tysięcy języków.	aşkın	0	0
+Bay Jones ofiste mi?	Czy Pan Jones jest w biurze?	jones	0	0
+Bir müşteri ile birlikteyim.	Jestem z klientem.	müşteri	0	0
+O genç bir üniversite öğrencisi.	Jest młodą studentką.	üniversite	0	0
+Sen evini satacaksın.	Sprzedasz swój dom.	evini	0	0
+Onu hastanenin içerisine aldılar.	Przyjęli ją do szpitala.	aldılar	0	0
+Onun gerçek arkadaşları yok.	Nie ma prawdziwych przyjaciół.	arkadaşları	0	0
+Benim gibi ol ve bir kadeh şarap iç.	Bądź jak ja i wypij kieliszek wina.	kadeh	0	0
+Bütün dağ sonbaharda renk değiştirir.	Cała góra zmienia jesienią kolor.	renk	0	0
+Maç için iki tane biletim var.	Mam dwa bilety na mecz.	maç	0	0
+Tom emekli.	Tom jest na emeryturze.	emekli	0	0
+Kırmızı gömlekli erkeğe ne denir?	Jak mówimy na mężczyznę w czerwonej koszuli?	denir	0	0
+Üç çocuk parkta oynuyor.	Trójka dzieci bawi się w parku.	oynuyor	0	0
+Onun bunu gördüğünü umuyorum.	Mam nadzieję, że to zobaczy.	gördüğünü	0	0
+Tom'un masasında bir yığın çizgi roman var.	Na biurku Toma jest stos komiksów.	çizgi	0	0
+Senden başka hiç kimse beni mutlu edemez.	Nikt poza Tobą nie może mnie uszczęśliwić.	edemez	0	0
+Sadece Tom'u güvenli bir şekilde eve götürmek istiyorum.	Chcę tylko zawieźć Tom'a bezpiecznie do domu.	götürmek	0	0
+Ozon tabakası olmasa, tehlikede oluruz.	Gdyby nie warstwa ozonowa, bylibyśmy w bezpośrednim niebezpieczeństwie.	tehlikede	0	0
+Ben Chuck's Bar and Grill'de çalışırdım.	Pracowałem w Chuck's Bar and Grill.	bar	0	0
+Bu bir oyuncak değil!	To nie jest zabawka!	oyuncak	0	0
+İstasyondan otele bir taksi tuttum	Z dworca do hotelu pojechałem taksówką.	tuttum	0	0
+Yaşayacağımızı umuyorum.	Mam nadzieję, że przetrwamy.	umuyorum	0	0
+Bunu beğendim.	Podobało mi się to.	beğendim	0	0
+Her ülkenin kendi bayrağı vardır.	Każdy kraj ma swoją flagę.	ülkenin	0	0
+Alfabeyi tersten oku.	Powiedz alfabet od tyłu.	oku	0	0
+Tom herhangi bir ağrı kesici ilaç istemedi.	Tom nie chciał nic przeciwbólowego.	istemedi	0	0
+Bunu yapmadan önce düşünün.	Pomyśl zanim to zrobisz.	düşünün	0	0
+O, sık sık onu ziyaret eder, ancak asla uzun kalmaz.	Odwiedza go od czasu do czasu, jednak nigdy nie zostaje na długo.	kalmaz	0	0
+Ya eşcinsel olsam, bu bir suç mu?	A gdybym był gejem, to czy byłoby to przestępstwo?	eşcinsel	0	0
+Yanında kalabilir miyim? Gidecek hiçbir yerim yok.	Mogę zostać u ciebie? Nie mam dokąd pójść.	yerim	0	0
+Salata sevmiyorum.	Nie lubię sałatki.	sevmiyorum	0	0
+Bilimci araştırmaya devam etmekte ısrar etti.	Naukowiec nalegał, aby kontynuować badania.	ısrar	0	0
+En yakın tuvalet nerede?	Gdzie jest najbliższa toaleta?	tuvalet	0	0
+Kalp atıyor.	Serce bije.	atıyor	0	0
+Onlar şarkı söylemeyi sever.	Oni kochają śpiewać.	söylemeyi	0	0
+Işığı açmak ister misin?	Chcesz zapalić światło?	açmak	0	0
+O orada ne yapıyordu?	Co on tam robił?	yapıyordu	0	0
+Ben bu daireyi seviyorum. Yer iyi ve ayrıca, kira çok yüksek değil.	Podoba mi się to mieszkanie. Lokalizacja jest dobra, a poza tym czynsz nie jest bardzo wysoki.	kira	0	0
+Kulübe katılmak isteyenler lütfen buraya isimlerini yazsın.	Chętni do wstąpienia do klubu proszeni są o wpisanie się tutaj.	katılmak	0	0
+Ben eskisi kadar iyi bir şoför değilim.	Nie jestem tak dobrym kierowcą jak kiedyś.	eskisi	0	0
+O bana yardım edeceğini söyledi.	Powiedział, że mi pomoże.	edeceğini	0	0
+Roman beş dilde okunabilir.	Powieść można przeczytać w pięciu językach.	roman	0	0
+Masanın üstündeki hesap makinesi benim.	Kalkulator na stole jest mój.	makinesi	0	0
+İngilizceyi nerede öğrendin?	Gdzie nauczyłeś się angielskiego?	öğrendin	0	0
+Ormanda yürüyüşe çıktık.	Poszliśmy na spacer do lasu.	ormanda	0	0
+Ben plaja gitmeyi severdim.	Kochałam chodzić na plażę.	gitmeyi	0	0
+Sana inanmak zor.	Ciężko ci uwierzyć.	inanmak	0	0
+Keşke bana Tom demeye başlasan.	Chciałbym, żebyś zaczął zwracać się do mnie Tom.	demeye	0	0
+Babam işe arabayla gider.	Ojciec jeździ do pracy samochodem.	arabayla	0	0
+İlham vermedi mi?	Niezainspirowany?	vermedi	0	0
+Çok paran var.	Masz dużo pieniędzy.	paran	0	0
+Tom müziği çok sever.	Tom bardzo lubi muzykę.	müziği	0	0
+Modern Avrupalılar ve Amerikalılar çok benzerler.	Współcześni Europejczycy i Amerykanie są bardzo podobni.	modern	0	0
+Yanında kalabilir miyim? Gidecek hiçbir yerim yok.	Mogę zostać u ciebie? Nie mam dokąd pójść.	kalabilir	0	0
+Ondan gerçekten hoşlanıyorum!	Naprawdę go lubię!	hoşlanıyorum	0	0
+Her yaz kamp yapmaya giderdim.	Jeździłem na obozy letnie.	kamp	0	0
+Karşıya geçerken çok dikkâtli olamıyorsun.	Ostrożności nigdy za wiele.	karşıya	0	0
+Yaya gittik.	Poszliśmy pieszo.	gittik	0	0
+O üniversitede ikinci yılında.	Jest na drugim roku studiów.	yılında	0	0
+Kızını yurt dışına gönderdi.	Wysłał córkę za granicę.	kızını	0	0
+Senin suyun var.	Ty masz wodę.	suyun	0	0
+Bu makale vejetaryenlerle alay ediyor.	Ten artykuł wyśmiewa wegetarian.	alay	0	0
+Tatoeba'nı yeni versiyonu, insanları eklemeye ve onlarda redaksiyon yapmaya olanak sağlayacak!	Nowa wersja Tatoeba dostarcza możliwość dodawania osób i redagowania tekstu.	sağlayacak	0	0
+Tom, ayda bir kere Boston'a gider.	Tom jeździ do Bostonu raz w miesiącu.	ayda	0	0
+Gerçekten, gerçekten yorgunum.	Jestem naprawdę, naprawdę zmęczona.	yorgunum	0	0
+Bu daire çok pahalı.	To mieszkanie kosztuje za dużo.	daire	0	0
+Sonunda ortaokuldan mezun oldu.	Wreszcie skończyłem gimnazjum.	mezun	0	0
+Film ne zaman başlayacak?	Kiedy rozpocznie się film?	başlayacak	0	0
+Şimdilik amcamla birlikte kalıyorum fakat daha sonra küçük bir apartman dairesine taşınacağım.	Póki co mieszkam z wujkiem, ale później wyprowadzę się do jakiegoś małego mieszkania.	kalıyorum	0	0
+Çocuklar mutlu olacaklar.	Chłopcy będą szczęśliwi.	olacaklar	0	0
+Benimle dışarıya gel.	Chodź ze mną na zewnątrz.	dışarıya	0	0
+Beni bırakır mısın?	Czy możesz mnie zostawić?	bırakır	0	0
+Domates yemeyi sevmem.	Nie lubię jeść pomidorów.	sevmem	0	0
+Tom bu cevabı beklemiyordu.	Tom nie oczekiwał takiej odpowiedzi.	cevabı	0	0
+Dün 10 tane şiş yedim.	Wczoraj zjadłem 10 szaszłyków.	yedim	0	0
+Gerçekten istediğimiz biraz et.	Tak naprawdę chcemy trochę mięsa.	istediğimiz	0	0
+Bu broş kazağına iyi uyar.	Ta broszka pasuje ci do swetra.	uyar	0	0
+Ukala insanlardan hoşlanmam.	Nie lubię ludzi zarozumiałych.	insanlardan	0	0
+O, karısını mutlu etmeye çalıştı ama boşuna.	Próbował uszczęśliwić żonę, ale na próżno.	boşuna	0	0
+Tom cep fenerini açtı.	Tom zaświecił latarkę.	açtı	0	0
+Tom Mary'ye bir kek pişirdi.	Tom upiekł dla Mary ciasto.	kek	0	0
+Yarın doğum günüm ve 17 yaşını bitirmiş olacağım.	Jutro będą moje urodziny i ukończę 17 lat.	günüm	0	0
+Yakınlardaki küçük bir kasabada yaşıyordu.	Mieszkał w pobliskim miasteczku.	kasabada	0	0
+Bir sürü insan oradaydı.	Było tam dużo ludzi.	oradaydı	0	0
+Bu tükenmez kalemi iki dolara satın aldım.	Kupiłem ten długopis za dwa dolary.	dolara	0	0
+Ağaç yanıyor.	Drzewo się pali.	yanıyor	0	0
+Şikayet etmeni dinlemek istemiyorum.	Nie chcę słuchać twojego narzekania.	etmeni	0	0
+"O senden hoşlanıyor mu?" "Hayır fakat iyi bir arkadaş ve birlikte eğleniriz."	"Podobasz mu się?" "Nie, ale jest dobrym kolegą i spędzamy razem czas.	hoşlanıyor	0	0
+Bir haftadır buradayım.	Jestem tu od tygodnia.	haftadır	0	0
+Bunu yapmadan önce düşünün.	Pomyśl zanim to zrobisz.	yapmadan	0	0
+Motoru kapatın.	Wyłącz silnik.	kapatın	0	0
+Odaya girdiğimi uyarmak için Tom ve Mary birbirlerine bağıramayacak kadar çok meşguldü.	Tom i Mary byli tak zajęci wrzeszczeniem na siebie, że nie zauważyli jak wszedłem do pokoju.	birbirlerine	0	0
+Biz güzel bir şehirde yaşıyoruz.	Żyjemy w pięknym mieście.	yaşıyoruz	0	0
+Gelecekte bir pilot olmak istiyorum.	W przyszłości chciałbym zostać pilotem.	pilot	0	0
+Tom onun eğlenceli olduğunu düşünmüyor.	Tom nie uważa tego za zabawne.	düşünmüyor	0	0
+Gerçekleri istiyorum.	Chcę faktów.	gerçekleri	0	0
+Müdahale etmeliyiz.	Musimy interweniować.	müdahale	0	0
+O senin hatan değil.	To nie twoja wina.	hatan	0	0
+Tanrı sizi korusun.	Niech cię Bóg błogosławi.	korusun	0	0
+Ondan telefon numarasını istedim.	Poprosiłem ją o numer telefonu.	numarasını	0	0
+Önyargıları yok etmek atom çekirdeğini parçalamaktan daha zordur	Uprzedzenie trudniej jest rozbić niż atom	zordur	0	0
+Sizinle kavga etmeye niyetim yok.	Nie mam zamiaru się z wami kłócić.	niyetim	0	0
+İşleri değiştirme hakkında düşünüyorum.	Myślę o zmianie pracy.	İşleri	0	0
+Senin yerinde olsam doktoru ararım.	Na twoim miejscu zadzwoniłabym do lekarza.	doktoru	0	0
+Bir damla zehir 160 insanı öldürmeye yeter.	Jedna kropla trucizny wystarczy, aby zatruć 160 osób.	zehir	0	0
+Ben oğlumun basketbol takımını eğitirdim.	Uczyłem drużynę koszykarską mojego syna.	oğlumun	0	0
+Bir planım var.	Mam plan.	planım	0	0
+Tom köpeğine bir kemik verdi.	Tom dał swojemu psu kość.	kemik	0	0
+Pencereyi açıp biraz temiz hava girmesini sağlayalım.	Otwórzmy okno i wpuśćmy trochę świeżego powietrza.	açıp	0	0
+Bütün odayı (daireyi) temizlemeliyiz.	Musimy posprzątać całe mieszkanie.	odayı	0	0
+Meşgulüm.	Jestem zajęty.	meşgulüm	0	0
+Yasa, bu alana herhangi bir gökdelenin inşa edilmesini yasaklıyor.	Nielegalne jest budowanie w tym miejscu wysokościowców.	yasa	0	0
+Tom fiyatı otuz dolar düşürürsem onu alacağını söyledi.	Tom powiedział że to kupi jeśli opuszczę cenę o 30 dolarów.	otuz	0	0
+Asosyal olmak istemiyorum ama yoruldum.	Nie chcę wyjść na nietowarzyskiego, ale jestem zmęczony.	yoruldum	0	0
+Karı seviyorum.	Uwielbiam śnieg.	karı	0	0
+Etki küresini büyütmeye çalıştı.	On próbował powiększyć swoją strefę wpływów.	etki	0	0
+Tom kartlarını masaya koydu.	Tom położył swoje karty na stole.	koydu	0	0
+Şimdi sorumluluğu üstüme alacağım.	Teraz ja przejmę odpowiedzialność na siebie.	üstüme	0	0
+Teklifimi çabucak kabul etti.	Chętnie zgodziła się na moją propozycję.	çabucak	0	0
+Yurt dışında lisans okumak istiyorum.	Chcę zrobić licencjat za granicą.	okumak	0	0
+Başka bir ülkede lisans okumak istiyorum.	Chcę zrobić licencjat w obcym kraju.	ülkede	0	0
+Din halkın afyonudur.	Religia to opium dla ludu.	halkın	0	0
+Ofisim beşinci katta bulunuyor.	Moje biuro znajduje się na piątym piętrze.	beşinci	0	0
+Bütün dağ sonbaharda renk değiştirir.	Cała góra zmienia jesienią kolor.	dağ	0	0
+Yunanca kolay bir dil değildir.	Grecki nie jest łatwym językiem.	dil	0	0
+Terörist değiliz.	Nie jesteśmy terrorystami.	terörist	0	0
+Burada İngilizce konuşan biri var mı?	Czy jest tu ktoś kto mówi po angielsku?	konuşan	0	0
+Bütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler ve birbirlerine karşı kardeşlik zihniyeti ile hareket etmelidirler.	Wszystkie istoty ludzkie rodzą się wolne i równe w godności i prawach. Są one obdarzone rozumem i sumieniem oraz powinny postępować w stosunku do siebie wzajemnie w duchu braterstwa.	eşit	0	0
+Yapılması gereken budur.	To trzeba było zrobić.	yapılması	0	0
+Yasa, bu alana herhangi bir gökdelenin inşa edilmesini yasaklıyor.	Nielegalne jest budowanie w tym miejscu wysokościowców.	alana	0	0
+Birlikte taşınmayı düşünüyorlar.	Myślą o wspólnej przeprowadzce.	düşünüyorlar	0	0
+Ödül parası dünya gezisine gitmeme olanak sağladı.	Pieniądze z nagrody umożliwiły mi podróż po świecie.	sağladı	0	0
+Tom seninle Mary hakkında konuştu mu?	Czy Tom rozmawiał z tobą o Mary?	konuştu	0	0
+Dün alışveriş merkezine gittim.	Poszłam wczoraj do centrum handlowego.	merkezine	0	0
+Tom kartlarını masaya koydu.	Tom położył swoje karty na stole.	masaya	0	0
+Herkes yeni şeyler yapmaktan korkar.	Każdy boi się robić coś nowego.	yapmaktan	0	0
+Tom'a ev ödevini e-posta gönderdim.	Wysłałem Tomowi jego pracę domową e-mailem.	gönderdim	0	0
+Ek olarak yaşlılar birbirleriyle sosyalleşebilsin ve Amerikan hayatının aktif üyeleri olarak kalabilsinler diye birçok topluluk kurulmuştur.	Ponadto stworzono wiele grup, po to, by osoby starsze mogły spotykać się ze sobą i pozostać czynnymi uczestnikami życia Ameryki.	aktif	0	0
+Başım gerçekten ağrıyor.	Naprawdę boli mnie głowa.	ağrıyor	0	0
+Karısını mutlu etmeye çalıştı ama nafile.	Próbował uszczęśliwić żonę, ale na próżno.	karısını	0	0
+Önceden babasına ait olan sıraya bakıyordu.	On spogląda na coś, co kiedyś było biurkiem ojca.	sıraya	0	0
+Sonunda kendi arabam var.	W końcu mam własny samochód.	arabam	0	0
+İstasyondan otele bir taksi tuttum	Z dworca do hotelu pojechałem taksówką.	otele	0	0
+Senin kızının adı nedir?	Jak ma na imię twoja córka?	kızının	0	0
+Biraz daha fazla işbirliği bekliyordum.	Oczekiwałem trochę więcej współpracy.	işbirliği	0	0
+O, elma yiyor.	Ona je jabłko.	elma	0	0
+Güzel bir sesin olduğunu duydum.	Słyszałem, że masz piękny głos.	sesin	0	0
+Plastik bir su bardağım var.	Mam plastikową szklankę.	plastik	0	0
+Çocuklarım çok yaramaz.	Moje dzieci są bardzo niegrzeczne.	çocuklarım	0	0
+Los Angeles Amerika'daki ikinci en büyük kent.	Los Angeles jest drugim największym miastem w Stanach Zjednoczonych.	kent	0	0
+İstasyona vardığında, annesini aradı.	Po przyjeździe na dworzec zadzwoniła do matki.	annesini	0	0
+Ormanda yürüyüşe çıktık.	Poszliśmy na spacer do lasu.	yürüyüşe	0	0
+Bu köprü on tondan fazlasını taşıyamaz.	Ten most ma nośność tylko dziesięć ton.	köprü	0	0
+At siyah renkli mi?	Czy ten koń jest czarny?	renkli	0	0
+Ek olarak yaşlılar birbirleriyle sosyalleşebilsin ve Amerikan hayatının aktif üyeleri olarak kalabilsinler diye birçok topluluk kurulmuştur.	Ponadto stworzono wiele grup, po to, by osoby starsze mogły spotykać się ze sobą i pozostać czynnymi uczestnikami życia Ameryki.	ek	0	0
+Gül güzel bir çiçektir.	Róża jest pięknym kwiatem.	gül	0	0
+Tom herhangi bir ağrı kesici ilaç istemedi.	Tom nie chciał nic przeciwbólowego.	ağrı	0	0
+O emirleri dinlemekten başka seçeneğim yok.	Nie mam innego wyboru niż słuchać tych rozkazów.	seçeneğim	0	0
+Tom yardım etmeyecek.	Tom nie pomoże.	etmeyecek	0	0
+Mutsuz geçmişini unutmaya çalışmalısın.	Trzeba starać się zapomnieć nieszczęścia przeszłości.	mutsuz	0	0
+O, geçen ay Ann ile evlendi.	Ożenił się z Ann w zeszłym miesiącu.	ann	0	0
+E-posta yazmak için çok zaman harcıyor musun?	Ile czasu zajmuje ci napisanie maila?	yazmak	0	0
+Bugün seni beklemiyordum.	Nie spodziewałam się Ciebie dzisiaj.	beklemiyordum	0	0
+Günün çoğunu hastanede geçirdi.	Większą część dnia spędziła w szpitalu.	çoğunu	0	0
+Hava çok şiddetli soğuk.	Pogoda bardzo dotkliwie zimna.	şiddetli	0	0
+Sana güvenmekle aptallık ettim.	Byłem głupi ufając ci.	aptallık	0	0
+Bu nehir içinde yüzmek için tehlikelidir.	Niebezpiecznie jest pływać w tej rzece.	nehir	0	0
+Böyle düşünüyorsan beni hiç tanımıyorsun demektir.	Jeśli tak myślisz, to znaczy, że mnie wcale nie znasz.	tanımıyorsun	0	0
+Burada İngilizce konuşuyoruz.	Rozmawiamy tutaj po angielsku.	konuşuyoruz	0	0
+O, babasının ölümünden sonra işle ilgilendi.	Przejął biznes ojca po jego śmierci.	işle	0	0
+O, babasının ölümünden sonra işle ilgilendi.	Przejął biznes ojca po jego śmierci.	ölümünden	0	0
+Gelecekte bir pilot olmak istiyorum.	W przyszłości chciałbym zostać pilotem.	gelecekte	0	0
+Arkadaşlarını getir.	Przyprowadź ze sobą przyjaciół.	arkadaşlarını	0	0
+Tom belirsiz.	Tom jest niepewny.	belirsiz	0	0
+Koyu kahverengi saçları vardı.	Miał brązowe włosy.	kahverengi	0	0
+Bu yol istasyona götürür.	Droga prowadzi do stacji.	götürür	0	0
+Ölümden korkan bir adamsın, değil mi?	Jesteś człowiekiem, który boi się śmierci, czyż nie?	ölümden	0	0
+Senin doktorun benim.	Twoim lekarzem jestem ja.	doktorun	0	0
+Sıkıldım.	Nudzę się.	sıkıldım	0	0
+Ofisim beşinci katta bulunuyor.	Moje biuro znajduje się na piątym piętrze.	bulunuyor	0	0
+Senin öyle diyebileceğini hiç düşünmedim.	Nie wiedziałem że możesz coś takiego powiedzieć.	düşünmedim	0	0
+O, elma yiyor.	Ona je jabłko.	yiyor	0	0
+Katalanca konuşur musunuz?	Czy mówi pan po katalońsku?	konuşur	0	0
+Tom aynada kendine baktı.	Tom patrzył na siebie w lustrze.	baktı	0	0
+Onlar çocuklarını ormanda terk etti.	Porzucili dzieci w lesie.	çocuklarını	0	0
+Günde en az yedi saat uyumak zorundayız.	Musimy spać co najmniej siedem godzin dziennie.	uyumak	0	0
+Egzersiz vücudunu kuvvetli yapar.	Ćwiczenia wzmacniają twoje ciało.	kuvvetli	0	0
+Onların makalelerine yorum yapmıyorum.	Nie komentuję ich artykułów.	yorum	0	0
+Masanın üzerinde bir kedi var mı?	Czy na stole jest kot?	masanın	0	0
+Üniversiteden mezun olduktan sonra iki yıl İngilizce öğretti.	Po skończeniu uniwersytetu przez dwa lata uczył angielskiego.	öğretti	0	0
+Hatred'in anlamını bilmiyorum.	Nie wiem co znaczy nienawiść	anlamını	0	0
+Koyu kahverengi saçları vardı.	Miał brązowe włosy.	koyu	0	0
+Gece bir film izlemeye ne dersin?	A może pójdziesz do kina dziś wieczorem?	izlemeye	0	0
+Bu bir sandalye.	To jest krzesło.	sandalye	0	0
+Tom bunu nerede bulduğunu söyledi mi?	Czy Tom powiedział gdzie to znalazł?	bulduğunu	0	0
+Bay White, Springfield'da bir otelin yöneticisiydi.	Pan White był managerem w jednym z hoteli w Springfield.	white	0	0
+O, kitap yazdı.	Napisał książkę.	yazdı	0	0
+Neden buradalar?	Dlaczego tu są?	buradalar	0	0
+Ben ofiste olacağım.	Będę w biurze.	ofiste	0	0
+Zil çalar çalmaz öğretmen sınıfa girdi.	Jak tylko zadzwonił dzwonek, nauczyciel wszedł do klasy.	çalar	0	0
+Kapıda bir aslan heykeli vardı.	W drzwiach był pomnik lwa.	aslan	0	0
+Resmi görebiliyor musun?	Możesz zobaczyć obrazek?	görebiliyor	0	0
+Orijinal dilin ne olduğunu bilmem gerekiyor.	Muszę wiedzieć jaki jest oryginalny język.	orijinal	0	0
+Kız kardeşine bluzünü ütületti.	Uprasowała siostrze bluzkę.	kardeşine	0	0
+Kapıda bir aslan heykeli vardı.	W drzwiach był pomnik lwa.	kapıda	0	0
+Tom hâlâ bekar mı?	Tom dalej jest wolny?	bekar	0	0
+Bu fotoğraflarda geçen yazın anıları var.	Te zdjęcia zawierają wspomnienia z ostatniego lata.	yazın	0	0
+Sana satranç oynamayı öğreteceğim.	Nauczę cię grać w szachy.	oynamayı	0	0
+O, ailesine utanç getirdi.	Przyniósł wstyd swojej rodzinie.	ailesine	0	0
+İnsan hakları kavramının açık bir tanımına ihtiyacımız var.	Potrzebujemy jasnej definicji koncepcji praw człowieka.	hakları	0	0
+Eğer bilseydim sana söylerdim.	Powiedziałbym ci gdybym wiedział.	bilseydim	0	0
+Çorba sıcak.	Zupa jest gorąca.	çorba	0	0
+Sinemaya mı gitmek istiyorsun yoksa tiyatroya mı?	Chcesz iść do kina, czy do teatru?	sinemaya	0	0
+Kulübe katılmak isteyenler lütfen buraya isimlerini yazsın.	Chętni do wstąpienia do klubu proszeni są o wpisanie się tutaj.	kulübe	0	0
+Köyde beş inek var.	We wsi jest pięć krów.	inek	0	0
+Telefonda konuştuğunu duydum.	Słyszałam jak rozmawiałeś przez telefon.	konuştuğunu	0	0
+Artık paramız yok.	Nie mamy już pieniędzy.	paramız	0	0
+O bir şeyi açıklamak istiyor.	Chce coś wyjaśnić.	açıklamak	0	0
+Lütfen ben köpeği muayene ederken onu sakinleştirin.	Proszę uspokoić psa, kiedy go będę badał.	muayene	0	0
+Gerçekten gitmemi istiyor musun?	Naprawdę chcesz, żebym sobie poszedł?	gitmemi	0	0
+Ona kitabı iade etmelisin.	Powinnaś oddać mu książkę.	iade	0	0
+Stadyum, beyzbol hayranlarıyla dolmuştu.	Stadion był pełen kibiców baseballa.	beyzbol	0	0
+Tom için bir hediye almalıyım.	Muszę kupić prezent dla Toma.	almalıyım	0	0
+O tutuklandı ve bir casus olmakla suçlandı.	Została aresztowana i oskarżona o bycie szpiegiem.	casus	0	0
+Modern Avrupalılar ve Amerikalılar çok benzerler.	Współcześni Europejczycy i Amerykanie są bardzo podobni.	amerikalılar	0	0
+O gerçek bir efsane.	To jest prawdziwa legenda.	efsane	0	0
+Tatoeba'nı yeni versiyonu, insanları eklemeye ve onlarda redaksiyon yapmaya olanak sağlayacak!	Nowa wersja Tatoeba dostarcza możliwość dodawania osób i redagowania tekstu.	onlarda	0	0
+Lina, Ilokano dilini öğreniyordu.	Lina uczyła sie języka Ilokanu.	dilini	0	0
+Dünden beri bilgisayarım bir kaçık gibi.	Od wczoraj komputer mi wariuje.	kaçık	0	0
+Bu bisiklet benim.	To mój rower.	bisiklet	0	0
+Bir fincan çay alacaksın, değil mi?	A może filiżankę herbaty?	fincan	0	0
+Telefon, onsuz yapamayacağın bir şeydir.	Telefon to coś, bez czego nie sposób się obejść.	onsuz	0	0
+Bira içer misiniz?	Pijecie piwo?	içer	0	0
+Tom fiyatı otuz dolar düşürürsem onu alacağını söyledi.	Tom powiedział że to kupi jeśli opuszczę cenę o 30 dolarów.	fiyatı	0	0
+Bu bir pencere.	To jest okno.	pencere	0	0
+Ormanda yürüyüşe çıktık.	Poszliśmy na spacer do lasu.	çıktık	0	0
+Böyle düşünüyorsan beni hiç tanımıyorsun demektir.	Jeśli tak myślisz, to znaczy, że mnie wcale nie znasz.	düşünüyorsan	0	0
+Karşıya geçerken çok dikkâtli olamıyorsun.	Ostrożności nigdy za wiele.	geçerken	0	0
+Anime yönetmeni Satoshi Kon, kırk yedinci doğum gününden kısa süre önce 24 Ağustos 2010 tarihinde pankreas kanserinden öldü.	Reżyser anime Satoshi Kon zmarł na raka trzustki 24 sierpnia 2010 roku, na krótko przed jego 47 urodzinami.	kırk	0	0
+Bizim başka bir seçeneğimiz yok.	Nie mamy innego wyboru.	seçeneğimiz	0	0
+Birbirinize ne yaptınız?	Co zrobiliście sobie nawzajem?	birbirinize	0	0
+Yiyip içiyorum.	Jem i piję.	yiyip	0	0
+Eliza ağlıyor.	Eliza płacze.	ağlıyor	0	0
+O emirleri dinlemekten başka seçeneğim yok.	Nie mam innego wyboru niż słuchać tych rozkazów.	emirleri	0	0
+Motoru kapatın.	Wyłącz silnik.	motoru	0	0
+Sana yardım etmeme izin vermeliydin.	Powinieneś mi pozwolić, żebym ci pomogła.	etmeme	0	0
+İlaç ona çok iyi geldi.	To lekarstwo zdziałało u niego cuda.	İlaç	0	0
+Bu ülke kültürel açıdan gelişmiş	Ten kraj rozwinął się kulturalnie.	gelişmiş	0	0
+Senin iki kitabın var.	Masz dwie książki.	kitabın	0	0
+Senin birlikte çalıştığın bir adam tanıyorum.	Znam mężczyznę z którym pracujesz.	çalıştığın	0	0
+Benim kötü bir mide ağrım vardı.	Bardzo bolał mnie żołądek.	mide	0	0
+Yaşlı adam parkta yürüyüş yapıyor.	Starszy mężczyzna przechadza się po parku.	yürüyüş	0	0
+Tom ve Mary haftada iki veya üç kez biftek yiyorlar.	Tom i Mary jedzą stek dwa trzy razy w tygodniu.	biftek	0	0
+Ek olarak yaşlılar birbirleriyle sosyalleşebilsin ve Amerikan hayatının aktif üyeleri olarak kalabilsinler diye birçok topluluk kurulmuştur.	Ponadto stworzono wiele grup, po to, by osoby starsze mogły spotykać się ze sobą i pozostać czynnymi uczestnikami życia Ameryki.	üyeleri	0	0
+Din halkın afyonudur.	Religia to opium dla ludu.	din	0	0
+Bu pirinç.	To jest ryż.	pirinç	0	0
+O derin bir uykuya daldı.	Zapadł w głęboki sen.	uykuya	0	0
+Neredeyiz?	Gdzie jesteśmy?	neredeyiz	0	0
+Sen niye benimle gelmedin?	Dlaczego ze mną nie przyszedłeś?	gelmedin	0	0
+Kırmızı gömlekli erkeğe ne denir?	Jak mówimy na mężczyznę w czerwonej koszuli?	erkeğe	0	0
+İyi zamanlama. Ben seni yeni modelin test sürüşüne alacağım.	Świetnie! Dam ci się przejechać nowym modelem.	zamanlama	0	0
+Tom sana bir kitap vereceğini söyledi.	Tom powiedział, że da ci książkę.	vereceğini	0	0
+Onun konuşabildiği kadar iyi Fransızca konuşabiliyorum.	Mówię po francusku nie gorzej od niej.	fransızca	0	0
+Merak ediyordum, bu akşam benimle bir filme gitmek ister misin?	Zastanawiałem się czy chciałbyś pójść ze mną oglądąć film dzisiaj wieczorem?	filme	0	0
+Tom'a mektup yazıyorum.	Piszę list do Toma.	yazıyorum	0	0
+Balıklar suda yaşar.	Ryby żyją w wodzie.	yaşar	0	0
+Ben Çinli değilim.	Nie jestem Chinką.	çinli	0	0
+Ben çay içtim.	Wypiłam herbatę.	içtim	0	0
+Ben oğlumun basketbol takımını eğitirdim.	Uczyłem drużynę koszykarską mojego syna.	basketbol	0	0
+Bu ev güzeldir.	Ten dom jest piękny.	güzeldir	0	0
+Bu bir bitki.	To jest roślina.	bitki	0	0
+Balıklar suda yaşar.	Ryby żyją w wodzie.	suda	0	0
+Oğluna büyük bir servet bıraktı.	Zostawił ogromną fortunę synowi.	servet	0	0
+Masanın üstündeki hesap makinesi benim.	Kalkulator na stole jest mój.	üstündeki	0	0
+Tom yıllardır Mary ile konuşmuyor.	Tom nie rozmawia z Mary od lat.	konuşmuyor	0	0
+Matsuyama'da doğup büyüdüm.	Urodziłam się i wychowałam w Matsuyama.	büyüdüm	0	0
+Açım.	Jestem głodny.	açım	0	0
+Mutlaka Ferrara ve Ravenna'ya bir gezi yapmanı öneririm.	Zdecydowanie polecam wybrać się na wycieczkę do Ferrary i Rawenny.	öneririm	0	0
+Tom dedikodu yapmayı seviyor.	Tom lubi plotkować.	dedikodu	0	0
+İstasyona yedide ulaştı.	Dotarł na dworzec o siódmej.	ulaştı	0	0
+Tüm belgeleri imzaladım.	Podpisałam wszystkie dokumenty.	belgeleri	0	0
+O genç bir üniversite öğrencisi.	Jest młodą studentką.	öğrencisi	0	0
+Bu gemi okyanus yolculuğu için uygun değil.	Ten statek nie nadaje się do podróży oceanicznych.	okyanus	0	0
+Tom Mary'nin ne demek istediğini anladı.	Tom zrozumiał, co Mary miała na myśli.	anladı	0	0
+Anderson köpeklerden çok korkuyor.	Anderson bardzo boi się psów.	anderson	0	0
+O tutuklandı ve bir casus olmakla suçlandı.	Została aresztowana i oskarżona o szpiegostwo.	olmakla	0	0
+Tom hapishaneye gitmeyecek.	Tom nie pójdzie do więzienia.	gitmeyecek	0	0
+Benimle aynı fikirde olmayan insanlara alışkınım.	Przyzwyczaiłem się do osób, które się ze mną nie zgadzają.	fikirde	0	0
+Ödül parası dünya gezisine gitmeme olanak sağladı.	Pieniądze z nagrody umożliwiły mi podróż po świecie.	gitmeme	0	0
+Parkta kimse yoktu.	W parku nie było nikogo.	parkta	0	0
+Şimdi sorumluluğu üstüme alacağım.	Teraz ja przejmę odpowiedzialność na siebie.	sorumluluğu	0	0
+Ateşin mi var?	Czy masz gorączkę?	ateşin	0	0
+Koyu kahverengi saçları vardı.	Miał brązowe włosy.	saçları	0	0
+Tom yerden kalktı.	Tom podniósł się z podłogi.	kalktı	0	0
+Büyükannem bile SMS gönderebilir.	Nawet moja babcia umie wysyłać smsy.	büyükannem	0	0
+Tom her pazartesi tenis oynardı.	Tom grał w tenisa w każdy poniedziałek.	tenis	0	0
+O üniversitede ikinci yılında.	Jest na drugim roku studiów.	üniversitede	0	0
+Ne yapmayı seversin?	Co lubisz robić?	seversin	0	0
+Sen kadınsın.	Jesteś kobietą.	kadınsın	0	0
+Tom'a ev ödevini e-posta gönderdim.	Wysłałem Tomowi jego pracę domową e-mailem.	e-posta	0	0
+Anime yönetmeni Satoshi Kon, kırk yedinci doğum gününden kısa süre önce 24 Ağustos 2010 tarihinde pankreas kanserinden öldü.	Reżyser anime Satoshi Kon zmarł na raka trzustki 24 sierpnia 2010 roku, na krótko przed jego 47 urodzinami.	ağustos	0	0
+Ne bulmayı bekliyordun?	Co spodziewałeś się znaleźć?	bekliyordun	0	0
+Ne zaman eve döneceksin?	Kiedy wrócisz do domu?	döneceksin	0	0
+Onun düşük maaşı onun ev satın almasını engeller.	Jego niska pensja przeszkadza mu w zakupie domu.	almasını	0	0
+Önceden babasına ait olan sıraya bakıyordu.	On spogląda na coś, co kiedyś było biurkiem ojca.	babasına	0	0
+Ne bulmayı bekliyordun?	Co spodziewałeś się znaleźć?	bulmayı	0	0
+Tom beni geri çağırdı.	Tom zawołał mnie z powrotem.	çağırdı	0	0
+Ne demek istediğimi düşünüyordun?	Myślałeś, że co miałam na myśli?	düşünüyordun	0	0
+Bu şimdiye kadar gördüğüm en güzel göl.	To jest najpiękniejsze jezioro jakie kiedykolwiek widziałem.	göl	0	0
+Dağın zirvesi karla kaplı.	Szczyty gór są pokryte śniegiem	kaplı	0	0
+Tanrı her yerde olamazdı. Bu yüzden anneleri yarattı.	Bóg nie mógł być wszędzie, dlatego stworzył matki.	yarattı	0	0
+Bunlar çok eski kitaplar.	To są moje bardzo stare książki.	kitaplar	0	0
+O her zaman randevularına vaktinde gelir.	Zawsze przychodzi o czasie na spotkania.	vaktinde	0	0
+Babamın adı Zana'dır.	Mój ojciec ma na imię Zana.	dır	0	0
+Bunu yapmama birinin yardım edip edemeyeceğini merak ediyorum.	Jestem ciekawa, czy ktoś mógłby mi pomóc to zrobić.	yapmama	0	0
+Tom, Mary'nin meşgul gibi göründüğünü söyledi.	Tom powiedział, że Mary wyglądała na zajętą.	göründüğünü	0	0
+Neredeyim?	Gdzie jestem?	neredeyim	0	0
+Beceriksizliğimi affedin.	Przepraszam za moją niezręczność.	affedin	0	0
+Toplantıya gitmem gerektiği konusunda onunla anlaştı.	Zgodziła się z nim, że muszę iść na spotkanie.	toplantıya	0	0
+Bütün dağ sonbaharda renk değiştirir.	Cała góra zmienia jesienią kolor.	değiştirir	0	0
+Bir damla zehir 160 insanı öldürmeye yeter.	Jedna kropla trucizny wystarczy, aby zatruć 160 osób.	damla	0	0
+Elektrikli ev aletleri ev işini daha kolay yaptı.	Elektroniczne sprzęty ułatwiły prace domowe.	elektrikli	0	0
+Ben eskisi kadar iyi bir şoför değilim.	Nie jestem tak dobrym kierowcą jak kiedyś.	şoför	0	0
+Bunu görmen lazım.	Musisz to zobaczyć.	görmen	0	0
+Geleceğe hazırlanmamız gerek.	Musimy przygotować się na przyszłość.	geleceğe	0	0
+Önümde uzun bir yol var.	Przede mną długa droga.	önümde	0	0
+Bir sonraki uçağın ne zaman geleceğini ona sor.	Zapytaj się go kiedy przyleci następny samolot.	uçağın	0	0
+Tom tembel bir çocuk.	Tom jest leniwym dzieckiem.	tembel	0	0
+Ben bu ikisinin arasında seçim yapmak zorundayım.	Muszę wybrać pomiędzy tymi dwoma.	ikisinin	0	0
+Seni izliyorum.	Obserwuję cię.	izliyorum	0	0
+Mum kendiliğinden söndü.	Świeczka sama zgasła.	mum	0	0
+Onun yüzünü hatırlayabiliyorum ama onun adını hatırlayamıyorum.	Mogę przypomnieć sobie jego twarz, ale nie przypominam sobie jego imienia.	hatırlayamıyorum	0	0
+Tom fiyatı otuz dolar düşürürsem onu alacağını söyledi.	Tom powiedział że to kupi jeśli opuszczę cenę o 30 dolarów.	alacağını	0	0
+Hemen yolculuğa hazırlan.	Szykuj się natychmiast do podróży.	hazırlan	0	0
+Tren istasyondan ayrılıyor.	Pociąg odjeżdża z dworca.	ayrılıyor	0	0
+Onlardan biri, birini katil eden kişinin rolünü oynayacak bir aktör.	Jednym z nich jest aktor, który udaje, że kogoś zabija.	aktör	0	0
+Bu gemi okyanus yolculuğu için uygun değil.	Ten statek nie nadaje się do podróży oceanicznych.	yolculuğu	0	0
+Köpekleri severim.	Uwielbiam psy.	köpekleri	0	0
+Dün gerçekten çok güzel bir şarkı dinledim.	Wczoraj słuchałem naprawdę cudownej piosenki.	dinledim	0	0
+Bu sadece hikayenin yarısı.	To dopiero połowa opowiadania.	hikayenin	0	0
+Okul olanaklarımız yabancı öğrenciler için yetersizdir.	Możliwości naszej szkoły są niewystarczające dla zagranicznych studentów.	öğrenciler	0	0
+Eğer bilseydim sana söylerdim.	Powiedziałbym ci gdybym wiedział.	söylerdim	0	0
+İşleri değiştirme hakkında düşünüyorum.	Myślę o zmianie pracy.	değiştirme	0	0
+İki teori arasında çok büyük bir fark vardır.	Między tymi dwiema teoriami jest olbrzymia różnica.	teori	0	0
+Oo bakıyorum da hızlısın.	Oh wow, szybka jesteś.	oo	0	0
+Tom ne kadar ağır yaralandı?	Jak ciężko ranny jest Tom?	yaralandı	0	0
+İnternet bağlantım çok yavaş.	Moje połączenie internetowe jest bardzo wolne.	İnternet	0	0
+Egzersiz vücudunu kuvvetli yapar.	Ćwiczenia wzmacniają twoje ciało.	vücudunu	0	0
+Hangi gitar Tom'un?	Która gitara należy do Toma?	gitar	0	0
+Okula yürüyerek gitmek yarım saatimizi alıyor.	Dojście do szkoły zajmuje nam pół godziny.	yürüyerek	0	0
+O, oğluna bir kamera aldı.	On kupił synowi aparat.	oğluna	0	0
+Bazıları yalnızca zaman geçsin diye kitap okurlar.	Są tacy, co czytają książki tylko dla zabicia czasu.	geçsin	0	0
+Sporu rekabet için değil zevk için yapıyorum.	Lubię uprawiać sport dla zabawy, nie dla współzawodnictwa.	rekabet	0	0
+Egzersiz vücudunu kuvvetli yapar.	Ćwiczenia wzmacniają twoje ciało.	egzersiz	0	0
+Tom bir hamburger yedi.	Tom zjadł hamburgera.	hamburger	0	0
+Satranç oynamayı biliyor musun?	Umiesz grać w szachy?	satranç	0	0
+Burada güvendesin.	Tutaj jesteś bezpieczny.	güvendesin	0	0
+Ayakkabılarını çıkarmana gerek yok.	Nie musisz zdejmować butów.	ayakkabılarını	0	0
+Tanrı her yerde olamazdı. Bu yüzden anneleri yarattı.	Bóg nie mógł być wszędzie, dlatego stworzył matki.	olamazdı	0	0
+Kazan'da bir metro var.	W Kazaniu jest metro.	metro	0	0
+Pazar haftanın ilk günüdür.	Niedziela jest pierwszym dniem tygodnia.	haftanın	0	0
+Ben plaja gitmeyi severdim.	Kochałam chodzić na plażę.	severdim	0	0
+Tom spor salonuna gitti.	Tom poszedł do siłowni.	salonuna	0	0
+İspanyolca öğrenmek istiyorum.	Chcę uczyć się hiszpańskiego.	İspanyolca	0	0
+Şimdi kar yağıyor.	Teraz pada śnieg.	yağıyor	0	0
+Bu geceye ne dersin?	Co powiesz na dzisiejszą noc?	geceye	0	0
+O kitabı okumayı bitirdiğinde onu bana geri ver.	Jak skończyć czytać tę książkę, to oddaj mi ją z powrotem.	okumayı	0	0
+O, zaten evlendi.	Ona jest już mężatką.	evlendi	0	0
+Hemen yolculuğa hazırlan.	Szykuj się natychmiast do podróży.	yolculuğa	0	0
+Tom herhangi bir ağrı kesici ilaç istemedi.	Tom nie chciał nic przeciwbólowego.	kesici	0	0
+O, telefonuna cevap vermiyor.	Nie odbiera telefonu.	telefonuna	0	0
+Salata sevmiyorum.	Nie lubię sałatki.	salata	0	0
+Akşam yemeğin hazır olduğunda seni arayacağım.	Zawołam cię, kiedy obiad będzie gotowy.	yemeğin	0	0
+Anime yönetmeni Satoshi Kon, kırk yedinci doğum gününden kısa süre önce 24 Ağustos 2010 tarihinde pankreas kanserinden öldü.	Reżyser anime Satoshi Kon zmarł na raka trzustki 24 sierpnia 2010 roku, na krótko przed jego 47 urodzinami.	yedinci	0	0
+O merdivenlerden aşağı yuvarlandı.	Spadł ze schodów.	merdivenlerden	0	0
+Mutsuz geçmişini unutmaya çalışmalısın.	Trzeba starać się zapomnieć nieszczęścia przeszłości.	geçmişini	0	0
+Gök bugün mavi, bulutsuz.	Niebo dzisiaj jest niebieskie, bezchmurne.	gök	0	0
+Yakınlardaki küçük bir kasabada yaşıyordu.	Mieszkał w pobliskim miasteczku.	yaşıyordu	0	0
+Gaspı önlemek için, bütün taşınabilen bagajlar dikkatle incelenir.	Aby zapobiegać porwanion, każdy bagaż ręczny jest dokładnie sprawdzany.	dikkatle	0	0
+Sadece Tom'un ağladığını görmekten nefret ediyorum.	Po prostu nienawidzę patrzeć na to, jak Tom płacze.	görmekten	0	0
+Bekleyelim. Tom yakında dönecek.	Poczekajmy. Tom niedługo wróci.	bekleyelim	0	0
+Yurt dışında dilbilimi üzerine yüksek lisans yapmak istiyorum.	Chcę zrobić magisterkę z językoznawstwa za granicą.	yurt	0	0
+Ukala insanlardan hoşlanmam.	Nie lubię ludzi zarozumiałych.	hoşlanmam	0	0
+Tom hapishaneye gitmeyecek.	Tom nie pójdzie do więzienia.	hapishaneye	0	0
+Domates yemeyi sevmem.	Nie lubię jeść pomidorów.	yemeyi	0	0
+Onlardan biri, birini katil eden kişinin rolünü oynayacak bir aktör.	Jednym z nich jest aktor, który udaje, że kogoś zabija.	oynayacak	0	0
+Kaza otobanda gerçekleşti.	Wypadek miał miejsce na autostradzie.	gerçekleşti	0	0
+Tren yolcularla doluydu.	W pociągu pełno było pasażerów.	doluydu	0	0
+Bu hafta sonu küçük bir gezi yapmak istiyorum.	Chciałabym pojechać na małą wycieczkę w ten weekend.	gezi	0	0
+Yemek yerken ağzında yemekle konuşma.	Nie mów z pełnymi ustami.	yerken	0	0
+Bir kadınsız yaşayamam.	Nie potrafię żyć bez kobiety.	yaşayamam	0	0
+Zil çalar çalmaz öğretmen sınıfa girdi.	Jak tylko zadzwonił dzwonek, nauczyciel wszedł do klasy.	zil	0	0
+Beni istasyona kadar götürebilir misiniz?	Czy podwieziesz mnie na stację?	götürebilir	0	0
+Bilimci araştırmaya devam etmekte ısrar etti.	Naukowiec nalegał, aby kontynuować badania.	araştırmaya	0	0
+Özel muamele beklemiyorum.	Nie oczekuje specjalnego traktowania.	muamele	0	0
+Zil çalar çalmaz öğretmen sınıfa girdi.	Jak tylko zadzwonił dzwonek, nauczyciel wszedł do klasy.	sınıfa	0	0
+O şaka komikti.	Ten żart był śmieszny.	komikti	0	0
+Tom her şeyi duydu.	Tom wszystko słyszał.	duydu	0	0
+Bay White, Springfield'da bir otelin yöneticisiydi.	Pan White był managerem w jednym z hoteli w Springfield.	otelin	0	0
+Tom beklediğim değil.	Tom nie jest taki, jak myślałam.	beklediğim	0	0
+Nasıl şekerleme yapılacağını bilir.	Wiek jak robić cukierki.	yapılacağını	0	0
+Aynı fikirde değildik.	Nie zgodziliśmy się.	değildik	0	0
+Ben sadece haftada bir kez saçımı yıkardım.	Myłem włosy tylko raz w tygodniu.	saçımı	0	0
+Kitaplar benim alternatif gerçekliğimdir.	Książki są moją alternatywną rzeczywistością.	alternatif	0	0
+Sağ olun, ben almayayım.	Dziękuję, nie trzeba.	almayayım	0	0
+Üniversiteden mezun olduktan sonra iki yıl İngilizce öğretti.	Po skończeniu uniwersytetu przez dwa lata uczył angielskiego.	olduktan	0	0
+Tom sınavı geçti.	Tom zdał egzamin.	sınavı	0	0
+Tom'un çok kısa saçı var.	Tom ma bardzo krótkie włosy.	saçı	0	0
+Bunu senin gözlerinde görebiliyorum.	Mogę to zobaczyć w twoich oczach.	gözlerinde	0	0
+Mum kendiliğinden söndü.	Świeczka sama zgasła.	kendiliğinden	0	0
+Bazı ilaçlar almam gerekiyor.	Muszę wziąć leki.	ilaçlar	0	0
+Önyargıları yok etmek atom çekirdeğini parçalamaktan daha zordur	Uprzedzenie trudniej jest rozbić niż atom	atom	0	0
+Bu makale vejetaryenlerle alay ediyor.	Ten artykuł wyśmiewa wegetarian.	makale	0	0
+Müzenin girişi nerede?	Gdzie jest wejście do muzeum?	girişi	0	0
+Onlar onu kazadan dolayı suçladılar.	Obwinili go za wypadek.	kazadan	0	0
+Işığı açmak ister misin?	Chcesz zapalić światło?	işığı	0	0
+Başkalarını kıskanma alışkanlığı var.	On zazdrości innym.	başkalarını	0	0
+Önceden babasına ait olan sıraya bakıyordu.	On spogląda na coś, co kiedyś było biurkiem ojca.	bakıyordu	0	0
+Kulübe katılmak isteyenler lütfen buraya isimlerini yazsın.	Chętni do wstąpienia do klubu proszeni są o wpisanie się tutaj.	isimlerini	0	0
+O tutuklandı ve bir casus olmakla suçlandı.	Została aresztowana i oskarżona o bycie szpiegiem.	tutuklandı	0	0
+Bunu onlar başlattı.	Oni to zaczęli.	başlattı	0	0
+Yiyip içiyorum.	Jem i piję.	içiyorum	0	0
+Herhangi birinin bana ihtiyacı olursa burada ofisimde olacağım.	Jeśli ktoś będzie mnie potrzebował, będę tutaj w swoim biurze.	ofisimde	0	0
+Onu çok nadiren görüyorum.	Bardzo rzadko go widzę.	nadiren	0	0
+Tom bunu haftalar önce yapmalıydı.	Tom powinien to zrobić już kilka tygodni temu.	haftalar	0	0
+Yanına bir şemsiye almadı.	Nie wziął ze sobą parasola.	almadı	0	0
+Lütfen cevapları yazınız.	Proszę napisać opowiedzi.	cevapları	0	0
+Onlardan biri, birini katil eden kişinin rolünü oynayacak bir aktör.	Jednym z nich jest aktor, który udaje, że kogoś zabija.	rolünü	0	0
+Takdir edilmek güzel.	Miło jest być docenionym.	edilmek	0	0
+Tom eskisi gibi utangaç çocuk değil.	Tom nie jest już wstydliwym dzieckiem jakim był kiedyś.	utangaç	0	0
+Bu üç dakikadan daha fazla sürmedi.	To nie trwało więcej niż trzy minuty.	dakikadan	0	0
+Tom gözlerini ardına kadar açtı.	Tom szeroko otworzył oczy.	ardına	0	0
+Hiç kimse beni dinlemiyor.	Nikt mnie nie słucha.	dinlemiyor	0	0
+Bu kitabın yazarı hiç Rusya'da bulunmamış.	Autor tej książki nigdy nie był w Rosji.	yazarı	0	0
+Tom'un masasında bir yığın çizgi roman var.	Na biurku Toma jest stos komiksów.	masasında	0	0
+Annem harika bir kadındı.	Moja mama była cudowną kobietą.	kadındı	0	0
+Ben Çingene şarkıları söylerim.	Śpiewam cygańskie piosenki.	şarkıları	0	0
+Kadınlar çayı sever.	Kobiety uwielbiają herbatę.	çayı	0	0
+Konuşmadan önce her zaman düşünmelisin.	Powinieneś zawsze pomyśleć zanim coś powiesz.	konuşmadan	0	0
+O kötü bir fikirdi.	To był zły pomysł.	fikirdi	0	0
+Köyde beş inek var.	We wsi jest pięć krów.	köyde	0	0
+Dünyanın kaynakları sınırlıdır.	Zasoby Ziemi są ograniczone.	kaynakları	0	0
+Evli bir erkeğim.	Jestem żonatym mężczyzną.	erkeğim	0	0
+Bu üç dakikadan daha fazla sürmeyecek.	To nie zajmie więcej niż trzy minuty.	sürmeyecek	0	0
+Tom tam köşedeki pahalı bir restoranda suşi yedi.	Tom jadł sushi w drogiej restauracji za rogiem.	restoranda	0	0
+O kravat sende gerçekten iyi duruyor.	Ten krawat naprawdę ci pasuje.	kravat	0	0
+Bu programın hem indirme hem de yükleme olanakları vardır.	Ten program dostarcza zarówno możliwość pobierania jak i ładowania danych.	programın	0	0
+Gaspı önlemek için, bütün taşınabilen bagajlar dikkatle incelenir.	Aby zapobiegać porwanion, każdy bagaż ręczny jest dokładnie sprawdzany.	önlemek	0	0
+Tom bir taksi şoförü.	Tom jest taksówkarzem.	şoförü	0	0
+Bu yiyecek çok tuzlu.	To jedzenie jest bardzo słone.	tuzlu	0	0
+Maymunlar muzdan hoşlanır.	Małpy lubią banany.	hoşlanır	0	0
+Domates yemeyi sevmem.	Nie lubię jeść pomidorów.	domates	0	0
+Ben Mısır'dayım.	Jestem w Egipcie.	dayım	0	0
+Bilimci araştırmaya devam etmekte ısrar etti.	Naukowiec nalegał, aby kontynuować badania.	etmekte	0	0
+Kendisine yöneltilen sorulara cevap vermekten kaçındı.	On odmówił odpowiedzi na zadane mu pytania.	vermekten	0	0
+Tom parka gitti.	Tom poszedł do parku.	parka	0	0
+Şehrin üzerinde bir uçak uçuyor.	Nad miastem leci samolot.	uçuyor	0	0
+Ben hastayım.	Jestem chora.	hastayım	0	0
+Dağın zirvesi karla kaplı.	Szczyty gór są pokryte śniegiem	dağın	0	0
+Ek olarak yaşlılar birbirleriyle sosyalleşebilsin ve Amerikan hayatının aktif üyeleri olarak kalabilsinler diye birçok topluluk kurulmuştur.	Ponadto stworzono wiele grup, po to, by osoby starsze mogły spotykać się ze sobą i pozostać czynnymi uczestnikami życia Ameryki.	birbirleriyle	0	0
+Tom'un sadece bir bacağı var.	Tom ma tylko jedną nogę.	bacağı	0	0
+Değişiklikler yer alıyor.	Zachodzą zmiany.	değişiklikler	0	0
+Balıklar suda yaşar.	Ryby żyją w wodzie.	balıklar	0	0
+En yakın kütüphane nerede?	Gdzie jest najbliższa biblioteka?	kütüphane	0	0
+O kediler hakkında deli oluyor.	On ma fioła na punkcie kotów.	kediler	0	0
+Bu kitabı daha ucuza aldım.	Kupiłem tę książkę taniej.	ucuza	0	0
+Şimdilik amcamla birlikte kalıyorum fakat daha sonra küçük bir apartman dairesine taşınacağım.	Póki co mieszkam z wujkiem, ale później wyprowadzę się do jakiegoś małego mieszkania.	dairesine	0	0
+Otobüste cüzdanım çalındı.	Mój portfel został skradziony w autobusie.	çalındı	0	0
+Evimin karşısında bir kitapçı var.	Przed moim domem jest księgarnia.	evimin	0	0
+Bulaşık makinesinin nasıl çalıştığını anlatabilir misin?	Czy możesz mi wyjaśnić, jak działa zmywarka?	anlatabilir	0	0
+Odaya parfüm kokusu yayıldı.	Pokój był przesycony zapachem perfum.	parfüm	0	0
+Nasıl şekerleme yapılacağını bilir.	Wiek jak robić cukierki.	şekerleme	0	0
+Yemek yerken ağzında yemekle konuşma.	Nie mów z pełnymi ustami.	ağzında	0	0
+Seni kurtaracağım.	Uratuję cię.	kurtaracağım	0	0
+Tom listeyi kontrol etti.	Tom sprawdził listę.	listeyi	0	0
+Bahsi kaybettim.	Przegrałem zakład.	bahsi	0	0
+Çok fazla beklemiyorum.	Nie oczekuję zbyt wiele.	beklemiyorum	0	0
+Tom başka bir kadınla görüşüyor, değil mi?	Tom spotyka się z inną kobietą, prawda?	görüşüyor	0	0
+Tom ne zaman markete gitti?	Kiedy Tom poszedł do sklepu?	markete	0	0
+Benim ismim Tom.	Nazywam się Tom.	ismim	0	0
+Yarın bileceğim.	Jutro będę wiedział.	bileceğim	0	0
+Bill Gates, Microsoft'un kurucusudur.	Bill Gates jest założycielem Microsoftu.	gates	0	0
+Bu, Almanca yazdığım ilk mektup.	To pierwszy list, który napisałem po niemiecku.	yazdığım	0	0
+Odan nerede?	Gdzie jest twój pokój?	odan	0	0
+Şimşek çaktı.	Błysnęła błyskawica.	şimşek	0	0
+Tom bana bir sürü tavsiye verirdi.	Tom dał mi kilka rad.	verirdi	0	0
+Tom'un yaptığını görmeliydin.	Powinieneś zobaczyć co Tom zrobił.	görmeliydin	0	0
+Bu çok çok kolaydı.	To było zbyt proste.	kolaydı	0	0
+Pasaport, lütfen.	Paszport, proszę.	pasaport	0	0
+Birkaç yıl önce oraya çok giderdim.	Jeździłem tam kilka lat temu.	giderdim	0	0
+Konuşmadan önce her zaman düşünmelisin.	Powinieneś zawsze pomyśleć zanim coś powiesz.	düşünmelisin	0	0
+Onun yanına oturdu.	Usiadł obok niej.	oturdu	0	0
+Hayattaki yegâne hedef para kazanmak değildir.	Zarabianie pieniędzy to nie jest jedyny cel życia.	hayattaki	0	0
+Onu hastanenin içerisine aldılar.	Przyjęli ją do szpitala.	hastanenin	0	0
+Pencereyi açıp biraz temiz hava girmesini sağlayalım.	Otwórzmy okno i wpuśćmy trochę świeżego powietrza.	girmesini	0	0
+Pencereyi açıp biraz temiz hava girmesini sağlayalım.	Otwórzmy okno i wpuśćmy trochę świeżego powietrza.	pencereyi	0	0
+Elektrikli ev aletleri ev işini daha kolay yaptı.	Elektroniczne sprzęty ułatwiły prace domowe.	aletleri	0	0
+Tom köpeklerden korkar.	Tom boi się psów.	korkar	0	0
+Bu hafta okulda bir Almanca testim var.	W tym tygodniu mam w szkole test z niemieckiego.	almanca	0	0
+Sen bununla içeri giremezsin.	Nie możesz z tym wejść do środka.	giremezsin	0	0
+Sadece bir ya da iki bira içeceğim.	Wypiję tylko jedno albo dwa piwa.	içeceğim	0	0
+Bu fotoğraflarda geçen yazın anıları var.	Te zdjęcia zawierają wspomnienia z ostatniego lata.	anıları	0	0
+Ukala insanlardan hoşlanmam.	Nie lubię ludzi zarozumiałych.	ukala	0	0
+Tom'un masasında bir yığın çizgi roman var.	Na biurku Toma jest stos komiksów.	yığın	0	0
+Sonunda, göle geldik.	W końcu, przyszliśmy nad jezioro.	göle	0	0
+Koşuyor.	Biegnie.	koşuyor	0	0
+Ben oğlumun basketbol takımını eğitirdim.	Uczyłem drużynę koszykarską mojego syna.	takımını	0	0
+Senin sözlerin onu çok daha iyi hissettirdi.	Twoje słowa spowodowały że poczuł się dużo lepiej.	hissettirdi	0	0
+O, karıncalardan kurtulmaya çalıştı.	Próbował pozbyć się mrówek.	kurtulmaya	0	0
+Ben günlerdir burada çalışıyorum.	Pracuję tu już od wielu dni.	günlerdir	0	0
+Evrende birçok gökada var.	Jest wiele galaktyk we wszechświecie.	evrende	0	0
+Tom sütü unuttu.	Tom zapomniał mleka.	sütü	0	0
+Dünden beri bilgisayarım bir kaçık gibi.	Od wczoraj komputer mi wariuje.	dünden	0	0
+Anime yönetmeni Satoshi Kon, kırk yedinci doğum gününden kısa süre önce 24 Ağustos 2010 tarihinde pankreas kanserinden öldü.	Reżyser anime Satoshi Kon zmarł na raka trzustki 24 sierpnia 2010 roku, na krótko przed jego 47 urodzinami.	tarihinde	0	0
+Tom sütü unuttu.	Tom zapomniał mleka.	unuttu	0	0
+Şimdilik amcamla birlikte kalıyorum fakat daha sonra küçük bir apartman dairesine taşınacağım.	Póki co mieszkam z wujkiem, ale później wyprowadzę się do jakiegoś małego mieszkania.	apartman	0	0
+Bu tükenmez kalemi iki dolara satın aldım.	Kupiłem ten długopis za dwa dolary.	kalemi	0	0
+Piknik yapmak için güzel bir yer buldum.	Znalazłam ładne miejsce, żeby urządzić piknik.	piknik	0	0
+Dün caddede Mary'ye rastladım.	Wczoraj spotkałem na ulicy Mary.	rastladım	0	0
+Aklınıza bir şey gelirse lütfen bizi bilgilendirin.	Jeśli przyjdzie ci coś do głowy, proszę poinformuj nas o tym.	aklınıza	0	0
+Üniversiteden mezun olduktan sonra iki yıl İngilizce öğretti.	Po skończeniu uniwersytetu przez dwa lata uczył angielskiego.	üniversiteden	0	0
+Ben karda araba sürmeye alışkın değilim.	Nie jestem przyzywczajony do jazdy samochodem w śniegu.	sürmeye	0	0
+Ek olarak yaşlılar birbirleriyle sosyalleşebilsin ve Amerikan hayatının aktif üyeleri olarak kalabilsinler diye birçok topluluk kurulmuştur.	Ponadto stworzono wiele grup, po to, by osoby starsze mogły spotykać się ze sobą i pozostać czynnymi uczestnikami życia Ameryki.	topluluk	0	0
+Sana satranç oynamayı öğreteceğim.	Nauczę cię grać w szachy.	öğreteceğim	0	0
+Caddede yüzlerce araba vardı.	Na ulicy było kilkaset samochodów.	caddede	0	0
+Mağaza kapalı.	Sklep jest zamknięty.	mağaza	0	0
+Bir müşteri ile birlikteyim.	Jestem z klientem.	birlikteyim	0	0
+Tatoeba'nı yeni versiyonu, insanları eklemeye ve onlarda redaksiyon yapmaya olanak sağlayacak!	Nowa wersja Tatoeba dostarcza możliwość dodawania osób i redagowania tekstu.	versiyonu	0	0
+Yeteneğim yok.	Nie mam talentu.	yeteneğim	0	0
+Yasa, bu alana herhangi bir gökdelenin inşa edilmesini yasaklıyor.	Nielegalne jest budowanie w tym miejscu wysokościowców.	edilmesini	0	0
+Bulaşık makinesinin nasıl çalıştığını anlatabilir misin?	Czy możesz mi wyjaśnić, jak działa zmywarka?	bulaşık	0	0
+Otobüste cüzdanım çalındı.	Mój portfel został skradziony w autobusie.	otobüste	0	0
+O bir sincap mıydı?	Czy to była wiewiórka?	sincap	0	0
+Bir motel işletiyorum.	Prowadzę motel.	motel	0	0
+Felicja TV izlemeyi seviyor.	Felicja lubi oglądać telewizję.	izlemeyi	0	0
+Sizlerin kitabı var mı?	Macie książkę?	sizlerin	0	0
+Her ülkenin kendi bayrağı vardır.	Każdy kraj ma swoją flagę.	bayrağı	0	0
+Bu programın hem indirme hem de yükleme olanakları vardır.	Ten program dostarcza zarówno możliwość pobierania jak i ładowania danych.	yükleme	0	0
+Ben Çingene şarkıları söylerim.	Śpiewam cygańskie piosenki.	çingene	0	0
+Dünyanın en iyi judokası kimdir?	Kto jest najlepszym judoką na świecie?	kimdir	0	0
+Tom'a ev ödevini e-posta gönderdim.	Wysłałem Tomowi jego pracę domową e-mailem.	ödevini	0	0
+Atom enerjisi pahalı ve tehlikeli.	Energia jądrowa jest droga i niebezpieczna.	enerjisi	0	0
+Tom nedenini bilmeyecek.	Tom nie będzie znał powodu.	bilmeyecek	0	0
+Bu nehir içinde yüzmek için tehlikelidir.	Niebezpiecznie jest pływać w tej rzece.	tehlikelidir	0	0
+Tom evimizi boyamamıza yardım etmeyi kabul etti.	Tom zgodził się nam pomóc pomalować dom.	evimizi	0	0
+Odaya girdiğimi uyarmak için Tom ve Mary birbirlerine bağıramayacak kadar çok meşguldü.	Tom i Mary byli tak zajęci wrzeszczeniem na siebie, że nie zauważyli jak wszedłem do pokoju.	uyarmak	0	0
+Polonyalı arkeologlar Afrika'da çalışmalar yürütüyor.	Polscy archeolodzy prowadzą badania w Afryce.	çalışmalar	0	0
+Bu ilaç senin daha iyi hissetmeni sağlayacak.	To lekarstwo spowoduje, że szybciej poczujesz się lepiej.	hissetmeni	0	0
+İyi akşamlar Şikago.	Witaj, Chicago!	şikago	0	0
+Onların suçlamaları doğru olabilir.	Ich oskarżenia mogą być prawdziwe.	suçlamaları	0	0
+Tanrı her yerde olamazdı. Bu yüzden anneleri yarattı.	Bóg nie mógł być wszędzie, dlatego stworzył matki.	anneleri	0	0
+Kocama söyleme.	Nie mów mojemu mężowi.	kocama	0	0
+Burada güvendeyiz.	Tutaj jesteśmy bezpieczni.	güvendeyiz	0	0
+Tom atına bindi.	Tom wsiadł na konia.	bindi	0	0
+Kendisine yöneltilen sorulara cevap vermekten kaçındı.	On odmówił odpowiedzi na zadane mu pytania.	sorulara	0	0
+Anime yönetmeni Satoshi Kon, kırk yedinci doğum gününden kısa süre önce 24 Ağustos 2010 tarihinde pankreas kanserinden öldü.	Reżyser anime Satoshi Kon zmarł na raka trzustki 24 sierpnia 2010 roku, na krótko przed jego 47 urodzinami.	yönetmeni	0	0
+Saatlerdir bekliyorum.	Czekałem godzinami.	saatlerdir	0	0
+Bir çatal kayıp.	Nie ma widelca.	çatal	0	0
+Bu Latince mi?	Czy to łacina?	latince	0	0
+Bu ülke kültürel açıdan gelişmiş	Ten kraj rozwinął się kulturalnie.	kültürel	0	0
+Tom ve ben bir daireyi paylaşırdık.	Dzieliliśmy mieszkanie z Tomem.	daireyi	0	0
+Maymunlar muzdan hoşlanır.	Małpy lubią banany.	maymunlar	0	0
+Bütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler ve birbirlerine karşı kardeşlik zihniyeti ile hareket etmelidirler.	Wszystkie istoty ludzkie rodzą się wolne i równe w godności i prawach. Są one obdarzone rozumem i sumieniem oraz powinny postępować w stosunku do siebie wzajemnie w duchu braterstwa.	kardeşlik	0	0
+Kapıda bir aslan heykeli vardı.	W drzwiach był pomnik lwa.	heykeli	0	0
+Komite beş bölüme ayrılmıştı.	Komitet był podzielony na pięć sekcji.	bölüme	0	0
+Tom göründüğünden daha akıllıdır.	Tom jest dużo mądrzejszy, niż wygląda.	göründüğünden	0	0
+Senin yeni telefon numaran ne?	Jaki jest twój nowy numer telefonu?	numaran	0	0
+Komite beş bölüme ayrılmıştı.	Komitet był podzielony na pięć sekcji.	komite	0	0
+Tom, Mary'nin yanağını öptü.	Tom pocałował policzek Mary.	öptü	0	0
+Ergen değilim.	Nie jestem nastolatkiem.	ergen	0	0
+Polonyalı bilim insanları Afrika'da araştırmalar yürütüyor.	Polscy naukowcy prowadzą badania w Afryce.	araştırmalar	0	0
+Onun bir kedisi ve iki köpeği var.	On ma kota i dwa psy.	kedisi	0	0
+Ek olarak yaşlılar birbirleriyle sosyalleşebilsin ve Amerikan hayatının aktif üyeleri olarak kalabilsinler diye birçok topluluk kurulmuştur.	Ponadto stworzono wiele grup, po to, by osoby starsze mogły spotykać się ze sobą i pozostać czynnymi uczestnikami życia Ameryki.	yaşlılar	0	0
+Akıllı bir adam bu şekilde hareket etmezdi.	Mądry człowiek nie postąpiłby w ten sposób.	etmezdi	0	0
+Onunla aynı görüşü paylaşıyorum.	Podzielam jego zdanie.	görüşü	0	0
+Mutsuz geçmişini unutmaya çalışmalısın.	Trzeba starać się zapomnieć nieszczęścia przeszłości.	unutmaya	0	0
+Ben karda araba sürmeye alışkın değilim.	Nie jestem przyzywczajony do jazdy samochodem w śniegu.	alışkın	0	0
+Bu nehir içinde yüzmek için tehlikelidir.	Niebezpiecznie jest pływać w tej rzece.	yüzmek	0	0
+Park etmek yasaktır.	Nie parkować.	yasaktır	0	0
+Mike, uçaklar genelde böyle mi sarsılırlar?	Mike, czy samoloty zwykle drżą w ten sposób?	uçaklar	0	0
+Yatak odanı paylaştığın kıza ne oldu?	Co stało się z dziewczyną, z którą dzieliłeś pokój?	odanı	0	0
+Tom meşgul görünmeye çalıştı.	Tom próbował wyglądać na zajętego.	görünmeye	0	0
+Senin sözlerin onu çok daha iyi hissettirdi.	Twoje słowa spowodowały że poczuł się dużo lepiej.	sözlerin	0	0
+Kulübe katılmak isteyenler lütfen buraya isimlerini yazsın.	Chętni do wstąpienia do klubu proszeni są o wpisanie się tutaj.	isteyenler	0	0
+Beni istasyona kadar götürebilir misiniz?	Czy podwieziesz mnie na stację?	istasyona	0	0
+Sen çok yeteneklisin.	Jesteś bardzo utalentowany.	yeteneklisin	0	0
+Lütfen burayı imzalayın.	Proszę tutaj podpisać.	imzalayın	0	0
+Yaya gittik.	Poszliśmy pieszo.	yaya	0	0
+Yaşını gizli tutuyor.	Utrzymuje swój wiek w tajemnicy.	yaşını	0	0
+Teklifimi çabucak kabul etti.	Chętnie zgodziła się na moją propozycję.	teklifimi	0	0
+Yumurtaları sevmediğimi biliyorsun.	Wiesz, że nie lubię jajek.	yumurtaları	0	0
+Tom kartlarını masaya koydu.	Tom położył swoje karty na stole.	kartlarını	0	0
+İngilizce telaffuzumu geliştirmek istiyorum.	Chciałbym poprawić moją wymowę angielską.	geliştirmek	0	0
+Sıcaklıklarda bir artış beklenmektedir.	Spodziewany jest wzrost temperatury.	artış	0	0
+Mutsuz geçmişini unutmaya çalışmalısın.	Trzeba starać się zapomnieć nieszczęścia przeszłości.	çalışmalısın	0	0
+Kabuki tiyatrosunu araştırıyorum.	Badam teatr kabuki.	araştırıyorum	0	0
+Çocuk gülmek yerine ağlıyor.	Dziecko płacze, zamiast się śmiać.	gülmek	0	0
+Sen, ne zaman onu tanımaya geldin?	Kiedy ją pan poznał?	tanımaya	0	0
+Bugün meşgul müsünüz?	Jesteś dzisiaj zajęty?	müsünüz	0	0
+Tom evde dinleniyor.	Tom odpoczywa w domu.	dinleniyor	0	0
+Onun düşük maaşı onun ev satın almasını engeller.	Jego niska pensja przeszkadza mu w zakupie domu.	maaşı	0	0
+Pardon ama radyoyu kısabilir misin acaba?	Przepraszam, czy można prosić o ściszenie radia?	radyoyu	0	0
+Odaya parfüm kokusu yayıldı.	Pokój był przesycony zapachem perfum.	yayıldı	0	0
+Onun düşük maaşı onun ev satın almasını engeller.	Jego niska pensja przeszkadza mu w zakupie domu.	engeller	0	0
+Beş ile üçün toplamı sekize eşittir.	Pięć plus trzy równa się osiem.	eşittir	0	0
+Tom tam köşedeki pahalı bir restoranda suşi yedi.	Tom jadł sushi w drogiej restauracji za rogiem.	köşedeki	0	0
+Ölümden korkan bir adamsın, değil mi?	Boisz się śmierci, prawda?	korkan	0	0
+Kar geceleyin yağıyordu.	Śnieg padał w nocy.	geceleyin	0	0
+Ben gölde bir balığım.	Łowię ryby nad jeziorem.	gölde	0	0
+Evrende bir sürü galaksi vardır.	Jest wiele galaktyk we wszechświecie.	galaksi	0	0
+Dağlarda bir evim var.	Mam domek w górach.	dağlarda	0	0
+Tom tam köşedeki pahalı bir restoranda suşi yedi.	Tom jadł sushi w drogiej restauracji za rogiem.	suşi	0	0
+Tom ve Mary haftada iki veya üç kez biftek yiyorlar.	Tom i Mary jedzą stek dwa trzy razy w tygodniu.	yiyorlar	0	0
+Yurt dışında dilbilimi üzerine yüksek lisans yapmak istiyorum.	Chcę zrobić magisterkę z językoznawstwa za granicą.	lisans	0	0
+Örümceklerin kulakları yoktur.	Pająki nie mają uszu.	kulakları	0	0
+Bill, Japonya'daydı.	Bill był w Japonii.	daydı	0	0
+Bu üç dakikadan daha fazla sürmedi.	To nie trwało więcej niż trzy minuty.	sürmedi	0	0
+Onlar çocuktur.	Oni są dziećmi.	çocuktur	0	0
+Neden bu cümleyi çevirdin?	Dlaczego przetłumaczyłaś to zdanie?	çevirdin	0	0
+Sen eskisinden çok daha şişmansın.	Jesteś dużo grubsza niż kiedyś.	eskisinden	0	0
+Her ne istiyorsan yiyebilirsin.	Możesz jeść wszystko co chcesz.	yiyebilirsin	0	0
+Sydney'in güzel bir doğal limanı vardır.	Sydney ma piękny naturalny port.	limanı	0	0
+Yarın doğum günüm ve 17 yaşını bitirmiş olacağım.	Jutro będą moje urodziny i ukończę 17 lat.	bitirmiş	0	0
+Hep bu yoldan giderdik okula.	Chodziliśmy zawsze tędy do szkoły.	giderdik	0	0
+Geçen ay Londra'daydım.	W zeszłym miesiącu byłem w Londynie.	daydım	0	0
+Tom aynada kendine baktı.	Tom patrzył na siebie w lustrze.	aynada	0	0
+Sinemaya mı gitmek istiyorsun yoksa tiyatroya mı?	Chcesz iść do kina, czy do teatru?	tiyatroya	0	0
+Genellikle saat altıda kalkarım.	Zazwyczaj wstaję o szóstej.	altıda	0	0
+Ödül parası dünya gezisine gitmeme olanak sağladı.	Pieniądze z nagrody umożliwiły mi podróż po świecie.	gezisine	0	0
+Gece yağmur yağacak zannedildi.	Wieczorem może padać.	yağacak	0	0
+Bilgisayarlar bizden daha iyi.	Komputery są lepsze od nas.	bilgisayarlar	0	0
+Hayattayım.	Żyję.	hayattayım	0	0
+Eliza ağlıyor.	Eliza płacze.	eliza	0	0
+Mozart öleli 200 yıl oldu.	Minęło 200 lat od śmierci Mozarta.	mozart	0	0
+Fiyatları aniden düştü.	Ceny nagle spadły.	fiyatları	0	0
+Bu iki kitaptan hangisi daha iyi?	Która z tych dwóch książek jest lepsza?	kitaptan	0	0
+Maç için iki tane biletim var.	Mam dwa bilety na mecz.	biletim	0	0
+Mozart öleli 200 yıl oldu.	Minęło 200 lat od śmierci Mozarta.	öleli	0	0
+Anime yönetmeni Satoshi Kon, kırk yedinci doğum gününden kısa süre önce 24 Ağustos 2010 tarihinde pankreas kanserinden öldü.	Reżyser anime Satoshi Kon zmarł na raka trzustki 24 sierpnia 2010 roku, na krótko przed jego 47 urodzinami.	gününden	0	0
+Tom'un aksanı hakkında bir şaka yaptım.	Zażartowałem z akcentu Toma.	aksanı	0	0
+Beklediğimden daha uzunsun.	Jesteś wyższy, niż się spodziewałam.	beklediğimden	0	0
+Ölen annem hakkında sıkça düşünüyorum.	Często myślę o mojej zmarłej matce.	sıkça	0	0
+Ben güçlüyüm.	Jestem silny.	güçlüyüm	0	0
+Tom odaya yürüdü.	Tom poszedł do pokoju.	yürüdü	0	0
+Yeni ayakkabıların mı var?	Masz nowe buty?	ayakkabıların	0	0
+Onun popülerliği hakkında şüphelerim var.	Mam wątpliwości co do jego popularności.	şüphelerim	0	0
+Roman beş dilde okunabilir.	Powieść można przeczytać w pięciu językach.	dilde	0	0
+E-posta yazmak için çok zaman harcıyor musun?	Ile czasu zajmuje ci napisanie maila?	harcıyor	0	0
+Orijinal dilin ne olduğunu bilmem gerekiyor.	Muszę wiedzieć jaki jest oryginalny język.	dilin	0	0
+Ben Chuck's Bar and Grill'de çalışırdım.	Pracowałem w Chuck's Bar and Grill.	çalışırdım	0	0
+O küçük bir köpek kulübesi inşa etti.	Zrobił małą psią budę.	kulübesi	0	0
+Ödül parası dünya gezisine gitmeme olanak sağladı.	Pieniądze z nagrody umożliwiły mi podróż po świecie.	olanak	0	0
+O, yarışta beşinci geldi.	Ukończył zawody na piątym miejscu.	yarışta	0	0
+İstasyona vardığında, annesini aradı.	Po przyjeździe na dworzec zadzwoniła do matki.	vardığında	0	0
+Çok yakışıklısın.	Jesteś bardzo przystojny.	yakışıklısın	0	0
+Japonca konuşuyor musun?	Czy mówisz po japońsku?	japonca	0	0
+Öleceksiniz.	Umrzecie.	öleceksiniz	0	0
+Polonyalı bilim insanları Afrika'da araştırmalar yürütüyor.	Polscy naukowcy prowadzą badania w Afryce.	polonyalı	0	0
+Sen bana eskiden tanıdığım birini hatırlatıyorsun.	Przypominasz mi kogoś, kogo kiedyś poznałem.	hatırlatıyorsun	0	0
+Ofisim beşinci katta bulunuyor.	Moje biuro znajduje się na piątym piętrze.	ofisim	0	0
+Neden bu cümleyi çevirdin?	Dlaczego przetłumaczyłeś to zdanie?	cümleyi	0	0
+Keşke bana Tom demeye başlasan.	Chciałbym, żebyś zaczął zwracać się do mnie Tom.	başlasan	0	0
+İnsan, doğaya göre sosyal bir hayvandır.	Człowiek jest z natury istotą społeczną.	doğaya	0	0
+Bu cümlede virgülü bir noktayla değiştiremezsin.	Nie możesz zastąpić przecinka kropką w tym zdaniu.	değiştiremezsin	0	0
+Bu sandalyeyi nasıl tamir edebilirim?	Chciałbym zwrócić krzesło.	sandalyeyi	0	0
+O derin bir uykuya daldı.	Zapadł w głęboki sen.	daldı	0	0
+Bu yol sizi müzeye götürecektir.	Idąc tą drogą dojdziemy do muzeum.	müzeye	0	0
+Mark şeylerini aldı ve gitti.	Mark wziął swoje rzeczy i poszedł.	şeylerini	0	0
+Beyaz şemsiye sizin.	Biała parasolka jest wasza.	şemsiye	0	0
+O yemeği yiyemem.	Nie mogę jeść tego jedzenia.	yiyemem	0	0
+Tom Mary ile asla tanışmamış olmayı diledi.	Tom marzył	diledi	0	0
+Bu fotoğrafa bak.	Spójrz na to zdjęcie.	fotoğrafa	0	0
+Bunu nasıl kanıtlayabilirim?	Jak mogę to udowodnić?	kanıtlayabilirim	0	0
+Bütün dağ sonbaharda renk değiştirir.	Cała góra zmienia jesienią kolor.	sonbaharda	0	0
+Buna alışmak biraz sürecek.	Trochę zajmie zanim się do tego przyzwyczaję.	alışmak	0	0
+Büyükannem bile SMS gönderebilir.	Nawet moja babcia umie wysyłać smsy.	gönderebilir	0	0
+İlham vermedi mi?	Niezainspirowany?	İlham	0	0
+Evimizin arkasında bir park var.	Za naszym domem jest park.	evimizin	0	0
+İstasyona yedide ulaştı.	Dotarł na dworzec o siódmej.	yedide	0	0
+Niye yemiyorsun?	Dlaczego nie jesz?	yemiyorsun	0	0
+Lina, Ilokano dilini öğreniyordu.	Lina uczyła sie języka Ilokanu.	lina	0	0
+Japonca konuşamıyorum.	Nie mówię po japońsku.	konuşamıyorum	0	0
+Size birkaç sorumuz var.	Mamy do ciebie kilka pytań.	sorumuz	0	0
+Tüm belgeleri imzaladım.	Podpisałam wszystkie dokumenty.	imzaladım	0	0
+O, bir polis devriyesi görünce kaçtı.	Uciekł jak zobaczył patrol policji.	devriyesi	0	0
+Jane Mary'nin ona yardım edeceğini umuyor.	Jane ma nadzieję, że Mary jej pomoże.	umuyor	0	0
+Ben hâlâ bir kask giymeye alışkın değilim.	W dalszym ciągu nie jestem przyzwyczajony do noszenia kasku.	kask	0	0
+Sporu rekabet için değil zevk için yapıyorum.	Lubię uprawiać sport dla zabawy, nie dla współzawodnictwa.	sporu	0	0
+Yumurtaları sevmediğimi biliyorsun.	Wiesz, że nie lubię jajek.	sevmediğimi	0	0
+Odaya girdiğimi uyarmak için Tom ve Mary birbirlerine bağıramayacak kadar çok meşguldü.	Tom i Mary byli tak zajęci wrzeszczeniem na siebie, że nie zauważyli jak wszedłem do pokoju.	meşguldü	0	0
+Bulaşık makinesinin nasıl çalıştığını anlatabilir misin?	Czy możesz mi wyjaśnić, jak działa zmywarka?	makinesinin	0	0
+En yakın otobüs durağı nerede?	Gdzie jest najbliższy przystanek autobusowy?	durağı	0	0
+İnternet bağlantım çok yavaş.	Moje połączenie internetowe jest bardzo wolne.	bağlantım	0	0
+Bütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler ve birbirlerine karşı kardeşlik zihniyeti ile hareket etmelidirler.	Wszystkie istoty ludzkie rodzą się wolne i równe w godności i prawach. Są one obdarzone rozumem i sumieniem oraz powinny postępować w stosunku do siebie wzajemnie w duchu braterstwa.	bakımından	0	0
+Yemek yerken ağzında yemekle konuşma.	Nie mów z pełnymi ustami.	yemekle	0	0
+Onu temsilcimiz olarak seçtik.	Wybraliśmy go na posła.	seçtik	0	0
+Oo bakıyorum da hızlısın.	Oh wow, szybka jesteś.	hızlısın	0	0
+Ben plaja gitmeyi severdim.	Kochałam chodzić na plażę.	plaja	0	0
+Sadece Tom'un ağladığını görmekten nefret ediyorum.	Po prostu nienawidzę patrzeć na to, jak Tom płacze.	ağladığını	0	0
+Cookie'nin annesi kanserden öldü.	Mama Cookie zmarła na raka.	kanserden	0	0
+Alfabeyi tersten oku.	Powiedz alfabet od tyłu.	tersten	0	0
+Ne zamandır burada oturuyorsunuz?	Jak długo tutaj mieszkacie?	oturuyorsunuz	0	0
+Otobüste cüzdanım çalındı.	Mój portfel został skradziony w autobusie.	cüzdanım	0	0
+İslam'ın beş şartı nelerdir?	Czym są pięć filarów islamu?	nelerdir	0	0
+Tom'un bir arkadaşısın, değil mi?	Jesteś przyjacielem Toma, prawda?	arkadaşısın	0	0
+Bütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler ve birbirlerine karşı kardeşlik zihniyeti ile hareket etmelidirler.	Wszystkie istoty ludzkie rodzą się wolne i równe w godności i prawach. Są one obdarzone rozumem i sumieniem oraz powinny postępować w stosunku do siebie wzajemnie w duchu braterstwa.	haklar	0	0
+Ne kadar hızlı yüzüyor	Jak ona szybko pływa!	yüzüyor	0	0
+Hava soğuyor.	Ochłodziło się.	soğuyor	0	0
+Ambulansa ihtiyacın var mı?	Czy potrzebujesz karetkę?	ambulansa	0	0
+Onu kendim için yargılamak zorunda kaldım.	Sam muszę to ocenić.	yargılamak	0	0
+O, babasının ölümünden sonra işle ilgilendi.	Przejął biznes ojca po jego śmierci.	ilgilendi	0	0
+Kedim var.	Mam kota.	kedim	0	0
+Benim kötü bir mide ağrım vardı.	Bardzo bolał mnie żołądek.	ağrım	0	0
+Üstlerine gitme.	Daj im odpocząć.	üstlerine	0	0
+Kyoto çok güzel bir şehir.	Kioto to piękne miasto.	kyoto	0	0
+Onlar bu meyvenin senin sağlığın için iyi olduğunu söylüyorlar.	Mówią że ten owoc jest dobry dla twojego zdrowia.	sağlığın	0	0
+Midilli küçük bir attır.	Kucyk to mały koń.	midilli	0	0
+Dün 10 tane şiş yedim.	Wczoraj zjadłem 10 szaszłyków.	şiş	0	0
+Ben bisikletle dışarı gittim.	Pojechałem rowerem.	bisikletle	0	0
+Başkalarını kıskanma alışkanlığı var.	On zazdrości innym.	alışkanlığı	0	0
+Arabayı bu caddeye park etmemelisiniz.	Nie wolno parkować na tej ulicy.	caddeye	0	0
+Sen bir katilsin.	Jesteś mordercą.	katilsin	0	0
+Bunlar her yerde satılıyor.	Wszędzie się je sprzedaje.	satılıyor	0	0
+Mum kendiliğinden söndü.	Świeczka sama zgasła.	söndü	0	0
+Miyav.	Miau.	miyav	0	0
+Bu bilet iki hafta için geçerlidir.	Ten bilet jest ważny przez dwa miesiące.	geçerlidir	0	0
+Bazı kadınlar sutyen giymez.	Niektóre kobiety nie noszą staników.	sutyen	0	0
+Balinalar balık değildir. Onlar memelilerdir.	Wieloryby to nie ryby. To ssaki.	balinalar	0	0
+Ben karda araba sürmeye alışkın değilim.	Nie jestem przyzywczajony do jazdy samochodem w śniegu.	karda	0	0
+Ben beni sevmeyen insanlara oldukça alışkınım.	Jestem w miarę przyzwyczajony do osób, które nie darzą mnie sympatią.	sevmeyen	0	0
+Bütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler ve birbirlerine karşı kardeşlik zihniyeti ile hareket etmelidirler.	Wszystkie istoty ludzkie rodzą się wolne i równe w godności i prawach. Są one obdarzone rozumem i sumieniem oraz powinny postępować w stosunku do siebie wzajemnie w duchu braterstwa.	hür	0	0
+Köydeki herkesi tanıyorum.	Znam wszystkich we wsi.	köydeki	0	0
+Dünyada yedi bini aşkın dil vardır.	Na świecie jest ponad siedem tysięcy języków.	bini	0	0
+Bu akşam televizyon izleyebilir miyim?	Czy mogę dziś wieczorem oglądać telewizję?	izleyebilir	0	0
+Hiç sabrım yoktur.	Nie mam cierpliwości.	sabrım	0	0
+Polonyalı arkeologlar Afrika'da çalışmalar yürütüyor.	Polscy archeolodzy prowadzą badania w Afryce.	yürütüyor	0	0
+O kitabı okumayı bitirdiğinde onu bana geri ver.	Jak skończyć czytać tę książkę, to oddaj mi ją z powrotem.	bitirdiğinde	0	0
+Ben hâlâ bir kask giymeye alışkın değilim.	W dalszym ciągu nie jestem przyzwyczajony do noszenia kasku.	giymeye	0	0
+Bunu yapmama birinin yardım edip edemeyeceğini merak ediyorum.	Jestem ciekawa, czy ktoś mógłby mi pomóc to zrobić.	edemeyeceğini	0	0
+O emirleri dinlemekten başka seçeneğim yok.	Nie mam innego wyboru niż słuchać tych rozkazów.	dinlemekten	0	0
+Pizzayı seviyorum.	Kocham pizzę.	pizzayı	0	0
+Benimle aynı fikirde olmayan insanlara alışkınım.	Przyzwyczaiłem się do osób, które się ze mną nie zgadzają.	alışkınım	0	0
+Gerçekten çok ilginçti.	To było naprawdę bardzo interesujące.	ilginçti	0	0
+Bu tükenmez kalemi iki dolara satın aldım.	Kupiłem ten długopis za dwa dolary.	tükenmez	0	0
+Birlikte taşınmayı düşünüyorlar.	Myślą o wspólnej przeprowadzce.	taşınmayı	0	0
+Türkiye'de hiç bulunmadım.	Nigdy nie byłem w Turcji.	bulunmadım	0	0
+Onunla aynı görüşü paylaşıyorum.	Podzielam jego zdanie.	paylaşıyorum	0	0
+Onlar onun dakikliğinden gurur duyuyordu.	Jest dumny ze swojej skrupulatności.	duyuyordu	0	0
+Tom arabayı yıkıyor.	Tom myje samochód.	yıkıyor	0	0
+Ben bir lisans derecesi aldım.	Zrobiłem licencjat.	derecesi	0	0
+Hayattaki yegâne hedef para kazanmak değildir.	Zarabianie pieniędzy to nie jest jedyny cel życia.	yegâne	0	0
+Tom'un bir ineği var.	Tom ma krowę.	ineği	0	0
+Ozon tabakası olmasa, tehlikede oluruz.	Gdyby nie warstwa ozonowa, bylibyśmy w bezpośrednim niebezpieczeństwie.	tabakası	0	0
+Kar yağıyordu.	Padał śnieg.	yağıyordu	0	0
+Dağın zirvesi karla kaplı.	Szczyty gór są pokryte śniegiem	karla	0	0
+O yabancı ülkelerde seyahat etti.	Podróżowała za granicę.	ülkelerde	0	0
+Aradım ama onu bulmadım.	Szukałem, ale jej nie znalazłem.	bulmadım	0	0
+Aşk onu rüyalarında görmektir.	Miłość to widzieć ją nawet we śnie.	rüyalarında	0	0
+Yunanca kolay bir dil değildir.	Grecki nie jest łatwym językiem.	yunanca	0	0
+Neden uyumuyor?	Dlaczego on nie śpi?	uyumuyor	0	0
+Karşıya geçerken çok dikkâtli olamıyorsun.	Ostrożności nigdy za wiele.	olamıyorsun	0	0
+Taşınıp kendi için bir yer bulmak istiyor.	Ona chce się wyprowadzić i znaleźć swoje własne miejsce.	taşınıp	0	0
+"Nasıl gitti?" "Onun akut apandisit olduğunu söylediler."	"Jak poszło?" "Mówili, że to było ostre zapalenie wyrostka robaczkowego."	akut	0	0
+Çantama ne oldu?	Co się stało z moją torbą?	çantama	0	0
+Tom köpeklerden korkar.	Tom boi się psów.	köpeklerden	0	0
+Bu programın hem indirme hem de yükleme olanakları vardır.	Ten program dostarcza zarówno możliwość pobierania jak i ładowania danych.	indirme	0	0
+Birkaç kilo kaybetmem gerekiyor.	Muszę schudnąć parę kilo.	kaybetmem	0	0
+Daha önce hiç mango yememiştim.	Nigdy wcześniej nie jadłam mango.	mango	0	0
+Tom atına bindi.	Tom wsiadł na konia.	atına	0	0
+Komite beş bölüme ayrılmıştı.	Komitet był podzielony na pięć sekcji.	ayrılmıştı	0	0
+Ona masasını taşıması için yardım ettim.	Pomogłem mu przenieść stół.	taşıması	0	0
+Tom köpeğine bir kemik verdi.	Tom dał swojemu psu kość.	köpeğine	0	0
+Bir adresin var mı?	Zna pan adres docelowy?	adresin	0	0
+Matsuyama'da doğup büyüdüm.	Urodziłam się i wychowałam w Matsuyama.	doğup	0	0
+Kilo vermekte sorun yaşıyor musun?	Czy masz problem ze zrzuceniem wagi ?	vermekte	0	0
+Onun görüşüne katılıyorum.	Podzielam jego zdanie.	görüşüne	0	0
+Birlikte gerçekten mutlu muyduk?	Czy naprawdę byliśmy razem szczęśliwi?	muyduk	0	0
+Çabuk cevabından şaşırmıştım.	Byłem zdziwiony jej błyskawiczną odpowiedzią.	şaşırmıştım	0	0
+Onu yapmasan ne olur?	Co się stanie jak tego nie zrobisz?	yapmasan	0	0
+Çok da eminmiş gibi durmuyorsun.	Nie wyglądasz zbyt pewnie.	durmuyorsun	0	0
+Odaya girdiğimi uyarmak için Tom ve Mary birbirlerine bağıramayacak kadar çok meşguldü.	Tom i Mary byli tak zajęci wrzeszczeniem na siebie, że nie zauważyli jak wszedłem do pokoju.	girdiğimi	0	0
+Bugün hava bulutlu.	Dzisiaj jest pochmurno.	bulutlu	0	0
+Tren istasyondan ayrılıyor.	Pociąg odjeżdża z dworca.	istasyondan	0	0
+Ona masasını taşıması için yardım ettim.	Pomogłem mu przenieść stół.	masasını	0	0
+Tom her pazartesi tenis oynardı.	Tom grał w tenisa w każdy poniedziałek.	oynardı	0	0
+Bir motel işletiyorum.	Prowadzę motel.	işletiyorum	0	0
+"O senden hoşlanıyor mu?" "Hayır fakat iyi bir arkadaş ve birlikte eğleniriz."	"Podobasz mu się?" "Nie, ale jest dobrym kolegą i spędzamy razem czas.	eğleniriz	0	0
+O ilk hamleyi yaptı.	Ona zrobiła pierwszy krok.	hamleyi	0	0
+Dün gece kiminle birlikteydin?	Z kim byłeś zeszłej nocy?	birlikteydin	0	0
+Dünden beri bilgisayarım bir kaçık gibi.	Od wczoraj komputer mi wariuje.	bilgisayarım	0	0
+Dağın zirvesi karla kaplı.	Szczyty gór są pokryte śniegiem	zirvesi	0	0
+İstasyona yedide ulaştı.	Dotarł na dworzec o siódmej.	İstasyona	0	0
+Jüpiter'in kaç uydusu var?	Ile księżyców ma Jowisz?	uydusu	0	0
+İslam'ın beş şartı nelerdir?	Czym są pięć filarów islamu?	şartı	0	0
+Büyük bir seferin lideriydi.	Był szefem wielkiej wyprawy.	seferin	0	0
+Yüksek lisansını nerede yaptın?	Gdzie zrobiłaś magisterkę?	lisansını	0	0
+Şimdilik amcamla birlikte kalıyorum fakat daha sonra küçük bir apartman dairesine taşınacağım.	Póki co mieszkam z wujkiem, ale później wyprowadzę się do jakiegoś małego mieszkania.	taşınacağım	0	0
+Öğretmenimiz bize zor sorular verdi.	Nauczyciel da nam pewnie trudne zadania.	öğretmenimiz	0	0
+Sana yardım etmeme izin vermeliydin.	Powinieneś mi pozwolić, żebym ci pomogła.	vermeliydin	0	0
+Onu hastanenin içerisine aldılar.	Przyjęli ją do szpitala.	içerisine	0	0
+Oraya seninle gitmeliydim.	Powinnam była iść tam z tobą.	gitmeliydim	0	0
+Tom benim raporumu bekliyor.	Tom czeka na moje sprawozdanie.	raporumu	0	0
+İbranice konuşuyor musun?	Mówisz po hebrajsku?	İbranice	0	0
+Zil çalar çalmaz öğretmen sınıfa girdi.	Jak tylko zadzwonił dzwonek, nauczyciel wszedł do klasy.	çalmaz	0	0
+Karısını mutlu etmeye çalıştı ama nafile.	Próbował uszczęśliwić żonę, ale na próżno.	nafile	0	0
+Bu fotoğraflarda geçen yazın anıları var.	Te zdjęcia zawierają wspomnienia z ostatniego lata.	fotoğraflarda	0	0
+Sadece İngilizce konuşabiliyorum.	Mówię tylko po angielsku.	konuşabiliyorum	0	0
+Ona beyhude yere inandık.	Niepotrzebnie mu uwierzyliśmy.	beyhude	0	0
+Kimse benim fikirlerimi dinlemek istemiyor.	Nikt nie chce słuchać moich poglądów.	fikirlerimi	0	0
+Hava soğumaya başladı	Ochłodziło się.	soğumaya	0	0
+Yatak odanı paylaştığın kıza ne oldu?	Co stało się z dziewczyną, z którą dzieliłeś pokój?	paylaştığın	0	0
+Ben bekarım.	Jestem kawalerem.	bekarım	0	0
+Bu hikâyeye inanıyorum.	Wierzę w tę historię.	hikâyeye	0	0
+Onu güçlükle tanıyorum.	Ledwo go znam.	güçlükle	0	0
+Stadyum, beyzbol hayranlarıyla dolmuştu.	Stadion był pełen kibiców baseballa.	stadyum	0	0
+Pencereyi açıp biraz temiz hava girmesini sağlayalım.	Otwórzmy okno i wpuśćmy trochę świeżego powietrza.	sağlayalım	0	0
+Şüphelilerin çoğu tutuklandı.	Aresztowano większość podejrzanych.	şüphelilerin	0	0
+Zor durumlarla başa çıkamıyor.	On nie umie sobie radzić z trudnymi sytuacjami.	çıkamıyor	0	0
+Bilimci araştırmaya devam etmekte ısrar etti.	Naukowiec nalegał, aby kontynuować badania.	bilimci	0	0
+İşveren, çalışanın iş akdini feshetti.	Pracodawca rozwiązał umowę o pracę pracownika.	çalışanın	0	0
+Kurs on dört gün sürecek.	Kurs będzie trwał czternaście dni.	kurs	0	0
+Kaza otobanda gerçekleşti.	Wypadek miał miejsce na autostradzie.	otobanda	0	0
+Şimşek çaktı.	Błysnęła błyskawica.	çaktı	0	0
+Güzel bir kentte yaşıyoruz.	Żyjemy w pięknym mieście.	kentte	0	0
+Biz onu durdurduk.	My go zatrzymaliśmy.	durdurduk	0	0
+Anime yönetmeni Satoshi Kon, kırk yedinci doğum gününden kısa süre önce 24 Ağustos 2010 tarihinde pankreas kanserinden öldü.	Reżyser anime Satoshi Kon zmarł na raka trzustki 24 sierpnia 2010 roku, na krótko przed jego 47 urodzinami.	pankreas	0	0
+O genç ama çok akıllıdır.	Jest młody, ale bardzo mądry.	akıllıdır	0	0
+Dün on yedinci doğum günümdü.	Wczoraj były moje siedemaste urodziny.	günümdü	0	0
+Çığ yolu kapadı.	Śnieżna lawina zablokowała drogę.	çığ	0	0
+Restoranımız bu restorandan daha iyidir.	Nasza restauracja jest lepsza od tej.	restorandan	0	0
+Sen evini satacaksın.	Sprzedasz swój dom.	satacaksın	0	0
+Aşk affetmez.	Miłość nie przebacza.	affetmez	0	0
+Tom şimdi TV izlemiyor.	Tom nie ogląda teraz telewizji.	izlemiyor	0	0
+Tom cep fenerini açtı.	Tom zaświecił latarkę.	fenerini	0	0
+Her şey bu cevaba işaret ediyordu.	Wszystko wskazywało na tę odpowiedź.	cevaba	0	0
+Etki küresini büyütmeye çalıştı.	On próbował powiększyć swoją strefę wpływów.	büyütmeye	0	0
+Sen zenginsin.	Jesteś bogaty.	zenginsin	0	0
+Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.	Nie chcę, żeby mój kraj stał się członkiem Unii Europejskiej.	ülkemin	0	0
+Beş ile üçün toplamı sekize eşittir.	Pięć plus trzy równa się osiem.	toplamı	0	0
+Doktor, Hipokrat Yemini'ni çiğnedi.	Lekarz złamał przysięgę Hipokratesa.	çiğnedi	0	0
+Tom Mary ile asla tanışmamış olmayı diledi.	Tom marzył	tanışmamış	0	0
+O tutuklandı ve bir casus olmakla suçlandı.	Została aresztowana i oskarżona o bycie szpiegiem.	suçlandı	0	0
+Beş ile üçün toplamı sekize eşittir.	Pięć plus trzy równa się osiem.	sekize	0	0
+Yakınlardaki küçük bir kasabada yaşıyordu.	Mieszkał w pobliskim miasteczku.	yakınlardaki	0	0
+Birkaç açıklama ekleyeceğim.	Dodam kilka objaśnień.	ekleyeceğim	0	0
+Çığ yolu kapadı.	Śnieżna lawina zablokowała drogę.	kapadı	0	0
+Kameram Nikon'dur.	Mój aparat to Nikon.	kameram	0	0
+Aklınıza bir şey gelirse lütfen bizi bilgilendirin.	Jeśli przyjdzie ci coś do głowy, proszę poinformuj nas o tym.	bilgilendirin	0	0
+Sen benim kahramanımsın.	Jesteś moim bohaterem.	kahramanımsın	0	0
+Tom çok yaramazdı, değil mi?	Tom był bardzo niegrzeczny, prawda?	yaramazdı	0	0
+Tom gerçekten bunu beklemiyordu.	Tom naprawdę się tego nie spodziewał.	beklemiyordu	0	0
+Müzenin girişi nerede?	Gdzie jest wejście do muzeum?	müzenin	0	0
+Telefon, onsuz yapamayacağın bir şeydir.	Telefon to coś, bez czego nie sposób się obejść.	yapamayacağın	0	0
+Bunu okuyamam.	Nie mogę tego przeczytać.	okuyamam	0	0
+Daha önce hiç mango yememiştim.	Nigdy wcześniej nie jadłam mango.	yememiştim	0	0
+Şimdilik amcamla birlikte kalıyorum fakat daha sonra küçük bir apartman dairesine taşınacağım.	Póki co mieszkam z wujkiem, ale później wyprowadzę się do jakiegoś małego mieszkania.	amcamla	0	0
+Önyargıları yok etmek atom çekirdeğini parçalamaktan daha zordur	Uprzedzenie trudniej jest rozbić niż atom	çekirdeğini	0	0
+Kişisel özgürlük demokrasinin ruhudur.	Wolność osobista to istota demokracji.	demokrasinin	0	0
+Kırmızı gömlekli erkeğe ne denir?	Jak mówimy na mężczyznę w czerwonej koszuli?	gömlekli	0	0
+İyi zamanlama. Ben seni yeni modelin test sürüşüne alacağım.	Świetnie! Dam ci się przejechać nowym modelem.	modelin	0	0
+Onlar yarın Japonya'dan ayrılıyorlar.	Jutro wyjeżdżają z Japonii.	ayrılıyorlar	0	0
+İnsan, doğaya göre sosyal bir hayvandır.	Człowiek jest z natury istotą społeczną.	hayvandır	0	0
+Bir süpermarkette kasiyer olarak çalışıyorum.	Pracuję jako kasjer w supermarkecie.	kasiyer	0	0
+Bu yol sizi müzeye götürecektir.	Idąc tą drogą dojdziemy do muzeum.	götürecektir	0	0
+Genellikle saat altıda kalkarım.	Zazwyczaj wstaję o szóstej.	kalkarım	0	0
+O, partilerden nefret eder.	Ona nienawidzi imprez.	partilerden	0	0
+Ben bir şey beğenmiyorum.	Nic mi się nie podoba.	beğenmiyorum	0	0
+Kulübe katılmak isteyenler lütfen buraya isimlerini yazsın.	Chętni do wstąpienia do klubu proszeni są o wpisanie się tutaj.	yazsın	0	0
+Sana hareket etmemeni söylemiştim.	Powiedziałem ci, żebyś się nie ruszał.	etmemeni	0	0
+Biz kazanmalıyız.	Musimy wygrać.	kazanmalıyız	0	0
+Kulübe katılmaz mısın?	Wstąpisz do naszego klubu?	katılmaz	0	0
+Annesi kadar uzundur.	Jest wysoka jak jej matka.	uzundur	0	0
+O mutludur.	Jest szczęśliwy.	mutludur	0	0
+Python bir programlama dilidir.	Python to język programowania.	programlama	0	0
+İnsan hakları kavramının açık bir tanımına ihtiyacımız var.	Potrzebujemy jasnej definicji koncepcji praw człowieka.	tanımına	0	0
+Anime yönetmeni Satoshi Kon, kırk yedinci doğum gününden kısa süre önce 24 Ağustos 2010 tarihinde pankreas kanserinden öldü.	Reżyser anime Satoshi Kon zmarł na raka trzustki 24 sierpnia 2010 roku, na krótko przed jego 47 urodzinami.	kanserinden	0	0
+Bunlar benim kitaplarım.	To są moje książki.	kitaplarım	0	0
+Hava bu gece soğuyacak.	Dzisiaj w nocy się ochłodzi.	soğuyacak	0	0
+"Nasıl gitti?" "Onun akut apandisit olduğunu söylediler."	"Jak poszło?" "Mówili, że to było ostre zapalenie wyrostka robaczkowego."	apandisit	0	0
+Bu kitabın yazarı hiç Rusya'da bulunmamış.	Autor tej książki nigdy nie był w Rosji.	bulunmamış	0	0
+Ben muhtemelen bunu yapmaya alışabilirim.	Prawdopodobnie mogę się przyzwyczaić do robienia tego.	alışabilirim	0	0
+Yasa, bu alana herhangi bir gökdelenin inşa edilmesini yasaklıyor.	Nielegalne jest budowanie w tym miejscu wysokościowców.	yasaklıyor	0	0
+Bir süpermarkette kasiyer olarak çalışıyorum.	Pracuję jako kasjerka w supermarkecie.	süpermarkette	0	0
+Pazar haftanın ilk günüdür.	Niedziela jest pierwszym dniem tygodnia.	günüdür	0	0
+Sen bir öğretmensin.	Jesteś nauczycielem.	öğretmensin	0	0
+O tamamen boyayla kaplanmıştı.	On był cały w farbie.	boyayla	0	0
+Toplantıya gitmem gerektiği konusunda onunla anlaştı.	Zgodziła się z nim, że muszę iść na spotkanie.	anlaştı	0	0
+Bir şeyler hatırlamalısın.	Coś musisz pamiętać.	hatırlamalısın	0	0
+Tom Mary'ye bir kek pişirdi.	Tom upiekł dla Mary ciasto.	pişirdi	0	0
+Modern Avrupalılar ve Amerikalılar çok benzerler.	Współcześni Europejczycy i Amerykanie są bardzo podobni.	avrupalılar	0	0
+Kitabınız var mı?	Ma pani książkę?	kitabınız	0	0
+Ben gölde bir balığım.	Łowię ryby nad jeziorem.	balığım	0	0
+Kimse bir defada iki şeyi yapamaz.	Nikt nie może zrobić dwóch rzeczy na raz.	defada	0	0
+O merdivenlerden aşağı yuvarlandı.	Spadł ze schodów.	yuvarlandı	0	0
+Ayakkabılarını çıkarmana gerek yok.	Nie musisz zdejmować butów.	çıkarmana	0	0
+Suyunuz var.	Wy macie wodę.	suyunuz	0	0
+Tom bunu haftalar önce yapmalıydı.	Tom powinien to zrobić już kilka tygodni temu.	yapmalıydı	0	0
+Kızım beni dinlemeyecek.	Moja córka nie chce mnie słuchać.	dinlemeyecek	0	0
+Evimin karşısında bir kitapçı var.	Przed moim domem jest księgarnia.	kitapçı	0	0
+Ozon tabakası olmasa, tehlikede oluruz.	Gdyby nie warstwa ozonowa, bylibyśmy w bezpośrednim niebezpieczeństwie.	ozon	0	0
+Neden buraya taşındınız?	Dlaczego się tutaj przeprowadziliście?	taşındınız	0	0
+Bu cümlede virgülü bir noktayla değiştiremezsin.	Nie możesz zastąpić przecinka kropką w tym zdaniu.	cümlede	0	0
+Augusto benim en sevgili oğlum.	Augusto jest moim najukochańszym synem.	augusto	0	0
+Stadyum, beyzbol hayranlarıyla dolmuştu.	Stadion był pełen kibiców baseballa.	dolmuştu	0	0
+Zor durumlarla başa çıkamıyor.	On nie umie sobie radzić z trudnymi sytuacjami.	durumlarla	0	0
+Sen eskisinden çok daha ağırsın.	Jesteś cięższa niż kiedyś.	ağırsın	0	0
+Tom doktordur.	Tom jest lekarzem.	doktordur	0	0
+Modern Avrupalılar ve Amerikalılar çok benzerler.	Współcześni Europejczycy i Amerykanie są bardzo podobni.	benzerler	0	0
+Anime yönetmeni Satoshi Kon, kırk yedinci doğum gününden kısa süre önce 24 Ağustos 2010 tarihinde pankreas kanserinden öldü.	Reżyser anime Satoshi Kon zmarł na raka trzustki 24 sierpnia 2010 roku, na krótko przed jego 47 urodzinami.	kon	0	0
+Onlar onu kazadan dolayı suçladılar.	Obwinili go za wypadek.	suçladılar	0	0

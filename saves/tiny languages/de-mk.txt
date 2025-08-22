@@ -1,0 +1,226 @@
+Wie hast du rausgefunden, wo ich wohne?	Како најде каде живеам?	ich	0	0
+Er hat sie in der Stadt gelassen.	Ја остави во град.	sie	0	0
+Ja, das ist normal.	Да, тоа е нормално.	das	0	0
+Tom ist durchschnittlich.	Том е просечен.	ist	0	0
+Ich weiß, dass du das nicht tust.	Знам дека не правиш така.	du	0	0
+Warum bist du nicht in Boston?	Зошто не си во Бостон?	nicht	0	0
+Sie dekoriert sich die Wände mit Postern.	Таа си ги украсови ѕидовите со постери.	die	0	0
+In Europa gibt es keine Pyramiden.	Нема пирамиди во Европа.	es	0	0
+Niemand weiß es, außer Tom und mir.	Никој не знае освен Том и мене.	und	0	0
+Wer ist der Vater?	Кој е таткото?	der	0	0
+Auf wen warten wir?	Кого чекаме?	wir	0	0
+Tom fing an zu weinen.	Том заплака.	zu	0	0
+Zumindest hat er das gesagt.	Барем така рече тој.	er	0	0
+Tom hat wahrscheinlich ein Taxi genommen.	Том најверојатно фатил такси.	ein	0	0
+Ich wohne in Moldawien.	Јас живеам во Молдавија.	in	0	0
+Sie spricht mit mir über nichts mehr.	Таа веќе за ништо не ми разговара.	mir	0	0
+Sie spricht mit mir über nichts mehr.	Таа веќе за ништо не ми разговара.	mit	0	0
+Meine Tochter ißt gerne Sommerfrüchte, wie zum Beispiel Kirschen, Wassermelonen und Pfirsiche.	Ќерка ми сака летно овошје, како црешни, лубеници и праски.	wie	0	0
+Ich habe den Joghurt gegessen.	Го испив јогуртот.	den	0	0
+Maria erinnert mich an mich selbst in dem Alter.	Мери ме потсеќа на мене на таа возраст.	mich	0	0
+Ich mag nicht auf sie warten.	Не ми е убаво да ја чекам.	auf	0	0
+Ich weiß, dass du das nicht tust.	Знам дека не правиш така.	dass	0	0
+Du brauchst eine Arbeit.	Ти треба работа.	eine	0	0
+Warum ist Dan so gewalttätig?	Зошто е Дан толку насилен?	so	0	0
+Niemand hat etwas.	Никој ништо нема.	hat	0	0
+Warum arbeitet ihr hier?	Зошто работите тука?	hier	0	0
+Ja, wir haben zwei Kinder.	Да, имаме две деца.	haben	0	0
+Sie hat für ihn einen Platz gefunden.	Таа му најде седиште.	für	0	0
+Die Buchhändler sind alle des Teufels! Für sie sollte es eine eigene Hölle geben.	Сите книжари се ѓаволи. Треба посебен пекол да се отвори само за нив.	sind	0	0
+Ihr musikalisches Talent war durchschnittlich.	Нејзиниот талент за музика беше просечен.	war	0	0
+Weißt du, von wem ich spreche?	Знаеш ли за кого зборувам?	von	0	0
+Ich weine nicht, wenn ich glücklich bin.	Не плачам кога сум среќен.	wenn	0	0
+Wo kann ich dich finden?	Каде можам да те најдам?	dich	0	0
+Ich habe ihr geholfen.	Ѝ помогнав.	ihr	0	0
+Ich habe etwas für ihn.	Имам нешто за него.	habe	0	0
+Sie macht mich richtig an.	Таа навистина ме пали.	an	0	0
+Ich bin im Internet.	На интернет сум.	bin	0	0
+Ich habe heute keine Zeit, um dir zu helfen.	Немам време да ти помогнам денес.	dir	0	0
+Sprachen verändern sich ständig.	Јазиците постојано се менуваат.	sich	0	0
+Tom hat einen Anwalt.	Том има адвокат.	einen	0	0
+Warum hilfst du uns?	Зошто ни помагаш?	uns	0	0
+Wie hast du rausgefunden, wo ich wohne?	Како најде каде живеам?	hast	0	0
+Maria erinnert mich an mich selbst in dem Alter.	Мери ме потсеќа на мене на таа возраст.	dem	0	0
+Ich brauche etwas, worauf ich schreiben kann.	Ми треба нешто на коешто ќе можам да пишувам.	kann	0	0
+Ist das für uns gut oder schlecht?	Тоа е добро или лошо за нас?	gut	0	0
+Genau das gleiche ist einem guten Freund von mir auch passiert.	Баш истото му се случи на еден мој добар пријател.	auch	0	0
+Es gibt keinen Gott außer Allah, und Mohammed ist sein Prophet.	Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	sein	0	0
+Sie hat für ihn einen Platz gefunden.	Таа му најде седиште.	ihn	0	0
+Aug um Auge, Zahn um Zahn.	Око за око, заб за заб.	um	0	0
+Ziri lag im Bett.	Зири беше во кревет.	im	0	0
+Obwohl Tom mein Nachbar ist, kenne ich ihn nicht allzu gut.	Иако Том ми е комшија, не го познавам многу добро.	mein	0	0
+Warum bist du nicht in Boston?	Зошто не си во Бостон?	bist	0	0
+Tom war nicht schwul, doch Toms Freunde sagten seiner Freundin, er sei ein Homosexueller.	Том не беше педер, но неговите пријатели сепак ѝ велеа на девојка му дека е.	doch	0	0
+Ich glaube, ich weiß, wie er zu finden ist.	Мислам дека знам како да го најдам.	weiß	0	0
+In Europa gibt es keine Pyramiden.	Нема пирамиди во Европа.	keine	0	0
+Ist das für uns gut oder schlecht?	Тоа е добро или лошо за нас?	oder	0	0
+Sie spricht mit mir über nichts mehr.	Таа веќе за ништо не ми разговара.	nichts	0	0
+Ich will keine Geburtstagsfeier.	Не сакам роденденска прослава.	will	0	0
+Ein Gespenst geht um in Europa – das Gespenst des Kommunismus.	Едно сениште врти низ Европа — сеништето на комунизмот.	geht	0	0
+Wie hast du rausgefunden, wo ich wohne?	Како најде каде живеам?	wo	0	0
+Ich habe etwas für ihn.	Имам нешто за него.	etwas	0	0
+Tom ist nicht mehr in Boston.	Том веќе не е во Бостон.	mehr	0	0
+Brasilien wurde vor 515 Jahren entdeckt.	Бразил бил откриен пред 515 години.	vor	0	0
+Das neue Coronavirus ist sehr infektiös.	Новиот коронавирус е високо заразен.	sehr	0	0
+Die Buchhändler sind alle des Teufels! Für sie sollte es eine eigene Hölle geben.	Сите книжари се ѓаволи. Треба посебен пекол да се отвори само за нив.	alle	0	0
+Ich träume andauernd von ihm.	Постојано го сонувам.	ihm	0	0
+Meine Tochter ißt gerne Sommerfrüchte, wie zum Beispiel Kirschen, Wassermelonen und Pfirsiche.	Ќерка ми сака летно овошје, како црешни, лубеници и праски.	zum	0	0
+Genau das gleiche ist einem guten Freund von mir auch passiert.	Баш истото му се случи на еден мој добар пријател.	einem	0	0
+Tom weiß, wer ich bin.	Том знае кој сум.	wer	0	0
+Bitte komm zu mir zurück!	Те молам врати ми се.	komm	0	0
+Sie spricht mit mir über nichts mehr.	Таа веќе за ништо не ми разговара.	über	0	0
+In Europa gibt es keine Pyramiden.	Нема пирамиди во Европа.	gibt	0	0
+Was ist deine Lieblingsmarke?	Која ти е омилена марка?	deine	0	0
+Wir müssen über ihn sprechen.	Треба да зборуваме за него.	müssen	0	0
+Ich werde dich nicht lange aufhalten.	Нема долго да те држам.	werde	0	0
+Tom hat dich nie geliebt.	Том никогаш не те љубел.	nie	0	0
+Ich habe kein Haus, wohin ich zurückkehren könnte.	Немам дом во којшто би можел да се вратам.	kein	0	0
+Ich habe am letzten Wochenende ein paar Gedichte geschrieben.	Напишав неколку стихотворби минатиот викенд.	am	0	0
+Ein Gespenst geht um in Europa – das Gespenst des Kommunismus.	Едно сениште врти низ Европа — сеништето на комунизмот.	des	0	0
+Ich konnte es einfach nicht.	Просто не можев.	einfach	0	0
+Ich habe heute keine Zeit, um dir zu helfen.	Немам време да ти помогнам денес.	heute	0	0
+Sie wollte nicht darüber reden.	Таа не сакаше да зборува за тоа.	wollte	0	0
+Zumindest hat er das gesagt.	Барем така рече тој.	gesagt	0	0
+Brasilien wurde vor 515 Jahren entdeckt.	Бразил бил откриен пред 515 години.	wurde	0	0
+Vielleicht kannst du helfen.	Можеби можеш да помогнеш.	kannst	0	0
+Sie macht mich richtig an.	Таа навистина ме пали.	macht	0	0
+Bitte komm zu mir zurück!	Те молам врати ми се.	zurück	0	0
+Ja, wir haben zwei Kinder.	Да, имаме две деца.	zwei	0	0
+Ich habe kein Haus, wohin ich zurückkehren könnte.	Немам дом во којшто би можел да се вратам.	könnte	0	0
+Meine Schulnoten waren durchschnittlich.	Моите оценки беа просечни.	waren	0	0
+Ich glaube, ich weiß, wie sie zu finden ist.	Мислам дека знам како да ја најдам.	glaube	0	0
+Ich habe mich gerade übergeben.	Тукушто повратив.	gerade	0	0
+Sie wollte nicht darüber reden.	Таа не сакаше да зборува за тоа.	reden	0	0
+Die Buchhändler sind alle des Teufels! Für sie sollte es eine eigene Hölle geben.	Сите книжари се ѓаволи. Треба посебен пекол да се отвори само за нив.	sollte	0	0
+Es gibt keinen Gott außer Allah, und Mohammed ist sein Prophet.	Нема друго божество достојно за обожување освен Алах, и Мухамед е Божјиот пратеник.	keinen	0	0
+Ich habe am letzten Wochenende ein paar Gedichte geschrieben.	Напишав неколку стихотворби минатиот викенд.	paar	0	0
+Genau das gleiche ist einem guten Freund von mir auch passiert.	Баш истото му се случи на еден мој добар пријател.	passiert	0	0
+Maria erinnert mich an mich selbst in dem Alter.	Мери ме потсеќа на мене на таа возраст.	selbst	0	0
+Ich habe heute keine Zeit, um dir zu helfen.	Немам време да ти помогнам денес.	helfen	0	0
+Ich glaube, ich weiß, wie er zu finden ist.	Мислам дека знам како да го најдам.	finden	0	0
+Ich kann nicht glauben, dass ich diesen Satz schreibe.	Не ми се верува дека ја пишувам реченицата.	diesen	0	0
+Ich werde dich nicht lange aufhalten.	Нема долго да те држам.	lange	0	0
+Tom war nicht schwul, doch Toms Freunde sagten seiner Freundin, er sei ein Homosexueller.	Том не беше педер, но неговите пријатели сепак ѝ велеа на девојка му дека е.	sei	0	0
+Die Buchhändler sind alle des Teufels! Für sie sollte es eine eigene Hölle geben.	Сите книжари се ѓаволи. Треба посебен пекол да се отвори само за нив.	geben	0	0
+Er verstand ihren Witz nicht.	Не ѝ го разбра вицот.	ihren	0	0
+Sie macht mich richtig an.	Таа навистина ме пали.	richtig	0	0
+Ich habe dich Französisch sprechen hören.	Те слушнав како зборуваш на француски.	hören	0	0
+Vor drei Jahren war ich in Boston.	Пред три години бев во Бостон.	drei	0	0
+Genau das gleiche ist einem guten Freund von mir auch passiert.	Баш истото му се случи на еден мој добар пријател.	guten	0	0
+Sie hat unwahrscheinlich schnell Englisch gelernt.	Таа научи англиски неверојатно брзо.	schnell	0	0
+Ich habe etwas Unverzeihliches getan.	Сторив нешто неопростливо.	getan	0	0
+Ich kann nicht glauben, dass ich diesen Satz schreibe.	Не ми се верува дека ја пишувам реченицата.	glauben	0	0
+Ich hoffe, das ist genug.	Се надевам дека е доста.	genug	0	0
+Die brauchen keinen Grund.	Не им треба причина.	brauchen	0	0
+Was haben Sie in ihrer Tasche?	Што имаш во чантата?	ihrer	0	0
+Ich mag nicht auf sie warten.	Не ми е убаво да ја чекам.	warten	0	0
+Ich brauche etwas, worauf ich schreiben kann.	Ми треба нешто на коешто ќе можам да пишувам.	brauche	0	0
+Wir müssen über ihn sprechen.	Треба да зборуваме за него.	sprechen	0	0
+Sie hat für ihn einen Platz gefunden.	Таа му најде седиште.	gefunden	0	0
+Ich konnte sie nirgendwo finden.	Никаде не можев да ја најдам.	konnte	0	0
+Sie wollte nicht darüber reden.	Таа не сакаше да зборува за тоа.	darüber	0	0
+Ich mag nicht auf sie warten.	Не ми е убаво да ја чекам.	mag	0	0
+Meine ältere Schwester spielt jeden Tag Klavier.	Мојата постара сестра свири на клавир секој ден.	jeden	0	0
+Ich habe in Englisch eine Drei bekommen.	Добив тројка по англиски.	bekommen	0	0
+Tom war nicht schwul, doch Toms Freunde sagten seiner Freundin, er sei ein Homosexueller.	Том не беше педер, но неговите пријатели сепак ѝ велеа на девојка му дека е.	seiner	0	0
+Obwohl Tom mein Nachbar ist, kenne ich ihn nicht allzu gut.	Иако Том ми е комшија, не го познавам многу добро.	kenne	0	0
+Meine Tochter ißt gerne Sommerfrüchte, wie zum Beispiel Kirschen, Wassermelonen und Pfirsiche.	Ќерка ми сака летно овошје, како црешни, лубеници и праски.	gerne	0	0
+Warum arbeiten Sie hier?	Зошто работите тука?	arbeiten	0	0
+Das neue Coronavirus ist sehr infektiös.	Новиот коронавирус е високо заразен.	neue	0	0
+Die Betonung liegt auf der ersten Silbe des Wortes.	Акцентот е на првиот слог од зборот.	liegt	0	0
+Ich hoffe, das ist genug.	Се надевам дека е доста.	hoffe	0	0
+Danke für gestern.	Фала за вчера.	gestern	0	0
+Ich habe am letzten Wochenende ein paar Gedichte geschrieben.	Напишав неколку стихотворби минатиот викенд.	letzten	0	0
+Dieser Satz hat fünf Wörter.	Оваа реченица има пет збора.	fünf	0	0
+Das ist die beste Zeit des Jahres.	Ова е најубавото време во годината.	beste	0	0
+Ich glaube denen.	Им верувам.	denen	0	0
+Ich wußte, daß du ihn finden würdest.	Знаев дека ќе го најдеш.	würdest	0	0
+Die Betonung liegt auf der ersten Silbe des Wortes.	Акцентот е на првиот слог од зборот.	ersten	0	0
+Ist das für uns gut oder schlecht?	Тоа е добро или лошо за нас?	schlecht	0	0
+Du kannst hier nicht schlafen.	Не можеш да спиеш тука.	schlafen	0	0
+Ich weiß, dass du das nicht tust.	Знам дека не правиш така.	tust	0	0
+Ich habe ihr einige Fragen gestellt.	Ѝ поставив неколку прашања.	einige	0	0
+Ich weine nicht, wenn ich glücklich bin.	Не плачам кога сум среќен.	glücklich	0	0
+Auf wen warten wir?	Кого чекаме?	wen	0	0
+Du brauchst ein neues Auto.	Ти треба нова кола.	brauchst	0	0
+Ich habe kein Haus, wohin ich zurückkehren könnte.	Немам дом во којшто би можел да се вратам.	wohin	0	0
+Niemand weiß es, außer Tom und mir.	Никој не знае освен Том и мене.	außer	0	0
+Tom hat wahrscheinlich ein Taxi genommen.	Том најверојатно фатил такси.	wahrscheinlich	0	0
+Wo ist die nächste Pizzeria?	Каде е најблиската пицерија?	nächste	0	0
+Du brauchst ein neues Auto.	Ти треба нова кола.	neues	0	0
+Weißt du, von wem ich spreche?	Знаеш ли за кого зборувам?	wem	0	0
+Das funktioniert nicht.	Тоа не работи.	funktioniert	0	0
+Sie spricht mit mir über nichts mehr.	Таа веќе за ништо не ми разговара.	spricht	0	0
+Ich versuche, mir die Namen der Sternbilder zu merken.	Се трудам да ги запамтам имињата на соѕвездијата.	versuche	0	0
+Meine ältere Schwester spielt jeden Tag Klavier.	Мојата постара сестра свири на клавир секој ден.	spielt	0	0
+Tom hat wahrscheinlich ein Taxi genommen.	Том најверојатно фатил такси.	genommen	0	0
+Tom war nicht schwul, doch Toms Freunde sagten seiner Freundin, er sei ein Homosexueller.	Том не беше педер, но неговите пријатели сепак ѝ велеа на девојка му дека е.	sagten	0	0
+Ich wußte, daß du ihn finden würdest.	Знаев дека ќе го најдеш.	daß	0	0
+Ich brauche etwas, worauf ich schreiben kann.	Ми треба нешто на коешто ќе можам да пишувам.	schreiben	0	0
+Warum arbeitet ihr hier?	Зошто работите тука?	arbeitet	0	0
+Morgen arbeite ich nicht.	Утре не работам.	arbeite	0	0
+Meine Noten liegen über dem Durchschnitt.	Моите оценки се надпросечни.	liegen	0	0
+Das hilft.	Помага.	hilft	0	0
+Sprachen verändern sich ständig.	Јазиците постојано се менуваат.	ständig	0	0
+Das Buch ist klein.	Книгата е мала.	klein	0	0
+Genau das gleiche ist einem guten Freund von mir auch passiert.	Баш истото му се случи на еден мој добар пријател.	gleiche	0	0
+Er führt ein durchschnittliches Leben.	Тој живее просечен живот.	führt	0	0
+Ich habe am letzten Wochenende ein paar Gedichte geschrieben.	Напишав неколку стихотворби минатиот викенд.	geschrieben	0	0
+Sie hat unwahrscheinlich schnell Englisch gelernt.	Таа научи англиски неверојатно брзо.	gelernt	0	0
+Ich heiße Ricardo.	Моето име е Рикардо.	heiße	0	0
+Ja, das ist normal.	Да, тоа е нормално.	normal	0	0
+Kannst du mich beschützen?	Можеш ли да ме штитиш?	beschützen	0	0
+Die Buchhändler sind alle des Teufels! Für sie sollte es eine eigene Hölle geben.	Сите книжари се ѓаволи. Треба посебен пекол да се отвори само за нив.	eigene	0	0
+Das Böse währt nicht ewig.	Злото не е вечно.	ewig	0	0
+Ich habe auf dem Sofa geschlafen.	Спиев на каучот.	geschlafen	0	0
+Tom hat dich nie geliebt.	Том никогаш не те љубел.	geliebt	0	0
+Ich werde dich nicht lange aufhalten.	Нема долго да те држам.	aufhalten	0	0
+Ziri lag im Bett.	Зири беше во кревет.	lag	0	0
+Er hat sie in der Stadt gelassen.	Ја остави во град.	gelassen	0	0
+Er verstand ihren Witz nicht.	Не ѝ го разбра вицот.	verstand	0	0
+Ich brauche etwas, worauf ich schreiben kann.	Ми треба нешто на коешто ќе можам да пишувам.	worauf	0	0
+Ich habe den Joghurt gegessen.	Го испив јогуртот.	gegessen	0	0
+Ich habe ihr geholfen.	Ѝ помогнав.	geholfen	0	0
+Maria erinnert mich an mich selbst in dem Alter.	Мери ме потсеќа на мене на таа возраст.	erinnert	0	0
+Ich träume andauernd von ihm.	Постојано го сонувам.	träume	0	0
+Sparen ist verdienen.	Штедењето е заработување.	verdienen	0	0
+Ich spreche Dänisch, Schwedisch und Englisch.	Зборувам дански, шведски и англиски.	spreche	0	0
+Ken hat einen weißen Hund.	Кен има бело куче.	weißen	0	0
+Ich habe ihr einige Fragen gestellt.	Ѝ поставив неколку прашања.	gestellt	0	0
+Tom fing an zu weinen.	Том заплака.	weinen	0	0
+Brasilien wurde vor 515 Jahren entdeckt.	Бразил бил откриен пред 515 години.	entdeckt	0	0
+Warum arbeitest du hier?	Зошто работиш тука?	arbeitest	0	0
+Das klappt nicht.	Тоа не работи.	klappt	0	0
+Ich konnte sie nirgendwo finden.	Никаде не можев да ја најдам.	nirgendwo	0	0
+Ich versuche, mir die Namen der Sternbilder zu merken.	Се трудам да ги запамтам имињата на соѕвездијата.	merken	0	0
+Dieses Buch handelt nicht von Linguistik.	Оваа книга не се работи за лингвистика.	handelt	0	0
+Sprachen verändern sich ständig.	Јазиците постојано се менуваат.	verändern	0	0
+Tom fing an zu weinen.	Том заплака.	fing	0	0
+Ich kann nicht glauben, dass ich diesen Satz schreibe.	Не ми се верува дека ја пишувам реченицата.	schreibe	0	0
+Warum hilfst du uns?	Зошто ни помагаш?	hilfst	0	0
+Tom war nicht schwul, doch Toms Freunde sagten seiner Freundin, er sei ein Homosexueller.	Том не беше педер, но неговите пријатели сепак ѝ велеа на девојка му дека е.	schwul	0	0
+Ich esse keine Austern.	Не јадам остриги.	esse	0	0
+Ich habe mich gerade übergeben.	Тукушто повратив.	übergeben	0	0
+Ich wohne in Moldawien.	Јас живеам во Молдавија.	wohne	0	0
+Ich habe kein Haus, wohin ich zurückkehren könnte.	Немам дом во којшто би можел да се вратам.	zurückkehren	0	0
+Ich bin nicht mutig.	Не сум храбар.	mutig	0	0
+Ich lerne Japanisch.	Учам јапонски.	lerne	0	0
+Obwohl Tom mein Nachbar ist, kenne ich ihn nicht allzu gut.	Иако Том ми е комшија, не го познавам многу добро.	allzu	0	0
+Ich weine nicht, wenn ich glücklich bin.	Не плачам кога сум среќен.	weine	0	0
+Wie hast du rausgefunden, wo ich wohne?	Како најде каде живеам?	rausgefunden	0	0
+Ich träume andauernd von ihm.	Постојано го сонувам.	andauernd	0	0
+Sie hat unwahrscheinlich schnell Englisch gelernt.	Таа научи англиски неверојатно брзо.	unwahrscheinlich	0	0
+Die Atmosphäre schützt uns vor Meteoren.	Атмосферата не штити од метеори.	schützt	0	0
+Meine ältere Schwester spielt jeden Tag Klavier.	Мојата постара сестра свири на клавир секој ден.	ältere	0	0
+Ich wußte, daß du ihn finden würdest.	Знаев дека ќе го најдеш.	wußte	0	0
+Warum ist Dan so gewalttätig?	Зошто е Дан толку насилен?	gewalttätig	0	0
+Warum packst du?	Зошто се пакуваш?	packst	0	0
+Ich habe das Recht zu kritisieren.	Имам право да критикувам.	kritisieren	0	0
+Das ist ein vernünftiger Kompromiß.	Тоа е разумен компромис.	vernünftiger	0	0
+Ihr musikalisches Talent war durchschnittlich.	Нејзиниот талент за музика беше просечен.	durchschnittlich	0	0
+Das Böse währt nicht ewig.	Злото не е вечно.	währt	0	0
+Die Mönche meditieren.	Монасите медитираат.	meditieren	0	0
+Sie dekoriert sich die Wände mit Postern.	Таа си ги украсови ѕидовите со постери.	dekoriert	0	0
+Meine Tochter ißt gerne Sommerfrüchte, wie zum Beispiel Kirschen, Wassermelonen und Pfirsiche.	Ќерка ми сака летно овошје, како црешни, лубеници и праски.	ißt	0	0
+Tom ist ersetzbar.	Том е заменлив.	ersetzbar	0	0
+Ihr musikalisches Talent war durchschnittlich.	Нејзиниот талент за музика беше просечен.	musikalisches	0	0

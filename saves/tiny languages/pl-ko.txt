@@ -1,0 +1,244 @@
+Nie ma sensu mówić do mnie „Jak się masz?”, skoro nie masz nic więcej do powiedzenia.	다른 할 말이 없으면, 나한테 인사할 필요가 없어.	nie	0	0
+To się nigdy nie skończy.	이건 절대 끝나지 않을거야.	to	0	0
+Uczę się koreańskiego samodzielnie.	혼자 한국어를 공부하고 있습니다.	się	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	w	0	0
+Wyglądasz na durnia.	너 멍청하게 보여.	na	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	i	0	0
+To dlatego, że nie chcesz być sam.	왜냐하면 당신은 혼자가 되고 싶지 않기 때문이에요.	że	0	0
+Zwyczajnie nie wiem, co powiedzieć.	뭐라고 말해야 할지 정말 모르겠어...	co	0	0
+Wykształcenie na tym świecie jest dla mnie rozczarowaniem.	이 세상의 교육이 나를 실망시켜요.	jest	0	0
+Na pewno kiedyś pojadę do Francji, tylko nie wiem kiedy.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.	do	0	0
+Tak.	예.	tak	0	0
+Jak to powiedzieć?	어떻게 말해요?	jak	0	0
+Widzimy rzeczy nie takimi, jakimi są, ale takimi, jakimi sami jesteśmy.	그 모습 그대로 사물을 보지 않고, 우리 자신의 모습으로 그것을 바라본다.	ale	0	0
+Wykształcenie na tym świecie jest dla mnie rozczarowaniem.	이 세상의 교육이 나를 실망시켜요.	mnie	0	0
+Skończyły mi się pieniądze.	난 돈이 다 떨어지고 말았다.	mi	0	0
+Za długo by objaśniać, dlaczego to nie zadziała.	왜 안되는지 설명할려면 시간 너무 많이 걸리겠다.	za	0	0
+Chociaż przeprosił, ja wciąż jestem wściekły.	그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.	ja	0	0
+Wykształcenie na tym świecie jest dla mnie rozczarowaniem.	이 세상의 교육이 나를 실망시켜요.	tym	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	tego	0	0
+Muszę iść po zakupy, będę za godzinę.	난 쇼핑 가야되요, 한 시간 안에 돌아올게요.	po	0	0
+Na pewno kiedyś pojadę do Francji, tylko nie wiem kiedy.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.	tylko	0	0
+Czy Jenny chce iść do domu?	제니가 집에 가고 싶어해요?	czy	0	0
+Czy Tom wie, że tu jesteś?	톰은 네가 여기 있는 걸 알아?	tu	0	0
+Znalazłem rozwiązanie, ale coś za szybko, więc nie może być poprawne.	해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다.	może	0	0
+Jestem realistą.	저는 현실주의자예요.	jestem	0	0
+"Dziękuję za pomoc!" "Nie ma za co!"	"도와주셔서 고맙습니다!" "뭘요!"	ma	0	0
+Co ty mówisz?	뭐라고?	ty	0	0
+Wszyscy chcą cię poznać, jesteś sławny!	모두가 너를 만나고 싶어해, 너 유명하네!	cię	0	0
+Mam wolne w niedzielę.	일요일은 쉽니다.	mam	0	0
+Wszyscy chcą cię poznać, jesteś sławny!	모두가 너를 만나고 싶어해, 너 유명하네!	jesteś	0	0
+Już nie wiem, co robić.	더이상 어떻게 해야할지 모르겠어.	już	0	0
+Wykształcenie na tym świecie jest dla mnie rozczarowaniem.	이 세상의 교육이 나를 실망시켜요.	dla	0	0
+Nie wiem, czy będę miał czas.	시간 있는지 잘 모르겠어요.	wiem	0	0
+Znalazłem rozwiązanie, ale coś za szybko, więc nie może być poprawne.	해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다.	coś	0	0
+Znalazłem rozwiązanie, ale coś za szybko, więc nie może być poprawne.	해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다.	więc	0	0
+Aimee słucha teraz muzyki.	에이미는 지금 음악을 듣고 있어요.	teraz	0	0
+To dlatego, że nie chcesz być sam.	왜냐하면 당신은 혼자가 되고 싶지 않기 때문이에요.	być	0	0
+Nie ma sensu mówić do mnie „Jak się masz?”, skoro nie masz nic więcej do powiedzenia.	다른 할 말이 없으면, 나한테 인사할 필요가 없어.	masz	0	0
+Nie ma sensu mówić do mnie „Jak się masz?”, skoro nie masz nic więcej do powiedzenia.	다른 할 말이 없으면, 나한테 인사할 필요가 없어.	nic	0	0
+On najbardziej kocha jej najstarszą córkę.	그 사람이 가장 사랑하는 건 맏딸이에요.	jej	0	0
+Czy są wolne miejsca?	자리 있어요?	są	0	0
+Gdzie są moje okulary?	내 안경은 어디 있어요?	gdzie	0	0
+Na pewno kiedyś pojadę do Francji, tylko nie wiem kiedy.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.	kiedy	0	0
+Co chcesz zjeść w ten weekend?	이번 주말에 뭐 먹고 싶어요?	ten	0	0
+On nie ma widoków na wyzdrowienie.	그는 회복될 가능성이 없습니다.	on	0	0
+Za długo by objaśniać, dlaczego to nie zadziała.	왜 안되는지 설명할려면 시간 너무 많이 걸리겠다.	by	0	0
+Przez cały dzień szukał listu.	그는 하루 종일 편지를 찾고 있었다.	przez	0	0
+Za długo by objaśniać, dlaczego to nie zadziała.	왜 안되는지 설명할려면 시간 너무 많이 걸리겠다.	dlaczego	0	0
+Stanisław Jerzy Lec kiedyś powiedział: "Czasem trzeba zamilknąć, żeby zostać wysłuchanym."	종종 다른 사람을 말을 듣기 위해 우리는 침묵을 지킬 필요가 있다.	żeby	0	0
+Pojechałem taksówką, bo padało.	비가 내려서 택시를 탔습니다.	bo	0	0
+Co chcesz zjeść w ten weekend?	이번 주말에 뭐 먹고 싶어요?	chcesz	0	0
+To się nigdy nie skończy.	이건 절대 끝나지 않을거야.	nigdy	0	0
+Dobra!	좋아요!	dobra	0	0
+Muszę iść spać.	자야겠어요.	muszę	0	0
+"Dziękuję za pomoc!" "Nie ma za co!"	"도와주셔서 고맙습니다!" "뭘요!"	dziękuję	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	nawet	0	0
+Idziemy do domu.	우리는 집에 갑니다.	domu	0	0
+Ona nie wie, co robi.	그녀는 무엇을 하는지 몰라.	ona	0	0
+Niestety to prawda.	유감스럽게도 사실이네요.	prawda	0	0
+Nie wiem, czy będę miał czas.	시간 있는지 잘 모르겠어요.	będę	0	0
+Musisz iść.	넌 가야 해요.	musisz	0	0
+Jesteśmy szczęśliwi.	저희 행복해요.	jesteśmy	0	0
+Gdzie są moje okulary?	내 안경은 어디 있어요?	moje	0	0
+Zwyczajnie nie wiem, co powiedzieć.	뭐라고 말해야 할지 정말 모르겠어...	powiedzieć	0	0
+Nie wiem, czy będę miał czas.	시간 있는지 잘 모르겠어요.	czas	0	0
+Nie ma sensu mówić do mnie „Jak się masz?”, skoro nie masz nic więcej do powiedzenia.	다른 할 말이 없으면, 나한테 인사할 필요가 없어.	więcej	0	0
+Sto lat, Muiriel!	생일 축하해 Muiriel!	lat	0	0
+Czy Jenny chce iść do domu?	제니가 집에 가고 싶어해요?	chce	0	0
+Wszyscy chcą cię poznać, jesteś sławny!	모두가 너를 만나고 싶어해, 너 유명하네!	wszyscy	0	0
+Cześć, Tom.	안녕, 톰.	cześć	0	0
+Samotny człowiek jest sam, bo się obawia innych.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	sam	0	0
+Dobry dzień.	안녕하세요.	dobry	0	0
+Dobry dzień.	안녕하세요.	dzień	0	0
+Nie wiem, czy będę miał czas.	시간 있는지 잘 모르겠어요.	miał	0	0
+Widzimy rzeczy nie takimi, jakimi są, ale takimi, jakimi sami jesteśmy.	그 모습 그대로 사물을 보지 않고, 우리 자신의 모습으로 그것을 바라본다.	rzeczy	0	0
+Co robisz?	뭐해요?	robisz	0	0
+Nienawidzę siebie.	나는 내 자신이 싫어.	siebie	0	0
+Stanisław Jerzy Lec kiedyś powiedział: "Czasem trzeba zamilknąć, żeby zostać wysłuchanym."	종종 다른 사람을 말을 듣기 위해 우리는 침묵을 지킬 필요가 있다.	powiedział	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	musi	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	nikt	0	0
+Twoje zdrowie!	건배!	twoje	0	0
+To dlatego, że nie chcesz być sam.	왜냐하면 당신은 혼자가 되고 싶지 않기 때문이에요.	dlatego	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	wtedy	0	0
+„Wygląda całkiem ciekawie” – rzekł Hiroshi.	히로시는 이것 재미 있을 것 같다고 말한다.	wygląda	0	0
+Nie chcieć oznacza mieć.	바라는 것이 없으면 부족함이 없다.	mieć	0	0
+Któż to wie?	아는분이 없을겁니다.	wie	0	0
+Muszę iść po zakupy, będę za godzinę.	난 쇼핑 가야되요, 한 시간 안에 돌아올게요.	iść	0	0
+Zgadza się. Jest dużo wilgoci w powietrzu.	네, 그래요. 공기 중에 습기가 너무 많아요.	dużo	0	0
+Byłem w górach.	나는 산에 있었어.	byłem	0	0
+Przez cały dzień szukał listu.	그는 하루 종일 편지를 찾고 있었다.	cały	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	można	0	0
+Stanisław Jerzy Lec kiedyś powiedział: "Czasem trzeba zamilknąć, żeby zostać wysłuchanym."	종종 다른 사람을 말을 듣기 위해 우리는 침묵을 지킬 필요가 있다.	trzeba	0	0
+Już nie wiem, co robić.	더이상 어떻게 해야할지 모르겠어.	robić	0	0
+Co ty mówisz?	뭐라고?	mówisz	0	0
+Znalazłem rozwiązanie, ale coś za szybko, więc nie może być poprawne.	해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다.	szybko	0	0
+Na pewno kiedyś pojadę do Francji, tylko nie wiem kiedy.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.	pewno	0	0
+Kocham cię.	사랑해요.	kocham	0	0
+Jaki film chcesz obejrzeć?	무슨 영화를 보고 싶어요?	jaki	0	0
+Ona nie wie, co robi.	그녀는 무엇을 하는지 몰라.	robi	0	0
+Idź spać.	당신 좀 자야겠어요.	idź	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	swoją	0	0
+Za długo by objaśniać, dlaczego to nie zadziała.	왜 안되는지 설명할려면 시간 너무 많이 걸리겠다.	długo	0	0
+Na pewno kiedyś pojadę do Francji, tylko nie wiem kiedy.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.	kiedyś	0	0
+Chociaż przeprosił, ja wciąż jestem wściekły.	그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.	wciąż	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	każdy	0	0
+Zaskoczenie i zachwyt - oto pierwszy krok ku zrozumieniu.	놀라워 하고, 궁금해 하는 것이 이해의 시작이다.	pierwszy	0	0
+Skończyły mi się pieniądze.	난 돈이 다 떨어지고 말았다.	pieniądze	0	0
+Stanisław Jerzy Lec kiedyś powiedział: "Czasem trzeba zamilknąć, żeby zostać wysłuchanym."	종종 다른 사람을 말을 듣기 위해 우리는 침묵을 지킬 필요가 있다.	zostać	0	0
+Nie ma sensu mówić do mnie „Jak się masz?”, skoro nie masz nic więcej do powiedzenia.	다른 할 말이 없으면, 나한테 인사할 필요가 없어.	mówić	0	0
+Chciałbym móc pojechać do Japonii.	일본에 갈 수 있었으면 좋겠어요.	chciałbym	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	którą	0	0
+Samotny człowiek jest sam, bo się obawia innych.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	człowiek	0	0
+Jestem ciągle zajęty.	저는 항상 바빠요.	ciągle	0	0
+Nie ma sensu mówić do mnie „Jak się masz?”, skoro nie masz nic więcej do powiedzenia.	다른 할 말이 없으면, 나한테 인사할 필요가 없어.	skoro	0	0
+Zdecyduj, czy idziemy, czy nie.	우리가 가든지 안 가든지는 네가 결정해.	idziemy	0	0
+Znasz mnie?	날 알아요?	znasz	0	0
+Jesteś pewien?	정말이에요?	pewien	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	świat	0	0
+Wszyscy chcą cię poznać, jesteś sławny!	모두가 너를 만나고 싶어해, 너 유명하네!	chcą	0	0
+Zaskoczenie i zachwyt - oto pierwszy krok ku zrozumieniu.	놀라워 하고, 궁금해 하는 것이 이해의 시작이다.	oto	0	0
+Czy są wolne miejsca?	자리 있어요?	miejsca	0	0
+Wykształcenie na tym świecie jest dla mnie rozczarowaniem.	이 세상의 교육이 나를 실망시켜요.	świecie	0	0
+Wyglądasz na durnia.	너 멍청하게 보여.	wyglądasz	0	0
+Hasło brzmi „Muiriel”.	비밀번호는 "Muiriel" 입니다.	brzmi	0	0
+Samotny człowiek jest sam, bo się obawia innych.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	innych	0	0
+„Wygląda całkiem ciekawie” – rzekł Hiroshi.	히로시는 이것 재미 있을 것 같다고 말한다.	całkiem	0	0
+Wszyscy chcą cię poznać, jesteś sławny!	모두가 너를 만나고 싶어해, 너 유명하네!	poznać	0	0
+Nie chcieć oznacza mieć.	바라는 것이 없으면 부족함이 없다.	oznacza	0	0
+Stanisław Jerzy Lec kiedyś powiedział: "Czasem trzeba zamilknąć, żeby zostać wysłuchanym."	종종 다른 사람을 말을 듣기 위해 우리는 침묵을 지킬 필요가 있다.	czasem	0	0
+Zgadza się. Jest dużo wilgoci w powietrzu.	네, 그래요. 공기 중에 습기가 너무 많아요.	zgadza	0	0
+On najbardziej kocha jej najstarszą córkę.	그 사람이 가장 사랑하는 건 맏딸이에요.	najbardziej	0	0
+"Dziękuję za pomoc!" "Nie ma za co!"	"도와주셔서 고맙습니다!" "뭘요!"	pomoc	0	0
+Dobry wieczór.	안녕하세요.	wieczór	0	0
+Chociaż przeprosił, ja wciąż jestem wściekły.	그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.	chociaż	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	lecz	0	0
+Dobranoc.	잘자.	dobranoc	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	gdybyś	0	0
+Znalazłem rozwiązanie, ale coś za szybko, więc nie może być poprawne.	해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다.	znalazłem	0	0
+Idź spać.	당신 좀 자야겠어요.	spać	0	0
+Jaki film chcesz obejrzeć?	무슨 영화를 보고 싶어요?	film	0	0
+Muszę iść po zakupy, będę za godzinę.	난 쇼핑 가야되요, 한 시간 안에 돌아올게요.	godzinę	0	0
+Niestety to prawda.	유감스럽게도 사실이네요.	niestety	0	0
+Widzimy rzeczy nie takimi, jakimi są, ale takimi, jakimi sami jesteśmy.	그 모습 그대로 사물을 보지 않고, 우리 자신의 모습으로 그것을 바라본다.	sami	0	0
+Cześć, Tom.	안녕, 톰.	tom	0	0
+On najbardziej kocha jej najstarszą córkę.	그 사람이 가장 사랑하는 건 맏딸이에요.	kocha	0	0
+Nienawidzę siebie.	나는 내 자신이 싫어.	nienawidzę	0	0
+Nie ma sensu mówić do mnie „Jak się masz?”, skoro nie masz nic więcej do powiedzenia.	다른 할 말이 없으면, 나한테 인사할 필요가 없어.	sensu	0	0
+To się nigdy nie skończy.	이건 절대 끝나지 않을거야.	skończy	0	0
+Co chcesz zjeść w ten weekend?	이번 주말에 뭐 먹고 싶어요?	zjeść	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	słuchać	0	0
+On najbardziej kocha jej najstarszą córkę.	그 사람이 가장 사랑하는 건 맏딸이에요.	córkę	0	0
+Nie ma sensu mówić do mnie „Jak się masz?”, skoro nie masz nic więcej do powiedzenia.	다른 할 말이 없으면, 나한테 인사할 필요가 없어.	powiedzenia	0	0
+Jestem ciągle zajęty.	저는 항상 바빠요.	zajęty	0	0
+Co chcesz zjeść w ten weekend?	이번 주말에 뭐 먹고 싶어요?	weekend	0	0
+Zaskoczenie i zachwyt - oto pierwszy krok ku zrozumieniu.	놀라워 하고, 궁금해 하는 것이 이해의 시작이다.	krok	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	iż	0	0
+Widzimy rzeczy nie takimi, jakimi są, ale takimi, jakimi sami jesteśmy.	그 모습 그대로 사물을 보지 않고, 우리 자신의 모습으로 그것을 바라본다.	widzimy	0	0
+Twoje zdrowie!	건배!	zdrowie	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	rzeczą	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	zniknął	0	0
+Jestem głodny!	배고파.	głodny	0	0
+Chciałbym móc pojechać do Japonii.	일본에 갈 수 있었으면 좋겠어요.	pojechać	0	0
+Zaskoczenie i zachwyt - oto pierwszy krok ku zrozumieniu.	놀라워 하고, 궁금해 하는 것이 이해의 시작이다.	ku	0	0
+Chciałbym móc pojechać do Japonii.	일본에 갈 수 있었으면 좋겠어요.	móc	0	0
+Sto lat, Muiriel!	생일 축하해 Muiriel!	sto	0	0
+Czy są wolne miejsca?	자리 있어요?	wolne	0	0
+Niebo jest błękitne.	하늘은푸른이에요.	niebo	0	0
+Czy Jenny chce iść do domu?	제니가 집에 가고 싶어해요?	jenny	0	0
+Jaki film chcesz obejrzeć?	무슨 영화를 보고 싶어요?	obejrzeć	0	0
+Na pewno kiedyś pojadę do Francji, tylko nie wiem kiedy.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.	pojadę	0	0
+Aimee słucha teraz muzyki.	에이미는 지금 음악을 듣고 있어요.	muzyki	0	0
+Muszę iść po zakupy, będę za godzinę.	난 쇼핑 가야되요, 한 시간 안에 돌아올게요.	zakupy	0	0
+Znalazłem rozwiązanie, ale coś za szybko, więc nie może być poprawne.	해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다.	rozwiązanie	0	0
+Za długo by objaśniać, dlaczego to nie zadziała.	왜 안되는지 설명할려면 시간 너무 많이 걸리겠다.	zadziała	0	0
+Na pewno kiedyś pojadę do Francji, tylko nie wiem kiedy.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.	francji	0	0
+Przez cały dzień szukał listu.	그는 하루 종일 편지를 찾고 있었다.	szukał	0	0
+Widzimy rzeczy nie takimi, jakimi są, ale takimi, jakimi sami jesteśmy.	그 모습 그대로 사물을 보지 않고, 우리 자신의 모습으로 그것을 바라본다.	takimi	0	0
+Nie chcieć oznacza mieć.	바라는 것이 없으면 부족함이 없다.	chcieć	0	0
+Samotny człowiek jest sam, bo się obawia innych.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	samotny	0	0
+Zarabiam 100 euro dziennie.	저는 하루에 100유로를 법니다.	dziennie	0	0
+Jesteśmy szczęśliwi.	저희 행복해요.	szczęśliwi	0	0
+Pieprz się!	죽어!	pieprz	0	0
+Mam marzenie.	나는 꿈이 있어.	marzenie	0	0
+Chociaż przeprosił, ja wciąż jestem wściekły.	그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.	wściekły	0	0
+Gdzie są moje okulary?	내 안경은 어디 있어요?	okulary	0	0
+Zgadza się. Jest dużo wilgoci w powietrzu.	네, 그래요. 공기 중에 습기가 너무 많아요.	powietrzu	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	wiedzy	0	0
+Mam wolne w niedzielę.	일요일은 쉽니다.	niedzielę	0	0
+Aimee słucha teraz muzyki.	에이미는 지금 음악을 듣고 있어요.	słucha	0	0
+Jemy chleb.	우리 빵을 먹어요.	chleb	0	0
+Hasło brzmi „Muiriel”.	비밀번호는 "Muiriel" 입니다.	hasło	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	zajmować	0	0
+Uczę się koreańskiego samodzielnie.	혼자 한국어를 공부하고 있습니다.	uczę	0	0
+Skończyły mi się pieniądze.	난 돈이 다 떨어지고 말았다.	skończyły	0	0
+Chciałbym móc pojechać do Japonii.	일본에 갈 수 있었으면 좋겠어요.	japonii	0	0
+Zwyczajnie nie wiem, co powiedzieć.	뭐라고 말해야 할지 정말 모르겠어...	zwyczajnie	0	0
+Byłem w górach.	나는 산에 있었어.	górach	0	0
+Wszyscy chcą cię poznać, jesteś sławny!	모두가 너를 만나고 싶어해, 너 유명하네!	sławny	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	obudził	0	0
+Studiuję na uniwersytecie Hyōgo.	효고 대학생입니다.	uniwersytecie	0	0
+Któż to wie?	아는분이 없을겁니다.	któż	0	0
+Jemy chleb.	우리 빵을 먹어요.	jemy	0	0
+Tokio jest stolicą Japonii.	도쿄는 일본의 수도입니다.	tokio	0	0
+Przez cały dzień szukał listu.	그는 하루 종일 편지를 찾고 있었다.	listu	0	0
+Pojechałem taksówką, bo padało.	비가 내려서 택시를 탔습니다.	pojechałem	0	0
+Zarabiam 100 euro dziennie.	저는 하루에 100유로를 법니다.	euro	0	0
+Widzimy rzeczy nie takimi, jakimi są, ale takimi, jakimi sami jesteśmy.	그 모습 그대로 사물을 보지 않고, 우리 자신의 모습으로 그것을 바라본다.	jakimi	0	0
+Jestem Tom Hunter.	저는 Tom Hunter입니다.	hunter	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	stwierdził	0	0
+Zarabiam 100 euro dziennie.	저는 하루에 100유로를 법니다.	zarabiam	0	0
+Uczę się koreańskiego samodzielnie.	혼자 한국어를 공부하고 있습니다.	samodzielnie	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	kwestię	0	0
+To jest chiński wachlarz.	이것은 중국의 부채입니다.	chiński	0	0
+Samotny człowiek jest sam, bo się obawia innych.	혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.	obawia	0	0
+„Wygląda całkiem ciekawie” – rzekł Hiroshi.	히로시는 이것 재미 있을 것 같다고 말한다.	rzekł	0	0
+Jestem spragniony.	난 목이 마르다.	spragniony	0	0
+Pojechałem taksówką, bo padało.	비가 내려서 택시를 탔습니다.	taksówką	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	fajną	0	0
+Pojechałem taksówką, bo padało.	비가 내려서 택시를 탔습니다.	padało	0	0
+Zdecyduj, czy idziemy, czy nie.	우리가 가든지 안 가든지는 네가 결정해.	zdecyduj	0	0
+Zaskoczenie i zachwyt - oto pierwszy krok ku zrozumieniu.	놀라워 하고, 궁금해 하는 것이 이해의 시작이다.	zaskoczenie	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	demokracji	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	matematyka	0	0
+Wykształcenie na tym świecie jest dla mnie rozczarowaniem.	이 세상의 교육이 나를 실망시켜요.	wykształcenie	0	0
+Wyglądasz na durnia.	너 멍청하게 보여.	durnia	0	0
+Chociaż przeprosił, ja wciąż jestem wściekły.	그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.	przeprosił	0	0
+Niebo jest błękitne.	하늘은푸른이에요.	błękitne	0	0
+Znalazłem rozwiązanie, ale coś za szybko, więc nie może być poprawne.	해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다.	poprawne	0	0
+Studiuję na uniwersytecie Hyōgo.	효고 대학생입니다.	studiuję	0	0
+Stanisław Jerzy Lec kiedyś powiedział: "Czasem trzeba zamilknąć, żeby zostać wysłuchanym."	종종 다른 사람을 말을 듣기 위해 우리는 침묵을 지킬 필요가 있다.	jerzy	0	0
+Fajną rzeczą w demokracji jest to, iż każdy może wypowiadać swoją kwestię, lecz nikt nie musi tego słuchać.	민주주의의 좋은 점은 바로 이렇다: 누구나 그들의 단편적인 생각을 말할 수 있지만 누구도 거기에 귀를 기울일 필요는 없다는 것이다	wypowiadać	0	0
+Wykształcenie na tym świecie jest dla mnie rozczarowaniem.	이 세상의 교육이 나를 실망시켜요.	rozczarowaniem	0	0
+Matematyka to dziedzina wiedzy, którą można by się zajmować nawet wtedy, gdybyś się obudził i stwierdził, że świat zniknął.	당신이 내일 아침에 일어나서 우주가 사라졌다는 것을 알게 된다면 수학은 당신이 계속해서 연구할 수 있는 과학의 한 부분입니다.	dziedzina	0	0
+Jestem realistą.	저는 현실주의자예요.	realistą	0	0
+Tokio jest stolicą Japonii.	도쿄는 일본의 수도입니다.	stolicą	0	0
+Tom jest w saunie.	톰은 사우나에 있어.	saunie	0	0
+Zgadza się. Jest dużo wilgoci w powietrzu.	네, 그래요. 공기 중에 습기가 너무 많아요.	wilgoci	0	0
+Zaskoczenie i zachwyt - oto pierwszy krok ku zrozumieniu.	놀라워 하고, 궁금해 하는 것이 이해의 시작이다.	zachwyt	0	0
+On nie ma widoków na wyzdrowienie.	그는 회복될 가능성이 없습니다.	widoków	0	0
+Aimee słucha teraz muzyki.	에이미는 지금 음악을 듣고 있어요.	aimee	0	0
+To jest chiński wachlarz.	이것은 중국의 부채입니다.	wachlarz	0	0
+On nie ma widoków na wyzdrowienie.	그는 회복될 가능성이 없습니다.	wyzdrowienie	0	0
+„Wygląda całkiem ciekawie” – rzekł Hiroshi.	히로시는 이것 재미 있을 것 같다고 말한다.	hiroshi	0	0
+On najbardziej kocha jej najstarszą córkę.	그 사람이 가장 사랑하는 건 맏딸이에요.	najstarszą	0	0

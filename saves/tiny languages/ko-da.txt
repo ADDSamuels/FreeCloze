@@ -1,0 +1,117 @@
+마지막 피자 한 조각 내가 먹어도 돼?	Vil det være i orden hvis jeg spiser det sidste stykke pizza?	내가	0	0
+네. 그 남자와 키스했어요.	Ja, jeg kyssede ham.	그	0	0
+난 시간이 없다.	Jeg har ikke tid.	난	0	0
+저는 일본어, 영어, 프랑스어를 할 수 있습니다.	Jeg taler japansk, engelsk og fransk.	수	0	0
+네. 그 남자와 키스했어요.	Ja, jeg har kysset ham.	네	0	0
+엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	Strengt taget består kinesisk af flere hundrede dialekter.	있어	0	0
+왜 아니야?	Hvorfor ikke?	왜	0	0
+우리 몸 속에는 칼륨이 들어 있다.	Vi har kalium i kroppen.	우리	0	0
+한국에서 무슨 언어를 말해요?	Hvilket sprog taler de i Korea?	무슨	0	0
+마지막 피자 한 조각을 제가 먹어도 괜찮을까요?	Vil det være i orden hvis jeg spiser det sidste stykke pizza?	한	0	0
+저는 일본어, 영어, 프랑스어를 할 수 있습니다.	Jeg taler japansk, engelsk og fransk.	할	0	0
+마지막 피자 한 조각을 제가 먹어도 괜찮을까요?	Vil det være i orden hvis jeg spiser det sidste stykke pizza?	제가	0	0
+마지막 피자 한 조각 내가 먹어도 돼?	Vil det være i orden hvis jeg spiser det sidste stykke pizza?	돼	0	0
+좋은 주말 보내십시오!	God weekend!	좋은	0	0
+나는 사계절 중에 여름을 제일 좋아해.	Af de fire årstider kan jeg bedst lide sommeren.	나는	0	0
+왜 아니야?	Hvorfor ikke?	아니야	0	0
+변호사들은 모두 거짓말쟁이다.	Alle advokater er løgnere.	모두	0	0
+그는 그녀에게 개를 사주었다.	Han købte en hund til hende.	그는	0	0
+톰은 파트타임으로 일하고 있습니다.	Tom arbejder på deltid.	있습니다	0	0
+계속 집중하고 있어봐.	Hold fokus.	계속	0	0
+좋아요!	Godt!	좋아요	0	0
+우리는 브라질에서 커피를 수입한다.	Vi importerer kaffe fra Brasilien.	우리는	0	0
+저는 한국 사람입니다.	Jeg er koreaner.	저는	0	0
+하나, 둘, 셋, 넷, 다섯.	En, to, tre, fire, fem.	하나	0	0
+물이 나한테 없다.	Jeg har ikke vandet.	나한테	0	0
+오렌지는 많은 비타민C를 함유하고 있다.	Appelsiner indeholder meget C-vitamin.	많은	0	0
+당신의 입술이 파랗습니다.	Dine læber er blå.	당신의	0	0
+나일강만큼 긴 강은 세상에 없다.	Ingen flod i verden er længere end Nilen.	세상에	0	0
+예 혹은 아니오?	Ja eller nej?	예	0	0
+하나, 둘, 셋, 넷, 다섯.	En, to, tre, fire, fem.	둘	0	0
+그녀는 여기에 있다.	Hun er her.	그녀는	0	0
+대단히 감사합니다!	Mange tak!	감사합니다	0	0
+우리 몸 속에는 칼륨이 들어 있다.	Vi har kalium i kroppen.	있다	0	0
+그 사람을 모릅니다.	Jeg kender ham ikke.	사람을	0	0
+난 시간이 없다.	Jeg har ikke tid.	시간이	0	0
+우리 몸 속에는 칼륨이 들어 있다.	Vi har kalium i kroppen.	들어	0	0
+그녀는 여기에 있다.	Hun er her.	여기에	0	0
+그 사람을 몰라요.	Jeg kender ham ikke.	몰라요	0	0
+그리스어를 배우는 것은 어렵다.	Græsk er svært at lære.	것은	0	0
+마지막 피자 한 조각을 제가 먹어도 괜찮을까요?	Vil det være i orden hvis jeg spiser det sidste stykke pizza?	마지막	0	0
+나는 사계절 중에 여름을 제일 좋아해.	Af de fire årstider kan jeg bedst lide sommeren.	제일	0	0
+늑대가 되고 싶어요.	Jeg vil være en ulv.	싶어요	0	0
+물이 나한테 없다.	Jeg har ikke vandet.	없다	0	0
+톰은 나의 친구다.	Tom er min ven.	나의	0	0
+늑대가 되고 싶어요.	Jeg vil være en ulv.	되고	0	0
+나는 사계절 중에 여름을 제일 좋아해.	Af de fire årstider kan jeg bedst lide sommeren.	중에	0	0
+경찰이 어제 용의자를 체포했다.	Politiet har anholdt en mistænkt i går.	어제	0	0
+이것은 은으로 만든 동전이다.	Det her er en sølvmønt.	만든	0	0
+어제 흥미로운 이야기를 읽었어요.	I går læste jeg en interessant historie.	이야기를	0	0
+하나, 둘, 셋, 넷, 다섯.	En, to, tre, fire, fem.	셋	0	0
+경찰이 어제 용의자를 체포했다.	Politiet har anholdt en mistænkt i går.	경찰이	0	0
+스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	Schweiz er beliggende mellem Frankrig, Italien, Østrig og Tyskland.	사이에	0	0
+예 혹은 아니오?	Ja eller nej?	아니오	0	0
+나는 사계절 중에 여름을 제일 좋아해.	Af de fire årstider kan jeg bedst lide sommeren.	좋아해	0	0
+오케이.	Okay.	오케이	0	0
+나일강만큼 긴 강은 세상에 없다.	Ingen flod i verden er længere end Nilen.	긴	0	0
+그는 그녀에게 개를 사주었다.	Han købte hende en hund.	그녀에게	0	0
+하나, 둘, 셋, 넷, 다섯.	En, to, tre, fire, fem.	다섯	0	0
+우리 몸 속에는 칼륨이 들어 있다.	Vi har kalium i kroppen.	몸	0	0
+톰은 파트타임으로 일하고 있습니다.	Tom arbejder på deltid.	일하고	0	0
+예 혹은 아니오?	Ja eller nej?	혹은	0	0
+이것은 은으로 만든 동전이다.	Det her er en sølvmønt.	이것은	0	0
+엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	Strengt taget består kinesisk af flere hundrede dialekter.	말하자면	0	0
+물이 나한테 없다.	Jeg har ikke vandet.	물이	0	0
+그 사람을 모릅니다.	Jeg kender ham ikke.	모릅니다	0	0
+그는 그녀에게 개를 사주었다.	Han købte en hund til hende.	개를	0	0
+한국에서 무슨 언어를 말해요?	Hvilket sprog taler de i Korea?	말해요	0	0
+반년 전부터 금연하고 있다.	Jeg holdt op med at ryge for et halvt år siden.	전부터	0	0
+엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	Strengt taget består kinesisk af flere hundrede dialekter.	개의	0	0
+스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	Schweiz er beliggende mellem Frankrig, Italien, Østrig og Tyskland.	독일	0	0
+불가능하지 않다.	Det er ikke umuligt.	않다	0	0
+어제 흥미로운 이야기를 읽었어요.	I går læste jeg en interessant historie.	흥미로운	0	0
+네. 그 남자와 키스했어요.	Ja, jeg kyssede ham.	남자와	0	0
+하나, 둘, 셋, 넷, 다섯.	En, to, tre, fire, fem.	넷	0	0
+대단히 감사합니다!	Mange tak!	대단히	0	0
+마지막 피자 한 조각을 제가 먹어도 괜찮을까요?	Vil det være i orden hvis jeg spiser det sidste stykke pizza?	피자	0	0
+민주주의가 무엇입니까?	Hvad er demokrati?	무엇입니까	0	0
+한국 사람입니다.	Jeg er koreaner.	사람입니다	0	0
+저는 일본어, 영어, 프랑스어를 할 수 있습니다.	Jeg taler japansk, engelsk og fransk.	영어	0	0
+스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	Schweiz er beliggende mellem Frankrig, Italien, Østrig og Tyskland.	이탈리아	0	0
+엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	Strengt taget består kinesisk af flere hundrede dialekter.	수백	0	0
+좋은 주말 보내십시오!	God weekend!	주말	0	0
+그리스어를 배우는 것은 어렵다.	Græsk er svært at lære.	배우는	0	0
+우리는 브라질에서 커피를 수입한다.	Vi importerer kaffe fra Brasilien.	커피를	0	0
+좋은 주말 보내세요!	God weekend!	보내세요	0	0
+마지막 피자 한 조각을 제가 먹어도 괜찮을까요?	Vil det være i orden hvis jeg spiser det sidste stykke pizza?	먹어도	0	0
+사랑합니다.	Jeg elsker dig.	사랑합니다	0	0
+어제 흥미로운 이야기를 읽었어요.	I går læste jeg en interessant historie.	읽었어요	0	0
+계속 집중하고 있어봐.	Hold fokus.	있어봐	0	0
+마지막 피자 한 조각 내가 먹어도 돼?	Vil det være i orden hvis jeg spiser det sidste stykke pizza?	조각	0	0
+마지막 피자 한 조각을 제가 먹어도 괜찮을까요?	Vil det være i orden hvis jeg spiser det sidste stykke pizza?	조각을	0	0
+마지막 피자 한 조각을 제가 먹어도 괜찮을까요?	Vil det være i orden hvis jeg spiser det sidste stykke pizza?	괜찮을까요	0	0
+계속 집중하고 있어봐.	Hold fokus.	집중하고	0	0
+엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어.	Strengt taget består kinesisk af flere hundrede dialekter.	엄밀히	0	0
+늑대가 되고 싶어요.	Jeg vil være en ulv.	늑대가	0	0
+한국에서 무슨 언어를 말해요?	Hvilket sprog taler de i Korea?	언어를	0	0
+톰은 파트타임으로 일하고 있습니다.	Tom arbejder på deltid.	톰은	0	0
+"말들"은 "말"의 복수형이야.	»Heste« er flertal af »hest«.	말의	0	0
+경찰이 어제 용의자를 체포했다.	Politiet har anholdt en mistænkt i går.	용의자를	0	0
+저는 한국 사람입니다.	Jeg er koreaner.	한국	0	0
+그리스어를 배우는 것은 어렵다.	Græsk er svært at lære.	어렵다	0	0
+"말들"은 "말"의 복수형이야.	»Heste« er flertal af »hest«.	말들은	0	0
+반년 전부터 금연하고 있다.	Jeg holdt op med at ryge for et halvt år siden.	반년	0	0
+나는 사계절 중에 여름을 제일 좋아해.	Af de fire årstider kan jeg bedst lide sommeren.	여름을	0	0
+나일강만큼 긴 강은 세상에 없다.	Ingen flod i verden er længere end Nilen.	강은	0	0
+프랑스는 서유럽에 있습니다.	Frankrig er i Vesteuropa.	프랑스는	0	0
+우리 몸 속에는 칼륨이 들어 있다.	Vi har kalium i kroppen.	속에는	0	0
+한국에서는 무슨 언어로 말합니까?	Hvilket sprog taler de i Korea?	언어로	0	0
+당신의 입술이 파랗습니다.	Dine læber er blå.	입술이	0	0
+불가능하지 않다.	Det er ikke umuligt.	불가능하지	0	0
+스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.	Schweiz er beliggende mellem Frankrig, Italien, Østrig og Tyskland.	오스트리아	0	0
+톰은 나의 친구다.	Tom er min ven.	친구다	0	0
+한국에서 무슨 언어를 말해요?	Hvilket sprog taler de i Korea?	한국에서	0	0
+우리는 브라질에서 커피를 수입한다.	Vi importerer kaffe fra Brasilien.	브라질에서	0	0
+좋은 주말 보내십시오!	God weekend!	보내십시오	0	0
+이것은 은으로 만든 동전이다.	Det her er en sølvmønt.	은으로	0	0
+저는 일본어, 영어, 프랑스어를 할 수 있습니다.	Jeg taler japansk, engelsk og fransk.	프랑스어를	0	0

@@ -1,0 +1,24 @@
+Da.	예.	da	0	0
+Francuska je u Zapadnoj Evropi.	프랑스는 서유럽에 있습니다.	je	0	0
+Da ili ne?	예 혹은 아니오?	ne	0	0
+Francuska je u Zapadnoj Evropi.	프랑스는 서유럽에 있습니다.	u	0	0
+To je škoda.	안타까워요.	to	0	0
+Da ili ne?	예 혹은 아니오?	ili	0	0
+Да.	네.	да	0	0
+Француска је у Западној Европи.	프랑스는 서유럽에 있습니다.	је	0	0
+Да или не?	예 혹은 아니오?	не	0	0
+Француска је у Западној Европи.	프랑스는 서유럽에 있습니다.	у	0	0
+Ја сам Марија.	메리예요.	сам	0	0
+Ја сам Марија.	메리예요.	ја	0	0
+Tokio je glavni grad Japana.	도쿄는 일본의 수도입니다.	grad	0	0
+Tokio je glavni grad Japana.	도쿄는 일본의 수도입니다.	glavni	0	0
+Да или не?	예 혹은 아니오?	или	0	0
+Воде, молим.	물 주세요.	молим	0	0
+Здраво.	안녕하세요.	здраво	0	0
+Francuska je u Zapadnoj Evropi.	프랑스는 서유럽에 있습니다.	francuska	0	0
+Francuska je u Zapadnoj Evropi.	프랑스는 서유럽에 있습니다.	evropi	0	0
+Francuska je u Zapadnoj Evropi.	프랑스는 서유럽에 있습니다.	zapadnoj	0	0
+Воде, молим.	물 주세요.	воде	0	0
+Tokio je glavni grad Japana.	도쿄는 일본의 수도입니다.	japana	0	0
+Tokio je glavni grad Japana.	도쿄는 일본의 수도입니다.	tokio	0	0
+Ја сам Марија.	메리예요.	марија	0	0

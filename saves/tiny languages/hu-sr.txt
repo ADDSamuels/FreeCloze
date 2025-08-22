@@ -1,0 +1,1308 @@
+Melyik a helyes út?	Који је прави начин?	a	0	0
+Nem vagyok énekesnő.	Нисам певачица.	nem	0	0
+Úton van az orvos.	Doktor je na putu.	az	0	0
+Tudod, hogy hol lakom?	Знаш ли где живим?	hogy	0	0
+Amennyire ki tudtam venni a szavaiból, azt mondta, hogy nagyon sokat ivott, és nagyon berúgott.	Колико сам могао разабрати из његових речи, каже да много пије, и да је тешка пијандура.	és	0	0
+Éhes vagyok, mint egy farkas.	Gladan sam kao vuk.	egy	0	0
+Kő szive van.	On ima kameno srce.	van	0	0
+Fújdogál valamicskét a szél, de ez nem lehet akadály, hogy elinduljunk.	Ветар помало дува, али то не може бити препрека, да кренемо.	ez	0	0
+Azt hiszem, a probléma megoldódik majd magától is a maga idejében.	Mislim da će se problem rešiti sam od sebe, u svoje vreme.	is	0	0
+A főtt étel nemcsak a testnek, de a léleknek is fontos.	Кувана храна, није само телу важна, него и души, такође.	de	0	0
+Basszál meg!	Јеби ме.	meg	0	0
+Csak téged hallak.	Slušam samo tebe.	csak	0	0
+Ha hihetünk a meteorológiának, akkor hétvégén ragyogó időnk lesz.	Ако можемо да верујемо временској прогнози, онда ћемо за викенд имати прелепо време.	ha	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	mi	0	0
+- Tomi, valamit tudnod kell: én még nem voltam férfivel. - Mari, még én sem.	- Том, нешто мораш да знаш: ја још никада нисам била са мушкарцем. - Мери, ни ја још нисам.	én	0	0
+- Azt állítja Tomi, hogy találkozott a nagylábúval, bár én erősen kétlem. - Ne kételkedj! Tavaly a földönkívüliek hívták meg őt teázni.	Том тврди да се сусрео са Јетијем, мада ја јако сумњам. - Не сумњај! Прошле године, ванземаљци су га звали на чајанку.	azt	0	0
+Volt még egy utolsó esélyünk.	Још смо имали последњу шансу.	volt	0	0
+Tominak hogy igen, hogy nem nem jutott eszébe semmilyen mondat, ezért csak idézeteket másolgatott ide.	Tomiju iz nekog razloga, nije padala na pamet nikakva rečenica, iz tog razloga, ovde su samo kopirani citati.	igen	0	0
+Te vagy a főnök.	Ти си шеф.	vagy	0	0
+Hinned kell nekem.	Moraš mi verovati.	kell	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	el	0	0
+Maradj itt!	Остани овде.	itt	0	0
+Két kezemen nem tudom megszámolni, hogy hányszor csaptál már be bennünket.	На две руке не могу набројати, колико смо пута већ преварени.	már	0	0
+- Tomi, valamit tudnod kell: én még nem voltam férfivel. - Mari, még én sem.	- Том, нешто мораш да знаш: ја још никада нисам била са мушкарцем. - Мери, ни ја још нисам.	még	0	0
+Ha most kimész azon az ajtón, soha többé ne gyere vissza!	Ako sada izađeš na ona vrata, nikada se više ne vraćaj!	ne	0	0
+Máriának igazából nem te kellesz, hanem a pénzed.	Mariji zapravo nisi potreban ti, nego tvoj novac.	te	0	0
+Gyere ki!	Дођи напоље.	ki	0	0
+Mit olvasol?	Šta čitaš?	mit	0	0
+Ezt nem tudtam.	Нисам знао.	ezt	0	0
+Szabad vagyok.	Слободна сам.	vagyok	0	0
+Minden, amit eddig előnynek gondoltam, az most hirtelen hátránnyá vált.	Sve, što sam do sada mislio da je prednost, sada se odjednom pretvorilo u hendikep.	most	0	0
+Szükségem van egy jó szótárra.	Potreban mi je dobar rečnik.	jó	0	0
+Én sem tudom.	Не могу ни ја.	tudom	0	0
+Miért viselkedsz úgy, mint egy gyerek?	Зашто се понашаш као дете?	úgy	0	0
+Miért nem tudott eljönni?	Зашто није могла да дође?	miért	0	0
+Ha hihetünk a meteorológiának, akkor hétvégén ragyogó időnk lesz.	Ako možemo da verujemo vremenskој prognozi, imaćemo sjajno vreme ovog vikenda.	akkor	0	0
+Éhes vagyok, mint a farkas.	Гладан сам као вук.	mint	0	0
+Ő mindig itt ült.	Он увек седи овде.	ő	0	0
+Szóval, szerinted a feleséged biztosan megcsal téged, de nincs rá semmi bizonyítékod, jól értem?	Значи мислиш да те жена вара, али немаш доказе за то, ако сам добро разумео?	jól	0	0
+Ha hihetünk a meteorológiának, akkor hétvégén ragyogó időnk lesz.	Ako možemo da verujemo vremenskој prognozi, imaćemo sjajno vreme ovog vikenda.	lesz	0	0
+Elméletben lehetséges, de a gyakorlatban nagyon nehéz.	U teoriji je to moguće, ali je u praksi to jako teško.	nagyon	0	0
+Szóval, szerinted a feleséged biztosan megcsal téged, de nincs rá semmi bizonyítékod, jól értem?	Misliš da te tvoja žena vara, ali nemaš nikakve dokaze za to, ako sam dobro razumeo?	nincs	0	0
+Unatkozom, mert nem foglalkozol velem.	Dosadno mi je, zato što se ne baviš mnome.	mert	0	0
+Kezdem már megszokni, hogy itt minden nap esik az eső.	Већ сам се почео навикавати на то, да сваки дан пада киша.	minden	0	0
+Én sem tudom.	Не могу ни ја.	sem	0	0
+Amit ma megtehetsz, ne halaszd holnapra!	Што можеш да урадиш данас, не остављај за сутра.	amit	0	0
+Meglátjátok, olyan fantasztikus kalandokban lesz majd részünk, amelyekről még álmodni sem mertetek.	Videćete, bićemo deo tako fantastične avanture, o kojoj se još niste ni usudili da sanjate.	olyan	0	0
+A végén minden rendben lesz, ha nincs rendben, akkor még nincs vége!	Све ће бити у реду на крају. Ако није у реду, онда није ни крај!	rendben	0	0
+Nem akarom, hogy így láss.	Не желим да ме видиш овакву.	így	0	0
+Szállj be, hazaviszlek.	Улази, одбацићу те кући.	be	0	0
+Te soha nem szerettél volna egy szigeten élni?	Никада ниси пожелео да живиш на острву?	volna	0	0
+Nem mondtak nekem semmit.	Ništa mi nije rečeno.	nekem	0	0
+Az utolsó kapcsolja le a villanyt.	Последњи нека угаси светло.	le	0	0
+Ezt nem takarítom fel.	Ја то нећу чистити.	fel	0	0
+Te tudod, hogy én merre lakom?	Знаш ли где живим?	tudod	0	0
+Egyedül lakott ő ott.	Ona je tamo živela sama.	ott	0	0
+Vegyetek fel gumikesztyűt, mert nem lehet rajta ujjlenyomat!	Ставите гумене рукавице, зато што не сме бити отисак прста на томе!	lehet	0	0
+Van benne valami megmagyarázhatatlanul vonzó.	Има нешто необјашњиво привлачно у себи.	valami	0	0
+Meglátjátok, olyan fantasztikus kalandokban lesz majd részünk, amelyekről még álmodni sem mertetek.	Видећете, учествоваћемо у тако фантастичној авантури, о каквој се још нисте усудили ни да сањате.	majd	0	0
+Ő mindig itt ült.	Она увек седи овде.	mindig	0	0
+Talán igen, talán nem.	Možda jeste, možda nije.	talán	0	0
+Mindent a maga idejében!	Sve u svoje vreme.	maga	0	0
+Köszönöm a belém vetett bizalmat, de nem érdemlem meg.	Hvala na poverenju u mene, ali ja to ne zaslužujем.	köszönöm	0	0
+Szóval, szerinted a feleséged biztosan megcsal téged, de nincs rá semmi bizonyítékod, jól értem?	Misliš da te tvoja žena vara, ali nemaš nikakve dokaze za to, ako sam dobro razumeo?	semmi	0	0
+Egyedül ő volt az, aki megértett engem.	Она је била једина која ме је разумела.	aki	0	0
+Amikor nincs otthon a macska, táncolnak az egerek.	Kada mačka nije kod kuće, miševi kolo vode.	amikor	0	0
+Hol vagyunk?	Где смо?	hol	0	0
+Neveletlenség lenne a részedről, megmondani neki az igazat.	Лакомислено је за вас да њему кажете истину.	neki	0	0
+Szóval, szerinted a feleséged biztosan megcsal téged, de nincs rá semmi bizonyítékod, jól értem?	Значи мислиш да те жена вара, али немаш доказе за то, ако сам добро разумео?	szóval	0	0
+Segítek neked egy feltétellel.	Помоћи ћу ти под једним условом.	neked	0	0
+A kis siker is fontos.	I mali uspeh je važan.	kis	0	0
+Azt hiszem, a probléma megoldódik majd magától is a maga idejében.	Mislim da će se problem rešiti sam od sebe, u svoje vreme.	hiszem	0	0
+Nincs elég süteményünk mindenki számára.	Немамо довољно колача за све.	elég	0	0
+- Tomi, valamit tudnod kell: én még nem voltam férfivel. - Mari, még én sem.	- Том, нешто мораш да знаш: ја још никада нисам била са мушкарцем. - Мери, ни ја још нисам.	valamit	0	0
+Reménykedem, hogy az eszperantó győzni fog.	Ја се надам да ће есперанто победити.	fog	0	0
+Szerintem most nagyon büszke lenne rám a nagymamám.	Mislim da bi moja baka bila sada veoma ponosna na mene.	lenne	0	0
+Az utóbbi időben nem igazán érek rá olvasni.	У последње време стварно не стижем да читам.	rá	0	0
+Milyen név alatt?	Под којим именом?	milyen	0	0
+Ilyen finomat biztos nem ettél mostanában, fiam, mint amilyet anyád főz!	Тако укусно, сугурно ниси јео у последње време, сине мој, као што кува твоја мама!	ilyen	0	0
+Tominak hogy igen, hogy nem nem jutott eszébe semmilyen mondat, ezért csak idézeteket másolgatott ide.	Tomiju iz nekog razloga, nije padala na pamet nikakva rečenica, iz tog razloga, ovde su samo kopirani citati.	ide	0	0
+Biztos volt a siker.	Bio je siguran u uspeh.	biztos	0	0
+Tom vagy öt percig bámulta őket, mert soha nem látott még ilyen csodálatosakat.	Tom je nekih pet minuta gledao u njih, jer još nikada nije video takvu lepotu.	őket	0	0
+Ha most kimész azon az ajtón, soha többé ne gyere vissza!	Ако сада изађеш на она врата, никада се више немој враћати!	vissza	0	0
+Az új film nagy siker volt.	Novi film bio je veoma uspešan.	nagy	0	0
+A csend után a zene tudja legjobban kifejezni a kifejezhetetlent.	Posle tišine, ono što najbolje može izraziti neizrecivo je muzika.	tudja	0	0
+Amit ma megtehetsz, ne halaszd holnapra!	Што можеш да урадиш данас, не остављај за сутра.	ma	0	0
+Egész nap semmit nem csinál, csak a televíziót bámulja.	Ceo dan ne radi ništa, samo bulji u televizor.	egész	0	0
+Mikor esett ez meg?	Када се то десило?	mikor	0	0
+Diákok vagyunk.	Mi smo studenti.	vagyunk	0	0
+Hol vannak a zsiráfok?	Gde su žirafe?	vannak	0	0
+Amíg az ember él, remél.	Све док човек живи, нада се.	ember	0	0
+Ez mikor történt?	Када се то догодило?	történt	0	0
+Túl hideg van még, hogy a tengerhez menjünk.	Још је веома хладно путовати на море.	túl	0	0
+Nincs sok barátom.	Nemam mnogo prijatelja.	sok	0	0
+Amennyire ki tudtam venni a szavaiból, azt mondta, hogy nagyon sokat ivott, és nagyon berúgott.	Koliko sam mogao razabrati iz njegovih reči, kaže da mnogo pije, i da je teška pijandura.	mondta	0	0
+A gyerekeknek a szüleiktől két dolgot kellene kapniuk: gyökereket és szárnyakat.	Две ствари деца треба да добију од својих родитеља: корене и крила.	két	0	0
+Nem értem.	Ne razumem.	értem	0	0
+Gyere ide!	Dođi ovamo.	gyere	0	0
+Szia, barátom!	Zdravo, prijatelju!	szia	0	0
+Hall engem valaki?	Da li me neko čuje?	valaki	0	0
+- Legyél már egy kicsit optimistább! - Aztán meg mi a francnak?	Будите мало оптимистичнији! - И онда шта, дођавола?	aztán	0	0
+Lefekszem egy kicsit.	Идем да одремам.	kicsit	0	0
+Hall engem valaki?	Da li me neko čuje?	engem	0	0
+Tominak hogy igen, hogy nem nem jutott eszébe semmilyen mondat, ezért csak idézeteket másolgatott ide.	Tomiju iz nekog razloga, nije padala na pamet nikakva rečenica, iz tog razloga, ovde su samo kopirani citati.	ezért	0	0
+Tom, ne állj ott, mint egy faszent, ülj le, és vacsorázz velem.	Томе, немојте тамо стојати као свето дрво, седите и вечерајте са мном.	velem	0	0
+Tegnap piacon voltam.	Ја сам јуче посетио сајам поврћа.	voltam	0	0
+Amint már mondtam, nem láttam semmit.	Kao što sam već rekao, ništa nisam video.	mondtam	0	0
+Mindent a maga idejében.	Sve u svoje vreme.	mindent	0	0
+Jól ismerem őt.	Dobro ga znam.	őt	0	0
+Na, a szomszéd házaspár már megint marja egymást.	Комшијски брачни пар, опет се свађа.	na	0	0
+Három hónap kellett neki, hogy megtanuljon biciklizni.	Trebalo mu je tri meseca da nauči da vozi bicikl.	kellett	0	0
+Egy új kerékpárt kell vennie a fiának.	On mora kupiti novi bicikl sinu.	új	0	0
+Nekem merőben más a véleményem ezekről.	Имам потпуно другачије мишљење о томе.	más	0	0
+Amint már mondtam, nem láttam semmit.	Kao što sam već rekao, ništa nisam video.	semmit	0	0
+Nem vagyok biztos benne, hogy ez jó ötlet.	Nisam siguran da je to dobra ideja.	benne	0	0
+Nézd a kacsákat a tóban!	Gledaj te patke na jezeru.	nézd	0	0
+Csinálj, amit akarsz! Nem érdekel.	Ради шта хоћеш! Не интересује ме.	akarsz	0	0
+Szerintem most nagyon büszke lenne rám a nagymamám.	Mislim da bi moja baka bila sada veoma ponosna na mene.	szerintem	0	0
+Felújítás miatt zárva.	Затворено због реновирања.	miatt	0	0
+Kérem, láthatnám a jogosítványát?	Smem li da vidim Vašu vozačku dozvolu?	kérem	0	0
+Tomnak megsérült a jobb térde.	Том је повредио десно колено.	jobb	0	0
+Táncolnék veled.	Плесала бих с тобом.	veled	0	0
+Már mondtam Tomnak, hogy mit akarok venni.	Већ сам рекла Тому шта хоћу да купим.	akarok	0	0
+Nem akarom, hogy így láss.	Не желим да ме видиш овакву.	akarom	0	0
+Emlékszel erre a játékra?	Да ли се сећате ове игре?	erre	0	0
+Több könyve van, mint nekem.	Он има више књига од мене.	több	0	0
+A baj sosem jár egyedül.	Nevolja nikad ne dolazi sama.	baj	0	0
+Mindenki sorra fog kerülni.	Svako će dobiti priliku.	mindenki	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	legyen	0	0
+Tom vagy öt percig bámulta őket, mert soha nem látott még ilyen csodálatosakat.	Том је око пет минута буљио у њих, јер никада још, такву дивоту видео није.	soha	0	0
+Menj ki, ha dohányozni akarsz!	Изађи напоље ако хоћеш да пушиш!	menj	0	0
+Kezdem már megszokni, hogy itt minden nap esik az eső.	Већ сам се почео навикавати на то, да сваки дан пада киша.	nap	0	0
+Szerintem most nagyon büszke lenne rám a nagymamám.	Мислим да би сада моја бака била веома поносна на мене.	rám	0	0
+Nincs senki másom, csak te.	Немам никог другог осим тебе.	senki	0	0
+Mint a régi szép időkben.	Kao u stara lepa vremena.	szép	0	0
+Tomi indult egy papírrepülő versenyen és első helyezést ért el.	Томи се такмичио у бацању папираних авиона и освојио је прво место.	első	0	0
+Vásároltam egy pár cipőt.	Kupio sam par cipela.	pár	0	0
+Kik ezek az emberek?	Ko su ovi ljudi?	ezek	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	minket	0	0
+A csend után a zene tudja legjobban kifejezni a kifejezhetetlent.	Posle tišine, ono što najbolje može izraziti neizrecivo je muzika.	után	0	0
+Az emberek hibáznak.	Људи греше.	emberek	0	0
+Csak téged hallak.	Slušam samo tebe.	téged	0	0
+Itt várj!	Чекај овде.	várj	0	0
+A miniszoknyák újra divatosak.	Мини сукње су поново модерне.	újra	0	0
+A baj sosem jár egyedül.	Невоља никад не долази сама.	sosem	0	0
+Nem is láttam még tehenet.	Nisam još video ni kravu.	láttam	0	0
+Semmit nem tudok őróla.	Ne znam ništa o njemu.	tudok	0	0
+Amennyire ki tudtam venni a szavaiból, azt mondta, hogy nagyon sokat ivott, és nagyon berúgott.	Колико сам могао разабрати из његових речи, каже да много пије, и да је тешка пијандура.	tudtam	0	0
+Várom az ön válaszát.	Чекам ваш одговор.	ön	0	0
+Kicsit ellaposodott a buli; fel kellene dobni valahogy.	Забава постаје помало досадна; треба подићи атмосферу.	kellene	0	0
+Azt hittem rólad először, hogy egy műveletlen tulok vagy.	Прво сам мислила да си неписмени простак.	hittem	0	0
+Mondja csak, miért eteti ön itt ezeket a koszos galambokat kenyérrel, amikor sok embernek nem telik egy falat kenyérre sem?	Recite mi, zašto hranite ove prljave golubove hlebom, kada mnogi ljudi ne mogu sebi da priušte ni parče hleba?	mondja	0	0
+Hetente egyszer úszom.	Plivam jednom nedeljno.	egyszer	0	0
+Mi ketten annyira mások vagyunk!	Нас двоје смо толико различити.	annyira	0	0
+Az utóbbi időben nem igazán érek rá olvasni.	У последње време стварно не стижем да читам.	igazán	0	0
+Amíg az ember él, remél.	Све док човек живи, нада се.	amíg	0	0
+És ki volt a másik?	A ko je bio drugi?	másik	0	0
+- Hogy állsz a lányokkal, fiam? - Jaj, apa!	"A devojke, sinko?" "O, tata."	apa	0	0
+Megyek a strandra.	Idem na plažu.	megyek	0	0
+Minden, amit eddig előnynek gondoltam, az most hirtelen hátránnyá vált.	Sve, što sam do sada mislio da je prednost, sada se odjednom pretvorilo u hendikep.	gondoltam	0	0
+Tomi részt vett egy papírrepülő versenyen és első lett.	Томи је учествовао на такмичењу у бацању папирних авиона и освојио прво место.	lett	0	0
+Marika jelenlétében olyan ügyetlennek érzem magam.	У Марикином присуству осећам се тако неспретно.	magam	0	0
+- Vicces fiú ez a Tom. - Én inkább úgy fogalmaznék: nevetséges.	- Šaljivdžija je ovaj Tom. - Radije bih ovako formulisao: smešan.	inkább	0	0
+Jobban érzed magad, Tom?	Da li se osećate bolje, Tome?	jobban	0	0
+Bízz saját magadban!	Veruj u sebe!	saját	0	0
+Vegyetek fel gumikesztyűt, mert nem lehet rajta ujjlenyomat!	Uzmite gumene rukavice, jer na tome , ne sme biti otisak prsta!	rajta	0	0
+Nincs új a nap alatt.	Ništa novo pod suncem.	alatt	0	0
+Ebben a pontban nem tudok veled egyetérteni.	Ја се не могу сагласити са вама о тој тачки.	ebben	0	0
+Az Úr Jézus ezt mondta: Én vagyok az út, az igazság és az élet.	Господ Исус је рекао: Ја сам пут, истина и живот.	úr	0	0
+A könyvek a legjobb barátaim.	Knjige su moji najbolji prijatelji.	legjobb	0	0
+Én teljesen máshogy látom ezt az egészet.	Потпуно другачије гледам на све то.	teljesen	0	0
+Nem tud kerékpározni?	Ne zna da vozi bicikl?	tud	0	0
+Csak a magad nevében beszélj, légy szíves.	Говори у своје име, молим те.	magad	0	0
+A három év eltelt, mint három nap, mint egy álom!	Tri godine su prošle, kao tri dana, kao jedan san!	három	0	0
+Tom csak egyetlen kiutat látott a gondokból.	Tom je video samo jedan izlaz iz nevolje.	egyetlen	0	0
+Ha szeretlek is, mi közöd hozzá?	Ако те ја волим, шта се то тебе тиче?	hozzá	0	0
+Jól megy neked ez.	Добро ти иде.	megy	0	0
+Apu, felolvasnál nekem egy mesét, mielőtt elmegyek aludni?	Тата, можеш ли да ми прочиташ једну причу, пре него што одем на спавање?	mielőtt	0	0
+Ez mind az én könyvem.	Sve ove knjige su moje.	mind	0	0
+Egyedül maradtam a sötétben.	Остала сам сам у тмини.	egyedül	0	0
+Túl hideg van még, hogy a tengerhez menjünk.	Још је веома хладно путовати на море.	menjünk	0	0
+Akarod, hogy megfésüljelek?	Hoćeš li da te očešljam?	akarod	0	0
+Apám mindig azt mondta, hogy Isten azoknak segít, akik magukon segítenek.	Moj otac je uvek govorio da Bog pomaže onima koji pomažu sami sebi.	akik	0	0
+Voltál orvosnál?	Da li si bio kod lekara?	voltál	0	0
+Apám mindig azt mondta, hogy Isten azoknak segít, akik magukon segítenek.	Moj otac je uvek govorio da Bog pomaže onima koji pomažu sami sebi.	isten	0	0
+Mire kell neked pénz?	За што ти је потребан новац?	mire	0	0
+Az élet megy tovább.	Život ide dalje.	tovább	0	0
+Csak álltunk ott a kirakat előtt, és tátottuk a szánkat, mint a gyerekek.	Stajali smo samo tamo ispred izloga, i zurili, kao deca.	előtt	0	0
+A végén minden rendben lesz, ha nincs rendben, akkor még nincs vége!	Све ће бити у реду на крају. Ако није у реду, онда није ни крај!	vége	0	0
+Beszélnek ők franciául?	Да ли причају француски?	ők	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	nekünk	0	0
+Holnap hétfő.	Сутра је понедељак.	holnap	0	0
+A feleségem nem a legszebb nő a világon - de sebaj! Mindenesetre elfogad engem olyannak, amilyen vagyok.	Моја жена није најлепша свету - али нема везе! У сваком случају, прихвата ме таквог какав сам.	nő	0	0
+Honnan tadhatnám, hogy most nem hazudsz?	Kako da znam da ne lažeš sad?	honnan	0	0
+Kitartás nélkül nincs siker.	Bez upornosti nema uspeha.	nélkül	0	0
+Ennek semmi íze.	Нема укус.	ennek	0	0
+Én pontosan tíz órakor itt voltam, ti meg nem.	Тачно у десет сати сам био овде, а ви нисте.	pontosan	0	0
+Nekem tetszenek azok az emberek, akiknek van humoruk.	Допадају ми се људи који се шале.	azok	0	0
+Azt hittem rólad először, hogy egy műveletlen tulok vagy.	Прво сам мислила да си неписмени простак.	először	0	0
+Amit most el fogok neked mesélni, az velem történt meg.	Сад ћу ти испричати шта се мени десило.	fogok	0	0
+Ő és én olyan közeli barátok vagyunk, hogy szinte olvasni tudjuk egymás gondolatát.	Он и ја смо тако блиски пријатељи, да скоро можемо да читамо мисли једно другом.	tudjuk	0	0
+Mit csinálsz?	Šta radiš?	csinálsz	0	0
+Nem akarok most erről vitázni.	Не желим сад о томе да се расправљам.	erről	0	0
+A nevemet nem mondom meg.	Нећу да кажем како се зовем.	mondom	0	0
+Mennyi az idő?	Koliko je sati?	idő	0	0
+Na, a szomszéd házaspár már megint marja egymást.	Комшијски брачни пар, опет се свађа.	megint	0	0
+Látni akarlak.	Желим да те видим.	látni	0	0
+Tomi egy here; mindig a munka könnyebbik végét fogja meg.	Томи, трут један; на крају ће увек лакши посао завршити.	fogja	0	0
+A városban nehéz autózni.	U gradu je teško voziti.	nehéz	0	0
+Én ott leszek.	Бићу тамо.	leszek	0	0
+A siker lassacskán jött, nem hirtelen.	Uspeh je došao polako, ne odjednom.	jött	0	0
+Szükségem van rád.	Trebaš mi.	rád	0	0
+Én pontosan tíz órakor itt voltam, ti meg nem.	Тачно у десет сати сам био овде, а ви нисте.	ti	0	0
+Nem tudom, hogy meg tudom-e ezt tenni, de meg fogom kísérelni.	Ne znam, hoću li moći to da uradim ali ću probati.	fogom	0	0
+Máriának igazából nem te kellesz, hanem a pénzed.	Марија, уистину не жели тебе, него твој новац.	hanem	0	0
+Helló, barátom!	Zdravo, prijatelju!	helló	0	0
+Koalíciót kell alakítaniuk, mert egyedül nem fognak tudni kormányozni.	Морамо да формирамо коалицију, јер не можемо сами да владамо.	tudni	0	0
+Miért pont én?	Зашто баш ја?	pont	0	0
+Azt látom, hogy neked a macska is fontosabb, mint én vagyok.	Vidim da ti je mačka važnija od mene.	látom	0	0
+Tudsz segíteni?	Možeš li mi pomoći?	tudsz	0	0
+Amennyire ki tudtam venni a szavaiból, azt mondta, hogy nagyon sokat ivott, és nagyon berúgott.	Колико сам могао разабрати из његових речи, каже да пуно пије, и да је тешки алкохоличар.	sokat	0	0
+Fogalmam sincs, miről beszél.	Nemam pojma o čemu on to priča.	sincs	0	0
+Bocsáss meg nekik Atyám, mert nem tudják, mit cselekszenek.	Опрости им Боже, не знају шта раде.	nekik	0	0
+Rómaiak, menjetek haza!	Римљани, идите кући!	haza	0	0
+Az utolsó kapcsolja le a villanyt.	Последњи нека угаси светло.	utolsó	0	0
+Marika jelenlétében olyan ügyetlennek érzem magam.	U Marikinom prisustvu osećam se tako nespretno.	érzem	0	0
+Sejtelmem sincs, miről beszél.	Nemam pojma o čemu on to priča.	miről	0	0
+Ideje már hazamenni?	Да ли је време да идемо кући?	ideje	0	0
+Mit fogsz csinálni pénteken?	Šta ćeš da radiš u petak?	fogsz	0	0
+Mit fogsz csinálni nyáron?	Šta ćeš raditi ovog leta?	csinálni	0	0
+Férfi vagy, nem?	Зар ниси мушкарац?	férfi	0	0
+Ezt a nyakkendőt viseltem tegnap.	Ovu kravatu sam nosio juče.	tegnap	0	0
+Fontos.	Važno je.	fontos	0	0
+A magyar nyelv nem egyszerű, de nagyszerű.	Мађарски језик није лак, али је диван.	nagyszerű	0	0
+A siker sok pénzt jelent, nemde?	Uspeh znači mnogo novca, zar ne?	pénzt	0	0
+Ki akarom végre aludni magam.	Želim konačno da spavam sama.	végre	0	0
+Csinálj, amit akarsz! Nem érdekel.	Ради шта хоћеш! Не интересује ме.	érdekel	0	0
+Ha most kimész azon az ajtón, soha többé ne gyere vissza!	Ако сада изађеш на она врата, никада се више немој враћати!	azon	0	0
+Iskolánk 80 éves.	Naša škola je stara 80 godina.	éves	0	0
+Gondolom, a matek nem volt a kedvenc tantárgyad.	Мислим да ти математика није била омиљен предмет у школи.	gondolom	0	0
+Nem tudom, hogy meg tudom-e ezt tenni, de meg fogom kísérelni.	Ne znam, hoću li moći to da uradim ali ću probati.	tenni	0	0
+Ez az ötlet nem tetszik nekem.	Та идеја ми се не допада.	tetszik	0	0
+Kész vagyok.	Спреман сам.	kész	0	0
+Becsókolta az összes süteményt.	Смазао сам све колаче.	összes	0	0
+Apám mindig azt mondta, hogy Isten azoknak segít, akik magukon segítenek.	Moj otac je uvek govorio da Bog pomaže onima koji pomažu sami sebi.	apám	0	0
+Ha most kimész azon az ajtón, soha többé ne gyere vissza!	Ako sada izađeš na ona vrata, nikada se više ne vraćaj!	többé	0	0
+Meghalt.	Умрла је.	meghalt	0	0
+Szóval, szerinted a feleséged biztosan megcsal téged, de nincs rá semmi bizonyítékod, jól értem?	Misliš da te tvoja žena vara, ali nemaš nikakve dokaze za to, ako sam dobro razumeo?	biztosan	0	0
+Tom, ne állj ott, mint egy faszent, ülj le, és vacsorázz velem.	Томе, немојте тамо стојати као свето дрво, седите и вечерајте са мном.	állj	0	0
+Tamás még mindig ugyanaz, mint húsz-harminc éve: kocka Ladával jár, letekert ablak mellett hallgatja a Modern Talkingot - csak hasat eresztett, szemüveget visel és kopaszodik.	Tomaš i dalje isto, kao i pre dvadeset ili trideset godina, vozi se Ladom, sedi pored prozora i sluša Modern Talking - samo što je pustio stomak, nosi naočare i proćelav je.	éve	0	0
+Szükségem van rád.	Trebaš mi.	szükségem	0	0
+Hogy néz ki?	Kako ona izgleda?	néz	0	0
+Lehet, hogy halott.	Možda je ona mrtva.	halott	0	0
+Szeretlek, de nem úgy.	Volim te, ali ne tako.	szeretlek	0	0
+A következő hónaptól kicsit összébb kell húznunk a nadrágszíjat.	Од следећег месеца мораћемо да стегнемо каиш.	következő	0	0
+Intőt kapott a fiam.	Podseća me na mog sina.	fiam	0	0
+Jól beszélsz angolul, nem?	Ti pričaš dobro Engleski, zar ne?	beszélsz	0	0
+Szeretem a feleségem.	Ја волим своју супругу.	szeretem	0	0
+Mindig önmagadat add!	Uvek budi ono što jesi!	add	0	0
+Mondja csak, miért eteti ön itt ezeket a koszos galambokat kenyérrel, amikor sok embernek nem telik egy falat kenyérre sem?	Реците ми, зашто храните ове прљаве голубове хлебом, када многи људи себи не могу да приуште ни парче хлеба?	ezeket	0	0
+A gyerekeknek a szüleiktől két dolgot kellene kapniuk: gyökereket és szárnyakat.	Две ствари деца треба да добију од својих родитеља: корене и крила.	dolgot	0	0
+Szóval, szerinted a feleséged biztosan megcsal téged, de nincs rá semmi bizonyítékod, jól értem?	Misliš da te tvoja žena vara, ali nemaš nikakve dokaze za to, ako sam dobro razumeo?	szerinted	0	0
+Az öreg asztalos valami régi bútordarab javításán bíbelődött.	Стари комад намештаја, старинског стила, пажљиво је поправљен.	régi	0	0
+A siker sok pénzt jelent, nemde?	Uspeh znači mnogo novca, zar ne?	jelent	0	0
+Tudsz segíteni?	Možeš li mi pomoći?	segíteni	0	0
+Azt hiszem, már tudom, mi történik.	Мислим да већ знам шта се десило.	történik	0	0
+Álmaidban találkozunk.	Видимо се у твојим сновима.	találkozunk	0	0
+Nem értettem, mit mondott.	Nisam razumeo šta je rekao.	mondott	0	0
+Fogalmam sincs, miről beszél.	Nemam pojma o čemu on to priča.	beszél	0	0
+Úgy mosolygott az a fekete hajú pénztároslány a kasszánál, hogy egyszerűen nem bírtam nem őt bámulni, míg a sorban várakoztam.	Тако се осмехнула црнокоса благајница на каси, да просто нисам могао да не бленем у њу, док сам чекао у реду.	míg	0	0
+Majdnem mindenki elment.	Скоро сви су отишли.	majdnem	0	0
+- Vicces fiú ez a Tom. - Én inkább úgy fogalmaznék: nevetséges.	- Šaljivdžija je ovaj Tom. - Radije bih ovako formulisao: smešan.	fiú	0	0
+Szabad vagyok.	Слободан сам.	szabad	0	0
+Tom vagy öt percig bámulta őket, mert soha nem látott még ilyen csodálatosakat.	Tom je nekih pet minuta gledao u njih, jer još nikada nije video takvu lepotu.	öt	0	0
+Ahhoz, hogy az autó elinduljon, szükség van a slusszkulcsra.	Да бисте покренули кола, требају вам кључеви од кола.	ahhoz	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	jöjjön	0	0
+Akartál valaha is egy szigeten élni?	Da li si ikada poželeo da živiš na ostrvu?	valaha	0	0
+Nincs sok barátom.	Nemam mnogo prijatelja.	barátom	0	0
+Gyalog vagy kerékpárral mész iskolába?	Peške ili biciklom ideš u školu?	mész	0	0
+Holnap gyere el hozzám!	Дођи сутра код мене!	hozzám	0	0
+Senki nem tudja, mi folyik itt.	Нико не зна шта се овде дешава.	folyik	0	0
+Melyik az enyém?	Које је моје?	enyém	0	0
+- Azt mondta Tomi, hogy látta a jetit, de az megijedt tőle és elszaladt. - A jeti? Tomitól? Nem csodálom! Tomi ijesztően hülye.	Том је рекао, да је видео јетија, али се уплашио од њега и побегао. - А јети? Од Тома? Не чудим се! Том је страшно глуп.	tőle	0	0
+Fél a haláltól.	Ona se boji smrti.	fél	0	0
+Tomi egy here; mindig a munka könnyebbik végét fogja meg.	Томи, трут један; на крају ће увек лакши посао завршити.	munka	0	0
+Valószínűleg kísértetjárta.	Verovatno je uklet.	valószínűleg	0	0
+Légy nyitott!	Будите отворени!	légy	0	0
+Te vagy a főnök.	Ти си шеф.	főnök	0	0
+Amint már mondtam, nem láttam semmit.	Kao što sam već rekao, ništa nisam video.	amint	0	0
+Drágám, a szekrény poros maradt.	Draga moja, ostao je prašnjav orman.	drágám	0	0
+- Azt állítja Tomi, hogy találkozott a nagylábúval, bár én erősen kétlem. - Ne kételkedj! Tavaly a földönkívüliek hívták meg őt teázni.	Tom tvrdi da se susreo sa Jetijem, mada jako sumnjam. - Nemoj sumnjati! Prošle godine su ga zvali vanzemaljci na čaj.	bár	0	0
+Mutasd meg a pontos helyet, amire gondolsz!	Покажи тачно место на које мислиш.	gondolsz	0	0
+Emlékszel erre a játékra?	Да ли се сећате ове игре?	emlékszel	0	0
+- Azt mondta Tomi, hogy látta a jetit, de az megijedt tőle és elszaladt. - A jeti? Tomitól? Nem csodálom! Tomi ijesztően hülye.	- Tom kaže da je video jetija, ali se uplašio od njega i pobegao. - A jeti? Od Toma? Ne čudim se! Tom je strašno glup.	hülye	0	0
+Tatoeba japánul azt jelenti, például.	"Татоеба" на јапанском значи "на пример".	jelenti	0	0
+Egy sört kérek.	Пиво, молим.	kérek	0	0
+Koalíciót kell alakítaniuk, mert egyedül nem fognak tudni kormányozni.	Морамо да формирамо коалицију, јер не можемо сами да владамо.	fognak	0	0
+Ne mondj ilyet!	Не говори тако.	ilyet	0	0
+Maradj itt!	Остани овде.	maradj	0	0
+Miért gondolod ezt?	Zašto to misliš?	gondolod	0	0
+Pénzre van szükségem. - Nem gáz. Mennyi kell?	Треба ми новац. - У реду. Колико ти треба?	mennyi	0	0
+Valóban akarsz egy másik nyelvet tanulni?	Da li zaista želiš da naučiš još jedan jezik?	valóban	0	0
+Ne nézz!	Ne gledaj.	nézz	0	0
+- Vicces fiú ez a Tom. - Én inkább úgy fogalmaznék: nevetséges.	Духовит је овај Том. - Боље да овако формулишем: смешан.	vicces	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	négy	0	0
+Tökéletes!	Perfektno!	tökéletes	0	0
+A konferencia nem volt teljes siker.	Konferencija nije u potpunosti uspela.	teljes	0	0
+Majdnem mindenki elment.	Скоро сви су отишли.	elment	0	0
+Mutasd meg a pontos helyet, amire gondolsz!	Покажи тачно место на које мислиш.	helyet	0	0
+A három év eltelt, mint három nap, mint egy álom!	Tri godine su prošle, kao tri dana, kao jedan san!	év	0	0
+Miért viselkedsz úgy, mint egy gyerek?	Зашто се понашаш као дете?	gyerek	0	0
+Minden, amit eddig előnynek gondoltam, az most hirtelen hátránnyá vált.	Sve, što sam do sada mislio da je prednost, sada se odjednom pretvorilo u hendikep.	eddig	0	0
+- Hogy állsz a lányokkal, fiam? - Jaj, apa!	"A devojke, sinko?" "O, tata."	jaj	0	0
+Vettem két üveg tejet.	Kupio sam sve flaše mleka.	vettem	0	0
+Bocsáss meg nekik Atyám, mert nem tudják, mit cselekszenek.	Опрости им Боже, не знају шта раде.	tudják	0	0
+Szerencsére sikerült találnom egy jó dadát.	Имам добре шансе да успешно нађем добру неговатељицу за бебу.	sikerült	0	0
+Egy fecske nem csinál nyarat.	Jedna lasta ne čini leto.	csinál	0	0
+Az öreg asztalos valami régi bútordarab javításán bíbelődött.	Stari komad nameštaja, starinskog stila, pažljivo je popravljen.	öreg	0	0
+Miért kék az ég?	Zašto je nebo plavo?	ég	0	0
+Pénz kell neked.	Treba ti novac.	pénz	0	0
+Úgy mosolygott az a fekete hajú pénztároslány a kasszánál, hogy egyszerűen nem bírtam nem őt bámulni, míg a sorban várakoztam.	Тако се осмехнула црнокоса благајница на каси, да просто нисам могао да не бленем у њу, док сам чекао у реду.	egyszerűen	0	0
+Igazad van.	Imaš pravo.	igazad	0	0
+Az otthon melege igazából nem a kályhától származik.	Топлина дома, заправо не потиче од пећи.	otthon	0	0
+Minőségi élet után vágyok.	Желим после, квалитетан живот.	élet	0	0
+Most már el kell menned a fodrászhoz, mert nagyon hosszú a hajad!	Сад већ треба да идеш код фризера, јер ти је много дуга коса.	hosszú	0	0
+Az otthon melege igazából nem a kályhától származik.	Топлина дома, заправо не потиче од пећи.	igazából	0	0
+Melyik a helyes út?	Који је прави начин?	helyes	0	0
+Bocs, de én ehhez a hülyeséghez nem asszisztálok!	Извините, али у овој глупости нећу учествовати.	bocs	0	0
+Nem vagyok biztos benne, hogy ez jó ötlet.	Nisam siguran da je to dobra ideja.	ötlet	0	0
+Hatalmas a lexikális tudása a latin nyelvekből, viszont egyiket sem beszéli.	Огромно је његово енциклопедијско знање латинских језика, међутим, ниједним од њих не говори.	viszont	0	0
+Errefelé tart már Tom.	Tom je na putu na ovamo.	tart	0	0
+Jó reggelt!	Dobro jutro!	reggelt	0	0
+Végül hatalmas siker koronázta sokéves kísérletezését.	Konačno, veliki uspeh krunisao je višegodišnje eksperimentisanje.	végül	0	0
+Tamás még mindig ugyanaz, mint húsz-harminc éve: kocka Ladával jár, letekert ablak mellett hallgatja a Modern Talkingot - csak hasat eresztett, szemüveget visel és kopaszodik.	Tomaš i dalje isto, kao i pre dvadeset ili trideset godina, vozi se Ladom, sedi pored prozora i sluša Modern Talking - samo što je pustio stomak, nosi naočare i proćelav je.	jár	0	0
+- Azt mondta Tomi, hogy látta a jetit, de az megijedt tőle és elszaladt. - A jeti? Tomitól? Nem csodálom! Tomi ijesztően hülye.	Том је рекао, да је видео јетија, али се уплашио од њега и побегао. - А јети? Од Тома? Не чудим се! Том је страшно глуп.	látta	0	0
+Sose gondoltam rá így.	Никада нисам размишљала о томе на такав начин.	sose	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	hét	0	0
+Furcsa.	Чудно.	furcsa	0	0
+Na, a szomszéd házaspár már megint marja egymást.	Комшијски брачни пар, опет се свађа.	egymást	0	0
+Nagy siker volt, mely sokáig tartott.	Bio je to veliki uspeh, koji je trajao dugo.	sokáig	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	hat	0	0
+A hírességek szívesen szórják a pénzüket.	Славне личности врло радо се разбацују новцем.	szívesen	0	0
+Jól ismerem őt.	Znam ga dobro.	ismerem	0	0
+Tamás még mindig ugyanaz, mint húsz-harminc éve: kocka Ladával jár, letekert ablak mellett hallgatja a Modern Talkingot - csak hasat eresztett, szemüveget visel és kopaszodik.	Tomaš i dalje isto, kao i pre dvadeset ili trideset godina, vozi se Ladom, sedi pored prozora i sluša Modern Talking - samo što je pustio stomak, nosi naočare i proćelav je.	mellett	0	0
+Nem láttam még ehhez foghatót.	Никад нисам видела тако нешто.	ehhez	0	0
+Melyik az enyém?	Која је моја?	melyik	0	0
+Mikor jössz?	Kada dolaziš?	jössz	0	0
+Józsi bácsi, ha úgy érzi, beteg, felhajt egy-két pálinkát.	Čika Joži, ako se osećate bolesno, popijte jednu-dve čašice rakije.	beteg	0	0
+Csalódott volt, hogy csak a második lett.	Разочарао се, био је само други.	második	0	0
+Csak álltunk ott a kirakat előtt, és tátottuk a szánkat, mint a gyerekek.	Само смо тамо стајали испред излога, и буљили, као деца.	gyerekek	0	0
+Amíg az ember él, remél.	Све док човек живи, нада се.	él	0	0
+Bíznod kell bennem.	Moraš da mi veruješ.	bennem	0	0
+A magyar nyelv nem egyszerű, de nagyszerű.	Mađarski jezik nije lak, ali je divan.	egyszerű	0	0
+Anyu dolgozik.	Mama radi.	dolgozik	0	0
+Erős vagyok.	Ja sam snažan.	erős	0	0
+Marinak fehér macskája van.	Марија има белу мачку.	fehér	0	0
+Úgy mosolygott az a fekete hajú pénztároslány a kasszánál, hogy egyszerűen nem bírtam nem őt bámulni, míg a sorban várakoztam.	Тако се осмехнула црнокоса благајница на каси, да просто нисам могао да не бленем у њу, док сам чекао у реду.	fekete	0	0
+Drágám, a szekrény poros maradt.	Draga moja, ostao je prašnjav orman.	maradt	0	0
+Az egy csodálatos siker volt.	Bio je to divan uspeh.	csodálatos	0	0
+Annyit ettem, hogy most meg fel sem bírok állni.	Toliko sam jeo, da sada ne mogu ni da stojim.	annyit	0	0
+Elméletben lehetséges, de a gyakorlatban nagyon nehéz.	U teoriji je to moguće, ali je u praksi to jako teško.	lehetséges	0	0
+Halkan pengesd ezt a csárdást, hogy szívem oly nagyon ne fájjon.	Свирај нежно чардаш, да ме срце не заболи тако јако.	szívem	0	0
+Sam két évvel fiatalabb Tomnál.	Сем је две године млађи од Тома.	sam	0	0
+Eddig még nem kaptam visszajelzést.	Још нисам добио одговор.	kaptam	0	0
+A koboldok alagutat ástak a kastély alá.	Goblini su iskopali tunel ispod zamka.	alá	0	0
+Mutasd meg a pontos helyet, amire gondolsz!	Покажи тачно место на које мислиш.	amire	0	0
+Hatalmas a lexikális tudása a latin nyelvekből, viszont egyiket sem beszéli.	Огромно је његово енциклопедијско знање латинских језика, међутим, ниједним од њих не говори.	hatalmas	0	0
+Az Úr Jézus ezt mondta: Én vagyok az út, az igazság és az élet.	Господ Исус је рекао: Ја сам пут, истина и живот.	igazság	0	0
+Kérjük, menet közben ne hajoljon ki az ablakon!	Molimo vas, tokom vožnje ne naginjite se kroz prozor.	közben	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	kettő	0	0
+Úton van az orvos.	Doktor je na putu.	úton	0	0
+Ez elég könnyű volt nekik.	Било им је баш лако.	könnyű	0	0
+Nincs elég süteményünk mindenki számára.	Немамо довољно колача за све.	számára	0	0
+Ez szörnyű.	To je strašno.	szörnyű	0	0
+Ki hagyta az ajtót nyitva?	Ko je ostavio otvorena vrata?	ajtót	0	0
+Ez mindig segít nekem.	То ми увек помаже.	segít	0	0
+Rajtad kívül nincs senkim.	Немам никога осим тебе.	kívül	0	0
+Ha gondolod, nálam elalhatsz.	Ако желиш, можеш да преспаваш код мене.	nálam	0	0
+Mi ketten annyira mások vagyunk!	Nas dvoje smo toliko različiti!	ketten	0	0
+A szexualitás is az élet része. Egyes társadalmakban tabutémaként kezelik, másikban meg kultúraként illetve művészetként. Akárhogy is legyen, az egészséges szellemiség része a normális szexuális élet.	Seksualnost je deo života. U nekim društvima tretira se kao tabu, u drugim, kao deo kulture ili umetnosti. Bilo kako bilo, normalan seksualan život deo je zdrave duhovnosti.	része	0	0
+Gyakran mondják, hogy a kitartás a siker kulcsa.	Često kažu, da je istrajnost ključ uspeha.	mondják	0	0
+Amennyire ki tudtam venni a szavaiból, azt mondta, hogy nagyon sokat ivott, és nagyon berúgott.	Koliko sam mogao razabrati iz njegovih reči, kaže da mnogo pije, i da je teška pijandura.	venni	0	0
+Palacsintát csináltam ma.	Правила сам данас палачинке.	csináltam	0	0
+A nyitottság hiánya probléma.	Nedostatak transparentnosti je problem.	probléma	0	0
+Hangosan beszéltem.	Причала сам гласно.	beszéltem	0	0
+Akartál valaha is egy szigeten élni?	Da li si ikada poželeo da živiš na ostrvu?	élni	0	0
+Neveletlenség lenne a részedről, megmondani neki az igazat.	Лакомислено је за вас да њему кажете истину.	igazat	0	0
+Kit látogatunk meg ma?	Кога данас посећујемо?	kit	0	0
+A legnagyobb ellenfelem az idő.	Време ми је највећи противник.	legnagyobb	0	0
+Én nyomozó vagyok.	Ја сам детектив.	nyomozó	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	tíz	0	0
+Sam két évvel fiatalabb, mint Tom.	Sem je dve godine mlađi od Toma.	évvel	0	0
+Tatoeba japánul azt jelenti, például.	"Татоеба" на јапанском значи "на пример".	például	0	0
+Elég meleg van az úszáshoz.	Dovoljno je toplo za plivanje.	meleg	0	0
+A házasság egy szent kötelék.	Brak je sveta veza.	szent	0	0
+Ezer puszit adj!	Дај ми хиљаду пољубаца.	adj	0	0
+Ahhoz, hogy az autó elinduljon, szükség van a slusszkulcsra.	Да бисте покренули кола, требају вам кључеви од кола.	szükség	0	0
+Fáj a torkom.	Boli me grlo.	fáj	0	0
+Harminc körül lehet.	Има око тридесет.	körül	0	0
+A sárgarépa három dollárba kerül.	Šargarepe koštaju tri dolara.	kerül	0	0
+Kicsit ellaposodott a buli; fel kellene dobni valahogy.	Забава постаје помало досадна; треба подићи атмосферу.	valahogy	0	0
+A siker lassacskán jött, nem hirtelen.	Uspeh je došao polako, ne odjednom.	hirtelen	0	0
+Ő és én olyan közeli barátok vagyunk, hogy szinte olvasni tudjuk egymás gondolatát.	Он и ја смо тако блиски пријатељи, да скоро можемо да читамо мисли једно другом.	barátok	0	0
+Tomi indult egy papírrepülő versenyen és első helyezést ért el.	Томи се такмичио у бацању папираних авиона и освојио је прво место.	ért	0	0
+Intőt kapott a fiam.	Подсећа на мог сина.	kapott	0	0
+Anyu dolgozik.	Mama radi.	anyu	0	0
+Vajon szeret-e?	Да ли ме воли?	vajon	0	0
+Tom vagy öt percig bámulta őket, mert soha nem látott még ilyen csodálatosakat.	Том је око пет минута буљио у њих, јер никада још, такву дивоту видео није.	tom	0	0
+Okos.	Паметан.	okos	0	0
+Az Úr Jézus ezt mondta: Én vagyok az út, az igazság és az élet.	Господ Исус је рекао: Ја сам пут, истина и живот.	út	0	0
+Bárcsak még több agyam lenne!	Када би само још више мозга имао!	bárcsak	0	0
+Nem értettem, mit mondott.	Nisam razumeo šta je rekao.	értettem	0	0
+Tamás még mindig ugyanaz, mint húsz-harminc éve: kocka Ladával jár, letekert ablak mellett hallgatja a Modern Talkingot - csak hasat eresztett, szemüveget visel és kopaszodik.	Tomaš i dalje isto, kao i pre dvadeset ili trideset godina, vozi se Ladom, sedi pored prozora i sluša Modern Talking - samo što je pustio stomak, nosi naočare i proćelav je.	ugyanaz	0	0
+Jobban érzed magad, Tom?	Da li se osećate bolje, Tome?	érzed	0	0
+Szeretne felelni ma valaki?	Да ли неко хоће данас да одговара?	szeretne	0	0
+Várjunk kint.	Чекајмо напољу.	kint	0	0
+Nem vagyok orvos.	Ja nisam lekar.	orvos	0	0
+Ne engedjenek senkit bejönni!	Не дозволите никоме да уђе!	senkit	0	0
+Egy tea mellett megbeszélték az elmúlt évek, évtizedek eseményeit.	Уз чај, разговарали су о догађајима из протеклих година и деценија.	elmúlt	0	0
+Apu, felolvasnál nekem egy mesét, mielőtt elmegyek aludni?	Tata, možeš li da mi pročitaš jednu priču pre nego što odem da spavam?	apu	0	0
+Az én feleségem egy tündéri háziasszony.	Моја супруга је чаробна домаћица.	feleségem	0	0
+Én teljesen máshogy látom ezt az egészet.	Потпуно другачије гледам на све то.	egészet	0	0
+Merre van a szobám?	Где је моја соба?	merre	0	0
+Azt hittem rólad először, hogy egy műveletlen tulok vagy.	Прво сам мислила да си неписмени простак.	rólad	0	0
+Gyertek ide!	Dođite ovamo.	gyertek	0	0
+Ezer puszit adj!	Дај ми хиљаду пољубаца.	ezer	0	0
+Csak a magad nevében beszélj, légy szíves.	Говори у своје име, молим те.	beszélj	0	0
+Apu, felolvasnál nekem egy mesét, mielőtt elmegyek aludni?	Тата, можеш ли да ми прочиташ једну причу, пре него што одем на спавање?	elmegyek	0	0
+Az utóbbi időben nem igazán érek rá olvasni.	У последње време стварно не стижем да читам.	időben	0	0
+Ülj le a fotelba!	Седи у фотељу.	ülj	0	0
+Ilyen finomat biztos nem ettél mostanában, fiam, mint amilyet anyád főz!	Тако укусно, сугурно ниси јео у последње време, сине мој, као што кува твоја мама!	anyád	0	0
+Fogalmam sincs, miről beszél.	Nemam pojma o čemu on to priča.	fogalmam	0	0
+Tom egy hasznos idióta.	Том је корисни идиот.	idióta	0	0
+A városban nehéz autózni.	Тешко је возити у граду.	városban	0	0
+Lassan olvasok.	Споро читам.	lassan	0	0
+Kik az új szomszédaim?	Ko su moji novi susedi?	kik	0	0
+Miért kerülnek többe a gyémántok, mint a víz?	Zašto dijamanti koštaju više od vode?	víz	0	0
+Számomra ez fontos.	Jeste važno za mene.	számomra	0	0
+Ki akarom végre aludni magam.	Želim konačno da spavam sama.	aludni	0	0
+Te amúgy is jobb nőt érdemelsz magadnak Marinál.	Uostalom, ti i zaslužuješ bolju ženu za sebe od Marije.	amúgy	0	0
+Túl későn vettem észre, hogy a beszédem legfontosabb részét kihagytam.	Kad sam shvatio da sam najvažnije izostavio iz govora, već je bilo prekasno.	észre	0	0
+Hallom, hogy a szomszéd házaspár már megint veszekszik.	Чујем, да се комшијски брачни пар опет свађа.	hallom	0	0
+Miért nem tudott eljönni?	Зашто није могла да дође?	tudott	0	0
+Te amúgy is jobb nőt érdemelsz magadnak Marinál.	Ионако, бољу жену заслужујеш од Марије.	nőt	0	0
+- Legyél már egy kicsit optimistább! - Aztán meg mi a francnak?	Будите мало оптимистичнији! - И онда шта, дођавола?	legyél	0	0
+Nézek, de nem látok.	Гледам, а не видим.	látok	0	0
+A végén minden rendben lesz, ha nincs rendben, akkor még nincs vége!	Све ће бити у реду на крају. Ако није у реду, онда није ни крај!	végén	0	0
+Tomi részt vett egy papírrepülő versenyen és első lett.	Томи је учествовао на такмичењу у бацању папирних авиона и освојио прво место.	részt	0	0
+Tom megpróbált felmászni a szivárványon, de csak a feléig jutott.	Том је покушао на дугу да се попне, али само до половине је стигао.	jutott	0	0
+Hiányzik nekünk Tom.	Недостаје нам Том.	hiányzik	0	0
+A szexualitás is az élet része. Egyes társadalmakban tabutémaként kezelik, másikban meg kultúraként illetve művészetként. Akárhogy is legyen, az egészséges szellemiség része a normális szexuális élet.	Сексуалност, то је део живота. У неким друштвима, третира се као табу, у другим као култура или као уметност. Било како било, нормална сексуалност део је здравог духа.	egyes	0	0
+Tomi megölte Marit.	Tom je ubio Mariju.	megölte	0	0
+- Hogy állsz a lányokkal, fiam? - Jaj, apa!	"A devojke, sinko?" "O, tata."	állsz	0	0
+Dél-Afrika messze van.	Далеко је Јужна Африка.	messze	0	0
+Ilyen finomat biztos nem ettél mostanában, fiam, mint amilyet anyád főz!	Tako ukusno, sigurno nisi jeo u poslednje vreme, sine moj, kao što tvoja majka kuva!	mostanában	0	0
+Tom vagy öt percig bámulta őket, mert soha nem látott még ilyen csodálatosakat.	Tom je nekih pet minuta gledao u njih, jer još nikada nije video takvu lepotu.	látott	0	0
+Szerintem most nagyon büszke lenne rám a nagymamám.	Mislim da bi moja baka bila sada veoma ponosna na mene.	büszke	0	0
+Nem akarom játszani ezt a játékot.	Ne želim da igram ovu igru.	játszani	0	0
+Nem értem, mit esznek Tomin a nők.	Не капирам шта жене виде на Томију.	nők	0	0
+Te sem szereted a munkahelyedet?	Не волиш своје радно место?	szereted	0	0
+A szexualitás is az élet része. Egyes társadalmakban tabutémaként kezelik, másikban meg kultúraként illetve művészetként. Akárhogy is legyen, az egészséges szellemiség része a normális szexuális élet.	Сексуалност, то је део живота. У неким друштвима, третира се као табу, у другим као култура или као уметност. Било како било, нормална сексуалност део је здравог духа.	normális	0	0
+Mi ketten annyira mások vagyunk!	Nas dvoje smo toliko različiti!	mások	0	0
+Sötét és hideg volt a szobában.	U sobi je bilo mračno i hladno.	sötét	0	0
+Mit csinálok én itt?	Шта ја радим овде?	csinálok	0	0
+Hallgass a szüleidre!	Слушај своје родитеље!	hallgass	0	0
+Melyik játék népszerű a te országodban?	Која игра је у Вашој земљи посебно омиљена?	játék	0	0
+Ez Szerbia harmadik legnagyobb városa.	To je po veličini treći grad u Srbiji.	harmadik	0	0
+Rosszalkodik a lányom az iskolában.	Ћерка ми је несташна у школи.	lányom	0	0
+Érthetetlen módon barátokból hirtelen ellenségekké lettek.	Необјашњиво, од пријатеља, изненада, непријатељи посташе.	módon	0	0
+Józsi bácsi, ha úgy érzi, beteg, felhajt egy-két pálinkát.	Čika Joži, ako se osećate bolesno, popijte jednu-dve čašice rakije.	érzi	0	0
+Mennyivel idősebb nálad?	Колико је он старији од тебе?	nálad	0	0
+A feleségem nem a legszebb nő a világon - de sebaj! Mindenesetre elfogad engem olyannak, amilyen vagyok.	Моја жена није најлепша свету - али нема везе! У сваком случају, прихвата ме таквог какав сам.	világon	0	0
+Rómaiak, menjetek haza!	Римљани, идите кући!	menjetek	0	0
+Jó kutya!	Добра куца!	kutya	0	0
+A közös európai kultúra alapja a keresztény kultúra, és semmiképpen nem a liberalizmus.	Заједничка европска култура заснована је на хришћанској култури, а наравно не на либерализму.	közös	0	0
+Várjunk kint.	Чекајмо напољу.	várjunk	0	0
+Ő és én olyan közeli barátok vagyunk, hogy szinte olvasni tudjuk egymás gondolatát.	Он и ја смо тако блиски пријатељи, да скоро можемо да читамо мисли једно другом.	szinte	0	0
+Hideg szél volt kint.	Напољу је био хладан ветар.	hideg	0	0
+Az energia energiát ad.	Energija daje energiju.	ad	0	0
+Éhes vagyok, mint a farkas.	Gladan sam kao vuk.	éhes	0	0
+Jó ezt a vizet inni.	Ovu vodu je dobro piti.	vizet	0	0
+Rajtad kívül nincs senkim.	Немам никога осим тебе.	rajtad	0	0
+Várom válaszotokat.	Чекам ваш одговор.	várom	0	0
+Az Úr Jézus ezt mondta: Én vagyok az út, az igazság és az élet.	Gospod Isus je rekao: Ja sam put, istina i život.	jézus	0	0
+Kíváncsi vagyok, kié ez a mondat.	Питам се чија је ово реченица.	kíváncsi	0	0
+Kár!	To je škoda.	kár	0	0
+A találkozó még nem vette kezdetét.	Састанак још није почео.	vette	0	0
+Egy tea mellett megbeszélték az elmúlt évek, évtizedek eseményeit.	Uz čaj, razgovaralo se o događajima iz proteklih godina i decenija.	évek	0	0
+Ne mondj ilyet!	Не говори тако.	mondj	0	0
+Ismét füstölnek a kémények a falumban.	Поново се диме оџаци у мом селу.	ismét	0	0
+A férjem készíti a vacsorát.	Супруг припрема вечеру.	férjem	0	0
+Üres volt a szoba.	Soba je bila prazna.	üres	0	0
+Kérem, segítsen!	Помозите ми, молим вас!	segítsen	0	0
+Meddig alszik egy medve?	Колико дуго спава медвед?	meddig	0	0
+Kétszer voltam ott.	Тамо сам била два пута.	kétszer	0	0
+Gyakran járnak piknikre kerékpárral.	Često idu na piknik biciklom.	gyakran	0	0
+Bolond.	Budalast.	bolond	0	0
+Miért kék az ég?	Zašto je nebo plavo?	kék	0	0
+Akartál valaha is egy szigeten élni?	Da li si ikada poželeo da živiš na ostrvu?	akartál	0	0
+Segítek neked egy feltétellel.	Помоћи ћу ти под једним условом.	segítek	0	0
+Szállj be, hazaviszlek.	Улази, одбацићу те кући.	szállj	0	0
+A kedvenc karosszékében aludt el a híreket nézve, és nem ébredt fel többé.	Заспао је у омиљеној фотељи док је гледао вести, и више се није пробудио.	kedvenc	0	0
+Ki hagyta az ajtót nyitva?	Ko je ostavio otvorena vrata?	hagyta	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	földön	0	0
+Ilyen könnyen feladod?	Тако лако се предајеш?	könnyen	0	0
+Meglátjátok, olyan fantasztikus kalandokban lesz majd részünk, amelyekről még álmodni sem mertetek.	Videćete, bićemo deo tako fantastične avanture, o kojoj se još niste ni usudili da sanjate.	fantasztikus	0	0
+Kezdjük!	Počnimo!	kezdjük	0	0
+A hölgy magán zongoraleckéket vesz.	Dama uzima privatne časove klavira.	hölgy	0	0
+Mutasd meg a pontos helyet, amire gondolsz!	Покажи тачно место на које мислиш.	mutasd	0	0
+Titokban tartotta, hogy vett egy biciklit a fiának.	Držao je u tajnosti,da je kupio bicikl sinu.	vett	0	0
+Mondja csak, miért eteti ön itt ezeket a koszos galambokat kenyérrel, amikor sok embernek nem telik egy falat kenyérre sem?	Recite mi, zašto hranite ove prljave golubove hlebom, kada mnogi ljudi ne mogu sebi da priušte ni parče hleba?	embernek	0	0
+Ha hihetünk a meteorológiának, akkor hétvégén ragyogó időnk lesz.	Ако можемо да верујемо временској прогнози, онда ћемо за викенд имати прелепо време.	időnk	0	0
+A fiamat korán érdekelte a politika.	Moj sin se rano zainteresovao za politiku.	korán	0	0
+Felújítás miatt zárva.	Затворено због реновирања.	zárva	0	0
+Ez egy kocsi, amit vettem.	Auto je ono što sam kupio.	kocsi	0	0
+Tominak hogy igen, hogy nem nem jutott eszébe semmilyen mondat, ezért csak idézeteket másolgatott ide.	Томи из неког разлога, није се могао сетити никакве реченице, зато су овде само копирани цитати.	semmilyen	0	0
+Nem értem a kérdést.	Nisam razumeo pitanje.	kérdést	0	0
+Nagy siker volt, mely sokáig tartott.	Bio je to veliki uspeh, koji je trajao dugo.	tartott	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.	nyolc	0	0
+Nem hinném, hogy ez lenne a legmegfelelőbb alkalom, hogy ezt most megvitassuk.	Ne verujem, da bi bilo najprikladnije vreme, da sada o ovome raspravljamo.	hinném	0	0
+Óriási erő rejlik a szavakban.	Огромна снага лежи у речима.	óriási	0	0
+Bocsáss meg nekik Atyám, mert nem tudják, mit cselekszenek.	Опрости им Боже, не знају шта раде.	bocsáss	0	0
+Mikor esett ez meg?	Када се то десило?	esett	0	0
+- Vicces fiú ez a Tom. - Én inkább úgy fogalmaznék: nevetséges.	Духовит је овај Том. - Боље да овако формулишем: смешан.	nevetséges	0	0
+Három hónap kellett neki, hogy megtanuljon biciklizni.	Trebalo mu je tri meseca da nauči da vozi bicikl.	hónap	0	0
+Bocsáss meg nekik Atyám, mert nem tudják, mit cselekszenek.	Опрости им Боже, не знају шта раде.	atyám	0	0
+Itt fogok várni.	Čekaću ovde.	várni	0	0
+Nézek, de nem látok.	Гледам, а не видим.	nézek	0	0
+Miért tetted?	Zašto si to uradio?	tetted	0	0
+Vártam.	Čekala sam.	vártam	0	0
+Milyen név alatt?	Под којим именом?	név	0	0
+Kezdem már megszokni, hogy itt minden nap esik az eső.	Већ сам се почео навикавати на то, да сваки дан пада киша.	esik	0	0
+Minden, amit eddig előnynek gondoltam, az most hirtelen hátránnyá vált.	Sve, što sam do sada mislio da je prednost, sada se odjednom pretvorilo u hendikep.	vált	0	0
+Ki hagyta az ajtót nyitva?	Ko je ostavio otvorena vrata?	nyitva	0	0
+Lemaradtam a mondatokkal, mert kórházban voltam.	Zaostala sam sa rečenicama, zato što sam bila u bolnici.	kórházban	0	0
+Most már el kell menned a fodrászhoz, mert nagyon hosszú a hajad!	Сад већ треба да идеш код фризера, јер ти је много дуга коса.	menned	0	0
+Erősnek kell lenned.	Moraš biti jak!	lenned	0	0
+Van számodra valamim.	Imam nešto za tebe.	számodra	0	0
+Ne olvass ebben a szobában!	Не читајте у овој соби!	szobában	0	0
+Nem értek németül.	Ne razumem Nemački.	értek	0	0
+Nem hinném, hogy ez lenne a legmegfelelőbb alkalom, hogy ezt most megvitassuk.	Ne verujem, da bi bilo najprikladnije vreme, da sada o ovome raspravljamo.	alkalom	0	0
+Ő gazdag.	Ona je bogata.	gazdag	0	0
+Ő és én olyan közeli barátok vagyunk, hogy szinte olvasni tudjuk egymás gondolatát.	Он и ја смо тако блиски пријатељи, да скоро можемо да читамо мисли једно другом.	egymás	0	0
+Rövid az élet.	Život je kratak.	rövid	0	0
+Tomi hozzávágta a telefont a falhoz.	Том је бацио телефон на зид.	telefont	0	0
+Annyit ettem, hogy most meg fel sem bírok állni.	Појео сам толико, да сада не могу ни да стојим.	állni	0	0
+Kicsit ellaposodott a buli; fel kellene dobni valahogy.	Забава постаје помало досадна; треба подићи атмосферу.	buli	0	0
+Gyere ide egy pillanatra!	Dođi ovamo na sekund.	pillanatra	0	0
+Látni akarlak.	Желим да те видим.	akarlak	0	0
+Az én barátaim csak az én méheim.	Moji jedini prijatelji su moje pčele.	barátaim	0	0
+Bevallom, fáradt vagyok.	Priznajem da sam umoran.	fáradt	0	0
+Még sohasem láttam zsiráfot.	Никада нисам видео жирафу.	sohasem	0	0
+Ahhoz, hogy az autó elinduljon, szükség van a slusszkulcsra.	Da biste pokrenuli auto, potrebni su vam ključevi od auta.	autó	0	0
+Az új film nagy siker volt.	Novi film bio je veoma uspešan.	film	0	0
+Ez egy jó válasz.	To je dobar odgovor.	válasz	0	0
+Visszajövök.	Vratiću se.	visszajövök	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	neved	0	0
+Nem kell mindent elhinned, amit látsz és hallasz.	Не веруј свему што видиш и чујеш.	látsz	0	0
+A feleségem nem a legszebb nő a világon - de sebaj! Mindenesetre elfogad engem olyannak, amilyen vagyok.	Моја жена није најлепша свету - али нема везе! У сваком случају, прихвата ме таквог какав сам.	amilyen	0	0
+Él még ez a hal?	Ова риба је још жива.	hal	0	0
+100 eurót keresek naponta.	Zarađujem sto evra dnevno.	keresek	0	0
+Ezt igennek veszem.	Схватићу то као пристанак.	veszem	0	0
+Dolgozol?	Радиш ли?	dolgozol	0	0
+Egy évet vesztegettem az életemből a semmire.	Protraćio sam godinu dana svog života ni na šta.	évet	0	0
+Elmentem az apám sírjához.	Posetio sam grob moga oca.	elmentem	0	0
+Minden csoda három napig tart.	Свако чудо за три дана.	csoda	0	0
+Ez egy jó iskola.	To je dobra škola.	iskola	0	0
+Mik a terveid mára?	Koji su ti planovi za danas?	mik	0	0
+Itt várjatok!	Чекајте овде.	várjatok	0	0
+Ő a bátyám.	On je moj brat.	bátyám	0	0
+Zöld.	Zeleno.	zöld	0	0
+Azt hiszem, a probléma megoldódik majd magától is a maga idejében.	Mislim da će se problem rešiti sam od sebe, u svoje vreme.	magától	0	0
+Iskolába járáshoz vett egy kerékpárt.	Kupio je bicikl, da ide u školu.	iskolába	0	0
+Túl későn vettem észre, hogy a beszédem legfontosabb részét kihagytam.	Kad sam shvatio da sam najvažnije izostavio iz govora, već je bilo prekasno.	legfontosabb	0	0
+Nagy siker volt, mely sokáig tartott.	Bio je to veliki uspeh, koji je trajao dugo.	mely	0	0
+Gyerekeket akarok.	Желим да имам децу.	gyerekeket	0	0
+Nem vagyok katona.	Ја нисам војник.	katona	0	0
+A csend után a zene tudja legjobban kifejezni a kifejezhetetlent.	Posle tišine, ono što najbolje može izraziti neizrecivo je muzika.	zene	0	0
+Csinálj, amit akarsz! Nem érdekel.	Ради шта хоћеш! Не интересује ме.	csinálj	0	0
+Minden csoda három napig tart.	Свако чудо за три дана.	napig	0	0
+Túl későn vettem észre, hogy a beszédem legfontosabb részét kihagytam.	Kad sam shvatio da sam najvažnije izostavio iz govora, već je bilo prekasno.	részét	0	0
+Ezt meg kell tenned.	Moraš da uradiš ovo.	tenned	0	0
+Két korsó sört és egy pohár kólát, legyen szíves!	Две кригле пива и једну чашу коле, молим вас!	sört	0	0
+Légy óvatos hazafelé!	Буди опрезна на путу до куће!	óvatos	0	0
+Jó ezt a vizet inni.	Добро је ову воду пити.	inni	0	0
+Halkan pengesd ezt a csárdást, hogy szívem oly nagyon ne fájjon.	Nežno sviraj čardaš, da mi srce ne povrediš.	oly	0	0
+Mi a francokat művelsz!?	Šta dovraga radiš?	művelsz	0	0
+Józsi bácsi, ha úgy érzi, beteg, felhajt egy-két pálinkát.	Čika Joži, ako se osećate bolesno, popijte jednu-dve čašice rakije.	bácsi	0	0
+Üres volt a szoba.	Соба је била празна.	szoba	0	0
+Számomra a házasság csak egy darab papír.	Брак је за мене само комад папира.	darab	0	0
+Nem kell mindent elhinned, amit látsz és hallasz.	Не веруј свему што видиш и чујеш.	hallasz	0	0
+A siker nem a pénztől függ.	Uspeh ne zavisi od novca.	függ	0	0
+Hol találom az utazási irodát?	Gde mogu da nađem kancelariju za turiste?	találom	0	0
+Még az igazság is hazugság.	Čak i istina je laž.	hazugság	0	0
+Te amúgy is jobb nőt érdemelsz magadnak Marinál.	Uostalom, ti i zaslužuješ bolju ženu za sebe od Marije.	magadnak	0	0
+Tom kihívta a rendőrséget.	Tom je pozvao policiju.	rendőrséget	0	0
+Most nincs pénzem.	Nemam sada novaca.	pénzem	0	0
+Alszik.	On spava.	alszik	0	0
+Írtam egy dalt a Tatoebáról.	Napisao sam pesmu o Tatoebi.	írtam	0	0
+Két kezemen nem tudom megszámolni, hogy hányszor csaptál már be bennünket.	На две руке не могу набројати, колико смо пута већ преварени.	bennünket	0	0
+Milyen könyv ez?	Каква је ово књига?	könyv	0	0
+Csak a magad nevében beszélj, légy szíves.	Говори у своје име, молим те.	nevében	0	0
+Én nem iszom tömény italt.	Не пијем жестоко пиће.	italt	0	0
+Döntöttem.	Odlučio sam.	döntöttem	0	0
+- Azt állítja Tomi, hogy találkozott a nagylábúval, bár én erősen kétlem. - Ne kételkedj! Tavaly a földönkívüliek hívták meg őt teázni.	Tom tvrdi da se susreo sa Jetijem, mada jako sumnjam. - Nemoj sumnjati! Prošle godine su ga zvali vanzemaljci na čaj.	tavaly	0	0
+Hideg szél volt kint.	Напољу је био хладан ветар.	szél	0	0
+A szexualitás is az élet része. Egyes társadalmakban tabutémaként kezelik, másikban meg kultúraként illetve művészetként. Akárhogy is legyen, az egészséges szellemiség része a normális szexuális élet.	Сексуалност, то је део живота. У неким друштвима, третира се као табу, у другим као култура или као уметност. Било како било, нормална сексуалност део је здравог духа.	szexuális	0	0
+A három év eltelt, mint három nap, mint egy álom!	Tri godine su prošle, kao tri dana, kao jedan san!	álom	0	0
+Egy évet vesztegettem az életemből a semmire.	Protraćio sam godinu dana svog života ni na šta.	semmire	0	0
+Egyetértek.	Slažem se.	egyetértek	0	0
+Pénzre van szükségem. - Nem gáz. Mennyi kell?	Треба ми новац. - У реду. Колико ти треба?	gáz	0	0
+A várható terméshozam alulmarad a tavalyihoz képest.	Очекивани принос усева ће бити мањи u односу на прошлу годину.	képest	0	0
+A csend után a zene tudja legjobban kifejezni a kifejezhetetlent.	Posle tišine, ono što najbolje može izraziti neizrecivo je muzika.	legjobban	0	0
+A fiad egy hős.	Твој син је херој.	hős	0	0
+Ha nem repülhetsz, fuss!	Ако не можеш да летиш, трчи!	fuss	0	0
+Sok mindenre tanított meg az élet.	Život me je mnogo naučio.	mindenre	0	0
+Azt látom, hogy neked a macska is fontosabb, mint én vagyok.	Vidim, mačka ti je važnija, nego ja.	fontosabb	0	0
+Titokban tartotta, hogy vett egy biciklit a fiának.	Držao je u tajnosti,da je kupio bicikl sinu.	titokban	0	0
+Mindenkiben ott van a gonoszság, de ugyanúgy ott van a jóság is.	У сваком постоји и зло, али исто тако постоји и добро.	ugyanúgy	0	0
+A hölgy magán zongoraleckéket vesz.	Dama uzima privatne časove klavira.	vesz	0	0
+A beduinok a sivatagban élnek.	Бедуини живе у пустињи.	élnek	0	0
+Hall engem valaki?	Da li me neko čuje?	hall	0	0
+Csak a magad nevében beszélj, légy szíves.	Говори у своје име, молим те.	szíves	0	0
+Hülyeség!	Besmislica!	hülyeség	0	0
+Tom a fiával játszik.	Tom se igra sa svojim sinom.	játszik	0	0
+Egy, kettő, három, négy, öt, hat, hét, nyolc, kilenc, tíz.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.	kilenc	0	0
+Gyere ide! Mutatni akarok valamit.	Dođi ovamo. Želim da ti pokažem nešto.	mutatni	0	0
+Kérdezd meg anyukádat!	Питај своју маму!	kérdezd	0	0
+Ver a szíve.	Srce bije.	szíve	0	0
+Rosszalkodik a lányom az iskolában.	Ћерка ми је несташна у школи.	iskolában	0	0
+Sose néztem rá ilyen szemszögből.	Никада нисам посматрао ствари из те перспективе.	néztem	0	0
+Ez is egy módja, de én ezt nem ajánlanám.	То је један од начина, али не бих то препоручила.	módja	0	0
+Beszélnek ők franciául?	Да ли причају француски?	beszélnek	0	0
+Mindenki sorra fog kerülni.	Свако ће добити прилику.	kerülni	0	0
+Vettem két üveg tejet.	Kupio sam sve flaše mleka.	üveg	0	0
+Amennyire ki tudtam venni a szavaiból, azt mondta, hogy nagyon sokat ivott, és nagyon berúgott.	Koliko sam mogao razabrati iz njegovih reči, kaže da mnogo pije, i da je teška pijandura.	amennyire	0	0
+Apám mindig azt mondta, hogy Isten azoknak segít, akik magukon segítenek.	Moj otac je uvek govorio da Bog pomaže onima koji pomažu sami sebi.	azoknak	0	0
+- Azt állítja Tomi, hogy találkozott a nagylábúval, bár én erősen kétlem. - Ne kételkedj! Tavaly a földönkívüliek hívták meg őt teázni.	Том тврди да се сусрео са Јетијем, мада ја јако сумњам. - Не сумњај! Прошле године, ванземаљци су га звали на чајанку.	találkozott	0	0
+Amerika visszatért!	Америка се вратила!	visszatért	0	0
+Nem akarom játszani ezt a játékot.	Ne želim da igram ovu igru.	játékot	0	0
+Mi a különbség?	Koja je razlika?	különbség	0	0
+Bízz a képességeidben!	Верујте у своје способности!	bízz	0	0
+Melyik ágyban alszol?	У ком кревету спаваш?	ágyban	0	0
+Most mehetsz aludni.	Sada možeš ići na spavanje.	mehetsz	0	0
+- Azt állítja Tomi, hogy találkozott a nagylábúval, bár én erősen kétlem. - Ne kételkedj! Tavaly a földönkívüliek hívták meg őt teázni.	Том тврди да се сусрео са Јетијем, мада ја јако сумњам. - Не сумњај! Прошле године, ванземаљци су га звали на чајанку.	erősen	0	0
+A siker sok pénzt jelent, nemde?	Uspeh znači mnogo novca, zar ne?	nemde	0	0
+- Azt állítja Tomi, hogy találkozott a nagylábúval, bár én erősen kétlem. - Ne kételkedj! Tavaly a földönkívüliek hívták meg őt teázni.	Том тврди да се сусрео са Јетијем, мада ја јако сумњам. - Не сумњај! Прошле године, ванземаљци су га звали на чајанку.	állítja	0	0
+Mit érzel irántam?	Шта осећаш према мени?	érzel	0	0
+Nekem tetszenek azok az emberek, akiknek van humoruk.	Допадају ми се људи који се шале.	akiknek	0	0
+- Tomi, valamit tudnod kell: én még nem voltam férfivel. - Mari, még én sem.	- Том, нешто мораш да знаш: ја још никада нисам била са мушкарцем. - Мери, ни ја још нисам.	tudnod	0	0
+Neveletlenség lenne a részedről, megmondani neki az igazat.	Лакомислено је за вас да њему кажете истину.	megmondani	0	0
+Óriási erő rejlik a szavakban.	Ogromna moć leži u rečima.	erő	0	0
+Ha most kimész azon az ajtón, soha többé ne gyere vissza!	Ако сада изађеш на она врата, никада се више немој враћати!	ajtón	0	0
+Két kezemen nem tudom megszámolni, hogy hányszor csaptál már be bennünket.	На две руке не могу набројати, колико смо пута већ преварени.	hányszor	0	0
+Szóval, szerinted a feleséged biztosan megcsal téged, de nincs rá semmi bizonyítékod, jól értem?	Значи мислиш да те жена вара, али немаш доказе за то, ако сам добро разумео?	feleséged	0	0
+Ő és én olyan közeli barátok vagyunk, hogy szinte olvasni tudjuk egymás gondolatát.	On i ja smo tako bliski prijatelji, da skoro možemo čitati misli jedno drugom.	olvasni	0	0
+Beleesett a gyermek labdája a patakba.	Detetova lopta pala je u potok.	gyermek	0	0
+Mik a terveid mára?	Koji su ti planovi za danas?	mára	0	0
+Az utóbbi időben nem igazán érek rá olvasni.	У последње време стварно не стижем да читам.	utóbbi	0	0
+Nem akarom, hogy ilyen állapotban láss.	Не желим да ме гледаш у овом стању.	állapotban	0	0
+Amerika visszatért!	Америка се вратила!	amerika	0	0
+Sose feledd!	Ne zaboravi nikad!	feledd	0	0
+Tomnak megsérült a jobb térde.	Том је повредио десно колено.	megsérült	0	0
+Ha hihetünk a meteorológiának, akkor hétvégén ragyogó időnk lesz.	Ako možemo da verujemo vremenskој prognozi, imaćemo sjajno vreme ovog vikenda.	hétvégén	0	0
+Én is csak annyit tudok, amennyit nekem mondtak.	Znam samo toliko, koliko su mi rekli.	amennyit	0	0
+Írtam egy dalt a Tatoebáról.	Napisao sam pesmu o Tatoebi.	dalt	0	0
+- Azt állítja Tomi, hogy találkozott a nagylábúval, bár én erősen kétlem. - Ne kételkedj! Tavaly a földönkívüliek hívták meg őt teázni.	Том тврди да се сусрео са Јетијем, мада ја јако сумњам. - Не сумњај! Прошле године, ванземаљци су га звали на чајанку.	kétlem	0	0
+Számomra a házasság csak egy darab papír.	Брак је за мене само парче папира.	házasság	0	0
+- Azt állítja Tomi, hogy találkozott a nagylábúval, bár én erősen kétlem. - Ne kételkedj! Tavaly a földönkívüliek hívták meg őt teázni.	Tom tvrdi da se susreo sa Jetijem, mada jako sumnjam. - Nemoj sumnjati! Prošle godine su ga zvali vanzemaljci na čaj.	hívták	0	0
+Errefelé tart már Tom.	Tom je na putu na ovamo.	errefelé	0	0
+Kit vársz?	Koga čekaš?	vársz	0	0
+Kezdem már megszokni, hogy itt minden nap esik az eső.	Već sam se počeo navikavati, na to, da svaki dan pada kiša.	kezdem	0	0
+Tom vagy öt percig bámulta őket, mert soha nem látott még ilyen csodálatosakat.	Том је око пет минута буљио у њих, јер никада још, такву дивоту видео није.	percig	0	0
+A fiad egy hős.	Твој син је херој.	fiad	0	0
+Mutasd meg a pontos helyet, amire gondolsz!	Покажи тачно место на које мислиш.	pontos	0	0
+A szexualitás is az élet része. Egyes társadalmakban tabutémaként kezelik, másikban meg kultúraként illetve művészetként. Akárhogy is legyen, az egészséges szellemiség része a normális szexuális élet.	Сексуалност, то је део живота. У неким друштвима, третира се као табу, у другим као култура или као уметност. Било како било, нормална сексуалност део је здравог духа.	egészséges	0	0
+Ismerlek.	Знам те.	ismerlek	0	0
+Honnan tadhatnám, hogy most nem hazudsz?	Kako da znam da ne lažeš sad?	hazudsz	0	0
+A férjem készíti a vacsorát.	Супруг припрема вечеру.	vacsorát	0	0
+Légy nyitott!	Budite otvoreni!	nyitott	0	0
+Az utóbbi időben nem igazán érek rá olvasni.	У последње време стварно не стижем да читам.	érek	0	0
+Mennyivel idősebb nálad?	Колико је он старији од тебе?	idősebb	0	0
+És nem volt gyanús Piroskának, hogy a farkas nem is hasonlít a nagymamára?	А Црвенкапи није било сумњиво то што вук уопште није личио на баку?	hasonlít	0	0
+Túl későn vettem észre, hogy a beszédem legfontosabb részét kihagytam.	Kad sam shvatio da sam najvažnije izostavio iz govora, već je bilo prekasno.	későn	0	0
+Érthetetlen módon barátokból hirtelen ellenségekké lettek.	Необјашњиво, од пријатеља, изненада, непријатељи посташе.	lettek	0	0
+A közelben van egy buszmegálló.	U blizini se nalazi autobuska stanica.	közelben	0	0
+Valóban akarsz egy másik nyelvet tanulni?	Da li zaista želiš da naučiš još jedan jezik?	tanulni	0	0
+Két korsó sört és egy pohár kólát, legyen szíves!	Dve krigle piva i jednu čašu kole, molim vas!	pohár	0	0
+A főtt étel nemcsak a testnek, de a léleknek is fontos.	Kuvana hrana, nije samo za telo važna, nego i za dušu.	nemcsak	0	0
+Sötét van. Kapcsold fel, legyél szíves, a lámpát!	Мрачно је. Упали молим те лампу.	kapcsold	0	0
+A hölgy magán zongoraleckéket vesz.	Dama uzima privatne časove klavira.	magán	0	0
+Köszönöm a belém vetett bizalmat, de nem érdemlem meg.	Хвала на поверењу у мене, али ја то не заслужујем.	belém	0	0
+Megoldottuk a problémát.	Решили смо проблем.	problémát	0	0
+Ez az étel tartalmaz húst?	У то јело улази месо?	étel	0	0
+Kezdem már megszokni, hogy itt minden nap esik az eső.	Već sam se počeo navikavati, na to, da svaki dan pada kiša.	eső	0	0
+Józsi bácsi, ha úgy érzi, beteg, felhajt egy-két pálinkát.	Čika Joži, ako se osećate bolesno, popijte jednu-dve čašice rakije.	egy-két	0	0
+Az otthon melege igazából nem a kályhától származik.	Toplina doma, zapravo ne potiče od peći.	származik	0	0
+Szerencsére sikerült találnom egy jó dadát.	Имам добре шансе да успешно нађем добру неговатељицу за бебу.	szerencsére	0	0
+Volt még egy utolsó esélyünk.	Још смо имали последњу шансу.	esélyünk	0	0
+Tudtam, hogy ő is valami hasonlót érez irántam.	Знао сам да и она осећа нешто слично према мени.	érez	0	0
+A fiamat korán érdekelte a politika.	Moj sin se rano zainteresovao za politiku.	fiamat	0	0
+Gyakran járnak piknikre kerékpárral.	Često idu na piknik biciklom.	járnak	0	0
+Igyál valamit!	Попиј нешто.	igyál	0	0
+Mondja csak, miért eteti ön itt ezeket a koszos galambokat kenyérrel, amikor sok embernek nem telik egy falat kenyérre sem?	Реците ми, зашто храните ове прљаве голубове хлебом, када многи људи себи не могу да приуште ни парче хлеба?	telik	0	0
+Láttam egy kutyát.	Videla sam psa.	kutyát	0	0
+Tom megpróbált felmászni a szivárványon, de csak a feléig jutott.	Том је покушао на дугу да се попне, али само до половине је стигао.	megpróbált	0	0
+Ez is egy módja a szeretet kifejezésének.	То је један од начина да се искаже љубав.	szeretet	0	0
+A Postcrossing nem egy olcsó hobbi.	Посткросинг није јефтин хоби.	olcsó	0	0
+Ő mindig itt ült.	Он увек седи овде.	ült	0	0
+A csend után a zene tudja legjobban kifejezni a kifejezhetetlent.	Posle tišine, ono što najbolje može izraziti neizrecivo je muzika.	csend	0	0
+Ez nagy örömet okozott nekem.	Ово ме је много усрећило.	okozott	0	0
+A feleségem nem a legszebb nő a világon - de sebaj! Mindenesetre elfogad engem olyannak, amilyen vagyok.	Moja žena nije najlepša žena na svetu - ali nema veze! U svakom slučaju, prihvatа mе takvоg kakаv sam.	legszebb	0	0
+A galamb a béke szimbóluma.	Голуб симболизује мир.	béke	0	0
+Kérjük, menet közben ne hajoljon ki az ablakon!	Молимо вас, током вожње не нагињите се кроз прозор.	ablakon	0	0
+Máriának igazából nem te kellesz, hanem a pénzed.	Mariji zapravo nisi potreban ti, nego tvoj novac.	pénzed	0	0
+Hozzájuk megyek.	Idem do njih.	hozzájuk	0	0
+Tomi, tudod, mi vagy te? Egy istenadta zseni!	Том, знаш шта си ти? Богомдан геније!	zseni	0	0
+Annyit ettem, hogy most meg fel sem bírok állni.	Toliko sam jeo, da sada ne mogu ni da stojim.	ettem	0	0
+A magyar nyelv nem egyszerű, de nagyszerű.	Мађарски језик није лак, али је диван.	magyar	0	0
+Aludtam.	Спавао сам.	aludtam	0	0
+A macska az asztal alatt van.	Mačka je ispod stola.	macska	0	0
+Az energia energiát ad.	Energija daje energiju.	energia	0	0
+Reménykedem, hogy az eszperantó győzni fog.	Ја се надам да ће есперанто победити.	győzni	0	0
+Szerencsére sikerült találnom egy jó dadát.	Имам добре шансе да успешно нађем добру неговатељицу за бебу.	találnom	0	0
+A feleségem nem a legszebb nő a világon - de sebaj! Mindenesetre elfogad engem olyannak, amilyen vagyok.	Моја жена није најлепша свету - али нема везе! У сваком случају, прихвата ме таквог какав сам.	mindenesetre	0	0
+Tom egy hasznos idióta.	Том је корисни идиот.	hasznos	0	0
+Kérjük, menet közben ne hajoljon ki az ablakon!	Molimo vas, tokom vožnje ne naginjite se kroz prozor.	menet	0	0
+A kedvenc karosszékében aludt el a híreket nézve, és nem ébredt fel többé.	Заспао је у омиљеној фотељи док је гледао вести, и више се није пробудио.	híreket	0	0
+Na, a szomszéd házaspár már megint marja egymást.	Opet se svađa komšijski bračni par.	szomszéd	0	0
+100 eurót keresek naponta.	Zarađujem 100 evra dnevno.	naponta	0	0
+Amit ma megtehetsz, ne halaszd holnapra!	Što možeš da uradiš danas, ne ostavljaj za sutra.	holnapra	0	0
+Én teljesen máshogy látom ezt az egészet.	Потпуно другачије гледам на све то.	máshogy	0	0
+Kérjük, menet közben ne hajoljon ki az ablakon!	Молимо вас, током вожње не нагињите се кроз прозор.	kérjük	0	0
+Én nem iszom tömény italt.	Не пијем жестоко пиће.	iszom	0	0
+Told ide a segged!	Dovlači se ovamo!	segged	0	0
+Jól beszélsz angolul, nem?	Ti pričaš dobro Engleski, zar ne?	angolul	0	0
+Mit vettél?	Шта си купио?	vettél	0	0
+Nem mondtak nekem semmit.	Ništa mi nije rečeno.	mondtak	0	0
+A gyerekeknek a szüleiktől két dolgot kellene kapniuk: gyökereket és szárnyakat.	Две ствари деца треба да добију од својих родитеља: корене и крила.	gyerekeknek	0	0
+Tamás még mindig ugyanaz, mint húsz-harminc éve: kocka Ladával jár, letekert ablak mellett hallgatja a Modern Talkingot - csak hasat eresztett, szemüveget visel és kopaszodik.	Tomaš i dalje isto, kao i pre dvadeset ili trideset godina, vozi se Ladom, sedi pored prozora i sluša Modern Talking - samo što je pustio stomak, nosi naočare i proćelav je.	modern	0	0
+Mit fogsz csinálni nyáron?	Šta ćeš raditi ovog leta?	nyáron	0	0
+Maradjatok itt!	Останите овде.	maradjatok	0	0
+Van ebben az ételben hús?	У то јело улази месо?	hús	0	0
+Tomi indult egy papírrepülő versenyen és első helyezést ért el.	Томи се такмичио у бацању папираних авиона и освојио је прво место.	indult	0	0
+Ő és én olyan közeli barátok vagyunk, hogy szinte olvasni tudjuk egymás gondolatát.	Он и ја смо тако блиски пријатељи, да скоро можемо да читамо мисли једно другом.	közeli	0	0
+Titokban tartotta, hogy vett egy biciklit a fiának.	Držao je u tajnosti,da je kupio bicikl sinu.	tartotta	0	0
+A ceruza a könyvön fekszik.	Olovka je na knjizi.	fekszik	0	0
+Ez csak részben volt siker.	To je bio samo delimičan uspeh.	részben	0	0
+Játszom hegedűn.	Sviram violinu.	játszom	0	0
+Hangosan beszéltem.	Причала сам гласно.	hangosan	0	0
+Én itt alszom.	Овде спавам.	alszom	0	0
+Szükségem van valakire.	Треба ми неко.	valakire	0	0
+Melyik ágyban alszol?	У ком кревету спаваш?	alszol	0	0
+És nem volt gyanús Piroskának, hogy a farkas nem is hasonlít a nagymamára?	А Црвенкапи није било сумњиво то што вук уопште није личио на баку?	gyanús	0	0
+Mari font egy pitypangkoszorút és Alíz fejére rakta.	Мари је исплела венац од маслачка и ставила Ализи на главу.	font	0	0
+Végre péntek van.	Konačno je petak.	péntek	0	0
+Milyen néven?	На које име?	néven	0	0
+Egyedül maradtam a sötétben.	Ostala sam sama u mraku.	sötétben	0	0
+Az energia energiát ad.	Energija daje energiju.	energiát	0	0
+Most már el kell menned a fodrászhoz, mert nagyon hosszú a hajad!	Сад већ треба да идеш код фризера, јер ти је много дуга коса.	hajad	0	0
+Éhes vagyok, mint egy farkas.	Gladan sam kao vuk.	farkas	0	0
+Megpróbálja.	Pokušava.	megpróbálja	0	0
+A szexualitás is az élet része. Egyes társadalmakban tabutémaként kezelik, másikban meg kultúraként illetve művészetként. Akárhogy is legyen, az egészséges szellemiség része a normális szexuális élet.	Сексуалност, то је део живота. У неким друштвима, третира се као табу, у другим као култура или као уметност. Било како било, нормална сексуалност део је здравог духа.	akárhogy	0	0
+Kenyeret és húst evett.	Он је јео хлеб и месо.	húst	0	0
+Miért viselkedsz gyerekesen?	Зашто се понашаш детињасто?	viselkedsz	0	0
+Hol vannak a szülők?	Gde su roditelji?	szülők	0	0
+Kíváncsi vagyok, kié ez a mondat.	Питам се чија је ово реченица.	kié	0	0
+Tom rendkívüli.	Том је изванредан.	rendkívüli	0	0
+Egyedül maradtam a sötétben.	Ostala sam sama u mraku.	maradtam	0	0
+Mit fogsz csinálni pénteken?	Šta ćeš da radiš u petak?	pénteken	0	0
+A macska az asztal alatt van.	Mačka je ispod stola.	asztal	0	0
+Nekem merőben más a véleményem ezekről.	Имам потпуно другачије мишљење о томе.	véleményem	0	0
+Hogy van írva a családneved?	Како се пише твоје презиме?	írva	0	0
+A kedvenc karosszékében aludt el a híreket nézve, és nem ébredt fel többé.	Заспао је у омиљеној фотељи док је гледао вести, и више се није пробудио.	nézve	0	0
+Tudod, hogy hol lakom?	Da li znaš gde ja živim?	lakom	0	0
+Amennyire ki tudtam venni a szavaiból, azt mondta, hogy nagyon sokat ivott, és nagyon berúgott.	Koliko sam mogao razabrati iz njegovih reči, kaže da mnogo pije, i da je teška pijandura.	ivott	0	0
+A kedvenc karosszékében aludt el a híreket nézve, és nem ébredt fel többé.	Заспао је у омиљеној фотељи док је гледао вести, и више се није пробудио.	aludt	0	0
+A nap egy csillag.	Sunce je zvezda.	csillag	0	0
+Úgy mosolygott az a fekete hajú pénztároslány a kasszánál, hogy egyszerűen nem bírtam nem őt bámulni, míg a sorban várakoztam.	Тако се осмехнула црнокоса благајница на каси, да просто нисам могао да не бленем у њу, док сам чекао у реду.	sorban	0	0
+Ez a házam.	Ово је моја кућа.	házam	0	0
+Kő szive van.	On ima kameno srce.	kő	0	0
+Nem szép másokat kinevetni.	Није лепо смејати се другом.	másokat	0	0
+Egy tea mellett megbeszélték az elmúlt évek, évtizedek eseményeit.	Uz čaj, razgovaralo se o događajima iz proteklih godina i decenija.	tea	0	0
+A szoftvert a legújabb verzióra frissítettem.	Ажурирао сам софтвер на најновију верзију.	legújabb	0	0
+Az élet nem igazságos.	Живот није фер.	igazságos	0	0
+Sam két évvel fiatalabb Tomnál.	Сем је две године млађи од Тома.	fiatalabb	0	0
+Klausztrofóbiától szenved.	Пати од клаустрофобије.	szenved	0	0
+Tomi egy here; mindig a munka könnyebbik végét fogja meg.	Томи, трут један; на крају ће увек лакши посао завршити.	végét	0	0
+Miért kérdezed?	Зашто питаш?	kérdezed	0	0
+Az utolsó kapcsolja le a villanyt.	Последњи нека угаси светло.	kapcsolja	0	0
+Számomra a házasság csak egy darab papír.	Брак је за мене само парче папира.	papír	0	0
+Légy óvatos hazafelé!	Буди опрезна на путу до куће!	hazafelé	0	0
+Tominak hogy igen, hogy nem nem jutott eszébe semmilyen mondat, ezért csak idézeteket másolgatott ide.	Томи из неког разлога, није се могао сетити никакве реченице, зато су овде само копирани цитати.	eszébe	0	0
+Melyik játék népszerű a te országodban?	Која игра је у Вашој земљи посебно омиљена?	népszerű	0	0
+Mennyibe kerül?	Koliko to košta?	mennyibe	0	0
+Én nem vagyok diák.	Ja nisam učenik.	diák	0	0
+Ennek semmi íze.	Нема укус.	íze	0	0
+Ha szeretlek is, mi közöd hozzá?	Ако те ја волим, шта се то тебе тиче?	közöd	0	0
+Megtanultam, hogy az okosabb enged.	Naučio sam, da pametniji popušta.	megtanultam	0	0
+Akartál valaha is egy szigeten élni?	Da li si ikada poželeo da živiš na ostrvu?	szigeten	0	0
+Kenyeret és húst evett.	On je jeo hleb i meso.	evett	0	0
+A szexualitás is az élet része. Egyes társadalmakban tabutémaként kezelik, másikban meg kultúraként illetve művészetként. Akárhogy is legyen, az egészséges szellemiség része a normális szexuális élet.	Сексуалност, то је део живота. У неким друштвима, третира се као табу, у другим као култура или као уметност. Било како било, нормална сексуалност део је здравог духа.	illetve	0	0
+Pénzre van szükségem. - Nem gáz. Mennyi kell?	Треба ми новац. - У реду. Колико ти треба?	pénzre	0	0
+Éles kard, még élesebb nyelv.	Mač je oštar, ali je jezik još oštriji.	kard	0	0
+Mondja csak, miért eteti ön itt ezeket a koszos galambokat kenyérrel, amikor sok embernek nem telik egy falat kenyérre sem?	Recite mi, zašto hranite ove prljave golubove hlebom, kada mnogi ljudi ne mogu sebi da priušte ni parče hleba?	falat	0	0
+Ha hihetünk a meteorológiának, akkor hétvégén ragyogó időnk lesz.	Ako možemo da verujemo vremenskој prognozi, imaćemo sjajno vreme ovog vikenda.	ragyogó	0	0
+Minden nap mozogj!	Svaki dan, pokreni se!	mozogj	0	0
+Édesapám komolyzenét hallgat.	Moj otac sluša klasičnu muziku.	hallgat	0	0
+Éles kard, még élesebb nyelv.	Mač je oštar, ali je jezik još oštriji.	éles	0	0
+Meddig alszik egy medve?	Колико дуго спава медвед?	medve	0	0
+Egyedül lakott ő ott.	Ona je tamo živela sama.	lakott	0	0
+A találkozó még nem vette kezdetét.	Састанак још није почео.	találkozó	0	0
+Csalódott volt, hogy csak a második lett.	Razočaran je bio, bio je samo drugi.	csalódott	0	0
+Mint a régi szép időkben.	Kao u stara lepa vremena.	időkben	0	0
+Én pontosan tíz órakor itt voltam, ti meg nem.	Тачно у десет сати сам био овде, а ви нисте.	órakor	0	0
+Apám mindig azt mondta, hogy Isten azoknak segít, akik magukon segítenek.	Moj otac je uvek govorio da Bog pomaže onima koji pomažu sami sebi.	segítenek	0	0
+Hatalmas a lexikális tudása a latin nyelvekből, viszont egyiket sem beszéli.	Ogromno je njegovo leksičko znanje latinskih jezika, međutim, nijedan od njih ne govori.	egyiket	0	0
+Miért nem tudott eljönni?	Зашто није могла да дође?	eljönni	0	0
+Vettem két üveg tejet.	Kupio sam sve flaše mleka.	tejet	0	0
+Párizsban havazik.	U Parizu pada sneg.	párizsban	0	0
+Tamás még mindig ugyanaz, mint húsz-harminc éve: kocka Ladával jár, letekert ablak mellett hallgatja a Modern Talkingot - csak hasat eresztett, szemüveget visel és kopaszodik.	Tomaš i dalje isto, kao i pre dvadeset ili trideset godina, vozi se Ladom, sedi pored prozora i sluša Modern Talking - samo što je pustio stomak, nosi naočare i proćelav je.	visel	0	0
+Állj meg és gondolkozz!	Застани и размисли!	gondolkozz	0	0
+Nem ez volt az egyetlen okom, hogy elhagytam Marit.	Није то био једини разлог због којег сам оставио Мери.	okom	0	0
+Van benne valami megmagyarázhatatlanul vonzó.	Има нешто необјашњиво привлачно у њему.	vonzó	0	0
+Miért kerülnek többe a gyémántok, mint a víz?	Zašto dijamanti koštaju više od vode?	kerülnek	0	0
+Megtanultam főzni.	Научила сам да кувам.	főzni	0	0
+- Hajszál van a levesemben! - Szerintem az nem haj, hanem szőr.	Kosa je u supi! - Mislim da to nije kosa, nego vlas.	haj	0	0
+Viszontlátásra!	До виђења!	viszontlátásra	0	0
+Mindennap tornázok.	Svaki dan vežbam.	mindennap	0	0
+Ki a főnök a családban?	Ко је газда у вашој кући?	családban	0	0
+Visszajöttem.	Vratio sam se.	visszajöttem	0	0
+Tamás még mindig ugyanaz, mint húsz-harminc éve: kocka Ladával jár, letekert ablak mellett hallgatja a Modern Talkingot - csak hasat eresztett, szemüveget visel és kopaszodik.	Томаш још увек исто, као пре двадесет или тридесет година, вози се Ладом, седи поред прозора и слуша Модерн Талкинг - само што је сада пустио стомак, носи наочаре и проћелав је.	ablak	0	0
+Ne engedjenek senkit bejönni!	Не дајте никоме да уђе!	engedjenek	0	0
+Dolgoznom kell.	Moram raditi.	dolgoznom	0	0
+Ez a mondat értelmetlen.	Ta rečenica je besmislena.	értelmetlen	0	0
+Bárcsak még több agyam lenne!	Када би само још више мозга имао!	agyam	0	0
+Gyakran mondják, hogy a kitartás a siker kulcsa.	Često kažu, da je istrajnost ključ uspeha.	kulcsa	0	0
+Tom egy nevetséges kalapot viselt.	Том носи смешан шешир.	viselt	0	0
+Sok mindenre tanított meg az élet.	Život me je mnogo naučio.	tanított	0	0
+Ki viseli a nadrágot a családban?	Ko nosi pantalone u porodici?	viseli	0	0
+Kicsit ellaposodott a buli; fel kellene dobni valahogy.	Забава постаје помало досадна; треба подићи атмосферу.	dobni	0	0
+Megtanultam, hogy az okosabb enged.	Научио сам, да паметнији попушта.	okosabb	0	0
+Annyit ettem, hogy most meg fel sem bírok állni.	Појео сам толико, да сада не могу ни да стојим.	bírok	0	0
+Vettem egy pár cipőt.	Kupio sam par cipela.	cipőt	0	0
+Mit ettél?	Šta si jeo?	ettél	0	0
+Pisti egész nap egy alsógatyában és egy szakadt pólóban flangált a lakásban.	Steva se ceo dan šećkao po stanu u donjem vešu i pocepanoj majici.	lakásban	0	0
+Gyalog vagy kerékpárral mész iskolába?	Peške ili biciklom ideš u školu?	gyalog	0	0
+Hetente egyszer úszom.	Plivam jednom nedeljno.	hetente	0	0
+A várható terméshozam alulmarad a tavalyihoz képest.	Очекивани принос усева ће бити мањи u односу на прошлу годину.	várható	0	0
+Elegáns öltöny volt rajta, egy vastag télikabát és egy zöld usanka.	Носио је елегантно одело, дебео зимски капут и зелену ушанку.	elegáns	0	0
+A pénz nem a siker kritériuma.	Novac nije kriterijum uspeha.	siker	0	0
+Harminc éves.	On ima trideset godina.	harminc	0	0
+Úgy mosolygott az a fekete hajú pénztároslány a kasszánál, hogy egyszerűen nem bírtam nem őt bámulni, míg a sorban várakoztam.	Tako se nasmešila crnokosa blagajnica na kasi, da jednostavno nisam mogao, a da ne buljim u nju, dok sam čekao u redu.	bírtam	0	0
+Játssz!	Играј!	játssz	0	0
+Tom egész nap a Bibliát olvassa.	Tom čita Bibliju po ceo dan.	olvassa	0	0
+Minden mindennel összefügg.	Sve je povezano.	mindennel	0	0
+A pénz ott van az asztalon.	Novac je na stolu.	asztalon	0	0
+Mondja csak, miért eteti ön itt ezeket a koszos galambokat kenyérrel, amikor sok embernek nem telik egy falat kenyérre sem?	Реците ми, зашто храните ове прљаве голубове хлебом, када многи људи себи не могу да приуште ни парче хлеба?	koszos	0	0
+A nevemet nem mondom meg.	Нећу да кажем како се зовем.	nevemet	0	0
+A feleségem nem a legszebb nő a világon - de sebaj! Mindenesetre elfogad engem olyannak, amilyen vagyok.	Moja žena nije najlepša žena na svetu - ali nema veze! U svakom slučaju, prihvatа mе takvоg kakаv sam.	olyannak	0	0
+A munkások ülősztrájkot kezdtek a gyár előtt.	Radnici su započeli sedeći štrajk ispred fabrike.	kezdtek	0	0
+A fiúnak alma van a zsebében.	Дечак има јабуку у свом џепу.	fiúnak	0	0
+- Hogy állsz a lányokkal, fiam? - Jaj, apa!	"A devojke, sinko?" "O, tata."	lányokkal	0	0
+Sötét van. Kapcsold fel, legyél szíves, a lámpát!	Мрачно је. Упали молим те лампу.	lámpát	0	0
+Mária vagyok.	Ја сам Марија.	mária	0	0
+A három év eltelt, mint három nap, mint egy álom!	Tri godine su prošle, kao tri dana, kao jedan san!	eltelt	0	0
+A közös európai kultúra alapja a keresztény kultúra, és semmiképpen nem a liberalizmus.	Osnova zajedničke evropske kulture je u hrišćanskoj kulturi, a nikako nije liberalizam.	keresztény	0	0
+Élvezd az ízeket!	Uživaj u ukusima!	élvezd	0	0
+Sokáig csaptam neki a szelet, de meguntam.	Много сам је мувао, али сморио сам се.	szelet	0	0
+Csak téged hallak.	Slušam samo tebe.	hallak	0	0
+A csárdás hagyományos magyar néptánc.	Чардаш је традиционална мађарска народна игра.	hagyományos	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	ellenünk	0	0
+Gyakran utazom Londonba.	Често путујем у Лондон.	londonba	0	0
+Tom kijátszotta a legerősebb kártyáját.	Том је одиграо на најјачу карту.	legerősebb	0	0
+Ostobaság!	Gluposti!	ostobaság	0	0
+Mennyivel idősebb ő, mint te?	Колико је он старији од тебе?	mennyivel	0	0
+Utállak!	Mrzim te.	utállak	0	0
+Küldj egy SMS-t vagy egy e-mailt, mielőtt hazajössz!	Pošalji mi SMS ili imejl pre nego što dođeš kući!	küldj	0	0
+Bevallom, fáradt vagyok.	Priznajem da sam umoran.	bevallom	0	0
+Mindig a tiltott gyümölcs a legédesebb.	Забрањено воће је увек најслађе.	tiltott	0	0
+Megtanultam, hogy az okosabb enged.	Naučio sam, da pametniji popušta.	enged	0	0
+Az egészségedre kell gondolnod.	Treba da misliš na svoje zdravlje.	egészségedre	0	0
+A tetőn van egy fehér galamb.	На крову је бели голуб.	tetőn	0	0
+Ha itt vagy és beszélsz, nem tudok koncentrálni.	Не могу да се сконцентришем ако си овде и причаш.	koncentrálni	0	0
+A fiúnak alma van a zsebében.	Дечак има јабуку у свом џепу.	alma	0	0
+Úgy mosolygott az a fekete hajú pénztároslány a kasszánál, hogy egyszerűen nem bírtam nem őt bámulni, míg a sorban várakoztam.	Tako se nasmešila crnokosa blagajnica na kasi, da jednostavno nisam mogao, a da ne buljim u nju, dok sam čekao u redu.	hajú	0	0
+Kétszer mérd le, majd aztán vágd le.	Двапут мери, једном сеци.	vágd	0	0
+Mid van?	Шта имаш?	mid	0	0
+Nekem merőben más a véleményem ezekről.	Имам потпуно другачије мишљење о томе.	ezekről	0	0
+Kenyeret és húst evett.	Он је јео хлеб и месо.	kenyeret	0	0
+Sietek.	Žurim.	sietek	0	0
+Bízz saját magadban!	Veruj u sebe!	magadban	0	0
+Vártunk.	Чекале смо.	vártunk	0	0
+- Azt mondta Tomi, hogy látta a jetit, de az megijedt tőle és elszaladt. - A jeti? Tomitól? Nem csodálom! Tomi ijesztően hülye.	Том је рекао, да је видео јетија, али се уплашио од њега и побегао. - А јети? Од Тома? Не чудим се! Том је страшно глуп.	csodálom	0	0
+Ideje már hazamenni?	Да ли је време да идемо кући?	hazamenni	0	0
+Csak álltunk ott a kirakat előtt, és tátottuk a szánkat, mint a gyerekek.	Само смо тамо стајали испред излога, и буљили, као деца.	álltunk	0	0
+Tom énekel.	Tom peva.	énekel	0	0
+Bárcsak még okosabb volnék!	Voleo bih kada bih još pametniji bio!	volnék	0	0
+Küldj egy SMS-t vagy egy e-mailt, mielőtt hazajössz!	Pošalji mi SMS ili imejl pre nego što dođeš kući!	sms-t	0	0
+Több könyve van, mint nekem.	Он има више књига од мене.	könyve	0	0
+Mennyi kell neked egy hónapra?	Колико ти је потребно за један месец?	hónapra	0	0
+Te soha nem szerettél volna egy szigeten élni?	Никада ниси пожелео да живиш на острву?	szerettél	0	0
+Miért hord Tom most kabátot?	Zašto Tom nosi mantil?	hord	0	0
+Engem kérdezel?	Мене питаш?	kérdezel	0	0
+A fiamat korán érdekelte a politika.	Moj sin se rano zainteresovao za politiku.	érdekelte	0	0
+Amit most el fogok neked mesélni, az velem történt meg.	Сад ћу ти испричати шта се мени десило.	mesélni	0	0
+Az olaszok mindig spagettit esznek.	Italijani uvek jedu špagete.	esznek	0	0
+Teljesen le vagyok nyűgözve!	Веома сам импресионирана.	nyűgözve	0	0
+A közös európai kultúra alapja a keresztény kultúra, és semmiképpen nem a liberalizmus.	Заједничка европска култура заснована је на хришћанској култури, а наравно не на либерализму.	európai	0	0
+A fiamat korán érdekelte a politika.	Moj sin se rano zainteresovao za politiku.	politika	0	0
+Ilyen finomat biztos nem ettél mostanában, fiam, mint amilyet anyád főz!	Tako ukusno, sigurno nisi jeo u poslednje vreme, sine moj, kao što tvoja majka kuva!	amilyet	0	0
+Nem ez volt az egyetlen okom, hogy elhagytam Marit.	Није то био једини разлог због којег сам оставио Мери.	elhagytam	0	0
+Hol találom az utazási irodát?	Gde mogu da nađem kancelariju za turiste?	irodát	0	0
+Küldj egy SMS-t vagy egy e-mailt, mielőtt hazajössz!	Pošalji mi SMS ili imejl pre nego što dođeš kući!	e-mailt	0	0
+Vártalak délelőtt 11 órakor.	Očekujem vas u 11 časova prepodne.	délelőtt	0	0
+Két autója van.	Он има два аутомобила.	autója	0	0
+Ne engedjenek senkit bejönni!	Не дозволите никоме да уђе!	bejönni	0	0
+Jó étvágyat!	Добар тек!	étvágyat	0	0
+Ver a szíve.	Srce bije.	ver	0	0
+Köszönöm a belém vetett bizalmat, de nem érdemlem meg.	Hvala na poverenju u mene, ali ja to ne zaslužujем.	vetett	0	0
+Diákok vagyunk.	Mi smo studenti.	diákok	0	0
+Unatkozom, mert nem foglalkozol velem.	Досађујем се, јер се не бавиш мноме.	foglalkozol	0	0
+Mi van a jobb kezedben?	Šta je ta stvar i tvojoj desnoj šaci?	kezedben	0	0
+Nyami! Rántott sajt.	Њам! Похован сир.	sajt	0	0
+Egy új kerékpárt kell vennie a fiának.	On mora kupiti novi bicikl sinu.	fiának	0	0
+Máriának igazából nem te kellesz, hanem a pénzed.	Марија, уистину не жели тебе, него твој новац.	kellesz	0	0
+Tudtam, hogy ő is valami hasonlót érez irántam.	Знао сам да и она осећа нешто слично према мени.	hasonlót	0	0
+Mari font egy pitypangkoszorút és Alíz fejére rakta.	Мари је исплела венац од маслачка и ставила Ализи на главу.	fejére	0	0
+Ezt a kopasz hegyet be kell fásítani.	Та гола брда се морају пошумити.	kopasz	0	0
+Most nem tanulok.	Sada ne učim.	tanulok	0	0
+Nyertünk.	Победили смо.	nyertünk	0	0
+Tegnap piacon voltam.	Ја сам јуче посетио сајам поврћа.	piacon	0	0
+Sose felejts el.	Никада ме немој заборавити.	felejts	0	0
+Tamás még mindig ugyanaz, mint húsz-harminc éve: kocka Ladával jár, letekert ablak mellett hallgatja a Modern Talkingot - csak hasat eresztett, szemüveget visel és kopaszodik.	Томаш још увек исто, као пре двадесет или тридесет година, вози се Ладом, седи поред прозора и слуша Модерн Талкинг - само што је сада пустио стомак, носи наочаре и проћелав је.	kocka	0	0
+Késsel és villával esznek.	Они једу ножем и виљушком.	késsel	0	0
+Elegáns öltöny volt rajta, egy vastag télikabát és egy zöld usanka.	Носио је елегантно одело, дебео зимски капут и зелену ушанку.	vastag	0	0
+Vegyetek fel gumikesztyűt, mert nem lehet rajta ujjlenyomat!	Ставите гумене рукавице, зато што не сме бити отисак прста на томе!	ujjlenyomat	0	0
+Indulhatunk.	Спремни смо да идемо.	indulhatunk	0	0
+Könyvek az én legjobb barátaim.	Knjige su moji najbolji prijatelji.	könyvek	0	0
+Tegnap csütörtök volt.	Juče je bio Četvrtak.	csütörtök	0	0
+Egyiptom a Nílus ajándéka.	Египат је дар Нила.	ajándéka	0	0
+Éles kard, még élesebb nyelv.	Mač je oštar, ali je jezik još oštriji.	nyelv	0	0
+Merre van a szobám?	Где је моја соба?	szobám	0	0
+Holnap hétfő.	Сутра је понедељак.	hétfő	0	0
+A beduinok a sivatagban élnek.	Бедуини живе у пустињи.	sivatagban	0	0
+Erősnek kell lenned.	Мораш бити јак!	erősnek	0	0
+Befejezte a középiskolát.	Она је завршила средњу школу.	befejezte	0	0
+Tomi indult egy papírrepülő versenyen és első helyezést ért el.	Томи се такмичио у бацању папираних авиона и освојио је прво место.	versenyen	0	0
+Van számodra valamim.	Imam nešto za tebe.	valamim	0	0
+Tudtam, hogy ő is valami hasonlót érez irántam.	Знао сам да и она осећа нешто слично према мени.	irántam	0	0
+Lefekszem egy kicsit.	Prileći ću malo.	lefekszem	0	0
+Nekem tetszenek azok az emberek, akiknek van humoruk.	Допадају ми се људи који се шале.	tetszenek	0	0
+A fiúnak alma van a zsebében.	Дечак има јабуку у свом џепу.	zsebében	0	0
+Lassan olvasok.	Споро читам.	olvasok	0	0
+Kérem, láthatnám a jogosítványát?	Smem li da vidim Vašu vozačku dozvolu?	láthatnám	0	0
+Tom a fiával játszik.	Tom se igra sa svojim sinom.	fiával	0	0
+Mit olvasol?	Шта читаш?	olvasol	0	0
+Miért látszol ilyen zavartnak?	Zašto izgledaš tako zbunjeno?	látszol	0	0
+Valóban akarsz egy másik nyelvet tanulni?	Da li zaista želiš da naučiš još jedan jezik?	nyelvet	0	0
+Tom csak egyetlen kiutat látott a gondokból.	Том је видео само један излаз из проблема.	kiutat	0	0
+Baszódj meg!	Jebi se!	baszódj	0	0
+Kitartás nélkül nincs siker.	Bez upornosti nema uspeha.	kitartás	0	0
+Hinned kell nekem.	Moraš mi verovati.	hinned	0	0
+Ez nagy örömet okozott nekem.	Ово ме је много усрећило.	örömet	0	0
+Ezer puszit adj!	Дај ми хиљаду пољубаца.	puszit	0	0
+Lemaradtam a mondatokkal, mert kórházban voltam.	Zaostala sam sa rečenicama, zato što sam bila u bolnici.	lemaradtam	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	mindennapi	0	0
+A közös európai kultúra alapja a keresztény kultúra, és semmiképpen nem a liberalizmus.	Osnova zajedničke evropske kulture je u hrišćanskoj kulturi, a nikako nije liberalizam.	alapja	0	0
+A koboldok alagutat ástak a kastély alá.	Гоблини су ископали тунел испод замка.	kastély	0	0
+Hazamegyünk.	Idemo kući.	hazamegyünk	0	0
+Apu, felolvasnál nekem egy mesét, mielőtt elmegyek aludni?	Тата, можеш ли да ми прочиташ једну причу, пре него што одем на спавање?	mesét	0	0
+Beszélnek ők franciául?	Да ли причају француски?	franciául	0	0
+Szatén ruhába volt öltözve.	Nosila je haljinu od satena.	öltözve	0	0
+Hatalmas a lexikális tudása a latin nyelvekből, viszont egyiket sem beszéli.	Огромно је његово енциклопедијско знање латинских језика, међутим, ниједним од њих не говори.	latin	0	0
+Ez az étel tartalmaz húst?	У то јело улази месо?	tartalmaz	0	0
+Egy új kerékpárt kell vennie a fiának.	On mora kupiti novi bicikl sinu.	vennie	0	0
+Bíznod kell bennem.	Moraš da mi veruješ.	bíznod	0	0
+Túl későn vettem észre, hogy a beszédem legfontosabb részét kihagytam.	Kad sam shvatio da sam najvažnije izostavio iz govora, već je bilo prekasno.	kihagytam	0	0
+Fél a haláltól.	Ona se boji smrti.	haláltól	0	0
+A cipőd a bejárati ajtónál van.	Ципеле су ти код улазних врата.	bejárati	0	0
+Fáradtak a szemeim.	Очи су ми уморне.	szemeim	0	0
+Van egy nagy kutyám.	Imam velikog psa.	kutyám	0	0
+Ki viseli a nadrágot a családban?	Ko nosi pantalone u porodici?	nadrágot	0	0
+A nyitottság hiánya probléma.	Nedostatak transparentnosti je problem.	hiánya	0	0
+- Azt mondta Tomi, hogy látta a jetit, de az megijedt tőle és elszaladt. - A jeti? Tomitól? Nem csodálom! Tomi ijesztően hülye.	Том је рекао, да је видео јетија, али се уплашио од њега и побегао. - А јети? Од Тома? Не чудим се! Том је страшно глуп.	megijedt	0	0
+Mi a francokat művelsz!?	Šta dovraga radiš?	francokat	0	0
+Mindent a maga idejében!	Sve u svoje vreme.	idejében	0	0
+Miért hord Tom most kabátot?	Zašto Tom nosi mantil?	kabátot	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	mennyben	0	0
+Ez nem az én autóm.	To nije moj auto.	autóm	0	0
+Tomi hozzávágta a telefont a falhoz.	Tom je bacio telefon na zid.	falhoz	0	0
+Szerintem most nagyon büszke lenne rám a nagymamám.	Mislim da bi moja baka bila sada veoma ponosna na mene.	nagymamám	0	0
+Senki sem tudhat mindent.	Niko ne može da zna sve.	tudhat	0	0
+Hol van a múzeum?	Где је музеј?	múzeum	0	0
+Egy évet vesztegettem az életemből a semmire.	Protraćio sam godinu dana svog života ni na šta.	életemből	0	0
+Palacsintát csináltam ma.	Правила сам данас палачинке.	palacsintát	0	0
+Az utolsó kapcsolja le a villanyt.	Последњи нека угаси светло.	villanyt	0	0
+Nem akarom, hogy ilyen állapotban láss.	Не желим да ме видиш у оваквом стању.	láss	0	0
+Tom a kerítés melletti tujákat hóember alakúra nyírta meg.	Том је тују поред ограде, ошишао у облику Снешка Белића.	melletti	0	0
+Pisti egész nap egy alsógatyában és egy szakadt pólóban flangált a lakásban.	Steva se ceo dan šećkao po stanu u donjem vešu i pocepanoj majici.	szakadt	0	0
+Elegáns öltöny volt rajta, egy vastag télikabát és egy zöld usanka.	Носио је елегантно одело, дебео зимски капут и зелену ушанку.	öltöny	0	0
+Mindig a tiltott gyümölcs a legédesebb.	Забрањено воће је увек најслађе.	gyümölcs	0	0
+A találkozó még nem vette kezdetét.	Састанак још није почео.	kezdetét	0	0
+Tom egy nevetséges kalapot viselt.	Том носи смешан шешир.	kalapot	0	0
+Ilyen finomat biztos nem ettél mostanában, fiam, mint amilyet anyád főz!	Tako ukusno, sigurno nisi jeo u poslednje vreme, sine moj, kao što tvoja majka kuva!	főz	0	0
+Egészségére!	Живели!	egészségére	0	0
+Ez Szerbia harmadik legnagyobb városa.	To je po veličini treći grad u Srbiji.	városa	0	0
+Gondolom, a matek nem volt a kedvenc tantárgyad.	Мислим да ти математика није била омиљен предмет у школи.	matek	0	0
+Fázom.	Хладно ми је.	fázom	0	0
+Horgászni megyek.	Идем да пецам.	horgászni	0	0
+A munkások ülősztrájkot kezdtek a gyár előtt.	Radnici su započeli sedeći štrajk ispred fabrike.	munkások	0	0
+Óriási erő rejlik a szavakban.	Огромна снага лежи у речима.	rejlik	0	0
+A cipőd a bejárati ajtónál van.	Ципеле су ти код улазних врата.	ajtónál	0	0
+Ez mind az én könyvem.	Sve ove knjige su moje.	könyvem	0	0
+Az új koronavírus erősen fertőző.	Нови коронавирус је веома заразан.	fertőző	0	0
+Segítek neked egy feltétellel.	Помоћи ћу ти под једним условом.	feltétellel	0	0
+Hol van a szálloda?	Где се назали хотел?	szálloda	0	0
+A csend után a zene tudja legjobban kifejezni a kifejezhetetlent.	Posle tišine, ono što najbolje može izraziti neizrecivo je muzika.	kifejezni	0	0
+Szállj be, hazaviszlek.	Улази, одбацићу те кући.	hazaviszlek	0	0
+Told ide a segged!	Dovlači se ovamo!	told	0	0
+Gyakran utazom Londonba.	Често путујем у Лондон.	utazom	0	0
+Fújdogál valamicskét a szél, de ez nem lehet akadály, hogy elinduljunk.	Vetar pomalo duva, ali to ne može biti prepreka, da krenemo.	akadály	0	0
+A miniszoknyák visszatértek a divatba.	Мини сукње су се вратиле у моду.	visszatértek	0	0
+Halkan pengesd ezt a csárdást, hogy szívem oly nagyon ne fájjon.	Nežno sviraj čardaš, da mi srce ne povrediš.	halkan	0	0
+Drágám, a szekrény poros maradt.	Драга моја, остао је прашњав орман.	szekrény	0	0
+A munkások ülősztrájkba kezdtek a gyár előtt.	Radnici su započeli sedeći štrajk ispred fabrike.	gyár	0	0
+A konferencia nem volt teljes siker.	Konferencija nije u potpunosti uspela.	konferencia	0	0
+Van Tominak tapasztalata?	Ima li Tom iskustva?	tapasztalata	0	0
+Ez egy kubai szivar.	To je kubanska cigara.	kubai	0	0
+Ilyen könnyen feladod?	Тако лако се предајеш?	feladod	0	0
+A közös európai kultúra alapja a keresztény kultúra, és semmiképpen nem a liberalizmus.	Заједничка европска култура заснована је на хришћанској култури, а наравно не на либерализму.	semmiképpen	0	0
+Szabad felkérnem egy táncra?	Могу ли замолити за плес?	táncra	0	0
+A házasság egy szent kötelék.	Brak je sveta veza.	kötelék	0	0
+Te amúgy is jobb nőt érdemelsz magadnak Marinál.	Ионако, бољу жену заслужујеш од Марије.	érdemelsz	0	0
+Mari font egy pitypangkoszorút és Alíz fejére rakta.	Мари је исплела венац од маслачка и ставила Ализи на главу.	rakta	0	0
+Vegyetek fel gumikesztyűt, mert nem lehet rajta ujjlenyomat!	Uzmite gumene rukavice, jer na tome , ne sme biti otisak prsta!	vegyetek	0	0
+A sárgarépa három dollárba kerül.	Šargarepe koštaju tri dolara.	dollárba	0	0
+A közös európai kultúra alapja a keresztény kultúra, és semmiképpen nem a liberalizmus.	Osnova zajedničke evropske kulture je u hrišćanskoj kulturi, a nikako nije liberalizam.	kultúra	0	0
+Úgy mosolygott az a fekete hajú pénztároslány a kasszánál, hogy egyszerűen nem bírtam nem őt bámulni, míg a sorban várakoztam.	Tako se nasmešila crnokosa blagajnica na kasi, da jednostavno nisam mogao, a da ne buljim u nju, dok sam čekao u redu.	mosolygott	0	0
+Az egészségedre kell gondolnod.	Treba da misliš na svoje zdravlje.	gondolnod	0	0
+Ki hordja a nadrágot a családban?	Ko nosi pantalone u porodici?	hordja	0	0
+Ez nem csak a mi bajunk.	Ово није само наш проблем.	bajunk	0	0
+Mindenki megvásárolható. De a legnagyobb kurvák a politikusok.	Svakog možeš da kupiš. Ali političari su najveće kurve.	kurvák	0	0
+Meglátjátok, olyan fantasztikus kalandokban lesz majd részünk, amelyekről még álmodni sem mertetek.	Videćete, bićemo deo tako fantastične avanture, o kojoj se još niste ni usudili da sanjate.	álmodni	0	0
+Tomi egy here; mindig a munka könnyebbik végét fogja meg.	Томи, трут један; на крају ће увек лакши посао завршити.	here	0	0
+Ezt a kopasz hegyet be kell fásítani.	Та гола брда се морају пошумити.	hegyet	0	0
+Köszönöm a belém vetett bizalmat, de nem érdemlem meg.	Hvala na poverenju u mene, ali ja to ne zaslužujем.	érdemlem	0	0
+Ebben a pontban nem tudok veled egyetérteni.	Ја се не могу сагласити са вама о тој тачки.	pontban	0	0
+Két korsó sört és egy pohár kólát, legyen szíves!	Две кригле пива и једну чашу коле, молим вас!	kólát	0	0
+Hol találom az utazási irodát?	Gde mogu da nađem kancelariju za turiste?	utazási	0	0
+Édesapám komolyzenét hallgat.	Moj otac sluša klasičnu muziku.	édesapám	0	0
+Vegetáriánus vagyok.	Ја сам вегетаријанац.	vegetáriánus	0	0
+A hírességek szívesen szórják a pénzüket.	Славне личности врло радо се разбацују новцем.	pénzüket	0	0
+Köszönöm a belém vetett bizalmat, de nem érdemlem meg.	Хвала на поверењу у мене, али ја то не заслужујем.	bizalmat	0	0
+Becsókolta az összes süteményt.	Смазао сам све колаче.	süteményt	0	0
+Vártalak 11 órakor.	Čekam vas u 11 sati.	vártalak	0	0
+A szexualitás is az élet része. Egyes társadalmakban tabutémaként kezelik, másikban meg kultúraként illetve művészetként. Akárhogy is legyen, az egészséges szellemiség része a normális szexuális élet.	Сексуалност, то је део живота. У неким друштвима, третира се као табу, у другим као култура или као уметност. Било како било, нормална сексуалност део је здравог духа.	másikban	0	0
+Nem tudok semmit a gyilkosságról.	Не знам ништа о убиству.	gyilkosságról	0	0
+Mindenki sorra fog kerülni.	Свако ће добити прилику.	sorra	0	0
+Tominak hogy igen, hogy nem nem jutott eszébe semmilyen mondat, ezért csak idézeteket másolgatott ide.	Tomiju iz nekog razloga, nije padala na pamet nikakva rečenica, iz tog razloga, ovde su samo kopirani citati.	mondat	0	0
+Tom a kerítés melletti tujákat hóember alakúra nyírta meg.	Том је тују поред ограде, ошишао у облику Снешка Белића.	kerítés	0	0
+Mindenki megvásárolható. De a legnagyobb kurvák a politikusok.	Svakog možeš da kupiš. Ali političari su najveće kurve.	politikusok	0	0
+Tamás még mindig ugyanaz, mint húsz-harminc éve: kocka Ladával jár, letekert ablak mellett hallgatja a Modern Talkingot - csak hasat eresztett, szemüveget visel és kopaszodik.	Tomaš i dalje isto, kao i pre dvadeset ili trideset godina, vozi se Ladom, sedi pored prozora i sluša Modern Talking - samo što je pustio stomak, nosi naočare i proćelav je.	szemüveget	0	0
+Ezt a nyakkendőt viseltem tegnap.	Ovu kravatu sam nosio juče.	nyakkendőt	0	0
+Unatkozom, mert nem foglalkozol velem.	Досађујем се, јер се не бавиш мноме.	unatkozom	0	0
+A futball a kedvenc sportom.	Fudbal je moj omiljeni sport.	futball	0	0
+Kérdezd meg anyukádat!	Питај своју маму!	anyukádat	0	0
+A cipőd a bejárati ajtónál van.	Ципеле су ти код улазних врата.	cipőd	0	0
+A szexualitás is az élet része. Egyes társadalmakban tabutémaként kezelik, másikban meg kultúraként illetve művészetként. Akárhogy is legyen, az egészséges szellemiség része a normális szexuális élet.	Seksualnost je deo života. U nekim društvima tretira se kao tabu, u drugim, kao deo kulture ili umetnosti. Bilo kako bilo, normalan seksualan život deo je zdrave duhovnosti.	kezelik	0	0
+Mik a terveid mára?	Koji su ti planovi za danas?	terveid	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	bocsásd	0	0
+A kedvenc karosszékében aludt el a híreket nézve, és nem ébredt fel többé.	Заспао је у омиљеној фотељи док је гледао вести, и више се није пробудио.	ébredt	0	0
+Wolf Kati jó énekesnő.	Кети Волф је добра певачица.	wolf	0	0
+Küldj egy SMS-t vagy egy e-mailt, mielőtt hazajössz!	Pošalji mi SMS ili imejl pre nego što dođeš kući!	hazajössz	0	0
+A világegyetem telis-tele van rejtélyekkel.	Универзум је пун мистерија.	világegyetem	0	0
+Nem értek németül.	Ne razumem Nemački.	németül	0	0
+Rómaiak, menjetek haza!	Римљани, идите кући!	rómaiak	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	szabadíts	0	0
+Ma van a kígyók világnapja.	Данас је Светски дан змија.	kígyók	0	0
+- Azt állítja Tomi, hogy találkozott a nagylábúval, bár én erősen kétlem. - Ne kételkedj! Tavaly a földönkívüliek hívták meg őt teázni.	Том тврди да се сусрео са Јетијем, мада ја јако сумњам. - Не сумњај! Прошле године, ванземаљци су га звали на чајанку.	földönkívüliek	0	0
+Emlékszel erre a játékra?	Да ли се сећате ове игре?	játékra	0	0
+Miért kerülnek többe a gyémántok, mint a víz?	Zašto dijamanti koštaju više od vode?	többe	0	0
+Én nem énekelek.	Ja ne pevam.	énekelek	0	0
+Minőségi élet után vágyok.	Želim, potom, kvalitetan život.	minőségi	0	0
+Miért kerülnek többe a gyémántok, mint a víz?	Zašto dijamanti koštaju više od vode?	gyémántok	0	0
+Ne olvass ebben a szobában!	Не читајте у овој соби!	olvass	0	0
+Rajtad kívül nincs senkim.	Немам никога осим тебе.	senkim	0	0
+Nem vagyok grófnő.	Ja nisam grofica.	grófnő	0	0
+Fáradtak a szemeim.	Очи су ми уморне.	fáradtak	0	0
+A férjem készíti a vacsorát.	Супруг припрема вечеру.	készíti	0	0
+Tom egész nap a Bibliát olvassa.	Tom čita Bibliju po ceo dan.	bibliát	0	0
+Ha most kimész azon az ajtón, soha többé ne gyere vissza!	Ако сада изађеш на она врата, никада се више немој враћати!	kimész	0	0
+Ezt a nyakkendőt viseltem tegnap.	Ovu kravatu sam nosio juče.	viseltem	0	0
+A tetőn van egy fehér galamb.	На крову је бели голуб.	galamb	0	0
+- Azt mondta Tomi, hogy látta a jetit, de az megijedt tőle és elszaladt. - A jeti? Tomitól? Nem csodálom! Tomi ijesztően hülye.	Том је рекао, да је видео јетија, али се уплашио од њега и побегао. - А јети? Од Тома? Не чудим се! Том је страшно глуп.	elszaladt	0	0
+A hasán fekve alszik.	Спава лежећи на стомаку.	fekve	0	0
+Amikor nincs otthon a macska, táncolnak az egerek.	Kada mačka nije kod kuće, miševi kolo vode.	táncolnak	0	0
+Túl későn vettem észre, hogy a beszédem legfontosabb részét kihagytam.	Kad sam shvatio da sam najvažnije izostavio iz govora, već je bilo prekasno.	beszédem	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	mennyekben	0	0
+Nem is láttam még tehenet.	Нисам још видео ни краву.	tehenet	0	0
+- Hajszál van a levesemben! - Szerintem az nem haj, hanem szőr.	Kosa je u supi! - Mislim da to nije kosa, nego vlas.	szőr	0	0
+Úgy mosolygott az a fekete hajú pénztároslány a kasszánál, hogy egyszerűen nem bírtam nem őt bámulni, míg a sorban várakoztam.	Tako se nasmešila crnokosa blagajnica na kasi, da jednostavno nisam mogao, a da ne buljim u nju, dok sam čekao u redu.	bámulni	0	0
+Beleesett a gyermek labdája a patakba.	Detetova lopta pala je u potok.	beleesett	0	0
+Szeretne felelni ma valaki?	Да ли неко хоће данас да одговара?	felelni	0	0
+Egy fecske nem csinál nyarat.	Једна ласта не чини лето.	nyarat	0	0
+Nem hinném, hogy ez lenne a legmegfelelőbb alkalom, hogy ezt most megvitassuk.	Ne verujem, da bi bilo najprikladnije vreme, da sada o ovome raspravljamo.	legmegfelelőbb	0	0
+Mindenkiben ott van a gonoszság, de ugyanúgy ott van a jóság is.	У сваком постоји и зло, али исто тако постоји и добро.	gonoszság	0	0
+Reménykedem, hogy az eszperantó győzni fog.	Ја се надам да ће есперанто победити.	reménykedem	0	0
+A koboldok alagutat ástak a kastély alá.	Гоблини су ископали тунел испод замка.	alagutat	0	0
+- Tomi, valamit tudnod kell: én még nem voltam férfivel. - Mari, még én sem.	- Tom, moraš nešto da znaš: ja još nikada nisam bila sa muškarcem. - Meri, nisam ni ja još.	férfivel	0	0
+Szóval, szerinted a feleséged biztosan megcsal téged, de nincs rá semmi bizonyítékod, jól értem?	Значи мислиш да те жена вара, али немаш доказе за то, ако сам добро разумео?	bizonyítékod	0	0
+A feleségem nem a legszebb nő a világon - de sebaj! Mindenesetre elfogad engem olyannak, amilyen vagyok.	Moja žena nije najlepša žena na svetu - ali nema veze! U svakom slučaju, prihvatа mе takvоg kakаv sam.	sebaj	0	0
+Érthetetlen módon barátokból hirtelen ellenségekké lettek.	Необјашњиво, од пријатеља, изненада, непријатељи посташе.	érthetetlen	0	0
+Ez egy kubai szivar.	To je kubanska cigara.	szivar	0	0
+Csak a kötelességemet teljesítem.	Само испуњавам своју дужност.	teljesítem	0	0
+Nyami! Rántott sajt.	Њам! Похован сир.	rántott	0	0
+Tamás még mindig ugyanaz, mint húsz-harminc éve: kocka Ladával jár, letekert ablak mellett hallgatja a Modern Talkingot - csak hasat eresztett, szemüveget visel és kopaszodik.	Tomaš i dalje isto, kao i pre dvadeset ili trideset godina, vozi se Ladom, sedi pored prozora i sluša Modern Talking - samo što je pustio stomak, nosi naočare i proćelav je.	hallgatja	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	akaratod	0	0
+Azt hiszem, a probléma megoldódik majd magától is a maga idejében.	Mislim da će se problem rešiti sam od sebe, u svoje vreme.	megoldódik	0	0
+Marika jelenlétében olyan ügyetlennek érzem magam.	U Marikinom prisustvu osećam se tako nespretno.	jelenlétében	0	0
+Nem tudom, hogy meg tudom-e ezt tenni, de meg fogom kísérelni.	Ne znam, hoću li moći to da uradim ali ću probati.	tudom-e	0	0
+A galamb a béke szimbóluma.	Голуб симболизује мир.	szimbóluma	0	0
+Az én feleségem egy tündéri háziasszony.	Моја супруга је чаробна домаћица.	háziasszony	0	0
+Felszállt a kerékpárjára és elhajtott.	Seo je na bicikl i odvezao se.	felszállt	0	0
+A Postcrossing nem egy olcsó hobbi.	Посткросинг није јефтин хоби.	hobbi	0	0
+A főtt étel nemcsak a testnek, de a léleknek is fontos.	Кувана храна, није само телу важна, него и души, такође.	főtt	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	gonosztól	0	0
+Olaszország legszebb városa Firenze.	Firenca je najlepši grad u Italiji.	olaszország	0	0
+Na, a szomszéd házaspár már megint marja egymást.	Opet se svađa komšijski bračni par.	házaspár	0	0
+Megoldottuk a problémát.	Rešili smo problem.	megoldottuk	0	0
+Elméletben lehetséges, de a gyakorlatban nagyon nehéz.	U teoriji je to moguće, ali je u praksi to jako teško.	elméletben	0	0
+Fáj a torkom.	Boli me grlo.	torkom	0	0
+Minden mindennel összefügg.	Све је међусобно повезано.	összefügg	0	0
+A következő hónaptól kicsit összébb kell húznunk a nadrágszíjat.	Од следећег месеца мораћемо да стегнемо каиш.	húznunk	0	0
+Nézd a kacsákat a tóban!	Gledaj te patke na jezeru.	tóban	0	0
+A hírességek szívesen szórják a pénzüket.	Poznate ličnosti rado razbacuju novac.	hírességek	0	0
+Az olaszok mindig spagettit esznek.	Italijani uvek jedu špagete.	olaszok	0	0
+Sose néztem rá ilyen szemszögből.	Никада нисам посматрао ствари из те перспективе.	szemszögből	0	0
+A fegyelem a siker legfontosabb része.	Disciplina je najvažniji deo uspeha.	fegyelem	0	0
+Szóval, szerinted a feleséged biztosan megcsal téged, de nincs rá semmi bizonyítékod, jól értem?	Значи мислиш да те жена вара, али немаш доказе за то, ако сам добро разумео?	megcsal	0	0
+Meglátjátok, olyan fantasztikus kalandokban lesz majd részünk, amelyekről még álmodni sem mertetek.	Видећете, учествоваћемо у тако фантастичној авантури, о каквој се још нисте усудили ни да сањате.	meglátjátok	0	0
+Halkan pengesd ezt a csárdást, hogy szívem oly nagyon ne fájjon.	Nežno sviraj čardaš, da mi srce ne povrediš.	fájjon	0	0
+Voltál orvosnál?	Da li si bio kod lekara?	orvosnál	0	0
+Mindig a tiltott gyümölcs a legédesebb.	Забрањено воће је увек најслађе.	legédesebb	0	0
+- Hajszál van a levesemben! - Szerintem az nem haj, hanem szőr.	Kosa je u supi! - Mislim da to nije kosa, nego vlas.	hajszál	0	0
+Egyiptom a Nílus ajándéka.	Египат је дар Нила.	egyiptom	0	0
+Egyedül ő volt az, aki megértett engem.	Она је била једина која ме је разумела.	megértett	0	0
+Nem szeretem a havat.	Ја не волим снег.	havat	0	0
+Hatalmas a lexikális tudása a latin nyelvekből, viszont egyiket sem beszéli.	Огромно је његово енциклопедијско знање латинских језика, међутим, ниједним од њих не говори.	tudása	0	0
+A főtt étel nemcsak a testnek, de a léleknek is fontos.	Кувана храна, није само телу важна, него и души, такође.	léleknek	0	0
+Mindenkiben ott van a gonoszság, de ugyanúgy ott van a jóság is.	У сваком постоји и зло, али исто тако постоји и добро.	jóság	0	0
+Ránéztem.	Pogledao.	ránéztem	0	0
+Tom kijátszotta a legerősebb kártyáját.	Том је одиграо на најјачу карту.	kártyáját	0	0
+Kezdem már megszokni, hogy itt minden nap esik az eső.	Већ сам се почео навикавати на то, да сваки дан пада киша.	megszokni	0	0
+Titokban tartotta, hogy vett egy biciklit a fiának.	Držao je u tajnosti,da je kupio bicikl sinu.	biciklit	0	0
+Amit ma megtehetsz, ne halaszd holnapra!	Što možeš da uradiš danas, ne ostavljaj za sutra.	megtehetsz	0	0
+Egész nap semmit nem csinál, csak a televíziót bámulja.	Ceo dan ne radi ništa, samo bulji u televizor.	bámulja	0	0
+Nyami! Rántott sajt.	Njam! Pohovan sir.	nyami	0	0
+Felszállt a kerékpárjára és elhajtott.	Seo je na bicikl i odvezao se.	elhajtott	0	0
+Beszélsz olaszul?	Govoriš li Italijanski?	olaszul	0	0
+A feleségem nem a legszebb nő a világon - de sebaj! Mindenesetre elfogad engem olyannak, amilyen vagyok.	Моја жена није најлепша свету - али нема везе! У сваком случају, прихвата ме таквог какав сам.	elfogad	0	0
+Némely embernek nincs humorérzéke.	Неки људи немају осећај за шалу.	humorérzéke	0	0
+Hatalmas a lexikális tudása a latin nyelvekből, viszont egyiket sem beszéli.	Огромно је његово енциклопедијско знање латинских језика, међутим, ниједним од њих не говори.	beszéli	0	0
+Meglátjátok, olyan fantasztikus kalandokban lesz majd részünk, amelyekről még álmodni sem mertetek.	Videćete, bićemo deo tako fantastične avanture, o kojoj se još niste ni usudili da sanjate.	részünk	0	0
+Miklóshalmánál hajtottam le az autópályáról.	Сишао сам са аутопута код Никелсдорфа.	hajtottam	0	0
+Ilyen finomat biztos nem ettél mostanában, fiam, mint amilyet anyád főz!	Tako ukusno, sigurno nisi jeo u poslednje vreme, sine moj, kao što tvoja majka kuva!	finomat	0	0
+Egy tea mellett megbeszélték az elmúlt évek, évtizedek eseményeit.	Уз чај, разговарали су о догађајима из протеклих година и деценија.	évtizedek	0	0
+Te megértesz.	Ti me razumeš.	megértesz	0	0
+Tomnak megsérült a jobb térde.	Том је повредио десно колено.	tomnak	0	0
+Apám mindig azt mondta, hogy Isten azoknak segít, akik magukon segítenek.	Moj otac je uvek govorio da Bog pomaže onima koji pomažu sami sebi.	magukon	0	0
+Hol van a tengerpart?	Gde se nalazi plaža?	tengerpart	0	0
+Menj ki, ha dohányozni akarsz!	Изађи напоље ако хоћеш да пушиш!	dohányozni	0	0
+Amennyire ki tudtam venni a szavaiból, azt mondta, hogy nagyon sokat ivott, és nagyon berúgott.	Koliko sam mogao razabrati iz njegovih reči, kaže da mnogo pije, i da je teška pijandura.	berúgott	0	0
+Párizsban havazik.	U Parizu pada sneg.	havazik	0	0
+Drágám, a szekrény poros maradt.	Draga moja, ostao je prašnjav orman.	poros	0	0
+Tatoeba japánul azt jelenti, például.	"Татоеба" на јапанском значи "на пример".	japánul	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	országod	0	0
+- Azt mondta Tomi, hogy látta a jetit, de az megijedt tőle és elszaladt. - A jeti? Tomitól? Nem csodálom! Tomi ijesztően hülye.	- Tom kaže da je video jetija, ali se uplašio od njega i pobegao. - A jeti? Od Toma? Ne čudim se! Tom je strašno glup.	ijesztően	0	0
+Két korsó sört és egy pohár kólát, legyen szíves!	Две кригле пива и једну чашу коле, молим вас!	korsó	0	0
+Mindenkiben ott van a gonoszság, de ugyanúgy ott van a jóság is.	У сваком постоји и зло, али исто тако постоји и добро.	mindenkiben	0	0
+Amikor nincs otthon a macska, táncolnak az egerek.	Kada mačka nije kod kuće, miševi kolo vode.	egerek	0	0
+Mi az Isten haragját csinálsz?	Šta dovraga radiš?	haragját	0	0
+Marinak van egy fehér macskája.	Марија има белу мачку.	macskája	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	amen	0	0
+Az olaszok mindig spagettit esznek.	Italijani uvek jedu špagete.	spagettit	0	0
+Vásároltam egy pár cipőt.	Kupio sam par cipela.	vásároltam	0	0
+Olvasás közben elkalandozom.	Tokom čitanja odlutam.	olvasás	0	0
+Tamás még mindig ugyanaz, mint húsz-harminc éve: kocka Ladával jár, letekert ablak mellett hallgatja a Modern Talkingot - csak hasat eresztett, szemüveget visel és kopaszodik.	Tomaš i dalje isto, kao i pre dvadeset ili trideset godina, vozi se Ladom, sedi pored prozora i sluša Modern Talking - samo što je pustio stomak, nosi naočare i proćelav je.	tamás	0	0
+Ezt igennek veszem.	Схватићу то као да.	igennek	0	0
+A gyerekeknek a szüleiktől két dolgot kellene kapniuk: gyökereket és szárnyakat.	Две ствари деца треба да добију од својих родитеља: корене и крила.	szárnyakat	0	0
+Két macskám van.	Imam dve mačke.	macskám	0	0
+Lázad van.	Imaš temperaturu.	lázad	0	0
+Úszom az óceánban.	Plivam u okeanu.	óceánban	0	0
+Nem tud biciklizni?	Ne zna da vozi bicikl?	biciklizni	0	0
+Álmaidban találkozunk.	Видимо се у твојим сновима.	álmaidban	0	0
+Tiszteld a felnőtteket!	Poštuj odrasle!	tiszteld	0	0
+Hollandia fővárosa Amszterdam.	Glavni grad Holandije je Amsterdam.	fővárosa	0	0
+- Legyél már egy kicsit optimistább! - Aztán meg mi a francnak?	Будите мало оптимистичнији! - И онда шта, дођавола?	francnak	0	0
+Tud zongorázni.	Она зна да свира пианино.	zongorázni	0	0
+Ki látogat meg ma minket?	Ко нас данас посећује?	látogat	0	0
+Maja Keuc szlovén énekesnő.	Maja Keuc je slovenačka pevačica.	maja	0	0
+Tomnak megsérült a jobb térde.	Том је повредио десно колено.	térde	0	0
+Nem akarok most erről vitázni.	Не желим сад о томе да се расправљам.	vitázni	0	0
+100 eurót keresek naponta.	Zarađujem 100 evra dnevno.	eurót	0	0
+Szabotázs!	Саботажа!	szabotázs	0	0
+A legnagyobb ellenfelem az idő.	Време ми је највећи противник.	ellenfelem	0	0
+Ő és én olyan közeli barátok vagyunk, hogy szinte olvasni tudjuk egymás gondolatát.	Он и ја смо тако блиски пријатељи, да скоро можемо да читамо мисли једно другом.	gondolatát	0	0
+Mari font egy pitypangkoszorút és Alíz fejére rakta.	Мари је исплела венац од маслачка и ставила Ализи на главу.	mari	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	szenteltessék	0	0
+Kérem, láthatnám a jogosítványát?	Smem li da vidim Vašu vozačku dozvolu?	jogosítványát	0	0
+Jöjjetek ide!	Dođite ovamo.	jöjjetek	0	0
+Neveletlenség lenne a részedről, megmondani neki az igazat.	Лакомислено је за вас да њему кажете истину.	részedről	0	0
+Szereted a telet?	Да ли волиш зиму?	telet	0	0
+- Azt állítja Tomi, hogy találkozott a nagylábúval, bár én erősen kétlem. - Ne kételkedj! Tavaly a földönkívüliek hívták meg őt teázni.	Том тврди да се сусрео са Јетијем, мада ја јако сумњам. - Не сумњај! Прошле године, ванземаљци су га звали на чајанку.	teázni	0	0
+Szatén ruhába volt öltözve.	Nosila je haljinu od satena.	ruhába	0	0
+Várom az ön válaszát.	Чекам ваш одговор.	válaszát	0	0
+Hetente egyszer úszom.	Plivam jednom nedeljno.	úszom	0	0
+Pisti egész nap egy alsógatyában és egy szakadt pólóban flangált a lakásban.	Steva se ceo dan šećkao po stanu u donjem vešu i pocepanoj majici.	pólóban	0	0
+Megyek a strandra.	Idem na plažu.	strandra	0	0
+Holnap látogass meg!	Посети ме сутра!	látogass	0	0
+Felújítás miatt zárva.	Затворено због реновирања.	felújítás	0	0
+Két kezemen nem tudom megszámolni, hogy hányszor csaptál már be bennünket.	Na dve ruke ne mogu nabrojati, koliko puta smo već bili prevareni.	kezemen	0	0
+A ceruza a könyvön fekszik.	Olovka je na knjizi.	ceruza	0	0
+Sokáig csaptam neki a szelet, de meguntam.	Много сам је мувао, али сморио сам се.	meguntam	0	0
+Ma van az elefántok világnapja.	Данас је Светски дан слонова.	elefántok	0	0
+Iskolánk 80 éves.	Naša škola je stara 80 godina.	iskolánk	0	0
+Ateista vagyok.	Ja sam ateista.	ateista	0	0
+Némely embernek nincs humorérzéke.	Неки људи немају осећај за шалу.	némely	0	0
+Gregor vagyok.	Ja sam Gregor.	gregor	0	0
+Sami pszichiáterhez jár.	Сами иде код психијатра.	pszichiáterhez	0	0
+Nem láttam még ehhez foghatót.	Никад нисам видела ништа слично.	foghatót	0	0
+Mondja csak, miért eteti ön itt ezeket a koszos galambokat kenyérrel, amikor sok embernek nem telik egy falat kenyérre sem?	Recite mi, zašto hranite ove prljave golubove hlebom, kada mnogi ljudi ne mogu sebi da priušte ni parče hleba?	eteti	0	0
+A szoftvert a legújabb verzióra frissítettem.	Ажурирао сам софтвер на најновију верзију.	szoftvert	0	0
+Az én feleségem egy tündéri háziasszony.	Моја супруга је чаробна домаћица.	tündéri	0	0
+Maja Keuc szlovén énekesnő.	Maja Keuc je slovenačka pevačica.	énekesnő	0	0
+Tom vagy öt percig bámulta őket, mert soha nem látott még ilyen csodálatosakat.	Tom je nekih pet minuta gledao u njih, jer još nikada nije video takvu lepotu.	bámulta	0	0
+Csodálom a fiatalos temperamentumát.	Дивим се њеном младалачком темпераменту.	fiatalos	0	0
+Olaszország legszebb városa Firenze.	Firenca je najlepši grad u Italiji.	firenze	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	megbocsátunk	0	0
+Ez is egy módja, de én ezt nem ajánlanám.	То је један од начина, али не бих то препоручила.	ajánlanám	0	0
+A főtt étel nemcsak a testnek, de a léleknek is fontos.	Kuvana hrana, nije samo za telo važna, nego i za dušu.	testnek	0	0
+Az otthon melege igazából nem a kályhától származik.	Топлина дома, заправо не потиче од пећи.	melege	0	0
+Miért látszol ilyen zavartnak?	Zašto izgledaš tako zbunjeno?	zavartnak	0	0
+Elméletben lehetséges, de a gyakorlatban nagyon nehéz.	U teoriji je to moguće, ali je u praksi to jako teško.	gyakorlatban	0	0
+Tom megpróbált felmászni a szivárványon, de csak a feléig jutott.	Tom je pokušao da se popne na dugu, ali samo do polovine je stigao.	felmászni	0	0
+Na, a szomszéd házaspár már megint marja egymást.	Комшијски брачни пар, опет се свађа.	marja	0	0
+Valószínűleg kísértetjárta.	Verovatno je uklet.	kísértetjárta	0	0
+Túl hideg van még, hogy a tengerhez menjünk.	Још је веома хладно путовати на море.	tengerhez	0	0
+Most már el kell menned a fodrászhoz, mert nagyon hosszú a hajad!	Сад већ треба да идеш код фризера, јер ти је много дуга коса.	fodrászhoz	0	0
+Befejezte a középiskolát.	Она је завршила средњу школу.	középiskolát	0	0
+Tom kihívta a rendőrséget.	Tom je pozvao policiju.	kihívta	0	0
+Beleesett az árokba.	Pao je u jarak.	árokba	0	0
+Az emberek hibáznak.	Људи греше.	hibáznak	0	0
+Melyik nyelvet beszéled?	Koji jezik govoriš?	beszéled	0	0
+Sejtelmem sincs, miről beszél.	Nemam pojma o čemu on to priča.	sejtelmem	0	0
+Mindig önmagadat add!	Буди увек оно што јеси!	önmagadat	0	0
+Minőségi élet után vágyok.	Желим после, квалитетан живот.	vágyok	0	0
+A szexualitás is az élet része. Egyes társadalmakban tabutémaként kezelik, másikban meg kultúraként illetve művészetként. Akárhogy is legyen, az egészséges szellemiség része a normális szexuális élet.	Сексуалност, то је део живота. У неким друштвима, третира се као табу, у другим као култура или као уметност. Било како било, нормална сексуалност део је здравог духа.	szexualitás	0	0
+Tomnak szép kertje van.	Tom ima lepu baštu.	kertje	0	0
+Koalíciót kell alakítaniuk, mert egyedül nem fognak tudni kormányozni.	Морамо да формирамо коалицију, јер не можемо сами да владамо.	kormányozni	0	0
+A hasán fekve alszik.	Спава лежећи на стомаку.	hasán	0	0
+Késsel és villával esznek.	Они једу ножем и виљушком.	villával	0	0
+Kétszer mérd le, majd aztán vágd le.	Двапут мери, једном сеци.	mérd	0	0
+Csak a kötelességemet teljesítem.	Само испуњавам своју дужност.	kötelességemet	0	0
+Egy évet vesztegettem az életemből a semmire.	Protraćio sam godinu dana svog života ni na šta.	vesztegettem	0	0
+Ebben a pontban nem tudok veled egyetérteni.	Ја се не могу сагласити са вама о тој тачки.	egyetérteni	0	0
+Nem hinném, hogy ez lenne a legmegfelelőbb alkalom, hogy ezt most megvitassuk.	Ne verujem, da bi bilo najprikladnije vreme, da sada o ovome raspravljamo.	megvitassuk	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	kenyerünket	0	0
+Elmentem pecázni.	Идем да пецам.	pecázni	0	0
+Hol van a fogkrém?	Где је паста за зубе?	fogkrém	0	0
+- Azt mondta Tomi, hogy látta a jetit, de az megijedt tőle és elszaladt. - A jeti? Tomitól? Nem csodálom! Tomi ijesztően hülye.	Том је рекао, да је видео јетија, али се уплашио од њега и побегао. - А јети? Од Тома? Не чудим се! Том је страшно глуп.	jeti	0	0
+Hallom, hogy a szomszéd házaspár már megint veszekszik.	Чујем, да се комшијски брачни пар опет свађа.	veszekszik	0	0
+Olaszország nem Görögország.	Italija nije Grčka.	görögország	0	0
+Kérjük, menet közben ne hajoljon ki az ablakon!	Молимо вас, током вожње не нагињите се кроз прозор.	hajoljon	0	0
+Én nem iszom tömény italt.	Не пијем жестоко пиће.	tömény	0	0
+Eddig még nem kaptam visszajelzést.	Још нисам добио одговор.	visszajelzést	0	0
+Ehhez bátorságra van szükség.	За то је потребна храброст.	bátorságra	0	0
+Ettél fokhagymát?	Јеси ли јео лук?	fokhagymát	0	0
+Az öreg asztalos valami régi bútordarab javításán bíbelődött.	Stari komad nameštaja, starinskog stila, pažljivo je popravljen.	asztalos	0	0
+Nincs senki másom, csak te.	Немам никог другог осим тебе.	másom	0	0
+Minden villámgyorsan játszódott le.	Све се одиграло брзином светлости.	villámgyorsan	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	vétkeinket	0	0
+Pisti egész nap egy alsógatyában és egy szakadt pólóban flangált a lakásban.	Steva se ceo dan šećkao po stanu u donjem vešu i pocepanoj majici.	alsógatyában	0	0
+Mondja csak, miért eteti ön itt ezeket a koszos galambokat kenyérrel, amikor sok embernek nem telik egy falat kenyérre sem?	Реците ми, зашто храните ове прљаве голубове хлебом, када многи људи себи не могу да приуште ни парче хлеба?	kenyérrel	0	0
+Mondja csak, miért eteti ön itt ezeket a koszos galambokat kenyérrel, amikor sok embernek nem telik egy falat kenyérre sem?	Реците ми, зашто храните ове прљаве голубове хлебом, када многи људи себи не могу да приуште ни парче хлеба?	galambokat	0	0
+Tom, ne állj ott, mint egy faszent, ülj le, és vacsorázz velem.	Томе, немојте тамо стојати као свето дрво, седите и вечерајте са мном.	vacsorázz	0	0
+- Azt állítja Tomi, hogy találkozott a nagylábúval, bár én erősen kétlem. - Ne kételkedj! Tavaly a földönkívüliek hívták meg őt teázni.	Том тврди да се сусрео са Јетијем, мада ја јако сумњам. - Не сумњај! Прошле године, ванземаљци су га звали на чајанку.	kételkedj	0	0
+Tom a kerítés melletti tujákat hóember alakúra nyírta meg.	Том је тују поред ограде, ошишао у облику Снешка Белића.	nyírta	0	0
+A siker lassacskán jött, nem hirtelen.	Uspeh je došao polako, ne odjednom.	lassacskán	0	0
+Basszál meg!	Јеби ме.	basszál	0	0
+Tom a kerítés melletti tujákat hóember alakúra nyírta meg.	Tom je tuju pored ograde, ošišao u obliku Sneška Belića.	hóember	0	0
+Szerencsére sikerült találnom egy jó dadát.	Имам добре шансе да успешно нађем добру неговатељицу за бебу.	dadát	0	0
+A közelben van egy buszmegálló.	U blizini se nalazi autobuska stanica.	buszmegálló	0	0
+Elmentem az apám sírjához.	Posetio sam grob moga oca.	sírjához	0	0
+A koboldok alagutat ástak a kastély alá.	Гоблини су ископали тунел испод замка.	ástak	0	0
+Sokáig csaptam neki a szelet, de meguntam.	Много сам је мувао, али сморио сам се.	csaptam	0	0
+Miért viselkedsz gyerekesen?	Зашто се понашаш детињасто?	gyerekesen	0	0
+Tom kijátszotta a legerősebb kártyáját.	Том је одиграо на најјачу карту.	kijátszotta	0	0
+Egy fecske nem csinál nyarat.	Једна ласта не чини лето.	fecske	0	0
+Tomnak kapuzárási pánikja van.	Том има кризу средњих година.	kapuzárási	0	0
+Amíg az ember él, remél.	Све док човек живи, нада се.	remél	0	0
+A miniszoknyák visszatértek a divatba.	Мини сукње су се вратиле у моду.	divatba	0	0
+Két kezemen nem tudom megszámolni, hogy hányszor csaptál már be bennünket.	Na dve ruke ne mogu nabrojati, koliko puta smo već bili prevareni.	megszámolni	0	0
+Meglátjátok, olyan fantasztikus kalandokban lesz majd részünk, amelyekről még álmodni sem mertetek.	Videćete, bićemo deo tako fantastične avanture, o kojoj se još niste ni usudili da sanjate.	amelyekről	0	0
+Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.	Oče naš na nebesima! Da se slavi ime tvoje. Da bude volja tvoja na nebu kao i na zemlji. Hleb nasušni daj nam danas, i oprosti nam grehove naše, kao što i mi opraštamo dužnicima našim. I ne dovodi nas u iskušenje, već izbavi nas iz zloga. Jer carstvo je tvoje, i moć i čast večna. Amen.	miatyánk	0	0
+Ha hihetünk a meteorológiának, akkor hétvégén ragyogó időnk lesz.	Ако можемо да верујемо временској прогнози, онда ћемо за викенд имати прелепо време.	hihetünk	0	0
+Egyiptom a Nílus ajándéka.	Египат је дар Нила.	nílus	0	0
+Ezt nem takarítom fel.	Ја то нећу чистити.	takarítom	0	0

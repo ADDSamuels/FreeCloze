@@ -1,0 +1,629 @@
+Visada taip buvo ir visada taip bus.	È sempre stato così e lo sarà sempre.	ir	0	0
+Aš matau jūsų namą.	Io vedo la vostra casa.	aš	0	0
+Kodėl tu tai padarei?	Perché l'hai fatto?	tai	0	0
+Man atrodo, kad atsakymas paprastas.	A mio parere la risposta è semplice.	kad	0	0
+Ką tu matai?	Cosa vedete?	tu	0	0
+Aš ne naktinė persona.	Io non sono una persona notturna.	ne	0	0
+Jis gydytojas, bet taip pat ir rašytojas.	È un dottore, però è anche uno scrittore.	taip	0	0
+Jis gyvena Kardife.	Lui vive a Cardiff.	jis	0	0
+Ką tu matai?	Cosa vedete?	ką	0	0
+Aš kurį laiką pabusiu čia.	Starò qui per poco.	čia	0	0
+Aš norėčiau nuvažiuoti į Londoną.	Mi piacerebbe andare a Londra.	į	0	0
+Ji turi ne mažiau kaip septynis vaikus.	Ha non meno di sette figli.	kaip	0	0
+Lipdamas iš autobuso jis garsiai pasisveikino su manimi.	Scendendo dall'autobus, mi salutò ad alta voce.	su	0	0
+"Ar jie vėl streikuos?" - "Bijau, kad taip."	"Sciopereranno ancora?" "Temo di sì."	ar	0	0
+Ateitis bus sukurta ne jėga ar troškimu nugalėti, o kantriai taikant demokratijos etodą, vadovaujantis konstruktyvia sutarimo dvasia ir pagarba laisvei.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	o	0	0
+Papasakokite man viską apie tai.	Mi dica tutto a riguardo.	man	0	0
+Ar Tomas žino, kas aš esu?	Tom sa chi sono?	kas	0	0
+Mano tėtis labai gerai vairuoja.	Mio padre guida molto bene.	gerai	0	0
+Ši knyga per didelė, kad tilptų mano kišenėje.	Questo libro è troppo grande per entrare nella mia tasca.	mano	0	0
+Tikėjotės, kad aš jūsų nenuvilsiu, bet, deja, nesugebėjau nieko padaryti.	Voi speravate che non vi avrei deluso, ma, ahimè, non sono riuscito a fare niente.	bet	0	0
+Lipdamas iš autobuso jis garsiai pasisveikino su manimi.	Scendendo dall'autobus, mi salutò ad alta voce.	iš	0	0
+Mes atvykome truputį pavėlavę.	Siamo arrivati ​​un po' in ritardo.	mes	0	0
+Neturėjau kito pasirinkimo, kaip tik taip pasielgti.	Non avevo altra scelta se non farlo.	tik	0	0
+Aš tiek daug norėčiau tau pasakyti.	Ci sono tante cose che voglio dirti.	tau	0	0
+Ji pasižiūrėjo į veidrodį.	Si è guardata allo specchio.	ji	0	0
+Tomas yra ypatingas.	Tom è speciale.	yra	0	0
+Jei to nebūtum padaręs tu, tą būtų padaręs kas nors kitas.	Se non l'avessi fatto tu, l'avrebbe fatto qualcun altro.	jei	0	0
+"Ar jie vėl streikuos?" - "Bijau, kad taip."	"Sciopereranno ancora?" "Temo di sì."	jie	0	0
+Tavo vietoje būčiau padariusi tą patį.	Se fossi al tuo posto, farei altrettanto.	tavo	0	0
+Praeitais metais buvo didelis persikų derlius.	C'è stato un grande raccolto di pesche l'anno scorso.	buvo	0	0
+Jis paėmė veidrodį ir pasižiūrėjo į savo liežuvį.	Prese uno specchio e si guardò la lingua.	savo	0	0
+''Kur Laura?'' ''Ji virtuvėje.''	"Dov'è Laurie?" "È in cucina."	kur	0	0
+Atsiprašau, kad jus pertraukiu, bet turiu kai ką pasakyti.	Mi dispiace interromperti, ma ho bisogno di dire una cosa.	kai	0	0
+Darbas dar nebaigtas.	Il lavoro non è ancora finito.	dar	0	0
+Ar matai mane?	Mi vede?	mane	0	0
+Ką jūs žinote apie Vokietijos Demokratinę Respubliką?	Cosa sapete sulla Repubblica Democratica Tedesca?	jūs	0	0
+Ar dabar jautiesi geriau?	Va meglio ora?	dabar	0	0
+Papasakokite man viską apie tai.	Mi dica tutto a riguardo.	apie	0	0
+Štai ir viskas.	È così.	viskas	0	0
+Tomas sulankstė laišką ir įdėjo jį į voką.	Tom piegò la lettera e la mise nella busta.	jį	0	0
+Mes tave atpažinome.	Ti abbiamo riconosciuto.	tave	0	0
+Man jau pradeda trūkti kantrybė.	Sto iniziando a perdere la pazienza.	jau	0	0
+Labai tavęs ilgiuosi.	Mi manchi tanto.	labai	0	0
+Ar esi tikras, kad nenori to padaryti?	Sei sicuro di non volerlo fare?	to	0	0
+Aš busiu ten penktą.	Sarò lì alle cinque.	ten	0	0
+Ar sumokėjai už knygą?	Avete pagato il libro?	už	0	0
+Tomas turi geltoną sportinį automobilį.	Tom possiede una macchina sportiva gialla.	turi	0	0
+Kodėl tu tai padarei?	Perché l'hai fatto?	kodėl	0	0
+Po to stalų yra mažas rudas šuniukas.	C'è un cagnolino marrone sotto quel tavolo.	po	0	0
+Tikėjotės, kad aš jūsų nenuvilsiu, bet, deja, nesugebėjau nieko padaryti.	Voi speravate che non vi avrei deluso, ma, ahimè, non sono riuscito a fare niente.	nieko	0	0
+Tomas nebuvo apkaltintas dėl jokio nusikaltimo.	Tom non è stato accusato di alcun crimine.	dėl	0	0
+Ateik mūsų aplankyti! Laukiam tavęs!	Vieni a trovarci! Ti aspettiamo!	mūsų	0	0
+Ši knyga per didelė, kad tilptų mano kišenėje.	Questo libro è troppo grande per entrare nella mia tasca.	per	0	0
+Jei to nebūtum padaręs tu, tą būtų padaręs kas nors kitas.	Se non l'avessi fatto tu, l'avrebbe fatto qualcun altro.	nors	0	0
+Pelėdos gali matyti tamsoje.	I gufi riescono a vedere al buio.	gali	0	0
+Aš matau jūsų namą.	Io vedo la vostra casa.	jūsų	0	0
+Ar tikrai nenori to daryti?	Sei sicuro di non volerlo fare?	tikrai	0	0
+Jis nori skaityti knygą.	Lui vuole leggere un libro.	nori	0	0
+"Ko tu norėtum?" "Norėčiau šuns."	"Cosa vorresti?" "Vorrei un cane."	ko	0	0
+Uranas - septintoji planeta nuo Saulės.	Urano è il settimo pianeta a partire dal Sole.	nuo	0	0
+Atsiprašau, kad jus pertraukiu, bet turiu kai ką pasakyti.	Mi dispiace interromperti, ma ho bisogno di dire una cosa.	turiu	0	0
+Ateitis bus sukurta ne jėga ar troškimu nugalėti, o kantriai taikant demokratijos etodą, vadovaujantis konstruktyvia sutarimo dvasia ir pagarba laisvei.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	bus	0	0
+Tomas paklausė Marijos, kokia buvo jos pavardė.	Tom chiese a Mary quale fosse il suo cognome.	jos	0	0
+Štai mano numeris.	Ecco il mio numero.	štai	0	0
+Jis gyvena greta manęs.	Lui vive accanto a me.	manęs	0	0
+Jis dvigubai už ją vyresnis.	Ha il doppio della sua età.	ją	0	0
+Negaliu būti tikra.	Io non posso essere sicura.	būti	0	0
+Mums teks sulaukti Tomo atsakymo.	Noi dovremo aspettare la risposta di Tom.	mums	0	0
+Ar jums skauda pilvą?	Ha il mal di stomaco?	jums	0	0
+Paskubėk, nes pavėluosi į savo lėktuvą.	Sbrigati, o perderai il tuo aereo.	nes	0	0
+Visi svajoja aplankyti Paryžių.	Tutti sognano di visitare Parigi.	visi	0	0
+Aš noriu šuns.	Voglio un cane.	noriu	0	0
+Kiek ilgai Jūs esate Čekoslovakijoje, pone Reindl?	Da quanto tempo siete in Cecoslovacchia, signor Reindl?	pone	0	0
+Labai tavęs ilgiuosi.	Mi manchi tanto.	tavęs	0	0
+Tavo vietoje būčiau padaręs tą patį.	Se fossi al tuo posto, farei altrettanto.	tą	0	0
+Kitokio paaiškinimo nėra!	Non c'è altra spiegazione!	nėra	0	0
+Ar tu moki sukti krepšinio kamuolį ant piršto?	Riesci a far girare una palla da basket sulla punta del dito?	ant	0	0
+Mes valgome daug maisto rūšių.	Noi mangiamo molti tipi di cibo.	daug	0	0
+Papasakok man viską apie tai.	Mi dica tutto a riguardo.	viską	0	0
+Turiu darbo iki kaklo.	Io ne ho fino al collo con il lavoro.	iki	0	0
+Labas rytas.	Buongiorno.	labas	0	0
+Suskaičiuojama daugiau nei trys šimtai septyniasdešimt ryklių rūšių, ir tik kelios jų yra pavojingos žmonėms.	Esistono più di 370 specie di squali e solamente pochissime sono pericolose per l'uomo.	jų	0	0
+Perduok man cukraus, prašau.	Passi lo zucchero, per piacere.	prašau	0	0
+Aš tai padariau ne vienas.	Non ho fatto questo da solo.	vienas	0	0
+Daugiau nebenoriu.	Non voglio più.	daugiau	0	0
+Aš galiu tai padaryti pats.	Riesco a farla da solo.	galiu	0	0
+Atsiprašau, kad jus pertraukiu, bet turiu kai ką pasakyti.	Mi dispiace interromperti, ma ho bisogno di dire una cosa.	jus	0	0
+Aš negaliu nupiešti paukščio.	Io non riesco a disegnare un uccello.	negaliu	0	0
+Aš tiek daug norėčiau tau pasakyti.	Ci sono tante cose che voglio dirti.	tiek	0	0
+Jis gydytojas, bet taip pat ir rašytojas.	È un dottore, però è anche uno scrittore.	pat	0	0
+Gyvenimas žlugęs be tavęs.	La vita è una rovina senza di te.	be	0	0
+Kiek kartu per dieną tu pažvelgi į veidrodį?	Quante volte al giorno ti guardi allo specchio?	kiek	0	0
+Suskaičiuojama daugiau nei trys šimtai septyniasdešimt ryklių rūšių, ir tik kelios jų yra pavojingos žmonėms.	Esistono più di 370 specie di squali e solamente pochissime sono pericolose per l'uomo.	nei	0	0
+Aš esu namų šeimininkė.	Io sono una casalinga.	esu	0	0
+Aš galiu tai padaryti pats.	Riesco a farla da solo.	pats	0	0
+Jei to nebūtum padaręs tu, tą būtų padaręs kas nors kitas.	Se non l'avessi fatto tu, l'avrebbe fatto qualcun altro.	būtų	0	0
+Ar esi alergiškas vaistams?	Sei allergico alle medicine?	esi	0	0
+Kodėl niekada neatsakai?	Perché non rispondi mai?	niekada	0	0
+Bet ar tai tiesa, kad jis norėjo važiuoti į Vokietiją?	Ma è vero che voleva andare in Germania?	tiesa	0	0
+Aš tiek daug norėčiau tau pasakyti.	Ci sono tante cose che voglio dirti.	pasakyti	0	0
+Ar dabar jautiesi geriau?	Va meglio ora?	geriau	0	0
+Padėjau jai užsidėti suknelę.	L'ho aiutata a mettersi un vestito.	jai	0	0
+Prisiekiu, kad vieną dieną aš pakeisiu pasaulį.	Lo giuro, un giorno cambierò il mondo.	vieną	0	0
+Šiandien tokia liūdna diena.	Oggi è un giorno così triste.	šiandien	0	0
+Atsiprašau, kad jus pertraukiu, bet turiu kai ką pasakyti.	Mi dispiace interromperti, ma ho bisogno di dire una cosa.	atsiprašau	0	0
+Turime pasiųsti šias kiaules į skerdyklą.	Dobbiamo spedire questi maiali al macello.	turime	0	0
+Man atrodo, kad atsakymas paprastas.	A mio parere la risposta è semplice.	atrodo	0	0
+Negali skaityti šio romano neverkdamas.	Non puoi leggere questo romanzo senza piangere.	negali	0	0
+Aš irgi tuo tikiuosi!	Anche io lo spero!	tuo	0	0
+Džudė praleidžia daug laiko besižiūrėdama į veidrodį.	Judy passa molto tempo a guardarsi allo specchio.	laiko	0	0
+"Ar jie vėl streikuos?" - "Bijau, kad taip."	"Sciopereranno ancora?" "Temo di sì."	vėl	0	0
+Aš skaičiau šį straipsnį vakar.	Io ho letto questo articolo ieri.	šį	0	0
+Kiek kartu per dieną tu pažvelgi į veidrodį?	Quante volte al giorno ti guardi allo specchio?	kartu	0	0
+Visada taip buvo ir visada taip bus.	È sempre stato così e lo sarà sempre.	visada	0	0
+Tomui nepavyko rasti Merės namo.	Tom non riusciva a trovare la casa di Mary.	namo	0	0
+Joks žmogus negali išgyventi iki dviejų šimtų.	Nessuno può vivere duecento anni.	žmogus	0	0
+Tikėjotės, kad aš jūsų nenuvilsiu, bet, deja, nesugebėjau nieko padaryti.	Voi speravate che non vi avrei deluso, ma, ahimè, non sono riuscito a fare niente.	padaryti	0	0
+Aš irgi tuo tikiuosi!	Anche io lo spero!	irgi	0	0
+Nenoriu atsakyti.	Non voglio rispondere.	nenoriu	0	0
+Tomas paklausė Marijos, kokia buvo jos pavardė.	Tom chiese a Mary quale fosse il suo cognome.	kokia	0	0
+Šiandien tokia liūdna diena.	Oggi è un giorno così triste.	tokia	0	0
+Ar tikrai nenori to daryti?	Sei sicuro di non volerlo fare?	daryti	0	0
+Aš tai padariau ne viena.	Non ho fatto questo da sola.	viena	0	0
+Jis turtingesnis už bet ką kitą šiame mieste.	Lui, in questa città, è più ricco di chiunque altro.	kitą	0	0
+Kiek kartu per dieną tu pažvelgi į veidrodį?	Quante volte al giorno ti guardi allo specchio?	dieną	0	0
+Jie kaulyja iš tėvų pinigų.	Importunano i loro genitori per soldi.	pinigų	0	0
+Myliu tave iš visos širdies.	Ti amo con tutto il mio cuore.	myliu	0	0
+Tomas man pasakė, kad galima išsinuomoti dviratį.	Tom mi ha detto che era possibile noleggiare una bicicletta.	galima	0	0
+Negaliu diskutuoti su tavimi apie tai.	Non riesco a discuterne con te.	tavimi	0	0
+Lipdamas iš autobuso jis garsiai pasisveikino su manimi.	Scendendo dall'autobus, mi salutò ad alta voce.	manimi	0	0
+Negaliu būti tikras.	Io non posso essere sicura.	tikras	0	0
+Tomas nebuvo apkaltintas dėl jokio nusikaltimo.	Tom non è stato accusato di alcun crimine.	nebuvo	0	0
+Aš tiek daug norėčiau tau pasakyti.	Ci sono tante cose che voglio dirti.	norėčiau	0	0
+Aš kurį laiką pabusiu čia.	Starò qui per poco.	kurį	0	0
+Mano tėvas paliko man didelį palikimą.	Mio padre mi lasciò una grande eredità.	tėvas	0	0
+Aš noriu žinoti, ką tu dabar matai.	Voglio sapere cosa vedi adesso.	matai	0	0
+Deja, aš ne labai gerai suprantu angliškai.	Mi dispiace, non capisco bene l'inglese.	suprantu	0	0
+Šiandien tokia liūdna diena.	Oggi è un giorno così triste.	diena	0	0
+Mano vardas Marina.	Mi chiamo Marina.	vardas	0	0
+Turiu darbo iki kaklo.	Io ne ho fino al collo con il lavoro.	darbo	0	0
+Telefonas šiuo metu neveikia.	Il telefono ora è fuori servizio.	metu	0	0
+Paukščiai neturi dantų.	Gli uccelli non hanno denti.	neturi	0	0
+Aš pagaliau radau darbą.	Ho finalmente trovato un lavoro.	darbą	0	0
+Aš irgi tuo tikiuosi!	Anche io lo spero!	tikiuosi	0	0
+Ateik mūsų aplankyti! Laukiam tavęs!	Vieni a trovarci! Ti aspettiamo!	ateik	0	0
+Jis mano, kad žino viską.	Crede di sapere tutto.	žino	0	0
+Aš galiu tai padaryti pati.	Riesco a farla da solo.	pati	0	0
+Aš kurį laiką pabusiu čia.	Starò qui per poco.	laiką	0	0
+Aš matau jūsų namą.	Io vedo la vostra casa.	matau	0	0
+Mano tėtis labai gerai vairuoja.	Mio padre guida molto bene.	tėtis	0	0
+Ši knyga per didelė, kad tilptų mano kišenėje.	Questo libro è troppo grande per entrare nella mia tasca.	ši	0	0
+Kambarys bus nudažytas rytoj.	La stanza sarà dipinta domani.	rytoj	0	0
+Jie kaulyja pinigus iš tėvų.	Importunano i loro genitori per soldi.	pinigus	0	0
+Jie praleido naktį kartu.	Hanno passato la notte insieme.	naktį	0	0
+Tomas man pasakė, kad galima išsinuomoti dviratį.	Tom mi ha detto che era possibile noleggiare una bicicletta.	pasakė	0	0
+Negi taip sunku suprasti?	È così difficile da capire?	sunku	0	0
+Aš noriu žinoti, ką tu dabar matai.	Voglio sapere cosa vedi adesso.	žinoti	0	0
+Mes atvykome truputį pavėlavę.	Siamo arrivati ​​un po' in ritardo.	truputį	0	0
+Darbas dar nebaigtas.	Il lavoro non è ancora finito.	darbas	0	0
+Tomas tikriausiai laukia.	Tom probabilmente sta aspettando.	tikriausiai	0	0
+Aš taip ilgai to laukiau.	Lo aspettavo da tanto.	ilgai	0	0
+Suskaičiuojama daugiau nei trys šimtai septyniasdešimt ryklių rūšių, ir tik kelios jų yra pavojingos žmonėms.	Esistono più di 370 specie di squali e solamente pochissime sono pericolose per l'uomo.	trys	0	0
+Paplūdimys yra ideali vieta vaikams žaisti.	La spiaggia è un luogo ideale per far giocare i bambini.	vieta	0	0
+Vaikai miega.	Le bambine stanno dormendo.	vaikai	0	0
+Aš skaičiau šį straipsnį vakar.	Io ho letto questo articolo ieri.	vakar	0	0
+Ji yra mano žmona.	È mia moglie.	žmona	0	0
+Tomas taip pat kalba prancūziškai.	Anche Tom sa parlare in francese.	kalba	0	0
+Kalbėk itališkai! Aš nesuprantu vokiškai.	Parla italiano! io non capisco il tedesco.	nesuprantu	0	0
+Jei to nebūtum padaręs tu, tą būtų padaręs kas nors kitas.	Se non l'avessi fatto tu, l'avrebbe fatto qualcun altro.	kitas	0	0
+Pelėdos gali matyti tamsoje.	I gufi riescono a vedere al buio.	matyti	0	0
+Negaliu būti tikra.	Io non posso essere sicura.	tikra	0	0
+Ar esi tikras, kad nenori to padaryti?	Sei sicuro di non volerlo fare?	nenori	0	0
+Tu per daug kalbi.	Parli troppo.	kalbi	0	0
+Negali skaityti šio romano neverkdamas.	Non puoi leggere questo romanzo senza piangere.	šio	0	0
+Tavo vietoje būčiau padaręs tą patį.	Se fossi al tuo posto, farei altrettanto.	būčiau	0	0
+Tomas ir Merė abu yra dėstytojai.	Tom e Marie sono entrambi degli insegnanti.	abu	0	0
+Būk atsargus, ką kalbi!	Stai attento a quello che dici!	būk	0	0
+Gyvenimas žlugęs be tavęs.	La vita è una rovina senza di te.	gyvenimas	0	0
+Deja, esi teisus.	Purtroppo hai ragione.	teisus	0	0
+Jis padarė svarbų atradimą.	Lui ha fatto un'importante scoperta.	padarė	0	0
+Tomas tikriausiai laukia.	Tom probabilmente sta aspettando.	laukia	0	0
+Kodėl tu tai padarei?	Perché l'hai fatto?	padarei	0	0
+Ką jūs žinote apie Vokietijos Demokratinę Respubliką?	Cosa sapete sulla Repubblica Democratica Tedesca?	žinote	0	0
+Labas rytas.	Buongiorno.	rytas	0	0
+Myliu tave iš visos širdies.	Ti amo con tutto il mio cuore.	visos	0	0
+Kas galėtų man pasakyti, kas aš esu?	Chi mi sa dire chi sono?	galėtų	0	0
+Neturėjau kito pasirinkimo, kaip tik taip pasielgti.	Non avevo altra scelta se non farlo.	kito	0	0
+Mes esame šeima.	Noi siamo una famiglia.	šeima	0	0
+Aš nekenčiu pasaulio, nes pasaulis nekenčia manęs.	Io odio il mondo perché il mondo odia me.	pasaulio	0	0
+Mes esame šeima.	Noi siamo una famiglia.	esame	0	0
+Ar tu pasitiki šiuo pranešimu?	È sicuro di quel rapporto?	šiuo	0	0
+Aš esu namų šeimininkė.	Io sono una casalinga.	namų	0	0
+Tomas nemokėjo gerai kalbėti prancūziškai.	Tom non riusciva a parlare bene in francese.	kalbėti	0	0
+Kiek ilgai Jūs esate Čekoslovakijoje, pone Reindl?	Da quanto tempo siete in Cecoslovacchia, signor Reindl?	esate	0	0
+Vasara pagaliau atėjo.	L'estate è arrivata, alla fine.	pagaliau	0	0
+Tomas nebuvo apkaltintas dėl jokio nusikaltimo.	Tom non è stato accusato di alcun crimine.	jokio	0	0
+Aš pagaliau radau darbą.	Ho finalmente trovato un lavoro.	radau	0	0
+Bet ar tai tiesa, kad jis norėjo važiuoti į Vokietiją?	Ma è vero che voleva andare in Germania?	norėjo	0	0
+Žmogaus kaukolę sudaro 23 kaulai.	Il cranio umano consiste di 23 ossa.	žmogaus	0	0
+Vasara pagaliau atėjo.	L'estate è arrivata, alla fine.	atėjo	0	0
+Įeidami į namus japonai nusiauna batus.	I giapponesi si tolgono le scarpe quando entrano in una casa.	namus	0	0
+Sąskaitą, prašom.	Il conto, per piacere.	prašom	0	0
+Gyvenime yra prioritetai.	Nella vita ci sono delle priorità!	gyvenime	0	0
+Aš tai padariau ne viena.	Non ho fatto questo da sola.	padariau	0	0
+Aš patenkinu savo šeimos poreikius.	Io soddisfo i bisogni della mia famiglia.	šeimos	0	0
+Mums teks sulaukti Tomo atsakymo.	Noi dovremo aspettare la risposta di Tom.	teks	0	0
+Tomui nepavyko rasti Merės namo.	Tom non riusciva a trovare la casa di Mary.	rasti	0	0
+Negi taip sunku suprasti?	È così difficile da capire?	negi	0	0
+Tavo vietoje būčiau padariusi tą patį.	Se fossi al tuo posto, farei altrettanto.	vietoje	0	0
+Duokite man raktą, ir aš atversiu pasaulį.	Datemi una chiave e aprirò l'universo.	pasaulį	0	0
+Ji motina rašo laišką.	Sua madre sta scrivendo una lettera.	motina	0	0
+Jis gyvena Kardife.	Lui vive a Cardiff.	gyvena	0	0
+Negi taip sunku suprasti?	È così difficile da capire?	suprasti	0	0
+Praeitais metais buvo didelis persikų derlius.	C'è stato un grande raccolto di pesche l'anno scorso.	didelis	0	0
+Po to stalų yra mažas rudas šuniukas.	C'è un cagnolino marrone sotto quel tavolo.	mažas	0	0
+Pačiame miesto centre įsiliepsnojo gaisras.	È scoppiato un incendio nel cuore della città.	miesto	0	0
+Jis turtingesnis už bet ką kitą šiame mieste.	Lui, in questa città, è più ricco di chiunque altro.	šiame	0	0
+"Ar jie vėl streikuos?" - "Bijau, kad taip."	"Sciopereranno ancora?" "Temo di sì."	bijau	0	0
+Aš nekenčiu pasaulio, nes pasaulis nekenčia manęs.	Io odio il mondo perché il mondo odia me.	pasaulis	0	0
+Mano tėvo automobilis pagamintas Italijoje.	L'automobile di mio padre è prodotta in Italia.	tėvo	0	0
+Neįmanoma sustabdyti pažangos.	Non puoi fermare il progresso.	neįmanoma	0	0
+Ji turi ne mažiau kaip septynis vaikus.	Ha non meno di sette figli.	vaikus	0	0
+Tu eini ar ne?	Vieni o no?	eini	0	0
+Joks žmogus negali išgyventi iki dviejų šimtų.	Nessuno può vivere duecento anni.	dviejų	0	0
+Nenorėjau užgauti tavo jausmų.	Non volevo ferire i suoi sentimenti.	nenorėjau	0	0
+Mes valgome daug maisto rūšių.	Noi mangiamo molti tipi di cibo.	maisto	0	0
+Tai nebuvo mano klausimas.	Non era quella la mia domanda.	klausimas	0	0
+"Ko tu norėtum?" "Norėčiau šuns."	"Cosa vorresti?" "Vorrei un cane."	norėtum	0	0
+Ji turi ne mažiau kaip septynis vaikus.	Ha non meno di sette figli.	mažiau	0	0
+Išgirdau jį lipantį laiptais žemyn.	L'ho sentito scendere le scale.	žemyn	0	0
+Tavo vietoje būčiau padaręs tą patį.	Se fossi al tuo posto, farei altrettanto.	patį	0	0
+Prisiekiu, kad vieną dieną aš pakeisiu pasaulį.	Lo giuro, un giorno cambierò il mondo.	prisiekiu	0	0
+Mano tėvas paliko man didelį palikimą.	Mio padre mi lasciò una grande eredità.	paliko	0	0
+Ar jums skauda pilvą?	Ha il mal di stomaco?	skauda	0	0
+Suskaičiuojama daugiau nei trys šimtai septyniasdešimt ryklių rūšių, ir tik kelios jų yra pavojingos žmonėms.	Esistono più di 370 specie di squali e solamente pochissime sono pericolose per l'uomo.	žmonėms	0	0
+Aš matau jūsų namą.	Io vedo la vostra casa.	namą	0	0
+Aš dirbu mokytoju.	Io lavoro come insegnante.	dirbu	0	0
+Jis turtingesnis už bet ką kitą šiame mieste.	Lui, in questa città, è più ricco di chiunque altro.	mieste	0	0
+Bet ar tai tiesa, kad jis norėjo važiuoti į Vokietiją?	Ma è vero che voleva andare in Germania?	važiuoti	0	0
+Aš nekenčiu advokatų.	Io odio gli avvocati.	nekenčiu	0	0
+Šioje apylinkėje yra daug paliktų namų.	Ci sono molte case abbandonate nel quartiere.	šioje	0	0
+Žmogus žiūri į veidrodį, o veidrodis žiūri į jį.	L'uomo guarda nello specchio, lo specchio guarda dentro di lui.	žiūri	0	0
+Mano sesuo dažnai rūpinasi kūdikiu.	Mia sorella si prende sovente cura del bambino.	dažnai	0	0
+Ji man davė porą gerų patarimų.	Lei mi ha dato qualche buon consiglio.	davė	0	0
+Ar dabar jautiesi geriau?	Va meglio ora?	jautiesi	0	0
+Praėjusiais metais aš žaidžiau krepšinį.	Giocavo a basket l'anno scorso.	metais	0	0
+Ką šiąnakt veiksime?	Stasera cosa facciamo?	šiąnakt	0	0
+Aš turiu gerą žodyną.	Io ho un buon dizionario.	gerą	0	0
+Tai bus lengva.	Questo sarà facile.	lengva	0	0
+Sunku būti niekuo.	È difficile essere nessuno.	niekuo	0	0
+Štai namas, kuriame jis gimė.	Questa è la casa in cui è nato.	namas	0	0
+Ateitis bus sukurta ne jėga ar troškimu nugalėti, o kantriai taikant demokratijos etodą, vadovaujantis konstruktyvia sutarimo dvasia ir pagarba laisvei.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	jėga	0	0
+Deja, esi teisi.	Purtroppo hai ragione.	teisi	0	0
+Tikėjotės, kad aš jūsų nenuvilsiu, bet, deja, nesugebėjau nieko padaryti.	Voi speravate che non vi avrei deluso, ma, ahimè, non sono riuscito a fare niente.	deja	0	0
+Kieno ši pica?	Di chi è questa pizza?	kieno	0	0
+Štai mano numeris.	Ecco il mio numero.	numeris	0	0
+Netrukus jis susipažino su kitais Erasmus studentais.	Ha presto conosciuto altri studenti Erasmus.	netrukus	0	0
+AŠ sutinku su šia nuomone.	Concordo con quella opinione.	sutinku	0	0
+Ji man davė porą gerų patarimų.	Lei mi ha dato qualche buon consiglio.	porą	0	0
+Paskubėk, nes pavėluosi į savo lėktuvą.	Sbrigati, o perderai il tuo aereo.	paskubėk	0	0
+Myliu tave iš visos širdies.	Ti amo con tutto il mio cuore.	širdies	0	0
+Ši knyga per didelė, kad tilptų mano kišenėje.	Questo libro è troppo grande per entrare nella mia tasca.	didelė	0	0
+Jis gerai moka naudotis kompiuteriu.	Lui sa bene come utilizzare un computer.	moka	0	0
+Mirtis kolonializmui!	Morte al colonialismo!	mirtis	0	0
+Didžiausias Pietų Amerikos ežeras - Titikaka randasi Peru.	Il lago più grande dell'America del Sud, il Titicaca, si trova in Perù.	pietų	0	0
+Ar sumokėjai už knygą?	Avete pagato il libro?	knygą	0	0
+Didžiausias Pietų Amerikos ežeras - Titikaka randasi Peru.	Il lago più grande dell'America del Sud, il Titicaca, si trova in Perù.	amerikos	0	0
+Mano sesuo dažnai rūpinasi kūdikiu.	Mia sorella si prende sovente cura del bambino.	sesuo	0	0
+Hitomi atrodė labai laiminga.	Hitomi sembrava molto felice.	atrodė	0	0
+Ką jūs matote?	Cosa vedete?	matote	0	0
+Paplūdimys yra ideali vieta vaikams žaisti.	La spiaggia è un luogo ideale per far giocare i bambini.	žaisti	0	0
+Papasakok man viską apie tai.	Mi dica tutto a riguardo.	papasakok	0	0
+Tomas negalėjo nustoti verkti.	Tom non riusciva a smettere di piangere.	negalėjo	0	0
+Neįmanoma sustabdyti pažangos.	Non puoi fermare il progresso.	sustabdyti	0	0
+Kambarys bus nudažytas rytoj.	La stanza sarà dipinta domani.	kambarys	0	0
+Hitomi atrodė labai laiminga.	Hitomi sembrava molto felice.	laiminga	0	0
+Roma - miestas, kurį vertą aplankyti.	Roma è una città che vale la pena visitare.	miestas	0	0
+Kalbėk itališkai! Aš nesuprantu vokiškai.	Parla italiano! io non capisco il tedesco.	kalbėk	0	0
+Akys yra sielos veidrodis.	Gli occhi sono lo specchio dell'anima.	akys	0	0
+Mano kaimynė gavo anoniminį laišką.	La mia vicina ha ricevuto lettere anonime.	gavo	0	0
+Ši knyga per didelė, kad tilptų mano kišenėje.	Questo libro è troppo grande per entrare nella mia tasca.	knyga	0	0
+Mano tėvas keliasi anksti.	Mio padre si alza presto.	anksti	0	0
+Neturėjau kito pasirinkimo, kaip tik taip pasielgti.	Non avevo altra scelta se non farlo.	neturėjau	0	0
+Telefonas šiuo metu neveikia.	Il telefono ora è fuori servizio.	telefonas	0	0
+Ar tu rytoj laisvas?	Siete libere domani?	laisvas	0	0
+Ar tu moki sukti krepšinio kamuolį ant piršto?	Riesci a far girare una palla da basket sulla punta del dito?	moki	0	0
+Ir aš mėgstu muziką.	Anche io amo la musica.	mėgstu	0	0
+Neliesk šitų.	Non tocchi quelli.	neliesk	0	0
+Nusprendžiau studijuoti užsienyje.	Ho deciso di studiare all'estero.	nusprendžiau	0	0
+Štai namas, kuriame jis gimė.	Questa è la casa in cui è nato.	kuriame	0	0
+Vaikai miega.	Le bambine stanno dormendo.	miega	0	0
+Veidrodis atspindi šviesą.	Uno specchio riflette la luce.	šviesą	0	0
+Tomas nebuvo apkaltintas dėl jokio nusikaltimo.	Tom non è stato accusato di alcun crimine.	tomas	0	0
+Paplūdimys yra ideali vieta vaikams žaisti.	La spiaggia è un luogo ideale per far giocare i bambini.	vaikams	0	0
+Tomas turi geltoną sportinį automobilį.	Tom possiede una macchina sportiva gialla.	automobilį	0	0
+Jis paėmė veidrodį ir pasižiūrėjo į savo liežuvį.	Prese uno specchio e si guardò la lingua.	paėmė	0	0
+Tomas mėgsta keptus viščiukus.	Tom ama il pollo fritto.	mėgsta	0	0
+Man atrodo, kad atsakymas paprastas.	A mio parere la risposta è semplice.	atsakymas	0	0
+Netrukus jis susipažino su kitais Erasmus studentais.	Ha presto conosciuto altri studenti Erasmus.	kitais	0	0
+AŠ sutinku su šia nuomone.	Concordo con quella opinione.	šia	0	0
+Mano kaimynė gavo anoniminį laišką.	La mia vicina ha ricevuto lettere anonime.	laišką	0	0
+Telefonas šiuo metu neveikia.	Il telefono ora è fuori servizio.	neveikia	0	0
+Aš nemoku anglų kalbos.	Io non so l'inglese.	kalbos	0	0
+Tomas ir Merė išliko gyvi.	Tom e Mary sono sopravvissuti.	gyvi	0	0
+Ji bijo šunų.	Lei ha paura dei cani.	bijo	0	0
+Daugelis muziejų pirmadieniais nedirba.	Molti musei sono chiusi al lunedì.	daugelis	0	0
+Situacija ten buvo kritinė.	La situazione lì era critica.	situacija	0	0
+Uranas - septintoji planeta nuo Saulės.	Urano è il settimo pianeta a partire dal Sole.	saulės	0	0
+Ji man davė porą gerų patarimų.	Lei mi ha dato qualche buon consiglio.	gerų	0	0
+Jis nusprendė nedalyvauti prezidento rinkimuose.	Ha scelto di non presentarsi alle elezioni presidenziali.	nusprendė	0	0
+Turime pasiųsti šias kiaules į skerdyklą.	Dobbiamo spedire questi maiali al macello.	šias	0	0
+Man jau pradeda trūkti kantrybė.	Sto iniziando a perdere la pazienza.	pradeda	0	0
+Brangūs broliai ir seserys!	Cari fratelli e sorelle!	broliai	0	0
+Man atrodo, kad atsakymas paprastas.	A mio parere la risposta è semplice.	paprastas	0	0
+Neturėjau kito pasirinkimo, kaip tik taip pasielgti.	Non avevo altra scelta se non farlo.	pasirinkimo	0	0
+Būk atsargus, ką kalbi!	Stai attento a quello che dici!	atsargus	0	0
+Tomui nepavyko rasti Merės namo.	Tom non riusciva a trovare la casa di Mary.	nepavyko	0	0
+Paskubėk, nes pavėluosi į savo lėktuvą.	Sbrigati, o perderai il tuo aereo.	lėktuvą	0	0
+Aš taip ilgai to laukiau.	Lo aspettavo da tanto.	laukiau	0	0
+Mano tėvas paliko man didelį palikimą.	Mio padre mi lasciò una grande eredità.	didelį	0	0
+Šiandien tokia liūdna diena.	Oggi è un giorno così triste.	liūdna	0	0
+Nenoriu atsakyti.	Non voglio rispondere.	atsakyti	0	0
+Pačiame miesto centre įsiliepsnojo gaisras.	È scoppiato un incendio nel cuore della città.	centre	0	0
+Kas per šalis!	Che paese!	šalis	0	0
+Ji elgiasi paslaptingai.	Si comporta misteriosamente.	elgiasi	0	0
+Dievinu picą.	Adoro la pizza.	dievinu	0	0
+Jis nežinojo, kad "Romeo ir Džuljetą" parašė Šekspyras.	Non sapeva che Shakespeare avesse scritto Romeo e Giulietta.	parašė	0	0
+Jis girtas.	È ubriaco.	girtas	0	0
+Jie kaulyja pinigus iš tėvų.	Importunano i loro genitori per soldi.	tėvų	0	0
+Jis nori skaityti knygą.	Lui vuole leggere un libro.	skaityti	0	0
+Perduok man cukraus, prašau.	Passi lo zucchero, per piacere.	perduok	0	0
+Ar tu nusidažei plaukus?	Ti sei tinta i capelli?	plaukus	0	0
+Štai namas, kuriame jis gimė.	Questa è la casa in cui è nato.	gimė	0	0
+Joks žmogus negali išgyventi iki dviejų šimtų.	Nessuno può vivere duecento anni.	išgyventi	0	0
+Ji motina rašo laišką.	Sua madre sta scrivendo una lettera.	rašo	0	0
+Tomas paklausė Marijos, kokia buvo jos pavardė.	Tom chiese a Mary quale fosse il suo cognome.	pavardė	0	0
+Padėjau jai užsidėti suknelę.	L'ho aiutata a mettersi un vestito.	suknelę	0	0
+Deja, aš ne labai gerai suprantu angliškai.	Mi dispiace, non capisco bene l'inglese.	angliškai	0	0
+Duokite man raktą, ir aš atversiu pasaulį.	Datemi una chiave e aprirò l'universo.	raktą	0	0
+Aš nekenčiu pasaulio, nes pasaulis nekenčia manęs.	Io odio il mondo perché il mondo odia me.	nekenčia	0	0
+Aš skaičiau šį straipsnį vakar.	Io ho letto questo articolo ieri.	skaičiau	0	0
+Ar galiu tęsti savo kelionę?	Posso continuare il mio viaggio?	kelionę	0	0
+Marija pasidarė raudona kaip pomidoras.	Maria divenne rossa come un pomodoro.	marija	0	0
+Ji arė lauką.	Lei arò il campo.	lauką	0	0
+Ar mokate naudotis kompiuteriu?	Sai usare un computer?	naudotis	0	0
+Tomas guli lovoje.	Tom è sdraiato sul letto.	lovoje	0	0
+Aš rasiu sprendimą.	Troverò una soluzione.	rasiu	0	0
+Įeidami į namus japonai nusiauna batus.	I giapponesi si tolgono le scarpe quando entrano in una casa.	batus	0	0
+Lipdamas iš autobuso jis garsiai pasisveikino su manimi.	Scendendo dall'autobus, mi salutò ad alta voce.	garsiai	0	0
+Norėčiau aplankyti Niujorką.	Mi piacerebbe visitare New York.	aplankyti	0	0
+Aš nemoku anglų kalbos.	Io non so l'inglese.	nemoku	0	0
+Joks žmogus negali išgyventi iki dviejų šimtų.	Nessuno può vivere duecento anni.	joks	0	0
+Tomas guli lovoje.	Tom è sdraiato sul letto.	guli	0	0
+Ateitis bus sukurta ne jėga ar troškimu nugalėti, o kantriai taikant demokratijos etodą, vadovaujantis konstruktyvia sutarimo dvasia ir pagarba laisvei.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	ateitis	0	0
+Jis gydytojas, bet taip pat ir rašytojas.	È un dottore, però è anche uno scrittore.	gydytojas	0	0
+Jis laimėjo trečią prizą.	Vinse il terzo premio.	laimėjo	0	0
+Duokite man raktą, ir aš atversiu pasaulį.	Datemi una chiave e aprirò l'universo.	duokite	0	0
+Ji gulėjo ant sofos su užmerktomis akimis.	Giaceva su un sofà con gli occhi chiusi.	akimis	0	0
+Aš genijus!	Sono un genio!	genijus	0	0
+Paukščiai neturi dantų.	Gli uccelli non hanno denti.	dantų	0	0
+Neliesk šitų.	Non tocchi quelli.	šitų	0	0
+Vėjas pučia į šiaurę.	Il vento soffia verso nord.	šiaurę	0	0
+Paskolinsi man peilį?	Mi lasci il tuo coltello?	peilį	0	0
+Ir aš mėgstu muziką.	Anche io amo la musica.	muziką	0	0
+Aš ne robotas.	Non sono un robot.	robotas	0	0
+Galvok, ką kalbi!	Stai attento a quello che dici!	galvok	0	0
+Vėjas pučia į šiaurę.	Il vento soffia verso nord.	vėjas	0	0
+Mano tėvo automobilis pagamintas Italijoje.	L'automobile di mio padre è prodotta in Italia.	automobilis	0	0
+Didžiausias Pietų Amerikos ežeras - Titikaka randasi Peru.	Il lago più grande dell'America del Sud, il Titicaca, si trova in Perù.	didžiausias	0	0
+Aš rasiu sprendimą.	Troverò una soluzione.	sprendimą	0	0
+Marija pasidarė raudona kaip pomidoras.	Maria divenne rossa come un pomodoro.	raudona	0	0
+Sąskaitą, prašom.	Il conto, per piacere.	sąskaitą	0	0
+Jis neteko darbo.	Perse il suo lavoro.	neteko	0	0
+Jis laimėjo trečią prizą.	Vinse il terzo premio.	trečią	0	0
+Tomas yra ypatingas.	Tom è speciale.	ypatingas	0	0
+Ar galiu tęsti savo kelionę?	Posso continuare il mio viaggio?	tęsti	0	0
+Aš noriu šuns.	Io voglio un cane.	šuns	0	0
+Aš nemoku anglų kalbos.	Io non so l'inglese.	anglų	0	0
+Akys yra sielos veidrodis.	Gli occhi sono lo specchio dell'anima.	sielos	0	0
+Marija pasidarė raudona kaip pomidoras.	Maria divenne rossa come un pomodoro.	pasidarė	0	0
+Suskaičiuojama daugiau nei trys šimtai septyniasdešimt ryklių rūšių, ir tik kelios jų yra pavojingos žmonėms.	Esistono più di 370 specie di squali e solamente pochissime sono pericolose per l'uomo.	šimtai	0	0
+Visi įvykiai, aprašyti šioje istorijoje, yra pramanyti.	Tutti gli eventi descritti in questa storia sono immaginari.	istorijoje	0	0
+Plaukioja kaip žuvis.	Nuota come un pesce.	žuvis	0	0
+Ateitis bus sukurta ne jėga ar troškimu nugalėti, o kantriai taikant demokratijos etodą, vadovaujantis konstruktyvia sutarimo dvasia ir pagarba laisvei.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	pagarba	0	0
+Daugiau nebenoriu.	Non voglio più.	nebenoriu	0	0
+Ar tu moki sukti krepšinio kamuolį ant piršto?	Riesci a far girare una palla da basket sulla punta del dito?	kamuolį	0	0
+Ateitis bus sukurta ne jėga ar troškimu nugalėti, o kantriai taikant demokratijos etodą, vadovaujantis konstruktyvia sutarimo dvasia ir pagarba laisvei.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	dvasia	0	0
+Tomas nebuvo apkaltintas dėl jokio nusikaltimo.	Tom non è stato accusato di alcun crimine.	nusikaltimo	0	0
+Kava yra karti.	Il caffè è amaro.	kava	0	0
+Jis taip pat mokosi kinų kalbos.	Studia anche cinese.	kinų	0	0
+Padėjau jai užsidėti suknelę.	L'ho aiutata a mettersi un vestito.	padėjau	0	0
+Kas yra teisėjas?	Chi saranno i giudici?	teisėjas	0	0
+Jis paėmė veidrodį ir pasižiūrėjo į savo liežuvį.	Prese uno specchio e si guardò la lingua.	liežuvį	0	0
+Galimybės yra beribės.	Le possibilità sono infinite.	galimybės	0	0
+Norėčiau aplankyti Niujorką.	Mi piacerebbe visitare New York.	niujorką	0	0
+Jis nežinojo, kad "Romeo ir Džuljetą" parašė Šekspyras.	Non sapeva che Shakespeare avesse scritto Romeo e Giulietta.	nežinojo	0	0
+Išgirdau jį lipantį laiptais žemyn.	L'ho sentito scendere le scale.	išgirdau	0	0
+Ji gulėjo ant sofos su užmerktomis akimis.	Giaceva su un sofà con gli occhi chiusi.	sofos	0	0
+Išgirdau jį lipantį laiptais žemyn.	L'ho sentito scendere le scale.	laiptais	0	0
+Kas tavo mėgstamiausias būgnininkas?	Chi è il tuo batterista preferito?	mėgstamiausias	0	0
+Jei to nebūtum padaręs tu, tą būtų padaręs kas nors kitas.	Se non l'avessi fatto tu, l'avrebbe fatto qualcun altro.	nebūtum	0	0
+Mano vardas Marina.	Mi chiamo Marina.	marina	0	0
+Tavo vietoje būčiau padaręs tą patį.	Se fossi al tuo posto, farei altrettanto.	padaręs	0	0
+Suskaičiuojama daugiau nei trys šimtai septyniasdešimt ryklių rūšių, ir tik kelios jų yra pavojingos žmonėms.	Esistono più di 370 specie di squali e solamente pochissime sono pericolose per l'uomo.	kelios	0	0
+Jis nusprendė nedalyvauti prezidento rinkimuose.	Ha scelto di non presentarsi alle elezioni presidenziali.	prezidento	0	0
+Ateitis bus sukurta ne jėga ar troškimu nugalėti, o kantriai taikant demokratijos etodą, vadovaujantis konstruktyvia sutarimo dvasia ir pagarba laisvei.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	nugalėti	0	0
+Pelėdos gali matyti tamsoje.	I gufi riescono a vedere al buio.	tamsoje	0	0
+Jis dvigubai už ją vyresnis.	Ha il doppio della sua età.	dvigubai	0	0
+Ar tu pasitiki šiuo pranešimu?	È sicuro di quel rapporto?	pasitiki	0	0
+Jis gydytojas, bet taip pat ir rašytojas.	È un dottore, però è anche uno scrittore.	rašytojas	0	0
+Mes atvykome truputį pavėlavę.	Siamo arrivati ​​un po' in ritardo.	atvykome	0	0
+Turiu darbo iki kaklo.	Io ne ho fino al collo con il lavoro.	kaklo	0	0
+Uranas - septintoji planeta nuo Saulės.	Urano è il settimo pianeta a partire dal Sole.	planeta	0	0
+Perduok man cukraus, prašau.	Passi lo zucchero, per piacere.	cukraus	0	0
+Mums teks sulaukti Tomo atsakymo.	Noi dovremo aspettare la risposta di Tom.	atsakymo	0	0
+Neturėjau kito pasirinkimo, kaip tik taip pasielgti.	Non avevo altra scelta se non farlo.	pasielgti	0	0
+Aš ne aktorius.	Non sono un attore.	aktorius	0	0
+Ar tai nepanašu į veidrodį?	Non sembra uno specchio?	nepanašu	0	0
+Mažos dovanos palaiko draugystę.	I piccoli regali mantengono viva un'amicizia.	dovanos	0	0
+Mažos dovanos palaiko draugystę.	I piccoli regali mantengono viva un'amicizia.	mažos	0	0
+AŠ sutinku su šia nuomone.	Concordo con quella opinione.	nuomone	0	0
+Ji bijo šunų.	Lei ha paura dei cani.	šunų	0	0
+Nueik į kirpyklą.	Vai dal barbiere.	nueik	0	0
+Mano sesuo dažnai rūpinasi kūdikiu.	Mia sorella si prende sovente cura del bambino.	rūpinasi	0	0
+Mums teks sulaukti Tomo atsakymo.	Noi dovremo aspettare la risposta di Tom.	sulaukti	0	0
+Mes žaidžiame sekmadienį.	Suoniamo alla domenica.	sekmadienį	0	0
+Lipdamas iš autobuso jis garsiai pasisveikino su manimi.	Scendendo dall'autobus, mi salutò ad alta voce.	autobuso	0	0
+Ateik mūsų aplankyti! Laukiam tavęs!	Vieni a trovarci! Ti aspettiamo!	laukiam	0	0
+Ši knyga per didelė, kad tilptų mano kišenėje.	Questo libro è troppo grande per entrare nella mia tasca.	kišenėje	0	0
+Labai tavęs ilgiuosi.	Mi manchi tanto.	ilgiuosi	0	0
+Roma - miestas, kurį vertą aplankyti.	Roma è una città che vale la pena visitare.	roma	0	0
+Aš norėčiau nuvažiuoti į Londoną.	Mi piacerebbe andare a Londra.	londoną	0	0
+Tomas negalėjo nustoti verkti.	Tom non riusciva a smettere di piangere.	verkti	0	0
+Aš skaičiau šį straipsnį vakar.	Io ho letto questo articolo ieri.	straipsnį	0	0
+Aš skaitau New York Times.	Sto leggendo il New York Times.	new	0	0
+Aš nekalbu japoniškai.	Io non parlo giapponese.	nekalbu	0	0
+Jie praleido naktį kartu.	Hanno passato la notte insieme.	praleido	0	0
+Visi svajoja aplankyti Paryžių.	Tutti sognano di visitare Parigi.	paryžių	0	0
+Paukščiai neturi dantų.	Gli uccelli non hanno denti.	paukščiai	0	0
+Pačiame miesto centre įsiliepsnojo gaisras.	È scoppiato un incendio nel cuore della città.	pačiame	0	0
+Ar tu moki sukti krepšinio kamuolį ant piršto?	Riesci a far girare una palla da basket sulla punta del dito?	piršto	0	0
+Pačiame miesto centre įsiliepsnojo gaisras.	È scoppiato un incendio nel cuore della città.	gaisras	0	0
+Ji turi ne mažiau kaip septynis vaikus.	Ha non meno di sette figli.	septynis	0	0
+Tomas paklausė Marijos, kokia buvo jos pavardė.	Tom chiese a Mary quale fosse il suo cognome.	paklausė	0	0
+Jis dvigubai už ją vyresnis.	Ha il doppio della sua età.	vyresnis	0	0
+Aš skaitau New York Times.	Sto leggendo il New York Times.	skaitau	0	0
+Ar jums skauda pilvą?	Ha il mal di stomaco?	pilvą	0	0
+Jis taip pat mokosi kinų kalbos.	Studia anche cinese.	mokosi	0	0
+Pakeisk temą.	Cambia argomento.	temą	0	0
+Ką vakar valgiai vakarienei?	Cos'ha mangiato ieri sera?	vakarienei	0	0
+Brangūs broliai ir seserys!	Cari fratelli e sorelle!	brangūs	0	0
+Jis gyvena greta manęs.	Lui vive accanto a me.	greta	0	0
+Ji gulėjo ant sofos su užmerktomis akimis.	Giaceva su un sofà con gli occhi chiusi.	gulėjo	0	0
+Ką jūs žinote apie Vokietijos Demokratinę Respubliką?	Cosa sapete sulla Repubblica Democratica Tedesca?	vokietijos	0	0
+Nenorėjau užgauti tavo jausmų.	Non volevo ferire i suoi sentimenti.	jausmų	0	0
+Ji pasižiūrėjo į veidrodį.	Si è guardata allo specchio.	veidrodį	0	0
+Tomas ir Merė išliko gyvi.	Tom e Mary sono sopravvissuti.	merė	0	0
+Aš busiu ten penktą.	Sarò lì alle cinque.	penktą	0	0
+Mažos dovanos palaiko draugystę.	I piccoli regali mantengono viva un'amicizia.	palaiko	0	0
+Prašau paduoti man cukrų.	Per favore, passami lo zucchero.	paduoti	0	0
+Aš norėčiau nuvažiuoti į Londoną.	Mi piacerebbe andare a Londra.	nuvažiuoti	0	0
+Brangūs broliai ir seserys!	Cari fratelli e sorelle!	seserys	0	0
+Kerštas yra saldus.	La vendetta è dolce.	kerštas	0	0
+Ateitis bus sukurta ne jėga ar troškimu nugalėti, o kantriai taikant demokratijos etodą, vadovaujantis konstruktyvia sutarimo dvasia ir pagarba laisvei.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	sukurta	0	0
+Ar mokate naudotis kompiuteriu?	Sai usare un computer?	mokate	0	0
+Jis padarė svarbų atradimą.	Lui ha fatto un'importante scoperta.	svarbų	0	0
+Kieno ši pica?	Di chi è questa pizza?	pica	0	0
+Žmogaus kaukolę sudaro 23 kaulai.	Il cranio umano consiste di 23 ossa.	sudaro	0	0
+Aš skaitau New York Times.	Sto leggendo il New York Times.	times	0	0
+Mums teks sulaukti Tomo atsakymo.	Noi dovremo aspettare la risposta di Tom.	tomo	0	0
+Vasara pagaliau atėjo.	L'estate è arrivata, alla fine.	vasara	0	0
+Mes valgome daug maisto rūšių.	Noi mangiamo molti tipi di cibo.	rūšių	0	0
+Ji skaito kalendorių.	Lei legge il calendario.	skaito	0	0
+Tomas man pasakė, kad galima išsinuomoti dviratį.	Tom mi ha detto che era possibile noleggiare una bicicletta.	dviratį	0	0
+Aš ne iš Bostono.	Non sono di Boston.	bostono	0	0
+Žmogaus kaukolę sudaro 23 kaulai.	Il cranio umano consiste di 23 ossa.	kaulai	0	0
+Papasakokite man viską apie tai.	Mi dica tutto a riguardo.	papasakokite	0	0
+Jis nežinojo, kad "Romeo ir Džuljetą" parašė Šekspyras.	Non sapeva che Shakespeare avesse scritto Romeo e Giulietta.	romeo	0	0
+Kiotas- senoji Japonijos sostinė.	Kyoto è la precedente capitale del Giappone.	senoji	0	0
+Aš esu namų šeimininkė.	Io sono una casalinga.	šeimininkė	0	0
+Praėjusiais metais aš žaidžiau krepšinį.	Giocavo a basket l'anno scorso.	žaidžiau	0	0
+Mano tėtis labai gerai vairuoja.	Mio padre guida molto bene.	vairuoja	0	0
+Dievinu picą.	Adoro la pizza.	picą	0	0
+Tomas nemokėjo gerai kalbėti prancūziškai.	Tom non riusciva a parlare bene in francese.	prancūziškai	0	0
+Daugelis muziejų pirmadieniais nedirba.	Molti musei sono chiusi al lunedì.	nedirba	0	0
+Mažos dovanos palaiko draugystę.	I piccoli regali mantengono viva un'amicizia.	draugystę	0	0
+Tomas negalėjo nustoti verkti.	Tom non riusciva a smettere di piangere.	nustoti	0	0
+Ji man davė porą gerų patarimų.	Lei mi ha dato qualche buon consiglio.	patarimų	0	0
+Ar tu moki sukti krepšinio kamuolį ant piršto?	Riesci a far girare una palla da basket sulla punta del dito?	sukti	0	0
+Prisiekiu, kad vieną dieną aš pakeisiu pasaulį.	Lo giuro, un giorno cambierò il mondo.	pakeisiu	0	0
+Ar mokate naudotis kompiuteriu?	Sai usare un computer?	kompiuteriu	0	0
+Visi įvykiai, aprašyti šioje istorijoje, yra pramanyti.	Tutti gli eventi descritti in questa storia sono immaginari.	įvykiai	0	0
+Tomas niekada manęs neklauso.	Tom non mi ascolta mai.	neklauso	0	0
+Ar tu moki sukti krepšinio kamuolį ant piršto?	Riesci a far girare una palla da basket sulla punta del dito?	krepšinio	0	0
+Turime pasiųsti šias kiaules į skerdyklą.	Dobbiamo spedire questi maiali al macello.	pasiųsti	0	0
+Kalbėk itališkai! Aš nesuprantu vokiškai.	Parla italiano! io non capisco il tedesco.	vokiškai	0	0
+Tomas paklausė Marijos, kokia buvo jos pavardė.	Tom chiese a Mary quale fosse il suo cognome.	marijos	0	0
+Jis laimėjo trečią prizą.	Vinse il terzo premio.	prizą	0	0
+Joks žmogus negali išgyventi iki dviejų šimtų.	Nessuno può vivere duecento anni.	šimtų	0	0
+Aš busiu ten penktą.	Sarò lì alle cinque.	busiu	0	0
+Praeitais metais buvo didelis persikų derlius.	C'è stato un grande raccolto di pesche l'anno scorso.	praeitais	0	0
+Ar sumokėjai už knygą?	Avete pagato il libro?	sumokėjai	0	0
+Pabaik sakinį.	Completate la sentenza.	pabaik	0	0
+Aš dirbu mokytoju.	Io lavoro come insegnante.	mokytoju	0	0
+Padėjau jai užsidėti suknelę.	L'ho aiutata a mettersi un vestito.	užsidėti	0	0
+Paplūdimys yra ideali vieta vaikams žaisti.	La spiaggia è un luogo ideale per far giocare i bambini.	ideali	0	0
+Netrukus jis susipažino su kitais Erasmus studentais.	Ha presto conosciuto altri studenti Erasmus.	susipažino	0	0
+Aš skaitau New York Times.	Sto leggendo il New York Times.	york	0	0
+Įeidami į namus japonai nusiauna batus.	I giapponesi si tolgono le scarpe quando entrano in una casa.	japonai	0	0
+Tomas sulankstė laišką ir įdėjo jį į voką.	Tom piegò la lettera e la mise nella busta.	voką	0	0
+Tomui nepavyko rasti Merės namo.	Tom non riusciva a trovare la casa di Mary.	tomui	0	0
+Pakeisk temą.	Cambia argomento.	pakeisk	0	0
+Mano kaimynė gavo anoniminį laišką.	La mia vicina ha ricevuto lettere anonime.	kaimynė	0	0
+Džudė praleidžia daug laiko besižiūrėdama į veidrodį.	Judy passa molto tempo a guardarsi allo specchio.	praleidžia	0	0
+Šioje apylinkėje yra daug paliktų namų.	Ci sono molte case abbandonate nel quartiere.	paliktų	0	0
+Vėjas pučia į šiaurę.	Il vento soffia verso nord.	pučia	0	0
+Jis nežinojo, kad "Romeo ir Džuljetą" parašė Šekspyras.	Non sapeva che Shakespeare avesse scritto Romeo e Giulietta.	šekspyras	0	0
+Didžiausias Pietų Amerikos ežeras - Titikaka randasi Peru.	Il lago più grande dell'America del Sud, il Titicaca, si trova in Perù.	ežeras	0	0
+Mano tėvo automobilis pagamintas Italijoje.	L'automobile di mio padre è prodotta in Italia.	pagamintas	0	0
+Tomas ir Merė išliko gyvi.	Tom e Mary sono sopravvissuti.	išliko	0	0
+Tikėjotės, kad aš jūsų nenuvilsiu, bet, deja, nesugebėjau nieko padaryti.	Voi speravate che non vi avrei deluso, ma, ahimè, non sono riuscito a fare niente.	nenuvilsiu	0	0
+Kitokio paaiškinimo nėra!	Non c'è altra spiegazione!	kitokio	0	0
+Bet ar tai tiesa, kad jis norėjo važiuoti į Vokietiją?	Ma è vero che voleva andare in Germania?	vokietiją	0	0
+Mes žaidžiame sekmadienį.	Suoniamo alla domenica.	žaidžiame	0	0
+Darbas dar nebaigtas.	Il lavoro non è ancora finito.	nebaigtas	0	0
+Ar esi alergiškas vaistams?	Sei allergico alle medicine?	alergiškas	0	0
+Nusprendžiau studijuoti užsienyje.	Ho deciso di studiare all'estero.	studijuoti	0	0
+Aš negaliu nupiešti paukščio.	Io non riesco a disegnare un uccello.	paukščio	0	0
+Tomas sulankstė laišką ir įdėjo jį į voką.	Tom piegò la lettera e la mise nella busta.	įdėjo	0	0
+Po to stalų yra mažas rudas šuniukas.	C'è un cagnolino marrone sotto quel tavolo.	šuniukas	0	0
+Kiotas- senoji Japonijos sostinė.	Kyoto è la precedente capitale del Giappone.	japonijos	0	0
+Akys yra sielos veidrodis.	Gli occhi sono lo specchio dell'anima.	veidrodis	0	0
+Mano sesuo dažnai rūpinasi kūdikiu.	Mia sorella si prende sovente cura del bambino.	kūdikiu	0	0
+Kava yra karti.	Il caffè è amaro.	karti	0	0
+Ji buvo pastebėta šokanti.	Lei è stata vista a ballare.	pastebėta	0	0
+Man jau pradeda trūkti kantrybė.	Sto iniziando a perdere la pazienza.	kantrybė	0	0
+Paskubėk, nes pavėluosi į savo lėktuvą.	Sbrigati, o perderai il tuo aereo.	pavėluosi	0	0
+Visi svajoja aplankyti Paryžių.	Tutti sognano di visitare Parigi.	svajoja	0	0
+Suskaičiuojama daugiau nei trys šimtai septyniasdešimt ryklių rūšių, ir tik kelios jų yra pavojingos žmonėms.	Esistono più di 370 specie di squali e solamente pochissime sono pericolose per l'uomo.	ryklių	0	0
+Nesidrovėk.	Non essere timida.	nesidrovėk	0	0
+Žmogaus kaukolę sudaro 23 kaulai.	Il cranio umano consiste di 23 ossa.	kaukolę	0	0
+Kerštas yra saldus.	La vendetta è dolce.	saldus	0	0
+Tikėjotės, kad aš jūsų nenuvilsiu, bet, deja, nesugebėjau nieko padaryti.	Voi speravate che non vi avrei deluso, ma, ahimè, non sono riuscito a fare niente.	tikėjotės	0	0
+Plaukioja kaip žuvis.	Nuota come un pesce.	plaukioja	0	0
+Tomas nebuvo apkaltintas dėl jokio nusikaltimo.	Tom non è stato accusato di alcun crimine.	apkaltintas	0	0
+Tomas man pasakė, kad galima išsinuomoti dviratį.	Tom mi ha detto che era possibile noleggiare una bicicletta.	išsinuomoti	0	0
+Daugelis muziejų pirmadieniais nedirba.	Molti musei sono chiusi al lunedì.	muziejų	0	0
+Kitokio paaiškinimo nėra!	Non c'è altra spiegazione!	paaiškinimo	0	0
+Tikėjotės, kad aš jūsų nenuvilsiu, bet, deja, nesugebėjau nieko padaryti.	Voi speravate che non vi avrei deluso, ma, ahimè, non sono riuscito a fare niente.	nesugebėjau	0	0
+Koalos ne meškos.	I koala non sono orsi.	meškos	0	0
+Didžiausias Pietų Amerikos ežeras - Titikaka randasi Peru.	Il lago più grande dell'America del Sud, il Titicaca, si trova in Perù.	peru	0	0
+Didžiausias Pietų Amerikos ežeras - Titikaka randasi Peru.	Il lago più grande dell'America del Sud, il Titicaca, si trova in Perù.	randasi	0	0
+Tomas turi geltoną sportinį automobilį.	Tom possiede una macchina sportiva gialla.	geltoną	0	0
+Veidrodis atspindi šviesą.	Uno specchio riflette la luce.	atspindi	0	0
+Praėjusiais metais aš žaidžiau krepšinį.	Giocavo a basket l'anno scorso.	krepšinį	0	0
+Cukrus tirpsta karštoje kavoje.	Lo zucchero si scioglie nel caffè caldo.	cukrus	0	0
+Paplūdimys yra ideali vieta vaikams žaisti.	La spiaggia è un luogo ideale per far giocare i bambini.	paplūdimys	0	0
+Mano tėvas paliko man didelį palikimą.	Mio padre mi lasciò una grande eredità.	palikimą	0	0
+Kalbėk itališkai! Aš nesuprantu vokiškai.	Parla italiano! io non capisco il tedesco.	itališkai	0	0
+Negali skaityti šio romano neverkdamas.	Non puoi leggere questo romanzo senza piangere.	romano	0	0
+Ką šiąnakt veiksime?	Stasera cosa facciamo?	veiksime	0	0
+Turime pasiųsti šias kiaules į skerdyklą.	Dobbiamo spedire questi maiali al macello.	kiaules	0	0
+Kiotas- senoji Japonijos sostinė.	Kyoto è la precedente capitale del Giappone.	sostinė	0	0
+Aš nekenčiu advokatų.	Io odio gli avvocati.	advokatų	0	0
+Aš ne poetas.	Non sono un poeta.	poetas	0	0
+Aš patenkinu savo šeimos poreikius.	Io soddisfo i bisogni della mia famiglia.	poreikius	0	0
+Mano tėvo automobilis pagamintas Italijoje.	L'automobile di mio padre è prodotta in Italia.	italijoje	0	0
+Tomui nepavyko rasti Merės namo.	Tom non riusciva a trovare la casa di Mary.	merės	0	0
+Aš nekalbu japoniškai.	Io non parlo giapponese.	japoniškai	0	0
+Tavo vietoje būčiau padariusi tą patį.	Se fossi al tuo posto, farei altrettanto.	padariusi	0	0
+Suskaičiuojama daugiau nei trys šimtai septyniasdešimt ryklių rūšių, ir tik kelios jų yra pavojingos žmonėms.	Esistono più di 370 specie di squali e solamente pochissime sono pericolose per l'uomo.	septyniasdešimt	0	0
+Nusprendžiau studijuoti užsienyje.	Ho deciso di studiare all'estero.	užsienyje	0	0
+Cukrus tirpsta karštoje kavoje.	Lo zucchero si scioglie nel caffè caldo.	tirpsta	0	0
+Pabaik sakinį.	Completate la sentenza.	sakinį	0	0
+Mes valgome daug maisto rūšių.	Noi mangiamo molti tipi di cibo.	valgome	0	0
+Italija - tai ne Graikija.	L'Italia non è la Grecia.	italija	0	0
+Po to stalų yra mažas rudas šuniukas.	C'è un cagnolino marrone sotto quel tavolo.	rudas	0	0
+Mano tėvas keliasi anksti.	Mio padre si alza presto.	keliasi	0	0
+Suskaičiuojama daugiau nei trys šimtai septyniasdešimt ryklių rūšių, ir tik kelios jų yra pavojingos žmonėms.	Esistono più di 370 specie di squali e solamente pochissime sono pericolose per l'uomo.	pavojingos	0	0
+Tomas nemokėjo gerai kalbėti prancūziškai.	Tom non riusciva a parlare bene in francese.	nemokėjo	0	0
+Jis nusprendė nedalyvauti prezidento rinkimuose.	Ha scelto di non presentarsi alle elezioni presidenziali.	rinkimuose	0	0
+Aš ne naivus.	Io non sono ingenuo.	naivus	0	0
+Gyvenimas žlugęs be tavęs.	La vita è una rovina senza di te.	žlugęs	0	0
+Italija - tai ne Graikija.	L'Italia non è la Grecia.	graikija	0	0
+Praėjusiais metais aš žaidžiau krepšinį.	Giocavo a basket l'anno scorso.	praėjusiais	0	0
+Kodėl niekada neatsakai?	Perché non rispondi mai?	neatsakai	0	0
+Merė nedėvi liemenėlės.	Mary non sta indossando un reggiseno.	nedėvi	0	0
+Aš negaliu nupiešti paukščio.	Io non riesco a disegnare un uccello.	nupiešti	0	0
+Ateitis bus sukurta ne jėga ar troškimu nugalėti, o kantriai taikant demokratijos etodą, vadovaujantis konstruktyvia sutarimo dvasia ir pagarba laisvei.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	kantriai	0	0
+Tomas ir Merė abu yra dėstytojai.	Tom e Marie sono entrambi degli insegnanti.	dėstytojai	0	0
+Roma - miestas, kurį vertą aplankyti.	Roma è una città che vale la pena visitare.	vertą	0	0
+Ji skaito kalendorių.	Lei legge il calendario.	kalendorių	0	0
+Ateitis bus sukurta ne jėga ar troškimu nugalėti, o kantriai taikant demokratijos etodą, vadovaujantis konstruktyvia sutarimo dvasia ir pagarba laisvei.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	demokratijos	0	0
+Jis padarė svarbų atradimą.	Lui ha fatto un'importante scoperta.	atradimą	0	0
+Netrukus jis susipažino su kitais Erasmus studentais.	Ha presto conosciuto altri studenti Erasmus.	studentais	0	0
+Praeitais metais buvo didelis persikų derlius.	C'è stato un grande raccolto di pesche l'anno scorso.	derlius	0	0
+Negaliu diskutuoti su tavimi apie tai.	Non riesco a discuterne con te.	diskutuoti	0	0
+Praeitais metais buvo didelis persikų derlius.	C'è stato un grande raccolto di pesche l'anno scorso.	persikų	0	0
+Aš ne naktinė persona.	Non sono una persona notturna.	naktinė	0	0
+Pelėdos gali matyti tamsoje.	I gufi riescono a vedere al buio.	pelėdos	0	0
+Po to stalų yra mažas rudas šuniukas.	C'è un cagnolino marrone sotto quel tavolo.	stalų	0	0
+Ar esi alergiškas vaistams?	Sei allergico alle medicine?	vaistams	0	0
+Ateitis bus sukurta ne jėga ar troškimu nugalėti, o kantriai taikant demokratijos etodą, vadovaujantis konstruktyvia sutarimo dvasia ir pagarba laisvei.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	vadovaujantis	0	0
+Šioje apylinkėje yra daug paliktų namų.	Ci sono molte case abbandonate nel quartiere.	apylinkėje	0	0
+Ji pasižiūrėjo į veidrodį.	Lei si è guardata allo specchio.	pasižiūrėjo	0	0
+Duokite man raktą, ir aš atversiu pasaulį.	Datemi una chiave e aprirò l'universo.	atversiu	0	0
+Prašau paduoti man cukrų.	Per favore, passami lo zucchero.	cukrų	0	0
+Tomas mėgsta keptus viščiukus.	Tom ama il pollo fritto.	viščiukus	0	0
+Paskolinsi man peilį?	Mi lasci il tuo coltello?	paskolinsi	0	0
+Merė nedėvi liemenėlės.	Mary non sta indossando un reggiseno.	liemenėlės	0	0
+Ši knyga per didelė, kad tilptų mano kišenėje.	Questo libro è troppo grande per entrare nella mia tasca.	tilptų	0	0
+Nenorėjau užgauti tavo jausmų.	Non volevo ferire i suoi sentimenti.	užgauti	0	0
+Kas tavo mėgstamiausias būgnininkas?	Chi è il tuo batterista preferito?	būgnininkas	0	0
+Situacija ten buvo kritinė.	La situazione lì era critica.	kritinė	0	0
+Jis turtingesnis už bet ką kitą šiame mieste.	Lui, in questa città, è più ricco di chiunque altro.	turtingesnis	0	0
+Ji elgiasi paslaptingai.	Si comporta misteriosamente.	paslaptingai	0	0
+Visi įvykiai, aprašyti šioje istorijoje, yra pramanyti.	Tutti gli eventi descritti in questa storia sono immaginari.	aprašyti	0	0
+Ar Tomas elektrikas?	Tom è un elettricista?	elektrikas	0	0
+Atsiprašau, kad jus pertraukiu, bet turiu kai ką pasakyti.	Mi dispiace interromperti, ma ho bisogno di dire una cosa.	pertraukiu	0	0
+Tomas turi geltoną sportinį automobilį.	Tom possiede una macchina sportiva gialla.	sportinį	0	0
+Nueik į kirpyklą.	Vai dal barbiere.	kirpyklą	0	0
+Aš kurį laiką pabusiu čia.	Starò qui per poco.	pabusiu	0	0
+Ką vakar valgiai vakarienei?	Cos'ha mangiato ieri sera?	valgiai	0	0
+Turime pasiųsti šias kiaules į skerdyklą.	Dobbiamo spedire questi maiali al macello.	skerdyklą	0	0
+Man jau pradeda trūkti kantrybė.	Sto iniziando a perdere la pazienza.	trūkti	0	0
+Aš ne naktinė persona.	Non sono una persona notturna.	persona	0	0
+Ką jūs žinote apie Vokietijos Demokratinę Respubliką?	Cosa sapete sulla Repubblica Democratica Tedesca?	respubliką	0	0
+Aš turiu gerą žodyną.	Io ho un buon dizionario.	žodyną	0	0
+Ateitis bus sukurta ne jėga ar troškimu nugalėti, o kantriai taikant demokratijos etodą, vadovaujantis konstruktyvia sutarimo dvasia ir pagarba laisvei.	Il futuro non verrà costruito con la forza, nemmeno con il desiderio di conquista ma attraverso la paziente applicazione del metodo democratico, lo spirito di consenso costruttivo e il rispetto della libertà”	laisvei	0	0

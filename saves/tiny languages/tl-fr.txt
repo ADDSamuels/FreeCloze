@@ -1,0 +1,948 @@
+Ang boses mo sa kanta ay kasing maliwanag ng tubig ng Pasipiko.	Ta voix chantante est claire comme l'eau du Pacifique.	ang	0	0
+Di ako takot sa iyo.	Je n'ai pas peur de toi.	sa	0	0
+May ilang mina ng anthracite sa pook na ito.	Il y a quelques mines d'anthracite dans cette région.	na	0	0
+Kailangan namin ng pagkain, mga damit at bahay upang mabuhay.	Pour vivre on a besoin de nourriture, de vêtements et d'un toit.	ng	0	0
+Pakigawa mo ako ng isang tasang kape.	Faites-moi une tasse de café, s'il vous plaît.	mo	0	0
+Hindi ko maalala.	Je ne me souviens pas.	ko	0	0
+Sori na lang at hindi ako mabilis sumagot.	Désolé de ne pas avoir répondu plus tôt.	hindi	0	0
+Natakot ako sa pusa.	Le chat m'a fait peur.	ako	0	0
+Sa aling paaralan ka pupunta?	À quelle école iras-tu ?	ka	0	0
+Kalma at marikit na nayon ang Nara.	Nara est une ville calme et jolie.	at	0	0
+Pinapasaya ni Marie ang mga bata.	Marie amuse les enfants.	mga	0	0
+Kahit na siya ay mayaman, hindi siya masaya.	Bien qu'il soit riche, il n'est pas heureux.	ay	0	0
+Kasinungalingan lang ito.	Ce n'est qu'un mensonge.	lang	0	0
+Anong masasabi mo sa kape pa nga ba?	Que diriez-vous de plus de café ?	ba	0	0
+Determinado akong isagawa ang planong ito.	Je suis déterminé à réaliser ce plan.	ito	0	0
+Kahit na siya ay mayaman, hindi siya masaya.	Bien qu'il soit riche, il n'est pas heureux.	siya	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Voici mon secret. Il est très simple : on ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.	kung	0	0
+Sumama siya sa kanilang bahay para malaman kung saan siya nakatira.	Elle l'a suivi chez lui pour voir où il vivait.	para	0	0
+Kahit ang isang manok na bulag ay nakakahanap ng butil.	Même une poule aveugle sait trouver du grain.	isang	0	0
+Si Tom ay mas matanda nang kaunti kaysa sa ibang mga estudyante sa klase.	Tom est un peu plus âgé que le reste des étudiants de sa classe.	si	0	0
+Ano ang iyong gagawin kapag hindi mo magagawa?	Que ferais-tu si tu échouais ?	ano	0	0
+Redi na kayo?	Êtes-vous tous prêts ?	kayo	0	0
+Lumipat sila dito nang nakalipas na tatlong taon.	Elles ont déménagé ici il y a trois ans.	dito	0	0
+Alam kong iniwasan mo ako.	Je sais que tu m'évitais.	alam	0	0
+May mapa ka ba?	Avez-vous un plan ?	may	0	0
+May grabeng problema tayo rito.	Nous avons un sérieux problème ici.	tayo	0	0
+Sori po, pero may kliyente ako.	Je suis désolé, mais j'ai un client.	pero	0	0
+Ayos ba lahat?	Est-ce que tout va bien ?	lahat	0	0
+Anong masasabi mo sa kape pa nga ba?	Que diriez-vous de plus de café ?	pa	0	0
+Opo, paki' nga.	Oui, s'il vous plaît.	nga	0	0
+Gusto niyang may kausap siya.	Il veut qu'on parle avec lui.	gusto	0	0
+Oo, paki' nga.	Oui, s'il te plaît.	oo	0	0
+Hindi kailangan ni Mike na hugasan ang kotse ng kanyang nanay sa araw na ito.	Mike n'a pas besoin de laver la voiture de sa mère aujourd'hui.	ni	0	0
+Hindi niya huhugasan ang mga pinggan.	Elle ne fait pas la vaisselle.	niya	0	0
+Wala nang tubig sa bote.	Il n'y a plus d'eau dans la bouteille.	wala	0	0
+Ang tawag natin sa nayon na ito'y "Munting Kyoto."	Nous appelons cette ville « Le Petit Kyoto ».	natin	0	0
+Okey naman sa bahay.	Tout va bien à la maison.	naman	0	0
+Pumunta ka ba sa Cairo o sa Alexandria?	Est-ce que tu es allé au Caire ou à Alexandrie ?	o	0	0
+Mainit ngayon.	Il fait chaud aujourd'hui.	ngayon	0	0
+May party kami sa kasusunod na Sabado.	Nous organisons une fête samedi prochain.	kami	0	0
+Sige.	D'ac.	sige	0	0
+Masyadong komplikado ang makina para mahanap namin ang dahilan ng pagkasira.	La machine était trop compliquée pour que nous trouvions la cause du dérèglement.	namin	0	0
+Lumipat sila dito nang nakalipas na tatlong taon.	Elles ont déménagé ici il y a trois ans.	sila	0	0
+Bihira akong makinig sa radyo.	J'écoute rarement la radio.	akong	0	0
+Kailangan mo ring magpunta roon.	Vous devez y aller aussi !	kailangan	0	0
+Bakit ang laki ng buwan ngayong gabi?	Pourquoi la lune est-elle si grande ce soir ?	bakit	0	0
+Tama na 'yan para sa ngayong araw.	Ça suffit pour aujourd'hui.	yan	0	0
+Gagawin ko kung kaya ko.	Je le ferais si je pouvais.	kaya	0	0
+Ikaw ang may-ari.	Tu es le propriétaire.	ikaw	0	0
+Naiintindihan mo ba anong sinasabi ko sa iyo?	Comprends-tu ce que je te dis ?	anong	0	0
+Di isda ang lumba-lumba at balyena.	Les dauphins et les baleines ne sont pas des poissons.	di	0	0
+Ang bahay na may berdeng bubungan ay akin.	La maison avec le toit vert c'est la mienne.	akin	0	0
+Hindi ko iyon magagawa.	Je ne peux pas le faire.	iyon	0	0
+Napakahirap talaga ng buhay minsan.	La vie est vraiment dure parfois.	talaga	0	0
+Ba't ang tao hindi makahayberneyt?	Pourquoi les gens ne peuvent-ils pas hiberner ?	tao	0	0
+Huwag kang pumasok sa kwarto ko nang hindi kumakatok!	N'entrez pas dans ma chambre sans frapper !	kang	0	0
+Galit na tulog ang mga kuru-kurong berdeng walang kulay.	Les idées vertes incolores dorment furieusement.	walang	0	0
+Ang ibig sabihin ng amnesya ay pagkawala ng memorya.	Amnésie signifie « perte de mémoire ».	sabihin	0	0
+Kailangan mong magtrabaho, hindi mag-isip.	Il faut travailler, pas penser.	mong	0	0
+Dapat pumili ka nung isa o yung iba.	Tu peux choisir l'un ou l'autre.	isa	0	0
+Ayaw kong magpustahan.	Je n'aime pas parier.	kong	0	0
+Bisi ako talaga nang nitong ilang araw.	Je suis très occupé ces jours-ci.	nang	0	0
+Ano'ng klase ng karne ang ihinahain niyo?	Quels plats de viande servez-vous ?	niyo	0	0
+Kailangan kong uminom ng anuman para sa aking sipon.	Je dois prendre quelque chose pour mon rhume.	aking	0	0
+Dahil sa napakaganda ng panahon, pwede ba akong magbukas ng isang bintana?	Vu qu'il fait beau, puis-je ouvrir la fenêtre ?	dahil	0	0
+Huwag mong pag-usapan ang ganyang bagay.	Ne parlez pas d'une telle chose.	huwag	0	0
+Nasa hardin sila.	Elles sont au jardin.	nasa	0	0
+Sino yung Ginoo?	Qui est ce monsieur ?	yung	0	0
+Gusto kong sabihin sa iyo.	Je voulais te le dire.	iyo	0	0
+Sino ka?	Qui es-tu ?	sino	0	0
+Ang lalaki talaga nila.	Ils sont vraiment grands.	nila	0	0
+Maglalaro kita.	Je jouerai avec toi.	kita	0	0
+May Diyos.	Dieu existe.	diyos	0	0
+Meron pang liwanag sa labas.	Il y a encore de la lumière, dehors.	meron	0	0
+Mananatili ako rito gaya ng sabi ng bosing ko.	Je resterai ici comme mon patron me l'a ordonné.	sabi	0	0
+Kung saan may buhay, may pag-asa.	Là où il y a de la vie, il y a de l'espoir.	buhay	0	0
+Saan ka pinanganak?	Où es-tu né ?	saan	0	0
+Sa ikalimang araw, ang bibe ay buhay pa rin.	Le cinquième jour, le canard était toujours vivant.	rin	0	0
+Salamat sa inyong pagkaasikaso.	Merci de votre hospitalité.	salamat	0	0
+Maalam ka bang mag-ingles?	Sais-tu parler anglais ?	bang	0	0
+Naparinig ko siyang bumababa ng hagdanan.	Je l'ai entendu descendre les escaliers.	siyang	0	0
+Sa matandang edad, pumapasok kahit na ang dyablo sa pagmomongha.	À un âge avancé, même le diable entrerait dans les ordres.	kahit	0	0
+Dapat basta umalis na ako.	Je dois partir tout de suite.	umalis	0	0
+Mga manunula ang mga matematiko nang may kaibahan na dapat nilang ipruweba ang ginawa ng kanilang guni-guni.	Les mathématiciens sont des poètes, avec la différence qu'ils doivent prouver ce que leur imagination crée.	dapat	0	0
+Bakit pa mabuhay kapag mamamatay man din lang tayo?	Pourquoi vivre puisque nous allons mourir ?	din	0	0
+Ano ang iyong gagawin kapag hindi mo magagawa?	Que ferais-tu si tu échouais ?	iyong	0	0
+Kung mamatay man ang araw, lahat ng buhay ay mamatay.	Si le soleil devait s'éteindre, tous les êtres vivants mourraient.	araw	0	0
+Kumusta po?	Comment ça va ?	po	0	0
+Karaniwang doon ako nag-aalmusal.	Je déjeune là, la plupart du temps.	doon	0	0
+Kanino iyan?	À qui est-ce ?	iyan	0	0
+Paano mo binuksan ang kahon?	Comment as-tu fait pour ouvrir cette boite ?	paano	0	0
+Anong dapat gawin ko ngayon?	Que dois-je faire, maintenant ?	gawin	0	0
+Laging maganda ang sinasabi tungkol kay Tom.	Tout le monde parle toujours de Tom en bien.	kay	0	0
+Nakikinig ba kayong lahat sa akin?	Est-ce que vous m'écoutez tous ?	kayong	0	0
+Dumating ka ba noong kamakalawa?	Es-tu venu avant-hier ?	noong	0	0
+Nag-iiba ang mundo bawat minuto.	Le monde change à chaque minute.	mundo	0	0
+Oh, ano'ng nangyari sa kanya?	Eh bien, que lui est-il arrivé ?	oh	0	0
+Dapat pumili ka nung isa o yung iba.	Tu peux choisir l'un ou l'autre.	iba	0	0
+Pangit kayo, mga kaibigan ko!	Vous êtes laides, mes amies !	kaibigan	0	0
+Ay naku, tama ka; talagang hindi ko naalaman iyon.	Oh mon dieu, tu as raison ; je ne savais pas ça du tout.	tama	0	0
+Ang mga anak ng wikang Ingles ay mga kreyol tulad ng Tok Pisin mula sa Papua New Guinea. Maaari nilang ipagpatuloy ang pag-unlad. Kung magkaroon ng isang malaking gera, ang mga tao ay maaaring mabukod at ang mga bagong pidgin at kreyol ay mabubuo mula sa Ingles.	Les enfants de la langue anglaise sont des créoles comme Tok Pisin de Papouasie-Nouvelle-Guinée. Ils pourraient poursuivre le développement. S'il y avait une grande guerre, les gens pourraient devenir isolés et de nouveaux pidgins et créoles se formeraient à partir de l'anglais.	tulad	0	0
+Malimit akong pumunta sa sinehan.	Je vais souvent au cinéma.	pumunta	0	0
+Kailangan nating bilhin sila mula sa ibang bansa.	Nous devons les acheter à l'étranger.	nating	0	0
+Siya'y taong maaasahan.	C'est un homme fiable.	y	0	0
+Tapos na kaming mag-almusal.	Nous avons fini de déjeuner.	tapos	0	0
+Ang ibig sabihin ng amnesya ay pagkawala ng memorya.	Amnésie signifie « perte de mémoire ».	ibig	0	0
+Nakita ko siyang naglalakad sa gilid ng kalsada.	Je l'ai vue marcher le long du trottoir.	nakita	0	0
+Ano ang iyong gagawin kapag hindi mo magagawa?	Que ferais-tu si tu échouais ?	kapag	0	0
+Anong ginagawa mo sa karamihan ng oras?	Que faites-vous, la plupart du temps ?	ginagawa	0	0
+Anong taon na tayo?	En quelle année sommes-nous ?	taon	0	0
+Itong libro'y akin. Nasaan ang iyo?	Ce livre est le mien. Où est le vôtre ?	nasaan	0	0
+Mamaya, gusto kong maging propesor ng kasaysayan.	Plus tard, j'aimerais être professeur d'histoire.	maging	0	0
+Hinihintay ko ang isang sulat mula sa kanya.	J'attends une lettre d'elle.	mula	0	0
+Bakit hindi mo tingnan ang mga datos na ito?	Et si vous jetiez un œil à ces données ?	tingnan	0	0
+Kapag mas mataas ang puno, mas mahirap itong akyatin.	Plus un arbre est grand, plus c'est difficile de l'escalader.	mas	0	0
+Puwede ba akong maglaro pagkatapos basahin itong libro?	Pourrais-je aller jouer après avoir lu ce livre ?	puwede	0	0
+Tumira ako sa Sendai nang sampung taon bago dumating sa Tokyo.	J'ai vécu à Sendai pendant dix ans avant de venir à Tokyo.	bago	0	0
+Hindi ninyo maintindihan ang sinabi niya.	Vous ne pouviez pas comprendre ce qu'il a dit.	sinabi	0	0
+Itong silid ay naaarawan.	Cette pièce est éclairée par le soleil.	itong	0	0
+Gabi na.	Il fait nuit.	gabi	0	0
+Bakit nandito tayo?	Pourquoi sommes-nous ici ?	nandito	0	0
+Iba-iba ang ating pinag-usapan.	Nous avons parlé de divers sujets.	ating	0	0
+Mga babae muna.	Les femmes d'abord.	muna	0	0
+Nagtanong siya tungkol sa kanya.	Elle s'enquit de lui.	tungkol	0	0
+Kung alam ko, hindi na sana ako pumunta.	Si j'avais su, je ne serais pas venu.	sana	0	0
+Ang bahay na may berdeng bubungan ay akin.	La maison avec le toit vert c'est la mienne.	bahay	0	0
+Magandang gabi, mga ginang at ginoo!	Bonsoir Mesdames et Messieurs !	magandang	0	0
+Totoo itong teorya para sa Hapon.	Cette théorie est vraie pour le Japon.	totoo	0	0
+Anong oras ang simula ng paaralan?	À quelle heure commence l'école ?	oras	0	0
+Namamalasakit ako tungkol sa kinabukasan ninyo.	Je suis vraiment concerné par votre avenir.	ninyo	0	0
+Tinatago ang ulo sa buhangin nang parang ostrich.	Il se cache la tête dans le sable, comme une autruche.	parang	0	0
+Mananatili ako nang ilang araw sa inyo.	Je passerai quelques jours chez toi.	inyo	0	0
+Ang ingay ay nagpanatili sa akin nang gising buong gabi.	Le bruit me garda éveillée toute la nuit.	buong	0	0
+Oh, ano'ng nangyari sa kanya?	Eh bien, que lui est-il arrivé ?	kanya	0	0
+Anong sinasabi mo?	Que dis-tu ?	sinasabi	0	0
+Pumuntang bumili kasama ang kapatid kong lalaki ang nanay ko.	Mère est allée faire des courses avec mon frère.	kasama	0	0
+Wang ang pangalan ko.	Je m'appelle Wang.	pangalan	0	0
+Ayaw ni Tom magtrabaho bukas.	Tom ne veut pas travailler demain.	ayaw	0	0
+Sabi ng lola ko na umaaraw pagkatapos ng ulan; iyon lamang na optimista siya.	Ma mamie disait qu'après la pluie vient le soleil, elle était optimiste, voilà tout.	lamang	0	0
+Ilang taon ang anak mong lalaki?	Quel âge a votre fils ?	anak	0	0
+Natanggap namin ang balita ng inyong kasal.	Nous avons reçu leur faire-part de mariage.	inyong	0	0
+Maganda ang boses niya.	Il a une voix agréable.	maganda	0	0
+Isang baso ng tubig, po.	Un verre d'eau, s'il vous plaît.	tubig	0	0
+Mukhang hindi pintor ang puminta nito.	Il semble que ceci n'a pas été peint par un peintre.	nito	0	0
+Galing ako sa Olanda.	Je viens de Hollande.	galing	0	0
+Di ngayon, baka mamaya!	Pas maintenant, peut-être plus tard !	baka	0	0
+Gagawin ko kung kaya ko.	Je le ferais si je pouvais.	gagawin	0	0
+Bata pa sila.	Elles sont encore jeunes.	bata	0	0
+Isa sa aking mga kaibigan ay nakatira sa ibang bansa.	L'un de mes amis vit à l'étranger.	ibang	0	0
+Nais kong makita si G. Kosugi.	Je voudrais voir M. Kosugi.	makita	0	0
+Ginawa ko na ang aking takdang-aralin.	J'ai fait mes devoirs.	ginawa	0	0
+Dahan-dahan tayong namumulok.	Nous nous décomposons lentement.	tayong	0	0
+Ayos ka ba?	Tu vas bien ?	ayos	0	0
+Mas maraming pamasko ang natanggap ng aking babaeng kapatid.	Ma sœur a eu plus de cadeaux de Noël que moi.	maraming	0	0
+Anong oras na sa 'yo?	Quelle heure as-tu ?	yo	0	0
+Marami akong kaibigan.	J'ai beaucoup d'amis.	marami	0	0
+Ang sabi ng libro ay ang mga unang tulay ay noon pang panahong Neolitiko.	Ce livre dit que les premiers ponts remontent au Néolithique.	pang	0	0
+Pinag-aralan ko ang mga bagay ng kulturang griyego.	J'ai appris des choses sur la culture grecque.	bagay	0	0
+Itong batang babae'y mukhang lalaki.	Cette fille ressemble à un garçon.	mukhang	0	0
+Bukas ay isang bagong araw.	Demain est un nouveau jour.	bagong	0	0
+Naglakad kaming palibot ng lawa.	Nous nous sommes promenés tout autour du lac.	kaming	0	0
+Lumipad ang isang bubuyog palabas ng bintana.	Une abeille vola par la fenêtre.	palabas	0	0
+Nangyari na noon at posibleng mangyari muli.	Cela s'est déjà passé et se passera probablement encore.	nangyari	0	0
+Hinahalo ng bruha ang kanyang kaldero.	La sorcière mélange son chaudron.	kanyang	0	0
+Naging talagang mas mainit ang panahon.	Le temps est devenu beaucoup plus chaud.	panahon	0	0
+Mananatili ako rito gaya ng sabi ng bosing ko.	Je resterai ici comme mon patron me l'a ordonné.	rito	0	0
+Di makita kung saan man.	On ne le trouvait nulle part.	man	0	0
+Itong simponiya'y talagang obra maestra.	Cette symphonie est vraiment un chef-d’œuvre.	talagang	0	0
+Lilipad ang eroplano sa loob ng isang oras.	L'avion décollera dans une heure.	loob	0	0
+Ang huli niyang sulat ay sa taglagas ng 2010.	Sa dernière lettre datait de l'automne 2010.	niyang	0	0
+Kailangan namin ng pagkain, mga damit at bahay upang mabuhay.	Pour vivre on a besoin de nourriture, de vêtements et d'un toit.	upang	0	0
+Sila ay hindi patay.	Ils ne sont pas morts.	patay	0	0
+Kung magbasa ako ng isang libong librong Ingles, magiging matatas ba ako roon?	Si je lis mille livres en anglais, le parlerais-je couramment ?	magiging	0	0
+Dahil sa napakaganda ng panahon, pwede ba akong magbukas ng isang bintana?	Vu qu'il fait beau, puis-je ouvrir la fenêtre ?	pwede	0	0
+Sa tingin ko mali ka.	Il me semble que vous avez tort.	tingin	0	0
+Mahal ko tatay ko.	J'aime mon père.	mahal	0	0
+Hindi nawawalan ng tubig ang aming nayon.	Notre village ne manque pas d'eau.	aming	0	0
+May grabeng problema tayo rito.	Nous avons un sérieux problème ici.	problema	0	0
+Kunin mo ang mga dimensiyon nitong kuwarto.	Prends les dimensions de la pièce.	kunin	0	0
+Darating kami diyan sa loob ng isang oras.	Nous y arriverons en moins d'une heure.	diyan	0	0
+Nagkamali kong nakuha ang kanyang payong.	J'ai pris son parapluie par erreur.	nakuha	0	0
+Tinuro ng tsuper kung aling bus ang dapat naming sakyan.	Le chauffeur nous indiqua quel bus nous devions prendre.	naming	0	0
+Pumuntang bumili kasama ang kapatid kong lalaki ang nanay ko.	Mère est allée faire des courses avec mon frère.	lalaki	0	0
+Siya'y taong maaasahan.	C'est un homme fiable.	taong	0	0
+Sumama siya sa kanilang bahay para malaman kung saan siya nakatira.	Elle l'a suivi chez lui pour voir où il vivait.	malaman	0	0
+Labas.	Sors.	labas	0	0
+Sa aling paaralan ka pupunta?	À quelle école iras-tu ?	pupunta	0	0
+Huwag mong pahirapan ang sarili mo.	Ne sois pas si dure avec toi-même.	sarili	0	0
+Naglakad kaming mabuti.	Nous avons beaucoup marché.	mabuti	0	0
+Heto ang libro mo.	Voici ton livre.	heto	0	0
+May party kami sa kasusunod na Sabado.	Nous organisons une fête samedi prochain.	party	0	0
+Nagsinungaling ka sa amin!	Tu nous as menti !	amin	0	0
+Ito ang sikreto ko. Talagang simple: Walang makakitang magaling kundi sa puso. Ang pinakaimportante ay di makita ng mata.	Voici mon secret. Il est tout à fait simple : on ne voit bien qu'avec le cœur. Le plus important est invisible aux yeux.	magaling	0	0
+Kilala mo ako?	Me connais-tu ?	kilala	0	0
+Si Tom ang nakikita mo.	C'est Tom que tu veux voir.	nakikita	0	0
+Binasa ko ang diksiyonaryo sa pinakauna hanggang sa pinakahuling pahina.	J'ai lu le dictionnaire de la première à la dernière page.	hanggang	0	0
+Maraming bituin ang makikita itong gabi.	De nombreuses étoiles sont à voir ce soir.	makikita	0	0
+Mas sikat ka sa akala mo.	Tu es plus populaire que ce que tu crois.	akala	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Voici mon secret. Il est très simple : on ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.	puso	0	0
+Dalawang oras lamang ako nakatulog.	Je n'ai dormi que deux heures.	dalawang	0	0
+Ito'y huling-huli na para sa kanila.	C'est trop tard pour elles.	kanila	0	0
+Natagpo ko siya nang ilang beses.	Je l'ai rencontré plusieurs fois.	ilang	0	0
+Bukas ay isang bagong araw.	Demain est un nouveau jour.	bukas	0	0
+Walang puwedeng magmaskara nang matagal.	Personne ne peut porter longtemps le masque.	puwedeng	0	0
+Kung di mapagod ang kamay, di magagawa ang tinapay.	Si la main ne se fatigue pas, le pain ne se fera pas.	kamay	0	0
+Pumarini siya para tulungan ako.	Elle est venue à mon secours.	tulungan	0	0
+Ang hobi ko ay makinig sa musika.	Mon passe-temps est d'écouter de la musique.	makinig	0	0
+Sa wakas, dumating tayo sa lawa.	Enfin, nous arrivâmes au lac.	dumating	0	0
+Ngayon, nagtratrabaho ako para sa malaking kompanya sa Brasil.	En ce moment, je travaille pour une grosse boîte au Brésil.	malaking	0	0
+Walang magawa ang batang babae kundi umiyak.	La fille ne faisait que pleurer.	babae	0	0
+Kailangan namin ng pagkain, mga damit at bahay upang mabuhay.	Pour vivre on a besoin de nourriture, de vêtements et d'un toit.	pagkain	0	0
+Masyadong komplikado ang makina para mahanap namin ang dahilan ng pagkasira.	La machine était trop compliquée pour que nous trouvions la cause du dérèglement.	dahilan	0	0
+Alis sa tanawin ko!	Sors de ma vue !	alis	0	0
+Siya ay masaya na parang hari.	Il est heureux comme un roi.	hari	0	0
+Malapit nang mag-alas 3 ng hapon.	Il est presque quinze heures.	malapit	0	0
+Mas maraming aginaldo ang natanggap ng aking babaeng kapatid.	Ma sœur a eu plus de cadeaux de Noël que moi.	kapatid	0	0
+Dapat pumili ka nung isa o yung iba.	Tu peux choisir l'un ou l'autre.	nung	0	0
+Kailangang kumain para mabuhay, at hindi mabuhay para kumain.	Il faut manger pour vivre, et non pas vivre pour manger.	kailangang	0	0
+Ang sabi ng libro ay ang mga unang tulay ay noon pang panahong Neolitiko.	Ce livre dit que les premiers ponts remontent au Néolithique.	noon	0	0
+Ako ay tumatawa.	Je ris.	tumatawa	0	0
+Sabi ng lola ko na umaaraw pagkatapos ng ulan; iyon lamang na optimista siya.	Ma mamie disait qu'après la pluie vient le soleil, elle était optimiste, voilà tout.	pagkatapos	0	0
+Ano ang pinagkaiba ng aso sa lobo?	Quelle est la différence entre un chien et un loup ?	aso	0	0
+Naging talagang mas mainit ang panahon.	Le temps est devenu beaucoup plus chaud.	naging	0	0
+Parati siyang masaya.	Il est toujours heureux.	parati	0	0
+Kumanan sa susunod na interseksiyon.	Tournez à droite à la prochaine intersection.	susunod	0	0
+Bakit ang laki ng buwan ngayong gabi?	Pourquoi la lune est-elle si grande ce soir ?	ngayong	0	0
+Kumatok siya sa pinto.	Il a claqué la porte.	pinto	0	0
+Bumalik kayo ritong tumatakbo.	Vous êtes revenue ici en courant.	bumalik	0	0
+Talagang ayaw nila sa isa't isa.	Ils se détestent absolument.	t	0	0
+Ito ang mismong pitaka na nawala ko nang nakalipas na isang linggo.	C'est le même porte-monnaie que j'ai perdu il y a une semaine.	linggo	0	0
+Ang mga anak ng wikang Ingles ay mga kreyol tulad ng Tok Pisin mula sa Papua New Guinea. Maaari nilang ipagpatuloy ang pag-unlad. Kung magkaroon ng isang malaking gera, ang mga tao ay maaaring mabukod at ang mga bagong pidgin at kreyol ay mabubuo mula sa Ingles.	Les enfants de la langue anglaise sont des créoles comme Tok Pisin de Papouasie-Nouvelle-Guinée. Ils pourraient poursuivre le développement. S'il y avait une grande guerre, les gens pourraient devenir isolés et de nouveaux pidgins et créoles se formeraient à partir de l'anglais.	maaari	0	0
+Masyadong marami para bilangin.	Ils sont trop nombreux pour les compter.	masyadong	0	0
+Hindi ko kasalanan iyan.	Ça n'est pas ma faute.	kasalanan	0	0
+Puwede mo bang bilisan?	Peux-tu aller plus vite ?	bilisan	0	0
+Kung mamatay man ang araw, lahat ng buhay ay mamatay.	Si le soleil devait s'éteindre, tous les êtres vivants mourraient.	mamatay	0	0
+Ingat, may baka sa daan!	Attention, il y a une vache sur la route !	daan	0	0
+Kumanta siya ng kantang Hapon para sa atin.	Elle a chanté une chanson japonaise pour nous.	atin	0	0
+Ang huli niyang sulat ay sa taglagas ng 2010.	Sa dernière lettre datait de l'automne 2010.	huli	0	0
+Gumising ako nang alas 6 ng itong umaga.	Je me suis réveillé à six heures ce matin.	umaga	0	0
+Ang tao'y sosyal na hayop.	L'homme est un animal social.	hayop	0	0
+Ang kanilang mga ugali ay talagang nakakatawa!	Leur attitude est vraiment ridicule !	kanilang	0	0
+Takbo.	Cours !	takbo	0	0
+Kumuha kayo ng itlog sa ref.	Prenez un œuf dans le réfrigérateur.	kumuha	0	0
+Ang pinakamagaling na paraan para maintindihan ang teksto'y isalin siya sa ibang wika.	La meilleure manière de comprendre un texte est de le traduire.	paraan	0	0
+Takot sila sa iyo.	Ils te craignaient.	takot	0	0
+Mas sikat ka sa akala mo.	Tu es plus populaire que ce que tu crois.	sikat	0	0
+Natagpo ko siya nang ilang beses.	Je l'ai rencontré plusieurs fois.	beses	0	0
+Nahihiya siya sa kahirapan ng kanyang tatay.	Il a honte de la pauvreté de son père.	tatay	0	0
+"Saan kayo nakatira?" "Nakatira ako sa Tokyo."	« Où résidez-vous ? » « Je réside à Tokyo. »	nakatira	0	0
+Ang ulan sa Abril ay magaling sa lupa.	La pluie en avril est profitable à la terre.	lupa	0	0
+Wala akong gustong gawin ngayon.	Aujourd'hui je n'ai rien envie de faire.	gustong	0	0
+Palagi siyang nagrereklamo tungkol sa aking maliit na sweldo.	Elle se plaint toujours de mon faible salaire.	maliit	0	0
+Iyan ang bolpen na nawala ko kahapon.	C'est le stylo que j'ai perdu hier.	nawala	0	0
+Napakahirap talaga ng buhay minsan.	La vie est vraiment dure parfois.	minsan	0	0
+Mas gusto ko sa bahay kaysa sa lumabas.	Je préférerais rester chez moi que de sortir.	lumabas	0	0
+Ilang oras ka nagtatrabaho bawat linggo?	Combien d'heures travaillez-vous par semaine ?	bawat	0	0
+Sa otonyo pinakamaganda ang Kyoto.	C'est en automne que Kyoto est la plus belle.	kyoto	0	0
+Wala akong madekleyr kundi ang henyo ko.	Je n'ai rien à déclarer, sauf mon génie.	kundi	0	0
+Ikinubli niya ang kanyang pangit na mukha.	Elle a caché son visage laid.	mukha	0	0
+Mas malaki at mas malakas ang tigre kaysa sa pusa.	Un tigre est plus gros et plus fort qu'un chat.	malaki	0	0
+Parang nainsulto ako nang siya'y tumahimik.	Je me suis senti insulté qu'il ait gardé le silence.	tumahimik	0	0
+Gusto kong magbiyahe sa tren.	J'aime bien prendre le train.	tren	0	0
+Hinangaan niya ang aking bagong kotse.	Il a admiré ma nouvelle voiture.	kotse	0	0
+Opo, paki' nga.	Oui, s'il vous plaît.	opo	0	0
+Mas magaling na huwag ka nang magsalita.	Il vaut mieux ne pas parler.	magsalita	0	0
+Nakalimutan ko ang pangalan niya.	J'ai oublié comment elle s'appelle.	nakalimutan	0	0
+Si Tom ay mas matanda nang kaunti kaysa sa ibang mga estudyante sa klase.	Tom est un peu plus âgé que le reste des étudiants de sa classe.	kaysa	0	0
+Walang puwedeng magmaskara nang matagal.	Personne ne peut porter longtemps le masque.	matagal	0	0
+Ang mga anak ng wikang Ingles ay mga kreyol tulad ng Tok Pisin mula sa Papua New Guinea. Maaari nilang ipagpatuloy ang pag-unlad. Kung magkaroon ng isang malaking gera, ang mga tao ay maaaring mabukod at ang mga bagong pidgin at kreyol ay mabubuo mula sa Ingles.	Les enfants de la langue anglaise sont des créoles comme Tok Pisin de Papouasie-Nouvelle-Guinée. Ils pourraient poursuivre le développement. S'il y avait une grande guerre, les gens pourraient devenir isolés et de nouveaux pidgins et créoles se formeraient à partir de l'anglais.	maaaring	0	0
+Sigurado ka bang tutulungan niya tayo?	Es-tu certain qu'il nous aidera ?	sigurado	0	0
+Huwag kang pumasok sa kwarto ko nang hindi kumakatok!	N'entrez pas dans ma chambre sans frapper !	pumasok	0	0
+Lumulutang ang kanyang gintong buhok sa hangin ng tag-init.	Ses cheveux dorés flottaient dans le vent estival.	hangin	0	0
+Siya ay masaya na parang hari.	Il est heureux comme un roi.	masaya	0	0
+Ikaw ay natatakot.	Vous avez peur.	natatakot	0	0
+Hindi ko iyon magagawa.	Je ne peux pas le faire.	magagawa	0	0
+Nagsisisi akong kumain niyong mga talaba.	Je regrette d'avoir mangé ces huîtres.	niyong	0	0
+Kasama niya ang kanyang asawa.	Il était accompagné de son épouse.	asawa	0	0
+Ay naku, tama ka; talagang hindi ko naalaman iyon.	Oh mon dieu, tu as raison ; je ne savais pas ça du tout.	naku	0	0
+Para gumawa ng isang keyk, kailangan mong gumamit ng itlog, mantikilya at asukal.	Pour faire un gâteau, vous devez utiliser des œufs, du beurre et du sucre.	gumawa	0	0
+Sumama siya sa kanilang bahay para malaman kung saan siya nakatira.	Elle l'a suivi chez lui pour voir où il vivait.	sumama	0	0
+Nagkakamali ka kung iniisip mong siya ay mali.	Tu te trompes si tu penses qu'il a tort.	iniisip	0	0
+Mga manunula ang mga matematiko nang may kaibahan na dapat nilang ipruweba ang ginawa ng kanilang guni-guni.	Les mathématiciens sont des poètes, avec la différence qu'ils doivent prouver ce que leur imagination crée.	nilang	0	0
+Dapat kitang samahan.	Je devrais aller avec vous.	kitang	0	0
+Kailangan nating bilhin sila mula sa ibang bansa.	Nous devons les acheter à l'étranger.	bansa	0	0
+Para siyang masakit ang ulo.	Elle a l'air d'avoir mal à la tête.	ulo	0	0
+Mas gusto kong manatili dito.	Je préférerais rester ici.	manatili	0	0
+Masyadong komplikado ang makina para mahanap namin ang dahilan ng pagkasira.	La machine était trop compliquée pour que nous trouvions la cause du dérèglement.	makina	0	0
+Buksan ninyo ang libro sa ika-9 na pahina.	Ouvrez votre livre à la page neuf.	buksan	0	0
+Nakikita roon sa likod ng malaking puting gusali.	Vous voyez là derrière un grand bâtiment blanc.	likod	0	0
+Nakasuot siya ng parehong sombrero nang isang buwan na.	Elle porte le même chapeau depuis un mois.	parehong	0	0
+A! Mukhang masarap.	Ouh ! Ça a l'air délicieux.	a	0	0
+Bakit ang laki ng buwan ngayong gabi?	Pourquoi la lune est-elle si grande ce soir ?	buwan	0	0
+Nag-iiba ang mundo bawat minuto.	Le monde change à chaque minute.	minuto	0	0
+Di ngayon, baka mamaya!	Pas maintenant, peut-être plus tard !	mamaya	0	0
+Di siya tumigil ng pagsasalita.	Elle n'arrêta pas de parler.	tumigil	0	0
+Ang biktima ay namatay sa isang ospital sa Boston.	La victime est morte à l'hôpital de Boston.	namatay	0	0
+Hindi ako nagbibigay ng ikalawang pagkakataon.	Je ne donne pas de secondes chances.	pagkakataon	0	0
+Meron pang liwanag sa labas.	Il y a encore de la lumière, dehors.	liwanag	0	0
+Gusto ko siyang kausapin tungkol sa isang bagay.	Je veux lui en parler.	kausapin	0	0
+Parating dapat mag-isip kayo bago magsalita.	Vous devez toujours réfléchir avant de parler.	parating	0	0
+Kumusta po?	Comment ça va ?	kumusta	0	0
+Dapat basta umalis na ako.	Je dois y aller immédiatement.	basta	0	0
+Bakit ganyan kalaki ang bibig mo?	Pourquoi ta bouche est-elle si grande ?	ganyan	0	0
+Tinawagan niya ako halos araw-araw.	Il m'a appelé presque chaque jour.	halos	0	0
+Hindi siya kasingganda ng kanyang nanay.	Elle n'est pas aussi belle que sa mère.	nanay	0	0
+Nasa wakas na siya.	Elle est finalement arrivée à ses fins.	wakas	0	0
+Dapat mong turuan ang dila mo nang ibukod ang magaling na kape sa masama.	Vous devez éduquer votre langue pour distinguer le bon café du mauvais.	masama	0	0
+Importante ang pamilya.	La famille est importante.	pamilya	0	0
+Pula ang dugo.	Le sang est rouge.	dugo	0	0
+Kunin mo ang mga dimensiyon nitong kuwarto.	Prends les dimensions de la pièce.	nitong	0	0
+Bakit hindi mo hanapin sa direktori ng telepono?	Pourquoi ne regardes-tu pas dans le répertoire de ton téléphone ?	telepono	0	0
+Sa tingin ko mali ka.	Il me semble que vous avez tort.	mali	0	0
+Pinatay ni Trump si Epstein.	Trump a tué Epstein.	pinatay	0	0
+Nais kong makita si G. Kosugi.	Je voudrais voir M. Kosugi.	nais	0	0
+Ang Sapporo ang ika-5 pinakalaking lungsod sa Hapon.	Sapporo est la cinquième plus grande ville du Japon.	lungsod	0	0
+Ngayong narito na ako, huwag ka nang mag-alala.	Maintenant que je suis ici, tu n'as pas à t'inquiéter.	mag-alala	0	0
+Ilagay mo ang silya sa harap ng eskritoryo.	Place la chaise devant le bureau.	harap	0	0
+Masyadong mabilis siyang nagsalita para sa mga estudyante.	Il parlait trop vite pour les élèves.	mabilis	0	0
+Marami siyang kumain.	Il mange beaucoup.	kumain	0	0
+Bakit hindi mo hanapin sa direktori ng telepono?	Pourquoi ne regardes-tu pas dans le répertoire de ton téléphone ?	hanapin	0	0
+"Misr" ang tawag sa Ehipto sa wikang Arabo.	L'Égypte s'appelle « Misr » en arabe.	tawag	0	0
+Nagsisinungaling ang gobyerno.	Le gouvernement ment.	gobyerno	0	0
+Nang mga araw noon, ang pagtingin ko sa akin ay guwapo ako.	En ce temps-là, je me voyais plutôt comme un beau mec.	guwapo	0	0
+Pakikuwento ulit sa akin, nga.	Raconte-moi l'histoire encore une fois, s'il te plaît.	ulit	0	0
+Tulad ko, alam mo na mamamatay tayo rito.	Tu sais aussi bien que moi que nous allons mourir ici.	mamamatay	0	0
+Mas malaki at mas malakas ang tigre kaysa sa pusa.	Un tigre est plus gros et plus fort qu'un chat.	malakas	0	0
+Hindi mo palaging naiintindihan.	Tu ne comprends toujours pas.	naiintindihan	0	0
+Ang sabi ng libro ay ang mga unang tulay ay noon pang panahong Neolitiko.	Ce livre dit que les premiers ponts remontent au Néolithique.	unang	0	0
+Darating kami diyan sa loob ng isang oras.	Nous y arriverons en moins d'une heure.	darating	0	0
+Tumawag ka ng sinumang marunong mag-Hapon, pakisuyo.	Appelle quelqu'un qui parle japonais, s'il te plaît.	tumawag	0	0
+Sinong magsasalita ngayong gabi?	Qui va parler ce soir ?	sinong	0	0
+Ikaw ang may-ari.	Tu es le propriétaire.	may-ari	0	0
+Kailan nagsimula ang kabuhayan?	Quand la vie est-elle apparue ?	kailan	0	0
+Kuwarto ko ito.	Voici ma chambre.	kuwarto	0	0
+Sobrang hirap talaga ng buhay minsan.	La vie est vraiment dure parfois.	hirap	0	0
+Kapag mas mataas ang puno, mas mahirap itong akyatin.	Plus un arbre est grand, plus c'est difficile de l'escalader.	mahirap	0	0
+Hindi niya sinabi sa akin kung kailan siya babalik.	Il ne m'a pas dit quand il reviendra.	babalik	0	0
+Sobrang hirap talaga ng buhay minsan.	La vie est vraiment dure parfois.	sobrang	0	0
+Takot siyang mawalan ng pera.	Elle a peur de perdre de l'argent.	pera	0	0
+Hindi mo alam ang Aleman, 'di ba?	Tu ne sais pas l'allemand, si ?	aleman	0	0
+Natanggap namin ang balita ng inyong kasal.	Nous avons reçu leur faire-part de mariage.	kasal	0	0
+Tatlong araw na kami rito.	Nous sommes ici depuis trois jours.	tatlong	0	0
+Tahimik!	Silence !	tahimik	0	0
+Huwag mong kalimutan ang tiket.	N'oublie pas le billet.	kalimutan	0	0
+Meron kang lakas ng loob!	Vous en avez, du courage !	lakas	0	0
+Ang tanong ay kung magagawa niya o hindi.	La question est s'il peut le faire ou pas.	tanong	0	0
+Hindi ako nagbibigay ng ikalawang pagkakataon.	Je ne donne pas de secondes chances.	nagbibigay	0	0
+Gusto kong maglaro ng mga salita.	J'aime jouer avec les mots.	salita	0	0
+May sakit ang lolo ko.	Mon grand-père est malade.	sakit	0	0
+Natagpo niya ang kanyang kaibigan nang unang beses noong naglangoy siya sa dagat.	Il rencontra son ami pour la première fois alors qu'il prenait un bain de mer.	dagat	0	0
+Ang mga anak ng wikang Ingles ay mga kreyol tulad ng Tok Pisin mula sa Papua New Guinea. Maaari nilang ipagpatuloy ang pag-unlad. Kung magkaroon ng isang malaking gera, ang mga tao ay maaaring mabukod at ang mga bagong pidgin at kreyol ay mabubuo mula sa Ingles.	Les enfants de la langue anglaise sont des créoles comme Tok Pisin de Papouasie-Nouvelle-Guinée. Ils pourraient poursuivre le développement. S'il y avait une grande guerre, les gens pourraient devenir isolés et de nouveaux pidgins et créoles se formeraient à partir de l'anglais.	magkaroon	0	0
+Umupo siya sa tabi ng ilog.	Il s'est assis sur la rive du ruisseau.	tabi	0	0
+Ibigay mo sa akin ang kutsara.	Donne-moi la cuillère.	ibigay	0	0
+Nanalo ang Estados Unidos sa karerang papunta sa buwan.	Les États-Unis avaient gagné la course à la lune.	papunta	0	0
+Ang maleta niya'y puno ng tubig.	Sa valise était remplie d'eau.	puno	0	0
+Galit na tulog ang mga kuru-kurong berdeng walang kulay.	Les idées vertes incolores dorment furieusement.	galit	0	0
+Ipakikita mo ba sa akin ang litrato?	Me montrerez-vous la photo ?	litrato	0	0
+Hindi siya mahilig magtakong.	Elle n'aime pas porter des chaussures à talons.	mahilig	0	0
+Wala ka bang maalala?	Ne vous souvenez-vous pas de quoi que ce soit ?	maalala	0	0
+Ngayong narito na ako, huwag ka nang mag-alala.	Maintenant que je suis ici, tu n'as pas à t'inquiéter.	narito	0	0
+Nahuli niya ang dalawampung paru-paro.	Il a attrapé vingt papillons.	nahuli	0	0
+Hinihintay ko ang isang sulat mula sa kanya.	J'attends une lettre d'elle.	sulat	0	0
+Ako'y bingi at hindi kita naririnig.	Je suis sourd, et je ne peux pas t'entendre.	naririnig	0	0
+May ilog sa tabi ng bahay.	Il y a une rivière à côté de la maison.	ilog	0	0
+May ilang barko sa lawa.	Il y a quelques bateaux sur le lac.	lawa	0	0
+Ito ay kakaiba.	C'est étrange.	kakaiba	0	0
+Dali!	Grouille !	dali	0	0
+Ilang oras ka nagtatrabaho bawat linggo?	Combien d'heures travaillez-vous par semaine ?	nagtatrabaho	0	0
+Anong gusto ninyong inumin?	Que voulez-vous boire ?	inumin	0	0
+Itong batang babae'y mukhang lalaki.	Cette fille ressemble à un garçon.	batang	0	0
+Hinahanap ko ang aking sariling katotohanan.	Je cherche ma propre vérité.	hinahanap	0	0
+Kailangan kung gamitin ang dictionary.	Je dois utiliser le dictionnaire.	gamitin	0	0
+Hinahanap ko ang aking sariling katotohanan.	Je cherche ma propre vérité.	katotohanan	0	0
+Papatayin ako ng aking asawa.	Ma femme va me tuer.	papatayin	0	0
+Papuntang Europa para mag-aral ng musika ang maraming estudyante.	Beaucoup d'étudiants vont en Europe pour étudier la musique.	estudyante	0	0
+Siya ay nagdesisyong sumubok muli.	Il a décidé de réessayer.	muli	0	0
+Mahalaga ang pamilya.	La famille est importante.	mahalaga	0	0
+Ito ang sikreto ko. Talagang simple: Walang makakitang magaling kundi sa puso. Ang pinakaimportante ay di makita ng mata.	Voici mon secret. Il est tout à fait simple : on ne voit bien qu'avec le cœur. Le plus important est invisible aux yeux.	mata	0	0
+Mananatili ako rito gaya ng sabi ng bosing ko.	Je resterai ici comme mon patron me l'a ordonné.	gaya	0	0
+Nangyari na noon at posibleng mangyari muli.	Cela s'est déjà passé et se passera probablement encore.	mangyari	0	0
+Kailangang kumain para mabuhay, at hindi mabuhay para kumain.	Il faut manger pour vivre, et non pas vivre pour manger.	mabuhay	0	0
+Gaano katagal ang istap-ober?	Combien de temps dure l'escale ?	gaano	0	0
+Ang mga elepante ang pangunahing atraksyon ng sirko.	Les éléphants sont l'attraction principale du cirque.	pangunahing	0	0
+Neptuno ang ika-8 planeta sa Sistemang Solar.	Neptune est la huitième planète du système solaire.	planeta	0	0
+Ang sarap ng tokwa.	Le tofu est délicieux.	sarap	0	0
+Pagod na ako sa buhay na ito.	Je suis fatigué de cette vie.	pagod	0	0
+Bukas, di ako papuntang sinehan.	Demain, je ne vais pas au cinéma.	papuntang	0	0
+Wala akong naintindihan!	Je n'ai rien compris !	naintindihan	0	0
+Hindi mo pwedeng pitasin ang mga bulaklak.	Vous ne pouvez pas cueillir les fleurs.	pwedeng	0	0
+Mas malaki at mas malakas ang tigre kaysa sa pusa.	Un tigre est plus gros et plus fort qu'un chat.	pusa	0	0
+Pumuntang bumili kasama ang kapatid kong lalaki ang nanay ko.	Mère est allée faire des courses avec mon frère.	bumili	0	0
+Tinapos mo nang basahin itong libro?	As-tu fini de lire ce livre ?	libro	0	0
+Pinatulog ng ina ang kanyang anak.	La mère a fait dormir son enfant.	ina	0	0
+Meron ka bang Facebook account?	As-tu un compte Facebook ?	facebook	0	0
+Simula bukas hindi na ako maninigarilyo.	À partir de demain, j'arrête de fumer.	simula	0	0
+Gusto kong maglakad sa mga bundok.	J'aime marcher dans les montagnes.	bundok	0	0
+Nagsimula siyang tumakbo.	Il commença à courir.	tumakbo	0	0
+Kumuha kayo ng itlog sa ref.	Prenez un œuf dans le réfrigérateur.	itlog	0	0
+Hindi ninyo maintindihan ang sinabi niya.	Vous ne pouviez pas comprendre ce qu'il a dit.	maintindihan	0	0
+Sa Tokyo siya pinanganak at lumaki.	Il est né et a été élevé à Tokyo.	lumaki	0	0
+Kailangan mo ring magpunta roon.	Vous devez y aller aussi !	ring	0	0
+Isip ko'y gutom ka.	Je pense que tu as faim.	gutom	0	0
+Talagang sexy ka.	Tu es très sexy.	sexy	0	0
+Sino ang may gawa niyan kahapon?	Qui a fait ça hier ?	gawa	0	0
+Ang ulan sa Abril ay magaling sa lupa.	La pluie en avril est profitable à la terre.	ulan	0	0
+Kapag mas mataas ang puno, mas mahirap itong akyatin.	Plus un arbre est grand, plus c'est difficile de l'escalader.	mataas	0	0
+Ginagamit ko ang aking guni-guni.	J'ai utilisé mon imagination.	ginagamit	0	0
+Tumira ako sa Sendai nang sampung taon bago dumating sa Tokyo.	J'ai vécu à Sendai pendant dix ans avant de venir à Tokyo.	sampung	0	0
+Ang mga taong naninirahan sa kanya sa Londres ay bibisita sa akin.	Les gens avec qui il vit à Londres me rendront visite.	naninirahan	0	0
+Isipin muli.	Repenses-y.	isipin	0	0
+Ang kanilang mga ugali ay talagang nakakatawa!	Leur attitude est vraiment ridicule !	nakakatawa	0	0
+Mabait kayo.	Vous êtes bonne.	mabait	0	0
+Kahoy ang mga silyang ito.	Ces chaises sont faites de bois.	kahoy	0	0
+Totoong bata pa siya, pero talagang maaasahan.	Il est vrai qu'il est jeune, mais il est très fiable.	totoong	0	0
+Seryoso ba?	C'est grave ?	seryoso	0	0
+Anong masasabi mo sa kape pa nga ba?	Que diriez-vous de plus de café ?	masasabi	0	0
+Meron ding lumilipad na isda.	Les poissons volants existent aussi.	ding	0	0
+Nagsimula siyang tumakbo.	Il commença à courir.	nagsimula	0	0
+Natalo ang mga Pranses sa Waterloo.	Les Français furent vaincus à Waterloo.	pranses	0	0
+Kung saan may buhay, may pag-asa.	Là où il y a de la vie, il y a de l'espoir.	pag-asa	0	0
+Di ko mahanap ang mga salita.	Je ne trouve pas les mots.	mahanap	0	0
+Nawiwili ako sa plano nila.	Leur plan m'a l'air intéressant.	plano	0	0
+Tinanggap niya ang ideya ko.	Elle a accepté mon idée.	ideya	0	0
+Anong paborito mong kulay?	Quelle est ta couleur préférée ?	paborito	0	0
+Tumalon siyang pataas ng kanal.	Il sauta par-dessus un fossé.	pataas	0	0
+Kawawala lamang ng aking bagong walet na itim.	Je viens, à l'instant, de perdre mon nouveau portefeuille noir.	itim	0	0
+Umupo siya sa tabi ng ilog.	Il s'est assis sur la rive du ruisseau.	umupo	0	0
+Hinihintay ko ang isang sulat mula sa kanya.	J'attends une lettre d'elle.	hinihintay	0	0
+Aalis ako nang pabalik siya.	Je partirai lorsqu'elle reviendra.	aalis	0	0
+May masasamang balita ako para sa iyo.	J'ai des mauvaises nouvelles pour vous.	balita	0	0
+Si Tom ay mas matanda nang kaunti kaysa sa ibang mga estudyante sa klase.	Tom est un peu plus âgé que le reste des étudiants de sa classe.	klase	0	0
+Matuto ka mula sa pagkakamali ng iba.	Apprends des erreurs des autres.	pagkakamali	0	0
+Pumili ka ng tamang salita!	Choisissez le mot juste !	tamang	0	0
+Nagkopyahan ang mga sumasayaw.	Les danseurs se copiaient.	sumasayaw	0	0
+Salbahe bang alisin ang pangalmot ng pusa niya?	Est-il cruel de retirer les griffes de son chat ?	alisin	0	0
+Sumulat si Fred ng isang mahabang sulat sa kanyang nanay.	Fred a écrit une longue lettre à sa mère.	mahabang	0	0
+Bumaba ka at maghinaw.	Descends et lave-toi !	bumaba	0	0
+Nasiyahan ang mga kaibigan ko sa aking tagumpay.	Mes amis me félicitèrent pour mon succès.	tagumpay	0	0
+Nakakita ako ang isang lobo, isang soro at isang kuneho.	J'ai vu un loup, un renard et un lapin.	kuneho	0	0
+Nagbayad ako sa kanya ng apat na dolyar.	Je l'ai payé quatre dollars.	apat	0	0
+Malayo pa?	C'est encore loin ?	malayo	0	0
+Ayaw niyang tanggapin ang inaalok kong biskwit.	Il ne veut pas accepter le biscuit que je lui offre.	tanggapin	0	0
+Anong gusto mong kainin ngayon?	Qu'aimeriez-vous manger aujourd'hui ?	kainin	0	0
+Ang mga paaralan sa Pransiya ay walang pasok ngayong Miyerkules.	En France les écoles ont congé ce mercredi.	pasok	0	0
+Ingat, may baka sa daan!	Attention, il y a une vache sur la route !	ingat	0	0
+Nanalo ang Estados Unidos sa karerang papunta sa buwan.	Les États-Unis avaient gagné la course à la lune.	nanalo	0	0
+Isang saglit po; sa linya po kayo.	Une seconde s'il vous plait, restez en ligne.	linya	0	0
+Kung magbasa ako ng isang libong librong Ingles, magiging matatas ba ako roon?	Si je lis mille livres en anglais, le parlerais-je couramment ?	libong	0	0
+Sino ang may gawa niyan kahapon?	Qui a fait ça hier ?	niyan	0	0
+Umaasa kaming maganda ang panahon bukas.	Espérons qu'il fera beau demain.	umaasa	0	0
+Ang mga anak ng wikang Ingles ay mga kreyol tulad ng Tok Pisin mula sa Papua New Guinea. Maaari nilang ipagpatuloy ang pag-unlad. Kung magkaroon ng isang malaking gera, ang mga tao ay maaaring mabukod at ang mga bagong pidgin at kreyol ay mabubuo mula sa Ingles.	Les enfants de la langue anglaise sont des créoles comme Tok Pisin de Papouasie-Nouvelle-Guinée. Ils pourraient poursuivre le développement. S'il y avait une grande guerre, les gens pourraient devenir isolés et de nouveaux pidgins et créoles se formeraient à partir de l'anglais.	new	0	0
+Ang lawa ay puno ng maliliit na isda.	L'étang était plein de petits poissons.	isda	0	0
+Gumising ako nang alas 6 ng itong umaga.	Je me suis réveillé à six heures ce matin.	gumising	0	0
+Nasaan ang relo ko?	Où est ma montre ?	relo	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Voici mon secret. Il est très simple : on ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.	lihim	0	0
+Mas maraming keso, mas maraming butas. Mas maraming butas, mas kaunting keso. Kaya: mas maraming keso, mas kaunting keso.	Plus de fromage, plus de trous. Plus de trous, moins de fromage. Donc : plus de fromage, moins de fromage.	butas	0	0
+Tumakbo, kasama; ang lumang mundo ay nasa likod mo na!	Cours, camarade, le vieux monde est derrière toi !	lumang	0	0
+Naglaro kami ng beysbol.	Nous avons joué au baseball.	naglaro	0	0
+Importante ang pamilya.	La famille est importante.	importante	0	0
+Nakakita ako ang isang lobo, isang soro at isang kuneho.	J'ai vu un loup, un renard et un lapin.	nakakita	0	0
+Magkano para sa pulang sombrero?	Combien pour ce chapeau rouge ?	magkano	0	0
+Iyon talaga ang naiisip ko.	C'est ce que je pense en effet.	naiisip	0	0
+Hindi makalipad itong ibon.	Cet oiseau ne peut pas voler.	ibon	0	0
+Tatawagin kita nang alas siyete.	Je t'appellerai à sept heures.	tatawagin	0	0
+Isip ko'y gutom ka.	Je pense que tu as faim.	isip	0	0
+Kumakanta ang mga ibon sa langit.	Les oiseaux chantaient dans le ciel.	langit	0	0
+Ano ang pinagkaiba ng aso sa lobo?	Quelle est la différence entre un chien et un loup ?	lobo	0	0
+Gusto mo ba ng konting alak?	Un peu de vin te dirait-il ?	alak	0	0
+Gagamitin ko ang gunting na iyan sa paggupit ng papel na dilaw.	Je vais utiliser cette paire de ciseaux pour couper le papier jaune.	papel	0	0
+Kailangan kong uminom ng anuman para sa aking sipon.	Je dois prendre quelque chose pour mon rhume.	uminom	0	0
+Kailangan namin ng pagkain, mga damit at bahay upang mabuhay.	Pour vivre on a besoin de nourriture, de vêtements et d'un toit.	damit	0	0
+Pangit kayo, mga kaibigan ko!	Vous êtes laides, mes amies !	pangit	0	0
+Nag-aaral ka araw-araw?	Étudiez-vous chaque jour ?	araw-araw	0	0
+Mag-ingat ka sa mga mangdudukot, Ken.	Fais attention aux pickpockets, Ken.	mag-ingat	0	0
+Kumakain ako ng saging.	Je suis en train de manger une banane.	kumakain	0	0
+Naging talagang mas mainit ang panahon.	Le temps est devenu beaucoup plus chaud.	mainit	0	0
+Mananatili ako rito gaya ng sabi ng bosing ko.	Je resterai ici comme mon patron me l'a ordonné.	mananatili	0	0
+Inimbita ko sila sa pista.	Je les ai invités à la fête.	inimbita	0	0
+Iyon ay mahaba.	Cela est long.	mahaba	0	0
+Salamat sa mga magagandang bulaklak.	Merci pour les belles fleurs.	magagandang	0	0
+Oras nang matulog.	Il est temps d'aller dormir.	matulog	0	0
+Ang boses mo sa kanta ay kasing maliwanag ng tubig ng Pasipiko.	Ta voix chantante est claire comme l'eau du Pacifique.	kanta	0	0
+Parini ang masarap na sopas!	Par ici la bonne soupe !	masarap	0	0
+Lumapit siya sa akin at tinanong niya ang pangalan ko.	Elle est venue près de moi et a demandé mon nom.	tinanong	0	0
+May naniniwala sa Diyos at may ibang hindi.	Certains croient en Dieu, d'autres non.	naniniwala	0	0
+L'edat ideau peu maridatge qu'ei haut o baish de dètz-e-ueit ans entà las gojatas e trenta-sèt ans entaus òmis.	L'âge approprié pour le mariage est à peu près de dix-huit ans pour les filles et de trente-sept ans pour les hommes.	e	0	0
+Itong mesa ay para sa anim na tao.	Cette table est pour six personnes.	anim	0	0
+Ang boses mo sa kanta ay kasing maliwanag ng tubig ng Pasipiko.	Ta voix chantante est claire comme l'eau du Pacifique.	kasing	0	0
+Kahit ang isang manok na bulag ay nakakahanap ng butil.	Même une poule aveugle sait trouver du grain.	manok	0	0
+Dapat mag-aral ka pa.	Tu dois apprendre davantage.	mag-aral	0	0
+Di ako ang kaaway ninyo.	Je ne suis pas votre ennemi.	kaaway	0	0
+Gusto niyang magtrabaho sa halamanan.	Il aime travailler au jardin.	magtrabaho	0	0
+Kahit ang isang manok na bulag ay nakakahanap ng butil.	Même une poule aveugle sait trouver du grain.	bulag	0	0
+Gusto mo ng pelikula?	Aimes-tu les films ?	pelikula	0	0
+L'edat ideau peu maridatge qu'ei haut o baish de dètz-e-ueit ans entà las gojatas e trenta-sèt ans entaus òmis.	L'âge approprié pour le mariage est à peu près de dix-huit ans pour les filles et de trente-sept ans pour les hommes.	de	0	0
+Ang lawa ay puno ng maliliit na isda.	L'étang était plein de petits poissons.	maliliit	0	0
+Guro ako nang labinlimang taon.	J'ai été enseignant pendant quinze ans.	guro	0	0
+Huwag kang pumasok sa kwarto ko nang hindi kumakatok!	N'entrez pas dans ma chambre sans frapper !	kwarto	0	0
+Anong nasa ibabaw ng sulatan?	Qu'est-ce qui est sur le bureau ?	ibabaw	0	0
+Doktor ba siya?	Est-il docteur ?	doktor	0	0
+Nalalamigan ako sa paa.	J'ai froid aux pieds.	paa	0	0
+Puwede siyang magpahinga.	Elle peut se reposer.	magpahinga	0	0
+Para gumawa ng isang keyk, kailangan mong gumamit ng itlog, mantikilya at asukal.	Pour faire un gâteau, vous devez utiliser des œufs, du beurre et du sucre.	gumamit	0	0
+May posibilidad ng digmaan.	La possibilité d'une guerre existe.	digmaan	0	0
+Nagbebenta ng gulay ang tindahan.	Le magasin vend des légumes.	tindahan	0	0
+Lumipat sila dito nang nakalipas na tatlong taon.	Elles ont déménagé ici il y a trois ans.	nakalipas	0	0
+Malimit siyang tumawa sa kanyang sariling biro.	Il rit souvent à ses propres plaisanteries.	sariling	0	0
+Si Mary ay isang bruha.	Marie est une sorcière.	mary	0	0
+Sa mga mainit na bansa lumalaki ang mga bulaklak na ito.	Ces fleurs poussent dans les pays chauds.	lumalaki	0	0
+Tinatanggap niya ang mga regalo.	Elle accepte les cadeaux.	regalo	0	0
+Interesado ako sa Kasaysayan ng Hapon.	Je m'intéresse à l'histoire japonaise.	kasaysayan	0	0
+Tumatakbo ang batang lalaki.	Ce garçon est en train de courir.	tumatakbo	0	0
+Huwag mong kalimutan ang iyong ID upang makapasok ka sa konsyerto bukas.	N'oublie pas ta carte d'identité, afin de pouvoir assister au concert demain.	makapasok	0	0
+Ang bapor na nagtratransporte ng krudo'y kung tawagin ay tanker.	Un bateau qui transporte du pétrole est appelé un tanker.	tawagin	0	0
+Ano'ng klase ng karne ang ihinahain niyo?	Quels plats de viande servez-vous ?	karne	0	0
+Ang kanilang mga ugali ay talagang nakakatawa!	Leur attitude est vraiment ridicule !	ugali	0	0
+Di ko gusto ang atmosperang mapolusyon ng mga malalaking siyudad.	Je n'aime pas l'atmosphère polluée des grandes villes.	malalaking	0	0
+Masyado iyan.	Ça c'est trop.	masyado	0	0
+Itong gamot ay walang epektong sekundarya.	Ce médicament n'a pas d'effets secondaires.	gamot	0	0
+Magtanong ka!	Demande !	magtanong	0	0
+Nagkamali kong nakuha ang kanyang payong.	J'ai pris son parapluie par erreur.	nagkamali	0	0
+Nararamdaman niyang pagod siya.	Il se sent fatigué.	nararamdaman	0	0
+Binigay ko ang silya ko sa matandang babae.	Je donnai mon siège à la vieille dame.	binigay	0	0
+Sinong may gusto ng responsabilidad para sa gulong ito?	Qui assume la responsabilité de ce foutoir ?	gulong	0	0
+Malimit siyang tumawa sa kanyang sariling biro.	Il rit souvent à ses propres plaisanteries.	biro	0	0
+Bakit ganyan kalaki ang bibig mo?	Pourquoi ta bouche est-elle si grande ?	bibig	0	0
+Mamayang gabi, gusto ko ng pizza.	J'ai envie de pizza ce soir.	mamayang	0	0
+Mas gusto nila ang mga babaeng maskulino.	Ils préfèrent les femmes masculines.	babaeng	0	0
+Bawasan ang salita; paramihan ang kilos.	Moins de mots, davantage d'actions.	kilos	0	0
+Anong gusto ninyong inumin?	Que voulez-vous boire ?	ninyong	0	0
+Ang buhay ay dakilang hiwaga.	La vie est un grand mystère.	dakilang	0	0
+Walang araw at ang buhay ay imposible.	Sans soleil, la vie est impossible.	imposible	0	0
+Sabi ng lola ko na umaaraw pagkatapos ng ulan; iyon lamang na optimista siya.	Ma mamie disait qu'après la pluie vient le soleil, elle était optimiste, voilà tout.	lola	0	0
+Namumulaklak ng maigi ang mga punong tseri.	Les cerisiers sont en pleine floraison.	punong	0	0
+May isang daang sentimetro sa isang metro.	Dans un mètre il y a cent centimètres.	daang	0	0
+Nagsisinungaling ang pamahalaan.	Le gouvernement ment.	nagsisinungaling	0	0
+Nag-aaral ng oras ang mga bata.	Les enfants apprennent l'heure.	nag-aaral	0	0
+Aling sapatos ang napakaliit?	Quelles chaussures sont trop petites ?	sapatos	0	0
+Galit na tulog ang mga kuru-kurong berdeng walang kulay.	Les idées vertes incolores dorment furieusement.	berdeng	0	0
+Ang iingay ng mga sasakyan dito sa amin.	Les véhicules sont bruyants chez nous.	sasakyan	0	0
+Parating dapat mag-isip kayo bago magsalita.	Vous devez toujours réfléchir avant de parler.	mag-isip	0	0
+Galit na tulog ang mga kuru-kurong berdeng walang kulay.	Les idées vertes incolores dorment furieusement.	tulog	0	0
+Parang bata siya kung kumilos.	Elle se comporte de façon puérile.	kumilos	0	0
+Talagang marunong siyang magluto.	Il sait bien cuisiner.	marunong	0	0
+Ang pobreng dalaga'y naghahanapbuhay nang nagtitinda ng bulaklak.	La pauvre fille gagnait sa vie en vendant des fleurs.	bulaklak	0	0
+Inimport ang kulturang Amerikano galing sa Europa.	La culture américaine a été importée d'Europe.	europa	0	0
+Di ko gusto ang atmosperang mapolusyon ng mga malalaking siyudad.	Je n'aime pas l'atmosphère polluée des grandes villes.	siyudad	0	0
+Isang baso ng tubig, po.	Un verre d'eau, s'il vous plaît.	baso	0	0
+Ang sabi ng libro ay ang mga unang tulay ay noon pang panahong Neolitiko.	Ce livre dit que les premiers ponts remontent au Néolithique.	panahong	0	0
+Sino ang paborito mong artista?	Qui est ton acteur préféré ?	artista	0	0
+Nakasuot siya ng parehong sombrero nang isang buwan na.	Elle porte le même chapeau depuis un mois.	nakasuot	0	0
+Gusto niyang tumira sa Tokyo.	Il aime vivre à Tokyo.	tumira	0	0
+Matangkad ang babae.	La femme est grande.	matangkad	0	0
+Sinulat niya ang aklat na ito noong siya ay dalawmpung taong gulang.	Il écrivit ce livre à l'âge de vingt ans.	sinulat	0	0
+Ang ganda niya!	Qu'elle est belle !	ganda	0	0
+Ibigay mo sa akin ang kutsara.	Donne-moi la cuillère.	kutsara	0	0
+Maingat kayo sa inyong kinakain.	Soyez prudentes quant à ce que vous mangez.	kinakain	0	0
+Kailangan kong uminom ng anuman para sa aking sipon.	Je dois prendre quelque chose pour mon rhume.	anuman	0	0
+Gusto niyang may kausap siya.	Il veut qu'on parle avec lui.	kausap	0	0
+Nagkakamali ka kung iniisip mong siya ay mali.	Tu te trompes si tu penses qu'il a tort.	nagkakamali	0	0
+Palagi siyang nakikinig ng balita sa radyo.	Il écoute toujours les nouvelles à la radio.	nakikinig	0	0
+Para siyang masakit ang ulo.	Elle a l'air d'avoir mal à la tête.	masakit	0	0
+Tinapos niya ang paghahanap ng perlas.	Il cessa de chercher la perle.	tinapos	0	0
+Ang pangarap ko'y nasa Hapon ako.	Mon rêve est de me rendre au Japon.	pangarap	0	0
+Nahulog ang mansanas galing sa puno.	La pomme est tombée de l'arbre.	nahulog	0	0
+Laging maganda ang sinasabi tungkol kay Tom.	Tout le monde parle toujours de Tom en bien.	laging	0	0
+Kahit na siya ay mayaman, hindi siya masaya.	Bien qu'il soit riche, il n'est pas heureux.	mayaman	0	0
+Lumapit siya sa akin at tinanong niya ang pangalan ko.	Elle est venue près de moi et a demandé mon nom.	lumapit	0	0
+Nasa Tokyo siya.	Il est à Tokyo.	tokyo	0	0
+Sigurado ka bang tutulungan niya tayo?	Es-tu certain qu'il nous aidera ?	tutulungan	0	0
+Malapit ba ang tirahan niya?	Est-ce qu'il vit près d'ici ?	tirahan	0	0
+Gusto ko ng kutsilyo.	Je veux un couteau.	kutsilyo	0	0
+Dahan-dahan tayong namumulok.	Nous nous décomposons lentement.	dahan-dahan	0	0
+Ang ingay ay nagpanatili sa akin nang gising buong gabi.	Le bruit me garda éveillée toute la nuit.	ingay	0	0
+Ang boses mo sa kanta ay kasing maliwanag ng tubig ng Pasipiko.	Ta voix chantante est claire comme l'eau du Pacifique.	maliwanag	0	0
+Nabasa na ninyo ba ang librong ito?	Avez-vous déjà lu ce livre ?	nabasa	0	0
+Sa matandang edad, pumapasok kahit na ang dyablo sa pagmomongha.	À un âge avancé, même le diable entrerait dans les ordres.	pumapasok	0	0
+Ang mga anak ng wikang Ingles ay mga kreyol tulad ng Tok Pisin mula sa Papua New Guinea. Maaari nilang ipagpatuloy ang pag-unlad. Kung magkaroon ng isang malaking gera, ang mga tao ay maaaring mabukod at ang mga bagong pidgin at kreyol ay mabubuo mula sa Ingles.	Les enfants de la langue anglaise sont des créoles comme Tok Pisin de Papouasie-Nouvelle-Guinée. Ils pourraient poursuivre le développement. S'il y avait une grande guerre, les gens pourraient devenir isolés et de nouveaux pidgins et créoles se formeraient à partir de l'anglais.	pag-unlad	0	0
+May sakit ang lolo ko.	Mon grand-père est malade.	lolo	0	0
+Ang sagot ay "oo".	La réponse est « oui ».	sagot	0	0
+Kahit ang isang manok na bulag ay nakakahanap ng butil.	Même une poule aveugle sait trouver du grain.	butil	0	0
+Anong klaseng libro ang kailangan mo?	De quelle sorte de livres as-tu besoin ?	klaseng	0	0
+Walang magawa ang batang babae kundi umiyak.	La fille ne faisait que pleurer.	magawa	0	0
+Maraming bituin ang makikita itong gabi.	De nombreuses étoiles sont à voir ce soir.	bituin	0	0
+Hindi palaging nakukuha ni Tom ang kanyang gusto.	Tom ne peut pas toujours avoir ce qu'il veut.	nakukuha	0	0
+Itim ang oso.	L'ours est noir.	oso	0	0
+Tinawagan ako sa Tokyo.	Il m'a appelé de Tokyo.	tinawagan	0	0
+Nag-order ako ng pizza sa telepono.	J'ai commandé une pizza par téléphone.	pizza	0	0
+Nagsasalita ba kayo ng Tagalog?	Parles-tu tagalog ?	nagsasalita	0	0
+Magandang gabi, mga ginang at ginoo!	Bonsoir Mesdames et Messieurs !	ginang	0	0
+Sa matandang edad, pumapasok kahit na ang dyablo sa pagmomongha.	À un âge avancé, même le diable entrerait dans les ordres.	matandang	0	0
+Humingi si Tomas ng kape pa.	Tom demanda plus de café.	humingi	0	0
+Anong ginagawa mo sa karamihan ng oras?	Que faites-vous, la plupart du temps ?	karamihan	0	0
+Si Tom ay nagtuturo ng Pranses sa Boston.	Tom enseigne le français à Boston.	nagtuturo	0	0
+Kumakanta ang mga ibon sa langit.	Les oiseaux chantaient dans le ciel.	kumakanta	0	0
+Meron ding lumilipad na isda.	Les poissons volants existent aussi.	lumilipad	0	0
+Mapanganib lumangoy sa lawa.	C'est dangereux de nager dans l'étang.	mapanganib	0	0
+Nasiyahan ang mga kaibigan ko sa aking tagumpay.	Mes amis me félicitèrent pour mon succès.	nasiyahan	0	0
+Naku! Hindi ko napansin at naiwan ko ang aking cellphone sa restawran.	Oh non ! Je ne faisais pas attention et j'ai laissé mon téléphone portable au restaurant.	cellphone	0	0
+Kaharap ang timog ng bahay.	Ma maison est face au sud.	timog	0	0
+Ang ibig sabihin ng amnesya ay pagkawala ng memorya.	Amnésie signifie « perte de mémoire ».	pagkawala	0	0
+"Huwag mo na akong hintayin." "Hindi naman talaga kita hihintayin."	« Ne m'attends pas. » « Je n'allais pas t'attendre. »	hintayin	0	0
+Kalma at marikit na nayon ang Nara.	Nara est une ville calme et jolie.	kalma	0	0
+Mahirap alagaan ang umiiyak na sanggol.	C'est difficile de soigner un bébé qui pleure.	alagaan	0	0
+Hindi palaging nakukuha ni Tom ang kanyang gusto.	Tom ne peut pas toujours avoir ce qu'il veut.	palaging	0	0
+Nakaupo ang tao sa kabila ng bangbang.	L'homme est assis de l'autre côté du ruisseau.	nakaupo	0	0
+Ang ingay ay nagpanatili sa akin nang gising buong gabi.	Le bruit me garda éveillée toute la nuit.	gising	0	0
+Ilagay mo ang silya sa harap ng eskritoryo.	Place la chaise devant le bureau.	ilagay	0	0
+Nagdedekorasyon si Maria ng kanyang paso.	Marie décore sa poterie.	maria	0	0
+Tumawag ka ng sinumang marunong mag-Hapon, pakisuyo.	Appelle quelqu'un qui parle japonais, s'il te plaît.	sinumang	0	0
+Kanino iyan?	À qui est-ce ?	kanino	0	0
+Dahil sa napakaganda ng panahon, pwede ba akong magbukas ng isang bintana?	Vu qu'il fait beau, puis-je ouvrir la fenêtre ?	bintana	0	0
+Mabagal kumilos ang mga suso.	Les escargots se meuvent lentement.	suso	0	0
+Nakikita roon sa likod ng malaking puting gusali.	Vous voyez là derrière un grand bâtiment blanc.	puting	0	0
+May litrato sa dingding.	Il y a un tableau au mur.	dingding	0	0
+Pinangako niyang bantayan iyon para sa sarili niya.	Il promit de le garder pour lui.	bantayan	0	0
+Ba't binili mo?	Pourquoi l'as-tu acheté ?	binili	0	0
+Lilipad ang eroplano sa loob ng isang oras.	L'avion décollera dans une heure.	eroplano	0	0
+Nakita ko siyang naglalakad sa gilid ng kalsada.	Je l'ai vue marcher le long du trottoir.	gilid	0	0
+Nakapunta ka na ba sa nayong iyon?	Êtes-vous déjà allé dans ce village ?	nakapunta	0	0
+Itong mesa ay para sa anim na tao.	Cette table est pour six personnes.	mesa	0	0
+Itong bahay na pula ang bubong ay kay Tomas.	Cette maison au toit rouge est celle de Tom.	bubong	0	0
+May mga singsing siya sa kanyang taynga.	Elle portait des anneaux à ses oreilles.	singsing	0	0
+Oo, pumunta ako roon 2 o 3 beses.	Oui, j'y suis allé 2 ou 3 fois.	roon	0	0
+Hindi matapos-tapos ang daldalan ng mga babae.	Le bavardage des filles était sans fin.	daldalan	0	0
+Talagang hindi ako nag-enjoy sa pista.	Je ne me suis pas du tout amusé à la fête.	pista	0	0
+Namamalasakit ako tungkol sa kinabukasan ninyo.	Je suis vraiment concerné par votre avenir.	kinabukasan	0	0
+Nakakaaburido ang taong parating pinag-uusapan ang sarili.	Les personnes qui parlent constamment d'elles-mêmes, m'ennuient.	pinag-uusapan	0	0
+Inalis siya sa listahan.	Il a été rayé de la liste.	listahan	0	0
+Di ko mapigil ang sarili kong mag-isip.	Je ne peux pas m'empêcher de penser.	mapigil	0	0
+Ano ang petsa ngayon?	On est le combien aujourd'hui ?	petsa	0	0
+Umiyak siya nang binasa ang sulat.	Elle pleurait en lisant la lettre.	umiyak	0	0
+Lumulutang ang kanyang gintong buhok sa hangin ng tag-init.	Ses cheveux dorés flottaient dans le vent estival.	buhok	0	0
+Hindi ko mapigil tawanan ang kanyang gupit sa buhok.	Je ne pouvais m'empêcher de rire de sa coiffure.	tawanan	0	0
+Sumulat si Fred ng isang mahabang sulat sa kanyang nanay.	Fred a écrit une longue lettre à sa mère.	sumulat	0	0
+Punong-puno ng bulaklak ang hardin.	Le jardin était plein de fleurs.	punong-puno	0	0
+Wala nang tubig sa bote.	Il n'y a plus d'eau dans la bouteille.	bote	0	0
+Gagamitin ko ang gunting na iyan sa paggupit ng papel na dilaw.	Je vais utiliser cette paire de ciseaux pour couper le papier jaune.	gagamitin	0	0
+Nakita ko siyang naglalakad sa gilid ng kalsada.	Je l'ai vue marcher le long du trottoir.	kalsada	0	0
+Hindi po ako perpekto.	Je ne suis pas parfaite.	perpekto	0	0
+Palagi siyang nakikinig ng balita sa radyo.	Il écoute toujours les nouvelles à la radio.	palagi	0	0
+Meron pa bang asukal?	Y a-t-il encore du sucre ?	asukal	0	0
+Sa taglagas, naninilaw ang mga dahon.	En automne, les feuilles deviennent jaunes.	dahon	0	0
+Madaling mapagod si Tom.	Tom se fatigue facilement.	madaling	0	0
+Sa kabulaklakan ng edad siya.	Elle est à la fleur de l'âge.	edad	0	0
+May siyam na mga planeta ang araw.	Le Soleil a neuf planètes.	siyam	0	0
+Maganda ang boses niya.	Il a une voix agréable.	boses	0	0
+Ano ang kasiyahan?	C'est quoi le bonheur ?	kasiyahan	0	0
+Gusto ko ng kulay na pula.	J'aime la couleur rouge.	kulay	0	0
+Ininit niya ang malamig na sabaw para sa hapunan.	Elle réchauffa la soupe pour le dîner.	malamig	0	0
+Talagang hindi ako nag-enjoy sa pista.	Je ne me suis pas du tout amusé à la fête.	nag-enjoy	0	0
+Mahirap alagaan ang umiiyak na sanggol.	C'est difficile de soigner un bébé qui pleure.	umiiyak	0	0
+Si Tom ay mas matanda nang kaunti kaysa sa ibang mga estudyante sa klase.	Tom est un peu plus âgé que le reste des étudiants de sa classe.	kaunti	0	0
+Ang binibining ito ay nagmula sa Rusya.	La jeune dame vient de Russie.	nagmula	0	0
+Mas konting mapanglaw ang kulay na ito kaysa sa roon.	Cette couleur est un peu plus sombre que celle-ci.	konting	0	0
+Pinanganak siya sa ika-19 na siglo.	Il est né au XIXe siècle.	pinanganak	0	0
+Masarap ang ginawang bibingka ni Marisol.	Le bibingka de Marisol était délicieux.	ginawang	0	0
+Mas maraming keso, mas maraming butas. Mas maraming butas, mas kaunting keso. Kaya: mas maraming keso, mas kaunting keso.	Plus de fromage, plus de trous. Plus de trous, moins de fromage. Donc : plus de fromage, moins de fromage.	kaunting	0	0
+Dinedesigneyt ng mga linyang asul sa mapa ang mga ilog.	Les lignes bleues sur la carte désignent des fleuves.	mapa	0	0
+Ano ang kabisera ng Haiti?	Quelle est la capitale de Haïti ?	haiti	0	0
+Kailangan nating bilhin sila mula sa ibang bansa.	Nous devons les acheter à l'étranger.	bilhin	0	0
+Kinain ng aso ang isda, ang buto, ang buntot, at ang lahat.	Le chien a mangé le poisson, les arêtes, la queue et tout.	buto	0	0
+Walang mga demonyo sa daigdig na ito.	Il n'y a pas de démons en ce monde.	demonyo	0	0
+Iyan ang bolpen na nawala ko kahapon.	C'est le stylo que j'ai perdu hier.	kahapon	0	0
+May ilang barko sa lawa.	Il y a quelques bateaux sur le lac.	barko	0	0
+Ito ang mismong pitaka na nawala ko nang nakalipas na isang linggo.	C'est le même porte-monnaie que j'ai perdu il y a une semaine.	mismong	0	0
+Naku! Hindi ko napansin at naiwan ko ang aking cellphone sa restawran.	Oh non ! Je ne faisais pas attention et j'ai laissé mon téléphone portable au restaurant.	naiwan	0	0
+Aalis ako nang pabalik siya.	Je partirai lorsqu'elle reviendra.	pabalik	0	0
+Interesado ako sa Kasaysayan ng Hapon.	Je m'intéresse à l'histoire japonaise.	hapon	0	0
+Lilipad ang eroplano sa loob ng isang oras.	L'avion décollera dans une heure.	lilipad	0	0
+Nakita ko siyang naglalakad sa gilid ng kalsada.	Je l'ai vue marcher le long du trottoir.	naglalakad	0	0
+Inalagaan tayo ng ating mga magulang at ngayon tayo naman ang aalaga sa kanila.	Nos parents ont pris soin de nous et maintenant c'est à notre tour de prendre soin d'eux.	magulang	0	0
+Tinuturuan ako magluto ng aking tatay.	Mon père m'apprend à cuisiner.	tinuturuan	0	0
+Kasinungalingan iyan!	C'est un mensonge !	kasinungalingan	0	0
+Bakit ganyan kalaki ang bibig mo?	Pourquoi ta bouche est-elle si grande ?	kalaki	0	0
+Tamad ka!	Tu es paresseux !	tamad	0	0
+Ipakikita mo ba sa akin ang litrato?	Me montrerez-vous la photo ?	ipakikita	0	0
+Mapanganib lumangoy sa lawa.	C'est dangereux de nager dans l'étang.	lumangoy	0	0
+Paumanhin.	Désolé.	paumanhin	0	0
+Mag-ingat ka sa mga mangdudukot, Ken.	Fais attention aux pickpockets, Ken.	ken	0	0
+Eleganteng nawala ang daigdig.	Le monde disparaît élégamment.	daigdig	0	0
+Katangahan ang pagbabasa ng ganyang magasin.	C'est stupide de lire un tel magazine.	ganyang	0	0
+Bibili ako ng tinapay.	Je vais acheter du pain.	bibili	0	0
+Sa bansang Hapon, ang klase ay nagsisimula sa Abril.	Au Japon, l'année scolaire commence en avril.	bansang	0	0
+Ito ang sikreto ko. Talagang simple: Walang makakitang magaling kundi sa puso. Ang pinakaimportante ay di makita ng mata.	Voici mon secret. Il est tout à fait simple : on ne voit bien qu'avec le cœur. Le plus important est invisible aux yeux.	simple	0	0
+Dapat mong turuan ang dila mo nang ibukod ang magaling na kape sa masama.	Vous devez éduquer votre langue pour distinguer le bon café du mauvais.	turuan	0	0
+Ito ang sikreto ko. Talagang simple: Walang makakitang magaling kundi sa puso. Ang pinakaimportante ay di makita ng mata.	Voici mon secret. Il est tout à fait simple : on ne voit bien qu'avec le cœur. Le plus important est invisible aux yeux.	sikreto	0	0
+Gusto kong mag-aral sa Paris.	J'aimerais faire mes études à Paris.	paris	0	0
+Ilang mangkok ng kanin ang kinain mo?	Combien de bols de riz as-tu mangé ?	mangkok	0	0
+Matanda na si Brenna. Ang kagalitan at kainggitan ay mga emosyon niya.	Brenna est vieille. La colère et la jalousie sont ses émotions.	matanda	0	0
+Malaki ang dibdib niya.	Elle a de gros seins.	dibdib	0	0
+Wala akong madekleyr kundi ang henyo ko.	Je n'ai rien à déclarer, sauf mon génie.	henyo	0	0
+Ganoong kapagod siyang napatulog nang maaga.	Comme il était si fatigué, il s'endormit sans tarder.	maaga	0	0
+Matamis itong keyk.	Ce gâteau-ci est sucré.	matamis	0	0
+Ininit niya ang malamig na sabaw para sa hapunan.	Elle réchauffa la soupe pour le dîner.	hapunan	0	0
+"Seine" ang tawag sa ilog na umaagos sa Paris.	Le fleuve qui traverse Paris s'appelle la "Seine".	umaagos	0	0
+Malimit siyang tumawa sa kanyang sariling biro.	Il rit souvent à ses propres plaisanteries.	tumawa	0	0
+Ito ay kailangang magbago.	Il faut que ça change.	magbago	0	0
+Tumira akong magsarili sa bukid.	Il vécut seul à la campagne.	bukid	0	0
+Ito ang kusina ko.	Ceci est ma cuisine.	kusina	0	0
+Pinanganak siya sa ika-19 na siglo.	Il est né au XIXe siècle.	siglo	0	0
+Gusto kong maglaro ng mga salita.	J'aime jouer avec les mots.	maglaro	0	0
+Gusto mong magtrabaho sa METRO?!	Tu veux travailler à METRO ? !	metro	0	0
+Bakit ang laki ng buwan ngayong gabi?	Pourquoi la lune est-elle si grande ce soir ?	laki	0	0
+Huwag mong pag-usapan ang ganyang bagay.	Ne parlez pas d'une telle chose.	pag-usapan	0	0
+Dapat ipaligtas ang mga bilanggo.	Il faut libérer les prisonniers.	bilanggo	0	0
+Tatawagin kita nang alas siyete.	Je t'appellerai à sept heures.	alas	0	0
+Bawal manigarilyo!	Interdit de fumer !	bawal	0	0
+Kape pa nga.	Encore du café s'il vous plait.	kape	0	0
+Hindi ako marunong magluto.	Je suis incapable de cuisiner.	magluto	0	0
+Namumulaklak ng maigi ang mga punong tseri.	Les cerisiers sont en pleine floraison.	maigi	0	0
+Napansin ko ang brosyur.	J'ai jeté un œil dans la brochure.	napansin	0	0
+Tinapos niya ang paghahanap ng perlas.	Il cessa de chercher la perle.	paghahanap	0	0
+Ang kabayo ay isáng animál.	Un cheval est un animal.	kabayo	0	0
+Sinong magsasalita ngayong gabi?	Qui va parler ce soir ?	magsasalita	0	0
+Maingat kayo sa inyong kinakain.	Soyez prudentes quant à ce que vous mangez.	maingat	0	0
+Nagbayad ako sa kanya ng apat na dolyar.	Je l'ai payé quatre dollars.	nagbayad	0	0
+Pinangako niyang bantayan iyon para sa sarili niya.	Il promit de le garder pour lui.	pinangako	0	0
+Lumipat sila dito nang nakalipas na tatlong taon.	Elles ont déménagé ici il y a trois ans.	lumipat	0	0
+Sa otonyo pinakamaganda ang Kyoto.	C'est en automne que Kyoto est la plus belle.	pinakamaganda	0	0
+Isang saglit po; sa linya po kayo.	Une seconde s'il vous plait, restez en ligne.	saglit	0	0
+Dahil sa napakaganda ng panahon, pwede ba akong magbukas ng isang bintana?	Vu qu'il fait beau, puis-je ouvrir la fenêtre ?	napakaganda	0	0
+Masarap itong sariwang hilaw na isda.	Ce poisson frais et cru est délicieux.	sariwang	0	0
+L'edat ideau peu maridatge qu'ei haut o baish de dètz-e-ueit ans entà las gojatas e trenta-sèt ans entaus òmis.	L'âge approprié pour le mariage est à peu près de dix-huit ans pour les filles et de trente-sept ans pour les hommes.	las	0	0
+Nahihiya siya sa kahirapan ng kanyang tatay.	Il a honte de la pauvreté de son père.	nahihiya	0	0
+May pambihirang pabango ang itong mga bulaklak.	Ces fleurs ont un parfum unique.	pambihirang	0	0
+Bibili ako ng tinapay.	Je vais acheter du pain.	tinapay	0	0
+Nagtanong siya tungkol sa kanya.	Elle s'enquit de lui.	nagtanong	0	0
+At ngayon narito ang aking lihim, isang napakasimpleng sikreto: Sa puso lamang nakakakita ng tama; kung ano ang mahalaga ay hindi nakikita ng mata.	Voici mon secret. Il est très simple : on ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.	nakakakita	0	0
+Bakit walang kuwenta ang pagsasaling awtomatiko?	Pourquoi la traduction automatique est-elle inutile ?	kuwenta	0	0
+Anong kinakausap mo?	À quoi parles-tu ?	kinakausap	0	0
+Siya ay nagdesisyong sumubok muli.	Il a décidé de réessayer.	sumubok	0	0
+Sa bansang Hapon, ang klase ay nagsisimula sa Abril.	Au Japon, l'année scolaire commence en avril.	nagsisimula	0	0
+Okey naman sa bahay.	Tout va bien à la maison.	okey	0	0
+Siya'y taong maaasahan.	C'est un homme fiable.	maaasahan	0	0
+Di ko pa nababasa ang librong binanggit mo.	Je n'ai pas encore lu le livre dont tu parles.	binanggit	0	0
+Gusto ko ang inyong mga orasan.	J'aime vos horloges.	orasan	0	0
+May masasamang balita ako para sa iyo.	J'ai des mauvaises nouvelles pour vous.	masasamang	0	0
+Pinutol namin ang lubid.	Nous avons coupé la corde.	pinutol	0	0
+Totoo itong teorya para sa Hapon.	Cette théorie est vraie pour le Japon.	teorya	0	0
+Tinatago ang ulo sa buhangin nang parang ostrich.	Il se cache la tête dans le sable, comme une autruche.	buhangin	0	0
+Ang kaibigang nangangailangan ay kaibigan pa rin.	Un ami dans le besoin, est un ami quand même.	nangangailangan	0	0
+Magkano ang isang kilo ng mansanas?	Combien coûte un kilogramme de pommes ?	kilo	0	0
+Lumipad ang isang bubuyog palabas ng bintana.	Une abeille vola par la fenêtre.	lumipad	0	0
+Naghuhugas ako ng mga plato.	Je suis en train de faire la vaisselle.	plato	0	0
+Bumibili kami ng mga CD.	Nous achetons des CD.	bumibili	0	0
+Ganoong kapagod siyang napatulog nang maaga.	Comme il était si fatigué, il s'endormit sans tarder.	ganoong	0	0
+Tinuro ng tsuper kung aling bus ang dapat naming sakyan.	Le chauffeur nous indiqua quel bus nous devions prendre.	aling	0	0
+Hindi maiinom ang tubig.	L'eau n'est pas potable.	maiinom	0	0
+Masyadong komplikado ang makina para mahanap namin ang dahilan ng pagkasira.	La machine était trop compliquée pour que nous trouvions la cause du dérèglement.	pagkasira	0	0
+Huwag kang maingay. Nag-aaral ako.	Ne faites pas de bruit. J'étudie.	maingay	0	0
+Nagbebenta ng gulay ang tindahan.	Le magasin vend des légumes.	gulay	0	0
+Tumalon siyang pataas ng kanal.	Il sauta par-dessus un fossé.	tumalon	0	0
+Magkano para sa pulang sombrero?	Combien pour ce chapeau rouge ?	pulang	0	0
+Ang binibining ito ay nagmula sa Rusya.	La jeune dame vient de Russie.	binibining	0	0
+Sori na lang at hindi ako mabilis sumagot.	Désolé de ne pas avoir répondu plus tôt.	sumagot	0	0
+Mahaba ang binti niya.	Il a de longues jambes.	binti	0	0
+Babagsak na itong edipisyo.	Cet édifice menace de s'effondrer.	babagsak	0	0
+Bakit hindi ka mag-ayos ng pista?	Pourquoi n'organises-tu pas une fête ?	mag-ayos	0	0
+Napakahirap talaga ng buhay minsan.	La vie est vraiment dure parfois.	napakahirap	0	0
+Ang pangalan ko ay Wang.	Je m'appelle Wang.	wang	0	0
+Walang ibang inisip ang aking nanay kundi ang aking pag-uwi sa bahay.	Ma mère ne pensait qu'à mon retour à la maison.	inisip	0	0
+Tumalon siyang pataas ng kanal.	Il sauta par-dessus un fossé.	kanal	0	0
+Meron ka bang Facebook account?	As-tu un compte Facebook ?	account	0	0
+Talagang nakakarelaks ang pagbabasa ng aklat.	Lire des livres est très relaxant.	aklat	0	0
+Sa makatuwid, nanirahan sila rito nang buong taglamig.	En fait, ils sont restés ici tout l'hiver durant.	nanirahan	0	0
+Gagamitin ko ang gunting na iyan sa paggupit ng papel na dilaw.	Je vais utiliser cette paire de ciseaux pour couper le papier jaune.	gunting	0	0
+Iginagalang ni Paul ang kanyang mga magulang.	Paul respecte ses parents.	paul	0	0
+Talagang mahal niya ang paaralan niya.	Il aime beaucoup son école.	paaralan	0	0
+Gawin mo kung posible.	Faites-le si possible.	posible	0	0
+Nangyari na noon at posibleng mangyari muli.	Cela s'est déjà passé et se passera probablement encore.	posibleng	0	0
+Kinain ng aso ang isda, ang buto, ang buntot, at ang lahat.	Le chien a mangé le poisson, les arêtes, la queue et tout.	kinain	0	0
+Tinuro ng tsuper kung aling bus ang dapat naming sakyan.	Le chauffeur nous indiqua quel bus nous devions prendre.	bus	0	0
+Nakaupo ang tao sa kabila ng bangbang.	L'homme est assis de l'autre côté du ruisseau.	kabila	0	0
+Lumulutang ang kanyang gintong buhok sa hangin ng tag-init.	Ses cheveux dorés flottaient dans le vent estival.	gintong	0	0
+Ang pobreng dalaga'y naghahanapbuhay nang nagtitinda ng bulaklak.	La pauvre fille gagnait sa vie en vendant des fleurs.	nagtitinda	0	0
+Natakot ako sa pusa.	Le chat m'a fait peur.	natakot	0	0
+Kumanta siya ng kantang Hapon para sa atin.	Elle a chanté une chanson japonaise pour nous.	kumanta	0	0
+Tinuloy ko ang pagkanta.	Je continuai à chanter.	pagkanta	0	0
+Gaanong katagal ka nang buntis?	Depuis combien de temps es-tu enceinte ?	buntis	0	0
+Sori po, pero may kliyente ako.	Je suis désolé, mais j'ai un client.	sori	0	0
+"Misr" ang tawag sa Ehipto sa wikang Arabo.	L'Égypte s'appelle « Misr » en arabe.	arabo	0	0
+Ang mga anak ng wikang Ingles ay mga kreyol tulad ng Tok Pisin mula sa Papua New Guinea. Maaari nilang ipagpatuloy ang pag-unlad. Kung magkaroon ng isang malaking gera, ang mga tao ay maaaring mabukod at ang mga bagong pidgin at kreyol ay mabubuo mula sa Ingles.	Les enfants de la langue anglaise sont des créoles comme Tok Pisin de Papouasie-Nouvelle-Guinée. Ils pourraient poursuivre le développement. S'il y avait une grande guerre, les gens pourraient devenir isolés et de nouveaux pidgins et créoles se formeraient à partir de l'anglais.	ipagpatuloy	0	0
+Mabubuksan ko ba ang kahon?	Puis-je ouvrir une boîte ?	mabubuksan	0	0
+Sori po, pero may kliyente ako.	Je suis désolé, mais j'ai un client.	kliyente	0	0
+Kami ang nanalo sa laro.	On a gagné le match.	laro	0	0
+Ikaw ay nagsusuot ng mamahaling mga hikaw.	Tu portes des boucles d'oreilles chères.	nagsusuot	0	0
+Batang lalaki siyang mga beynte anyos.	C'est un jeune homme de vingt ans et quelques.	anyos	0	0
+Nakikita roon sa likod ng malaking puting gusali.	Vous voyez là derrière un grand bâtiment blanc.	gusali	0	0
+Sumulat si Fred ng isang mahabang sulat sa kanyang nanay.	Fred a écrit une longue lettre à sa mère.	fred	0	0
+Namatay ang biktima sa isang ospital sa Boston.	La victime est morte à l'hôpital de Boston.	boston	0	0
+Sa nayon siya pinanganak.	C'est le village où il est né.	nayon	0	0
+Ang sabi ng libro ay ang mga unang tulay ay noon pang panahong Neolitiko.	Ce livre dit que les premiers ponts remontent au Néolithique.	tulay	0	0
+Salbahe bang alisin ang pangalmot ng pusa niya?	Est-il cruel de retirer les griffes de son chat ?	salbahe	0	0
+Ang mga anak ng wikang Ingles ay mga kreyol tulad ng Tok Pisin mula sa Papua New Guinea. Maaari nilang ipagpatuloy ang pag-unlad. Kung magkaroon ng isang malaking gera, ang mga tao ay maaaring mabukod at ang mga bagong pidgin at kreyol ay mabubuo mula sa Ingles.	Les enfants de la langue anglaise sont des créoles comme Tok Pisin de Papouasie-Nouvelle-Guinée. Ils pourraient poursuivre le développement. S'il y avait une grande guerre, les gens pourraient devenir isolés et de nouveaux pidgins et créoles se formeraient à partir de l'anglais.	guinea	0	0
+Hindi siya dalubhasa sa Istorya.	L'Histoire n'est pas sa spécialité.	istorya	0	0
+May ilang mina ng anthracite sa pook na ito.	Il y a quelques mines d'anthracite dans cette région.	pook	0	0
+10 taon nang lumipas na ako'y umalis ng Hapon.	Je suis parti du Japon il y a 10 ans.	lumipas	0	0
+Pluwent siya sa Ingles.	Il parle anglais couramment.	ingles	0	0
+Kung magbasa ako ng isang libong librong Ingles, magiging matatas ba ako roon?	Si je lis mille livres en anglais, le parlerais-je couramment ?	magbasa	0	0
+Nagsisinungaling ang pamahalaan.	Le gouvernement ment.	pamahalaan	0	0
+Ang maleta niya'y puno ng tubig.	Sa valise était remplie d'eau.	maleta	0	0
+May ilang mina ng anthracite sa pook na ito.	Il y a quelques mines d'anthracite dans cette région.	mina	0	0
+May dugong bughaw na dumadaloy sa aking mga ugat.	J'ai du sang bleu dans les veines.	ugat	0	0
+Dapat kitang samahan.	Je devrais aller avec vous.	samahan	0	0
+Sa nakalipas na taon, inakyat namin ang bundok ng Fuji.	L'année dernière nous avons escaladé le mont Fuji.	fuji	0	0
+Naglakad kaming mabuti.	Nous avons beaucoup marché.	naglakad	0	0
+Inalis siya sa listahan.	Il a été rayé de la liste.	inalis	0	0
+Di ako dalubhasa sa jazz.	Le jazz n'est pas ma spécialité.	jazz	0	0
+Gusto ko ang salamin mo.	Tes lunettes me plaisent.	salamin	0	0
+May pambihirang pabango ang itong mga bulaklak.	Ces fleurs ont un parfum unique.	pabango	0	0
+Kumakain ako ng saging.	Je suis en train de manger une banane.	saging	0	0
+Kumakain ang mga dalaga ng kanilang sandwich.	Les filles mangent leur sandwich.	sandwich	0	0
+Tinatago ang ulo sa buhangin nang parang ostrich.	Il se cache la tête dans le sable, comme une autruche.	tinatago	0	0
+Sinabayan ko siya sa paglalakad.	Je l'accompagnai en promenade.	paglalakad	0	0
+Bakit ganyan ang pagtingin mo sa akin?	Pourquoi tu me regardes comme ça?	pagtingin	0	0
+Tinanggap niya ang ideya ko.	Elle a accepté mon idée.	tinanggap	0	0
+Gusto niyang magtrabaho sa halamanan.	Il aime travailler au jardin.	halamanan	0	0
+Gaanong katagal ka nang buntis?	Depuis combien de temps es-tu enceinte ?	gaanong	0	0
+Laging maganda ang sinasabi tungkol kay Tom.	Tout le monde parle toujours de Tom en bien.	tom	0	0
+Wala akong bisikleta.	Je n'ai pas de bicyclette.	bisikleta	0	0
+Hinahalo ng bruha ang kanyang kaldero.	La sorcière mélange son chaudron.	bruha	0	0
+Maglalaro kita.	Je jouerai avec toi.	maglalaro	0	0
+Mayabang siya pagka naroon siya.	Il se donne de grands airs lorsqu'elle est là.	pagka	0	0
+Dagdagan ng isang kutsara ng mantika ng oliba.	Ajouter une cuillère d'huile d'olive.	dagdagan	0	0
+Ako'y katao.	Je suis quelqu'un.	katao	0	0
+Ang tao'y sosyal na hayop.	L'homme est un animal social.	sosyal	0	0
+Ano ang pinagkakaabalahan mo sa linggong ito?	Qu'as-tu fait cette semaine ?	linggong	0	0
+Tumawag ka ng sinumang marunong mag-Hapon, pakisuyo.	Appelle quelqu'un qui parle japonais, s'il te plaît.	pakisuyo	0	0
+Puwede ba akong maglaro pagkatapos basahin itong libro?	Pourrais-je aller jouer après avoir lu ce livre ?	basahin	0	0
+Pumunta ka sa park.	Va au parc.	park	0	0
+Nakareserba na ang mesa.	La table est réservée.	nakareserba	0	0
+Ang tawag natin sa nayon na ito'y "Munting Kyoto."	Nous appelons cette ville « Le Petit Kyoto ».	munting	0	0
+Ano ang pinagkaiba ng aso sa lobo?	Quelle est la différence entre un chien et un loup ?	pinagkaiba	0	0
+Mas gagaling ka kung tumigil ka ng paninigarilyo.	Tu ferais mieux d'arrêter de fumer.	gagaling	0	0
+Hindi marunong sumayaw si Tom.	Tom ne sait pas danser.	sumayaw	0	0
+Umulan nang matamis sa nayon.	Il pleut doucement sur la ville.	umulan	0	0
+Mabagal kumilos ang mga suso.	Les escargots se meuvent lentement.	mabagal	0	0
+Matuto ka mula sa pagkakamali ng iba.	Apprends des erreurs des autres.	matuto	0	0
+Di iyon laruan.	Ce n’est pas un jouet.	laruan	0	0
+Nakakatuwang napapatulog ako nang makinig ako sa kantang ito.	Bizarrement, je me sens l'envie de dormir lorsque j'écoute cette chanson.	nakakatuwang	0	0
+Puwede ko bang buksan ang isang kahon?	Est-ce que je peux ouvrir une boîte ?	kahon	0	0
+Isa siyang komedyante.	Il est comédien.	komedyante	0	0
+Magmaneho kayo nang pinakaingat.	Conduisez avec la plus grande prudence.	magmaneho	0	0
+Katangahan ang pagbabasa ng ganyang magasin.	C'est stupide de lire un tel magazine.	katangahan	0	0
+Masyadong mabilis siyang nagsalita para sa mga estudyante.	Il parlait trop vite pour les élèves.	nagsalita	0	0
+Ang ulan sa Abril ay magaling sa lupa.	La pluie en avril est profitable à la terre.	abril	0	0
+Libu-libong tao ang naroon.	Des milliers de gens étaient là.	naroon	0	0
+Matanda na si Brenna. Ang kagalitan at kainggitan ay mga emosyon niya.	Brenna est vieille. La colère et la jalousie sont ses émotions.	emosyon	0	0
+Nagsasalita ba kayo ng Tagalog?	Parlez-vous tagalog ?	tagalog	0	0
+Desidido akong isagawa ang planong ito.	Je suis déterminé à réaliser ce plan.	planong	0	0
+Namatay ang biktima sa isang ospital sa Boston.	La victime est morte à l'hôpital de Boston.	biktima	0	0
+Kinain ng aso ang isda, ang buto, ang buntot, at ang lahat.	Le chien a mangé le poisson, les arêtes, la queue et tout.	buntot	0	0
+Ang sopas na napakaalat ay masama.	La soupe trop salée est mauvaise.	sopas	0	0
+Yaong mga bahay ay sa aking Tiyo.	Ces maisons sont celles de mon oncle.	yaong	0	0
+Nagsinungaling ka sa amin!	Tu nous as menti !	nagsinungaling	0	0
+Sino yung Ginoo?	Qui est ce monsieur ?	ginoo	0	0
+Kailangan mo ring magpunta roon.	Vous devez y aller aussi !	magpunta	0	0
+Ang ating eskuwela'y nasa kalagitnaan ng nayon.	Notre école est située au centre de la ville.	kalagitnaan	0	0
+Bisi ako talaga nang nitong ilang araw.	Je suis très occupé ces jours-ci.	bisi	0	0
+Para sa resiping ito, isang sibuyas lamang ang kailangan.	Pour cette recette, un seul oignon est nécessaire.	sibuyas	0	0
+Gusto ng karamihang Amerikano ang hamburger.	La majorité des Américains aiment les hamburgers.	hamburger	0	0
+Dinedesigneyt ng mga linyang asul sa mapa ang mga ilog.	Les lignes bleues sur la carte désignent des fleuves.	linyang	0	0
+Gaanong katagal ka nang buntis?	Depuis combien de temps es-tu enceinte ?	katagal	0	0
+Mas magaling kung pumigil ka nang paninigarilyo.	Tu ferais mieux d'arrêter de fumer.	paninigarilyo	0	0
+Bawal manigarilyo!	Interdit de fumer !	manigarilyo	0	0
+Ang mga paaralan sa Pransiya ay walang pasok ngayong Miyerkules.	En France les écoles ont congé ce mercredi.	miyerkules	0	0
+Batang lalaki siyang mga dalawampung taon.	C'est un jeune homme de vingt ans et quelques.	dalawampung	0	0
+Halos imposibleng gawin 'yan.	Il est presque impossible de faire cela.	imposibleng	0	0
+Masyado akong antok para magmaneho.	J'ai trop sommeil pour conduire.	antok	0	0
+Pinakalaki sa Hapon ang lawang Biwa.	Le lac Biwa est le plus grand du Japon.	lawang	0	0
+Ikaw ay kasimputla ng isang multo.	Tu es pâle comme un fantôme.	multo	0	0
+May relo ba ang isa sa mga kwartong iyan?	Y a-t-il une horloge dans l'une des pièces ?	kwartong	0	0
+Kumatok siya sa pinto.	Il a claqué la porte.	kumatok	0	0
+Huwag mong kalimutan ang tiket.	N'oublie pas le billet.	tiket	0	0
+Pinapangarap kong pumunta sa Mexico.	Je rêve d'aller au Mexique.	pinapangarap	0	0
+Sinulat niya ang aklat na ito noong siya ay dalawmpung taong gulang.	Il écrivit ce livre à l'âge de vingt ans.	gulang	0	0
+Si Ana ang babaeng iyon.	Cette femme là-bas est Ana.	ana	0	0
+Lumulutang ang kanyang gintong buhok sa hangin ng tag-init.	Ses cheveux dorés flottaient dans le vent estival.	lumulutang	0	0
+Ang sopas na napakaalat ay masama.	La soupe trop salée est mauvaise.	napakaalat	0	0
+Sa taglamig, ang mga araw ay mas maikli.	En hiver les jours sont plus courts.	taglamig	0	0
+Nahihiya siya sa kahirapan ng kanyang tatay.	Il a honte de la pauvreté de son père.	kahirapan	0	0
+Nalito niya ang asukal sa asin.	Elle a confondu le sucre avec le sel.	asin	0	0
+Ang mga elepante ang pangunahing atraksyon ng sirko.	Les éléphants sont l'attraction principale du cirque.	atraksyon	0	0
+Ikaw ay nagsusuot ng mamahaling mga hikaw.	Tu portes des boucles d'oreilles chères.	mamahaling	0	0
+Ilang mangkok ng kanin ang kinain mo?	Combien de bols de riz as-tu mangé ?	kanin	0	0
+Tatawagin kita nang alas siyete.	Je t'appellerai à sept heures.	siyete	0	0
+Kung may pera ako, bibilhin ko.	Si j'avais de l'argent, je pourrais l'acheter.	bibilhin	0	0
+Phoenix ang kabisera ng Arizona.	Phoenix est la capitale de l'Arizona.	arizona	0	0
+Ang binibining ito ay nagmula sa Rusya.	La jeune dame vient de Russie.	rusya	0	0
+Hindi nawawalan ng tubig ang aming nayon.	Notre village ne manque pas d'eau.	nawawalan	0	0
+"Misr" ang tawag sa Ehipto sa wikang Arabo.	L'Égypte s'appelle « Misr » en arabe.	ehipto	0	0
+Ang publiko ay nagpalakpak sa aktris.	Le public applaudit l'actrice.	publiko	0	0
+Takot siyang mawalan ng pera.	Elle a peur de perdre de l'argent.	mawalan	0	0
+Kawawala lamang ng aking bagong walet na itim.	Je viens, à l'instant, de perdre mon nouveau portefeuille noir.	walet	0	0
+Ang anak na babae ng isang hari ay isang prinsesa.	Une fille de roi est une princesse.	prinsesa	0	0
+Bumili siya ng lagayan ng tsa.	Elle a acheté un service à thé.	lagayan	0	0
+"Huwag mo na akong hintayin." "Hindi naman talaga kita hihintayin."	« Ne m'attends pas. » « Je n'allais pas t'attendre. »	hihintayin	0	0
+Gusto kong makita ang sine.	Je veux voir le film.	sine	0	0
+Dapat mong turuan ang dila mo nang ibukod ang magaling na kape sa masama.	Vous devez éduquer votre langue pour distinguer le bon café du mauvais.	dila	0	0
+Ang mga magulang ay ninenerbiyos nang kaunti.	Les parents sont un peu nerveux.	ninenerbiyos	0	0
+Nahuli niya ang dalawampung paru-paro.	Il a attrapé vingt papillons.	paru-paro	0	0
+Interesado ako sa Kasaysayan ng Hapon.	Je m'intéresse à l'histoire japonaise.	interesado	0	0
+Gusto mo ba ang eskuwela?	Aimes-tu l'école ?	eskuwela	0	0
+Binibigyan niya ang lahat na kanyang hinihingi.	Il lui donne tout ce qu'elle demande.	hinihingi	0	0
+Mas konting mapanglaw ang kulay na ito kaysa sa roon.	Cette couleur est un peu plus sombre que celle-ci.	mapanglaw	0	0
+Neptuno ang ika-8 planeta sa Sistemang Solar.	Neptune est la huitième planète du système solaire.	sistemang	0	0
+Lumipad ang isang bubuyog palabas ng bintana.	Une abeille vola par la fenêtre.	bubuyog	0	0
+Dagdagan ng isang kutsara ng mantika ng oliba.	Ajouter une cuillère d'huile d'olive.	mantika	0	0
+Binuksan niya nang mabuti ang kanyang bibig.	Il ouvrit grand sa bouche.	binuksan	0	0
+Walang makakaalam.	Personne ne saura.	makakaalam	0	0
+Dahil sa napakaganda ng panahon, pwede ba akong magbukas ng isang bintana?	Vu qu'il fait beau, puis-je ouvrir la fenêtre ?	magbukas	0	0
+Yaong mga bahay ay sa aking Tiyo.	Ces maisons sont celles de mon oncle.	tiyo	0	0
+Ang pinakamagaling na paraan para maintindihan ang teksto'y isalin siya sa ibang wika.	La meilleure manière de comprendre un texte est de le traduire.	pinakamagaling	0	0
+Sanay siya sa mga panuos.	Il a l'habitude des ordinateurs.	sanay	0	0
+Nasa tabi lang ang istasyon.	La gare est juste à côté.	istasyon	0	0
+Ang ibig sabihin ng amnesya ay pagkawala ng memorya.	Amnésie signifie « perte de mémoire ».	memorya	0	0
+Palagi siyang nagrereklamo tungkol sa aking maliit na sweldo.	Elle se plaint toujours de mon faible salaire.	nagrereklamo	0	0
+Anong binabasa mo?	Que lisez-vous ?	binabasa	0	0
+Instrumento ba ang mayonesa?	La mayonnaise est-elle un instrument ?	instrumento	0	0
+Kumanta siya ng kantang Hapon para sa atin.	Elle a chanté une chanson japonaise pour nous.	kantang	0	0
+Huwag mong pahirapan ang sarili mo.	Ne sois pas si dure avec toi-même.	pahirapan	0	0
+Tinuro ng tsuper kung aling bus ang dapat naming sakyan.	Le chauffeur nous indiqua quel bus nous devions prendre.	sakyan	0	0
+Mas maraming keso, mas maraming butas. Mas maraming butas, mas kaunting keso. Kaya: mas maraming keso, mas kaunting keso.	Plus de fromage, plus de trous. Plus de trous, moins de fromage. Donc : plus de fromage, moins de fromage.	keso	0	0
+Ito ang mismong pitaka na nawala ko nang nakalipas na isang linggo.	C'est le même porte-monnaie que j'ai perdu il y a une semaine.	pitaka	0	0
+Talagang nakakarelaks ang pagbabasa ng aklat.	Lire des livres est très relaxant.	pagbabasa	0	0
+Pinag-aralan ko ang mga bagay ng kulturang griyego.	J'ai appris des choses sur la culture grecque.	pinag-aralan	0	0
+Para kang puyat.	Tu as l'air de ne pas avoir dormi suffisamment.	puyat	0	0
+Ayaw niyang tanggapin ang inaalok kong biskwit.	Il ne veut pas accepter le biscuit que je lui offre.	inaalok	0	0
+Ang boses mo sa kanta ay kasing maliwanag ng tubig ng Pasipiko.	Ta voix chantante est claire comme l'eau du Pacifique.	pasipiko	0	0
+Ang pinakamagaling na paraan para maintindihan ang teksto'y isalin siya sa ibang wika.	La meilleure manière de comprendre un texte est de le traduire.	wika	0	0
+May isang daang sentimetro sa isang metro.	Dans un mètre il y a cent centimètres.	sentimetro	0	0
+Gagamitin ko ang gunting na iyan sa paggupit ng papel na dilaw.	Je vais utiliser cette paire de ciseaux pour couper le papier jaune.	dilaw	0	0
+Mas gusto ng mga batang maglaro sa hardin.	Partout, les enfants préfèrent jouer dans le jardin.	hardin	0	0
+Nanalo ang Estados Unidos sa karerang papunta sa buwan.	Les États-Unis avaient gagné la course à la lune.	unidos	0	0
+Aling nayon ang paborito mo sa Estados Unidos?	Quel est le village que tu préfères aux États-Unis ?	estados	0	0
+May umiikot na katwang tsismis.	D'étranges rumeurs circulent.	umiikot	0	0
+May dugong bughaw na dumadaloy sa aking mga ugat.	J'ai du sang bleu dans les veines.	dumadaloy	0	0
+Kumain kami ng mga prutas pagkatapos ng hapunan.	Nous avons mangé des fruits frais après le dîner.	prutas	0	0
+Neptuno ang ika-8 planeta sa Sistemang Solar.	Neptune est la huitième planète du système solaire.	solar	0	0
+Ang masa ang talagang manggagawa ng Istorya.	Les vrais créateurs de l'Histoire sont les masses.	manggagawa	0	0
+Gusto ng karamihang Amerikano ang hamburger.	La majorité des Américains aiment les hamburgers.	karamihang	0	0
+Mas maraming aginaldo ang natanggap ng aking babaeng kapatid.	Ma sœur a eu plus de cadeaux de Noël que moi.	natanggap	0	0
+Dapat pumili ka nung isa o yung iba.	Tu peux choisir l'un ou l'autre.	pumili	0	0
+Ang kaibigang nangangailangan ay kaibigan pa rin.	Un ami dans le besoin, est un ami quand même.	kaibigang	0	0
+Isa akong robot.	Je suis un robot.	robot	0	0
+Bihira naman.	C'est plutôt unique.	bihira	0	0
+Nalito niya ang asukal sa asin.	Elle a confondu le sucre avec le sel.	nalito	0	0

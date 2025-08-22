@@ -1,0 +1,34 @@
+Се обидов да му кажам на Том.	Minä yritin kertoa Tomille.	да	0	0
+Не можам сега.	En voi tehdä sitä nyt.	не	0	0
+Се обидов да му кажам на Том.	Minä yritin kertoa Tomille.	се	0	0
+Полн ми е желудникот.	Vatsani on täynnä.	е	0	0
+Се обидов да му кажам на Том.	Minä yritin kertoa Tomille.	на	0	0
+Имам пријатели во Бостон.	Minulla on ystäviä Bostonissa.	во	0	0
+Полн ми е желудникот.	Vatsani on täynnä.	ми	0	0
+Том ја олабави раката.	Tom hellitti otettaan.	ја	0	0
+Том беше посвоен.	Tomi on adoptoitu.	беше	0	0
+Не можам сега.	En voi tehdä sitä nyt.	сега	0	0
+Се обидов да му кажам на Том.	Minä yritin kertoa Tomille.	му	0	0
+Не можам сега.	En voi tehdä sitä nyt.	можам	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	еден	0	0
+Имам пријатели во Бостон.	Minulla on ystäviä Bostonissa.	имам	0	0
+Се обидов да му кажам на Том.	Minä yritin kertoa Tomille.	кажам	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	три	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	два	0	0
+Имам пријатели во Бостон.	Minulla on ystäviä Bostonissa.	пријатели	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	пет	0	0
+Том живее во Бостон.	Tom asuu Bostonissa.	живее	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	четири	0	0
+Том ја олабави раката.	Tom hellitti otettaan.	раката	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	шест	0	0
+Том беше посвоен.	Tomi on adoptoitu.	том	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	десет	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	седум	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	осум	0	0
+Се обидов да му кажам на Том.	Minä yritin kertoa Tomille.	обидов	0	0
+Полн ми е желудникот.	Vatsani on täynnä.	полн	0	0
+Еден, два, три, четири, пет, шест, седум, осум, девет, десет.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.	девет	0	0
+Том живее во Бостон.	Tom asuu Bostonissa.	бостон	0	0
+Том ја олабави раката.	Tom hellitti otettaan.	олабави	0	0
+Том беше посвоен.	Tomi on adoptoitu.	посвоен	0	0
+Полн ми е желудникот.	Vatsani on täynnä.	желудникот	0	0

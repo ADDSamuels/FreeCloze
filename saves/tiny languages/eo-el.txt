@@ -1,0 +1,1256 @@
+Fermu la fenestron.	Κλείσε το παράθυρο.	la	0	0
+Mi manĝis toastojn por la matenmanĝo.	Έφαγα τοστ για πρωϊνό.	mi	0	0
+Kial vi uzas Tatoeba-n?	Γιατί χρησιμοποιείς την Tatoeba;	vi	0	0
+Ni ne vidis vin jam de kvar jaroj.	Δεν σας είδαμε εδώ και τέσσερα χρόνια.	ne	0	0
+Mi ne plu estas vegetarano.	Δεν είμαι πια χορτοφάγος.	estas	0	0
+Mi dormis, kaj vi?	Εγώ κοιμήθηκα, εσύ;	kaj	0	0
+Ĉu vi parolas makedone?	Μιλάς τη μακεδονική;	ĉu	0	0
+Manko de mono estas la origino de ĉiu malbono.	Η έλλειψη χρημάτων είναι η αιτία κάθε κακίας.	de	0	0
+Venontsemajne li iros al Nov-Jorko.	Αναχωρεί για τη Νέα Υόρκη την επόμενη βδομάδα.	al	0	0
+Ni vidis nifon.	Είδαμε ένα UFO.	ni	0	0
+Jack estis en la lernejo pasintjare.	Ο Τζαν ήταν πέρυσι στο σχολείο.	en	0	0
+Li rezignis ĉiujn siajn rajtojn.	Παραιτήθηκε απ' όλα τα δικαιώματά του.	li	0	0
+Mi pensas, ke mi scias, kio estas necesa.	Νομίζω ότι γνωρίζω, τι είναι απαραίτητο.	ke	0	0
+Neniam faru ion nur por pruvi, ke vi povas.	Ποτέ μην κάνετε κάτι μόνον για να αποδείξετε, ότι μπορείτε.	por	0	0
+Kiom kostas ĉi tiu ĉapo?	Πόσο κάνει αυτό το καπέλο;	ĉi	0	0
+Tio apartenas al la pasinteco.	Αυτά ανήκουν στο παρελθόν.	tio	0	0
+Jes, sed ŝi ĵus foriris.	Ναι, αλλά αυτή μόλις έφυγε.	sed	0	0
+Ili havas sukeron.	Αυτοί έχουν ζάχαρη.	ili	0	0
+Mi ne scias, kiel danki vin.	Δεν ξέρω πώς να σ' ευχαριστήσω.	kiel	0	0
+Estas plezuro ekkoni vin, sinjorino Jones.	Είναι χαρά να σας γνωρίζω, κυρία Τζόουνς.	vin	0	0
+La somero ĉi tie estas tre varma.	Το καλοκαίρι εδώ είναι πολύ ζεστό.	tie	0	0
+Memoru pri la morto, sed pensu pri la vivo!	Να θυμάσαι το θάνατο, αλλά να σκέφτεσαι τη ζωή!	pri	0	0
+Li preterpasis min ne rigardante min.	Αυτός πέρασε δίπλα μου, χωρίς να με κοιτάξει.	min	0	0
+Jes, ŝi estas hejme.	Ναι, αυτή είναι σπίτι.	jes	0	0
+Pri kio vi parolas?	Για ποιο πράγμα μιλάς;	kio	0	0
+Mia celo estas fariĝi kuracisto.	Σκοπός μου είναι να γίνω γιατρός.	mia	0	0
+Multaj lingvoj uzas literojn kun diakritaj signoj.	Πολλές γλώσσες χρησιμοποιούν γράμματα με διακριτικά σημεία.	kun	0	0
+Bill estis en Japanio.	Ο Μπιλ ήταν στην Ιαπωνία.	estis	0	0
+Mi scias kion ignori.	Γνωρίζω τι να αγνοώ.	kion	0	0
+Ĝi estas oranĝo.	Αυτό είναι ένα πορτοκάλι.	ĝi	0	0
+Mi ne povas vivi plu.	Δεν μπορώ πια να ζω.	povas	0	0
+John Locke, la konata filozofo de la libereco, estis akciulo de la Reĝa Afrika Kompanio, kiu aĉetis kaj vendis sklavojn.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	kiu	0	0
+Kion faras via filo en Germanio?	Τι κάνει ο γιός σου στη Γερμανία;	via	0	0
+Ĉu tiu estas virĉevalo aŭ ĉevalino?	Αυτό είναι άλογο ή φοράδα;	tiu	0	0
+Faris ĝin mi mem.	Το έκανα εγώ ο ίδιος.	ĝin	0	0
+Ŝi ne ŝatas ŝercojn.	Τα αστεία δεν της αρέσουν.	ŝi	0	0
+Li bone dormis lastnokte.	Αυτός κοιμήθηκε καλά χθες το βράδυ.	bone	0	0
+Aŭdante tion, li paliĝis.	Ακούγοντας το, αυτός χλώμιασε.	tion	0	0
+Mi alportos la manĝaĵon, se vi alportos la trinkaĵojn.	Θα φέρω τα τρόφιμα αν φέρεις εσύ τα ποτά.	se	0	0
+Mi volas pli bonan ol ĉi tiu.	Θέλω ένα καλύτερο αυτού.	volas	0	0
+Kial vi piediras, se vi havas aŭtomobilon?	Γιατί πηγαίνεις με τα πόδια, αν έχεις αυτοκίνητο;	havas	0	0
+Mia fratino havas du filojn, do mi havas du nevojn.	Η αδερφή μου έχει δύο γιούς, επομένως εγώ έχω δύο ανιψιούς.	do	0	0
+Mi volas pli bonan ol ĉi tiu.	Θέλω ένα καλύτερο αυτού.	pli	0	0
+Li estas ne nur inteligenta, sed ankaŭ bela.	Αυτός δεν είναι μόνο έξυπνος, αλλά και ωραίος.	nur	0	0
+Oni maldungis lin.	Τον έδιωξαν από τη δουλειά του.	oni	0	0
+Ekde nun necesas aldoni novan regulon.	Από τη στιγμή αυτή χρειάζεται να προσθέσουμε νέον κανόνα.	nun	0	0
+Mi scias kion ignori.	Γνωρίζω τι να αγνοώ.	scias	0	0
+Kial vi ne venis?	Γιατί δεν ήρθες;	kial	0	0
+Infanoj devas lerni fremdajn lingvojn.	Τα παιδιά πρέπει να μαθαίνουν ξένες γλώσσες.	devas	0	0
+Ŝia patrino igis lin purigi la banĉambron.	Η μητέρα του τον έβαλε να καθαρίσει το μπάνιο.	lin	0	0
+Ŝanhajo estas unu el la plej grandaj urboj de la mondo.	Η Σανγκάη είναι μία από τις μεγαλύτερες πόλεις στον κόσμο.	el	0	0
+Ekde kiam mi edziĝis, mi ĉesis labori.	Από τότε που παντρεύτηκα δεν δουλεύω πια.	kiam	0	0
+La islamanoj kredas je unu unika Dio.	Οι μωαμεθανοί πιστεύουν σε έναν και μόνο Θεό.	unu	0	0
+Kie ni troviĝas?	Που βρισκόμαστε;	kie	0	0
+Mi ja diris al vi, ke ĝi ne funkcios.	Σου το είχα πει πως δεν θα δούλευε.	ja	0	0
+Tomo jam estas en Bostono.	Ο Τομ είναι ήδη στη Βοστώνη.	jam	0	0
+Jen mia revenbileto.	Αυτό είναι το εισιτήριο της επιστροφής μου.	jen	0	0
+Ne estu tiel sentema!	Μην είσαι τόσο συναισθηματική!	tiel	0	0
+Ekde majo ni ricevos pli da mono.	Από τον Μάϊο θα πάρουμε περισσότερα χρήματα.	da	0	0
+La pluvo klakis sur la fenestrojn.	Η βροχή χτυπούσε πάνω στα παράθυρα.	sur	0	0
+Ankaŭ militservo estas patriota devo.	Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	ankaŭ	0	0
+Mi ne kapablas dormi pro vi.	Δεν κοιμάμαι εξαιτίας σου.	pro	0	0
+Mi tre ŝatas vin.	Μου αρέσεις πολύ.	tre	0	0
+La estonteco ne estos konstruata perforte, eĉ ne kun la deziro konkeri, sed per la pacienca aplikado de la demokratia metodo, la spirito de konstruiva konsento kaj la respekto por libereco.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	per	0	0
+Ni ĉiuj parolas la anglan.	Όλοι μας μιλάμε Αγγλικά.	ĉiuj	0	0
+Ŝia revo estas konduki vivon plena je variado.	Το όνειρό της είναι να ζήσει μια ζωή γεμάτη ποικιλία.	je	0	0
+Vi diris, ke vi estas feliĉa.	Είπες ότι είσαι ευτυχισμένη.	diris	0	0
+Mi ne certas, ĉu tio estas ironia aŭ ne.	Δεν είμαι βέβαιος αν αυτό είναι ειρωνικό ή όχι.	aŭ	0	0
+Bona kuracisto li estos.	Αυτός θα γίνει καλός θεραπευτής.	estos	0	0
+Mi nun pentros ilin nigraj.	Θα τα βάψω μαύρα τώρα.	ilin	0	0
+Ho ne! Nia paciento estas mortinta.	Ω, όχι! Ο ασθενής μας είναι νεκρός.	ho	0	0
+Ĉesu kaŝi vian kapon en la sablo.	Συνέχισε να κρύβεις το κεφάλι σου μέσα στην άμμο.	vian	0	0
+Ĉu vi scias, kiu verkis tiun romanon?	Μήπως γνωρίζετε ποιός έγραψε αυτό το μυθιστόρημα;	tiun	0	0
+Ĉar ni ĝuste nun parolas pri gentomurdo: hodiaŭ estas la Tago de Kolumbo.	Και μιλώντας για γενοκτονίες, σήμερα είναι Ημέρα του Κολόμβου.	ĉar	0	0
+Kaj ne konduku nin en tenton, sed liberigu nin de la malbono.	Και μη εισενέγκης υμίν εις πειρασμόν, αλλ' αφές υμίν από του πονηρού.	nin	0	0
+Ekzistas multaj steloj, kiuj estas pli grandaj ol nia suno.	Υπάρχουν πολλά αστέρια που είναι μεγαλύτερα από τον ήλιο μας.	nia	0	0
+Mi ne povas vivi plu.	Δεν μπορώ πια να ζω.	plu	0	0
+Mi ne povas pensi pri ĉio.	Δεν μπορώ να σκέπτομαι για τα πάντα.	ĉio	0	0
+Li skribas pli kaj pli malofte dum tiuj ĉi tagoj.	Τις τελευταίες μέρες αυτός γράφει όλο και λιγότερο συχνά σε μένα.	dum	0	0
+Mi ne diris mian lastan vorton!	Δεν είπα την τελευταία λέξη!	mian	0	0
+Mi havas jam preskaŭ kvardek jarojn kaj ankoraŭ mi ne eniris geedzecon.	Κοντεύω στα σαράντα και είμαι ακόμα ανύπαντρος.	ankoraŭ	0	0
+Ne, dankon.	Όχι, ευχαριστώ.	dankon	0	0
+Mi estas vere tre okupata.	Είμαι σοβαρά πολύ απασχολημένος.	vere	0	0
+Mi volas esti tie kun vi.	Θέλω να είμαι εκεί μαζί σου.	esti	0	0
+La estonteco ne estos konstruata perforte, eĉ ne kun la deziro konkeri, sed per la pacienca aplikado de la demokratia metodo, la spirito de konstruiva konsento kaj la respekto por libereco.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	eĉ	0	0
+Tiu ĉi aŭtobuso portos vin ĝis la urbo.	Αυτό το αυτοκίνητο θα σας πάει μέχρι την πόλη.	ĝis	0	0
+La unuigita popolo neniam estos venkita.	Ο λαός ενωμένος δεν θα ηττηθεί ποτέ.	neniam	0	0
+Nur frenezuloj diras tiajn vortojn.	Τέτοιες λέξεις λένε μόνο οι τρελοί.	diras	0	0
+Dio mia, Dio mia, kial vi forlasis min?	Θεέ μου, θεέ μου, γιατί με εγκατέλειψες;	dio	0	0
+Li diris ion al ŝi, kaj ŝi ridetis.	Αυτός της είπε κάτι και αυτή χαμογέλασε.	ion	0	0
+Prenu du aspirindozojn.	Πάρτε δύο δισκία ασπιρίνης.	du	0	0
+Ŝia filo malaperis antaŭ sep jaroj.	Ο γιος του εξαφανίστηκε επτά χρόνια πριν.	antaŭ	0	0
+Mi pensas, ke li senkulpigu sin ĉe la instruisto.	Έχω τη γνώμη ότι αυτός θα πρέπει να ζητήσει συγνώμη από τον καθηγητή.	ĉe	0	0
+Ĉiam la horo antaŭ la aŭroro estas la plej malhela.	Πάντα η ώρα πριν την αυγή είναι η πιο σκοτεινή.	ĉiam	0	0
+Li skribas pli kaj pli malofte dum tiuj ĉi tagoj.	Τις τελευταίες μέρες αυτός γράφει όλο και λιγότερο συχνά σε μένα.	tiuj	0	0
+Vi ne bezonas skribi pli ol kvarcent vortojn.	Δεν χρειάζεται να γράψετε περισσότερες από τετρακόσιες λέξεις.	ol	0	0
+Li foriros post tri tagoj.	Αυτός θα αφήσει στις τρεις μέρες.	post	0	0
+Iu ŝtelis mian tutan monon.	Κάποιος μου έκλεψε όλα τα χρήματα.	iu	0	0
+Se paroli serioze, kion vi intencas fari?	Σοβαρά, τι σκοπεύετε να κάνετε;	fari	0	0
+Hieraŭ mi venis ĉi tien.	Ήρθα εδώ χθες.	tien	0	0
+Mi bezonas aĉeti benzinon.	Πρέπει να βάλω βενζίνη.	bezonas	0	0
+Suno estas la stelo plej proksima al Tero.	Ο Ήλιος είναι το κοντινότερο αστέρι στην Γη.	plej	0	0
+Kiom da lingvoj vi parolas, tiom vi valoras.	Όσες γλώσσες μιλάς, τόσο αξίζεις.	tiom	0	0
+Ĉiuj homoj estas mortemaj, ĉiuj grekoj estas homoj, sekve ĉiuj grekoj estas mortemaj.	Όλοι οι άνθρωποι είναι θνητοί, όλοι οι Έλληνες είναι άνθρωποι, επομένως όλοι οι Έλληνες είναι θνητοί.	homoj	0	0
+Kia estas la vetero en Tesaloniko?	Πως είναι ο καιρός στη Θεσσαλονίκη;	kia	0	0
+Oni ne bezonas scii ĉion.	Κάποιος δε χρειάζεται να γνωρίζει τα πάντα.	ĉion	0	0
+Fino bona, ĉio bona!	Τέλος καλό, όλα καλά.	bona	0	0
+Bonan tagon, Ĉikago!	Καλή μέρα Σικάγο!	bonan	0	0
+Rigardu vin en la spegulo.	Κοιτάξου στον καθρέφτη.	rigardu	0	0
+Kion vi faras?	Τί κάνεις;	faras	0	0
+Mia patro estas nun en la ĝardeno.	Ο πατέρας μου είναι στον κήπο τώρα.	patro	0	0
+Mi faris belajn fotojn.	Έβγαλα ωραίες φωτογραφίες.	faris	0	0
+Bonvolu respondi min.	Παρακαλώ απαντήστε μου.	bonvolu	0	0
+Tom estas mia paĉjo.	Ο Τομ είναι ο μπαμπάς μου.	paĉjo	0	0
+Ekzistas multaj steloj, kiuj estas pli grandaj ol nia suno.	Υπάρχουν πολλά αστέρια που είναι μεγαλύτερα από τον ήλιο μας.	kiuj	0	0
+Unu jaron poste Paŭlo naskiĝis.	Ένα χρόνο αργότερα γεννήθηκε ο Παύλος.	poste	0	0
+Ne nur lia filo, sed ankaŭ lia filino estas fama.	Όχι μόνο ο γιος του, αλλά επίσης και η κόρη του είναι διάσημη.	lia	0	0
+Saluton, mondo!	Γεια σου, κόσμε!	saluton	0	0
+Faris ĝin mi mem.	Το έκανα εγώ ο ίδιος.	mem	0	0
+Mi vidis ŝian domon.	Είδα το σπίτι της.	vidis	0	0
+Ni vidas lin de tempo al tempo.	Τον βλέπουμε που και που.	tempo	0	0
+La vivo estas mallonga, tamen rideto nur prenas unu sekundon.	Η ζωή είναι μικρή, αν και το χαμόγελο διαρκεί μόνο ένα δευτερόλεπτο.	vivo	0	0
+Mia edzino tute ne ŝatas katojn.	Στη γυναίκα μου δεν αρέσουν καθόλου οι γάτες.	tute	0	0
+Estas neniu ne amanta sian familion.	Δεν υπάρχει άνθρωπος, που να μην αγαπάει την οικογένειά του.	neniu	0	0
+Kiom kostas ĉi tiu ĉapo?	Πόσο κάνει αυτό το καπέλο;	kiom	0	0
+Tro grasa manĝado supozeble kaŭzas kormalsanojn.	Η πολύ λιπαρή διατροφή προκαλεί υποθετικά καρδιακές παθήσεις.	tro	0	0
+Li admiris ŝin.	Τη θαύμασε.	ŝin	0	0
+Mi pensas, ke estas pli bone resti ĉi tie.	Σκέφτομαι ότι είναι καλύτερο να μείνω εδώ.	pensas	0	0
+Kiun eŭropan urbon vi plej ŝatas?	Ποιά Ευρωπαϊκή πόλη σας αρέσει περισσότερο;	kiun	0	0
+Mi vidas domon.	Βλέπω ένα σπίτι.	vidas	0	0
+Kio okazas en tiu ĉi lando?	Τι συμβαίνει στη χώρα αυτή;	okazas	0	0
+Mi havas nenion por surmeti.	Δεν έχω τίποτα για να φορέσω.	nenion	0	0
+Kio okazis?	Τι συνέβη;	okazis	0	0
+Mi pensas, ke viaj okuloj estas tre belaj.	Κατά τη γνώμη μου είναι τα μάτια σου πολύ όμορφα.	viaj	0	0
+Ne estu tiel sentema!	Μην είσαι τόσο συναισθηματική!	estu	0	0
+Oranĝoj enhavas multe da vitamino C.	Τα πορτοκάλια έχουν πολύ βιταμίνη C.	multe	0	0
+Lasu min sola, mi petas.	Άσε με ν' απομείνω μόνος μου, σε παρακαλώ.	petas	0	0
+Mi ne povas fini tiun tradukon hodiaŭ. Mi lasos ĝin por morgaŭ.	Δεν μπορώ να τελειώσω αυτή τη μετάφραση σήμερα. Θα την αφήσω για αύριο.	hodiaŭ	0	0
+Neniam faru ion nur por pruvi, ke vi povas.	Ποτέ μην κάνετε κάτι μόνον για να αποδείξετε, ότι μπορείτε.	faru	0	0
+Tom bezonas iom da ripozo.	Ο Τομ χρειάζεται λίγη ξεκούραση.	iom	0	0
+Ĉu vi povas diri al mi, kie vi loĝas?	Μπορείς να μου πεις πού μένεις;	diri	0	0
+Lasu min sola, mi petas.	Άσε με ν' απομείνω μόνος μου, σε παρακαλώ.	lasu	0	0
+Via hundo estas tre granda.	Ο σκύλος σου είναι πολύ μεγάλος.	granda	0	0
+Neniu komprenas min.	Κανείς δεν με καταλαβαίνει.	komprenas	0	0
+Mi deziras, ke la situacio estu alia.	Εύχομαι η κατάσταση να ήταν διαφορετική.	alia	0	0
+Mi estas homo.	Είμαι άνθρωπος.	homo	0	0
+Roberto renkontas Jun sur la stratoj de la urbo kaj ekde tiam komenciĝas stranga simbiozo inter ili ambaŭ.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	tiam	0	0
+Ĉiuj miaj kukoj estas bongustaj!	Όλα μου τα γλυκά είναι νόστιμα!	miaj	0	0
+La lernejo situas kvin kilometrojn for de la domo.	Το σχολείο βρίσκεται πέντε χιλιόμετρα από το σπίτι.	for	0	0
+Portante ŝafan pelton li tamen restas lupo.	Είναι αυτός μια σιγανοπαπαδίτσα.	tamen	0	0
+Hieraŭ mi venis ĉi tien.	Ήρθα εδώ χθες.	venis	0	0
+Alia mondo eblas.	Ένας άλλος κόσμος είναι δυνατός.	mondo	0	0
+Ĉiu homo volas vivi feliĉan vivon.	Αυτός ο άνθρωπος θέλει να ζήσει ευτυχισμένη ζωή.	ĉiu	0	0
+Se tiu homo estus via amiko, li ne farus tion.	Εάν αυτός ο άνθρωπος ήταν φίλος σας, δεν θα το έκανε αυτό.	estus	0	0
+Mi volis nur vidi, kio okazos.	Ήθελα μόνον να δω τι θα συμβεί.	vidi	0	0
+Antaŭ du jaroj li estis en Londono.	Πριν δύο χρόνια αυτός ήταν στο Λονδίνο.	jaroj	0	0
+Vi rapide komprenas.	Εσείς καταλαβαίνετε γρήγορα.	rapide	0	0
+Ĉiutage mi iras al la laboro.	Κάθε μέρα πηγαίνω στη δουλειά.	iras	0	0
+Ĉiuj ĉeestantoj sin levis kaj klopodis iri al ŝi.	Όλοι οι παρευρισκόμενοι σηκώθηκαν και προσπάθησαν να την πλησιάσουν.	iri	0	0
+Mi ne ŝatas mineralakvon.	Δε μου αρέσει το μεταλλικό νερό.	ŝatas	0	0
+La rivereto havis ruĝan akvon.	Το ποταμάκι είχε κόκκινο νερό.	havis	0	0
+Ŝia patrino igis lin purigi la banĉambron.	Η μητέρα του τον έβαλε να καθαρίσει το μπάνιο.	patrino	0	0
+Se mi povus kanti bele!	Μακάρι να μπορούσα να τραγουδήω ωραία!	povus	0	0
+La urbo estis fondita en kvincent sepdek tri.	Η πόλη ιδρύθηκε το 573.	tri	0	0
+Ĉiu ajn kuracisto diros al vi haltu fumi.	Οποιοσδήποτε γιατρός θα σας πει να μην καπνίζετε.	ajn	0	0
+Hieraŭ pluvis la tutan tagon.	Έβρεχε χτες όλη τη μέρα.	tagon	0	0
+Alia mondo eblas.	Ένας άλλος κόσμος είναι δυνατός.	eblas	0	0
+Mi ne volis fermi la pordon.	Δεν ήθελα να κλείσω την πόρτα.	volis	0	0
+Mi parolas litove.	Μιλάω Λιθουανικά.	parolas	0	0
+Tom havas ion sur sia vizaĝo.	Ο Τομ έχει κάτι πάνω στο πρόσωπό του.	sia	0	0
+Mi esperas, ke vi ne estas kiel ĉiuj aliaj.	Ελπίζω να μην είστε όπως όλοι οι άλλοι.	aliaj	0	0
+Maria kredas je vivo antaŭ la morto.	Η Μαρία πιστεύει στη ζωή μετά το θάνατο.	kredas	0	0
+Pli ol la duono de la loĝantoj estas kontraŭ la plano.	Περισσότεροι από τους μισούς κατοίκους είναι ενάντια στο σχέδιο.	kontraŭ	0	0
+Ĉar ni ĝuste nun parolas pri gentomurdo: hodiaŭ estas la Tago de Kolumbo.	Και μιλώντας για γενοκτονίες, σήμερα είναι Ημέρα του Κολόμβου.	ĝuste	0	0
+Januaro estas la unua monato de la jaro.	Ο Ιανουάριος είναι ο πρώτος μήνας του χρόνου.	unua	0	0
+Ne estas patrino, kiu ne amas sian filon.	Δεν υπάρχει μητέρα που να μην αγαπάει το γιό της.	sian	0	0
+Tomo malamas sin.	Ο Τομ μισεί τον εαυτό του.	sin	0	0
+Prenu du aspirindozojn.	Πάρτε δύο δισκία ασπιρίνης.	prenu	0	0
+Lasu min sola, mi petas.	Άσε με ν' απομείνω μόνη μου, σε παρακαλώ.	sola	0	0
+Nek Dion, nek mastron.	Ουτε θεό ούτε αφέντη.	nek	0	0
+Morgaŭ mi komencos.	Αύριο ξεκινάω.	morgaŭ	0	0
+Ŝia filo malaperis antaŭ sep jaroj.	Ο γιος του εξαφανίστηκε επτά χρόνια πριν.	filo	0	0
+Maria estas nia najbarino; ŝia domo estas tre bela.	Η Μαρία είναι γειτόνισσά μας. Το σπίτι της είναι πολύ ωραίο.	bela	0	0
+Kion vi faros per tiu kamerao?	Τι θα κάνετε με αυτή την κάμερα;	faros	0	0
+Li kritikas ĉiujn kaj ĉion.	Κατακρίνει τους πάντες και τα πάντα.	ĉiujn	0	0
+Tiuj aferoj ne gravas al mi.	Αυτές οι υποθέσεις δεν έχουν σημασία για μένα.	gravas	0	0
+Estas multe da infanoj en la parko.	Υπάρχουν πολλά παιδιά στο πάρκο.	infanoj	0	0
+Estas plezuro ekkoni vin, sinjorino Jones.	Είναι χαρά να σας γνωρίζω, κυρία Τζόουνς.	sinjorino	0	0
+Mi ne trovis kuraciston.	Δε βρήκα ούτε έναν γιατρό.	trovis	0	0
+Ŝia vera nomo estas Lisa.	Το πραγματικό της όνομα είναι Λίζα.	nomo	0	0
+Venontsemajne li iros al Nov-Jorko.	Αναχωρεί για τη Νέα Υόρκη την επόμενη βδομάδα.	iros	0	0
+Ekde nun necesas aldoni novan regulon.	Από τη στιγμή αυτή χρειάζεται να προσθέσουμε νέον κανόνα.	necesas	0	0
+Iam li amis ŝin.	Κάποτε αυτός την αγαπούσε.	iam	0	0
+Helpu!	Βοήθεια!	helpu	0	0
+Nun la afero ŝanĝiĝis grave.	Τώρα η υπόθεση έχει αλλάξει σοβαρά.	afero	0	0
+Roberto renkontas Jun sur la stratoj de la urbo kaj ekde tiam komenciĝas stranga simbiozo inter ili ambaŭ.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	inter	0	0
+Ŝi sentas sin komforta en sia hejmo.	Αυτή αισθάνεται άνετη στο σπίτι της.	sentas	0	0
+Mi nutras mian hundon unufoje en tago.	Ταίζω το σκύλο μου μια φορά τη μέρα.	tago	0	0
+Amas mi vin!	Σ'αγαπώ!	amas	0	0
+Mi ricevis leteron de mia amiko.	Έλαβα γράμμα από το φίλο μου.	amiko	0	0
+Ekde kiam mi edziĝis, mi ĉesis labori.	Από τότε που παντρεύτηκα δεν δουλεύω πια.	ekde	0	0
+Ŝi scipovas paroli japane.	Αυτή μπορεί να μιλήσει Γιαπωνέζικα.	paroli	0	0
+Mi havas jam preskaŭ kvardek jarojn kaj ankoraŭ mi ne eniris geedzecon.	Κοντεύω στα σαράντα και είμαι ακόμα ανύπαντρος.	preskaŭ	0	0
+Mi pensis, ke Tomo trovos ĝin interesa.	Νόμιζα ότι ο Τομ θα το 'βρισκε ενδιαφέρον.	pensis	0	0
+Mia edzino tute ne ŝatas katojn.	Στη γυναίκα μου δεν αρέσουν καθόλου οι γάτες.	edzino	0	0
+Suno estas la stelo plej proksima al Tero.	Ο Ήλιος είναι το κοντινότερο στη Γη άστρο.	tero	0	0
+Kiel vi fartas? Bone, dankon!	Τι κάνεις; Είμαι καλά, σας ευχαριστώ!	fartas	0	0
+Pasis kvin jaroj de kiam ŝi mortis.	Πέρασαν πέντε χρόνια από τότε που αυτή πέθανε.	mortis	0	0
+Ĉesu kaŝi vian kapon en la sablo.	Συνέχισε να κρύβεις το κεφάλι σου μέσα στην άμμο.	ĉesu	0	0
+John estas mia plej juna frato.	Ο Τζον είναι ο νεότερος αδερφός μου.	frato	0	0
+Ne ekzistas vojo al amo. Amo estas la vojo.	Δεν υπάρχει δρόμος προς την αγάπη. Η αγάπη είναι ο δρόμος.	ekzistas	0	0
+Ŝia revo estas konduki vivon plena je variado.	Το όνειρό της είναι να ζήσει μια ζωή γεμάτη ποικιλία.	vivon	0	0
+La libro kiun Tomo skribis en Esperanto estis tradukita en multajn lingvojn tra la mondo.	Το βιβλίο που έγραψε ο Τομ στην Εσπεράντο έχει μεταφραστεί σε πολλές γλώσσες σε όλο τον κόσμο.	tra	0	0
+Oro estas la reĝo de la reĝoj.	Ο χρυσός είναι ο βασιλιάς των βασιλέων.	reĝo	0	0
+Mi bone dormis la tutan nokton.	Κοιμήθηκα καλά όλη τη νύχτα.	tutan	0	0
+Ĉiu ajn kuracisto diros al vi haltu fumi.	Οποιοσδήποτε γιατρός θα σας πει να μην καπνίζετε.	haltu	0	0
+La firmao Coca Cola evoluigis la limonadon Fanta, meze de la Dua Monda Milito, por la germana merkato.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	milito	0	0
+Marko ne estas bona knabo, Marko estas knabo malbona!	Ο Μάρκος δεν είναι καλό αγόρι, ο Μάρκος είναι αγόρι κακό!	knabo	0	0
+Ŝia vera nomo estas Lisa.	Το αληθινό της όνομα είναι Λίζα.	vera	0	0
+La domo estas ruĝa.	Το σπίτι είναι κόκκινο.	domo	0	0
+Ĉu vi povas helpi min?	Μπορείς να με βοηθήσεις;	helpi	0	0
+Konservu ĝin en malvarma loko.	Διατηρήστε το σε ένα δροσερό μέρος.	loko	0	0
+Mi aŭdas ke li malsanas.	Ακούω πως είναι άρρωστος.	aŭdas	0	0
+Estis bela tago, sed mi ne povis eliri eksteren.	Ήταν μια όμορφη μέρα, αλλά δεν μπορούσα να βγω έξω.	povis	0	0
+Li ne parolas nian lingvon.	Αυτός δε μιλά τη γλώσσα μας.	nian	0	0
+Mi deziras, ke la situacio estu alia.	Εύχομαι η κατάσταση να ήταν διαφορετική.	deziras	0	0
+Antaŭe mi multe fumis, sed mi ĉesis.	Πριν κάπνιζα πολύ, αλλά το έκοψα.	antaŭe	0	0
+La viro mortis.	Ο άντρας πέθανε.	viro	0	0
+Vi aspektas trista.	Φαίνεστε θλιμμένος.	aspektas	0	0
+La tempo pasinta neniam revenos.	Ο χρόνος που πέρασε ποτέ δεν θα γυρίσει.	revenos	0	0
+Mia fratino havas du filojn, do mi havas du nevojn.	Η αδερφή μου έχει δύο γιούς, επομένως εγώ έχω δύο ανιψιούς.	fratino	0	0
+La libereco aŭ la morto.	Ελευθερία ή θάνατος.	morto	0	0
+Unue la enmigrantoj, poste vi. Nia solidareco estas la respondo al la socia kanibalismo.	Πρώτα οι μετανάστες, ύστερα εσύ. Η αλληλεγγύη μας απάντηση στον κοινωνικό καννιβαλισμό.	unue	0	0
+Ĉu ĉiu estas en ordo?	Είναι όλα εντάξει;	ordo	0	0
+Mi ne havas tempon por tio, kaj cetere mi ne havas monon.	Δεν έχω καθόλου χρόνο γι' αυτό και εκτός αυτού δεν έχω καθόλου χρήματα.	tempon	0	0
+Mi memoras, ke mi vidis la reĝinon.	Θυμάμαι που είδα τη βασίλισσα.	memoras	0	0
+Mi amas miajn gepatrojn.	Αγαπώ τους γονείς μου.	miajn	0	0
+Ne ekzistas vojo al amo. Amo estas la vojo.	Δεν υπάρχει δρόμος προς την αγάπη. Η αγάπη είναι ο δρόμος.	amo	0	0
+Mi devas iri hejmen.	Πρέπει να πάω σπίτι.	hejmen	0	0
+Mi estas la nova instruisto.	Είμαι ο καινούργιος δάσκαλος.	nova	0	0
+Ĉiutage mi iras al la laboro.	Κάθε μέρα πηγαίνω στη δουλειά.	laboro	0	0
+Ŝia patrino igis lin purigi la banĉambron.	Η μητέρα του τον έβαλε να καθαρίσει το μπάνιο.	ŝia	0	0
+Mi ne certas, ĉu tio estas ironia aŭ ne.	Δεν είμαι βέβαιος αν αυτό είναι ειρωνικό ή όχι.	certas	0	0
+Mi komprenis tiun tekston.	Κατάλαβα αυτό το κείμενο.	komprenis	0	0
+Kion ili devus fari en tiu situacio?	Τι θα μπορούσαν αυτοί να κάνουν σε αυτή την περίσταση;	devus	0	0
+Kiam iras viaj amikoj al Usono?	Ποτέ έρχονται οι φίλοι σας στις Ηνωμένες Πολιτείες;	amikoj	0	0
+Ĉu vi povus alporti al mi iom da akvo?	Θα μπορούσατε να μου φέρετε λίγο νερό;	akvo	0	0
+Fino bona, ĉio bona!	Τέλος καλό, όλα καλά.	fino	0	0
+Hieraŭ mi iris al la plaĝo.	Χθες πήγα στην παραλία.	iris	0	0
+Jes, sed ŝi ĵus foriris.	Ναι, αλλά αυτή μόλις έφυγε.	ĵus	0	0
+La lernejo situas kvin kilometrojn for de la domo.	Το σχολείο βρίσκεται πέντε χιλιόμετρα από το σπίτι.	kvin	0	0
+Patrino estas virino.	Η μητέρα είναι γυναίκα.	virino	0	0
+Kio okazas en tiu ĉi lando?	Τι συμβαίνει στη χώρα αυτή;	lando	0	0
+Mi kapablas rapidege naĝi.	Μπορώ να κολυμπήσω πολύ γρήγορα.	kapablas	0	0
+Lango miela, sed koro kruela.	Απ' έξω κούκλα κι από μέσα πανούκλα.	koro	0	0
+Oni ne bezonas scii ĉion.	Κάποιος δε χρειάζεται να γνωρίζει τα πάντα.	scii	0	0
+Li kutimas manĝi siajn ungojn.	Έχει το συνήθειο να τρώει τα νύχια της.	manĝi	0	0
+Morgaŭ mi restos hejme.	Αύριο θα κάτσω σπίτι.	restos	0	0
+Mi memoras la vizaĝon de la viro, sed mi forgesis lian nomon.	Θυμάμαι το πρόσωπο του άντρα, αλλά ξέχασα το όνομά του.	lian	0	0
+Ĉiam la horo antaŭ la aŭroro estas la plej malhela.	Πάντα η ώρα πριν την αυγή είναι η πιο σκοτεινή.	horo	0	0
+Mi ne havas tempon por tio, kaj cetere mi ne havas monon.	Δεν έχω καθόλου χρόνο γι' αυτό και εκτός αυτού δεν έχω καθόλου χρήματα.	monon	0	0
+Ni trinkas almenaŭ tri litrojn da akvo dum unu tago.	Πίνουμε σχεδόν τρια λίτρα νερό σε μια μέρα.	almenaŭ	0	0
+El Grekio devenas multaj filozofoj.	Από την Ελλάδα προέρχονται πολλοί φιλόσοφοι	multaj	0	0
+Mi bone dormis la tutan nokton.	Κοιμήθηκα καλά όλη τη νύχτα.	nokton	0	0
+Unu, du, tri, kvar, kvin, ses, sep, ok, naŭ, dek.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	dek	0	0
+Manko de mono estas la origino de ĉiu malbono.	Η έλλειψη χρημάτων είναι η αιτία κάθε κακίας.	mono	0	0
+Mi memoras la vizaĝon de la viro, sed mi forgesis lian nomon.	Θυμάμαι το πρόσωπο του άντρα, αλλά ξέχασα το όνομά του.	forgesis	0	0
+Portante ŝafan pelton li tamen restas lupo.	Είναι μία σιγανοπαπαδιά αυτός.	restas	0	0
+Devas esti vojo por diplomata solvo.	Πρέπει να υπάρχει οδός για διπλωματική λύση.	vojo	0	0
+Mi volis nur vidi, kio okazos.	Ήθελα μόνον να δω τι θα συμβεί.	okazos	0	0
+Ŝi estis la lasta kliento.	Αυτή ήταν η τελευταία πελάτις.	lasta	0	0
+Ŝi restis kuŝanta.	Αυτή έμεινε ξαπλωμένη.	restis	0	0
+Li decidis vendi sian aŭton.	Αυτός αποφάσισε να πουλήσει το αυτοκίνητό του.	decidis	0	0
+Jana ne estas tiu malbona homo.	Η Τζέιν - δεν είναι τέτοιος κακός άνθρωπος.	malbona	0	0
+Li diris: "Mi vidis ŝin antaŭ kvin tagoj".	Αυτός είπε: "Την είδα πριν πέντε μέρες"	tagoj	0	0
+Ŝi eksidis apud min.	Αυτή κάθισε δίπλα μου.	apud	0	0
+La urbo estis fondita en kvincent sepdek tri.	Η πόλη ιδρύθηκε το 573.	urbo	0	0
+La knabino saltas.	Το κορίτσι πηδάει.	knabino	0	0
+Mi ŝatas havi amikojn en ĉiuj landoj.	Μου αρέσει να έχω φίλους σε όλες τις χώρες.	havi	0	0
+Mankas la dosieroj.	Λείπουν οι φάκελοι.	mankas	0	0
+Ni parolu pri Aŭstralio.	Ας μιλήσουμε για την Αυστραλία.	parolu	0	0
+Mi pensas, ke viaj okuloj estas tre belaj.	Κατά τη γνώμη μου είναι τα μάτια σου πολύ όμορφα.	okuloj	0	0
+Momenton, mi petas.	Μισό λεπτό, παρακαλώ.	momenton	0	0
+Li ludis bazpilkludon post la lernejo.	Αυτός έπαιξε μπεϊζμπόλ μετά το σχολείο.	lernejo	0	0
+Li petis de mi pli da mono ol necese.	Μου ζήτησε περισσότερα χρήματα απ΄όσα του χρειάζονταν.	petis	0	0
+Vi ne devis mensogi.	Δεν θα έπρεπε να ψεύδεστε.	devis	0	0
+Kiam vi alvenis?	Πότε φτάσατε;	alvenis	0	0
+Li kutimas manĝi siajn ungojn.	Έχει το συνήθειο να τρώει τα νύχια της.	siajn	0	0
+Januaro estas la unua monato de la jaro.	Ο Ιανουάριος είναι ο πρώτος μήνας του χρόνου.	jaro	0	0
+Ĉiu ajn kuracisto diros al vi haltu fumi.	Οποιοσδήποτε γιατρός θα σας πει να μην καπνίζετε.	diros	0	0
+La ŝipo sinkis dum la ŝtormo.	Το πλοίο βούλιαξε στη διάρκεια της καταιγίδας.	ŝipo	0	0
+Mi pensas, ke estas pli bone resti ĉi tie.	Σκέφτομαι ότι είναι καλύτερο να μείνω εδώ.	resti	0	0
+La kapitano estas narcisisto.	Ο καπετάνιος είναι νάρκισσος.	kapitano	0	0
+Jes, ŝi estas hejme.	Ναι, αυτή είναι σπίτι.	hejme	0	0
+Ŝi sukcesis solvi la problemon en dek minutoj.	Αυτή έλυσε το πρόβλημα σε δέκα λεπτά.	sukcesis	0	0
+La lupoj vagadas tra la arbaro.	Οι λύκοι περιπλανούνται μέσα στο δάσος.	arbaro	0	0
+Ŝia edzo estas bonega kuiristo.	Ο άντρας της είναι εξαίρετος μάγειρας.	edzo	0	0
+Petro malfermis la pordon.	Ο Πέτρος άνοιξε την πόρτα.	pordon	0	0
+Mi havas jam preskaŭ kvardek jarojn kaj ankoraŭ mi ne eniris geedzecon.	Κοντεύω στα σαράντα και είμαι ακόμα ανύπαντρος.	jarojn	0	0
+Tesaloniko estas la dua plej popolriĉa urbo en Grekio.	Η Θεσσαλονίκη είναι η δεύτερη πολυπληθέστερη πόλη της Ελλάδας.	dua	0	0
+Mi ne povas kompreni.	Δεν μπορώ να καταλάβω.	kompreni	0	0
+Restis neniu alia krom mi.	Κανένας δεν έμεινε, εκτός από μένα.	krom	0	0
+Tiu infano estas orfo.	Αυτό το παιδί είναι ορφανό.	infano	0	0
+Ĉu vi volas aŭskulti min dum kelkaj minutoj?	Θέλετε να με ακούσετε για μερικά λεπτά;	kelkaj	0	0
+Liaj planoj draste ŝanĝiĝis.	Τα σχέδια του άλλαξαν δραστικά.	liaj	0	0
+Mia familio amis Tomon.	Η οικογένειά μου αγαπούσε τον Τομ.	familio	0	0
+Sur la planedo Tero ekzistas sep kontinentoj.	Στη Γη υπάρχουν επτά ήπειροι.	planedo	0	0
+Kiun laboron faras via patro?	Τι δουλειά κάνει ο πατέρας σου;	laboron	0	0
+Ĉiu homo volas vivi feliĉan vivon.	Αυτός ο άνθρωπος θέλει να ζήσει ευτυχισμένη ζωή.	vivi	0	0
+Ĉi tiu libro kostas kvar dolarojn.	Αυτό το βιβλίο κοστίζει τέσσερα δολλάρια.	kvar	0	0
+Mi ĵus revenis el Bostono.	Μόλις γύρισα από τη Βοστώνη.	revenis	0	0
+"Tomo havas novan postenon." - "Kiun postenon?"	"Ο Τομ έχει καινούργια δουλειά." - "Τι δουλειά;"	novan	0	0
+Mi pensis, ke Tomo trovos ĝin interesa.	Νόμιζα ότι ο Τομ θα το 'βρισκε ενδιαφέρον.	trovos	0	0
+Tom iras ĉiam al la ĉiovendejo, en kiu Maria laboras.	Ο Τομ πηγαίνει πάντα στο παντπολείο, στο οποίο δουλεύει η Μαρία.	laboras	0	0
+Tiuj aferoj ne gravas al mi.	Αυτές οι υποθέσεις δεν έχουν σημασία για μένα.	aferoj	0	0
+Li sukcesis veni tien ĝustatempe.	Αυτός τα κατάφερε να φτάσει εκεί στην ώρα του.	veni	0	0
+Tomo loĝas en ruldomo.	Ο Τομ μένει σε τροχόσπιτο.	loĝas	0	0
+Mi esperas, ke ne.	Ελπίζω πως όχι.	esperas	0	0
+Ĉu vi volas aŭskulti min dum kelkaj minutoj?	Θέλετε να με ακούσετε για μερικά λεπτά;	minutoj	0	0
+Ne nur lia filo, sed ankaŭ lia filino estas fama.	Όχι μόνο ο γιος του, αλλά επίσης και η κόρη του είναι διάσημη.	filino	0	0
+La nokto estis malvarma.	Η νύχτα ήταν κρύα.	nokto	0	0
+Ni ambaŭ estis tre soifaj.	Ήμασταν αμφότεροι πολύ διψασμένοι.	ambaŭ	0	0
+La tajfuno kaŭzis neniun damaĝon.	Ο τυφώνας δεν προκάλεσε καμία ζημιά.	neniun	0	0
+John estas mia plej juna frato.	Ο Τζον είναι ο νεότερος αδερφός μου.	juna	0	0
+Kelnero, mi volus mendi.	Γκαρσόν, θα ήθελα να παραγγείλω.	volus	0	0
+Ni studas ĉiun aspekton de la projekto detale kaj planas ĝian efektivigon.	Μελετάμε κάθε πτυχή του έργου με λεπτομέρεια και σχεδιάζουμε την υλοποίησή του.	ĉiun	0	0
+Tomo parolis.	Ο Τομ μιλούσε.	parolis	0	0
+Mi neniam manĝas viandon.	Δεν τρώω ποτέ κρέας.	manĝas	0	0
+Kie estas viaj gepatroj?	Πού είναι οι γονείς σου;	gepatroj	0	0
+Mi ŝatus esti riĉa.	Θα μου άρεσε να είμαι πλούσιος.	ŝatus	0	0
+Mia telefono ne funkcias.	Το τηλέφωνό μου δε λειτουργεί.	funkcias	0	0
+La Grekia maro estas belega.	Η θάλασσα στην Ελλάδα είναι πανέμορφη.	belega	0	0
+Manojn supren!	Ψηλά τα χέρια!	manojn	0	0
+Tiu libro havas multajn belajn bildojn.	Αυτό το βιβλίο έχει πολλές ωραίες εικόνες.	multajn	0	0
+Jes, sed ŝi ĵus foriris.	Ναι, αλλά αυτή μόλις έφυγε.	foriris	0	0
+Muziko estas internacia lingvo.	Η μουσική είναι διεθνής γλώσσα.	muziko	0	0
+Mi memoras la vizaĝon de la viro, sed mi forgesis lian nomon.	Θυμάμαι το πρόσωπο του άντρα, αλλά ξέχασα το όνομά του.	nomon	0	0
+Ĝi estas tiom stulta.	Είναι τόσο ηλίθ.	stulta	0	0
+Mi ricevis leteron de mia amiko.	Έλαβα γράμμα από το φίλο μου.	ricevis	0	0
+Ĉiun kristnaskan vesperon ni iras al preĝejo.	Κάθε παραμονή Χριστουγέννων πηγαίνουμε στην εκκλησία.	vesperon	0	0
+Tio, en mia opinio, ne estas bona ideo.	Αυτό, κατά τη γνώμη μου, δεν είναι καλή ιδέα.	ideo	0	0
+Mi dormis hieraŭ la tutan tagon.	Κοιμήθηκα χτες όλη μέρα.	hieraŭ	0	0
+Mia hobio estas ludi la gitaron.	Το χόμπι μου είναι να παίζω κιθάρα.	ludi	0	0
+Milli ne trinkas akvon.	Η Μίλι δεν πίνει νερό.	akvon	0	0
+Li faradis tion foje kaj refoje.	Το έχει κάνει ξανά και ξανά.	foje	0	0
+Tomo alportis al Maria kelkajn florojn.	Ο Τομ έφερε στη Μαίρη μερικά λουλούδια.	alportis	0	0
+Kiu estas via plej ŝatata libro?	Ποιό είναι το πιο αγαπημένο σου βιβλίο;	libro	0	0
+La libro kiun Tomo skribis en Esperanto estis tradukita en multajn lingvojn tra la mondo.	Το βιβλίο που έγραψε ο Τομ στην Εσπεράντο έχει μεταφραστεί σε πολλές γλώσσες σε όλο τον κόσμο.	skribis	0	0
+Vi diris, ke vi estas feliĉa.	Είπατε ότι είστε ευτυχισμένη.	feliĉa	0	0
+Tomo alportis al Maria kelkajn florojn.	Ο Τομ έφερε στη Μαίρη μερικά λουλούδια.	kelkajn	0	0
+Ŝi sentas sin komforta en sia hejmo.	Αυτή αισθάνεται άνετη στο σπίτι της.	hejmo	0	0
+Ekde kiam mi edziĝis, mi ĉesis labori.	Από τότε που παντρεύτηκα δεν δουλεύω πια.	labori	0	0
+Ili mortigis ŝin.	Τη δολοφόνησαν.	mortigis	0	0
+Li helpos vin.	Αυτός θα σε βοηθήσει.	helpos	0	0
+Ŝi ofte kantas kiam ŝi lavas la telerojn en la kuirejo.	Συχνά τραγουδάει όταν πλένει τα πιάτα στην κουζίνα.	ofte	0	0
+Tion mi faris la unuan fojon.	Αυτό έκανα την πρώτη φορά.	fojon	0	0
+Ĉu vi scipovas danci bone?	Μπορείς να χορεύεις καλά;	scipovas	0	0
+Ekzistas multaj steloj, kiuj estas pli grandaj ol nia suno.	Υπάρχουν πολλά αστέρια που είναι μεγαλύτερα από τον ήλιο μας.	suno	0	0
+Mi vidis lin eliri.	Τον είδα να πηγαίνει έξω.	eliri	0	0
+Mia celo estas fariĝi kuracisto.	Σκοπός μου είναι να γίνω γιατρός.	celo	0	0
+Virinoj batalas en tiu ĉi lando por libereco.	Οι γυναίκες αγωνίζονται σε αυτή εδώ τη χώρα για την ελευθερία.	virinoj	0	0
+La vero ĉiam venkas.	Η αλήθεια πάντα νικάει.	vero	0	0
+Mi intencas iri al Francio la venontan jaron.	Σκοπεύω να πάω στη Γαλλία το επόμενο έτος.	intencas	0	0
+Manjo lulas la koksojn por altiri la voluptavidan rigardon de la viroj.	Η Μαρία κουνάει τους γοφούς της για να τραβήξει το λάγνο βλέμμα των αντρών.	viroj	0	0
+Mi ĝojas ekkoni vin.	Χαίρομαι που σας γνωρίζω.	ĝojas	0	0
+La korpo estas morta, la animo estas senmorta.	Το σώμα είναι φθαρτό, αλλά η ψυχή είναι αθάνατη.	korpo	0	0
+Mi bezonas aĉeti benzinon.	Πρέπει να βάλω βενζίνη.	aĉeti	0	0
+Mizero havas talentan kapon.	Πενία τέχνας κατεργάζεται.	kapon	0	0
+Manojn supren!	Ψηλά τα χέρια!	supren	0	0
+Blovas la vento.	Φυσάει ο άνεμος.	vento	0	0
+Subite komencis pluvi.	Ξαφνικά ξεκίνησε να βρέχει.	komencis	0	0
+La korpo estas morta, la animo estas senmorta.	Το σώμα είναι θνητό, αλλά η ψυχή είναι αθάνατη.	animo	0	0
+Oro estas la reĝo de la reĝoj.	Ο χρυσός είναι ο βασιλιάς των βασιλέων.	oro	0	0
+Mia frato falis el arbo kaj rompis sian kruron.	Ο αδερφός μου έπεσε από το δέντρο και έσπασε το πόδι του.	arbo	0	0
+Ŝia hararo estas longa.	Τα μαλλιά της είναι μακρυά.	longa	0	0
+La unuigita popolo neniam estos venkita.	Ο λαός ενωμένος δεν θα ηττηθεί ποτέ.	popolo	0	0
+Vi ricevos la rajton elekti.	Θα έχετε το δικαίωμα να επιλέξετε.	ricevos	0	0
+Mi rekonas vin per la terura tranĉrando de via glavo.	Σε γνωρίζω από την κόψη του σπαθιού την τρομερή.	terura	0	0
+Dio kreis la mondon.	Ο Θεός δημιούργησε τον κόσμο.	mondon	0	0
+Li foriros post tri tagoj.	Αυτός θα αφήσει στις τρεις μέρες.	foriros	0	0
+John Locke, la konata filozofo de la libereco, estis akciulo de la Reĝa Afrika Kompanio, kiu aĉetis kaj vendis sklavojn.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	reĝa	0	0
+Mi ne demandis tion.	Δεν το είχα ρωτήσει.	demandis	0	0
+Mi preferas kafon.	Προτιμώ καφέ.	preferas	0	0
+Tom ne dormis de antaŭ du tagoj.	Ο Τομ δεν κοιμήθηκε εδώ και δύο μέρες.	dormis	0	0
+La papero, ĉina invento aĝa proksimume dumiljara, lasis neforviŝeblan markon sur ĉiuj kulturoj.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	lasis	0	0
+Roberto renkontas Jun sur la stratoj de la urbo kaj ekde tiam komenciĝas stranga simbiozo inter ili ambaŭ.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	stranga	0	0
+Memoru pri la morto, sed pensu pri la vivo!	Να θυμάσαι το θάνατο, αλλά να σκέφτεσαι τη ζωή!	pensu	0	0
+Dio mia, Dio mia, kial vi forlasis min?	Θεέ μου, θεέ μου, γιατί με εγκατέλειψες;	forlasis	0	0
+La ĉambro estas malhela.	Το δωμάτιο είναι σκοτεινό.	ĉambro	0	0
+Mi ne povas skribi en la ĉina lingvo.	Δεν μπορώ να γράψω στα Κινέζικα.	skribi	0	0
+Mi ne kapablas dormi pro vi.	Δεν κοιμάμαι εξαιτίας σου.	dormi	0	0
+Ŝia filo malaperis antaŭ sep jaroj.	Ο γιος του εξαφανίστηκε επτά χρόνια πριν.	malaperis	0	0
+Iu ŝtelis mian tutan monon.	Κάποιος μου έκλεψε όλα τα χρήματα.	ŝtelis	0	0
+Kies valizo ĝi estas?	Τίνος είναι αυτή τη βαλίτσα;	kies	0	0
+Kiu parto estis ne tradukita?	Ποιό κομμάτι δεν είναι μεταφρασμένο;	parto	0	0
+Malmultaj studentoj povas legi latinan.	Λίγοι σπουδαστές μπορούν να διαβάσουν λατινικά.	legi	0	0
+Mi ne povas fini tiun tradukon hodiaŭ. Mi lasos ĝin por morgaŭ.	Δεν μπορώ να τελειώσω αυτή τη μετάφραση σήμερα. Θα την αφήσω για αύριο.	lasos	0	0
+La Grekia maro estas belega.	Η θάλασσα στην Ελλάδα είναι πανέμορφη.	maro	0	0
+Mia frato falis el arbo kaj rompis sian kruron.	Ο αδερφός μου έπεσε από το δέντρο και έσπασε το πόδι του.	falis	0	0
+Ŝia romano plaĉas al mi.	Μου αρέσει το μυθιστόρημά της.	plaĉas	0	0
+Matene li ne ĉiam estas en sia oficejo.	Αυτός δεν είναι πάντοτε στο γραφείο του το πρωί.	matene	0	0
+Mi kredas, ke Tom ne kulpas.	Πιστεύω ότι είναι αθώος ο Τομ.	kulpas	0	0
+Ĉu ekzistas bonaj kaj malbonaj teroristoj?	Άραγε υπάρχουν καλοί και κακοί τρομοκράτες;	bonaj	0	0
+Se mi povus kanti bele!	Μακάρι να μπορούσα να τραγουδήω ωραία!	bele	0	0
+Mi havas jam preskaŭ kvardek jarojn kaj ankoraŭ mi ne eniris geedzecon.	Κοντεύω στα σαράντα και είμαι ακόμα ανύπαντρος.	eniris	0	0
+Kristo resurektis!	Χριστός ανέστη!	kristo	0	0
+Tomo malamas sin.	Ο Τομ μισεί τον εαυτό του.	malamas	0	0
+Bona kuracisto li estos.	Αυτός θα γίνει καλός θεραπευτής.	kuracisto	0	0
+Mi dormis dum ok horoj lastnokte.	Κοιμήθηκα οχτώ ώρες χθες βράδυ.	horoj	0	0
+La aŭto estas blua.	Το αυτοκίνητο είναι μπλε.	aŭto	0	0
+Ekzistas multaj steloj, kiuj estas pli grandaj ol nia suno.	Υπάρχουν πολλά αστέρια που είναι μεγαλύτερα από τον ήλιο μας.	grandaj	0	0
+Tion mi faris la unuan fojon.	Αυτό έκανα την πρώτη φορά.	unuan	0	0
+Mi vidas domon.	Βλέπω ένα σπίτι.	domon	0	0
+Tom havas ion sur sia vizaĝo.	Ο Τομ έχει κάτι πάνω στο πρόσωπό του.	vizaĝo	0	0
+La unua periodo finiĝis hieraŭ.	Χθες τελείωσε η πρώτη περίοδος.	finiĝis	0	0
+Ĉiutage mi iras al la laboro.	Κάθε μέρα πηγαίνω στη δουλειά.	ĉiutage	0	0
+Degas naskiĝis antaŭ pli ol 150 jaroj.	Ο Ντεγά γεννήθηκε περισσότερο από 150 χρόνια πριν.	naskiĝis	0	0
+Rostitaj kaŝtanoj estas populara vintra manĝaĵo.	Τα ψητά κάστανα είναι δημοφιλές φαγητό τον χειμώνα.	manĝaĵo	0	0
+Hodiaŭ mi iĝos kvarjara.	Σήμερα γίνομαι τεσσάρων χρονών.	iĝos	0	0
+Vi devas skribi oficialan leteron al la direktoro.	Πρέπει να γράψετε μια επίσημη επιστολή στον διευθυντή.	direktoro	0	0
+Matene li ne ĉiam estas en sia oficejo.	Αυτός δεν είναι πάντοτε στο γραφείο του το πρωί.	oficejo	0	0
+Vi povas uzi la naĝejon de la hotelo.	Μπορείτε να χρησιμοποιήσετε την πισίνα του ξενοδοχείου.	uzi	0	0
+Esperanto havas propran himnon.	Η Εσπεράντο έχει το δικό της ύμνο.	propran	0	0
+La libro kiun Tomo skribis en Esperanto estis tradukita en multajn lingvojn tra la mondo.	Το βιβλίο που έγραψε ο Τομ στην Εσπεράντο έχει μεταφραστεί σε πολλές γλώσσες σε όλο τον κόσμο.	esperanto	0	0
+Ŝian vivon minacas danĝero.	Η ζωή της είναι σε κίνδυνο.	danĝero	0	0
+La knabinoj ekridis aŭdante la historion.	Τα κορίτσια άρχισαν να γελούν μόλις άκουσαν την ιστορία.	knabinoj	0	0
+Mi estas instruisto.	Εγώ είμαι καθηγητής.	instruisto	0	0
+Ni zorgas pri la aliaj.	Νοιαζόμαστε για τους άλλους.	zorgas	0	0
+Esperanto estas simpla lingvo.	Η εσπεράντο είναι μια απλή γλώσσα.	lingvo	0	0
+Ne estas patrino, kiu ne amas sian filon.	Δεν υπάρχει μητέρα που να μην αγαπάει το γιό της.	filon	0	0
+Mi manĝis boligitan ovon.	Έχω φάει ψημένο αυγό.	manĝis	0	0
+Neniu respondis al mia demando.	Κανένας δεν απάντησε στην ερώτησή μου.	demando	0	0
+Mia patro estas nun en la ĝardeno.	Ο πατέρας μου είναι στον κήπο τώρα.	ĝardeno	0	0
+Kion ni manĝos?	Τι θα φάμε;	manĝos	0	0
+Mi renkontis mian eksedzon vizaĝon kontraŭ vizaĝo.	Ήρθα πρόσωπο με πρόσωπο με τον πρώην άντρα μου.	renkontis	0	0
+Tiu aĵo ne estas viva.	Αυτό το πράγμα δεν είναι ζωντανό.	viva	0	0
+Tio apartenas al la pasinteco.	Αυτά ανήκουν στο παρελθόν.	apartenas	0	0
+Fermu la fenestron.	Κλείσε το παράθυρο.	fermu	0	0
+Se tiu homo estus via amiko, li ne farus tion.	Εάν αυτός ο άνθρωπος ήταν φίλος σας, δεν θα το έκανε αυτό.	farus	0	0
+Vi povas uzi la naĝejon de la hotelo.	Μπορείτε να χρησιμοποιήσετε την πισίνα του ξενοδοχείου.	hotelo	0	0
+Ŝian vivon minacas danĝero.	Η ζωή της είναι σε κίνδυνο.	ŝian	0	0
+Marko ne estas bona knabo, Marko estas knabo malbona!	Ο Μάρκος δεν είναι καλό αγόρι, ο Μάρκος είναι αγόρι κακό!	marko	0	0
+Ŝia edzo estas bonega kuiristo.	Ο άντρας της είναι εξαίρετος μάγειρας.	bonega	0	0
+Vi kaptis la ŝteliston.	Έχεις πιάσει τον κλέφτη.	kaptis	0	0
+Kie ni troviĝas?	Που βρισκόμαστε;	troviĝas	0	0
+Li provis lerni la francan.	Προσπάθησε να μάθει Γαλλικά.	provis	0	0
+Ŝia revo estas konduki vivon plena je variado.	Το όνειρό της είναι να ζήσει μια ζωή γεμάτη ποικιλία.	plena	0	0
+Kial vi uzas Tatoeba-n?	Γιατί χρησιμοποιείς την Tatoeba;	uzas	0	0
+Kiel pasis la tempo!	Πώς πέρασε η ώρα!	pasis	0	0
+La domo estas ruĝa.	Το σπίτι είναι κόκκινο.	ruĝa	0	0
+Tom metis sian monujon sur la skribotablon.	Ο Τομ έβαλε το πορτοφόλι του πάνω στο γραφείο.	metis	0	0
+Ni loĝas proksime de la lernejo.	Μένουμε κοντά στο σχολείο.	proksime	0	0
+Unu, du, tri, kvar, kvin, ses, sep, ok, naŭ, dek.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	ses	0	0
+Nur frenezuloj diras tiajn vortojn.	Τέτοιες λέξεις λένε μόνο οι τρελοί.	tiajn	0	0
+Li decidis vendi sian aŭton.	Αυτός αποφάσισε να πουλήσει το αυτοκίνητό του.	aŭton	0	0
+Tio estas apenaŭ kredebla.	Αυτό είναι μόλις και μετά βίας πιστευτό.	apenaŭ	0	0
+Mi ne povas pensi pri ĉio.	Δεν μπορώ να σκέπτομαι για τα πάντα.	pensi	0	0
+Ĉu vi aĉetis ĝin sur la nigra merkato?	Το αγόρασες αυτό στη μαύρη αγορά;	nigra	0	0
+La telefono sonas.	Χτυπάει το τηλέφωνο.	sonas	0	0
+Ŝia filo malaperis antaŭ sep jaroj.	Ο γιος του εξαφανίστηκε επτά χρόνια πριν.	sep	0	0
+Mi estas danka pro via helpo.	Σου είμαι ευγνώμων για τη βοήθειά.	helpo	0	0
+Mi montros al vi mian ĉambron.	Θα σας δείξω το δωμάτιό μου.	montros	0	0
+Mi volas lerni la francan.	Θέλω να μάθω γαλλικά.	lerni	0	0
+Ĉiutage mortas homoj.	Κάθε μέρα πεθαίνουν άνθρωποι.	mortas	0	0
+Mi memoras la vizaĝon de la viro, sed mi forgesis lian nomon.	Θυμάμαι το πρόσωπο του άντρα, αλλά ξέχασα το όνομά του.	vizaĝon	0	0
+Ĉi tiu libro kostas kvar dolarojn.	Αυτό το βιβλίο κοστίζει τέσσερα δολλάρια.	kostas	0	0
+Ĉu la hundo estas via?	Είναι δικός σου ο σκύλος;	hundo	0	0
+Mi aĉetis dekon da ovoj.	Αγοράσα μια δεκάδα αυγά.	aĉetis	0	0
+Memoru pri la morto, sed pensu pri la vivo!	Να θυμάσαι το θάνατο, αλλά να σκέφτεσαι τη ζωή!	memoru	0	0
+Promeno en pura aero refreŝigos vin.	Μια βόλτα στον καθαρό αέρα θα σου κάνει καλό.	aero	0	0
+Li metis la libron sur la tablon.	Αυτός έβαλε το βιβλίο πάνω στο τραπέζι.	libron	0	0
+Ŝi rifuzas forlasi sian karieron por edziniĝo.	Αυτή αρνείται να εγκαταλείψει την καριέρα της για το γάμο.	forlasi	0	0
+Ŝi ofte kantas kiam ŝi lavas la telerojn en la kuirejo.	Συχνά τραγουδάει όταν πλένει τα πιάτα στην κουζίνα.	kantas	0	0
+Li helpas min.	Αυτός με βοηθά.	helpas	0	0
+Ekzistas multaj steloj, kiuj estas pli grandaj ol nia suno.	Υπάρχουν πολλά αστέρια που είναι μεγαλύτερα από τον ήλιο μας.	steloj	0	0
+Mi ne volas komenti tiun aferon.	Δεν θέλω να σχολιάσω αυτή την υπόθεση.	aferon	0	0
+Mi rekonas vin per la terura tranĉrando de via glavo.	Σε γνωρίζω από την κόψη του σπαθιού την τρομερή.	rekonas	0	0
+Subite komencis pluvi.	Ξαφνικά ξεκίνησε να βρέχει.	subite	0	0
+Tiu ĉi rivero havas ducent kilometrojn da longo.	Αυτό το ποτάμι έχει μήκος διακόσια χιλιόμετρα.	rivero	0	0
+Mono kuras al mono.	Τα λεφτά πάνε στα λεφτά.	kuras	0	0
+La lago estas tre profunda.	Η λίμνη είναι πολύ βαθιά.	lago	0	0
+Hieraŭ mi estis malsana.	Χτες ήμουν άρρωστος.	malsana	0	0
+Pli da libroj oni skribas, ol oni legas.	Γράφονται περισσότερα βιβλία από όσα διαβάζονται.	libroj	0	0
+Mi dormis nur tri horojn.	Κοιμήθηκα μόνο τρεις ώρες.	horojn	0	0
+Mi ne diris mian lastan vorton!	Δεν είπα την τελευταία λέξη!	lastan	0	0
+Tomo portis sian filon surdorse.	Ο Τομ κουβαλούσε το γιό του στην πλάτη.	portis	0	0
+Se paroli serioze, kion vi intencas fari?	Σοβαρά, τι σκοπεύετε να κάνετε;	serioze	0	0
+Pli ol la duono de la loĝantoj estas kontraŭ la plano.	Περισσότεροι από τους μισούς κατοίκους είναι ενάντια στο σχέδιο.	duono	0	0
+Romulus kaj Remus estis fratoj.	Ο Ρωμύλος και ο Ρέμος ήταν αδέρφια.	fratoj	0	0
+Mi nutras mian hundon unufoje en tago.	Ταίζω το σκύλο μου μια φορά τη μέρα.	unufoje	0	0
+La glaso estas pura.	Το ποτήρι είναι καθαρό.	pura	0	0
+La samo veras pri ĉiuj homaj estaĵoj.	Το ίδιο αληθεύει για όλα τα ανθρώπινα όντα.	veras	0	0
+Ĉu ni trinku teon?	Να πιούμε τσάι;	trinku	0	0
+La estonteco ne estos konstruata perforte, eĉ ne kun la deziro konkeri, sed per la pacienca aplikado de la demokratia metodo, la spirito de konstruiva konsento kaj la respekto por libereco.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	spirito	0	0
+Unu jaron poste Paŭlo naskiĝis.	Ένα χρόνο αργότερα γεννήθηκε ο Παύλος.	jaron	0	0
+Kaj ne konduku nin en tenton, sed liberigu nin de la malbono.	Και μη εισενέγκης υμίν εις πειρασμόν, αλλ' αφές υμίν από του πονηρού.	malbono	0	0
+Mi pensas, ke viaj okuloj estas tre belaj.	Κατά τη γνώμη μου είναι τα μάτια σου πολύ όμορφα.	belaj	0	0
+Feliĉaj la homoj kredantaj je Dio.	Ευτυχισμένοι οι άνθρωποι που πιστεύουν στο Θεό.	feliĉaj	0	0
+Ho ne! Nia paciento estas mortinta.	Ω, όχι! Ο ασθενής μας είναι νεκρός.	mortinta	0	0
+Li diras sensencaĵojn sur alta nivelo.	Αυτός λέει ανοησίες σε υψηλό επίπεδο.	alta	0	0
+Kiun eŭropan urbon vi plej ŝatas?	Ποιά Ευρωπαϊκή πόλη σας αρέσει περισσότερο;	urbon	0	0
+Liaj planoj draste ŝanĝiĝis.	Τα σχέδια του άλλαξαν δραστικά.	ŝanĝiĝis	0	0
+Popola voĉo - Dia voĉo.	Φωνή λαού - φωνή Θεού.	voĉo	0	0
+Mi ne havas tempon por tio, kaj cetere mi ne havas monon.	Δεν έχω καθόλου χρόνο γι' αυτό και εκτός αυτού δεν έχω καθόλου χρήματα.	cetere	0	0
+Estis bela tago, sed mi ne povis eliri eksteren.	Ήταν μια όμορφη μέρα, αλλά δεν μπορούσα να βγω έξω.	eksteren	0	0
+Suno estas la stelo plej proksima al Tero.	Ο Ήλιος είναι το κοντινότερο στη Γη άστρο.	proksima	0	0
+Mi devas trinki.	Πρέπει να πιω.	trinki	0	0
+Mi montros al vi mian ĉambron.	Θα σας δείξω το δωμάτιό μου.	ĉambron	0	0
+Bonvolu respondi min.	Παρακαλώ απαντήστε μου.	respondi	0	0
+Mia ĉevalino estas blanka.	Η φοράδα μου είναι άσπρη.	blanka	0	0
+La somero ĉi tie estas tre varma.	Το καλοκαίρι εδώ είναι πολύ ζεστό.	varma	0	0
+La vivo estas mallonga, tamen rideto nur prenas unu sekundon.	Η ζωή είναι μικρή, αν και το χαμόγελο διαρκεί μόνο ένα δευτερόλεπτο.	prenas	0	0
+Mi ne diris mian lastan vorton!	Δεν είπα την τελευταία λέξη!	vorton	0	0
+Li ludis bazpilkludon post la lernejo.	Αυτός έπαιξε μπεϊζμπόλ μετά το σχολείο.	ludis	0	0
+La vivo estas espero.	Η ζωή είναι ελπίδα.	espero	0	0
+Estas kvar bildoj sur la muro.	Υπάρχουν τέσσερις εικόνες στην τοίχο.	muro	0	0
+La mondo ne finiĝos pro tio.	Δε χάθηκε ο κόμος!	finiĝos	0	0
+Vi ne bezonas skribi pli ol kvarcent vortojn.	Δεν χρειάζεται να γράψετε περισσότερες από τετρακόσιες λέξεις.	vortojn	0	0
+La estonteco ne estos konstruata perforte, eĉ ne kun la deziro konkeri, sed per la pacienca aplikado de la demokratia metodo, la spirito de konstruiva konsento kaj la respekto por libereco.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	libereco	0	0
+Kiuj estas miaj novaj najbaroj?	Ποιοί είναι οι νέοι μου γείτονες;	novaj	0	0
+Dirite je mia honoro!	Λόγω τιμής!	honoro	0	0
+Mi deziras, ke la situacio estu alia.	Εύχομαι η κατάσταση να ήταν διαφορετική.	situacio	0	0
+Estis evidente por ni ĉiuj, ke li estas senkulpa.	Ήταν προφανές για όλους μας ότι αυτός ήταν αθώος.	evidente	0	0
+Iam li amis ŝin.	Κάποτε αυτός την αγαπούσε.	amis	0	0
+La pomo estas sur la tablo.	Το μήλο είναι πάνω στο τραπέζι.	tablo	0	0
+Pluraj instruistoj havas problemon kun Tom.	Πολλοί καθηγητές έχουν πρόβλημα με τον Τομ.	problemon	0	0
+John naskiĝis en Usono.	Ο Τζον γεννήθηκε στις ΗΠΑ.	usono	0	0
+Mi vokos policon!	Θα καλέσω την αστυνομία!	policon	0	0
+Ĉiumatene mi trinkas kafon kun lakto.	Κάθε πρωί πίνω καφέ με γάλα.	kafon	0	0
+Tom ofte parolas kun Maria.	Ο Τομ μιλάει συχνά με τη Μαρία.	maria	0	0
+La ruĝaj ranoj saltis en la lotusplenan lageton en la bela verda parko.	Οι κόκκινοι βάτραχοι πηδούσαν στη γεμάτη λωτούς λιμνούλα του όμορφου πράσινου πάρκου.	verda	0	0
+Via libro ŝanĝis mian vivon.	Το βιβλίο σου άλλαξε τη ζωή μου.	ŝanĝis	0	0
+"Tomo havas novan postenon." - "Kiun postenon?"	"Ο Τομ έχει καινούργια δουλειά." - "Τι δουλειά;"	postenon	0	0
+Unu, du, tri, kvar, kvin, ses, sep, ok, naŭ, dek.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	ok	0	0
+Esperanto estas simpla lingvo.	Η εσπεράντο είναι μια απλή γλώσσα.	simpla	0	0
+La sistemo bone funkciis.	Το σύστημα λειτούργησε καλά.	sistemo	0	0
+Pli da libroj oni skribas, ol oni legas.	Γράφονται περισσότερα βιβλία από όσα διαβάζονται.	skribas	0	0
+Mi ricevis leteron de mia amiko.	Έλαβα γράμμα από το φίλο μου.	leteron	0	0
+Estas plezuro ekkoni vin, sinjorino Jones.	Είναι χαρά να σας γνωρίζω, κυρία Τζόουνς.	plezuro	0	0
+La telefono sonas.	Χτυπάει το τηλέφωνο.	telefono	0	0
+Mia frato falis el arbo kaj rompis sian kruron.	Ο αδερφός μου έπεσε από το δέντρο και έσπασε το πόδι του.	rompis	0	0
+Tiu aeroplano estas grandega!	Αυτό το αεροπλάνο είναι τεράστιο!	grandega	0	0
+Konservu ĝin en malvarma loko.	Διατηρήστε το σε ένα δροσερό μέρος.	konservu	0	0
+Ĉu vi volas aŭskulti min dum kelkaj minutoj?	Θέλετε να με ακούσετε για μερικά λεπτά;	aŭskulti	0	0
+Tiu aĵo ne estas viva.	Αυτό το πράγμα δεν είναι ζωντανό.	aĵo	0	0
+La nokto estis malvarma.	Η νύχτα ήταν κρύα.	malvarma	0	0
+Steĉjo eniras aŭtobuson.	Ο Στέφανος μπαίνει στο λεωφορείο.	eniras	0	0
+Mi ŝatas havi amikojn en ĉiuj landoj.	Μου αρέσει να έχω φίλους σε όλες τις χώρες.	amikojn	0	0
+Leĝo kaj politiko estas du malsamaj aferoj.	Ο νόμος και η πολιτική είναι δύο διαφορετικά πράγματα.	leĝo	0	0
+Pli ol la duono de la loĝantoj estas kontraŭ la plano.	Περισσότεροι από τους μισούς κατοίκους είναι ενάντια στο σχέδιο.	plano	0	0
+La papero, ĉina invento aĝa proksimume dumiljara, lasis neforviŝeblan markon sur ĉiuj kulturoj.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	aĝa	0	0
+La aŭto estas blua.	Το αυτοκίνητο είναι μπλε.	blua	0	0
+Mi ne povas fini tiun tradukon hodiaŭ. Mi lasos ĝin por morgaŭ.	Δεν μπορώ να τελειώσω αυτή τη μετάφραση σήμερα. Θα την αφήσω για αύριο.	fini	0	0
+Ŝi posedas malmultajn librojn.	Αυτή έχει λίγα βιβλία.	librojn	0	0
+Miaj blankaj haroj plimultiĝas.	Οι λευκές μας τρίχες πολλαπλασιάζονται.	haroj	0	0
+La korpo estas morta, la animo estas senmorta.	Το σώμα είναι θνητό, αλλά η ψυχή είναι αθάνατη.	morta	0	0
+En la vintro neĝas.	Το χειμώνα πέφτει χιόνι.	vintro	0	0
+Dio kreis la mondon.	Ο Θεός δημιούργησε τον κόσμο.	kreis	0	0
+Ŝi rifuzas forlasi sian karieron por edziniĝo.	Αυτή αρνείται να εγκαταλείψει την καριέρα της για το γάμο.	rifuzas	0	0
+Kiom da lingvoj vi parolas, tiom vi valoras.	Όσες γλώσσες μιλάς, τόσο αξίζεις.	valoras	0	0
+La rizo estas bongusta.	Το ρύζι είναι νόστιμο.	bongusta	0	0
+Mi memoras liajn parolojn.	Θυμάμαι τα λόγια του.	liajn	0	0
+Mi lin konis antaŭ tri jaroj.	Τον γνώρισα πριν τρια χρόνια.	konis	0	0
+Li helpis min.	Αυτός με βοήθησε.	helpis	0	0
+Ŝia patrino igis lin purigi la banĉambron.	Η μητέρα του τον έβαλε να καθαρίσει το μπάνιο.	igis	0	0
+Kato havas du orelojn.	Μια γάτα έχει δύο αυτιά.	kato	0	0
+En Japanujo ekzistas multaj belaj lokoj.	Στην Ιαπωνία υπάρχουν πολλά όμορφα μέρη.	lokoj	0	0
+Mi estas heroo.	Είμαι ήρωας.	heroo	0	0
+La vetero estas pli bela ol hieraŭ.	Ο καιρός είναι καλύτερος από χθες.	vetero	0	0
+Tomo alportis al Maria kelkajn florojn.	Ο Τομ έφερε στη Μαίρη μερικά λουλούδια.	florojn	0	0
+Instruado estas la plej bona maniero lerni.	Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	maniero	0	0
+Ĉu vi povus alporti al mi iom da akvo?	Θα μπορούσατε να μου φέρετε λίγο νερό;	alporti	0	0
+Dum nuna semajno mi ferias.	Είμαι σε διακοπές αυτή την εβδομάδα.	semajno	0	0
+Ŝi povas meti vin en malliberejon pro adulto.	Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	meti	0	0
+Mi pensis, ke Tomo trovos ĝin interesa.	Νόμιζα πως ο Τομ θα το έβρισκε ενδιαφέρον.	interesa	0	0
+Vi mortigas min malrapide.	Με σκοτώνετε αργά.	malrapide	0	0
+Mi havas hodiaŭ posttagmeze multon por fari.	Έχω σήμερα το απόγευμα πολλά να κάνω.	multon	0	0
+Ne facilas lerni fremdan lingvon.	Δεν είναι εύκολο να μάθεις μια ξένη γλώσσα.	lingvon	0	0
+Ĉu ankaŭ vi interesiĝas pri la greka kulturo?	Σε ενδιαφέρει επίσης ο ελληνικός πολιτισμός;	interesiĝas	0	0
+La firmao Coca Cola evoluigis la limonadon Fanta, meze de la Dua Monda Milito, por la germana merkato.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	meze	0	0
+Estas neniu ne amanta sian familion.	Δεν υπάρχει άνθρωπος, που να μην αγαπάει την οικογένειά του.	familion	0	0
+La vivo estas mallonga, tamen rideto nur prenas unu sekundon.	Η ζωή είναι μικρή, αν και το χαμόγελο διαρκεί μόνο ένα δευτερόλεπτο.	mallonga	0	0
+En fremdan vazon ne ŝovu la nazon.	Μη χώνεις τη μύτη σε ξένο βάζο.	nazon	0	0
+La ŝipanaro forlasis la ŝipon.	Το πλήρωμα εγκατέλειψε το πλοίο.	ŝipon	0	0
+Mi uzis mian fantazion.	Χρησιμοποίησα τη φαντασία μου.	uzis	0	0
+Mi aŭdas ke li malsanas.	Ακούω πως είναι άρρωστος.	malsanas	0	0
+Multan dankon!	Ευχαριστώ πολύ!	multan	0	0
+Kiom kostas ligna seĝo?	Πόσο στοιχίζει μια ξύλινη καρέκλα;	seĝo	0	0
+Feliĉan Kristnaskon!	Καλά Χριστούγεννα!	feliĉan	0	0
+Mi instruas la francan.	Διδάσκω γαλλικά.	instruas	0	0
+La knabinoj ekridis aŭdante la historion.	Τα κορίτσια άρχισαν να γελούν μόλις άκουσαν την ιστορία.	historion	0	0
+La okcitana ne estas dialekto de la franca.	Τα οξιτανικά δεν είναι διάλεκτος των γαλλικών.	franca	0	0
+Pli da libroj oni skribas, ol oni legas.	Γράφονται περισσότερα βιβλία από όσα διαβάζονται.	legas	0	0
+La ĉambro estis malplena.	Το δωμάτιο ήταν άδειο.	malplena	0	0
+Mi estas iom laca hodiaŭ.	Είμαι λίγο κουρασμένος σήμερα.	laca	0	0
+Ĉiumatene mi trinkas kafon kun lakto.	Κάθε πρωί πίνω καφέ με γάλα.	trinkas	0	0
+Bonan kristnaskon!	Καλά Χριστούγεννα!	kristnaskon	0	0
+Mi kredas, ke estas eraro en mia fakturo.	Πιστεύω στο λογαριασμό μου είναι ένα λάθος.	eraro	0	0
+Unue la enmigrantoj, poste vi. Nia solidareco estas la respondo al la socia kanibalismo.	Πρώτα οι μετανάστες, ύστερα εσύ. Η αλληλεγγύη μας απάντηση στον κοινωνικό καννιβαλισμό.	respondo	0	0
+Mi ŝategas tiun foton.	Τη λατρεύω αυτή τη φωτογραφία.	ŝategas	0	0
+Kreto estas bela greka insulo, la plej granda de Grekio.	Η Κρήτη είναι ένα πανέμορφο ελληνικό νησί, το μεγαλύτερο της Ελλάδας.	insulo	0	0
+Ne nur lia filo, sed ankaŭ lia filino estas fama.	Όχι μόνο ο γιος του, αλλά επίσης και η κόρη του είναι διάσημη.	fama	0	0
+Roberto renkontas Jun sur la stratoj de la urbo kaj ekde tiam komenciĝas stranga simbiozo inter ili ambaŭ.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	komenciĝas	0	0
+Lia nomo estas konata de ĉiuj en la urbo.	Το όνομά του είναι γνωστό σε όλους στην πόλη.	konata	0	0
+Antaŭ du jaroj li estis en Londono.	Πριν δύο χρόνια αυτός ήταν στο Λονδίνο.	londono	0	0
+Ŝi posedas malmultajn librojn.	Αυτή έχει λίγα βιβλία.	posedas	0	0
+Mi neniam manĝas viandon.	Δεν τρώω ποτέ κρέας.	viandon	0	0
+Portante ŝafan pelton li tamen restas lupo.	Είναι μία σιγανοπαπαδιά αυτός.	lupo	0	0
+Ŝia revo estas konduki vivon plena je variado.	Το όνειρό της είναι να ζήσει μια ζωή γεμάτη ποικιλία.	revo	0	0
+Tomo ne aspektas kontenta.	Ο Τομ δε φαίνεται ευχαριστημένος.	kontenta	0	0
+La ŝipanaro forlasis la ŝipon.	Το πλήρωμα εγκατέλειψε το πλοίο.	ŝipanaro	0	0
+Tiu ĉi aŭtobuso portos vin ĝis la urbo.	Αυτό το αυτοκίνητο θα σας πάει μέχρι την πόλη.	portos	0	0
+Neniu respondis al mia demando.	Κανένας δεν απάντησε στην ερώτησή μου.	respondis	0	0
+Ĉu ni trinku teon?	Να πιούμε τσάι;	teon	0	0
+Mi ne scias, kiel danki vin.	Δεν ξέρω πώς να σ' ευχαριστήσω.	danki	0	0
+Ekde kiam mi edziniĝis, mi ĉesis labori.	Από τότε που παντρεύτηκα δεν δουλεύω πια.	ĉesis	0	0
+Mi telefonos pli poste.	Θα τηλεφωνήσω αργότερα.	telefonos	0	0
+Ni studas ĉiun aspekton de la projekto detale kaj planas ĝian efektivigon.	Μελετάμε κάθε πτυχή του έργου με λεπτομέρεια και σχεδιάζουμε την υλοποίησή του.	ĝian	0	0
+La nazo de Tom sangis.	Αιμορράγησε η μύτη του Θωμά.	nazo	0	0
+Mi intencas iri al Francio la venontan jaron.	Σκοπεύω να πάω στη Γαλλία το επόμενο έτος.	francio	0	0
+Respekto al la leĝoj estas esenca por kolektiva feliĉo.	Ο σεβασμός στους νόμους είναι θεμελιώδης για τη συλλογική ευτυχία.	feliĉo	0	0
+La samo veras pri ĉiuj homaj estaĵoj.	Το ίδιο αληθεύει για όλα τα ανθρώπινα όντα.	homaj	0	0
+Vi mortigas min malrapide.	Με σκοτώνετε αργά.	mortigas	0	0
+Nia projekto malsukcesis.	Το εγχείρημά μας απέτυχε.	projekto	0	0
+Ĉesu kaŝi vian kapon en la sablo.	Συνέχισε να κρύβεις το κεφάλι σου μέσα στην άμμο.	kaŝi	0	0
+Voĉdoni estas patriota devo.	Η ψηφοφορία είναι ένα πατριωτικό καθήκον.	devo	0	0
+Ĉiuj ĉeestantoj sin levis kaj klopodis iri al ŝi.	Όλοι οι παρευρισκόμενοι σηκώθηκαν και προσπάθησαν να την πλησιάσουν.	klopodis	0	0
+Vi ripetadas senĉese la samon.	Επαναλαμβάνεις διαρκώς τα ίδια.	senĉese	0	0
+Miraklo!	Θαύμα!	miraklo	0	0
+Ĉu vi povas sendi tiun leteron al Japanujo?	Μπορείς να στείλεις αυτό το γράμμα στην Ιαπωνία;	sendi	0	0
+Rigardu vin en la spegulo.	Κοιτάξου στον καθρέφτη.	spegulo	0	0
+Li ne senutile vizitis la universitaton.	Δεν πήγε στο πανεπιστήμιο για το τίποτα.	vizitis	0	0
+Kato havas du orelojn.	Μια γάτα έχει δύο αυτιά.	orelojn	0	0
+Tiu ponto estas el ŝtono.	Αυτή η γέφυρα είναι πέτρινη.	ŝtono	0	0
+Morgaŭ mi komencos.	Αύριο ξεκινάω.	komencos	0	0
+Vi ricevos la rajton elekti.	Θα έχετε το δικαίωμα να επιλέξετε.	elekti	0	0
+La lupoj vagadas tra la arbaro.	Οι λύκοι περιπλανούνται μέσα στο δάσος.	lupoj	0	0
+Estas kvar bildoj sur la muro.	Υπάρχουν τέσσερις εικόνες στην τοίχο.	bildoj	0	0
+Ĉiuj homoj estas mortemaj, ĉiuj grekoj estas homoj, sekve ĉiuj grekoj estas mortemaj.	Όλοι οι άνθρωποι είναι θνητοί, όλοι οι Έλληνες είναι άνθρωποι, επομένως όλοι οι Έλληνες είναι θνητοί.	sekve	0	0
+Kaj ne konduku nin en tenton, sed liberigu nin de la malbono.	Και μη εισενέγκης υμίν εις πειρασμόν, αλλ' αφές υμίν από του πονηρού.	liberigu	0	0
+Tro grasa manĝado supozeble kaŭzas kormalsanojn.	Η πολύ λιπαρή διατροφή προκαλεί υποθετικά καρδιακές παθήσεις.	supozeble	0	0
+Ĉesu kaŝi vian kapon en la sablo.	Συνέχισε να κρύβεις το κεφάλι σου μέσα στην άμμο.	sablo	0	0
+La somero ĉi tie estas tre varma.	Το καλοκαίρι εδώ είναι πολύ ζεστό.	somero	0	0
+Pluraj instruistoj havas problemon kun Tom.	Πολλοί καθηγητές έχουν πρόβλημα με τον Τομ.	pluraj	0	0
+La estonteco ne estos konstruata perforte, eĉ ne kun la deziro konkeri, sed per la pacienca aplikado de la demokratia metodo, la spirito de konstruiva konsento kaj la respekto por libereco.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	estonteco	0	0
+Kaj ne konduku nin en tenton, sed liberigu nin de la malbono.	Και μη εισενέγκης υμίν εις πειρασμόν, αλλ' αφές υμίν από του πονηρού.	konduku	0	0
+Mi klarigis al ŝi la procedon.	Της εξήγησα τη διαδικασία.	klarigis	0	0
+Kial la plej multaj homoj regas eĉ ne unu fremdan lingvon?	Γιατί οι περισσότεροι άνθρωποι δεν κατέχουν ούτε μια ξένη γλώσσα;	regas	0	0
+Pluvis multe en la pasinta monato.	Τον περασμένο μήνα έβρεχε πολύ.	monato	0	0
+Mi alportos la manĝaĵon, se vi alportos la trinkaĵojn.	Θα φέρω τα τρόφιμα αν φέρεις εσύ τα ποτά.	alportos	0	0
+La komisiono por urboplanado akceptis nian proponon.	Η επιτροπή αστικού σχεδιασμού αποδέχτηκε την πρότασή μας.	akceptis	0	0
+Kato trinkas lakton.	Η γάτα πίνει γάλα.	lakton	0	0
+Popola voĉo - Dia voĉo.	Φωνή λαού - φωνή Θεού.	dia	0	0
+Li sukcesis veni tien ĝustatempe.	Αυτός τα κατάφερε να φτάσει εκεί στην ώρα του.	ĝustatempe	0	0
+Ŝi sukcesis solvi la problemon en dek minutoj.	Αυτή έλυσε το πρόβλημα σε δέκα λεπτά.	solvi	0	0
+Ŝia vera nomo estas Lisa.	Το πραγματικό της όνομα είναι Λίζα.	lisa	0	0
+La firmao Coca Cola evoluigis la limonadon Fanta, meze de la Dua Monda Milito, por la germana merkato.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	firmao	0	0
+Papagoj imitas homan voĉon.	Οι παπαγάλοι μιμούνται την ανθρώπινη ομιλία.	voĉon	0	0
+Suno estas la stelo plej proksima al Tero.	Ο Ήλιος είναι το κοντινότερο αστέρι στην Γη.	stelo	0	0
+Se mi povus kanti bele!	Μακάρι να μπορούσα να τραγουδήω ωραία!	kanti	0	0
+Venontan semajnon mi estos okupita.	Την επόμενη εβδομάδα θα είμαι απασχολημένος.	okupita	0	0
+Li sidis, ĉirkaŭita de la studentoj.	Αυτός κάθισε, περιστοιχισμένος από τους φοιτητές.	sidis	0	0
+Mi havas jam preskaŭ kvardek jarojn kaj ankoraŭ mi ne eniris geedzecon.	Κοντεύω στα σαράντα και είμαι ακόμα ανύπαντρος.	kvardek	0	0
+Unu, du, tri, kvar, kvin, ses, sep, ok, naŭ, dek.	Ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα.	naŭ	0	0
+Por mi ne gravas, kiu venkos.	Για μένα δεν έχει σημασία ποιός θα κερδίσει.	venkos	0	0
+Nun la afero ŝanĝiĝis grave.	Τώρα η υπόθεση έχει αλλάξει σοβαρά.	grave	0	0
+La rivereto havis ruĝan akvon.	Το ποταμάκι είχε κόκκινο νερό.	ruĝan	0	0
+La vivo plenas je misteroj.	Η ζωή είναι γεμάτη μυστήρια.	plenas	0	0
+La papero, ĉina invento aĝa proksimume dumiljara, lasis neforviŝeblan markon sur ĉiuj kulturoj.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	proksimume	0	0
+Iĝu realisma.	Γίνε ρεαλιστής.	iĝu	0	0
+La pluvo klakis sur la fenestrojn.	Η βροχή χτυπούσε πάνω στα παράθυρα.	pluvo	0	0
+Ni estas la unuaj.	Είμαστε οι πρώτοι.	unuaj	0	0
+Mi iras al la plaĝo.	Πάω στην παραλία.	plaĝo	0	0
+Kie estas la stacidomo?	Πού είναι ο σταθμός ;	stacidomo	0	0
+Vian bileton, bonvolu.	Το εισιτήριό σας παρακαλώ.	bileton	0	0
+La lago estas tre profunda.	Η λίμνη είναι πολύ βαθιά.	profunda	0	0
+Ĉiumatene mi trinkas kafon kun lakto.	Κάθε πρωί πίνω καφέ με γάλα.	lakto	0	0
+Roberto renkontas Jun sur la stratoj de la urbo kaj ekde tiam komenciĝas stranga simbiozo inter ili ambaŭ.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	roberto	0	0
+Mi ne ŝtelas.	Δεν κλέβω.	ŝtelas	0	0
+Ekde majo ni ricevos pli da mono.	Από τον Μάϊο θα πάρουμε περισσότερα χρήματα.	majo	0	0
+Virinoj batalas en tiu ĉi lando por libereco.	Οι γυναίκες αγωνίζονται σε αυτή εδώ τη χώρα για την ελευθερία.	batalas	0	0
+Sur Titano, malhela metana rivero fluas en metanan lagon ĉirkaŭatan de dezerto da dunoj.	Στον Τιτάνα, ένας σκοτεινός ποταμός μεθανίου ρέει σε μια λίμνη μεθανίου που περιβάλλεται από μια έρημο αμμόλοφων.	dezerto	0	0
+Mi ofte kverelas kun ŝi.	Συχνά μαλώνω μαζί της.	kverelas	0	0
+El Grekio devenas multaj filozofoj.	Από την Ελλάδα προέρχονται πολλοί φιλόσοφοι	grekio	0	0
+Ĉi tiu apartamento estas tre multekosta.	Αυτό το διαμέρισμα είναι πολύ ακριβό.	apartamento	0	0
+Unu plus du egalas al tri.	Ένα συν δύο ίσον τρία.	plus	0	0
+Mi alportos la manĝaĵon, se vi alportos la trinkaĵojn.	Θα φέρω τα τρόφιμα αν φέρεις εσύ τα ποτά.	manĝaĵon	0	0
+Mi povas ĉesi, kiam mi volas.	Μπορώ να σταματήσω, όποτε θέλετε.	ĉesi	0	0
+La sistemo bone funkciis.	Το σύστημα λειτούργησε καλά.	funkciis	0	0
+Ĉar ni ĝuste nun parolas pri gentomurdo: hodiaŭ estas la Tago de Kolumbo.	Και μιλώντας για γενοκτονίες, σήμερα είναι Ημέρα του Κολόμβου.	kolumbo	0	0
+Respekto al la leĝoj estas esenca por kolektiva feliĉo.	Ο σεβασμός στους νόμους είναι θεμελιώδης για τη συλλογική ευτυχία.	respekto	0	0
+Leĝo kaj politiko estas du malsamaj aferoj.	Ο νόμος και η πολιτική είναι δύο διαφορετικά πράγματα.	politiko	0	0
+La akvo ne malvarmas.	Το νερό δεν είναι κρύο.	malvarmas	0	0
+Fermu la fenestron.	Κλείσε το παράθυρο.	fenestron	0	0
+Kie estas la banko?	Πού είναι η τράπεζα;	banko	0	0
+Tomo skribos leteron.	Ο Τομ θα γράψει γράμμα.	skribos	0	0
+Popola voĉo - Dia voĉo.	Φωνή λαού - φωνή Θεού.	popola	0	0
+La vivo strangas.	Η ζωή είναι περίεργη.	strangas	0	0
+Vi ripetadas senĉese la samon.	Επαναλαμβάνεις διαρκώς τα ίδια.	samon	0	0
+La skatolo estas tre peza.	Το κουτί είναι πολύ βαρύ.	peza	0	0
+Nia aviadilo ĵus alvenis ĉi tien.	Μόλις έφτασε εδώ το αεροπλάνο μας.	aviadilo	0	0
+La patro kuiras nun la tagmanĝon en la kuirejo.	Ο πατέρας μαγειρεύει το γεύμα τώρα στην κουζίνα.	kuirejo	0	0
+Mia celo estas fariĝi kuracisto.	Σκοπός μου είναι να γίνω γιατρός.	fariĝi	0	0
+Jack estis en la lernejo pasintjare.	Ο Τζαν ήταν πέρυσι στο σχολείο.	jack	0	0
+Neniu parolo povis konvinki lin.	Κανένας λόγος δεν μπόρεσε να τον πείσει.	parolo	0	0
+Mi estas franco.	Είμαι Γάλλος.	franco	0	0
+Mi ŝategas tiun foton.	Τη λατρεύω αυτή τη φωτογραφία.	foton	0	0
+Pro tio la mondo ne pereos.	Δε χάθηκε ο κόμος!	pereos	0	0
+Ĉu vi scipovas danci bone?	Μπορείς να χορεύεις καλά;	danci	0	0
+Nancy feliĉe ridetis.	Η Νάνσι χαμογέλασε ευτυχισμένα.	feliĉe	0	0
+Ĉu ekzistas bonaj kaj malbonaj teroristoj?	Άραγε υπάρχουν καλοί και κακοί τρομοκράτες;	malbonaj	0	0
+Ĉi tiu libro kostas kvar dolarojn.	Αυτό το βιβλίο κοστίζει τέσσερα δολλάρια.	dolarojn	0	0
+Kie estas la necesejo, mi petas?	Πού είναι οι τουαλέτες, παρακαλώ;	necesejo	0	0
+Mi lernas la hispanan.	Μαθαίνω ισπανικά.	lernas	0	0
+Ĉu la malliberejo ŝanĝis ŝin?	Η φυλακή την άλλαξε;	malliberejo	0	0
+Dirite je mia honoro!	Λόγω τιμής!	dirite	0	0
+Kiu estas la nomo de via amikino?	Πως λέγεται η φίλη σου;	amikino	0	0
+Mi amas miajn gepatrojn.	Αγαπώ τους γονείς μου.	gepatrojn	0	0
+Ĉi-matene mi ekstaris je la sepa.	Σήμερα σηκώθηκα από τις επτά το πρωί.	sepa	0	0
+La belaj ruĝaj folioj de la acero disiĝas de la branĉoj kaj dancas en la vento.	Τα όμορφα κόκκινα φύλλα του σφενδάμου χωρίζονται από τα κλαδιά και χορεύουν στον άνεμο.	ruĝaj	0	0
+Mi scias, ke mi revidos vin.	Ξέρω ότι θα σε δω ξανά.	revidos	0	0
+Manjo lulas la koksojn por altiri la voluptavidan rigardon de la viroj.	Η Μαρία κουνάει τους γοφούς της για να τραβήξει το λάγνο βλέμμα των αντρών.	manjo	0	0
+Ŝia romano plaĉas al mi.	Μου αρέσει το μυθιστόρημά της.	romano	0	0
+Tro grasa manĝado supozeble kaŭzas kormalsanojn.	Η πολύ λιπαρή διατροφή προκαλεί υποθετικά καρδιακές παθήσεις.	kaŭzas	0	0
+Mi nun pentros ilin nigraj.	Θα τα βάψω μαύρα τώρα.	nigraj	0	0
+Mi havas hodiaŭ posttagmeze multon por fari.	Έχω σήμερα το απόγευμα πολλά να κάνω.	posttagmeze	0	0
+La belaj ruĝaj folioj de la acero disiĝas de la branĉoj kaj dancas en la vento.	Τα όμορφα κόκκινα φύλλα του σφενδάμου χωρίζονται από τα κλαδιά και χορεύουν στον άνεμο.	dancas	0	0
+Ŝi movis seĝon.	Μετακίνησε μια καρέκλα.	seĝon	0	0
+Kiam tio komenciĝos?	Πότε θα ξεκινήσει αυτό;	komenciĝos	0	0
+Lerneje ni lernas la francan.	Στο σχολείο μαθαίνουμε Γαλλικά.	francan	0	0
+Ŝi estis la lasta kliento.	Αυτή ήταν η τελευταία πελάτις.	kliento	0	0
+Venontan semajnon mi estos okupita.	Την επόμενη εβδομάδα θα είμαι απασχολημένος.	semajnon	0	0
+Lastatempe mi ne renkontis Tom.	Δεν συνάντησα τον Τομ τελευταίως.	lastatempe	0	0
+Li pasigis la posttagmezon legante libron.	Αυτός πέρασε το απόγευμα διαβάζοντας ένα βιβλίο.	pasigis	0	0
+Mi nutras mian hundon unufoje en tago.	Ταίζω το σκύλο μου μια φορά τη μέρα.	hundon	0	0
+Vi ricevos la rajton elekti.	Θα έχετε το δικαίωμα να επιλέξετε.	rajton	0	0
+Unu plus du egalas al tri.	Ένα συν δύο μας κάνει τρία.	egalas	0	0
+La skatolo estas tre peza.	Το κουτί είναι πολύ βαρύ.	skatolo	0	0
+Kiu estas via plej ŝatata libro?	Ποιό είναι το πιο αγαπημένο σου βιβλίο;	ŝatata	0	0
+Li surhavas blankan katunan ĉemizon.	Φοράει ένα λευκό βαμβακερό πουκάμισο.	surhavas	0	0
+Tiu ĉi rivero havas ducent kilometrojn da longo.	Αυτό το ποτάμι έχει μήκος διακόσια χιλιόμετρα.	kilometrojn	0	0
+Germanio produktis multajn sciencistojn.	Η Γερμανία έδωσε πολλούς επιστήμονες.	germanio	0	0
+La firmao Coca Cola evoluigis la limonadon Fanta, meze de la Dua Monda Milito, por la germana merkato.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	germana	0	0
+Tatoeba helpas plibonigi mian Esperanton.	Η Τατοέμπα με βοηθάει να βελτιώσω την Εσπεράντο μου.	esperanton	0	0
+Estas kelkaj eksterlandaj laboristoj en mia firmao ankaŭ.	Υπάρχουν κάποιοι αλλοδαποί εργάτες στη δική μας εταιρεία επίσης.	laboristoj	0	0
+El Grekio devenas multaj filozofoj.	Από την Ελλάδα προέρχονται πολλοί φιλόσοφοι	devenas	0	0
+Mi ŝatus esti riĉa.	Θα μου άρεσε να είμαι πλούσιος.	riĉa	0	0
+Ŝia patrino igis lin purigi la banĉambron.	Η μητέρα του τον έβαλε να καθαρίσει το μπάνιο.	purigi	0	0
+La venonta monato estos oktobro.	Επόμενος μήνας θα είναι ο Οκτώβριος.	venonta	0	0
+Mia valizo perdiĝis.	Η βαλίτσα μου χάθηκε.	perdiĝis	0	0
+Petro malfermis la pordon.	Ο Πέτρος άνοιξε την πόρτα.	malfermis	0	0
+La artikolo meritas atentan studadon.	Το άρθρο αξίζει προσεκτικής μελέτης.	meritas	0	0
+Ni studas ĉiun aspekton de la projekto detale kaj planas ĝian efektivigon.	Μελετάμε κάθε πτυχή του έργου με λεπτομέρεια και σχεδιάζουμε την υλοποίησή του.	planas	0	0
+Devas esti vojo por diplomata solvo.	Πρέπει να υπάρχει οδός για διπλωματική λύση.	solvo	0	0
+La rizo estas bongusta.	Το ρύζι είναι νόστιμο.	rizo	0	0
+Vi ne devis mensogi.	Δεν θα έπρεπε να ψεύδεστε.	mensogi	0	0
+Ekde kiam mi edziĝis, mi ĉesis labori.	Από τότε που παντρεύτηκα δεν δουλεύω πια.	edziĝis	0	0
+La ŝipo sinkis dum la ŝtormo.	Το πλοίο βούλιαξε στη διάρκεια της καταιγίδας.	ŝtormo	0	0
+Ni studas ĉiun aspekton de la projekto detale kaj planas ĝian efektivigon.	Μελετάμε κάθε πτυχή του έργου με λεπτομέρεια και σχεδιάζουμε την υλοποίησή του.	studas	0	0
+Ne faru tion intence.	Μην το κάνεις σκόπιμα.	intence	0	0
+Pluraj instruistoj havas problemon kun Tom.	Πολλοί καθηγητές έχουν πρόβλημα με τον Τομ.	instruistoj	0	0
+Ĉiun kristnaskan vesperon ni iras al preĝejo.	Κάθε παραμονή Χριστουγέννων πηγαίνουμε στην εκκλησία.	preĝejo	0	0
+La samo veras pri ĉiuj homaj estaĵoj.	Το ίδιο αληθεύει για όλα τα ανθρώπινα όντα.	estaĵoj	0	0
+Ĝi helpis min multege.	Πολύ μου χρησίμεψε.	multege	0	0
+Mi vekiĝas je la oka.	Σηκώνομαι στις οχτώ.	vekiĝas	0	0
+La libro kiun Tomo skribis en Esperanto estis tradukita en multajn lingvojn tra la mondo.	Το βιβλίο που έγραψε ο Τομ στην Εσπεράντο έχει μεταφραστεί σε πολλές γλώσσες σε όλο τον κόσμο.	lingvojn	0	0
+Tiu libro havas multajn belajn bildojn.	Αυτό το βιβλίο έχει πολλές ωραίες εικόνες.	belajn	0	0
+Malmultaj studentoj povas legi latinan.	Λίγοι σπουδαστές μπορούν να διαβάσουν λατινικά.	malmultaj	0	0
+Kiu manĝas la kukon?	Ποιός τρώει το γλυκό;	kukon	0	0
+Kion vi farus se vi vidus fantomon?	Τι θα έκανες αν έβλεπες ένα φάντασμα;	vidus	0	0
+Mia frato falis el arbo kaj rompis sian kruron.	Ο αδερφός μου έπεσε από το δέντρο και έσπασε το πόδι του.	kruron	0	0
+Tomo rifuzis subskribi la kontrakton.	Ο Θωμάς αρνήθηκε να υπογράψει το συμβόλαιο.	kontrakton	0	0
+Nek Dion, nek mastron.	Ουτε θεό ούτε αφέντη.	dion	0	0
+Mi ŝatas havi amikojn en ĉiuj landoj.	Μου αρέσει να έχω φίλους σε όλες τις χώρες.	landoj	0	0
+Li decidis vendi sian aŭton.	Αυτός αποφάσισε να πουλήσει το αυτοκίνητό του.	vendi	0	0
+Li faradis tion foje kaj refoje.	Το έχει κάνει ξανά και ξανά.	refoje	0	0
+Blovas la vento.	Φυσάει ο άνεμος.	blovas	0	0
+Mi bone ridis.	Γέλασα καλά.	ridis	0	0
+La islamanoj kredas je unu unika Dio.	Οι μωαμεθανοί πιστεύουν σε έναν και μόνο Θεό.	unika	0	0
+Mi vokos policon!	Θα καλέσω την αστυνομία!	vokos	0	0
+Kia estas via rilato kun viaj najbaroj?	Ποιες σχέσεις έχεις με τους γείτονές σου;	rilato	0	0
+Mi kapablas rapidege naĝi.	Μπορώ να κολυμπήσω πολύ γρήγορα.	naĝi	0	0
+Verdo estas mia ŝatata koloro.	Το πράσινο είναι το αγαπημένο χρώμα μου.	koloro	0	0
+Ŝi estis bela, kun sia longa kaj densa hararo.	Ήταν πανέμορφη με τα μακριά, πυκνά της μαλλιά.	hararo	0	0
+Mi spektas televidon.	Βλέπω τηλεόραση.	televidon	0	0
+La vitro de mia poŝtelefono rompiĝis.	Το τζάμι του κινητού μου έσπασε.	rompiĝis	0	0
+Ni ĉiuj parolas la anglan.	Όλοι μας μιλάμε Αγγλικά.	anglan	0	0
+La firmao Coca Cola evoluigis la limonadon Fanta, meze de la Dua Monda Milito, por la germana merkato.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	monda	0	0
+Mi trinkas kafon en kafejo.	Πίνω καφέ σε ένα καφενείο.	kafejo	0	0
+Liaj planoj draste ŝanĝiĝis.	Τα σχέδια του άλλαξαν δραστικά.	planoj	0	0
+Tomo rifuzis subskribi la kontrakton.	Ο Θωμάς αρνήθηκε να υπογράψει το συμβόλαιο.	subskribi	0	0
+Mi aĉetis dekon da ovoj.	Αγοράσα μια δεκάδα αυγά.	ovoj	0	0
+Sur Titano, malhela metana rivero fluas en metanan lagon ĉirkaŭatan de dezerto da dunoj.	Στον Τιτάνα, ένας σκοτεινός ποταμός μεθανίου ρέει σε μια λίμνη μεθανίου που περιβάλλεται από μια έρημο αμμόλοφων.	malhela	0	0
+Dum nuna semajno mi ferias.	Είμαι σε διακοπές αυτή την εβδομάδα.	nuna	0	0
+La vivo estas mallonga, tamen rideto nur prenas unu sekundon.	Η ζωή είναι μικρή, αν και το χαμόγελο διαρκεί μόνο ένα δευτερόλεπτο.	sekundon	0	0
+Maria laboras kiel modelo.	Η Μαίρη εργάζεται ως φωτομοντέλο.	modelo	0	0
+La estonteco ne estos konstruata perforte, eĉ ne kun la deziro konkeri, sed per la pacienca aplikado de la demokratia metodo, la spirito de konstruiva konsento kaj la respekto por libereco.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	deziro	0	0
+La ruĝaj ranoj saltis en la lotusplenan lageton en la bela verda parko.	Οι κόκκινοι βάτραχοι πηδούσαν στη γεμάτη λωτούς λιμνούλα του όμορφου πράσινου πάρκου.	saltis	0	0
+La vivo estas mallonga, tamen rideto nur prenas unu sekundon.	Η ζωή είναι μικρή, αν και το χαμόγελο διαρκεί μόνο ένα δευτερόλεπτο.	rideto	0	0
+Respekto al la leĝoj estas esenca por kolektiva feliĉo.	Ο σεβασμός στους νόμους είναι θεμελιώδης για τη συλλογική ευτυχία.	leĝoj	0	0
+Ni estas kuracistoj.	Είμαστε γιατροί.	kuracistoj	0	0
+Kie estas la stacio?	Πού είναι ο σταθμός ;	stacio	0	0
+Li skribas pli kaj pli malofte dum tiuj ĉi tagoj.	Τις τελευταίες μέρες αυτός γράφει όλο και λιγότερο συχνά σε μένα.	malofte	0	0
+La belaj ruĝaj folioj de la acero disiĝas de la branĉoj kaj dancas en la vento.	Τα όμορφα κόκκινα φύλλα του σφενδάμου χωρίζονται από τα κλαδιά και χορεύουν στον άνεμο.	branĉoj	0	0
+La dek du zodiakaj signoj estas: Ŝafo, Taŭro, Ĝemeloj, Kankro, Leono, Virgo, Pesilo, Skorpio, Sagitario, Kaprikorno, Amforo, Fiŝoj.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	fiŝoj	0	0
+Li diras sensencaĵojn sur alta nivelo.	Αυτός λέει ανοησίες σε υψηλό επίπεδο.	nivelo	0	0
+Li surhavas blankan katunan ĉemizon.	Φοράει ένα λευκό βαμβακερό πουκάμισο.	blankan	0	0
+Ekde kiam mi edziniĝis, mi ĉesis labori.	Από τότε που παντρεύτηκα δεν δουλεύω πια.	edziniĝis	0	0
+La Internacia Flughaveno de Hong Kong estas tre frekventita flughaveno.	Το επισημο αεροδρόμιο του Χονγκ Κονγκ ,είναι έχει πολύ κοσμο	flughaveno	0	0
+Petro malfermis la pordon.	Ο Πέτρος άνοιξε την πόρτα.	petro	0	0
+Li estas ne nur inteligenta, sed ankaŭ bela.	Αυτός δεν είναι μόνο έξυπνος, αλλά και ωραίος.	inteligenta	0	0
+La estonteco ne estos konstruata perforte, eĉ ne kun la deziro konkeri, sed per la pacienca aplikado de la demokratia metodo, la spirito de konstruiva konsento kaj la respekto por libereco.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	perforte	0	0
+Tiu ĉi ponto ne estas longa.	Αυτή η γέφυρα δεν είναι μεγάλη.	ponto	0	0
+Mi pensas, ke li senkulpigu sin ĉe la instruisto.	Έχω τη γνώμη ότι αυτός θα πρέπει να ζητήσει συγνώμη από τον καθηγητή.	senkulpigu	0	0
+Ŝi surhavis strangan ĉapelon.	Αυτή φορούσε ένα παράξενο καπέλο.	strangan	0	0
+La lernejo situas kvin kilometrojn for de la domo.	Το σχολείο βρίσκεται πέντε χιλιόμετρα από το σπίτι.	situas	0	0
+Sed kio estas aliflanke?	Τι υπάρχει όμως από την άλλη πλευρά;	aliflanke	0	0
+Li rezignis ĉiujn siajn rajtojn.	Παραιτήθηκε απ' όλα τα δικαιώματά του.	rezignis	0	0
+Maria estas nia najbarino; ŝia domo estas tre bela.	Η Μαρία είναι γειτόνισσά μας. Το σπίτι της είναι πολύ ωραίο.	najbarino	0	0
+Kelnero, mi volus mendi.	Γκαρσόν, θα ήθελα να παραγγείλω.	kelnero	0	0
+Ŝi surhavis strangan ĉapelon.	Αυτή φορούσε ένα παράξενο καπέλο.	ĉapelon	0	0
+Tiu frazo enhavas plurajn erarojn.	Αυτή η φράση περιέχει πολλά λάθη.	enhavas	0	0
+Li pasigis la posttagmezon legante libron.	Αυτός πέρασε το απόγευμα διαβάζοντας ένα βιβλίο.	posttagmezon	0	0
+Mi brulvundis mian fingron.	Έκαψα το δάχτυλό μου.	fingron	0	0
+Tiu libro havas multajn belajn bildojn.	Αυτό το βιβλίο έχει πολλές ωραίες εικόνες.	bildojn	0	0
+Fumado efikis sur lian sanon.	Το κάπνισμα έχει επηρεάσει την υγεία του.	sanon	0	0
+Kion vi faros per tiu kamerao?	Τι θα κάνετε με αυτή την κάμερα;	kamerao	0	0
+Nia projekto malsukcesis.	Το εγχείρημά μας απέτυχε.	malsukcesis	0	0
+Maria flustris sian kondolencon al la vidvino.	Η Μαρία ψιθύρισε τα συλλυπητήριά της στη χήρα.	vidvino	0	0
+Mi havas nenion por surmeti.	Δεν έχω τίποτα για να φορέσω.	surmeti	0	0
+Mi lernas la grekan, vi lernas la germanan, kaj ŝi lernas la rusan.	Εγώ μαθαίνω ελληνικά, εσύ μαθαίνεις γερμανικά και εκείνη μαθαίνει ρωσικά.	germanan	0	0
+Li skribas leterojn al sia patrino.	Αυτός γράφει γράμματα στη μητέρα του.	leterojn	0	0
+Li metis la libron sur la tablon.	Αυτός έβαλε το βιβλίο πάνω στο τραπέζι.	tablon	0	0
+La Internacia Flughaveno de Hong Kong estas tre frekventita flughaveno.	Το επισημο αεροδρόμιο του Χονγκ Κονγκ ,είναι έχει πολύ κοσμο	internacia	0	0
+La glacio degelis.	Ο πάγος έλιωσε.	glacio	0	0
+Nancy feliĉe ridetis.	Η Νάνσι χαμογέλασε ευτυχισμένα.	nancy	0	0
+Li sidis, ĉirkaŭita de la studentoj.	Αυτός κάθισε, περιστοιχισμένος από τους φοιτητές.	studentoj	0	0
+Sur Titano, malhela metana rivero fluas en metanan lagon ĉirkaŭatan de dezerto da dunoj.	Στον Τιτάνα, ένας σκοτεινός ποταμός μεθανίου ρέει σε μια λίμνη μεθανίου που περιβάλλεται από μια έρημο αμμόλοφων.	fluas	0	0
+Mi telefone mendis picon.	Παρήγγειλα πίτσα τηλεφωνικά.	mendis	0	0
+Ni esperis multon de li.	Περιμέναμε πολλά από αυτόν.	esperis	0	0
+Tom bezonas iom da ripozo.	Ο Τομ χρειάζεται λίγη ξεκούραση.	ripozo	0	0
+Miaj blankaj haroj plimultiĝas.	Οι λευκές μας τρίχες πολλαπλασιάζονται.	blankaj	0	0
+Roberto renkontas Jun sur la stratoj de la urbo kaj ekde tiam komenciĝas stranga simbiozo inter ili ambaŭ.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	stratoj	0	0
+John Locke, la konata filozofo de la libereco, estis akciulo de la Reĝa Afrika Kompanio, kiu aĉetis kaj vendis sklavojn.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	kompanio	0	0
+Kiuj estas miaj novaj najbaroj?	Ποιοί είναι οι νέοι μου γείτονες;	najbaroj	0	0
+Mi manĝis toastojn por la matenmanĝo.	Έφαγα τοστ για πρωϊνό.	matenmanĝo	0	0
+Mi volas havi pomon.	Θέλω ένα μήλο.	pomon	0	0
+Manjo lulas la koksojn por altiri la voluptavidan rigardon de la viroj.	Η Μαρία κουνάει τους γοφούς της για να τραβήξει το λάγνο βλέμμα των αντρών.	rigardon	0	0
+La patro kuiras nun la tagmanĝon en la kuirejo.	Ο πατέρας μαγειρεύει το γεύμα τώρα στην κουζίνα.	kuiras	0	0
+Tio kostos minimume kvin dolarojn.	Θα κοστίσει τουλάχιστον πέντε δολάρια.	minimume	0	0
+Ili estas kristanoj.	Αυτοί είναι χριστιανοί.	kristanoj	0	0
+Mi vekiĝas je la oka.	Σηκώνομαι στις οχτώ.	oka	0	0
+Neniu parolo povis konvinki lin.	Κανένας λόγος δεν μπόρεσε να τον πείσει.	konvinki	0	0
+Leĝo kaj politiko estas du malsamaj aferoj.	Ο νόμος και η πολιτική είναι δύο διαφορετικά πράγματα.	malsamaj	0	0
+Neniam faru ion nur por pruvi, ke vi povas.	Ποτέ μην κάνετε κάτι μόνον για να αποδείξετε, ότι μπορείτε.	pruvi	0	0
+Vi estis dormanta.	Κοιμόσασταν.	dormanta	0	0
+Mi ne volis fermi la pordon.	Δεν ήθελα να κλείσω την πόρτα.	fermi	0	0
+Nur frenezuloj diras tiajn vortojn.	Τέτοιες λέξεις λένε μόνο οι τρελοί.	frenezuloj	0	0
+La pluvo klakis sur la fenestrojn.	Η βροχή χτυπούσε πάνω στα παράθυρα.	fenestrojn	0	0
+Oranĝoj enhavas multe da vitamino C.	Τα πορτοκάλια έχουν πολύ βιταμίνη C.	c	0	0
+Ĉu ankaŭ vi interesiĝas pri la greka kulturo?	Σε ενδιαφέρει επίσης ο ελληνικός πολιτισμός;	kulturo	0	0
+Mi ne trovis kuraciston.	Δε βρήκα ούτε έναν γιατρό.	kuraciston	0	0
+Li kutimas manĝi siajn ungojn.	Έχει το συνήθειο να τρώει τα νύχια της.	kutimas	0	0
+Tiu nubo aspektas kiel kuniklo al mi.	Αυτό το σύννεφο μου μοιάζει σαν κουνέλι.	nubo	0	0
+Proprieto estas ŝtelo.	Η ιδιοκτησία είναι κλοπή.	ŝtelo	0	0
+Ĉiu ajn kuracisto diros al vi haltu fumi.	Οποιοσδήποτε γιατρός θα σας πει να μην καπνίζετε.	fumi	0	0
+Ŝi ofte kantas kiam ŝi lavas la telerojn en la kuirejo.	Συχνά τραγουδάει όταν πλένει τα πιάτα στην κουζίνα.	telerojn	0	0
+Tiu frazo enhavas plurajn erarojn.	Αυτή η φράση περιέχει πολλά λάθη.	erarojn	0	0
+Li petis de mi pli da mono ol necese.	Μου ζήτησε περισσότερα χρήματα απ΄όσα του χρειάζονταν.	necese	0	0
+La nombro 420 simbolas kanabon.	Ο αριθμός 420 συμβολίζει την κάνναβη.	nombro	0	0
+Tomo rifuzis subskribi la kontrakton.	Ο Θωμάς αρνήθηκε να υπογράψει το συμβόλαιο.	rifuzis	0	0
+La firmao Coca Cola evoluigis la limonadon Fanta, meze de la Dua Monda Milito, por la germana merkato.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	merkato	0	0
+Dum nuna semajno mi ferias.	Είμαι σε διακοπές αυτή την εβδομάδα.	ferias	0	0
+Mi lernas la grekan, vi lernas la germanan, kaj ŝi lernas la rusan.	Εγώ μαθαίνω ελληνικά, εσύ μαθαίνεις γερμανικά και εκείνη μαθαίνει ρωσικά.	rusan	0	0
+La paro ekvojaĝis al sia mielmonato.	Το ζευγάρι ξεκίνησε το ταξίδι του για το μήνα του μέλιτος.	paro	0	0
+Kiom da lingvoj vi parolas, tiom vi valoras.	Όσες γλώσσες μιλάς, τόσο αξίζεις.	lingvoj	0	0
+Lango miela, sed koro kruela.	Απ' έξω κούκλα κι από μέσα πανούκλα.	kruela	0	0
+Ne facilas lerni fremdan lingvon.	Δεν είναι εύκολο να μάθεις μια ξένη γλώσσα.	facilas	0	0
+Ŝi ne havas skribilon.	Αυτή δεν είχε κανένα μολύβι.	skribilon	0	0
+Li surhavas blankan katunan ĉemizon.	Φοράει ένα λευκό βαμβακερό πουκάμισο.	ĉemizon	0	0
+Mi adoras la italan kuirarton.	Λατρεύω το ιταλικό φαγητό.	adoras	0	0
+Estas kvarono post la naŭa.	Είναι εννιά και τέταρτο.	kvarono	0	0
+Mi spektas televidon.	Βλέπω τηλεόραση.	spektas	0	0
+Ŝi rifuzas forlasi sian karieron por edziniĝo.	Αυτή αρνείται να εγκαταλείψει την καριέρα της για το γάμο.	edziniĝo	0	0
+Unue la enmigrantoj, poste vi. Nia solidareco estas la respondo al la socia kanibalismo.	Πρώτα οι μετανάστες, ύστερα εσύ. Η αλληλεγγύη μας απάντηση στον κοινωνικό καννιβαλισμό.	socia	0	0
+Mia gepatra lingvo estas la japana.	Η πατρική μου γλώσσα είναι τα Γιαπωνέζικα.	japana	0	0
+Mi povas alvoki Tom.	Μπορείτε να τηλεφωνήσετε στον Τομ.	alvoki	0	0
+Li sidis, ĉirkaŭita de la studentoj.	Αυτός κάθισε, περιστοιχισμένος από τους φοιτητές.	ĉirkaŭita	0	0
+Venontan semajnon mi estos okupita.	Την επόμενη εβδομάδα θα είμαι απασχολημένος.	venontan	0	0
+La komisiono por urboplanado akceptis nian proponon.	Η επιτροπή αστικού σχεδιασμού αποδέχτηκε την πρότασή μας.	proponon	0	0
+Miaj kruroj pliboniĝas ĉiutage.	Τα πόδια μου βελτιώνονται κάθε μέρα.	kruroj	0	0
+Li persistas en sia opinio.	Επέμενε στην γνώμη του.	opinio	0	0
+Estas kvarono post la naŭa.	Είναι εννιά και τέταρτο.	naŭa	0	0
+Italio estas duoninsulo.	Η Ιταλία είναι χερσόνησος.	italio	0	0
+Mi alkutimiĝis al la varmego.	Συνήθισα στον καύσωνα.	alkutimiĝis	0	0
+Bonŝance ili eskapis de la danĝero.	Ευτυχώς αυτοί διέφυγαν τον κίνδυνο.	bonŝance	0	0
+Ŝian vivon minacas danĝero.	Η ζωή της είναι σε κίνδυνο.	minacas	0	0
+Mi telefone mendis picon.	Παρήγγειλα πίτσα τηλεφωνικά.	picon	0	0
+La cirila alfabeto estis kreita surbaze de la greka alfabeto.	Το κυριλλικό αλφάβητο δημιουργήθηκε με βάση το ελληνικό αλφάβητο.	kreita	0	0
+Tio apartenas al la pasinteco.	Αυτά ανήκουν στο παρελθόν.	pasinteco	0	0
+Mi nutras mian hundon unufoje en tago.	Ταίζω το σκύλο μου μια φορά τη μέρα.	nutras	0	0
+Mi ja diris al vi, ke ĝi ne funkcios.	Σου το είχα πει πως δεν θα δούλευε.	funkcios	0	0
+Ne igu min treni vin!	Μην με κάνεις να σε σέρνω!	igu	0	0
+Paŭlo naskiĝis en Romo.	Ο Παύλος γεννήθηκε στη Ρώμη.	romo	0	0
+La stomako estas unu el la internaj organoj.	Το στομάχι είναι ένα από τα εσωτερικά όργανα .	stomako	0	0
+La papero, ĉina invento aĝa proksimume dumiljara, lasis neforviŝeblan markon sur ĉiuj kulturoj.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	papero	0	0
+John Locke, la konata filozofo de la libereco, estis akciulo de la Reĝa Afrika Kompanio, kiu aĉetis kaj vendis sklavojn.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	vendis	0	0
+Mi trovis la konstruaĵon.	Βρήκα το κτίριο.	konstruaĵon	0	0
+La libro kiun Tomo skribis en Esperanto estis tradukita en multajn lingvojn tra la mondo.	Το βιβλίο που έγραψε ο Τομ στην Εσπεράντο έχει μεταφραστεί σε πολλές γλώσσες σε όλο τον κόσμο.	tradukita	0	0
+Oro estas la reĝo de la reĝoj.	Ο χρυσός είναι ο βασιλιάς των βασιλέων.	reĝoj	0	0
+Ŝi movis seĝon.	Μετακίνησε μια καρέκλα.	movis	0	0
+Kiel la kunteksto povas helpi nin kompreni la signifon?	Πώς μπορούν να μας βοηθούν τα συμφραζόμενα να κατανοούμε τη σημασία;	signifon	0	0
+Ili transiris la limon ŝarĝitaj kun drogoj.	Πέρασαν τα σύνορα φορτωμένοι ναρκωτικά.	limon	0	0
+Mi manĝis boligitan ovon.	Έχω φάει ψημένο αυγό.	ovon	0	0
+Tio ne estos ebla.	Αυτό δεν θα είναι δυνατόν.	ebla	0	0
+Kial vi piediras, se vi havas aŭtomobilon?	Γιατί πηγαίνεις με τα πόδια, αν έχεις αυτοκίνητο;	aŭtomobilon	0	0
+La dek du zodiakaj signoj estas: Ŝafo, Taŭro, Ĝemeloj, Kankro, Leono, Virgo, Pesilo, Skorpio, Sagitario, Kaprikorno, Amforo, Fiŝoj.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	ŝafo	0	0
+Kion ni kuiru?	Τι να μαγειρέψουμε;	kuiru	0	0
+La artikolo meritas atentan studadon.	Το άρθρο αξίζει προσεκτικής μελέτης.	artikolo	0	0
+Ĉu vi scias, kiu verkis tiun romanon?	Μήπως γνωρίζετε ποιός έγραψε αυτό το μυθιστόρημα;	verkis	0	0
+Papagoj imitas homan voĉon.	Οι παπαγάλοι μιμούνται την ανθρώπινη ομιλία.	homan	0	0
+Mi pensas, ke mi scias, kio estas necesa.	Νομίζω ότι γνωρίζω, τι είναι απαραίτητο.	necesa	0	0
+Tiu skribilo estas pli bona ol la alia.	Αυτό το μολύβι είναι καλύτερο από το άλλο.	skribilo	0	0
+Mia fratino havas du filojn, do mi havas du nevojn.	Η αδερφή μου έχει δύο γιούς, επομένως εγώ έχω δύο ανιψιούς.	filojn	0	0
+Ĉu vi havas poŝtelefonon?	Έχετε κινητό τηλέφωνο;	poŝtelefonon	0	0
+Mi rekonas vin per la terura tranĉrando de via glavo.	Σε γνωρίζω από την κόψη του σπαθιού την τρομερή.	glavo	0	0
+Ŝi ofte kantas kiam ŝi lavas la telerojn en la kuirejo.	Συχνά τραγουδάει όταν πλένει τα πιάτα στην κουζίνα.	lavas	0	0
+La salo estas en la salujo.	Το αλάτι είναι στην αλατιέρα.	salo	0	0
+Ŝi povas meti vin en malliberejon pro adulto.	Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	malliberejon	0	0
+La belaj ruĝaj folioj de la acero disiĝas de la branĉoj kaj dancas en la vento.	Τα όμορφα κόκκινα φύλλα του σφενδάμου χωρίζονται από τα κλαδιά και χορεύουν στον άνεμο.	folioj	0	0
+Ĉiuj ĉeestantoj sin levis kaj klopodis iri al ŝi.	Όλοι οι παρευρισκόμενοι σηκώθηκαν και προσπάθησαν να την πλησιάσουν.	levis	0	0
+Kunprenu tiom kiom vi bezonas.	Πάρε μαζί σου τόσο όσο χρειάζεσαι.	kunprenu	0	0
+Roberto renkontas Jun sur la stratoj de la urbo kaj ekde tiam komenciĝas stranga simbiozo inter ili ambaŭ.	Ο Roberto συναντά τον Jun στους δρόμους της πόλης και από τότε ξεκινά μια παράξενη συμβίωση των δύο τους.	renkontas	0	0
+Kion esploras sovetologiisto?	Τι μελετά ένας σοβιετολόγος;	esploras	0	0
+Kaj ne konduku nin en tenton, sed liberigu nin de la malbono.	Και μη εισενέγκης υμίν εις πειρασμόν, αλλ' αφές υμίν από του πονηρού.	tenton	0	0
+Mi vere deziras ekkoni vin pli bone.	Πραγματικά θέλω να σας γνωρίσω καλύτερα.	ekkoni	0	0
+Ĉiuj miaj kukoj estas bongustaj!	Όλα μου τα γλυκά είναι νόστιμα!	bongustaj	0	0
+Ŝia revo estas konduki vivon plena je variado.	Το όνειρό της είναι να ζήσει μια ζωή γεμάτη ποικιλία.	konduki	0	0
+Tro grasa manĝado supozeble kaŭzas kormalsanojn.	Η πολύ λιπαρή διατροφή προκαλεί υποθετικά καρδιακές παθήσεις.	manĝado	0	0
+Ŝi rifuzas forlasi sian karieron por edziniĝo.	Αυτή αρνείται να εγκαταλείψει την καριέρα της για το γάμο.	karieron	0	0
+En fremdan vazon ne ŝovu la nazon.	Μη χώνεις τη μύτη σε ξένο βάζο.	ŝovu	0	0
+La patro de Tomo estis judo.	Ο πατέρας του Τομ ήταν Εβραίος.	judo	0	0
+Ĉu tiu estas virĉevalo aŭ ĉevalino?	Αυτό είναι άλογο ή φοράδα;	ĉevalino	0	0
+Kiu tro multe deziras, nenion akiras.	Αυτός που θέλει τα πολλά, χάνει και τα λίγα.	akiras	0	0
+Ni konsentis ellabori agoprogramon.	Συμφωνήσαμε να επεξεργαστούμε ένα πρόγραμμα δράσης.	konsentis	0	0
+Mi memoras, ke mi vidis la reĝinon.	Θυμάμαι που είδα τη βασίλισσα.	reĝinon	0	0
+Ne estu tiel sentema!	Μην είσαι τόσο συναισθηματική!	sentema	0	0
+Tiu frazo enhavas plurajn erarojn.	Αυτή η φράση περιέχει πολλά λάθη.	plurajn	0	0
+La tajfuno kaŭzis neniun damaĝon.	Ο τυφώνας δεν προκάλεσε καμία ζημιά.	kaŭzis	0	0
+La vero ĉiam venkas.	Η αλήθεια πάντα νικάει.	venkas	0	0
+Mi informis ŝin pri mia alveno.	Την ενημέρωσα για την άφιξή μου.	alveno	0	0
+La dek du zodiakaj signoj estas: Ŝafo, Taŭro, Ĝemeloj, Kankro, Leono, Virgo, Pesilo, Skorpio, Sagitario, Kaprikorno, Amforo, Fiŝoj.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	ĝemeloj	0	0
+Ŝi surhavis strangan ĉapelon.	Αυτή φορούσε ένα παράξενο καπέλο.	surhavis	0	0
+Pli ol la duono de la loĝantoj estas kontraŭ la plano.	Περισσότεροι από τους μισούς κατοίκους είναι ενάντια στο σχέδιο.	loĝantoj	0	0
+Li metis sian monon en la sakon.	Έβαλε τα χρήματά του μέσα στο σάκκο.	sakon	0	0
+Mi ne havas krajonon.	Δεν έχω κανένα μολύβι.	krajonon	0	0
+La urbo estis fondita en kvincent sepdek tri.	Η πόλη ιδρύθηκε το 573.	sepdek	0	0
+Mia edzino tute ne ŝatas katojn.	Στη γυναίκα μου δεν αρέσουν καθόλου οι γάτες.	katojn	0	0
+Bonŝance ili eskapis de la danĝero.	Ευτυχώς αυτοί διέφυγαν τον κίνδυνο.	eskapis	0	0
+Ĉi tiu apartamento estas tre multekosta.	Αυτό το διαμέρισμα είναι πολύ ακριβό.	multekosta	0	0
+Estis en 1989, ke la berlina muro estis malkonstruita.	Το τείχος του Βερολίνου έπεσε το 1989.	berlina	0	0
+Ĉi tiu frazo estas netradukebla.	Είναι αδύνατο να μεταφραστεί αυτή η πρόταση.	frazo	0	0
+Manko de mono estas la origino de ĉiu malbono.	Η έλλειψη χρημάτων είναι η αιτία κάθε κακίας.	manko	0	0
+Ankoraŭ ni ne estas geedzoj.	Δεν είμαστε ακόμα αντρόγυνο.	geedzoj	0	0
+Fumado efikis sur lian sanon.	Το κάπνισμα έχει επηρεάσει την υγεία του.	efikis	0	0
+Paŭlo naskiĝis en Romo.	Ο Παύλος γεννήθηκε στη Ρώμη.	paŭlo	0	0
+Li sensoifigis sin per granda glaso da biero.	Αυτός ξεδίψασε με ένα μεγάλο ποτήρι μπύρα.	glaso	0	0
+Lango miela, sed koro kruela.	Απ' έξω κούκλα κι από μέσα πανούκλα.	lango	0	0
+La samo veras pri ĉiuj homaj estaĵoj.	Το ίδιο αληθεύει για όλα τα ανθρώπινα όντα.	samo	0	0
+Pluvis multe en la pasinta monato.	Τον περασμένο μήνα έβρεχε πολύ.	pluvis	0	0
+Multaj lingvoj uzas literojn kun diakritaj signoj.	Πολλές γλώσσες χρησιμοποιούν γράμματα με διακριτικά σημεία.	literojn	0	0
+Mi bezonas aĉeti benzinon.	Πρέπει να βάλω βενζίνη.	benzinon	0	0
+Ĉu ŝi estas via bofratino aŭ via fratino?	Είναι η κουνιάδα σου ή η αδερφή σου;	bofratino	0	0
+Mi informis ŝin pri mia alveno.	Την ενημέρωσα για την άφιξή μου.	informis	0	0
+La komisiono por urboplanado akceptis nian proponon.	Η επιτροπή αστικού σχεδιασμού αποδέχτηκε την πρότασή μας.	komisiono	0	0
+Li preterpasis min ne rigardante min.	Αυτός πέρασε δίπλα μου, χωρίς να με κοιτάξει.	preterpasis	0	0
+Antaŭ ol la koko krios, vi trifoje malkonfesos min.	Πριν λαλήσει ο πετεινός, θα με αρνηθείς τρεις φορές.	koko	0	0
+Tiu ĉi rivero havas ducent kilometrojn da longo.	Αυτό το ποτάμι έχει μήκος διακόσια χιλιόμετρα.	ducent	0	0
+Empedoklo estis greka filozofo.	Ο Εμπεδοκλής ήταν ένας Έλληνας φιλόσοφος.	greka	0	0
+Tiu nubo aspektas kiel kuniklo al mi.	Αυτό το σύννεφο μου μοιάζει σαν κουνέλι.	kuniklo	0	0
+Ili reduktis lian salajron.	Αυτοί μείωσαν τον μισθό του.	salajron	0	0
+Tatoeba helpas plibonigi mian Esperanton.	Η Τατοέμπα με βοηθάει να βελτιώσω την Εσπεράντο μου.	plibonigi	0	0
+Kiun daton ni havas hodiaŭ?	Τι ημερομηνία έχουμε σήμερα;	daton	0	0
+La estonteco ne estos konstruata perforte, eĉ ne kun la deziro konkeri, sed per la pacienca aplikado de la demokratia metodo, la spirito de konstruiva konsento kaj la respekto por libereco.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	metodo	0	0
+Li diris ion al ŝi, kaj ŝi ridetis.	Αυτός της είπε κάτι και αυτή χαμογέλασε.	ridetis	0	0
+Mi estas vere tre okupata.	Είμαι σοβαρά πολύ απασχολημένη.	okupata	0	0
+Ne facilas lerni fremdan lingvon.	Δεν είναι εύκολο να μάθεις μια ξένη γλώσσα.	fremdan	0	0
+Li rezignis ĉiujn siajn rajtojn.	Παραιτήθηκε απ' όλα τα δικαιώματά του.	rajtojn	0	0
+La rivereto havis ruĝan akvon.	Το ποταμάκι είχε κόκκινο νερό.	rivereto	0	0
+Instruado estas la plej bona maniero lerni.	Η διδασκαλία είναι η καλύτερη μορφή της μάθησης.	instruado	0	0
+Mi ne povas skribi en la ĉina lingvo.	Δεν μπορώ να γράψω στα Κινέζικα.	ĉina	0	0
+Ĉiumatene mi trinkas kafon kun lakto.	Κάθε πρωί πίνω καφέ με γάλα.	ĉiumatene	0	0
+Antaŭ ol la koko krios, vi trifoje malkonfesos min.	Πριν λαλήσει ο πετεινός, θα με αρνηθείς τρεις φορές.	trifoje	0	0
+Fantomoj ne ekzistas.	Δεν υπάρχουν φαντάσματα.	fantomoj	0	0
+Mi maltrankvilas pri ŝia sekuro.	Ανησυχώ για την ασφάλειά της.	maltrankvilas	0	0
+Mi volas iri al Anglujo.	Θέλω να πάω στην Αγγλία.	anglujo	0	0
+La pordoj estas malfermitaj.	Οι πόρτες είναι ανοιχτές.	pordoj	0	0
+La estonteco ne estos konstruata perforte, eĉ ne kun la deziro konkeri, sed per la pacienca aplikado de la demokratia metodo, la spirito de konstruiva konsento kaj la respekto por libereco.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	konsento	0	0
+Multaj lingvoj uzas literojn kun diakritaj signoj.	Πολλές γλώσσες χρησιμοποιούν γράμματα με διακριτικά σημεία.	signoj	0	0
+Kiun frukton vi volas?	Τι φρούτο θέλετε;	frukton	0	0
+La unuigita popolo neniam estos venkita.	Ο λαός ενωμένος δεν θα ηττηθεί ποτέ.	unuigita	0	0
+Ili transiris la limon ŝarĝitaj kun drogoj.	Πέρασαν τα σύνορα φορτωμένοι ναρκωτικά.	transiris	0	0
+Mia gepatra lingvo estas la japana.	Η πατρική μου γλώσσα είναι τα Γιαπωνέζικα.	gepatra	0	0
+Unue la enmigrantoj, poste vi. Nia solidareco estas la respondo al la socia kanibalismo.	Πρώτα οι μετανάστες, ύστερα εσύ. Η αλληλεγγύη μας απάντηση στον κοινωνικό καννιβαλισμό.	solidareco	0	0
+Mi scias kion ignori.	Γνωρίζω τι να αγνοώ.	ignori	0	0
+Ho ne! Nia paciento estas mortinta.	Ω, όχι! Ο ασθενής μας είναι νεκρός.	paciento	0	0
+Promeno en pura aero refreŝigos vin.	Μια βόλτα στον καθαρό αέρα θα σου κάνει καλό.	promeno	0	0
+La vitro de mia poŝtelefono rompiĝis.	Το τζάμι του κινητού μου έσπασε.	poŝtelefono	0	0
+Ni ĉiuj parolas angle.	Όλοι μας μιλάμε Αγγλικά.	angle	0	0
+Estis evidente por ni ĉiuj, ke li estas senkulpa.	Ήταν προφανές για όλους μας ότι αυτός ήταν αθώος.	senkulpa	0	0
+La sofo estas malkomforta.	Ο καναπές είναι άβολος.	sofo	0	0
+Tesaloniko estas la dua plej popolriĉa urbo en Grekio.	Η Θεσσαλονίκη είναι η δεύτερη πολυπληθέστερη πόλη της Ελλάδας.	tesaloniko	0	0
+La patro kuiras nun la tagmanĝon en la kuirejo.	Ο πατέρας μαγειρεύει το γεύμα τώρα στην κουζίνα.	tagmanĝon	0	0
+Ĉiuj miaj kukoj estas bongustaj!	Όλα μου τα γλυκά είναι νόστιμα!	kukoj	0	0
+Mia patro estas en la garaĝo.	Ο πατέρας μου είναι στο γκαράζ.	garaĝo	0	0
+Jack estis en la lernejo pasintjare.	Ο Τζαν ήταν πέρυσι στο σχολείο.	pasintjare	0	0
+Ekde nun necesas aldoni novan regulon.	Από τη στιγμή αυτή χρειάζεται να προσθέσουμε νέον κανόνα.	aldoni	0	0
+La granda ĉemizo estas bruna.	Το μεγάλο πουκάμισο είναι καφέ.	ĉemizo	0	0
+Sur Titano, malhela metana rivero fluas en metanan lagon ĉirkaŭatan de dezerto da dunoj.	Στον Τιτάνα, ένας σκοτεινός ποταμός μεθανίου ρέει σε μια λίμνη μεθανίου που περιβάλλεται από μια έρημο αμμόλοφων.	titano	0	0
+Neniu haltigas vin.	Κανεις δεν με σταματάει .	haltigas	0	0
+Ĉu ekzistas bonaj kaj malbonaj teroristoj?	Άραγε υπάρχουν καλοί και κακοί τρομοκράτες;	teroristoj	0	0
+Mi ne trinkas alkoholon.	Δεν πίνω αλκοόλ.	alkoholon	0	0
+Li sensoifigis sin per granda glaso da biero.	Αυτός ξεδίψασε με ένα μεγάλο ποτήρι μπύρα.	biero	0	0
+Mi neniam trinkas bieron, ĉar mi ne ŝatas ĝin.	Ποτέ δεν πίνω μπύρα, καθώς δεν μου αρέσει.	bieron	0	0
+Vi aspektas trista.	Φαίνεστε θλιμμένος.	trista	0	0
+Mizero havas talentan kapon.	Πενία τέχνας κατεργάζεται.	mizero	0	0
+Griza barbo saĝon ne atestas.	Πωγωνοτροφία φιλόσοφον οὐ ποιεῖ.	saĝon	0	0
+La pordoj estas malfermitaj.	Οι πόρτες είναι ανοιχτές.	malfermitaj	0	0
+La cirila alfabeto estis kreita surbaze de la greka alfabeto.	Το κυριλλικό αλφάβητο δημιουργήθηκε με βάση το ελληνικό αλφάβητο.	surbaze	0	0
+Sur Titano, malhela metana rivero fluas en metanan lagon ĉirkaŭatan de dezerto da dunoj.	Στον Τιτάνα, ένας σκοτεινός ποταμός μεθανίου ρέει σε μια λίμνη μεθανίου που περιβάλλεται από μια έρημο αμμόλοφων.	lagon	0	0
+Marso estas la dio de la milito.	Ο Άρης είναι Θεός του πολέμου.	marso	0	0
+La papero, ĉina invento aĝa proksimume dumiljara, lasis neforviŝeblan markon sur ĉiuj kulturoj.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	markon	0	0
+Griza barbo saĝon ne atestas.	Πωγωνοτροφία φιλόσοφον οὐ ποιεῖ.	griza	0	0
+La papero, ĉina invento aĝa proksimume dumiljara, lasis neforviŝeblan markon sur ĉiuj kulturoj.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	invento	0	0
+Manjo lulas la koksojn por altiri la voluptavidan rigardon de la viroj.	Η Μαρία κουνάει τους γοφούς της για να τραβήξει το λάγνο βλέμμα των αντρών.	altiri	0	0
+La antibiotikoj batalas kontraŭ la evoluo de mikroorganismoj.	Τα αντιβιοτικά καταπολεμούν την εξέλιξη των μικροοργανισμών.	evoluo	0	0
+Tom metis sian monujon sur la skribotablon.	Ο Τομ έβαλε το πορτοφόλι του πάνω στο γραφείο.	tom	0	0
+Ŝi estis bela, kun sia longa kaj densa hararo.	Ήταν πανέμορφη με τα μακριά, πυκνά της μαλλιά.	densa	0	0
+La urbo estis fondita en kvincent sepdek tri.	Η πόλη ιδρύθηκε το 573.	kvincent	0	0
+Tom ne scias la diferencon inter Bohemio kaj Ĉehio.	Ο Τομ δεν ξέρει τη διαφορά μεταξύ της Βοημίας και της Τσεχίας.	diferencon	0	0
+Ili iris en la zoon.	Πήγανε στο ζωολογικό κήπο.	zoon	0	0
+Ni studas ĉiun aspekton de la projekto detale kaj planas ĝian efektivigon.	Μελετάμε κάθε πτυχή του έργου με λεπτομέρεια και σχεδιάζουμε την υλοποίησή του.	detale	0	0
+Mi kapablas rapidege naĝi.	Μπορώ να κολυμπήσω πολύ γρήγορα.	rapidege	0	0
+Mi dormis dum ok horoj lastnokte.	Κοιμήθηκα οχτώ ώρες χθες βράδυ.	lastnokte	0	0
+Mia hundino estas graveda.	Η σκυλίτσα μου είναι έγκυος.	graveda	0	0
+Ŝi havas kvin fratojn pli aĝajn.	Έχει πέντε μεγαλύτερους αδερφούς.	fratojn	0	0
+Kiom kostas ĉi tiu ĉapo?	Πόσο κάνει αυτό το καπέλο;	ĉapo	0	0
+Antaŭ ol la koko krios, vi trifoje malkonfesos min.	Πριν λαλήσει ο πετεινός, θα με αρνηθείς τρεις φορές.	krios	0	0
+Rostitaj kaŝtanoj estas populara vintra manĝaĵo.	Τα ψητά κάστανα είναι δημοφιλές φαγητό τον χειμώνα.	vintra	0	0
+Mi malfruiĝos al la lernejo.	Θα αργήσω στο μάθημα.	malfruiĝos	0	0
+Mi kredas, ke estas eraro en mia fakturo.	Πιστεύω στο λογαριασμό μου είναι ένα λάθος.	fakturo	0	0
+Mi faris belajn fotojn.	Έβγαλα ωραίες φωτογραφίες.	fotojn	0	0
+Ne en unu tago elkreskis Kartago.	Η Ρώμη δεν χτίστηκε σε μια μέρα.	elkreskis	0	0
+Pomarboj floras printempe.	Οι μηλιές ανθίζουν την άνοιξη.	floras	0	0
+Mi havas jam preskaŭ kvardek jarojn kaj ankoraŭ mi ne eniris geedzecon.	Κοντεύω στα σαράντα και είμαι ακόμα ανύπαντρος.	geedzecon	0	0
+Ŝi ne ŝatas ŝercojn.	Τα αστεία δεν της αρέσουν.	ŝercojn	0	0
+La knabino saltas.	Το κορίτσι πηδάει.	saltas	0	0
+Kelnero, mi volus mendi.	Γκαρσόν, θα ήθελα να παραγγείλω.	mendi	0	0
+La belaj ruĝaj folioj de la acero disiĝas de la branĉoj kaj dancas en la vento.	Τα όμορφα κόκκινα φύλλα του σφενδάμου χωρίζονται από τα κλαδιά και χορεύουν στον άνεμο.	disiĝas	0	0
+Mi aĉetis dekon da ovoj.	Αγοράσα μια δεκάδα αυγά.	dekon	0	0
+Pluvis multe en la pasinta monato.	Τον περασμένο μήνα έβρεχε πολύ.	pasinta	0	0
+La lupoj vagadas tra la arbaro.	Οι λύκοι περιπλανούνται μέσα στο δάσος.	vagadas	0	0
+Mi lernas la hispanan.	Μαθαίνω ισπανικά.	hispanan	0	0
+Malmultaj studentoj povas legi latinan.	Λίγοι σπουδαστές μπορούν να διαβάσουν λατινικά.	latinan	0	0
+Mi laboras en la konsulejo.	Δουλεύω στο προξενείο.	konsulejo	0	0
+Mi estas danka pro via helpo.	Σου είμαι ευγνώμων για τη βοήθειά.	danka	0	0
+La vitro de mia poŝtelefono rompiĝis.	Το τζάμι του κινητού μου έσπασε.	vitro	0	0
+La dek du zodiakaj signoj estas: Ŝafo, Taŭro, Ĝemeloj, Kankro, Leono, Virgo, Pesilo, Skorpio, Sagitario, Kaprikorno, Amforo, Fiŝoj.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	leono	0	0
+Tom metis sian monujon sur la skribotablon.	Ο Τομ έβαλε το πορτοφόλι του πάνω στο γραφείο.	monujon	0	0
+Li ne senutile vizitis la universitaton.	Δεν πήγε στο πανεπιστήμιο για το τίποτα.	universitaton	0	0
+Miaj kruroj pliboniĝas ĉiutage.	Τα πόδια μου βελτιώνονται κάθε μέρα.	pliboniĝas	0	0
+Ŝi ekzercas sin ĉiutage en gimnastikejo.	Αυτή γυμνάζεται κάθε μέρα στο γυμναστήριο.	ekzercas	0	0
+Ĉu vi scias, kiu verkis tiun romanon?	Μήπως γνωρίζετε ποιός έγραψε αυτό το μυθιστόρημα;	romanon	0	0
+Januaro estas la unua monato de la jaro.	Ο Ιανουάριος είναι ο πρώτος μήνας του χρόνου.	januaro	0	0
+Ĉiutage mi tagmanĝas.	Γευματίζω κάθε μέρα.	tagmanĝas	0	0
+Ĉiam la horo antaŭ la aŭroro estas la plej malhela.	Πάντα η ώρα πριν την αυγή είναι η πιο σκοτεινή.	aŭroro	0	0
+Ŝanhajo estas unu el la plej grandaj urboj de la mondo.	Η Σανγκάη είναι μία από τις μεγαλύτερες πόλεις στον κόσμο.	urboj	0	0
+Ni studas ĉiun aspekton de la projekto detale kaj planas ĝian efektivigon.	Μελετάμε κάθε πτυχή του έργου με λεπτομέρεια και σχεδιάζουμε την υλοποίησή του.	aspekton	0	0
+Infanoj devas lerni fremdajn lingvojn.	Τα παιδιά πρέπει να μαθαίνουν ξένες γλώσσες.	fremdajn	0	0
+Pomarboj floras printempe.	Οι μηλιές ανθίζουν την άνοιξη.	printempe	0	0
+Kies valizo ĝi estas?	Τίνος είναι αυτή τη βαλίτσα;	valizo	0	0
+La palto ne estas mia.	Το παλτό δεν είναι δικό μου.	palto	0	0
+Mi alportos la manĝaĵon, se vi alportos la trinkaĵojn.	Θα φέρω τα τρόφιμα αν φέρεις εσύ τα ποτά.	trinkaĵojn	0	0
+Mi ne plu estas vegetarano.	Δεν είμαι πια χορτοφάγος.	vegetarano	0	0
+Ŝi sentas sin komforta en sia hejmo.	Αυτή αισθάνεται άνετη στο σπίτι της.	komforta	0	0
+La korpo estas morta, la animo estas senmorta.	Το σώμα είναι θνητό, αλλά η ψυχή είναι αθάνατη.	senmorta	0	0
+Ili transiris la limon ŝarĝitaj kun drogoj.	Πέρασαν τα σύνορα φορτωμένοι ναρκωτικά.	drogoj	0	0
+La granda ĉemizo estas bruna.	Το μεγάλο πουκάμισο είναι καφέ.	bruna	0	0
+Tiu infano estas orfo.	Αυτό το παιδί είναι ορφανό.	orfo	0	0
+La artikolo meritas atentan studadon.	Το άρθρο αξίζει προσεκτικής μελέτης.	studadon	0	0
+Griza barbo saĝon ne atestas.	Πωγωνοτροφία φιλόσοφον οὐ ποιεῖ.	atestas	0	0
+Li preterpasis min ne rigardante min.	Αυτός πέρασε δίπλα μου, χωρίς να με κοιτάξει.	rigardante	0	0
+Mi kontaktos vin.	Θα έρθω σε επαφή μαζί σας.	kontaktos	0	0
+Papagoj imitas homan voĉon.	Οι παπαγάλοι μιμούνται την ανθρώπινη ομιλία.	imitas	0	0
+Ili havas sukeron.	Αυτοί έχουν ζάχαρη.	sukeron	0	0
+La nombro 420 simbolas kanabon.	Ο αριθμός 420 συμβολίζει την κάνναβη.	simbolas	0	0
+Estas kelkaj eksterlandaj laboristoj en mia firmao ankaŭ.	Υπάρχουν κάποιοι αλλοδαποί εργάτες στη δική μας εταιρεία επίσης.	eksterlandaj	0	0
+Mi memoras liajn parolojn.	Θυμάμαι τα λόγια του.	parolojn	0	0
+Ŝi restis kuŝanta.	Αυτή έμεινε ξαπλωμένη.	kuŝanta	0	0
+Tom estas volontulo.	Ο Τομ είναι εθελοντής.	volontulo	0	0
+La hundo bojas.	Ο σκύλος γαυγίζει.	bojas	0	0
+La vivo plenas je misteroj.	Η ζωή είναι γεμάτη μυστήρια.	misteroj	0	0
+Li diras sensencaĵojn sur alta nivelo.	Αυτός λέει ανοησίες σε υψηλό επίπεδο.	sensencaĵojn	0	0
+Li kutimas manĝi siajn ungojn.	Έχει το συνήθειο να τρώει τα νύχια της.	ungojn	0	0
+Mia hundino estas graveda.	Η σκυλίτσα μου είναι έγκυος.	hundino	0	0
+Mi maltrankvilas pri ŝia sekuro.	Ανησυχώ για την ασφάλειά της.	sekuro	0	0
+La bibliotekisto montros al vi kiel uzi la retan katalogon.	Ο βιβλιοθηκονόμος θα σας δείξει πως χρησιμοποιούμε τον διαδικτυακό κατάλογο.	bibliotekisto	0	0
+Lerneje ni lernas la francan.	Στο σχολείο μαθαίνουμε Γαλλικά.	lerneje	0	0
+La ruĝaj ranoj saltis en la lotusplenan lageton en la bela verda parko.	Οι κόκκινοι βάτραχοι πηδούσαν στη γεμάτη λωτούς λιμνούλα του όμορφου πράσινου πάρκου.	ranoj	0	0
+Venontsemajne li iros al Nov-Jorko.	Αναχωρεί για τη Νέα Υόρκη την επόμενη βδομάδα.	venontsemajne	0	0
+Li pasigis la posttagmezon legante libron.	Αυτός πέρασε το απόγευμα διαβάζοντας ένα βιβλίο.	legante	0	0
+Verdo estas mia ŝatata koloro.	Το πράσινο είναι το αγαπημένο χρώμα μου.	verdo	0	0
+Li faradis tion foje kaj refoje.	Το έχει κάνει ξανά και ξανά.	faradis	0	0
+Li ne senutile vizitis la universitaton.	Δεν πήγε στο πανεπιστήμιο για το τίποτα.	senutile	0	0
+Tio kostos minimume kvin dolarojn.	Θα κοστίσει τουλάχιστον πέντε δολάρια.	kostos	0	0
+En fremdan vazon ne ŝovu la nazon.	Μη χώνεις τη μύτη σε ξένο βάζο.	vazon	0	0
+Ŝia edzo estas bonega kuiristo.	Ο άντρας της είναι εξαίρετος μάγειρας.	kuiristo	0	0
+Ni parolu pri Aŭstralio.	Ας μιλήσουμε για την Αυστραλία.	aŭstralio	0	0
+Bill estis en Japanio.	Ο Μπιλ ήταν στην Ιαπωνία.	bill	0	0
+Maria flustris sian kondolencon al la vidvino.	Η Μαρία ψιθύρισε τα συλλυπητήριά της στη χήρα.	flustris	0	0
+Istanbulo estas la plej dense loĝata urbo de Turkujo.	Η Κωνσταντινούπολη είναι η πιο πυκνοκατοικημένη πόλη της Τουρκίας.	loĝata	0	0
+Portante ŝafan pelton li tamen restas lupo.	Είναι αυτός μια σιγανοπαπαδίτσα.	portante	0	0
+Mia filo ne parolas la svedan.	Ο γιος μου δε μιλάει σουηδικά.	svedan	0	0
+La paro ekvojaĝis al sia mielmonato.	Το ζευγάρι ξεκίνησε το ταξίδι του για το μήνα του μέλιτος.	ekvojaĝis	0	0
+Ĉi tiu frazo estas netradukebla.	Αυτή η φράση είναι αμετάφραστη.	netradukebla	0	0
+La stomako estas unu el la internaj organoj.	Το στομάχι είναι ένα από τα εσωτερικά όργανα .	internaj	0	0
+Vi kaptis la ŝteliston.	Έχεις πιάσει τον κλέφτη.	ŝteliston	0	0
+La papero, ĉina invento aĝa proksimume dumiljara, lasis neforviŝeblan markon sur ĉiuj kulturoj.	Το χαρτί, μια κινεζική εφεύρεση με ηλικία περί τα δύο χιλιάδες χρόνια, άφησε ανεξίτηλα ίχνη σε όλους τους πολιτισμούς.	kulturoj	0	0
+Ni trinkas almenaŭ tri litrojn da akvo dum unu tago.	Πίνουμε σχεδόν τρια λίτρα νερό σε μια μέρα.	litrojn	0	0
+Tiu libro ne meritas legadon.	Αυτό το βιβλίο δεν αξίζει να διαβαστεί.	legadon	0	0
+Liaj planoj draste ŝanĝiĝis.	Τα σχέδια του άλλαξαν δραστικά.	draste	0	0
+John Locke, la konata filozofo de la libereco, estis akciulo de la Reĝa Afrika Kompanio, kiu aĉetis kaj vendis sklavojn.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	afrika	0	0
+Mi alkutimiĝis al la varmego.	Συνήθισα στον καύσωνα.	varmego	0	0
+Fumado efikis sur lian sanon.	Το κάπνισμα έχει επηρεάσει την υγεία του.	fumado	0	0
+Sur Titano, malhela metana rivero fluas en metanan lagon ĉirkaŭatan de dezerto da dunoj.	Στον Τιτάνα, ένας σκοτεινός ποταμός μεθανίου ρέει σε μια λίμνη μεθανίου που περιβάλλεται από μια έρημο αμμόλοφων.	dunoj	0	0
+La knabinoj ekridis aŭdante la historion.	Τα κορίτσια άρχισαν να γελούν μόλις άκουσαν την ιστορία.	aŭdante	0	0
+Tomo portis sian filon surdorse.	Ο Τομ κουβαλούσε το γιό του στην πλάτη.	surdorse	0	0
+La tajfuno kaŭzis neniun damaĝon.	Ο τυφώνας δεν προκάλεσε καμία ζημιά.	damaĝon	0	0
+Nek Dion, nek mastron.	Ουτε θεό ούτε αφέντη.	mastron	0	0
+La sofo estas malkomforta.	Ο καναπές είναι άβολος.	malkomforta	0	0
+Griza barbo saĝon ne atestas.	Πωγωνοτροφία φιλόσοφον οὐ ποιεῖ.	barbo	0	0
+La estonteco ne estos konstruata perforte, eĉ ne kun la deziro konkeri, sed per la pacienca aplikado de la demokratia metodo, la spirito de konstruiva konsento kaj la respekto por libereco.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	konkeri	0	0
+Tio estas apenaŭ kredebla.	Αυτό είναι μόλις και μετά βίας πιστευτό.	kredebla	0	0
+Esperanto havas propran himnon.	Η Εσπεράντο έχει το δικό της ύμνο.	himnon	0	0
+Roboto povas labori pli multe ol homo.	Το ρομπότ μπορεί να δουλέψει περισσότερο απ΄τον άνθρωπο.	roboto	0	0
+Mi uzis mian fantazion.	Χρησιμοποίησα τη φαντασία μου.	fantazion	0	0
+La estonteco ne estos konstruata perforte, eĉ ne kun la deziro konkeri, sed per la pacienca aplikado de la demokratia metodo, la spirito de konstruiva konsento kaj la respekto por libereco.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	konstruata	0	0
+Li persistas en sia opinio.	Επέμενε στην γνώμη του.	persistas	0	0
+La unuigita popolo neniam estos venkita.	Ο λαός ενωμένος δεν θα ηττηθεί ποτέ.	venkita	0	0
+La dek du zodiakaj signoj estas: Ŝafo, Taŭro, Ĝemeloj, Kankro, Leono, Virgo, Pesilo, Skorpio, Sagitario, Kaprikorno, Amforo, Fiŝoj.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	sagitario	0	0
+Kiel la kunteksto povas helpi nin kompreni la signifon?	Πώς μπορούν να μας βοηθούν τα συμφραζόμενα να κατανοούμε τη σημασία;	kunteksto	0	0
+Ĉu vi parolas la ĉinan?	Μιλάς Κινέζικα;	ĉinan	0	0
+Mi estas el la orienta marbordo.	Είμαι από την ανατολική ακτή.	marbordo	0	0
+Mi komprenis tiun tekston.	Κατάλαβα αυτό το κείμενο.	tekston	0	0
+Portante ŝafan pelton li tamen restas lupo.	Είναι μία σιγανοπαπαδιά αυτός.	pelton	0	0
+La estonteco ne estos konstruata perforte, eĉ ne kun la deziro konkeri, sed per la pacienca aplikado de la demokratia metodo, la spirito de konstruiva konsento kaj la respekto por libereco.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	pacienca	0	0
+Mi estas astronomo.	Είμαι αστρονόμος.	astronomo	0	0
+Respekto al la leĝoj estas esenca por kolektiva feliĉo.	Ο σεβασμός στους νόμους είναι θεμελιώδης για τη συλλογική ευτυχία.	kolektiva	0	0
+Tiu vortaro estas nekontesteble la plej bona.	Αυτό το λεξικό είναι αδιαμφισβήτητα το πιο καλό.	vortaro	0	0
+Kaj vi estas nekvalifikita laboristo.	Και είσαι άτεχνος εργάτης.	laboristo	0	0
+Ĉiun kristnaskan vesperon ni iras al preĝejo.	Κάθε παραμονή Χριστουγέννων πηγαίνουμε στην εκκλησία.	kristnaskan	0	0
+La pomo estas sur la tablo.	Το μήλο είναι πάνω στο τραπέζι.	pomo	0	0
+John Locke, la konata filozofo de la libereco, estis akciulo de la Reĝa Afrika Kompanio, kiu aĉetis kaj vendis sklavojn.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	filozofo	0	0
+Ŝia patrino igis lin purigi la banĉambron.	Η μητέρα του τον έβαλε να καθαρίσει το μπάνιο.	banĉambron	0	0
+En la vintro neĝas.	Το χειμώνα πέφτει χιόνι.	neĝas	0	0
+Tom metis sian monujon sur la skribotablon.	Ο Τομ έβαλε το πορτοφόλι του πάνω στο γραφείο.	skribotablon	0	0
+La venonta monato estos oktobro.	Επόμενος μήνας θα είναι ο Οκτώβριος.	oktobro	0	0
+Estis en 1989, ke la berlina muro estis malkonstruita.	Το τείχος του Βερολίνου έπεσε το 1989.	malkonstruita	0	0
+Li havas multajn amikojn en la parlamento.	Αυτός έχει πολλούς φίλους στο Κοινοβούλιο.	parlamento	0	0
+La tajfuno kaŭzis neniun damaĝon.	Ο τυφώνας δεν προκάλεσε καμία ζημιά.	tajfuno	0	0
+Ŝi posedas malmultajn librojn.	Αυτή έχει λίγα βιβλία.	malmultajn	0	0
+Kristo resurektis!	Χριστός ανέστη!	resurektis	0	0
+Ŝi amas Tomason.	Αυτή αγαπάει τον Τομ.	tomason	0	0
+La estonteco ne estos konstruata perforte, eĉ ne kun la deziro konkeri, sed per la pacienca aplikado de la demokratia metodo, la spirito de konstruiva konsento kaj la respekto por libereco.	Αλλά με την υπομονετική εφαρμογή δημοκρατικών μεθόδων, το εποικοδομητικό πνεύμα της συναίνεσης και τον σεβασμό της ελευθερίας.	demokratia	0	0
+Rostitaj kaŝtanoj estas populara vintra manĝaĵo.	Τα ψητά κάστανα είναι δημοφιλές φαγητό τον χειμώνα.	rostitaj	0	0
+Hodiaŭ mi iĝos kvarjara.	Σήμερα γίνομαι τεσσάρων χρονών.	kvarjara	0	0
+Li kritikas ĉiujn kaj ĉion.	Κατακρίνει τους πάντες και τα πάντα.	kritikas	0	0
+Mia hobio estas ludi la gitaron.	Το χόμπι μου είναι να παίζω κιθάρα.	gitaron	0	0
+Tri ciklopoj forĝis la fulmojn de Jovo.	Τρεις κύκλωπες σφυρηλατούσαν τις ακτίνες του Δία.	forĝis	0	0
+"Tom!" "Mary!"	"Τομ!" "Μαίρη!"	mary	0	0
+Rostitaj kaŝtanoj estas populara vintra manĝaĵo.	Τα ψητά κάστανα είναι δημοφιλές φαγητό τον χειμώνα.	populara	0	0
+Vi devas skribi oficialan leteron al la direktoro.	Πρέπει να γράψετε μια επίσημη επιστολή στον διευθυντή.	oficialan	0	0
+Mi parolas relative bone la francan.	Μιλάω αρκετά καλά γαλλικά.	relative	0	0
+Rumanoj el Transilvanio parolas malrapidege.	Οι Ρουμάνοι από την Τανσιλβανία μιλάνε πολύ αργά.	transilvanio	0	0
+Ĉi-matene mi ekstaris je la sepa.	Σήμερα σηκώθηκα από τις επτά το πρωί.	ekstaris	0	0
+Tro grasa manĝado supozeble kaŭzas kormalsanojn.	Η πολύ λιπαρή διατροφή προκαλεί υποθετικά καρδιακές παθήσεις.	grasa	0	0
+Ekzistadismo estas humanismo.	Ο υπαρξισμός είναι ένας ανθρωπισμός.	humanismo	0	0
+Sur la planedo Tero ekzistas sep kontinentoj.	Στη Γη υπάρχουν επτά ήπειροι.	kontinentoj	0	0
+Ŝi povas meti vin en malliberejon pro adulto.	Μπορεί να σας βάλει μέσα ένα κλουβί για μοιχεία.	adulto	0	0
+Mi nun pentros ilin nigraj.	Θα τα βάψω μαύρα τώρα.	pentros	0	0
+Kial vi piediras, se vi havas aŭtomobilon?	Γιατί πηγαίνεις με τα πόδια, αν έχεις αυτοκίνητο;	piediras	0	0
+Ĉiuj homoj estas mortemaj, ĉiuj grekoj estas homoj, sekve ĉiuj grekoj estas mortemaj.	Όλοι οι άνθρωποι είναι θνητοί, όλοι οι Έλληνες είναι άνθρωποι, επομένως όλοι οι Έλληνες είναι θνητοί.	mortemaj	0	0
+Ili transiris la limon ŝarĝitaj kun drogoj.	Πέρασαν τα σύνορα φορτωμένοι ναρκωτικά.	ŝarĝitaj	0	0
+Iridio estas unu el la plej raraj elementoj.	Το ιρίδιο είναι ένα από τα σπανιότερα ατομικά στοιχεία.	raraj	0	0
+Ili estis ebriaj.	Ήτανε μεθυσμένοι.	ebriaj	0	0
+Mi telefone mendis picon.	Παρήγγειλα πίτσα τηλεφωνικά.	telefone	0	0
+Ĉu vi ekloĝos ĉi tie?	Θα αρχίσετε να μένετε εδώ;	ekloĝos	0	0
+Tokio estas pli granda ol Jokohamo.	Το Τόκιο είναι μεγαλύτερο από τη Γιοκοχάμα.	tokio	0	0
+Kion vi farus se vi vidus fantomon?	Τι θα έκανες αν έβλεπες ένα φάντασμα;	fantomon	0	0
+Kiu skribis la biblion?	Ποιος έγραψε τη Βίβλο;	biblion	0	0
+Iridio estas unu el la plej raraj elementoj.	Το ιρίδιο είναι ένα από τα σπανιότερα ατομικά στοιχεία.	elementoj	0	0
+Istanbulo estas la plej dense loĝata urbo de Turkujo.	Η Κωνσταντινούπολη είναι η πιο πυκνοκατοικημένη πόλη της Τουρκίας.	dense	0	0
+Oni maldungis lin.	Τον έδιωξαν από τη δουλειά του.	maldungis	0	0
+La unua periodo finiĝis hieraŭ.	Χθες τελείωσε η πρώτη περίοδος.	periodo	0	0
+Li estas denaska greko.	Αυτός είναι Έλληνας εκ γενετής.	greko	0	0
+Posedo estas ŝtelo.	Η ιδιοκτησία είναι κλοπή.	posedo	0	0
+Ĉiuj ĉeestantoj sin levis kaj klopodis iri al ŝi.	Όλοι οι παρευρισκόμενοι σηκώθηκαν και προσπάθησαν να την πλησιάσουν.	ĉeestantoj	0	0
+Mi ne estas katolikino.	Δεν είμαι καθολική.	katolikino	0	0
+Ne interrompu min dum mi parolas.	Μη με διακόπτεις ενώ μιλάω.	interrompu	0	0
+Mi adoras la italan kuirarton.	Λατρεύω το ιταλικό φαγητό.	italan	0	0
+Antaŭe mi multe fumis, sed mi ĉesis.	Πριν κάπνιζα πολύ, αλλά το έκοψα.	fumis	0	0
+Mi estas el la orienta marbordo.	Είμαι από την ανατολική ακτή.	orienta	0	0
+Aŭdante tion, li paliĝis.	Ακούγοντας το, αυτός χλώμιασε.	paliĝis	0	0
+Ŝi naskiĝis en Svislando.	Αυτή γεννήθηκε στην Ελβετία.	svislando	0	0
+Mi ne parolas la japanan.	Δε μιλάω Ιαπωνικά.	japanan	0	0
+La dek du zodiakaj signoj estas: Ŝafo, Taŭro, Ĝemeloj, Kankro, Leono, Virgo, Pesilo, Skorpio, Sagitario, Kaprikorno, Amforo, Fiŝoj.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	kaprikorno	0	0
+Mia hobio estas ludi la gitaron.	Το χόμπι μου είναι να παίζω κιθάρα.	hobio	0	0
+Estas multe da infanoj en la parko.	Υπάρχουν πολλά παιδιά στο πάρκο.	parko	0	0
+Mi ne povas fini tiun tradukon hodiaŭ. Mi lasos ĝin por morgaŭ.	Δεν μπορώ να τελειώσω αυτή τη μετάφραση σήμερα. Θα την αφήσω για αύριο.	tradukon	0	0
+Bonan tagon, Ĉikago!	Καλή μέρα Σικάγο!	ĉikago	0	0
+La dek du zodiakaj signoj estas: Ŝafo, Taŭro, Ĝemeloj, Kankro, Leono, Virgo, Pesilo, Skorpio, Sagitario, Kaprikorno, Amforo, Fiŝoj.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	taŭro	0	0
+Ĉu hodiaŭ pluvos?	Θα βρέξει σήμερα;	pluvos	0	0
+John naskiĝis en Usono.	Ο Τζον γεννήθηκε στις ΗΠΑ.	john	0	0
+La knabinoj ekridis aŭdante la historion.	Τα κορίτσια άρχισαν να γελούν μόλις άκουσαν την ιστορία.	ekridis	0	0
+La dek du zodiakaj signoj estas: Ŝafo, Taŭro, Ĝemeloj, Kankro, Leono, Virgo, Pesilo, Skorpio, Sagitario, Kaprikorno, Amforo, Fiŝoj.	Τα δώδεκα ζώδια είναι: Κριός, Ταύρος, Δίδυμοι, Καρκίνος, Λέων, Παρθένος, Ζυγός, Σκορπιός, Τοξότης, Αιγόκερως, Υδροχόος, Ιχθείς.	skorpio	0	0
+Germanio produktis multajn sciencistojn.	Η Γερμανία έδωσε πολλούς επιστήμονες.	produktis	0	0
+Ĉu vi havas rizon?	Έχετε ρύζι;	rizon	0	0
+Steĉjo eniras aŭtobuson.	Ο Στέφανος μπαίνει στο λεωφορείο.	aŭtobuson	0	0
+Tom iras ĉiam al la ĉiovendejo, en kiu Maria laboras.	Ο Τομ πηγαίνει πάντα στο παντπολείο, στο οποίο δουλεύει η Μαρία.	ĉiovendejo	0	0
+Manko de mono estas la origino de ĉiu malbono.	Η έλλειψη χρημάτων είναι η αιτία κάθε κακίας.	origino	0	0
+Portante ŝafan pelton li tamen restas lupo.	Είναι αυτός μια σιγανοπαπαδίτσα.	ŝafan	0	0
+Kiun eŭropan urbon vi plej ŝatas?	Ποιά Ευρωπαϊκή πόλη σας αρέσει περισσότερο;	eŭropan	0	0
+Ĉiuj homoj estas mortemaj, ĉiuj grekoj estas homoj, sekve ĉiuj grekoj estas mortemaj.	Όλοι οι άνθρωποι είναι θνητοί, όλοι οι Έλληνες είναι άνθρωποι, επομένως όλοι οι Έλληνες είναι θνητοί.	grekoj	0	0
+Respekto al la leĝoj estas esenca por kolektiva feliĉo.	Ο σεβασμός στους νόμους είναι θεμελιώδης για τη συλλογική ευτυχία.	esenca	0	0
+Kiom kostas ligna seĝo?	Πόσο στοιχίζει μια ξύλινη καρέκλα;	ligna	0	0
+Li komprenas fizikon.	Αυτός καταλαβαίνει από φυσική.	fizikon	0	0
+Ĉu vi havas krajonojn?	Εχετε μολύβια;	krajonojn	0	0
+Ankaŭ militservo estas patriota devo.	Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	militservo	0	0
+Papagoj imitas homan voĉon.	Οι παπαγάλοι μιμούνται την ανθρώπινη ομιλία.	papagoj	0	0
+Hieraŭ estis ĵaŭdo.	Χτες ήταν Πέμπτη.	ĵaŭdo	0	0
+El Grekio devenas multaj filozofoj.	Από την Ελλάδα προέρχονται πολλοί φιλόσοφοι	filozofoj	0	0
+Petro amas Johanan.	Ο Πέτρος αγαπάει την Τζέιν.	johanan	0	0
+Mizero havas talentan kapon.	Πενία τέχνας κατεργάζεται.	talentan	0	0
+Mia filo estas vidvo.	Ο γιος μου είναι χήρος.	vidvo	0	0
+La pluvo klakis sur la fenestrojn.	Η βροχή χτυπούσε πάνω στα παράθυρα.	klakis	0	0
+Mi brulvundis mian fingron.	Έκαψα το δάχτυλό μου.	brulvundis	0	0
+Germanio produktis multajn sciencistojn.	Η Γερμανία έδωσε πολλούς επιστήμονες.	sciencistojn	0	0
+La firmao Coca Cola evoluigis la limonadon Fanta, meze de la Dua Monda Milito, por la germana merkato.	Τον καιρό του Δευτέρου Παγκοσμίου Πολέμου, η Κόκα Κόλα επινόησε τη Fanta για τη γερμανική αγορά.	limonadon	0	0
+Maria flustris sian kondolencon al la vidvino.	Η Μαρία ψιθύρισε τα συλλυπητήριά της στη χήρα.	kondolencon	0	0
+Estas neniu ne amanta sian familion.	Δεν υπάρχει άνθρωπος, που να μην αγαπάει την οικογένειά του.	amanta	0	0
+La ŝipo sinkis dum la ŝtormo.	Το πλοίο βούλιαξε στη διάρκεια της καταιγίδας.	sinkis	0	0
+Pli da libroj estas skribitaj ol estas legitaj.	Γράφονται περισσότερα βιβλία από όσα διαβάζονται.	skribitaj	0	0
+John Locke, la konata filozofo de la libereco, estis akciulo de la Reĝa Afrika Kompanio, kiu aĉetis kaj vendis sklavojn.	Ο Τζον Λοκ, ο γνωστός φιλόσοφος της ελευθερίας, ήταν μέτοχος στη Βασιλική Εταιρία της Αφρικής, η οποία αγόραζε και πουλούσε σκλάβους.	sklavojn	0	0
+Tri ciklopoj forĝis la fulmojn de Jovo.	Τρεις κύκλωπες σφυρηλατούσαν τις ακτίνες του Δία.	fulmojn	0	0
+La antibiotikoj batalas kontraŭ la evoluo de mikroorganismoj.	Τα αντιβιοτικά καταπολεμούν την εξέλιξη των μικροοργανισμών.	antibiotikoj	0	0
+Kreto estas bela greka insulo, la plej granda de Grekio.	Η Κρήτη είναι ένα πανέμορφο ελληνικό νησί, το μεγαλύτερο της Ελλάδας.	kreto	0	0

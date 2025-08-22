@@ -1,0 +1,1458 @@
+Por que os coalas não têm umbigo?	Varför har koalor ingen navel?	que	0	0
+A capital da Ucrânia é Kiev.	Huvudstaden i Ukraina är Kiev.	a	0	0
+É perigoso caminhar sobre o gelo.	Det är farligt att gå på isen.	o	0	0
+Os pais de Tom não gostam de mim.	Toms föräldrar tycker inte om mig.	não	0	0
+Você precisa de dinheiro?	Behöver du pengar?	de	0	0
+A capital da Ucrânia é Kiev.	Huvudstaden i Ukraina är Kiev.	é	0	0
+Eu conheço o seu verdadeiro nome e sei onde mora.	Jag vet vad han heter på riktigt och var han bor.	e	0	0
+Tom tem um cachorro branco.	Tom har en vit hund.	um	0	0
+Geralmente vou para cama às nove.	Vanligtvis går jag och lägger mig vid nio.	para	0	0
+Eu dou aula há mais de 15 anos.	Jag har undervisat i över 15 år.	eu	0	0
+A escola é uma perda de tempo.	Skolan är ett slöseri med tid.	uma	0	0
+O que você está tentando fazer?	Vad är det du försöker göra?	está	0	0
+Tom não se importa com o que acontece com o seu antigo carro.	Tom bryr sig inte om vad som händer med hans gamla bil.	com	0	0
+A capital da Colômbia se chama Bogotá.	Huvudstaden i Colombia heter Bogotá.	se	0	0
+"Do que você está rindo?" "Da tua cara."	"Vad skrattar du åt?" "Ditt ansikte."	do	0	0
+Por que será que nossos cabelos ficam brancos quando envelhecemos, mas os pelos dos animais não?	Hur kommer det sig att vårt hår grånar när vi åldras, men inte djurpälsar?	por	0	0
+Os pais de Mary são muito rígidos.	Marys föräldrar är mycket stränga.	os	0	0
+Ele esvaziou o copo de um só gole.	Han tömde glaset med en enda klunk.	ele	0	0
+Não tenho tudo o que quero, mas quero tudo o que tenho.	Jag har inte allt jag vill ha, man jag vill ha allt jag har.	mas	0	0
+Eu já procurei em todos os lugares.	Jag har redan letat överallt.	em	0	0
+Eles são bem mais experientes do que eu.	De är mycket mer erfarna än jag.	bem	0	0
+Eu tentei fazer isso, mas não consegui.	Jag försökte göra det, men jag lyckades inte.	isso	0	0
+Águe as flores antes de tomar café da manhã.	Vattna blommorna innan du äter frukost.	da	0	0
+Tom não conseguiu descobrir como abrir a caixa.	Tom kunde inte lista ut hur han skulle öppna lådan.	como	0	0
+Sim.	Ja.	sim	0	0
+A árvore adquiriu as cores mais bonitas!	Trädet fick de vackraste färger!	as	0	0
+Pensa no teu futuro.	Tänk på din framtid.	no	0	0
+Você quer mais uma cerveja?	Vill du ha en till öl?	mais	0	0
+Eu perdi ela de vista na multidão.	Jag förlorade henne ur sikte i folksamlingen.	na	0	0
+Meu pai ouve música clássica.	Min far lyssnar på klassisk musik.	meu	0	0
+Minhas filhas nasceram aqui.	Mina barn föddes här.	aqui	0	0
+Me chamo Dušana.	Jag heter Dušana.	me	0	0
+Minha mochila está muito pesada.	Min ryggsäck är väldigt tung.	muito	0	0
+Quem foi que desligou o roteador?	Vem var det som stängde av routern?	foi	0	0
+O que ela está fazendo agora?	Vad gör hon nu?	ela	0	0
+Onde é que ele comprou isto?	Var köpte han den här?	isto	0	0
+Estou vendo uma casa.	Jag ser ett hus.	estou	0	0
+Eu lhes mostrei, como fazer isso.	Jag visade dem hur man gör det.	fazer	0	0
+Vamos perguntar uns aos outros.	Låt oss fråga varandra.	vamos	0	0
+As crianças já comeram?	Har barnen ätit än?	já	0	0
+Tom quer ser forte.	Tom vill bli stark.	ser	0	0
+Se você acha que vai aprender a falar inglês apenas por ir à América, você está redondamente enganado.	Om du tror att du lär dig att prata engelska bara för att du åker till USA, är du helt fel ute.	vai	0	0
+Meu pai já tinha ido uma vez à Grécia.	Min far hade redan varit en gång i Grekland.	à	0	0
+Minha perna dói.	Jag har ont i benet.	minha	0	0
+Eu só estava brincando quando disse isso.	Jag skojade bara när jag sa det.	só	0	0
+Ele voltou ao Japão.	Han åkte tillbaka till Japan.	ao	0	0
+Só tem ideias estúpidas.	Du har bara dumma idéer.	tem	0	0
+Te desejo tudo de bom.	Jag önskar dig allt gott.	tudo	0	0
+Te amo.	Jag älskar dej.	te	0	0
+Porque a devemos ajudar?	Varför måste vi hjälpa henne?	porque	0	0
+Mas é claro que isso foi há muito tempo atrás.	Men det var förstås länge sedan.	há	0	0
+Tenho um gato preto.	Jag har en svart katt.	tenho	0	0
+Geralmente vou para cama às nove.	Vanligtvis går jag och lägger mig vid nio.	vou	0	0
+Tu és feio.	Du är ful.	tu	0	0
+Nem sei se ele vem.	Jag vet inte ens om han kommer.	sei	0	0
+Estava chovendo quando cheguei.	Det regnade när jag kom fram.	quando	0	0
+Muriel tem 20 anos agora.	Muiriel är 20 nu.	agora	0	0
+Tu estás triste.	Du är ledsen.	estás	0	0
+Você fala português?	Talar du portugisiska?	você	0	0
+Tenho que estar lá.	Jag måste vara där.	lá	0	0
+É melhor ser feliz do que ter razão.	Det är bättre att vara lycklig än att ha rätt.	ter	0	0
+Ela era jovem e inocente.	Hon var ung och oskyldig.	era	0	0
+Quem foi que desligou o roteador?	Vem var det som stängde av routern?	quem	0	0
+Onde estão as maçãs?	Var är äpplena?	onde	0	0
+Não acontece nada.	Ingenting händer.	nada	0	0
+É o Tom ou a Mary que está mentindo.	Det är antingen Tom eller Mary som ljuger.	ou	0	0
+Eu tenho que dizer alguma coisa.	Jag måste säga någonting.	coisa	0	0
+Eu tenho que dizer alguma coisa.	Jag måste säga någonting.	dizer	0	0
+Tom e Mary são austríacos, mas se conheceram na Austrália.	Tom och Mary är österrikare, men de träffades i Australien.	são	0	0
+Não tenho tudo o que quero, mas quero tudo o que tenho.	Jag har inte allt jag vill ha, man jag vill ha allt jag har.	quero	0	0
+Como sabia onde eu estava?	Hur visste du var jag var?	estava	0	0
+Sou francesa.	Jag är fransyska.	sou	0	0
+Tom atirou no seu próprio joelho.	Tom sköt sig själv i knät.	seu	0	0
+Quem luta pode perder, quem não luta já perdeu.	Den som kämpar riskerar att förlora. Den som inte kämpar har redan förlorat.	pode	0	0
+Mesmo hoje, a temperatura está abaixo de zero.	Även idag är temperaturen under noll.	mesmo	0	0
+Se você ler esta frase, se tornará cego.	Om du läser den här meningen blir du blind.	esta	0	0
+Eles têm de sair daqui agora mesmo.	De måste gå härifrån nu på direkten.	eles	0	0
+Nós nem gostamos delas.	Vi tycker inte ens om dem.	nós	0	0
+Creio que este remédio possa lhe ajudar a tratar de sua doença.	Jag tror att den här medicinen kan hjälpa mot din sjukdom.	sua	0	0
+Por que será que nossos cabelos ficam brancos quando envelhecemos, mas os pelos dos animais não?	Hur kommer det sig att vårt hår grånar när vi åldras, men inte djurpälsar?	dos	0	0
+Todos os pássaros têm bico.	Alla fåglar har näbb.	todos	0	0
+Ela lhe olhou direto nos olhos.	Hon såg honom rakt i ögonen.	nos	0	0
+Um fantasma está olhando para mim.	Ett spöke tittar på mig.	mim	0	0
+Eu posso te ajudar.	Jag kan hjälpa dig.	posso	0	0
+Tom parece estar de bom humor hoje.	Tom verkar vara på gott humör idag.	bom	0	0
+Este é o meu lápis.	Det här är min penna.	este	0	0
+Eu quero ir para casa.	Jag vill komma hem.	casa	0	0
+Nós temos realmente que ir agora?	Måste vi verkligen gå ut nu?	temos	0	0
+Tu tens uma boa memória.	Du har ett bra minne.	tens	0	0
+Vejo a tua prata.	Jag ser ditt silver.	tua	0	0
+Nunca estou em casa nos domingos.	Jag är aldrig hemma på söndagar.	nunca	0	0
+Onde estão as maçãs?	Var är äpplena?	estão	0	0
+Eu caminho até a escola todo dia.	Jag går till skolan varje dag.	até	0	0
+Eu acho difícil acreditar que o Tom faria algo assim.	Jag har svårt att tro att Tom skulle göra så.	assim	0	0
+Vejo o teu carro.	Jag ser din bil.	teu	0	0
+Acho que comprarei um carro novo.	Jag tror att jag skall köpa en ny bil.	acho	0	0
+Podemos falar sobre música?	Kan vi prata om musik?	falar	0	0
+Eu só estava brincando quando disse isso.	Jag skojade bara när jag sa det.	disse	0	0
+Eu não fiz isso ainda.	Jag har inte gjort det än.	ainda	0	0
+Você tem tempo para vir amanhã?	Hinner du komma i morgon?	tempo	0	0
+Por favor, dê-me um Dagens Nyheter, também.	Var snäll och ge mig en Dagens Nyheter också.	também	0	0
+Eu gosto de ir pescar com o meu pai.	Jag tycker om att gå och fiska med min pappa.	ir	0	0
+O meu pai morreu no Vietnã.	Min far dog i Vietnam.	pai	0	0
+É perigoso caminhar sobre o gelo.	Det är farligt att gå på isen.	sobre	0	0
+Ele é meu tio, uma vez que meu pai é irmão dele.	Han är min farbror, eftersom min far är hans bror.	vez	0	0
+Por quê?	Varför?	quê	0	0
+O príncipe quer um cavalo branco.	Prinsen vill ha en vit häst.	quer	0	0
+Tu és imprevisível.	Du är oförutsägbar.	és	0	0
+Por favor, dê-me um Dagens Nyheter, também.	Var snäll och ge mig en Dagens Nyheter också.	favor	0	0
+Sinto-me tão estúpido.	Jag känner mig så dum.	tão	0	0
+É melhor fazer o que ela diz.	Det är bättre att göra som hon säger.	melhor	0	0
+Como vai a sua mãe?	Hur är det med din mamma?	mãe	0	0
+Talvez alguém aqui possa nos ajudar a encontrar a casa do Tom.	Kanske någon här kan hjälpa oss att hitta Toms hus.	talvez	0	0
+Olá, boa noite. Em que posso ajudá-los?	Hej, god kväll. Hur kan jag hjälpa er?	olá	0	0
+Obrigado!	Tack!	obrigado	0	0
+Falei com ele ontem à noite.	Jag pratade med honom igår kväll.	noite	0	0
+Ela é sempre muito educada.	Hon är alltid väldigt artig.	sempre	0	0
+No princípio Deus criou os céus e a terra.	I begynnelsen skapade Gud himmel och jord.	deus	0	0
+Estamos bebendo chá enquanto esperamos.	Vi dricker te medan vi väntar.	estamos	0	0
+É rude apontar para alguém.	Det är oförskämt att peka på folk.	alguém	0	0
+Quero ir aos EUA um dia.	Jag vill åka till USA en dag.	dia	0	0
+Estou no caminho certo?	Är jag på rätt väg?	certo	0	0
+Imagine que eu nem queria vir!	Tänk att jag inte ens ville komma!	nem	0	0
+Posso ajudar com alguma coisa?	Kan jag hjälpa till med någonting?	alguma	0	0
+A vida continua.	Livet går vidare.	vida	0	0
+Tenho oitenta e quatro anos.	Jag är åttiofyra år gammal.	anos	0	0
+Qual é a idade dele?	Hur gammal är han?	dele	0	0
+Ele caiu em um poço sem fundo.	Han föll ner i den bottenlösa gropen.	sem	0	0
+Eu recebo mais do que a maioria das pessoas aqui.	Jag tjänar mer än de flesta människorna här.	das	0	0
+Tom não tinha dinheiro.	Tom hade inga pengar.	tinha	0	0
+Tom parece estar de bom humor hoje.	Tom verkar vara på gott humör idag.	estar	0	0
+Queres algo para comer?	Skulle du vilja ha något att äta?	queres	0	0
+Baixei algumas coisas.	Jag laddade ned några grejer.	coisas	0	0
+O homem matou a mulher.	Mannen dödade kvinnan.	homem	0	0
+Há poucas pessoas em quem confiar.	Det finns få människor man kan lita på.	pessoas	0	0
+Tom disse algo em francês que eu não pude entender.	Tom sa något på franska som jag inte förstod.	algo	0	0
+Ela me perguntou pelo resultado do exame.	Hon frågade mig om provresultatet.	pelo	0	0
+Eles gostam de ficar sozinhos.	De tycker om att vara ensamma.	ficar	0	0
+Boa noite!	Godnatt!	boa	0	0
+Alison não sabe cozinhar.	Alison kan inte laga mat.	sabe	0	0
+Ela parece estar bêbada.	Hon ser ut att vara full.	parece	0	0
+Mas é claro que isso foi há muito tempo atrás.	Men det var förstås länge sedan.	claro	0	0
+Nestes últimos dois dias não comi sequer uma migalha de pão, e não dormi, no total, mais que três horas.	På två dagar har jag inte ätit så mycket som en brödsmula, och jag har inte sovet mer än tre timmar totalt.	dois	0	0
+É verdade que vocês estão se mudando para a Austrália?	Stämmer det att ni ska flytta till Australien?	verdade	0	0
+Eu preciso do sol.	Jag behöver solen.	preciso	0	0
+Sua carreira na empresa terminou antes de começar.	Hans karriär inom företaget var över innan den hade börjat.	antes	0	0
+Eu não lhe pedi que me ajudasse.	Jag har inte bett dig om hjälp.	lhe	0	0
+Se você acha que vai aprender a falar inglês apenas por ir à América, você está redondamente enganado.	Om du tror att du lär dig att prata engelska bara för att du åker till USA, är du helt fel ute.	apenas	0	0
+A propósito, vocês podem me chamar de Tom.	Förresten, ni kan kalla mig Tom.	vocês	0	0
+Se ninguém sabe o que vem a seguir, ninguém ficará desapontado.	Om ingen vet vad som kommer härnäst, blir ingen besviken.	ninguém	0	0
+Estou no trabalho.	Jag är på jobbet.	trabalho	0	0
+Ah! Espera um momento!	Ah! Vänta ett ögonblick!	espera	0	0
+Ela pode não saber que estamos aqui.	Det är möjligt att hon inte vet att vi är här.	saber	0	0
+Ninguém veio comigo.	Ingen kom med mig.	comigo	0	0
+Tom não tinha dinheiro.	Tom hade inga pengar.	dinheiro	0	0
+Podemos falar sobre música?	Kan vi prata om musik?	podemos	0	0
+Pobres não são aqueles que tem pouco, mas aqueles que precisam de muito.	Fattig är inte den som har lite utan den som behöver mycket.	pouco	0	0
+Não sei o que significa essa palavra.	Jag vet inte vad det här ordet betyder.	essa	0	0
+Ela me deu esse livro.	Hon gav mig den här boken.	esse	0	0
+A festa foi um grande sucesso.	Festen var en stor succé.	grande	0	0
+Eles mal nos causaram qualquer problema.	De förorsakade oss knappt några problem.	qualquer	0	0
+Que conclusões podem ser tiradas disso?	Vilka slutsatser kan dras av detta?	disso	0	0
+Meu irmão morreu num acidente de trânsito.	Min bror dog i en trafikolycka.	num	0	0
+Qual é a localização deles?	Var befinner de sig?	qual	0	0
+Desculpa!	Förlåt.	desculpa	0	0
+Este é o livro dela.	Detta är hennes bok.	dela	0	0
+Eu acho que irá chover hoje.	Jag tror att det kommer regna idag.	hoje	0	0
+Você deve ajudá-la.	Du måste hjälpa henne.	deve	0	0
+O homem matou a mulher.	Mannen dödade kvinnan.	mulher	0	0
+Tom disse que queria falar comigo.	Tom sa att han ville prata med mig.	queria	0	0
+Tom tem medo de ir para fora.	Tom är rädd för att gå ut.	fora	0	0
+Meu filho não me obedece.	Min son lyder mig inte.	filho	0	0
+Meus filhos estão na escola.	Mina barn är i skolan.	meus	0	0
+Você é nosso novo vizinho.	Du är vår nya granne.	nosso	0	0
+O Tomás olha para as estrelas.	Tomas tittar på stjärnorna.	olha	0	0
+Não quero que o Tom vá.	Jag vill inte att Tom ska gå.	vá	0	0
+Eles têm de sair daqui agora mesmo.	De måste gå härifrån nu på direkten.	daqui	0	0
+Estou falando sério.	Jag menar det på allvar.	sério	0	0
+Ela é nossa filha.	Hon är vår dotter.	nossa	0	0
+Você tem certeza, Tom?	Är du säker, Tom?	certeza	0	0
+Tom diz que ele é canadense.	Tom säger att han är kanadensare.	diz	0	0
+O nome da minha gata é May.	Min katt heter May.	nome	0	0
+Geralmente vou para cama às nove.	Vanligtvis går jag och lägger mig vid nio.	às	0	0
+Tenho um outro plano.	Jag har en annan plan.	outro	0	0
+Eu caminho até a escola todo dia.	Jag går till skolan varje dag.	todo	0	0
+Você precisa tentar isto.	Du måste prova det här.	tentar	0	0
+Eles têm de sair daqui agora mesmo.	De måste gå härifrån nu på direkten.	sair	0	0
+Abençoados sejam aqueles que não têm talento!	Välsignade är de som saknar talang!	têm	0	0
+Ela não é tão inteligente quanto você.	Hon är inte lika intelligent som du.	quanto	0	0
+Eles mal nos causaram qualquer problema.	De förorsakade oss knappt några problem.	mal	0	0
+A América está de volta!	Amerika är tillbaka!	volta	0	0
+Isso aconteceu somente há um ano atrás.	Det var bara ett år sedan.	aconteceu	0	0
+Não consigo parar o sangramento.	Jag kan inte stoppa blödningen.	consigo	0	0
+Tenho três irmãos.	Jag har tre bröder.	três	0	0
+O mundo é perigoso.	Världen är farlig.	mundo	0	0
+Eu tenho menos dinheiro que você.	Jag har mindre pengar än du.	menos	0	0
+O Robin é amigo do Batman.	Robin är Batmans vän.	amigo	0	0
+Quero me casar contigo.	Jag vill gifta mig med dig.	contigo	0	0
+Ela não queria que ele fosse embora.	Hon ville inte att han skulle gå.	embora	0	0
+Este problema é muito simples.	Det här problemet är mycket enkelt.	problema	0	0
+Deixei minha carteira no carro.	Jag lämnade min plånbok i bilen.	carro	0	0
+Eles já estiveram aqui várias vezes.	De har redan varit här flera gånger.	vezes	0	0
+Tom fez uma pergunta estúpida.	Tom ställde en dum fråga.	fez	0	0
+Ele escreveu aos seus pais.	Han skrev till sina föräldrar.	seus	0	0
+Ele quer um cachorro novo.	Han vill ha en ny hund.	novo	0	0
+Grande parte da ação desse romance passa-se no século X.	En stor del av handlingen i denna roman utspelar sig på 900-talet.	parte	0	0
+Todas as esposas deles entraram no ônibus.	Alla deras fruar steg på bussen.	todas	0	0
+Vamos perguntar uns aos outros.	Låt oss fråga varandra.	aos	0	0
+Obrigada!	Tack!	obrigada	0	0
+Tom foi o primeiro a chegar.	Tom var först att anlända.	primeiro	0	0
+Para onde será que Tom está indo?	Vart kan Tom vara på väg?	será	0	0
+Agora estou com dinheiro — 100 euros em cédulas. Agora vou tentar achar a farmácia antes de voltar. Por favor, senhora, onde é que eu encontro a farmácia?	Nu har jag pengar — 100 euro i kontanter. Nu ska jag försöka att hitta apoteket innan jag går tillbaka. Ursäkta mig, frun, var kan jag hitta apoteket?	voltar	0	0
+Vocês têm algum plano para o fim de semana?	Har ni några planer för helgen?	algum	0	0
+Vem conosco.	Kom med oss.	vem	0	0
+Velho por fora, mas novo por dentro.	Gammal i skinnet men ung i sinnet.	dentro	0	0
+Minha família é grande e feliz.	Min familj är stor och lycklig.	família	0	0
+É melhor ser feliz do que ter razão.	Det är bättre att vara lycklig än att ha rätt.	razão	0	0
+O que é aquele edifício?	Vad är det för byggnad?	aquele	0	0
+Segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado e domingo são os sete dias da semana.	Måndag, tisdag, onsdag, torsdag, fredag, lördag och söndag är de sju veckodagarna.	dias	0	0
+Eu fui à escola andando.	Jag gick till skolan till fots.	fui	0	0
+Como sabia onde eu estava?	Hur visste du var jag var?	sabia	0	0
+Eu tenho dois irmãos e duas irmãs.	Jag har två bröder och två systrar.	duas	0	0
+Ele cantarolava para si.	Han nynnade för sig själv.	si	0	0
+A polícia prendeu ele por contrabando.	Polisen arresterade honom för smuggling.	polícia	0	0
+Que conclusões podem ser tiradas disso?	Vilka slutsatser kan dras av detta?	podem	0	0
+Um esquilo escondeu-se entre os ramos.	En ekorre ilade och gömde sig bland grenarna.	entre	0	0
+Eu gosto de queijo.	Jag tycker om ost.	gosto	0	0
+Mas é claro que isso foi há muito tempo atrás.	Men det var förstås länge sedan.	atrás	0	0
+Preciso de amor.	Jag behöver kärlek.	amor	0	0
+Eu não sabia que você não podia dirigir.	Jag visste inte att du inte kunde köra.	podia	0	0
+Vamos perguntar uns aos outros.	Låt oss fråga varandra.	uns	0	0
+O Tom não tem falado desde ontem.	Tom har inte sagt något sen igår.	desde	0	0
+Nós somos da Rússia.	Vi är från Ryssland.	somos	0	0
+Ela sacudiu a cabeça.	Hon skakade på huvudet.	cabeça	0	0
+Nestes últimos dois dias não comi sequer uma migalha de pão, e não dormi, no total, mais que três horas.	På två dagar har jag inte ätit så mycket som en brödsmula, och jag har inte sovet mer än tre timmar totalt.	horas	0	0
+Qual é a localização deles?	Var befinner de sig?	deles	0	0
+Fica de olho nele.	Håll ett öga på honom.	fica	0	0
+Creio que este remédio possa lhe ajudar a tratar de sua doença.	Jag tror att den här medicinen kan hjälpa mot din sjukdom.	ajudar	0	0
+Ah! Espera um momento!	Ah! Vänta ett ögonblick!	momento	0	0
+É possível que eu tenha esquecido as minhas chaves.	Det är möjligt att jag har glömt mina nycklar.	tenha	0	0
+O carro está pronto.	Bilen står redo.	pronto	0	0
+O que eu fiz de errado?	Vad gjorde jag fel?	fiz	0	0
+A cidade é bela.	Staden är vacker.	cidade	0	0
+Estás entre amigos.	Du är bland vänner.	amigos	0	0
+Talvez alguém aqui possa nos ajudar a encontrar a casa do Tom.	Kanske någon här kan hjälpa oss att hitta Toms hus.	encontrar	0	0
+Tom diz que quer deixar o pais.	Tom sa att han vill lämna landet.	deixar	0	0
+Eu nunca vi um arco-íris.	Jag har aldrig sett en regnbåge.	vi	0	0
+Nenhum de nós o viu.	Ingen av oss såg den.	nenhum	0	0
+Durante a era stalinista, os prisioneiros em campos de concentração se tornaram escravos a serviço do estado.	Under den stalinistiska eran blev fångar i koncentrationsläger slavar i statens tjänst.	durante	0	0
+Seria ótimo.	Det vore utmärkt.	seria	0	0
+Vamos perguntar uns aos outros.	Låt oss fråga varandra.	outros	0	0
+Quando ele chegar nós começamos.	När han kommer börjar vi.	chegar	0	0
+Estou feliz com a minha nova casa.	Jag är nöjd med mitt nya hus.	nova	0	0
+O Tom se recusa a trabalhar.	Tom vägrar att arbeta.	trabalhar	0	0
+Quase ninguém traduz as frases escritas em português no Tatoeba.	Nästan ingen översätter meningarna som är skrivna på portugisiska på Tatoeba.	quase	0	0
+Desculpe!	Förlåt.	desculpe	0	0
+Se chover amanhã, nós não iremos à praia.	Om det regnar imorgon så går vi inte till stranden.	amanhã	0	0
+Ela não queria que ele fosse embora.	Hon ville inte att han skulle gå.	fosse	0	0
+Ele me contou uma história triste.	Han berättade en sorglig historia för mig.	história	0	0
+Ela tem um irmão?	Har hon en bror?	irmão	0	0
+O povo se revoltou contra a tirania.	Folket gjorde uppror mot tyrannin.	contra	0	0
+Eu quero morrer.	Jag vill dö.	morrer	0	0
+Tom tirou uma de suas luvas.	Tom tog av en av sina handskar.	suas	0	0
+Estamos bebendo chá enquanto esperamos.	Vi dricker te medan vi väntar.	enquanto	0	0
+Dê alguns exemplos.	Ta ett par exempel.	alguns	0	0
+Pediram ajuda.	De bad om hjälp.	ajuda	0	0
+Você precisa tentar isto.	Du måste prova det här.	precisa	0	0
+O cachorro está morto.	Hunden är död.	morto	0	0
+Milhões de pessoas compreendem interlingua à primeira vista.	Miljoner människor förstår interlingua vid första ögonkastet.	primeira	0	0
+Ele bateu à porta.	Han knackade på dörren.	porta	0	0
+Minhas filhas nasceram aqui.	Mina barn föddes här.	minhas	0	0
+Tom tem medo de ir para fora.	Tom är rädd för att gå ut.	medo	0	0
+Meu padrinho me deu aquela camisa vermelha.	Min gudfar gav mig den där röda skjortan.	aquela	0	0
+Estou no caminho certo?	Är jag på rätt väg?	caminho	0	0
+Imagine que eu nem queria vir!	Tänk att jag inte ens ville komma!	vir	0	0
+É melhor ser feliz do que ter razão.	Det är bättre att vara lycklig än att ha rätt.	feliz	0	0
+Eu me sinto tão estúpido.	Jag känner mig så dum.	sinto	0	0
+Tom está trinta minutos atrasado.	Tom är trettio minuter sen.	minutos	0	0
+Quantos golfinhos tem neste oceanário?	Hur många delfiner finns det på detta oceanarium?	neste	0	0
+A situação financeira está ficando pior a cada semana.	Den finansiella situationen förvärras vecka för vecka.	cada	0	0
+Estes livros são melhores que aqueles.	De här böckerna är bättre än de där.	estes	0	0
+Eu espero que vocês duas estejam felizes.	Jag hoppas att ni två är lyckliga.	espero	0	0
+No ano passado, ele passou três meses no mar.	Förra året spenderade han tre månader ute i havet.	ano	0	0
+Precisamos de dinheiro.	Vi behöver pengar.	precisamos	0	0
+Por causa de suas origens, o inglês canadense tem características de ambos o inglês americano e britânico.	På grund av sitt ursprung, har den kanadensiska engelskan drag av både amerikansk och brittisk engelska.	causa	0	0
+Ela é nossa filha.	Hon är vår dotter.	filha	0	0
+Você acha que nós somos cegos?	Tror du vi är blinda?	acha	0	0
+Traz os teus filhos.	Ta med dig barnen.	teus	0	0
+Quem é que vai tomar conta do seu cachorro?	Vem är det som ska ta hand om din hund?	conta	0	0
+Obrigado por estarem aqui, pessoal.	Tack för att ni är här, allihopa.	pessoal	0	0
+Layla está dormindo no quarto de hóspedes.	Layla sov i gästrummet.	quarto	0	0
+Ela lhe olhou direto nos olhos.	Hon såg honom rakt i ögonen.	olhos	0	0
+Agora estou com dinheiro — 100 euros em cédulas. Agora vou tentar achar a farmácia antes de voltar. Por favor, senhora, onde é que eu encontro a farmácia?	Nu har jag pengar — 100 euro i kontanter. Nu ska jag försöka att hitta apoteket innan jag går tillbaka. Ursäkta mig, frun, var kan jag hitta apoteket?	senhora	0	0
+"Do que você está rindo?" "Da tua cara."	"Vad skrattar du åt?" "Ditt ansikte."	cara	0	0
+Baixei algumas coisas.	Jag laddade ned några grejer.	algumas	0	0
+O português é mais difícil que o espanhol?	Är portugisiskan svårare än spanskan?	difícil	0	0
+Quem comeu a última bolacha?	Vem åt den sista kakan?	última	0	0
+Adoro o cheiro do café de manhã.	Jag älskar doften av kaffe om morgonen.	manhã	0	0
+É extremamente importante.	Det är extremt viktigt.	importante	0	0
+Ei, onde nós estamos?	Hallå, var är vi?	ei	0	0
+A garrafa está cheia de água.	Flaskan är full av vatten.	água	0	0
+Podemos começar.	Vi kan börja.	começar	0	0
+Talvez um dia você perceba que eu lhe faço falta.	Kanske märker du en dag att du saknar mig.	faço	0	0
+Tom mora perto da praia.	Tom bor nära stranden.	perto	0	0
+Tem cuidado ao escreveres.	Var noggrann när du skriver.	cuidado	0	0
+Você perdeu muito sangue.	Du har förlorat mycket blod.	sangue	0	0
+Por que será que nossos cabelos ficam brancos quando envelhecemos, mas os pelos dos animais não?	Hur kommer det sig att vårt hår grånar när vi åldras, men inte djurpälsar?	nossos	0	0
+Segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado e domingo são os sete dias da semana.	Måndag, tisdag, onsdag, torsdag, fredag, lördag och söndag är veckans sju dagar.	semana	0	0
+O que significa URSS?	Vad betyder SSSR?	significa	0	0
+Vocês querem chá ou café?	Vill du ha te eller kaffe?	querem	0	0
+O Tom trabalha das nove às cinco.	Tom arbetar från nio till fem.	cinco	0	0
+Agora que penso nisso, nossa família viveu uma vida muito miserável.	Nu när jag tänker på saken så levde vår familj ett mycket eländigt liv.	nisso	0	0
+Isto não é um jogo.	Det här är inte ett spel.	jogo	0	0
+Tom perdeu três filhos na guerra.	Tom förlorade tre söner i kriget.	guerra	0	0
+Ele fala português.	Han talar portugisiska.	fala	0	0
+Nós sabemos o que queremos.	Vi vet vad vi vill ha.	sabemos	0	0
+Meu pai ouve música clássica.	Min far lyssnar på klassisk musik.	ouve	0	0
+Nós temos realmente que ir agora?	Måste vi verkligen gå ut nu?	realmente	0	0
+No princípio Deus criou os céus e a terra.	I begynnelsen skapade Gud himmel och jord.	terra	0	0
+Falei com ele ontem à noite.	Jag pratade med honom igår kväll.	ontem	0	0
+Tom encontrou uma nota de cem dólares na rua.	Tom hittade en hundradollarssedel på gatan.	dólares	0	0
+Dei ao Tom algo para comer.	Jag gav Tom något att äta.	comer	0	0
+Eu vou dormir agora.	Nu går jag och lägger mig.	dormir	0	0
+Ele pôs fogo na escola.	Han tände eld på skolan.	escola	0	0
+Logo você se acostumará à sua escola nova.	Du vänjer dig snart vid din nya skola.	logo	0	0
+O ancião era querido por todos.	Den gamla mannen var älskad av alla.	querido	0	0
+Vocês têm algum plano para o fim de semana?	Har ni några planer för helgen?	fim	0	0
+Os preços eram muito altos.	Priserna var mycket höga.	eram	0	0
+Meu coração parou de bater.	Mitt hjärta slutade slå.	coração	0	0
+Ainda bem que todos os passageiros estavam usando cintos de segurança.	Tack och lov att alla passagerarna hade på sig säkerhetsbälten.	segurança	0	0
+Eu tenho estado muito ocupado ultimamente.	Jag har varit väldigt upptagen på sistone.	estado	0	0
+O médico aconselhou-o a parar de fumar.	Läkaren rådde honom att sluta röka.	parar	0	0
+Ele pecou muitas vezes em sua juventude.	Han begick många synder i sin ungdom.	muitas	0	0
+Há mais de quatro mil línguas no mundo.	Det finns mer än 4000 språk i världen.	quatro	0	0
+O garçom estava no andar de baixo.	Kyparen var på bottenvåningen.	baixo	0	0
+A igreja é no meio do vilarejo.	Kyrkan står mitt i byn.	meio	0	0
+No ano passado, ele passou três meses no mar.	Förra året spenderade han tre månader ute i havet.	meses	0	0
+Eu ouvi um barulho.	Jag hörde ett ljud.	ouvi	0	0
+O garçom estava no andar de baixo.	Kyparen var på bottenvåningen.	andar	0	0
+Vejo a tua prata.	Jag ser ditt silver.	vejo	0	0
+Felizmente, não morreu no acidente.	Som tur var dog hon inte i olyckan.	morreu	0	0
+A festa foi um grande sucesso.	Festen var en stor succé.	festa	0	0
+Os pais de Mary são muito rígidos.	Marys föräldrar är mycket stränga.	pais	0	0
+Ela queria saber se o fotógrafo poderia remover o chapéu da fotografia.	Hon ville veta om fotografen kunde ta bort hatten från bilden.	poderia	0	0
+Tom destruiu o castelo de areia das crianças.	Tom förstörde barnens sandslott.	crianças	0	0
+Vocês estavam a segui-la.	Ni följde efter henne.	estavam	0	0
+Sem oxigênio, muitos animais teriam desaparecido há muito tempo.	Utan syre skulle många djur ha försvunnit för länge sedan.	muitos	0	0
+Não há balas nesta pistola.	Det finns inga kulor i den här pistolen.	nesta	0	0
+Eu li que o presidente do Brasil é uma mulher. Ela se chama Dilma.	Jag läste att Brasiliens president är en kvinna. Hon kallas Dilma.	presidente	0	0
+Ela não tem filhos.	Hon har inga barn.	filhos	0	0
+Vocês gostam de perder?	Tycker ni om att förlora?	perder	0	0
+Eu não gosto de esperar.	Jag gillar inte att vänta.	esperar	0	0
+E viu Deus que era bom.	Och Gud såg att det var gott.	viu	0	0
+A minha irmã brinca de boneca.	Min syster leker med dockan.	irmã	0	0
+É possível que eu tenha esquecido as minhas chaves.	Det är möjligt att jag har glömt mina nycklar.	possível	0	0
+Eu não estava planejando te contar.	Jag hade inte tänkt berätta för dig.	contar	0	0
+O Tom é um idiota útil.	Tom är en nyttig idiot.	idiota	0	0
+É uma pena que vocês não saibam dançar.	Det är synd att ni inte kan dansa.	pena	0	0
+Há mais de quatro mil línguas no mundo.	Det finns mer än 4000 språk i världen.	mil	0	0
+Faça de novo!	Gör det igen!	faça	0	0
+Agora que penso nisso, nossa família viveu uma vida muito miserável.	Nu när jag tänker på saken så levde vår familj ett mycket eländigt liv.	penso	0	0
+Se precisar de ajuda, é só pedir.	Om du behöver hjälp, är det bara att fråga.	pedir	0	0
+Tom não se importa com o que acontece com o seu antigo carro.	Tom bryr sig inte om vad som händer med hans gamla bil.	importa	0	0
+É fácil de fazer e é barato.	Det är enkelt att göra och det är billigt.	fácil	0	0
+Ninguém veio comigo.	Ingen kom med mig.	veio	0	0
+Você tem um plano melhor?	Har du en bättre plan?	plano	0	0
+Eu devo ir agora.	Jag måste bege mig nu.	devo	0	0
+O prazer é meu.	Nöjet är på min sida.	prazer	0	0
+Velho por fora, mas novo por dentro.	Gammal i skinnet men ung i sinnet.	velho	0	0
+Comprei este livro em Boston no mês passado.	Jag köpte den här boken i Boston förra månaden.	passado	0	0
+Quem é que vai tomar conta do seu cachorro?	Vem är det som ska ta hand om din hund?	tomar	0	0
+O jantar está pronto.	Middagen är klar.	jantar	0	0
+Dá-me um abraço.	Ge mig en kram.	dá-me	0	0
+Tom fez uma pergunta estúpida.	Tom ställde en dum fråga.	pergunta	0	0
+Eu acabo de lavar a louça e agora preciso tirar o lixo.	Jag har just diskat och nu måste jag slänga soporna.	tirar	0	0
+Isto é um pequeno livro.	Det här är en liten bok.	pequeno	0	0
+Tom não conseguiu descobrir como abrir a caixa.	Tom kunde inte komma på hur han skulle öppna lådan.	descobrir	0	0
+Eles estão levando Mary para a sala de emergência.	De är på väg med Mary till akuten.	sala	0	0
+Ah! Espera um momento!	Ah! Vänta ett ögonblick!	ah	0	0
+Quem inventou o telefone?	Vem uppfann telefonen?	telefone	0	0
+Creio que este remédio possa lhe ajudar a tratar de sua doença.	Jag tror att den här medicinen kan hjälpa mot din sjukdom.	possa	0	0
+Tem algo errado com você.	Det är något fel på dig.	errado	0	0
+Ele foi enterrado vivo.	Han blev levande begravd.	vivo	0	0
+A menina está pulando.	Flickan hoppar.	menina	0	0
+Vou pedir a John que repare meu relógio.	Jag ska be John att laga min klocka.	john	0	0
+Pensa no teu futuro.	Tänk på din framtid.	pensa	0	0
+Meu nome é Jack.	Mitt namn är Jack.	jack	0	0
+Tom salvou nossas vidas.	Tom räddade våra liv.	nossas	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	paz	0	0
+Geralmente vou para cama às nove.	Vanligtvis går jag och lägger mig vid nio.	cama	0	0
+Ele não gostava de ser punido.	Han tyckte inte om att bli bestraffad.	gostava	0	0
+Eu definitivamente não iria lá sozinho.	Jag skulle definitivt inte gå dit själv.	sozinho	0	0
+Por que será que nossos cabelos ficam brancos quando envelhecemos, mas os pelos dos animais não?	Hur kommer det sig att vårt hår grånar när vi åldras, men inte djurpälsar?	pelos	0	0
+Kimchi é uma comida coreana tradicional.	Kimchi är en traditionell koreansk maträtt.	comida	0	0
+Nestes últimos dois dias não comi sequer uma migalha de pão, e não dormi, no total, mais que três horas.	På två dagar har jag inte ätit så mycket som en brödsmula, och jag har inte sovet mer än tre timmar totalt.	sequer	0	0
+Talvez um dia você perceba que eu lhe faço falta.	Kanske märker du en dag att du saknar mig.	falta	0	0
+Eu conheço o seu verdadeiro nome e sei onde mora.	Jag vet vad han heter på riktigt och var han bor.	conheço	0	0
+Ele gosta de animais.	Han tycker om djur.	gosta	0	0
+No ano passado, ele passou três meses no mar.	Förra året spenderade han tre månader ute i havet.	passou	0	0
+Não é fundo o bastante.	Det är inte djupt nog.	bastante	0	0
+Ela me deu esse livro.	Hon gav mig den här boken.	deu	0	0
+Ela provavelmente virá.	Hon kommer förmodligen.	provavelmente	0	0
+Não sei o que significa essa palavra.	Jag vet inte vad det här ordet betyder.	palavra	0	0
+O médico aconselhou-o a parar de fumar.	Läkaren rådde honom att sluta röka.	médico	0	0
+Se ninguém sabe o que vem a seguir, ninguém ficará desapontado.	Om ingen vet vad som kommer härnäst, blir ingen besviken.	seguir	0	0
+Tenho trabalhado nisto há três semanas.	Jag har jobbat med det här i tre veckor.	semanas	0	0
+O homem matou a mulher.	Mannen dödade kvinnan.	matou	0	0
+Eu acho difícil acreditar que o Tom faria algo assim.	Jag har svårt att tro att Tom skulle göra så.	acreditar	0	0
+A situação financeira está ficando pior a cada semana.	Den finansiella situationen förvärras vecka för vecka.	pior	0	0
+Tom atirou no seu próprio joelho.	Tom sköt sig själv i knät.	próprio	0	0
+A vida continua.	Livet går vidare.	continua	0	0
+Há muitas cidades nesse país.	Det finns många städer i det här landet.	país	0	0
+Você gostaria de se casar e ter filhos?	Skulle du vilja gifta dig och skaffa barn?	gostaria	0	0
+O grafeno é 200 vezes mais forte que o aço.	Grafen är 200 gånger starkare än stål.	forte	0	0
+Tenho que partir agora.	Jag måste bege mig nu.	partir	0	0
+Talvez eu só esteja ficando velho.	Jag kanske bara håller på att bli gammal.	esteja	0	0
+Ela não leu o livro.	Hon läste inte boken.	livro	0	0
+Não vou aceitar esses presentes.	Jag kommer inte att ta emot de presenterna.	esses	0	0
+Já estive aqui antes.	Jag har varit här förr.	estive	0	0
+Tom não conseguiu ligar o motor.	Tom kunde inte få igång motorn.	ligar	0	0
+Um minuto tem sessenta segundos.	En minut har sextio sekunder.	minuto	0	0
+Ele irá caminhar.	Han kommer att gå.	irá	0	0
+Nós sabemos o que queremos.	Vi vet vad vi vill ha.	queremos	0	0
+Tom toma três copos de café por dia.	Tom dricker tre koppar kaffe om dagen.	café	0	0
+A criança chorou.	Barnet grät.	criança	0	0
+Um espelho reflete a luz.	En spegel reflekterar ljus.	luz	0	0
+Quando o filme começa?	När börjar filmen?	filme	0	0
+Meu pai ouve música clássica.	Min far lyssnar på klassisk musik.	música	0	0
+Estes livros são melhores que aqueles.	De här böckerna är bättre än de där.	aqueles	0	0
+A União Europeia foi criada com o objetivo de pôr termo às frequentes guerras sangrentas entre países vizinhos, que culminaram na Segunda Guerra Mundial.	EU grundas för att få slut på de blodiga krigen mellan grannländerna, som gång på gång hade orsakat så mycket mänskligt lidande och till slut ledde till andra världskriget.	pôr	0	0
+Ele pôs fogo na escola.	Han tände eld på skolan.	fogo	0	0
+Tem alguma coisa para beber na geladeira?	Finns det nåt att dricka i kylskåpet?	beber	0	0
+Tom toma três copos de café por dia.	Tom dricker tre koppar kaffe om dagen.	toma	0	0
+Creio que este remédio possa lhe ajudar a tratar de sua doença.	Jag tror att den här medicinen kan hjälpa mot din sjukdom.	tratar	0	0
+Milhões de pessoas compreendem interlingua à primeira vista.	Miljoner människor förstår interlingua vid första ögonkastet.	milhões	0	0
+Se precisar de ajuda, é só pedir.	Om du behöver hjälp, är det bara att fråga.	precisar	0	0
+Tom encontrou uma nota de cem dólares na rua.	Tom hittade en hundradollarssedel på gatan.	rua	0	0
+Olhe aquela casa.	Titta på det huset.	olhe	0	0
+Nunca a encontrei, mas a reconheço.	Jag har aldrig träffat henne, men jag känner igen henne.	encontrei	0	0
+Hoje é o último dia de janeiro.	Idag är sista dagen i januari.	último	0	0
+Abra a boca.	Öppna munnen.	boca	0	0
+Não acontece nada.	Ingenting händer.	acontece	0	0
+Ela era jovem e inocente.	Hon var ung och oskyldig.	jovem	0	0
+Onde eu posso comprar um desses?	Var kan jag köpa en sån?	comprar	0	0
+A situação financeira está ficando pior a cada semana.	Den finansiella situationen förvärras vecka för vecka.	situação	0	0
+Maria é a esposa de Tom.	Maria är Toms fru.	esposa	0	0
+Vocês devem ajudá-la.	Du måste hjälpa henne.	devem	0	0
+Vamos jogar futebol hoje.	Låt oss spela fotboll i dag.	jogar	0	0
+Feliz Natal e um próspero Ano Novo!	God jul och gott nytt år!	natal	0	0
+Ela é uma amiga?	Är hon en vän?	amiga	0	0
+Agora estou com dinheiro — 100 euros em cédulas. Agora vou tentar achar a farmácia antes de voltar. Por favor, senhora, onde é que eu encontro a farmácia?	Nu har jag pengar — 100 euro i kontanter. Nu ska jag försöka att hitta apoteket innan jag går tillbaka. Ursäkta mig, frun, var kan jag hitta apoteket?	encontro	0	0
+O cão de Tom matou a gata de Maria.	Toms hund dödade Marias katt.	cão	0	0
+Deixe o Tom beber o que ele quiser.	Låt Tom dricka vad han vill.	quiser	0	0
+Vocês são bons nisto.	Ni är bra på det här.	nisto	0	0
+Adoro o cheiro do café de manhã.	Jag älskar doften av kaffe om morgonen.	adoro	0	0
+Deus criou o homem à Sua própria imagem; Deus é um guerreiro.	Gud skapade människan i Sin egen avbild; Gud är en krigare.	própria	0	0
+Tom quer conversar com você novamente.	Tom vill prata med dig igen.	novamente	0	0
+Pense sobre o seu futuro.	Tänk på din framtid.	futuro	0	0
+Vamos perguntar uns aos outros.	Låt oss fråga varandra.	perguntar	0	0
+Fique com o troco.	Behåll växeln.	fique	0	0
+Ambos estão mortos.	Båda är döda.	ambos	0	0
+Eu lhes mostrei, como fazer isso.	Jag visade dem hur man gör det.	lhes	0	0
+A propósito, vocês podem me chamar de Tom.	Förresten, ni kan kalla mig Tom.	chamar	0	0
+Eu não sou doutor.	Jag är ingen läkare.	doutor	0	0
+Boa viagem!	Trevlig resa!	viagem	0	0
+Sinto-me sozinha.	Jag känner mig ensam.	sozinha	0	0
+Eu tentei fazer isso, mas não consegui.	Jag försökte göra det, men jag lyckades inte.	consegui	0	0
+Tom e Maria não tinham chance.	Tom och Maria hade inget val.	tinham	0	0
+O meu idioma não está na lista!	Mitt språk är inte med i listan!	lista	0	0
+Alguém no seu escritório fala francês?	Finns det någon på ditt kontor som talar franska?	escritório	0	0
+Tomem cuidado. O chão está escorregadio.	Var försiktiga. Golvet är halt.	chão	0	0
+Tom é perfeito.	Tom är perfekt.	perfeito	0	0
+Ele é meu tio, uma vez que meu pai é irmão dele.	Han är min farbror, eftersom min far är hans bror.	tio	0	0
+O mel é produzido pelas abelhas.	Honung produceras av bin.	pelas	0	0
+Não concordo com você completamente.	Jag håller inte helt och hållet med dig.	completamente	0	0
+Eu não deveria ter contado isso para o Tom.	Jag borde inte ha berättat det för Tom.	deveria	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	vista	0	0
+Escreva um breve texto sobre você.	Skriv en kort text om dig själv.	breve	0	0
+Estes livros são melhores que aqueles.	De här böckerna är bättre än de där.	melhores	0	0
+Porque a devemos ajudar?	Varför måste vi hjälpa henne?	devemos	0	0
+Fiquei com vergonha.	Jag skämdes.	fiquei	0	0
+Ambos estão mortos.	Båda är döda.	mortos	0	0
+Eu acho difícil acreditar que o Tom faria algo assim.	Jag har svårt att tro att Tom skulle göra så.	faria	0	0
+O Tom é forte.	Tom är stark.	tom	0	0
+As bolachas estão debaixo da mesa.	Kakorna är under bordet.	mesa	0	0
+Este problema é muito simples.	Det här problemet är mycket enkelt.	simples	0	0
+Eu definitivamente não iria lá sozinho.	Jag skulle definitivt inte gå dit själv.	iria	0	0
+A capital da Colômbia se chama Bogotá.	Huvudstaden i Colombia heter Bogotá.	chama	0	0
+Isto é uma ordem.	Det här är en order.	ordem	0	0
+Não é fundo o bastante.	Det är inte djupt nog.	fundo	0	0
+Acho que ela está doente. Está com febre.	Jag tror att hon är sjuk. Hon har feber.	doente	0	0
+Felizmente, não morreu no acidente.	Lyckligtvis dog han inte i olyckan.	acidente	0	0
+Eles estão vindo.	De kommer.	vindo	0	0
+Cometi um erro.	Jag begick ett misstag.	erro	0	0
+O nome verdadeiro de Sophia Loren é Sofia Scicolone.	Sophia Lorens riktiga namn är Sofia Scicolone.	verdadeiro	0	0
+Quem foi Jesus Cristo?	Vem var Jesus Kristus?	jesus	0	0
+"Idade?" "16."	”Ålder?” ”16.”	idade	0	0
+Quando foi a última vez que você saiu?	När gick du ut senast?	saiu	0	0
+Tom é meu advogado.	Tom är min advokat.	advogado	0	0
+Ele conhece o prefeito.	Han känner borgmästaren.	conhece	0	0
+Durante a era stalinista, os prisioneiros em campos de concentração se tornaram escravos a serviço do estado.	Under den stalinistiska eran blev fångar i koncentrationsläger slavar i statens tjänst.	serviço	0	0
+Se você ler esta frase, se tornará cego.	Om du läser den här meningen blir du blind.	ler	0	0
+Tom está louco.	Tom är galen.	louco	0	0
+Vocês são bons nisto.	Ni är bra på det här.	bons	0	0
+Fica de olho nele.	Håll ett öga på honom.	nele	0	0
+O Tom tentou abrir a porta.	Tom försökte öppna dörren.	abrir	0	0
+O sol é quente.	Solen är varm.	sol	0	0
+Tom não conseguiu descobrir como abrir a caixa.	Tom kunde inte komma på hur han skulle öppna lådan.	caixa	0	0
+Segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado e domingo são os sete dias da semana.	Måndag, tisdag, onsdag, torsdag, fredag, lördag och söndag är de sju veckodagarna.	sete	0	0
+Te amo.	Jag älskar dej.	amo	0	0
+Estou com dor de garganta e febre.	Jag har ont i halsen och feber.	dor	0	0
+Tom é o dono dessa moradia.	Tom äger den här bostaden.	dessa	0	0
+O passado só será futuro se você torná-lo seu presente.	Dåtiden kommer bara bli framtid om man gör det till sin nutid.	presente	0	0
+Ela não tentou traduzir a carta.	Hon försökte inte att översätta brevet.	carta	0	0
+Eu tenho um barco.	Jag har en båt.	barco	0	0
+Este livro só está disponível em uma loja.	Den här boken finns bara tillgänglig i en affär.	loja	0	0
+Quem luta pode perder, quem não luta já perdeu.	Den som kämpar riskerar att förlora. Den som inte kämpar har redan förlorat.	luta	0	0
+Ele é meu professor.	Han är min lärare.	professor	0	0
+Me sinto tão estúpido.	Jag känner mig så dum.	estúpido	0	0
+Alguns de nossos membros não estavam na reunião.	Några av våra medlemmar var inte på mötet.	reunião	0	0
+Quero me casar com você.	Jag vill gifta mig med dig.	casar	0	0
+Eu posso vê-lo a olho nu.	Det kan jag se med blotta ögat.	olho	0	0
+Tom não conseguiu descobrir como abrir a caixa.	Tom kunde inte lista ut hur han skulle öppna lådan.	conseguiu	0	0
+Quem é normalmente sentado no banco da infâmia?	Vem sitter vanligtvis på åsnebänken?	banco	0	0
+Eu ainda era um estudante naquela época.	Jag var fortfarande student på den tiden.	naquela	0	0
+Deixe o Tom beber o que ele quiser.	Låt Tom dricka vad han vill.	deixe	0	0
+Há muitas cidades nesse país.	Det finns många städer i det här landet.	nesse	0	0
+A União Europeia foi criada com o objetivo de pôr termo às frequentes guerras sangrentas entre países vizinhos, que culminaram na Segunda Guerra Mundial.	EU grundas för att få slut på de blodiga krigen mellan grannländerna, som gång på gång hade orsakat så mycket mänskligt lidande och till slut ledde till andra världskriget.	segunda	0	0
+Comprei este livro em Boston no mês passado.	Jag köpte den här boken i Boston förra månaden.	mês	0	0
+Quantos pedaços de bolo vocês comeram?	Hur många tårtbitar åt du?	quantos	0	0
+Creio que este remédio possa lhe ajudar a tratar de sua doença.	Jag tror att den här medicinen kan hjälpa mot din sjukdom.	creio	0	0
+O papel é branco.	Papper är vitt.	papel	0	0
+Grande parte da ação desse romance passa-se no século X.	En stor del av handlingen i denna roman utspelar sig på 900-talet.	desse	0	0
+O povo exigia respostas.	Folket krävde svar.	povo	0	0
+Eu tentei falar com Tom sobre meus sentimentos.	Jag försökte prata med Tom om mina känslor.	tentei	0	0
+Nós não podemos conversar agora.	Vi kan inte prata nu.	conversar	0	0
+Eu posso vê-lo a olho nu.	Det kan jag se med blotta ögat.	vê-lo	0	0
+Leite é uma bebida popular.	Mjölk är en vanlig dryck.	bebida	0	0
+Sinto-me tão estúpido.	Jag känner mig så dum.	sinto-me	0	0
+É um vinho excelente.	Det är ett utmärkt vin.	excelente	0	0
+Ele voltou ao Japão.	Han åkte tillbaka till Japan.	voltou	0	0
+Ela é a minha namorada.	Hon är min flickvän.	namorada	0	0
+Pobres não são aqueles que tem pouco, mas aqueles que precisam de muito.	Fattig är inte den som har lite utan den som behöver mycket.	precisam	0	0
+Sua carreira na empresa terminou antes de começar.	Hans karriär inom företaget var över innan den hade börjat.	empresa	0	0
+Um minuto tem sessenta segundos.	En minut har sextio sekunder.	segundos	0	0
+A cidade é bela.	Staden är vacker.	bela	0	0
+Ele estava deitado de costas.	Han låg på rygg.	costas	0	0
+Deixei a chave na recepção.	Jag lämnade nyckeln i receptionen.	chave	0	0
+Seria divertido.	Det vore kul.	divertido	0	0
+Você pode escrever na língua que quiser. Em Tatoeba, todas as línguas têm o mesmo valor.	Du får skriva på vilket språk du vill. På Tatoeba är alla språk likvärdiga.	escrever	0	0
+Funciona assim.	Så här fungerar det.	funciona	0	0
+Que surpresa!	Vilken överraskning!	surpresa	0	0
+Ela parecia um anjo.	Hon såg ut som en ängel.	parecia	0	0
+Olhem, uma cobra!	Titta, en orm!	olhem	0	0
+Tom salvou nossas vidas.	Tom räddade våra liv.	vidas	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	começa	0	0
+Seria ótimo.	Det vore utmärkt.	ótimo	0	0
+Algumas das bolas são amarelas.	Några av bollarna är gula.	bolas	0	0
+O Tom trabalha das nove às cinco.	Tom arbetar från nio till fem.	trabalha	0	0
+A guerra é um inferno.	Krig är helvetet.	inferno	0	0
+Nós nem gostamos delas.	Vi tycker inte ens om dem.	delas	0	0
+Falei com ele ontem à noite.	Jag pratade med honom igår kväll.	falei	0	0
+O Tom não diria não.	Tom skulle inte säga nej.	diria	0	0
+Quais línguas você quer aprender?	Vilka språk vill du lära dig?	aprender	0	0
+O que ela está fazendo agora?	Vad gör hon nu?	fazendo	0	0
+Tom encontrou uma nota de cem dólares na rua.	Tom hittade en hundradollarssedel på gatan.	encontrou	0	0
+O sol é quente.	Solen är varm.	quente	0	0
+O preço do ouro flutua diariamente.	Guldpriset ändras dagligen.	ouro	0	0
+Perigo! Alta tensão.	Fara! Högspänning.	perigo	0	0
+Eu perdi ela de vista na multidão.	Jag förlorade henne ur sikte i folksamlingen.	perdi	0	0
+Eu sou coronel.	Jag är en överste.	coronel	0	0
+Nestes últimos dois dias não comi sequer uma migalha de pão, e não dormi, no total, mais que três horas.	På två dagar har jag inte ätit så mycket som en brödsmula, och jag har inte sovet mer än tre timmar totalt.	últimos	0	0
+Eu recebo mais do que a maioria das pessoas aqui.	Jag tjänar mer än de flesta människorna här.	maioria	0	0
+As bolachas estão debaixo da mesa.	Kakorna är under bordet.	debaixo	0	0
+Há poucas pessoas em quem confiar.	Det finns få människor man kan lita på.	confiar	0	0
+Feliz aniversário!	Grattis på födelsedagen!	aniversário	0	0
+A igreja é no meio do vilarejo.	Kyrkan står mitt i byn.	igreja	0	0
+Abre a boca.	Öppna munnen.	abre	0	0
+Nem é carne nem é peixe.	Det är varken kött eller fisk.	carne	0	0
+O Tom tenta.	Tom försöker.	tenta	0	0
+Quantas irmãs o Tom tem?	Hur många systrar har Tom?	quantas	0	0
+Mesmo hoje, a temperatura está abaixo de zero.	Även idag är temperaturen under noll.	abaixo	0	0
+É meu cavalo.	Det är min häst.	cavalo	0	0
+Quais línguas você quer aprender?	Vilka språk vill du lära dig?	quais	0	0
+O filme foi tão triste que todos choraram.	Filmen var så sorglig att alla grät.	triste	0	0
+Esse gato tem um belo pelo.	Den katten har en vacker päls.	belo	0	0
+Bons livros não faltam, pelo contrário, existem em abundância.	Det råder inte brist på bra böcker, tvärtom, de finns i överflöd.	contrário	0	0
+Esta é a minha cerveja.	Det är min öl.	cerveja	0	0
+Se você quiser comprar uma coleira, vá a uma loja de animais.	Om du vill köpa ett koppel, gå till en zooaffär.	animais	0	0
+O Tom tem um cachorro branco.	Tom har en vit hund.	branco	0	0
+Ela não tentou traduzir a carta.	Hon försökte inte att översätta brevet.	tentou	0	0
+Você se sente culpado?	Känner du dig skyldig?	sente	0	0
+Eu falo japonês, inglês e francês.	Jag talar japanska, engelska och franska.	falo	0	0
+Saúde!	Skål!	saúde	0	0
+É perigoso caminhar sobre o gelo.	Det är farligt att gå på isen.	perigoso	0	0
+Ela não é tão inteligente quanto você.	Hon är inte lika intelligent som du.	inteligente	0	0
+Só tem ideias estúpidas.	Du har bara dumma idéer.	ideias	0	0
+Não, irei de ônibus.	Nej, jag kommer att åka buss.	irei	0	0
+Roubar é errado.	Det är fel att stjäla.	roubar	0	0
+No ano passado, ele passou três meses no mar.	Förra året spenderade han tre månader ute i havet.	mar	0	0
+É uma pena que vocês não saibam dançar.	Det är synd att ni inte kan dansa.	dançar	0	0
+Há também um risco muito grande de acidentes.	Det finns också en mycket stor olycksrisk.	risco	0	0
+Meu coração parou de bater.	Mitt hjärta slutade slå.	bater	0	0
+Tom disse algo em francês que eu não pude entender.	Tom sa något på franska som jag inte förstod.	entender	0	0
+Não vou aceitar esses presentes.	Jag kommer inte att ta emot de presenterna.	aceitar	0	0
+A América está de volta!	Amerika är tillbaka!	américa	0	0
+Tom perdeu três filhos na guerra.	Tom förlorade tre söner i kriget.	perdeu	0	0
+Vou comprar um rato novo para o computador.	Jag ska köpa en ny datormus.	computador	0	0
+A entrada ao banheiro está muito suja.	Ingången till toaletten är mycket smutsig.	entrada	0	0
+Os pais de Mary são muito rígidos.	Marys föräldrar är mycket stränga.	mary	0	0
+A propósito, vocês podem me chamar de Tom.	Förresten, ni kan kalla mig Tom.	propósito	0	0
+Como se chamava o menino?	Vad hette pojken?	menino	0	0
+A capital da Albânia chama-se Tirana.	Albaniens huvudstad heter Tirana.	chama-se	0	0
+Dê um beijo no papai.	Ge pappa en puss.	dê	0	0
+Dei ao Tom algo para comer.	Jag gav Tom något att äta.	dei	0	0
+A dor foi terrível.	Smärtan var fruktansvärd.	terrível	0	0
+No princípio Deus criou os céus e a terra.	I begynnelsen skapade Gud himmel och jord.	céus	0	0
+Abençoados sejam aqueles que não têm talento!	Välsignade är de som saknar talang!	sejam	0	0
+Um vizinho ouviu o Tom gritando.	En granne hörde Tom skrika.	ouviu	0	0
+Holandês e sueco parecem ser idiomas muito fáceis de se aprender.	Holländska och svenska verkar vara språk som är mycket lätta att lära sig.	parecem	0	0
+Eu segui o exemplo de Tom.	Jag följde Toms exempel.	exemplo	0	0
+Ele soltou a corda e caiu no rio.	Han släppte repet och föll ner i floden.	rio	0	0
+Tenho três irmãos.	Jag har tre bröder.	irmãos	0	0
+Tom ainda não pediu desculpas a Mary.	Tom har inte bett Mary om ursäkt än.	pediu	0	0
+Há um telefone na cozinha.	Det finns en telefon i köket.	cozinha	0	0
+O gato é negro.	Katten är svart.	negro	0	0
+Deixei a chave na recepção.	Jag lämnade nyckeln i receptionen.	deixei	0	0
+O preço do ouro flutua diariamente.	Guldpriset ändras dagligen.	preço	0	0
+Tom é um lobo em pele de cordeiro.	Tom är en ulv i fårakläder.	pele	0	0
+Bons livros não faltam, pelo contrário, existem em abundância.	Det råder inte brist på bra böcker, tvärtom, de finns i överflöd.	existem	0	0
+Café ou chá?	Kaffe eller te?	chá	0	0
+Temos vinho.	Vi har vin.	vinho	0	0
+Eu acabo de lavar a louça e agora preciso tirar o lixo.	Jag har just diskat och nu måste jag slänga soporna.	lixo	0	0
+Você já enviou o relatório?	Har du skickat rapporten?	relatório	0	0
+Perigo! Alta tensão.	Fara! Högspänning.	alta	0	0
+Ele comprou um par de sapatos.	Han köpte ett par skor.	par	0	0
+Bill mora perto da praia.	Bill bor nära stranden.	bill	0	0
+Ela queria saber se o fotógrafo poderia remover o chapéu da fotografia.	Hon ville veta om fotografen kunde ta bort hatten från bilden.	fotografia	0	0
+Meu braço ainda dói.	Jag har fortfarande ont i armen.	braço	0	0
+Te desejo tudo de bom.	Jag önskar dig allt gott.	desejo	0	0
+Meu pai já tinha ido uma vez à Grécia.	Min far hade redan varit en gång i Grekland.	ido	0	0
+Pedi a ajuda do Tom.	Jag bad Tom om hjälp.	pedi	0	0
+Bons livros não faltam, pelo contrário, existem em abundância.	Det råder inte brist på bra böcker, tvärtom, de finns i överflöd.	livros	0	0
+Traz os teus filhos.	Ta med dig barnen.	traz	0	0
+A garrafa está cheia de água.	Flaskan är full av vatten.	cheia	0	0
+Você ama seus filhos?	Älskar du dina barn?	ama	0	0
+Geralmente vou para cama às nove.	Vanligtvis går jag och lägger mig vid nio.	nove	0	0
+Por que será que nossos cabelos ficam brancos quando envelhecemos, mas os pelos dos animais não?	Hur kommer det sig att vårt hår grånar när vi åldras, men inte djurpälsar?	ficam	0	0
+Tom costumava escrever músicas para mim.	Tom brukade skriva sånger åt mig.	costumava	0	0
+Tu tens uma boa memória.	Du har ett bra minne.	memória	0	0
+Ele comprou um par de sapatos.	Han köpte ett par skor.	sapatos	0	0
+Ele perdoou seu inimigo.	Han förlät sin fiende.	inimigo	0	0
+Eu tenho estado muito ocupado ultimamente.	Jag har varit väldigt upptagen på sistone.	ocupado	0	0
+Eles já estiveram aqui várias vezes.	De har redan varit här flera gånger.	várias	0	0
+Ele não tem tempo de jogar cartas.	Han har inte tid för att spela kort.	cartas	0	0
+Achille nasceu em 1908 em Paris.	Achille föddes år 1908 i Paris.	paris	0	0
+A serpente devorou o cachorro inteiro.	Ormen slukade hunden med hull och hår.	inteiro	0	0
+É perigoso caminhar sobre o gelo.	Det är farligt att gå på isen.	gelo	0	0
+Bem-vindo!	Välkommen!	bem-vindo	0	0
+Estava chovendo quando cheguei.	Det regnade när jag kom fram.	cheguei	0	0
+Ele esvaziou o copo de um só gole.	Han tömde glaset med en enda klunk.	copo	0	0
+O teto da minha casa é vermelho.	Taket på mitt hus är rött.	vermelho	0	0
+Seu apoio significa muito para mim.	Ditt stöd betyder mycket för mig.	apoio	0	0
+Ele não conseguia parar de rir.	Han kunde inte sluta skratta.	conseguia	0	0
+Que irmão vocês viram?	Vilken bror såg ni?	viram	0	0
+Arte não tem limites.	Konst har inga gränser.	arte	0	0
+A festa foi um grande sucesso.	Festen var en stor succé.	sucesso	0	0
+Adoro o cheiro do café de manhã.	Jag älskar lukten av kaffe om morgonen.	cheiro	0	0
+Tom era meu herói.	Tom var min hjälte.	herói	0	0
+Isto está escrito em inglês.	Detta är skrivet på engelska.	inglês	0	0
+Por favor, fale devagar.	Var snäll och tala långsamt.	devagar	0	0
+Estamos de férias.	Vi är på semester.	férias	0	0
+Eles estão levando Mary para a sala de emergência.	De är på väg med Mary till akuten.	emergência	0	0
+Por causa de suas origens, o inglês canadense tem características de ambos o inglês americano e britânico.	På grund av sitt ursprung, har den kanadensiska engelskan drag av både amerikansk och brittisk engelska.	americano	0	0
+Fiquei com vergonha.	Jag skämdes.	vergonha	0	0
+Ele caiu em um poço sem fundo.	Han föll ner i den bottenlösa gropen.	caiu	0	0
+Se eu fosse um animal, seria um gato.	Om jag vore ett djur skulle jag vara en katt.	animal	0	0
+Agora estou com dinheiro — 100 euros em cédulas. Agora vou tentar achar a farmácia antes de voltar. Por favor, senhora, onde é que eu encontro a farmácia?	Nu har jag pengar — 100 euro i kontanter. Nu ska jag försöka att hitta apoteket innan jag går tillbaka. Ursäkta mig, frun, var kan jag hitta apoteket?	achar	0	0
+Minha perna dói.	Jag har ont i benet.	perna	0	0
+Tom ainda não pediu desculpas a Mary.	Tom har inte bett Mary om ursäkt än.	desculpas	0	0
+O que é aquele edifício?	Vad är det för byggnad?	edifício	0	0
+Obrigado por terem vindo.	Tack för att ni kom.	terem	0	0
+É possível que eu tenha esquecido as minhas chaves.	Det är möjligt att jag har glömt mina nycklar.	chaves	0	0
+Nunca gostei do Tom.	Jag har aldrig gillat Tom.	gostei	0	0
+Estou falando sério.	Jag menar det på allvar.	falando	0	0
+Eu não posso imaginar a vida sem você.	Jag kan inte tänka mig livet utan dig.	imaginar	0	0
+Quem é normalmente sentado no banco da infâmia?	Vem sitter vanligtvis på åsnebänken?	normalmente	0	0
+Você pode escrever na língua que quiser. Em Tatoeba, todas as línguas têm o mesmo valor.	Du får skriva på vilket språk du vill. På Tatoeba är alla språk likvärdiga.	valor	0	0
+O verde é a minha cor favorita.	Grönt är min favoritfärg.	cor	0	0
+Escrevi muitas histórias.	Jag har skrivit många historier.	histórias	0	0
+Eu terei a minha vingança.	Jag kommer att få min hämnd.	terei	0	0
+Estou em Londres.	Jag är i London.	londres	0	0
+Não sou um soldado.	Jag är ingen soldat.	soldado	0	0
+As crianças encontraram os presentes de Natal escondidos em baixo da cama.	Barnen fann julklapparna gömda under sängen.	encontraram	0	0
+Falas português?	Talar du portugisiska?	falas	0	0
+Por favor, fale devagar.	Var snäll och tala långsamt.	fale	0	0
+A maçã está doce.	Äpplet är sött.	doce	0	0
+Por favor, dê-me um Dagens Nyheter, também.	Var snäll och ge mig en Dagens Nyheter också.	dê-me	0	0
+Onde eu posso comprar um desses?	Var kan jag köpa en sån?	desses	0	0
+Ela era jovem e inocente.	Hon var ung och oskyldig.	inocente	0	0
+Eu prefiro conversar em alemão.	Jag föredrar att prata på tyska.	prefiro	0	0
+Esta faca está bem afiada.	Den här kniven är mycket vass.	faca	0	0
+Eu os matei.	Jag dödade dem.	matei	0	0
+Eu vou voar para Hanói amanhã.	Jag flyger till Hanoi imorgon.	voar	0	0
+Sua carreira na empresa terminou antes de começar.	Hans karriär inom företaget var över innan den hade börjat.	carreira	0	0
+Eles gostam de ficar sozinhos.	De tycker om att vara ensamma.	gostam	0	0
+A árvore adquiriu as cores mais bonitas!	Trädet fick de vackraste färger!	árvore	0	0
+Tom não se importa com o que acontece com o seu antigo carro.	Tom bryr sig inte om vad som händer med hans gamla bil.	antigo	0	0
+Deus criou o homem à Sua própria imagem; Deus é um guerreiro.	Gud skapade människan i Sin egen avbild; Gud är en krigare.	imagem	0	0
+Que flores maravilhosas!	Vilka underbara blommor!	flores	0	0
+Creio que este remédio possa lhe ajudar a tratar de sua doença.	Jag tror att den här medicinen kan hjälpa mot din sjukdom.	doença	0	0
+Ninguém vai sobreviver.	Ingen kommer att överleva.	sobreviver	0	0
+Eu tenho um gato preto.	Jag har en svart katt.	preto	0	0
+Esta cadeira é muito confortável.	Den här stolen är mycket bekväm.	cadeira	0	0
+Nem é carne nem é peixe.	Det är varken kött eller fisk.	peixe	0	0
+Por que você está tomando o partido dele?	Varför tar du hans parti?	partido	0	0
+Eu espero que vocês duas estejam felizes.	Jag hoppas att ni två är lyckliga.	felizes	0	0
+Eu tenho um gato preto.	Jag har en svart katt.	gato	0	0
+Eu nunca li o livro.	Jag har aldrig läst boken.	li	0	0
+Eu já procurei em todos os lugares.	Jag har redan letat överallt.	lugares	0	0
+Ele come.	Han äter.	come	0	0
+Eu ouvi um barulho.	Jag hörde ett ljud.	barulho	0	0
+O Tomás olha para as estrelas.	Tomas tittar på stjärnorna.	estrelas	0	0
+Vou pedir a John que repare meu relógio.	Jag ska be John att laga min klocka.	relógio	0	0
+O verde é a minha cor favorita.	Grönt är min favoritfärg.	verde	0	0
+Nestes últimos dois dias não comi sequer uma migalha de pão, e não dormi, no total, mais que três horas.	På två dagar har jag inte ätit så mycket som en brödsmula, och jag har inte sovet mer än tre timmar totalt.	total	0	0
+Eu acho que o Tom e a Maria estão mentindo.	Jag tror att både Tom och Mary ljuger.	maria	0	0
+Você se sente culpado?	Känner du dig skyldig?	culpado	0	0
+Bill mora perto da praia.	Bill bor nära stranden.	praia	0	0
+O Japonês não é uma língua indo-européia.	Japanska är inte ett indo-europeiskt språk.	língua	0	0
+Oi.	Hej.	oi	0	0
+Você é perfeita!	Du är perfekt!	perfeita	0	0
+Se ninguém sabe o que vem a seguir, ninguém ficará desapontado.	Om ingen vet vad som kommer härnäst, blir ingen besviken.	ficará	0	0
+Quem foi Jesus Cristo?	Vem var Jesus Kristus?	cristo	0	0
+Eu ainda era um estudante naquela época.	Jag var fortfarande student på den tiden.	época	0	0
+Eu dou aula há mais de 15 anos.	Jag har undervisat i över 15 år.	dou	0	0
+Eu tentei falar com Tom sobre meus sentimentos.	Jag försökte prata med Tom om mina känslor.	sentimentos	0	0
+Pense sobre o seu futuro.	Tänk på din framtid.	pense	0	0
+Um pequeno vazamento pode naufragar um grande navio.	En liten läcka kan sänka ett stort skepp.	navio	0	0
+Ela pode nos ajudar a escapar.	Hon kan hjälpa oss rymma.	escapar	0	0
+Quero ir aos EUA um dia.	Jag vill åka till USA en dag.	eua	0	0
+Eu dou aula há mais de 15 anos.	Jag har undervisat i över 15 år.	aula	0	0
+A estupidez humana é sem limites.	Mänsklig dumhet har inga gränser.	humana	0	0
+Tom está trinta minutos atrasado.	Tom är trettio minuter sen.	atrasado	0	0
+Eu nasci com doze dedos.	Jag föddes med tolv fingrar.	dedos	0	0
+Ele não conseguia parar de rir.	Han kunde inte sluta skratta.	rir	0	0
+Tom é o dono dessa moradia.	Tom äger den här bostaden.	dono	0	0
+Estou sempre muito nervoso.	Jag är alltid väldigt nervös.	nervoso	0	0
+A princesa foi comida pelo tubarão.	Prinsessan blev uppäten av hajen.	princesa	0	0
+Mary dormiu com um colega de trabalho.	Mary låg med en jobbarkompis.	colega	0	0
+Ele está lendo o jornal.	Han läser tidningen.	jornal	0	0
+Se chover amanhã, nós não iremos à praia.	Om det regnar imorgon så går vi inte till stranden.	iremos	0	0
+Quem é normalmente sentado no banco da infâmia?	Vem sitter vanligtvis på åsnebänken?	sentado	0	0
+As luzes se acendem quando se bate palmas.	Ljusen tänds när man klappar.	luzes	0	0
+Para onde será que Tom está indo?	Vart kan Tom vara på väg?	indo	0	0
+Como eu pude ser tão estúpida?	Hur kunde jag ha varit så dum?	estúpida	0	0
+A porta está aberta.	Dörren är öppen.	aberta	0	0
+Um litro de leite contém aproximadamente trinta gramas de proteína.	En liter mjölk innehåller ungefär trettio gram protein.	leite	0	0
+A escola é uma perda de tempo.	Skolan är ett slöseri med tid.	perda	0	0
+Ela me perguntou pelo resultado do exame.	Hon frågade mig om provresultatet.	resultado	0	0
+O príncipe quer um cavalo branco.	Prinsen vill ha en vit häst.	príncipe	0	0
+Não concordo com você completamente.	Jag håller inte helt och hållet med dig.	concordo	0	0
+Um fantasma está olhando para mim.	Ett spöke tittar på mig.	fantasma	0	0
+Nós não temos segredos.	Vi har inga hemligheter.	segredos	0	0
+Dê um beijo no papai.	Ge pappa en puss.	beijo	0	0
+Tom não conhecia a Mary.	Tom kände inte Mary.	conhecia	0	0
+A garrafa está cheia de água.	Flaskan är full av vatten.	garrafa	0	0
+Quantos pedaços de bolo vocês comeram?	Hur många tårtbitar åt du?	bolo	0	0
+A propriedade é um roubo.	Egendom är stöld.	propriedade	0	0
+Vamos jogar futebol hoje.	Låt oss spela fotboll i dag.	futebol	0	0
+Quanto custa esse chapéu?	Hur mycket kostar denna hatt?	chapéu	0	0
+Eu terei a minha vingança.	Jag ska ha min hämnd.	vingança	0	0
+Foi difícil estudar islandês.	Det var svårt att studera isländska.	estudar	0	0
+A cidade foi atacada por muitos inimigos.	Staden anfölls av många fiender.	inimigos	0	0
+Onde está o aeroporto?	Var är flygplatsen?	aeroporto	0	0
+Como eu pude ser tão estúpida?	Hur kunde jag ha varit så dum?	pude	0	0
+Não tente fazer duas coisas ao mesmo tempo.	Försök inte göra två saker samtidigt.	tente	0	0
+O Universo é um mistério.	Universum är ett mysterium.	universo	0	0
+Somos da França.	Vi är från Frankrike.	frança	0	0
+Não está vendo que Tom não está interessado?	Ser du inte att Tom inte är intresserad?	interessado	0	0
+O povo exigia respostas.	Folket krävde svar.	respostas	0	0
+Ele me contou uma história triste.	Han berättade en sorglig historia för mig.	contou	0	0
+Tom nunca bebe álcool.	Tom dricker aldrig alkohol.	bebe	0	0
+A enfermeira me vacinou.	Sjuksköterskan vaccinerade mig.	enfermeira	0	0
+Acho que ele estava zangado.	Jag tror att han var arg.	zangado	0	0
+Eu espero que vocês duas estejam felizes.	Jag hoppas att ni två är lyckliga.	estejam	0	0
+Ela estava com pressa.	Hon hade bråttom.	pressa	0	0
+Você estava ferido?	Gjorde du dig illa?	ferido	0	0
+Tom escreveu um livro.	Tom har skrivit en bok.	escreveu	0	0
+É um primo meu.	Det är en kusin till mig.	primo	0	0
+Eu fui à escola andando.	Jag gick till skolan till fots.	andando	0	0
+Eu tenho estado muito ocupado ultimamente.	Jag har varit väldigt upptagen på sistone.	ultimamente	0	0
+Alguns de nossos membros não estavam na reunião.	Några av våra medlemmar var inte på mötet.	membros	0	0
+O médico aconselhou-o a parar de fumar.	Läkaren rådde honom att sluta röka.	fumar	0	0
+Os seus ovos estão ficando frios.	Dina ägg kallnar.	ovos	0	0
+Abra a boca.	Öppna munnen.	abra	0	0
+Meu padrinho me deu aquela camisa vermelha.	Min gudfar gav mig den där röda skjortan.	camisa	0	0
+Quero viajar fora.	Jag vill åka utomlands.	viajar	0	0
+Nos vemos amanhã?	Ses vi i morgon?	vemos	0	0
+O Tom é um idiota útil.	Tom är en nyttig idiot.	útil	0	0
+Há uma tempestade a caminho.	Det är en storm på väg.	tempestade	0	0
+Você lembra que horas você acordou de manhã?	Minns du när du vaknade i morse?	lembra	0	0
+A neve já se derreteu?	Har snön redan smält?	neve	0	0
+Isto está escrito em inglês.	Detta är skrivet på engelska.	escrito	0	0
+Segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado e domingo são os sete dias da semana.	Måndag, tisdag, onsdag, torsdag, fredag, lördag och söndag är de sju dagarna i veckan.	sábado	0	0
+Se você acha que vai aprender a falar inglês apenas por ir à América, você está redondamente enganado.	Om du tror att du lär dig att prata engelska bara för att du åker till USA, är du helt fel ute.	enganado	0	0
+O que você está tentando fazer?	Vad är det du försöker göra?	tentando	0	0
+Este prédio era um banco antigamente.	Den här byggnaden var en bank förut.	prédio	0	0
+Eles começaram há pouco tempo.	De började för ett tag sen.	começaram	0	0
+Eu definitivamente não iria lá sozinho.	Jag skulle definitivt inte gå dit själv.	definitivamente	0	0
+O preço do ouro muda diariamente.	Guldpriset ändras dagligen.	muda	0	0
+Sem oxigênio, muitos animais teriam desaparecido há muito tempo.	Utan syre skulle många djur ha försvunnit för länge sedan.	desaparecido	0	0
+Ela parecia um anjo.	Hon såg ut som en ängel.	anjo	0	0
+Ele está apaixonado por ela.	Han är förälskad i henne.	apaixonado	0	0
+Pegamos o ladrão.	Vi fångade tjuven.	ladrão	0	0
+Nestes últimos dois dias não comi sequer uma migalha de pão, e não dormi, no total, mais que três horas.	På två dagar har jag inte ätit så mycket som en brödsmula, och jag har inte sovet mer än tre timmar totalt.	pão	0	0
+Não há balas nesta pistola.	Det finns inga kulor i den här pistolen.	balas	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	comunidade	0	0
+O que facilmente se ganha, facilmente se perde.	Lätt fånget, lätt förgånget.	ganha	0	0
+Quando a loja fecha?	När stänger butiken?	fecha	0	0
+Ele pôs fogo na escola.	Han tände eld på skolan.	pôs	0	0
+Será um exame difícil?	Kommer det att vara ett svårt prov?	exame	0	0
+Tom destruiu o castelo de areia das crianças.	Tom förstörde barnens sandslott.	castelo	0	0
+Eu acabo de lavar a louça e agora preciso tirar o lixo.	Jag har just diskat och nu måste jag slänga soporna.	lavar	0	0
+Quanto custa esse chapéu?	Hur mycket kostar denna hatt?	custa	0	0
+Mesmo hoje, a temperatura está abaixo de zero.	Även idag är temperaturen under noll.	zero	0	0
+No princípio Deus criou os céus e a terra.	I begynnelsen skapade Gud himmel och jord.	princípio	0	0
+Não é um vírus.	Det är inte ett virus.	vírus	0	0
+Meu braço ainda dói.	Jag har fortfarande ont i armen.	dói	0	0
+A União Europeia foi criada com o objetivo de pôr termo às frequentes guerras sangrentas entre países vizinhos, que culminaram na Segunda Guerra Mundial.	EU grundas för att få slut på de blodiga krigen mellan grannländerna, som gång på gång hade orsakat så mycket mänskligt lidande och till slut ledde till andra världskriget.	mundial	0	0
+A intenção foi boa.	Avsikten var god.	intenção	0	0
+Segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado e domingo são os sete dias da semana.	Måndag, tisdag, onsdag, torsdag, fredag, lördag och söndag är veckans sju dagar.	domingo	0	0
+Tom encontrou uma nota de cem dólares na rua.	Tom hittade en hundradollarssedel på gatan.	nota	0	0
+Cuidado! É uma armadilha!	Se upp! Det är en fälla!	armadilha	0	0
+Numerosas pessoas só falam uma língua.	Många människor talar bara ett språk.	falam	0	0
+Detesto alturas.	Jag avskyr höjder.	detesto	0	0
+Eu gosto de queijo.	Jag tycker om ost.	queijo	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	tendo	0	0
+A propriedade é um roubo.	Egendom är stöld.	roubo	0	0
+Falo luxemburguês, alemão, francês e inglês.	Jag pratar luxemburgiska, tyska, franska och engelska.	francês	0	0
+Vocês devem ajudá-la.	Du måste hjälpa henne.	ajudá-la	0	0
+Eles gostam de ficar sozinhos.	De tycker om att vara ensamma.	sozinhos	0	0
+Tom tirou uma de suas luvas.	Tom tog av en av sina handskar.	tirou	0	0
+O Dr. Smith tem muitos pacientes.	Doktor Smith har många patienter.	pacientes	0	0
+Tom encontrou uma nota de cem dólares na rua.	Tom hittade en hundradollarssedel på gatan.	cem	0	0
+Comprei este livro em Boston no mês passado.	Jag köpte den här boken i Boston förra månaden.	comprei	0	0
+Meu cachorro comeu minha lição de casa.	Min hund åt min läxa.	lição	0	0
+Tom e Maria não tinham chance.	Tom och Maria hade inget val.	chance	0	0
+A África é o berço da humanidade.	Afrika är mänsklighetens vagga.	humanidade	0	0
+A Ucrânia decreta mobilização geral.	Ukraina påbjöds allmän mobilisering.	geral	0	0
+Estamos bebendo chá enquanto esperamos.	Vi dricker te medan vi väntar.	esperamos	0	0
+Qual é a localização deles?	Var befinner de sig?	localização	0	0
+Ele cometeu suicídio.	Han begick självmord.	suicídio	0	0
+Ele soltou a corda e caiu no rio.	Han släppte repet och föll ner i floden.	corda	0	0
+Tom nunca bebe álcool.	Tom dricker aldrig alkohol.	álcool	0	0
+Deixei minha carteira no carro.	Jag lämnade min plånbok i bilen.	carteira	0	0
+Meu padrinho me deu aquela camisa vermelha.	Min gudfar gav mig den där röda skjortan.	vermelha	0	0
+Tom tem talento.	Tom har talang.	talento	0	0
+Meu coração parou de bater.	Mitt hjärta slutade slå.	parou	0	0
+Grande parte da ação desse romance passa-se no século X.	En stor del av handlingen i denna roman utspelar sig på 900-talet.	século	0	0
+Ele nasceu na Suiça.	Han är född i Schweiz.	nasceu	0	0
+Ambas estão mortas.	Båda är döda.	ambas	0	0
+Tom não conseguiu ligar o motor.	Tom kunde inte få igång motorn.	motor	0	0
+O Tom parece chateado.	Tom ser besvärad ut.	chateado	0	0
+Tom parece estar de bom humor hoje.	Tom verkar vara på gott humör idag.	humor	0	0
+Isso é nojento!	Det är äckligt!	nojento	0	0
+Você já enviou o relatório?	Har du skickat rapporten?	enviou	0	0
+A guerra terminou em 1945.	Kriget slutade 1945.	terminou	0	0
+Ele estava deitado no sofá.	Han låg på soffan.	sofá	0	0
+Eu tenho dois irmãos e duas irmãs.	Jag har två bröder och två systrar.	irmãs	0	0
+Não vou aceitar esses presentes.	Jag kommer inte att ta emot de presenterna.	presentes	0	0
+O Dr. Smith tem muitos pacientes.	Doktor Smith har många patienter.	smith	0	0
+Envie esta carta pelo correio.	Posta det här brevet.	correio	0	0
+O Robin é amigo do Batman.	Robin är Batmans vän.	robin	0	0
+Quando ele chegar nós começamos.	När han kommer börjar vi.	começamos	0	0
+Esta cadeira é muito confortável.	Den här stolen är mycket bekväm.	confortável	0	0
+Foi um pesadelo.	Det var en mardröm.	pesadelo	0	0
+O que facilmente se ganha, facilmente se perde.	Lätt fånget, lätt förgånget.	facilmente	0	0
+Estou com dor de garganta e febre.	Jag har ont i halsen och feber.	garganta	0	0
+Por que será que nossos cabelos ficam brancos quando envelhecemos, mas os pelos dos animais não?	Hur kommer det sig att vårt hår grånar när vi åldras, men inte djurpälsar?	brancos	0	0
+Tom está bravo com você.	Tom är arg på dig.	bravo	0	0
+Isso aconteceu somente há um ano atrás.	Det var bara ett år sedan.	somente	0	0
+Onde é que ele comprou isto?	Var köpte han den här?	comprou	0	0
+Tom não gosta do inverno.	Tom tycker inte om vinter.	inverno	0	0
+A União Europeia foi criada com o objetivo de pôr termo às frequentes guerras sangrentas entre países vizinhos, que culminaram na Segunda Guerra Mundial.	EU grundas för att få slut på de blodiga krigen mellan grannländerna, som gång på gång hade orsakat så mycket mänskligt lidande och till slut ledde till andra världskriget.	vizinhos	0	0
+As luzes se acendem quando se bate palmas.	Ljusen tänds när man klappar.	bate	0	0
+Um espelho reflete a luz.	En spegel reflekterar ljus.	espelho	0	0
+Arte não tem limites.	Konst har inga gränser.	limites	0	0
+Sou um garoto.	Jag är en pojke.	garoto	0	0
+Vou comprar um rato novo para o computador.	Jag ska köpa en ny datormus.	rato	0	0
+Ela provavelmente virá.	Hon kommer förmodligen.	virá	0	0
+Funcionou?	Fungerade det?	funcionou	0	0
+Eles já estiveram aqui várias vezes.	De har redan varit här flera gånger.	estiveram	0	0
+Tom nem percebeu que eu estava lá.	Tom märkte inte ens att jag var där.	percebeu	0	0
+Não está vendo que Tom não está interessado?	Ser du inte att Tom inte är intresserad?	vendo	0	0
+Alison não sabe cozinhar.	Alison kan inte laga mat.	cozinhar	0	0
+O mundo é uma nação.	Världen är en nation.	nação	0	0
+Vocês estão na biblioteca?	Är ni på biblioteket?	biblioteca	0	0
+Ele a amava muito.	Han älskade henne väldigt mycket.	amava	0	0
+Ela me perguntou pelo resultado do exame.	Hon frågade mig om provresultatet.	perguntou	0	0
+A África é o berço da humanidade.	Afrika är mänsklighetens vagga.	áfrica	0	0
+Pobres não são aqueles que tem pouco, mas aqueles que precisam de muito.	Fattig är inte den som har lite utan den som behöver mycket.	pobres	0	0
+O Tom não tem falado desde ontem.	Tom har inte sagt något sen igår.	falado	0	0
+Bons livros não faltam, pelo contrário, existem em abundância.	Det råder inte brist på bra böcker, tvärtom, de finns i överflöd.	faltam	0	0
+O mel é produzido pelas abelhas.	Honung produceras av bin.	mel	0	0
+Durante a era stalinista, os prisioneiros em campos de concentração se tornaram escravos a serviço do estado.	Under den stalinistiska eran blev fångar i koncentrationsläger slavar i statens tjänst.	prisioneiros	0	0
+Me chamo Dušana.	Jag heter Dušana.	chamo	0	0
+Ele gosta de doces.	Han tycker om godsaker.	doces	0	0
+Não vou almoçar com o Tom.	Jag tänker inte äta lunch med Tom.	almoçar	0	0
+Estou morrendo de sono mas não quero ir dormir.	Jag är jättetrött men vill inte gå och lägga mig.	sono	0	0
+Eu conheço o seu verdadeiro nome e sei onde mora.	Jag vet vad han heter på riktigt och var han bor.	mora	0	0
+O Sr. Nakamura está em casa.	Herr Nakamura är hemma.	sr	0	0
+Tom destruiu o castelo de areia das crianças.	Tom förstörde barnens sandslott.	areia	0	0
+Há poucas pessoas em quem confiar.	Det finns få människor man kan lita på.	poucas	0	0
+Tom não gostou muito do sabor.	Tom tyckte inte mycket om smaken.	gostou	0	0
+Ele bateu à porta.	Han knackade på dörren.	bateu	0	0
+Eu prefiro conversar em alemão.	Jag föredrar att prata på tyska.	alemão	0	0
+Deus criou o homem à Sua própria imagem; Deus é um guerreiro.	Gud skapade människan i Sin egen avbild; Gud är en krigare.	criou	0	0
+Tom é um lobo em pele de cordeiro.	Tom är en ulv i fårakläder.	lobo	0	0
+É extremamente importante.	Det är extremt viktigt.	extremamente	0	0
+Bem-vinda!	Välkommen!	bem-vinda	0	0
+É possível que eu tenha esquecido as minhas chaves.	Det är möjligt att jag har glömt mina nycklar.	esquecido	0	0
+Vivemos em uma bela cidade.	Vi bor i en vacker stad.	vivemos	0	0
+O Universo é um mistério.	Universum är ett mysterium.	mistério	0	0
+Eu vou para a Alemanha no ano que vem.	Jag ska till Tyskland nästa år.	alemanha	0	0
+Traga-me uma toalha seca.	Hämta en torr handduk till mig.	seca	0	0
+Ainda bem que todos os passageiros estavam usando cintos de segurança.	Tack och lov att alla passagerarna hade på sig säkerhetsbälten.	usando	0	0
+Eu não te escrevi.	Jag skrev inte till dig.	escrevi	0	0
+Trabalhas esta noite?	Jobbar du ikväll?	trabalhas	0	0
+Quero ir ao exterior.	Jag vill åka utomlands.	exterior	0	0
+Nestes últimos dois dias não comi sequer uma migalha de pão, e não dormi, no total, mais que três horas.	På två dagar har jag inte ätit så mycket som en brödsmula, och jag har inte sovet mer än tre timmar totalt.	nestes	0	0
+Dê um beijo no papai.	Ge pappa en puss.	papai	0	0
+Se ler esta frase, você se tornará cego.	Om du läser den här meningen blir du blind.	cego	0	0
+Os anos 1950 são caracterizados por uma guerra fria entre o Oriente e o Ocidente.	1950-talet karakteriseras av ett kallt krig mellan östblocket och västmakterna.	fria	0	0
+Nós sabíamos que o Tom venceria.	Vi visste att Tom skulle vinna.	sabíamos	0	0
+Tom salvou nossas vidas.	Tom räddade våra liv.	salvou	0	0
+Há muitas cidades nesse país.	Det finns många städer i det här landet.	cidades	0	0
+Leite é uma bebida popular.	Mjölk är en vanlig dryck.	popular	0	0
+Grande parte da ação desse romance passa-se no século X.	En stor del av handlingen i denna roman utspelar sig på 900-talet.	passa-se	0	0
+Segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado e domingo são os sete dias da semana.	Måndag, tisdag, onsdag, torsdag, fredag, lördag och söndag är veckans sju dagar.	sexta-feira	0	0
+A UE tem 24 línguas oficiais.	EU har 24 officiella språk.	oficiais	0	0
+Durante a era stalinista, os prisioneiros em campos de concentração se tornaram escravos a serviço do estado.	Under den stalinistiska eran blev fångar i koncentrationsläger slavar i statens tjänst.	campos	0	0
+Este livro só está disponível em uma loja.	Den här boken finns bara tillgänglig i en affär.	disponível	0	0
+Quantos pedaços de bolo vocês comeram?	Hur många tårtbitar åt du?	pedaços	0	0
+Tu és feio.	Du är ful.	feio	0	0
+Você quer assistir um filme sábado à noite?	Vill du se en film på lördag kväll?	assistir	0	0
+Não há balas nesta pistola.	Det finns inga kulor i den här pistolen.	pistola	0	0
+Mesmo hoje, a temperatura está abaixo de zero.	Även idag är temperaturen under noll.	temperatura	0	0
+A árvore adquiriu as cores mais bonitas!	Trädet fick de vackraste färger!	bonitas	0	0
+Responda às seguintes questões.	Svara på följande frågor.	responda	0	0
+Acho que ela está doente. Está com febre.	Jag tror att hon är sjuk. Hon har feber.	febre	0	0
+A água ferve aos 100 graus Celsius.	Vatten kokar vid 100 grader Celsius.	graus	0	0
+Olhem, uma cobra!	Titta, en orm!	cobra	0	0
+Sem oxigênio, muitos animais teriam desaparecido há muito tempo.	Utan syre skulle många djur ha försvunnit för länge sedan.	teriam	0	0
+Onde vocês trabalham?	Var arbetar ni?	trabalham	0	0
+Eu acabo de lavar a louça e agora preciso tirar o lixo.	Jag har just diskat och nu måste jag slänga soporna.	acabo	0	0
+Tom é um péssimo padrasto.	Tom är en usel styvfar.	péssimo	0	0
+Nós nem gostamos delas.	Vi tycker inte ens om dem.	gostamos	0	0
+Não quero morar em Boston.	Jag vill inte bo i Boston.	boston	0	0
+Meu irmão morreu num acidente de trânsito.	Min bror dog i en trafikolycka.	trânsito	0	0
+Eu preciso de tinta.	Jag behöver målarfärg.	tinta	0	0
+Felizmente, não morreu no acidente.	Som tur var dog hon inte i olyckan.	felizmente	0	0
+Minhas filhas nasceram aqui.	Mina barn föddes här.	filhas	0	0
+Perigo! Alta tensão.	Fara! Högspänning.	tensão	0	0
+Logo será primavera.	Snart är det vår.	primavera	0	0
+Nós somos da Rússia.	Vi är från Ryssland.	rússia	0	0
+Você é nosso novo vizinho.	Du är vår nya granne.	vizinho	0	0
+Um litro de leite contém aproximadamente trinta gramas de proteína.	En liter mjölk innehåller ungefär trettio gram protein.	trinta	0	0
+Feliz Dia Internacional da Mulher!	Glad internationell kvinnodag.	internacional	0	0
+Eu quero sonhar	Jag vill drömma.	sonhar	0	0
+Não é uma competição.	Det här är ingen tävling.	competição	0	0
+A União Europeia foi criada com o objetivo de pôr termo às frequentes guerras sangrentas entre países vizinhos, que culminaram na Segunda Guerra Mundial.	EU grundas för att få slut på de blodiga krigen mellan grannländerna, som gång på gång hade orsakat så mycket mänskligt lidande och till slut ledde till andra världskriget.	união	0	0
+Cale-se e escute-me!	Håll tyst och lyssna på mig!	cale-se	0	0
+Grande parte da ação desse romance passa-se no século X.	En stor del av handlingen i denna roman utspelar sig på 900-talet.	romance	0	0
+Responda às seguintes questões.	Svara på följande frågor.	questões	0	0
+Ladrões invadiram a casa dele.	Tjuvar bröt sig in i hans hus.	ladrões	0	0
+Eles tentaram escapar.	De försökte rymma.	tentaram	0	0
+Tem certeza que eles não estão certos?	Är du säker på att de inte har rätt?	certos	0	0
+Obrigado por estarem aqui, pessoal.	Tack för att ni är här, allihopa.	estarem	0	0
+O que facilmente se ganha, facilmente se perde.	Lätt fånget, lätt förgånget.	perde	0	0
+Qual dos dois é o mais pesado?	Vilken är den tyngre av de två?	pesado	0	0
+Quem pegou o Tom?	Vem fångade Tom?	pegou	0	0
+Eu deixei um recado em baixo da porta.	Jag lämnade en lapp under dörren.	recado	0	0
+A capital da Albânia chama-se Tirana.	Huvudstaden i Albanien heter Tirana.	capital	0	0
+Vejo a tua prata.	Jag ser ditt silver.	prata	0	0
+Nestes últimos dois dias não comi sequer uma migalha de pão, e não dormi, no total, mais que três horas.	På två dagar har jag inte ätit så mycket som en brödsmula, och jag har inte sovet mer än tre timmar totalt.	comi	0	0
+Se você ler esta frase, se tornará cego.	Om du läser den här meningen blir du blind.	frase	0	0
+Sou jornalista.	Jag är journalist.	jornalista	0	0
+O grafeno é uma substância formada por carbono puro.	Grafen är ett ämne som består av rent kol.	puro	0	0
+Eu nasci com doze dedos.	Jag föddes med tolv fingrar.	nasci	0	0
+Eu perdi ela de vista na multidão.	Jag förlorade henne ur sikte i folksamlingen.	multidão	0	0
+Ambas estão mortas.	Båda är döda.	mortas	0	0
+Eu nasci com doze dedos.	Jag föddes med tolv fingrar.	doze	0	0
+O vampiro suga meu sangue.	Vampyren suger mitt blod.	vampiro	0	0
+Os gatos não gostam de água.	Katter tycker inte om vatten.	gatos	0	0
+Não quero morar em Boston.	Jag vill inte bo i Boston.	morar	0	0
+O Tom comeu uma salada grega.	Tom åt en grekisk sallad.	comeu	0	0
+Eu ainda era um estudante naquela época.	Jag var fortfarande student på den tiden.	estudante	0	0
+Deus criou o homem à Sua própria imagem; Deus é um guerreiro.	Gud skapade människan i Sin egen avbild; Gud är en krigare.	guerreiro	0	0
+Todos os pássaros têm bico.	Alla fåglar har näbb.	pássaros	0	0
+Tom atirou no seu próprio joelho.	Tom sköt sig själv i knät.	atirou	0	0
+A árvore adquiriu as cores mais bonitas!	Trädet fick de vackraste färger!	cores	0	0
+Geralmente vou para cama às nove.	Vanligtvis går jag och lägger mig vid nio.	geralmente	0	0
+Ele vai caminhar.	Han kommer att gå.	caminhar	0	0
+A União Europeia foi criada com o objetivo de pôr termo às frequentes guerras sangrentas entre países vizinhos, que culminaram na Segunda Guerra Mundial.	EU grundas för att få slut på de blodiga krigen mellan grannländerna, som gång på gång hade orsakat så mycket mänskligt lidande och till slut ledde till andra världskriget.	criada	0	0
+É rude apontar para alguém.	Det är oförskämt att peka på folk.	apontar	0	0
+É uma pena que vocês não saibam dançar.	Det är synd att ni inte kan dansa.	saibam	0	0
+Eu só tenho manteiga na geladeira.	Jag har bara smör i kylskåpet.	manteiga	0	0
+Ela mentiu.	Hon ljög.	mentiu	0	0
+Tom toma três copos de café por dia.	Tom dricker tre koppar kaffe om dagen.	copos	0	0
+Não pergunte quem eu sou.	Fråga inte vem jag är.	pergunte	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	países	0	0
+A minha irmã brinca de boneca.	Min syster leker med dockan.	boneca	0	0
+Tom é egoísta.	Tom är självisk.	egoísta	0	0
+Nestes últimos dois dias não comi sequer uma migalha de pão, e não dormi, no total, mais que três horas.	På två dagar har jag inte ätit så mycket som en brödsmula, och jag har inte sovet mer än tre timmar totalt.	dormi	0	0
+Tom não gostou muito do sabor.	Tom tyckte inte mycket om smaken.	sabor	0	0
+Dá-me um abraço.	Ge mig en kram.	abraço	0	0
+Eu não deveria ter contado isso para o Tom.	Jag borde inte ha berättat det för Tom.	contado	0	0
+Ele cometeu suicídio.	Han begick självmord.	cometeu	0	0
+Ele voltou ao Japão.	Han åkte tillbaka till Japan.	japão	0	0
+Ele admitiu ter recebido subornos.	Han medgav att han tagit emot mutor.	recebido	0	0
+A estupidez humana é sem limites.	Mänsklig dumhet har inga gränser.	estupidez	0	0
+Ele tocava piano.	Han spelade piano.	piano	0	0
+Nenhum dos estudantes riu.	Ingen av studenterna skrattade.	estudantes	0	0
+Durante a era stalinista, os prisioneiros em campos de concentração se tornaram escravos a serviço do estado.	Under den stalinistiska eran blev fångar i koncentrationsläger slavar i statens tjänst.	escravos	0	0
+Cometi um erro.	Jag begick ett misstag.	cometi	0	0
+É fácil de fazer e é barato.	Det är enkelt att göra och det är billigt.	barato	0	0
+Todos nós somos únicos.	Vi är alla unika.	únicos	0	0
+Eu falo espanhol também.	Jag talar spanska också.	espanhol	0	0
+Eu posso vê-lo a olho nu.	Det kan jag se med blotta ögat.	nu	0	0
+Você só precisa praticar.	Du behöver bara öva.	praticar	0	0
+Todas as esposas deles entraram no ônibus.	Alla deras fruar steg på bussen.	entraram	0	0
+Tom tirou uma de suas luvas.	Tom tog av en av sina handskar.	luvas	0	0
+Grande parte da ação desse romance passa-se no século X.	En stor del av handlingen i denna roman utspelar sig på 900-talet.	ação	0	0
+Ele caiu em um poço sem fundo.	Han föll ner i den bottenlösa gropen.	poço	0	0
+Ela está inconsciente.	Hon är medvetslös.	inconsciente	0	0
+Como se chamava o menino?	Vad hette pojken?	chamava	0	0
+Os preços eram muito altos.	Priserna var mycket höga.	altos	0	0
+O Tom comeu uma salada grega.	Tom åt en grekisk sallad.	salada	0	0
+A serpente devorou o cachorro inteiro.	Ormen slukade hunden med hull och hår.	cachorro	0	0
+Ela lhe olhou direto nos olhos.	Hon såg honom rakt i ögonen.	olhou	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	aço	0	0
+Ainda bem que todos os passageiros estavam usando cintos de segurança.	Tack och lov att alla passagerarna hade på sig säkerhetsbälten.	passageiros	0	0
+Segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado e domingo são os sete dias da semana.	Måndag, tisdag, onsdag, torsdag, fredag, lördag och söndag är de sju veckodagarna.	segunda-feira	0	0
+Sou italiano.	Jag är italiensk.	italiano	0	0
+A União Europeia foi criada com o objetivo de pôr termo às frequentes guerras sangrentas entre países vizinhos, que culminaram na Segunda Guerra Mundial.	EU grundas för att få slut på de blodiga krigen mellan grannländerna, som gång på gång hade orsakat så mycket mänskligt lidande och till slut ledde till andra världskriget.	termo	0	0
+A minha cor favorita é laranja.	Min favoritfärg är orange.	favorita	0	0
+Eu bebo café.	Jag dricker kaffe.	bebo	0	0
+Um fantasma está olhando para mim.	Ett spöke tittar på mig.	olhando	0	0
+Agora que penso nisso, nossa família viveu uma vida muito miserável.	Nu när jag tänker på saken så levde vår familj ett mycket eländigt liv.	miserável	0	0
+Não morra!	Dö inte!	morra	0	0
+Que flores lindas!	Vilka vackra blommor!	lindas	0	0
+A minha cor favorita é laranja.	Min favoritfärg är orange.	laranja	0	0
+O cão está sentado sobre o tapete.	En hund sitter på mattan.	tapete	0	0
+Deixei a chave na recepção.	Jag lämnade nyckeln i receptionen.	recepção	0	0
+Ele foi enterrado vivo.	Han blev levande begravd.	enterrado	0	0
+Creio que este remédio possa lhe ajudar a tratar de sua doença.	Jag tror att den här medicinen kan hjälpa mot din sjukdom.	remédio	0	0
+Isso não é um campeonato.	Det här är ingen tävling.	campeonato	0	0
+Vem conosco.	Kom med oss.	conosco	0	0
+Minha mochila está muito pesada.	Min ryggsäck är väldigt tung.	mochila	0	0
+Agora que penso nisso, nossa família viveu uma vida muito miserável.	Nu när jag tänker på saken så levde vår familj ett mycket eländigt liv.	viveu	0	0
+Você sobreviveu.	Du överlevde.	sobreviveu	0	0
+Ele estava deitado de costas.	Han låg på rygg.	deitado	0	0
+Ela não leu o livro.	Hon läste inte boken.	leu	0	0
+Se chover amanhã, nós não iremos à praia.	Om det regnar imorgon så går vi inte till stranden.	chover	0	0
+Ele pecou muitas vezes em sua juventude.	Han begick många synder i sin ungdom.	juventude	0	0
+Este é um momento histórico.	Detta är ett historiskt ögonblick.	histórico	0	0
+A União Europeia foi criada com o objetivo de pôr termo às frequentes guerras sangrentas entre países vizinhos, que culminaram na Segunda Guerra Mundial.	EU grundas för att få slut på de blodiga krigen mellan grannländerna, som gång på gång hade orsakat så mycket mänskligt lidande och till slut ledde till andra världskriget.	objetivo	0	0
+Eu recebo mais do que a maioria das pessoas aqui.	Jag tjänar mer än de flesta människorna här.	recebo	0	0
+Onde ele aprendeu italiano?	Hur har han lärt sig italienska?	aprendeu	0	0
+A entrada ao banheiro está muito suja.	Ingången till toaletten är mycket smutsig.	suja	0	0
+Isto é uma maçã.	Det här är ett äpple.	maçã	0	0
+Tom se casou com Maria em 20 de Outubro de 2013.	Tom gifte sig med Maria den 20 oktober 2013.	outubro	0	0
+Onde fica a embaixada japonesa?	Var är den japanska ambassaden?	embaixada	0	0
+Você lembra que horas você acordou de manhã?	Minns du när du vaknade i morse?	acordou	0	0
+A princesa foi comida pelo tubarão.	Prinsessan blev uppäten av hajen.	tubarão	0	0
+Quanto vai custar?	Hur mycket blir det?	custar	0	0
+Um terremoto destruiu o edifício.	En jordbävning förstörde byggnaden.	destruiu	0	0
+Eu gosto de ir pescar com o meu pai.	Jag tycker om att gå och fiska med min pappa.	pescar	0	0
+Ela está comendo fruta.	Hon äter frukt.	fruta	0	0
+Este é o livro a ser lido.	Det här är boken som ska läsas.	lido	0	0
+Ela é francesa.	Hon är fransyska.	francesa	0	0
+Tom se casou com Maria em 20 de Outubro de 2013.	Tom gifte sig med Maria den 20 oktober 2013.	casou	0	0
+Minha mochila está muito pesada.	Min ryggsäck är väldigt tung.	pesada	0	0
+Eu já procurei em todos os lugares.	Jag har redan letat överallt.	procurei	0	0
+Grande parte da ação desse romance passa-se no século X.	En stor del av handlingen i denna roman utspelar sig på 900-talet.	x	0	0
+Olá, boa noite. Em que posso ajudá-los?	Hej, god kväll. Hur kan jag hjälpa er?	ajudá-los	0	0
+Por que será que nossos cabelos ficam brancos quando envelhecemos, mas os pelos dos animais não?	Hur kommer det sig att vårt hår grånar när vi åldras, men inte djurpälsar?	cabelos	0	0
+Fique com o troco.	Behåll växeln.	troco	0	0
+Segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado e domingo são os sete dias da semana.	Måndag, tisdag, onsdag, torsdag, fredag, lördag och söndag är de sju veckodagarna.	quinta-feira	0	0
+Segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado e domingo são os sete dias da semana.	Måndag, tisdag, onsdag, torsdag, fredag, lördag och söndag är veckans sju dagar.	terça-feira	0	0
+Tom pode consertar isso.	Tom kan fixa det här.	consertar	0	0
+Alison não sabe cozinhar.	Alison kan inte laga mat.	alison	0	0
+Não somos responsáveis.	Vi är inte ansvariga.	responsáveis	0	0
+A situação financeira está ficando pior a cada semana.	Den finansiella situationen förvärras vecka för vecka.	ficando	0	0
+Tom costumava escrever músicas para mim.	Tom brukade skriva sånger åt mig.	músicas	0	0
+Holandês e sueco parecem ser idiomas muito fáceis de se aprender.	Holländska och svenska verkar vara språk som är mycket lätta att lära sig.	fáceis	0	0
+Não apague a vela.	Släck inte ljuset.	vela	0	0
+Por causa de suas origens, o inglês canadense tem características de ambos o inglês americano e britânico.	På grund av sitt ursprung, har den kanadensiska engelskan drag av både amerikansk och brittisk engelska.	britânico	0	0
+O metrô está em reforma.	Tunnelbanan håller på att renoveras.	reforma	0	0
+Mary dormiu com um colega de trabalho.	Mary låg med en jobbarkompis.	dormiu	0	0
+Eu não sabia que você não podia dirigir.	Jag visste inte att du inte kunde köra.	dirigir	0	0
+Meu padrinho me deu aquela camisa vermelha.	Min gudfar gav mig den där röda skjortan.	padrinho	0	0
+O Robin é amigo do Batman.	Robin är Batmans vän.	batman	0	0
+Os anos 1950 são caracterizados por uma guerra fria entre o Oriente e o Ocidente.	1950-talet karakteriseras av ett kallt krig mellan östblocket och västmakterna.	oriente	0	0
+A União Europeia foi criada com o objetivo de pôr termo às frequentes guerras sangrentas entre países vizinhos, que culminaram na Segunda Guerra Mundial.	EU grundas för att få slut på de blodiga krigen mellan grannländerna, som gång på gång hade orsakat så mycket mänskligt lidande och till slut ledde till andra världskriget.	guerras	0	0
+Tom atirou no seu próprio joelho.	Tom sköt sig själv i knät.	joelho	0	0
+O gato mia.	Katten jamar.	mia	0	0
+Nunca a encontrei, mas a reconheço.	Jag har aldrig träffat henne, men jag känner igen henne.	reconheço	0	0
+Hoje é o último dia de janeiro.	Idag är sista dagen i januari.	janeiro	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	assegurar	0	0
+Durante a era stalinista, os prisioneiros em campos de concentração se tornaram escravos a serviço do estado.	Under den stalinistiska eran blev fångar i koncentrationsläger slavar i statens tjänst.	concentração	0	0
+O mel é produzido pelas abelhas.	Honung produceras av bin.	abelhas	0	0
+Traga-me uma toalha seca.	Hämta en torr handduk till mig.	toalha	0	0
+As bolachas estão debaixo da mesa.	Kakorna är under bordet.	bolachas	0	0
+Imagine que eu nem queria vir!	Tänk att jag inte ens ville komma!	imagine	0	0
+Ela lhe olhou direto nos olhos.	Hon såg honom rakt i ögonen.	direto	0	0
+Um litro de leite contém aproximadamente trinta gramas de proteína.	En liter mjölk innehåller ungefär trettio gram protein.	contém	0	0
+O nome da minha gata é May.	Min katt heter May.	may	0	0
+Agora estou com dinheiro — 100 euros em cédulas. Agora vou tentar achar a farmácia antes de voltar. Por favor, senhora, onde é que eu encontro a farmácia?	Nu har jag pengar — 100 euro i kontanter. Nu ska jag försöka att hitta apoteket innan jag går tillbaka. Ursäkta mig, frun, var kan jag hitta apoteket?	euros	0	0
+Dá-me mil beijos.	Ge mig tusen kyssar.	beijos	0	0
+Eu só estava brincando quando disse isso.	Jag skämtade bara när jag sa det.	brincando	0	0
+Eu estou bem certo de que foi o elefante.	Jag är ganska säker på att det var elefanten.	elefante	0	0
+Saindo de casa Maria notou o belíssimo clima primaveril.	När Maria gick hemifrån märkte hon det underbara vårvädret.	clima	0	0
+Ela queria saber se o fotógrafo poderia remover o chapéu da fotografia.	Hon ville veta om fotografen kunde ta bort hatten från bilden.	remover	0	0
+Tenho trabalhado nisto há três semanas.	Jag har jobbat med det här i tre veckor.	trabalhado	0	0
+Eu falo japonês, inglês e francês.	Jag talar japanska, engelska och franska.	japonês	0	0
+Nossos passaportes eram tudo o que nós precisávamos.	Våra pass var allt vi behövde.	precisávamos	0	0
+Hoje é o primeiro dia do outono.	Idag är höstens första dag.	outono	0	0
+A água é um líquido.	Vatten är en vätska.	líquido	0	0
+Teresa é um nome português.	Teresa är ett portugisiskt namn.	teresa	0	0
+As luzes se acendem quando se bate palmas.	Ljusen tänds när man klappar.	palmas	0	0
+Segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado e domingo são os sete dias da semana.	Måndag, tisdag, onsdag, torsdag, fredag, lördag och söndag är veckans sju dagar.	quarta-feira	0	0
+É rude apontar para alguém.	Det är oförskämt att peka på folk.	rude	0	0
+Ele fala português.	Han talar portugisiska.	português	0	0
+Eu nunca toquei tuba.	Jag har aldrig spelat tuba.	toquei	0	0
+Eu não te darei um cavalo.	Jag kommer inte att ge dig en häst.	darei	0	0
+Eu queria ser um dentista.	Jag ville bli tandläkare.	dentista	0	0
+Layla está dormindo no quarto de hóspedes.	Layla sov i gästrummet.	hóspedes	0	0
+Ela é uma deusa!	Hon är en gudinna!	deusa	0	0
+Detesto alturas.	Jag avskyr höjder.	alturas	0	0
+Um litro de leite contém aproximadamente trinta gramas de proteína.	En liter mjölk innehåller ungefär trettio gram protein.	aproximadamente	0	0
+Tomem cuidado. O chão está escorregadio.	Var försiktiga. Golvet är halt.	tomem	0	0
+As crianças encontraram os presentes de Natal escondidos em baixo da cama.	Barnen fann julklapparna gömda under sängen.	escondidos	0	0
+Este é o meu lápis.	Det här är min penna.	lápis	0	0
+Quem inventou o telefone?	Vem uppfann telefonen?	inventou	0	0
+Eu segui o exemplo de Tom.	Jag följde Toms exempel.	segui	0	0
+É verdade que vocês estão se mudando para a Austrália?	Stämmer det att ni ska flytta till Australien?	austrália	0	0
+Pediram ajuda.	De bad om hjälp.	pediram	0	0
+Há também um risco muito grande de acidentes.	Det finns också en mycket stor olycksrisk.	acidentes	0	0
+O álcool não resolve nenhum problema.	Alkohol löser inga problem.	resolve	0	0
+Os preços eram muito altos.	Priserna var mycket höga.	preços	0	0
+Ensino francês.	Jag lär ut franska.	ensino	0	0
+Qual é o idioma que se fala na Coreia?	Vilket språk talar de i Korea?	coreia	0	0
+Só tem ideias estúpidas.	Du har bara dumma idéer.	estúpidas	0	0
+Um envelope e um selo, por favor.	Ett kuvert och ett frimärke, tack.	envelope	0	0
+Saudações do Brasil!	Hälsningar från Brasilien!	saudações	0	0
+Ela parece estar bêbada.	Hon ser ut att vara full.	bêbada	0	0
+Escreva um breve texto sobre você.	Skriv en kort text om dig själv.	texto	0	0
+O grafeno é uma substância formada por carbono puro.	Grafen är ett ämne som består av rent kol.	carbono	0	0
+Tom e Mary são austríacos, mas se conheceram na Austrália.	Tom och Mary är österrikare, men de träffades i Australien.	conheceram	0	0
+Feliz Páscoa!	Glad påsk!	páscoa	0	0
+As damas primeiro.	Damerna först.	damas	0	0
+Este prédio era um banco antigamente.	Den här byggnaden var en bank förut.	antigamente	0	0
+Estou no sótão.	Jag är på vinden.	sótão	0	0
+Eu não leio.	Jag läser inte.	leio	0	0
+Esta tartaruga é tua?	Är den här sköldpaddan din?	tartaruga	0	0
+Saindo de casa Maria notou o belíssimo clima primaveril.	När Maria gick hemifrån märkte hon det underbara vårvädret.	saindo	0	0
+Sou do Brasil.	Jag är från Brasilien.	brasil	0	0
+Um envelope e um selo, por favor.	Ett kuvert och ett frimärke, tack.	selo	0	0
+Essa é uma família tradicional.	Det där är en traditionell familj.	tradicional	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	carvão	0	0
+Não quero perder o meu trem.	Jag vill inte missa mitt tåg.	trem	0	0
+Ela queria saber se o fotógrafo poderia remover o chapéu da fotografia.	Hon ville veta om fotografen kunde ta bort hatten från bilden.	fotógrafo	0	0
+O Dr. Smith tem muitos pacientes.	Doktor Smith har många patienter.	dr	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	unir	0	0
+A serpente devorou o cachorro inteiro.	Ormen slukade hunden med hull och hår.	serpente	0	0
+Todos os pássaros têm bico.	Alla fåglar har näbb.	bico	0	0
+Responda às seguintes questões.	Svara på följande frågor.	seguintes	0	0
+Você deveria estar lendo os sonetos de Shakespeare.	Du borde läsa Shakespeares sonetter.	shakespeare	0	0
+Todas as esposas deles entraram no ônibus.	Alla deras fruar steg på bussen.	esposas	0	0
+Tom é agressivo.	Tom är aggressiv.	agressivo	0	0
+Escreva um breve texto sobre você.	Skriv en kort text om dig själv.	escreva	0	0
+O fogo queima.	Eld bränner.	queima	0	0
+Agora estou com dinheiro — 100 euros em cédulas. Agora vou tentar achar a farmácia antes de voltar. Por favor, senhora, onde é que eu encontro a farmácia?	Nu har jag pengar — 100 euro i kontanter. Nu ska jag försöka att hitta apoteket innan jag går tillbaka. Ursäkta mig, frun, var kan jag hitta apoteket?	farmácia	0	0
+Visitamos Tóquio várias vezes.	Vi besökte Tokyo flera gånger.	tóquio	0	0
+O grafeno é uma substância formada por carbono puro.	Grafen är ett ämne som består av rent kol.	substância	0	0
+Eles estão levando Mary para a sala de emergência.	De är på väg med Mary till akuten.	levando	0	0
+O nome verdadeiro de Sophia Loren é Sofia Scicolone.	Sophia Lorens riktiga namn är Sofia Scicolone.	sophia	0	0
+A cidade foi atacada por muitos inimigos.	Staden anfölls av många fiender.	atacada	0	0
+O desempenho foi excelente.	Föreställningen var utmärkt.	desempenho	0	0
+A entrada ao banheiro está muito suja.	Ingången till toaletten är mycket smutsig.	banheiro	0	0
+Layla está dormindo no quarto de hóspedes.	Layla sov i gästrummet.	dormindo	0	0
+Envie esta carta pelo correio.	Posta det här brevet.	envie	0	0
+A polícia prendeu ele por contrabando.	Polisen arresterade honom för smuggling.	prendeu	0	0
+Não sou religioso.	Jag är inte religiös.	religioso	0	0
+Marina é da Rússia e a Clarissa é da Suécia.	Marina är från Ryssland och Clarissa är från Sverige.	marina	0	0
+Quais línguas você quer aprender?	Vilka språk vill du lära dig?	línguas	0	0
+O nome verdadeiro de Sophia Loren é Sofia Scicolone.	Sophia Lorens riktiga namn är Sofia Scicolone.	sofia	0	0
+Estou morrendo de sono mas não quero ir dormir.	Jag är jättetrött men vill inte gå och lägga mig.	morrendo	0	0
+Tom é o bode expiatório perfeito.	Tom är den perfekta syndabocken.	bode	0	0
+O Tom se recusa a trabalhar.	Tom vägrar att arbeta.	recusa	0	0
+Não tenho que ir mais ao médico. Estou me sentindo muito melhor.	Jag behöver inte gå till doktorn längre. Jag mår mycket bättre.	sentindo	0	0
+Quem foi que desligou o roteador?	Vem var det som stängde av routern?	desligou	0	0
+Pimenta é uma especiaria.	Peppar är en krydda.	pimenta	0	0
+A minha irmã brinca de boneca.	Min syster leker med dockan.	brinca	0	0
+Ele tocava piano.	Han spelade piano.	tocava	0	0
+Nunca estou em casa nos domingos.	Jag är aldrig hemma på söndagar.	domingos	0	0
+A situação financeira está ficando pior a cada semana.	Den finansiella situationen förvärras vecka för vecka.	financeira	0	0
+Meu pai já tinha ido uma vez à Grécia.	Min far hade redan varit en gång i Grekland.	grécia	0	0
+Sim, um pouquinho.	Ja, lite grand.	pouquinho	0	0
+Que conclusões podem ser tiradas disso?	Vilka slutsatser kan dras av detta?	conclusões	0	0
+A polícia prendeu ele por contrabando.	Polisen arresterade honom för smuggling.	contrabando	0	0
+Ela é terrivelmente tímida.	Hon är fruktansvärt blyg.	terrivelmente	0	0
+A África é o berço da humanidade.	Afrika är mänsklighetens vagga.	berço	0	0
+Meu pai ouve música clássica.	Min far lyssnar på klassisk musik.	clássica	0	0
+Que flores maravilhosas!	Vilka underbara blommor!	maravilhosas	0	0
+Onde estão as maçãs?	Var är äpplena?	maçãs	0	0
+Meu nome é Ricardo.	Jag heter Ricardo.	ricardo	0	0
+Não sou religiosa.	Jag är inte religiös.	religiosa	0	0
+O nome da minha gata é May.	Min katt heter May.	gata	0	0
+Um esquilo escondeu-se entre os ramos.	En ekorre ilade och gömde sig bland grenarna.	ramos	0	0
+Olhe o pôr-do-sol.	Titta på solnedgången.	pôr-do-sol	0	0
+Tom é um péssimo padrasto.	Tom är en usel styvfar.	padrasto	0	0
+Se ninguém sabe o que vem a seguir, ninguém ficará desapontado.	Om ingen vet vad som kommer härnäst, blir ingen besviken.	desapontado	0	0
+O preço do ouro flutua diariamente.	Guldpriset ändras dagligen.	diariamente	0	0
+Durma bem, Timmy.	Sov gott, Timmy.	durma	0	0
+O teto da minha casa é vermelho.	Taket på mitt hus är rött.	teto	0	0
+Nossos passaportes eram tudo o que nós precisávamos.	Våra pass var allt vi behövde.	passaportes	0	0
+Um esquilo escondeu-se entre os ramos.	En ekorre ilade och gömde sig bland grenarna.	esquilo	0	0
+Eu não lhe pedi que me ajudasse.	Jag har inte bett dig om hjälp.	ajudasse	0	0
+Pegamos o ladrão.	Vi fångade tjuven.	pegamos	0	0
+Durante a era stalinista, os prisioneiros em campos de concentração se tornaram escravos a serviço do estado.	Under den stalinistiska eran blev fångar i koncentrationsläger slavar i statens tjänst.	tornaram	0	0
+Quanto você pesa?	Vad väger du?	pesa	0	0
+Um litro de leite contém aproximadamente trinta gramas de proteína.	En liter mjölk innehåller ungefär trettio gram protein.	gramas	0	0
+Durma bem, Timmy.	Sov gott, Timmy.	timmy	0	0
+Quando criança, gostava de plantar girassóis.	När jag var liten gillade jag att plantera solrosor.	plantar	0	0
+É este um garanhão ou uma égua?	Är detta en hingst eller ett sto?	garanhão	0	0
+Quase ninguém traduz as frases escritas em português no Tatoeba.	Nästan ingen översätter meningarna som är skrivna på portugisiska på Tatoeba.	frases	0	0
+Vou pedir a John que repare meu relógio.	Jag ska be John att laga min klocka.	repare	0	0
+Ainda bem que todos os passageiros estavam usando cintos de segurança.	Tack och lov att alla passagerarna hade på sig säkerhetsbälten.	cintos	0	0
+Você acha que nós somos cegos?	Tror du vi är blinda?	cegos	0	0
+Eu nunca vi um arco-íris.	Jag har aldrig sett en regnbåge.	arco-íris	0	0
+Ele admitiu ter recebido subornos.	Han medgav att han tagit emot mutor.	admitiu	0	0
+Um minuto tem sessenta segundos.	En minut har sextio sekunder.	sessenta	0	0
+Os anos 1950 são caracterizados por uma guerra fria entre o Oriente e o Ocidente.	1950-talet karakteriseras av ett kallt krig mellan östblocket och västmakterna.	ocidente	0	0
+Milhões de pessoas compreendem interlingua à primeira vista.	Miljoner människor förstår interlingua vid första ögonkastet.	compreendem	0	0
+Ele conhece o prefeito.	Han känner borgmästaren.	prefeito	0	0
+Ele esvaziou o copo de um só gole.	Han tömde glaset med en enda klunk.	gole	0	0
+Ele está tomando antibióticos.	Han äter antibiotika.	antibióticos	0	0
+Tom é um lobo em pele de cordeiro.	Tom är en ulv i fårakläder.	cordeiro	0	0
+Traga-me uma toalha seca.	Hämta en torr handduk till mig.	traga-me	0	0
+A criança chorou.	Barnet grät.	chorou	0	0
+Eu lhes mostrei, como fazer isso.	Jag visade dem hur man gör det.	mostrei	0	0
+Ela é terrivelmente tímida.	Hon är fruktansvärt blyg.	tímida	0	0
+Por causa de suas origens, o inglês canadense tem características de ambos o inglês americano e britânico.	På grund av sitt ursprung, har den kanadensiska engelskan drag av både amerikansk och brittisk engelska.	características	0	0
+Eu acho que o Tom e a Maria estão mentindo.	Jag tror att både Tom och Mary ljuger.	mentindo	0	0
+A capital da Colômbia se chama Bogotá.	Colombias huvudstad heter Bogotá.	colômbia	0	0
+Você obteve o que queria.	Du fick vad du ville.	obteve	0	0
+Saindo de casa Maria notou o belíssimo clima primaveril.	När Maria gick hemifrån märkte hon det underbara vårvädret.	notou	0	0
+Onde fica a embaixada japonesa?	Var är den japanska ambassaden?	japonesa	0	0
+Mary viveu em um convento por alguns meses.	Mary bodde i ett kloster några månader.	convento	0	0
+Tom era comediante.	Tom var komiker.	comediante	0	0
+Este lápis não é cinza.	Den här pennan är inte grå.	cinza	0	0
+Minhas filhas nasceram aqui.	Mina barn föddes här.	nasceram	0	0
+As aranhas não são insetos.	Spindlar är inte insekter.	aranhas	0	0
+Por que você estuda inglês?	Varför studerar du engelska?	estuda	0	0
+Talvez um dia você perceba que eu lhe faço falta.	Kanske märker du en dag att du saknar mig.	perceba	0	0
+O passado só será futuro se você torná-lo seu presente.	Dåtiden kommer bara bli framtid om man gör det till sin nutid.	torná-lo	0	0
+Ele suicidou-se.	Han begick självmord.	suicidou-se	0	0
+O Tom visitou a Austrália.	Tom besökte Australien.	visitou	0	0
+Tu és imprevisível.	Du är oförutsägbar.	imprevisível	0	0
+Ela não tentou traduzir a carta.	Hon försökte inte att översätta brevet.	traduzir	0	0
+Quem comeu a última bolacha?	Vem åt den sista kakan?	bolacha	0	0
+Ela é sempre muito educada.	Hon är alltid väldigt artig.	educada	0	0
+As crianças gostam de iogurte.	Barnen gillar yoghurt.	iogurte	0	0
+Todos escaparam.	Alla rymde.	escaparam	0	0
+Estou sempre em casa às segundas.	Jag är alltid hemma på måndagar.	segundas	0	0
+É verdade que vocês estão se mudando para a Austrália?	Stämmer det att ni ska flytta till Australien?	mudando	0	0
+Onde fica a embaixada espanhola?	Var ligger den spanska ambassaden?	espanhola	0	0
+Você está pálido.	Du ser blek ut.	pálido	0	0
+Se você quiser comprar uma coleira, vá a uma loja de animais.	Om du vill köpa ett koppel, gå till en zooaffär.	coleira	0	0
+As crianças já comeram?	Har barnen ätit än?	comeram	0	0
+Tenho oitenta e quatro anos.	Jag är åttiofyra år gammal.	oitenta	0	0
+Ela detestava baunilha.	Hon hatade vanilj.	baunilha	0	0
+Ele está tomando antibióticos.	Han äter antibiotika.	tomando	0	0
+Eu não quero insultar Tom.	Jag vill inte förolämpa Tom.	insultar	0	0
+O Tom sabe que nós confiamos nele.	Tom vet att vi litar på honom.	confiamos	0	0
+Os seus ovos estão ficando frios.	Dina ägg kallnar.	frios	0	0
+Ela está comendo fruta.	Hon äter frukt.	comendo	0	0
+Não, irei de ônibus.	Nej, jag kommer att åka buss.	ônibus	0	0
+Mary é madrasta de Tom.	Mary är Toms styvmor.	madrasta	0	0
+Quantos golfinhos tem neste oceanário?	Hur många delfiner finns det på detta oceanarium?	golfinhos	0	0
+Sou de Portugal.	Jag är från Portugal.	portugal	0	0
+Morrerei esta noite.	Jag kommer att dö inatt.	morrerei	0	0
+Bangkok é a capital da Tailândia.	Bangkok är Thailands huvudstad.	tailândia	0	0
+Marina é da Rússia e a Clarissa é da Suécia.	Marina är från Ryssland och Clarissa är från Sverige.	suécia	0	0
+Pavel casou-se com Marina.	Pavel gifte sig med Marina.	casou-se	0	0
+Cale-se e escute-me!	Håll tyst och lyssna på mig!	escute-me	0	0
+O enfermeiro me vacinou.	Sjuksköterskan vaccinerade mig.	enfermeiro	0	0
+Quase ninguém traduz as frases escritas em português no Tatoeba.	Nästan ingen översätter meningarna som är skrivna på portugisiska på Tatoeba.	escritas	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	económica	0	0
+Por causa de suas origens, o inglês canadense tem características de ambos o inglês americano e britânico.	På grund av sitt ursprung, har den kanadensiska engelskan drag av både amerikansk och brittisk engelska.	origens	0	0
+Um vizinho ouviu o Tom gritando.	En granne hörde Tom skrika.	gritando	0	0
+Esta faca está bem afiada.	Den här kniven är mycket vass.	afiada	0	0
+É um dicionário.	Det är en ordbok.	dicionário	0	0
+Eu o acho competente.	Jag tycker att hon duger.	competente	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	europeus	0	0
+Holandês e sueco parecem ser idiomas muito fáceis de se aprender.	Holländska och svenska verkar vara språk som är mycket lätta att lära sig.	holandês	0	0
+Tom comeu uma salada grega.	Tom åt en grekisk sallad.	grega	0	0
+Ele não gostava de ser punido.	Han tyckte inte om att bli bestraffad.	punido	0	0
+Nunca estudaste coreano?	Har du aldrig studerat koreanska?	coreano	0	0
+Que conclusões podem ser tiradas disso?	Vilka slutsatser kan dras av detta?	tiradas	0	0
+Vai nevar hoje.	Det ska snöa idag.	nevar	0	0
+Eu acabo de lavar a louça e agora preciso tirar o lixo.	Jag har just diskat och nu måste jag slänga soporna.	louça	0	0
+Vocês estavam a segui-la.	Ni följde efter henne.	segui-la	0	0
+Ladrões invadiram a casa dele.	Tjuvar bröt sig in i hans hus.	invadiram	0	0
+Holandês e sueco parecem ser idiomas muito fáceis de se aprender.	Holländska och svenska verkar vara språk som är mycket lätta att lära sig.	sueco	0	0
+Você deveria estar lendo os sonetos de Shakespeare.	Du borde läsa Shakespeares sonetter.	lendo	0	0
+Tom fingiu que estava dormindo.	Tom låtsades sova.	fingiu	0	0
+Eu sou da Noruega.	Jag kommer från Norge.	noruega	0	0
+Ele era moreno.	Han var mörkhårig.	moreno	0	0
+Um litro de leite contém aproximadamente trinta gramas de proteína.	En liter mjölk innehåller ungefär trettio gram protein.	litro	0	0
+Ela detestava baunilha.	Hon hatade vanilj.	detestava	0	0
+"Do que você está rindo?" "Da tua cara."	"Vad skrattar du åt?" "Ditt ansikte."	rindo	0	0
+Estamos bebendo chá enquanto esperamos.	Vi dricker te medan vi väntar.	bebendo	0	0
+Um litro de leite contém aproximadamente trinta gramas de proteína.	En liter mjölk innehåller ungefär trettio gram protein.	proteína	0	0
+Se você ler esta frase, se tornará cego.	Om du läser den här meningen blir du blind.	tornará	0	0
+Algumas das bolas são amarelas.	Några av bollarna är gula.	amarelas	0	0
+Ele amava-a muito.	Han älskade henne väldigt mycket.	amava-a	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	europeia	0	0
+Bons livros não faltam, pelo contrário, existem em abundância.	Det råder inte brist på bra böcker, tvärtom, de finns i överflöd.	abundância	0	0
+Ele admitiu ter recebido subornos.	Han medgav att han tagit emot mutor.	subornos	0	0
+As aranhas não são insetos.	Spindlar är inte insekter.	insetos	0	0
+Não brinque com fogo.	Lek inte med elden.	brinque	0	0
+O ancião era querido por todos.	Den gamla mannen var älskad av alla.	ancião	0	0
+Todos vocês são covardes.	Ni är alla ynkryggar.	covardes	0	0
+Tom é o bode expiatório perfeito.	Tom är den perfekta syndabocken.	expiatório	0	0
+O telefone está tocando?	Ringer telefonen?	tocando	0	0
+Tom não é vegetariano.	Tom är inte vegetarian.	vegetariano	0	0
+Abençoados sejam aqueles que não têm talento!	Välsignade är de som saknar talang!	abençoados	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	politicamente	0	0
+A lista é interminável.	Listan är oändlig.	interminável	0	0
+Quero ser carpinteiro.	Jag vill bli snickare.	carpinteiro	0	0
+Ela fez um novo terno para ele.	Hon gjorde en ny kostym åt honom.	terno	0	0
+O povo se revoltou contra a tirania.	Folket gjorde uppror mot tyrannin.	tirania	0	0
+Dê alguns exemplos.	Ta ett par exempel.	exemplos	0	0
+A capital da Ucrânia é Kiev.	Huvudstaden i Ukraina är Kiev.	ucrânia	0	0
+O jogo de hoje é definitivo.	Dagens match är avgörande.	definitivo	0	0
+É este um garanhão ou uma égua?	Är detta en hingst eller ett sto?	égua	0	0
+Tom sorriu para a garçonete.	Tom log åt servitrisen.	sorriu	0	0
+Eu estou muito relaxado.	Jag är väldigt avslappnad.	relaxado	0	0
+Escutei um barulho.	Jag hörde ett ljud.	escutei	0	0
+Meu filho não me obedece.	Min son lyder mig inte.	obedece	0	0
+Por que os coalas não têm umbigo?	Varför har koalor ingen navel?	umbigo	0	0
+O Tomás olha para as estrelas.	Tomas tittar på stjärnorna.	tomás	0	0
+O mel é produzido pelas abelhas.	Honung produceras av bin.	produzido	0	0
+Não apague a vela.	Släck inte ljuset.	apague	0	0
+Qual é o idioma que se fala na Coreia?	Vilket språk talar de i Korea?	idioma	0	0
+Sem oxigênio, muitos animais teriam desaparecido há muito tempo.	Utan syre skulle många djur ha försvunnit för länge sedan.	oxigênio	0	0
+Tom se fantasiou de cachorro e pôs-se a latir para mim.	Tom klädde ut sig till en hund och började skälla på mig.	pôs-se	0	0
+Tomem cuidado. O chão está escorregadio.	Var försiktiga. Golvet är halt.	escorregadio	0	0
+Eles mal nos causaram qualquer problema.	De förorsakade oss knappt några problem.	causaram	0	0
+O grafeno é uma substância formada por carbono puro.	Grafen är ett ämne som består av rent kol.	formada	0	0
+Não consigo parar o sangramento.	Jag kan inte stoppa blödningen.	sangramento	0	0
+Ele soltou a corda e caiu no rio.	Han släppte repet och föll ner i floden.	soltou	0	0
+Eu votei em você.	Jag röstade på dig.	votei	0	0
+Ele perdoou seu inimigo.	Han förlät sin fiende.	perdoou	0	0
+Queremos frases completas.	Vi vill ha fullständiga meningar.	completas	0	0
+Nunca estudaste coreano?	Har du aldrig studerat koreanska?	estudaste	0	0
+A árvore adquiriu as cores mais bonitas!	Trädet fick de vackraste färger!	adquiriu	0	0
+Eles são bem mais experientes do que eu.	De är mycket mer erfarna än jag.	experientes	0	0
+Tenho um laptop.	Jag har en bärbar dator.	laptop	0	0
+Layla está dormindo no quarto de hóspedes.	Layla sov i gästrummet.	layla	0	0
+Pedi a Tom que esperasse aqui.	Jag bad Tom att vänta här.	esperasse	0	0
+Os pais de Mary são muito rígidos.	Marys föräldrar är mycket stränga.	rígidos	0	0
+Os castores constroem diques.	Bävrar bygger dammar.	constroem	0	0
+A União Europeia foi criada com o objetivo de pôr termo às frequentes guerras sangrentas entre países vizinhos, que culminaram na Segunda Guerra Mundial.	EU grundas för att få slut på de blodiga krigen mellan grannländerna, som gång på gång hade orsakat så mycket mänskligt lidande och till slut ledde till andra världskriget.	frequentes	0	0
+Nenhum dos estudantes riu.	Ingen av studenterna skrattade.	riu	0	0
+O preço do ouro flutua diariamente.	Guldpriset ändras dagligen.	flutua	0	0
+A neve já se derreteu?	Har snön redan smält?	derreteu	0	0
+Pavel casou-se com Marina.	Pavel gifte sig med Marina.	pavel	0	0
+O meu filho é viúvo.	Min son är änkling.	viúvo	0	0
+Marina é da Rússia e a Clarissa é da Suécia.	Marina är från Ryssland och Clarissa är från Sverige.	clarissa	0	0
+Um esquilo escondeu-se entre os ramos.	En ekorre ilade och gömde sig bland grenarna.	escondeu-se	0	0
+Kimchi é uma comida coreana tradicional.	Kimchi är en traditionell koreansk maträtt.	coreana	0	0
+O garçom estava no andar de baixo.	Kyparen var på bottenvåningen.	garçom	0	0
+A capital da Ucrânia é Kiev.	Huvudstaden i Ukraina är Kiev.	kiev	0	0
+A UE tem 24 línguas oficiais.	EU har 24 officiella språk.	ue	0	0
+Um terremoto destruiu o edifício.	En jordbävning förstörde byggnaden.	terremoto	0	0
+A partir de 1950, a Comunidade Europeia do Carvão e do Aço começa a unir económica e politicamente os países europeus, tendo em vista assegurar uma paz duradoura.	Från och med 1950 börjar en rad europeiska länder samarbeta ekonomiskt och politiskt för att bevara freden.	duradoura	0	0
+Eu não estava planejando te contar.	Jag hade inte tänkt berätta för dig.	planejando	0	0
+Por que estudas inglês?	Varför studerar du engelska?	estudas	0	0
+Bangkok é a capital da Tailândia.	Bangkok är Thailands huvudstad.	bangkok	0	0
+Neymar é brasileiro.	Neymar är brasiliansk.	brasileiro	0	0
+Há leite na geladeira.	Det finns mjölk i kylskåpet.	geladeira	0	0
+Muriel tem 20 anos agora.	Muiriel är 20 nu.	muriel	0	0
+Tem cuidado ao escreveres.	Var noggrann när du skriver.	escreveres	0	0
+A Noruega chama-se "Norge" em norueguês.	Norge heter ”Norge” på norska.	norueguês	0	0
+Um pequeno vazamento pode naufragar um grande navio.	En liten läcka kan sänka ett stort skepp.	vazamento	0	0
+Quase ninguém traduz as frases escritas em português no Tatoeba.	Nästan ingen översätter meningarna som är skrivna på portugisiska på Tatoeba.	traduz	0	0
+Tom é o expert.	Tom är experten.	expert	0	0
+Ele nasceu na Suiça.	Han är född i Schweiz.	suiça	0	0
+Não traduzo mais novelas.	Jag översätter inte romaner längre.	novelas	0	0
+Vocês estão cansadas?	Är ni trötta?	cansadas	0	0
+O Sr. Nakamura está em casa.	Herr Nakamura är hemma.	nakamura	0	0
+É degradante para ela.	Det är förnedrande för henne.	degradante	0	0
+O vampiro suga meu sangue.	Vampyren suger mitt blod.	suga	0	0
+A capital da Colômbia se chama Bogotá.	Huvudstaden i Colombia heter Bogotá.	bogotá	0	0
+Saindo de casa Maria notou o belíssimo clima primaveril.	När Maria gick hemifrån märkte hon det underbara vårvädret.	belíssimo	0	0
+Feliz Natal e um próspero Ano Novo!	God jul och gott nytt år!	próspero	0	0
+Pimenta é uma especiaria.	Peppar är en krydda.	especiaria	0	0
+Baixei algumas coisas.	Jag laddade ned några grejer.	baixei	0	0
+Eu gosto de esporte.	Jag gillar sport.	esporte	0	0
+O nome verdadeiro de Sophia Loren é Sofia Scicolone.	Sophia Lorens riktiga namn är Sofia Scicolone.	loren	0	0
+Eles revistaram a casa.	De genomsökte huset.	revistaram	0	0
+Holandês e sueco parecem ser idiomas muito fáceis de se aprender.	Holländska och svenska verkar vara språk som är mycket lätta att lära sig.	idiomas	0	0
+Você tem certeza de que não estou incomodando?	Är du säker på att jag inte stör?	incomodando	0	0
+O povo exigia respostas.	Folket krävde svar.	exigia	0	0
+Acho que comprarei um carro novo.	Jag tror att jag skall köpa en ny bil.	comprarei	0	0
+A União Europeia foi criada com o objetivo de pôr termo às frequentes guerras sangrentas entre países vizinhos, que culminaram na Segunda Guerra Mundial.	EU grundas för att få slut på de blodiga krigen mellan grannländerna, som gång på gång hade orsakat så mycket mänskligt lidande och till slut ledde till andra världskriget.	sangrentas	0	0
+Os castores constroem diques.	Bävrar bygger dammar.	castores	0	0
+A capital da Albânia chama-se Tirana.	Albaniens huvudstad heter Tirana.	albânia	0	0
+A água ferve aos 100 graus Celsius.	Vatten kokar vid 100 grader Celsius.	ferve	0	0
+Estava chovendo quando cheguei.	Det regnade när jag kom fram.	chovendo	0	0
+Um espelho reflete luz.	En spegel reflekterar ljus.	reflete	0	0
+Eu nunca toquei tuba.	Jag har aldrig spelat tuba.	tuba	0	0
+Por que será que nossos cabelos ficam brancos quando envelhecemos, mas os pelos dos animais não?	Hur kommer det sig att vårt hår grånar när vi åldras, men inte djurpälsar?	envelhecemos	0	0
+Me abrace.	Ge mig en kram.	abrace	0	0
+Eu admiti estar errado.	Jag erkände att jag hade fel.	admiti	0	0
+Ele esvaziou o copo de um só gole.	Han tömde glaset med en enda klunk.	esvaziou	0	0
+Eu era ingênua.	Jag var naiv.	ingênua	0	0
+O metrô está em reforma.	Tunnelbanan håller på att renoveras.	metrô	0	0
+Numerosas pessoas só falam uma língua.	Många människor talar bara ett språk.	numerosas	0	0
+O que significa URSS?	Vad betyder SSSR?	urss	0	0
+Por causa de suas origens, o inglês canadense tem características de ambos o inglês americano e britânico.	På grund av sitt ursprung, har den kanadensiska engelskan drag av både amerikansk och brittisk engelska.	canadense	0	0
+A igreja é no meio do vilarejo.	Kyrkan står mitt i byn.	vilarejo	0	0
+Tom sorriu para a garçonete.	Tom log åt servitrisen.	garçonete	0	0
+Que animal é marrom?	Vilket djur är brunt?	marrom	0	0
+A água ferve aos 100 graus Celsius.	Vatten kokar vid 100 grader Celsius.	celsius	0	0
+Tom é o dono dessa moradia.	Tom äger den här bostaden.	moradia	0	0
+Se você acha que vai aprender a falar inglês apenas por ir à América, você está redondamente enganado.	Om du tror att du lär dig att prata engelska bara för att du åker till USA, är du helt fel ute.	redondamente	0	0
+Nestes últimos dois dias não comi sequer uma migalha de pão, e não dormi, no total, mais que três horas.	På två dagar har jag inte ätit så mycket som en brödsmula, och jag har inte sovet mer än tre timmar totalt.	migalha	0	0
+A Ucrânia decreta mobilização geral.	Ukraina påbjöds allmän mobilisering.	mobilização	0	0
+O menino está pulando.	Pojken hoppar.	pulando	0	0
+Quem é normalmente sentado no banco da infâmia?	Vem sitter vanligtvis på åsnebänken?	infâmia	0	0
+O meu pai morreu no Vietnã.	Min far dog i Vietnam.	vietnã	0	0
+O filme foi tão triste que todos choraram.	Filmen var så sorglig att alla grät.	choraram	0	0
+Visitamos Tóquio várias vezes.	Vi besökte Tokyo flera gånger.	visitamos	0	0
+As luzes se acendem quando se bate palmas.	Ljusen tänds när man klappar.	acendem	0	0
+Quando criança, gostava de plantar girassóis.	När jag var liten gillade jag att plantera solrosor.	girassóis	0	0
+Tom e Mary são austríacos, mas se conheceram na Austrália.	Tom och Mary är österrikare, men de träffades i Australien.	austríacos	0	0
+Tom se fantasiou de cachorro e pôs-se a latir para mim.	Tom klädde ut sig till en hund och började skälla på mig.	latir	0	0
+Nós sabíamos que o Tom venceria.	Vi visste att Tom skulle vinna.	venceria	0	0
+Eu sou finlandês.	Jag är finländare.	finlandês	0	0
+Comparamos o trabalho dele com o dela.	Vi jämförde hans arbete med hennes.	comparamos	0	0
+O gelo está derretendo.	Isen smälter.	derretendo	0	0
+Ele pecou muitas vezes em sua juventude.	Han begick många synder i sin ungdom.	pecou	0	0
