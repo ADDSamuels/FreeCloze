@@ -552,7 +552,9 @@ def LacunaStartGui(root, entry_values=None):
     global buttons
     #buttonText
     print(outLang2)
-    match outLang2:
+    match outLang2: #languagesAbbreviations = ["en", "fr", "de", "it", "es", "pt", "ru", "da", 
+              #"el", "eo", "fi", "hu", "ko", "lt", "mk", "nl", 
+              #"pl", "ro", "sr", "sv", "tl", "tr", "uk"]
         case "en":
             buttonText = "é"
         case "fr":
@@ -565,12 +567,40 @@ def LacunaStartGui(root, entry_values=None):
             buttonText = "áéíóúñü"
         case "pt":
             buttonText = "áéíóúâêôãõàç"
-        case "pl":
-            buttonText = "ąćęłńóśźż"
         case "ru":
             buttonText = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя"
+        case "da":
+            buttonText = "æøå"
+        case "el":
+            buttonText = "αάβγδεέζηήθιίϊΐκλμνξοόπρσςτυύϋΰφχψωώ"
+        case "eo":
+            buttonText = "ĉĝĥĵŝŭ"
+        case "fi":
+            buttonText = "åäö"
+        case "hu":
+            buttonText = "áéíóöőúüű"
+        case "lt":
+            buttonText = "ąčęėįšųūž"
+        case "mk":
+            buttonText = "абвгдѓежзѕијклљмнњопрстќуфхцчџш"
+        case "nl":
+            buttonText = "áàäâéèëêíïóòöôúü"
+        case "pl":
+            buttonText = "ąćęłńóśźż"
+        case "ro":
+            buttonText = "ăâîșț"
+        case "sr":
+            buttonText = "čćđšž"
+        case "sv":
+            buttonText = "åäö"
+        case "tl":
+            buttonText = "áàâñ"
+        case "tr":
+            buttonText = "çğıöşü"
+        case "uk":
+            buttonText = "абвгґдеєжзиіїйклмнопрстуфхцчшщьюя"
         case _:
-            buttonText = "idkwouldæœùîфю"
+            buttonText = "é"
     buttons = ButtonsInitChar(root, root.winfo_width(), buttonText)
     root.update_idletasks()
     LacunaCheckInput(current_entry_var)
