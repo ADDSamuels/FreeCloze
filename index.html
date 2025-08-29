@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FreeCloze</title>
+    <link rel="icon" href="myicon.ico">
+
+</head>
+<style>
+        body {
+            padding: 4px;
+        }
+        .header-container {
+            background-color: #000;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            margin:0;
+        }
+        .header-text {
+            font-size: 5vh;
+            font-weight: 700;
+        }
+        .responsive-video {
+            width: min(100vw, 784px);
+            aspect-ratio: 784 / 368;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: grey;
+        }
+        h2{
+            margin-left: max(10px,2vw);
+        }
+        h3{
+            margin-left: max(10px,2vw);
+        }
+        img{
+            margin-left: max(10px,2vw);
+        }
+        select{
+            margin-left: max(10px,2vw);
+        }
+        *{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="header-container">
+        <h1 class="header-text">
+            <span></span><span style="color:#fff">Free</span><span style="color:#fff200">Cloze</span>
+        </h1>
+    </header>
+    <header>
+    <h1> <span>Learn </span><span style="color:#fff; background-color: black">23</span><span> languages through thousands of fill-in-the-blank sentences for </span><span style="color:#fff200; background-color: black">free</span><span>.</span>
+
+    </h1>
+    <h3 style="text-align: center; padding: 0;">
+        Demo of learning french
+    </h3>
+    <video class="responsive-video"  autoplay muted loop controls>
+        <source src="demofrench.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    </header>
+<h2>1. First download the program here: <a href="https://github.com/ADDSamuels/FreeCloze/releases" target="_blank">GitHub Releases</a>.</h2>
+<h2>2. Create a folder called saves, where you have download the program (for best results, move it out of downloads).</h2>
+<img src="savesfolder.png">
+<h2>3. Select the languages you want to learn and download them.</h2>
+
+<h3>Select the language which you speak</h2>
+<select id="languageSelect">
+    <option value="">-- Choose a language --</option>
+</select>
+
+<h3>Available languages to learn:</h3>
+<ul id="availableLanguages"></ul>
+
+<script>
+const languages = ["English", "French", "German", "Italian", "Spanish", "Portuguese", "Russian", "Danish",
+                   "Greek", "Esperanto", "Finnish", "Hungarian", "Korean", "Lithuanian", "Macedonian", "Dutch",
+                   "Polish", "Romanian", "Serbian", "Swedish", "Tagalog", "Turkish", "Ukrainian"];
+
+const languagesAbbreviations = ["en", "fr", "de", "it", "es", "pt", "ru", "da", 
+                                "el", "eo", "fi", "hu", "ko", "lt", "mk", "nl", 
+                                "pl", "ro", "sr", "sv", "tl", "tr", "uk"];
+
+const files = ['da-de', 'da-en', 'da-eo', 'da-es', 'da-fi', 'da-ru', 'de-da', 'de-en', 'de-eo', 
+               'de-es', 'de-fr', 'de-hu', 'de-it', 'de-nl', 'de-pt', 'de-ru', 'de-tr', 'de-uk', 
+               'el-de', 'el-en', 'el-nl', 'el-pt', 'el-ru', 'en-da', 'en-de', 'en-el', 'en-eo', 
+               'en-es', 'en-fi', 'en-fr', 'en-hu', 'en-it', 'en-ko', 'en-mk', 'en-nl', 'en-pl', 
+               'en-pt', 'en-ro', 'en-ru', 'en-sr', 'en-sv', 'en-tl', 'en-tr', 'en-uk', 'eo-da', 
+               'eo-de', 'eo-en', 'eo-es', 'eo-fr', 'eo-hu', 'eo-it', 'eo-lt', 'eo-nl', 'eo-pl', 
+               'eo-pt', 'eo-ro', 'eo-ru', 'eo-sr', 'eo-tl', 'eo-tr', 'eo-uk', 'es-da', 'es-de', 
+               'es-en', 'es-eo', 'es-fi', 'es-fr', 'es-hu', 'es-it', 'es-nl', 'es-pl', 'es-pt', 
+               'es-ru', 'es-tl', 'es-tr', 'es-uk', 'fi-da', 'fi-de', 'fi-en', 'fi-eo', 'fi-es', 
+               'fi-ru', 'fi-sv', 'fr-de', 'fr-en', 'fr-eo', 'fr-es', 'fr-hu', 'fr-it', 'fr-nl', 
+               'fr-pt', 'fr-ru', 'fr-tr', 'fr-uk', 'hu-de', 'hu-en', 'hu-eo', 'hu-es', 'hu-fr', 
+               'hu-it', 'hu-pt', 'hu-ru', 'hu-sv', 'it-de', 'it-en', 'it-eo', 'it-es', 'it-fr', 
+               'it-nl', 'it-pt', 'it-ru', 'it-uk', 'ko-de', 'ko-en', 'lt-en', 'lt-eo', 'lt-ru', 
+               'mk-en', 'nl-de', 'nl-el', 'nl-en', 'nl-eo', 'nl-es', 'nl-fr', 'nl-it', 'nl-pt', 
+               'nl-ru', 'nl-uk', 'pl-de', 'pl-en', 'pl-eo', 'pl-es', 'pl-fr', 'pl-ru', 'pl-uk', 
+               'pt-de', 'pt-el', 'pt-en', 'pt-eo', 'pt-es', 'pt-fr', 'pt-it', 'pt-nl', 'pt-ro', 
+               'pt-ru', 'ro-en', 'ro-eo', 'ro-pt', 'ru-da', 'ru-de', 'ru-el', 'ru-en', 'ru-eo', 
+               'ru-es', 'ru-fi', 'ru-fr', 'ru-hu', 'ru-it', 'ru-lt', 'ru-nl', 'ru-pl', 'ru-pt', 
+               'ru-sr', 'ru-tr', 'ru-uk', 'sr-en', 'sr-ru', 'sv-de', 'sv-en', 'sv-fi', 'tl-en', 
+               'tr-de', 'tr-en', 'tr-eo', 'tr-es', 'tr-fr', 'tr-it', 'tr-nl', 'tr-ro', 'tr-ru', 
+               'tr-uk', 'uk-de', 'uk-en', 'uk-eo', 'uk-es', 'uk-fr', 'uk-it', 'uk-nl', 'uk-pl', 'uk-ru'];
+
+// Populate language dropdown
+const languageSelect = document.getElementById('languageSelect');
+languages.forEach((lang, i) => {
+    const option = document.createElement('option');
+    option.value = languagesAbbreviations[i];
+    option.textContent = lang;
+    languageSelect.appendChild(option);
+});
+
+languageSelect.addEventListener('change', () => {
+    const knownLang = languageSelect.value;
+
+    const available = files
+        .filter(f => f.split('-')[1] === knownLang)
+        .map(f => f.split('-')[0])
+        .filter((v, i, a) => a.indexOf(v) === i);
+
+    const ul = document.getElementById('availableLanguages');
+    ul.innerHTML = '';
+    available.forEach(code => {
+        const index = languagesAbbreviations.indexOf(code);
+        const name = index !== -1 ? languages[index] : code;
+
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = `https://raw.githubusercontent.com/ADDSamuels/FreeCloze/refs/heads/main/saves/${code}-${knownLang}.txt`;
+        a.download = `${code}-${knownLang}.txt`; // forces download
+        a.textContent = `Learn ${name}`;
+        li.appendChild(a);
+        ul.appendChild(li);
+    });
+});
+</script>
+<h2>4. Move the saves to the saves folder and start the program.</h2>
+<img src="movesaves.png">
+</body>
+</html>
